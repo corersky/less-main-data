@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-17 10:01 ansible-role-install-convoy-master/
+-rw-rw-r-- root/root       327 2017-08-17 10:01 ansible-role-install-convoy-master/README.md
+drwxrwxr-x root/root         0 2017-08-17 10:01 ansible-role-install-convoy-master/defaults/
+-rw-rw-r-- root/root        91 2017-08-17 10:01 ansible-role-install-convoy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-17 10:01 ansible-role-install-convoy-master/handlers/
+-rw-rw-r-- root/root        56 2017-08-17 10:01 ansible-role-install-convoy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-17 10:01 ansible-role-install-convoy-master/meta/
+-rw-rw-r-- root/root      2615 2017-08-17 10:01 ansible-role-install-convoy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-17 10:01 ansible-role-install-convoy-master/tasks/
+-rw-rw-r-- root/root      1186 2017-08-17 10:01 ansible-role-install-convoy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-17 10:01 ansible-role-install-convoy-master/tests/
+-rw-rw-r-- root/root         9 2017-08-17 10:01 ansible-role-install-convoy-master/tests/inventory
+-rw-rw-r-- root/root        48 2017-08-17 10:01 ansible-role-install-convoy-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-08-17 10:01 ansible-role-install-convoy-master/vars/
+-rw-rw-r-- root/root        52 2017-08-17 10:01 ansible-role-install-convoy-master/vars/main.yml

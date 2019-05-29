@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-12 01:16 ansible-role-platinumsearcher-master/
+-rw-rw-r-- root/root       715 2016-04-12 01:16 ansible-role-platinumsearcher-master/.travis.yml
+-rw-rw-r-- root/root       464 2016-04-12 01:16 ansible-role-platinumsearcher-master/README.md
+drwxrwxr-x root/root         0 2016-04-12 01:16 ansible-role-platinumsearcher-master/meta/
+-rw-rw-r-- root/root       269 2016-04-12 01:16 ansible-role-platinumsearcher-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-12 01:16 ansible-role-platinumsearcher-master/tasks/
+-rw-rw-r-- root/root       570 2016-04-12 01:16 ansible-role-platinumsearcher-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-12 01:16 ansible-role-platinumsearcher-master/tests/
+-rw-rw-r-- root/root       685 2016-04-12 01:16 ansible-role-platinumsearcher-master/tests/Rakefile
+-rw-rw-r-- root/root        10 2016-04-12 01:16 ansible-role-platinumsearcher-master/tests/inventory
+drwxrwxr-x root/root         0 2016-04-12 01:16 ansible-role-platinumsearcher-master/tests/spec/
+drwxrwxr-x root/root         0 2016-04-12 01:16 ansible-role-platinumsearcher-master/tests/spec/localhost/
+-rw-rw-r-- root/root       193 2016-04-12 01:16 ansible-role-platinumsearcher-master/tests/spec/localhost/test_spec.rb
+-rw-rw-r-- root/root        42 2016-04-12 01:16 ansible-role-platinumsearcher-master/tests/spec/spec_helper.rb
+-rw-rw-r-- root/root        79 2016-04-12 01:16 ansible-role-platinumsearcher-master/tests/test.yml
+-rw-rw-r-- root/root       720 2016-04-12 01:16 ansible-role-platinumsearcher-master/wercker.yml

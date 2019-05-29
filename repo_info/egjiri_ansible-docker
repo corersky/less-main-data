@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-05 11:25 ansible-docker-master/
+-rw-rw-r-- root/root       541 2018-11-05 11:25 ansible-docker-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-11-05 11:25 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2018-11-05 11:25 ansible-docker-master/defaults/
+-rw-rw-r-- root/root        86 2018-11-05 11:25 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-05 11:25 ansible-docker-master/files/
+-rw-rw-r-- root/root      3817 2018-11-05 11:25 ansible-docker-master/files/docker-apt-key
+drwxrwxr-x root/root         0 2018-11-05 11:25 ansible-docker-master/meta/
+-rw-rw-r-- root/root       262 2018-11-05 11:25 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-05 11:25 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       642 2018-11-05 11:25 ansible-docker-master/tasks/docker-compose.yml
+-rw-rw-r-- root/root      1512 2018-11-05 11:25 ansible-docker-master/tasks/docker.yml
+-rw-rw-r-- root/root        66 2018-11-05 11:25 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-05 11:25 ansible-docker-master/tests/
+-rw-rw-r-- root/root         9 2018-11-05 11:25 ansible-docker-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-11-05 11:25 ansible-docker-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-26 17:04 ansible-ipmi_booted-master/
+-rw-rw-r-- root/root      1104 2018-06-26 17:04 ansible-ipmi_booted-master/README.md
+drwxrwxr-x root/root         0 2018-06-26 17:04 ansible-ipmi_booted-master/defaults/
+-rw-rw-r-- root/root        43 2018-06-26 17:04 ansible-ipmi_booted-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-26 17:04 ansible-ipmi_booted-master/handlers/
+-rw-rw-r-- root/root        43 2018-06-26 17:04 ansible-ipmi_booted-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-26 17:04 ansible-ipmi_booted-master/meta/
+-rw-rw-r-- root/root       260 2018-06-26 17:04 ansible-ipmi_booted-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-26 17:04 ansible-ipmi_booted-master/tasks/
+-rw-rw-r-- root/root       543 2018-06-26 17:04 ansible-ipmi_booted-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-26 17:04 ansible-ipmi_booted-master/tests/
+-rw-rw-r-- root/root        11 2018-06-26 17:04 ansible-ipmi_booted-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-06-26 17:04 ansible-ipmi_booted-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-26 17:04 ansible-ipmi_booted-master/vars/
+-rw-rw-r-- root/root        39 2018-06-26 17:04 ansible-ipmi_booted-master/vars/main.yml

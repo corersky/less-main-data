@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-10 04:26 saltcall-master/
+-rwxrwxr-x root/root       277 2017-04-10 04:26 saltcall-master/.gitignore
+-rw-rw-r-- root/root      2465 2017-04-10 04:26 saltcall-master/.travis.yml
+-rwxrwxr-x root/root      1537 2017-04-10 04:26 saltcall-master/LICENSE.txt
+-rw-rw-r-- root/root        36 2017-04-10 04:26 saltcall-master/README.md
+drwxrwxr-x root/root         0 2017-04-10 04:26 saltcall-master/hacking/
+-rwxrwxr-x root/root       692 2017-04-10 04:26 saltcall-master/hacking/gen_ansible_saltcaller.py
+-rwxrwxr-x root/root     17111 2017-04-10 04:26 saltcall-master/hacking/saltcaller.py
+drwxrwxr-x root/root         0 2017-04-10 04:26 saltcall-master/library/
+-rwxrwxr-x root/root     26254 2017-04-10 04:26 saltcall-master/library/saltcall.py
+-rw-rw-r-- root/root      3234 2017-04-10 04:26 saltcall-master/library/saltcall.py.in
+drwxrwxr-x root/root         0 2017-04-10 04:26 saltcall-master/meta/
+-rw-rw-r-- root/root       513 2017-04-10 04:26 saltcall-master/meta/main.yml
+-rw-rw-r-- root/root       175 2017-04-10 04:26 saltcall-master/test.yml

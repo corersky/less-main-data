@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-09-25 00:33 ansible-docker_machine-master/
+-rw-rw-r-- root/root       539 2016-09-25 00:33 ansible-docker_machine-master/.travis.yml
+-rw-rw-r-- root/root      1062 2016-09-25 00:33 ansible-docker_machine-master/LICENSE
+-rw-rw-r-- root/root      4054 2016-09-25 00:33 ansible-docker_machine-master/README.md
+drwxrwxr-x root/root         0 2016-09-25 00:33 ansible-docker_machine-master/defaults/
+-rw-rw-r-- root/root      1992 2016-09-25 00:33 ansible-docker_machine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-25 00:33 ansible-docker_machine-master/meta/
+-rw-rw-r-- root/root       296 2016-09-25 00:33 ansible-docker_machine-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-25 00:33 ansible-docker_machine-master/tasks/
+-rw-rw-r-- root/root       676 2016-09-25 00:33 ansible-docker_machine-master/tasks/docker_machine_check.yml
+-rw-rw-r-- root/root      1195 2016-09-25 00:33 ansible-docker_machine-master/tasks/docker_machine_create.yml
+-rw-rw-r-- root/root       553 2016-09-25 00:33 ansible-docker_machine-master/tasks/docker_machine_manage_config.yml
+-rw-rw-r-- root/root       295 2016-09-25 00:33 ansible-docker_machine-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-25 00:33 ansible-docker_machine-master/tests/
+-rw-rw-r-- root/root         9 2016-09-25 00:33 ansible-docker_machine-master/tests/inventory
+-rw-rw-r-- root/root        80 2016-09-25 00:33 ansible-docker_machine-master/tests/test.yml

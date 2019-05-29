@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-07-24 11:58 certbot-ssl-master/
+-rw-rw-r-- root/root       969 2017-07-24 11:58 certbot-ssl-master/.travis.yml
+-rw-rw-r-- root/root       737 2017-07-24 11:58 certbot-ssl-master/README.md
+-rw-rw-r-- root/root       230 2017-07-24 11:58 certbot-ssl-master/circle.yml
+drwxrwxr-x root/root         0 2017-07-24 11:58 certbot-ssl-master/docker/
+-rw-rw-r-- root/root       190 2017-07-24 11:58 certbot-ssl-master/docker/Dockerfile-amazone
+-rw-rw-r-- root/root       236 2017-07-24 11:58 certbot-ssl-master/docker/Dockerfile-centos
+-rw-rw-r-- root/root       104 2017-07-24 11:58 certbot-ssl-master/docker/hosts
+-rw-rw-r-- root/root        57 2017-07-24 11:58 certbot-ssl-master/main.yml
+drwxrwxr-x root/root         0 2017-07-24 11:58 certbot-ssl-master/meta/
+-rw-rw-r-- root/root       244 2017-07-24 11:58 certbot-ssl-master/meta/main.yml
+-rw-rw-r-- root/root       558 2017-07-24 11:58 certbot-ssl-master/shippable.yml
+drwxrwxr-x root/root         0 2017-07-24 11:58 certbot-ssl-master/tasks/
+-rw-rw-r-- root/root       588 2017-07-24 11:58 certbot-ssl-master/tasks/main.yml

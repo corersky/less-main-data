@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-haskell-master/
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-haskell-master/defaults/
+-rw-rw-r-- root/root         4 2019-05-08 06:17 ansible-role-dev-haskell-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-haskell-master/meta/
+-rw-rw-r-- root/root       409 2019-05-08 06:17 ansible-role-dev-haskell-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-haskell-master/tasks/
+-rw-rw-r-- root/root       140 2019-05-08 06:17 ansible-role-dev-haskell-master/tasks/main.yml
+-rw-rw-r-- root/root       274 2019-05-08 06:17 ansible-role-dev-haskell-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-haskell-master/vars/
+-rw-rw-r-- root/root       161 2019-05-08 06:17 ansible-role-dev-haskell-master/vars/Debian-Buster.yml

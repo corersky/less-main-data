@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-10-09 15:03 ansible-telegraf-master/
+-rw-rw-r-- root/root       602 2016-10-09 15:03 ansible-telegraf-master/README.md
+drwxrwxr-x root/root         0 2016-10-09 15:03 ansible-telegraf-master/defaults/
+-rw-rw-r-- root/root       158 2016-10-09 15:03 ansible-telegraf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-09 15:03 ansible-telegraf-master/handlers/
+-rw-rw-r-- root/root        97 2016-10-09 15:03 ansible-telegraf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-09 15:03 ansible-telegraf-master/meta/
+-rw-rw-r-- root/root       318 2016-10-09 15:03 ansible-telegraf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-09 15:03 ansible-telegraf-master/tasks/
+-rw-rw-r-- root/root       588 2016-10-09 15:03 ansible-telegraf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-09 15:03 ansible-telegraf-master/templates/
+-rw-rw-r-- root/root      2040 2016-10-09 15:03 ansible-telegraf-master/templates/telegraf.conf.j2

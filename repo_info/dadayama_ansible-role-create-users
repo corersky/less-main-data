@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-11-19 20:46 ansible-role-create-users-master/
+-rw-rw-r-- root/root        20 2016-11-19 20:46 ansible-role-create-users-master/.gitignore
+-rw-rw-r-- root/root      2048 2016-11-19 20:46 ansible-role-create-users-master/README.md
+drwxrwxr-x root/root         0 2016-11-19 20:46 ansible-role-create-users-master/defaults/
+-rw-rw-r-- root/root        62 2016-11-19 20:46 ansible-role-create-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-19 20:46 ansible-role-create-users-master/files/
+drwxrwxr-x root/root         0 2016-11-19 20:46 ansible-role-create-users-master/files/public_keys/
+-rw-rw-r-- root/root         0 2016-11-19 20:46 ansible-role-create-users-master/files/public_keys/.gitkeep
+-rw-rw-r-- root/root        10 2016-11-19 20:46 ansible-role-create-users-master/hosts
+drwxrwxr-x root/root         0 2016-11-19 20:46 ansible-role-create-users-master/meta/
+-rw-rw-r-- root/root       217 2016-11-19 20:46 ansible-role-create-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-19 20:46 ansible-role-create-users-master/tasks/
+-rw-rw-r-- root/root      1015 2016-11-19 20:46 ansible-role-create-users-master/tasks/create-users.yml
+-rw-rw-r-- root/root        59 2016-11-19 20:46 ansible-role-create-users-master/tasks/main.yml
+-rw-rw-r-- root/root       147 2016-11-19 20:46 ansible-role-create-users-master/test.yml
+-rw-rw-r-- root/root      1276 2016-11-19 20:46 ansible-role-create-users-master/wercker.yml

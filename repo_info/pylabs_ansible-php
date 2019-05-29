@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-14 13:34 ansible-php-master/
+-rw-rw-r-- root/root       539 2018-11-14 13:34 ansible-php-master/.travis.yml
+-rw-rw-r-- root/root       246 2018-11-14 13:34 ansible-php-master/README.md
+drwxrwxr-x root/root         0 2018-11-14 13:34 ansible-php-master/defaults/
+-rw-rw-r-- root/root        28 2018-11-14 13:34 ansible-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:34 ansible-php-master/handlers/
+-rw-rw-r-- root/root        28 2018-11-14 13:34 ansible-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:34 ansible-php-master/meta/
+-rw-rw-r-- root/root       286 2018-11-14 13:34 ansible-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:34 ansible-php-master/tasks/
+-rw-rw-r-- root/root       331 2018-11-14 13:34 ansible-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:34 ansible-php-master/tests/
+-rw-rw-r-- root/root         9 2018-11-14 13:34 ansible-php-master/tests/inventory
+-rw-rw-r-- root/root        61 2018-11-14 13:34 ansible-php-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-14 13:34 ansible-php-master/vars/
+-rw-rw-r-- root/root        24 2018-11-14 13:34 ansible-php-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-12-07 05:38 ansible-role-octave-master/
+-rw-rw-r-- root/root      1244 2016-12-07 05:38 ansible-role-octave-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-12-07 05:38 ansible-role-octave-master/LICENSE
+-rw-rw-r-- root/root       796 2016-12-07 05:38 ansible-role-octave-master/README.md
+drwxrwxr-x root/root         0 2016-12-07 05:38 ansible-role-octave-master/meta/
+-rw-rw-r-- root/root       295 2016-12-07 05:38 ansible-role-octave-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-07 05:38 ansible-role-octave-master/tasks/
+-rw-rw-r-- root/root       103 2016-12-07 05:38 ansible-role-octave-master/tasks/Debian.yaml
+-rw-rw-r-- root/root       126 2016-12-07 05:38 ansible-role-octave-master/tasks/RedHat.yaml
+-rw-rw-r-- root/root       101 2016-12-07 05:38 ansible-role-octave-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-12-07 05:38 ansible-role-octave-master/tests/
+-rw-rw-r-- root/root        36 2016-12-07 05:38 ansible-role-octave-master/tests/inventory
+-rw-rw-r-- root/root        54 2016-12-07 05:38 ansible-role-octave-master/tests/test.yml

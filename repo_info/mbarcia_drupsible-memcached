@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-09 10:53 drupsible-memcached-master/
+-rw-rw-r-- root/root     35142 2017-04-09 10:53 drupsible-memcached-master/LICENSE
+-rw-rw-r-- root/root       766 2017-04-09 10:53 drupsible-memcached-master/README.md
+drwxrwxr-x root/root         0 2017-04-09 10:53 drupsible-memcached-master/defaults/
+-rw-rw-r-- root/root      1246 2017-04-09 10:53 drupsible-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-09 10:53 drupsible-memcached-master/files/
+-rw-rw-r-- root/root        39 2017-04-09 10:53 drupsible-memcached-master/files/memcached-init.sh
+drwxrwxr-x root/root         0 2017-04-09 10:53 drupsible-memcached-master/handlers/
+-rw-rw-r-- root/root       169 2017-04-09 10:53 drupsible-memcached-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-09 10:53 drupsible-memcached-master/meta/
+-rw-rw-r-- root/root       330 2017-04-09 10:53 drupsible-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-09 10:53 drupsible-memcached-master/tasks/
+-rw-rw-r-- root/root      1283 2017-04-09 10:53 drupsible-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-09 10:53 drupsible-memcached-master/templates/
+-rw-rw-r-- root/root      1576 2017-04-09 10:53 drupsible-memcached-master/templates/memcached.conf.j2
+drwxrwxr-x root/root         0 2017-04-09 10:53 drupsible-memcached-master/vars/
+-rw-rw-r-- root/root       482 2017-04-09 10:53 drupsible-memcached-master/vars/main.yml

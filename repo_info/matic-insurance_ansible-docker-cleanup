@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-12 08:45 ansible-docker-cleanup-master/
+-rw-rw-r-- root/root       660 2018-12-12 08:45 ansible-docker-cleanup-master/.travis.yml
+-rw-rw-r-- root/root      1072 2018-12-12 08:45 ansible-docker-cleanup-master/LICENSE
+-rw-rw-r-- root/root      1105 2018-12-12 08:45 ansible-docker-cleanup-master/README.md
+drwxrwxr-x root/root         0 2018-12-12 08:45 ansible-docker-cleanup-master/defaults/
+-rw-rw-r-- root/root        61 2018-12-12 08:45 ansible-docker-cleanup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-12 08:45 ansible-docker-cleanup-master/handlers/
+-rw-rw-r-- root/root        46 2018-12-12 08:45 ansible-docker-cleanup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-12 08:45 ansible-docker-cleanup-master/meta/
+-rw-rw-r-- root/root      1674 2018-12-12 08:45 ansible-docker-cleanup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-12 08:45 ansible-docker-cleanup-master/tasks/
+-rw-rw-r-- root/root       183 2018-12-12 08:45 ansible-docker-cleanup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-12 08:45 ansible-docker-cleanup-master/tests/
+-rw-rw-r-- root/root        11 2018-12-12 08:45 ansible-docker-cleanup-master/tests/inventory
+-rw-rw-r-- root/root       170 2018-12-12 08:45 ansible-docker-cleanup-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-12 08:45 ansible-docker-cleanup-master/vars/
+-rw-rw-r-- root/root        42 2018-12-12 08:45 ansible-docker-cleanup-master/vars/main.yml

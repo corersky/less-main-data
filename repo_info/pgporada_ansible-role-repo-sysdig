@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-05-16 00:01 ansible-role-repo-sysdig-master/
+-rw-rw-r-- root/root       592 2017-05-16 00:01 ansible-role-repo-sysdig-master/.yamllint
+-rw-rw-r-- root/root       645 2017-05-16 00:01 ansible-role-repo-sysdig-master/README.md
+-rw-rw-r-- root/root       803 2017-05-16 00:01 ansible-role-repo-sysdig-master/Vagrantfile
+drwxrwxr-x root/root         0 2017-05-16 00:01 ansible-role-repo-sysdig-master/meta/
+-rw-rw-r-- root/root       334 2017-05-16 00:01 ansible-role-repo-sysdig-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-16 00:01 ansible-role-repo-sysdig-master/tasks/
+-rw-rw-r-- root/root       324 2017-05-16 00:01 ansible-role-repo-sysdig-master/tasks/install_RedHat.yml
+-rw-rw-r-- root/root        93 2017-05-16 00:01 ansible-role-repo-sysdig-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-16 00:01 ansible-role-repo-sysdig-master/templates/
+-rw-rw-r-- root/root       196 2017-05-16 00:01 ansible-role-repo-sysdig-master/templates/sysdig.repo.j2

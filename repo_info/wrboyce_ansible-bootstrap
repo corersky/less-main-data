@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-10-07 20:15 ansible-bootstrap-master/
+-rw-rw-r-- root/root       539 2016-10-07 20:15 ansible-bootstrap-master/.travis.yml
+-rw-rw-r-- root/root       504 2016-10-07 20:15 ansible-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2016-10-07 20:15 ansible-bootstrap-master/defaults/
+-rw-rw-r-- root/root        28 2016-10-07 20:15 ansible-bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-07 20:15 ansible-bootstrap-master/meta/
+-rw-rw-r-- root/root       281 2016-10-07 20:15 ansible-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-07 20:15 ansible-bootstrap-master/tasks/
+-rw-rw-r-- root/root      1045 2016-10-07 20:15 ansible-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-07 20:15 ansible-bootstrap-master/templates/
+-rw-rw-r-- root/root       183 2016-10-07 20:15 ansible-bootstrap-master/templates/update-issue.j2
+drwxrwxr-x root/root         0 2016-10-07 20:15 ansible-bootstrap-master/tests/
+-rw-rw-r-- root/root         9 2016-10-07 20:15 ansible-bootstrap-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-10-07 20:15 ansible-bootstrap-master/tests/test.yml

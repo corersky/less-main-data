@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-atop-master/
+-rw-rw-r-- root/root     35147 2019-01-10 17:23 ansible-atop-master/LICENSE.txt
+-rw-rw-r-- root/root      2040 2019-01-10 17:23 ansible-atop-master/README.md
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-atop-master/files/
+-rwxrwxr-x root/root       362 2019-01-10 17:23 ansible-atop-master/files/atop-pm.sh
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-atop-master/meta/
+-rw-rw-r-- root/root       406 2019-01-10 17:23 ansible-atop-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-atop-master/tasks/
+-rw-rw-r-- root/root       527 2019-01-10 17:23 ansible-atop-master/tasks/main-tasks.yml
+-rw-rw-r-- root/root        43 2019-01-10 17:23 ansible-atop-master/tasks/main.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-05 06:04 ansible-role-dotdocker-master/
+-rw-rw-r-- root/root      1071 2019-04-05 06:04 ansible-role-dotdocker-master/LICENSE
+-rw-rw-r-- root/root      1077 2019-04-05 06:04 ansible-role-dotdocker-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 06:04 ansible-role-dotdocker-master/defaults/
+-rw-rw-r-- root/root        64 2019-04-05 06:04 ansible-role-dotdocker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-05 06:04 ansible-role-dotdocker-master/meta/
+-rw-rw-r-- root/root       348 2019-04-05 06:04 ansible-role-dotdocker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 06:04 ansible-role-dotdocker-master/tasks/
+-rw-rw-r-- root/root      1260 2019-04-05 06:04 ansible-role-dotdocker-master/tasks/main.yml
+-rw-rw-r-- root/root       860 2019-04-05 06:04 ansible-role-dotdocker-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root      1498 2019-04-05 06:04 ansible-role-dotdocker-master/tasks/setup-MacOSX.yml

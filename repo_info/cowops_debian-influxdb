@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-25 10:07 debian-influxdb-master/
+-rw-rw-r-- root/root       642 2019-04-25 10:07 debian-influxdb-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 10:07 debian-influxdb-master/defaults/
+-rw-rw-r-- root/root        69 2019-04-25 10:07 debian-influxdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 10:07 debian-influxdb-master/handlers/
+-rw-rw-r-- root/root       170 2019-04-25 10:07 debian-influxdb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-25 10:07 debian-influxdb-master/meta/
+-rw-rw-r-- root/root       297 2019-04-25 10:07 debian-influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 10:07 debian-influxdb-master/tasks/
+-rw-rw-r-- root/root       670 2019-04-25 10:07 debian-influxdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-25 10:07 debian-influxdb-master/templates/
+-rw-rw-r-- root/root     14277 2019-04-25 10:07 debian-influxdb-master/templates/influxdb.conf.j2

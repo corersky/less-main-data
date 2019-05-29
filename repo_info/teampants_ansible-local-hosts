@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-03 10:12 ansible-local-hosts-master/
+-rw-rw-r-- root/root         7 2016-03-03 10:12 ansible-local-hosts-master/.gitignore
+-rw-rw-r-- root/root       682 2016-03-03 10:12 ansible-local-hosts-master/.travis.yml
+-rw-rw-r-- root/root     11358 2016-03-03 10:12 ansible-local-hosts-master/LICENSE
+-rw-rw-r-- root/root       824 2016-03-03 10:12 ansible-local-hosts-master/README.md
+drwxrwxr-x root/root         0 2016-03-03 10:12 ansible-local-hosts-master/defaults/
+-rw-rw-r-- root/root        56 2016-03-03 10:12 ansible-local-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-03 10:12 ansible-local-hosts-master/meta/
+-rw-rw-r-- root/root       177 2016-03-03 10:12 ansible-local-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-03 10:12 ansible-local-hosts-master/tasks/
+-rw-rw-r-- root/root       161 2016-03-03 10:12 ansible-local-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-03 10:12 ansible-local-hosts-master/test/
+-rw-rw-r-- root/root        10 2016-03-03 10:12 ansible-local-hosts-master/test/inventory
+-rw-rw-r-- root/root        78 2016-03-03 10:12 ansible-local-hosts-master/test/test.yml

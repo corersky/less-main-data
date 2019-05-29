@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-05 20:49 ansible-bacula_console-master/
+-rw-rw-r-- root/root         0 2017-03-05 20:49 ansible-bacula_console-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-03-05 20:49 ansible-bacula_console-master/LICENSE
+-rw-rw-r-- root/root      2803 2017-03-05 20:49 ansible-bacula_console-master/README.md
+drwxrwxr-x root/root         0 2017-03-05 20:49 ansible-bacula_console-master/defaults/
+-rw-rw-r-- root/root      1471 2017-03-05 20:49 ansible-bacula_console-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-03-05 20:49 ansible-bacula_console-master/meta/
+-rw-rw-r-- root/root       257 2017-03-05 20:49 ansible-bacula_console-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-05 20:49 ansible-bacula_console-master/tasks/
+-rw-rw-r-- root/root       404 2017-03-05 20:49 ansible-bacula_console-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-03-05 20:49 ansible-bacula_console-master/templates/
+-rw-rw-r-- root/root       212 2017-03-05 20:49 ansible-bacula_console-master/templates/bconsole.conf.j2

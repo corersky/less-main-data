@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/defaults/
+-rw-rw-r-- root/root         4 2019-05-08 13:09 ansible-role-distcc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/meta/
+-rw-rw-r-- root/root       407 2019-05-08 13:09 ansible-role-distcc-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/tasks/
+-rw-rw-r-- root/root       140 2019-05-08 13:09 ansible-role-distcc-master/tasks/main.yml
+-rw-rw-r-- root/root      2306 2019-05-08 13:09 ansible-role-distcc-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/templates/
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/templates/Debian-Buster/
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/templates/Debian-Buster/etc/
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/templates/Debian-Buster/etc/default/
+-rw-rw-r-- root/root        97 2019-05-08 13:09 ansible-role-distcc-master/templates/Debian-Buster/etc/default/distcc.j2
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/templates/Debian-Buster/etc/distcc/
+-rw-rw-r-- root/root       394 2019-05-08 13:09 ansible-role-distcc-master/templates/Debian-Buster/etc/distcc/hosts.j2
+drwxrwxr-x root/root         0 2019-05-08 13:09 ansible-role-distcc-master/vars/
+-rw-rw-r-- root/root       329 2019-05-08 13:09 ansible-role-distcc-master/vars/Debian-Buster.yml

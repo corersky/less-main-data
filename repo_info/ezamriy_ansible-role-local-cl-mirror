@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-04-20 15:55 ansible-role-local-cl-mirror-master/
+-rw-rw-r-- root/root      1070 2017-04-20 15:55 ansible-role-local-cl-mirror-master/LICENSE
+-rw-rw-r-- root/root       830 2017-04-20 15:55 ansible-role-local-cl-mirror-master/README.md
+drwxrwxr-x root/root         0 2017-04-20 15:55 ansible-role-local-cl-mirror-master/defaults/
+-rw-rw-r-- root/root        95 2017-04-20 15:55 ansible-role-local-cl-mirror-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-20 15:55 ansible-role-local-cl-mirror-master/meta/
+-rw-rw-r-- root/root       312 2017-04-20 15:55 ansible-role-local-cl-mirror-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-20 15:55 ansible-role-local-cl-mirror-master/tasks/
+-rw-rw-r-- root/root       994 2017-04-20 15:55 ansible-role-local-cl-mirror-master/tasks/configure_repo.yml
+-rw-rw-r-- root/root       619 2017-04-20 15:55 ansible-role-local-cl-mirror-master/tasks/main.yml

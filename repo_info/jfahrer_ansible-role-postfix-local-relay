@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-28 20:20 ansible-role-postfix-local-relay-master/
+-rw-rw-r-- root/root      1053 2017-05-28 20:20 ansible-role-postfix-local-relay-master/LICENSE
+-rw-rw-r-- root/root       578 2017-05-28 20:20 ansible-role-postfix-local-relay-master/README.md
+drwxrwxr-x root/root         0 2017-05-28 20:20 ansible-role-postfix-local-relay-master/defaults/
+-rw-rw-r-- root/root       109 2017-05-28 20:20 ansible-role-postfix-local-relay-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-28 20:20 ansible-role-postfix-local-relay-master/handlers/
+-rw-rw-r-- root/root       139 2017-05-28 20:20 ansible-role-postfix-local-relay-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-28 20:20 ansible-role-postfix-local-relay-master/meta/
+-rw-rw-r-- root/root       252 2017-05-28 20:20 ansible-role-postfix-local-relay-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-28 20:20 ansible-role-postfix-local-relay-master/tasks/
+-rw-rw-r-- root/root       515 2017-05-28 20:20 ansible-role-postfix-local-relay-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-28 20:20 ansible-role-postfix-local-relay-master/templates/
+-rw-rw-r-- root/root      1052 2017-05-28 20:20 ansible-role-postfix-local-relay-master/templates/main.cf.j2

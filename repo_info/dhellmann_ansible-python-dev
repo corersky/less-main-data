@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-10 14:41 ansible-python-dev-master/
+-rw-rw-r-- root/root      1104 2019-02-10 14:41 ansible-python-dev-master/README.md
+drwxrwxr-x root/root         0 2019-02-10 14:41 ansible-python-dev-master/defaults/
+-rw-rw-r-- root/root       192 2019-02-10 14:41 ansible-python-dev-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-10 14:41 ansible-python-dev-master/handlers/
+-rw-rw-r-- root/root        35 2019-02-10 14:41 ansible-python-dev-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-10 14:41 ansible-python-dev-master/meta/
+-rw-rw-r-- root/root       495 2019-02-10 14:41 ansible-python-dev-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-10 14:41 ansible-python-dev-master/tasks/
+-rw-rw-r-- root/root       125 2019-02-10 14:41 ansible-python-dev-master/tasks/deadsnakes.yml
+-rw-rw-r-- root/root      1989 2019-02-10 14:41 ansible-python-dev-master/tasks/main.yml
+-rw-rw-r-- root/root       285 2019-02-10 14:41 ansible-python-dev-master/tasks/pypy.yml
+drwxrwxr-x root/root         0 2019-02-10 14:41 ansible-python-dev-master/templates/
+-rw-rw-r-- root/root        47 2019-02-10 14:41 ansible-python-dev-master/templates/pip.conf
+drwxrwxr-x root/root         0 2019-02-10 14:41 ansible-python-dev-master/vars/
+-rw-rw-r-- root/root        31 2019-02-10 14:41 ansible-python-dev-master/vars/main.yml

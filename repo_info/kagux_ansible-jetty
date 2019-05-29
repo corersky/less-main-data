@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-05-23 15:58 ansible-jetty-master/
+-rw-rw-r-- root/root        43 2015-05-23 15:58 ansible-jetty-master/README.md
+drwxrwxr-x root/root         0 2015-05-23 15:58 ansible-jetty-master/defaults/
+-rw-rw-r-- root/root       149 2015-05-23 15:58 ansible-jetty-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-23 15:58 ansible-jetty-master/meta/
+-rw-rw-r-- root/root        60 2015-05-23 15:58 ansible-jetty-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       184 2015-05-23 15:58 ansible-jetty-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-23 15:58 ansible-jetty-master/tasks/
+-rw-rw-r-- root/root      1006 2015-05-23 15:58 ansible-jetty-master/tasks/install_jetty.yml
+-rw-rw-r-- root/root       319 2015-05-23 15:58 ansible-jetty-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-23 15:58 ansible-jetty-master/templates/
+-rw-rw-r-- root/root        94 2015-05-23 15:58 ansible-jetty-master/templates/jetty.j2

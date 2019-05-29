@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-25 20:58 ansible-role-docker-ce-master/
+-rw-rw-r-- root/root      1079 2018-06-25 20:58 ansible-role-docker-ce-master/LICENSE
+-rw-rw-r-- root/root       516 2018-06-25 20:58 ansible-role-docker-ce-master/README.md
+drwxrwxr-x root/root         0 2018-06-25 20:58 ansible-role-docker-ce-master/defaults/
+-rw-rw-r-- root/root       170 2018-06-25 20:58 ansible-role-docker-ce-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-25 20:58 ansible-role-docker-ce-master/handlers/
+-rw-rw-r-- root/root       115 2018-06-25 20:58 ansible-role-docker-ce-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-25 20:58 ansible-role-docker-ce-master/meta/
+-rw-rw-r-- root/root       337 2018-06-25 20:58 ansible-role-docker-ce-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-25 20:58 ansible-role-docker-ce-master/tasks/
+-rw-rw-r-- root/root       856 2018-06-25 20:58 ansible-role-docker-ce-master/tasks/Debian.yml
+-rw-rw-r-- root/root        70 2018-06-25 20:58 ansible-role-docker-ce-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-25 20:58 ansible-role-docker-ce-master/tests/
+-rw-rw-r-- root/root        11 2018-06-25 20:58 ansible-role-docker-ce-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-06-25 20:58 ansible-role-docker-ce-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-25 20:58 ansible-role-docker-ce-master/vars/
+-rw-rw-r-- root/root        42 2018-06-25 20:58 ansible-role-docker-ce-master/vars/main.yml

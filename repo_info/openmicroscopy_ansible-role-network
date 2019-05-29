@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-10 10:20 ansible-role-network-master/
+-rw-rw-r-- root/root         4 2018-05-10 10:20 ansible-role-network-master/.gitignore
+-rw-rw-r-- root/root       540 2018-05-10 10:20 ansible-role-network-master/.travis.yml
+-rw-rw-r-- root/root      3302 2018-05-10 10:20 ansible-role-network-master/README.md
+drwxrwxr-x root/root         0 2018-05-10 10:20 ansible-role-network-master/handlers/
+-rw-rw-r-- root/root       119 2018-05-10 10:20 ansible-role-network-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-10 10:20 ansible-role-network-master/meta/
+-rw-rw-r-- root/root       301 2018-05-10 10:20 ansible-role-network-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-10 10:20 ansible-role-network-master/tasks/
+-rw-rw-r-- root/root      1668 2018-05-10 10:20 ansible-role-network-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-10 10:20 ansible-role-network-master/templates/
+-rw-rw-r-- root/root        60 2018-05-10 10:20 ansible-role-network-master/templates/etc-sysconfig-network-scripts-ifcfg-disabled.j2
+-rw-rw-r-- root/root      1679 2018-05-10 10:20 ansible-role-network-master/templates/etc-sysconfig-network-scripts-ifcfg.j2
+drwxrwxr-x root/root         0 2018-05-10 10:20 ansible-role-network-master/tests/
+-rw-rw-r-- root/root        10 2018-05-10 10:20 ansible-role-network-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-05-10 10:20 ansible-role-network-master/tests/test.yml

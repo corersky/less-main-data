@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-21 21:51 ansible-coreos-ipfs-master/
+-rw-rw-r-- root/root       539 2016-08-21 21:51 ansible-coreos-ipfs-master/.travis.yml
+-rw-rw-r-- root/root       337 2016-08-21 21:51 ansible-coreos-ipfs-master/README.md
+drwxrwxr-x root/root         0 2016-08-21 21:51 ansible-coreos-ipfs-master/defaults/
+-rw-rw-r-- root/root       162 2016-08-21 21:51 ansible-coreos-ipfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-21 21:51 ansible-coreos-ipfs-master/meta/
+-rw-rw-r-- root/root       149 2016-08-21 21:51 ansible-coreos-ipfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-21 21:51 ansible-coreos-ipfs-master/tasks/
+-rw-rw-r-- root/root       430 2016-08-21 21:51 ansible-coreos-ipfs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-21 21:51 ansible-coreos-ipfs-master/tests/
+-rw-rw-r-- root/root         9 2016-08-21 21:51 ansible-coreos-ipfs-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-08-21 21:51 ansible-coreos-ipfs-master/tests/test.yml

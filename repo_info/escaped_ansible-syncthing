@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-02 10:41 ansible-syncthing-master/
+-rw-rw-r-- root/root      3226 2017-05-02 10:41 ansible-syncthing-master/README.md
+drwxrwxr-x root/root         0 2017-05-02 10:41 ansible-syncthing-master/defaults/
+-rw-rw-r-- root/root       627 2017-05-02 10:41 ansible-syncthing-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-02 10:41 ansible-syncthing-master/files/
+-rw-rw-r-- root/root       163 2017-05-02 10:41 ansible-syncthing-master/files/syncthing.ufw
+drwxrwxr-x root/root         0 2017-05-02 10:41 ansible-syncthing-master/handlers/
+-rw-rw-r-- root/root       202 2017-05-02 10:41 ansible-syncthing-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-02 10:41 ansible-syncthing-master/meta/
+-rw-rw-r-- root/root       170 2017-05-02 10:41 ansible-syncthing-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-02 10:41 ansible-syncthing-master/tasks/
+-rw-rw-r-- root/root        44 2017-05-02 10:41 ansible-syncthing-master/tasks/main.yml
+-rw-rw-r-- root/root      4561 2017-05-02 10:41 ansible-syncthing-master/tasks/syncthing.yml
+drwxrwxr-x root/root         0 2017-05-02 10:41 ansible-syncthing-master/templates/
+-rw-rw-r-- root/root       301 2017-05-02 10:41 ansible-syncthing-master/templates/supervisor.conf
+-rw-rw-r-- root/root       216 2017-05-02 10:41 ansible-syncthing-master/templates/syncthing.service

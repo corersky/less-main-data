@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/
+-rw-rw-r-- root/root        54 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/.gitignore
+-rw-rw-r-- root/root       539 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/.travis.yml
+-rw-rw-r-- root/root       775 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/README.md
+drwxrwxr-x root/root         0 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/defaults/
+-rw-rw-r-- root/root         5 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/meta/
+-rw-rw-r-- root/root      3879 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/tasks/
+-rw-rw-r-- root/root       813 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/tasks/centos.yml
+-rw-rw-r-- root/root       734 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/tasks/main.yml
+-rw-rw-r-- root/root         5 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/templates/
+-rw-rw-r-- root/root       803 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/templates/bridge.j2
+drwxrwxr-x root/root         0 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/tests/
+-rw-rw-r-- root/root         9 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/tests/inventory
+-rw-rw-r-- root/root        39 2017-05-09 06:42 ansible-galaxy-linux-bridge-master/tests/test.yml

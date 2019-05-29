@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-06-24 13:51 ansible-release-master/
+-rw-rw-r-- root/root        16 2015-06-24 13:51 ansible-release-master/.gitignore
+-rw-rw-r-- root/root       442 2015-06-24 13:51 ansible-release-master/.travis.yml
+-rw-rw-r-- root/root       749 2015-06-24 13:51 ansible-release-master/README.md
+drwxrwxr-x root/root         0 2015-06-24 13:51 ansible-release-master/defaults/
+-rw-rw-r-- root/root       516 2015-06-24 13:51 ansible-release-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-24 13:51 ansible-release-master/meta/
+-rw-rw-r-- root/root       289 2015-06-24 13:51 ansible-release-master/meta/main.yml
+-rw-rw-r-- root/root        99 2015-06-24 13:51 ansible-release-master/rotate.yml
+drwxrwxr-x root/root         0 2015-06-24 13:51 ansible-release-master/tasks/
+-rw-rw-r-- root/root      1053 2015-06-24 13:51 ansible-release-master/tasks/git_deploy.yml
+-rw-rw-r-- root/root         4 2015-06-24 13:51 ansible-release-master/tasks/main.yml
+-rw-rw-r-- root/root       513 2015-06-24 13:51 ansible-release-master/tasks/ssh_rotate.yml
+drwxrwxr-x root/root         0 2015-06-24 13:51 ansible-release-master/tests/
+-rw-rw-r-- root/root        10 2015-06-24 13:51 ansible-release-master/tests/inventory
+-rw-rw-r-- root/root        69 2015-06-24 13:51 ansible-release-master/tests/test.yml

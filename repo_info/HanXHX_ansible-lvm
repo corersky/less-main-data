@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-26 11:00 ansible-lvm-master/
+-rw-rw-r-- root/root        30 2018-09-26 11:00 ansible-lvm-master/.gitignore
+-rw-rw-r-- root/root       405 2018-09-26 11:00 ansible-lvm-master/.travis.yml
+-rw-rw-r-- root/root      1315 2018-09-26 11:00 ansible-lvm-master/LICENSE
+-rw-rw-r-- root/root      2560 2018-09-26 11:00 ansible-lvm-master/README.md
+-rw-rw-r-- root/root      1263 2018-09-26 11:00 ansible-lvm-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-09-26 11:00 ansible-lvm-master/defaults/
+-rw-rw-r-- root/root       179 2018-09-26 11:00 ansible-lvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-26 11:00 ansible-lvm-master/meta/
+-rw-rw-r-- root/root       427 2018-09-26 11:00 ansible-lvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-26 11:00 ansible-lvm-master/tasks/
+-rw-rw-r-- root/root       364 2018-09-26 11:00 ansible-lvm-master/tasks/centos.yml
+-rw-rw-r-- root/root       481 2018-09-26 11:00 ansible-lvm-master/tasks/debian.yml
+-rw-rw-r-- root/root       259 2018-09-26 11:00 ansible-lvm-master/tasks/main.yml
+-rw-rw-r-- root/root      3260 2018-09-26 11:00 ansible-lvm-master/tasks/manage_lvm.yml
+drwxrwxr-x root/root         0 2018-09-26 11:00 ansible-lvm-master/tests/
+-rw-rw-r-- root/root       664 2018-09-26 11:00 ansible-lvm-master/tests/test.yml

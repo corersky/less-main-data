@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-04 07:09 ansible-lldpd-master/
+-rw-rw-r-- root/root       539 2018-12-04 07:09 ansible-lldpd-master/.travis.yml
+-rw-rw-r-- root/root       948 2018-12-04 07:09 ansible-lldpd-master/README.md
+drwxrwxr-x root/root         0 2018-12-04 07:09 ansible-lldpd-master/defaults/
+-rw-rw-r-- root/root       634 2018-12-04 07:09 ansible-lldpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-04 07:09 ansible-lldpd-master/handlers/
+-rw-rw-r-- root/root       172 2018-12-04 07:09 ansible-lldpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-04 07:09 ansible-lldpd-master/meta/
+-rw-rw-r-- root/root      3315 2018-12-04 07:09 ansible-lldpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-04 07:09 ansible-lldpd-master/tasks/
+-rw-rw-r-- root/root      2476 2018-12-04 07:09 ansible-lldpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-04 07:09 ansible-lldpd-master/tests/
+-rw-rw-r-- root/root         9 2018-12-04 07:09 ansible-lldpd-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-12-04 07:09 ansible-lldpd-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-04 07:09 ansible-lldpd-master/vars/
+-rw-rw-r-- root/root        38 2018-12-04 07:09 ansible-lldpd-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-12 06:36 ansible-role-megacli-master/
+-rw-rw-r-- root/root      1328 2016-01-12 06:36 ansible-role-megacli-master/README.md
+drwxrwxr-x root/root         0 2016-01-12 06:36 ansible-role-megacli-master/defaults/
+-rw-rw-r-- root/root       215 2016-01-12 06:36 ansible-role-megacli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-12 06:36 ansible-role-megacli-master/handlers/
+-rw-rw-r-- root/root        43 2016-01-12 06:36 ansible-role-megacli-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-12 06:36 ansible-role-megacli-master/meta/
+-rw-rw-r-- root/root       238 2016-01-12 06:36 ansible-role-megacli-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-12 06:36 ansible-role-megacli-master/tasks/
+-rw-rw-r-- root/root       799 2016-01-12 06:36 ansible-role-megacli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-12 06:36 ansible-role-megacli-master/tests/
+-rw-rw-r-- root/root        10 2016-01-12 06:36 ansible-role-megacli-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-01-12 06:36 ansible-role-megacli-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-01-12 06:36 ansible-role-megacli-master/vars/
+-rw-rw-r-- root/root        39 2016-01-12 06:36 ansible-role-megacli-master/vars/main.yml

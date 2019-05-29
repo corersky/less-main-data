@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-14 15:52 ansible-role-openstack-oslo-master/
+-rw-rw-r-- root/root        64 2017-01-14 15:52 ansible-role-openstack-oslo-master/.gitignore
+-rw-rw-r-- root/root       209 2017-01-14 15:52 ansible-role-openstack-oslo-master/.travis.yml
+-rw-rw-r-- root/root      2501 2017-01-14 15:52 ansible-role-openstack-oslo-master/README.md
+drwxrwxr-x root/root         0 2017-01-14 15:52 ansible-role-openstack-oslo-master/meta/
+-rw-rw-r-- root/root       257 2017-01-14 15:52 ansible-role-openstack-oslo-master/meta/main.yml
+-rw-rw-r-- root/root       272 2017-01-14 15:52 ansible-role-openstack-oslo-master/molecule.yml
+-rw-rw-r-- root/root        15 2017-01-14 15:52 ansible-role-openstack-oslo-master/requirements.txt
+drwxrwxr-x root/root         0 2017-01-14 15:52 ansible-role-openstack-oslo-master/tasks/
+drwxrwxr-x root/root         0 2017-01-14 15:52 ansible-role-openstack-oslo-master/tasks/database/
+-rw-rw-r-- root/root       719 2017-01-14 15:52 ansible-role-openstack-oslo-master/tasks/database/mysql.yml
+-rw-rw-r-- root/root        80 2017-01-14 15:52 ansible-role-openstack-oslo-master/tasks/db.yml
+-rw-rw-r-- root/root         8 2017-01-14 15:52 ansible-role-openstack-oslo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-14 15:52 ansible-role-openstack-oslo-master/tests/
+-rw-rw-r-- root/root        64 2017-01-14 15:52 ansible-role-openstack-oslo-master/tests/test.yml

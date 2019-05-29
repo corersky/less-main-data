@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-11-04 12:17 ansible-letsencrypt-master/
+-rw-rw-r-- root/root       621 2017-11-04 12:17 ansible-letsencrypt-master/.travis.yml
+-rw-rw-r-- root/root     34494 2017-11-04 12:17 ansible-letsencrypt-master/LICENSE
+-rw-rw-r-- root/root      3077 2017-11-04 12:17 ansible-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2017-11-04 12:17 ansible-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       621 2017-11-04 12:17 ansible-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-04 12:17 ansible-letsencrypt-master/meta/
+-rw-rw-r-- root/root       527 2017-11-04 12:17 ansible-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-04 12:17 ansible-letsencrypt-master/tasks/
+-rw-rw-r-- root/root       747 2017-11-04 12:17 ansible-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-04 12:17 ansible-letsencrypt-master/tests/
+-rw-rw-r-- root/root        10 2017-11-04 12:17 ansible-letsencrypt-master/tests/inventory
+-rw-rw-r-- root/root       259 2017-11-04 12:17 ansible-letsencrypt-master/tests/test.yml

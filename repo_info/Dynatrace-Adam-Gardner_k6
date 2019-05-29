@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-07 22:52 k6-master/
+-rw-rw-r-- root/root        49 2018-11-07 22:52 k6-master/README.md
+drwxrwxr-x root/root         0 2018-11-07 22:52 k6-master/defaults/
+-rw-rw-r-- root/root        26 2018-11-07 22:52 k6-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-07 22:52 k6-master/handlers/
+-rw-rw-r-- root/root        26 2018-11-07 22:52 k6-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-07 22:52 k6-master/meta/
+-rw-rw-r-- root/root      1800 2018-11-07 22:52 k6-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-07 22:52 k6-master/tasks/
+-rw-rw-r-- root/root       577 2018-11-07 22:52 k6-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-07 22:52 k6-master/tests/
+-rw-rw-r-- root/root        11 2018-11-07 22:52 k6-master/tests/inventory
+-rw-rw-r-- root/root        60 2018-11-07 22:52 k6-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-07 22:52 k6-master/vars/
+-rw-rw-r-- root/root        22 2018-11-07 22:52 k6-master/vars/main.yml

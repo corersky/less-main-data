@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-22 17:53 ansible-java-oracle-master/
+-rw-rw-r-- root/root       539 2017-03-22 17:53 ansible-java-oracle-master/.travis.yml
+-rw-rw-r-- root/root       730 2017-03-22 17:53 ansible-java-oracle-master/README.md
+drwxrwxr-x root/root         0 2017-03-22 17:53 ansible-java-oracle-master/defaults/
+-rw-rw-r-- root/root       184 2017-03-22 17:53 ansible-java-oracle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-22 17:53 ansible-java-oracle-master/meta/
+-rw-rw-r-- root/root      3952 2017-03-22 17:53 ansible-java-oracle-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-22 17:53 ansible-java-oracle-master/tasks/
+-rw-rw-r-- root/root       352 2017-03-22 17:53 ansible-java-oracle-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-22 17:53 ansible-java-oracle-master/tests/
+-rw-rw-r-- root/root         9 2017-03-22 17:53 ansible-java-oracle-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-03-22 17:53 ansible-java-oracle-master/tests/test.yml

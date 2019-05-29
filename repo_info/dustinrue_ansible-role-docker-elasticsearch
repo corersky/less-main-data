@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/
+-rw-rw-r-- root/root       539 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/.travis.yml
+-rw-rw-r-- root/root       585 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/meta/
+-rw-rw-r-- root/root       347 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/tasks/
+-rw-rw-r-- root/root       192 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/tests/
+-rw-rw-r-- root/root         9 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-03-11 19:39 ansible-role-docker-elasticsearch-master/tests/test.yml

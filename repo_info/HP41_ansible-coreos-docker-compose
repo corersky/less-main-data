@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-27 13:18 ansible-coreos-docker-compose-master/
+-rw-rw-r-- root/root      1108 2017-06-27 13:18 ansible-coreos-docker-compose-master/.travis.yml
+-rw-rw-r-- root/root      1081 2017-06-27 13:18 ansible-coreos-docker-compose-master/LICENSE
+-rw-rw-r-- root/root      1296 2017-06-27 13:18 ansible-coreos-docker-compose-master/README.md
+drwxrwxr-x root/root         0 2017-06-27 13:18 ansible-coreos-docker-compose-master/defaults/
+-rw-rw-r-- root/root       258 2017-06-27 13:18 ansible-coreos-docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-27 13:18 ansible-coreos-docker-compose-master/meta/
+-rw-rw-r-- root/root       281 2017-06-27 13:18 ansible-coreos-docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-27 13:18 ansible-coreos-docker-compose-master/tasks/
+-rw-rw-r-- root/root       405 2017-06-27 13:18 ansible-coreos-docker-compose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-27 13:18 ansible-coreos-docker-compose-master/tests/
+-rw-rw-r-- root/root         9 2017-06-27 13:18 ansible-coreos-docker-compose-master/tests/inventory
+-rw-rw-r-- root/root        88 2017-06-27 13:18 ansible-coreos-docker-compose-master/tests/test-simple-playbook.yml

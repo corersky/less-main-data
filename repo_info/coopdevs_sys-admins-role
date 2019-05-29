@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-02 01:17 sys-admins-role-master/
+-rw-rw-r-- root/root     35147 2019-05-02 01:17 sys-admins-role-master/LICENSE
+-rw-rw-r-- root/root      1334 2019-05-02 01:17 sys-admins-role-master/README.md
+drwxrwxr-x root/root         0 2019-05-02 01:17 sys-admins-role-master/defaults/
+-rw-rw-r-- root/root        34 2019-05-02 01:17 sys-admins-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-02 01:17 sys-admins-role-master/meta/
+-rw-rw-r-- root/root       351 2019-05-02 01:17 sys-admins-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-02 01:17 sys-admins-role-master/tasks/
+-rw-rw-r-- root/root       831 2019-05-02 01:17 sys-admins-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-02 01:17 sys-admins-role-master/templates/
+-rw-rw-r-- root/root        46 2019-05-02 01:17 sys-admins-role-master/templates/sudoers.j2

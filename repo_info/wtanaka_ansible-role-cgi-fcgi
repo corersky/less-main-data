@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-29 06:48 ansible-role-cgi-fcgi-master/
+drwxrwxr-x root/root         0 2019-03-29 06:48 ansible-role-cgi-fcgi-master/.circleci/
+-rw-rw-r-- root/root       685 2019-03-29 06:48 ansible-role-cgi-fcgi-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-03-29 06:48 ansible-role-cgi-fcgi-master/.gitignore
+-rw-rw-r-- root/root      3403 2019-03-29 06:48 ansible-role-cgi-fcgi-master/.travis.yml
+-rw-rw-r-- root/root       700 2019-03-29 06:48 ansible-role-cgi-fcgi-master/README.md
+drwxrwxr-x root/root         0 2019-03-29 06:48 ansible-role-cgi-fcgi-master/meta/
+-rw-rw-r-- root/root      3556 2019-03-29 06:48 ansible-role-cgi-fcgi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-29 06:48 ansible-role-cgi-fcgi-master/tasks/
+-rw-rw-r-- root/root      3170 2019-03-29 06:48 ansible-role-cgi-fcgi-master/tasks/compat.yml
+-rw-rw-r-- root/root       242 2019-03-29 06:48 ansible-role-cgi-fcgi-master/tasks/epel.yml
+-rw-rw-r-- root/root       318 2019-03-29 06:48 ansible-role-cgi-fcgi-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       864 2019-03-29 06:48 ansible-role-cgi-fcgi-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       170 2019-03-29 06:48 ansible-role-cgi-fcgi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-29 06:48 ansible-role-cgi-fcgi-master/vars/
+-rw-rw-r-- root/root        26 2019-03-29 06:48 ansible-role-cgi-fcgi-master/vars/RedHat.yml
+-rw-rw-r-- root/root        34 2019-03-29 06:48 ansible-role-cgi-fcgi-master/vars/default.yml

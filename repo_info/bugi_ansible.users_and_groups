@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-21 09:52 ansible.users_and_groups-master/
+-rw-rw-r-- root/root      1082 2017-03-21 09:52 ansible.users_and_groups-master/LICENSE
+-rw-rw-r-- root/root      2736 2017-03-21 09:52 ansible.users_and_groups-master/README.md
+drwxrwxr-x root/root         0 2017-03-21 09:52 ansible.users_and_groups-master/defaults/
+-rw-rw-r-- root/root       157 2017-03-21 09:52 ansible.users_and_groups-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-21 09:52 ansible.users_and_groups-master/meta/
+-rw-rw-r-- root/root       497 2017-03-21 09:52 ansible.users_and_groups-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-21 09:52 ansible.users_and_groups-master/tasks/
+-rw-rw-r-- root/root      1272 2017-03-21 09:52 ansible.users_and_groups-master/tasks/authorized_keys.yml
+-rw-rw-r-- root/root       413 2017-03-21 09:52 ansible.users_and_groups-master/tasks/group.with.gid.yml
+-rw-rw-r-- root/root       415 2017-03-21 09:52 ansible.users_and_groups-master/tasks/group.without.gid.yml
+-rw-rw-r-- root/root       586 2017-03-21 09:52 ansible.users_and_groups-master/tasks/main.yml
+-rw-rw-r-- root/root       716 2017-03-21 09:52 ansible.users_and_groups-master/tasks/user.removal.yml
+-rw-rw-r-- root/root      2039 2017-03-21 09:52 ansible.users_and_groups-master/tasks/user.with.uid.yml
+-rw-rw-r-- root/root      2037 2017-03-21 09:52 ansible.users_and_groups-master/tasks/user.without.uid.yml

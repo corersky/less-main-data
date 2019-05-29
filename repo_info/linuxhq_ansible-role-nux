@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-20 18:44 ansible-role-nux-master/
+-rw-rw-r-- root/root       331 2019-01-20 18:44 ansible-role-nux-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 18:44 ansible-role-nux-master/COPYING
+-rw-rw-r-- root/root      1912 2019-01-20 18:44 ansible-role-nux-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 18:44 ansible-role-nux-master/defaults/
+-rw-rw-r-- root/root       346 2019-01-20 18:44 ansible-role-nux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:44 ansible-role-nux-master/meta/
+-rw-rw-r-- root/root       257 2019-01-20 18:44 ansible-role-nux-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:44 ansible-role-nux-master/tasks/
+-rw-rw-r-- root/root      1864 2019-01-20 18:44 ansible-role-nux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:44 ansible-role-nux-master/templates/
+-rw-rw-r-- root/root       626 2019-01-20 18:44 ansible-role-nux-master/templates/nux-dextop.repo.j2
+drwxrwxr-x root/root         0 2019-01-20 18:44 ansible-role-nux-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 18:44 ansible-role-nux-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-01-20 18:44 ansible-role-nux-master/tests/test.yml

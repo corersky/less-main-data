@@ -1,0 +1,48 @@
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/
+-rw-rw-r-- root/root        67 2018-04-30 20:28 htpc-ansible-rpi-master/.gitignore
+-rw-rw-r-- root/root       754 2018-04-30 20:28 htpc-ansible-rpi-master/.gitmodules
+-rw-rw-r-- root/root       714 2018-04-30 20:28 htpc-ansible-rpi-master/.travis.yml
+-rw-rw-r-- root/root      8395 2018-04-30 20:28 htpc-ansible-rpi-master/README.md
+-rw-rw-r-- root/root      2321 2018-04-30 20:28 htpc-ansible-rpi-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/custom/
+-rw-rw-r-- root/root        34 2018-04-30 20:28 htpc-ansible-rpi-master/custom/.gitignore
+-rw-rw-r-- root/root      3997 2018-04-30 20:28 htpc-ansible-rpi-master/custom/custom.yml.sample
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/
+-rw-rw-r-- root/root      6941 2018-04-30 20:28 htpc-ansible-rpi-master/docs/Makefile
+-rw-rw-r-- root/root      8655 2018-04-30 20:28 htpc-ansible-rpi-master/docs/conf.py
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/couchpotato.md -> ../roles/GR360RY.couchpotato/README.md
+-rw-rw-r-- root/root       860 2018-04-30 20:28 htpc-ansible-rpi-master/docs/customisation.rst
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/deluge.md -> ../roles/GR360RY.deluge/README.md
+-rw-rw-r-- root/root      1260 2018-04-30 20:28 htpc-ansible-rpi-master/docs/dev_and_test.rst
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/htpc-common.md -> ../roles/GR360RY.htpc-common/README.md
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/htpc-manager.md -> ../roles/GR360RY.htpc-manager/README.md
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/htpc-nas.md -> ../roles/GR360RY.htpc-nas/README.md
+-rw-rw-r-- root/root       153 2018-04-30 20:28 htpc-ansible-rpi-master/docs/index.rst
+-rw-rw-r-- root/root      1568 2018-04-30 20:28 htpc-ansible-rpi-master/docs/intro.rst
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/kodi-client.md -> ../roles/GR360RY.kodi-client/README.md
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/kodi-mysql.md -> ../roles/GR360RY.kodi-mysql/README.md
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/nzbtomedia.md -> ../roles/GR360RY.nzbtomedia/README.md
+-rw-rw-r-- root/root      1458 2018-04-30 20:28 htpc-ansible-rpi-master/docs/quick_install.rst
+-rw-rw-r-- root/root       190 2018-04-30 20:28 htpc-ansible-rpi-master/docs/roles.rst
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/sabnzbd.md -> ../roles/GR360RY.sabnzbd/README.md
+lrwxrwxrwx root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/docs/sickrage.md -> ../roles/GR360RY.sickrage/README.md
+-rw-rw-r-- root/root      1078 2018-04-30 20:28 htpc-ansible-rpi-master/htpc-server.yml
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/inventory/
+-rw-rw-r-- root/root        21 2018-04-30 20:28 htpc-ansible-rpi-master/inventory/server-headless
+-rw-rw-r-- root/root      1001 2018-04-30 20:28 htpc-ansible-rpi-master/requirements.yml
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/roles/
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/roles/denics.htpc-common/
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/roles/denics.htpc-deluge/
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/roles/denics.htpc-kodi/
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/roles/denics.htpc-nas/
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/roles/denics.htpc-nzbtomedia/
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/roles/denics.htpc-sickrage/
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/scripts/
+-rw-rw-r-- root/root      2134 2018-04-30 20:28 htpc-ansible-rpi-master/scripts/questions.yml
+-rwxrwxr-x root/root       719 2018-04-30 20:28 htpc-ansible-rpi-master/scripts/quickinstall.sh
+-rw-rw-r-- root/root        89 2018-04-30 20:28 htpc-ansible-rpi-master/scripts/vagrant_10broken_proxy
+-rw-rw-r-- root/root       485 2018-04-30 20:28 htpc-ansible-rpi-master/scripts/vagrant_apt_select.sh
+-rwxrwxr-x root/root      2262 2018-04-30 20:28 htpc-ansible-rpi-master/scripts/wizard.py
+drwxrwxr-x root/root         0 2018-04-30 20:28 htpc-ansible-rpi-master/tests/
+-rw-rw-r-- root/root         9 2018-04-30 20:28 htpc-ansible-rpi-master/tests/inventory
+-rw-rw-r-- root/root       115 2018-04-30 20:28 htpc-ansible-rpi-master/tests/test.yml

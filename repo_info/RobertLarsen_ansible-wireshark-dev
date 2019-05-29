@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-05 03:28 ansible-wireshark-dev-master/
+-rw-rw-r-- root/root        10 2018-11-05 03:28 ansible-wireshark-dev-master/.gitignore
+-rw-rw-r-- root/root      1328 2018-11-05 03:28 ansible-wireshark-dev-master/README.md
+drwxrwxr-x root/root         0 2018-11-05 03:28 ansible-wireshark-dev-master/meta/
+-rw-rw-r-- root/root       378 2018-11-05 03:28 ansible-wireshark-dev-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-05 03:28 ansible-wireshark-dev-master/tasks/
+-rw-rw-r-- root/root      1749 2018-11-05 03:28 ansible-wireshark-dev-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-05 03:28 ansible-wireshark-dev-master/tests/
+-rw-rw-r-- root/root        11 2018-11-05 03:28 ansible-wireshark-dev-master/tests/inventory
+-rw-rw-r-- root/root        85 2018-11-05 03:28 ansible-wireshark-dev-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-05 03:28 ansible-wireshark-dev-master/vars/
+-rw-rw-r-- root/root       100 2018-11-05 03:28 ansible-wireshark-dev-master/vars/main.yml

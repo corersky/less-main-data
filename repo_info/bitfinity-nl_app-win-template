@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-17 07:18 app-win-template-master/
+-rw-rw-r-- root/root     34520 2018-09-17 07:18 app-win-template-master/LICENSE
+-rw-rw-r-- root/root      1749 2018-09-17 07:18 app-win-template-master/README.md
+drwxrwxr-x root/root         0 2018-09-17 07:18 app-win-template-master/defaults/
+-rw-rw-r-- root/root      1774 2018-09-17 07:18 app-win-template-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-17 07:18 app-win-template-master/meta/
+-rw-rw-r-- root/root       360 2018-09-17 07:18 app-win-template-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-17 07:18 app-win-template-master/tasks/
+-rw-rw-r-- root/root      1024 2018-09-17 07:18 app-win-template-master/tasks/.tas.swp
+-rw-rw-r-- root/root       521 2018-09-17 07:18 app-win-template-master/tasks/32bit-check.yml
+-rw-rw-r-- root/root       593 2018-09-17 07:18 app-win-template-master/tasks/64bit-check.yml
+-rw-rw-r-- root/root       857 2018-09-17 07:18 app-win-template-master/tasks/install.yml
+-rw-rw-r-- root/root       545 2018-09-17 07:18 app-win-template-master/tasks/main.yml
+-rw-rw-r-- root/root       273 2018-09-17 07:18 app-win-template-master/tasks/uninstall.yml

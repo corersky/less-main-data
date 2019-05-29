@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-24 21:45 spinnaker-halyard-master/
+-rw-rw-r-- root/root      1070 2019-01-24 21:45 spinnaker-halyard-master/LICENSE
+-rw-rw-r-- root/root      3421 2019-01-24 21:45 spinnaker-halyard-master/README.md
+drwxrwxr-x root/root         0 2019-01-24 21:45 spinnaker-halyard-master/defaults/
+-rw-rw-r-- root/root      1171 2019-01-24 21:45 spinnaker-halyard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-24 21:45 spinnaker-halyard-master/meta/
+-rw-rw-r-- root/root       217 2019-01-24 21:45 spinnaker-halyard-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-24 21:45 spinnaker-halyard-master/tasks/
+-rw-rw-r-- root/root       728 2019-01-24 21:45 spinnaker-halyard-master/tasks/main.yml
+-rw-rw-r-- root/root      5362 2019-01-24 21:45 spinnaker-halyard-master/tasks/spinnaker-halyard.yml
+drwxrwxr-x root/root         0 2019-01-24 21:45 spinnaker-halyard-master/templates/
+-rw-rw-r-- root/root       722 2019-01-24 21:45 spinnaker-halyard-master/templates/spinnaker.conf.j2
+drwxrwxr-x root/root         0 2019-01-24 21:45 spinnaker-halyard-master/tests/
+-rw-rw-r-- root/root        11 2019-01-24 21:45 spinnaker-halyard-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-01-24 21:45 spinnaker-halyard-master/tests/test.yml

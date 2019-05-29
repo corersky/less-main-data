@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-06-10 13:02 ansible-systemd-conf-master/
+-rw-rw-r-- root/root      1531 2018-06-10 13:02 ansible-systemd-conf-master/LICENSE.mkd
+-rw-rw-r-- root/root      2818 2018-06-10 13:02 ansible-systemd-conf-master/README.md
+drwxrwxr-x root/root         0 2018-06-10 13:02 ansible-systemd-conf-master/defaults/
+-rw-rw-r-- root/root       164 2018-06-10 13:02 ansible-systemd-conf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-10 13:02 ansible-systemd-conf-master/handlers/
+-rw-rw-r-- root/root       139 2018-06-10 13:02 ansible-systemd-conf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-10 13:02 ansible-systemd-conf-master/meta/
+-rw-rw-r-- root/root       405 2018-06-10 13:02 ansible-systemd-conf-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-10 13:02 ansible-systemd-conf-master/tasks/
+-rw-rw-r-- root/root      1437 2018-06-10 13:02 ansible-systemd-conf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-10 13:02 ansible-systemd-conf-master/templates/
+-rw-rw-r-- root/root       389 2018-06-10 13:02 ansible-systemd-conf-master/templates/systemd_conf.j2

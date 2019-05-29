@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-10 10:45 ansible-rabbitmq-config-master/
+-rw-rw-r-- root/root         7 2017-08-10 10:45 ansible-rabbitmq-config-master/.gitignore
+-rw-rw-r-- root/root      1074 2017-08-10 10:45 ansible-rabbitmq-config-master/LICENSE
+-rw-rw-r-- root/root       845 2017-08-10 10:45 ansible-rabbitmq-config-master/README.md
+drwxrwxr-x root/root         0 2017-08-10 10:45 ansible-rabbitmq-config-master/defaults/
+-rw-rw-r-- root/root       364 2017-08-10 10:45 ansible-rabbitmq-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-10 10:45 ansible-rabbitmq-config-master/handlers/
+-rw-rw-r-- root/root       263 2017-08-10 10:45 ansible-rabbitmq-config-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-10 10:45 ansible-rabbitmq-config-master/meta/
+-rw-rw-r-- root/root        60 2017-08-10 10:45 ansible-rabbitmq-config-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       307 2017-08-10 10:45 ansible-rabbitmq-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-10 10:45 ansible-rabbitmq-config-master/tasks/
+-rw-rw-r-- root/root      1689 2017-08-10 10:45 ansible-rabbitmq-config-master/tasks/main.yml

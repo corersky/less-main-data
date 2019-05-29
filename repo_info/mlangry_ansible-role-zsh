@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-08-25 09:17 ansible-role-zsh-master/
+-rw-rw-r-- root/root      1848 2016-08-25 09:17 ansible-role-zsh-master/.travis.yml
+-rw-rw-r-- root/root      1074 2016-08-25 09:17 ansible-role-zsh-master/LICENSE
+-rw-rw-r-- root/root      1104 2016-08-25 09:17 ansible-role-zsh-master/README.md
+drwxrwxr-x root/root         0 2016-08-25 09:17 ansible-role-zsh-master/defaults/
+-rw-rw-r-- root/root       266 2016-08-25 09:17 ansible-role-zsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-25 09:17 ansible-role-zsh-master/meta/
+-rw-rw-r-- root/root       264 2016-08-25 09:17 ansible-role-zsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-25 09:17 ansible-role-zsh-master/tasks/
+-rw-rw-r-- root/root       893 2016-08-25 09:17 ansible-role-zsh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-25 09:17 ansible-role-zsh-master/tests/
+-rw-rw-r-- root/root         9 2016-08-25 09:17 ansible-role-zsh-master/tests/inventory
+-rw-rw-r-- root/root       216 2016-08-25 09:17 ansible-role-zsh-master/tests/test.yml

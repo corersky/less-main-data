@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-24 05:49 ansible-role-openssh-master/
+-rw-rw-r-- root/root       940 2019-03-24 05:49 ansible-role-openssh-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 05:49 ansible-role-openssh-master/handlers/
+-rw-rw-r-- root/root        68 2019-03-24 05:49 ansible-role-openssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:49 ansible-role-openssh-master/meta/
+-rw-rw-r-- root/root       327 2019-03-24 05:49 ansible-role-openssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:49 ansible-role-openssh-master/tasks/
+-rw-rw-r-- root/root       922 2019-03-24 05:49 ansible-role-openssh-master/tasks/configure.yml
+-rw-rw-r-- root/root       231 2019-03-24 05:49 ansible-role-openssh-master/tasks/install.yml
+-rw-rw-r-- root/root       155 2019-03-24 05:49 ansible-role-openssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:49 ansible-role-openssh-master/templates/
+-rw-rw-r-- root/root      3444 2019-03-24 05:49 ansible-role-openssh-master/templates/sshd_config_6.j2
+-rw-rw-r-- root/root      3480 2019-03-24 05:49 ansible-role-openssh-master/templates/sshd_config_7.j2
+-rw-rw-r-- root/root      3519 2019-03-24 05:49 ansible-role-openssh-master/templates/sshd_config_8.j2
+-rw-rw-r-- root/root      4291 2019-03-24 05:49 ansible-role-openssh-master/templates/sshd_config_9.j2

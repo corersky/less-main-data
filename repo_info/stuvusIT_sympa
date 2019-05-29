@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-04 12:37 sympa-master/
+-rw-rw-r-- root/root       867 2019-05-04 12:37 sympa-master/.gitignore
+-rw-rw-r-- root/root     20133 2019-05-04 12:37 sympa-master/LICENSE
+-rw-rw-r-- root/root     52035 2019-05-04 12:37 sympa-master/README.md
+drwxrwxr-x root/root         0 2019-05-04 12:37 sympa-master/defaults/
+-rw-rw-r-- root/root      3007 2019-05-04 12:37 sympa-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-04 12:37 sympa-master/handlers/
+-rw-rw-r-- root/root        74 2019-05-04 12:37 sympa-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-04 12:37 sympa-master/meta/
+-rw-rw-r-- root/root       393 2019-05-04 12:37 sympa-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-04 12:37 sympa-master/tasks/
+-rw-rw-r-- root/root      3385 2019-05-04 12:37 sympa-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-04 12:37 sympa-master/templates/
+-rw-rw-r-- root/root       196 2019-05-04 12:37 sympa-master/templates/auth.conf.j2
+-rw-rw-r-- root/root       763 2019-05-04 12:37 sympa-master/templates/ldap_alias_manager.conf.j2
+-rw-rw-r-- root/root     14199 2019-05-04 12:37 sympa-master/templates/sympa.conf.j2
+-rw-rw-r-- root/root       111 2019-05-04 12:37 sympa-master/templates/topics.conf.j2

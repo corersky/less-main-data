@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2018-07-11 09:14 tuned-master/
+-rw-rw-r-- root/root      1057 2018-07-11 09:14 tuned-master/COPYING
+-rw-rw-r-- root/root       873 2018-07-11 09:14 tuned-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 09:14 tuned-master/defaults/
+-rw-rw-r-- root/root       401 2018-07-11 09:14 tuned-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-11 09:14 tuned-master/handlers/
+-rw-rw-r-- root/root        64 2018-07-11 09:14 tuned-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-11 09:14 tuned-master/meta/
+-rw-rw-r-- root/root       284 2018-07-11 09:14 tuned-master/meta/main.yml
+-rwxrwxr-x root/root       374 2018-07-11 09:14 tuned-master/semaphore
+drwxrwxr-x root/root         0 2018-07-11 09:14 tuned-master/tasks/
+-rw-rw-r-- root/root      1306 2018-07-11 09:14 tuned-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-07-11 09:14 tuned-master/templates/
+-rw-rw-r-- root/root       244 2018-07-11 09:14 tuned-master/templates/tuned-main.conf.j2
+drwxrwxr-x root/root         0 2018-07-11 09:14 tuned-master/tests/
+drwxrwxr-x root/root         0 2018-07-11 09:14 tuned-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-07-11 09:14 tuned-master/tests/roles/tuned -> ../..
+-rw-rw-r-- root/root       616 2018-07-11 09:14 tuned-master/tests/tests_default.yml
+-rw-rw-r-- root/root       746 2018-07-11 09:14 tuned-master/tests/tests_recommended.yml
+-rw-rw-r-- root/root       590 2018-07-11 09:14 tuned-master/tests/tests_set_profile.yml

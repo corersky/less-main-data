@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-03-08 02:34 ansible-docker-master/
+-rw-rw-r-- root/root       995 2017-03-08 02:34 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2017-03-08 02:34 ansible-docker-master/defaults/
+-rw-rw-r-- root/root       813 2017-03-08 02:34 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-08 02:34 ansible-docker-master/meta/
+-rw-rw-r-- root/root       301 2017-03-08 02:34 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-08 02:34 ansible-docker-master/tasks/
+-rw-rw-r-- root/root      3058 2017-03-08 02:34 ansible-docker-master/tasks/install_Ubuntu.yml
+-rw-rw-r-- root/root       288 2017-03-08 02:34 ansible-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       264 2017-03-08 02:34 ansible-docker-master/tasks/postinstall_Linux.yml

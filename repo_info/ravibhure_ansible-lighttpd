@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-03-25 00:13 ansible-lighttpd-master/
+-rw-rw-r-- root/root       693 2014-03-25 00:13 ansible-lighttpd-master/README.md
+drwxrwxr-x root/root         0 2014-03-25 00:13 ansible-lighttpd-master/files/
+-rw-rw-r-- root/root      1649 2014-03-25 00:13 ansible-lighttpd-master/files/RPM-GPG-KEY-EPEL-6
+-rw-rw-r-- root/root       957 2014-03-25 00:13 ansible-lighttpd-master/files/epel.repo
+drwxrwxr-x root/root         0 2014-03-25 00:13 ansible-lighttpd-master/handlers/
+-rw-rw-r-- root/root       119 2014-03-25 00:13 ansible-lighttpd-master/handlers/main.yml
+-rw-rw-r-- root/root        22 2014-03-25 00:13 ansible-lighttpd-master/hosts
+drwxrwxr-x root/root         0 2014-03-25 00:13 ansible-lighttpd-master/meta/
+-rw-rw-r-- root/root       261 2014-03-25 00:13 ansible-lighttpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-03-25 00:13 ansible-lighttpd-master/tasks/
+-rw-rw-r-- root/root       648 2014-03-25 00:13 ansible-lighttpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-03-25 00:13 ansible-lighttpd-master/templates/
+-rw-rw-r-- root/root     11910 2014-03-25 00:13 ansible-lighttpd-master/templates/lighttpd.conf.j2
+-rw-rw-r-- root/root       152 2014-03-25 00:13 ansible-lighttpd-master/test.yml
+drwxrwxr-x root/root         0 2014-03-25 00:13 ansible-lighttpd-master/vars/
+-rw-rw-r-- root/root        62 2014-03-25 00:13 ansible-lighttpd-master/vars/main.yml

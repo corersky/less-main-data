@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-22 10:09 ar_heplify-master/
+-rw-rw-r-- root/root        18 2019-01-22 10:09 ar_heplify-master/.gitignore
+-rw-rw-r-- root/root      1071 2019-01-22 10:09 ar_heplify-master/LICENSE
+-rw-rw-r-- root/root       577 2019-01-22 10:09 ar_heplify-master/README.md
+-rw-rw-r-- root/root       715 2019-01-22 10:09 ar_heplify-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-01-22 10:09 ar_heplify-master/defaults/
+-rw-rw-r-- root/root       270 2019-01-22 10:09 ar_heplify-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-22 10:09 ar_heplify-master/meta/
+-rw-rw-r-- root/root       265 2019-01-22 10:09 ar_heplify-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-22 10:09 ar_heplify-master/tasks/
+-rw-rw-r-- root/root       662 2019-01-22 10:09 ar_heplify-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-22 10:09 ar_heplify-master/templates/
+-rw-rw-r-- root/root       619 2019-01-22 10:09 ar_heplify-master/templates/heplify.service.j2
+drwxrwxr-x root/root         0 2019-01-22 10:09 ar_heplify-master/tests/
+-rw-rw-r-- root/root        43 2019-01-22 10:09 ar_heplify-master/tests/hosts
+-rw-rw-r-- root/root       386 2019-01-22 10:09 ar_heplify-master/tests/main.yml

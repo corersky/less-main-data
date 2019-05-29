@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-05 11:38 ansible-role-vagrant-master/
+-rw-rw-r-- root/root       861 2016-06-05 11:38 ansible-role-vagrant-master/.travis.yml
+-rw-rw-r-- root/root      1074 2016-06-05 11:38 ansible-role-vagrant-master/LICENSE
+-rw-rw-r-- root/root       784 2016-06-05 11:38 ansible-role-vagrant-master/README.md
+drwxrwxr-x root/root         0 2016-06-05 11:38 ansible-role-vagrant-master/defaults/
+-rw-rw-r-- root/root        27 2016-06-05 11:38 ansible-role-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-05 11:38 ansible-role-vagrant-master/meta/
+-rw-rw-r-- root/root       233 2016-06-05 11:38 ansible-role-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-05 11:38 ansible-role-vagrant-master/tasks/
+-rw-rw-r-- root/root       469 2016-06-05 11:38 ansible-role-vagrant-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-05 11:38 ansible-role-vagrant-master/tests/
+-rw-rw-r-- root/root       359 2016-06-05 11:38 ansible-role-vagrant-master/tests/Vagrantfile
+-rw-rw-r-- root/root        35 2016-06-05 11:38 ansible-role-vagrant-master/tests/inventory
+-rw-rw-r-- root/root        59 2016-06-05 11:38 ansible-role-vagrant-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-06-05 11:38 ansible-role-vagrant-master/vars/
+-rw-rw-r-- root/root       421 2016-06-05 11:38 ansible-role-vagrant-master/vars/main.yml

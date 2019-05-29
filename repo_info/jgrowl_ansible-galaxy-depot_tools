@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-09-19 11:57 ansible-galaxy-depot_tools-master/
+-rw-rw-r-- root/root       891 2014-09-19 11:57 ansible-galaxy-depot_tools-master/README.md
+drwxrwxr-x root/root         0 2014-09-19 11:57 ansible-galaxy-depot_tools-master/defaults/
+-rw-rw-r-- root/root        36 2014-09-19 11:57 ansible-galaxy-depot_tools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-19 11:57 ansible-galaxy-depot_tools-master/handlers/
+-rw-rw-r-- root/root        36 2014-09-19 11:57 ansible-galaxy-depot_tools-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-19 11:57 ansible-galaxy-depot_tools-master/meta/
+-rw-rw-r-- root/root      2167 2014-09-19 11:57 ansible-galaxy-depot_tools-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-19 11:57 ansible-galaxy-depot_tools-master/tasks/
+-rw-rw-r-- root/root       774 2014-09-19 11:57 ansible-galaxy-depot_tools-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-19 11:57 ansible-galaxy-depot_tools-master/templates/
+-rw-rw-r-- root/root        65 2014-09-19 11:57 ansible-galaxy-depot_tools-master/templates/depot_tools.sh.j2
+drwxrwxr-x root/root         0 2014-09-19 11:57 ansible-galaxy-depot_tools-master/vars/
+-rw-rw-r-- root/root       220 2014-09-19 11:57 ansible-galaxy-depot_tools-master/vars/main.yml

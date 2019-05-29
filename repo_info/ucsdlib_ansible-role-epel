@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-31 17:11 ansible-role-epel-master/
+-rw-rw-r-- root/root       539 2016-10-31 17:11 ansible-role-epel-master/.travis.yml
+-rw-rw-r-- root/root       533 2016-10-31 17:11 ansible-role-epel-master/README.md
+drwxrwxr-x root/root         0 2016-10-31 17:11 ansible-role-epel-master/meta/
+-rw-rw-r-- root/root       369 2016-10-31 17:11 ansible-role-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-31 17:11 ansible-role-epel-master/tasks/
+-rw-rw-r-- root/root       400 2016-10-31 17:11 ansible-role-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-31 17:11 ansible-role-epel-master/tests/
+-rw-rw-r-- root/root         9 2016-10-31 17:11 ansible-role-epel-master/tests/.gitignore
+-rw-rw-r-- root/root       979 2016-10-31 17:11 ansible-role-epel-master/tests/Vagrantfile
+-rw-rw-r-- root/root        10 2016-10-31 17:11 ansible-role-epel-master/tests/inventory
+-rw-rw-r-- root/root         8 2016-10-31 17:11 ansible-role-epel-master/tests/setup.retry
+-rw-rw-r-- root/root      1045 2016-10-31 17:11 ansible-role-epel-master/tests/setup.yml
+-rw-rw-r-- root/root        76 2016-10-31 17:11 ansible-role-epel-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-31 17:11 ansible-role-epel-master/vars/
+-rw-rw-r-- root/root       162 2016-10-31 17:11 ansible-role-epel-master/vars/main.yml

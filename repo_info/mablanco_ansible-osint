@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-30 06:01 ansible-osint-master/
+-rw-rw-r-- root/root     35141 2019-04-30 06:01 ansible-osint-master/LICENSE
+-rw-rw-r-- root/root       914 2019-04-30 06:01 ansible-osint-master/README.md
+drwxrwxr-x root/root         0 2019-04-30 06:01 ansible-osint-master/defaults/
+-rw-rw-r-- root/root        94 2019-04-30 06:01 ansible-osint-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-30 06:01 ansible-osint-master/handlers/
+-rw-rw-r-- root/root        39 2019-04-30 06:01 ansible-osint-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-30 06:01 ansible-osint-master/meta/
+-rw-rw-r-- root/root       347 2019-04-30 06:01 ansible-osint-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-30 06:01 ansible-osint-master/tasks/
+-rw-rw-r-- root/root       431 2019-04-30 06:01 ansible-osint-master/tasks/datasploit.yml
+-rw-rw-r-- root/root       520 2019-04-30 06:01 ansible-osint-master/tasks/gasmask.yml
+-rw-rw-r-- root/root       261 2019-04-30 06:01 ansible-osint-master/tasks/main.yml
+-rw-rw-r-- root/root       547 2019-04-30 06:01 ansible-osint-master/tasks/the_harvester.yml
+drwxrwxr-x root/root         0 2019-04-30 06:01 ansible-osint-master/vars/
+-rw-rw-r-- root/root        35 2019-04-30 06:01 ansible-osint-master/vars/main.yml

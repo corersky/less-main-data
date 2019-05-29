@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-12-10 02:20 ansible-php5-fpm-master/
+-rw-rw-r-- root/root      1177 2014-12-10 02:20 ansible-php5-fpm-master/README.md
+drwxrwxr-x root/root         0 2014-12-10 02:20 ansible-php5-fpm-master/defaults/
+-rw-rw-r-- root/root       168 2014-12-10 02:20 ansible-php5-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-10 02:20 ansible-php5-fpm-master/handlers/
+-rw-rw-r-- root/root        99 2014-12-10 02:20 ansible-php5-fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-10 02:20 ansible-php5-fpm-master/meta/
+-rw-rw-r-- root/root       260 2014-12-10 02:20 ansible-php5-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-10 02:20 ansible-php5-fpm-master/tasks/
+-rw-rw-r-- root/root       479 2014-12-10 02:20 ansible-php5-fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-10 02:20 ansible-php5-fpm-master/templates/
+-rw-rw-r-- root/root     10628 2014-12-10 02:20 ansible-php5-fpm-master/templates/www.conf.j2
+drwxrwxr-x root/root         0 2014-12-10 02:20 ansible-php5-fpm-master/vars/
+-rw-rw-r-- root/root       113 2014-12-10 02:20 ansible-php5-fpm-master/vars/main.yml

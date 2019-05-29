@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-09-18 04:51 ansible-role-hifiberry-master/
+-rw-rw-r-- root/root       739 2018-09-18 04:51 ansible-role-hifiberry-master/README.md
+drwxrwxr-x root/root         0 2018-09-18 04:51 ansible-role-hifiberry-master/defaults/
+-rw-rw-r-- root/root       180 2018-09-18 04:51 ansible-role-hifiberry-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-18 04:51 ansible-role-hifiberry-master/files/
+-rw-rw-r-- root/root        67 2018-09-18 04:51 ansible-role-hifiberry-master/files/asound.conf
+drwxrwxr-x root/root         0 2018-09-18 04:51 ansible-role-hifiberry-master/handlers/
+-rw-rw-r-- root/root       165 2018-09-18 04:51 ansible-role-hifiberry-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-18 04:51 ansible-role-hifiberry-master/meta/
+-rw-rw-r-- root/root       267 2018-09-18 04:51 ansible-role-hifiberry-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-18 04:51 ansible-role-hifiberry-master/tasks/
+-rw-rw-r-- root/root       482 2018-09-18 04:51 ansible-role-hifiberry-master/tasks/main.yml

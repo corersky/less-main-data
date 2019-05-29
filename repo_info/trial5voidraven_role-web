@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-30 08:38 role-web-master/
+-rw-rw-r-- root/root       539 2016-08-30 08:38 role-web-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-08-30 08:38 role-web-master/README.md
+drwxrwxr-x root/root         0 2016-08-30 08:38 role-web-master/defaults/
+-rw-rw-r-- root/root        28 2016-08-30 08:38 role-web-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-30 08:38 role-web-master/handlers/
+-rw-rw-r-- root/root        28 2016-08-30 08:38 role-web-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-30 08:38 role-web-master/meta/
+-rw-rw-r-- root/root      3526 2016-08-30 08:38 role-web-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-30 08:38 role-web-master/tasks/
+-rw-rw-r-- root/root       103 2016-08-30 08:38 role-web-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-30 08:38 role-web-master/tests/
+-rw-rw-r-- root/root         9 2016-08-30 08:38 role-web-master/tests/inventory
+-rw-rw-r-- root/root        67 2016-08-30 08:38 role-web-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-30 08:38 role-web-master/vars/
+-rw-rw-r-- root/root        24 2016-08-30 08:38 role-web-master/vars/main.yml

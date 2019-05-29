@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-02-27 03:39 ansible-role-nodejs-app-master/
+-rw-rw-r-- root/root        27 2014-02-27 03:39 ansible-role-nodejs-app-master/.gitignore
+-rw-rw-r-- root/root       480 2014-02-27 03:39 ansible-role-nodejs-app-master/README.md
+drwxrwxr-x root/root         0 2014-02-27 03:39 ansible-role-nodejs-app-master/handlers/
+-rw-rw-r-- root/root       212 2014-02-27 03:39 ansible-role-nodejs-app-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-02-27 03:39 ansible-role-nodejs-app-master/meta/
+-rw-rw-r-- root/root       274 2014-02-27 03:39 ansible-role-nodejs-app-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-02-27 03:39 ansible-role-nodejs-app-master/tasks/
+-rw-rw-r-- root/root      1618 2014-02-27 03:39 ansible-role-nodejs-app-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-02-27 03:39 ansible-role-nodejs-app-master/templates/
+-rw-rw-r-- root/root       123 2014-02-27 03:39 ansible-role-nodejs-app-master/templates/envrc.j2
+-rw-rw-r-- root/root        90 2014-02-27 03:39 ansible-role-nodejs-app-master/templates/upstart-master.conf.j2
+-rw-rw-r-- root/root       357 2014-02-27 03:39 ansible-role-nodejs-app-master/templates/upstart-worker.conf.j2

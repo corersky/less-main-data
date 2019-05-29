@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-11 20:08 freebsd-postgresql-master/
+-rw-rw-r-- root/root      1313 2018-11-11 20:08 freebsd-postgresql-master/LICENSE
+-rw-rw-r-- root/root        20 2018-11-11 20:08 freebsd-postgresql-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 20:08 freebsd-postgresql-master/handlers/
+-rw-rw-r-- root/root        84 2018-11-11 20:08 freebsd-postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-11 20:08 freebsd-postgresql-master/meta/
+-rw-rw-r-- root/root       796 2018-11-11 20:08 freebsd-postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 20:08 freebsd-postgresql-master/tasks/
+-rw-rw-r-- root/root       618 2018-11-11 20:08 freebsd-postgresql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 20:08 freebsd-postgresql-master/templates/
+-rw-rw-r-- root/root      4535 2018-11-11 20:08 freebsd-postgresql-master/templates/pg_hba.conf.j2
+-rw-rw-r-- root/root        24 2018-11-11 20:08 freebsd-postgresql-master/templates/postgresql.j2
+drwxrwxr-x root/root         0 2018-11-11 20:08 freebsd-postgresql-master/vars/
+-rw-rw-r-- root/root       126 2018-11-11 20:08 freebsd-postgresql-master/vars/main.yml

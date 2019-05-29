@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-09-03 09:32 include.elasticsearch-master/
+-rw-rw-r-- root/root      1494 2014-09-03 09:32 include.elasticsearch-master/LICENSE
+-rw-rw-r-- root/root       631 2014-09-03 09:32 include.elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2014-09-03 09:32 include.elasticsearch-master/defaults/
+-rw-rw-r-- root/root        46 2014-09-03 09:32 include.elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-03 09:32 include.elasticsearch-master/handlers/
+-rw-rw-r-- root/root        37 2014-09-03 09:32 include.elasticsearch-master/handlers/main.yml
+-rw-rw-r-- root/root        88 2014-09-03 09:32 include.elasticsearch-master/handlers/restart_elasticsearch.yml
+drwxrwxr-x root/root         0 2014-09-03 09:32 include.elasticsearch-master/meta/
+-rw-rw-r-- root/root      2134 2014-09-03 09:32 include.elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-03 09:32 include.elasticsearch-master/tasks/
+-rw-rw-r-- root/root      1047 2014-09-03 09:32 include.elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-03 09:32 include.elasticsearch-master/templates/
+-rw-rw-r-- root/root     13370 2014-09-03 09:32 include.elasticsearch-master/templates/elasticsearch.yml.j2
+-rw-rw-r-- root/root       317 2014-09-03 09:32 include.elasticsearch-master/templates/elasticsearch_repo.j2
+drwxrwxr-x root/root         0 2014-09-03 09:32 include.elasticsearch-master/vars/
+-rw-rw-r-- root/root       151 2014-09-03 09:32 include.elasticsearch-master/vars/main.yml

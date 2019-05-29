@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-10-19 09:48 ansible-role-repo-newrelic-master/
+-rw-rw-r-- root/root       118 2015-10-19 09:48 ansible-role-repo-newrelic-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 09:48 ansible-role-repo-newrelic-master/meta/
+-rw-rw-r-- root/root       285 2015-10-19 09:48 ansible-role-repo-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:48 ansible-role-repo-newrelic-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 09:48 ansible-role-repo-newrelic-master/tasks/debian/
+-rw-rw-r-- root/root       211 2015-10-19 09:48 ansible-role-repo-newrelic-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       224 2015-10-19 09:48 ansible-role-repo-newrelic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:48 ansible-role-repo-newrelic-master/tasks/redhat/
+-rw-rw-r-- root/root        97 2015-10-19 09:48 ansible-role-repo-newrelic-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:48 ansible-role-repo-newrelic-master/vars/
+-rw-rw-r-- root/root       137 2015-10-19 09:48 ansible-role-repo-newrelic-master/vars/Debian.yml
+-rw-rw-r-- root/root        98 2015-10-19 09:48 ansible-role-repo-newrelic-master/vars/RedHat.yml

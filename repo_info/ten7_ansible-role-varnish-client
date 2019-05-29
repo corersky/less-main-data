@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-16 15:32 ansible-role-varnish-client-master/
+-rw-rw-r-- root/root     35147 2017-11-16 15:32 ansible-role-varnish-client-master/LICENSE
+-rw-rw-r-- root/root      1492 2017-11-16 15:32 ansible-role-varnish-client-master/README.md
+drwxrwxr-x root/root         0 2017-11-16 15:32 ansible-role-varnish-client-master/defaults/
+-rw-rw-r-- root/root       192 2017-11-16 15:32 ansible-role-varnish-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-16 15:32 ansible-role-varnish-client-master/handlers/
+-rw-rw-r-- root/root         4 2017-11-16 15:32 ansible-role-varnish-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-16 15:32 ansible-role-varnish-client-master/meta/
+-rw-rw-r-- root/root       335 2017-11-16 15:32 ansible-role-varnish-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-16 15:32 ansible-role-varnish-client-master/tasks/
+-rw-rw-r-- root/root       588 2017-11-16 15:32 ansible-role-varnish-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-16 15:32 ansible-role-varnish-client-master/templates/
+-rw-rw-r-- root/root       824 2017-11-16 15:32 ansible-role-varnish-client-master/templates/varnish-ban.sh.j2
+-rw-rw-r-- root/root       151 2017-11-16 15:32 ansible-role-varnish-client-master/templates/varnish-purge.sh.j2
+drwxrwxr-x root/root         0 2017-11-16 15:32 ansible-role-varnish-client-master/vars/
+-rw-rw-r-- root/root        50 2017-11-16 15:32 ansible-role-varnish-client-master/vars/Debian.yml
+-rw-rw-r-- root/root         4 2017-11-16 15:32 ansible-role-varnish-client-master/vars/main.yml

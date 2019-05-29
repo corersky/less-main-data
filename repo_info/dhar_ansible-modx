@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-08-30 13:21 ansible-modx-master/
+-rw-rw-r-- root/root      1997 2014-08-30 13:21 ansible-modx-master/README.md
+drwxrwxr-x root/root         0 2014-08-30 13:21 ansible-modx-master/defaults/
+-rw-rw-r-- root/root       491 2014-08-30 13:21 ansible-modx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-30 13:21 ansible-modx-master/handlers/
+-rw-rw-r-- root/root       147 2014-08-30 13:21 ansible-modx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-08-30 13:21 ansible-modx-master/meta/
+-rw-rw-r-- root/root       205 2014-08-30 13:21 ansible-modx-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-30 13:21 ansible-modx-master/tasks/
+-rw-rw-r-- root/root        51 2014-08-30 13:21 ansible-modx-master/tasks/cleanup.yml
+-rw-rw-r-- root/root        68 2014-08-30 13:21 ansible-modx-master/tasks/main.yml
+-rw-rw-r-- root/root      1531 2014-08-30 13:21 ansible-modx-master/tasks/modx.yml
+-rw-rw-r-- root/root       586 2014-08-30 13:21 ansible-modx-master/tasks/nginx.yml
+drwxrwxr-x root/root         0 2014-08-30 13:21 ansible-modx-master/templates/
+-rw-rw-r-- root/root      3150 2014-08-30 13:21 ansible-modx-master/templates/config.xml
+-rw-rw-r-- root/root       970 2014-08-30 13:21 ansible-modx-master/templates/nginx.conf

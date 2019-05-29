@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-12 05:21 docker-compose-master/
+-rw-rw-r-- root/root      1488 2019-05-12 05:21 docker-compose-master/History.md
+-rw-rw-r-- root/root     11360 2019-05-12 05:21 docker-compose-master/LICENSE
+-rw-rw-r-- root/root       460 2019-05-12 05:21 docker-compose-master/README.md
+drwxrwxr-x root/root         0 2019-05-12 05:21 docker-compose-master/defaults/
+-rw-rw-r-- root/root       291 2019-05-12 05:21 docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-12 05:21 docker-compose-master/meta/
+-rw-rw-r-- root/root       887 2019-05-12 05:21 docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-12 05:21 docker-compose-master/tasks/
+-rw-rw-r-- root/root       197 2019-05-12 05:21 docker-compose-master/tasks/Archlinux.yml
+-rw-rw-r-- root/root        32 2019-05-12 05:21 docker-compose-master/tasks/Debian.yml
+-rw-rw-r-- root/root       312 2019-05-12 05:21 docker-compose-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root      5417 2019-05-12 05:21 docker-compose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-12 05:21 docker-compose-master/templates/
+-rw-rw-r-- root/root        68 2019-05-12 05:21 docker-compose-master/templates/docker-compose.yml

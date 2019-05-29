@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-09 21:08 ansible-role-liquidprompt-master/
+-rw-rw-r-- root/root       331 2019-03-09 21:08 ansible-role-liquidprompt-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-03-09 21:08 ansible-role-liquidprompt-master/COPYING
+-rw-rw-r-- root/root      3014 2019-03-09 21:08 ansible-role-liquidprompt-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 21:08 ansible-role-liquidprompt-master/defaults/
+-rw-rw-r-- root/root      1328 2019-03-09 21:08 ansible-role-liquidprompt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:08 ansible-role-liquidprompt-master/meta/
+-rw-rw-r-- root/root       296 2019-03-09 21:08 ansible-role-liquidprompt-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:08 ansible-role-liquidprompt-master/tasks/
+-rw-rw-r-- root/root       535 2019-03-09 21:08 ansible-role-liquidprompt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:08 ansible-role-liquidprompt-master/templates/
+-rw-rw-r-- root/root      2471 2019-03-09 21:08 ansible-role-liquidprompt-master/templates/liquidpromptrc.j2
+drwxrwxr-x root/root         0 2019-03-09 21:08 ansible-role-liquidprompt-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 21:08 ansible-role-liquidprompt-master/tests/inventory
+-rw-rw-r-- root/root        88 2019-03-09 21:08 ansible-role-liquidprompt-master/tests/test.yml

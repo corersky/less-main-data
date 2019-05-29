@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-11 18:40 ansible-syncthing-master/
+-rw-rw-r-- root/root       196 2018-08-11 18:40 ansible-syncthing-master/README.md
+drwxrwxr-x root/root         0 2018-08-11 18:40 ansible-syncthing-master/defaults/
+-rw-rw-r-- root/root        33 2018-08-11 18:40 ansible-syncthing-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-11 18:40 ansible-syncthing-master/files/
+-rw-rw-r-- root/root       324 2018-08-11 18:40 ansible-syncthing-master/files/syncthing@.service
+drwxrwxr-x root/root         0 2018-08-11 18:40 ansible-syncthing-master/handlers/
+-rw-rw-r-- root/root        33 2018-08-11 18:40 ansible-syncthing-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-11 18:40 ansible-syncthing-master/meta/
+-rw-rw-r-- root/root       192 2018-08-11 18:40 ansible-syncthing-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-11 18:40 ansible-syncthing-master/tasks/
+-rw-rw-r-- root/root       592 2018-08-11 18:40 ansible-syncthing-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-11 18:40 ansible-syncthing-master/tests/
+-rw-rw-r-- root/root        11 2018-08-11 18:40 ansible-syncthing-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-08-11 18:40 ansible-syncthing-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-11 18:40 ansible-syncthing-master/vars/
+-rw-rw-r-- root/root        29 2018-08-11 18:40 ansible-syncthing-master/vars/main.yml

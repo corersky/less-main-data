@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-29 08:14 ansible-role-acd-cli-master/
+-rw-rw-r-- root/root        11 2016-11-29 08:14 ansible-role-acd-cli-master/.gitignore
+-rw-rw-r-- root/root       466 2016-11-29 08:14 ansible-role-acd-cli-master/Jenkinsfile
+-rw-rw-r-- root/root     18046 2016-11-29 08:14 ansible-role-acd-cli-master/LICENSE
+-rw-rw-r-- root/root       606 2016-11-29 08:14 ansible-role-acd-cli-master/README.md
+drwxrwxr-x root/root         0 2016-11-29 08:14 ansible-role-acd-cli-master/defaults/
+-rw-rw-r-- root/root        74 2016-11-29 08:14 ansible-role-acd-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-29 08:14 ansible-role-acd-cli-master/files/
+-rw-rw-r-- root/root         0 2016-11-29 08:14 ansible-role-acd-cli-master/files/add_oauth_data_file_here
+drwxrwxr-x root/root         0 2016-11-29 08:14 ansible-role-acd-cli-master/meta/
+-rw-rw-r-- root/root      1120 2016-11-29 08:14 ansible-role-acd-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-29 08:14 ansible-role-acd-cli-master/tasks/
+-rw-rw-r-- root/root      1481 2016-11-29 08:14 ansible-role-acd-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-29 08:14 ansible-role-acd-cli-master/templates/
+-rw-rw-r-- root/root       418 2016-11-29 08:14 ansible-role-acd-cli-master/templates/acd.service
+drwxrwxr-x root/root         0 2016-11-29 08:14 ansible-role-acd-cli-master/vars/
+-rw-rw-r-- root/root        67 2016-11-29 08:14 ansible-role-acd-cli-master/vars/main.yml

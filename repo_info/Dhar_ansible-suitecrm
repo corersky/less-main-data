@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-02-11 21:10 ansible-suitecrm-master/
+-rw-rw-r-- root/root        33 2015-02-11 21:10 ansible-suitecrm-master/.gitignore
+-rw-rw-r-- root/root      1077 2015-02-11 21:10 ansible-suitecrm-master/LICENSE
+-rw-rw-r-- root/root      1970 2015-02-11 21:10 ansible-suitecrm-master/README.md
+drwxrwxr-x root/root         0 2015-02-11 21:10 ansible-suitecrm-master/defaults/
+-rw-rw-r-- root/root       245 2015-02-11 21:10 ansible-suitecrm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-11 21:10 ansible-suitecrm-master/handlers/
+-rw-rw-r-- root/root       150 2015-02-11 21:10 ansible-suitecrm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-11 21:10 ansible-suitecrm-master/meta/
+-rw-rw-r-- root/root       201 2015-02-11 21:10 ansible-suitecrm-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-11 21:10 ansible-suitecrm-master/tasks/
+-rw-rw-r-- root/root       170 2015-02-11 21:10 ansible-suitecrm-master/tasks/cleanup.yml
+-rw-rw-r-- root/root        72 2015-02-11 21:10 ansible-suitecrm-master/tasks/main.yml
+-rw-rw-r-- root/root       626 2015-02-11 21:10 ansible-suitecrm-master/tasks/nginx.yml
+-rw-rw-r-- root/root      2584 2015-02-11 21:10 ansible-suitecrm-master/tasks/suitecrm.yml
+drwxrwxr-x root/root         0 2015-02-11 21:10 ansible-suitecrm-master/templates/
+-rw-rw-r-- root/root      1451 2015-02-11 21:10 ansible-suitecrm-master/templates/nginx.conf

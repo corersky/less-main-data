@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-01 12:53 ansible-common-facts-master/
+-rw-rw-r-- root/root       783 2018-07-01 12:53 ansible-common-facts-master/.travis.yml
+-rw-rw-r-- root/root      3219 2018-07-01 12:53 ansible-common-facts-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root     11346 2018-07-01 12:53 ansible-common-facts-master/LICENSE
+-rw-rw-r-- root/root       746 2018-07-01 12:53 ansible-common-facts-master/README.md
+drwxrwxr-x root/root         0 2018-07-01 12:53 ansible-common-facts-master/defaults/
+-rw-rw-r-- root/root       378 2018-07-01 12:53 ansible-common-facts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-01 12:53 ansible-common-facts-master/meta/
+-rw-rw-r-- root/root      3257 2018-07-01 12:53 ansible-common-facts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-01 12:53 ansible-common-facts-master/tasks/
+-rw-rw-r-- root/root      1036 2018-07-01 12:53 ansible-common-facts-master/tasks/main.yml
+-rw-rw-r-- root/root       549 2018-07-01 12:53 ansible-common-facts-master/tasks/rpm.yml
+drwxrwxr-x root/root         0 2018-07-01 12:53 ansible-common-facts-master/tests/
+-rw-rw-r-- root/root         9 2018-07-01 12:53 ansible-common-facts-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-07-01 12:53 ansible-common-facts-master/tests/test.yml

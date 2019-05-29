@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/
+-rw-rw-r-- root/root       192 2019-05-15 07:57 kdump-master/.travis.yml
+-rw-rw-r-- root/root      1057 2019-05-15 07:57 kdump-master/COPYING
+-rw-rw-r-- root/root      1730 2019-05-15 07:57 kdump-master/README.md
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/defaults/
+-rw-rw-r-- root/root       183 2019-05-15 07:57 kdump-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/handlers/
+-rw-rw-r-- root/root        74 2019-05-15 07:57 kdump-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/meta/
+-rw-rw-r-- root/root       323 2019-05-15 07:57 kdump-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/molecule/
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-05-15 07:57 kdump-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       665 2019-05-15 07:57 kdump-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       201 2019-05-15 07:57 kdump-master/molecule/default/yamllint.yml
+-rwxrwxr-x root/root       374 2019-05-15 07:57 kdump-master/semaphore
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/tasks/
+-rw-rw-r-- root/root       678 2019-05-15 07:57 kdump-master/tasks/main.yml
+-rw-rw-r-- root/root       493 2019-05-15 07:57 kdump-master/tasks/ssh.yml
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/templates/
+-rw-rw-r-- root/root       390 2019-05-15 07:57 kdump-master/templates/kdump.conf.j2
+-rw-rw-r-- root/root       749 2019-05-15 07:57 kdump-master/templates/kdump.j2
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/tests/
+drwxrwxr-x root/root         0 2019-05-15 07:57 kdump-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-05-15 07:57 kdump-master/tests/roles/kdump -> ../..
+-rw-rw-r-- root/root        94 2019-05-15 07:57 kdump-master/tests/tests_default.yml
+-rw-rw-r-- root/root      1278 2019-05-15 07:57 kdump-master/tests/tests_ssh.yml

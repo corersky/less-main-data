@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/
+-rw-rw-r-- root/root      2075 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/README.md
+drwxrwxr-x root/root         0 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/defaults/
+-rw-rw-r-- root/root       156 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/meta/
+-rw-rw-r-- root/root       259 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/tasks/
+-rw-rw-r-- root/root      3040 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/templates/
+-rw-rw-r-- root/root       284 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/templates/extensions.css.j2
+-rw-rw-r-- root/root       189 2017-10-31 08:48 ansible-role-openshift-custom-webconsole-logo-master/templates/webconsole_conf.txt.j2

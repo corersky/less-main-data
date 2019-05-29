@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-03-05 11:04 ansible-consul-pdns-recursor-master/
+-rw-rw-r-- root/root      1737 2019-03-05 11:04 ansible-consul-pdns-recursor-master/README.md
+drwxrwxr-x root/root         0 2019-03-05 11:04 ansible-consul-pdns-recursor-master/files/
+-rw-rw-r-- root/root        18 2019-03-05 11:04 ansible-consul-pdns-recursor-master/files/01-resolv.conf
+-rw-rw-r-- root/root        21 2019-03-05 11:04 ansible-consul-pdns-recursor-master/files/resolv.conf
+drwxrwxr-x root/root         0 2019-03-05 11:04 ansible-consul-pdns-recursor-master/handlers/
+-rw-rw-r-- root/root       187 2019-03-05 11:04 ansible-consul-pdns-recursor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-05 11:04 ansible-consul-pdns-recursor-master/meta/
+-rw-rw-r-- root/root       182 2019-03-05 11:04 ansible-consul-pdns-recursor-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-05 11:04 ansible-consul-pdns-recursor-master/tasks/
+-rw-rw-r-- root/root       619 2019-03-05 11:04 ansible-consul-pdns-recursor-master/tasks/main.yml

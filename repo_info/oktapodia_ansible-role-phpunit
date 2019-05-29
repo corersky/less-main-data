@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-05 04:26 ansible-role-phpunit-master/
+-rw-rw-r-- root/root        22 2018-09-05 04:26 ansible-role-phpunit-master/.gitignore
+-rw-rw-r-- root/root      1091 2018-09-05 04:26 ansible-role-phpunit-master/.travis.yml
+-rw-rw-r-- root/root      1085 2018-09-05 04:26 ansible-role-phpunit-master/LICENSE
+-rw-rw-r-- root/root      1548 2018-09-05 04:26 ansible-role-phpunit-master/README.md
+drwxrwxr-x root/root         0 2018-09-05 04:26 ansible-role-phpunit-master/defaults/
+-rw-rw-r-- root/root        95 2018-09-05 04:26 ansible-role-phpunit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-05 04:26 ansible-role-phpunit-master/meta/
+-rw-rw-r-- root/root       715 2018-09-05 04:26 ansible-role-phpunit-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-05 04:26 ansible-role-phpunit-master/tasks/
+-rw-rw-r-- root/root       576 2018-09-05 04:26 ansible-role-phpunit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-05 04:26 ansible-role-phpunit-master/templates/
+-rw-rw-r-- root/root        45 2018-09-05 04:26 ansible-role-phpunit-master/templates/phpunit-project.sh.j2
+drwxrwxr-x root/root         0 2018-09-05 04:26 ansible-role-phpunit-master/tests/
+-rw-rw-r-- root/root       632 2018-09-05 04:26 ansible-role-phpunit-master/tests/README.md
+-rw-rw-r-- root/root        55 2018-09-05 04:26 ansible-role-phpunit-master/tests/requirements.yml
+-rw-rw-r-- root/root      1651 2018-09-05 04:26 ansible-role-phpunit-master/tests/test.yml

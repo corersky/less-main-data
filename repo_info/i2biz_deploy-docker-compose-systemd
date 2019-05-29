@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-06 03:37 deploy-docker-compose-systemd-master/
+-rw-rw-r-- root/root       893 2019-05-06 03:37 deploy-docker-compose-systemd-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 03:37 deploy-docker-compose-systemd-master/defaults/
+-rw-rw-r-- root/root       781 2019-05-06 03:37 deploy-docker-compose-systemd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 03:37 deploy-docker-compose-systemd-master/handlers/
+-rw-rw-r-- root/root        45 2019-05-06 03:37 deploy-docker-compose-systemd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-06 03:37 deploy-docker-compose-systemd-master/meta/
+-rw-rw-r-- root/root        60 2019-05-06 03:37 deploy-docker-compose-systemd-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       285 2019-05-06 03:37 deploy-docker-compose-systemd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 03:37 deploy-docker-compose-systemd-master/tasks/
+-rw-rw-r-- root/root      1648 2019-05-06 03:37 deploy-docker-compose-systemd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 03:37 deploy-docker-compose-systemd-master/templates/
+-rw-rw-r-- root/root       433 2019-05-06 03:37 deploy-docker-compose-systemd-master/templates/service.unit
+-rw-rw-r-- root/root        88 2019-05-06 03:37 deploy-docker-compose-systemd-master/templates/vars.env

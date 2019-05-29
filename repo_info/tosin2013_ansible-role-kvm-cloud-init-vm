@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/
+-rw-rw-r-- root/root      1509 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/LICENSE
+-rw-rw-r-- root/root      4659 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/README.md
+drwxrwxr-x root/root         0 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/defaults/
+-rw-rw-r-- root/root       847 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/defaults/main.yml
+-rwxrwxr-x root/root      1102 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/deploy_kvm.sh
+drwxrwxr-x root/root         0 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/kvm_generation_configs/
+-rw-rw-r-- root/root       706 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/kvm_generation_configs/generic_server
+drwxrwxr-x root/root         0 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/meta/
+-rw-rw-r-- root/root      1964 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/tasks/
+-rw-rw-r-- root/root      3802 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/tasks/deploy-vm.yml
+-rw-rw-r-- root/root       676 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/tasks/main.yml
+-rw-rw-r-- root/root       849 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/tasks/system-prep.yml
+drwxrwxr-x root/root         0 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/templates/
+-rw-rw-r-- root/root      1969 2019-01-27 02:46 ansible-role-kvm-cloud-init-vm-master/templates/user-data.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-18 10:27 simple_ansible_role-master/
+-rw-rw-r-- root/root      2094 2018-12-18 10:27 simple_ansible_role-master/README.md
+drwxrwxr-x root/root         0 2018-12-18 10:27 simple_ansible_role-master/defaults/
+-rw-rw-r-- root/root       971 2018-12-18 10:27 simple_ansible_role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-18 10:27 simple_ansible_role-master/meta/
+-rw-rw-r-- root/root      2127 2018-12-18 10:27 simple_ansible_role-master/meta/main.yml
+-rw-rw-r-- root/root        17 2018-12-18 10:27 simple_ansible_role-master/requirements.txt
+drwxrwxr-x root/root         0 2018-12-18 10:27 simple_ansible_role-master/tasks/
+-rw-rw-r-- root/root       175 2018-12-18 10:27 simple_ansible_role-master/tasks/check_dir.yml
+-rw-rw-r-- root/root       184 2018-12-18 10:27 simple_ansible_role-master/tasks/main.yml
+-rw-rw-r-- root/root      1847 2018-12-18 10:27 simple_ansible_role-master/tasks/openssl_ca_pair.yml
+-rw-rw-r-- root/root      2198 2018-12-18 10:27 simple_ansible_role-master/tasks/openssl_client_pair.yml
+-rw-rw-r-- root/root      2195 2018-12-18 10:27 simple_ansible_role-master/tasks/openssl_server_pair.yml
+drwxrwxr-x root/root         0 2018-12-18 10:27 simple_ansible_role-master/tests/
+-rw-rw-r-- root/root        10 2018-12-18 10:27 simple_ansible_role-master/tests/test.retry
+-rw-rw-r-- root/root       169 2018-12-18 10:27 simple_ansible_role-master/tests/test.yml

@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2016-08-12 06:16 ansible-role-ssl-master/
+-rw-rw-r-- root/root       539 2016-08-12 06:16 ansible-role-ssl-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-08-12 06:16 ansible-role-ssl-master/LICENSE
+-rw-rw-r-- root/root       371 2016-08-12 06:16 ansible-role-ssl-master/README.md
+drwxrwxr-x root/root         0 2016-08-12 06:16 ansible-role-ssl-master/defaults/
+-rw-rw-r-- root/root      5286 2016-08-12 06:16 ansible-role-ssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-12 06:16 ansible-role-ssl-master/meta/
+-rw-rw-r-- root/root       404 2016-08-12 06:16 ansible-role-ssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-12 06:16 ansible-role-ssl-master/tasks/
+-rw-rw-r-- root/root       744 2016-08-12 06:16 ansible-role-ssl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-12 06:16 ansible-role-ssl-master/tests/
+-rw-rw-r-- root/root         9 2016-08-12 06:16 ansible-role-ssl-master/tests/.gitignore
+-rw-rw-r-- root/root      1404 2016-08-12 06:16 ansible-role-ssl-master/tests/Vagrantfile
+-rw-rw-r-- root/root        17 2016-08-12 06:16 ansible-role-ssl-master/tests/inventory
+drwxrwxr-x root/root         0 2016-08-12 06:16 ansible-role-ssl-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-08-12 06:16 ansible-role-ssl-master/tests/roles/monsieurbiz.ssl -> ../../
+-rw-rw-r-- root/root         8 2016-08-12 06:16 ansible-role-ssl-master/tests/test.retry
+-rw-rw-r-- root/root        71 2016-08-12 06:16 ansible-role-ssl-master/tests/test.yml

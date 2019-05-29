@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-18 11:20 ansible-role-base-master/
+-rw-rw-r-- root/root      1328 2015-06-18 11:20 ansible-role-base-master/README.md
+drwxrwxr-x root/root         0 2015-06-18 11:20 ansible-role-base-master/defaults/
+-rw-rw-r-- root/root        28 2015-06-18 11:20 ansible-role-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-18 11:20 ansible-role-base-master/files/
+-rw-rw-r-- root/root      1649 2015-06-18 11:20 ansible-role-base-master/files/RPM-GPG-KEY-EPEL-6
+drwxrwxr-x root/root         0 2015-06-18 11:20 ansible-role-base-master/handlers/
+-rw-rw-r-- root/root        74 2015-06-18 11:20 ansible-role-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-18 11:20 ansible-role-base-master/meta/
+-rw-rw-r-- root/root       168 2015-06-18 11:20 ansible-role-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-18 11:20 ansible-role-base-master/tasks/
+-rw-rw-r-- root/root      1965 2015-06-18 11:20 ansible-role-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-18 11:20 ansible-role-base-master/templates/
+-rw-rw-r-- root/root        28 2015-06-18 11:20 ansible-role-base-master/templates/clock.j2
+-rw-rw-r-- root/root      2040 2015-06-18 11:20 ansible-role-base-master/templates/ntp.conf.j2

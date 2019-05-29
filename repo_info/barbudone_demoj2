@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-05 14:05 demoj2-master/
+-rw-rw-r-- root/root       731 2019-04-05 14:05 demoj2-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-04-05 14:05 demoj2-master/LICENSE
+-rw-rw-r-- root/root       671 2019-04-05 14:05 demoj2-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 14:05 demoj2-master/defaults/
+-rw-rw-r-- root/root       406 2019-04-05 14:05 demoj2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-05 14:05 demoj2-master/meta/
+-rw-rw-r-- root/root       307 2019-04-05 14:05 demoj2-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 14:05 demoj2-master/tasks/
+-rw-rw-r-- root/root       673 2019-04-05 14:05 demoj2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-05 14:05 demoj2-master/templates/
+-rw-rw-r-- root/root       198 2019-04-05 14:05 demoj2-master/templates/motd.j2
+-rw-rw-r-- root/root       107 2019-04-05 14:05 demoj2-master/templates/resolv.conf.j2
+-rw-rw-r-- root/root       436 2019-04-05 14:05 demoj2-master/templates/vhost.conf.j2
+drwxrwxr-x root/root         0 2019-04-05 14:05 demoj2-master/tests/
+-rw-rw-r-- root/root        10 2019-04-05 14:05 demoj2-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-04-05 14:05 demoj2-master/tests/test.yml

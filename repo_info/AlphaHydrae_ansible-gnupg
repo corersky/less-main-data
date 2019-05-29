@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-22 04:48 ansible-gnupg-master/
+-rw-rw-r-- root/root      1072 2019-04-22 04:48 ansible-gnupg-master/LICENSE.txt
+-rw-rw-r-- root/root        56 2019-04-22 04:48 ansible-gnupg-master/README.md
+drwxrwxr-x root/root         0 2019-04-22 04:48 ansible-gnupg-master/defaults/
+-rw-rw-r-- root/root       479 2019-04-22 04:48 ansible-gnupg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-22 04:48 ansible-gnupg-master/meta/
+-rw-rw-r-- root/root       313 2019-04-22 04:48 ansible-gnupg-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-22 04:48 ansible-gnupg-master/tasks/
+-rw-rw-r-- root/root      1096 2019-04-22 04:48 ansible-gnupg-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-22 04:48 ansible-gnupg-master/templates/
+-rw-rw-r-- root/root        88 2019-04-22 04:48 ansible-gnupg-master/templates/gpg-agent.conf
+-rw-rw-r-- root/root        86 2019-04-22 04:48 ansible-gnupg-master/templates/gpg.conf

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-11 07:34 ansible-role-prestashop-master/
+-rw-rw-r-- root/root       869 2018-11-11 07:34 ansible-role-prestashop-master/.travis.yml
+-rw-rw-r-- root/root      2642 2018-11-11 07:34 ansible-role-prestashop-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 07:34 ansible-role-prestashop-master/defaults/
+-rw-rw-r-- root/root       849 2018-11-11 07:34 ansible-role-prestashop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 07:34 ansible-role-prestashop-master/meta/
+-rw-rw-r-- root/root       350 2018-11-11 07:34 ansible-role-prestashop-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 07:34 ansible-role-prestashop-master/tasks/
+-rw-rw-r-- root/root      2522 2018-11-11 07:34 ansible-role-prestashop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 07:34 ansible-role-prestashop-master/tests/
+-rw-rw-r-- root/root        11 2018-11-11 07:34 ansible-role-prestashop-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-11-11 07:34 ansible-role-prestashop-master/tests/test.yml

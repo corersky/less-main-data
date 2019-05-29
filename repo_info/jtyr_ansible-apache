@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-21 18:34 ansible-apache-master/
+-rw-rw-r-- root/root         0 2016-01-21 18:34 ansible-apache-master/.gitignore
+-rw-rw-r-- root/root      1075 2016-01-21 18:34 ansible-apache-master/LICENSE
+-rw-rw-r-- root/root     26749 2016-01-21 18:34 ansible-apache-master/README.md
+drwxrwxr-x root/root         0 2016-01-21 18:34 ansible-apache-master/defaults/
+-rw-rw-r-- root/root     24021 2016-01-21 18:34 ansible-apache-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-01-21 18:34 ansible-apache-master/handlers/
+-rw-rw-r-- root/root       183 2016-01-21 18:34 ansible-apache-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2016-01-21 18:34 ansible-apache-master/meta/
+-rw-rw-r-- root/root       246 2016-01-21 18:34 ansible-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-21 18:34 ansible-apache-master/tasks/
+-rw-rw-r-- root/root      2099 2016-01-21 18:34 ansible-apache-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-01-21 18:34 ansible-apache-master/templates/
+-rw-rw-r-- root/root        69 2016-01-21 18:34 ansible-apache-master/templates/httpd.conf.j2
+-rw-rw-r-- root/root        66 2016-01-21 18:34 ansible-apache-master/templates/vhost.conf.j2

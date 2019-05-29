@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-16 08:45 ntp-master/
+-rw-rw-r-- root/root     32386 2019-04-16 08:45 ntp-master/COPYRIGHT
+-rw-rw-r-- root/root       831 2019-04-16 08:45 ntp-master/LICENSE
+-rw-rw-r-- root/root       902 2019-04-16 08:45 ntp-master/README.md
+drwxrwxr-x root/root         0 2019-04-16 08:45 ntp-master/defaults/
+-rw-rw-r-- root/root        60 2019-04-16 08:45 ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-16 08:45 ntp-master/handlers/
+-rw-rw-r-- root/root       349 2019-04-16 08:45 ntp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-16 08:45 ntp-master/meta/
+-rw-rw-r-- root/root       325 2019-04-16 08:45 ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-16 08:45 ntp-master/tasks/
+-rw-rw-r-- root/root       657 2019-04-16 08:45 ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-16 08:45 ntp-master/tests/
+-rw-rw-r-- root/root        11 2019-04-16 08:45 ntp-master/tests/inventory
+-rw-rw-r-- root/root        61 2019-04-16 08:45 ntp-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-16 08:45 ntp-master/vars/
+-rw-rw-r-- root/root        23 2019-04-16 08:45 ntp-master/vars/main.yml

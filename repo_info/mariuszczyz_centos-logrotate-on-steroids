@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-24 21:30 centos-logrotate-on-steroids-master/
+-rw-rw-r-- root/root      1126 2018-09-24 21:30 centos-logrotate-on-steroids-master/README.md
+drwxrwxr-x root/root         0 2018-09-24 21:30 centos-logrotate-on-steroids-master/defaults/
+-rw-rw-r-- root/root        64 2018-09-24 21:30 centos-logrotate-on-steroids-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-24 21:30 centos-logrotate-on-steroids-master/files/
+-rw-rw-r-- root/root       313 2018-09-24 21:30 centos-logrotate-on-steroids-master/files/logrotate.conf
+-rw-rw-r-- root/root       366 2018-09-24 21:30 centos-logrotate-on-steroids-master/files/syslog-logrotate.conf
+drwxrwxr-x root/root         0 2018-09-24 21:30 centos-logrotate-on-steroids-master/handlers/
+-rw-rw-r-- root/root        64 2018-09-24 21:30 centos-logrotate-on-steroids-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-24 21:30 centos-logrotate-on-steroids-master/meta/
+-rw-rw-r-- root/root       259 2018-09-24 21:30 centos-logrotate-on-steroids-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-24 21:30 centos-logrotate-on-steroids-master/tasks/
+-rw-rw-r-- root/root       465 2018-09-24 21:30 centos-logrotate-on-steroids-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-24 21:30 centos-logrotate-on-steroids-master/vars/
+-rw-rw-r-- root/root        60 2018-09-24 21:30 centos-logrotate-on-steroids-master/vars/main.yml

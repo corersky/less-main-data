@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-09 05:23 ansible-role-atom-packages-master/
+-rw-rw-r-- root/root       650 2017-01-09 05:23 ansible-role-atom-packages-master/.gitignore
+-rw-rw-r-- root/root       770 2017-01-09 05:23 ansible-role-atom-packages-master/README.md
+drwxrwxr-x root/root         0 2017-01-09 05:23 ansible-role-atom-packages-master/defaults/
+-rw-rw-r-- root/root        38 2017-01-09 05:23 ansible-role-atom-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-09 05:23 ansible-role-atom-packages-master/handlers/
+-rw-rw-r-- root/root        38 2017-01-09 05:23 ansible-role-atom-packages-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-09 05:23 ansible-role-atom-packages-master/library/
+-rw-rw-r-- root/root      4948 2017-01-09 05:23 ansible-role-atom-packages-master/library/apm
+drwxrwxr-x root/root         0 2017-01-09 05:23 ansible-role-atom-packages-master/meta/
+-rw-rw-r-- root/root       240 2017-01-09 05:23 ansible-role-atom-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-09 05:23 ansible-role-atom-packages-master/tasks/
+-rw-rw-r-- root/root        35 2017-01-09 05:23 ansible-role-atom-packages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-09 05:23 ansible-role-atom-packages-master/vars/
+-rw-rw-r-- root/root        34 2017-01-09 05:23 ansible-role-atom-packages-master/vars/main.yml

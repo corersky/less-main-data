@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-17 00:53 ansible-varnish-wordpress-master/
+-rw-rw-r-- root/root      1210 2015-06-17 00:53 ansible-varnish-wordpress-master/LICENSE.txt
+-rw-rw-r-- root/root      1670 2015-06-17 00:53 ansible-varnish-wordpress-master/README.md
+drwxrwxr-x root/root         0 2015-06-17 00:53 ansible-varnish-wordpress-master/defaults/
+-rw-rw-r-- root/root        61 2015-06-17 00:53 ansible-varnish-wordpress-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-17 00:53 ansible-varnish-wordpress-master/handlers/
+-rw-rw-r-- root/root        68 2015-06-17 00:53 ansible-varnish-wordpress-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-17 00:53 ansible-varnish-wordpress-master/meta/
+-rw-rw-r-- root/root       244 2015-06-17 00:53 ansible-varnish-wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-17 00:53 ansible-varnish-wordpress-master/tasks/
+-rw-rw-r-- root/root       733 2015-06-17 00:53 ansible-varnish-wordpress-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-17 00:53 ansible-varnish-wordpress-master/templates/
+-rw-rw-r-- root/root      3778 2015-06-17 00:53 ansible-varnish-wordpress-master/templates/varnish.j2
+-rw-rw-r-- root/root      4353 2015-06-17 00:53 ansible-varnish-wordpress-master/templates/wordpress.vcl.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-11 07:12 ansible-gitlab_runner-master/
+-rw-rw-r-- root/root       540 2017-05-11 07:12 ansible-gitlab_runner-master/.travis.yml
+-rw-rw-r-- root/root      1067 2017-05-11 07:12 ansible-gitlab_runner-master/LICENSE
+-rw-rw-r-- root/root       236 2017-05-11 07:12 ansible-gitlab_runner-master/README.md
+drwxrwxr-x root/root         0 2017-05-11 07:12 ansible-gitlab_runner-master/defaults/
+-rw-rw-r-- root/root         4 2017-05-11 07:12 ansible-gitlab_runner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-11 07:12 ansible-gitlab_runner-master/meta/
+-rw-rw-r-- root/root       305 2017-05-11 07:12 ansible-gitlab_runner-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-11 07:12 ansible-gitlab_runner-master/tasks/
+-rw-rw-r-- root/root       135 2017-05-11 07:12 ansible-gitlab_runner-master/tasks/gitlab_runner_install.yml
+-rw-rw-r-- root/root       178 2017-05-11 07:12 ansible-gitlab_runner-master/tasks/gitlab_runner_pre.yml
+-rw-rw-r-- root/root       205 2017-05-11 07:12 ansible-gitlab_runner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-11 07:12 ansible-gitlab_runner-master/vars/
+-rw-rw-r-- root/root       212 2017-05-11 07:12 ansible-gitlab_runner-master/vars/Debian.yml

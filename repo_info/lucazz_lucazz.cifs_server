@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-12-03 09:02 lucazz.cifs_server-master/
+-rw-rw-r-- root/root      1328 2015-12-03 09:02 lucazz.cifs_server-master/README.md
+drwxrwxr-x root/root         0 2015-12-03 09:02 lucazz.cifs_server-master/defaults/
+-rw-rw-r-- root/root       201 2015-12-03 09:02 lucazz.cifs_server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-03 09:02 lucazz.cifs_server-master/handlers/
+-rw-rw-r-- root/root        87 2015-12-03 09:02 lucazz.cifs_server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-03 09:02 lucazz.cifs_server-master/meta/
+-rw-rw-r-- root/root       397 2015-12-03 09:02 lucazz.cifs_server-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-03 09:02 lucazz.cifs_server-master/tasks/
+-rw-rw-r-- root/root       982 2015-12-03 09:02 lucazz.cifs_server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-03 09:02 lucazz.cifs_server-master/templates/
+-rw-rw-r-- root/root       461 2015-12-03 09:02 lucazz.cifs_server-master/templates/smb.conf.j2
+drwxrwxr-x root/root         0 2015-12-03 09:02 lucazz.cifs_server-master/vars/
+-rw-rw-r-- root/root        39 2015-12-03 09:02 lucazz.cifs_server-master/vars/main.yml

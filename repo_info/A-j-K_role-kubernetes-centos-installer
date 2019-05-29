@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/
+-rw-rw-r-- root/root        31 2018-03-28 03:39 role-kubernetes-centos-installer-master/README.md
+drwxrwxr-x root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/defaults/
+-rw-rw-r-- root/root         5 2018-03-28 03:39 role-kubernetes-centos-installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/files/
+-rw-rw-r-- root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/files/.gitkeep
+drwxrwxr-x root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/meta/
+-rw-rw-r-- root/root       232 2018-03-28 03:39 role-kubernetes-centos-installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/tasks/
+-rw-rw-r-- root/root       828 2018-03-28 03:39 role-kubernetes-centos-installer-master/tasks/centos-docker.yml
+-rw-rw-r-- root/root      1456 2018-03-28 03:39 role-kubernetes-centos-installer-master/tasks/centos-kubernetes.yml
+-rw-rw-r-- root/root      1020 2018-03-28 03:39 role-kubernetes-centos-installer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/templates/
+-rw-rw-r-- root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2018-03-28 03:39 role-kubernetes-centos-installer-master/vars/
+-rw-rw-r-- root/root         5 2018-03-28 03:39 role-kubernetes-centos-installer-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-01-23 16:15 ansible-role-timezone-master/
+-rw-rw-r-- root/root      1024 2018-01-23 16:15 ansible-role-timezone-master/.travis.yml
+-rw-rw-r-- root/root       824 2018-01-23 16:15 ansible-role-timezone-master/README.md
+drwxrwxr-x root/root         0 2018-01-23 16:15 ansible-role-timezone-master/defaults/
+-rw-rw-r-- root/root        29 2018-01-23 16:15 ansible-role-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-23 16:15 ansible-role-timezone-master/meta/
+-rw-rw-r-- root/root       334 2018-01-23 16:15 ansible-role-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-23 16:15 ansible-role-timezone-master/tasks/
+-rw-rw-r-- root/root       294 2018-01-23 16:15 ansible-role-timezone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-23 16:15 ansible-role-timezone-master/templates/
+-rw-rw-r-- root/root        22 2018-01-23 16:15 ansible-role-timezone-master/templates/timezone.j2
+drwxrwxr-x root/root         0 2018-01-23 16:15 ansible-role-timezone-master/tests/
+-rw-rw-r-- root/root         9 2018-01-23 16:15 ansible-role-timezone-master/tests/inventory
+-rw-rw-r-- root/root       118 2018-01-23 16:15 ansible-role-timezone-master/tests/test.yml

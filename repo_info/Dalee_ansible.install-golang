@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-12-15 10:56 ansible.install-golang-master/
+-rw-rw-r-- root/root        60 2016-12-15 10:56 ansible.install-golang-master/README.md
+drwxrwxr-x root/root         0 2016-12-15 10:56 ansible.install-golang-master/meta/
+-rw-rw-r-- root/root       233 2016-12-15 10:56 ansible.install-golang-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:56 ansible.install-golang-master/tasks/
+-rw-rw-r-- root/root       316 2016-12-15 10:56 ansible.install-golang-master/tasks/bashd.yml
+-rw-rw-r-- root/root       204 2016-12-15 10:56 ansible.install-golang-master/tasks/godeps.yml
+-rw-rw-r-- root/root       901 2016-12-15 10:56 ansible.install-golang-master/tasks/golang.yml
+-rw-rw-r-- root/root        65 2016-12-15 10:56 ansible.install-golang-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:56 ansible.install-golang-master/templates/
+-rw-rw-r-- root/root        84 2016-12-15 10:56 ansible.install-golang-master/templates/golang.rc.j2
+drwxrwxr-x root/root         0 2016-12-15 10:56 ansible.install-golang-master/vars/
+-rw-rw-r-- root/root       155 2016-12-15 10:56 ansible.install-golang-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-29 16:56 ansible-acme-sh-master/
+-rw-rw-r-- root/root        71 2018-11-29 16:56 ansible-acme-sh-master/.gitignore
+-rw-rw-r-- root/root      1248 2018-11-29 16:56 ansible-acme-sh-master/.travis.yml
+-rwxrwxr-x root/root       163 2018-11-29 16:56 ansible-acme-sh-master/CHANGES.md
+-rw-rw-r-- root/root      1106 2018-11-29 16:56 ansible-acme-sh-master/LICENSE
+-rw-rw-r-- root/root     16811 2018-11-29 16:56 ansible-acme-sh-master/README.md
+-rw-rw-r-- root/root      1519 2018-11-29 16:56 ansible-acme-sh-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-11-29 16:56 ansible-acme-sh-master/defaults/
+-rw-rw-r-- root/root      1492 2018-11-29 16:56 ansible-acme-sh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 16:56 ansible-acme-sh-master/meta/
+-rw-rw-r-- root/root       575 2018-11-29 16:56 ansible-acme-sh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 16:56 ansible-acme-sh-master/tasks/
+-rw-rw-r-- root/root      9107 2018-11-29 16:56 ansible-acme-sh-master/tasks/main.yml
+-rw-rw-r-- root/root       746 2018-11-29 16:56 ansible-acme-sh-master/test-alpine.yml
+-rw-rw-r-- root/root       397 2018-11-29 16:56 ansible-acme-sh-master/test.yml
+drwxrwxr-x root/root         0 2018-11-29 16:56 ansible-acme-sh-master/tests/
+-rw-rw-r-- root/root       838 2018-11-29 16:56 ansible-acme-sh-master/tests/test.yml

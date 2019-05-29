@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-12-08 14:23 ndd-ansible-pkill-master/
+-rw-rw-r-- root/root        54 2014-12-08 14:23 ndd-ansible-pkill-master/.gitignore
+-rw-rw-r-- root/root        56 2014-12-08 14:23 ndd-ansible-pkill-master/CHANGELOG.md
+-rw-rw-r-- root/root      1261 2014-12-08 14:23 ndd-ansible-pkill-master/Dockerfile
+-rw-rw-r-- root/root     26927 2014-12-08 14:23 ndd-ansible-pkill-master/LICENSE.txt
+-rw-rw-r-- root/root       527 2014-12-08 14:23 ndd-ansible-pkill-master/README.md
+-rw-rw-r-- root/root         6 2014-12-08 14:23 ndd-ansible-pkill-master/VERSION
+drwxrwxr-x root/root         0 2014-12-08 14:23 ndd-ansible-pkill-master/defaults/
+-rw-rw-r-- root/root       223 2014-12-08 14:23 ndd-ansible-pkill-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-08 14:23 ndd-ansible-pkill-master/meta/
+-rw-rw-r-- root/root       256 2014-12-08 14:23 ndd-ansible-pkill-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-08 14:23 ndd-ansible-pkill-master/tasks/
+-rw-rw-r-- root/root       317 2014-12-08 14:23 ndd-ansible-pkill-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-08 14:23 ndd-ansible-pkill-master/tests/
+-rw-rw-r-- root/root        18 2014-12-08 14:23 ndd-ansible-pkill-master/tests/inventory
+-rw-rw-r-- root/root       601 2014-12-08 14:23 ndd-ansible-pkill-master/tests/playbook.yml

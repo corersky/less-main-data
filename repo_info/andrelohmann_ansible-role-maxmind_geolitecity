@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/
+-rw-rw-r-- root/root        28 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/.gitignore
+-rw-rw-r-- root/root       689 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/.travis.yml
+-rw-rw-r-- root/root       804 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/README.md
+drwxrwxr-x root/root         0 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/defaults/
+-rw-rw-r-- root/root       128 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/meta/
+-rw-rw-r-- root/root       303 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/tasks/
+-rw-rw-r-- root/root      1127 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/templates/
+-rw-rw-r-- root/root       369 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/templates/update_geolitecity.sh.j2
+drwxrwxr-x root/root         0 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/tests/
+-rw-rw-r-- root/root         9 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/tests/inventory
+-rw-rw-r-- root/root       111 2019-01-05 06:00 ansible-role-maxmind_geolitecity-master/tests/test.yml

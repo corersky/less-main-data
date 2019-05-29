@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-21 02:34 ansible-systemd_failure_unit-master/
+-rw-rw-r-- root/root        25 2018-11-21 02:34 ansible-systemd_failure_unit-master/.gitignore
+-rw-rw-r-- root/root      1060 2018-11-21 02:34 ansible-systemd_failure_unit-master/LICENSE
+-rw-rw-r-- root/root      1670 2018-11-21 02:34 ansible-systemd_failure_unit-master/README.md
+drwxrwxr-x root/root         0 2018-11-21 02:34 ansible-systemd_failure_unit-master/defaults/
+-rw-rw-r-- root/root        65 2018-11-21 02:34 ansible-systemd_failure_unit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-21 02:34 ansible-systemd_failure_unit-master/files/
+-rw-rw-r-- root/root       196 2018-11-21 02:34 ansible-systemd_failure_unit-master/files/notify-failure@.service
+-rw-rw-r-- root/root       369 2018-11-21 02:34 ansible-systemd_failure_unit-master/files/systemd-mail-failure
+drwxrwxr-x root/root         0 2018-11-21 02:34 ansible-systemd_failure_unit-master/handlers/
+-rw-rw-r-- root/root        68 2018-11-21 02:34 ansible-systemd_failure_unit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-21 02:34 ansible-systemd_failure_unit-master/meta/
+-rw-rw-r-- root/root       322 2018-11-21 02:34 ansible-systemd_failure_unit-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-21 02:34 ansible-systemd_failure_unit-master/tasks/
+-rw-rw-r-- root/root      1221 2018-11-21 02:34 ansible-systemd_failure_unit-master/tasks/main.yml

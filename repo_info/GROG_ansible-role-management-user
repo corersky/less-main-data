@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-05 17:23 ansible-role-management-user-master/
+-rw-rw-r-- root/root      1126 2016-08-05 17:23 ansible-role-management-user-master/.travis.yml
+-rw-rw-r-- root/root      1071 2016-08-05 17:23 ansible-role-management-user-master/LICENSE
+-rw-rw-r-- root/root      3298 2016-08-05 17:23 ansible-role-management-user-master/README.md
+drwxrwxr-x root/root         0 2016-08-05 17:23 ansible-role-management-user-master/defaults/
+-rw-rw-r-- root/root       429 2016-08-05 17:23 ansible-role-management-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-05 17:23 ansible-role-management-user-master/meta/
+-rw-rw-r-- root/root      1055 2016-08-05 17:23 ansible-role-management-user-master/meta/main.yml
+-rw-rw-r-- root/root       117 2016-08-05 17:23 ansible-role-management-user-master/meta/requirements.yml
+drwxrwxr-x root/root         0 2016-08-05 17:23 ansible-role-management-user-master/tests/
+-rw-rw-r-- root/root        10 2016-08-05 17:23 ansible-role-management-user-master/tests/inventory
+-rw-rw-r-- root/root       279 2016-08-05 17:23 ansible-role-management-user-master/tests/test.yml

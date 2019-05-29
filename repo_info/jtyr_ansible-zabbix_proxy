@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-12 07:55 ansible-zabbix_proxy-master/
+-rw-rw-r-- root/root         0 2017-05-12 07:55 ansible-zabbix_proxy-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-12 07:55 ansible-zabbix_proxy-master/LICENSE
+-rw-rw-r-- root/root      6550 2017-05-12 07:55 ansible-zabbix_proxy-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 07:55 ansible-zabbix_proxy-master/defaults/
+-rw-rw-r-- root/root      3724 2017-05-12 07:55 ansible-zabbix_proxy-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 07:55 ansible-zabbix_proxy-master/handlers/
+-rw-rw-r-- root/root       195 2017-05-12 07:55 ansible-zabbix_proxy-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 07:55 ansible-zabbix_proxy-master/meta/
+-rw-rw-r-- root/root       268 2017-05-12 07:55 ansible-zabbix_proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 07:55 ansible-zabbix_proxy-master/tasks/
+-rw-rw-r-- root/root      5552 2017-05-12 07:55 ansible-zabbix_proxy-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 07:55 ansible-zabbix_proxy-master/templates/
+-rw-rw-r-- root/root       199 2017-05-12 07:55 ansible-zabbix_proxy-master/templates/zabbix_proxy.conf.j2

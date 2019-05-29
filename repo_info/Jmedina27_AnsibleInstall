@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-23 02:01 AnsibleInstall-master/
+-rw-rw-r-- root/root      1328 2019-05-23 02:01 AnsibleInstall-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 02:01 AnsibleInstall-master/defaults/
+-rw-rw-r-- root/root        37 2019-05-23 02:01 AnsibleInstall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 02:01 AnsibleInstall-master/handlers/
+-rw-rw-r-- root/root        37 2019-05-23 02:01 AnsibleInstall-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-23 02:01 AnsibleInstall-master/meta/
+-rw-rw-r-- root/root      1959 2019-05-23 02:01 AnsibleInstall-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 02:01 AnsibleInstall-master/tasks/
+-rw-rw-r-- root/root      2044 2019-05-23 02:01 AnsibleInstall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 02:01 AnsibleInstall-master/tests/
+-rw-rw-r-- root/root        11 2019-05-23 02:01 AnsibleInstall-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-05-23 02:01 AnsibleInstall-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-23 02:01 AnsibleInstall-master/vars/
+-rw-rw-r-- root/root       181 2019-05-23 02:01 AnsibleInstall-master/vars/main.yml

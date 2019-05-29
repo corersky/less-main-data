@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2016-10-29 07:53 ansible-role-sublime-drupal-master/
+-rw-rw-r-- root/root       894 2016-10-29 07:53 ansible-role-sublime-drupal-master/.travis.yml
+-rw-rw-r-- root/root      1017 2016-10-29 07:53 ansible-role-sublime-drupal-master/README.md
+drwxrwxr-x root/root         0 2016-10-29 07:53 ansible-role-sublime-drupal-master/defaults/
+-rw-rw-r-- root/root      2185 2016-10-29 07:53 ansible-role-sublime-drupal-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-29 07:53 ansible-role-sublime-drupal-master/files/
+-rw-rw-r-- root/root     21843 2016-10-29 07:53 ansible-role-sublime-drupal-master/files/Espresso Soda.tmTheme
+-rw-rw-r-- root/root     10783 2016-10-29 07:53 ansible-role-sublime-drupal-master/files/Monokai Soda.tmTheme
+drwxrwxr-x root/root         0 2016-10-29 07:53 ansible-role-sublime-drupal-master/meta/
+-rw-rw-r-- root/root       403 2016-10-29 07:53 ansible-role-sublime-drupal-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-29 07:53 ansible-role-sublime-drupal-master/tasks/
+-rw-rw-r-- root/root      3055 2016-10-29 07:53 ansible-role-sublime-drupal-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-29 07:53 ansible-role-sublime-drupal-master/tests/
+-rw-rw-r-- root/root         9 2016-10-29 07:53 ansible-role-sublime-drupal-master/tests/inventory
+-rw-rw-r-- root/root       192 2016-10-29 07:53 ansible-role-sublime-drupal-master/tests/test.yml
+-rw-rw-r-- root/root        32 2016-10-29 07:53 ansible-role-sublime-drupal-master/tests/vars.yml
+drwxrwxr-x root/root         0 2016-10-29 07:53 ansible-role-sublime-drupal-master/vars/
+-rw-rw-r-- root/root       209 2016-10-29 07:53 ansible-role-sublime-drupal-master/vars/vars-MacOSX.yml

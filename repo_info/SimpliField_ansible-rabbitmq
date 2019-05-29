@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-02 09:18 ansible-rabbitmq-master/
+-rw-rw-r-- root/root      1082 2019-01-02 09:18 ansible-rabbitmq-master/.travis.yml
+-rw-rw-r-- root/root      1249 2019-01-02 09:18 ansible-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2019-01-02 09:18 ansible-rabbitmq-master/defaults/
+-rw-rw-r-- root/root       131 2019-01-02 09:18 ansible-rabbitmq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-02 09:18 ansible-rabbitmq-master/handlers/
+-rw-rw-r-- root/root        85 2019-01-02 09:18 ansible-rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-02 09:18 ansible-rabbitmq-master/meta/
+-rw-rw-r-- root/root       423 2019-01-02 09:18 ansible-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-02 09:18 ansible-rabbitmq-master/tasks/
+-rw-rw-r-- root/root       974 2019-01-02 09:18 ansible-rabbitmq-master/tasks/erlang-cookie.yml
+-rw-rw-r-- root/root      1780 2019-01-02 09:18 ansible-rabbitmq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-02 09:18 ansible-rabbitmq-master/tests/
+-rw-rw-r-- root/root         9 2019-01-02 09:18 ansible-rabbitmq-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-01-02 09:18 ansible-rabbitmq-master/tests/test.yml

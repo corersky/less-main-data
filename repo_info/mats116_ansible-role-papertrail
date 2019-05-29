@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-11-25 19:49 ansible-role-papertrail-master/
+-rw-rw-r-- root/root       607 2015-11-25 19:49 ansible-role-papertrail-master/README.md
+drwxrwxr-x root/root         0 2015-11-25 19:49 ansible-role-papertrail-master/defaults/
+-rw-rw-r-- root/root        35 2015-11-25 19:49 ansible-role-papertrail-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:49 ansible-role-papertrail-master/files/
+-rw-rw-r-- root/root    252987 2015-11-25 19:49 ansible-role-papertrail-master/files/papertrail-bundle.pem
+drwxrwxr-x root/root         0 2015-11-25 19:49 ansible-role-papertrail-master/handlers/
+-rw-rw-r-- root/root        74 2015-11-25 19:49 ansible-role-papertrail-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:49 ansible-role-papertrail-master/meta/
+-rw-rw-r-- root/root       250 2015-11-25 19:49 ansible-role-papertrail-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:49 ansible-role-papertrail-master/tasks/
+-rw-rw-r-- root/root       457 2015-11-25 19:49 ansible-role-papertrail-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:49 ansible-role-papertrail-master/templates/
+-rw-rw-r-- root/root       498 2015-11-25 19:49 ansible-role-papertrail-master/templates/papertrail.conf

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-04-13 08:59 ansible-dosomething-dev-master/
+-rw-rw-r-- root/root      1349 2015-04-13 08:59 ansible-dosomething-dev-master/README.md
+drwxrwxr-x root/root         0 2015-04-13 08:59 ansible-dosomething-dev-master/defaults/
+-rw-rw-r-- root/root        40 2015-04-13 08:59 ansible-dosomething-dev-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-13 08:59 ansible-dosomething-dev-master/handlers/
+-rw-rw-r-- root/root        40 2015-04-13 08:59 ansible-dosomething-dev-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-13 08:59 ansible-dosomething-dev-master/meta/
+-rw-rw-r-- root/root       387 2015-04-13 08:59 ansible-dosomething-dev-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-13 08:59 ansible-dosomething-dev-master/tasks/
+-rw-rw-r-- root/root        60 2015-04-13 08:59 ansible-dosomething-dev-master/tasks/main.yml
+-rw-rw-r-- root/root       159 2015-04-13 08:59 ansible-dosomething-dev-master/tasks/testing-utilities.yml
+-rw-rw-r-- root/root       441 2015-04-13 08:59 ansible-dosomething-dev-master/tasks/xdebug.yml
+drwxrwxr-x root/root         0 2015-04-13 08:59 ansible-dosomething-dev-master/vars/
+-rw-rw-r-- root/root        36 2015-04-13 08:59 ansible-dosomething-dev-master/vars/main.yml

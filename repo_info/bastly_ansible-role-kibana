@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-11-11 10:36 ansible-role-kibana-master/
+-rw-rw-r-- root/root       994 2014-11-11 10:36 ansible-role-kibana-master/.travis.yml
+-rw-rw-r-- root/root      1895 2014-11-11 10:36 ansible-role-kibana-master/README.md
+drwxrwxr-x root/root         0 2014-11-11 10:36 ansible-role-kibana-master/defaults/
+-rw-rw-r-- root/root       206 2014-11-11 10:36 ansible-role-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-11 10:36 ansible-role-kibana-master/meta/
+-rw-rw-r-- root/root       374 2014-11-11 10:36 ansible-role-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-11 10:36 ansible-role-kibana-master/tasks/
+-rw-rw-r-- root/root      1292 2014-11-11 10:36 ansible-role-kibana-master/tasks/main.yml
+-rw-rw-r-- root/root       201 2014-11-11 10:36 ansible-role-kibana-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       215 2014-11-11 10:36 ansible-role-kibana-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2014-11-11 10:36 ansible-role-kibana-master/templates/
+-rw-rw-r-- root/root      2322 2014-11-11 10:36 ansible-role-kibana-master/templates/config.js.j2
+-rw-rw-r-- root/root      2456 2014-11-11 10:36 ansible-role-kibana-master/templates/kibana.conf.j2
+drwxrwxr-x root/root         0 2014-11-11 10:36 ansible-role-kibana-master/tests/
+-rw-rw-r-- root/root        10 2014-11-11 10:36 ansible-role-kibana-master/tests/inventory
+-rw-rw-r-- root/root       131 2014-11-11 10:36 ansible-role-kibana-master/tests/test.yml

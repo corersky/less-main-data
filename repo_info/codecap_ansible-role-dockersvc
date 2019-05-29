@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-27 09:28 ansible-role-dockersvc-master/
+-rw-rw-r-- root/root       750 2018-07-27 09:28 ansible-role-dockersvc-master/.travis.yml
+-rw-rw-r-- root/root      2313 2018-07-27 09:28 ansible-role-dockersvc-master/README.md
+drwxrwxr-x root/root         0 2018-07-27 09:28 ansible-role-dockersvc-master/defaults/
+-rw-rw-r-- root/root       215 2018-07-27 09:28 ansible-role-dockersvc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-27 09:28 ansible-role-dockersvc-master/handlers/
+-rw-rw-r-- root/root       679 2018-07-27 09:28 ansible-role-dockersvc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-27 09:28 ansible-role-dockersvc-master/meta/
+-rw-rw-r-- root/root        60 2018-07-27 09:28 ansible-role-dockersvc-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root      3966 2018-07-27 09:28 ansible-role-dockersvc-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-27 09:28 ansible-role-dockersvc-master/tasks/
+-rw-rw-r-- root/root      2953 2018-07-27 09:28 ansible-role-dockersvc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-27 09:28 ansible-role-dockersvc-master/tests/
+-rw-rw-r-- root/root         9 2018-07-27 09:28 ansible-role-dockersvc-master/tests/inventory
+-rw-rw-r-- root/root       523 2018-07-27 09:28 ansible-role-dockersvc-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-27 09:28 ansible-role-dockersvc-master/vars/
+-rw-rw-r-- root/root      2905 2018-07-27 09:28 ansible-role-dockersvc-master/vars/main.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-ad-groups-master/
+-rw-rw-r-- root/root       300 2017-05-10 05:10 ansible-azure-ad-groups-master/README.md
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-ad-groups-master/defaults/
+-rw-rw-r-- root/root       470 2017-05-10 05:10 ansible-azure-ad-groups-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-ad-groups-master/library/
+-rw-rw-r-- root/root      9450 2017-05-10 05:10 ansible-azure-ad-groups-master/library/azure_ad_groups.py
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-ad-groups-master/meta/
+-rw-rw-r-- root/root       219 2017-05-10 05:10 ansible-azure-ad-groups-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-ad-groups-master/tasks/
+-rw-rw-r-- root/root       343 2017-05-10 05:10 ansible-azure-ad-groups-master/tasks/main.yml

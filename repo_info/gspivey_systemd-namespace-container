@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-16 20:09 systemd-namespace-container-master/
+-rw-rw-r-- root/root      1070 2017-12-16 20:09 systemd-namespace-container-master/LICENSE
+-rw-rw-r-- root/root       717 2017-12-16 20:09 systemd-namespace-container-master/README.md
+drwxrwxr-x root/root         0 2017-12-16 20:09 systemd-namespace-container-master/defaults/
+-rw-rw-r-- root/root      1354 2017-12-16 20:09 systemd-namespace-container-master/defaults/passwd
+-rw-rw-r-- root/root      1200 2017-12-16 20:09 systemd-namespace-container-master/defaults/shadow
+-rw-rw-r-- root/root       148 2017-12-16 20:09 systemd-namespace-container-master/deploy.yml
+-rw-rw-r-- root/root        25 2017-12-16 20:09 systemd-namespace-container-master/hosts
+drwxrwxr-x root/root         0 2017-12-16 20:09 systemd-namespace-container-master/meta/
+-rw-rw-r-- root/root       298 2017-12-16 20:09 systemd-namespace-container-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-16 20:09 systemd-namespace-container-master/tasks/
+-rw-rw-r-- root/root      1925 2017-12-16 20:09 systemd-namespace-container-master/tasks/main.yml

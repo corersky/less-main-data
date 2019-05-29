@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/
+-rw-rw-r-- root/root        23 2016-04-25 13:12 ansible-role-lxc-master/.gitignore
+-rw-rw-r-- root/root       892 2016-04-25 13:12 ansible-role-lxc-master/README.md
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/defaults/
+-rw-rw-r-- root/root        94 2016-04-25 13:12 ansible-role-lxc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/handlers/
+-rw-rw-r-- root/root       133 2016-04-25 13:12 ansible-role-lxc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/meta/
+-rw-rw-r-- root/root       225 2016-04-25 13:12 ansible-role-lxc-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/tasks/
+-rw-rw-r-- root/root       700 2016-04-25 13:12 ansible-role-lxc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/templates/
+-rw-rw-r-- root/root       168 2016-04-25 13:12 ansible-role-lxc-master/templates/ifcfg-virbr0.j2
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/tests/
+-rw-rw-r-- root/root       638 2016-04-25 13:12 ansible-role-lxc-master/tests/Vagrantfile
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-04-25 13:12 ansible-role-lxc-master/tests/roles/RDI2.lxc -> ../../
+-rw-rw-r-- root/root        41 2016-04-25 13:12 ansible-role-lxc-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-04-25 13:12 ansible-role-lxc-master/vars/
+-rw-rw-r-- root/root        24 2016-04-25 13:12 ansible-role-lxc-master/vars/main.yml

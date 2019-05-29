@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-30 11:13 ansible_control_server-master/
+-rw-rw-r-- root/root       718 2019-03-30 11:13 ansible_control_server-master/README.md
+drwxrwxr-x root/root         0 2019-03-30 11:13 ansible_control_server-master/defaults/
+-rw-rw-r-- root/root       244 2019-03-30 11:13 ansible_control_server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-30 11:13 ansible_control_server-master/meta/
+-rw-rw-r-- root/root      1982 2019-03-30 11:13 ansible_control_server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-30 11:13 ansible_control_server-master/tasks/
+-rw-rw-r-- root/root      1937 2019-03-30 11:13 ansible_control_server-master/tasks/create_certificate.yml
+-rw-rw-r-- root/root       883 2019-03-30 11:13 ansible_control_server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-30 11:13 ansible_control_server-master/tests/
+-rw-rw-r-- root/root        11 2019-03-30 11:13 ansible_control_server-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-03-30 11:13 ansible_control_server-master/tests/test.yml

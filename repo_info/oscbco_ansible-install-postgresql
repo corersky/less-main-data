@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-03 00:36 ansible-install-postgresql-master/
+-rw-rw-r-- root/root       912 2019-04-03 00:36 ansible-install-postgresql-master/README.md
+drwxrwxr-x root/root         0 2019-04-03 00:36 ansible-install-postgresql-master/defaults/
+-rw-rw-r-- root/root        50 2019-04-03 00:36 ansible-install-postgresql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-03 00:36 ansible-install-postgresql-master/handlers/
+-rw-rw-r-- root/root       104 2019-04-03 00:36 ansible-install-postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-03 00:36 ansible-install-postgresql-master/meta/
+-rw-rw-r-- root/root       259 2019-04-03 00:36 ansible-install-postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-03 00:36 ansible-install-postgresql-master/tasks/
+-rw-rw-r-- root/root       466 2019-04-03 00:36 ansible-install-postgresql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-03 00:36 ansible-install-postgresql-master/tests/
+-rw-rw-r-- root/root        11 2019-04-03 00:36 ansible-install-postgresql-master/tests/inventory
+-rw-rw-r-- root/root        84 2019-04-03 00:36 ansible-install-postgresql-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-03 00:36 ansible-install-postgresql-master/vars/
+-rw-rw-r-- root/root         0 2019-04-03 00:36 ansible-install-postgresql-master/vars/main.yml

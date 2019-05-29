@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2014-05-01 00:28 ansible-package_server-master/
+-rw-rw-r-- root/root      2453 2014-05-01 00:28 ansible-package_server-master/README.md
+drwxrwxr-x root/root         0 2014-05-01 00:28 ansible-package_server-master/meta/
+-rw-rw-r-- root/root       673 2014-05-01 00:28 ansible-package_server-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-01 00:28 ansible-package_server-master/tasks/
+-rw-rw-r-- root/root      1420 2014-05-01 00:28 ansible-package_server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-01 00:28 ansible-package_server-master/templates/
+-rw-rw-r-- root/root       170 2014-05-01 00:28 ansible-package_server-master/templates/after-install.sh.j2
+-rw-rw-r-- root/root       803 2014-05-01 00:28 ansible-package_server-master/templates/pack.sh.j2

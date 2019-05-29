@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-20 03:27 ansible-role-docker-compose-master/
+-rw-rw-r-- root/root        25 2017-12-20 03:27 ansible-role-docker-compose-master/.gitattributes
+-rw-rw-r-- root/root         5 2017-12-20 03:27 ansible-role-docker-compose-master/.gitignore
+-rw-rw-r-- root/root       539 2017-12-20 03:27 ansible-role-docker-compose-master/.travis.yml
+-rw-rw-r-- root/root       265 2017-12-20 03:27 ansible-role-docker-compose-master/CHANGELOG.md
+-rw-rw-r-- root/root      1080 2017-12-20 03:27 ansible-role-docker-compose-master/LICENSE
+-rw-rw-r-- root/root       736 2017-12-20 03:27 ansible-role-docker-compose-master/README.md
+-rw-rw-r-- root/root         5 2017-12-20 03:27 ansible-role-docker-compose-master/VERSION
+drwxrwxr-x root/root         0 2017-12-20 03:27 ansible-role-docker-compose-master/defaults/
+-rw-rw-r-- root/root        36 2017-12-20 03:27 ansible-role-docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:27 ansible-role-docker-compose-master/meta/
+-rw-rw-r-- root/root       236 2017-12-20 03:27 ansible-role-docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:27 ansible-role-docker-compose-master/tasks/
+-rw-rw-r-- root/root      1685 2017-12-20 03:27 ansible-role-docker-compose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:27 ansible-role-docker-compose-master/tests/
+-rw-rw-r-- root/root         9 2017-12-20 03:27 ansible-role-docker-compose-master/tests/inventory
+-rw-rw-r-- root/root        91 2017-12-20 03:27 ansible-role-docker-compose-master/tests/test.yml

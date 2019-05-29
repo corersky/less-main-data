@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-25 21:17 zabbix-agent-master/
+-rw-rw-r-- root/root      1073 2019-04-25 21:17 zabbix-agent-master/LICENSE
+-rw-rw-r-- root/root      1328 2019-04-25 21:17 zabbix-agent-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 21:17 zabbix-agent-master/defaults/
+-rw-rw-r-- root/root       515 2019-04-25 21:17 zabbix-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:17 zabbix-agent-master/handlers/
+-rw-rw-r-- root/root        47 2019-04-25 21:17 zabbix-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:17 zabbix-agent-master/meta/
+-rw-rw-r-- root/root       271 2019-04-25 21:17 zabbix-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:17 zabbix-agent-master/tasks/
+-rw-rw-r-- root/root       668 2019-04-25 21:17 zabbix-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:17 zabbix-agent-master/tests/
+-rw-rw-r-- root/root        11 2019-04-25 21:17 zabbix-agent-master/tests/inventory
+-rw-rw-r-- root/root       350 2019-04-25 21:17 zabbix-agent-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-25 21:17 zabbix-agent-master/vars/
+-rw-rw-r-- root/root        43 2019-04-25 21:17 zabbix-agent-master/vars/main.yml

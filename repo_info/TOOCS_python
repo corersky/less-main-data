@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-12 14:36 python-master/
+-rw-rw-r-- root/root       135 2019-01-12 14:36 python-master/.travis.yml
+-rw-rw-r-- root/root      1074 2019-01-12 14:36 python-master/LICENSE.md
+-rw-rw-r-- root/root      4647 2019-01-12 14:36 python-master/README.md
+drwxrwxr-x root/root         0 2019-01-12 14:36 python-master/defaults/
+-rw-rw-r-- root/root        81 2019-01-12 14:36 python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-12 14:36 python-master/meta/
+-rw-rw-r-- root/root       616 2019-01-12 14:36 python-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-12 14:36 python-master/old/
+-rw-rw-r-- root/root      4278 2019-01-12 14:36 python-master/old/tasks_main_old.yml
+-rw-rw-r-- root/root        73 2019-01-12 14:36 python-master/sample_zlogin
+-rw-rw-r-- root/root        69 2019-01-12 14:36 python-master/sample_zshrc
+drwxrwxr-x root/root         0 2019-01-12 14:36 python-master/tasks/
+-rw-rw-r-- root/root       369 2019-01-12 14:36 python-master/tasks/main.yml
+-rw-rw-r-- root/root      1128 2019-01-12 14:36 python-master/tasks/with-asdf.yml
+-rw-rw-r-- root/root      3062 2019-01-12 14:36 python-master/tasks/with-pyenv.yml

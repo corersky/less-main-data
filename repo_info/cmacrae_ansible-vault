@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-01-15 09:16 ansible-vault-master/
+-rw-rw-r-- root/root      2914 2018-01-15 09:16 ansible-vault-master/README.md
+drwxrwxr-x root/root         0 2018-01-15 09:16 ansible-vault-master/defaults/
+-rw-rw-r-- root/root       649 2018-01-15 09:16 ansible-vault-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-15 09:16 ansible-vault-master/handlers/
+-rw-rw-r-- root/root       117 2018-01-15 09:16 ansible-vault-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-15 09:16 ansible-vault-master/meta/
+-rw-rw-r-- root/root       240 2018-01-15 09:16 ansible-vault-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-15 09:16 ansible-vault-master/tasks/
+-rw-rw-r-- root/root      1933 2018-01-15 09:16 ansible-vault-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-15 09:16 ansible-vault-master/templates/
+-rw-rw-r-- root/root        46 2018-01-15 09:16 ansible-vault-master/templates/main.json.j2
+-rw-rw-r-- root/root       406 2018-01-15 09:16 ansible-vault-master/templates/vault.service.j2

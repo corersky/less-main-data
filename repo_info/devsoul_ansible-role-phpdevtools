@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-10 15:21 ansible-role-phpdevtools-master/
+-rw-rw-r-- root/root       154 2018-11-10 15:21 ansible-role-phpdevtools-master/.yamllint
+-rw-rw-r-- root/root      1073 2018-11-10 15:21 ansible-role-phpdevtools-master/LICENSE
+-rw-rw-r-- root/root      1315 2018-11-10 15:21 ansible-role-phpdevtools-master/README.md
+drwxrwxr-x root/root         0 2018-11-10 15:21 ansible-role-phpdevtools-master/defaults/
+-rw-rw-r-- root/root         4 2018-11-10 15:21 ansible-role-phpdevtools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-10 15:21 ansible-role-phpdevtools-master/handlers/
+-rw-rw-r-- root/root         4 2018-11-10 15:21 ansible-role-phpdevtools-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-10 15:21 ansible-role-phpdevtools-master/meta/
+-rw-rw-r-- root/root      1224 2018-11-10 15:21 ansible-role-phpdevtools-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-10 15:21 ansible-role-phpdevtools-master/tasks/
+-rw-rw-r-- root/root         4 2018-11-10 15:21 ansible-role-phpdevtools-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-10 15:21 ansible-role-phpdevtools-master/tests/
+-rw-rw-r-- root/root        11 2018-11-10 15:21 ansible-role-phpdevtools-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-11-10 15:21 ansible-role-phpdevtools-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-10 15:21 ansible-role-phpdevtools-master/vars/
+-rw-rw-r-- root/root         4 2018-11-10 15:21 ansible-role-phpdevtools-master/vars/main.yml

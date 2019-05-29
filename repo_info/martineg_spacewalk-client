@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-02-16 09:57 spacewalk-client-master/
+-rw-rw-r-- root/root       270 2015-02-16 09:57 spacewalk-client-master/README.md
+drwxrwxr-x root/root         0 2015-02-16 09:57 spacewalk-client-master/defaults/
+-rw-rw-r-- root/root       504 2015-02-16 09:57 spacewalk-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-16 09:57 spacewalk-client-master/meta/
+-rw-rw-r-- root/root       229 2015-02-16 09:57 spacewalk-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-16 09:57 spacewalk-client-master/tasks/
+-rw-rw-r-- root/root      1448 2015-02-16 09:57 spacewalk-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-16 09:57 spacewalk-client-master/templates/
+-rw-rw-r-- root/root        36 2015-02-16 09:57 spacewalk-client-master/templates/rhnsd
+-rw-rw-r-- root/root      1933 2015-02-16 09:57 spacewalk-client-master/templates/up2date
+drwxrwxr-x root/root         0 2015-02-16 09:57 spacewalk-client-master/vars/
+-rw-rw-r-- root/root       133 2015-02-16 09:57 spacewalk-client-master/vars/main.yml

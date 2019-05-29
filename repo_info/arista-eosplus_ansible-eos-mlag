@@ -1,0 +1,57 @@
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/
+-rw-rw-r-- root/root       702 2017-09-13 10:24 ansible-eos-mlag-master/.gitignore
+-rw-rw-r-- root/root      2376 2017-09-13 10:24 ansible-eos-mlag-master/Jenkinsfile
+-rw-rw-r-- root/root      1495 2017-09-13 10:24 ansible-eos-mlag-master/LICENSE
+-rw-rw-r-- root/root       765 2017-09-13 10:24 ansible-eos-mlag-master/Makefile
+-rw-rw-r-- root/root     11479 2017-09-13 10:24 ansible-eos-mlag-master/README.md
+-rw-rw-r-- root/root         6 2017-09-13 10:24 ansible-eos-mlag-master/VERSION
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/defaults/
+-rw-rw-r-- root/root       359 2017-09-13 10:24 ansible-eos-mlag-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/files/
+-rw-rw-r-- root/root        28 2017-09-13 10:24 ansible-eos-mlag-master/files/README.md
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/filter_plugins/
+-rw-rw-r-- root/root      3772 2017-09-13 10:24 ansible-eos-mlag-master/filter_plugins/config_block.py
+-rw-rw-r-- root/root      2888 2017-09-13 10:24 ansible-eos-mlag-master/filter_plugins/range.py
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/handlers/
+-rw-rw-r-- root/root      2047 2017-09-13 10:24 ansible-eos-mlag-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/meta/
+-rw-rw-r-- root/root      1841 2017-09-13 10:24 ansible-eos-mlag-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/tasks/
+-rw-rw-r-- root/root      1537 2017-09-13 10:24 ansible-eos-mlag-master/tasks/main.yml
+-rw-rw-r-- root/root      2717 2017-09-13 10:24 ansible-eos-mlag-master/tasks/resources2.1.yml
+-rw-rw-r-- root/root      2673 2017-09-13 10:24 ansible-eos-mlag-master/tasks/resources2.2.yml
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/templates/
+-rw-rw-r-- root/root        32 2017-09-13 10:24 ansible-eos-mlag-master/templates/README.md
+-rw-rw-r-- root/root      1952 2017-09-13 10:24 ansible-eos-mlag-master/templates/base_mlag.j2
+-rw-rw-r-- root/root       588 2017-09-13 10:24 ansible-eos-mlag-master/templates/base_po.j2
+-rw-rw-r-- root/root      4869 2017-09-13 10:24 ansible-eos-mlag-master/templates/base_vlan.j2
+-rw-rw-r-- root/root      1366 2017-09-13 10:24 ansible-eos-mlag-master/templates/peer_links.j2
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/
+-rw-rw-r-- root/root       661 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/.gitignore
+-rw-rw-r-- root/root      1494 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/LICENSE
+-rw-rw-r-- root/root     23038 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/README.md
+-rw-rw-r-- root/root      2493 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/eos_module.yml
+-rw-rw-r-- root/root       226 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/eos_role.yml
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/group_vars/
+-rw-rw-r-- root/root       160 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/group_vars/all.yml
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-acl -> ../../../../ansible-eos-acl
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-bgp -> ../../../../ansible-eos-bgp
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-bridging -> ../../../../ansible-eos-bridging
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-interfaces -> ../../../../ansible-eos-interfaces
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-ipv4 -> ../../../../ansible-eos-ipv4
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-mlag -> ../../../../ansible-eos-mlag
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-route-control -> ../../../../ansible-eos-route-control
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-system -> ../../../../ansible-eos-route-system
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-virtual-router -> ../../../../ansible-eos-virtual-router
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/roles/arista.eos-vxlan -> ../../../../ansible-eos-vxlan
+-rw-rw-r-- root/root     30868 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/test_module.py
+lrwxrwxrwx root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/testcases -> ../testcases
+-rwxrwxr-x root/root      1392 2017-09-13 10:24 ansible-eos-mlag-master/test/arista-ansible-role-test/update_arista_roles.sh
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/fixtures/
+-rw-rw-r-- root/root        95 2017-09-13 10:24 ansible-eos-mlag-master/test/fixtures/hosts
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/test/testcases/
+-rw-rw-r-- root/root     15334 2017-09-13 10:24 ansible-eos-mlag-master/test/testcases/mlag.yml
+drwxrwxr-x root/root         0 2017-09-13 10:24 ansible-eos-mlag-master/vars/
+-rw-rw-r-- root/root        29 2017-09-13 10:24 ansible-eos-mlag-master/vars/main.yml

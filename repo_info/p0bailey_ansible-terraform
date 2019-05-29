@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-26 07:05 ansible-terraform-master/
+-rw-rw-r-- root/root       592 2016-03-26 07:05 ansible-terraform-master/README.md
+drwxrwxr-x root/root         0 2016-03-26 07:05 ansible-terraform-master/defaults/
+-rw-rw-r-- root/root       259 2016-03-26 07:05 ansible-terraform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-26 07:05 ansible-terraform-master/handlers/
+-rw-rw-r-- root/root        34 2016-03-26 07:05 ansible-terraform-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-26 07:05 ansible-terraform-master/meta/
+-rw-rw-r-- root/root       269 2016-03-26 07:05 ansible-terraform-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-26 07:05 ansible-terraform-master/tasks/
+-rw-rw-r-- root/root      1478 2016-03-26 07:05 ansible-terraform-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-26 07:05 ansible-terraform-master/tests/
+-rw-rw-r-- root/root         9 2016-03-26 07:05 ansible-terraform-master/tests/inventory
+-rw-rw-r-- root/root        67 2016-03-26 07:05 ansible-terraform-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-26 07:05 ansible-terraform-master/vars/
+-rw-rw-r-- root/root        30 2016-03-26 07:05 ansible-terraform-master/vars/main.yml

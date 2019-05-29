@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-19 15:26 ansible-acl-master/
+-rw-rw-r-- root/root     11357 2017-09-19 15:26 ansible-acl-master/LICENSE
+-rw-rw-r-- root/root       113 2017-09-19 15:26 ansible-acl-master/README.md
+drwxrwxr-x root/root         0 2017-09-19 15:26 ansible-acl-master/defaults/
+-rw-rw-r-- root/root        27 2017-09-19 15:26 ansible-acl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-19 15:26 ansible-acl-master/handlers/
+-rw-rw-r-- root/root        27 2017-09-19 15:26 ansible-acl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-19 15:26 ansible-acl-master/meta/
+-rw-rw-r-- root/root       262 2017-09-19 15:26 ansible-acl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-19 15:26 ansible-acl-master/tasks/
+-rw-rw-r-- root/root       112 2017-09-19 15:26 ansible-acl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-19 15:26 ansible-acl-master/tests/
+-rw-rw-r-- root/root        11 2017-09-19 15:26 ansible-acl-master/tests/inventory
+-rw-rw-r-- root/root        61 2017-09-19 15:26 ansible-acl-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-19 15:26 ansible-acl-master/vars/
+-rw-rw-r-- root/root        23 2017-09-19 15:26 ansible-acl-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-07-28 16:29 ansible-role-grub-master/
+-rw-rw-r-- root/root      1514 2018-07-28 16:29 ansible-role-grub-master/LICENSE
+-rw-rw-r-- root/root        46 2018-07-28 16:29 ansible-role-grub-master/README.md
+drwxrwxr-x root/root         0 2018-07-28 16:29 ansible-role-grub-master/defaults/
+-rw-rw-r-- root/root       122 2018-07-28 16:29 ansible-role-grub-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:29 ansible-role-grub-master/meta/
+-rw-rw-r-- root/root       425 2018-07-28 16:29 ansible-role-grub-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:29 ansible-role-grub-master/tasks/
+-rw-rw-r-- root/root       397 2018-07-28 16:29 ansible-role-grub-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2018-07-28 16:29 ansible-role-grub-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:29 ansible-role-grub-master/templates/
+-rw-rw-r-- root/root       214 2018-07-28 16:29 ansible-role-grub-master/templates/grub.j2

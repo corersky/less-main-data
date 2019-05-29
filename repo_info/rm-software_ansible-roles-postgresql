@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-16 02:02 ansible-roles-postgresql-master/
+-rw-rw-r-- root/root       145 2018-07-16 02:02 ansible-roles-postgresql-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-07-16 02:02 ansible-roles-postgresql-master/LICENSE
+-rw-rw-r-- root/root       782 2018-07-16 02:02 ansible-roles-postgresql-master/README.md
+drwxrwxr-x root/root         0 2018-07-16 02:02 ansible-roles-postgresql-master/defaults/
+-rw-rw-r-- root/root       319 2018-07-16 02:02 ansible-roles-postgresql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-16 02:02 ansible-roles-postgresql-master/handlers/
+-rw-rw-r-- root/root       130 2018-07-16 02:02 ansible-roles-postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-16 02:02 ansible-roles-postgresql-master/meta/
+-rw-rw-r-- root/root       290 2018-07-16 02:02 ansible-roles-postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-16 02:02 ansible-roles-postgresql-master/tasks/
+-rw-rw-r-- root/root       427 2018-07-16 02:02 ansible-roles-postgresql-master/tasks/add_repo.yml
+-rw-rw-r-- root/root       167 2018-07-16 02:02 ansible-roles-postgresql-master/tasks/install_client.yml
+-rw-rw-r-- root/root       145 2018-07-16 02:02 ansible-roles-postgresql-master/tasks/install_psycopg2.yml
+-rw-rw-r-- root/root      1066 2018-07-16 02:02 ansible-roles-postgresql-master/tasks/install_server.yml
+-rw-rw-r-- root/root       633 2018-07-16 02:02 ansible-roles-postgresql-master/tasks/main.yml

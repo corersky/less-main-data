@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-03-08 16:24 ansible-hosts-master/
+-rw-rw-r-- root/root       618 2017-03-08 16:24 ansible-hosts-master/.travis.yml
+-rw-rw-r-- root/root       426 2017-03-08 16:24 ansible-hosts-master/README.md
+drwxrwxr-x root/root         0 2017-03-08 16:24 ansible-hosts-master/meta/
+-rw-rw-r-- root/root       356 2017-03-08 16:24 ansible-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-08 16:24 ansible-hosts-master/tasks/
+-rw-rw-r-- root/root       205 2017-03-08 16:24 ansible-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-08 16:24 ansible-hosts-master/tests/
+-rw-rw-r-- root/root         9 2017-03-08 16:24 ansible-hosts-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-03-08 16:24 ansible-hosts-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-02-17 04:10 ansible-role-elixir-master/
+-rw-rw-r-- root/root        10 2017-02-17 04:10 ansible-role-elixir-master/.gitignore
+-rw-rw-r-- root/root       539 2017-02-17 04:10 ansible-role-elixir-master/.travis.yml
+-rw-rw-r-- root/root     10242 2017-02-17 04:10 ansible-role-elixir-master/LICENSE
+-rw-rw-r-- root/root       276 2017-02-17 04:10 ansible-role-elixir-master/README.md
+drwxrwxr-x root/root         0 2017-02-17 04:10 ansible-role-elixir-master/meta/
+-rw-rw-r-- root/root       333 2017-02-17 04:10 ansible-role-elixir-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-17 04:10 ansible-role-elixir-master/tasks/
+-rw-rw-r-- root/root       494 2017-02-17 04:10 ansible-role-elixir-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-17 04:10 ansible-role-elixir-master/tests/
+-rw-rw-r-- root/root         9 2017-02-17 04:10 ansible-role-elixir-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-02-17 04:10 ansible-role-elixir-master/tests/test.yml

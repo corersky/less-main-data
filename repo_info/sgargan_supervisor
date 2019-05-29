@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-10-26 17:01 supervisor-master/
+-rw-rw-r-- root/root      1087 2014-10-26 17:01 supervisor-master/LICENSE.md
+-rw-rw-r-- root/root       519 2014-10-26 17:01 supervisor-master/README.md
+drwxrwxr-x root/root         0 2014-10-26 17:01 supervisor-master/defaults/
+-rw-rw-r-- root/root      1345 2014-10-26 17:01 supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-26 17:01 supervisor-master/handlers/
+-rw-rw-r-- root/root       280 2014-10-26 17:01 supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-26 17:01 supervisor-master/meta/
+-rw-rw-r-- root/root       280 2014-10-26 17:01 supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-26 17:01 supervisor-master/tasks/
+-rw-rw-r-- root/root       365 2014-10-26 17:01 supervisor-master/tasks/configure.yml
+-rw-rw-r-- root/root       488 2014-10-26 17:01 supervisor-master/tasks/install.yml
+-rw-rw-r-- root/root        95 2014-10-26 17:01 supervisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-26 17:01 supervisor-master/templates/
+-rw-rw-r-- root/root      1320 2014-10-26 17:01 supervisor-master/templates/supervisord.conf

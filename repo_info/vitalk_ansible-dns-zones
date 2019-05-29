@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-10-23 09:44 ansible-dns-zones-master/
+-rw-rw-r-- root/root      1328 2014-10-23 09:44 ansible-dns-zones-master/README.md
+drwxrwxr-x root/root         0 2014-10-23 09:44 ansible-dns-zones-master/defaults/
+-rw-rw-r-- root/root       257 2014-10-23 09:44 ansible-dns-zones-master/defaults/main.yml
+-rw-rw-r-- root/root        10 2014-10-23 09:44 ansible-dns-zones-master/hosts.example
+drwxrwxr-x root/root         0 2014-10-23 09:44 ansible-dns-zones-master/meta/
+-rw-rw-r-- root/root       376 2014-10-23 09:44 ansible-dns-zones-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-23 09:44 ansible-dns-zones-master/tasks/
+-rw-rw-r-- root/root       443 2014-10-23 09:44 ansible-dns-zones-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-23 09:44 ansible-dns-zones-master/templates/
+-rw-rw-r-- root/root       209 2014-10-23 09:44 ansible-dns-zones-master/templates/db.example.com.j2
+-rw-rw-r-- root/root       839 2014-10-23 09:44 ansible-dns-zones-master/templates/db.zone.j2
+-rw-rw-r-- root/root       102 2014-10-23 09:44 ansible-dns-zones-master/test.yml

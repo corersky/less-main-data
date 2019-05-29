@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-hipaa-master/
+-rw-rw-r-- root/root      2525 2018-12-11 10:12 rhel7-role-hipaa-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-hipaa-master/defaults/
+-rw-rw-r-- root/root        40 2018-12-11 10:12 rhel7-role-hipaa-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-hipaa-master/handlers/
+-rw-rw-r-- root/root        40 2018-12-11 10:12 rhel7-role-hipaa-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-hipaa-master/meta/
+-rw-rw-r-- root/root       538 2018-12-11 10:12 rhel7-role-hipaa-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-hipaa-master/tasks/
+-rw-rw-r-- root/root    207018 2018-12-11 10:12 rhel7-role-hipaa-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-hipaa-master/tests/
+-rw-rw-r-- root/root        11 2018-12-11 10:12 rhel7-role-hipaa-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-12-11 10:12 rhel7-role-hipaa-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-hipaa-master/vars/
+-rw-rw-r-- root/root       375 2018-12-11 10:12 rhel7-role-hipaa-master/vars/main.yml

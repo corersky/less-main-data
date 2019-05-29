@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-10-14 19:16 ansible-td-agent-master/
+-rw-rw-r-- root/root       282 2015-10-14 19:16 ansible-td-agent-master/ChangeLog
+-rw-rw-r-- root/root      1082 2015-10-14 19:16 ansible-td-agent-master/LICENSE
+-rw-rw-r-- root/root       237 2015-10-14 19:16 ansible-td-agent-master/README.md
+drwxrwxr-x root/root         0 2015-10-14 19:16 ansible-td-agent-master/defaults/
+-rw-rw-r-- root/root        41 2015-10-14 19:16 ansible-td-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-14 19:16 ansible-td-agent-master/tasks/
+-rw-rw-r-- root/root       748 2015-10-14 19:16 ansible-td-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-14 19:16 ansible-td-agent-master/templates/
+-rw-rw-r-- root/root       292 2015-10-14 19:16 ansible-td-agent-master/templates/td-agent.conf.j2

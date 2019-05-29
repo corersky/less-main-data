@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-09-07 22:29 ansible-role-dcr-master/
+-rw-rw-r-- root/root      1023 2016-09-07 22:29 ansible-role-dcr-master/README.md
+drwxrwxr-x root/root         0 2016-09-07 22:29 ansible-role-dcr-master/defaults/
+-rw-rw-r-- root/root       701 2016-09-07 22:29 ansible-role-dcr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-07 22:29 ansible-role-dcr-master/meta/
+-rw-rw-r-- root/root       295 2016-09-07 22:29 ansible-role-dcr-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-07 22:29 ansible-role-dcr-master/tasks/
+-rw-rw-r-- root/root      1062 2016-09-07 22:29 ansible-role-dcr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-07 22:29 ansible-role-dcr-master/templates/
+-rw-rw-r-- root/root       582 2016-09-07 22:29 ansible-role-dcr-master/templates/.dcr.yml.j2

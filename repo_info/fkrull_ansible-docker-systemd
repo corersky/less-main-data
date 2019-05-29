@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-03-18 08:17 ansible-docker-systemd-master/
+-rw-rw-r-- root/root      1203 2018-03-18 08:17 ansible-docker-systemd-master/LICENSE.md
+-rw-rw-r-- root/root      2236 2018-03-18 08:17 ansible-docker-systemd-master/README.md
+drwxrwxr-x root/root         0 2018-03-18 08:17 ansible-docker-systemd-master/defaults/
+-rw-rw-r-- root/root       223 2018-03-18 08:17 ansible-docker-systemd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-18 08:17 ansible-docker-systemd-master/meta/
+-rw-rw-r-- root/root       333 2018-03-18 08:17 ansible-docker-systemd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-18 08:17 ansible-docker-systemd-master/tasks/
+-rw-rw-r-- root/root       666 2018-03-18 08:17 ansible-docker-systemd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-18 08:17 ansible-docker-systemd-master/templates/
+-rw-rw-r-- root/root      1005 2018-03-18 08:17 ansible-docker-systemd-master/templates/container.service.j2

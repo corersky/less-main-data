@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-06 16:16 merge_custom_vars-master/
+-rw-rw-r-- root/root       539 2017-06-06 16:16 merge_custom_vars-master/.travis.yml
+-rw-rw-r-- root/root      1883 2017-06-06 16:16 merge_custom_vars-master/README.md
+drwxrwxr-x root/root         0 2017-06-06 16:16 merge_custom_vars-master/defaults/
+-rw-rw-r-- root/root       185 2017-06-06 16:16 merge_custom_vars-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-06 16:16 merge_custom_vars-master/library/
+-rw-rw-r-- root/root      2970 2017-06-06 16:16 merge_custom_vars-master/library/merge_hash_vars.py
+drwxrwxr-x root/root         0 2017-06-06 16:16 merge_custom_vars-master/meta/
+-rw-rw-r-- root/root      1366 2017-06-06 16:16 merge_custom_vars-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-06 16:16 merge_custom_vars-master/tasks/
+-rw-rw-r-- root/root      1143 2017-06-06 16:16 merge_custom_vars-master/tasks/main.yml
+-rw-rw-r-- root/root       556 2017-06-06 16:16 merge_custom_vars-master/tasks/roles_rpi_vars.yml
+drwxrwxr-x root/root         0 2017-06-06 16:16 merge_custom_vars-master/tests/
+-rw-rw-r-- root/root         9 2017-06-06 16:16 merge_custom_vars-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-06-06 16:16 merge_custom_vars-master/tests/test.yml

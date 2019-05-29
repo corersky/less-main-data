@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-08 13:45 ansible-role-oracle-jdk-master/
+-rw-rw-r-- root/root        52 2018-04-08 13:45 ansible-role-oracle-jdk-master/.gitignore
+-rw-rw-r-- root/root      1069 2018-04-08 13:45 ansible-role-oracle-jdk-master/LICENSE
+-rw-rw-r-- root/root      1248 2018-04-08 13:45 ansible-role-oracle-jdk-master/README.md
+drwxrwxr-x root/root         0 2018-04-08 13:45 ansible-role-oracle-jdk-master/defaults/
+-rw-rw-r-- root/root       275 2018-04-08 13:45 ansible-role-oracle-jdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-08 13:45 ansible-role-oracle-jdk-master/handlers/
+-rw-rw-r-- root/root        40 2018-04-08 13:45 ansible-role-oracle-jdk-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-08 13:45 ansible-role-oracle-jdk-master/meta/
+-rw-rw-r-- root/root       303 2018-04-08 13:45 ansible-role-oracle-jdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-08 13:45 ansible-role-oracle-jdk-master/tasks/
+-rw-rw-r-- root/root      1711 2018-04-08 13:45 ansible-role-oracle-jdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-08 13:45 ansible-role-oracle-jdk-master/tests/
+-rw-rw-r-- root/root        11 2018-04-08 13:45 ansible-role-oracle-jdk-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-04-08 13:45 ansible-role-oracle-jdk-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-08 13:45 ansible-role-oracle-jdk-master/vars/
+-rw-rw-r-- root/root        36 2018-04-08 13:45 ansible-role-oracle-jdk-master/vars/main.yml

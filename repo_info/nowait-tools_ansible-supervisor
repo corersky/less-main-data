@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-08-31 13:57 ansible-supervisor-master/
+-rw-rw-r-- root/root      1083 2015-08-31 13:57 ansible-supervisor-master/LICENSE
+-rw-rw-r-- root/root      9581 2015-08-31 13:57 ansible-supervisor-master/README.md
+drwxrwxr-x root/root         0 2015-08-31 13:57 ansible-supervisor-master/defaults/
+-rw-rw-r-- root/root      8289 2015-08-31 13:57 ansible-supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-31 13:57 ansible-supervisor-master/handlers/
+-rw-rw-r-- root/root       101 2015-08-31 13:57 ansible-supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-31 13:57 ansible-supervisor-master/meta/
+-rw-rw-r-- root/root       245 2015-08-31 13:57 ansible-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-31 13:57 ansible-supervisor-master/tasks/
+-rw-rw-r-- root/root       710 2015-08-31 13:57 ansible-supervisor-master/tasks/Debian.yml
+-rw-rw-r-- root/root        64 2015-08-31 13:57 ansible-supervisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-31 13:57 ansible-supervisor-master/templates/
+-rw-rw-r-- root/root      4491 2015-08-31 13:57 ansible-supervisor-master/templates/supervisor_initd.j2
+-rw-rw-r-- root/root      2352 2015-08-31 13:57 ansible-supervisor-master/templates/supervisord.conf.j2

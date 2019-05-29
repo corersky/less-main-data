@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-07-04 17:52 ansible-users-master/
+-rw-rw-r-- root/root        80 2016-07-04 17:52 ansible-users-master/LICENSE
+-rw-rw-r-- root/root      2249 2016-07-04 17:52 ansible-users-master/README.md
+drwxrwxr-x root/root         0 2016-07-04 17:52 ansible-users-master/defaults/
+-rw-rw-r-- root/root       932 2016-07-04 17:52 ansible-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-04 17:52 ansible-users-master/meta/
+-rw-rw-r-- root/root       350 2016-07-04 17:52 ansible-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-04 17:52 ansible-users-master/tasks/
+-rw-rw-r-- root/root       153 2016-07-04 17:52 ansible-users-master/tasks/main.yml
+-rw-rw-r-- root/root      1113 2016-07-04 17:52 ansible-users-master/tasks/ssh_keys.yml
+-rw-rw-r-- root/root      2816 2016-07-04 17:52 ansible-users-master/tasks/users.yml

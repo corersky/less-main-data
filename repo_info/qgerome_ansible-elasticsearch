@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-07-29 08:08 ansible-elasticsearch-master/
+-rw-rw-r-- root/root     35147 2014-07-29 08:08 ansible-elasticsearch-master/COPYING
+-rw-rw-r-- root/root      7651 2014-07-29 08:08 ansible-elasticsearch-master/COPYING.LESSER
+-rw-rw-r-- root/root      3452 2014-07-29 08:08 ansible-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2014-07-29 08:08 ansible-elasticsearch-master/defaults/
+-rw-rw-r-- root/root      2839 2014-07-29 08:08 ansible-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-29 08:08 ansible-elasticsearch-master/handlers/
+-rw-rw-r-- root/root        81 2014-07-29 08:08 ansible-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-07-29 08:08 ansible-elasticsearch-master/meta/
+-rw-rw-r-- root/root       329 2014-07-29 08:08 ansible-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-29 08:08 ansible-elasticsearch-master/tasks/
+-rw-rw-r-- root/root       859 2014-07-29 08:08 ansible-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-07-29 08:08 ansible-elasticsearch-master/templates/
+-rw-rw-r-- root/root      7553 2014-07-29 08:08 ansible-elasticsearch-master/templates/elasticsearch.yml.j2
+-rw-rw-r-- root/root      1512 2014-07-29 08:08 ansible-elasticsearch-master/templates/logging.yml.j2

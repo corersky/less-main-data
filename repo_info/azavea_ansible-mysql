@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2014-09-21 19:42 ansible-mysql-master/
+-rw-rw-r-- root/root        36 2014-09-21 19:42 ansible-mysql-master/.gitignore
+-rw-rw-r-- root/root        29 2014-09-21 19:42 ansible-mysql-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2014-09-21 19:42 ansible-mysql-master/LICENSE
+-rw-rw-r-- root/root       217 2014-09-21 19:42 ansible-mysql-master/README.md
+drwxrwxr-x root/root         0 2014-09-21 19:42 ansible-mysql-master/defaults/
+-rw-rw-r-- root/root        55 2014-09-21 19:42 ansible-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-21 19:42 ansible-mysql-master/examples/
+-rw-rw-r-- root/root       543 2014-09-21 19:42 ansible-mysql-master/examples/Vagrantfile
+-rw-rw-r-- root/root        17 2014-09-21 19:42 ansible-mysql-master/examples/roles.txt
+drwxrwxr-x root/root         0 2014-09-21 19:42 ansible-mysql-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-09-21 19:42 ansible-mysql-master/examples/roles/azavea.mysql -> ../../
+-rw-rw-r-- root/root        57 2014-09-21 19:42 ansible-mysql-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-09-21 19:42 ansible-mysql-master/handlers/
+-rw-rw-r-- root/root        64 2014-09-21 19:42 ansible-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-21 19:42 ansible-mysql-master/meta/
+-rw-rw-r-- root/root       291 2014-09-21 19:42 ansible-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-21 19:42 ansible-mysql-master/tasks/
+-rw-rw-r-- root/root       329 2014-09-21 19:42 ansible-mysql-master/tasks/main.yml

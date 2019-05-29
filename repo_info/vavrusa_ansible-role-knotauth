@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-25 19:15 ansible-role-knotauth-master/
+-rw-rw-r-- root/root      3332 2017-06-25 19:15 ansible-role-knotauth-master/README.md
+drwxrwxr-x root/root         0 2017-06-25 19:15 ansible-role-knotauth-master/defaults/
+-rw-rw-r-- root/root       485 2017-06-25 19:15 ansible-role-knotauth-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-25 19:15 ansible-role-knotauth-master/handlers/
+-rw-rw-r-- root/root        77 2017-06-25 19:15 ansible-role-knotauth-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-25 19:15 ansible-role-knotauth-master/meta/
+-rw-rw-r-- root/root      2228 2017-06-25 19:15 ansible-role-knotauth-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-25 19:15 ansible-role-knotauth-master/tasks/
+-rw-rw-r-- root/root       936 2017-06-25 19:15 ansible-role-knotauth-master/tasks/from_pkgs.yml
+-rw-rw-r-- root/root      1641 2017-06-25 19:15 ansible-role-knotauth-master/tasks/from_source.yml
+-rw-rw-r-- root/root       733 2017-06-25 19:15 ansible-role-knotauth-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-25 19:15 ansible-role-knotauth-master/templates/
+-rw-rw-r-- root/root       805 2017-06-25 19:15 ansible-role-knotauth-master/templates/knot.conf.j2
+drwxrwxr-x root/root         0 2017-06-25 19:15 ansible-role-knotauth-master/vars/
+-rw-rw-r-- root/root        30 2017-06-25 19:15 ansible-role-knotauth-master/vars/main.yml

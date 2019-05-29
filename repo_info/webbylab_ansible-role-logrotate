@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-12-09 10:06 ansible-role-logrotate-master/
+-rw-rw-r-- root/root       902 2016-12-09 10:06 ansible-role-logrotate-master/README.md
+drwxrwxr-x root/root         0 2016-12-09 10:06 ansible-role-logrotate-master/defaults/
+-rw-rw-r-- root/root       152 2016-12-09 10:06 ansible-role-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-09 10:06 ansible-role-logrotate-master/meta/
+-rw-rw-r-- root/root       264 2016-12-09 10:06 ansible-role-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-09 10:06 ansible-role-logrotate-master/tasks/
+-rw-rw-r-- root/root       185 2016-12-09 10:06 ansible-role-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-09 10:06 ansible-role-logrotate-master/templates/
+-rw-rw-r-- root/root       210 2016-12-09 10:06 ansible-role-logrotate-master/templates/log.conf.j2

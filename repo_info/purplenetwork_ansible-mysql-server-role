@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-01-24 13:16 ansible-mysql-server-role-master/
+-rw-rw-r-- root/root         6 2017-01-24 13:16 ansible-mysql-server-role-master/.gitignore
+-rw-rw-r-- root/root       147 2017-01-24 13:16 ansible-mysql-server-role-master/README.md
+drwxrwxr-x root/root         0 2017-01-24 13:16 ansible-mysql-server-role-master/defaults/
+-rw-rw-r-- root/root        98 2017-01-24 13:16 ansible-mysql-server-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-24 13:16 ansible-mysql-server-role-master/handlers/
+-rw-rw-r-- root/root        87 2017-01-24 13:16 ansible-mysql-server-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-24 13:16 ansible-mysql-server-role-master/meta/
+-rw-rw-r-- root/root       250 2017-01-24 13:16 ansible-mysql-server-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-24 13:16 ansible-mysql-server-role-master/tasks/
+-rwxrwxr-x root/root       752 2017-01-24 13:16 ansible-mysql-server-role-master/tasks/main.yml

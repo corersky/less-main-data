@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-28 04:06 ansible-btsync-master/
+-rw-rw-r-- root/root      1488 2016-09-28 04:06 ansible-btsync-master/LICENSE
+-rw-rw-r-- root/root      1324 2016-09-28 04:06 ansible-btsync-master/README.md
+drwxrwxr-x root/root         0 2016-09-28 04:06 ansible-btsync-master/defaults/
+-rw-rw-r-- root/root       561 2016-09-28 04:06 ansible-btsync-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-28 04:06 ansible-btsync-master/handlers/
+-rw-rw-r-- root/root       185 2016-09-28 04:06 ansible-btsync-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-28 04:06 ansible-btsync-master/meta/
+-rw-rw-r-- root/root       266 2016-09-28 04:06 ansible-btsync-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-28 04:06 ansible-btsync-master/tasks/
+-rw-rw-r-- root/root      1028 2016-09-28 04:06 ansible-btsync-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-28 04:06 ansible-btsync-master/templates/
+-rw-rw-r-- root/root      1664 2016-09-28 04:06 ansible-btsync-master/templates/btsync
+-rw-rw-r-- root/root      1277 2016-09-28 04:06 ansible-btsync-master/templates/config.json

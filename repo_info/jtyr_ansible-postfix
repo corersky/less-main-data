@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-12 05:05 ansible-postfix-master/
+-rw-rw-r-- root/root         0 2017-05-12 05:05 ansible-postfix-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-12 05:05 ansible-postfix-master/LICENSE
+-rw-rw-r-- root/root     24623 2017-05-12 05:05 ansible-postfix-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 05:05 ansible-postfix-master/defaults/
+-rw-rw-r-- root/root     22387 2017-05-12 05:05 ansible-postfix-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:05 ansible-postfix-master/handlers/
+-rw-rw-r-- root/root       392 2017-05-12 05:05 ansible-postfix-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:05 ansible-postfix-master/meta/
+-rw-rw-r-- root/root       267 2017-05-12 05:05 ansible-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 05:05 ansible-postfix-master/tasks/
+-rw-rw-r-- root/root      1669 2017-05-12 05:05 ansible-postfix-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:05 ansible-postfix-master/templates/
+-rw-rw-r-- root/root       109 2017-05-12 05:05 ansible-postfix-master/templates/main.cf.j2
+-rw-rw-r-- root/root      1056 2017-05-12 05:05 ansible-postfix-master/templates/master.cf.j2
+-rw-rw-r-- root/root        79 2017-05-12 05:05 ansible-postfix-master/templates/table.j2

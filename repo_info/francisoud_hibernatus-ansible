@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-12 17:27 hibernatus-ansible-master/
+-rw-rw-r-- root/root      1086 2016-05-12 17:27 hibernatus-ansible-master/LICENSE
+-rw-rw-r-- root/root       959 2016-05-12 17:27 hibernatus-ansible-master/README.md
+drwxrwxr-x root/root         0 2016-05-12 17:27 hibernatus-ansible-master/defaults/
+-rw-rw-r-- root/root        35 2016-05-12 17:27 hibernatus-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-12 17:27 hibernatus-ansible-master/handlers/
+-rw-rw-r-- root/root        35 2016-05-12 17:27 hibernatus-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-12 17:27 hibernatus-ansible-master/meta/
+-rw-rw-r-- root/root      2957 2016-05-12 17:27 hibernatus-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-12 17:27 hibernatus-ansible-master/tasks/
+-rw-rw-r-- root/root        32 2016-05-12 17:27 hibernatus-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-12 17:27 hibernatus-ansible-master/tests/
+-rw-rw-r-- root/root         9 2016-05-12 17:27 hibernatus-ansible-master/tests/inventory
+-rw-rw-r-- root/root        68 2016-05-12 17:27 hibernatus-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-05-12 17:27 hibernatus-ansible-master/vars/
+-rw-rw-r-- root/root        31 2016-05-12 17:27 hibernatus-ansible-master/vars/main.yml

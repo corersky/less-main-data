@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-30 07:30 ansible-jumpcloud-master/
+-rw-rw-r-- root/root       372 2016-03-30 07:30 ansible-jumpcloud-master/.editorconfig
+-rw-rw-r-- root/root       446 2016-03-30 07:30 ansible-jumpcloud-master/.travis.yml
+-rw-rw-r-- root/root      1081 2016-03-30 07:30 ansible-jumpcloud-master/LICENSE
+-rw-rw-r-- root/root      4853 2016-03-30 07:30 ansible-jumpcloud-master/README.md
+drwxrwxr-x root/root         0 2016-03-30 07:30 ansible-jumpcloud-master/defaults/
+-rw-rw-r-- root/root       530 2016-03-30 07:30 ansible-jumpcloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-30 07:30 ansible-jumpcloud-master/handlers/
+-rw-rw-r-- root/root       146 2016-03-30 07:30 ansible-jumpcloud-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-30 07:30 ansible-jumpcloud-master/meta/
+-rw-rw-r-- root/root       584 2016-03-30 07:30 ansible-jumpcloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-30 07:30 ansible-jumpcloud-master/tasks/
+-rw-rw-r-- root/root      1430 2016-03-30 07:30 ansible-jumpcloud-master/tasks/install.yml
+-rw-rw-r-- root/root       604 2016-03-30 07:30 ansible-jumpcloud-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-30 07:30 ansible-jumpcloud-master/templates/
+-rw-rw-r-- root/root        40 2016-03-30 07:30 ansible-jumpcloud-master/templates/install.j2

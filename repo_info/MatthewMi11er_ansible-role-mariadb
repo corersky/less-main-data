@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-12-17 15:02 ansible-role-mariadb-master/
+-rw-rw-r-- root/root       245 2014-12-17 15:02 ansible-role-mariadb-master/README.md
+drwxrwxr-x root/root         0 2014-12-17 15:02 ansible-role-mariadb-master/defaults/
+-rw-rw-r-- root/root       206 2014-12-17 15:02 ansible-role-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-17 15:02 ansible-role-mariadb-master/meta/
+-rw-rw-r-- root/root       307 2014-12-17 15:02 ansible-role-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-17 15:02 ansible-role-mariadb-master/tasks/
+-rw-rw-r-- root/root      1347 2014-12-17 15:02 ansible-role-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-17 15:02 ansible-role-mariadb-master/templates/
+-rw-rw-r-- root/root        55 2014-12-17 15:02 ansible-role-mariadb-master/templates/.my.cnf

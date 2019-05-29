@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/
+-rw-rw-r-- root/root      3141 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      2439 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/.travis.yml
+-rw-rw-r-- root/root      1060 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/LICENSE
+-rw-rw-r-- root/root       993 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/README.md
+drwxrwxr-x root/root         0 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/defaults/
+-rw-rw-r-- root/root       132 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/meta/
+-rw-rw-r-- root/root       328 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/tasks/
+-rw-rw-r-- root/root       900 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/tests/
+-rw-rw-r-- root/root      1331 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/tests/docker_playbook.yml
+-rw-rw-r-- root/root        52 2018-07-18 06:45 ansible-role-apt-repo-sury-org-master/tests/test.yml

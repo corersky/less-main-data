@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-15 08:46 ansible-role-activemq-master/
+-rw-rw-r-- root/root       565 2017-12-15 08:46 ansible-role-activemq-master/README.md
+drwxrwxr-x root/root         0 2017-12-15 08:46 ansible-role-activemq-master/defaults/
+-rw-rw-r-- root/root       108 2017-12-15 08:46 ansible-role-activemq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-15 08:46 ansible-role-activemq-master/meta/
+-rw-rw-r-- root/root       339 2017-12-15 08:46 ansible-role-activemq-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-15 08:46 ansible-role-activemq-master/tasks/
+-rw-rw-r-- root/root       932 2017-12-15 08:46 ansible-role-activemq-master/tasks/install.yml
+-rw-rw-r-- root/root       139 2017-12-15 08:46 ansible-role-activemq-master/tasks/main.yml
+-rw-rw-r-- root/root       145 2017-12-15 08:46 ansible-role-activemq-master/tasks/user.yml
+drwxrwxr-x root/root         0 2017-12-15 08:46 ansible-role-activemq-master/templates/
+-rw-rw-r-- root/root       408 2017-12-15 08:46 ansible-role-activemq-master/templates/activemq.service.j2

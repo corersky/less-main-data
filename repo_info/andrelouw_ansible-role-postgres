@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-06 04:02 ansible-role-postgres-master/
+-rw-rw-r-- root/root      1412 2016-07-06 04:02 ansible-role-postgres-master/.travis.yml
+-rw-rw-r-- root/root       875 2016-07-06 04:02 ansible-role-postgres-master/README.md
+drwxrwxr-x root/root         0 2016-07-06 04:02 ansible-role-postgres-master/defaults/
+-rw-rw-r-- root/root        47 2016-07-06 04:02 ansible-role-postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-06 04:02 ansible-role-postgres-master/handlers/
+-rw-rw-r-- root/root        46 2016-07-06 04:02 ansible-role-postgres-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-06 04:02 ansible-role-postgres-master/meta/
+-rw-rw-r-- root/root      2992 2016-07-06 04:02 ansible-role-postgres-master/meta/main.yml
+-rw-rw-r-- root/root        98 2016-07-06 04:02 ansible-role-postgres-master/setup.cfg
+drwxrwxr-x root/root         0 2016-07-06 04:02 ansible-role-postgres-master/tasks/
+-rw-rw-r-- root/root       210 2016-07-06 04:02 ansible-role-postgres-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-06 04:02 ansible-role-postgres-master/tests/
+-rw-rw-r-- root/root         9 2016-07-06 04:02 ansible-role-postgres-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-07-06 04:02 ansible-role-postgres-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-06 04:02 ansible-role-postgres-master/vars/
+-rw-rw-r-- root/root       128 2016-07-06 04:02 ansible-role-postgres-master/vars/main.yml

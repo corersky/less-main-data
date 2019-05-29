@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/
+-rw-rw-r-- root/root       362 2016-04-20 07:30 ansible-openldap-common-master/README.md
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/defaults/
+-rw-rw-r-- root/root       156 2016-04-20 07:30 ansible-openldap-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/handlers/
+-rw-rw-r-- root/root        92 2016-04-20 07:30 ansible-openldap-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/meta/
+-rw-rw-r-- root/root       278 2016-04-20 07:30 ansible-openldap-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/tasks/
+-rw-rw-r-- root/root       279 2016-04-20 07:30 ansible-openldap-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/templates/
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/templates/etc/
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/templates/etc/ldap/
+-rw-rw-r-- root/root       216 2016-04-20 07:30 ansible-openldap-common-master/templates/etc/ldap/ldap.conf.j2
+drwxrwxr-x root/root         0 2016-04-20 07:30 ansible-openldap-common-master/vars/
+-rw-rw-r-- root/root       203 2016-04-20 07:30 ansible-openldap-common-master/vars/debian.yml
+-rw-rw-r-- root/root         4 2016-04-20 07:30 ansible-openldap-common-master/vars/redhat.yml

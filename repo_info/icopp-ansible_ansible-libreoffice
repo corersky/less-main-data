@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-06 21:22 ansible-libreoffice-master/
+-rw-rw-r-- root/root       672 2016-09-06 21:22 ansible-libreoffice-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-06 21:22 ansible-libreoffice-master/LICENSE
+-rw-rw-r-- root/root       826 2016-09-06 21:22 ansible-libreoffice-master/README.md
+drwxrwxr-x root/root         0 2016-09-06 21:22 ansible-libreoffice-master/defaults/
+-rw-rw-r-- root/root        36 2016-09-06 21:22 ansible-libreoffice-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-06 21:22 ansible-libreoffice-master/meta/
+-rw-rw-r-- root/root       468 2016-09-06 21:22 ansible-libreoffice-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-06 21:22 ansible-libreoffice-master/tasks/
+-rw-rw-r-- root/root       443 2016-09-06 21:22 ansible-libreoffice-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-06 21:22 ansible-libreoffice-master/tests/
+-rw-rw-r-- root/root         9 2016-09-06 21:22 ansible-libreoffice-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-09-06 21:22 ansible-libreoffice-master/tests/test.yml

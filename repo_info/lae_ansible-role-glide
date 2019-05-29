@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-25 17:00 ansible-role-glide-master/
+-rw-rw-r-- root/root      2288 2018-04-25 17:00 ansible-role-glide-master/.travis.yml
+-rw-rw-r-- root/root       491 2018-04-25 17:00 ansible-role-glide-master/README.md
+drwxrwxr-x root/root         0 2018-04-25 17:00 ansible-role-glide-master/defaults/
+-rw-rw-r-- root/root       398 2018-04-25 17:00 ansible-role-glide-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-25 17:00 ansible-role-glide-master/meta/
+-rw-rw-r-- root/root       487 2018-04-25 17:00 ansible-role-glide-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-25 17:00 ansible-role-glide-master/tasks/
+-rw-rw-r-- root/root      1469 2018-04-25 17:00 ansible-role-glide-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-25 17:00 ansible-role-glide-master/tests/
+-rw-rw-r-- root/root        75 2018-04-25 17:00 ansible-role-glide-master/tests/ansible.cfg
+-rw-rw-r-- root/root        67 2018-04-25 17:00 ansible-role-glide-master/tests/deploy.yml
+drwxrwxr-x root/root         0 2018-04-25 17:00 ansible-role-glide-master/tests/group_vars/
+-rw-rw-r-- root/root        27 2018-04-25 17:00 ansible-role-glide-master/tests/group_vars/all
+-rw-rw-r-- root/root       251 2018-04-25 17:00 ansible-role-glide-master/tests/install.yml
+-rw-rw-r-- root/root        81 2018-04-25 17:00 ansible-role-glide-master/tests/inventory
+-rw-rw-r-- root/root        92 2018-04-25 17:00 ansible-role-glide-master/tests/test.yml

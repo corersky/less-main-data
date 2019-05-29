@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 18:53 ansible-vnstat-master/
+-rw-rw-r-- root/root       812 2016-09-05 18:53 ansible-vnstat-master/.travis.yml
+-rw-rw-r-- root/root       476 2016-09-05 18:53 ansible-vnstat-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 18:53 ansible-vnstat-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 18:53 ansible-vnstat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:53 ansible-vnstat-master/meta/
+-rw-rw-r-- root/root       310 2016-09-05 18:53 ansible-vnstat-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:53 ansible-vnstat-master/tasks/
+-rw-rw-r-- root/root       385 2016-09-05 18:53 ansible-vnstat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:53 ansible-vnstat-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 18:53 ansible-vnstat-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-09-05 18:53 ansible-vnstat-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 18:53 ansible-vnstat-master/vars/
+-rw-rw-r-- root/root        63 2016-09-05 18:53 ansible-vnstat-master/vars/main.yml

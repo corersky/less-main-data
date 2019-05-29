@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-gpg-master/
+-rw-rw-r-- root/root       219 2019-03-21 23:29 ansible-gpg-master/.editorconfig
+-rw-rw-r-- root/root       492 2019-03-21 23:29 ansible-gpg-master/.gitattributes
+-rw-rw-r-- root/root       819 2019-03-21 23:29 ansible-gpg-master/.gitignore
+-rw-rw-r-- root/root      1073 2019-03-21 23:29 ansible-gpg-master/LICENSE
+-rw-rw-r-- root/root       436 2019-03-21 23:29 ansible-gpg-master/README.md
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-gpg-master/meta/
+-rw-rw-r-- root/root       608 2019-03-21 23:29 ansible-gpg-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-gpg-master/tasks/
+-rw-rw-r-- root/root        68 2019-03-21 23:29 ansible-gpg-master/tasks/alpine.yml
+-rw-rw-r-- root/root        69 2019-03-21 23:29 ansible-gpg-master/tasks/debian.yml
+-rw-rw-r-- root/root       127 2019-03-21 23:29 ansible-gpg-master/tasks/main.yml
+-rw-rw-r-- root/root        47 2019-03-21 23:29 ansible-gpg-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-gpg-master/tests/
+-rw-rw-r-- root/root        11 2019-03-21 23:29 ansible-gpg-master/tests/inventory
+-rw-rw-r-- root/root        44 2019-03-21 23:29 ansible-gpg-master/tests/test.yml

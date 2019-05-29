@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/
+-rw-rw-r-- root/root      1371 2017-01-29 09:42 ansible-role-apache-vhosts-master/README.md
+drwxrwxr-x root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/defaults/
+-rw-rw-r-- root/root       284 2017-01-29 09:42 ansible-role-apache-vhosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/handlers/
+-rw-rw-r-- root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/handlers/.gitkeeps
+drwxrwxr-x root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/meta/
+-rw-rw-r-- root/root       269 2017-01-29 09:42 ansible-role-apache-vhosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/tasks/
+-rw-rw-r-- root/root      2623 2017-01-29 09:42 ansible-role-apache-vhosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/templates/
+-rw-rw-r-- root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/templates/.gitkeeps
+-rwxrwxr-x root/root      3711 2017-01-29 09:42 ansible-role-apache-vhosts-master/templates/vhost.conf.j2
+drwxrwxr-x root/root         0 2017-01-29 09:42 ansible-role-apache-vhosts-master/vars/
+-rw-rw-r-- root/root       136 2017-01-29 09:42 ansible-role-apache-vhosts-master/vars/Debian.yml
+-rw-rw-r-- root/root       119 2017-01-29 09:42 ansible-role-apache-vhosts-master/vars/RedHat.yml
+-rw-rw-r-- root/root         4 2017-01-29 09:42 ansible-role-apache-vhosts-master/vars/main.yml

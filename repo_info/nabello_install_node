@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-23 10:31 install_node-master/
+-rw-rw-r-- root/root      1328 2018-01-23 10:31 install_node-master/README.md
+drwxrwxr-x root/root         0 2018-01-23 10:31 install_node-master/defaults/
+-rw-rw-r-- root/root       232 2018-01-23 10:31 install_node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-23 10:31 install_node-master/handlers/
+-rw-rw-r-- root/root        44 2018-01-23 10:31 install_node-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-23 10:31 install_node-master/meta/
+-rw-rw-r-- root/root      1857 2018-01-23 10:31 install_node-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-23 10:31 install_node-master/tasks/
+-rw-rw-r-- root/root       957 2018-01-23 10:31 install_node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-23 10:31 install_node-master/tests/
+-rw-rw-r-- root/root        11 2018-01-23 10:31 install_node-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-01-23 10:31 install_node-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-23 10:31 install_node-master/vars/
+-rw-rw-r-- root/root        40 2018-01-23 10:31 install_node-master/vars/main.yml

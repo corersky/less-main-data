@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/
+-rw-rw-r-- root/root     21667 2019-02-28 03:05 ansible-role-users-master/.gitignore
+-rw-rw-r-- root/root       413 2019-02-28 03:05 ansible-role-users-master/.travis.yml
+-rw-rw-r-- root/root      2095 2019-02-28 03:05 ansible-role-users-master/README.md
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/defaults/
+-rw-rw-r-- root/root       123 2019-02-28 03:05 ansible-role-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/files/
+-rw-rw-r-- root/root         0 2019-02-28 03:05 ansible-role-users-master/files/.gitkeep
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/handlers/
+-rw-rw-r-- root/root        29 2019-02-28 03:05 ansible-role-users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/meta/
+-rw-rw-r-- root/root       315 2019-02-28 03:05 ansible-role-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/tasks/
+-rw-rw-r-- root/root      2109 2019-02-28 03:05 ansible-role-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/templates/
+-rw-rw-r-- root/root         0 2019-02-28 03:05 ansible-role-users-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/tests/
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/tests/files/
+-rw-rw-r-- root/root      1679 2019-02-28 03:05 ansible-role-users-master/tests/files/placeholder
+-rw-rw-r-- root/root       398 2019-02-28 03:05 ansible-role-users-master/tests/files/placeholder.pub
+-rw-rw-r-- root/root        11 2019-02-28 03:05 ansible-role-users-master/tests/inventory
+-rw-rw-r-- root/root        43 2019-02-28 03:05 ansible-role-users-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-02-28 03:05 ansible-role-users-master/tests/roles/users -> ../..
+-rw-rw-r-- root/root      1831 2019-02-28 03:05 ansible-role-users-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-28 03:05 ansible-role-users-master/vars/
+-rw-rw-r-- root/root        48 2019-02-28 03:05 ansible-role-users-master/vars/main.yml

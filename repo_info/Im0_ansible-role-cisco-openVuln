@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-01 08:53 ansible-role-cisco-openVuln-master/
+-rw-rw-r-- root/root      3511 2018-05-01 08:53 ansible-role-cisco-openVuln-master/README.md
+drwxrwxr-x root/root         0 2018-05-01 08:53 ansible-role-cisco-openVuln-master/defaults/
+-rw-rw-r-- root/root        51 2018-05-01 08:53 ansible-role-cisco-openVuln-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-01 08:53 ansible-role-cisco-openVuln-master/meta/
+-rw-rw-r-- root/root       920 2018-05-01 08:53 ansible-role-cisco-openVuln-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-01 08:53 ansible-role-cisco-openVuln-master/tasks/
+-rw-rw-r-- root/root       585 2018-05-01 08:53 ansible-role-cisco-openVuln-master/tasks/hello_api.yml
+-rw-rw-r-- root/root       680 2018-05-01 08:53 ansible-role-cisco-openVuln-master/tasks/ios_version.yml
+-rw-rw-r-- root/root       301 2018-05-01 08:53 ansible-role-cisco-openVuln-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-01 08:53 ansible-role-cisco-openVuln-master/tests/
+-rw-rw-r-- root/root        11 2018-05-01 08:53 ansible-role-cisco-openVuln-master/tests/inventory
+-rw-rw-r-- root/root        85 2018-05-01 08:53 ansible-role-cisco-openVuln-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-01 08:53 ansible-role-cisco-openVuln-master/vars/
+-rw-rw-r-- root/root        47 2018-05-01 08:53 ansible-role-cisco-openVuln-master/vars/main.yml

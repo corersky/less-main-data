@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-13 09:09 ansible-elasticsearch-master/
+-rw-rw-r-- root/root      1076 2016-08-13 09:09 ansible-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2016-08-13 09:09 ansible-elasticsearch-master/defaults/
+-rw-rw-r-- root/root        37 2016-08-13 09:09 ansible-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-13 09:09 ansible-elasticsearch-master/handlers/
+-rw-rw-r-- root/root        95 2016-08-13 09:09 ansible-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-13 09:09 ansible-elasticsearch-master/meta/
+-rw-rw-r-- root/root       329 2016-08-13 09:09 ansible-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-13 09:09 ansible-elasticsearch-master/tasks/
+-rw-rw-r-- root/root      2360 2016-08-13 09:09 ansible-elasticsearch-master/tasks/install.yml
+-rw-rw-r-- root/root        76 2016-08-13 09:09 ansible-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-13 09:09 ansible-elasticsearch-master/templates/
+-rw-rw-r-- root/root       302 2016-08-13 09:09 ansible-elasticsearch-master/templates/elasticsearch.repo.j2
+-rw-rw-r-- root/root      3229 2016-08-13 09:09 ansible-elasticsearch-master/templates/elasticsearch.yml.j2

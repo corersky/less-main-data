@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-18 15:34 ansible-role-kubectl-master/
+-rw-rw-r-- root/root       350 2019-05-18 15:34 ansible-role-kubectl-master/.travis.yml
+-rw-rw-r-- root/root      1064 2019-05-18 15:34 ansible-role-kubectl-master/LICENSE
+-rw-rw-r-- root/root       540 2019-05-18 15:34 ansible-role-kubectl-master/README.md
+drwxrwxr-x root/root         0 2019-05-18 15:34 ansible-role-kubectl-master/meta/
+-rw-rw-r-- root/root       268 2019-05-18 15:34 ansible-role-kubectl-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-18 15:34 ansible-role-kubectl-master/tasks/
+-rw-rw-r-- root/root       479 2019-05-18 15:34 ansible-role-kubectl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-18 15:34 ansible-role-kubectl-master/tests/
+-rw-rw-r-- root/root        48 2019-05-18 15:34 ansible-role-kubectl-master/tests/test.yml

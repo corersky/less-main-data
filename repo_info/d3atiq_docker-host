@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-10 15:09 docker-host-master/
+-rw-rw-r-- root/root      1071 2019-05-10 15:09 docker-host-master/LICENSE
+-rw-rw-r-- root/root      1328 2019-05-10 15:09 docker-host-master/README.md
+drwxrwxr-x root/root         0 2019-05-10 15:09 docker-host-master/defaults/
+-rw-rw-r-- root/root        35 2019-05-10 15:09 docker-host-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-10 15:09 docker-host-master/handlers/
+-rw-rw-r-- root/root        35 2019-05-10 15:09 docker-host-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-10 15:09 docker-host-master/meta/
+-rw-rw-r-- root/root       209 2019-05-10 15:09 docker-host-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-10 15:09 docker-host-master/tasks/
+-rw-rw-r-- root/root       958 2019-05-10 15:09 docker-host-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-10 15:09 docker-host-master/tests/
+-rw-rw-r-- root/root        11 2019-05-10 15:09 docker-host-master/tests/inventory
+-rw-rw-r-- root/root        69 2019-05-10 15:09 docker-host-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-10 15:09 docker-host-master/vars/
+-rw-rw-r-- root/root        31 2019-05-10 15:09 docker-host-master/vars/main.yml

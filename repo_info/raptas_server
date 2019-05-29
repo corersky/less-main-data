@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-02 14:28 server-master/
+-rw-rw-r-- root/root      1328 2018-04-02 14:28 server-master/README.md
+drwxrwxr-x root/root         0 2018-04-02 14:28 server-master/defaults/
+-rw-rw-r-- root/root        31 2018-04-02 14:28 server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:28 server-master/handlers/
+-rw-rw-r-- root/root        31 2018-04-02 14:28 server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:28 server-master/meta/
+-rw-rw-r-- root/root       423 2018-04-02 14:28 server-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:28 server-master/tasks/
+-rw-rw-r-- root/root       312 2018-04-02 14:28 server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:28 server-master/tests/
+-rw-rw-r-- root/root         9 2018-04-02 14:28 server-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-04-02 14:28 server-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-02 14:28 server-master/vars/
+-rw-rw-r-- root/root        27 2018-04-02 14:28 server-master/vars/main.yml

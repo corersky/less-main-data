@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-27 08:53 php-fpm-master/
+-rw-rw-r-- root/root     20133 2019-05-27 08:53 php-fpm-master/LICENSE
+-rw-rw-r-- root/root     17626 2019-05-27 08:53 php-fpm-master/README.md
+drwxrwxr-x root/root         0 2019-05-27 08:53 php-fpm-master/defaults/
+-rw-rw-r-- root/root       967 2019-05-27 08:53 php-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-27 08:53 php-fpm-master/meta/
+-rw-rw-r-- root/root       398 2019-05-27 08:53 php-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-27 08:53 php-fpm-master/tasks/
+-rw-rw-r-- root/root      1456 2019-05-27 08:53 php-fpm-master/tasks/main.yml
+-rw-rw-r-- root/root       146 2019-05-27 08:53 php-fpm-master/tasks/update_php_ini.yml
+-rw-rw-r-- root/root       228 2019-05-27 08:53 php-fpm-master/tasks/update_php_ini_option.yml
+drwxrwxr-x root/root         0 2019-05-27 08:53 php-fpm-master/templates/
+-rw-rw-r-- root/root      2132 2019-05-27 08:53 php-fpm-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root      6884 2019-05-27 08:53 php-fpm-master/templates/pool.conf.j2

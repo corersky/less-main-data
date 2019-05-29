@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-21 17:50 ansible-role-autofs-master/
+-rw-rw-r-- root/root       367 2019-02-21 17:50 ansible-role-autofs-master/.travis.yml
+-rw-rw-r-- root/root      1132 2019-02-21 17:50 ansible-role-autofs-master/CHANGELOG.md
+-rw-rw-r-- root/root      2167 2019-02-21 17:50 ansible-role-autofs-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 17:50 ansible-role-autofs-master/defaults/
+-rw-rw-r-- root/root       510 2019-02-21 17:50 ansible-role-autofs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 17:50 ansible-role-autofs-master/handlers/
+-rw-rw-r-- root/root       265 2019-02-21 17:50 ansible-role-autofs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-21 17:50 ansible-role-autofs-master/meta/
+-rw-rw-r-- root/root       496 2019-02-21 17:50 ansible-role-autofs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 17:50 ansible-role-autofs-master/tasks/
+-rw-rw-r-- root/root      1880 2019-02-21 17:50 ansible-role-autofs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-21 17:50 ansible-role-autofs-master/templates/
+-rw-rw-r-- root/root       138 2019-02-21 17:50 ansible-role-autofs-master/templates/indirect_map.j2
+drwxrwxr-x root/root         0 2019-02-21 17:50 ansible-role-autofs-master/tests/
+-rw-rw-r-- root/root        10 2019-02-21 17:50 ansible-role-autofs-master/tests/inventory
+-rw-rw-r-- root/root       182 2019-02-21 17:50 ansible-role-autofs-master/tests/test.yml

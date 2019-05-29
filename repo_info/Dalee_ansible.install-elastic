@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-12-15 11:29 ansible.install-elastic-master/
+-rw-rw-r-- root/root        42 2016-12-15 11:29 ansible.install-elastic-master/README.md
+drwxrwxr-x root/root         0 2016-12-15 11:29 ansible.install-elastic-master/meta/
+-rw-rw-r-- root/root       257 2016-12-15 11:29 ansible.install-elastic-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-15 11:29 ansible.install-elastic-master/tasks/
+-rw-rw-r-- root/root       388 2016-12-15 11:29 ansible.install-elastic-master/tasks/install.yml
+-rw-rw-r-- root/root        44 2016-12-15 11:29 ansible.install-elastic-master/tasks/main.yml
+-rw-rw-r-- root/root       179 2016-12-15 11:29 ansible.install-elastic-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2016-12-15 11:29 ansible.install-elastic-master/templates/
+-rw-rw-r-- root/root      2865 2016-12-15 11:29 ansible.install-elastic-master/templates/jvm.options.j2

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-01 08:41 ansible-role-percona-repo-master/
+-rw-rw-r-- root/root      1084 2019-05-01 08:41 ansible-role-percona-repo-master/LICENSE
+-rw-rw-r-- root/root       512 2019-05-01 08:41 ansible-role-percona-repo-master/README.md
+drwxrwxr-x root/root         0 2019-05-01 08:41 ansible-role-percona-repo-master/defaults/
+-rw-rw-r-- root/root        26 2019-05-01 08:41 ansible-role-percona-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-01 08:41 ansible-role-percona-repo-master/meta/
+-rw-rw-r-- root/root       313 2019-05-01 08:41 ansible-role-percona-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-01 08:41 ansible-role-percona-repo-master/tasks/
+-rw-rw-r-- root/root       321 2019-05-01 08:41 ansible-role-percona-repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-01 08:41 ansible-role-percona-repo-master/tests/
+-rw-rw-r-- root/root        11 2019-05-01 08:41 ansible-role-percona-repo-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-05-01 08:41 ansible-role-percona-repo-master/tests/test.yml

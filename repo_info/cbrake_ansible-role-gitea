@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-08 15:39 ansible-role-gitea-master/
+-rw-rw-r-- root/root        52 2019-05-08 15:39 ansible-role-gitea-master/README.md
+drwxrwxr-x root/root         0 2019-05-08 15:39 ansible-role-gitea-master/defaults/
+-rw-rw-r-- root/root        21 2019-05-08 15:39 ansible-role-gitea-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:39 ansible-role-gitea-master/handlers/
+-rw-rw-r-- root/root       119 2019-05-08 15:39 ansible-role-gitea-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:39 ansible-role-gitea-master/meta/
+-rw-rw-r-- root/root       276 2019-05-08 15:39 ansible-role-gitea-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:39 ansible-role-gitea-master/tasks/
+-rw-rw-r-- root/root       807 2019-05-08 15:39 ansible-role-gitea-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:39 ansible-role-gitea-master/templates/
+-rw-rw-r-- root/root       830 2019-05-08 15:39 ansible-role-gitea-master/templates/gitea.service.j2

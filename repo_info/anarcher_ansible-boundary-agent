@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-11-11 05:54 ansible-boundary-agent-master/
+-rw-rw-r-- root/root       675 2014-11-11 05:54 ansible-boundary-agent-master/.gitignore
+-rw-rw-r-- root/root     11325 2014-11-11 05:54 ansible-boundary-agent-master/LICENSE
+-rw-rw-r-- root/root       111 2014-11-11 05:54 ansible-boundary-agent-master/README.md
+drwxrwxr-x root/root         0 2014-11-11 05:54 ansible-boundary-agent-master/defaults/
+-rw-rw-r-- root/root       420 2014-11-11 05:54 ansible-boundary-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-11 05:54 ansible-boundary-agent-master/meta/
+-rw-rw-r-- root/root       214 2014-11-11 05:54 ansible-boundary-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-11 05:54 ansible-boundary-agent-master/tasks/
+-rw-rw-r-- root/root       347 2014-11-11 05:54 ansible-boundary-agent-master/tasks/debian.yml
+-rw-rw-r-- root/root       729 2014-11-11 05:54 ansible-boundary-agent-master/tasks/main.yml

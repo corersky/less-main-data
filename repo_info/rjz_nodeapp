@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-12-13 12:01 nodeapp-master/
+-rw-rw-r-- root/root      1335 2014-12-13 12:01 nodeapp-master/README.md
+drwxrwxr-x root/root         0 2014-12-13 12:01 nodeapp-master/defaults/
+-rw-rw-r-- root/root       168 2014-12-13 12:01 nodeapp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-13 12:01 nodeapp-master/meta/
+-rw-rw-r-- root/root       243 2014-12-13 12:01 nodeapp-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-13 12:01 nodeapp-master/tasks/
+-rw-rw-r-- root/root       477 2014-12-13 12:01 nodeapp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-13 12:01 nodeapp-master/templates/
+-rw-rw-r-- root/root       451 2014-12-13 12:01 nodeapp-master/templates/webapp-worker.conf.j2
+-rw-rw-r-- root/root       274 2014-12-13 12:01 nodeapp-master/templates/webapp.conf.j2

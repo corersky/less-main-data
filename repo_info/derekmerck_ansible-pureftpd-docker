@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-15 14:16 ansible-pureftpd-docker-master/
+-rw-rw-r-- root/root      1315 2018-09-15 14:16 ansible-pureftpd-docker-master/.travis.yml
+-rw-rw-r-- root/root      1509 2018-09-15 14:16 ansible-pureftpd-docker-master/README.md
+-rw-rw-r-- root/root        51 2018-09-15 14:16 ansible-pureftpd-docker-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-09-15 14:16 ansible-pureftpd-docker-master/defaults/
+-rw-rw-r-- root/root       842 2018-09-15 14:16 ansible-pureftpd-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-15 14:16 ansible-pureftpd-docker-master/handlers/
+-rw-rw-r-- root/root        38 2018-09-15 14:16 ansible-pureftpd-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-15 14:16 ansible-pureftpd-docker-master/meta/
+-rw-rw-r-- root/root       389 2018-09-15 14:16 ansible-pureftpd-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-15 14:16 ansible-pureftpd-docker-master/tasks/
+-rw-rw-r-- root/root       652 2018-09-15 14:16 ansible-pureftpd-docker-master/tasks/add_user_play.yml
+-rw-rw-r-- root/root      1579 2018-09-15 14:16 ansible-pureftpd-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-15 14:16 ansible-pureftpd-docker-master/tests/
+-rw-rw-r-- root/root       258 2018-09-15 14:16 ansible-pureftpd-docker-master/tests/test_inv.yml
+-rw-rw-r-- root/root       311 2018-09-15 14:16 ansible-pureftpd-docker-master/tests/test_play.yml

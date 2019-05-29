@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-07-15 20:36 ansible-composer-master/
+-rw-rw-r-- root/root       372 2017-07-15 20:36 ansible-composer-master/.editorconfig
+-rw-rw-r-- root/root        82 2017-07-15 20:36 ansible-composer-master/.gitignore
+-rw-rw-r-- root/root      1019 2017-07-15 20:36 ansible-composer-master/README.md
+drwxrwxr-x root/root         0 2017-07-15 20:36 ansible-composer-master/defaults/
+-rw-rw-r-- root/root       128 2017-07-15 20:36 ansible-composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-15 20:36 ansible-composer-master/meta/
+-rw-rw-r-- root/root      3915 2017-07-15 20:36 ansible-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-15 20:36 ansible-composer-master/tasks/
+-rw-rw-r-- root/root      1078 2017-07-15 20:36 ansible-composer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-15 20:36 ansible-composer-master/templates/
+-rw-rw-r-- root/root        81 2017-07-15 20:36 ansible-composer-master/templates/composer.json.j2

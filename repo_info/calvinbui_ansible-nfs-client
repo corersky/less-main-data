@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-22 05:18 ansible-nfs-client-master/
+-rw-rw-r-- root/root        54 2019-05-22 05:18 ansible-nfs-client-master/.gitignore
+-rw-rw-r-- root/root       748 2019-05-22 05:18 ansible-nfs-client-master/README.md
+drwxrwxr-x root/root         0 2019-05-22 05:18 ansible-nfs-client-master/defaults/
+-rw-rw-r-- root/root       101 2019-05-22 05:18 ansible-nfs-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-22 05:18 ansible-nfs-client-master/meta/
+-rw-rw-r-- root/root       340 2019-05-22 05:18 ansible-nfs-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-22 05:18 ansible-nfs-client-master/tasks/
+-rw-rw-r-- root/root       155 2019-05-22 05:18 ansible-nfs-client-master/tasks/install-debian.yml
+-rw-rw-r-- root/root       154 2019-05-22 05:18 ansible-nfs-client-master/tasks/install-redhat.yml
+-rw-rw-r-- root/root       450 2019-05-22 05:18 ansible-nfs-client-master/tasks/main.yml

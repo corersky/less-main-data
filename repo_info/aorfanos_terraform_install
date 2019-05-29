@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-02-04 14:15 terraform_install-master/
+-rw-rw-r-- root/root       227 2019-02-04 14:15 terraform_install-master/README.md
+drwxrwxr-x root/root         0 2019-02-04 14:15 terraform_install-master/meta/
+-rw-rw-r-- root/root       918 2019-02-04 14:15 terraform_install-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-04 14:15 terraform_install-master/tasks/
+-rw-rw-r-- root/root       991 2019-02-04 14:15 terraform_install-master/tasks/main.yaml
+-rw-rw-r-- root/root       337 2019-02-04 14:15 terraform_install-master/tasks/prereq.yaml
+-rw-rw-r-- root/root       596 2019-02-04 14:15 terraform_install-master/tasks/rollback.yaml
+drwxrwxr-x root/root         0 2019-02-04 14:15 terraform_install-master/vars/
+-rw-rw-r-- root/root       181 2019-02-04 14:15 terraform_install-master/vars/vars.yaml

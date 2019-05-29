@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-02 15:19 ansible-colstrom-master/
+-rw-rw-r-- root/root      1057 2016-02-02 15:19 ansible-colstrom-master/LICENSE
+-rw-rw-r-- root/root       502 2016-02-02 15:19 ansible-colstrom-master/README.md
+drwxrwxr-x root/root         0 2016-02-02 15:19 ansible-colstrom-master/files/
+-rw-rw-r-- root/root       115 2016-02-02 15:19 ansible-colstrom-master/files/ed25519.pub
+-rw-rw-r-- root/root       415 2016-02-02 15:19 ansible-colstrom-master/files/rsa.pub
+-rw-rw-r-- root/root        33 2016-02-02 15:19 ansible-colstrom-master/files/sudo.conf
+drwxrwxr-x root/root         0 2016-02-02 15:19 ansible-colstrom-master/meta/
+-rw-rw-r-- root/root       335 2016-02-02 15:19 ansible-colstrom-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-02 15:19 ansible-colstrom-master/tasks/
+-rw-rw-r-- root/root       434 2016-02-02 15:19 ansible-colstrom-master/tasks/access.yml
+-rw-rw-r-- root/root        47 2016-02-02 15:19 ansible-colstrom-master/tasks/main.yml
+-rw-rw-r-- root/root       445 2016-02-02 15:19 ansible-colstrom-master/tasks/tools.yml

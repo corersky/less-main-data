@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-30 05:45 automated-tasks-master/
+-rw-rw-r-- root/root      1057 2018-12-30 05:45 automated-tasks-master/LICENCE.md
+-rw-rw-r-- root/root      1524 2018-12-30 05:45 automated-tasks-master/README.md
+drwxrwxr-x root/root         0 2018-12-30 05:45 automated-tasks-master/defaults/
+-rw-rw-r-- root/root       736 2018-12-30 05:45 automated-tasks-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-30 05:45 automated-tasks-master/meta/
+-rw-rw-r-- root/root       666 2018-12-30 05:45 automated-tasks-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-30 05:45 automated-tasks-master/tasks/
+-rw-rw-r-- root/root       374 2018-12-30 05:45 automated-tasks-master/tasks/google-cloud-storage.yml
+-rw-rw-r-- root/root      1067 2018-12-30 05:45 automated-tasks-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-30 05:45 automated-tasks-master/templates/
+-rw-rw-r-- root/root      1019 2018-12-30 05:45 automated-tasks-master/templates/backup-db.sh.j2
+-rw-rw-r-- root/root      1845 2018-12-30 05:45 automated-tasks-master/templates/backup-files.sh.j2
+-rw-rw-r-- root/root       133 2018-12-30 05:45 automated-tasks-master/templates/gcs-lifecycle.json.j2
+-rw-rw-r-- root/root       248 2018-12-30 05:45 automated-tasks-master/templates/sites.sh.j2
+drwxrwxr-x root/root         0 2018-12-30 05:45 automated-tasks-master/vars/
+-rw-rw-r-- root/root        36 2018-12-30 05:45 automated-tasks-master/vars/main.yml

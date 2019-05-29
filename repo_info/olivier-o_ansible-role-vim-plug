@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-17 01:10 ansible-role-vim-plug-master/
+-rw-rw-r-- root/root       641 2017-05-17 01:10 ansible-role-vim-plug-master/README.md
+drwxrwxr-x root/root         0 2017-05-17 01:10 ansible-role-vim-plug-master/defaults/
+-rw-rw-r-- root/root       192 2017-05-17 01:10 ansible-role-vim-plug-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-17 01:10 ansible-role-vim-plug-master/meta/
+-rw-rw-r-- root/root       340 2017-05-17 01:10 ansible-role-vim-plug-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-17 01:10 ansible-role-vim-plug-master/tasks/
+-rw-rw-r-- root/root       187 2017-05-17 01:10 ansible-role-vim-plug-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-17 01:10 ansible-role-vim-plug-master/tests/
+-rw-rw-r-- root/root        11 2017-05-17 01:10 ansible-role-vim-plug-master/tests/inventory
+drwxrwxr-x root/root         0 2017-05-17 01:10 ansible-role-vim-plug-master/tests/local-testing/
+-rw-rw-r-- root/root        54 2017-05-17 01:10 ansible-role-vim-plug-master/tests/local-testing/playbook.yml
+-rw-rw-r-- root/root        61 2017-05-17 01:10 ansible-role-vim-plug-master/tests/test.yml

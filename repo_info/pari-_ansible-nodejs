@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-02 08:14 ansible-nodejs-master/
+-rw-rw-r-- root/root        18 2018-11-02 08:14 ansible-nodejs-master/.gitignore
+-rw-rw-r-- root/root       983 2018-11-02 08:14 ansible-nodejs-master/.travis.yml
+-rw-rw-r-- root/root      1070 2018-11-02 08:14 ansible-nodejs-master/LICENSE
+-rw-rw-r-- root/root      1053 2018-11-02 08:14 ansible-nodejs-master/README.md
+-rw-rw-r-- root/root      1071 2018-11-02 08:14 ansible-nodejs-master/Vagrantfile
+-rw-rw-r-- root/root        81 2018-11-02 08:14 ansible-nodejs-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-11-02 08:14 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root       505 2018-11-02 08:14 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-02 08:14 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       298 2018-11-02 08:14 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-02 08:14 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root      1267 2018-11-02 08:14 ansible-nodejs-master/tasks/install.yml
+-rw-rw-r-- root/root        59 2018-11-02 08:14 ansible-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       207 2018-11-02 08:14 ansible-nodejs-master/test.yml
+drwxrwxr-x root/root         0 2018-11-02 08:14 ansible-nodejs-master/tests/
+-rw-rw-r-- root/root       394 2018-11-02 08:14 ansible-nodejs-master/tests/test_installed_nodejs_version.yml

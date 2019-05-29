@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/
+-rw-rw-r-- root/root       136 2017-01-02 15:22 ssmtp-role-master/.editorconfig
+-rw-rw-r-- root/root        17 2017-01-02 15:22 ssmtp-role-master/.gitignore
+-rw-rw-r-- root/root      1692 2017-01-02 15:22 ssmtp-role-master/.travis.yml
+-rw-rw-r-- root/root      1391 2017-01-02 15:22 ssmtp-role-master/README.md
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/defaults/
+-rw-rw-r-- root/root       437 2017-01-02 15:22 ssmtp-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/handlers/
+-rw-rw-r-- root/root        35 2017-01-02 15:22 ssmtp-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/meta/
+-rw-rw-r-- root/root      3532 2017-01-02 15:22 ssmtp-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/tasks/
+-rw-rw-r-- root/root      1075 2017-01-02 15:22 ssmtp-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/templates/
+-rw-rw-r-- root/root       171 2017-01-02 15:22 ssmtp-role-master/templates/revaliases.j2
+-rw-rw-r-- root/root       371 2017-01-02 15:22 ssmtp-role-master/templates/ssmtp.conf.j2
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/tests/
+-rw-rw-r-- root/root        34 2017-01-02 15:22 ssmtp-role-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-01-02 15:22 ssmtp-role-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-01-02 15:22 ssmtp-role-master/tests/roles/ssmtp-role -> ../../../ssmtp-role
+-rw-rw-r-- root/root       214 2017-01-02 15:22 ssmtp-role-master/tests/ssmtp_email.sh
+-rw-rw-r-- root/root       806 2017-01-02 15:22 ssmtp-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-02 15:22 ssmtp-role-master/vars/
+-rw-rw-r-- root/root        56 2017-01-02 15:22 ssmtp-role-master/vars/main.yml

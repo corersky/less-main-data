@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-07-25 07:09 ansible-role-ulimit-master/
+-rw-rw-r-- root/root      1845 2016-07-25 07:09 ansible-role-ulimit-master/.travis.yml
+-rw-rw-r-- root/root       782 2016-07-25 07:09 ansible-role-ulimit-master/README.md
+drwxrwxr-x root/root         0 2016-07-25 07:09 ansible-role-ulimit-master/meta/
+-rw-rw-r-- root/root       299 2016-07-25 07:09 ansible-role-ulimit-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-25 07:09 ansible-role-ulimit-master/tasks/
+-rw-rw-r-- root/root      1291 2016-07-25 07:09 ansible-role-ulimit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-25 07:09 ansible-role-ulimit-master/tests/
+-rw-rw-r-- root/root       380 2016-07-25 07:09 ansible-role-ulimit-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1027 2016-07-25 07:09 ansible-role-ulimit-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root         9 2016-07-25 07:09 ansible-role-ulimit-master/tests/inventory
+-rw-rw-r-- root/root        57 2016-07-25 07:09 ansible-role-ulimit-master/tests/test.yml

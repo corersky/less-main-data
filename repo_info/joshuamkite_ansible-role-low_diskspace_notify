@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/
+-rw-rw-r-- root/root      1080 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/README.md
+drwxrwxr-x root/root         0 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/defaults/
+-rw-rw-r-- root/root        56 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/files/
+-rwxrwxr-x root/root       888 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/files/checklowdisk
+drwxrwxr-x root/root         0 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/handlers/
+-rw-rw-r-- root/root        56 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/meta/
+-rw-rw-r-- root/root      3978 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/tasks/
+-rw-rw-r-- root/root       629 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/tests/
+-rw-rw-r-- root/root        11 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/tests/inventory
+-rw-rw-r-- root/root        90 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/vars/
+-rw-rw-r-- root/root        52 2017-05-20 09:08 ansible-role-low_diskspace_notify-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-21 02:45 ansible-role-nginx-setup-master/
+-rw-rw-r-- root/root        57 2016-03-21 02:45 ansible-role-nginx-setup-master/.gitignore
+-rw-rw-r-- root/root      1654 2016-03-21 02:45 ansible-role-nginx-setup-master/README.md
+drwxrwxr-x root/root         0 2016-03-21 02:45 ansible-role-nginx-setup-master/defaults/
+-rw-rw-r-- root/root       967 2016-03-21 02:45 ansible-role-nginx-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-21 02:45 ansible-role-nginx-setup-master/handlers/
+-rw-rw-r-- root/root        49 2016-03-21 02:45 ansible-role-nginx-setup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-21 02:45 ansible-role-nginx-setup-master/meta/
+-rw-rw-r-- root/root       274 2016-03-21 02:45 ansible-role-nginx-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-21 02:45 ansible-role-nginx-setup-master/tasks/
+-rw-rw-r-- root/root      1256 2016-03-21 02:45 ansible-role-nginx-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-21 02:45 ansible-role-nginx-setup-master/templates/
+-rw-rw-r-- root/root      2535 2016-03-21 02:45 ansible-role-nginx-setup-master/templates/conf.j2
+-rw-rw-r-- root/root      1875 2016-03-21 02:45 ansible-role-nginx-setup-master/templates/service.j2
+drwxrwxr-x root/root         0 2016-03-21 02:45 ansible-role-nginx-setup-master/vars/
+-rw-rw-r-- root/root        45 2016-03-21 02:45 ansible-role-nginx-setup-master/vars/main.yml

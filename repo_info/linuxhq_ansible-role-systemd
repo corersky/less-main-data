@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-20 22:32 ansible-role-systemd-master/
+-rw-rw-r-- root/root       331 2019-01-20 22:32 ansible-role-systemd-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 22:32 ansible-role-systemd-master/COPYING
+-rw-rw-r-- root/root      2858 2019-01-20 22:32 ansible-role-systemd-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 22:32 ansible-role-systemd-master/defaults/
+-rw-rw-r-- root/root      1157 2019-01-20 22:32 ansible-role-systemd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 22:32 ansible-role-systemd-master/handlers/
+-rw-rw-r-- root/root       127 2019-01-20 22:32 ansible-role-systemd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-20 22:32 ansible-role-systemd-master/meta/
+-rw-rw-r-- root/root       291 2019-01-20 22:32 ansible-role-systemd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 22:32 ansible-role-systemd-master/tasks/
+-rw-rw-r-- root/root      1756 2019-01-20 22:32 ansible-role-systemd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 22:32 ansible-role-systemd-master/templates/
+-rw-rw-r-- root/root      1929 2019-01-20 22:32 ansible-role-systemd-master/templates/logind.conf.j2
+drwxrwxr-x root/root         0 2019-01-20 22:32 ansible-role-systemd-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 22:32 ansible-role-systemd-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-01-20 22:32 ansible-role-systemd-master/tests/test.yml

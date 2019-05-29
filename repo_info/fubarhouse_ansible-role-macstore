@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-03 04:56 ansible-role-macstore-master/
+-rw-rw-r-- root/root      1402 2016-11-03 04:56 ansible-role-macstore-master/.travis.yml
+-rw-rw-r-- root/root      1207 2016-11-03 04:56 ansible-role-macstore-master/README.md
+drwxrwxr-x root/root         0 2016-11-03 04:56 ansible-role-macstore-master/defaults/
+-rw-rw-r-- root/root       229 2016-11-03 04:56 ansible-role-macstore-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-03 04:56 ansible-role-macstore-master/handlers/
+-rw-rw-r-- root/root        44 2016-11-03 04:56 ansible-role-macstore-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-03 04:56 ansible-role-macstore-master/meta/
+-rw-rw-r-- root/root       430 2016-11-03 04:56 ansible-role-macstore-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-03 04:56 ansible-role-macstore-master/tasks/
+-rw-rw-r-- root/root      1343 2016-11-03 04:56 ansible-role-macstore-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-03 04:56 ansible-role-macstore-master/tests/
+-rw-rw-r-- root/root         9 2016-11-03 04:56 ansible-role-macstore-master/tests/inventory
+-rw-rw-r-- root/root       221 2016-11-03 04:56 ansible-role-macstore-master/tests/requirements.yml
+-rw-rw-r-- root/root       167 2016-11-03 04:56 ansible-role-macstore-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-03 04:56 ansible-role-macstore-master/vars/
+-rw-rw-r-- root/root        40 2016-11-03 04:56 ansible-role-macstore-master/vars/main.yml

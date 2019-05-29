@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-18 07:55 ansible-role-ice-master/
+-rw-rw-r-- root/root         4 2017-04-18 07:55 ansible-role-ice-master/.gitignore
+-rw-rw-r-- root/root       222 2017-04-18 07:55 ansible-role-ice-master/.travis.yml
+-rw-rw-r-- root/root       920 2017-04-18 07:55 ansible-role-ice-master/README.md
+drwxrwxr-x root/root         0 2017-04-18 07:55 ansible-role-ice-master/meta/
+-rw-rw-r-- root/root       328 2017-04-18 07:55 ansible-role-ice-master/meta/main.yml
+-rw-rw-r-- root/root       601 2017-04-18 07:55 ansible-role-ice-master/molecule.yml
+-rw-rw-r-- root/root        55 2017-04-18 07:55 ansible-role-ice-master/playbook.yml
+drwxrwxr-x root/root         0 2017-04-18 07:55 ansible-role-ice-master/tasks/
+-rw-rw-r-- root/root      1255 2017-04-18 07:55 ansible-role-ice-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-18 07:55 ansible-role-ice-master/tests/
+-rw-rw-r-- root/root        31 2017-04-18 07:55 ansible-role-ice-master/tests/requirements.yml
+-rw-rw-r-- root/root       738 2017-04-18 07:55 ansible-role-ice-master/tests/test_default.py
+drwxrwxr-x root/root         0 2017-04-18 07:55 ansible-role-ice-master/vars/
+-rw-rw-r-- root/root       281 2017-04-18 07:55 ansible-role-ice-master/vars/ice-3.5.yml
+-rw-rw-r-- root/root       400 2017-04-18 07:55 ansible-role-ice-master/vars/ice-3.6.yml

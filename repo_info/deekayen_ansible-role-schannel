@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-09 15:31 ansible-role-schannel-master/
+-rw-rw-r-- root/root       138 2018-09-09 15:31 ansible-role-schannel-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       384 2018-09-09 15:31 ansible-role-schannel-master/.travis.yml
+-rw-rw-r-- root/root      1512 2018-09-09 15:31 ansible-role-schannel-master/LICENSE
+-rw-rw-r-- root/root      2680 2018-09-09 15:31 ansible-role-schannel-master/README.md
+drwxrwxr-x root/root         0 2018-09-09 15:31 ansible-role-schannel-master/defaults/
+-rw-rw-r-- root/root       471 2018-09-09 15:31 ansible-role-schannel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-09 15:31 ansible-role-schannel-master/meta/
+-rw-rw-r-- root/root       325 2018-09-09 15:31 ansible-role-schannel-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-09 15:31 ansible-role-schannel-master/tasks/
+-rw-rw-r-- root/root       124 2018-09-09 15:31 ansible-role-schannel-master/tasks/main.yml
+-rw-rw-r-- root/root      1936 2018-09-09 15:31 ansible-role-schannel-master/tasks/windows.yml
+drwxrwxr-x root/root         0 2018-09-09 15:31 ansible-role-schannel-master/tasks/windows/
+-rw-rw-r-- root/root      6464 2018-09-09 15:31 ansible-role-schannel-master/tasks/windows/ciphers.yml
+-rw-rw-r-- root/root      1222 2018-09-09 15:31 ansible-role-schannel-master/tasks/windows/hashes.yml
+-rw-rw-r-- root/root      3487 2018-09-09 15:31 ansible-role-schannel-master/tasks/windows/protocols.yml

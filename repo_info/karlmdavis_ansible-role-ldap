@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-05 14:24 ansible-role-ldap-master/
+-rw-rw-r-- root/root      1472 2017-01-05 14:24 ansible-role-ldap-master/.travis.yml
+-rw-rw-r-- root/root      1297 2017-01-05 14:24 ansible-role-ldap-master/LICENSE
+-rw-rw-r-- root/root      1588 2017-01-05 14:24 ansible-role-ldap-master/README.md
+-rw-rw-r-- root/root       147 2017-01-05 14:24 ansible-role-ldap-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-01-05 14:24 ansible-role-ldap-master/library/
+-rwxrwxr-x root/root     10792 2017-01-05 14:24 ansible-role-ldap-master/library/ldap_attr
+-rwxrwxr-x root/root      8541 2017-01-05 14:24 ansible-role-ldap-master/library/ldap_entry
+drwxrwxr-x root/root         0 2017-01-05 14:24 ansible-role-ldap-master/meta/
+-rw-rw-r-- root/root       271 2017-01-05 14:24 ansible-role-ldap-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-05 14:24 ansible-role-ldap-master/tests/
+-rw-rw-r-- root/root         9 2017-01-05 14:24 ansible-role-ldap-master/tests/inventory
+-rw-rw-r-- root/root         1 2017-01-05 14:24 ansible-role-ldap-master/tests/requirements.txt
+-rw-rw-r-- root/root      2543 2017-01-05 14:24 ansible-role-ldap-master/tests/test.yml

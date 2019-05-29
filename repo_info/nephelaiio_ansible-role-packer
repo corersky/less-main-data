@@ -1,0 +1,37 @@
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/
+-rw-rw-r-- root/root       127 2019-02-11 21:37 ansible-role-packer-master/.flake8
+-rw-rw-r-- root/root        51 2019-02-11 21:37 ansible-role-packer-master/.gitignore
+-rw-rw-r-- root/root       234 2019-02-11 21:37 ansible-role-packer-master/.travis.yml
+-rw-rw-r-- root/root       171 2019-02-11 21:37 ansible-role-packer-master/.yamllint
+-rw-rw-r-- root/root      1053 2019-02-11 21:37 ansible-role-packer-master/LICENSE
+-rw-rw-r-- root/root      1060 2019-02-11 21:37 ansible-role-packer-master/README.md
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/defaults/
+-rw-rw-r-- root/root       109 2019-02-11 21:37 ansible-role-packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/meta/
+-rw-rw-r-- root/root       422 2019-02-11 21:37 ansible-role-packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/molecule/
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/molecule/default/
+-rw-rw-r-- root/root      1139 2019-02-11 21:37 ansible-role-packer-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2019-02-11 21:37 ansible-role-packer-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2019-02-11 21:37 ansible-role-packer-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2019-02-11 21:37 ansible-role-packer-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       439 2019-02-11 21:37 ansible-role-packer-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        73 2019-02-11 21:37 ansible-role-packer-master/molecule/default/playbook.yml
+lrwxrwxrwx root/root         0 2019-02-11 21:37 ansible-role-packer-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/molecule/default/roles/
+lrwxrwxrwx root/root         0 2019-02-11 21:37 ansible-role-packer-master/molecule/default/roles/nephelaiio.packer -> ../../../
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/molecule/default/tests/
+-rw-rw-r-- root/root       258 2019-02-11 21:37 ansible-role-packer-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1021 2019-02-11 21:37 ansible-role-packer-master/molecule/default/tests/test_default.pyc
+-rw-rw-r-- root/root        44 2019-02-11 21:37 ansible-role-packer-master/requirements.txt
+-rw-rw-r-- root/root        21 2019-02-11 21:37 ansible-role-packer-master/requirements.yml
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/tasks/
+-rw-rw-r-- root/root      1186 2019-02-11 21:37 ansible-role-packer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/templates/
+-rw-rw-r-- root/root       106 2019-02-11 21:37 ansible-role-packer-master/templates/bash_profile
+-rw-rw-r-- root/root       147 2019-02-11 21:37 ansible-role-packer-master/templates/bashrc
+drwxrwxr-x root/root         0 2019-02-11 21:37 ansible-role-packer-master/vars/
+-rw-rw-r-- root/root        73 2019-02-11 21:37 ansible-role-packer-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root       153 2019-02-11 21:37 ansible-role-packer-master/vars/arm.yml
+-rw-rw-r-- root/root       153 2019-02-11 21:37 ansible-role-packer-master/vars/x86.yml
+-rw-rw-r-- root/root       155 2019-02-11 21:37 ansible-role-packer-master/vars/x86_64.yml

@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-04-13 17:31 ansible-role-disableroot-master/
+-rw-rw-r-- root/root       149 2018-04-13 17:31 ansible-role-disableroot-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-04-13 17:31 ansible-role-disableroot-master/LICENSE.md
+-rw-rw-r-- root/root       825 2018-04-13 17:31 ansible-role-disableroot-master/README.md
+drwxrwxr-x root/root         0 2018-04-13 17:31 ansible-role-disableroot-master/meta/
+-rw-rw-r-- root/root       269 2018-04-13 17:31 ansible-role-disableroot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-13 17:31 ansible-role-disableroot-master/tasks/
+-rw-rw-r-- root/root       321 2018-04-13 17:31 ansible-role-disableroot-master/tasks/disableroot.yml
+-rw-rw-r-- root/root        88 2018-04-13 17:31 ansible-role-disableroot-master/tasks/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-redis-master/
+-rw-rw-r-- root/root       893 2016-08-14 21:56 docker-redis-master/.travis.yml
+-rw-rw-r-- root/root       523 2016-08-14 21:56 docker-redis-master/CHANGELOG.md
+-rw-rw-r-- root/root      1075 2016-08-14 21:56 docker-redis-master/LICENSE.txt
+-rw-rw-r-- root/root      2540 2016-08-14 21:56 docker-redis-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-redis-master/defaults/
+-rwxrwxr-x root/root       669 2016-08-14 21:56 docker-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-redis-master/meta/
+-rw-rw-r-- root/root       287 2016-08-14 21:56 docker-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-redis-master/tasks/
+-rwxrwxr-x root/root        42 2016-08-14 21:56 docker-redis-master/tasks/main.yml
+-rw-rw-r-- root/root      1783 2016-08-14 21:56 docker-redis-master/tasks/redis.yml
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-redis-master/tests/
+-rw-rw-r-- root/root       119 2016-08-14 21:56 docker-redis-master/tests/main.yml

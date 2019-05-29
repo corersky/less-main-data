@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-13 13:23 ansible-slack-master/
+-rw-rw-r-- root/root      1085 2016-05-13 13:23 ansible-slack-master/LICENSE
+-rw-rw-r-- root/root       623 2016-05-13 13:23 ansible-slack-master/README.md
+drwxrwxr-x root/root         0 2016-05-13 13:23 ansible-slack-master/defaults/
+-rw-rw-r-- root/root       346 2016-05-13 13:23 ansible-slack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-13 13:23 ansible-slack-master/meta/
+-rw-rw-r-- root/root       355 2016-05-13 13:23 ansible-slack-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-13 13:23 ansible-slack-master/tasks/
+-rw-rw-r-- root/root       839 2016-05-13 13:23 ansible-slack-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-13 13:23 ansible-slack-master/templates/
+-rw-rw-r-- root/root       727 2016-05-13 13:23 ansible-slack-master/templates/ssh-notify.j2
+-rw-rw-r-- root/root       743 2016-05-13 13:23 ansible-slack-master/vault.yml

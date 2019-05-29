@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-11 11:07 ansible-iptables-persistent-master/
+-rw-rw-r-- root/root         9 2019-01-11 11:07 ansible-iptables-persistent-master/.gitignore
+-rw-rw-r-- root/root      1414 2019-01-11 11:07 ansible-iptables-persistent-master/.travis.yml
+-rw-rw-r-- root/root      1075 2019-01-11 11:07 ansible-iptables-persistent-master/README.md
+-rw-rw-r-- root/root      1474 2019-01-11 11:07 ansible-iptables-persistent-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-01-11 11:07 ansible-iptables-persistent-master/handlers/
+-rw-rw-r-- root/root       218 2019-01-11 11:07 ansible-iptables-persistent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-11 11:07 ansible-iptables-persistent-master/meta/
+-rw-rw-r-- root/root       461 2019-01-11 11:07 ansible-iptables-persistent-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 11:07 ansible-iptables-persistent-master/tasks/
+-rw-rw-r-- root/root       127 2019-01-11 11:07 ansible-iptables-persistent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 11:07 ansible-iptables-persistent-master/tests/
+-rw-rw-r-- root/root        11 2019-01-11 11:07 ansible-iptables-persistent-master/tests/inventory
+-rw-rw-r-- root/root       264 2019-01-11 11:07 ansible-iptables-persistent-master/tests/test.yml
+-rw-rw-r-- root/root       261 2019-01-11 11:07 ansible-iptables-persistent-master/tests/vagrant.yml

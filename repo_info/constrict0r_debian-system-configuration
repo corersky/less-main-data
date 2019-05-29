@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-08 19:12 debian-system-configuration-master/
+-rw-rw-r-- root/root        52 2019-05-08 19:12 debian-system-configuration-master/.gitignore
+-rw-rw-r-- root/root       640 2019-05-08 19:12 debian-system-configuration-master/.travis.yml
+-rw-rw-r-- root/root      1077 2019-05-08 19:12 debian-system-configuration-master/LICENSE
+-rw-rw-r-- root/root      3717 2019-05-08 19:12 debian-system-configuration-master/README.md
+drwxrwxr-x root/root         0 2019-05-08 19:12 debian-system-configuration-master/docs/
+drwxrwxr-x root/root         0 2019-05-08 19:12 debian-system-configuration-master/docs/uml/
+-rw-rw-r-- root/root       243 2019-05-08 19:12 debian-system-configuration-master/docs/uml/deployment.txt
+-rw-rw-r-- root/root       290 2019-05-08 19:12 debian-system-configuration-master/docs/uml/main.txt
+drwxrwxr-x root/root         0 2019-05-08 19:12 debian-system-configuration-master/meta/
+-rw-rw-r-- root/root       428 2019-05-08 19:12 debian-system-configuration-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 19:12 debian-system-configuration-master/tasks/
+-rw-rw-r-- root/root       853 2019-05-08 19:12 debian-system-configuration-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-08 19:12 debian-system-configuration-master/tests/
+-rw-rw-r-- root/root         9 2019-05-08 19:12 debian-system-configuration-master/tests/inventory
+-rw-rw-r-- root/root       194 2019-05-08 19:12 debian-system-configuration-master/tests/local-playbook.yml
+-rw-rw-r-- root/root      1708 2019-05-08 19:12 debian-system-configuration-master/tests/test-playbook.yml

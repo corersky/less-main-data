@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-23 06:19 ansible-openshift-common-facts-master/
+-rw-rw-r-- root/root         8 2018-11-23 06:19 ansible-openshift-common-facts-master/.gitignore
+-rw-rw-r-- root/root       148 2018-11-23 06:19 ansible-openshift-common-facts-master/.travis.yml
+-rw-rw-r-- root/root      2312 2018-11-23 06:19 ansible-openshift-common-facts-master/README.md
+drwxrwxr-x root/root         0 2018-11-23 06:19 ansible-openshift-common-facts-master/defaults/
+-rw-rw-r-- root/root       120 2018-11-23 06:19 ansible-openshift-common-facts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:19 ansible-openshift-common-facts-master/meta/
+-rw-rw-r-- root/root       301 2018-11-23 06:19 ansible-openshift-common-facts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:19 ansible-openshift-common-facts-master/tasks/
+-rw-rw-r-- root/root       972 2018-11-23 06:19 ansible-openshift-common-facts-master/tasks/hostname_suffix.yml
+-rw-rw-r-- root/root      2504 2018-11-23 06:19 ansible-openshift-common-facts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:19 ansible-openshift-common-facts-master/tests/
+-rw-rw-r-- root/root         9 2018-11-23 06:19 ansible-openshift-common-facts-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-11-23 06:19 ansible-openshift-common-facts-master/tests/test.yml

@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/
+-rw-rw-r-- root/root        88 2016-08-17 06:58 ansible-role-virtualbox-guest-master/.gitattributes
+-rw-rw-r-- root/root         9 2016-08-17 06:58 ansible-role-virtualbox-guest-master/.gitignore
+-rw-rw-r-- root/root       539 2016-08-17 06:58 ansible-role-virtualbox-guest-master/.travis.yml
+-rw-rw-r-- root/root      1251 2016-08-17 06:58 ansible-role-virtualbox-guest-master/README.md
+-rw-rw-r-- root/root      1262 2016-08-17 06:58 ansible-role-virtualbox-guest-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/defaults/
+-rw-rw-r-- root/root       523 2016-08-17 06:58 ansible-role-virtualbox-guest-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/handlers/
+-rw-rw-r-- root/root        54 2016-08-17 06:58 ansible-role-virtualbox-guest-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/meta/
+-rw-rw-r-- root/root      1727 2016-08-17 06:58 ansible-role-virtualbox-guest-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/tasks/
+-rw-rw-r-- root/root      3374 2016-08-17 06:58 ansible-role-virtualbox-guest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/tests/
+-rw-rw-r-- root/root        35 2016-08-17 06:58 ansible-role-virtualbox-guest-master/tests/inventory
+drwxrwxr-x root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/tests/roles/ansible-role-virtualbox-guest -> ../../
+-rw-rw-r-- root/root        10 2016-08-17 06:58 ansible-role-virtualbox-guest-master/tests/test.retry
+-rw-rw-r-- root/root        87 2016-08-17 06:58 ansible-role-virtualbox-guest-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-17 06:58 ansible-role-virtualbox-guest-master/vars/
+-rw-rw-r-- root/root        50 2016-08-17 06:58 ansible-role-virtualbox-guest-master/vars/main.yml

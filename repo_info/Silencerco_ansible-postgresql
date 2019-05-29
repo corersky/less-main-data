@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-22 11:16 ansible-postgresql-master/
+-rw-rw-r-- root/root       539 2016-08-22 11:16 ansible-postgresql-master/.travis.yml
+-rw-rw-r-- root/root      1103 2016-08-22 11:16 ansible-postgresql-master/README.md
+drwxrwxr-x root/root         0 2016-08-22 11:16 ansible-postgresql-master/defaults/
+-rw-rw-r-- root/root       111 2016-08-22 11:16 ansible-postgresql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-22 11:16 ansible-postgresql-master/handlers/
+-rw-rw-r-- root/root        74 2016-08-22 11:16 ansible-postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-22 11:16 ansible-postgresql-master/meta/
+-rw-rw-r-- root/root       386 2016-08-22 11:16 ansible-postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-22 11:16 ansible-postgresql-master/tasks/
+-rw-rw-r-- root/root       694 2016-08-22 11:16 ansible-postgresql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-22 11:16 ansible-postgresql-master/tests/
+-rw-rw-r-- root/root         9 2016-08-22 11:16 ansible-postgresql-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-08-22 11:16 ansible-postgresql-master/tests/test.yml

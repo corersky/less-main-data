@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-08-22 03:20 ansible-msmtp-master/
+-rw-rw-r-- root/root        52 2014-08-22 03:20 ansible-msmtp-master/.gitignore
+-rw-rw-r-- root/root       406 2014-08-22 03:20 ansible-msmtp-master/.travis.yml
+-rw-rw-r-- root/root     35121 2014-08-22 03:20 ansible-msmtp-master/LICENSE
+-rw-rw-r-- root/root      1447 2014-08-22 03:20 ansible-msmtp-master/README.md
+-rw-rw-r-- root/root       552 2014-08-22 03:20 ansible-msmtp-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-08-22 03:20 ansible-msmtp-master/defaults/
+-rw-rw-r-- root/root       214 2014-08-22 03:20 ansible-msmtp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-22 03:20 ansible-msmtp-master/meta/
+-rw-rw-r-- root/root       423 2014-08-22 03:20 ansible-msmtp-master/meta/main.yml
+-rw-rw-r-- root/root       171 2014-08-22 03:20 ansible-msmtp-master/playbook.yml
+drwxrwxr-x root/root         0 2014-08-22 03:20 ansible-msmtp-master/tasks/
+-rw-rw-r-- root/root       730 2014-08-22 03:20 ansible-msmtp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-22 03:20 ansible-msmtp-master/templates/
+-rw-rw-r-- root/root        24 2014-08-22 03:20 ansible-msmtp-master/templates/msmtp_aliases.j2
+-rw-rw-r-- root/root       273 2014-08-22 03:20 ansible-msmtp-master/templates/msmtprc.j2

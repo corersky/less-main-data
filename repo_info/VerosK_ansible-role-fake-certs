@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-12 07:22 ansible-role-fake-certs-master/
+-rw-rw-r-- root/root       362 2017-12-12 07:22 ansible-role-fake-certs-master/README.md
+drwxrwxr-x root/root         0 2017-12-12 07:22 ansible-role-fake-certs-master/defaults/
+-rw-rw-r-- root/root       273 2017-12-12 07:22 ansible-role-fake-certs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-12 07:22 ansible-role-fake-certs-master/meta/
+-rw-rw-r-- root/root       353 2017-12-12 07:22 ansible-role-fake-certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-12 07:22 ansible-role-fake-certs-master/tasks/
+-rw-rw-r-- root/root      1543 2017-12-12 07:22 ansible-role-fake-certs-master/tasks/main.yml
+-rw-rw-r-- root/root       510 2017-12-12 07:22 ansible-role-fake-certs-master/tasks/prepare-ca-certs.yml
+drwxrwxr-x root/root         0 2017-12-12 07:22 ansible-role-fake-certs-master/templates/
+-rw-rw-r-- root/root       368 2017-12-12 07:22 ansible-role-fake-certs-master/templates/ca-config.json
+-rw-rw-r-- root/root       321 2017-12-12 07:22 ansible-role-fake-certs-master/templates/ca-csr.json
+-rw-rw-r-- root/root       549 2017-12-12 07:22 ansible-role-fake-certs-master/templates/plain-csr.json

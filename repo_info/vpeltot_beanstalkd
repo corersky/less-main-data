@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-25 06:36 beanstalkd-master/
+-rwxrwxr-x root/root      1264 2016-11-25 06:36 beanstalkd-master/.travis.yml
+-rw-rw-r-- root/root      1057 2016-11-25 06:36 beanstalkd-master/LICENSE
+-rwxrwxr-x root/root       707 2016-11-25 06:36 beanstalkd-master/README.md
+drwxrwxr-x root/root         0 2016-11-25 06:36 beanstalkd-master/defaults/
+-rwxrwxr-x root/root       767 2016-11-25 06:36 beanstalkd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-25 06:36 beanstalkd-master/handlers/
+-rwxrwxr-x root/root        85 2016-11-25 06:36 beanstalkd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-25 06:36 beanstalkd-master/meta/
+-rwxrwxr-x root/root       301 2016-11-25 06:36 beanstalkd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-25 06:36 beanstalkd-master/tasks/
+-rwxrwxr-x root/root       849 2016-11-25 06:36 beanstalkd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-25 06:36 beanstalkd-master/templates/
+-rwxrwxr-x root/root       124 2016-11-25 06:36 beanstalkd-master/templates/beanstalkd.j2
+-rwxrwxr-x root/root       324 2016-11-25 06:36 beanstalkd-master/templates/beanstalkd.service.j2
+drwxrwxr-x root/root         0 2016-11-25 06:36 beanstalkd-master/tests/
+-rwxrwxr-x root/root       132 2016-11-25 06:36 beanstalkd-master/tests/test.yml

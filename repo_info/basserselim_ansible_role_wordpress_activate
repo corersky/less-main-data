@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-20 09:28 ansible_role_wordpress_activate-master/
+-rw-rw-r-- root/root       539 2016-04-20 09:28 ansible_role_wordpress_activate-master/.travis.yml
+-rw-rw-r-- root/root       914 2016-04-20 09:28 ansible_role_wordpress_activate-master/README.md
+drwxrwxr-x root/root         0 2016-04-20 09:28 ansible_role_wordpress_activate-master/defaults/
+-rw-rw-r-- root/root       110 2016-04-20 09:28 ansible_role_wordpress_activate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-20 09:28 ansible_role_wordpress_activate-master/handlers/
+-rw-rw-r-- root/root        44 2016-04-20 09:28 ansible_role_wordpress_activate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-20 09:28 ansible_role_wordpress_activate-master/meta/
+-rw-rw-r-- root/root      3362 2016-04-20 09:28 ansible_role_wordpress_activate-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-20 09:28 ansible_role_wordpress_activate-master/tasks/
+-rw-rw-r-- root/root       750 2016-04-20 09:28 ansible_role_wordpress_activate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-20 09:28 ansible_role_wordpress_activate-master/tests/
+-rw-rw-r-- root/root         9 2016-04-20 09:28 ansible_role_wordpress_activate-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-04-20 09:28 ansible_role_wordpress_activate-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-04-20 09:28 ansible_role_wordpress_activate-master/vars/
+-rw-rw-r-- root/root        40 2016-04-20 09:28 ansible_role_wordpress_activate-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-09 17:50 ansible-es_api_reindex-master/
+-rw-rw-r-- root/root       539 2016-09-09 17:50 ansible-es_api_reindex-master/.travis.yml
+-rw-rw-r-- root/root      1961 2016-09-09 17:50 ansible-es_api_reindex-master/LICENSE.txt
+-rw-rw-r-- root/root      1753 2016-09-09 17:50 ansible-es_api_reindex-master/README.md
+drwxrwxr-x root/root         0 2016-09-09 17:50 ansible-es_api_reindex-master/meta/
+-rw-rw-r-- root/root       688 2016-09-09 17:50 ansible-es_api_reindex-master/meta/main.yml
+-rw-rw-r-- root/root      1880 2016-09-09 17:50 ansible-es_api_reindex-master/reindex_split-by-hour.yml
+drwxrwxr-x root/root         0 2016-09-09 17:50 ansible-es_api_reindex-master/tasks/
+-rw-rw-r-- root/root       292 2016-09-09 17:50 ansible-es_api_reindex-master/tasks/check.yml
+-rw-rw-r-- root/root       239 2016-09-09 17:50 ansible-es_api_reindex-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-09 17:50 ansible-es_api_reindex-master/templates/
+-rw-rw-r-- root/root       450 2016-09-09 17:50 ansible-es_api_reindex-master/templates/reindex.j2
+drwxrwxr-x root/root         0 2016-09-09 17:50 ansible-es_api_reindex-master/tests/
+-rw-rw-r-- root/root         9 2016-09-09 17:50 ansible-es_api_reindex-master/tests/inventory
+-rw-rw-r-- root/root        61 2016-09-09 17:50 ansible-es_api_reindex-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-09 17:50 ansible-es_api_reindex-master/vars/
+-rw-rw-r-- root/root       141 2016-09-09 17:50 ansible-es_api_reindex-master/vars/main.yml

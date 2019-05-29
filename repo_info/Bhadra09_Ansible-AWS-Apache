@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-03-14 13:49 Ansible-AWS-Apache-master/
+-rw-rw-r-- root/root       954 2018-03-14 13:49 Ansible-AWS-Apache-master/README.md
+drwxrwxr-x root/root         0 2018-03-14 13:49 Ansible-AWS-Apache-master/ansible/
+-rw-rw-r-- root/root       283 2018-03-14 13:49 Ansible-AWS-Apache-master/ansible/meta.yml
+-rw-rw-r-- root/root      1083 2018-03-14 13:49 Ansible-AWS-Apache-master/aws_apache.yml
+drwxrwxr-x root/root         0 2018-03-14 13:49 Ansible-AWS-Apache-master/roles/
+drwxrwxr-x root/root         0 2018-03-14 13:49 Ansible-AWS-Apache-master/roles/httpd/
+drwxrwxr-x root/root         0 2018-03-14 13:49 Ansible-AWS-Apache-master/roles/httpd/meta/
+-rw-rw-r-- root/root       264 2018-03-14 13:49 Ansible-AWS-Apache-master/roles/httpd/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-14 13:49 Ansible-AWS-Apache-master/roles/httpd/tasks/
+-rw-rw-r-- root/root       463 2018-03-14 13:49 Ansible-AWS-Apache-master/roles/httpd/tasks/main.yml

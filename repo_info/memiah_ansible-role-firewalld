@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-13 07:55 ansible-role-firewalld-master/
+-rw-rw-r-- root/root         7 2017-12-13 07:55 ansible-role-firewalld-master/.gitignore
+-rw-rw-r-- root/root       540 2017-12-13 07:55 ansible-role-firewalld-master/.travis.yml
+-rw-rw-r-- root/root      1573 2017-12-13 07:55 ansible-role-firewalld-master/README.md
+drwxrwxr-x root/root         0 2017-12-13 07:55 ansible-role-firewalld-master/defaults/
+-rw-rw-r-- root/root       167 2017-12-13 07:55 ansible-role-firewalld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-13 07:55 ansible-role-firewalld-master/handlers/
+-rw-rw-r-- root/root       115 2017-12-13 07:55 ansible-role-firewalld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-13 07:55 ansible-role-firewalld-master/meta/
+-rw-rw-r-- root/root       323 2017-12-13 07:55 ansible-role-firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-13 07:55 ansible-role-firewalld-master/tasks/
+-rw-rw-r-- root/root       878 2017-12-13 07:55 ansible-role-firewalld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-13 07:55 ansible-role-firewalld-master/tests/
+-rw-rw-r-- root/root         9 2017-12-13 07:55 ansible-role-firewalld-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-12-13 07:55 ansible-role-firewalld-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-05 15:30 ansible-git-master/
+-rw-rw-r-- root/root         9 2017-12-05 15:30 ansible-git-master/.gitignore
+-rw-rw-r-- root/root        29 2017-12-05 15:30 ansible-git-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-12-05 15:30 ansible-git-master/LICENSE
+-rw-rw-r-- root/root       116 2017-12-05 15:30 ansible-git-master/README.md
+drwxrwxr-x root/root         0 2017-12-05 15:30 ansible-git-master/examples/
+-rw-rw-r-- root/root       278 2017-12-05 15:30 ansible-git-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2017-12-05 15:30 ansible-git-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-12-05 15:30 ansible-git-master/examples/roles/azavea.git -> ../../
+-rw-rw-r-- root/root        55 2017-12-05 15:30 ansible-git-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-12-05 15:30 ansible-git-master/meta/
+-rw-rw-r-- root/root        59 2017-12-05 15:30 ansible-git-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       305 2017-12-05 15:30 ansible-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-05 15:30 ansible-git-master/tasks/
+-rw-rw-r-- root/root        56 2017-12-05 15:30 ansible-git-master/tasks/main.yml
+-rw-rw-r-- root/root         7 2017-12-05 15:30 ansible-git-master/version.txt

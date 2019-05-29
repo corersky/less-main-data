@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-06-16 06:22 common_setup-master/
+-rw-rw-r-- root/root       643 2016-06-16 06:22 common_setup-master/README.md
+drwxrwxr-x root/root         0 2016-06-16 06:22 common_setup-master/defaults/
+-rw-rw-r-- root/root       377 2016-06-16 06:22 common_setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-16 06:22 common_setup-master/meta/
+-rw-rw-r-- root/root       244 2016-06-16 06:22 common_setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-16 06:22 common_setup-master/tasks/
+-rw-rw-r-- root/root        20 2016-06-16 06:22 common_setup-master/tasks/main.yml
+-rw-rw-r-- root/root       335 2016-06-16 06:22 common_setup-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2016-06-16 06:22 common_setup-master/templates/
+-rw-rw-r-- root/root        39 2016-06-16 06:22 common_setup-master/templates/locale

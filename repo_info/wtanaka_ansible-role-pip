@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-04 13:09 ansible-role-pip-master/
+-rw-rw-r-- root/root         3 2019-04-04 13:09 ansible-role-pip-master/.gitignore
+-rw-rw-r-- root/root      1913 2019-04-04 13:09 ansible-role-pip-master/.travis.yml
+-rw-rw-r-- root/root       504 2019-04-04 13:09 ansible-role-pip-master/README.md
+-rw-rw-r-- root/root       473 2019-04-04 13:09 ansible-role-pip-master/circle.yml
+drwxrwxr-x root/root         0 2019-04-04 13:09 ansible-role-pip-master/meta/
+-rw-rw-r-- root/root      3527 2019-04-04 13:09 ansible-role-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 13:09 ansible-role-pip-master/tasks/
+-rw-rw-r-- root/root        86 2019-04-04 13:09 ansible-role-pip-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3170 2019-04-04 13:09 ansible-role-pip-master/tasks/compat.yml
+-rw-rw-r-- root/root       236 2019-04-04 13:09 ansible-role-pip-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       525 2019-04-04 13:09 ansible-role-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 13:09 ansible-role-pip-master/vars/
+-rw-rw-r-- root/root        29 2019-04-04 13:09 ansible-role-pip-master/vars/Debian.yml
+-rw-rw-r-- root/root        29 2019-04-04 13:09 ansible-role-pip-master/vars/RedHat.yml
+-rw-rw-r-- root/root         4 2019-04-04 13:09 ansible-role-pip-master/vars/main.yml

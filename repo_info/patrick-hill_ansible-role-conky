@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-28 20:33 ansible-role-conky-master/
+-rw-rw-r-- root/root         6 2017-05-28 20:33 ansible-role-conky-master/.gitignore
+-rw-rw-r-- root/root      1693 2017-05-28 20:33 ansible-role-conky-master/.travis.yml
+-rw-rw-r-- root/root      1772 2017-05-28 20:33 ansible-role-conky-master/README.md
+drwxrwxr-x root/root         0 2017-05-28 20:33 ansible-role-conky-master/defaults/
+-rw-rw-r-- root/root       324 2017-05-28 20:33 ansible-role-conky-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-28 20:33 ansible-role-conky-master/meta/
+-rw-rw-r-- root/root       333 2017-05-28 20:33 ansible-role-conky-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-28 20:33 ansible-role-conky-master/tasks/
+-rwxrwxr-x root/root      1266 2017-05-28 20:33 ansible-role-conky-master/tasks/debian.yml
+-rw-rw-r-- root/root       127 2017-05-28 20:33 ansible-role-conky-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-28 20:33 ansible-role-conky-master/tests/
+-rw-rw-r-- root/root         9 2017-05-28 20:33 ansible-role-conky-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-05-28 20:33 ansible-role-conky-master/tests/test.yml

@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2015-11-22 16:28 ansible-openwga-master/
+-rw-rw-r-- root/root        16 2015-11-22 16:28 ansible-openwga-master/.gitignore
+-rw-rw-r-- root/root      1076 2015-11-22 16:28 ansible-openwga-master/LICENSE
+-rw-rw-r-- root/root       693 2015-11-22 16:28 ansible-openwga-master/README.md
+drwxrwxr-x root/root         0 2015-11-22 16:28 ansible-openwga-master/defaults/
+-rw-rw-r-- root/root        78 2015-11-22 16:28 ansible-openwga-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-22 16:28 ansible-openwga-master/example/
+-rw-rw-r-- root/root       611 2015-11-22 16:28 ansible-openwga-master/example/Vagrantfile
+lrwxrwxrwx root/root         0 2015-11-22 16:28 ansible-openwga-master/example/roles -> ../../
+-rw-rw-r-- root/root        51 2015-11-22 16:28 ansible-openwga-master/example/test.yml
+drwxrwxr-x root/root         0 2015-11-22 16:28 ansible-openwga-master/handlers/
+-rw-rw-r-- root/root        32 2015-11-22 16:28 ansible-openwga-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-22 16:28 ansible-openwga-master/meta/
+-rw-rw-r-- root/root       300 2015-11-22 16:28 ansible-openwga-master/meta/main.yml
+-rw-rw-r-- root/root        60 2015-11-22 16:28 ansible-openwga-master/requirements.yml
+drwxrwxr-x root/root         0 2015-11-22 16:28 ansible-openwga-master/tasks/
+-rw-rw-r-- root/root       898 2015-11-22 16:28 ansible-openwga-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-22 16:28 ansible-openwga-master/vars/
+-rw-rw-r-- root/root        88 2015-11-22 16:28 ansible-openwga-master/vars/main.yml

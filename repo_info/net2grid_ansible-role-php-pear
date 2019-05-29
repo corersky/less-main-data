@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-08 04:55 ansible-role-php-pear-master/
+-rw-rw-r-- root/root        22 2017-08-08 04:55 ansible-role-php-pear-master/.gitignore
+-rw-rw-r-- root/root       373 2017-08-08 04:55 ansible-role-php-pear-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-08-08 04:55 ansible-role-php-pear-master/LICENSE
+-rw-rw-r-- root/root      1543 2017-08-08 04:55 ansible-role-php-pear-master/README.md
+drwxrwxr-x root/root         0 2017-08-08 04:55 ansible-role-php-pear-master/defaults/
+-rw-rw-r-- root/root        84 2017-08-08 04:55 ansible-role-php-pear-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-08 04:55 ansible-role-php-pear-master/meta/
+-rw-rw-r-- root/root       747 2017-08-08 04:55 ansible-role-php-pear-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-08 04:55 ansible-role-php-pear-master/tasks/
+-rw-rw-r-- root/root       681 2017-08-08 04:55 ansible-role-php-pear-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-08 04:55 ansible-role-php-pear-master/tests/
+-rw-rw-r-- root/root       632 2017-08-08 04:55 ansible-role-php-pear-master/tests/README.md
+-rw-rw-r-- root/root        56 2017-08-08 04:55 ansible-role-php-pear-master/tests/requirements.yml
+-rw-rw-r-- root/root       226 2017-08-08 04:55 ansible-role-php-pear-master/tests/test.yml

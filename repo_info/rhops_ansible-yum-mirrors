@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-25 18:59 ansible-yum-mirrors-master/
+-rw-rw-r-- root/root         6 2017-06-25 18:59 ansible-yum-mirrors-master/.gitignore
+-rw-rw-r-- root/root     10414 2017-06-25 18:59 ansible-yum-mirrors-master/LICENSE
+-rw-rw-r-- root/root       709 2017-06-25 18:59 ansible-yum-mirrors-master/README.md
+drwxrwxr-x root/root         0 2017-06-25 18:59 ansible-yum-mirrors-master/defaults/
+-rw-rw-r-- root/root        36 2017-06-25 18:59 ansible-yum-mirrors-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-25 18:59 ansible-yum-mirrors-master/meta/
+-rw-rw-r-- root/root       237 2017-06-25 18:59 ansible-yum-mirrors-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-25 18:59 ansible-yum-mirrors-master/tasks/
+-rw-rw-r-- root/root       747 2017-06-25 18:59 ansible-yum-mirrors-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-25 18:59 ansible-yum-mirrors-master/templates/
+drwxrwxr-x root/root         0 2017-06-25 18:59 ansible-yum-mirrors-master/templates/etc/
+drwxrwxr-x root/root         0 2017-06-25 18:59 ansible-yum-mirrors-master/templates/etc/yum.repos.d/
+-rw-rw-r-- root/root      2305 2017-06-25 18:59 ansible-yum-mirrors-master/templates/etc/yum.repos.d/CentOS-Base.repo.j2
+-rw-rw-r-- root/root      1496 2017-06-25 18:59 ansible-yum-mirrors-master/templates/etc/yum.repos.d/epel.repo.j2

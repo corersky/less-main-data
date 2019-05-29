@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-10-30 16:57 ansible-self-signed-ssl-master/
+-rw-rw-r-- root/root      1871 2015-10-30 16:57 ansible-self-signed-ssl-master/README.md
+drwxrwxr-x root/root         0 2015-10-30 16:57 ansible-self-signed-ssl-master/defaults/
+-rw-rw-r-- root/root      1084 2015-10-30 16:57 ansible-self-signed-ssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-30 16:57 ansible-self-signed-ssl-master/meta/
+-rw-rw-r-- root/root      2330 2015-10-30 16:57 ansible-self-signed-ssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-30 16:57 ansible-self-signed-ssl-master/tasks/
+-rw-rw-r-- root/root       218 2015-10-30 16:57 ansible-self-signed-ssl-master/tasks/dhparam.yml
+-rw-rw-r-- root/root       181 2015-10-30 16:57 ansible-self-signed-ssl-master/tasks/ecc_key.yml
+-rw-rw-r-- root/root       794 2015-10-30 16:57 ansible-self-signed-ssl-master/tasks/main.yml
+-rw-rw-r-- root/root       180 2015-10-30 16:57 ansible-self-signed-ssl-master/tasks/standard_key.yml

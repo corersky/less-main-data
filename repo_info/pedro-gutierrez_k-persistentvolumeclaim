@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-04 07:53 k-persistentvolumeclaim-master/
+-rw-rw-r-- root/root      1375 2018-06-04 07:53 k-persistentvolumeclaim-master/README.md
+drwxrwxr-x root/root         0 2018-06-04 07:53 k-persistentvolumeclaim-master/defaults/
+-rw-rw-r-- root/root        16 2018-06-04 07:53 k-persistentvolumeclaim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-04 07:53 k-persistentvolumeclaim-master/handlers/
+-rw-rw-r-- root/root        42 2018-06-04 07:53 k-persistentvolumeclaim-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-04 07:53 k-persistentvolumeclaim-master/meta/
+-rw-rw-r-- root/root      1842 2018-06-04 07:53 k-persistentvolumeclaim-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-04 07:53 k-persistentvolumeclaim-master/tasks/
+-rw-rw-r-- root/root       605 2018-06-04 07:53 k-persistentvolumeclaim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-04 07:53 k-persistentvolumeclaim-master/tests/
+-rw-rw-r-- root/root        11 2018-06-04 07:53 k-persistentvolumeclaim-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-06-04 07:53 k-persistentvolumeclaim-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-04 07:53 k-persistentvolumeclaim-master/vars/
+-rw-rw-r-- root/root        38 2018-06-04 07:53 k-persistentvolumeclaim-master/vars/main.yml

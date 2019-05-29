@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-28 00:02 ansible-role-drupal-master/
+-rw-rw-r-- root/root        10 2018-06-28 00:02 ansible-role-drupal-master/.gitignore
+-rw-rw-r-- root/root      1830 2018-06-28 00:02 ansible-role-drupal-master/README.md
+drwxrwxr-x root/root         0 2018-06-28 00:02 ansible-role-drupal-master/defaults/
+-rw-rw-r-- root/root       474 2018-06-28 00:02 ansible-role-drupal-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-28 00:02 ansible-role-drupal-master/handlers/
+-rw-rw-r-- root/root        43 2018-06-28 00:02 ansible-role-drupal-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-28 00:02 ansible-role-drupal-master/meta/
+-rw-rw-r-- root/root       412 2018-06-28 00:02 ansible-role-drupal-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-28 00:02 ansible-role-drupal-master/tasks/
+-rw-rw-r-- root/root      1274 2018-06-28 00:02 ansible-role-drupal-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-28 00:02 ansible-role-drupal-master/tests/
+-rw-rw-r-- root/root        11 2018-06-28 00:02 ansible-role-drupal-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-06-28 00:02 ansible-role-drupal-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-28 00:02 ansible-role-drupal-master/vars/
+-rw-rw-r-- root/root        21 2018-06-28 00:02 ansible-role-drupal-master/vars/drupal7x.yml
+-rw-rw-r-- root/root        35 2018-06-28 00:02 ansible-role-drupal-master/vars/drupal8x.yml

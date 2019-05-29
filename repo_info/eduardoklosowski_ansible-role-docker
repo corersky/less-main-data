@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-21 15:21 ansible-role-docker-master/
+-rw-rw-r-- root/root       130 2019-02-21 15:21 ansible-role-docker-master/.editorconfig
+-rw-rw-r-- root/root      1084 2019-02-21 15:21 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       145 2019-02-21 15:21 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 15:21 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        37 2019-02-21 15:21 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 15:21 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root       122 2019-02-21 15:21 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-21 15:21 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       271 2019-02-21 15:21 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 15:21 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       170 2019-02-21 15:21 ansible-role-docker-master/tasks/configuracao.yml
+-rw-rw-r-- root/root       191 2019-02-21 15:21 ansible-role-docker-master/tasks/instalacao.yml
+-rw-rw-r-- root/root       150 2019-02-21 15:21 ansible-role-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       623 2019-02-21 15:21 ansible-role-docker-master/tasks/repositorio.yml
+drwxrwxr-x root/root         0 2019-02-21 15:21 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root       117 2019-02-21 15:21 ansible-role-docker-master/templates/docker.service.j2

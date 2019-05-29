@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-02-10 13:14 ansible-subscription-mananager-master/
+-rw-rw-r-- root/root       696 2017-02-10 13:14 ansible-subscription-mananager-master/README.md
+drwxrwxr-x root/root         0 2017-02-10 13:14 ansible-subscription-mananager-master/defaults/
+-rw-rw-r-- root/root       280 2017-02-10 13:14 ansible-subscription-mananager-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-10 13:14 ansible-subscription-mananager-master/example/
+-rw-rw-r-- root/root       445 2017-02-10 13:14 ansible-subscription-mananager-master/example/example.yml
+drwxrwxr-x root/root         0 2017-02-10 13:14 ansible-subscription-mananager-master/meta/
+-rw-rw-r-- root/root       326 2017-02-10 13:14 ansible-subscription-mananager-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-10 13:14 ansible-subscription-mananager-master/tasks/
+-rw-rw-r-- root/root       170 2017-02-10 13:14 ansible-subscription-mananager-master/tasks/main.yml
+-rw-rw-r-- root/root       121 2017-02-10 13:14 ansible-subscription-mananager-master/tasks/manage_repo.yml
+-rw-rw-r-- root/root      1420 2017-02-10 13:14 ansible-subscription-mananager-master/tasks/register.yml
+-rw-rw-r-- root/root       263 2017-02-10 13:14 ansible-subscription-mananager-master/tasks/unregister.yml

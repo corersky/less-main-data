@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-09 02:09 ansible-role-repo-lan-master/
+-rwxrwxr-x root/root       759 2017-03-09 02:09 ansible-role-repo-lan-master/README.md
+-rwxrwxr-x root/root        28 2017-03-09 02:09 ansible-role-repo-lan-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-03-09 02:09 ansible-role-repo-lan-master/defaults/
+-rwxrwxr-x root/root       168 2017-03-09 02:09 ansible-role-repo-lan-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-09 02:09 ansible-role-repo-lan-master/handlers/
+-rwxrwxr-x root/root        46 2017-03-09 02:09 ansible-role-repo-lan-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-09 02:09 ansible-role-repo-lan-master/meta/
+-rwxrwxr-x root/root       248 2017-03-09 02:09 ansible-role-repo-lan-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-09 02:09 ansible-role-repo-lan-master/tasks/
+-rwxrwxr-x root/root       216 2017-03-09 02:09 ansible-role-repo-lan-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-09 02:09 ansible-role-repo-lan-master/templates/
+-rwxrwxr-x root/root       154 2017-03-09 02:09 ansible-role-repo-lan-master/templates/CentOS-Base-Lan.repo.j2
+-rwxrwxr-x root/root       289 2017-03-09 02:09 ansible-role-repo-lan-master/test.yml
+drwxrwxr-x root/root         0 2017-03-09 02:09 ansible-role-repo-lan-master/vars/
+-rwxrwxr-x root/root        42 2017-03-09 02:09 ansible-role-repo-lan-master/vars/main.yml

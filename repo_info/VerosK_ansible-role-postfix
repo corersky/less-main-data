@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-06 14:22 ansible-role-postfix-master/
+-rw-rw-r-- root/root        30 2017-11-06 14:22 ansible-role-postfix-master/README.md
+drwxrwxr-x root/root         0 2017-11-06 14:22 ansible-role-postfix-master/defaults/
+-rw-rw-r-- root/root       266 2017-11-06 14:22 ansible-role-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-06 14:22 ansible-role-postfix-master/handlers/
+-rw-rw-r-- root/root        98 2017-11-06 14:22 ansible-role-postfix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-06 14:22 ansible-role-postfix-master/meta/
+-rw-rw-r-- root/root       264 2017-11-06 14:22 ansible-role-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-06 14:22 ansible-role-postfix-master/tasks/
+-rw-rw-r-- root/root      1218 2017-11-06 14:22 ansible-role-postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-06 14:22 ansible-role-postfix-master/templates/
+-rw-rw-r-- root/root       649 2017-11-06 14:22 ansible-role-postfix-master/templates/postfix_main.cf.j2
+drwxrwxr-x root/root         0 2017-11-06 14:22 ansible-role-postfix-master/vars/
+-rw-rw-r-- root/root       354 2017-11-06 14:22 ansible-role-postfix-master/vars/Debian.yml
+-rw-rw-r-- root/root       334 2017-11-06 14:22 ansible-role-postfix-master/vars/RedHat.yml

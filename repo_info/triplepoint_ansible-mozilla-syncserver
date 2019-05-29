@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-05 16:52 ansible-mozilla-syncserver-master/
+-rw-rw-r-- root/root      1620 2019-05-05 16:52 ansible-mozilla-syncserver-master/.gitignore
+-rw-rw-r-- root/root       172 2019-05-05 16:52 ansible-mozilla-syncserver-master/.yamllint
+-rw-rw-r-- root/root      1072 2019-05-05 16:52 ansible-mozilla-syncserver-master/LICENSE.md
+-rw-rw-r-- root/root       189 2019-05-05 16:52 ansible-mozilla-syncserver-master/Pipfile
+-rw-rw-r-- root/root     30643 2019-05-05 16:52 ansible-mozilla-syncserver-master/Pipfile.lock
+drwxrwxr-x root/root         0 2019-05-05 16:52 ansible-mozilla-syncserver-master/defaults/
+-rw-rw-r-- root/root       875 2019-05-05 16:52 ansible-mozilla-syncserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-05 16:52 ansible-mozilla-syncserver-master/handlers/
+-rw-rw-r-- root/root       430 2019-05-05 16:52 ansible-mozilla-syncserver-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-05 16:52 ansible-mozilla-syncserver-master/meta/
+-rw-rw-r-- root/root       323 2019-05-05 16:52 ansible-mozilla-syncserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-05 16:52 ansible-mozilla-syncserver-master/tasks/
+-rw-rw-r-- root/root       964 2019-05-05 16:52 ansible-mozilla-syncserver-master/tasks/main.yml

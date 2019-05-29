@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-04 02:16 ansible-role-avicontroller-csp-master/
+-rw-rw-r-- root/root      1157 2019-02-04 02:16 ansible-role-avicontroller-csp-master/.gitignore
+-rw-rw-r-- root/root     11357 2019-02-04 02:16 ansible-role-avicontroller-csp-master/LICENSE
+-rw-rw-r-- root/root      3397 2019-02-04 02:16 ansible-role-avicontroller-csp-master/README.md
+drwxrwxr-x root/root         0 2019-02-04 02:16 ansible-role-avicontroller-csp-master/defaults/
+-rw-rw-r-- root/root      1407 2019-02-04 02:16 ansible-role-avicontroller-csp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-04 02:16 ansible-role-avicontroller-csp-master/meta/
+-rw-rw-r-- root/root       573 2019-02-04 02:16 ansible-role-avicontroller-csp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-04 02:16 ansible-role-avicontroller-csp-master/tasks/
+-rw-rw-r-- root/root       874 2019-02-04 02:16 ansible-role-avicontroller-csp-master/tasks/main.yml
+-rw-rw-r-- root/root      1487 2019-02-04 02:16 ansible-role-avicontroller-csp-master/tasks/metafile_deploy.yml
+-rw-rw-r-- root/root      2154 2019-02-04 02:16 ansible-role-avicontroller-csp-master/tasks/qcow_deploy.yml
+-rw-rw-r-- root/root       844 2019-02-04 02:16 ansible-role-avicontroller-csp-master/tasks/requirements.yml
+-rw-rw-r-- root/root      3215 2019-02-04 02:16 ansible-role-avicontroller-csp-master/tasks/service_deploy.yml
+-rw-rw-r-- root/root       318 2019-02-04 02:16 ansible-role-avicontroller-csp-master/tasks/validate_controller.yml
+drwxrwxr-x root/root         0 2019-02-04 02:16 ansible-role-avicontroller-csp-master/templates/
+-rw-rw-r-- root/root       206 2019-02-04 02:16 ansible-role-avicontroller-csp-master/templates/avi_meta_controller.j2

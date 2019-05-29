@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-solr-master/
+-rw-rw-r-- root/root        37 2018-03-07 18:12 role-solr-master/.gitignore
+-rw-rw-r-- root/root       799 2018-03-07 18:12 role-solr-master/.travis.yml
+-rw-rw-r-- root/root      1100 2018-03-07 18:12 role-solr-master/LICENSE
+-rw-rw-r-- root/root       920 2018-03-07 18:12 role-solr-master/README.md
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-solr-master/defaults/
+-rw-rw-r-- root/root       275 2018-03-07 18:12 role-solr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-solr-master/handlers/
+-rw-rw-r-- root/root        57 2018-03-07 18:12 role-solr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-solr-master/meta/
+-rw-rw-r-- root/root       324 2018-03-07 18:12 role-solr-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-solr-master/tasks/
+-rw-rw-r-- root/root      4366 2018-03-07 18:12 role-solr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-solr-master/tests/
+-rw-rw-r-- root/root        10 2018-03-07 18:12 role-solr-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-03-07 18:12 role-solr-master/tests/test.yml

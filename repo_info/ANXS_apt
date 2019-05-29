@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-03 14:52 apt-master/
+-rw-rw-r-- root/root        83 2018-11-03 14:52 apt-master/.gitignore
+-rw-rw-r-- root/root       712 2018-11-03 14:52 apt-master/.travis.yml
+-rw-rw-r-- root/root      1123 2018-11-03 14:52 apt-master/LICENSE
+-rw-rw-r-- root/root      1981 2018-11-03 14:52 apt-master/README.md
+-rw-rw-r-- root/root       444 2018-11-03 14:52 apt-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-11-03 14:52 apt-master/defaults/
+-rw-rw-r-- root/root      1175 2018-11-03 14:52 apt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-03 14:52 apt-master/meta/
+-rw-rw-r-- root/root       327 2018-11-03 14:52 apt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-03 14:52 apt-master/tasks/
+-rw-rw-r-- root/root      1289 2018-11-03 14:52 apt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-03 14:52 apt-master/templates/
+-rw-rw-r-- root/root       446 2018-11-03 14:52 apt-master/templates/etc_apt_apt.conf.d_10general.j2
+-rw-rw-r-- root/root      3254 2018-11-03 14:52 apt-master/templates/etc_apt_sources.list.j2
+-rw-rw-r-- root/root        94 2018-11-03 14:52 apt-master/test.yml
+-rw-rw-r-- root/root        69 2018-11-03 14:52 apt-master/vagrant-inventory

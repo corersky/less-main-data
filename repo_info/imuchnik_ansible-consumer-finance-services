@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-03 09:37 ansible-consumer-finance-services-master/
+-rw-rw-r-- root/root        10 2017-05-03 09:37 ansible-consumer-finance-services-master/.gitignore
+-rw-rw-r-- root/root      1117 2017-05-03 09:37 ansible-consumer-finance-services-master/.travis.yml
+-rw-rw-r-- root/root      1417 2017-05-03 09:37 ansible-consumer-finance-services-master/README.md
+drwxrwxr-x root/root         0 2017-05-03 09:37 ansible-consumer-finance-services-master/defaults/
+-rw-rw-r-- root/root        58 2017-05-03 09:37 ansible-consumer-finance-services-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-03 09:37 ansible-consumer-finance-services-master/handlers/
+-rw-rw-r-- root/root        58 2017-05-03 09:37 ansible-consumer-finance-services-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-03 09:37 ansible-consumer-finance-services-master/meta/
+-rw-rw-r-- root/root      3900 2017-05-03 09:37 ansible-consumer-finance-services-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-03 09:37 ansible-consumer-finance-services-master/tasks/
+-rw-rw-r-- root/root       552 2017-05-03 09:37 ansible-consumer-finance-services-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-03 09:37 ansible-consumer-finance-services-master/tests/
+-rw-rw-r-- root/root         9 2017-05-03 09:37 ansible-consumer-finance-services-master/tests/inventory
+-rw-rw-r-- root/root        91 2017-05-03 09:37 ansible-consumer-finance-services-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-03 09:37 ansible-consumer-finance-services-master/vars/
+-rw-rw-r-- root/root        54 2017-05-03 09:37 ansible-consumer-finance-services-master/vars/main.yml

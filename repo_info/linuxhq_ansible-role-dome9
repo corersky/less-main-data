@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-01 14:42 ansible-role-dome9-master/
+-rw-rw-r-- root/root       317 2018-07-01 14:42 ansible-role-dome9-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-07-01 14:42 ansible-role-dome9-master/COPYING
+-rw-rw-r-- root/root      1791 2018-07-01 14:42 ansible-role-dome9-master/README.md
+drwxrwxr-x root/root         0 2018-07-01 14:42 ansible-role-dome9-master/defaults/
+-rw-rw-r-- root/root       396 2018-07-01 14:42 ansible-role-dome9-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-01 14:42 ansible-role-dome9-master/meta/
+-rw-rw-r-- root/root       257 2018-07-01 14:42 ansible-role-dome9-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-01 14:42 ansible-role-dome9-master/tasks/
+-rw-rw-r-- root/root      1686 2018-07-01 14:42 ansible-role-dome9-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-01 14:42 ansible-role-dome9-master/templates/
+-rw-rw-r-- root/root       208 2018-07-01 14:42 ansible-role-dome9-master/templates/Dome9.repo.j2
+drwxrwxr-x root/root         0 2018-07-01 14:42 ansible-role-dome9-master/tests/
+-rw-rw-r-- root/root        10 2018-07-01 14:42 ansible-role-dome9-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-07-01 14:42 ansible-role-dome9-master/tests/test.yml

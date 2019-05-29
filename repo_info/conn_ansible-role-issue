@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-11-18 16:07 ansible-role-issue-master/
+-rw-rw-r-- root/root      1514 2017-11-18 16:07 ansible-role-issue-master/LICENSE
+-rw-rw-r-- root/root        45 2017-11-18 16:07 ansible-role-issue-master/README.md
+drwxrwxr-x root/root         0 2017-11-18 16:07 ansible-role-issue-master/files/
+-rw-rw-r-- root/root         3 2017-11-18 16:07 ansible-role-issue-master/files/issue
+drwxrwxr-x root/root         0 2017-11-18 16:07 ansible-role-issue-master/meta/
+-rw-rw-r-- root/root       255 2017-11-18 16:07 ansible-role-issue-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-18 16:07 ansible-role-issue-master/tasks/
+-rw-rw-r-- root/root       125 2017-11-18 16:07 ansible-role-issue-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2017-11-18 16:07 ansible-role-issue-master/tasks/main.yml

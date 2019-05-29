@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-22 06:49 ansible-neo4j-master/
+-rw-rw-r-- root/root     18027 2017-09-22 06:49 ansible-neo4j-master/LICENSE
+-rw-rw-r-- root/root      2364 2017-09-22 06:49 ansible-neo4j-master/README.md
+drwxrwxr-x root/root         0 2017-09-22 06:49 ansible-neo4j-master/defaults/
+-rw-rw-r-- root/root      1912 2017-09-22 06:49 ansible-neo4j-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-22 06:49 ansible-neo4j-master/handlers/
+-rw-rw-r-- root/root       236 2017-09-22 06:49 ansible-neo4j-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-22 06:49 ansible-neo4j-master/meta/
+-rw-rw-r-- root/root       267 2017-09-22 06:49 ansible-neo4j-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-22 06:49 ansible-neo4j-master/tasks/
+-rw-rw-r-- root/root      1808 2017-09-22 06:49 ansible-neo4j-master/tasks/install_neo4j.yml
+-rw-rw-r-- root/root       882 2017-09-22 06:49 ansible-neo4j-master/tasks/install_neo4j_spatial.yml
+-rw-rw-r-- root/root       149 2017-09-22 06:49 ansible-neo4j-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-22 06:49 ansible-neo4j-master/templates/
+-rw-rw-r-- root/root      3335 2017-09-22 06:49 ansible-neo4j-master/templates/neo4j-wrapper.conf
+-rw-rw-r-- root/root     18037 2017-09-22 06:49 ansible-neo4j-master/templates/neo4j.conf

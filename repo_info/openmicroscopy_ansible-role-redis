@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-22 10:17 ansible-role-redis-master/
+-rw-rw-r-- root/root         4 2017-06-22 10:17 ansible-role-redis-master/.gitignore
+-rw-rw-r-- root/root       222 2017-06-22 10:17 ansible-role-redis-master/.travis.yml
+-rw-rw-r-- root/root       247 2017-06-22 10:17 ansible-role-redis-master/README.md
+drwxrwxr-x root/root         0 2017-06-22 10:17 ansible-role-redis-master/handlers/
+-rw-rw-r-- root/root       110 2017-06-22 10:17 ansible-role-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-22 10:17 ansible-role-redis-master/meta/
+-rw-rw-r-- root/root       255 2017-06-22 10:17 ansible-role-redis-master/meta/main.yml
+-rw-rw-r-- root/root       404 2017-06-22 10:17 ansible-role-redis-master/molecule.yml
+-rw-rw-r-- root/root        85 2017-06-22 10:17 ansible-role-redis-master/playbook.yml
+drwxrwxr-x root/root         0 2017-06-22 10:17 ansible-role-redis-master/tasks/
+-rw-rw-r-- root/root       548 2017-06-22 10:17 ansible-role-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-22 10:17 ansible-role-redis-master/tests/
+-rw-rw-r-- root/root       373 2017-06-22 10:17 ansible-role-redis-master/tests/test_default.py

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-07 08:30 ansible-role-kodi-master/
+-rw-rw-r-- root/root       332 2019-04-07 08:30 ansible-role-kodi-master/README.md
+drwxrwxr-x root/root         0 2019-04-07 08:30 ansible-role-kodi-master/defaults/
+-rw-rw-r-- root/root       463 2019-04-07 08:30 ansible-role-kodi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-07 08:30 ansible-role-kodi-master/files/
+drwxrwxr-x root/root         0 2019-04-07 08:30 ansible-role-kodi-master/files/lib/
+drwxrwxr-x root/root         0 2019-04-07 08:30 ansible-role-kodi-master/files/lib/systemd/
+drwxrwxr-x root/root         0 2019-04-07 08:30 ansible-role-kodi-master/files/lib/systemd/system/
+-rw-rw-r-- root/root       391 2019-04-07 08:30 ansible-role-kodi-master/files/lib/systemd/system/kodi.service
+drwxrwxr-x root/root         0 2019-04-07 08:30 ansible-role-kodi-master/meta/
+-rw-rw-r-- root/root       272 2019-04-07 08:30 ansible-role-kodi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-07 08:30 ansible-role-kodi-master/tasks/
+-rw-rw-r-- root/root      1058 2019-04-07 08:30 ansible-role-kodi-master/tasks/main.yml

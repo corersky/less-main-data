@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-19 10:09 ansible-role-php-memcache-master/
+-rw-rw-r-- root/root       138 2015-10-19 10:09 ansible-role-php-memcache-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 10:09 ansible-role-php-memcache-master/defaults/
+-rw-rw-r-- root/root       450 2015-10-19 10:09 ansible-role-php-memcache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:09 ansible-role-php-memcache-master/meta/
+-rw-rw-r-- root/root       363 2015-10-19 10:09 ansible-role-php-memcache-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:09 ansible-role-php-memcache-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 10:09 ansible-role-php-memcache-master/tasks/debian/
+-rw-rw-r-- root/root       346 2015-10-19 10:09 ansible-role-php-memcache-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       359 2015-10-19 10:09 ansible-role-php-memcache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:09 ansible-role-php-memcache-master/tasks/redhat/
+-rw-rw-r-- root/root        97 2015-10-19 10:09 ansible-role-php-memcache-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:09 ansible-role-php-memcache-master/templates/
+-rw-rw-r-- root/root      1085 2015-10-19 10:09 ansible-role-php-memcache-master/templates/memcache.ini.j2
+drwxrwxr-x root/root         0 2015-10-19 10:09 ansible-role-php-memcache-master/vars/
+-rw-rw-r-- root/root        67 2015-10-19 10:09 ansible-role-php-memcache-master/vars/Debian.yml
+-rw-rw-r-- root/root        71 2015-10-19 10:09 ansible-role-php-memcache-master/vars/RedHat.yml

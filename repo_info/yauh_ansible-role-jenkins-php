@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-10-22 06:03 ansible-role-jenkins-php-master/
+-rw-rw-r-- root/root      1312 2014-10-22 06:03 ansible-role-jenkins-php-master/LICENSE
+-rw-rw-r-- root/root      1962 2014-10-22 06:03 ansible-role-jenkins-php-master/README.md
+drwxrwxr-x root/root         0 2014-10-22 06:03 ansible-role-jenkins-php-master/defaults/
+-rw-rw-r-- root/root       682 2014-10-22 06:03 ansible-role-jenkins-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-22 06:03 ansible-role-jenkins-php-master/files/
+-rw-rw-r-- root/root     35293 2014-10-22 06:03 ansible-role-jenkins-php-master/files/config.xml
+drwxrwxr-x root/root         0 2014-10-22 06:03 ansible-role-jenkins-php-master/handlers/
+-rw-rw-r-- root/root        75 2014-10-22 06:03 ansible-role-jenkins-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-22 06:03 ansible-role-jenkins-php-master/meta/
+-rw-rw-r-- root/root       312 2014-10-22 06:03 ansible-role-jenkins-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-22 06:03 ansible-role-jenkins-php-master/tasks/
+-rw-rw-r-- root/root      3938 2014-10-22 06:03 ansible-role-jenkins-php-master/tasks/jenkins_debian.yml
+-rw-rw-r-- root/root       128 2014-10-22 06:03 ansible-role-jenkins-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-22 06:03 ansible-role-jenkins-php-master/vars/
+-rw-rw-r-- root/root        37 2014-10-22 06:03 ansible-role-jenkins-php-master/vars/main.yml

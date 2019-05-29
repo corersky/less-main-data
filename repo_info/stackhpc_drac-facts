@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-09 05:13 drac-facts-master/
+-rw-rw-r-- root/root         6 2019-04-09 05:13 drac-facts-master/.gitignore
+-rw-rw-r-- root/root       724 2019-04-09 05:13 drac-facts-master/.travis.yml
+-rw-rw-r-- root/root      1782 2019-04-09 05:13 drac-facts-master/README.md
+drwxrwxr-x root/root         0 2019-04-09 05:13 drac-facts-master/library/
+-rwxrwxr-x root/root      7658 2019-04-09 05:13 drac-facts-master/library/drac_facts.py
+drwxrwxr-x root/root         0 2019-04-09 05:13 drac-facts-master/meta/
+-rw-rw-r-- root/root       389 2019-04-09 05:13 drac-facts-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-09 05:13 drac-facts-master/tests/
+-rw-rw-r-- root/root        86 2019-04-09 05:13 drac-facts-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-04-09 05:13 drac-facts-master/tests/test.yml

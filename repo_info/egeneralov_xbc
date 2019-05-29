@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-17 20:34 xbc-master/
+-rw-rw-r-- root/root       601 2019-05-17 20:34 xbc-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 20:34 xbc-master/defaults/
+-rw-rw-r-- root/root       118 2019-05-17 20:34 xbc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 20:34 xbc-master/handlers/
+-rw-rw-r-- root/root        38 2019-05-17 20:34 xbc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-17 20:34 xbc-master/meta/
+-rw-rw-r-- root/root       437 2019-05-17 20:34 xbc-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 20:34 xbc-master/tasks/
+-rw-rw-r-- root/root      1439 2019-05-17 20:34 xbc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-17 20:34 xbc-master/templates/
+-rw-rw-r-- root/root       265 2019-05-17 20:34 xbc-master/templates/xbc.service.j2
+drwxrwxr-x root/root         0 2019-05-17 20:34 xbc-master/tests/
+-rw-rw-r-- root/root        11 2019-05-17 20:34 xbc-master/tests/inventory
+-rw-rw-r-- root/root        66 2019-05-17 20:34 xbc-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-17 20:34 xbc-master/vars/
+-rw-rw-r-- root/root        34 2019-05-17 20:34 xbc-master/vars/main.yml

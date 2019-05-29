@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-07-06 00:58 ansible-consul-master/
+-rw-rw-r-- root/root         8 2016-07-06 00:58 ansible-consul-master/.gitignore
+-rw-rw-r-- root/root      1080 2016-07-06 00:58 ansible-consul-master/LICENSE
+-rw-rw-r-- root/root      2394 2016-07-06 00:58 ansible-consul-master/README.md
+drwxrwxr-x root/root         0 2016-07-06 00:58 ansible-consul-master/meta/
+-rw-rw-r-- root/root      2543 2016-07-06 00:58 ansible-consul-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-06 00:58 ansible-consul-master/tasks/
+-rw-rw-r-- root/root       623 2016-07-06 00:58 ansible-consul-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-06 00:58 ansible-consul-master/templates/
+-rw-rw-r-- root/root       937 2016-07-06 00:58 ansible-consul-master/templates/docker-compose-consul.yml

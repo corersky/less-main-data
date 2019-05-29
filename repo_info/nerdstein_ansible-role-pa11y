@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-01-21 21:17 ansible-role-pa11y-master/
+-rw-rw-r-- root/root       867 2016-01-21 21:17 ansible-role-pa11y-master/.travis.yml
+-rw-rw-r-- root/root       644 2016-01-21 21:17 ansible-role-pa11y-master/README.md
+drwxrwxr-x root/root         0 2016-01-21 21:17 ansible-role-pa11y-master/defaults/
+-rw-rw-r-- root/root         4 2016-01-21 21:17 ansible-role-pa11y-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-21 21:17 ansible-role-pa11y-master/meta/
+-rw-rw-r-- root/root       665 2016-01-21 21:17 ansible-role-pa11y-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-21 21:17 ansible-role-pa11y-master/tasks/
+-rw-rw-r-- root/root        56 2016-01-21 21:17 ansible-role-pa11y-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-21 21:17 ansible-role-pa11y-master/tests/
+-rw-rw-r-- root/root        10 2016-01-21 21:17 ansible-role-pa11y-master/tests/inventory
+-rw-rw-r-- root/root        88 2016-01-21 21:17 ansible-role-pa11y-master/tests/test.yml

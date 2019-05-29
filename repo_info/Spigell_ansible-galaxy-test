@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-09 11:36 ansible-galaxy-test-master/
+-rw-rw-r-- root/root       292 2018-06-09 11:36 ansible-galaxy-test-master/README.md
+drwxrwxr-x root/root         0 2018-06-09 11:36 ansible-galaxy-test-master/defaults/
+-rw-rw-r-- root/root        28 2018-06-09 11:36 ansible-galaxy-test-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-09 11:36 ansible-galaxy-test-master/handlers/
+-rw-rw-r-- root/root        28 2018-06-09 11:36 ansible-galaxy-test-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-09 11:36 ansible-galaxy-test-master/meta/
+-rw-rw-r-- root/root      1891 2018-06-09 11:36 ansible-galaxy-test-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-09 11:36 ansible-galaxy-test-master/tasks/
+-rw-rw-r-- root/root       137 2018-06-09 11:36 ansible-galaxy-test-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-09 11:36 ansible-galaxy-test-master/tests/
+-rw-rw-r-- root/root        11 2018-06-09 11:36 ansible-galaxy-test-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-06-09 11:36 ansible-galaxy-test-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-09 11:36 ansible-galaxy-test-master/vars/
+-rw-rw-r-- root/root        24 2018-06-09 11:36 ansible-galaxy-test-master/vars/main.yml

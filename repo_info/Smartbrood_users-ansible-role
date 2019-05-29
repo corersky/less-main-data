@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-11-29 07:48 users-ansible-role-master/
+-rw-rw-r-- root/root      1045 2017-11-29 07:48 users-ansible-role-master/.gitignore
+-rw-rw-r-- root/root     11357 2017-11-29 07:48 users-ansible-role-master/LICENSE
+-rw-rw-r-- root/root        56 2017-11-29 07:48 users-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-11-29 07:48 users-ansible-role-master/defaults/
+-rw-rw-r-- root/root       378 2017-11-29 07:48 users-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-29 07:48 users-ansible-role-master/meta/
+-rw-rw-r-- root/root       335 2017-11-29 07:48 users-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-29 07:48 users-ansible-role-master/tasks/
+-rw-rw-r-- root/root      1616 2017-11-29 07:48 users-ansible-role-master/tasks/admins.yml
+-rw-rw-r-- root/root      1161 2017-11-29 07:48 users-ansible-role-master/tasks/main.yml
+-rw-rw-r-- root/root       557 2017-11-29 07:48 users-ansible-role-master/tasks/users.yml

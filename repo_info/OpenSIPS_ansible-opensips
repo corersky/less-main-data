@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-02-07 02:34 ansible-opensips-master/
+-rw-rw-r-- root/root      1712 2019-02-07 02:34 ansible-opensips-master/README.md
+drwxrwxr-x root/root         0 2019-02-07 02:34 ansible-opensips-master/defaults/
+-rw-rw-r-- root/root       348 2019-02-07 02:34 ansible-opensips-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-07 02:34 ansible-opensips-master/handlers/
+-rw-rw-r-- root/root       200 2019-02-07 02:34 ansible-opensips-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-07 02:34 ansible-opensips-master/meta/
+-rw-rw-r-- root/root      2025 2019-02-07 02:34 ansible-opensips-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-07 02:34 ansible-opensips-master/tasks/
+-rw-rw-r-- root/root      1097 2019-02-07 02:34 ansible-opensips-master/tasks/debian.yml
+-rw-rw-r-- root/root       426 2019-02-07 02:34 ansible-opensips-master/tasks/main.yml
+-rw-rw-r-- root/root      1178 2019-02-07 02:34 ansible-opensips-master/tasks/redhat.yml

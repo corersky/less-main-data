@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2017-07-25 14:41 ansible-role-win-stunnel-master/
+-rw-rw-r-- root/root        89 2017-07-25 14:41 ansible-role-win-stunnel-master/.bumpversion.cfg
+-rw-rw-r-- root/root         8 2017-07-25 14:41 ansible-role-win-stunnel-master/.gitignore
+-rw-rw-r-- root/root       237 2017-07-25 14:41 ansible-role-win-stunnel-master/.travis.yml
+-rw-rw-r-- root/root      2164 2017-07-25 14:41 ansible-role-win-stunnel-master/README.md
+drwxrwxr-x root/root         0 2017-07-25 14:41 ansible-role-win-stunnel-master/defaults/
+-rw-rw-r-- root/root       448 2017-07-25 14:41 ansible-role-win-stunnel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-25 14:41 ansible-role-win-stunnel-master/handlers/
+-rw-rw-r-- root/root       102 2017-07-25 14:41 ansible-role-win-stunnel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-25 14:41 ansible-role-win-stunnel-master/meta/
+-rw-rw-r-- root/root       409 2017-07-25 14:41 ansible-role-win-stunnel-master/meta/main.yml
+-rw-rw-r-- root/root        51 2017-07-25 14:41 ansible-role-win-stunnel-master/requirements.txt
+drwxrwxr-x root/root         0 2017-07-25 14:41 ansible-role-win-stunnel-master/tasks/
+-rw-rw-r-- root/root      2139 2017-07-25 14:41 ansible-role-win-stunnel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-25 14:41 ansible-role-win-stunnel-master/templates/
+-rw-rw-r-- root/root       746 2017-07-25 14:41 ansible-role-win-stunnel-master/templates/stunnel.conf.j2
+drwxrwxr-x root/root         0 2017-07-25 14:41 ansible-role-win-stunnel-master/test/
+lrwxrwxrwx root/root         0 2017-07-25 14:41 ansible-role-win-stunnel-master/test/cchurch.win-stunnel -> ..
+-rw-rw-r-- root/root        92 2017-07-25 14:41 ansible-role-win-stunnel-master/test/local
+-rw-rw-r-- root/root        96 2017-07-25 14:41 ansible-role-win-stunnel-master/test/main.yml

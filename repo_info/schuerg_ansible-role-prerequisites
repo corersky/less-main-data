@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2017-08-19 04:40 ansible-role-prerequisites-master/
+-rw-rw-r-- root/root        81 2017-08-19 04:40 ansible-role-prerequisites-master/.gitignore
+-rw-rw-r-- root/root      1070 2017-08-19 04:40 ansible-role-prerequisites-master/LICENSE
+-rw-rw-r-- root/root       659 2017-08-19 04:40 ansible-role-prerequisites-master/README.md
+drwxrwxr-x root/root         0 2017-08-19 04:40 ansible-role-prerequisites-master/defaults/
+-rw-rw-r-- root/root       315 2017-08-19 04:40 ansible-role-prerequisites-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-19 04:40 ansible-role-prerequisites-master/meta/
+-rw-rw-r-- root/root       699 2017-08-19 04:40 ansible-role-prerequisites-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-19 04:40 ansible-role-prerequisites-master/tasks/
+-rw-rw-r-- root/root       948 2017-08-19 04:40 ansible-role-prerequisites-master/tasks/main.yml
+-rw-rw-r-- root/root      1195 2017-08-19 04:40 ansible-role-prerequisites-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2017-08-19 04:40 ansible-role-prerequisites-master/tests/
+-rw-rw-r-- root/root      1921 2017-08-19 04:40 ansible-role-prerequisites-master/tests/Vagrantfile
+-rwxrwxr-x root/root       814 2017-08-19 04:40 ansible-role-prerequisites-master/tests/cleanup.sh
+-rw-rw-r-- root/root       146 2017-08-19 04:40 ansible-role-prerequisites-master/tests/inventory
+drwxrwxr-x root/root         0 2017-08-19 04:40 ansible-role-prerequisites-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-08-19 04:40 ansible-role-prerequisites-master/tests/roles/prerequisites -> ../..
+-rw-rw-r-- root/root       790 2017-08-19 04:40 ansible-role-prerequisites-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-12 00:30 nodejs-ansible-master/
+-rw-rw-r-- root/root         0 2018-12-12 00:30 nodejs-ansible-master/.gitignore
+-rw-rw-r-- root/root       692 2018-12-12 00:30 nodejs-ansible-master/.travis.yml
+-rw-rw-r-- root/root      1064 2018-12-12 00:30 nodejs-ansible-master/LICENSE
+-rw-rw-r-- root/root      1138 2018-12-12 00:30 nodejs-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-12-12 00:30 nodejs-ansible-master/defaults/
+-rw-rw-r-- root/root        66 2018-12-12 00:30 nodejs-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-12 00:30 nodejs-ansible-master/meta/
+-rw-rw-r-- root/root       906 2018-12-12 00:30 nodejs-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-12 00:30 nodejs-ansible-master/tasks/
+-rw-rw-r-- root/root      1676 2018-12-12 00:30 nodejs-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-12 00:30 nodejs-ansible-master/tests/
+-rw-rw-r-- root/root         9 2018-12-12 00:30 nodejs-ansible-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-12-12 00:30 nodejs-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-12 00:30 nodejs-ansible-master/vars/
+-rw-rw-r-- root/root       441 2018-12-12 00:30 nodejs-ansible-master/vars/main.yml

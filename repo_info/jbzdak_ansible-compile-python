@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-07 03:40 ansible-compile-python-master/
+-rw-rw-r-- root/root        17 2018-10-07 03:40 ansible-compile-python-master/.gitignore
+-rw-rw-r-- root/root      1825 2018-10-07 03:40 ansible-compile-python-master/README.md
+-rw-rw-r-- root/root      3134 2018-10-07 03:40 ansible-compile-python-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-10-07 03:40 ansible-compile-python-master/defaults/
+-rw-rw-r-- root/root       350 2018-10-07 03:40 ansible-compile-python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-07 03:40 ansible-compile-python-master/handlers/
+-rw-rw-r-- root/root        39 2018-10-07 03:40 ansible-compile-python-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-07 03:40 ansible-compile-python-master/meta/
+-rw-rw-r-- root/root       363 2018-10-07 03:40 ansible-compile-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-07 03:40 ansible-compile-python-master/tasks/
+-rw-rw-r-- root/root      1461 2018-10-07 03:40 ansible-compile-python-master/tasks/_do_compile_python.yaml
+-rw-rw-r-- root/root       501 2018-10-07 03:40 ansible-compile-python-master/tasks/main.yml
+-rw-rw-r-- root/root       203 2018-10-07 03:40 ansible-compile-python-master/test.yaml
+drwxrwxr-x root/root         0 2018-10-07 03:40 ansible-compile-python-master/vars/
+-rw-rw-r-- root/root       667 2018-10-07 03:40 ansible-compile-python-master/vars/main.yml

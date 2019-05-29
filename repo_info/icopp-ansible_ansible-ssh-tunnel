@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-ssh-tunnel-master/
+-rw-rw-r-- root/root       672 2016-09-16 13:24 ansible-ssh-tunnel-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-16 13:24 ansible-ssh-tunnel-master/LICENSE
+-rw-rw-r-- root/root       246 2016-09-16 13:24 ansible-ssh-tunnel-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-ssh-tunnel-master/meta/
+-rw-rw-r-- root/root       309 2016-09-16 13:24 ansible-ssh-tunnel-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-ssh-tunnel-master/tasks/
+-rw-rw-r-- root/root       239 2016-09-16 13:24 ansible-ssh-tunnel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-ssh-tunnel-master/tests/
+-rw-rw-r-- root/root         9 2016-09-16 13:24 ansible-ssh-tunnel-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-09-16 13:24 ansible-ssh-tunnel-master/tests/test.yml

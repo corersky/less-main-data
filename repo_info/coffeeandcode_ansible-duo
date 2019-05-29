@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-30 07:47 ansible-duo-master/
+-rw-rw-r-- root/root      2078 2015-11-30 07:47 ansible-duo-master/README.md
+drwxrwxr-x root/root         0 2015-11-30 07:47 ansible-duo-master/defaults/
+-rw-rw-r-- root/root        90 2015-11-30 07:47 ansible-duo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-30 07:47 ansible-duo-master/handlers/
+-rw-rw-r-- root/root        60 2015-11-30 07:47 ansible-duo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-30 07:47 ansible-duo-master/meta/
+-rw-rw-r-- root/root      1891 2015-11-30 07:47 ansible-duo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-30 07:47 ansible-duo-master/tasks/
+-rw-rw-r-- root/root      1347 2015-11-30 07:47 ansible-duo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-30 07:47 ansible-duo-master/templates/
+-rw-rw-r-- root/root       194 2015-11-30 07:47 ansible-duo-master/templates/login_duo.conf.j2
+-rw-rw-r-- root/root       194 2015-11-30 07:47 ansible-duo-master/templates/pam_duo.conf.j2

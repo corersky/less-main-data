@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-11 17:39 ansible-role-proxmox-master/
+-rw-rw-r-- root/root        66 2018-07-11 17:39 ansible-role-proxmox-master/.gitattributes
+-rw-rw-r-- root/root         0 2018-07-11 17:39 ansible-role-proxmox-master/.gitignore
+-rw-rw-r-- root/root      1070 2018-07-11 17:39 ansible-role-proxmox-master/LICENSE
+-rw-rw-r-- root/root        23 2018-07-11 17:39 ansible-role-proxmox-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 17:39 ansible-role-proxmox-master/defaults/
+-rw-rw-r-- root/root       318 2018-07-11 17:39 ansible-role-proxmox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-11 17:39 ansible-role-proxmox-master/handlers/
+-rw-rw-r-- root/root        43 2018-07-11 17:39 ansible-role-proxmox-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-11 17:39 ansible-role-proxmox-master/meta/
+-rw-rw-r-- root/root       330 2018-07-11 17:39 ansible-role-proxmox-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-11 17:39 ansible-role-proxmox-master/tasks/
+-rw-rw-r-- root/root      1695 2018-07-11 17:39 ansible-role-proxmox-master/tasks/lxc_create.yml
+-rw-rw-r-- root/root       112 2018-07-11 17:39 ansible-role-proxmox-master/tasks/main.yml

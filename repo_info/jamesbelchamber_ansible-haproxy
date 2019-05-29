@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-08-03 02:42 ansible-haproxy-master/
+-rw-rw-r-- root/root     35142 2015-08-03 02:42 ansible-haproxy-master/LICENSE
+-rw-rw-r-- root/root      3574 2015-08-03 02:42 ansible-haproxy-master/README.md
+drwxrwxr-x root/root         0 2015-08-03 02:42 ansible-haproxy-master/defaults/
+-rw-rw-r-- root/root       141 2015-08-03 02:42 ansible-haproxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-03 02:42 ansible-haproxy-master/handlers/
+-rw-rw-r-- root/root        66 2015-08-03 02:42 ansible-haproxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-03 02:42 ansible-haproxy-master/meta/
+-rw-rw-r-- root/root       390 2015-08-03 02:42 ansible-haproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-03 02:42 ansible-haproxy-master/tasks/
+-rw-rw-r-- root/root       259 2015-08-03 02:42 ansible-haproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-03 02:42 ansible-haproxy-master/templates/
+-rw-rw-r-- root/root      2884 2015-08-03 02:42 ansible-haproxy-master/templates/haproxy.cfg.j2

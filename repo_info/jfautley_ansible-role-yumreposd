@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-11-26 17:07 ansible-role-yumreposd-master/
+-rw-rw-r-- root/root      1079 2016-11-26 17:07 ansible-role-yumreposd-master/LICENSE
+-rw-rw-r-- root/root      3169 2016-11-26 17:07 ansible-role-yumreposd-master/README.md
+drwxrwxr-x root/root         0 2016-11-26 17:07 ansible-role-yumreposd-master/defaults/
+-rw-rw-r-- root/root       147 2016-11-26 17:07 ansible-role-yumreposd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-26 17:07 ansible-role-yumreposd-master/handlers/
+-rw-rw-r-- root/root        63 2016-11-26 17:07 ansible-role-yumreposd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-26 17:07 ansible-role-yumreposd-master/meta/
+-rw-rw-r-- root/root       381 2016-11-26 17:07 ansible-role-yumreposd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-26 17:07 ansible-role-yumreposd-master/tasks/
+-rw-rw-r-- root/root      2346 2016-11-26 17:07 ansible-role-yumreposd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-26 17:07 ansible-role-yumreposd-master/templates/
+-rw-rw-r-- root/root       204 2016-11-26 17:07 ansible-role-yumreposd-master/templates/yumrepo.j2

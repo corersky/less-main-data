@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-10-12 12:26 role.labo-master/
+-rw-rw-r-- root/root        12 2015-10-12 12:26 role.labo-master/README.md
+drwxrwxr-x root/root         0 2015-10-12 12:26 role.labo-master/defaults/
+-rw-rw-r-- root/root        40 2015-10-12 12:26 role.labo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-12 12:26 role.labo-master/handlers/
+-rw-rw-r-- root/root       182 2015-10-12 12:26 role.labo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-12 12:26 role.labo-master/meta/
+-rw-rw-r-- root/root       202 2015-10-12 12:26 role.labo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-12 12:26 role.labo-master/tasks/
+-rw-rw-r-- root/root        81 2015-10-12 12:26 role.labo-master/tasks/main.yml
+-rw-rw-r-- root/root       438 2015-10-12 12:26 role.labo-master/tasks/security.yml
+drwxrwxr-x root/root         0 2015-10-12 12:26 role.labo-master/vars/
+-rw-rw-r-- root/root         0 2015-10-12 12:26 role.labo-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-31 09:35 ansible-octopass-role-master/
+-rw-rw-r-- root/root        47 2019-03-31 09:35 ansible-octopass-role-master/.gitignore
+-rw-rw-r-- root/root      1108 2019-03-31 09:35 ansible-octopass-role-master/README.md
+-rw-rw-r-- root/root      1004 2019-03-31 09:35 ansible-octopass-role-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-03-31 09:35 ansible-octopass-role-master/handlers/
+-rw-rw-r-- root/root        62 2019-03-31 09:35 ansible-octopass-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-31 09:35 ansible-octopass-role-master/meta/
+-rw-rw-r-- root/root       384 2019-03-31 09:35 ansible-octopass-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 09:35 ansible-octopass-role-master/tasks/
+-rw-rw-r-- root/root      2152 2019-03-31 09:35 ansible-octopass-role-master/tasks/debian.yml
+-rw-rw-r-- root/root        64 2019-03-31 09:35 ansible-octopass-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 09:35 ansible-octopass-role-master/templates/
+-rw-rw-r-- root/root       246 2019-03-31 09:35 ansible-octopass-role-master/templates/linyows_octopass.list
+-rw-rw-r-- root/root       917 2019-03-31 09:35 ansible-octopass-role-master/templates/octopass.conf
+drwxrwxr-x root/root         0 2019-03-31 09:35 ansible-octopass-role-master/tests/
+-rw-rw-r-- root/root       340 2019-03-31 09:35 ansible-octopass-role-master/tests/test.yml

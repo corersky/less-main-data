@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-05-11 16:44 ansible-role-newrelic-unix-master/
+-rw-rw-r-- root/root         8 2016-05-11 16:44 ansible-role-newrelic-unix-master/.gitignore
+-rw-rw-r-- root/root       114 2016-05-11 16:44 ansible-role-newrelic-unix-master/.travis.yml
+-rw-rw-r-- root/root       175 2016-05-11 16:44 ansible-role-newrelic-unix-master/CHANGELOG.md
+-rwxrwxr-x root/root      1063 2016-05-11 16:44 ansible-role-newrelic-unix-master/LICENSE
+-rw-rw-r-- root/root       184 2016-05-11 16:44 ansible-role-newrelic-unix-master/Makefile
+-rw-rw-r-- root/root      1385 2016-05-11 16:44 ansible-role-newrelic-unix-master/README.md
+drwxrwxr-x root/root         0 2016-05-11 16:44 ansible-role-newrelic-unix-master/defaults/
+-rw-rw-r-- root/root       344 2016-05-11 16:44 ansible-role-newrelic-unix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-11 16:44 ansible-role-newrelic-unix-master/meta/
+-rw-rw-r-- root/root       265 2016-05-11 16:44 ansible-role-newrelic-unix-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-11 16:44 ansible-role-newrelic-unix-master/tasks/
+-rw-rw-r-- root/root       963 2016-05-11 16:44 ansible-role-newrelic-unix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-11 16:44 ansible-role-newrelic-unix-master/templates/
+-rw-rw-r-- root/root       286 2016-05-11 16:44 ansible-role-newrelic-unix-master/templates/newrelic.json.j2
+drwxrwxr-x root/root         0 2016-05-11 16:44 ansible-role-newrelic-unix-master/test/
+-rw-rw-r-- root/root        99 2016-05-11 16:44 ansible-role-newrelic-unix-master/test/test.yml

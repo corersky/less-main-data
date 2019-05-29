@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-18 07:19 ansible-role-i3wm-master/
+-rw-rw-r-- root/root      1067 2017-08-18 07:19 ansible-role-i3wm-master/LICENSE
+-rw-rw-r-- root/root      1046 2017-08-18 07:19 ansible-role-i3wm-master/README.md
+drwxrwxr-x root/root         0 2017-08-18 07:19 ansible-role-i3wm-master/defaults/
+-rw-rw-r-- root/root        58 2017-08-18 07:19 ansible-role-i3wm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-18 07:19 ansible-role-i3wm-master/meta/
+-rw-rw-r-- root/root      1046 2017-08-18 07:19 ansible-role-i3wm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-18 07:19 ansible-role-i3wm-master/tasks/
+-rw-rw-r-- root/root       660 2017-08-18 07:19 ansible-role-i3wm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-18 07:19 ansible-role-i3wm-master/tests/
+-rw-rw-r-- root/root        11 2017-08-18 07:19 ansible-role-i3wm-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-08-18 07:19 ansible-role-i3wm-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-08-18 07:19 ansible-role-i3wm-master/vars/
+-rw-rw-r-- root/root       195 2017-08-18 07:19 ansible-role-i3wm-master/vars/Archlinux.yaml
+-rw-rw-r-- root/root       182 2017-08-18 07:19 ansible-role-i3wm-master/vars/Debian.yaml

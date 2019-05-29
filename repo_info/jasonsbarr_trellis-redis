@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-03 12:37 trellis-redis-master/
+-rw-rw-r-- root/root      1067 2018-07-03 12:37 trellis-redis-master/LICENSE
+-rw-rw-r-- root/root       892 2018-07-03 12:37 trellis-redis-master/README.md
+drwxrwxr-x root/root         0 2018-07-03 12:37 trellis-redis-master/defaults/
+-rw-rw-r-- root/root      1434 2018-07-03 12:37 trellis-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-03 12:37 trellis-redis-master/handlers/
+-rw-rw-r-- root/root       309 2018-07-03 12:37 trellis-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-03 12:37 trellis-redis-master/meta/
+-rw-rw-r-- root/root       333 2018-07-03 12:37 trellis-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-03 12:37 trellis-redis-master/tasks/
+-rw-rw-r-- root/root       483 2018-07-03 12:37 trellis-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-03 12:37 trellis-redis-master/templates/
+-rw-rw-r-- root/root      2174 2018-07-03 12:37 trellis-redis-master/templates/redis.conf.j2

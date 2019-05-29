@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-06-14 07:24 ansible-network-hosts-master/
+-rw-rw-r-- root/root       985 2016-06-14 07:24 ansible-network-hosts-master/.travis.yml
+-rw-rw-r-- root/root       704 2016-06-14 07:24 ansible-network-hosts-master/README.md
+drwxrwxr-x root/root         0 2016-06-14 07:24 ansible-network-hosts-master/meta/
+-rw-rw-r-- root/root       320 2016-06-14 07:24 ansible-network-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-14 07:24 ansible-network-hosts-master/tasks/
+-rw-rw-r-- root/root       577 2016-06-14 07:24 ansible-network-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-14 07:24 ansible-network-hosts-master/tests/
+-rw-rw-r-- root/root        46 2016-06-14 07:24 ansible-network-hosts-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-06-14 07:24 ansible-network-hosts-master/tests/test.yml

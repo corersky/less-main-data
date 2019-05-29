@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-11-24 15:40 nsqdinit-master/
+-rw-rw-r-- root/root      1077 2014-11-24 15:40 nsqdinit-master/LICENSE
+-rw-rw-r-- root/root        96 2014-11-24 15:40 nsqdinit-master/README.md
+drwxrwxr-x root/root         0 2014-11-24 15:40 nsqdinit-master/defaults/
+-rw-rw-r-- root/root       116 2014-11-24 15:40 nsqdinit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-24 15:40 nsqdinit-master/files/
+-rw-rw-r-- root/root      1242 2014-11-24 15:40 nsqdinit-master/files/nsqd.init
+drwxrwxr-x root/root         0 2014-11-24 15:40 nsqdinit-master/handlers/
+-rw-rw-r-- root/root        63 2014-11-24 15:40 nsqdinit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-24 15:40 nsqdinit-master/meta/
+-rw-rw-r-- root/root      1686 2014-11-24 15:40 nsqdinit-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-24 15:40 nsqdinit-master/tasks/
+-rw-rw-r-- root/root       751 2014-11-24 15:40 nsqdinit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-24 15:40 nsqdinit-master/templates/
+-rw-rw-r-- root/root      2996 2014-11-24 15:40 nsqdinit-master/templates/nsqd.conf.j2
+drwxrwxr-x root/root         0 2014-11-24 15:40 nsqdinit-master/vars/
+-rw-rw-r-- root/root        35 2014-11-24 15:40 nsqdinit-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-10-04 19:42 ansible-apt-upgrade-master/
+-rw-rw-r-- root/root       812 2017-10-04 19:42 ansible-apt-upgrade-master/.travis.yml
+-rw-rw-r-- root/root       559 2017-10-04 19:42 ansible-apt-upgrade-master/README.md
+drwxrwxr-x root/root         0 2017-10-04 19:42 ansible-apt-upgrade-master/defaults/
+-rw-rw-r-- root/root        93 2017-10-04 19:42 ansible-apt-upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-04 19:42 ansible-apt-upgrade-master/meta/
+-rw-rw-r-- root/root       297 2017-10-04 19:42 ansible-apt-upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-04 19:42 ansible-apt-upgrade-master/tasks/
+-rw-rw-r-- root/root       292 2017-10-04 19:42 ansible-apt-upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-04 19:42 ansible-apt-upgrade-master/tests/
+-rw-rw-r-- root/root        11 2017-10-04 19:42 ansible-apt-upgrade-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-10-04 19:42 ansible-apt-upgrade-master/tests/test.yml

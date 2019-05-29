@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-09-10 15:32 ansible-java-master/
+-rw-rw-r-- root/root         9 2014-09-10 15:32 ansible-java-master/.gitignore
+-rw-rw-r-- root/root        29 2014-09-10 15:32 ansible-java-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2014-09-10 15:32 ansible-java-master/LICENSE
+-rw-rw-r-- root/root       188 2014-09-10 15:32 ansible-java-master/README.md
+drwxrwxr-x root/root         0 2014-09-10 15:32 ansible-java-master/defaults/
+-rw-rw-r-- root/root        40 2014-09-10 15:32 ansible-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-10 15:32 ansible-java-master/examples/
+-rw-rw-r-- root/root       278 2014-09-10 15:32 ansible-java-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-09-10 15:32 ansible-java-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-09-10 15:32 ansible-java-master/examples/roles/azavea.java -> ../../
+-rw-rw-r-- root/root       128 2014-09-10 15:32 ansible-java-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-09-10 15:32 ansible-java-master/meta/
+-rw-rw-r-- root/root       271 2014-09-10 15:32 ansible-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-10 15:32 ansible-java-master/tasks/
+-rw-rw-r-- root/root       280 2014-09-10 15:32 ansible-java-master/tasks/main.yml

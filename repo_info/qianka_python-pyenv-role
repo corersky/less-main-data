@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-04-13 05:02 python-pyenv-role-master/
+-rw-rw-r-- root/root       885 2015-04-13 05:02 python-pyenv-role-master/README.md
+drwxrwxr-x root/root         0 2015-04-13 05:02 python-pyenv-role-master/defaults/
+-rw-rw-r-- root/root       102 2015-04-13 05:02 python-pyenv-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-13 05:02 python-pyenv-role-master/files/
+-rw-rw-r-- root/root       193 2015-04-13 05:02 python-pyenv-role-master/files/install-python.sh
+-rw-rw-r-- root/root       128 2015-04-13 05:02 python-pyenv-role-master/files/pyenv-profile.sh
+-rw-rw-r-- root/root        61 2015-04-13 05:02 python-pyenv-role-master/files/pyenv-sudoers
+-rw-rw-r-- root/root       726 2015-04-13 05:02 python-pyenv-role-master/files/ve
+drwxrwxr-x root/root         0 2015-04-13 05:02 python-pyenv-role-master/meta/
+-rw-rw-r-- root/root       194 2015-04-13 05:02 python-pyenv-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-13 05:02 python-pyenv-role-master/tasks/
+-rw-rw-r-- root/root      1665 2015-04-13 05:02 python-pyenv-role-master/tasks/main.yml

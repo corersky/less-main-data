@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-08-13 12:32 ansible-supervise-master/
+-rw-rw-r-- root/root      1110 2015-08-13 12:32 ansible-supervise-master/README.md
+drwxrwxr-x root/root         0 2015-08-13 12:32 ansible-supervise-master/defaults/
+-rw-rw-r-- root/root       290 2015-08-13 12:32 ansible-supervise-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2015-08-13 12:32 ansible-supervise-master/meta/
+-rw-rw-r-- root/root       446 2015-08-13 12:32 ansible-supervise-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-13 12:32 ansible-supervise-master/tasks/
+-rw-rw-r-- root/root       688 2015-08-13 12:32 ansible-supervise-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2015-08-13 12:32 ansible-supervise-master/templates/
+-rw-rw-r-- root/root       753 2015-08-13 12:32 ansible-supervise-master/templates/app.ini.j2

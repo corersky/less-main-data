@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-26 23:09 ansible-role-fbreader-master/
+drwxrwxr-x root/root         0 2019-03-26 23:09 ansible-role-fbreader-master/.circleci/
+-rw-rw-r-- root/root       677 2019-03-26 23:09 ansible-role-fbreader-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-03-26 23:09 ansible-role-fbreader-master/.gitignore
+-rw-rw-r-- root/root      2628 2019-03-26 23:09 ansible-role-fbreader-master/.travis.yml
+-rw-rw-r-- root/root       522 2019-03-26 23:09 ansible-role-fbreader-master/README.md
+drwxrwxr-x root/root         0 2019-03-26 23:09 ansible-role-fbreader-master/meta/
+-rw-rw-r-- root/root      3549 2019-03-26 23:09 ansible-role-fbreader-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-26 23:09 ansible-role-fbreader-master/tasks/
+-rw-rw-r-- root/root      3170 2019-03-26 23:09 ansible-role-fbreader-master/tasks/compat.yml
+-rw-rw-r-- root/root       242 2019-03-26 23:09 ansible-role-fbreader-master/tasks/epel.yml
+-rw-rw-r-- root/root       318 2019-03-26 23:09 ansible-role-fbreader-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       864 2019-03-26 23:09 ansible-role-fbreader-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       170 2019-03-26 23:09 ansible-role-fbreader-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-26 23:09 ansible-role-fbreader-master/vars/
+-rw-rw-r-- root/root        30 2019-03-26 23:09 ansible-role-fbreader-master/vars/default.yml

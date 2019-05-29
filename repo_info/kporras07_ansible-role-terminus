@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-01-31 15:00 ansible-role-terminus-master/
+-rw-rw-r-- root/root       539 2017-01-31 15:00 ansible-role-terminus-master/.travis.yml
+-rw-rw-r-- root/root       492 2017-01-31 15:00 ansible-role-terminus-master/README.md
+drwxrwxr-x root/root         0 2017-01-31 15:00 ansible-role-terminus-master/meta/
+-rw-rw-r-- root/root      3186 2017-01-31 15:00 ansible-role-terminus-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-31 15:00 ansible-role-terminus-master/tasks/
+-rw-rw-r-- root/root       363 2017-01-31 15:00 ansible-role-terminus-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-31 15:00 ansible-role-terminus-master/tests/
+-rw-rw-r-- root/root         9 2017-01-31 15:00 ansible-role-terminus-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-01-31 15:00 ansible-role-terminus-master/tests/test.yml

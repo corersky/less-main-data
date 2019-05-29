@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-20 16:37 ansible-role-resolvconf-master/
+-rw-rw-r-- root/root        10 2018-06-20 16:37 ansible-role-resolvconf-master/.gitignore
+-rw-rw-r-- root/root       990 2018-06-20 16:37 ansible-role-resolvconf-master/.travis.yml
+-rw-rw-r-- root/root      1083 2018-06-20 16:37 ansible-role-resolvconf-master/LICENSE
+-rw-rw-r-- root/root       984 2018-06-20 16:37 ansible-role-resolvconf-master/README.md
+drwxrwxr-x root/root         0 2018-06-20 16:37 ansible-role-resolvconf-master/defaults/
+-rw-rw-r-- root/root       158 2018-06-20 16:37 ansible-role-resolvconf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-20 16:37 ansible-role-resolvconf-master/meta/
+-rw-rw-r-- root/root       612 2018-06-20 16:37 ansible-role-resolvconf-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-20 16:37 ansible-role-resolvconf-master/tasks/
+-rw-rw-r-- root/root       109 2018-06-20 16:37 ansible-role-resolvconf-master/tasks/config.yml
+-rw-rw-r-- root/root       138 2018-06-20 16:37 ansible-role-resolvconf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-20 16:37 ansible-role-resolvconf-master/templates/
+-rw-rw-r-- root/root       347 2018-06-20 16:37 ansible-role-resolvconf-master/templates/resolv.conf
+drwxrwxr-x root/root         0 2018-06-20 16:37 ansible-role-resolvconf-master/tests/
+-rw-rw-r-- root/root        10 2018-06-20 16:37 ansible-role-resolvconf-master/tests/inventory
+-rw-rw-r-- root/root       281 2018-06-20 16:37 ansible-role-resolvconf-master/tests/test.yml

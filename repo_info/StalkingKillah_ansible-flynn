@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-30 08:50 ansible-flynn-master/
+-rw-rw-r-- root/root         7 2016-06-30 08:50 ansible-flynn-master/.gitignore
+-rw-rw-r-- root/root      1164 2016-06-30 08:50 ansible-flynn-master/README.md
+drwxrwxr-x root/root         0 2016-06-30 08:50 ansible-flynn-master/handlers/
+-rw-rw-r-- root/root        79 2016-06-30 08:50 ansible-flynn-master/handlers/firewall.yml
+-rw-rw-r-- root/root       105 2016-06-30 08:50 ansible-flynn-master/handlers/flynn-host.yml
+-rw-rw-r-- root/root        79 2016-06-30 08:50 ansible-flynn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-30 08:50 ansible-flynn-master/meta/
+-rw-rw-r-- root/root       430 2016-06-30 08:50 ansible-flynn-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-30 08:50 ansible-flynn-master/tasks/
+-rw-rw-r-- root/root       647 2016-06-30 08:50 ansible-flynn-master/tasks/layer-0.yml
+-rw-rw-r-- root/root       467 2016-06-30 08:50 ansible-flynn-master/tasks/layer-1.yml
+-rw-rw-r-- root/root       244 2016-06-30 08:50 ansible-flynn-master/tasks/main.yml
+-rw-rw-r-- root/root       820 2016-06-30 08:50 ansible-flynn-master/tasks/setup.yml
+-rw-rw-r-- root/root       587 2016-06-30 08:50 ansible-flynn-master/test.yml

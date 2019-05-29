@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2013-12-21 17:00 ansible-hosts-master/
+-rw-rw-r-- root/root      1057 2013-12-21 17:00 ansible-hosts-master/LICENSE
+-rw-rw-r-- root/root       744 2013-12-21 17:00 ansible-hosts-master/README.md
+drwxrwxr-x root/root         0 2013-12-21 17:00 ansible-hosts-master/meta/
+-rw-rw-r-- root/root       535 2013-12-21 17:00 ansible-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2013-12-21 17:00 ansible-hosts-master/tasks/
+-rw-rw-r-- root/root       109 2013-12-21 17:00 ansible-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2013-12-21 17:00 ansible-hosts-master/templates/
+-rw-rw-r-- root/root       225 2013-12-21 17:00 ansible-hosts-master/templates/hosts.j2

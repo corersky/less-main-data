@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-02 04:08 upgrade-all-master/
+-rw-rw-r-- root/root        11 2019-04-02 04:08 upgrade-all-master/.gitignore
+-rw-rw-r-- root/root      1061 2019-04-02 04:08 upgrade-all-master/LICENSE
+-rw-rw-r-- root/root       575 2019-04-02 04:08 upgrade-all-master/README.md
+drwxrwxr-x root/root         0 2019-04-02 04:08 upgrade-all-master/defaults/
+-rw-rw-r-- root/root        35 2019-04-02 04:08 upgrade-all-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-02 04:08 upgrade-all-master/handlers/
+-rw-rw-r-- root/root        35 2019-04-02 04:08 upgrade-all-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-02 04:08 upgrade-all-master/meta/
+-rw-rw-r-- root/root       235 2019-04-02 04:08 upgrade-all-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-02 04:08 upgrade-all-master/tasks/
+-rw-rw-r-- root/root       314 2019-04-02 04:08 upgrade-all-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-02 04:08 upgrade-all-master/tests/
+-rw-rw-r-- root/root        11 2019-04-02 04:08 upgrade-all-master/tests/inventory
+-rw-rw-r-- root/root        69 2019-04-02 04:08 upgrade-all-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-02 04:08 upgrade-all-master/vars/
+-rw-rw-r-- root/root        31 2019-04-02 04:08 upgrade-all-master/vars/main.yml

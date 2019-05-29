@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-27 06:11 ansible-mongodb-master/
+-rw-rw-r-- root/root      1328 2015-06-27 06:11 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2015-06-27 06:11 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root        73 2015-06-27 06:11 ansible-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-27 06:11 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root        67 2015-06-27 06:11 ansible-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-27 06:11 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       386 2015-06-27 06:11 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-27 06:11 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root       354 2015-06-27 06:11 ansible-mongodb-master/tasks/configure.yml
+-rw-rw-r-- root/root       605 2015-06-27 06:11 ansible-mongodb-master/tasks/install.yml
+-rw-rw-r-- root/root        52 2015-06-27 06:11 ansible-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-27 06:11 ansible-mongodb-master/vars/
+-rw-rw-r-- root/root         4 2015-06-27 06:11 ansible-mongodb-master/vars/main.yml

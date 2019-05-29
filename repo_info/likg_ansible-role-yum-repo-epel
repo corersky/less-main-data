@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-18 06:44 ansible-role-yum-repo-epel-master/
+-rw-rw-r-- root/root      2551 2018-07-18 06:44 ansible-role-yum-repo-epel-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      2109 2018-07-18 06:44 ansible-role-yum-repo-epel-master/.travis.yml
+-rw-rw-r-- root/root      1060 2018-07-18 06:44 ansible-role-yum-repo-epel-master/LICENSE
+-rw-rw-r-- root/root       866 2018-07-18 06:44 ansible-role-yum-repo-epel-master/README.md
+drwxrwxr-x root/root         0 2018-07-18 06:44 ansible-role-yum-repo-epel-master/defaults/
+-rw-rw-r-- root/root        38 2018-07-18 06:44 ansible-role-yum-repo-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-18 06:44 ansible-role-yum-repo-epel-master/meta/
+-rw-rw-r-- root/root       220 2018-07-18 06:44 ansible-role-yum-repo-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-18 06:44 ansible-role-yum-repo-epel-master/tasks/
+-rw-rw-r-- root/root       348 2018-07-18 06:44 ansible-role-yum-repo-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-18 06:44 ansible-role-yum-repo-epel-master/tests/
+-rw-rw-r-- root/root      1331 2018-07-18 06:44 ansible-role-yum-repo-epel-master/tests/docker_playbook.yml
+-rw-rw-r-- root/root        52 2018-07-18 06:44 ansible-role-yum-repo-epel-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-18 06:44 ansible-role-yum-repo-epel-master/vars/
+-rw-rw-r-- root/root        34 2018-07-18 06:44 ansible-role-yum-repo-epel-master/vars/main.yml

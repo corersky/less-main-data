@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-git-master/
+-rw-rw-r-- root/root       429 2018-11-29 13:13 ansible-role-git-master/.travis.yml
+-rw-rw-r-- root/root       298 2018-11-29 13:13 ansible-role-git-master/README.md
+-rw-rw-r-- root/root        28 2018-11-29 13:13 ansible-role-git-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-git-master/meta/
+-rw-rw-r-- root/root       293 2018-11-29 13:13 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root       646 2018-11-29 13:13 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-git-master/tests/
+-rw-rw-r-- root/root        11 2018-11-29 13:13 ansible-role-git-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-11-29 13:13 ansible-role-git-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-git-master/vars/
+-rw-rw-r-- root/root        50 2018-11-29 13:13 ansible-role-git-master/vars/kali_gnu-linux.yml
+-rw-rw-r-- root/root        50 2018-11-29 13:13 ansible-role-git-master/vars/ubuntu.yml

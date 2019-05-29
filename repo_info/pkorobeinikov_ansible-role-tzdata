@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-tzdata-master/
+-rw-rw-r-- root/root       539 2016-05-31 15:41 ansible-role-tzdata-master/.travis.yml
+-rw-rw-r-- root/root       570 2016-05-31 15:41 ansible-role-tzdata-master/README.md
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-tzdata-master/defaults/
+-rw-rw-r-- root/root        35 2016-05-31 15:41 ansible-role-tzdata-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-tzdata-master/meta/
+-rw-rw-r-- root/root       376 2016-05-31 15:41 ansible-role-tzdata-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-tzdata-master/tasks/
+-rw-rw-r-- root/root       230 2016-05-31 15:41 ansible-role-tzdata-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-tzdata-master/templates/
+-rw-rw-r-- root/root        22 2016-05-31 15:41 ansible-role-tzdata-master/templates/timezone.j2
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-tzdata-master/tests/
+-rw-rw-r-- root/root         9 2016-05-31 15:41 ansible-role-tzdata-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-05-31 15:41 ansible-role-tzdata-master/tests/test.yml

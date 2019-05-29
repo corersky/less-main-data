@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-18 14:27 ansible-role-rutorrent-master/
+-rw-rw-r-- root/root       366 2016-09-18 14:27 ansible-role-rutorrent-master/.travis.yml
+-rw-rw-r-- root/root       929 2016-09-18 14:27 ansible-role-rutorrent-master/CHANGELOG.md
+-rw-rw-r-- root/root      1210 2016-09-18 14:27 ansible-role-rutorrent-master/README.md
+drwxrwxr-x root/root         0 2016-09-18 14:27 ansible-role-rutorrent-master/defaults/
+-rw-rw-r-- root/root       504 2016-09-18 14:27 ansible-role-rutorrent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-18 14:27 ansible-role-rutorrent-master/meta/
+-rw-rw-r-- root/root       378 2016-09-18 14:27 ansible-role-rutorrent-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-18 14:27 ansible-role-rutorrent-master/tasks/
+-rw-rw-r-- root/root      1220 2016-09-18 14:27 ansible-role-rutorrent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-18 14:27 ansible-role-rutorrent-master/templates/
+-rw-rw-r-- root/root      2511 2016-09-18 14:27 ansible-role-rutorrent-master/templates/config.php.j2
+drwxrwxr-x root/root         0 2016-09-18 14:27 ansible-role-rutorrent-master/tests/
+-rw-rw-r-- root/root        10 2016-09-18 14:27 ansible-role-rutorrent-master/tests/inventory
+-rw-rw-r-- root/root       142 2016-09-18 14:27 ansible-role-rutorrent-master/tests/test.yml

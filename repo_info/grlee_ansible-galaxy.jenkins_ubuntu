@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/
+-rw-rw-r-- root/root      1076 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/LICENSE
+-rw-rw-r-- root/root       102 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/README.md
+drwxrwxr-x root/root         0 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/handlers/
+-rw-rw-r-- root/root       388 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/meta/
+-rw-rw-r-- root/root       266 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/tasks/
+-rw-rw-r-- root/root      1078 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/templates/
+-rw-rw-r-- root/root       500 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/templates/jenkins-apache2-site.j2
+drwxrwxr-x root/root         0 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/vars/
+-rw-rw-r-- root/root        19 2014-04-22 20:35 ansible-galaxy.jenkins_ubuntu-master/vars/main.yml

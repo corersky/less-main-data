@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-15 14:39 ansible-role-RFC1323-master/
+-rw-rw-r-- root/root        18 2018-05-15 14:39 ansible-role-RFC1323-master/.gitignore
+-rw-rw-r-- root/root       138 2018-05-15 14:39 ansible-role-RFC1323-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       558 2018-05-15 14:39 ansible-role-RFC1323-master/.travis.yml
+-rw-rw-r-- root/root        48 2018-05-15 14:39 ansible-role-RFC1323-master/.yamllint
+-rw-rw-r-- root/root       635 2018-05-15 14:39 ansible-role-RFC1323-master/README.md
+drwxrwxr-x root/root         0 2018-05-15 14:39 ansible-role-RFC1323-master/defaults/
+-rw-rw-r-- root/root        35 2018-05-15 14:39 ansible-role-RFC1323-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-15 14:39 ansible-role-RFC1323-master/meta/
+-rw-rw-r-- root/root       396 2018-05-15 14:39 ansible-role-RFC1323-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-15 14:39 ansible-role-RFC1323-master/tasks/
+-rw-rw-r-- root/root       202 2018-05-15 14:39 ansible-role-RFC1323-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-15 14:39 ansible-role-RFC1323-master/tests/
+-rw-rw-r-- root/root        11 2018-05-15 14:39 ansible-role-RFC1323-master/tests/inventory
+-rw-rw-r-- root/root        79 2018-05-15 14:39 ansible-role-RFC1323-master/tests/test.yml

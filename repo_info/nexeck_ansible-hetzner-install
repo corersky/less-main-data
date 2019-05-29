@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-08-30 16:53 ansible-hetzner-install-master/
+-rw-rw-r-- root/root      1106 2015-08-30 16:53 ansible-hetzner-install-master/README.md
+drwxrwxr-x root/root         0 2015-08-30 16:53 ansible-hetzner-install-master/defaults/
+-rw-rw-r-- root/root       420 2015-08-30 16:53 ansible-hetzner-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-30 16:53 ansible-hetzner-install-master/handlers/
+-rw-rw-r-- root/root        80 2015-08-30 16:53 ansible-hetzner-install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-30 16:53 ansible-hetzner-install-master/meta/
+-rw-rw-r-- root/root       457 2015-08-30 16:53 ansible-hetzner-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-30 16:53 ansible-hetzner-install-master/tasks/
+-rw-rw-r-- root/root       784 2015-08-30 16:53 ansible-hetzner-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-30 16:53 ansible-hetzner-install-master/templates/
+-rw-rw-r-- root/root       431 2015-08-30 16:53 ansible-hetzner-install-master/templates/install.sh.j2
+drwxrwxr-x root/root         0 2015-08-30 16:53 ansible-hetzner-install-master/vars/
+-rw-rw-r-- root/root        36 2015-08-30 16:53 ansible-hetzner-install-master/vars/main.yml

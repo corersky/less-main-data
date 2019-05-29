@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-28 06:58 ansible-role-cjdns-master/
+-rw-rw-r-- root/root      1072 2018-11-28 06:58 ansible-role-cjdns-master/LICENSE
+-rw-rw-r-- root/root      1760 2018-11-28 06:58 ansible-role-cjdns-master/README.md
+drwxrwxr-x root/root         0 2018-11-28 06:58 ansible-role-cjdns-master/defaults/
+-rw-rw-r-- root/root       631 2018-11-28 06:58 ansible-role-cjdns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-28 06:58 ansible-role-cjdns-master/handlers/
+-rw-rw-r-- root/root       158 2018-11-28 06:58 ansible-role-cjdns-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-28 06:58 ansible-role-cjdns-master/meta/
+-rw-rw-r-- root/root       456 2018-11-28 06:58 ansible-role-cjdns-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-28 06:58 ansible-role-cjdns-master/tasks/
+-rw-rw-r-- root/root      1283 2018-11-28 06:58 ansible-role-cjdns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-28 06:58 ansible-role-cjdns-master/templates/
+-rw-rw-r-- root/root       897 2018-11-28 06:58 ansible-role-cjdns-master/templates/cjdns.service.j2
+-rw-rw-r-- root/root      3580 2018-11-28 06:58 ansible-role-cjdns-master/templates/cjdroute.conf.j2
+drwxrwxr-x root/root         0 2018-11-28 06:58 ansible-role-cjdns-master/vars/
+-rw-rw-r-- root/root       150 2018-11-28 06:58 ansible-role-cjdns-master/vars/RedHat-7.yml

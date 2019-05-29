@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-24 09:35 ansible-jetbrains-toolbox-master/
+-rw-rw-r-- root/root       645 2018-10-24 09:35 ansible-jetbrains-toolbox-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 09:35 ansible-jetbrains-toolbox-master/defaults/
+-rw-rw-r-- root/root        42 2018-10-24 09:35 ansible-jetbrains-toolbox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 09:35 ansible-jetbrains-toolbox-master/handlers/
+-rw-rw-r-- root/root        41 2018-10-24 09:35 ansible-jetbrains-toolbox-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 09:35 ansible-jetbrains-toolbox-master/meta/
+-rw-rw-r-- root/root       265 2018-10-24 09:35 ansible-jetbrains-toolbox-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 09:35 ansible-jetbrains-toolbox-master/tasks/
+-rw-rw-r-- root/root      2674 2018-10-24 09:35 ansible-jetbrains-toolbox-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 09:35 ansible-jetbrains-toolbox-master/tests/
+-rw-rw-r-- root/root        11 2018-10-24 09:35 ansible-jetbrains-toolbox-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-10-24 09:35 ansible-jetbrains-toolbox-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 09:35 ansible-jetbrains-toolbox-master/vars/
+-rw-rw-r-- root/root        36 2018-10-24 09:35 ansible-jetbrains-toolbox-master/vars/main.yml

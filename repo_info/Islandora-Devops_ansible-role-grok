@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-07 07:43 ansible-role-grok-master/
+-rw-rw-r-- root/root        22 2018-02-07 07:43 ansible-role-grok-master/.gitignore
+-rw-rw-r-- root/root       296 2018-02-07 07:43 ansible-role-grok-master/.travis.yml
+-rw-rw-r-- root/root       729 2018-02-07 07:43 ansible-role-grok-master/README.md
+drwxrwxr-x root/root         0 2018-02-07 07:43 ansible-role-grok-master/defaults/
+-rw-rw-r-- root/root        57 2018-02-07 07:43 ansible-role-grok-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-07 07:43 ansible-role-grok-master/meta/
+-rw-rw-r-- root/root       433 2018-02-07 07:43 ansible-role-grok-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-07 07:43 ansible-role-grok-master/tasks/
+-rw-rw-r-- root/root      1575 2018-02-07 07:43 ansible-role-grok-master/tasks/install.yml
+-rw-rw-r-- root/root        68 2018-02-07 07:43 ansible-role-grok-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-07 07:43 ansible-role-grok-master/tests/
+-rw-rw-r-- root/root       495 2018-02-07 07:43 ansible-role-grok-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-numbers-master/
+-rw-rw-r-- root/root       672 2016-09-16 13:23 ansible-numbers-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-16 13:23 ansible-numbers-master/LICENSE
+-rw-rw-r-- root/root       237 2016-09-16 13:23 ansible-numbers-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-numbers-master/meta/
+-rw-rw-r-- root/root       306 2016-09-16 13:23 ansible-numbers-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-numbers-master/tasks/
+-rw-rw-r-- root/root       233 2016-09-16 13:23 ansible-numbers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-numbers-master/tests/
+-rw-rw-r-- root/root         9 2016-09-16 13:23 ansible-numbers-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-09-16 13:23 ansible-numbers-master/tests/test.yml

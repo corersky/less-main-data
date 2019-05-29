@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-08 11:46 ansible-role-configure-ssh-master/
+-rw-rw-r-- root/root       631 2017-10-08 11:46 ansible-role-configure-ssh-master/.travis.yml
+-rw-rw-r-- root/root       319 2017-10-08 11:46 ansible-role-configure-ssh-master/README.md
+drwxrwxr-x root/root         0 2017-10-08 11:46 ansible-role-configure-ssh-master/handlers/
+-rw-rw-r-- root/root       227 2017-10-08 11:46 ansible-role-configure-ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-08 11:46 ansible-role-configure-ssh-master/meta/
+-rw-rw-r-- root/root       351 2017-10-08 11:46 ansible-role-configure-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-08 11:46 ansible-role-configure-ssh-master/tasks/
+-rw-rw-r-- root/root      1136 2017-10-08 11:46 ansible-role-configure-ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-08 11:46 ansible-role-configure-ssh-master/tests/
+-rw-rw-r-- root/root         9 2017-10-08 11:46 ansible-role-configure-ssh-master/tests/inventory
+-rw-rw-r-- root/root      1445 2017-10-08 11:46 ansible-role-configure-ssh-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-08 11:46 ansible-role-configure-ssh-master/vars/
+-rw-rw-r-- root/root        16 2017-10-08 11:46 ansible-role-configure-ssh-master/vars/main.yml

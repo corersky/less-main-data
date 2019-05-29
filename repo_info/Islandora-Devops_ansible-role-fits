@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-12-15 08:49 ansible-role-fits-master/
+-rw-rw-r-- root/root       841 2017-12-15 08:49 ansible-role-fits-master/README.md
+drwxrwxr-x root/root         0 2017-12-15 08:49 ansible-role-fits-master/defaults/
+-rw-rw-r-- root/root       190 2017-12-15 08:49 ansible-role-fits-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-15 08:49 ansible-role-fits-master/meta/
+-rw-rw-r-- root/root       429 2017-12-15 08:49 ansible-role-fits-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-15 08:49 ansible-role-fits-master/tasks/
+-rw-rw-r-- root/root       473 2017-12-15 08:49 ansible-role-fits-master/tasks/config-ws.yml
+-rw-rw-r-- root/root       244 2017-12-15 08:49 ansible-role-fits-master/tasks/install-ws.yml
+-rw-rw-r-- root/root       514 2017-12-15 08:49 ansible-role-fits-master/tasks/install.yml
+-rw-rw-r-- root/root       260 2017-12-15 08:49 ansible-role-fits-master/tasks/main.yml

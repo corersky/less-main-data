@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-diamond-master/
+-rw-rw-r-- root/root      1328 2018-06-30 08:23 ansible-role-diamond-master/README.md
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-diamond-master/defaults/
+-rw-rw-r-- root/root        44 2018-06-30 08:23 ansible-role-diamond-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-diamond-master/handlers/
+-rw-rw-r-- root/root        44 2018-06-30 08:23 ansible-role-diamond-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-diamond-master/meta/
+-rw-rw-r-- root/root       308 2018-06-30 08:23 ansible-role-diamond-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-diamond-master/tasks/
+-rw-rw-r-- root/root       171 2018-06-30 08:23 ansible-role-diamond-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-diamond-master/tests/
+-rw-rw-r-- root/root        11 2018-06-30 08:23 ansible-role-diamond-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-06-30 08:23 ansible-role-diamond-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-diamond-master/vars/
+-rw-rw-r-- root/root        40 2018-06-30 08:23 ansible-role-diamond-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-27 18:03 ansible-pulsar-master/
+-rw-rw-r-- root/root      7426 2019-01-27 18:03 ansible-pulsar-master/README.md
+drwxrwxr-x root/root         0 2019-01-27 18:03 ansible-pulsar-master/defaults/
+-rw-rw-r-- root/root      1627 2019-01-27 18:03 ansible-pulsar-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-27 18:03 ansible-pulsar-master/meta/
+-rw-rw-r-- root/root       775 2019-01-27 18:03 ansible-pulsar-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-27 18:03 ansible-pulsar-master/tasks/
+-rw-rw-r-- root/root      2395 2019-01-27 18:03 ansible-pulsar-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-27 18:03 ansible-pulsar-master/templates/
+-rw-rw-r-- root/root        45 2019-01-27 18:03 ansible-pulsar-master/templates/app.yml.j2
+-rw-rw-r-- root/root      3224 2019-01-27 18:03 ansible-pulsar-master/templates/dependency_resolvers_conf.xml.j2
+-rw-rw-r-- root/root       189 2019-01-27 18:03 ansible-pulsar-master/templates/job_managers.ini.j2
+-rw-rw-r-- root/root       117 2019-01-27 18:03 ansible-pulsar-master/templates/job_metrics_conf.xml.j2
+-rw-rw-r-- root/root       848 2019-01-27 18:03 ansible-pulsar-master/templates/local_env.sh.j2
+-rw-rw-r-- root/root      1961 2019-01-27 18:03 ansible-pulsar-master/templates/server.ini.j2

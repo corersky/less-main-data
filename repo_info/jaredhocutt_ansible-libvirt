@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-05 17:24 ansible-libvirt-master/
+-rw-rw-r-- root/root       569 2018-09-05 17:24 ansible-libvirt-master/README.md
+drwxrwxr-x root/root         0 2018-09-05 17:24 ansible-libvirt-master/defaults/
+-rw-rw-r-- root/root        32 2018-09-05 17:24 ansible-libvirt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-05 17:24 ansible-libvirt-master/handlers/
+-rw-rw-r-- root/root        31 2018-09-05 17:24 ansible-libvirt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-05 17:24 ansible-libvirt-master/meta/
+-rw-rw-r-- root/root       212 2018-09-05 17:24 ansible-libvirt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-05 17:24 ansible-libvirt-master/tasks/
+-rw-rw-r-- root/root       690 2018-09-05 17:24 ansible-libvirt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-05 17:24 ansible-libvirt-master/templates/
+-rw-rw-r-- root/root       245 2018-09-05 17:24 ansible-libvirt-master/templates/00-libvirt.rules.j2
+drwxrwxr-x root/root         0 2018-09-05 17:24 ansible-libvirt-master/tests/
+-rw-rw-r-- root/root        11 2018-09-05 17:24 ansible-libvirt-master/tests/inventory
+-rw-rw-r-- root/root        65 2018-09-05 17:24 ansible-libvirt-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-05 17:24 ansible-libvirt-master/vars/
+-rw-rw-r-- root/root        28 2018-09-05 17:24 ansible-libvirt-master/vars/main.yml

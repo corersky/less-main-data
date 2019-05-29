@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-19 18:10 app-postgresql-master/
+-rw-rw-r-- root/root     35149 2018-10-19 18:10 app-postgresql-master/LICENSE
+drwxrwxr-x root/root         0 2018-10-19 18:10 app-postgresql-master/defaults/
+-rw-rw-r-- root/root       747 2018-10-19 18:10 app-postgresql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-19 18:10 app-postgresql-master/handlers/
+-rw-rw-r-- root/root       260 2018-10-19 18:10 app-postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-19 18:10 app-postgresql-master/meta/
+-rw-rw-r-- root/root       272 2018-10-19 18:10 app-postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-19 18:10 app-postgresql-master/tasks/
+-rw-rw-r-- root/root       654 2018-10-19 18:10 app-postgresql-master/tasks/main.yml
+-rw-rw-r-- root/root      1278 2018-10-19 18:10 app-postgresql-master/tasks/ubt-1804-amd64-disabled.yml
+-rw-rw-r-- root/root      1243 2018-10-19 18:10 app-postgresql-master/tasks/ubt-1804-amd64-enabled.yml
+drwxrwxr-x root/root         0 2018-10-19 18:10 app-postgresql-master/templates/
+-rw-rw-r-- root/root     23077 2018-10-19 18:10 app-postgresql-master/templates/postgresql.conf.j2

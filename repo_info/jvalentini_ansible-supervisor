@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-11 20:29 ansible-supervisor-master/
+-rw-rw-r-- root/root      2186 2015-11-11 20:29 ansible-supervisor-master/README.md
+drwxrwxr-x root/root         0 2015-11-11 20:29 ansible-supervisor-master/defaults/
+-rw-rw-r-- root/root       755 2015-11-11 20:29 ansible-supervisor-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2015-11-11 20:29 ansible-supervisor-master/meta/
+-rw-rw-r-- root/root       430 2015-11-11 20:29 ansible-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-11 20:29 ansible-supervisor-master/tasks/
+-rw-rw-r-- root/root      1618 2015-11-11 20:29 ansible-supervisor-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2015-11-11 20:29 ansible-supervisor-master/templates/
+-rw-rw-r-- root/root       211 2015-11-11 20:29 ansible-supervisor-master/templates/supervisor-http.ini.j2
+-rw-rw-r-- root/root        65 2015-11-11 20:29 ansible-supervisor-master/templates/supervisorctl.sh.j2
+-rw-rw-r-- root/root       430 2015-11-11 20:29 ansible-supervisor-master/templates/supervisord.conf.j2
+-rw-rw-r-- root/root        63 2015-11-11 20:29 ansible-supervisor-master/templates/supervisord.sh.j2

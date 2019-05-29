@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-22 10:40 ansible-role-openvpn-master/
+-rw-rw-r-- root/root      1069 2018-11-22 10:40 ansible-role-openvpn-master/LICENSE
+-rw-rw-r-- root/root      1806 2018-11-22 10:40 ansible-role-openvpn-master/README.md
+drwxrwxr-x root/root         0 2018-11-22 10:40 ansible-role-openvpn-master/defaults/
+-rw-rw-r-- root/root       403 2018-11-22 10:40 ansible-role-openvpn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-22 10:40 ansible-role-openvpn-master/handlers/
+-rw-rw-r-- root/root       164 2018-11-22 10:40 ansible-role-openvpn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-22 10:40 ansible-role-openvpn-master/meta/
+-rw-rw-r-- root/root       389 2018-11-22 10:40 ansible-role-openvpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-22 10:40 ansible-role-openvpn-master/tasks/
+-rw-rw-r-- root/root      1039 2018-11-22 10:40 ansible-role-openvpn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-22 10:40 ansible-role-openvpn-master/templates/
+-rw-rw-r-- root/root       268 2018-11-22 10:40 ansible-role-openvpn-master/templates/config.j2
+drwxrwxr-x root/root         0 2018-11-22 10:40 ansible-role-openvpn-master/vars/
+-rw-rw-r-- root/root       145 2018-11-22 10:40 ansible-role-openvpn-master/vars/RedHat-7.yml

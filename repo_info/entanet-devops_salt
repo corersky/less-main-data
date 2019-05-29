@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-22 09:49 salt-master/
+-rw-rw-r-- root/root       178 2018-11-22 09:49 salt-master/README.md
+drwxrwxr-x root/root         0 2018-11-22 09:49 salt-master/defaults/
+-rw-rw-r-- root/root        66 2018-11-22 09:49 salt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-22 09:49 salt-master/handlers/
+-rw-rw-r-- root/root        28 2018-11-22 09:49 salt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-22 09:49 salt-master/meta/
+-rw-rw-r-- root/root       199 2018-11-22 09:49 salt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-22 09:49 salt-master/tasks/
+-rw-rw-r-- root/root       444 2018-11-22 09:49 salt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-22 09:49 salt-master/tests/
+-rw-rw-r-- root/root        11 2018-11-22 09:49 salt-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-11-22 09:49 salt-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-22 09:49 salt-master/vars/
+-rw-rw-r-- root/root        24 2018-11-22 09:49 salt-master/vars/main.yml

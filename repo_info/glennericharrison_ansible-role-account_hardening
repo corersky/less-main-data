@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-19 15:10 ansible-role-account_hardening-master/
+-rw-rw-r-- root/root      1352 2017-10-19 15:10 ansible-role-account_hardening-master/README.md
+drwxrwxr-x root/root         0 2017-10-19 15:10 ansible-role-account_hardening-master/defaults/
+-rw-rw-r-- root/root        42 2017-10-19 15:10 ansible-role-account_hardening-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-19 15:10 ansible-role-account_hardening-master/handlers/
+-rw-rw-r-- root/root        42 2017-10-19 15:10 ansible-role-account_hardening-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-19 15:10 ansible-role-account_hardening-master/meta/
+-rw-rw-r-- root/root      1765 2017-10-19 15:10 ansible-role-account_hardening-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-19 15:10 ansible-role-account_hardening-master/tasks/
+-rw-rw-r-- root/root      3528 2017-10-19 15:10 ansible-role-account_hardening-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-19 15:10 ansible-role-account_hardening-master/tests/
+-rw-rw-r-- root/root        11 2017-10-19 15:10 ansible-role-account_hardening-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-10-19 15:10 ansible-role-account_hardening-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-19 15:10 ansible-role-account_hardening-master/vars/
+-rw-rw-r-- root/root       214 2017-10-19 15:10 ansible-role-account_hardening-master/vars/main.yml

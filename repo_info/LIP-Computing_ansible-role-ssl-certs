@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-07 07:45 ansible-role-ssl-certs-master/
+-rw-rw-r-- root/root       432 2018-05-07 07:45 ansible-role-ssl-certs-master/.travis.yml
+-rw-rw-r-- root/root      1297 2018-05-07 07:45 ansible-role-ssl-certs-master/LICENSE
+-rw-rw-r-- root/root      3125 2018-05-07 07:45 ansible-role-ssl-certs-master/README.md
+-rw-rw-r-- root/root        28 2018-05-07 07:45 ansible-role-ssl-certs-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-05-07 07:45 ansible-role-ssl-certs-master/defaults/
+-rw-rw-r-- root/root      1261 2018-05-07 07:45 ansible-role-ssl-certs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-07 07:45 ansible-role-ssl-certs-master/meta/
+-rw-rw-r-- root/root       356 2018-05-07 07:45 ansible-role-ssl-certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-07 07:45 ansible-role-ssl-certs-master/tasks/
+-rw-rw-r-- root/root       159 2018-05-07 07:45 ansible-role-ssl-certs-master/tasks/Alpine.yml
+-rw-rw-r-- root/root       158 2018-05-07 07:45 ansible-role-ssl-certs-master/tasks/Debian.yml
+-rw-rw-r-- root/root       159 2018-05-07 07:45 ansible-role-ssl-certs-master/tasks/RedHat.yml
+-rw-rw-r-- root/root      1206 2018-05-07 07:45 ansible-role-ssl-certs-master/tasks/generate.yml
+-rw-rw-r-- root/root      2925 2018-05-07 07:45 ansible-role-ssl-certs-master/tasks/main.yml
+-rw-rw-r-- root/root        78 2018-05-07 07:45 ansible-role-ssl-certs-master/test.yml

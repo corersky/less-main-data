@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-11-22 07:35 ansible-role-boot-master/
+-rw-rw-r-- root/root       367 2016-11-22 07:35 ansible-role-boot-master/.travis.yml
+-rw-rw-r-- root/root      1306 2016-11-22 07:35 ansible-role-boot-master/README.rst
+drwxrwxr-x root/root         0 2016-11-22 07:35 ansible-role-boot-master/defaults/
+-rw-rw-r-- root/root       221 2016-11-22 07:35 ansible-role-boot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-22 07:35 ansible-role-boot-master/meta/
+-rw-rw-r-- root/root       342 2016-11-22 07:35 ansible-role-boot-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-22 07:35 ansible-role-boot-master/tasks/
+-rw-rw-r-- root/root      1336 2016-11-22 07:35 ansible-role-boot-master/tasks/lxc.yml
+-rw-rw-r-- root/root      2542 2016-11-22 07:35 ansible-role-boot-master/tasks/lxd.yml
+-rw-rw-r-- root/root      2045 2016-11-22 07:35 ansible-role-boot-master/tasks/main.yml
+-rw-rw-r-- root/root       437 2016-11-22 07:35 ansible-role-boot-master/test.yml

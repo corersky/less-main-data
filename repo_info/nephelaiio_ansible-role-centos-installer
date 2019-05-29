@@ -1,0 +1,34 @@
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/
+-rw-rw-r-- root/root       127 2019-05-21 15:47 ansible-role-centos-installer-master/.flake8
+-rw-rw-r-- root/root        82 2019-05-21 15:47 ansible-role-centos-installer-master/.gitignore
+-rw-rw-r-- root/root       309 2019-05-21 15:47 ansible-role-centos-installer-master/.travis.yml
+-rw-rw-r-- root/root       171 2019-05-21 15:47 ansible-role-centos-installer-master/.yamllint
+-rw-rw-r-- root/root      1053 2019-05-21 15:47 ansible-role-centos-installer-master/LICENSE
+-rw-rw-r-- root/root      1362 2019-05-21 15:47 ansible-role-centos-installer-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/defaults/
+-rw-rw-r-- root/root      1147 2019-05-21 15:47 ansible-role-centos-installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/handlers/
+-rw-rw-r-- root/root       171 2019-05-21 15:47 ansible-role-centos-installer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/meta/
+-rw-rw-r-- root/root       459 2019-05-21 15:47 ansible-role-centos-installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/
+-rw-rw-r-- root/root       887 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       327 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       188 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        67 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/prepare.yml
+lrwxrwxrwx root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/roles/
+lrwxrwxrwx root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/molecule/default/roles/centos-installer -> ../../../
+-rw-rw-r-- root/root        30 2019-05-21 15:47 ansible-role-centos-installer-master/requirements.yml
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/tasks/
+-rw-rw-r-- root/root      5041 2019-05-21 15:47 ansible-role-centos-installer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/templates/
+-rw-rw-r-- root/root       134 2019-05-21 15:47 ansible-role-centos-installer-master/templates/isolinux.cfg.j2
+-rw-rw-r-- root/root      2018 2019-05-21 15:47 ansible-role-centos-installer-master/templates/kickstart.centos.j2
+drwxrwxr-x root/root         0 2019-05-21 15:47 ansible-role-centos-installer-master/vars/
+-rw-rw-r-- root/root        79 2019-05-21 15:47 ansible-role-centos-installer-master/vars/Archlinux.yml
+-rw-rw-r-- root/root       135 2019-05-21 15:47 ansible-role-centos-installer-master/vars/Ubuntu.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-29 16:35 ansible-role-swapfile-master/
+-rw-rw-r-- root/root        93 2018-05-29 16:35 ansible-role-swapfile-master/.editorconfig
+-rw-rw-r-- root/root      1298 2018-05-29 16:35 ansible-role-swapfile-master/.gitignore
+-rw-rw-r-- root/root       542 2018-05-29 16:35 ansible-role-swapfile-master/.travis.yml
+-rw-rw-r-- root/root      1008 2018-05-29 16:35 ansible-role-swapfile-master/README.md
+drwxrwxr-x root/root         0 2018-05-29 16:35 ansible-role-swapfile-master/defaults/
+-rw-rw-r-- root/root       130 2018-05-29 16:35 ansible-role-swapfile-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-29 16:35 ansible-role-swapfile-master/handlers/
+-rw-rw-r-- root/root        51 2018-05-29 16:35 ansible-role-swapfile-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-29 16:35 ansible-role-swapfile-master/meta/
+-rw-rw-r-- root/root      1840 2018-05-29 16:35 ansible-role-swapfile-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-29 16:35 ansible-role-swapfile-master/tasks/
+-rw-rw-r-- root/root      1604 2018-05-29 16:35 ansible-role-swapfile-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-29 16:35 ansible-role-swapfile-master/tests/
+-rw-rw-r-- root/root        11 2018-05-29 16:35 ansible-role-swapfile-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-05-29 16:35 ansible-role-swapfile-master/tests/test.yml

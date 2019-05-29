@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-13 23:03 ansible-timezone-master/
+-rw-rw-r-- root/root         8 2018-05-13 23:03 ansible-timezone-master/.gitignore
+-rw-rw-r-- root/root      1048 2018-05-13 23:03 ansible-timezone-master/LICENSE
+-rw-rw-r-- root/root       942 2018-05-13 23:03 ansible-timezone-master/README.md
+drwxrwxr-x root/root         0 2018-05-13 23:03 ansible-timezone-master/defaults/
+-rw-rw-r-- root/root        29 2018-05-13 23:03 ansible-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-13 23:03 ansible-timezone-master/meta/
+-rw-rw-r-- root/root       289 2018-05-13 23:03 ansible-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-13 23:03 ansible-timezone-master/tasks/
+-rw-rw-r-- root/root       871 2018-05-13 23:03 ansible-timezone-master/tasks/RedHat.yml
+-rw-rw-r-- root/root        51 2018-05-13 23:03 ansible-timezone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-13 23:03 ansible-timezone-master/tests/
+-rw-rw-r-- root/root        11 2018-05-13 23:03 ansible-timezone-master/tests/inventory
+-rw-rw-r-- root/root       116 2018-05-13 23:03 ansible-timezone-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-13 23:03 ansible-timezone-master/vars/
+-rw-rw-r-- root/root       114 2018-05-13 23:03 ansible-timezone-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-08 10:28 ansible-sshkeys-master/
+-rw-rw-r-- root/root     35149 2019-03-08 10:28 ansible-sshkeys-master/LICENSE
+-rw-rw-r-- root/root      1181 2019-03-08 10:28 ansible-sshkeys-master/README.md
+-rw-rw-r-- root/root        29 2019-03-08 10:28 ansible-sshkeys-master/hosts
+drwxrwxr-x root/root         0 2019-03-08 10:28 ansible-sshkeys-master/install/
+drwxrwxr-x root/root         0 2019-03-08 10:28 ansible-sshkeys-master/install/roles/
+drwxrwxr-x root/root         0 2019-03-08 10:28 ansible-sshkeys-master/install/roles/sshkeys/
+drwxrwxr-x root/root         0 2019-03-08 10:28 ansible-sshkeys-master/install/roles/sshkeys/files/
+-rw-rw-r-- root/root         0 2019-03-08 10:28 ansible-sshkeys-master/install/roles/sshkeys/files/authorized_keys
+drwxrwxr-x root/root         0 2019-03-08 10:28 ansible-sshkeys-master/install/roles/sshkeys/tasks/
+-rw-rw-r-- root/root       565 2019-03-08 10:28 ansible-sshkeys-master/install/roles/sshkeys/tasks/main.yml
+-rw-rw-r-- root/root       117 2019-03-08 10:28 ansible-sshkeys-master/install/sshkeys.yml
+drwxrwxr-x root/root         0 2019-03-08 10:28 ansible-sshkeys-master/meta/
+-rw-rw-r-- root/root       388 2019-03-08 10:28 ansible-sshkeys-master/meta/main.yml

@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/
+-rw-rw-r-- root/root         6 2015-08-18 16:38 ansible-cloudconfig-master/.gitignore
+-rw-rw-r-- root/root      1071 2015-08-18 16:38 ansible-cloudconfig-master/Dockerfile
+-rw-rw-r-- root/root      1731 2015-08-18 16:38 ansible-cloudconfig-master/Makefile
+-rw-rw-r-- root/root      3691 2015-08-18 16:38 ansible-cloudconfig-master/README.md
+-rw-rw-r-- root/root       212 2015-08-18 16:38 ansible-cloudconfig-master/ansible.profile
+drwxrwxr-x root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/defaults/
+-rw-rw-r-- root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/files/
+-rwxrwxr-x root/root       779 2015-08-18 16:38 ansible-cloudconfig-master/files/get_build_url.sh
+drwxrwxr-x root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/files/library/
+-rw-rw-r-- root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/files/library/__init__.py
+-rw-rw-r-- root/root     14743 2015-08-18 16:38 ansible-cloudconfig-master/files/library/cloudconfig_user.py
+-rw-rw-r-- root/root     35147 2015-08-18 16:38 ansible-cloudconfig-master/gpl.txt
+-rwxrwxr-x root/root       129 2015-08-18 16:38 ansible-cloudconfig-master/init_ansible_env.sh
+-rw-rw-r-- root/root       198 2015-08-18 16:38 ansible-cloudconfig-master/install
+-rw-rw-r-- root/root      2482 2015-08-18 16:38 ansible-cloudconfig-master/install.yml
+lrwxrwxrwx root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/library -> files/library
+-rw-rw-r-- root/root       749 2015-08-18 16:38 ansible-cloudconfig-master/license.readme
+drwxrwxr-x root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/meta/
+-rw-rw-r-- root/root       519 2015-08-18 16:38 ansible-cloudconfig-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-18 16:38 ansible-cloudconfig-master/tasks/
+-rw-rw-r-- root/root       734 2015-08-18 16:38 ansible-cloudconfig-master/tasks/main.yml

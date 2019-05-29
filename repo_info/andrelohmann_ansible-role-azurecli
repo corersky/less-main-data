@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-16 01:32 ansible-role-azurecli-master/
+-rw-rw-r-- root/root        28 2019-05-16 01:32 ansible-role-azurecli-master/.gitignore
+-rw-rw-r-- root/root       689 2019-05-16 01:32 ansible-role-azurecli-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 01:32 ansible-role-azurecli-master/LICENSE
+-rw-rw-r-- root/root       472 2019-05-16 01:32 ansible-role-azurecli-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 01:32 ansible-role-azurecli-master/meta/
+-rw-rw-r-- root/root       318 2019-05-16 01:32 ansible-role-azurecli-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 01:32 ansible-role-azurecli-master/tasks/
+-rw-rw-r-- root/root       815 2019-05-16 01:32 ansible-role-azurecli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 01:32 ansible-role-azurecli-master/tests/
+-rw-rw-r-- root/root         9 2019-05-16 01:32 ansible-role-azurecli-master/tests/inventory
+-rw-rw-r-- root/root       102 2019-05-16 01:32 ansible-role-azurecli-master/tests/test.yml

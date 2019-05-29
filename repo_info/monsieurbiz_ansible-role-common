@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-07 11:03 ansible-role-common-master/
+-rw-rw-r-- root/root       539 2016-11-07 11:03 ansible-role-common-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-11-07 11:03 ansible-role-common-master/LICENSE
+-rw-rw-r-- root/root       441 2016-11-07 11:03 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2016-11-07 11:03 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root       473 2016-11-07 11:03 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-07 11:03 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       450 2016-11-07 11:03 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-07 11:03 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root       560 2016-11-07 11:03 ansible-role-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-07 11:03 ansible-role-common-master/tests/
+-rw-rw-r-- root/root         9 2016-11-07 11:03 ansible-role-common-master/tests/.gitignore
+-rw-rw-r-- root/root      1509 2016-11-07 11:03 ansible-role-common-master/tests/Vagrantfile
+-rw-rw-r-- root/root        21 2016-11-07 11:03 ansible-role-common-master/tests/inventory
+drwxrwxr-x root/root         0 2016-11-07 11:03 ansible-role-common-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-11-07 11:03 ansible-role-common-master/tests/roles/monsieurbiz.common -> ../../
+-rw-rw-r-- root/root        75 2016-11-07 11:03 ansible-role-common-master/tests/test.yml

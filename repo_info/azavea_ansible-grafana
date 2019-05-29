@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2015-03-03 14:16 ansible-grafana-master/
+-rw-rw-r-- root/root       306 2015-03-03 14:16 ansible-grafana-master/.gitignore
+-rw-rw-r-- root/root        29 2015-03-03 14:16 ansible-grafana-master/CHANGELOG.md
+-rw-rw-r-- root/root       680 2015-03-03 14:16 ansible-grafana-master/README.md
+drwxrwxr-x root/root         0 2015-03-03 14:16 ansible-grafana-master/defaults/
+-rw-rw-r-- root/root       225 2015-03-03 14:16 ansible-grafana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-03 14:16 ansible-grafana-master/examples/
+-rw-rw-r-- root/root       994 2015-03-03 14:16 ansible-grafana-master/examples/Vagrantfile
+-rw-rw-r-- root/root        68 2015-03-03 14:16 ansible-grafana-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-03-03 14:16 ansible-grafana-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-03-03 14:16 ansible-grafana-master/examples/roles/azavea.grafana -> ../../
+-rw-rw-r-- root/root      1053 2015-03-03 14:16 ansible-grafana-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-03-03 14:16 ansible-grafana-master/examples/templates/
+-rw-rw-r-- root/root        61 2015-03-03 14:16 ansible-grafana-master/examples/templates/df.conf.j2
+-rw-rw-r-- root/root       106 2015-03-03 14:16 ansible-grafana-master/examples/templates/grafana-site.conf.j2
+-rw-rw-r-- root/root       126 2015-03-03 14:16 ansible-grafana-master/examples/templates/write_graphite.conf.j2
+drwxrwxr-x root/root         0 2015-03-03 14:16 ansible-grafana-master/meta/
+-rw-rw-r-- root/root       347 2015-03-03 14:16 ansible-grafana-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-03 14:16 ansible-grafana-master/tasks/
+-rw-rw-r-- root/root       556 2015-03-03 14:16 ansible-grafana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-03 14:16 ansible-grafana-master/templates/
+-rw-rw-r-- root/root      2033 2015-03-03 14:16 ansible-grafana-master/templates/config.js.j2

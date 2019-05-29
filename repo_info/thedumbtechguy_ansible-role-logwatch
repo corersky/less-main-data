@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-05-12 08:18 ansible-role-logwatch-master/
+-rw-rw-r-- root/root      1252 2017-05-12 08:18 ansible-role-logwatch-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 08:18 ansible-role-logwatch-master/defaults/
+-rw-rw-r-- root/root       172 2017-05-12 08:18 ansible-role-logwatch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:18 ansible-role-logwatch-master/meta/
+-rw-rw-r-- root/root       349 2017-05-12 08:18 ansible-role-logwatch-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:18 ansible-role-logwatch-master/tasks/
+-rw-rw-r-- root/root       355 2017-05-12 08:18 ansible-role-logwatch-master/tasks/logwatch.yml
+-rw-rw-r-- root/root        65 2017-05-12 08:18 ansible-role-logwatch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:18 ansible-role-logwatch-master/templates/
+-rw-rw-r-- root/root       362 2017-05-12 08:18 ansible-role-logwatch-master/templates/logwatch.conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-26 15:52 base_cplusplus-master/
+-rw-rw-r-- root/root       834 2017-10-26 15:52 base_cplusplus-master/.gitignore
+-rw-rw-r-- root/root       290 2017-10-26 15:52 base_cplusplus-master/.travis.yml
+-rw-rw-r-- root/root      1036 2017-10-26 15:52 base_cplusplus-master/.yamllint
+-rw-rw-r-- root/root      1076 2017-10-26 15:52 base_cplusplus-master/LICENSE
+-rw-rw-r-- root/root       447 2017-10-26 15:52 base_cplusplus-master/README.md
+drwxrwxr-x root/root         0 2017-10-26 15:52 base_cplusplus-master/meta/
+-rw-rw-r-- root/root       338 2017-10-26 15:52 base_cplusplus-master/meta/main.yml
+-rw-rw-r-- root/root       229 2017-10-26 15:52 base_cplusplus-master/molecule.yml
+-rw-rw-r-- root/root        53 2017-10-26 15:52 base_cplusplus-master/playbook.yml
+-rw-rw-r-- root/root       126 2017-10-26 15:52 base_cplusplus-master/requirements.txt
+drwxrwxr-x root/root         0 2017-10-26 15:52 base_cplusplus-master/tasks/
+-rw-rw-r-- root/root       542 2017-10-26 15:52 base_cplusplus-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-26 15:52 base_cplusplus-master/templates/
+-rw-rw-r-- root/root        36 2017-10-26 15:52 base_cplusplus-master/templates/test_cplusplus.yml
+drwxrwxr-x root/root         0 2017-10-26 15:52 base_cplusplus-master/vars/
+-rw-rw-r-- root/root       413 2017-10-26 15:52 base_cplusplus-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-05-08 01:10 ansible-upstart-master/
+-rw-rw-r-- root/root      1066 2015-05-08 01:10 ansible-upstart-master/LICENSE
+-rw-rw-r-- root/root      2018 2015-05-08 01:10 ansible-upstart-master/README.md
+drwxrwxr-x root/root         0 2015-05-08 01:10 ansible-upstart-master/defaults/
+-rw-rw-r-- root/root       722 2015-05-08 01:10 ansible-upstart-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-08 01:10 ansible-upstart-master/meta/
+-rw-rw-r-- root/root       484 2015-05-08 01:10 ansible-upstart-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-08 01:10 ansible-upstart-master/tasks/
+-rw-rw-r-- root/root       364 2015-05-08 01:10 ansible-upstart-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-08 01:10 ansible-upstart-master/templates/
+drwxrwxr-x root/root         0 2015-05-08 01:10 ansible-upstart-master/templates/etc/
+drwxrwxr-x root/root         0 2015-05-08 01:10 ansible-upstart-master/templates/etc/init/
+-rw-rw-r-- root/root      1563 2015-05-08 01:10 ansible-upstart-master/templates/etc/init/template

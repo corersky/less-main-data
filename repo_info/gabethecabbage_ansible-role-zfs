@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-15 05:15 ansible-role-zfs-master/
+-rw-rw-r-- root/root      1018 2017-12-15 05:15 ansible-role-zfs-master/README.md
+drwxrwxr-x root/root         0 2017-12-15 05:15 ansible-role-zfs-master/defaults/
+-rw-rw-r-- root/root        71 2017-12-15 05:15 ansible-role-zfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-15 05:15 ansible-role-zfs-master/handlers/
+-rw-rw-r-- root/root       161 2017-12-15 05:15 ansible-role-zfs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-15 05:15 ansible-role-zfs-master/meta/
+-rw-rw-r-- root/root        60 2017-12-15 05:15 ansible-role-zfs-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       387 2017-12-15 05:15 ansible-role-zfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-15 05:15 ansible-role-zfs-master/tasks/
+-rw-rw-r-- root/root       388 2017-12-15 05:15 ansible-role-zfs-master/tasks/main.yml
+-rw-rw-r-- root/root      1024 2017-12-15 05:15 ansible-role-zfs-master/tasks/rhel.yml
+-rw-rw-r-- root/root        96 2017-12-15 05:15 ansible-role-zfs-master/tasks/ubuntu_16.yml
+-rw-rw-r-- root/root        89 2017-12-15 05:15 ansible-role-zfs-master/tasks/ubuntu_17+.yml
+drwxrwxr-x root/root         0 2017-12-15 05:15 ansible-role-zfs-master/templates/
+-rw-rw-r-- root/root       869 2017-12-15 05:15 ansible-role-zfs-master/templates/zfs.repo.j2

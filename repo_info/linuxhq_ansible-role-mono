@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-20 18:42 ansible-role-mono-master/
+-rw-rw-r-- root/root       331 2019-01-20 18:42 ansible-role-mono-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 18:42 ansible-role-mono-master/COPYING
+-rw-rw-r-- root/root      1830 2019-01-20 18:42 ansible-role-mono-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 18:42 ansible-role-mono-master/defaults/
+-rw-rw-r-- root/root       328 2019-01-20 18:42 ansible-role-mono-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:42 ansible-role-mono-master/meta/
+-rw-rw-r-- root/root       287 2019-01-20 18:42 ansible-role-mono-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:42 ansible-role-mono-master/tasks/
+-rw-rw-r-- root/root      1582 2019-01-20 18:42 ansible-role-mono-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:42 ansible-role-mono-master/templates/
+-rw-rw-r-- root/root       321 2019-01-20 18:42 ansible-role-mono-master/templates/mono-repository-stable.repo.j2
+drwxrwxr-x root/root         0 2019-01-20 18:42 ansible-role-mono-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 18:42 ansible-role-mono-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-01-20 18:42 ansible-role-mono-master/tests/test.yml

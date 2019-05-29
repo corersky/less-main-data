@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-30 10:12 ansible-pam-master/
+-rw-rw-r-- root/root         0 2016-06-30 10:12 ansible-pam-master/.gitignore
+-rw-rw-r-- root/root      1075 2016-06-30 10:12 ansible-pam-master/LICENSE
+-rw-rw-r-- root/root      3141 2016-06-30 10:12 ansible-pam-master/README.md
+drwxrwxr-x root/root         0 2016-06-30 10:12 ansible-pam-master/defaults/
+-rw-rw-r-- root/root       310 2016-06-30 10:12 ansible-pam-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-06-30 10:12 ansible-pam-master/meta/
+-rw-rw-r-- root/root       255 2016-06-30 10:12 ansible-pam-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-30 10:12 ansible-pam-master/tasks/
+-rw-rw-r-- root/root       355 2016-06-30 10:12 ansible-pam-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-06-30 10:12 ansible-pam-master/templates/
+-rw-rw-r-- root/root        63 2016-06-30 10:12 ansible-pam-master/templates/pam.conf.j2

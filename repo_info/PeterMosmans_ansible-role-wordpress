@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-14 23:08 ansible-role-wordpress-master/
+-rw-rw-r-- root/root        40 2016-12-14 23:08 ansible-role-wordpress-master/.gitignore
+-rw-rw-r-- root/root       927 2016-12-14 23:08 ansible-role-wordpress-master/.travis.yml
+-rw-rw-r-- root/root     35141 2016-12-14 23:08 ansible-role-wordpress-master/LICENSE
+-rw-rw-r-- root/root      2270 2016-12-14 23:08 ansible-role-wordpress-master/README.md
+drwxrwxr-x root/root         0 2016-12-14 23:08 ansible-role-wordpress-master/defaults/
+-rw-rw-r-- root/root       355 2016-12-14 23:08 ansible-role-wordpress-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-14 23:08 ansible-role-wordpress-master/meta/
+-rw-rw-r-- root/root      3261 2016-12-14 23:08 ansible-role-wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-14 23:08 ansible-role-wordpress-master/tasks/
+-rw-rw-r-- root/root      3031 2016-12-14 23:08 ansible-role-wordpress-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-14 23:08 ansible-role-wordpress-master/templates/
+-rw-rw-r-- root/root      2836 2016-12-14 23:08 ansible-role-wordpress-master/templates/wp-config.php.j2
+drwxrwxr-x root/root         0 2016-12-14 23:08 ansible-role-wordpress-master/tests/
+-rw-rw-r-- root/root        10 2016-12-14 23:08 ansible-role-wordpress-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-12-14 23:08 ansible-role-wordpress-master/tests/test.yml

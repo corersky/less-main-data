@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-01 01:16 ansible-role-python-master/
+-rw-rw-r-- root/root      1345 2017-05-01 01:16 ansible-role-python-master/.travis.yml
+-rw-rw-r-- root/root       454 2017-05-01 01:16 ansible-role-python-master/README.md
+drwxrwxr-x root/root         0 2017-05-01 01:16 ansible-role-python-master/meta/
+-rw-rw-r-- root/root       312 2017-05-01 01:16 ansible-role-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-01 01:16 ansible-role-python-master/tasks/
+-rw-rw-r-- root/root       312 2017-05-01 01:16 ansible-role-python-master/tasks/install-Alpine.yml
+-rw-rw-r-- root/root       740 2017-05-01 01:16 ansible-role-python-master/tasks/install-RedHat.yml
+-rw-rw-r-- root/root        63 2017-05-01 01:16 ansible-role-python-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-01 01:16 ansible-role-python-master/tests/
+-rw-rw-r-- root/root         9 2017-05-01 01:16 ansible-role-python-master/tests/inventory
+-rw-rw-r-- root/root        88 2017-05-01 01:16 ansible-role-python-master/tests/test.yml

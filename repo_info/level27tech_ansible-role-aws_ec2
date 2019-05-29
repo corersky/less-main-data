@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-12-15 05:41 ansible-role-aws_ec2-master/
+-rw-rw-r-- root/root       526 2017-12-15 05:41 ansible-role-aws_ec2-master/AnsibleEC2Policy.json
+-rw-rw-r-- root/root       630 2017-12-15 05:41 ansible-role-aws_ec2-master/AnsibleRoute53Policy.json
+-rw-rw-r-- root/root     35147 2017-12-15 05:41 ansible-role-aws_ec2-master/LICENSE
+-rw-rw-r-- root/root      3187 2017-12-15 05:41 ansible-role-aws_ec2-master/README.md
+drwxrwxr-x root/root         0 2017-12-15 05:41 ansible-role-aws_ec2-master/defaults/
+-rw-rw-r-- root/root      1315 2017-12-15 05:41 ansible-role-aws_ec2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-15 05:41 ansible-role-aws_ec2-master/meta/
+-rw-rw-r-- root/root      1706 2017-12-15 05:41 ansible-role-aws_ec2-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-15 05:41 ansible-role-aws_ec2-master/tasks/
+-rw-rw-r-- root/root      3420 2017-12-15 05:41 ansible-role-aws_ec2-master/tasks/main.yml

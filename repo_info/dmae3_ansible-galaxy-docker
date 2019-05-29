@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-19 01:14 ansible-galaxy-docker-master/
+-rw-rw-r-- root/root       610 2017-10-19 01:14 ansible-galaxy-docker-master/README.md
+drwxrwxr-x root/root         0 2017-10-19 01:14 ansible-galaxy-docker-master/defaults/
+-rw-rw-r-- root/root        41 2017-10-19 01:14 ansible-galaxy-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:14 ansible-galaxy-docker-master/handlers/
+-rw-rw-r-- root/root        94 2017-10-19 01:14 ansible-galaxy-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:14 ansible-galaxy-docker-master/meta/
+-rw-rw-r-- root/root       227 2017-10-19 01:14 ansible-galaxy-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:14 ansible-galaxy-docker-master/tasks/
+-rw-rw-r-- root/root       634 2017-10-19 01:14 ansible-galaxy-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:14 ansible-galaxy-docker-master/templates/
+-rw-rw-r-- root/root       156 2017-10-19 01:14 ansible-galaxy-docker-master/templates/docker.repo.j2
+drwxrwxr-x root/root         0 2017-10-19 01:14 ansible-galaxy-docker-master/tests/
+-rw-rw-r-- root/root        66 2017-10-19 01:14 ansible-galaxy-docker-master/tests/test.yml

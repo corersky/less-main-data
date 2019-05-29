@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-23 04:09 ansible-role-mantisbt-master/
+-rw-rw-r-- root/root      1080 2015-12-23 04:09 ansible-role-mantisbt-master/LICENSE
+-rw-rw-r-- root/root      1274 2015-12-23 04:09 ansible-role-mantisbt-master/README.md
+drwxrwxr-x root/root         0 2015-12-23 04:09 ansible-role-mantisbt-master/defaults/
+-rw-rw-r-- root/root       331 2015-12-23 04:09 ansible-role-mantisbt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-23 04:09 ansible-role-mantisbt-master/meta/
+-rw-rw-r-- root/root       326 2015-12-23 04:09 ansible-role-mantisbt-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-23 04:09 ansible-role-mantisbt-master/tasks/
+-rw-rw-r-- root/root       864 2015-12-23 04:09 ansible-role-mantisbt-master/tasks/db.yml
+-rw-rw-r-- root/root       787 2015-12-23 04:09 ansible-role-mantisbt-master/tasks/download.yml
+-rw-rw-r-- root/root        74 2015-12-23 04:09 ansible-role-mantisbt-master/tasks/main.yml
+-rw-rw-r-- root/root       268 2015-12-23 04:09 ansible-role-mantisbt-master/tasks/post-install.yml
+drwxrwxr-x root/root         0 2015-12-23 04:09 ansible-role-mantisbt-master/templates/
+-rw-rw-r-- root/root       273 2015-12-23 04:09 ansible-role-mantisbt-master/templates/config_inc.php.j2
+-rw-rw-r-- root/root     29877 2015-12-23 04:09 ansible-role-mantisbt-master/templates/install.sql.j2
+drwxrwxr-x root/root         0 2015-12-23 04:09 ansible-role-mantisbt-master/vars/
+-rw-rw-r-- root/root       192 2015-12-23 04:09 ansible-role-mantisbt-master/vars/main.yml

@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2016-02-19 07:24 ansible-nexus-master/
+-rw-rw-r-- root/root      1079 2016-02-19 07:24 ansible-nexus-master/LICENSE
+-rw-rw-r-- root/root      1185 2016-02-19 07:24 ansible-nexus-master/README.md
+drwxrwxr-x root/root         0 2016-02-19 07:24 ansible-nexus-master/defaults/
+-rw-rw-r-- root/root       426 2016-02-19 07:24 ansible-nexus-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-19 07:24 ansible-nexus-master/handlers/
+-rw-rw-r-- root/root       203 2016-02-19 07:24 ansible-nexus-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-19 07:24 ansible-nexus-master/meta/
+-rw-rw-r-- root/root       238 2016-02-19 07:24 ansible-nexus-master/meta/main.yml
+-rw-rw-r-- root/root       109 2016-02-19 07:24 ansible-nexus-master/playbook.yml
+drwxrwxr-x root/root         0 2016-02-19 07:24 ansible-nexus-master/roles/
+lrwxrwxrwx root/root         0 2016-02-19 07:24 ansible-nexus-master/roles/jhinrichsen.nexus -> ..
+drwxrwxr-x root/root         0 2016-02-19 07:24 ansible-nexus-master/tasks/
+-rw-rw-r-- root/root      3682 2016-02-19 07:24 ansible-nexus-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-19 07:24 ansible-nexus-master/templates/
+-rw-rw-r-- root/root     14663 2016-02-19 07:24 ansible-nexus-master/templates/init-nexus.j2
+-rw-rw-r-- root/root         5 2016-02-19 07:24 ansible-nexus-master/test.txt
+drwxrwxr-x root/root         0 2016-02-19 07:24 ansible-nexus-master/vars/
+-rw-rw-r-- root/root        51 2016-02-19 07:24 ansible-nexus-master/vars/main.yml

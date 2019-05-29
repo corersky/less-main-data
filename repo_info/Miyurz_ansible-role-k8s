@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-24 06:51 ansible-role-k8s-master/
+-rw-rw-r-- root/root      1328 2017-04-24 06:51 ansible-role-k8s-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 06:51 ansible-role-k8s-master/defaults/
+-rw-rw-r-- root/root       191 2017-04-24 06:51 ansible-role-k8s-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-24 06:51 ansible-role-k8s-master/handlers/
+-rw-rw-r-- root/root        32 2017-04-24 06:51 ansible-role-k8s-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-24 06:51 ansible-role-k8s-master/meta/
+-rw-rw-r-- root/root      1894 2017-04-24 06:51 ansible-role-k8s-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 06:51 ansible-role-k8s-master/tasks/
+-rw-rw-r-- root/root       725 2017-04-24 06:51 ansible-role-k8s-master/tasks/darwin.yml
+-rw-rw-r-- root/root       724 2017-04-24 06:51 ansible-role-k8s-master/tasks/linux.yml
+-rw-rw-r-- root/root       190 2017-04-24 06:51 ansible-role-k8s-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 06:51 ansible-role-k8s-master/tests/
+-rw-rw-r-- root/root        11 2017-04-24 06:51 ansible-role-k8s-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-04-24 06:51 ansible-role-k8s-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-24 06:51 ansible-role-k8s-master/vars/
+-rw-rw-r-- root/root        30 2017-04-24 06:51 ansible-role-k8s-master/vars/main.yml

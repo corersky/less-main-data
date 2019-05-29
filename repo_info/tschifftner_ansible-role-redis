@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-25 04:42 ansible-role-redis-master/
+-rw-rw-r-- root/root        38 2018-07-25 04:42 ansible-role-redis-master/.gitignore
+-rwxrwxr-x root/root      1095 2018-07-25 04:42 ansible-role-redis-master/.travis.yml
+-rwxrwxr-x root/root      1089 2018-07-25 04:42 ansible-role-redis-master/LICENSE.txt
+-rwxrwxr-x root/root       896 2018-07-25 04:42 ansible-role-redis-master/README.md
+drwxrwxr-x root/root         0 2018-07-25 04:42 ansible-role-redis-master/defaults/
+-rw-rw-r-- root/root       282 2018-07-25 04:42 ansible-role-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-25 04:42 ansible-role-redis-master/meta/
+-rwxrwxr-x root/root       439 2018-07-25 04:42 ansible-role-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-25 04:42 ansible-role-redis-master/tasks/
+-rw-rw-r-- root/root       868 2018-07-25 04:42 ansible-role-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-25 04:42 ansible-role-redis-master/templates/
+-rw-rw-r-- root/root     47163 2018-07-25 04:42 ansible-role-redis-master/templates/redis.conf
+drwxrwxr-x root/root         0 2018-07-25 04:42 ansible-role-redis-master/tests/
+-rw-rw-r-- root/root       999 2018-07-25 04:42 ansible-role-redis-master/tests/README.md
+-rwxrwxr-x root/root         9 2018-07-25 04:42 ansible-role-redis-master/tests/inventory
+-rwxrwxr-x root/root       151 2018-07-25 04:42 ansible-role-redis-master/tests/test.yml

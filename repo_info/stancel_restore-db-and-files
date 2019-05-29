@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-11 18:12 restore-db-and-files-master/
+-rw-rw-r-- root/root        63 2018-11-11 18:12 restore-db-and-files-master/.gitignore
+-rw-rw-r-- root/root      3548 2018-11-11 18:12 restore-db-and-files-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 18:12 restore-db-and-files-master/defaults/
+-rw-rw-r-- root/root       698 2018-11-11 18:12 restore-db-and-files-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 18:12 restore-db-and-files-master/handlers/
+-rw-rw-r-- root/root        44 2018-11-11 18:12 restore-db-and-files-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-11 18:12 restore-db-and-files-master/meta/
+-rw-rw-r-- root/root       953 2018-11-11 18:12 restore-db-and-files-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 18:12 restore-db-and-files-master/tasks/
+-rw-rw-r-- root/root      4348 2018-11-11 18:12 restore-db-and-files-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 18:12 restore-db-and-files-master/tests/
+-rw-rw-r-- root/root        11 2018-11-11 18:12 restore-db-and-files-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-11-11 18:12 restore-db-and-files-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-11 18:12 restore-db-and-files-master/vars/
+-rw-rw-r-- root/root      2140 2018-11-11 18:12 restore-db-and-files-master/vars/main.yml

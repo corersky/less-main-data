@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-11 20:49 ansible-role-kanboard-master/
+-rw-rw-r-- root/root      1081 2017-04-11 20:49 ansible-role-kanboard-master/LICENSE
+-rw-rw-r-- root/root      1042 2017-04-11 20:49 ansible-role-kanboard-master/README.md
+drwxrwxr-x root/root         0 2017-04-11 20:49 ansible-role-kanboard-master/defaults/
+-rw-rw-r-- root/root       241 2017-04-11 20:49 ansible-role-kanboard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-11 20:49 ansible-role-kanboard-master/files/
+drwxrwxr-x root/root         0 2017-04-11 20:49 ansible-role-kanboard-master/files/SamlAuth/
+drwxrwxr-x root/root         0 2017-04-11 20:49 ansible-role-kanboard-master/handlers/
+-rw-rw-r-- root/root       159 2017-04-11 20:49 ansible-role-kanboard-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-11 20:49 ansible-role-kanboard-master/meta/
+-rw-rw-r-- root/root       219 2017-04-11 20:49 ansible-role-kanboard-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-11 20:49 ansible-role-kanboard-master/tasks/
+-rw-rw-r-- root/root       576 2017-04-11 20:49 ansible-role-kanboard-master/tasks/kanboard_config.yml
+-rw-rw-r-- root/root       847 2017-04-11 20:49 ansible-role-kanboard-master/tasks/kanboard_install.yml
+-rw-rw-r-- root/root       172 2017-04-11 20:49 ansible-role-kanboard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-11 20:49 ansible-role-kanboard-master/templates/
+-rw-rw-r-- root/root      8323 2017-04-11 20:49 ansible-role-kanboard-master/templates/config.php.j2

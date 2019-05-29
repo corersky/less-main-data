@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-24 11:57 ansible-role-modman-master/
+-rw-rw-r-- root/root        38 2018-07-24 11:57 ansible-role-modman-master/.gitignore
+-rwxrwxr-x root/root       892 2018-07-24 11:57 ansible-role-modman-master/.travis.yml
+-rwxrwxr-x root/root      1089 2018-07-24 11:57 ansible-role-modman-master/LICENSE.txt
+-rwxrwxr-x root/root      1086 2018-07-24 11:57 ansible-role-modman-master/README.md
+drwxrwxr-x root/root         0 2018-07-24 11:57 ansible-role-modman-master/defaults/
+-rw-rw-r-- root/root       135 2018-07-24 11:57 ansible-role-modman-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-24 11:57 ansible-role-modman-master/meta/
+-rwxrwxr-x root/root       410 2018-07-24 11:57 ansible-role-modman-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-24 11:57 ansible-role-modman-master/tasks/
+-rw-rw-r-- root/root       175 2018-07-24 11:57 ansible-role-modman-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-24 11:57 ansible-role-modman-master/tests/
+-rw-rw-r-- root/root       999 2018-07-24 11:57 ansible-role-modman-master/tests/README.md
+-rwxrwxr-x root/root         9 2018-07-24 11:57 ansible-role-modman-master/tests/inventory
+-rwxrwxr-x root/root        69 2018-07-24 11:57 ansible-role-modman-master/tests/test.yml

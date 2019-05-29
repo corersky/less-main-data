@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-06-12 13:38 texlive-master/
+-rw-rw-r-- root/root       589 2018-06-12 13:38 texlive-master/README.md
+drwxrwxr-x root/root         0 2018-06-12 13:38 texlive-master/defaults/
+-rw-rw-r-- root/root        64 2018-06-12 13:38 texlive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-12 13:38 texlive-master/meta/
+-rw-rw-r-- root/root       243 2018-06-12 13:38 texlive-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-12 13:38 texlive-master/tasks/
+-rw-rw-r-- root/root       311 2018-06-12 13:38 texlive-master/tasks/latexmk.yml
+-rw-rw-r-- root/root       223 2018-06-12 13:38 texlive-master/tasks/main.yml

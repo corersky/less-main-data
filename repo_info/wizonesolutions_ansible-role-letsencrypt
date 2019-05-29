@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-16 17:37 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root      2245 2017-11-16 17:37 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2017-11-16 17:37 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root      4509 2017-11-16 17:37 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-16 17:37 ansible-role-letsencrypt-master/handlers/
+-rw-rw-r-- root/root        51 2017-11-16 17:37 ansible-role-letsencrypt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-16 17:37 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root      1413 2017-11-16 17:37 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-16 17:37 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root      1724 2017-11-16 17:37 ansible-role-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-16 17:37 ansible-role-letsencrypt-master/tests/
+-rw-rw-r-- root/root        11 2017-11-16 17:37 ansible-role-letsencrypt-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-11-16 17:37 ansible-role-letsencrypt-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-16 17:37 ansible-role-letsencrypt-master/vars/
+-rw-rw-r-- root/root        47 2017-11-16 17:37 ansible-role-letsencrypt-master/vars/main.yml

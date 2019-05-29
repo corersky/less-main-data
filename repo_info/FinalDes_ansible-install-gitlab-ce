@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-19 22:23 ansible-install-gitlab-ce-master/
+-rw-rw-r-- root/root       542 2017-02-19 22:23 ansible-install-gitlab-ce-master/.travis.yml
+-rw-rw-r-- root/root      1073 2017-02-19 22:23 ansible-install-gitlab-ce-master/LICENSE.md
+-rw-rw-r-- root/root       629 2017-02-19 22:23 ansible-install-gitlab-ce-master/README.md
+drwxrwxr-x root/root         0 2017-02-19 22:23 ansible-install-gitlab-ce-master/defaults/
+-rw-rw-r-- root/root        39 2017-02-19 22:23 ansible-install-gitlab-ce-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-19 22:23 ansible-install-gitlab-ce-master/handlers/
+-rw-rw-r-- root/root        39 2017-02-19 22:23 ansible-install-gitlab-ce-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-19 22:23 ansible-install-gitlab-ce-master/meta/
+-rw-rw-r-- root/root      3742 2017-02-19 22:23 ansible-install-gitlab-ce-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-19 22:23 ansible-install-gitlab-ce-master/tasks/
+-rw-rw-r-- root/root       621 2017-02-19 22:23 ansible-install-gitlab-ce-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-19 22:23 ansible-install-gitlab-ce-master/tests/
+-rw-rw-r-- root/root         9 2017-02-19 22:23 ansible-install-gitlab-ce-master/tests/inventory
+-rw-rw-r-- root/root        84 2017-02-19 22:23 ansible-install-gitlab-ce-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-19 22:23 ansible-install-gitlab-ce-master/vars/
+-rw-rw-r-- root/root        35 2017-02-19 22:23 ansible-install-gitlab-ce-master/vars/main.yml

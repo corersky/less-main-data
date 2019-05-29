@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-20 21:41 ansible-role-linuxhq-master/
+-rw-rw-r-- root/root       331 2019-01-20 21:41 ansible-role-linuxhq-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 21:41 ansible-role-linuxhq-master/COPYING
+-rw-rw-r-- root/root      2075 2019-01-20 21:41 ansible-role-linuxhq-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 21:41 ansible-role-linuxhq-master/defaults/
+-rw-rw-r-- root/root       345 2019-01-20 21:41 ansible-role-linuxhq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 21:41 ansible-role-linuxhq-master/meta/
+-rw-rw-r-- root/root       295 2019-01-20 21:41 ansible-role-linuxhq-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 21:41 ansible-role-linuxhq-master/tasks/
+-rw-rw-r-- root/root       983 2019-01-20 21:41 ansible-role-linuxhq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 21:41 ansible-role-linuxhq-master/templates/
+-rw-rw-r-- root/root      1021 2019-01-20 21:41 ansible-role-linuxhq-master/templates/linuxhq.repo.j2
+drwxrwxr-x root/root         0 2019-01-20 21:41 ansible-role-linuxhq-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 21:41 ansible-role-linuxhq-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-01-20 21:41 ansible-role-linuxhq-master/tests/test.yml

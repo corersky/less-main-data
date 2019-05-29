@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-12 14:27 ansible-upgrade-master/
+-rw-rw-r-- root/root        10 2017-02-12 14:27 ansible-upgrade-master/.gitignore
+-rw-rw-r-- root/root       485 2017-02-12 14:27 ansible-upgrade-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-02-12 14:27 ansible-upgrade-master/LICENSE
+-rw-rw-r-- root/root      1251 2017-02-12 14:27 ansible-upgrade-master/README.md
+drwxrwxr-x root/root         0 2017-02-12 14:27 ansible-upgrade-master/defaults/
+-rw-rw-r-- root/root       689 2017-02-12 14:27 ansible-upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-12 14:27 ansible-upgrade-master/handlers/
+-rw-rw-r-- root/root      1205 2017-02-12 14:27 ansible-upgrade-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-12 14:27 ansible-upgrade-master/meta/
+-rw-rw-r-- root/root       284 2017-02-12 14:27 ansible-upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-12 14:27 ansible-upgrade-master/tasks/
+-rw-rw-r-- root/root       999 2017-02-12 14:27 ansible-upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-12 14:27 ansible-upgrade-master/tests/
+-rw-rw-r-- root/root       249 2017-02-12 14:27 ansible-upgrade-master/tests/role.yml

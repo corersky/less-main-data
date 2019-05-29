@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-03 06:15 ansible-role-repo-remi-master/
+-rw-rw-r-- root/root        12 2016-08-03 06:15 ansible-role-repo-remi-master/.gitattributes
+-rw-rw-r-- root/root        10 2016-08-03 06:15 ansible-role-repo-remi-master/.gitignore
+-rw-rw-r-- root/root      1104 2016-08-03 06:15 ansible-role-repo-remi-master/LICENSE
+-rw-rw-r-- root/root       524 2016-08-03 06:15 ansible-role-repo-remi-master/README.md
+drwxrwxr-x root/root         0 2016-08-03 06:15 ansible-role-repo-remi-master/defaults/
+-rw-rw-r-- root/root        53 2016-08-03 06:15 ansible-role-repo-remi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-03 06:15 ansible-role-repo-remi-master/meta/
+-rw-rw-r-- root/root       326 2016-08-03 06:15 ansible-role-repo-remi-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-03 06:15 ansible-role-repo-remi-master/tasks/
+-rw-rw-r-- root/root       513 2016-08-03 06:15 ansible-role-repo-remi-master/tasks/centos.yml
+-rw-rw-r-- root/root       115 2016-08-03 06:15 ansible-role-repo-remi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-03 06:15 ansible-role-repo-remi-master/templates/
+-rw-rw-r-- root/root      1898 2016-08-03 06:15 ansible-role-repo-remi-master/templates/remi.repo.j2

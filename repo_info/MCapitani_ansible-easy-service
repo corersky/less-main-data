@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-05 03:48 ansible-easy-service-master/
+-rw-rw-r-- root/root     10174 2019-02-05 03:48 ansible-easy-service-master/LICENSE
+-rw-rw-r-- root/root      3842 2019-02-05 03:48 ansible-easy-service-master/README.md
+drwxrwxr-x root/root         0 2019-02-05 03:48 ansible-easy-service-master/defaults/
+-rw-rw-r-- root/root       472 2019-02-05 03:48 ansible-easy-service-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-05 03:48 ansible-easy-service-master/meta/
+-rw-rw-r-- root/root       445 2019-02-05 03:48 ansible-easy-service-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-05 03:48 ansible-easy-service-master/tasks/
+-rw-rw-r-- root/root      2932 2019-02-05 03:48 ansible-easy-service-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-05 03:48 ansible-easy-service-master/templates/
+-rw-rw-r-- root/root       272 2019-02-05 03:48 ansible-easy-service-master/templates/generic.service.j2
+drwxrwxr-x root/root         0 2019-02-05 03:48 ansible-easy-service-master/tests/
+-rw-rw-r-- root/root        11 2019-02-05 03:48 ansible-easy-service-master/tests/inventory
+-rw-rw-r-- root/root        78 2019-02-05 03:48 ansible-easy-service-master/tests/test.yml

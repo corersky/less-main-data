@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-08 01:32 ansible-nfs_server-master/
+-rw-rw-r-- root/root       540 2019-05-08 01:32 ansible-nfs_server-master/.travis.yml
+-rw-rw-r-- root/root      1062 2019-05-08 01:32 ansible-nfs_server-master/LICENSE
+-rw-rw-r-- root/root       255 2019-05-08 01:32 ansible-nfs_server-master/README.md
+drwxrwxr-x root/root         0 2019-05-08 01:32 ansible-nfs_server-master/defaults/
+-rw-rw-r-- root/root       199 2019-05-08 01:32 ansible-nfs_server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 01:32 ansible-nfs_server-master/handlers/
+-rw-rw-r-- root/root        91 2019-05-08 01:32 ansible-nfs_server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-08 01:32 ansible-nfs_server-master/meta/
+-rw-rw-r-- root/root       289 2019-05-08 01:32 ansible-nfs_server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 01:32 ansible-nfs_server-master/tasks/
+-rw-rw-r-- root/root       181 2019-05-08 01:32 ansible-nfs_server-master/tasks/main.yml
+-rw-rw-r-- root/root       130 2019-05-08 01:32 ansible-nfs_server-master/tasks/nfs_server_install.yml
+-rw-rw-r-- root/root       410 2019-05-08 01:32 ansible-nfs_server-master/tasks/nfs_server_post.yml
+-rw-rw-r-- root/root       150 2019-05-08 01:32 ansible-nfs_server-master/tasks/nfs_server_pre.yml
+drwxrwxr-x root/root         0 2019-05-08 01:32 ansible-nfs_server-master/templates/
+-rw-rw-r-- root/root       151 2019-05-08 01:32 ansible-nfs_server-master/templates/exports.j2

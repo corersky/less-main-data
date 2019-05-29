@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-16 03:52 ansible-role-php-memcache-master/
+-rw-rw-r-- root/root        10 2016-03-16 03:52 ansible-role-php-memcache-master/.gitignore
+-rw-rw-r-- root/root      1086 2016-03-16 03:52 ansible-role-php-memcache-master/.travis.yml
+-rw-rw-r-- root/root      1189 2016-03-16 03:52 ansible-role-php-memcache-master/README.md
+drwxrwxr-x root/root         0 2016-03-16 03:52 ansible-role-php-memcache-master/defaults/
+-rw-rw-r-- root/root        92 2016-03-16 03:52 ansible-role-php-memcache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-16 03:52 ansible-role-php-memcache-master/meta/
+-rw-rw-r-- root/root       423 2016-03-16 03:52 ansible-role-php-memcache-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-16 03:52 ansible-role-php-memcache-master/tasks/
+-rw-rw-r-- root/root       428 2016-03-16 03:52 ansible-role-php-memcache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-16 03:52 ansible-role-php-memcache-master/tests/
+-rw-rw-r-- root/root        10 2016-03-16 03:52 ansible-role-php-memcache-master/tests/inventory
+-rw-rw-r-- root/root       369 2016-03-16 03:52 ansible-role-php-memcache-master/tests/test-memcache.php
+-rw-rw-r-- root/root       175 2016-03-16 03:52 ansible-role-php-memcache-master/tests/test.yml

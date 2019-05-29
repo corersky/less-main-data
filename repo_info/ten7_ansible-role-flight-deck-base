@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-05 15:25 ansible-role-flight-deck-base-master/
+-rw-rw-r-- root/root      1804 2019-04-05 15:25 ansible-role-flight-deck-base-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 15:25 ansible-role-flight-deck-base-master/defaults/
+-rw-rw-r-- root/root       361 2019-04-05 15:25 ansible-role-flight-deck-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-05 15:25 ansible-role-flight-deck-base-master/handlers/
+-rw-rw-r-- root/root       125 2019-04-05 15:25 ansible-role-flight-deck-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-05 15:25 ansible-role-flight-deck-base-master/meta/
+-rw-rw-r-- root/root       295 2019-04-05 15:25 ansible-role-flight-deck-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 15:25 ansible-role-flight-deck-base-master/tasks/
+-rw-rw-r-- root/root      2286 2019-04-05 15:25 ansible-role-flight-deck-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-05 15:25 ansible-role-flight-deck-base-master/templates/
+-rw-rw-r-- root/root       210 2019-04-05 15:25 ansible-role-flight-deck-base-master/templates/docker-entrypoint.sh.j2
+-rw-rw-r-- root/root       768 2019-04-05 15:25 ansible-role-flight-deck-base-master/templates/motd.j2
+-rw-rw-r-- root/root        19 2019-04-05 15:25 ansible-role-flight-deck-base-master/templates/vim.j2

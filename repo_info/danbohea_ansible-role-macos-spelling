@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-07 11:19 ansible-role-macos-spelling-master/
+-rw-rw-r-- root/root      1094 2018-03-07 11:19 ansible-role-macos-spelling-master/.travis.yml
+-rw-rw-r-- root/root       876 2018-03-07 11:19 ansible-role-macos-spelling-master/README.md
+drwxrwxr-x root/root         0 2018-03-07 11:19 ansible-role-macos-spelling-master/defaults/
+-rw-rw-r-- root/root       231 2018-03-07 11:19 ansible-role-macos-spelling-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-07 11:19 ansible-role-macos-spelling-master/handlers/
+-rw-rw-r-- root/root        83 2018-03-07 11:19 ansible-role-macos-spelling-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-07 11:19 ansible-role-macos-spelling-master/meta/
+-rw-rw-r-- root/root       334 2018-03-07 11:19 ansible-role-macos-spelling-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-07 11:19 ansible-role-macos-spelling-master/tasks/
+-rw-rw-r-- root/root      1205 2018-03-07 11:19 ansible-role-macos-spelling-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-07 11:19 ansible-role-macos-spelling-master/templates/
+-rw-rw-r-- root/root        84 2018-03-07 11:19 ansible-role-macos-spelling-master/templates/LocalDictionary.j2
+drwxrwxr-x root/root         0 2018-03-07 11:19 ansible-role-macos-spelling-master/tests/
+-rw-rw-r-- root/root        10 2018-03-07 11:19 ansible-role-macos-spelling-master/tests/inventory
+-rw-rw-r-- root/root        86 2018-03-07 11:19 ansible-role-macos-spelling-master/tests/test.yml

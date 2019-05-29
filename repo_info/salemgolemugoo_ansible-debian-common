@@ -1,0 +1,8 @@
+drwxrwxr-x root/root         0 2017-01-31 11:59 ansible-debian-common-master/
+-rw-rw-r-- root/root       159 2017-01-31 11:59 ansible-debian-common-master/README.md
+drwxrwxr-x root/root         0 2017-01-31 11:59 ansible-debian-common-master/meta/
+-rw-rw-r-- root/root       395 2017-01-31 11:59 ansible-debian-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-31 11:59 ansible-debian-common-master/tasks/
+-rw-rw-r-- root/root       199 2017-01-31 11:59 ansible-debian-common-master/tasks/add_apt_repo.yml
+-rw-rw-r-- root/root       597 2017-01-31 11:59 ansible-debian-common-master/tasks/install_base_soft.yml
+-rw-rw-r-- root/root        61 2017-01-31 11:59 ansible-debian-common-master/tasks/main.yml

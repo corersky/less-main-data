@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-09-25 21:16 ansible-centos-bootstrap-master/
+-rw-rw-r-- root/root      1791 2015-09-25 21:16 ansible-centos-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2015-09-25 21:16 ansible-centos-bootstrap-master/defaults/
+-rw-rw-r-- root/root       191 2015-09-25 21:16 ansible-centos-bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-25 21:16 ansible-centos-bootstrap-master/handlers/
+-rw-rw-r-- root/root        41 2015-09-25 21:16 ansible-centos-bootstrap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-25 21:16 ansible-centos-bootstrap-master/meta/
+-rw-rw-r-- root/root       208 2015-09-25 21:16 ansible-centos-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-25 21:16 ansible-centos-bootstrap-master/tasks/
+-rw-rw-r-- root/root       401 2015-09-25 21:16 ansible-centos-bootstrap-master/tasks/bootstrap.yml
+-rw-rw-r-- root/root        67 2015-09-25 21:16 ansible-centos-bootstrap-master/tasks/configure.yml
+-rw-rw-r-- root/root       414 2015-09-25 21:16 ansible-centos-bootstrap-master/tasks/env.yml
+-rw-rw-r-- root/root       493 2015-09-25 21:16 ansible-centos-bootstrap-master/tasks/firewall.yml
+-rw-rw-r-- root/root       399 2015-09-25 21:16 ansible-centos-bootstrap-master/tasks/hostname.yml
+-rw-rw-r-- root/root       174 2015-09-25 21:16 ansible-centos-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-25 21:16 ansible-centos-bootstrap-master/vars/
+-rw-rw-r-- root/root        37 2015-09-25 21:16 ansible-centos-bootstrap-master/vars/main.yml

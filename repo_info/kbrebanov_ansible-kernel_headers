@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-24 16:30 ansible-kernel_headers-master/
+-rw-rw-r-- root/root      1298 2018-09-24 16:30 ansible-kernel_headers-master/LICENSE
+-rw-rw-r-- root/root       606 2018-09-24 16:30 ansible-kernel_headers-master/README.md
+drwxrwxr-x root/root         0 2018-09-24 16:30 ansible-kernel_headers-master/defaults/
+-rw-rw-r-- root/root        39 2018-09-24 16:30 ansible-kernel_headers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:30 ansible-kernel_headers-master/handlers/
+-rw-rw-r-- root/root        39 2018-09-24 16:30 ansible-kernel_headers-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:30 ansible-kernel_headers-master/meta/
+-rw-rw-r-- root/root      2123 2018-09-24 16:30 ansible-kernel_headers-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:30 ansible-kernel_headers-master/tasks/
+-rw-rw-r-- root/root       148 2018-09-24 16:30 ansible-kernel_headers-master/tasks/CentOS.yml
+-rw-rw-r-- root/root       201 2018-09-24 16:30 ansible-kernel_headers-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       331 2018-09-24 16:30 ansible-kernel_headers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:30 ansible-kernel_headers-master/vars/
+-rw-rw-r-- root/root        53 2018-09-24 16:30 ansible-kernel_headers-master/vars/CentOS.yml
+-rw-rw-r-- root/root        53 2018-09-24 16:30 ansible-kernel_headers-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        35 2018-09-24 16:30 ansible-kernel_headers-master/vars/main.yml

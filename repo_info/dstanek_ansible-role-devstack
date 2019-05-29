@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-10-06 18:44 ansible-role-devstack-master/
+-rw-rw-r-- root/root       541 2016-10-06 18:44 ansible-role-devstack-master/.travis.yml
+-rw-rw-r-- root/root      1452 2016-10-06 18:44 ansible-role-devstack-master/README.md
+drwxrwxr-x root/root         0 2016-10-06 18:44 ansible-role-devstack-master/defaults/
+-rw-rw-r-- root/root      1142 2016-10-06 18:44 ansible-role-devstack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-06 18:44 ansible-role-devstack-master/handlers/
+-rw-rw-r-- root/root       843 2016-10-06 18:44 ansible-role-devstack-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-06 18:44 ansible-role-devstack-master/meta/
+-rw-rw-r-- root/root       296 2016-10-06 18:44 ansible-role-devstack-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-06 18:44 ansible-role-devstack-master/tasks/
+-rw-rw-r-- root/root      2239 2016-10-06 18:44 ansible-role-devstack-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-06 18:44 ansible-role-devstack-master/templates/
+-rw-rw-r-- root/root      1735 2016-10-06 18:44 ansible-role-devstack-master/templates/local.conf

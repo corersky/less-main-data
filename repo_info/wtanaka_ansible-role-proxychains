@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-26 00:55 ansible-role-proxychains-master/
+drwxrwxr-x root/root         0 2019-03-26 00:55 ansible-role-proxychains-master/.circleci/
+-rw-rw-r-- root/root       658 2019-03-26 00:55 ansible-role-proxychains-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-03-26 00:55 ansible-role-proxychains-master/.gitignore
+-rw-rw-r-- root/root      1813 2019-03-26 00:55 ansible-role-proxychains-master/.travis.yml
+-rw-rw-r-- root/root       540 2019-03-26 00:55 ansible-role-proxychains-master/README.md
+drwxrwxr-x root/root         0 2019-03-26 00:55 ansible-role-proxychains-master/meta/
+-rw-rw-r-- root/root      3534 2019-03-26 00:55 ansible-role-proxychains-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-26 00:55 ansible-role-proxychains-master/tasks/
+-rw-rw-r-- root/root        86 2019-03-26 00:55 ansible-role-proxychains-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3170 2019-03-26 00:55 ansible-role-proxychains-master/tasks/compat.yml
+-rw-rw-r-- root/root       236 2019-03-26 00:55 ansible-role-proxychains-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       561 2019-03-26 00:55 ansible-role-proxychains-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-26 00:55 ansible-role-proxychains-master/vars/
+-rw-rw-r-- root/root        30 2019-03-26 00:55 ansible-role-proxychains-master/vars/Debian.yml
+-rw-rw-r-- root/root        39 2019-03-26 00:55 ansible-role-proxychains-master/vars/default.yml
+-rw-rw-r-- root/root         4 2019-03-26 00:55 ansible-role-proxychains-master/vars/main.yml

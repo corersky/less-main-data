@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-26 13:22 ansible-varscan-master/
+-rw-rw-r-- root/root      1945 2017-07-26 13:22 ansible-varscan-master/LICENSE.txt
+-rw-rw-r-- root/root       577 2017-07-26 13:22 ansible-varscan-master/README.md
+drwxrwxr-x root/root         0 2017-07-26 13:22 ansible-varscan-master/defaults/
+-rw-rw-r-- root/root        22 2017-07-26 13:22 ansible-varscan-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:22 ansible-varscan-master/meta/
+-rw-rw-r-- root/root       328 2017-07-26 13:22 ansible-varscan-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:22 ansible-varscan-master/tasks/
+-rw-rw-r-- root/root       455 2017-07-26 13:22 ansible-varscan-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:22 ansible-varscan-master/vars/
+-rw-rw-r-- root/root        32 2017-07-26 13:22 ansible-varscan-master/vars/CentOS.yml
+-rw-rw-r-- root/root        36 2017-07-26 13:22 ansible-varscan-master/vars/Ubuntu-14.yml
+-rw-rw-r-- root/root        27 2017-07-26 13:22 ansible-varscan-master/vars/Ubuntu-16.yml

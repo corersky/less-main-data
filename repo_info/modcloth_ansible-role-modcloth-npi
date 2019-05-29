@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/
+-rw-rw-r-- root/root       375 2014-11-04 10:44 ansible-role-modcloth-npi-master/.travis.yml
+-rw-rw-r-- root/root      1743 2014-11-04 10:44 ansible-role-modcloth-npi-master/README.md
+drwxrwxr-x root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/defaults/
+-rw-rw-r-- root/root       289 2014-11-04 10:44 ansible-role-modcloth-npi-master/defaults/main.yml
+-rw-rw-r-- root/root       143 2014-11-04 10:44 ansible-role-modcloth-npi-master/example.yml
+drwxrwxr-x root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/handlers/
+-rw-rw-r-- root/root        37 2014-11-04 10:44 ansible-role-modcloth-npi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/meta/
+-rw-rw-r-- root/root       305 2014-11-04 10:44 ansible-role-modcloth-npi-master/meta/main.yml
+-rw-rw-r-- root/root        15 2014-11-04 10:44 ansible-role-modcloth-npi-master/requirements.txt
+drwxrwxr-x root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/roles/
+lrwxrwxrwx root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/roles/modcloth.npi -> ../
+drwxrwxr-x root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/tasks/
+-rw-rw-r-- root/root      1383 2014-11-04 10:44 ansible-role-modcloth-npi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/templates/
+-rw-rw-r-- root/root       826 2014-11-04 10:44 ansible-role-modcloth-npi-master/templates/newrelic.json.j2
+-rw-rw-r-- root/root       253 2014-11-04 10:44 ansible-role-modcloth-npi-master/templates/npi-plugin-upstart.conf.j2
+-rw-rw-r-- root/root        84 2014-11-04 10:44 ansible-role-modcloth-npi-master/templates/npi.j2
+drwxrwxr-x root/root         0 2014-11-04 10:44 ansible-role-modcloth-npi-master/vars/
+-rw-rw-r-- root/root        33 2014-11-04 10:44 ansible-role-modcloth-npi-master/vars/main.yml

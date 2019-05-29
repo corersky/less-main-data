@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-docker-master/
+-rw-rw-r-- root/root       531 2016-08-14 03:45 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root         4 2016-08-14 03:45 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-docker-master/files/
+-rw-rw-r-- root/root         0 2016-08-14 03:45 ansible-role-docker-master/files/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        58 2016-08-14 03:45 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       287 2016-08-14 03:45 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root        83 2016-08-14 03:45 ansible-role-docker-master/tasks/install.yml
+-rw-rw-r-- root/root       453 2016-08-14 03:45 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root         0 2016-08-14 03:45 ansible-role-docker-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-docker-master/vars/
+-rw-rw-r-- root/root         4 2016-08-14 03:45 ansible-role-docker-master/vars/main.yml

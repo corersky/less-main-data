@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-30 10:03 ansible-role-minikube-master/
+-rw-rw-r-- root/root      1328 2017-12-30 10:03 ansible-role-minikube-master/README.md
+drwxrwxr-x root/root         0 2017-12-30 10:03 ansible-role-minikube-master/defaults/
+-rw-rw-r-- root/root       107 2017-12-30 10:03 ansible-role-minikube-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-30 10:03 ansible-role-minikube-master/handlers/
+-rw-rw-r-- root/root        45 2017-12-30 10:03 ansible-role-minikube-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-30 10:03 ansible-role-minikube-master/meta/
+-rw-rw-r-- root/root       372 2017-12-30 10:03 ansible-role-minikube-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-30 10:03 ansible-role-minikube-master/tasks/
+-rw-rw-r-- root/root       469 2017-12-30 10:03 ansible-role-minikube-master/tasks/main.yml
+-rw-rw-r-- root/root      1597 2017-12-30 10:03 ansible-role-minikube-master/tasks/setup-linux.yml
+-rw-rw-r-- root/root       413 2017-12-30 10:03 ansible-role-minikube-master/tasks/startup-linux.yml
+drwxrwxr-x root/root         0 2017-12-30 10:03 ansible-role-minikube-master/tests/
+-rw-rw-r-- root/root        11 2017-12-30 10:03 ansible-role-minikube-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-12-30 10:03 ansible-role-minikube-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-30 10:03 ansible-role-minikube-master/vars/
+-rw-rw-r-- root/root        41 2017-12-30 10:03 ansible-role-minikube-master/vars/main.yml

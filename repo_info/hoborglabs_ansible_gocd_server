@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-05-30 14:53 ansible_gocd_server-master/
+-rw-rw-r-- root/root       597 2015-05-30 14:53 ansible_gocd_server-master/README.md
+drwxrwxr-x root/root         0 2015-05-30 14:53 ansible_gocd_server-master/defaults/
+-rw-rw-r-- root/root       257 2015-05-30 14:53 ansible_gocd_server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-30 14:53 ansible_gocd_server-master/handlers/
+-rw-rw-r-- root/root       268 2015-05-30 14:53 ansible_gocd_server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-30 14:53 ansible_gocd_server-master/meta/
+-rw-rw-r-- root/root       265 2015-05-30 14:53 ansible_gocd_server-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-30 14:53 ansible_gocd_server-master/tasks/
+-rw-rw-r-- root/root       465 2015-05-30 14:53 ansible_gocd_server-master/tasks/configure.yml
+-rw-rw-r-- root/root       373 2015-05-30 14:53 ansible_gocd_server-master/tasks/install.yml
+-rw-rw-r-- root/root       513 2015-05-30 14:53 ansible_gocd_server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-30 14:53 ansible_gocd_server-master/templates/
+-rw-rw-r-- root/root       647 2015-05-30 14:53 ansible_gocd_server-master/templates/defaults.j2

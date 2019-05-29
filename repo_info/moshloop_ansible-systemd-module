@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-08-29 05:21 ansible-systemd-module-master/
+-rw-rw-r-- root/root        37 2018-08-29 05:21 ansible-systemd-module-master/.gitignore
+-rw-rw-r-- root/root       240 2018-08-29 05:21 ansible-systemd-module-master/.travis.yml
+-rw-rw-r-- root/root       870 2018-08-29 05:21 ansible-systemd-module-master/README.md
+drwxrwxr-x root/root         0 2018-08-29 05:21 ansible-systemd-module-master/library/
+-rw-rw-r-- root/root      5048 2018-08-29 05:21 ansible-systemd-module-master/library/__init__.pyc
+-rwxrwxr-x root/root      5209 2018-08-29 05:21 ansible-systemd-module-master/library/systemd_service.py
+drwxrwxr-x root/root         0 2018-08-29 05:21 ansible-systemd-module-master/meta/
+-rw-rw-r-- root/root       268 2018-08-29 05:21 ansible-systemd-module-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-29 05:21 ansible-systemd-module-master/test/
+-rw-rw-r-- root/root        55 2018-08-29 05:21 ansible-systemd-module-master/test/test.rb
+-rw-rw-r-- root/root       293 2018-08-29 05:21 ansible-systemd-module-master/test/test.yml

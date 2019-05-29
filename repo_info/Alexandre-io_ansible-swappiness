@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-12 04:58 ansible-swappiness-master/
+-rw-rw-r-- root/root       351 2018-07-12 04:58 ansible-swappiness-master/.travis.yml
+-rw-rw-r-- root/root      1072 2018-07-12 04:58 ansible-swappiness-master/LICENSE
+-rw-rw-r-- root/root       387 2018-07-12 04:58 ansible-swappiness-master/README.md
+-rw-rw-r-- root/root        28 2018-07-12 04:58 ansible-swappiness-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-07-12 04:58 ansible-swappiness-master/defaults/
+-rw-rw-r-- root/root        23 2018-07-12 04:58 ansible-swappiness-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-12 04:58 ansible-swappiness-master/meta/
+-rw-rw-r-- root/root       270 2018-07-12 04:58 ansible-swappiness-master/meta/main.yml
+-rw-rw-r-- root/root        77 2018-07-12 04:58 ansible-swappiness-master/role.yml
+drwxrwxr-x root/root         0 2018-07-12 04:58 ansible-swappiness-master/tasks/
+-rw-rw-r-- root/root       119 2018-07-12 04:58 ansible-swappiness-master/tasks/Debian.yml
+-rw-rw-r-- root/root        84 2018-07-12 04:58 ansible-swappiness-master/tasks/main.yml

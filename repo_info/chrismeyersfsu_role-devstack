@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2015-12-01 18:40 role-devstack-master/
+-rw-rw-r-- root/root        82 2015-12-01 18:40 role-devstack-master/.gitignore
+-rw-rw-r-- root/root      1257 2015-12-01 18:40 role-devstack-master/.travis.yml
+-rw-rw-r-- root/root     18027 2015-12-01 18:40 role-devstack-master/LICENSE
+-rw-rw-r-- root/root      1406 2015-12-01 18:40 role-devstack-master/README.md
+drwxrwxr-x root/root         0 2015-12-01 18:40 role-devstack-master/defaults/
+-rw-rw-r-- root/root       434 2015-12-01 18:40 role-devstack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-01 18:40 role-devstack-master/meta/
+-rw-rw-r-- root/root      1436 2015-12-01 18:40 role-devstack-master/meta/main.yml
+-rw-rw-r-- root/root       100 2015-12-01 18:40 role-devstack-master/requirements.yml
+drwxrwxr-x root/root         0 2015-12-01 18:40 role-devstack-master/tasks/
+-rw-rw-r-- root/root      1691 2015-12-01 18:40 role-devstack-master/tasks/create-devstack.yml
+-rw-rw-r-- root/root      2133 2015-12-01 18:40 role-devstack-master/tasks/main.yml
+-rw-rw-r-- root/root       656 2015-12-01 18:40 role-devstack-master/tasks/nova-hosts.yml
+drwxrwxr-x root/root         0 2015-12-01 18:40 role-devstack-master/templates/
+-rw-rw-r-- root/root       535 2015-12-01 18:40 role-devstack-master/templates/local.j2
+drwxrwxr-x root/root         0 2015-12-01 18:40 role-devstack-master/test/
+-rw-rw-r-- root/root        35 2015-12-01 18:40 role-devstack-master/test/inventory
+-rw-rw-r-- root/root      1077 2015-12-01 18:40 role-devstack-master/test/main.yml
+-rw-rw-r-- root/root       162 2015-12-01 18:40 role-devstack-master/test/requirements.yml
+drwxrwxr-x root/root         0 2015-12-01 18:40 role-devstack-master/test/roles/
+lrwxrwxrwx root/root         0 2015-12-01 18:40 role-devstack-master/test/roles/devstack -> ../../../role-devstack/
+drwxrwxr-x root/root         0 2015-12-01 18:40 role-devstack-master/vars/
+-rw-rw-r-- root/root         3 2015-12-01 18:40 role-devstack-master/vars/main.yml

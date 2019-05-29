@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-02-06 04:41 ansible-users-master/
+-rw-rw-r-- root/root        57 2015-02-06 04:41 ansible-users-master/.gitignore
+-rw-rw-r-- root/root      1328 2015-02-06 04:41 ansible-users-master/README.md
+drwxrwxr-x root/root         0 2015-02-06 04:41 ansible-users-master/defaults/
+-rw-rw-r-- root/root        38 2015-02-06 04:41 ansible-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-06 04:41 ansible-users-master/handlers/
+-rw-rw-r-- root/root        38 2015-02-06 04:41 ansible-users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-06 04:41 ansible-users-master/meta/
+-rw-rw-r-- root/root       227 2015-02-06 04:41 ansible-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-06 04:41 ansible-users-master/tasks/
+-rw-rw-r-- root/root      1251 2015-02-06 04:41 ansible-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-06 04:41 ansible-users-master/templates/
+-rw-rw-r-- root/root       431 2015-02-06 04:41 ansible-users-master/templates/bash_profile.j2
+drwxrwxr-x root/root         0 2015-02-06 04:41 ansible-users-master/vars/
+-rw-rw-r-- root/root        34 2015-02-06 04:41 ansible-users-master/vars/main.yml

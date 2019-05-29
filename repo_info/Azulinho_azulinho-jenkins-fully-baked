@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/
+drwxrwxr-x root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/.bundle/
+-rw-rw-r-- root/root        36 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/.bundle/config
+-rw-rw-r-- root/root        67 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/.gitignore
+-rw-rw-r-- root/root     12941 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/README.md
+-rw-rw-r-- root/root      1420 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/Rakefile
+drwxrwxr-x root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/meta/
+-rw-rw-r-- root/root       310 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/
+drwxrwxr-x root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/.bundle/
+-rw-rw-r-- root/root        36 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/.bundle/config
+-rw-rw-r-- root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/Gemfile
+-rw-rw-r-- root/root        45 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/Gemfile.lock
+-rw-rw-r-- root/root      2195 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/Vagrantfile
+-rw-rw-r-- root/root       431 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/ansible.cfg
+drwxrwxr-x root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/group_vars/
+-rw-rw-r-- root/root     11622 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/group_vars/all.yaml
+-rw-rw-r-- root/root        32 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/main_spec.rb
+-rw-rw-r-- root/root       309 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/playbook.yml
+drwxrwxr-x root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/roles/
+lrwxrwxrwx root/root         0 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/roles/this-github-role -> ../../
+-rw-rw-r-- root/root       125 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/spec_helper.rb
+-rw-rw-r-- root/root       149 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/vagrant
+-rw-rw-r-- root/root       225 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/vagrant-playbook.yml
+-rw-rw-r-- root/root        12 2014-12-18 17:57 azulinho-jenkins-fully-baked-master/vagrantbox/vagrant-vault

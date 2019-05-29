@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-03-28 04:44 ansible-nginx-proxy-master/
+-rw-rw-r-- root/root      2056 2015-03-28 04:44 ansible-nginx-proxy-master/README.md
+drwxrwxr-x root/root         0 2015-03-28 04:44 ansible-nginx-proxy-master/defaults/
+-rw-rw-r-- root/root       546 2015-03-28 04:44 ansible-nginx-proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-28 04:44 ansible-nginx-proxy-master/handlers/
+-rw-rw-r-- root/root        97 2015-03-28 04:44 ansible-nginx-proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-28 04:44 ansible-nginx-proxy-master/meta/
+-rw-rw-r-- root/root       311 2015-03-28 04:44 ansible-nginx-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-28 04:44 ansible-nginx-proxy-master/tasks/
+-rw-rw-r-- root/root      1839 2015-03-28 04:44 ansible-nginx-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-28 04:44 ansible-nginx-proxy-master/templates/
+-rw-rw-r-- root/root      4095 2015-03-28 04:44 ansible-nginx-proxy-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root      1232 2015-03-28 04:44 ansible-nginx-proxy-master/templates/nginx.expires.conf.j2
+-rw-rw-r-- root/root       346 2015-03-28 04:44 ansible-nginx-proxy-master/templates/nginx.protect-system-files.conf.j2
+-rw-rw-r-- root/root        70 2015-03-28 04:44 ansible-nginx-proxy-master/templates/nginx.x-ua-compatible.conf.j2
+-rw-rw-r-- root/root       347 2015-03-28 04:44 ansible-nginx-proxy-master/templates/no-default.j2
+-rw-rw-r-- root/root      1393 2015-03-28 04:44 ansible-nginx-proxy-master/templates/proxy-app.j2

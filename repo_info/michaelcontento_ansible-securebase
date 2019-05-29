@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-08-23 10:56 ansible-securebase-master/
+-rw-rw-r-- root/root         0 2015-08-23 10:56 ansible-securebase-master/README.md
+drwxrwxr-x root/root         0 2015-08-23 10:56 ansible-securebase-master/defaults/
+-rw-rw-r-- root/root       156 2015-08-23 10:56 ansible-securebase-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-23 10:56 ansible-securebase-master/example/
+drwxrwxr-x root/root         0 2015-08-23 10:56 ansible-securebase-master/example/vagrant/
+-rw-rw-r-- root/root        38 2015-08-23 10:56 ansible-securebase-master/example/vagrant/.gitignore
+-rw-rw-r-- root/root      2997 2015-08-23 10:56 ansible-securebase-master/example/vagrant/Vagrantfile
+-rw-rw-r-- root/root       106 2015-08-23 10:56 ansible-securebase-master/example/vagrant/ansible.cfg
+-rw-rw-r-- root/root       255 2015-08-23 10:56 ansible-securebase-master/example/vagrant/ansible.yml
+-rwxrwxr-x root/root       508 2015-08-23 10:56 ansible-securebase-master/example/vagrant/run.sh
+drwxrwxr-x root/root         0 2015-08-23 10:56 ansible-securebase-master/meta/
+-rw-rw-r-- root/root       742 2015-08-23 10:56 ansible-securebase-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-23 10:56 ansible-securebase-master/tasks/
+-rw-rw-r-- root/root       149 2015-08-23 10:56 ansible-securebase-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-23 10:56 ansible-securebase-master/vars/
+-rw-rw-r-- root/root        15 2015-08-23 10:56 ansible-securebase-master/vars/main.yml

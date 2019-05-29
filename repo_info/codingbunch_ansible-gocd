@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-12-26 10:27 ansible-gocd-master/
+-rw-rw-r-- root/root      1077 2014-12-26 10:27 ansible-gocd-master/LICENSE
+-rw-rw-r-- root/root      1770 2014-12-26 10:27 ansible-gocd-master/README.md
+drwxrwxr-x root/root         0 2014-12-26 10:27 ansible-gocd-master/handlers/
+-rw-rw-r-- root/root       170 2014-12-26 10:27 ansible-gocd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-26 10:27 ansible-gocd-master/meta/
+-rw-rw-r-- root/root       297 2014-12-26 10:27 ansible-gocd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-26 10:27 ansible-gocd-master/tasks/
+-rw-rw-r-- root/root       748 2014-12-26 10:27 ansible-gocd-master/tasks/base.yml
+-rw-rw-r-- root/root       571 2014-12-26 10:27 ansible-gocd-master/tasks/gocd.yml
+-rw-rw-r-- root/root       262 2014-12-26 10:27 ansible-gocd-master/tasks/main.yml
+-rw-rw-r-- root/root       807 2014-12-26 10:27 ansible-gocd-master/tasks/oraclejdk.yml
+drwxrwxr-x root/root         0 2014-12-26 10:27 ansible-gocd-master/templates/
+-rw-rw-r-- root/root       511 2014-12-26 10:27 ansible-gocd-master/templates/ntp.conf
+drwxrwxr-x root/root         0 2014-12-26 10:27 ansible-gocd-master/vars/
+-rw-rw-r-- root/root       286 2014-12-26 10:27 ansible-gocd-master/vars/main.yml

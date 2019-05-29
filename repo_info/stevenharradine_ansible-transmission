@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-01-04 05:21 ansible-transmission-master/
+-rw-rw-r-- root/root       736 2016-01-04 05:21 ansible-transmission-master/LICENSE
+-rw-rw-r-- root/root       768 2016-01-04 05:21 ansible-transmission-master/README.md
+drwxrwxr-x root/root         0 2016-01-04 05:21 ansible-transmission-master/defaults/
+-rw-rw-r-- root/root        70 2016-01-04 05:21 ansible-transmission-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-04 05:21 ansible-transmission-master/meta/
+-rw-rw-r-- root/root       485 2016-01-04 05:21 ansible-transmission-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-04 05:21 ansible-transmission-master/tasks/
+-rw-rw-r-- root/root       611 2016-01-04 05:21 ansible-transmission-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-04 05:21 ansible-transmission-master/templates/
+drwxrwxr-x root/root         0 2016-01-04 05:21 ansible-transmission-master/templates/etc/
+drwxrwxr-x root/root         0 2016-01-04 05:21 ansible-transmission-master/templates/etc/transmission-daemon/
+-rw-rw-r-- root/root      2426 2016-01-04 05:21 ansible-transmission-master/templates/etc/transmission-daemon/settings.json

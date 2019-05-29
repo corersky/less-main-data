@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-28 22:16 ansible-role-php-mysql-master/
+-rw-rw-r-- root/root       996 2015-06-28 22:16 ansible-role-php-mysql-master/.travis.yml
+-rw-rw-r-- root/root      1345 2015-06-28 22:16 ansible-role-php-mysql-master/README.md
+drwxrwxr-x root/root         0 2015-06-28 22:16 ansible-role-php-mysql-master/defaults/
+-rw-rw-r-- root/root        92 2015-06-28 22:16 ansible-role-php-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-28 22:16 ansible-role-php-mysql-master/meta/
+-rw-rw-r-- root/root       416 2015-06-28 22:16 ansible-role-php-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-28 22:16 ansible-role-php-mysql-master/tasks/
+-rw-rw-r-- root/root       713 2015-06-28 22:16 ansible-role-php-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-28 22:16 ansible-role-php-mysql-master/tests/
+-rw-rw-r-- root/root        10 2015-06-28 22:16 ansible-role-php-mysql-master/tests/inventory
+-rw-rw-r-- root/root       162 2015-06-28 22:16 ansible-role-php-mysql-master/tests/test.yml
+drwxrwxr-x root/root         0 2015-06-28 22:16 ansible-role-php-mysql-master/vars/
+-rw-rw-r-- root/root        36 2015-06-28 22:16 ansible-role-php-mysql-master/vars/Debian.yml
+-rw-rw-r-- root/root        35 2015-06-28 22:16 ansible-role-php-mysql-master/vars/RedHat.yml

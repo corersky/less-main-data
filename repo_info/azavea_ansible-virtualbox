@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-10-03 15:17 ansible-virtualbox-master/
+-rw-rw-r-- root/root         9 2017-10-03 15:17 ansible-virtualbox-master/.gitignore
+-rw-rw-r-- root/root        70 2017-10-03 15:17 ansible-virtualbox-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-10-03 15:17 ansible-virtualbox-master/LICENSE
+-rw-rw-r-- root/root       211 2017-10-03 15:17 ansible-virtualbox-master/README.md
+drwxrwxr-x root/root         0 2017-10-03 15:17 ansible-virtualbox-master/defaults/
+-rw-rw-r-- root/root        30 2017-10-03 15:17 ansible-virtualbox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-03 15:17 ansible-virtualbox-master/examples/
+-rw-rw-r-- root/root       278 2017-10-03 15:17 ansible-virtualbox-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2017-10-03 15:17 ansible-virtualbox-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-10-03 15:17 ansible-virtualbox-master/examples/roles/azavea.virtualbox -> ../../
+-rw-rw-r-- root/root        62 2017-10-03 15:17 ansible-virtualbox-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-10-03 15:17 ansible-virtualbox-master/meta/
+-rw-rw-r-- root/root       266 2017-10-03 15:17 ansible-virtualbox-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-03 15:17 ansible-virtualbox-master/tasks/
+-rw-rw-r-- root/root       524 2017-10-03 15:17 ansible-virtualbox-master/tasks/main.yml

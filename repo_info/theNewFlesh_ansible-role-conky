@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-04 01:02 ansible-role-conky-master/
+-rw-rw-r-- root/root       843 2017-11-04 01:02 ansible-role-conky-master/.gitignore
+-rw-rw-r-- root/root       539 2017-11-04 01:02 ansible-role-conky-master/.travis.yml
+-rw-rw-r-- root/root      1328 2017-11-04 01:02 ansible-role-conky-master/README.md
+drwxrwxr-x root/root         0 2017-11-04 01:02 ansible-role-conky-master/defaults/
+-rw-rw-r-- root/root        19 2017-11-04 01:02 ansible-role-conky-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-04 01:02 ansible-role-conky-master/files/
+-rw-rw-r-- root/root        91 2017-11-04 01:02 ansible-role-conky-master/files/conky.desktop
+drwxrwxr-x root/root         0 2017-11-04 01:02 ansible-role-conky-master/meta/
+-rw-rw-r-- root/root       307 2017-11-04 01:02 ansible-role-conky-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-04 01:02 ansible-role-conky-master/tasks/
+-rw-rw-r-- root/root       506 2017-11-04 01:02 ansible-role-conky-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-04 01:02 ansible-role-conky-master/tests/
+-rw-rw-r-- root/root       257 2017-11-04 01:02 ansible-role-conky-master/tests/ansible.cfg
+-rw-rw-r-- root/root       109 2017-11-04 01:02 ansible-role-conky-master/tests/staging
+-rw-rw-r-- root/root       194 2017-11-04 01:02 ansible-role-conky-master/tests/test.yml

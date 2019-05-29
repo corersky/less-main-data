@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-31 22:18 servicenow_network_tickets-master/
+-rw-rw-r-- root/root      1928 2019-03-31 22:18 servicenow_network_tickets-master/README.md
+drwxrwxr-x root/root         0 2019-03-31 22:18 servicenow_network_tickets-master/examples/
+-rw-rw-r-- root/root      1455 2019-03-31 22:18 servicenow_network_tickets-master/examples/intent_aaa.yml
+-rw-rw-r-- root/root       908 2019-03-31 22:18 servicenow_network_tickets-master/examples/intent_dns.yml
+-rw-rw-r-- root/root       826 2019-03-31 22:18 servicenow_network_tickets-master/examples/intent_logging.yml
+-rw-rw-r-- root/root       893 2019-03-31 22:18 servicenow_network_tickets-master/examples/intent_ntp.yml
+-rw-rw-r-- root/root      1227 2019-03-31 22:18 servicenow_network_tickets-master/examples/intent_snmp.yml
+drwxrwxr-x root/root         0 2019-03-31 22:18 servicenow_network_tickets-master/files/
+-rw-rw-r-- root/root       108 2019-03-31 22:18 servicenow_network_tickets-master/files/ios_tasks.yaml
+-rw-rw-r-- root/root      1039 2019-03-31 22:18 servicenow_network_tickets-master/files/ios_version.yaml
+drwxrwxr-x root/root         0 2019-03-31 22:18 servicenow_network_tickets-master/meta/
+-rw-rw-r-- root/root      1443 2019-03-31 22:18 servicenow_network_tickets-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 22:18 servicenow_network_tickets-master/tasks/
+-rw-rw-r-- root/root       785 2019-03-31 22:18 servicenow_network_tickets-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 22:18 servicenow_network_tickets-master/vars/
+-rw-rw-r-- root/root       287 2019-03-31 22:18 servicenow_network_tickets-master/vars/main.yml

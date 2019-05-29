@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/
+-rw-rw-r-- root/root        66 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/.gitignore
+-rw-rw-r-- root/root      1507 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/LICENSE.mkd
+-rw-rw-r-- root/root      1731 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/defaults/
+-rw-rw-r-- root/root       569 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/meta/
+-rw-rw-r-- root/root       618 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/tasks/
+-rw-rw-r-- root/root       238 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/templates/
+-rw-rw-r-- root/root       487 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/templates/configmap.yml.j2
+-rw-rw-r-- root/root      1868 2019-05-21 11:42 ansible-role-kubernetes-nginx-l4-lb-master/templates/daemonset.yml.j2

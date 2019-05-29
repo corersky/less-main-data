@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-10-08 06:33 ansible_git-master/
+-rw-rw-r-- root/root        31 2018-10-08 06:33 ansible_git-master/.gitignore
+-rw-rw-r-- root/root        60 2018-10-08 06:33 ansible_git-master/README.md
+drwxrwxr-x root/root         0 2018-10-08 06:33 ansible_git-master/meta/
+-rw-rw-r-- root/root       303 2018-10-08 06:33 ansible_git-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-08 06:33 ansible_git-master/tasks/
+-rw-rw-r-- root/root       195 2018-10-08 06:33 ansible_git-master/tasks/configure.yml
+-rw-rw-r-- root/root       238 2018-10-08 06:33 ansible_git-master/tasks/install.yml
+-rw-rw-r-- root/root        70 2018-10-08 06:33 ansible_git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-08 06:33 ansible_git-master/vars/
+-rw-rw-r-- root/root        45 2018-10-08 06:33 ansible_git-master/vars/CentOS.yml
+-rw-rw-r-- root/root        43 2018-10-08 06:33 ansible_git-master/vars/Ubuntu.yml

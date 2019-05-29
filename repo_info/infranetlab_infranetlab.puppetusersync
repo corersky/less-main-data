@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-22 11:17 infranetlab.puppetusersync-master/
+-rw-rw-r-- root/root      1620 2018-09-22 11:17 infranetlab.puppetusersync-master/.gitignore
+-rw-rw-r-- root/root      1078 2018-09-22 11:17 infranetlab.puppetusersync-master/LICENSE
+-rw-rw-r-- root/root      1235 2018-09-22 11:17 infranetlab.puppetusersync-master/README.md
+drwxrwxr-x root/root         0 2018-09-22 11:17 infranetlab.puppetusersync-master/defaults/
+-rw-rw-r-- root/root       245 2018-09-22 11:17 infranetlab.puppetusersync-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-22 11:17 infranetlab.puppetusersync-master/library/
+-rw-rw-r-- root/root      2120 2018-09-22 11:17 infranetlab.puppetusersync-master/library/user_diffs.py
+-rw-rw-r-- root/root      7523 2018-09-22 11:17 infranetlab.puppetusersync-master/library/users2yaml.py
+drwxrwxr-x root/root         0 2018-09-22 11:17 infranetlab.puppetusersync-master/meta/
+-rw-rw-r-- root/root      1113 2018-09-22 11:17 infranetlab.puppetusersync-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-22 11:17 infranetlab.puppetusersync-master/tasks/
+-rw-rw-r-- root/root       384 2018-09-22 11:17 infranetlab.puppetusersync-master/tasks/import_puppet_users.yml
+-rw-rw-r-- root/root      1976 2018-09-22 11:17 infranetlab.puppetusersync-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-22 11:17 infranetlab.puppetusersync-master/tests/
+-rw-rw-r-- root/root        11 2018-09-22 11:17 infranetlab.puppetusersync-master/tests/inventory
+-rw-rw-r-- root/root        98 2018-09-22 11:17 infranetlab.puppetusersync-master/tests/test.yml

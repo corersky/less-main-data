@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-10-28 16:12 ansible-role-libreoffice-master/
+-rw-rw-r-- root/root       539 2016-10-28 16:12 ansible-role-libreoffice-master/.travis.yml
+-rw-rw-r-- root/root       539 2016-10-28 16:12 ansible-role-libreoffice-master/README.md
+drwxrwxr-x root/root         0 2016-10-28 16:12 ansible-role-libreoffice-master/meta/
+-rw-rw-r-- root/root       326 2016-10-28 16:12 ansible-role-libreoffice-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-28 16:12 ansible-role-libreoffice-master/tasks/
+-rw-rw-r-- root/root       122 2016-10-28 16:12 ansible-role-libreoffice-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-28 16:12 ansible-role-libreoffice-master/tests/
+-rw-rw-r-- root/root        10 2016-10-28 16:12 ansible-role-libreoffice-master/tests/inventory
+-rw-rw-r-- root/root        83 2016-10-28 16:12 ansible-role-libreoffice-master/tests/test.yml

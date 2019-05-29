@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/
+-rw-rw-r-- root/root         8 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/.gitignore
+-rw-rw-r-- root/root       752 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/.travis.yml
+-rw-rw-r-- root/root      1320 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/LICENSE
+-rw-rw-r-- root/root       806 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/README.md
+drwxrwxr-x root/root         0 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/meta/
+-rw-rw-r-- root/root       608 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/tasks/
+-rw-rw-r-- root/root       208 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/tests/
+-rw-rw-r-- root/root        32 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/tests/inventory
+-rw-rw-r-- root/root        42 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/tests/inventory-with-localhost
+-rw-rw-r-- root/root       105 2019-01-10 03:36 ansible-require-implicity-localhost-role-master/tests/test.yml

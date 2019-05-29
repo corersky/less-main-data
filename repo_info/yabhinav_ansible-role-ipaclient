@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-23 12:03 ansible-role-ipaclient-master/
+-rw-rw-r-- root/root        80 2017-07-23 12:03 ansible-role-ipaclient-master/.gitignore
+-rw-rw-r-- root/root      1017 2017-07-23 12:03 ansible-role-ipaclient-master/.travis.yml
+-rw-rw-r-- root/root      2147 2017-07-23 12:03 ansible-role-ipaclient-master/README.md
+drwxrwxr-x root/root         0 2017-07-23 12:03 ansible-role-ipaclient-master/defaults/
+-rw-rw-r-- root/root       570 2017-07-23 12:03 ansible-role-ipaclient-master/defaults/main.yml
+-rw-rw-r-- root/root       109 2017-07-23 12:03 ansible-role-ipaclient-master/install_roles.yml
+drwxrwxr-x root/root         0 2017-07-23 12:03 ansible-role-ipaclient-master/meta/
+-rw-rw-r-- root/root       494 2017-07-23 12:03 ansible-role-ipaclient-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-23 12:03 ansible-role-ipaclient-master/tasks/
+-rw-rw-r-- root/root      1576 2017-07-23 12:03 ansible-role-ipaclient-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-23 12:03 ansible-role-ipaclient-master/vars/
+-rw-rw-r-- root/root       225 2017-07-23 12:03 ansible-role-ipaclient-master/vars/Debian.yml
+-rw-rw-r-- root/root       286 2017-07-23 12:03 ansible-role-ipaclient-master/vars/RedHat.yml
+-rw-rw-r-- root/root       266 2017-07-23 12:03 ansible-role-ipaclient-master/vars/default.yml

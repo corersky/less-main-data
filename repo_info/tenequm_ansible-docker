@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-13 07:50 ansible-docker-master/
+-rw-rw-r-- root/root      1084 2018-08-13 07:50 ansible-docker-master/LICENSE
+-rw-rw-r-- root/root      6359 2018-08-13 07:50 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2018-08-13 07:50 ansible-docker-master/defaults/
+-rw-rw-r-- root/root      3117 2018-08-13 07:50 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-13 07:50 ansible-docker-master/handlers/
+-rw-rw-r-- root/root        97 2018-08-13 07:50 ansible-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-13 07:50 ansible-docker-master/meta/
+-rw-rw-r-- root/root       355 2018-08-13 07:50 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-13 07:50 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       956 2018-08-13 07:50 ansible-docker-master/tasks/configurations.yml
+-rw-rw-r-- root/root       667 2018-08-13 07:50 ansible-docker-master/tasks/docker-compose.yml
+-rw-rw-r-- root/root      1583 2018-08-13 07:50 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-13 07:50 ansible-docker-master/templates/
+-rw-rw-r-- root/root       193 2018-08-13 07:50 ansible-docker-master/templates/etc-logrotate.d-docker.j2
+-rw-rw-r-- root/root       192 2018-08-13 07:50 ansible-docker-master/templates/etc-logrotate.d-docker_volumes.j2

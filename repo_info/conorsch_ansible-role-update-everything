@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-07-05 17:23 ansible-role-update-everything-master/
+-rw-rw-r-- root/root       572 2016-07-05 17:23 ansible-role-update-everything-master/README.md
+drwxrwxr-x root/root         0 2016-07-05 17:23 ansible-role-update-everything-master/defaults/
+-rw-rw-r-- root/root        42 2016-07-05 17:23 ansible-role-update-everything-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-05 17:23 ansible-role-update-everything-master/handlers/
+-rw-rw-r-- root/root        42 2016-07-05 17:23 ansible-role-update-everything-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-05 17:23 ansible-role-update-everything-master/meta/
+-rw-rw-r-- root/root       280 2016-07-05 17:23 ansible-role-update-everything-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-05 17:23 ansible-role-update-everything-master/tasks/
+-rw-rw-r-- root/root       541 2016-07-05 17:23 ansible-role-update-everything-master/tasks/Debian_sudo.yml
+-rw-rw-r-- root/root      1073 2016-07-05 17:23 ansible-role-update-everything-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-05 17:23 ansible-role-update-everything-master/vars/
+-rw-rw-r-- root/root        38 2016-07-05 17:23 ansible-role-update-everything-master/vars/main.yml

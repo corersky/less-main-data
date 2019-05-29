@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/
+-rw-rw-r-- root/root       539 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/.travis.yml
+-rw-rw-r-- root/root      1184 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/README.md
+drwxrwxr-x root/root         0 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/defaults/
+-rw-rw-r-- root/root        97 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/meta/
+-rw-rw-r-- root/root       340 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/tasks/
+-rw-rw-r-- root/root       345 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/tests/
+-rw-rw-r-- root/root         9 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/tests/inventory
+-rw-rw-r-- root/root        88 2017-07-17 16:06 ansible-role-tower-inventory-write-variable-master/tests/test.yml

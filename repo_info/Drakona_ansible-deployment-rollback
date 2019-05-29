@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-05-09 09:25 ansible-deployment-rollback-master/
+-rw-rw-r-- root/root      1084 2017-05-09 09:25 ansible-deployment-rollback-master/LICENSE
+-rw-rw-r-- root/root       538 2017-05-09 09:25 ansible-deployment-rollback-master/README.md
+drwxrwxr-x root/root         0 2017-05-09 09:25 ansible-deployment-rollback-master/library/
+-rw-rw-r-- root/root      1674 2017-05-09 09:25 ansible-deployment-rollback-master/library/rollback_facts
+drwxrwxr-x root/root         0 2017-05-09 09:25 ansible-deployment-rollback-master/meta/
+-rw-rw-r-- root/root       334 2017-05-09 09:25 ansible-deployment-rollback-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-09 09:25 ansible-deployment-rollback-master/tasks/
+-rw-rw-r-- root/root       508 2017-05-09 09:25 ansible-deployment-rollback-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-09 09:25 ansible-deployment-rollback-master/vars/
+-rw-rw-r-- root/root       165 2017-05-09 09:25 ansible-deployment-rollback-master/vars/main.yml

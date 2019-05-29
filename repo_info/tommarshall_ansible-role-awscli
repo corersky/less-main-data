@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-22 03:18 ansible-role-awscli-master/
+-rw-rw-r-- root/root      1248 2018-02-22 03:18 ansible-role-awscli-master/.travis.yml
+-rw-rw-r-- root/root      1572 2018-02-22 03:18 ansible-role-awscli-master/README.md
+drwxrwxr-x root/root         0 2018-02-22 03:18 ansible-role-awscli-master/defaults/
+-rw-rw-r-- root/root       105 2018-02-22 03:18 ansible-role-awscli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-22 03:18 ansible-role-awscli-master/meta/
+-rw-rw-r-- root/root       363 2018-02-22 03:18 ansible-role-awscli-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-22 03:18 ansible-role-awscli-master/tasks/
+-rw-rw-r-- root/root      1135 2018-02-22 03:18 ansible-role-awscli-master/tasks/main.yml
+-rw-rw-r-- root/root       271 2018-02-22 03:18 ansible-role-awscli-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       171 2018-02-22 03:18 ansible-role-awscli-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2018-02-22 03:18 ansible-role-awscli-master/templates/
+-rw-rw-r-- root/root       465 2018-02-22 03:18 ansible-role-awscli-master/templates/aws_config.j2
+-rw-rw-r-- root/root       581 2018-02-22 03:18 ansible-role-awscli-master/templates/aws_credentials.j2
+drwxrwxr-x root/root         0 2018-02-22 03:18 ansible-role-awscli-master/tests/
+-rw-rw-r-- root/root        10 2018-02-22 03:18 ansible-role-awscli-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-02-22 03:18 ansible-role-awscli-master/tests/test.yml

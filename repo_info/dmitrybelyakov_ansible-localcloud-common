@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-02 06:39 ansible-localcloud-common-master/
+-rw-rw-r-- root/root        78 2018-03-02 06:39 ansible-localcloud-common-master/.gitignore
+-rw-rw-r-- root/root      1983 2018-03-02 06:39 ansible-localcloud-common-master/README.md
+drwxrwxr-x root/root         0 2018-03-02 06:39 ansible-localcloud-common-master/defaults/
+-rw-rw-r-- root/root       136 2018-03-02 06:39 ansible-localcloud-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-02 06:39 ansible-localcloud-common-master/handlers/
+-rw-rw-r-- root/root       155 2018-03-02 06:39 ansible-localcloud-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-02 06:39 ansible-localcloud-common-master/meta/
+-rw-rw-r-- root/root       304 2018-03-02 06:39 ansible-localcloud-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-02 06:39 ansible-localcloud-common-master/tasks/
+-rw-rw-r-- root/root       221 2018-03-02 06:39 ansible-localcloud-common-master/tasks/main.yml
+-rw-rw-r-- root/root       880 2018-03-02 06:39 ansible-localcloud-common-master/tasks/security.yml
+-rw-rw-r-- root/root       232 2018-03-02 06:39 ansible-localcloud-common-master/tasks/software.yml

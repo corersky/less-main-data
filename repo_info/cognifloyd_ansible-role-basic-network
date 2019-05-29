@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-01-19 01:33 ansible-role-basic-network-master/
+-rw-rw-r-- root/root       539 2017-01-19 01:33 ansible-role-basic-network-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-01-19 01:33 ansible-role-basic-network-master/LICENSE
+-rw-rw-r-- root/root      1069 2017-01-19 01:33 ansible-role-basic-network-master/README.md
+drwxrwxr-x root/root         0 2017-01-19 01:33 ansible-role-basic-network-master/files/
+-rw-rw-r-- root/root        86 2017-01-19 01:33 ansible-role-basic-network-master/files/ifcfg-eth0
+drwxrwxr-x root/root         0 2017-01-19 01:33 ansible-role-basic-network-master/meta/
+-rw-rw-r-- root/root       326 2017-01-19 01:33 ansible-role-basic-network-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-19 01:33 ansible-role-basic-network-master/tasks/
+-rw-rw-r-- root/root       535 2017-01-19 01:33 ansible-role-basic-network-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-19 01:33 ansible-role-basic-network-master/tests/
+-rw-rw-r-- root/root         9 2017-01-19 01:33 ansible-role-basic-network-master/tests/inventory
+-rw-rw-r-- root/root        84 2017-01-19 01:33 ansible-role-basic-network-master/tests/test.yml

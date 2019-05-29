@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-04-07 23:43 ansible-role-powershell-master/
+-rw-rw-r-- root/root        42 2018-04-07 23:43 ansible-role-powershell-master/.gitignore
+-rw-rw-r-- root/root       668 2018-04-07 23:43 ansible-role-powershell-master/.travis.yml
+-rw-rw-r-- root/root       734 2018-04-07 23:43 ansible-role-powershell-master/README.md
+drwxrwxr-x root/root         0 2018-04-07 23:43 ansible-role-powershell-master/defaults/
+-rw-rw-r-- root/root       264 2018-04-07 23:43 ansible-role-powershell-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-07 23:43 ansible-role-powershell-master/meta/
+-rw-rw-r-- root/root       418 2018-04-07 23:43 ansible-role-powershell-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-07 23:43 ansible-role-powershell-master/tasks/
+-rw-rw-r-- root/root       463 2018-04-07 23:43 ansible-role-powershell-master/tasks/Debian.yml
+-rw-rw-r-- root/root       524 2018-04-07 23:43 ansible-role-powershell-master/tasks/Fedora.yml
+-rw-rw-r-- root/root       376 2018-04-07 23:43 ansible-role-powershell-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       397 2018-04-07 23:43 ansible-role-powershell-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-07 23:43 ansible-role-powershell-master/tests/
+-rw-rw-r-- root/root       632 2018-04-07 23:43 ansible-role-powershell-master/tests/README.md
+-rw-rw-r-- root/root       464 2018-04-07 23:43 ansible-role-powershell-master/tests/test.yml

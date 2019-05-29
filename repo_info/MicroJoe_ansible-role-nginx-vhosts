@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-17 14:29 ansible-role-nginx-vhosts-master/
+-rw-rw-r-- root/root       603 2017-07-17 14:29 ansible-role-nginx-vhosts-master/.travis.yml
+-rw-rw-r-- root/root       825 2017-07-17 14:29 ansible-role-nginx-vhosts-master/README.md
+drwxrwxr-x root/root         0 2017-07-17 14:29 ansible-role-nginx-vhosts-master/defaults/
+-rw-rw-r-- root/root        46 2017-07-17 14:29 ansible-role-nginx-vhosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-17 14:29 ansible-role-nginx-vhosts-master/handlers/
+-rw-rw-r-- root/root        46 2017-07-17 14:29 ansible-role-nginx-vhosts-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-17 14:29 ansible-role-nginx-vhosts-master/meta/
+-rw-rw-r-- root/root       273 2017-07-17 14:29 ansible-role-nginx-vhosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-17 14:29 ansible-role-nginx-vhosts-master/tasks/
+-rw-rw-r-- root/root       642 2017-07-17 14:29 ansible-role-nginx-vhosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-17 14:29 ansible-role-nginx-vhosts-master/tests/
+-rw-rw-r-- root/root        11 2017-07-17 14:29 ansible-role-nginx-vhosts-master/tests/inventory
+-rw-rw-r-- root/root        84 2017-07-17 14:29 ansible-role-nginx-vhosts-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-17 14:29 ansible-role-nginx-vhosts-master/vars/
+-rw-rw-r-- root/root        42 2017-07-17 14:29 ansible-role-nginx-vhosts-master/vars/main.yml

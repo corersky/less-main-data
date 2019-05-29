@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2014-10-22 18:17 ansible-role-modcloth-confd-master/
+-rw-rw-r-- root/root       200 2014-10-22 18:17 ansible-role-modcloth-confd-master/.travis.yml
+-rw-rw-r-- root/root      2300 2014-10-22 18:17 ansible-role-modcloth-confd-master/README.md
+drwxrwxr-x root/root         0 2014-10-22 18:17 ansible-role-modcloth-confd-master/defaults/
+-rw-rw-r-- root/root       388 2014-10-22 18:17 ansible-role-modcloth-confd-master/defaults/main.yml
+-rw-rw-r-- root/root        74 2014-10-22 18:17 ansible-role-modcloth-confd-master/example.yml
+drwxrwxr-x root/root         0 2014-10-22 18:17 ansible-role-modcloth-confd-master/meta/
+-rw-rw-r-- root/root       220 2014-10-22 18:17 ansible-role-modcloth-confd-master/meta/main.yml
+-rw-rw-r-- root/root        15 2014-10-22 18:17 ansible-role-modcloth-confd-master/requirements.txt
+drwxrwxr-x root/root         0 2014-10-22 18:17 ansible-role-modcloth-confd-master/roles/
+lrwxrwxrwx root/root         0 2014-10-22 18:17 ansible-role-modcloth-confd-master/roles/modcloth.confd -> ../
+drwxrwxr-x root/root         0 2014-10-22 18:17 ansible-role-modcloth-confd-master/tasks/
+-rw-rw-r-- root/root      1174 2014-10-22 18:17 ansible-role-modcloth-confd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-22 18:17 ansible-role-modcloth-confd-master/templates/
+-rw-rw-r-- root/root       343 2014-10-22 18:17 ansible-role-modcloth-confd-master/templates/confd.conf.j2
+-rw-rw-r-- root/root       559 2014-10-22 18:17 ansible-role-modcloth-confd-master/templates/resource.toml.j2
+drwxrwxr-x root/root         0 2014-10-22 18:17 ansible-role-modcloth-confd-master/vars/
+-rw-rw-r-- root/root         4 2014-10-22 18:17 ansible-role-modcloth-confd-master/vars/main.yml

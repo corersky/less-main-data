@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-04 06:47 ansible-video4linux-master/
+-rw-rw-r-- root/root       676 2018-01-04 06:47 ansible-video4linux-master/README.md
+drwxrwxr-x root/root         0 2018-01-04 06:47 ansible-video4linux-master/defaults/
+-rw-rw-r-- root/root        35 2018-01-04 06:47 ansible-video4linux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-04 06:47 ansible-video4linux-master/handlers/
+-rw-rw-r-- root/root        35 2018-01-04 06:47 ansible-video4linux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-04 06:47 ansible-video4linux-master/meta/
+-rw-rw-r-- root/root       267 2018-01-04 06:47 ansible-video4linux-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-04 06:47 ansible-video4linux-master/tasks/
+-rw-rw-r-- root/root       101 2018-01-04 06:47 ansible-video4linux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-04 06:47 ansible-video4linux-master/tests/
+-rw-rw-r-- root/root        11 2018-01-04 06:47 ansible-video4linux-master/tests/inventory
+-rw-rw-r-- root/root        69 2018-01-04 06:47 ansible-video4linux-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-04 06:47 ansible-video4linux-master/vars/
+-rw-rw-r-- root/root        31 2018-01-04 06:47 ansible-video4linux-master/vars/main.yml

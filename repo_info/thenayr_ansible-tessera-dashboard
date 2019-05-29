@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-07-25 13:34 ansible-tessera-dashboard-master/
+-rw-rw-r-- root/root         6 2014-07-25 13:34 ansible-tessera-dashboard-master/.gitignore
+-rw-rw-r-- root/root      1334 2014-07-25 13:34 ansible-tessera-dashboard-master/README.md
+drwxrwxr-x root/root         0 2014-07-25 13:34 ansible-tessera-dashboard-master/defaults/
+-rw-rw-r-- root/root       194 2014-07-25 13:34 ansible-tessera-dashboard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-25 13:34 ansible-tessera-dashboard-master/handlers/
+-rw-rw-r-- root/root       299 2014-07-25 13:34 ansible-tessera-dashboard-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-07-25 13:34 ansible-tessera-dashboard-master/meta/
+-rw-rw-r-- root/root       280 2014-07-25 13:34 ansible-tessera-dashboard-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-25 13:34 ansible-tessera-dashboard-master/tasks/
+-rw-rw-r-- root/root      3048 2014-07-25 13:34 ansible-tessera-dashboard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-07-25 13:34 ansible-tessera-dashboard-master/templates/
+-rw-rw-r-- root/root       212 2014-07-25 13:34 ansible-tessera-dashboard-master/templates/tessera-upstart.conf.j2
+-rw-rw-r-- root/root       242 2014-07-25 13:34 ansible-tessera-dashboard-master/templates/tessera.conf.j2
+drwxrwxr-x root/root         0 2014-07-25 13:34 ansible-tessera-dashboard-master/vars/
+-rw-rw-r-- root/root        28 2014-07-25 13:34 ansible-tessera-dashboard-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-18 17:06 ansible-role-firewall-master/
+-rw-rw-r-- root/root       539 2017-04-18 17:06 ansible-role-firewall-master/.travis.yml
+-rw-rw-r-- root/root       750 2017-04-18 17:06 ansible-role-firewall-master/README.md
+drwxrwxr-x root/root         0 2017-04-18 17:06 ansible-role-firewall-master/defaults/
+-rw-rw-r-- root/root      7113 2017-04-18 17:06 ansible-role-firewall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-18 17:06 ansible-role-firewall-master/handlers/
+-rw-rw-r-- root/root       307 2017-04-18 17:06 ansible-role-firewall-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-18 17:06 ansible-role-firewall-master/meta/
+-rw-rw-r-- root/root       253 2017-04-18 17:06 ansible-role-firewall-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-18 17:06 ansible-role-firewall-master/tasks/
+-rw-rw-r-- root/root       934 2017-04-18 17:06 ansible-role-firewall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-18 17:06 ansible-role-firewall-master/templates/
+-rw-rw-r-- root/root       179 2017-04-18 17:06 ansible-role-firewall-master/templates/rsyslog.conf.j2
+-rw-rw-r-- root/root       904 2017-04-18 17:06 ansible-role-firewall-master/templates/rules.v4.j2
+-rwxrwxr-x root/root       954 2017-04-18 17:06 ansible-role-firewall-master/templates/rules.v6.j2
+drwxrwxr-x root/root         0 2017-04-18 17:06 ansible-role-firewall-master/vars/
+-rw-rw-r-- root/root      5587 2017-04-18 17:06 ansible-role-firewall-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-08 04:17 ansible-role-geoserver-master/
+-rw-rw-r-- root/root       539 2017-04-08 04:17 ansible-role-geoserver-master/.travis.yml
+-rw-rw-r-- root/root       478 2017-04-08 04:17 ansible-role-geoserver-master/README.md
+drwxrwxr-x root/root         0 2017-04-08 04:17 ansible-role-geoserver-master/defaults/
+-rw-rw-r-- root/root       265 2017-04-08 04:17 ansible-role-geoserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-08 04:17 ansible-role-geoserver-master/meta/
+-rw-rw-r-- root/root       285 2017-04-08 04:17 ansible-role-geoserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-08 04:17 ansible-role-geoserver-master/tasks/
+-rw-rw-r-- root/root       172 2017-04-08 04:17 ansible-role-geoserver-master/tasks/download.yaml
+-rw-rw-r-- root/root      1186 2017-04-08 04:17 ansible-role-geoserver-master/tasks/main.yml
+-rw-rw-r-- root/root       188 2017-04-08 04:17 ansible-role-geoserver-master/tasks/plugins.yml
+drwxrwxr-x root/root         0 2017-04-08 04:17 ansible-role-geoserver-master/tests/
+-rw-rw-r-- root/root         9 2017-04-08 04:17 ansible-role-geoserver-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-04-08 04:17 ansible-role-geoserver-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-16 05:01 ansible-role-chage-master/
+-rw-rw-r-- root/root        32 2018-06-16 05:01 ansible-role-chage-master/.gitignore
+-rw-rw-r-- root/root       325 2018-06-16 05:01 ansible-role-chage-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-06-16 05:01 ansible-role-chage-master/LICENSE
+-rw-rw-r-- root/root      3262 2018-06-16 05:01 ansible-role-chage-master/README.md
+drwxrwxr-x root/root         0 2018-06-16 05:01 ansible-role-chage-master/library/
+-rw-rw-r-- root/root      7317 2018-06-16 05:01 ansible-role-chage-master/library/chage
+drwxrwxr-x root/root         0 2018-06-16 05:01 ansible-role-chage-master/meta/
+-rw-rw-r-- root/root       298 2018-06-16 05:01 ansible-role-chage-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-16 05:01 ansible-role-chage-master/tests/
+-rw-rw-r-- root/root      1849 2018-06-16 05:01 ansible-role-chage-master/tests/Dockerfile.centos5
+-rw-rw-r-- root/root       511 2018-06-16 05:01 ansible-role-chage-master/tests/Dockerfile.ubuntu14.04
+-rw-rw-r-- root/root       488 2018-06-16 05:01 ansible-role-chage-master/tests/Makefile
+-rw-rw-r-- root/root        37 2018-06-16 05:01 ansible-role-chage-master/tests/ansible.cfg
+-rw-rw-r-- root/root       156 2018-06-16 05:01 ansible-role-chage-master/tests/hosts
+lrwxrwxrwx root/root         0 2018-06-16 05:01 ansible-role-chage-master/tests/library -> ../library/
+-rw-rw-r-- root/root      3179 2018-06-16 05:01 ansible-role-chage-master/tests/test_playbook.yml

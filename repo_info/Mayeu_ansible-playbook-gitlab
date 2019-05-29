@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-06-10 16:51 ansible-playbook-gitlab-master/
+-rw-rw-r-- root/root        50 2014-06-10 16:51 ansible-playbook-gitlab-master/.gitignore
+-rw-rw-r-- root/root       665 2014-06-10 16:51 ansible-playbook-gitlab-master/README.md
+-rw-rw-r-- root/root       226 2014-06-10 16:51 ansible-playbook-gitlab-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-06-10 16:51 ansible-playbook-gitlab-master/defaults/
+-rw-rw-r-- root/root       150 2014-06-10 16:51 ansible-playbook-gitlab-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-06-10 16:51 ansible-playbook-gitlab-master/handlers/
+-rw-rw-r-- root/root        64 2014-06-10 16:51 ansible-playbook-gitlab-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-06-10 16:51 ansible-playbook-gitlab-master/meta/
+-rw-rw-r-- root/root      2076 2014-06-10 16:51 ansible-playbook-gitlab-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-06-10 16:51 ansible-playbook-gitlab-master/tasks/
+-rw-rw-r-- root/root       354 2014-06-10 16:51 ansible-playbook-gitlab-master/tasks/main.yml
+-rw-rw-r-- root/root       167 2014-06-10 16:51 ansible-playbook-gitlab-master/test.yml

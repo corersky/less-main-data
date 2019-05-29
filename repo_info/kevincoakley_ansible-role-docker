@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/
+-rw-rw-r-- root/root       979 2017-04-14 12:51 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root      1018 2017-04-14 12:51 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root      3026 2017-04-14 12:51 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       162 2017-04-14 12:51 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/files/
+-rw-rw-r-- root/root        12 2017-04-14 12:51 ansible-role-docker-master/files/docker
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        62 2017-04-14 12:51 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       646 2017-04-14 12:51 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root      1740 2017-04-14 12:51 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root       997 2017-04-14 12:51 ansible-role-docker-master/templates/container.service.j2
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root       316 2017-04-14 12:51 ansible-role-docker-master/tests/inventory
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-04-14 12:51 ansible-role-docker-master/tests/roles/ansible-role-docker -> ../..
+-rw-rw-r-- root/root      1915 2017-04-14 12:51 ansible-role-docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-14 12:51 ansible-role-docker-master/vars/
+-rw-rw-r-- root/root        40 2017-04-14 12:51 ansible-role-docker-master/vars/main.yml

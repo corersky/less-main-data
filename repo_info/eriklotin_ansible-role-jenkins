@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-master/
+-rw-rw-r-- root/root         5 2019-02-10 07:34 ansible-role-jenkins-master/.gitignore
+-rw-rw-r-- root/root      1067 2019-02-10 07:34 ansible-role-jenkins-master/LICENSE
+-rw-rw-r-- root/root       957 2019-02-10 07:34 ansible-role-jenkins-master/README.md
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-master/defaults/
+-rw-rw-r-- root/root        72 2019-02-10 07:34 ansible-role-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-master/files/
+-rw-rw-r-- root/root       160 2019-02-10 07:34 ansible-role-jenkins-master/files/add-docker-group.sh
+-rw-rw-r-- root/root       360 2019-02-10 07:34 ansible-role-jenkins-master/files/docker-compose.yml
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-master/handlers/
+-rw-rw-r-- root/root       765 2019-02-10 07:34 ansible-role-jenkins-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-master/meta/
+-rw-rw-r-- root/root       459 2019-02-10 07:34 ansible-role-jenkins-master/meta/main.yml
+-rw-rw-r-- root/root        27 2019-02-10 07:34 ansible-role-jenkins-master/requirements.yml
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-master/tasks/
+-rw-rw-r-- root/root       901 2019-02-10 07:34 ansible-role-jenkins-master/tasks/main.yml

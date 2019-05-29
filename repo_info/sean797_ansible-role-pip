@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-02-26 10:52 ansible-role-pip-master/
+-rw-rw-r-- root/root      1328 2018-02-26 10:52 ansible-role-pip-master/README.md
+drwxrwxr-x root/root         0 2018-02-26 10:52 ansible-role-pip-master/defaults/
+-rw-rw-r-- root/root        34 2018-02-26 10:52 ansible-role-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-26 10:52 ansible-role-pip-master/meta/
+-rw-rw-r-- root/root       385 2018-02-26 10:52 ansible-role-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-26 10:52 ansible-role-pip-master/tasks/
+-rw-rw-r-- root/root       189 2018-02-26 10:52 ansible-role-pip-master/tasks/install.yml
+-rw-rw-r-- root/root        33 2018-02-26 10:52 ansible-role-pip-master/tasks/main.yml

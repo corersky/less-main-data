@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/
+-rw-rw-r-- root/root       106 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/.gitignore
+drwxrwxr-x root/root         0 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/defaults/
+-rw-rw-r-- root/root       156 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/meta/
+-rw-rw-r-- root/root       290 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/tasks/
+-rw-rw-r-- root/root       574 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/templates/
+-rw-rw-r-- root/root      4623 2018-11-05 16:17 ansible-role-kubernetes-dashboard-master/templates/kubernetes-dashboard.yml.j2

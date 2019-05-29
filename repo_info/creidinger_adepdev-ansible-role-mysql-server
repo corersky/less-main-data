@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/
+-rw-rw-r-- root/root        66 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/README.md
+drwxrwxr-x root/root         0 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/defaults/
+-rw-rw-r-- root/root        75 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/meta/
+-rw-rw-r-- root/root       424 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/tasks/
+-rw-rw-r-- root/root      2640 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/templates/
+-rw-rw-r-- root/root        54 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/templates/my.cnf.j2
+-rw-rw-r-- root/root       100 2019-04-11 01:15 adepdev-ansible-role-mysql-server-master/templates/rootpass.sql.j2

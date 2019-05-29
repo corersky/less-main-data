@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-nodejs-master/
+-rw-rw-r-- root/root       633 2016-11-15 03:44 ansible-role-nodejs-master/.gitignore
+-rw-rw-r-- root/root       784 2016-11-15 03:44 ansible-role-nodejs-master/README.md
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-nodejs-master/defaults/
+-rw-rw-r-- root/root        82 2016-11-15 03:44 ansible-role-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-nodejs-master/meta/
+-rw-rw-r-- root/root       263 2016-11-15 03:44 ansible-role-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-nodejs-master/tasks/
+-rw-rw-r-- root/root      2972 2016-11-15 03:44 ansible-role-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-nodejs-master/templates/
+-rw-rw-r-- root/root        86 2016-11-15 03:44 ansible-role-nodejs-master/templates/nodejs.sh.j2
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-nodejs-master/tests/
+-rw-rw-r-- root/root         9 2016-11-15 03:44 ansible-role-nodejs-master/tests/inventory
+-rw-rw-r-- root/root        66 2016-11-15 03:44 ansible-role-nodejs-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-nodejs-master/vars/
+-rw-rw-r-- root/root      4871 2016-11-15 03:44 ansible-role-nodejs-master/vars/main.yml

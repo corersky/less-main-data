@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-10 10:55 ansible-role-vault-master/
+-rw-rw-r-- root/root      1644 2018-10-10 10:55 ansible-role-vault-master/.travis.yml
+-rw-rw-r-- root/root         0 2018-10-10 10:55 ansible-role-vault-master/CHANGELOG.md
+-rw-rw-r-- root/root     35149 2018-10-10 10:55 ansible-role-vault-master/LICENSE
+-rw-rw-r-- root/root         0 2018-10-10 10:55 ansible-role-vault-master/README.md
+drwxrwxr-x root/root         0 2018-10-10 10:55 ansible-role-vault-master/files/
+-rw-rw-r-- root/root        42 2018-10-10 10:55 ansible-role-vault-master/files/profile.d_vault.sh
+-rw-rw-r-- root/root       529 2018-10-10 10:55 ansible-role-vault-master/files/vault.service
+drwxrwxr-x root/root         0 2018-10-10 10:55 ansible-role-vault-master/meta/
+-rw-rw-r-- root/root       948 2018-10-10 10:55 ansible-role-vault-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-10 10:55 ansible-role-vault-master/tasks/
+-rw-rw-r-- root/root      2506 2018-10-10 10:55 ansible-role-vault-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-10 10:55 ansible-role-vault-master/tests/
+-rwxrwxr-x root/root       125 2018-10-10 10:55 ansible-role-vault-master/tests/setup-centos
+-rwxrwxr-x root/root        70 2018-10-10 10:55 ansible-role-vault-master/tests/setup-fedora
+-rwxrwxr-x root/root       200 2018-10-10 10:55 ansible-role-vault-master/tests/setup-ubuntu
+-rw-rw-r-- root/root       186 2018-10-10 10:55 ansible-role-vault-master/tests/test.yml

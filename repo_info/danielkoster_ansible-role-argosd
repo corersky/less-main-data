@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-12 06:06 ansible-role-argosd-master/
+-rw-rw-r-- root/root      1454 2017-03-12 06:06 ansible-role-argosd-master/.travis.yml
+-rw-rw-r-- root/root       318 2017-03-12 06:06 ansible-role-argosd-master/CHANGELOG.md
+-rw-rw-r-- root/root      1070 2017-03-12 06:06 ansible-role-argosd-master/LICENSE
+-rw-rw-r-- root/root      1943 2017-03-12 06:06 ansible-role-argosd-master/README.md
+drwxrwxr-x root/root         0 2017-03-12 06:06 ansible-role-argosd-master/defaults/
+-rw-rw-r-- root/root       181 2017-03-12 06:06 ansible-role-argosd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-12 06:06 ansible-role-argosd-master/handlers/
+-rw-rw-r-- root/root        89 2017-03-12 06:06 ansible-role-argosd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-12 06:06 ansible-role-argosd-master/meta/
+-rw-rw-r-- root/root       372 2017-03-12 06:06 ansible-role-argosd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-12 06:06 ansible-role-argosd-master/tasks/
+-rw-rw-r-- root/root      1565 2017-03-12 06:06 ansible-role-argosd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-12 06:06 ansible-role-argosd-master/templates/
+-rw-rw-r-- root/root      1315 2017-03-12 06:06 ansible-role-argosd-master/templates/settings_local.py.j2
+drwxrwxr-x root/root         0 2017-03-12 06:06 ansible-role-argosd-master/tests/
+-rw-rw-r-- root/root       212 2017-03-12 06:06 ansible-role-argosd-master/tests/test.yml

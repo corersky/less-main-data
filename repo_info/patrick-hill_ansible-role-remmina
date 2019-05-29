@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-30 08:58 ansible-role-remmina-master/
+-rw-rw-r-- root/root      1299 2017-05-30 08:58 ansible-role-remmina-master/.travis.yml
+-rw-rw-r-- root/root      1410 2017-05-30 08:58 ansible-role-remmina-master/README.md
+drwxrwxr-x root/root         0 2017-05-30 08:58 ansible-role-remmina-master/defaults/
+-rw-rw-r-- root/root       180 2017-05-30 08:58 ansible-role-remmina-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-30 08:58 ansible-role-remmina-master/meta/
+-rw-rw-r-- root/root       348 2017-05-30 08:58 ansible-role-remmina-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-30 08:58 ansible-role-remmina-master/tasks/
+-rw-rw-r-- root/root       750 2017-05-30 08:58 ansible-role-remmina-master/tasks/debian.yml
+-rw-rw-r-- root/root       116 2017-05-30 08:58 ansible-role-remmina-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-30 08:58 ansible-role-remmina-master/tests/
+-rw-rw-r-- root/root         9 2017-05-30 08:58 ansible-role-remmina-master/tests/inventory
+-rw-rw-r-- root/root       154 2017-05-30 08:58 ansible-role-remmina-master/tests/test.yml

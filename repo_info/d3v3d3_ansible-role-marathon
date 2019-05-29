@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-30 11:27 ansible-role-marathon-master/
+-rw-rw-r-- root/root        21 2016-03-30 11:27 ansible-role-marathon-master/README.md
+drwxrwxr-x root/root         0 2016-03-30 11:27 ansible-role-marathon-master/defaults/
+-rw-rw-r-- root/root       719 2016-03-30 11:27 ansible-role-marathon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-30 11:27 ansible-role-marathon-master/meta/
+-rw-rw-r-- root/root      3212 2016-03-30 11:27 ansible-role-marathon-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-30 11:27 ansible-role-marathon-master/tasks/
+-rw-rw-r-- root/root       285 2016-03-30 11:27 ansible-role-marathon-master/tasks/Debian.yml
+-rw-rw-r-- root/root       780 2016-03-30 11:27 ansible-role-marathon-master/tasks/conf.yml
+-rw-rw-r-- root/root       171 2016-03-30 11:27 ansible-role-marathon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-30 11:27 ansible-role-marathon-master/templates/
+-rw-rw-r-- root/root        24 2016-03-30 11:27 ansible-role-marathon-master/templates/hostname.j2
+-rw-rw-r-- root/root        20 2016-03-30 11:27 ansible-role-marathon-master/templates/http_port.j2
+-rw-rw-r-- root/root        30 2016-03-30 11:27 ansible-role-marathon-master/templates/master.j2
+-rw-rw-r-- root/root        59 2016-03-30 11:27 ansible-role-marathon-master/templates/sysconfig.j2
+-rw-rw-r-- root/root        31 2016-03-30 11:27 ansible-role-marathon-master/templates/zk.j2

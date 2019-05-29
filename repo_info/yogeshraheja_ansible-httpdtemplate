@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-04 01:09 ansible-httpdtemplate-master/
+-rw-rw-r-- root/root      1328 2018-01-04 01:09 ansible-httpdtemplate-master/README.md
+drwxrwxr-x root/root         0 2018-01-04 01:09 ansible-httpdtemplate-master/defaults/
+-rw-rw-r-- root/root        37 2018-01-04 01:09 ansible-httpdtemplate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:09 ansible-httpdtemplate-master/handlers/
+-rw-rw-r-- root/root       124 2018-01-04 01:09 ansible-httpdtemplate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:09 ansible-httpdtemplate-master/meta/
+-rw-rw-r-- root/root       770 2018-01-04 01:09 ansible-httpdtemplate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:09 ansible-httpdtemplate-master/tasks/
+-rw-rw-r-- root/root       299 2018-01-04 01:09 ansible-httpdtemplate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:09 ansible-httpdtemplate-master/templates/
+-rw-rw-r-- root/root       364 2018-01-04 01:09 ansible-httpdtemplate-master/templates/index.html.j2
+drwxrwxr-x root/root         0 2018-01-04 01:09 ansible-httpdtemplate-master/tests/
+-rw-rw-r-- root/root        11 2018-01-04 01:09 ansible-httpdtemplate-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-01-04 01:09 ansible-httpdtemplate-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-04 01:09 ansible-httpdtemplate-master/vars/
+-rw-rw-r-- root/root       125 2018-01-04 01:09 ansible-httpdtemplate-master/vars/main.yml

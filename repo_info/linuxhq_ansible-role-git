@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-01 21:03 ansible-role-git-master/
+-rw-rw-r-- root/root       317 2018-07-01 21:03 ansible-role-git-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-07-01 21:03 ansible-role-git-master/COPYING
+-rw-rw-r-- root/root      1842 2018-07-01 21:03 ansible-role-git-master/README.md
+drwxrwxr-x root/root         0 2018-07-01 21:03 ansible-role-git-master/defaults/
+-rw-rw-r-- root/root        48 2018-07-01 21:03 ansible-role-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:03 ansible-role-git-master/meta/
+-rw-rw-r-- root/root       418 2018-07-01 21:03 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:03 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root      1621 2018-07-01 21:03 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:03 ansible-role-git-master/tests/
+-rw-rw-r-- root/root        10 2018-07-01 21:03 ansible-role-git-master/tests/inventory
+-rw-rw-r-- root/root        79 2018-07-01 21:03 ansible-role-git-master/tests/test.yml

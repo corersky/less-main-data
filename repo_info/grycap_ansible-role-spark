@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-19 04:17 ansible-role-spark-master/
+-rw-rw-r-- root/root      1177 2018-07-19 04:17 ansible-role-spark-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-07-19 04:17 ansible-role-spark-master/LICENSE
+-rw-rw-r-- root/root      1038 2018-07-19 04:17 ansible-role-spark-master/README.md
+drwxrwxr-x root/root         0 2018-07-19 04:17 ansible-role-spark-master/defaults/
+-rw-rw-r-- root/root       262 2018-07-19 04:17 ansible-role-spark-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-19 04:17 ansible-role-spark-master/meta/
+-rw-rw-r-- root/root       283 2018-07-19 04:17 ansible-role-spark-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-19 04:17 ansible-role-spark-master/tasks/
+-rw-rw-r-- root/root       678 2018-07-19 04:17 ansible-role-spark-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-19 04:17 ansible-role-spark-master/tests/
+-rw-rw-r-- root/root        36 2018-07-19 04:17 ansible-role-spark-master/tests/inventory
+-rw-rw-r-- root/root        54 2018-07-19 04:17 ansible-role-spark-master/tests/test.yml

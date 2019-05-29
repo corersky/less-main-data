@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-08 11:07 ansible_anyenv-master/
+-rw-rw-r-- root/root        10 2018-10-08 11:07 ansible_anyenv-master/.gitignore
+-rw-rw-r-- root/root       589 2018-10-08 11:07 ansible_anyenv-master/README.md
+drwxrwxr-x root/root         0 2018-10-08 11:07 ansible_anyenv-master/defaults/
+-rw-rw-r-- root/root       125 2018-10-08 11:07 ansible_anyenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-08 11:07 ansible_anyenv-master/meta/
+-rw-rw-r-- root/root        60 2018-10-08 11:07 ansible_anyenv-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       375 2018-10-08 11:07 ansible_anyenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-08 11:07 ansible_anyenv-master/tasks/
+-rw-rw-r-- root/root       501 2018-10-08 11:07 ansible_anyenv-master/tasks/env.yml
+-rw-rw-r-- root/root       322 2018-10-08 11:07 ansible_anyenv-master/tasks/install.yml
+-rw-rw-r-- root/root       140 2018-10-08 11:07 ansible_anyenv-master/tasks/main.yml
+-rw-rw-r-- root/root       160 2018-10-08 11:07 ansible_anyenv-master/tasks/prepare.yml
+-rw-rw-r-- root/root       218 2018-10-08 11:07 ansible_anyenv-master/tasks/setting.yml
+drwxrwxr-x root/root         0 2018-10-08 11:07 ansible_anyenv-master/templates/
+-rw-rw-r-- root/root       162 2018-10-08 11:07 ansible_anyenv-master/templates/anyenv.sh.j2

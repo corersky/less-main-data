@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-09-17 15:21 ansible-role-xinetd-master/
+-rw-rw-r-- root/root       343 2014-09-17 15:21 ansible-role-xinetd-master/README.md
+drwxrwxr-x root/root         0 2014-09-17 15:21 ansible-role-xinetd-master/handlers/
+-rw-rw-r-- root/root        76 2014-09-17 15:21 ansible-role-xinetd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-17 15:21 ansible-role-xinetd-master/meta/
+-rw-rw-r-- root/root       331 2014-09-17 15:21 ansible-role-xinetd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-17 15:21 ansible-role-xinetd-master/tasks/
+-rw-rw-r-- root/root       179 2014-09-17 15:21 ansible-role-xinetd-master/tasks/Debian.yml
+-rw-rw-r-- root/root       179 2014-09-17 15:21 ansible-role-xinetd-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       179 2014-09-17 15:21 ansible-role-xinetd-master/tasks/Suse.yml
+-rw-rw-r-- root/root       607 2014-09-17 15:21 ansible-role-xinetd-master/tasks/main.yml

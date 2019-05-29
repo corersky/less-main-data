@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-07-01 04:18 ansible-logwatch-master/
+-rw-rw-r-- root/root        52 2014-07-01 04:18 ansible-logwatch-master/.gitignore
+-rw-rw-r-- root/root       408 2014-07-01 04:18 ansible-logwatch-master/.travis.yml
+-rw-rw-r-- root/root      1079 2014-07-01 04:18 ansible-logwatch-master/LICENSE
+-rw-rw-r-- root/root      1090 2014-07-01 04:18 ansible-logwatch-master/README.md
+-rw-rw-r-- root/root       547 2014-07-01 04:18 ansible-logwatch-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-07-01 04:18 ansible-logwatch-master/defaults/
+-rw-rw-r-- root/root       574 2014-07-01 04:18 ansible-logwatch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-01 04:18 ansible-logwatch-master/meta/
+-rw-rw-r-- root/root       334 2014-07-01 04:18 ansible-logwatch-master/meta/main.yml
+-rw-rw-r-- root/root       174 2014-07-01 04:18 ansible-logwatch-master/playbook.yml
+drwxrwxr-x root/root         0 2014-07-01 04:18 ansible-logwatch-master/tasks/
+-rw-rw-r-- root/root       521 2014-07-01 04:18 ansible-logwatch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-07-01 04:18 ansible-logwatch-master/templates/
+-rw-rw-r-- root/root       260 2014-07-01 04:18 ansible-logwatch-master/templates/logwatch.conf.j2

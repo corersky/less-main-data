@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-12-12 11:39 ansible_gunicorn-master/
+-rw-rw-r-- root/root      1086 2015-12-12 11:39 ansible_gunicorn-master/LICENSE
+-rw-rw-r-- root/root        57 2015-12-12 11:39 ansible_gunicorn-master/README.md
+-rw-rw-r-- root/root         6 2015-12-12 11:39 ansible_gunicorn-master/VERSION
+drwxrwxr-x root/root         0 2015-12-12 11:39 ansible_gunicorn-master/defaults/
+-rw-rw-r-- root/root        85 2015-12-12 11:39 ansible_gunicorn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-12 11:39 ansible_gunicorn-master/handlers/
+-rw-rw-r-- root/root       162 2015-12-12 11:39 ansible_gunicorn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-12 11:39 ansible_gunicorn-master/meta/
+-rw-rw-r-- root/root       217 2015-12-12 11:39 ansible_gunicorn-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-12 11:39 ansible_gunicorn-master/tasks/
+-rw-rw-r-- root/root       256 2015-12-12 11:39 ansible_gunicorn-master/tasks/gunicorn.yml
+-rw-rw-r-- root/root        75 2015-12-12 11:39 ansible_gunicorn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-12 11:39 ansible_gunicorn-master/templates/
+-rw-rw-r-- root/root      1101 2015-12-12 11:39 ansible_gunicorn-master/templates/gunicorn-upstart.conf.j2

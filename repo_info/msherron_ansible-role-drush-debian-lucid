@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/
+-rw-rw-r-- root/root      1095 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/.travis.yml
+-rw-rw-r-- root/root      1439 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/README.md
+drwxrwxr-x root/root         0 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/defaults/
+-rw-rw-r-- root/root       125 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/meta/
+-rw-rw-r-- root/root       758 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/tasks/
+-rw-rw-r-- root/root      1125 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/tests/
+-rw-rw-r-- root/root        10 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/tests/inventory
+-rw-rw-r-- root/root       148 2015-08-19 17:04 ansible-role-drush-debian-lucid-master/tests/test.yml

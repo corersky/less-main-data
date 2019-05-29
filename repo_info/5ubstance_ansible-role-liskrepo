@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-09-02 02:01 ansible-role-liskrepo-master/
+-rw-rw-r-- root/root        18 2017-09-02 02:01 ansible-role-liskrepo-master/.gitignore
+-rw-rw-r-- root/root       940 2017-09-02 02:01 ansible-role-liskrepo-master/.travis.yml
+-rw-rw-r-- root/root     35141 2017-09-02 02:01 ansible-role-liskrepo-master/LICENSE
+-rw-rw-r-- root/root      1097 2017-09-02 02:01 ansible-role-liskrepo-master/README.md
+drwxrwxr-x root/root         0 2017-09-02 02:01 ansible-role-liskrepo-master/meta/
+-rw-rw-r-- root/root       343 2017-09-02 02:01 ansible-role-liskrepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-02 02:01 ansible-role-liskrepo-master/tasks/
+-rw-rw-r-- root/root       282 2017-09-02 02:01 ansible-role-liskrepo-master/tasks/Debian.yml
+-rw-rw-r-- root/root       243 2017-09-02 02:01 ansible-role-liskrepo-master/tasks/RedHat.yml
+-rw-rw-r-- root/root        88 2017-09-02 02:01 ansible-role-liskrepo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-02 02:01 ansible-role-liskrepo-master/tests/
+-rw-rw-r-- root/root         9 2017-09-02 02:01 ansible-role-liskrepo-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-09-02 02:01 ansible-role-liskrepo-master/tests/test.yml

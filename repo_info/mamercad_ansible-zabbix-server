@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-23 06:31 ansible-zabbix-server-master/
+-rw-rw-r-- root/root       539 2016-08-23 06:31 ansible-zabbix-server-master/.travis.yml
+-rw-rw-r-- root/root       509 2016-08-23 06:31 ansible-zabbix-server-master/README.md
+drwxrwxr-x root/root         0 2016-08-23 06:31 ansible-zabbix-server-master/defaults/
+-rw-rw-r-- root/root        46 2016-08-23 06:31 ansible-zabbix-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-23 06:31 ansible-zabbix-server-master/handlers/
+-rw-rw-r-- root/root        46 2016-08-23 06:31 ansible-zabbix-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-23 06:31 ansible-zabbix-server-master/meta/
+-rw-rw-r-- root/root      3058 2016-08-23 06:31 ansible-zabbix-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-23 06:31 ansible-zabbix-server-master/tasks/
+-rw-rw-r-- root/root      1479 2016-08-23 06:31 ansible-zabbix-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-23 06:31 ansible-zabbix-server-master/tests/
+-rw-rw-r-- root/root         7 2016-08-23 06:31 ansible-zabbix-server-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-08-23 06:31 ansible-zabbix-server-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-23 06:31 ansible-zabbix-server-master/vars/
+-rw-rw-r-- root/root       203 2016-08-23 06:31 ansible-zabbix-server-master/vars/main.yml

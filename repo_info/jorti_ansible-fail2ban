@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-09 11:53 ansible-fail2ban-master/
+-rw-rw-r-- root/root        24 2017-03-09 11:53 ansible-fail2ban-master/.gitignore
+-rw-rw-r-- root/root       793 2017-03-09 11:53 ansible-fail2ban-master/README.md
+drwxrwxr-x root/root         0 2017-03-09 11:53 ansible-fail2ban-master/defaults/
+-rw-rw-r-- root/root       243 2017-03-09 11:53 ansible-fail2ban-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-09 11:53 ansible-fail2ban-master/handlers/
+-rw-rw-r-- root/root        82 2017-03-09 11:53 ansible-fail2ban-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-09 11:53 ansible-fail2ban-master/meta/
+-rw-rw-r-- root/root       266 2017-03-09 11:53 ansible-fail2ban-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-09 11:53 ansible-fail2ban-master/tasks/
+-rw-rw-r-- root/root       730 2017-03-09 11:53 ansible-fail2ban-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-09 11:53 ansible-fail2ban-master/templates/
+-rw-rw-r-- root/root        85 2017-03-09 11:53 ansible-fail2ban-master/templates/fail2ban.local.j2
+-rw-rw-r-- root/root        40 2017-03-09 11:53 ansible-fail2ban-master/templates/firewallcmd-ipset.local.j2
+-rw-rw-r-- root/root       442 2017-03-09 11:53 ansible-fail2ban-master/templates/jail.local.j2

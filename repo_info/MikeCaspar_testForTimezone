@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-29 15:48 testForTimezone-master/
+-rw-rw-r-- root/root        67 2016-08-29 15:48 testForTimezone-master/.gitignore
+-rw-rw-r-- root/root       481 2016-08-29 15:48 testForTimezone-master/.travis.yml
+-rw-rw-r-- root/root      1082 2016-08-29 15:48 testForTimezone-master/LICENSE
+-rw-rw-r-- root/root      2129 2016-08-29 15:48 testForTimezone-master/README.md
+-rw-rw-r-- root/root        28 2016-08-29 15:48 testForTimezone-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-08-29 15:48 testForTimezone-master/defaults/
+-rw-rw-r-- root/root       100 2016-08-29 15:48 testForTimezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-29 15:48 testForTimezone-master/meta/
+-rw-rw-r-- root/root       707 2016-08-29 15:48 testForTimezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-29 15:48 testForTimezone-master/tasks/
+-rw-rw-r-- root/root       944 2016-08-29 15:48 testForTimezone-master/tasks/main.yml
+-rwxrwxr-x root/root       901 2016-08-29 15:48 testForTimezone-master/test.sh
+drwxrwxr-x root/root         0 2016-08-29 15:48 testForTimezone-master/tests/
+-rw-rw-r-- root/root        35 2016-08-29 15:48 testForTimezone-master/tests/inventory
+-rw-rw-r-- root/root       478 2016-08-29 15:48 testForTimezone-master/tests/role.yml

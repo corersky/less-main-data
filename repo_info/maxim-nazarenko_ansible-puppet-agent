@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-12 02:57 ansible-puppet-agent-master/
+-rw-rw-r-- root/root       307 2016-05-12 02:57 ansible-puppet-agent-master/README.md
+drwxrwxr-x root/root         0 2016-05-12 02:57 ansible-puppet-agent-master/defaults/
+-rw-rw-r-- root/root        75 2016-05-12 02:57 ansible-puppet-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-12 02:57 ansible-puppet-agent-master/handlers/
+-rw-rw-r-- root/root       100 2016-05-12 02:57 ansible-puppet-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-12 02:57 ansible-puppet-agent-master/meta/
+-rw-rw-r-- root/root       294 2016-05-12 02:57 ansible-puppet-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-12 02:57 ansible-puppet-agent-master/tasks/
+-rw-rw-r-- root/root       159 2016-05-12 02:57 ansible-puppet-agent-master/tasks/configure.yml
+-rw-rw-r-- root/root       217 2016-05-12 02:57 ansible-puppet-agent-master/tasks/install.debian.yml
+-rw-rw-r-- root/root       183 2016-05-12 02:57 ansible-puppet-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-12 02:57 ansible-puppet-agent-master/templates/
+-rw-rw-r-- root/root       177 2016-05-12 02:57 ansible-puppet-agent-master/templates/puppet.conf.j2

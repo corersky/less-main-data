@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-10 07:53 ansible-symfony-deploy-master/
+-rw-rw-r-- root/root      1087 2016-06-10 07:53 ansible-symfony-deploy-master/LICENSE.md
+-rw-rw-r-- root/root      2927 2016-06-10 07:53 ansible-symfony-deploy-master/README.md
+drwxrwxr-x root/root         0 2016-06-10 07:53 ansible-symfony-deploy-master/defaults/
+-rw-rw-r-- root/root       339 2016-06-10 07:53 ansible-symfony-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-10 07:53 ansible-symfony-deploy-master/meta/
+-rw-rw-r-- root/root       200 2016-06-10 07:53 ansible-symfony-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-10 07:53 ansible-symfony-deploy-master/tasks/
+-rw-rw-r-- root/root      1431 2016-06-10 07:53 ansible-symfony-deploy-master/tasks/composer.yml
+-rw-rw-r-- root/root      1421 2016-06-10 07:53 ansible-symfony-deploy-master/tasks/deploy.yml
+-rw-rw-r-- root/root       904 2016-06-10 07:53 ansible-symfony-deploy-master/tasks/directory.yml
+-rw-rw-r-- root/root      2153 2016-06-10 07:53 ansible-symfony-deploy-master/tasks/main.yml
+-rw-rw-r-- root/root      2667 2016-06-10 07:53 ansible-symfony-deploy-master/tasks/symlinks.yml
+drwxrwxr-x root/root         0 2016-06-10 07:53 ansible-symfony-deploy-master/vars/
+-rw-rw-r-- root/root        22 2016-06-10 07:53 ansible-symfony-deploy-master/vars/main.yml

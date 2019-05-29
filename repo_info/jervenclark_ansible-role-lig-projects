@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/
+-rw-rw-r-- root/root      1328 2019-04-23 22:28 ansible-role-lig-projects-master/README.md
+drwxrwxr-x root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/defaults/
+-rw-rw-r-- root/root        53 2019-04-23 22:28 ansible-role-lig-projects-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/handlers/
+-rw-rw-r-- root/root        36 2019-04-23 22:28 ansible-role-lig-projects-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/meta/
+-rw-rw-r-- root/root       297 2019-04-23 22:28 ansible-role-lig-projects-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/tasks/
+lrwxrwxrwx root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/tasks/.#wp-project.yml -> jerven@Jerven-Clark-Chua-MacBook-Air.local.50348
+-rw-rw-r-- root/root      1099 2019-04-23 22:28 ansible-role-lig-projects-master/tasks/ejs-project.yml
+-rw-rw-r-- root/root      1668 2019-04-23 22:28 ansible-role-lig-projects-master/tasks/genova-wp-project.yml
+-rw-rw-r-- root/root      1625 2019-04-23 22:28 ansible-role-lig-projects-master/tasks/laravel-project.yml
+-rw-rw-r-- root/root       874 2019-04-23 22:28 ansible-role-lig-projects-master/tasks/main.yml
+-rw-rw-r-- root/root      1642 2019-04-23 22:28 ansible-role-lig-projects-master/tasks/wp-project.yml
+drwxrwxr-x root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/templates/
+-rw-rw-r-- root/root       570 2019-04-23 22:28 ansible-role-lig-projects-master/templates/laravel.conf
+-rw-rw-r-- root/root       436 2019-04-23 22:28 ansible-role-lig-projects-master/templates/proxy-pass.conf
+-rw-rw-r-- root/root       562 2019-04-23 22:28 ansible-role-lig-projects-master/templates/wordpress.conf
+drwxrwxr-x root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/tests/
+-rw-rw-r-- root/root        11 2019-04-23 22:28 ansible-role-lig-projects-master/tests/inventory
+-rw-rw-r-- root/root        70 2019-04-23 22:28 ansible-role-lig-projects-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-23 22:28 ansible-role-lig-projects-master/vars/
+-rw-rw-r-- root/root        32 2019-04-23 22:28 ansible-role-lig-projects-master/vars/main.yml

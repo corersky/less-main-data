@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-06 06:51 ansible-php_composer-master/
+-rw-rw-r-- root/root     35147 2018-11-06 06:51 ansible-php_composer-master/COPYING
+-rw-rw-r-- root/root      7651 2018-11-06 06:51 ansible-php_composer-master/COPYING.LESSER
+-rw-rw-r-- root/root      1627 2018-11-06 06:51 ansible-php_composer-master/README.md
+drwxrwxr-x root/root         0 2018-11-06 06:51 ansible-php_composer-master/defaults/
+-rw-rw-r-- root/root       250 2018-11-06 06:51 ansible-php_composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-06 06:51 ansible-php_composer-master/files/
+-rw-rw-r-- root/root       507 2018-11-06 06:51 ansible-php_composer-master/files/composer-install.sh
+drwxrwxr-x root/root         0 2018-11-06 06:51 ansible-php_composer-master/meta/
+-rw-rw-r-- root/root       311 2018-11-06 06:51 ansible-php_composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-06 06:51 ansible-php_composer-master/tasks/
+-rw-rw-r-- root/root      1010 2018-11-06 06:51 ansible-php_composer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-06 06:51 ansible-php_composer-master/templates/
+-rw-rw-r-- root/root       346 2018-11-06 06:51 ansible-php_composer-master/templates/composer.j2

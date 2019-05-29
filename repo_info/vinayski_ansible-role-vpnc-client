@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-02 16:53 ansible-role-vpnc-client-master/
+-rw-rw-r-- root/root      1050 2018-03-02 16:53 ansible-role-vpnc-client-master/.gitignore
+-rw-rw-r-- root/root       317 2018-03-02 16:53 ansible-role-vpnc-client-master/.travis.yml
+-rw-rw-r-- root/root       935 2018-03-02 16:53 ansible-role-vpnc-client-master/README.md
+drwxrwxr-x root/root         0 2018-03-02 16:53 ansible-role-vpnc-client-master/meta/
+-rw-rw-r-- root/root       287 2018-03-02 16:53 ansible-role-vpnc-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-02 16:53 ansible-role-vpnc-client-master/tasks/
+-rw-rw-r-- root/root       563 2018-03-02 16:53 ansible-role-vpnc-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-02 16:53 ansible-role-vpnc-client-master/templates/
+-rw-rw-r-- root/root       223 2018-03-02 16:53 ansible-role-vpnc-client-master/templates/default.conf.j2
+drwxrwxr-x root/root         0 2018-03-02 16:53 ansible-role-vpnc-client-master/tests/
+-rw-rw-r-- root/root        10 2018-03-02 16:53 ansible-role-vpnc-client-master/tests/inventory
+-rw-rw-r-- root/root        87 2018-03-02 16:53 ansible-role-vpnc-client-master/tests/test.yml

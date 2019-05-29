@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-15 21:44 ansible-role-php7-fpm-master/
+-rw-rw-r-- root/root      1514 2017-10-15 21:44 ansible-role-php7-fpm-master/LICENSE
+-rw-rw-r-- root/root        46 2017-10-15 21:44 ansible-role-php7-fpm-master/README.md
+drwxrwxr-x root/root         0 2017-10-15 21:44 ansible-role-php7-fpm-master/defaults/
+-rw-rw-r-- root/root        49 2017-10-15 21:44 ansible-role-php7-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-15 21:44 ansible-role-php7-fpm-master/handlers/
+-rw-rw-r-- root/root        85 2017-10-15 21:44 ansible-role-php7-fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-15 21:44 ansible-role-php7-fpm-master/meta/
+-rw-rw-r-- root/root       253 2017-10-15 21:44 ansible-role-php7-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-15 21:44 ansible-role-php7-fpm-master/tasks/
+-rw-rw-r-- root/root       446 2017-10-15 21:44 ansible-role-php7-fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-15 21:44 ansible-role-php7-fpm-master/templates/
+-rw-rw-r-- root/root       235 2017-10-15 21:44 ansible-role-php7-fpm-master/templates/php-fpm.conf.j2

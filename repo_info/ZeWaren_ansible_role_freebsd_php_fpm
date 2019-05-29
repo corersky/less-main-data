@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/
+-rw-rw-r-- root/root      2267 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/README.md
+drwxrwxr-x root/root         0 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/defaults/
+-rw-rw-r-- root/root       460 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/handlers/
+-rw-rw-r-- root/root       217 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/meta/
+-rw-rw-r-- root/root       185 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/tasks/
+-rw-rw-r-- root/root      1484 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/templates/
+-rw-rw-r-- root/root       327 2018-10-28 07:15 ansible_role_freebsd_php_fpm-master/templates/pool.conf.j2

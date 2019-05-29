@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-04 11:34 ansible-confluence-master/
+-rw-rw-r-- root/root      1086 2019-05-04 11:34 ansible-confluence-master/README.md
+drwxrwxr-x root/root         0 2019-05-04 11:34 ansible-confluence-master/defaults/
+-rw-rw-r-- root/root       489 2019-05-04 11:34 ansible-confluence-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-04 11:34 ansible-confluence-master/meta/
+-rw-rw-r-- root/root       311 2019-05-04 11:34 ansible-confluence-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-04 11:34 ansible-confluence-master/tasks/
+-rw-rw-r-- root/root      2521 2019-05-04 11:34 ansible-confluence-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-04 11:34 ansible-confluence-master/templates/
+-rw-rw-r-- root/root       356 2019-05-04 11:34 ansible-confluence-master/templates/confluence.service.j2

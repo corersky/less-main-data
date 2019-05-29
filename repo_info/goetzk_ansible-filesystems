@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-13 00:47 ansible-filesystems-master/
+-rw-rw-r-- root/root      2798 2017-04-13 00:47 ansible-filesystems-master/README.md
+drwxrwxr-x root/root         0 2017-04-13 00:47 ansible-filesystems-master/defaults/
+-rw-rw-r-- root/root       536 2017-04-13 00:47 ansible-filesystems-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-13 00:47 ansible-filesystems-master/meta/
+-rw-rw-r-- root/root      1773 2017-04-13 00:47 ansible-filesystems-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-13 00:47 ansible-filesystems-master/tasks/
+-rw-rw-r-- root/root       589 2017-04-13 00:47 ansible-filesystems-master/tasks/configure-filesystems.yml
+-rw-rw-r-- root/root       278 2017-04-13 00:47 ansible-filesystems-master/tasks/main.yml
+-rw-rw-r-- root/root      2358 2017-04-13 00:47 ansible-filesystems-master/tasks/prepare-ro.yml
+drwxrwxr-x root/root         0 2017-04-13 00:47 ansible-filesystems-master/vars/
+-rw-rw-r-- root/root       190 2017-04-13 00:47 ansible-filesystems-master/vars/Debian.yml
+-rw-rw-r-- root/root       175 2017-04-13 00:47 ansible-filesystems-master/vars/RedHat.yml
+-rw-rw-r-- root/root        39 2017-04-13 00:47 ansible-filesystems-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-25 16:50 ansible-role-server-common-master/
+-rw-rw-r-- root/root     35141 2019-01-25 16:50 ansible-role-server-common-master/LICENSE
+-rw-rw-r-- root/root      2110 2019-01-25 16:50 ansible-role-server-common-master/README.md
+drwxrwxr-x root/root         0 2019-01-25 16:50 ansible-role-server-common-master/defaults/
+-rw-rw-r-- root/root       172 2019-01-25 16:50 ansible-role-server-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-25 16:50 ansible-role-server-common-master/handlers/
+-rw-rw-r-- root/root        50 2019-01-25 16:50 ansible-role-server-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-25 16:50 ansible-role-server-common-master/meta/
+-rw-rw-r-- root/root       417 2019-01-25 16:50 ansible-role-server-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-25 16:50 ansible-role-server-common-master/tasks/
+-rw-rw-r-- root/root      2031 2019-01-25 16:50 ansible-role-server-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-25 16:50 ansible-role-server-common-master/tests/
+-rw-rw-r-- root/root        11 2019-01-25 16:50 ansible-role-server-common-master/tests/inventory
+-rw-rw-r-- root/root        84 2019-01-25 16:50 ansible-role-server-common-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-25 16:50 ansible-role-server-common-master/vars/
+-rw-rw-r-- root/root       144 2019-01-25 16:50 ansible-role-server-common-master/vars/Debian.yml
+-rw-rw-r-- root/root        46 2019-01-25 16:50 ansible-role-server-common-master/vars/main.yml

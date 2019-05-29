@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-31 05:55 002-logging-master/
+-rw-rw-r-- root/root       408 2016-08-31 05:55 002-logging-master/README.md
+drwxrwxr-x root/root         0 2016-08-31 05:55 002-logging-master/files/
+-rw-rw-r-- root/root       200 2016-08-31 05:55 002-logging-master/files/bash_audit.sh
+drwxrwxr-x root/root         0 2016-08-31 05:55 002-logging-master/files/etc/
+-rw-rw-r-- root/root      3233 2016-08-31 05:55 002-logging-master/files/etc/bash_audit
+drwxrwxr-x root/root         0 2016-08-31 05:55 002-logging-master/files/etc/rsyslog.d/
+-rw-rw-r-- root/root       217 2016-08-31 05:55 002-logging-master/files/etc/rsyslog.d/45-useraudit.j2
+-rw-rw-r-- root/root       637 2016-08-31 05:55 002-logging-master/files/etc/rsyslog.j2
+drwxrwxr-x root/root         0 2016-08-31 05:55 002-logging-master/files/etc/update.motd.d/
+-rw-rw-r-- root/root       179 2016-08-31 05:55 002-logging-master/files/etc/update.motd.d/10-help-text.j2
+drwxrwxr-x root/root         0 2016-08-31 05:55 002-logging-master/meta/
+-rw-rw-r-- root/root       296 2016-08-31 05:55 002-logging-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-31 05:55 002-logging-master/tasks/
+-rw-rw-r-- root/root       781 2016-08-31 05:55 002-logging-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-31 05:55 002-logging-master/vars/
+-rw-rw-r-- root/root        31 2016-08-31 05:55 002-logging-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-07 09:21 debian-nginx-master/
+-rw-rw-r-- root/root       805 2019-05-07 09:21 debian-nginx-master/README.md
+drwxrwxr-x root/root         0 2019-05-07 09:21 debian-nginx-master/defaults/
+-rw-rw-r-- root/root       157 2019-05-07 09:21 debian-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:21 debian-nginx-master/handlers/
+-rw-rw-r-- root/root       150 2019-05-07 09:21 debian-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:21 debian-nginx-master/meta/
+-rw-rw-r-- root/root       289 2019-05-07 09:21 debian-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:21 debian-nginx-master/tasks/
+-rw-rw-r-- root/root      1495 2019-05-07 09:21 debian-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:21 debian-nginx-master/templates/
+-rw-rw-r-- root/root      1144 2019-05-07 09:21 debian-nginx-master/templates/default.fpm.j2
+-rw-rw-r-- root/root      2630 2019-05-07 09:21 debian-nginx-master/templates/default.hhvm.j2
+-rw-rw-r-- root/root        19 2019-05-07 09:21 debian-nginx-master/templates/index.php.j2

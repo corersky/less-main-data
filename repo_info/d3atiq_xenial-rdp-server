@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-24 14:28 xenial-rdp-server-master/
+-rw-rw-r-- root/root      1071 2018-10-24 14:28 xenial-rdp-server-master/LICENSE
+-rw-rw-r-- root/root      1328 2018-10-24 14:28 xenial-rdp-server-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 14:28 xenial-rdp-server-master/defaults/
+-rw-rw-r-- root/root        41 2018-10-24 14:28 xenial-rdp-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 14:28 xenial-rdp-server-master/handlers/
+-rw-rw-r-- root/root       206 2018-10-24 14:28 xenial-rdp-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 14:28 xenial-rdp-server-master/meta/
+-rw-rw-r-- root/root       273 2018-10-24 14:28 xenial-rdp-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 14:28 xenial-rdp-server-master/tasks/
+-rw-rw-r-- root/root       481 2018-10-24 14:28 xenial-rdp-server-master/tasks/apt.yml
+-rw-rw-r-- root/root        65 2018-10-24 14:28 xenial-rdp-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 14:28 xenial-rdp-server-master/tests/
+-rw-rw-r-- root/root        11 2018-10-24 14:28 xenial-rdp-server-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-10-24 14:28 xenial-rdp-server-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 14:28 xenial-rdp-server-master/vars/
+-rw-rw-r-- root/root        37 2018-10-24 14:28 xenial-rdp-server-master/vars/main.yml

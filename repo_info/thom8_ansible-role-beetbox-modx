@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-07-14 08:59 ansible-role-beetbox-modx-master/
+drwxrwxr-x root/root         0 2016-07-14 08:59 ansible-role-beetbox-modx-master/.beetbox/
+-rw-rw-r-- root/root       270 2016-07-14 08:59 ansible-role-beetbox-modx-master/.beetbox/config.yml
+-rw-rw-r-- root/root      2210 2016-07-14 08:59 ansible-role-beetbox-modx-master/README.md
+-rw-rw-r-- root/root       709 2016-07-14 08:59 ansible-role-beetbox-modx-master/Vagrantfile
+-rw-rw-r-- root/root       500 2016-07-14 08:59 ansible-role-beetbox-modx-master/circle.yml
+drwxrwxr-x root/root         0 2016-07-14 08:59 ansible-role-beetbox-modx-master/defaults/
+-rw-rw-r-- root/root       583 2016-07-14 08:59 ansible-role-beetbox-modx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-14 08:59 ansible-role-beetbox-modx-master/meta/
+-rw-rw-r-- root/root       292 2016-07-14 08:59 ansible-role-beetbox-modx-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-14 08:59 ansible-role-beetbox-modx-master/tasks/
+-rw-rw-r-- root/root      1727 2016-07-14 08:59 ansible-role-beetbox-modx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-14 08:59 ansible-role-beetbox-modx-master/templates/
+-rw-rw-r-- root/root      2373 2016-07-14 08:59 ansible-role-beetbox-modx-master/templates/config.xml.j2

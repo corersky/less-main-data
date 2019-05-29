@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-02-21 16:38 ansible-clouds-yaml-master/
+-rw-rw-r-- root/root      1167 2019-02-21 16:38 ansible-clouds-yaml-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 16:38 ansible-clouds-yaml-master/defaults/
+-rw-rw-r-- root/root        65 2019-02-21 16:38 ansible-clouds-yaml-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 16:38 ansible-clouds-yaml-master/meta/
+-rw-rw-r-- root/root       270 2019-02-21 16:38 ansible-clouds-yaml-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 16:38 ansible-clouds-yaml-master/tasks/
+-rw-rw-r-- root/root       480 2019-02-21 16:38 ansible-clouds-yaml-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-21 16:38 ansible-clouds-yaml-master/templates/
+-rw-rw-r-- root/root       993 2019-02-21 16:38 ansible-clouds-yaml-master/templates/clouds.yaml.j2

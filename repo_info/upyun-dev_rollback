@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/
+-rw-rw-r-- root/root       964 2017-04-04 22:24 rollback-master/.gitignore
+-rw-rw-r-- root/root       499 2017-04-04 22:24 rollback-master/.travis.yml
+-rw-rw-r-- root/root      1085 2017-04-04 22:24 rollback-master/LICENSE
+-rw-rw-r-- root/root       475 2017-04-04 22:24 rollback-master/README.md
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/defaults/
+-rw-rw-r-- root/root       281 2017-04-04 22:24 rollback-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/meta/
+-rw-rw-r-- root/root      3180 2017-04-04 22:24 rollback-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/tasks/
+-rw-rw-r-- root/root       220 2017-04-04 22:24 rollback-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       136 2017-04-04 22:24 rollback-master/tasks/empty.yml
+-rw-rw-r-- root/root        71 2017-04-04 22:24 rollback-master/tasks/main.yml
+-rw-rw-r-- root/root      1054 2017-04-04 22:24 rollback-master/tasks/setup.yml
+-rw-rw-r-- root/root       243 2017-04-04 22:24 rollback-master/tasks/symlink.yml
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/test/
+-rw-rw-r-- root/root       160 2017-04-04 22:24 rollback-master/test/deploy.yml
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/test/roles/
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/test/roles/local-ansistrano/
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/test/roles/local-ansistrano/defaults/
+-rw-rw-r-- root/root       281 2017-04-04 22:24 rollback-master/test/roles/local-ansistrano/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-04 22:24 rollback-master/test/roles/local-ansistrano/tasks/
+-rw-rw-r-- root/root       220 2017-04-04 22:24 rollback-master/test/roles/local-ansistrano/tasks/cleanup.yml
+lrwxrwxrwx root/root         0 2017-04-04 22:24 rollback-master/test/roles/local-rollback -> ../../.
+-rw-rw-r-- root/root       123 2017-04-04 22:24 rollback-master/test/test.yml

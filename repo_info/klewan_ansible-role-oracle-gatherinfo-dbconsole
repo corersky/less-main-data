@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/
+-rw-rw-r-- root/root     35149 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/LICENSE
+-rw-rw-r-- root/root      3313 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/README.md
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/defaults/
+-rw-rw-r-- root/root       991 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/meta/
+-rw-rw-r-- root/root       340 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/tasks/
+-rw-rw-r-- root/root      2640 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/tasks/dbconsole_registered.yml
+-rw-rw-r-- root/root      1943 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/tasks/dbconsole_running.yml
+-rw-rw-r-- root/root       928 2019-01-24 04:41 ansible-role-oracle-gatherinfo-dbconsole-master/tasks/main.yml

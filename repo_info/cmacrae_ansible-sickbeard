@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-20 12:15 ansible-sickbeard-master/
+-rw-rw-r-- root/root        16 2016-02-20 12:15 ansible-sickbeard-master/.gitignore
+-rw-rw-r-- root/root      2688 2016-02-20 12:15 ansible-sickbeard-master/README.md
+drwxrwxr-x root/root         0 2016-02-20 12:15 ansible-sickbeard-master/defaults/
+-rw-rw-r-- root/root       647 2016-02-20 12:15 ansible-sickbeard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-20 12:15 ansible-sickbeard-master/handlers/
+-rw-rw-r-- root/root       182 2016-02-20 12:15 ansible-sickbeard-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-20 12:15 ansible-sickbeard-master/meta/
+-rw-rw-r-- root/root      2223 2016-02-20 12:15 ansible-sickbeard-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-20 12:15 ansible-sickbeard-master/tasks/
+-rw-rw-r-- root/root      1689 2016-02-20 12:15 ansible-sickbeard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-20 12:15 ansible-sickbeard-master/templates/
+-rw-rw-r-- root/root       375 2016-02-20 12:15 ansible-sickbeard-master/templates/sickbeard.service.j2
+drwxrwxr-x root/root         0 2016-02-20 12:15 ansible-sickbeard-master/tests/
+-rw-rw-r-- root/root      1251 2016-02-20 12:15 ansible-sickbeard-master/tests/Vagrantfile
+-rw-rw-r-- root/root       138 2016-02-20 12:15 ansible-sickbeard-master/tests/provision.yml

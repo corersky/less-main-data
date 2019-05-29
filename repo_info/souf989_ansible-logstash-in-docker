@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-25 02:16 ansible-logstash-in-docker-master/
+-rw-rw-r-- root/root         6 2018-07-25 02:16 ansible-logstash-in-docker-master/.gitignore
+-rw-rw-r-- root/root      1064 2018-07-25 02:16 ansible-logstash-in-docker-master/LICENSE
+-rw-rw-r-- root/root       493 2018-07-25 02:16 ansible-logstash-in-docker-master/Readme.md
+drwxrwxr-x root/root         0 2018-07-25 02:16 ansible-logstash-in-docker-master/defaults/
+-rw-rw-r-- root/root       422 2018-07-25 02:16 ansible-logstash-in-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-25 02:16 ansible-logstash-in-docker-master/handlers/
+-rw-rw-r-- root/root        76 2018-07-25 02:16 ansible-logstash-in-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-25 02:16 ansible-logstash-in-docker-master/meta/
+-rw-rw-r-- root/root      2259 2018-07-25 02:16 ansible-logstash-in-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-25 02:16 ansible-logstash-in-docker-master/tasks/
+-rw-rw-r-- root/root       256 2018-07-25 02:16 ansible-logstash-in-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       737 2018-07-25 02:16 ansible-logstash-in-docker-master/tasks/run_container.yml

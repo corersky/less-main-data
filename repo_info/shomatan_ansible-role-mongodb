@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-02 05:41 ansible-role-mongodb-master/
+-rw-rw-r-- root/root       539 2017-04-02 05:41 ansible-role-mongodb-master/.travis.yml
+-rw-rw-r-- root/root       345 2017-04-02 05:41 ansible-role-mongodb-master/README.md
+drwxrwxr-x root/root         0 2017-04-02 05:41 ansible-role-mongodb-master/defaults/
+-rw-rw-r-- root/root        25 2017-04-02 05:41 ansible-role-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-02 05:41 ansible-role-mongodb-master/handlers/
+-rw-rw-r-- root/root       106 2017-04-02 05:41 ansible-role-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-02 05:41 ansible-role-mongodb-master/meta/
+-rw-rw-r-- root/root       236 2017-04-02 05:41 ansible-role-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-02 05:41 ansible-role-mongodb-master/tasks/
+-rw-rw-r-- root/root       856 2017-04-02 05:41 ansible-role-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-02 05:41 ansible-role-mongodb-master/tests/
+-rw-rw-r-- root/root         9 2017-04-02 05:41 ansible-role-mongodb-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-04-02 05:41 ansible-role-mongodb-master/tests/test.yml

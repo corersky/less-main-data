@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-01 00:35 ansible-role-bashrc-master/
+-rw-rw-r-- root/root       539 2016-07-01 00:35 ansible-role-bashrc-master/.travis.yml
+-rw-rw-r-- root/root      1083 2016-07-01 00:35 ansible-role-bashrc-master/README.md
+drwxrwxr-x root/root         0 2016-07-01 00:35 ansible-role-bashrc-master/defaults/
+-rw-rw-r-- root/root        44 2016-07-01 00:35 ansible-role-bashrc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-01 00:35 ansible-role-bashrc-master/handlers/
+-rw-rw-r-- root/root        44 2016-07-01 00:35 ansible-role-bashrc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-01 00:35 ansible-role-bashrc-master/meta/
+-rw-rw-r-- root/root       235 2016-07-01 00:35 ansible-role-bashrc-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-01 00:35 ansible-role-bashrc-master/tasks/
+-rwxrwxr-x root/root       422 2016-07-01 00:35 ansible-role-bashrc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-01 00:35 ansible-role-bashrc-master/tests/
+-rw-rw-r-- root/root         9 2016-07-01 00:35 ansible-role-bashrc-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-07-01 00:35 ansible-role-bashrc-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-01 00:35 ansible-role-bashrc-master/vars/
+-rw-rw-r-- root/root        40 2016-07-01 00:35 ansible-role-bashrc-master/vars/main.yml

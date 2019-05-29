@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/
+-rw-rw-r-- root/root      1163 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/README.md
+drwxrwxr-x root/root         0 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/defaults/
+-rw-rw-r-- root/root        51 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/handlers/
+-rw-rw-r-- root/root       129 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/meta/
+-rw-rw-r-- root/root       294 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/tasks/
+-rw-rw-r-- root/root      1168 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/templates/
+-rw-rw-r-- root/root       656 2016-12-22 09:18 ansible-role-ssh-tunnel-client-master/templates/service.j2

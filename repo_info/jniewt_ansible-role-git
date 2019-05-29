@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/
+-rw-rw-r-- root/root       413 2018-06-12 09:00 ansible-role-git-master/.travis.yml
+-rw-rw-r-- root/root      1808 2018-06-12 09:00 ansible-role-git-master/README.md
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/defaults/
+-rw-rw-r-- root/root       177 2018-06-12 09:00 ansible-role-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/files/
+-rw-rw-r-- root/root      3688 2018-06-12 09:00 ansible-role-git-master/files/bashrc
+-rwxrwxr-x root/root     16379 2018-06-12 09:00 ansible-role-git-master/files/git-prompt.sh
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/handlers/
+-rw-rw-r-- root/root        96 2018-06-12 09:00 ansible-role-git-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/meta/
+-rw-rw-r-- root/root       382 2018-06-12 09:00 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root       551 2018-06-12 09:00 ansible-role-git-master/tasks/lfs.yml
+-rw-rw-r-- root/root       682 2018-06-12 09:00 ansible-role-git-master/tasks/main.yml
+-rw-rw-r-- root/root       422 2018-06-12 09:00 ansible-role-git-master/tasks/prompt.yml
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/templates/
+-rw-rw-r-- root/root      1851 2018-06-12 09:00 ansible-role-git-master/templates/gitconfig.j2
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/tests/
+-rw-rw-r-- root/root     21667 2018-06-12 09:00 ansible-role-git-master/tests/.gitignore
+-rw-rw-r-- root/root        11 2018-06-12 09:00 ansible-role-git-master/tests/inventory
+-rw-rw-r-- root/root        43 2018-06-12 09:00 ansible-role-git-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-06-12 09:00 ansible-role-git-master/tests/roles/git -> ../../
+-rw-rw-r-- root/root      1433 2018-06-12 09:00 ansible-role-git-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-12 09:00 ansible-role-git-master/vars/
+-rw-rw-r-- root/root        62 2018-06-12 09:00 ansible-role-git-master/vars/main.yml

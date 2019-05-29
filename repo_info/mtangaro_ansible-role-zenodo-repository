@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-27 02:28 ansible-role-zenodo-repository-master/
+-rw-rw-r-- root/root      1328 2019-02-27 02:28 ansible-role-zenodo-repository-master/README.md
+drwxrwxr-x root/root         0 2019-02-27 02:28 ansible-role-zenodo-repository-master/defaults/
+-rw-rw-r-- root/root        98 2019-02-27 02:28 ansible-role-zenodo-repository-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-27 02:28 ansible-role-zenodo-repository-master/handlers/
+-rw-rw-r-- root/root        54 2019-02-27 02:28 ansible-role-zenodo-repository-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-27 02:28 ansible-role-zenodo-repository-master/meta/
+-rw-rw-r-- root/root       377 2019-02-27 02:28 ansible-role-zenodo-repository-master/meta/main.yml
+-rw-rw-r-- root/root        91 2019-02-27 02:28 ansible-role-zenodo-repository-master/playbook.yml
+drwxrwxr-x root/root         0 2019-02-27 02:28 ansible-role-zenodo-repository-master/tasks/
+-rw-rw-r-- root/root        26 2019-02-27 02:28 ansible-role-zenodo-repository-master/tasks/main.yml
+-rw-rw-r-- root/root       989 2019-02-27 02:28 ansible-role-zenodo-repository-master/tasks/zenodo.yml
+drwxrwxr-x root/root         0 2019-02-27 02:28 ansible-role-zenodo-repository-master/tests/
+-rw-rw-r-- root/root        11 2019-02-27 02:28 ansible-role-zenodo-repository-master/tests/inventory
+-rw-rw-r-- root/root        88 2019-02-27 02:28 ansible-role-zenodo-repository-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-27 02:28 ansible-role-zenodo-repository-master/vars/
+-rw-rw-r-- root/root        50 2019-02-27 02:28 ansible-role-zenodo-repository-master/vars/main.yml

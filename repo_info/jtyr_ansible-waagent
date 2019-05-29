@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-12 04:13 ansible-waagent-master/
+-rw-rw-r-- root/root         0 2017-05-12 04:13 ansible-waagent-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-12 04:13 ansible-waagent-master/LICENSE
+-rw-rw-r-- root/root      5127 2017-05-12 04:13 ansible-waagent-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 04:13 ansible-waagent-master/defaults/
+-rw-rw-r-- root/root      3203 2017-05-12 04:13 ansible-waagent-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:13 ansible-waagent-master/handlers/
+-rw-rw-r-- root/root       199 2017-05-12 04:13 ansible-waagent-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:13 ansible-waagent-master/meta/
+-rw-rw-r-- root/root       286 2017-05-12 04:13 ansible-waagent-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 04:13 ansible-waagent-master/tasks/
+-rw-rw-r-- root/root       905 2017-05-12 04:13 ansible-waagent-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:13 ansible-waagent-master/templates/
+-rw-rw-r-- root/root        67 2017-05-12 04:13 ansible-waagent-master/templates/waagent.conf.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-09-27 04:24 ansible-role-computername-master/
+-rw-rw-r-- root/root       468 2015-09-27 04:24 ansible-role-computername-master/.travis.yml
+-rw-rw-r-- root/root       546 2015-09-27 04:24 ansible-role-computername-master/README.md
+drwxrwxr-x root/root         0 2015-09-27 04:24 ansible-role-computername-master/defaults/
+-rw-rw-r-- root/root        78 2015-09-27 04:24 ansible-role-computername-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-27 04:24 ansible-role-computername-master/meta/
+-rw-rw-r-- root/root       401 2015-09-27 04:24 ansible-role-computername-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-27 04:24 ansible-role-computername-master/tasks/
+-rw-rw-r-- root/root       585 2015-09-27 04:24 ansible-role-computername-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-27 04:24 ansible-role-computername-master/tests/
+-rw-rw-r-- root/root        10 2015-09-27 04:24 ansible-role-computername-master/tests/inventory
+-rw-rw-r-- root/root        44 2015-09-27 04:24 ansible-role-computername-master/tests/requirements.yml
+-rw-rw-r-- root/root        85 2015-09-27 04:24 ansible-role-computername-master/tests/travis.yml

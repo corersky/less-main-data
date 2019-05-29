@@ -1,0 +1,35 @@
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/
+-rw-rw-r-- root/root        12 2017-11-05 10:02 ansible-role-gitolite-master/.gitignore
+-rw-rw-r-- root/root       639 2017-11-05 10:02 ansible-role-gitolite-master/.kitchen.yml
+-rw-rw-r-- root/root       663 2017-11-05 10:02 ansible-role-gitolite-master/.rubocop.yml
+-rw-rw-r-- root/root       333 2017-11-05 10:02 ansible-role-gitolite-master/.travis.yml
+-rw-rw-r-- root/root       155 2017-11-05 10:02 ansible-role-gitolite-master/Gemfile
+-rw-rw-r-- root/root      2125 2017-11-05 10:02 ansible-role-gitolite-master/Gemfile.lock
+-rw-rw-r-- root/root     11357 2017-11-05 10:02 ansible-role-gitolite-master/LICENSE
+-rw-rw-r-- root/root      1883 2017-11-05 10:02 ansible-role-gitolite-master/README.md
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/defaults/
+-rw-rw-r-- root/root       101 2017-11-05 10:02 ansible-role-gitolite-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/meta/
+-rw-rw-r-- root/root       272 2017-11-05 10:02 ansible-role-gitolite-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/purge/
+lrwxrwxrwx root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/purge/defaults -> ../defaults
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/purge/meta/
+-rw-rw-r-- root/root        37 2017-11-05 10:02 ansible-role-gitolite-master/purge/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/purge/tasks/
+-rw-rw-r-- root/root       105 2017-11-05 10:02 ansible-role-gitolite-master/purge/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/tasks/
+-rw-rw-r-- root/root      1333 2017-11-05 10:02 ansible-role-gitolite-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/test/
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/.kitchen/
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/.kitchen/logs/
+-rw-rw-r-- root/root      4467 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/.kitchen/logs/kitchen.log
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/gitolite/
+-rw-rw-r-- root/root        77 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/gitolite/default.yml
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/gitolite/serverspec/
+-rw-rw-r-- root/root       653 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/gitolite/serverspec/gitolite_spec.rb
+-rw-rw-r-- root/root        21 2017-11-05 10:02 ansible-role-gitolite-master/test/integration/inventory
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/uninstall/
+lrwxrwxrwx root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/uninstall/defaults -> ../defaults
+drwxrwxr-x root/root         0 2017-11-05 10:02 ansible-role-gitolite-master/uninstall/tasks/
+-rw-rw-r-- root/root       297 2017-11-05 10:02 ansible-role-gitolite-master/uninstall/tasks/main.yml

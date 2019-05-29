@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-15 06:15 ansible-role-java8-master/
+-rw-rw-r-- root/root       539 2017-02-15 06:15 ansible-role-java8-master/.travis.yml
+-rw-rw-r-- root/root       352 2017-02-15 06:15 ansible-role-java8-master/README.md
+drwxrwxr-x root/root         0 2017-02-15 06:15 ansible-role-java8-master/defaults/
+-rw-rw-r-- root/root        43 2017-02-15 06:15 ansible-role-java8-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-15 06:15 ansible-role-java8-master/handlers/
+-rw-rw-r-- root/root        43 2017-02-15 06:15 ansible-role-java8-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-15 06:15 ansible-role-java8-master/meta/
+-rw-rw-r-- root/root      3282 2017-02-15 06:15 ansible-role-java8-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-15 06:15 ansible-role-java8-master/tasks/
+-rw-rw-r-- root/root       535 2017-02-15 06:15 ansible-role-java8-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-15 06:15 ansible-role-java8-master/tests/
+-rw-rw-r-- root/root         9 2017-02-15 06:15 ansible-role-java8-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-02-15 06:15 ansible-role-java8-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-15 06:15 ansible-role-java8-master/vars/
+-rw-rw-r-- root/root        39 2017-02-15 06:15 ansible-role-java8-master/vars/main.yml

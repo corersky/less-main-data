@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-05-24 01:02 ansible-role-emscripten-master/
+-rw-rw-r-- root/root      1381 2018-05-24 01:02 ansible-role-emscripten-master/.travis.yml
+-rw-rw-r-- root/root      1069 2018-05-24 01:02 ansible-role-emscripten-master/LICENSE
+-rw-rw-r-- root/root       851 2018-05-24 01:02 ansible-role-emscripten-master/README.md
+drwxrwxr-x root/root         0 2018-05-24 01:02 ansible-role-emscripten-master/defaults/
+-rw-rw-r-- root/root        63 2018-05-24 01:02 ansible-role-emscripten-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-24 01:02 ansible-role-emscripten-master/meta/
+-rw-rw-r-- root/root      1683 2018-05-24 01:02 ansible-role-emscripten-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 01:02 ansible-role-emscripten-master/tasks/
+-rw-rw-r-- root/root       525 2018-05-24 01:02 ansible-role-emscripten-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-24 01:02 ansible-role-emscripten-master/tests/
+-rw-rw-r-- root/root        11 2018-05-24 01:02 ansible-role-emscripten-master/tests/inventory
+-rw-rw-r-- root/root        49 2018-05-24 01:02 ansible-role-emscripten-master/tests/test.yml

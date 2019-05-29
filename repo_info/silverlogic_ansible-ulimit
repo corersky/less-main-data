@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-14 14:37 ansible-ulimit-master/
+-rw-rw-r-- root/root     11357 2017-09-14 14:37 ansible-ulimit-master/LICENSE
+-rw-rw-r-- root/root       622 2017-09-14 14:37 ansible-ulimit-master/README.md
+drwxrwxr-x root/root         0 2017-09-14 14:37 ansible-ulimit-master/defaults/
+-rw-rw-r-- root/root        22 2017-09-14 14:37 ansible-ulimit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-14 14:37 ansible-ulimit-master/handlers/
+-rw-rw-r-- root/root        30 2017-09-14 14:37 ansible-ulimit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-14 14:37 ansible-ulimit-master/meta/
+-rw-rw-r-- root/root       287 2017-09-14 14:37 ansible-ulimit-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-14 14:37 ansible-ulimit-master/tasks/
+-rw-rw-r-- root/root       216 2017-09-14 14:37 ansible-ulimit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-14 14:37 ansible-ulimit-master/tests/
+-rw-rw-r-- root/root        11 2017-09-14 14:37 ansible-ulimit-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-09-14 14:37 ansible-ulimit-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-14 14:37 ansible-ulimit-master/vars/
+-rw-rw-r-- root/root        26 2017-09-14 14:37 ansible-ulimit-master/vars/main.yml

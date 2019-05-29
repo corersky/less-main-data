@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/defaults/
+-rw-rw-r-- root/root         4 2019-05-10 00:25 ansible-role-base-system-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/files/
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/files/Debian-Buster/
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/files/Debian-Buster/etc/
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/files/Debian-Buster/etc/apt/
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/files/Debian-Buster/etc/apt/sources.list.d/
+-rw-rw-r-- root/root      7346 2019-05-10 00:25 ansible-role-base-system-master/files/Debian-Buster/etc/apt/sources.list.d/debian-official.list
+-rw-rw-r-- root/root      1848 2019-05-10 00:25 ansible-role-base-system-master/files/Debian-Buster/etc/apt/sources.list.d/debian-security.list
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/meta/
+-rw-rw-r-- root/root       388 2019-05-10 00:25 ansible-role-base-system-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/tasks/
+-rw-rw-r-- root/root       140 2019-05-10 00:25 ansible-role-base-system-master/tasks/main.yml
+-rw-rw-r-- root/root      1962 2019-05-10 00:25 ansible-role-base-system-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-05-10 00:25 ansible-role-base-system-master/vars/
+-rw-rw-r-- root/root       697 2019-05-10 00:25 ansible-role-base-system-master/vars/Debian-Buster.yml

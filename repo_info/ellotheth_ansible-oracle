@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-12-04 10:23 ansible-oracle-master/
+-rw-rw-r-- root/root      1076 2014-12-04 10:23 ansible-oracle-master/LICENSE
+-rw-rw-r-- root/root      1504 2014-12-04 10:23 ansible-oracle-master/README.md
+drwxrwxr-x root/root         0 2014-12-04 10:23 ansible-oracle-master/defaults/
+-rw-rw-r-- root/root      1755 2014-12-04 10:23 ansible-oracle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-04 10:23 ansible-oracle-master/meta/
+-rw-rw-r-- root/root       242 2014-12-04 10:23 ansible-oracle-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-04 10:23 ansible-oracle-master/tasks/
+-rw-rw-r-- root/root       421 2014-12-04 10:23 ansible-oracle-master/tasks/get_installer.yml
+-rw-rw-r-- root/root      6593 2014-12-04 10:23 ansible-oracle-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-04 10:23 ansible-oracle-master/templates/
+-rw-rw-r-- root/root      2357 2014-12-04 10:23 ansible-oracle-master/templates/db_install.rsp.j2
+-rw-rw-r-- root/root      1256 2014-12-04 10:23 ansible-oracle-master/templates/oracle_init.j2
+-rw-rw-r-- root/root       367 2014-12-04 10:23 ansible-oracle-master/templates/sqlplus_user_setup.sh.j2
+drwxrwxr-x root/root         0 2014-12-04 10:23 ansible-oracle-master/vars/
+-rw-rw-r-- root/root       252 2014-12-04 10:23 ansible-oracle-master/vars/main.yml

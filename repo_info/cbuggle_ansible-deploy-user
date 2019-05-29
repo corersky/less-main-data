@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-30 14:33 ansible-deploy-user-master/
+-rw-rw-r-- root/root       162 2018-09-30 14:33 ansible-deploy-user-master/CHANGES.md
+-rw-rw-r-- root/root      1106 2018-09-30 14:33 ansible-deploy-user-master/LICENSE
+-rw-rw-r-- root/root      1676 2018-09-30 14:33 ansible-deploy-user-master/README.md
+drwxrwxr-x root/root         0 2018-09-30 14:33 ansible-deploy-user-master/defaults/
+-rw-rw-r-- root/root       111 2018-09-30 14:33 ansible-deploy-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 14:33 ansible-deploy-user-master/handlers/
+-rw-rw-r-- root/root       110 2018-09-30 14:33 ansible-deploy-user-master/handlers/main.yml
+-rw-rw-r-- root/root        60 2018-09-30 14:33 ansible-deploy-user-master/handlers/restart_ssh.yml
+drwxrwxr-x root/root         0 2018-09-30 14:33 ansible-deploy-user-master/meta/
+-rw-rw-r-- root/root       484 2018-09-30 14:33 ansible-deploy-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-30 14:33 ansible-deploy-user-master/tasks/
+-rw-rw-r-- root/root       105 2018-09-30 14:33 ansible-deploy-user-master/tasks/apt-install-sudo.yml
+-rw-rw-r-- root/root       661 2018-09-30 14:33 ansible-deploy-user-master/tasks/deploy-user.yml
+-rw-rw-r-- root/root       208 2018-09-30 14:33 ansible-deploy-user-master/tasks/disallow-root-ssh.yml
+-rw-rw-r-- root/root       204 2018-09-30 14:33 ansible-deploy-user-master/tasks/main.yml

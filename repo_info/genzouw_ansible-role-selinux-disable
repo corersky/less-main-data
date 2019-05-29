@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-01-22 20:31 ansible-role-selinux-disable-master/
+-rw-rw-r-- root/root     18027 2015-01-22 20:31 ansible-role-selinux-disable-master/LICENSE
+-rw-rw-r-- root/root         0 2015-01-22 20:31 ansible-role-selinux-disable-master/README.md
+drwxrwxr-x root/root         0 2015-01-22 20:31 ansible-role-selinux-disable-master/meta/
+-rw-rw-r-- root/root       261 2015-01-22 20:31 ansible-role-selinux-disable-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-22 20:31 ansible-role-selinux-disable-master/tasks/
+-rw-rw-r-- root/root       263 2015-01-22 20:31 ansible-role-selinux-disable-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-22 20:31 ansible-role-selinux-disable-master/templates/
+drwxrwxr-x root/root         0 2015-01-22 20:31 ansible-role-selinux-disable-master/templates/selinux/
+-rw-rw-r-- root/root       457 2015-01-22 20:31 ansible-role-selinux-disable-master/templates/selinux/config

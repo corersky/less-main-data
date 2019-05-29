@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-28 06:09 ansible-role-weave-scope-master/
+-rw-rw-r-- root/root        78 2016-06-28 06:09 ansible-role-weave-scope-master/.gitignore
+-rw-rw-r-- root/root       540 2016-06-28 06:09 ansible-role-weave-scope-master/.travis.yml
+-rw-rw-r-- root/root       950 2016-06-28 06:09 ansible-role-weave-scope-master/README.md
+-rw-rw-r-- root/root       272 2016-06-28 06:09 ansible-role-weave-scope-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-06-28 06:09 ansible-role-weave-scope-master/meta/
+-rw-rw-r-- root/root       302 2016-06-28 06:09 ansible-role-weave-scope-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-28 06:09 ansible-role-weave-scope-master/tasks/
+-rw-rw-r-- root/root       176 2016-06-28 06:09 ansible-role-weave-scope-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-28 06:09 ansible-role-weave-scope-master/tests/
+-rw-rw-r-- root/root         9 2016-06-28 06:09 ansible-role-weave-scope-master/tests/inventory
+-rw-rw-r-- root/root        60 2016-06-28 06:09 ansible-role-weave-scope-master/tests/test.yml
+-rw-rw-r-- root/root        81 2016-06-28 06:09 ansible-role-weave-scope-master/tests/vagrant.yml
+drwxrwxr-x root/root         0 2016-06-28 06:09 ansible-role-weave-scope-master/vars/
+-rw-rw-r-- root/root        30 2016-06-28 06:09 ansible-role-weave-scope-master/vars/main.yml

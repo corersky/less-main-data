@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-29 10:12 ansible-mapr_configuration-master/
+-rw-rw-r-- root/root       553 2016-10-29 10:12 ansible-mapr_configuration-master/README.md
+drwxrwxr-x root/root         0 2016-10-29 10:12 ansible-mapr_configuration-master/defaults/
+-rw-rw-r-- root/root       296 2016-10-29 10:12 ansible-mapr_configuration-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-29 10:12 ansible-mapr_configuration-master/handlers/
+-rw-rw-r-- root/root        42 2016-10-29 10:12 ansible-mapr_configuration-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-29 10:12 ansible-mapr_configuration-master/meta/
+-rw-rw-r-- root/root      2102 2016-10-29 10:12 ansible-mapr_configuration-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-29 10:12 ansible-mapr_configuration-master/tasks/
+-rw-rw-r-- root/root      4178 2016-10-29 10:12 ansible-mapr_configuration-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-29 10:12 ansible-mapr_configuration-master/templates/
+-rw-rw-r-- root/root        50 2016-10-29 10:12 ansible-mapr_configuration-master/templates/disks.txt.j2
+-rw-rw-r-- root/root      1193 2016-10-29 10:12 ansible-mapr_configuration-master/templates/do_configure_sh.j2
+-rw-rw-r-- root/root      1216 2016-10-29 10:12 ansible-mapr_configuration-master/templates/do_configure_sh_genkeys.j2
+drwxrwxr-x root/root         0 2016-10-29 10:12 ansible-mapr_configuration-master/vars/
+-rw-rw-r-- root/root        38 2016-10-29 10:12 ansible-mapr_configuration-master/vars/main.yml

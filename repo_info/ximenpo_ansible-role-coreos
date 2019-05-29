@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-09-20 02:05 ansible-role-coreos-master/
+-rw-rw-r-- root/root      1064 2017-09-20 02:05 ansible-role-coreos-master/LICENSE
+-rw-rw-r-- root/root       162 2017-09-20 02:05 ansible-role-coreos-master/README.md
+drwxrwxr-x root/root         0 2017-09-20 02:05 ansible-role-coreos-master/defaults/
+-rw-rw-r-- root/root      1876 2017-09-20 02:05 ansible-role-coreos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-20 02:05 ansible-role-coreos-master/meta/
+-rw-rw-r-- root/root       261 2017-09-20 02:05 ansible-role-coreos-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-20 02:05 ansible-role-coreos-master/tasks/
+-rw-rw-r-- root/root      7039 2017-09-20 02:05 ansible-role-coreos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-20 02:05 ansible-role-coreos-master/tests/
+-rw-rw-r-- root/root        11 2017-09-20 02:05 ansible-role-coreos-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-09-20 02:05 ansible-role-coreos-master/tests/test.yml

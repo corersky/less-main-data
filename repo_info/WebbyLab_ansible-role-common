@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-04-08 11:14 ansible-role-common-master/
+-rw-rw-r-- root/root       619 2016-04-08 11:14 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2016-04-08 11:14 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root        96 2016-04-08 11:14 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-08 11:14 ansible-role-common-master/handlers/
+-rw-rw-r-- root/root        88 2016-04-08 11:14 ansible-role-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-08 11:14 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       255 2016-04-08 11:14 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-08 11:14 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root       992 2016-04-08 11:14 ansible-role-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-08 11:14 ansible-role-common-master/templates/
+-rw-rw-r-- root/root        48 2016-04-08 11:14 ansible-role-common-master/templates/default.j2

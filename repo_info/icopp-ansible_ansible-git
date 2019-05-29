@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-07 12:23 ansible-git-master/
+-rw-rw-r-- root/root       672 2016-09-07 12:23 ansible-git-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-07 12:23 ansible-git-master/LICENSE
+-rw-rw-r-- root/root       647 2016-09-07 12:23 ansible-git-master/README.md
+drwxrwxr-x root/root         0 2016-09-07 12:23 ansible-git-master/defaults/
+-rw-rw-r-- root/root       104 2016-09-07 12:23 ansible-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-07 12:23 ansible-git-master/meta/
+-rw-rw-r-- root/root       289 2016-09-07 12:23 ansible-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-07 12:23 ansible-git-master/tasks/
+-rw-rw-r-- root/root       606 2016-09-07 12:23 ansible-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-07 12:23 ansible-git-master/tests/
+-rw-rw-r-- root/root         9 2016-09-07 12:23 ansible-git-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-09-07 12:23 ansible-git-master/tests/test.yml

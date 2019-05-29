@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-backup-restore-master/
+-rwxrwxr-x root/root       643 2018-11-29 08:24 ansible-role-backup-restore-master/.travis.yml
+-rw-rw-r-- root/root      1249 2018-11-29 08:24 ansible-role-backup-restore-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-backup-restore-master/defaults/
+-rw-rw-r-- root/root       886 2018-11-29 08:24 ansible-role-backup-restore-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-backup-restore-master/meta/
+-rw-rw-r-- root/root       305 2018-11-29 08:24 ansible-role-backup-restore-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-backup-restore-master/tasks/
+-rw-rw-r-- root/root       760 2018-11-29 08:24 ansible-role-backup-restore-master/tasks/elasticsearch.yml
+-rw-rw-r-- root/root       469 2018-11-29 08:24 ansible-role-backup-restore-master/tasks/files.yml
+-rw-rw-r-- root/root       924 2018-11-29 08:24 ansible-role-backup-restore-master/tasks/main.yml
+-rw-rw-r-- root/root       843 2018-11-29 08:24 ansible-role-backup-restore-master/tasks/mongodb.yml
+-rw-rw-r-- root/root      1062 2018-11-29 08:24 ansible-role-backup-restore-master/tasks/postgresql.yml
+-rw-rw-r-- root/root       571 2018-11-29 08:24 ansible-role-backup-restore-master/tasks/redis.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-backup-restore-master/tests/
+-rw-rw-r-- root/root        10 2018-11-29 08:24 ansible-role-backup-restore-master/tests/inventory
+-rw-rw-r-- root/root       196 2018-11-29 08:24 ansible-role-backup-restore-master/tests/test.yml

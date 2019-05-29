@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-09 18:36 ansible-role-rpmbuildenv-master/
+-rw-rw-r-- root/root      1651 2018-11-09 18:36 ansible-role-rpmbuildenv-master/.gitignore
+-rw-rw-r-- root/root       540 2018-11-09 18:36 ansible-role-rpmbuildenv-master/.travis.yml
+-rw-rw-r-- root/root       347 2018-11-09 18:36 ansible-role-rpmbuildenv-master/README.md
+drwxrwxr-x root/root         0 2018-11-09 18:36 ansible-role-rpmbuildenv-master/defaults/
+-rw-rw-r-- root/root        80 2018-11-09 18:36 ansible-role-rpmbuildenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-09 18:36 ansible-role-rpmbuildenv-master/handlers/
+-rw-rw-r-- root/root        79 2018-11-09 18:36 ansible-role-rpmbuildenv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-09 18:36 ansible-role-rpmbuildenv-master/meta/
+-rw-rw-r-- root/root       322 2018-11-09 18:36 ansible-role-rpmbuildenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-09 18:36 ansible-role-rpmbuildenv-master/tasks/
+-rw-rw-r-- root/root       694 2018-11-09 18:36 ansible-role-rpmbuildenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-09 18:36 ansible-role-rpmbuildenv-master/tests/
+-rw-rw-r-- root/root        11 2018-11-09 18:36 ansible-role-rpmbuildenv-master/tests/inventory
+-rw-rw-r-- root/root       156 2018-11-09 18:36 ansible-role-rpmbuildenv-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-09 18:36 ansible-role-rpmbuildenv-master/vars/
+-rw-rw-r-- root/root        75 2018-11-09 18:36 ansible-role-rpmbuildenv-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-11-30 21:03 ansible-role-openssh-client-master/
+-rw-rw-r-- root/root      1514 2017-11-30 21:03 ansible-role-openssh-client-master/LICENSE
+-rw-rw-r-- root/root        61 2017-11-30 21:03 ansible-role-openssh-client-master/README.md
+drwxrwxr-x root/root         0 2017-11-30 21:03 ansible-role-openssh-client-master/defaults/
+-rw-rw-r-- root/root        12 2017-11-30 21:03 ansible-role-openssh-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-30 21:03 ansible-role-openssh-client-master/files/
+-rw-rw-r-- root/root       626 2017-11-30 21:03 ansible-role-openssh-client-master/files/ssh_config
+drwxrwxr-x root/root         0 2017-11-30 21:03 ansible-role-openssh-client-master/meta/
+-rw-rw-r-- root/root       262 2017-11-30 21:03 ansible-role-openssh-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-30 21:03 ansible-role-openssh-client-master/tasks/
+-rw-rw-r-- root/root       712 2017-11-30 21:03 ansible-role-openssh-client-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2017-11-30 21:03 ansible-role-openssh-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-30 21:03 ansible-role-openssh-client-master/templates/
+-rw-rw-r-- root/root       110 2017-11-30 21:03 ansible-role-openssh-client-master/templates/known_hosts.j2

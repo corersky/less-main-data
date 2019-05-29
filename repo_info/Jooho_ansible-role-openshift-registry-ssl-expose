@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/
+-rw-rw-r-- root/root      5075 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/README.md
+drwxrwxr-x root/root         0 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/defaults/
+-rw-rw-r-- root/root       520 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/meta/
+-rw-rw-r-- root/root       341 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/meta/main.yml
+-rw-rw-r-- root/root       246 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/molecule.yml
+-rw-rw-r-- root/root        81 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/playbook.yml
+drwxrwxr-x root/root         0 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/tasks/
+-rw-rw-r-- root/root      8264 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/templates/
+-rw-rw-r-- root/root      3948 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/templates/test-docker-registry.sh.j2
+drwxrwxr-x root/root         0 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/tests/
+-rw-rw-r-- root/root       289 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/tests/test_default.py
+-rw-rw-r-- root/root       815 2017-07-26 09:52 ansible-role-openshift-registry-ssl-expose-master/tests/test_default.pyc

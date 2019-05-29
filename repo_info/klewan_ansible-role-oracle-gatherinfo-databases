@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/
+-rw-rw-r-- root/root     35149 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/LICENSE
+-rw-rw-r-- root/root      4059 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/README.md
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/defaults/
+-rw-rw-r-- root/root      1305 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/meta/
+-rw-rw-r-- root/root       329 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/tasks/
+-rw-rw-r-- root/root      1625 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/tasks/extra_facts.yml
+-rw-rw-r-- root/root      2205 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/tasks/home_patches.yml
+-rw-rw-r-- root/root      5031 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/tasks/main.yml
+-rw-rw-r-- root/root      1532 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/tasks/patches.yml
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/templates/
+-rw-rw-r-- root/root       189 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/templates/oracle_databases.fact.j2
+drwxrwxr-x root/root         0 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/vars/
+-rw-rw-r-- root/root         5 2019-01-24 04:41 ansible-role-oracle-gatherinfo-databases-master/vars/main.yml

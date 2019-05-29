@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-09-04 09:12 minikube_role-master/
+-rw-rw-r-- root/root       240 2016-09-04 09:12 minikube_role-master/.gitignore
+-rw-rw-r-- root/root       539 2016-09-04 09:12 minikube_role-master/.travis.yml
+-rw-rw-r-- root/root      1063 2016-09-04 09:12 minikube_role-master/LICENSE
+-rw-rw-r-- root/root       813 2016-09-04 09:12 minikube_role-master/README.md
+drwxrwxr-x root/root         0 2016-09-04 09:12 minikube_role-master/meta/
+-rw-rw-r-- root/root       279 2016-09-04 09:12 minikube_role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-04 09:12 minikube_role-master/tasks/
+-rw-rw-r-- root/root       841 2016-09-04 09:12 minikube_role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-04 09:12 minikube_role-master/tests/
+-rw-rw-r-- root/root         9 2016-09-04 09:12 minikube_role-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-09-04 09:12 minikube_role-master/tests/test.yml

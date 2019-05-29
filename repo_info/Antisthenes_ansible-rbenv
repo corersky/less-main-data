@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-09-22 03:34 ansible-rbenv-master/
+-rw-rw-r-- root/root         7 2015-09-22 03:34 ansible-rbenv-master/.gitignore
+-rw-rw-r-- root/root       488 2015-09-22 03:34 ansible-rbenv-master/.travis.yml
+-rw-rw-r-- root/root      1507 2015-09-22 03:34 ansible-rbenv-master/README.md
+drwxrwxr-x root/root         0 2015-09-22 03:34 ansible-rbenv-master/defaults/
+-rw-rw-r-- root/root        22 2015-09-22 03:34 ansible-rbenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-22 03:34 ansible-rbenv-master/files/
+-rw-rw-r-- root/root        56 2015-09-22 03:34 ansible-rbenv-master/files/gemrc
+-rw-rw-r-- root/root        60 2015-09-22 03:34 ansible-rbenv-master/files/rbenv.bash
+drwxrwxr-x root/root         0 2015-09-22 03:34 ansible-rbenv-master/handlers/
+-rw-rw-r-- root/root       164 2015-09-22 03:34 ansible-rbenv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-22 03:34 ansible-rbenv-master/meta/
+-rw-rw-r-- root/root       492 2015-09-22 03:34 ansible-rbenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-22 03:34 ansible-rbenv-master/tasks/
+-rw-rw-r-- root/root        56 2015-09-22 03:34 ansible-rbenv-master/tasks/main.yml
+-rw-rw-r-- root/root      1370 2015-09-22 03:34 ansible-rbenv-master/tasks/rbenv-setup.yml

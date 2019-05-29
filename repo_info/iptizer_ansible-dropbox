@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-08-19 12:07 ansible-dropbox-master/
+-rw-rw-r-- root/root      2090 2018-08-19 12:07 ansible-dropbox-master/README.md
+drwxrwxr-x root/root         0 2018-08-19 12:07 ansible-dropbox-master/defaults/
+-rw-rw-r-- root/root       247 2018-08-19 12:07 ansible-dropbox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-19 12:07 ansible-dropbox-master/handlers/
+-rw-rw-r-- root/root       140 2018-08-19 12:07 ansible-dropbox-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-19 12:07 ansible-dropbox-master/meta/
+-rw-rw-r-- root/root      1584 2018-08-19 12:07 ansible-dropbox-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-19 12:07 ansible-dropbox-master/tasks/
+-rw-rw-r-- root/root      2958 2018-08-19 12:07 ansible-dropbox-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-19 12:07 ansible-dropbox-master/templates/
+-rw-rw-r-- root/root       378 2018-08-19 12:07 ansible-dropbox-master/templates/dropbox.service.j2

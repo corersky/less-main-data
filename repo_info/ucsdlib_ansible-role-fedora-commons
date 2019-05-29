@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-10-28 17:38 ansible-role-fedora-commons-master/
+-rw-rw-r-- root/root       637 2016-10-28 17:38 ansible-role-fedora-commons-master/.travis.yml
+-rw-rw-r-- root/root       665 2016-10-28 17:38 ansible-role-fedora-commons-master/README.md
+drwxrwxr-x root/root         0 2016-10-28 17:38 ansible-role-fedora-commons-master/defaults/
+-rw-rw-r-- root/root       217 2016-10-28 17:38 ansible-role-fedora-commons-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-28 17:38 ansible-role-fedora-commons-master/meta/
+-rw-rw-r-- root/root       361 2016-10-28 17:38 ansible-role-fedora-commons-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-28 17:38 ansible-role-fedora-commons-master/tasks/
+-rw-rw-r-- root/root       883 2016-10-28 17:38 ansible-role-fedora-commons-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-28 17:38 ansible-role-fedora-commons-master/tests/
+-rw-rw-r-- root/root        10 2016-10-28 17:38 ansible-role-fedora-commons-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-10-28 17:38 ansible-role-fedora-commons-master/tests/test.yml

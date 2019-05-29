@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-01-06 14:11 ansible-role-samba-master/
+-rw-rw-r-- root/root         8 2019-01-06 14:11 ansible-role-samba-master/.gitignore
+-rw-rw-r-- root/root       939 2019-01-06 14:11 ansible-role-samba-master/README.md
+drwxrwxr-x root/root         0 2019-01-06 14:11 ansible-role-samba-master/meta/
+-rw-rw-r-- root/root       302 2019-01-06 14:11 ansible-role-samba-master/meta/main.yml
+-rw-rw-r-- root/root        25 2019-01-06 14:11 ansible-role-samba-master/requirements.yml
+drwxrwxr-x root/root         0 2019-01-06 14:11 ansible-role-samba-master/tasks/
+-rw-rw-r-- root/root       353 2019-01-06 14:11 ansible-role-samba-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-06 14:11 ansible-role-samba-master/test/
+-rw-rw-r-- root/root       355 2019-01-06 14:11 ansible-role-samba-master/test/example.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-slack-master/
+-rw-rw-r-- root/root       672 2016-09-16 13:24 ansible-slack-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-16 13:24 ansible-slack-master/LICENSE
+-rw-rw-r-- root/root       594 2016-09-16 13:24 ansible-slack-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-slack-master/defaults/
+-rw-rw-r-- root/root        36 2016-09-16 13:24 ansible-slack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-slack-master/meta/
+-rw-rw-r-- root/root       462 2016-09-16 13:24 ansible-slack-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-slack-master/tasks/
+-rw-rw-r-- root/root       411 2016-09-16 13:24 ansible-slack-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-slack-master/tests/
+-rw-rw-r-- root/root         9 2016-09-16 13:24 ansible-slack-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-09-16 13:24 ansible-slack-master/tests/test.yml

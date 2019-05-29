@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-04-29 13:06 ansible-pgbouncer-master/
+-rw-rw-r-- root/root       598 2014-04-29 13:06 ansible-pgbouncer-master/README.md
+drwxrwxr-x root/root         0 2014-04-29 13:06 ansible-pgbouncer-master/defaults/
+-rw-rw-r-- root/root       834 2014-04-29 13:06 ansible-pgbouncer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-04-29 13:06 ansible-pgbouncer-master/meta/
+-rw-rw-r-- root/root       368 2014-04-29 13:06 ansible-pgbouncer-master/meta/main.yml
+-rw-rw-r-- root/root       155 2014-04-29 13:06 ansible-pgbouncer-master/role.yml
+drwxrwxr-x root/root         0 2014-04-29 13:06 ansible-pgbouncer-master/tasks/
+-rw-rw-r-- root/root      1186 2014-04-29 13:06 ansible-pgbouncer-master/tasks/configure.yml
+-rw-rw-r-- root/root       155 2014-04-29 13:06 ansible-pgbouncer-master/tasks/install.yml
+-rw-rw-r-- root/root       160 2014-04-29 13:06 ansible-pgbouncer-master/tasks/main.yml
+-rw-rw-r-- root/root       378 2014-04-29 13:06 ansible-pgbouncer-master/tasks/post-install.yml
+drwxrwxr-x root/root         0 2014-04-29 13:06 ansible-pgbouncer-master/templates/
+-rw-rw-r-- root/root      5172 2014-04-29 13:06 ansible-pgbouncer-master/templates/pgbouncer.ini.j2
+-rw-rw-r-- root/root       258 2014-04-29 13:06 ansible-pgbouncer-master/templates/pgbouncer.j2

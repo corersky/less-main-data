@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/
+-rw-rw-r-- root/root        66 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/.gitignore
+-rw-rw-r-- root/root      1507 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/LICENSE.mkd
+-rw-rw-r-- root/root      6578 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/README.md
+drwxrwxr-x root/root         0 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/defaults/
+-rw-rw-r-- root/root      3980 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/meta/
+-rw-rw-r-- root/root       576 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/tasks/
+-rw-rw-r-- root/root       447 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/templates/
+-rw-rw-r-- root/root      8834 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/templates/configmap.yml.j2
+-rw-rw-r-- root/root      3458 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       581 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       843 2018-09-01 11:00 ansible-role-kubernetes-rtorrent-master/templates/service.yml.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-30 06:10 ansible-zsh-conf-master/
+-rw-rw-r-- root/root        42 2017-09-30 06:10 ansible-zsh-conf-master/.gitignore
+-rw-rw-r-- root/root       368 2017-09-30 06:10 ansible-zsh-conf-master/.travis.yml
+-rw-rw-r-- root/root      1072 2017-09-30 06:10 ansible-zsh-conf-master/LICENSE
+-rw-rw-r-- root/root       943 2017-09-30 06:10 ansible-zsh-conf-master/README.md
+drwxrwxr-x root/root         0 2017-09-30 06:10 ansible-zsh-conf-master/defaults/
+-rw-rw-r-- root/root        71 2017-09-30 06:10 ansible-zsh-conf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-30 06:10 ansible-zsh-conf-master/meta/
+-rw-rw-r-- root/root       278 2017-09-30 06:10 ansible-zsh-conf-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-30 06:10 ansible-zsh-conf-master/tasks/
+-rw-rw-r-- root/root       451 2017-09-30 06:10 ansible-zsh-conf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-30 06:10 ansible-zsh-conf-master/tests/
+-rw-rw-r-- root/root       276 2017-09-30 06:10 ansible-zsh-conf-master/tests/Vagrantfile
+-rw-rw-r-- root/root        40 2017-09-30 06:10 ansible-zsh-conf-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2017-09-30 06:10 ansible-zsh-conf-master/tests/localhost
+-rw-rw-r-- root/root        18 2017-09-30 06:10 ansible-zsh-conf-master/tests/roles.yml
+-rw-rw-r-- root/root       449 2017-09-30 06:10 ansible-zsh-conf-master/tests/test.yml

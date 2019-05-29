@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-13 13:26 ansible-role-testtest-master/
+-rw-rw-r-- root/root      1328 2017-10-13 13:26 ansible-role-testtest-master/README.md
+drwxrwxr-x root/root         0 2017-10-13 13:26 ansible-role-testtest-master/defaults/
+-rw-rw-r-- root/root        32 2017-10-13 13:26 ansible-role-testtest-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:26 ansible-role-testtest-master/handlers/
+-rw-rw-r-- root/root        32 2017-10-13 13:26 ansible-role-testtest-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:26 ansible-role-testtest-master/meta/
+-rw-rw-r-- root/root      1789 2017-10-13 13:26 ansible-role-testtest-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:26 ansible-role-testtest-master/tasks/
+-rw-rw-r-- root/root        29 2017-10-13 13:26 ansible-role-testtest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:26 ansible-role-testtest-master/tests/
+-rw-rw-r-- root/root        11 2017-10-13 13:26 ansible-role-testtest-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-10-13 13:26 ansible-role-testtest-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-13 13:26 ansible-role-testtest-master/vars/
+-rw-rw-r-- root/root        28 2017-10-13 13:26 ansible-role-testtest-master/vars/main.yml

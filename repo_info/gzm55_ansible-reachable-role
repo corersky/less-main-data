@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-04 02:56 ansible-reachable-role-master/
+-rw-rw-r-- root/root         8 2019-01-04 02:56 ansible-reachable-role-master/.gitignore
+-rw-rw-r-- root/root      1363 2019-01-04 02:56 ansible-reachable-role-master/.travis.yml
+-rw-rw-r-- root/root      1274 2019-01-04 02:56 ansible-reachable-role-master/README.md
+drwxrwxr-x root/root         0 2019-01-04 02:56 ansible-reachable-role-master/meta/
+-rw-rw-r-- root/root       562 2019-01-04 02:56 ansible-reachable-role-master/meta/main.yml
+-rw-rw-r-- root/root        25 2019-01-04 02:56 ansible-reachable-role-master/requirements.txt
+-rw-rw-r-- root/root       124 2019-01-04 02:56 ansible-reachable-role-master/requirements.yml
+drwxrwxr-x root/root         0 2019-01-04 02:56 ansible-reachable-role-master/tasks/
+-rw-rw-r-- root/root      1262 2019-01-04 02:56 ansible-reachable-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-04 02:56 ansible-reachable-role-master/tests/
+-rw-rw-r-- root/root       399 2019-01-04 02:56 ansible-reachable-role-master/tests/inventory
+-rw-rw-r-- root/root        77 2019-01-04 02:56 ansible-reachable-role-master/tests/test.yml

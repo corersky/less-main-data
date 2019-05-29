@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-22 20:11 ansible-docker-master/
+-rw-rw-r-- root/root        15 2017-03-22 20:11 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root        30 2017-03-22 20:11 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2017-03-22 20:11 ansible-docker-master/defaults/
+-rw-rw-r-- root/root       461 2017-03-22 20:11 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-22 20:11 ansible-docker-master/meta/
+-rw-rw-r-- root/root       237 2017-03-22 20:11 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-22 20:11 ansible-docker-master/tasks/
+-rw-rw-r-- root/root         0 2017-03-22 20:11 ansible-docker-master/tasks/init.yml
+-rw-rw-r-- root/root       371 2017-03-22 20:11 ansible-docker-master/tasks/login.yml
+-rw-rw-r-- root/root        28 2017-03-22 20:11 ansible-docker-master/tasks/main.yml
+-rw-rw-r-- root/root      1096 2017-03-22 20:11 ansible-docker-master/tasks/setup.yml
+-rw-rw-r-- root/root       380 2017-03-22 20:11 ansible-docker-master/tasks/unsetup.yml

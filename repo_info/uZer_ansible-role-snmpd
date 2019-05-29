@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-22 06:55 ansible-role-snmpd-master/
+-rw-rw-r-- root/root        14 2018-02-22 06:55 ansible-role-snmpd-master/.gitignore
+-rw-rw-r-- root/root       419 2018-02-22 06:55 ansible-role-snmpd-master/README.md
+drwxrwxr-x root/root         0 2018-02-22 06:55 ansible-role-snmpd-master/defaults/
+-rw-rw-r-- root/root       318 2018-02-22 06:55 ansible-role-snmpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-22 06:55 ansible-role-snmpd-master/handlers/
+-rw-rw-r-- root/root       113 2018-02-22 06:55 ansible-role-snmpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-22 06:55 ansible-role-snmpd-master/meta/
+-rw-rw-r-- root/root      2644 2018-02-22 06:55 ansible-role-snmpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-22 06:55 ansible-role-snmpd-master/tasks/
+-rw-rw-r-- root/root      2049 2018-02-22 06:55 ansible-role-snmpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-22 06:55 ansible-role-snmpd-master/templates/
+-rw-rw-r-- root/root      1417 2018-02-22 06:55 ansible-role-snmpd-master/templates/etc-snmp-snmpd-conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-05 09:51 ansible-role-macos-pf-master/
+-rw-rw-r-- root/root       706 2019-03-05 09:51 ansible-role-macos-pf-master/.travis.yml
+-rw-rw-r-- root/root      1070 2019-03-05 09:51 ansible-role-macos-pf-master/LICENSE.txt
+-rw-rw-r-- root/root      1517 2019-03-05 09:51 ansible-role-macos-pf-master/README.md
+drwxrwxr-x root/root         0 2019-03-05 09:51 ansible-role-macos-pf-master/defaults/
+-rw-rw-r-- root/root        55 2019-03-05 09:51 ansible-role-macos-pf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-05 09:51 ansible-role-macos-pf-master/handlers/
+-rw-rw-r-- root/root        32 2019-03-05 09:51 ansible-role-macos-pf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-05 09:51 ansible-role-macos-pf-master/meta/
+-rw-rw-r-- root/root       336 2019-03-05 09:51 ansible-role-macos-pf-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-05 09:51 ansible-role-macos-pf-master/tasks/
+-rw-rw-r-- root/root      1441 2019-03-05 09:51 ansible-role-macos-pf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-05 09:51 ansible-role-macos-pf-master/tests/
+-rw-rw-r-- root/root        11 2019-03-05 09:51 ansible-role-macos-pf-master/tests/inventory
+-rw-rw-r-- root/root       392 2019-03-05 09:51 ansible-role-macos-pf-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-05 09:51 ansible-role-macos-pf-master/vars/
+-rw-rw-r-- root/root       321 2019-03-05 09:51 ansible-role-macos-pf-master/vars/main.yml

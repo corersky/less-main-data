@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-02 12:19 ansible-duo-ssh-master/
+-rw-rw-r-- root/root        15 2019-05-02 12:19 ansible-duo-ssh-master/.gitignore
+-rw-rw-r-- root/root     11357 2019-05-02 12:19 ansible-duo-ssh-master/LICENSE
+-rw-rw-r-- root/root      4369 2019-05-02 12:19 ansible-duo-ssh-master/README.md
+drwxrwxr-x root/root         0 2019-05-02 12:19 ansible-duo-ssh-master/meta/
+-rw-rw-r-- root/root       458 2019-05-02 12:19 ansible-duo-ssh-master/meta/main.yml
+-rw-rw-r-- root/root       123 2019-05-02 12:19 ansible-duo-ssh-master/playbook.yml
+drwxrwxr-x root/root         0 2019-05-02 12:19 ansible-duo-ssh-master/tasks/
+-rw-rw-r-- root/root      2240 2019-05-02 12:19 ansible-duo-ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-02 12:19 ansible-duo-ssh-master/templates/
+-rw-rw-r-- root/root       204 2019-05-02 12:19 ansible-duo-ssh-master/templates/login_duo.conf.j2
+-rw-rw-r-- root/root       127 2019-05-02 12:19 ansible-duo-ssh-master/templates/login_duo_multi

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-16 10:23 ansible-nginx-master/
+-rw-rw-r-- root/root         0 2019-01-16 10:23 ansible-nginx-master/.gitignore
+-rw-rw-r-- root/root      1080 2019-01-16 10:23 ansible-nginx-master/LICENSE
+-rw-rw-r-- root/root     11793 2019-01-16 10:23 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2019-01-16 10:23 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root     10498 2019-01-16 10:23 ansible-nginx-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-01-16 10:23 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root       498 2019-01-16 10:23 ansible-nginx-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-01-16 10:23 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       367 2019-01-16 10:23 ansible-nginx-master/meta/main.yaml
+drwxrwxr-x root/root         0 2019-01-16 10:23 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root      2786 2019-01-16 10:23 ansible-nginx-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-01-16 10:23 ansible-nginx-master/templates/
+-rw-rw-r-- root/root        75 2019-01-16 10:23 ansible-nginx-master/templates/fastcgi.conf.j2
+-rw-rw-r-- root/root        67 2019-01-16 10:23 ansible-nginx-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root        65 2019-01-16 10:23 ansible-nginx-master/templates/vhost.conf.j2

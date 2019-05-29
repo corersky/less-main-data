@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-21 18:44 os-install-master/
+-rw-rw-r-- root/root       943 2017-09-21 18:44 os-install-master/README.md
+drwxrwxr-x root/root         0 2017-09-21 18:44 os-install-master/files/
+-rw-rw-r-- root/root       238 2017-09-21 18:44 os-install-master/files/bashrc
+-rw-rw-r-- root/root      1809 2017-09-21 18:44 os-install-master/files/centos7.repo
+-rw-rw-r-- root/root       114 2017-09-21 18:44 os-install-master/files/grub
+-rw-rw-r-- root/root        63 2017-09-21 18:44 os-install-master/files/ifcfg-eth0
+-rw-rw-r-- root/root        77 2017-09-21 18:44 os-install-master/files/network
+drwxrwxr-x root/root         0 2017-09-21 18:44 os-install-master/meta/
+-rw-rw-r-- root/root      1892 2017-09-21 18:44 os-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-21 18:44 os-install-master/tasks/
+-rw-rw-r-- root/root        31 2017-09-21 18:44 os-install-master/tasks/main.yml
+-rw-rw-r-- root/root      3383 2017-09-21 18:44 os-install-master/tasks/os-install.yml
+drwxrwxr-x root/root         0 2017-09-21 18:44 os-install-master/templates/
+-rw-rw-r-- root/root       347 2017-09-21 18:44 os-install-master/templates/organization.proxy.sh

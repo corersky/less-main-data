@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-02 18:58 pdns-authoritative-api-master/
+-rw-rw-r-- root/root     22240 2018-12-02 18:58 pdns-authoritative-api-master/LICENSE
+-rw-rw-r-- root/root      5110 2018-12-02 18:58 pdns-authoritative-api-master/README.md
+drwxrwxr-x root/root         0 2018-12-02 18:58 pdns-authoritative-api-master/defaults/
+-rw-rw-r-- root/root        78 2018-12-02 18:58 pdns-authoritative-api-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-02 18:58 pdns-authoritative-api-master/meta/
+-rw-rw-r-- root/root       420 2018-12-02 18:58 pdns-authoritative-api-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-02 18:58 pdns-authoritative-api-master/scripts/
+-rwxrwxr-x root/root       816 2018-12-02 18:58 pdns-authoritative-api-master/scripts/delete-zones
+-rwxrwxr-x root/root      2023 2018-12-02 18:58 pdns-authoritative-api-master/scripts/upsert-domain-metadata
+-rwxrwxr-x root/root      4443 2018-12-02 18:58 pdns-authoritative-api-master/scripts/upsert-records
+-rwxrwxr-x root/root      3794 2018-12-02 18:58 pdns-authoritative-api-master/scripts/upsert-zone
+drwxrwxr-x root/root         0 2018-12-02 18:58 pdns-authoritative-api-master/tasks/
+-rw-rw-r-- root/root      1881 2018-12-02 18:58 pdns-authoritative-api-master/tasks/main.yml

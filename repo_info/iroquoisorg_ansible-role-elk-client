@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-elk-client-master/
+-rwxrwxr-x root/root      1519 2018-11-29 08:24 ansible-role-elk-client-master/.travis.yml
+-rw-rw-r-- root/root       412 2018-11-29 08:24 ansible-role-elk-client-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-elk-client-master/defaults/
+-rw-rw-r-- root/root        65 2018-11-29 08:24 ansible-role-elk-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-elk-client-master/meta/
+-rw-rw-r-- root/root       294 2018-11-29 08:24 ansible-role-elk-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-elk-client-master/tasks/
+-rw-rw-r-- root/root       441 2018-11-29 08:24 ansible-role-elk-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-elk-client-master/tests/
+-rw-rw-r-- root/root        10 2018-11-29 08:24 ansible-role-elk-client-master/tests/inventory
+-rw-rw-r-- root/root       240 2018-11-29 08:24 ansible-role-elk-client-master/tests/ssl-ca.conf
+-rw-rw-r-- root/root       241 2018-11-29 08:24 ansible-role-elk-client-master/tests/ssl.conf
+-rw-rw-r-- root/root       214 2018-11-29 08:24 ansible-role-elk-client-master/tests/test.yml

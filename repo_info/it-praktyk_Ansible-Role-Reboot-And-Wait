@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/
+-rw-rw-r-- root/root        17 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/.gitignore
+-rw-rw-r-- root/root       539 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/.travis.yml
+-rw-rw-r-- root/root      1076 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/LICENSE
+-rw-rw-r-- root/root      1921 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/README.md
+-rw-rw-r-- root/root       168 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/TODO.md
+drwxrwxr-x root/root         0 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/defaults/
+-rw-rw-r-- root/root       417 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/meta/
+-rw-rw-r-- root/root       701 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/tasks/
+-rw-rw-r-- root/root       537 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/tests/
+-rw-rw-r-- root/root         9 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/tests/inventory
+-rw-rw-r-- root/root       109 2017-03-17 17:59 Ansible-Role-Reboot-And-Wait-master/tests/test.yml

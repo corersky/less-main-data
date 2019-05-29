@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-01 09:45 centos-repos-master/
+-rw-rw-r-- root/root      1810 2019-05-01 09:45 centos-repos-master/.travis.yml
+-rw-rw-r-- root/root        59 2019-05-01 09:45 centos-repos-master/README.md
+drwxrwxr-x root/root         0 2019-05-01 09:45 centos-repos-master/defaults/
+-rwxrwxr-x root/root        36 2019-05-01 09:45 centos-repos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-01 09:45 centos-repos-master/handlers/
+-rwxrwxr-x root/root        36 2019-05-01 09:45 centos-repos-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-01 09:45 centos-repos-master/meta/
+-rwxrwxr-x root/root       379 2019-05-01 09:45 centos-repos-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-01 09:45 centos-repos-master/tasks/
+-rwxrwxr-x root/root       459 2019-05-01 09:45 centos-repos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-01 09:45 centos-repos-master/tests/
+-rwxrwxr-x root/root        11 2019-05-01 09:45 centos-repos-master/tests/inventory
+-rwxrwxr-x root/root       193 2019-05-01 09:45 centos-repos-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-01 09:45 centos-repos-master/vars/
+-rwxrwxr-x root/root        32 2019-05-01 09:45 centos-repos-master/vars/main.yml

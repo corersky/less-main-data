@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-11-17 14:31 ansible-dockerized-influxdb-master/
+-rw-rw-r-- root/root       453 2014-11-17 14:31 ansible-dockerized-influxdb-master/README.md
+drwxrwxr-x root/root         0 2014-11-17 14:31 ansible-dockerized-influxdb-master/defaults/
+-rw-rw-r-- root/root       412 2014-11-17 14:31 ansible-dockerized-influxdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-17 14:31 ansible-dockerized-influxdb-master/handlers/
+-rw-rw-r-- root/root       111 2014-11-17 14:31 ansible-dockerized-influxdb-master/handlers/main.yml
+-rw-rw-r-- root/root       133 2014-11-17 14:31 ansible-dockerized-influxdb-master/influxdb.yml
+drwxrwxr-x root/root         0 2014-11-17 14:31 ansible-dockerized-influxdb-master/meta/
+-rw-rw-r-- root/root       210 2014-11-17 14:31 ansible-dockerized-influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-17 14:31 ansible-dockerized-influxdb-master/tasks/
+-rw-rw-r-- root/root       504 2014-11-17 14:31 ansible-dockerized-influxdb-master/tasks/main.yml

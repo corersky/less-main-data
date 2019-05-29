@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-10-17 09:39 ansible.install-rabbitmq-master/
+-rw-rw-r-- root/root       124 2016-10-17 09:39 ansible.install-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2016-10-17 09:39 ansible.install-rabbitmq-master/meta/
+-rw-rw-r-- root/root       224 2016-10-17 09:39 ansible.install-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-17 09:39 ansible.install-rabbitmq-master/tasks/
+-rw-rw-r-- root/root       614 2016-10-17 09:39 ansible.install-rabbitmq-master/tasks/configure.yml
+-rw-rw-r-- root/root       393 2016-10-17 09:39 ansible.install-rabbitmq-master/tasks/install.yml
+-rw-rw-r-- root/root        48 2016-10-17 09:39 ansible.install-rabbitmq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-17 09:39 ansible.install-rabbitmq-master/templates/
+-rw-rw-r-- root/root        45 2016-10-17 09:39 ansible.install-rabbitmq-master/templates/rabbitmq.config.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-21 17:07 ansible-ssh-server-master/
+-rw-rw-r-- root/root       255 2018-09-21 17:07 ansible-ssh-server-master/.editorconfig
+-rw-rw-r-- root/root        77 2018-09-21 17:07 ansible-ssh-server-master/.gitignore
+-rw-rw-r-- root/root       846 2018-09-21 17:07 ansible-ssh-server-master/.travis.yml
+-rw-rw-r-- root/root       871 2018-09-21 17:07 ansible-ssh-server-master/README.md
+-rw-rw-r-- root/root        25 2018-09-21 17:07 ansible-ssh-server-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-09-21 17:07 ansible-ssh-server-master/defaults/
+-rw-rw-r-- root/root        68 2018-09-21 17:07 ansible-ssh-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-21 17:07 ansible-ssh-server-master/handlers/
+-rw-rw-r-- root/root       209 2018-09-21 17:07 ansible-ssh-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-21 17:07 ansible-ssh-server-master/meta/
+-rw-rw-r-- root/root      3903 2018-09-21 17:07 ansible-ssh-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-21 17:07 ansible-ssh-server-master/tasks/
+-rw-rw-r-- root/root      2541 2018-09-21 17:07 ansible-ssh-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-21 17:07 ansible-ssh-server-master/tests/
+-rw-rw-r-- root/root         9 2018-09-21 17:07 ansible-ssh-server-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-09-21 17:07 ansible-ssh-server-master/tests/test.yml

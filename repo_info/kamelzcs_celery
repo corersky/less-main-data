@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-10-28 21:17 celery-master/
+-rw-rw-r-- root/root      1655 2014-10-28 21:17 celery-master/README.md
+drwxrwxr-x root/root         0 2014-10-28 21:17 celery-master/defaults/
+-rw-rw-r-- root/root       974 2014-10-28 21:17 celery-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-28 21:17 celery-master/handlers/
+-rw-rw-r-- root/root       224 2014-10-28 21:17 celery-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-28 21:17 celery-master/meta/
+-rw-rw-r-- root/root       202 2014-10-28 21:17 celery-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-28 21:17 celery-master/tasks/
+-rw-rw-r-- root/root       949 2014-10-28 21:17 celery-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-28 21:17 celery-master/templates/
+-rw-rw-r-- root/root      1161 2014-10-28 21:17 celery-master/templates/upstart.conf.j2
+-rw-rw-r-- root/root     10366 2014-10-28 21:17 celery-master/templates/upstart.j2
+drwxrwxr-x root/root         0 2014-10-28 21:17 celery-master/vars/
+-rw-rw-r-- root/root        27 2014-10-28 21:17 celery-master/vars/main.yml

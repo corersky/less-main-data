@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-09 06:41 ansible.structure-master/
+-rw-rw-r-- root/root         6 2017-03-09 06:41 ansible.structure-master/.gitignore
+-rw-rw-r-- root/root      1084 2017-03-09 06:41 ansible.structure-master/LICENSE
+-rw-rw-r-- root/root      1860 2017-03-09 06:41 ansible.structure-master/README.md
+drwxrwxr-x root/root         0 2017-03-09 06:41 ansible.structure-master/defaults/
+-rw-rw-r-- root/root       158 2017-03-09 06:41 ansible.structure-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-09 06:41 ansible.structure-master/meta/
+-rw-rw-r-- root/root       260 2017-03-09 06:41 ansible.structure-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-09 06:41 ansible.structure-master/tasks/
+-rw-rw-r-- root/root       568 2017-03-09 06:41 ansible.structure-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-09 06:41 ansible.structure-master/tests/
+-rw-rw-r-- root/root         9 2017-03-09 06:41 ansible.structure-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-03-09 06:41 ansible.structure-master/tests/test.yml

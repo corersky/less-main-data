@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-27 06:40 ansible-json_file-master/
+-rw-rw-r-- root/root        48 2017-06-27 06:40 ansible-json_file-master/.flake8
+-rw-rw-r-- root/root        47 2017-06-27 06:40 ansible-json_file-master/.gitignore
+-rw-rw-r-- root/root       260 2017-06-27 06:40 ansible-json_file-master/.travis.yml
+-rw-rw-r-- root/root      1070 2017-06-27 06:40 ansible-json_file-master/LICENSE
+-rw-rw-r-- root/root      2496 2017-06-27 06:40 ansible-json_file-master/README.md
+drwxrwxr-x root/root         0 2017-06-27 06:40 ansible-json_file-master/library/
+-rw-rw-r-- root/root      6997 2017-06-27 06:40 ansible-json_file-master/library/json_file
+drwxrwxr-x root/root         0 2017-06-27 06:40 ansible-json_file-master/meta/
+-rw-rw-r-- root/root       799 2017-06-27 06:40 ansible-json_file-master/meta/main.yml
+-rw-rw-r-- root/root       263 2017-06-27 06:40 ansible-json_file-master/molecule.yml
+-rw-rw-r-- root/root        56 2017-06-27 06:40 ansible-json_file-master/playbook.yml
+-rw-rw-r-- root/root        27 2017-06-27 06:40 ansible-json_file-master/requirements.txt
+drwxrwxr-x root/root         0 2017-06-27 06:40 ansible-json_file-master/tests/
+-rw-rw-r-- root/root      2335 2017-06-27 06:40 ansible-json_file-master/tests/test.yml
+-rw-rw-r-- root/root      2253 2017-06-27 06:40 ansible-json_file-master/tests/test_default.py

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-04-26 13:01 ansible-git-master/
+-rw-rw-r-- root/root      1958 2017-04-26 13:01 ansible-git-master/.travis.yml
+-rw-rw-r-- root/root       576 2017-04-26 13:01 ansible-git-master/README.md
+drwxrwxr-x root/root         0 2017-04-26 13:01 ansible-git-master/meta/
+-rw-rw-r-- root/root       364 2017-04-26 13:01 ansible-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-26 13:01 ansible-git-master/tasks/
+-rw-rw-r-- root/root       213 2017-04-26 13:01 ansible-git-master/tasks/install-apt.yml
+-rw-rw-r-- root/root       120 2017-04-26 13:01 ansible-git-master/tasks/install-yum.yml
+-rw-rw-r-- root/root       383 2017-04-26 13:01 ansible-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-26 13:01 ansible-git-master/tests/
+-rw-rw-r-- root/root        48 2017-04-26 13:01 ansible-git-master/tests/test.yml

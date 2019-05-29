@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-26 11:54 ansible-role-osx-defaults-master/
+-rw-rw-r-- root/root       396 2016-03-26 11:54 ansible-role-osx-defaults-master/.travis.yml
+-rw-rw-r-- root/root      2778 2016-03-26 11:54 ansible-role-osx-defaults-master/README.md
+drwxrwxr-x root/root         0 2016-03-26 11:54 ansible-role-osx-defaults-master/defaults/
+-rw-rw-r-- root/root        64 2016-03-26 11:54 ansible-role-osx-defaults-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-26 11:54 ansible-role-osx-defaults-master/library/
+-rw-rw-r-- root/root      9066 2016-03-26 11:54 ansible-role-osx-defaults-master/library/osx_defaults
+drwxrwxr-x root/root         0 2016-03-26 11:54 ansible-role-osx-defaults-master/meta/
+-rw-rw-r-- root/root       372 2016-03-26 11:54 ansible-role-osx-defaults-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-26 11:54 ansible-role-osx-defaults-master/tasks/
+-rw-rw-r-- root/root       166 2016-03-26 11:54 ansible-role-osx-defaults-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-26 11:54 ansible-role-osx-defaults-master/tests/
+-rw-rw-r-- root/root        10 2016-03-26 11:54 ansible-role-osx-defaults-master/tests/inventory
+-rw-rw-r-- root/root        85 2016-03-26 11:54 ansible-role-osx-defaults-master/tests/travis.yml

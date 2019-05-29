@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-17 07:36 ansible-role-mysql-master/
+-rw-rw-r-- root/root      1078 2017-01-17 07:36 ansible-role-mysql-master/LICENSE
+-rw-rw-r-- root/root       762 2017-01-17 07:36 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2017-01-17 07:36 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root        23 2017-01-17 07:36 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-17 07:36 ansible-role-mysql-master/handlers/
+-rw-rw-r-- root/root       140 2017-01-17 07:36 ansible-role-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-17 07:36 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root      1569 2017-01-17 07:36 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-17 07:36 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root      1596 2017-01-17 07:36 ansible-role-mysql-master/tasks/Ubuntu-14.yml
+-rw-rw-r-- root/root      1628 2017-01-17 07:36 ansible-role-mysql-master/tasks/Ubuntu-16.yml
+-rw-rw-r-- root/root       543 2017-01-17 07:36 ansible-role-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-17 07:36 ansible-role-mysql-master/templates/
+-rw-rw-r-- root/root      3741 2017-01-17 07:36 ansible-role-mysql-master/templates/my.cnf

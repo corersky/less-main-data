@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/
+-rw-rw-r-- root/root       643 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/README.md
+drwxrwxr-x root/root         0 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/defaults/
+-rw-rw-r-- root/root        31 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/meta/
+-rw-rw-r-- root/root       355 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/tasks/
+-rw-rw-r-- root/root      3537 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/tasks/hosts.yml
+-rw-rw-r-- root/root      4688 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/tasks/localhost.yml
+-rw-rw-r-- root/root       276 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/templates/
+-rw-rw-r-- root/root      1160 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/templates/auditbeat.repo.j2
+-rw-rw-r-- root/root       186 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/templates/elasticsearch.repo.j2
+-rw-rw-r-- root/root       211 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/templates/kibana.repo.j2
+-rw-rw-r-- root/root       214 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/templates/logstash.repo.j2
+drwxrwxr-x root/root         0 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/vars/
+-rw-rw-r-- root/root        33 2018-12-10 05:16 EKstack-metricbeat-packetbeat-master/vars/RedHat.yml

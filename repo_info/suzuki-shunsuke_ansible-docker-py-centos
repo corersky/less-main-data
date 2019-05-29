@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-01-08 02:26 ansible-docker-py-centos-master/
+-rw-rw-r-- root/root        34 2018-01-08 02:26 ansible-docker-py-centos-master/.gitignore
+-rw-rw-r-- root/root      1072 2018-01-08 02:26 ansible-docker-py-centos-master/LICENSE
+-rw-rw-r-- root/root      1121 2018-01-08 02:26 ansible-docker-py-centos-master/README.md
+drwxrwxr-x root/root         0 2018-01-08 02:26 ansible-docker-py-centos-master/meta/
+-rw-rw-r-- root/root       279 2018-01-08 02:26 ansible-docker-py-centos-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-08 02:26 ansible-docker-py-centos-master/tasks/
+-rw-rw-r-- root/root       362 2018-01-08 02:26 ansible-docker-py-centos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-08 02:26 ansible-docker-py-centos-master/tests/
+-rw-rw-r-- root/root       274 2018-01-08 02:26 ansible-docker-py-centos-master/tests/Vagrantfile
+-rw-rw-r-- root/root        74 2018-01-08 02:26 ansible-docker-py-centos-master/tests/ansible.cfg
+-rw-rw-r-- root/root        28 2018-01-08 02:26 ansible-docker-py-centos-master/tests/roles.yml
+-rw-rw-r-- root/root        85 2018-01-08 02:26 ansible-docker-py-centos-master/tests/test.yml

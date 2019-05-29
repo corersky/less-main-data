@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-21 05:42 ansible-yarn-master/
+-rw-rw-r-- root/root       217 2018-12-21 05:42 ansible-yarn-master/.editorconfig
+-rw-rw-r-- root/root         7 2018-12-21 05:42 ansible-yarn-master/.gitignore
+-rw-rw-r-- root/root       985 2018-12-21 05:42 ansible-yarn-master/.travis.yml
+-rw-rw-r-- root/root      1060 2018-12-21 05:42 ansible-yarn-master/LICENSE
+-rw-rw-r-- root/root       242 2018-12-21 05:42 ansible-yarn-master/README.md
+drwxrwxr-x root/root         0 2018-12-21 05:42 ansible-yarn-master/defaults/
+-rw-rw-r-- root/root        28 2018-12-21 05:42 ansible-yarn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-21 05:42 ansible-yarn-master/meta/
+-rw-rw-r-- root/root        96 2018-12-21 05:42 ansible-yarn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-21 05:42 ansible-yarn-master/tasks/
+-rw-rw-r-- root/root       294 2018-12-21 05:42 ansible-yarn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-21 05:42 ansible-yarn-master/tests/
+-rw-rw-r-- root/root        10 2018-12-21 05:42 ansible-yarn-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-12-21 05:42 ansible-yarn-master/tests/test.yml

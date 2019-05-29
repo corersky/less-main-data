@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-01-28 01:19 packages-master/
+-rw-rw-r-- root/root       261 2015-01-28 01:19 packages-master/.travis.yml
+-rw-rw-r-- root/root      1071 2015-01-28 01:19 packages-master/LICENSE
+-rw-rw-r-- root/root      1373 2015-01-28 01:19 packages-master/README.md
+drwxrwxr-x root/root         0 2015-01-28 01:19 packages-master/defaults/
+-rw-rw-r-- root/root        54 2015-01-28 01:19 packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-28 01:19 packages-master/meta/
+-rw-rw-r-- root/root       306 2015-01-28 01:19 packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-28 01:19 packages-master/tasks/
+-rw-rw-r-- root/root       525 2015-01-28 01:19 packages-master/tasks/main.yml
+-rw-rw-r-- root/root       191 2015-01-28 01:19 packages-master/test.yml
+-rw-rw-r-- root/root       157 2015-01-28 01:19 packages-master/test_vars.yml

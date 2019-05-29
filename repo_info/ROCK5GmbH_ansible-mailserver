@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-07-14 09:55 ansible-mailserver-master/
+-rw-rw-r-- root/root       196 2017-07-14 09:55 ansible-mailserver-master/.gitignore
+-rw-rw-r-- root/root       539 2017-07-14 09:55 ansible-mailserver-master/.travis.yml
+-rw-rw-r-- root/root      1067 2017-07-14 09:55 ansible-mailserver-master/LICENSE
+-rw-rw-r-- root/root      4227 2017-07-14 09:55 ansible-mailserver-master/README.md
+drwxrwxr-x root/root         0 2017-07-14 09:55 ansible-mailserver-master/defaults/
+-rw-rw-r-- root/root      1619 2017-07-14 09:55 ansible-mailserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:55 ansible-mailserver-master/meta/
+-rw-rw-r-- root/root       544 2017-07-14 09:55 ansible-mailserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:55 ansible-mailserver-master/tests/
+-rw-rw-r-- root/root         9 2017-07-14 09:55 ansible-mailserver-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-07-14 09:55 ansible-mailserver-master/tests/test.yml

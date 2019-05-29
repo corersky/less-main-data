@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-06 11:29 ansible-ci-github-rm-branch-master/
+-rw-rw-r-- root/root        37 2019-02-06 11:29 ansible-ci-github-rm-branch-master/.gitignore
+-rw-rw-r-- root/root       280 2019-02-06 11:29 ansible-ci-github-rm-branch-master/.travis.yml
+-rw-rw-r-- root/root      1073 2019-02-06 11:29 ansible-ci-github-rm-branch-master/LICENSE
+-rw-rw-r-- root/root      1181 2019-02-06 11:29 ansible-ci-github-rm-branch-master/README.md
+drwxrwxr-x root/root         0 2019-02-06 11:29 ansible-ci-github-rm-branch-master/defaults/
+-rw-rw-r-- root/root       158 2019-02-06 11:29 ansible-ci-github-rm-branch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-06 11:29 ansible-ci-github-rm-branch-master/meta/
+-rw-rw-r-- root/root       608 2019-02-06 11:29 ansible-ci-github-rm-branch-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-06 11:29 ansible-ci-github-rm-branch-master/tasks/
+-rw-rw-r-- root/root       432 2019-02-06 11:29 ansible-ci-github-rm-branch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-06 11:29 ansible-ci-github-rm-branch-master/tests/
+-rw-rw-r-- root/root         9 2019-02-06 11:29 ansible-ci-github-rm-branch-master/tests/inventory
+-rw-rw-r-- root/root       242 2019-02-06 11:29 ansible-ci-github-rm-branch-master/tests/test.yml

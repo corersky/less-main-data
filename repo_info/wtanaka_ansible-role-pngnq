@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-28 19:21 ansible-role-pngnq-master/
+-rw-rw-r-- root/root        53 2019-03-28 19:21 ansible-role-pngnq-master/.gitignore
+-rw-rw-r-- root/root      3523 2019-03-28 19:21 ansible-role-pngnq-master/.travis.yml
+-rw-rw-r-- root/root      1175 2019-03-28 19:21 ansible-role-pngnq-master/README.md
+-rw-rw-r-- root/root       496 2019-03-28 19:21 ansible-role-pngnq-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-28 19:21 ansible-role-pngnq-master/defaults/
+-rw-rw-r-- root/root        36 2019-03-28 19:21 ansible-role-pngnq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-28 19:21 ansible-role-pngnq-master/meta/
+-rw-rw-r-- root/root      3558 2019-03-28 19:21 ansible-role-pngnq-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-28 19:21 ansible-role-pngnq-master/tasks/
+-rw-rw-r-- root/root      3749 2019-03-28 19:21 ansible-role-pngnq-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-28 19:21 ansible-role-pngnq-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1037 2019-03-28 19:21 ansible-role-pngnq-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       344 2019-03-28 19:21 ansible-role-pngnq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-28 19:21 ansible-role-pngnq-master/vars/
+-rw-rw-r-- root/root        27 2019-03-28 19:21 ansible-role-pngnq-master/vars/default.yml

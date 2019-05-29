@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-29 01:38 redmine-master/
+-rw-rw-r-- root/root       539 2016-08-29 01:38 redmine-master/.travis.yml
+-rw-rw-r-- root/root       339 2016-08-29 01:38 redmine-master/README.md
+drwxrwxr-x root/root         0 2016-08-29 01:38 redmine-master/defaults/
+-rw-rw-r-- root/root        32 2016-08-29 01:38 redmine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-29 01:38 redmine-master/handlers/
+-rw-rw-r-- root/root        32 2016-08-29 01:38 redmine-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-29 01:38 redmine-master/meta/
+-rw-rw-r-- root/root       249 2016-08-29 01:38 redmine-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-29 01:38 redmine-master/tasks/
+-rw-rw-r-- root/root       503 2016-08-29 01:38 redmine-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-29 01:38 redmine-master/tests/
+-rw-rw-r-- root/root         9 2016-08-29 01:38 redmine-master/tests/inventory
+-rw-rw-r-- root/root        65 2016-08-29 01:38 redmine-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-29 01:38 redmine-master/vars/
+-rw-rw-r-- root/root        28 2016-08-29 01:38 redmine-master/vars/main.yml

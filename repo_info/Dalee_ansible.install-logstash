@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-12-15 11:54 ansible.install-logstash-master/
+-rw-rw-r-- root/root        30 2016-12-15 11:54 ansible.install-logstash-master/README.md
+drwxrwxr-x root/root         0 2016-12-15 11:54 ansible.install-logstash-master/meta/
+-rw-rw-r-- root/root       251 2016-12-15 11:54 ansible.install-logstash-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-15 11:54 ansible.install-logstash-master/tasks/
+-rw-rw-r-- root/root       386 2016-12-15 11:54 ansible.install-logstash-master/tasks/install.yml
+-rw-rw-r-- root/root        43 2016-12-15 11:54 ansible.install-logstash-master/tasks/main.yml
+-rw-rw-r-- root/root       157 2016-12-15 11:54 ansible.install-logstash-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2016-12-15 11:54 ansible.install-logstash-master/templates/
+-rw-rw-r-- root/root      1740 2016-12-15 11:54 ansible.install-logstash-master/templates/jvm.options.j2

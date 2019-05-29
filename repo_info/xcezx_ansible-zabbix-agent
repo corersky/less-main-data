@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-10-07 07:23 ansible-zabbix-agent-master/
+-rw-rw-r-- root/root       218 2014-10-07 07:23 ansible-zabbix-agent-master/.travis.yml
+-rw-rw-r-- root/root      1412 2014-10-07 07:23 ansible-zabbix-agent-master/README.md
+-rw-rw-r-- root/root        27 2014-10-07 07:23 ansible-zabbix-agent-master/ansible.cfg
+drwxrwxr-x root/root         0 2014-10-07 07:23 ansible-zabbix-agent-master/defaults/
+-rw-rw-r-- root/root      1100 2014-10-07 07:23 ansible-zabbix-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-07 07:23 ansible-zabbix-agent-master/handlers/
+-rw-rw-r-- root/root        96 2014-10-07 07:23 ansible-zabbix-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-07 07:23 ansible-zabbix-agent-master/meta/
+-rw-rw-r-- root/root       262 2014-10-07 07:23 ansible-zabbix-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-07 07:23 ansible-zabbix-agent-master/tasks/
+-rw-rw-r-- root/root       449 2014-10-07 07:23 ansible-zabbix-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-07 07:23 ansible-zabbix-agent-master/templates/
+-rw-rw-r-- root/root     10272 2014-10-07 07:23 ansible-zabbix-agent-master/templates/zabbix_agentd.conf.j2
+-rw-rw-r-- root/root       136 2014-10-07 07:23 ansible-zabbix-agent-master/test.yml

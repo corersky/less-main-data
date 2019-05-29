@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2013-12-21 13:43 ansible-sudo-master/
+-rw-rw-r-- root/root      1057 2013-12-21 13:43 ansible-sudo-master/LICENSE
+-rw-rw-r-- root/root       475 2013-12-21 13:43 ansible-sudo-master/README.md
+drwxrwxr-x root/root         0 2013-12-21 13:43 ansible-sudo-master/defaults/
+-rw-rw-r-- root/root       140 2013-12-21 13:43 ansible-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2013-12-21 13:43 ansible-sudo-master/meta/
+-rw-rw-r-- root/root       544 2013-12-21 13:43 ansible-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2013-12-21 13:43 ansible-sudo-master/tasks/
+-rw-rw-r-- root/root       136 2013-12-21 13:43 ansible-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2013-12-21 13:43 ansible-sudo-master/templates/
+-rw-rw-r-- root/root       122 2013-12-21 13:43 ansible-sudo-master/templates/sudoers.j2

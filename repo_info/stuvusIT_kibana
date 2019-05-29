@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-06-18 08:01 kibana-master/
+-rw-rw-r-- root/root        22 2018-06-18 08:01 kibana-master/.gitignore
+-rw-rw-r-- root/root     20133 2018-06-18 08:01 kibana-master/LICENSE
+-rw-rw-r-- root/root      2669 2018-06-18 08:01 kibana-master/README.md
+drwxrwxr-x root/root         0 2018-06-18 08:01 kibana-master/defaults/
+-rw-rw-r-- root/root        62 2018-06-18 08:01 kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-18 08:01 kibana-master/handlers/
+-rw-rw-r-- root/root        77 2018-06-18 08:01 kibana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-18 08:01 kibana-master/meta/
+-rw-rw-r-- root/root       381 2018-06-18 08:01 kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-18 08:01 kibana-master/tasks/
+-rw-rw-r-- root/root       802 2018-06-18 08:01 kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-18 08:01 kibana-master/templates/
+-rw-rw-r-- root/root      7674 2018-06-18 08:01 kibana-master/templates/kibana.yml.j2

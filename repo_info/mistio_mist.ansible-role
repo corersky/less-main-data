@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-09-16 07:33 mist.ansible-role-master/
+-rw-rw-r-- root/root       780 2014-09-16 07:33 mist.ansible-role-master/.gitignore
+-rw-rw-r-- root/root      1249 2014-09-16 07:33 mist.ansible-role-master/README.md
+drwxrwxr-x root/root         0 2014-09-16 07:33 mist.ansible-role-master/defaults/
+-rw-rw-r-- root/root       398 2014-09-16 07:33 mist.ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-16 07:33 mist.ansible-role-master/handlers/
+-rw-rw-r-- root/root        42 2014-09-16 07:33 mist.ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-16 07:33 mist.ansible-role-master/meta/
+-rw-rw-r-- root/root      2122 2014-09-16 07:33 mist.ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-16 07:33 mist.ansible-role-master/tasks/
+-rw-rw-r-- root/root      1077 2014-09-16 07:33 mist.ansible-role-master/tasks/buildout.yml
+-rw-rw-r-- root/root       346 2014-09-16 07:33 mist.ansible-role-master/tasks/debian.yml
+-rw-rw-r-- root/root       127 2014-09-16 07:33 mist.ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-16 07:33 mist.ansible-role-master/templates/
+-rw-rw-r-- root/root        81 2014-09-16 07:33 mist.ansible-role-master/templates/settings.py.j2
+drwxrwxr-x root/root         0 2014-09-16 07:33 mist.ansible-role-master/vars/
+-rw-rw-r-- root/root        38 2014-09-16 07:33 mist.ansible-role-master/vars/main.yml

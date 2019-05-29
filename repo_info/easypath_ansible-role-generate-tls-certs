@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-17 08:03 ansible-role-generate-tls-certs-master/
+-rw-rw-r-- root/root      1859 2018-08-17 08:03 ansible-role-generate-tls-certs-master/README.md
+drwxrwxr-x root/root         0 2018-08-17 08:03 ansible-role-generate-tls-certs-master/defaults/
+-rw-rw-r-- root/root       934 2018-08-17 08:03 ansible-role-generate-tls-certs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-17 08:03 ansible-role-generate-tls-certs-master/meta/
+-rw-rw-r-- root/root      1741 2018-08-17 08:03 ansible-role-generate-tls-certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-17 08:03 ansible-role-generate-tls-certs-master/tasks/
+-rw-rw-r-- root/root      1040 2018-08-17 08:03 ansible-role-generate-tls-certs-master/tasks/generate-ca-cert.yaml
+-rw-rw-r-- root/root      1652 2018-08-17 08:03 ansible-role-generate-tls-certs-master/tasks/generate-client-cert.yaml
+-rw-rw-r-- root/root      1460 2018-08-17 08:03 ansible-role-generate-tls-certs-master/tasks/generate-server-cert.yaml
+-rw-rw-r-- root/root       472 2018-08-17 08:03 ansible-role-generate-tls-certs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-17 08:03 ansible-role-generate-tls-certs-master/templates/
+-rw-rw-r-- root/root       227 2018-08-17 08:03 ansible-role-generate-tls-certs-master/templates/server-cert-extfile.cnf.j2

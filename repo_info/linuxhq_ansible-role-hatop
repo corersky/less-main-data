@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-01 21:06 ansible-role-hatop-master/
+-rw-rw-r-- root/root       360 2018-07-01 21:06 ansible-role-hatop-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-07-01 21:06 ansible-role-hatop-master/COPYING
+-rw-rw-r-- root/root      1312 2018-07-01 21:06 ansible-role-hatop-master/README.md
+drwxrwxr-x root/root         0 2018-07-01 21:06 ansible-role-hatop-master/defaults/
+-rw-rw-r-- root/root         8 2018-07-01 21:06 ansible-role-hatop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:06 ansible-role-hatop-master/meta/
+-rw-rw-r-- root/root       302 2018-07-01 21:06 ansible-role-hatop-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:06 ansible-role-hatop-master/tasks/
+-rw-rw-r-- root/root       174 2018-07-01 21:06 ansible-role-hatop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:06 ansible-role-hatop-master/tests/
+-rw-rw-r-- root/root        10 2018-07-01 21:06 ansible-role-hatop-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-07-01 21:06 ansible-role-hatop-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-01 21:06 ansible-role-hatop-master/vars/
+-rw-rw-r-- root/root        27 2018-07-01 21:06 ansible-role-hatop-master/vars/main.yml

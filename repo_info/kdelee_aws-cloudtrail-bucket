@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-06 07:31 aws-cloudtrail-bucket-master/
+-rw-rw-r-- root/root         8 2018-07-06 07:31 aws-cloudtrail-bucket-master/.gitignore
+-rw-rw-r-- root/root      1060 2018-07-06 07:31 aws-cloudtrail-bucket-master/README.md
+-rw-rw-r-- root/root        25 2018-07-06 07:31 aws-cloudtrail-bucket-master/ansible.cfg
+-rw-rw-r-- root/root        88 2018-07-06 07:31 aws-cloudtrail-bucket-master/cloudigrade-bucket.yml
+drwxrwxr-x root/root         0 2018-07-06 07:31 aws-cloudtrail-bucket-master/defaults/
+-rw-rw-r-- root/root      1279 2018-07-06 07:31 aws-cloudtrail-bucket-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-06 07:31 aws-cloudtrail-bucket-master/files/
+-rwxrwxr-x root/root      1327 2018-07-06 07:31 aws-cloudtrail-bucket-master/files/create-notification.py
+drwxrwxr-x root/root         0 2018-07-06 07:31 aws-cloudtrail-bucket-master/meta/
+-rw-rw-r-- root/root       152 2018-07-06 07:31 aws-cloudtrail-bucket-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-06 07:31 aws-cloudtrail-bucket-master/tasks/
+-rw-rw-r-- root/root      1420 2018-07-06 07:31 aws-cloudtrail-bucket-master/tasks/main.yml
+-rw-rw-r-- root/root       353 2018-07-06 07:31 aws-cloudtrail-bucket-master/tasks/pre-requisites.yml

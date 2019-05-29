@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-24 06:48 ansible-role-skel-master/
+-rw-rw-r-- root/root       396 2019-03-24 06:48 ansible-role-skel-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 06:48 ansible-role-skel-master/files/
+-rw-rw-r-- root/root      3750 2019-03-24 06:48 ansible-role-skel-master/files/.bashrc
+-rw-rw-r-- root/root      1160 2019-03-24 06:48 ansible-role-skel-master/files/.bashrc-root
+-rw-rw-r-- root/root       248 2019-03-24 06:48 ansible-role-skel-master/files/.screenrc
+-rw-rw-r-- root/root      9829 2019-03-24 06:48 ansible-role-skel-master/files/.zshrc
+-rw-rw-r-- root/root       416 2019-03-24 06:48 ansible-role-skel-master/files/screen-mem-usage
+drwxrwxr-x root/root         0 2019-03-24 06:48 ansible-role-skel-master/meta/
+-rw-rw-r-- root/root       279 2019-03-24 06:48 ansible-role-skel-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 06:48 ansible-role-skel-master/tasks/
+-rw-rw-r-- root/root       689 2019-03-24 06:48 ansible-role-skel-master/tasks/main.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-08-23 22:12 ansible-role-homebrew-path-master/
+-rw-rw-r-- root/root       475 2014-08-23 22:12 ansible-role-homebrew-path-master/README.md
+drwxrwxr-x root/root         0 2014-08-23 22:12 ansible-role-homebrew-path-master/defaults/
+-rw-rw-r-- root/root        32 2014-08-23 22:12 ansible-role-homebrew-path-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-23 22:12 ansible-role-homebrew-path-master/meta/
+-rw-rw-r-- root/root       264 2014-08-23 22:12 ansible-role-homebrew-path-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-23 22:12 ansible-role-homebrew-path-master/tasks/
+-rw-rw-r-- root/root        78 2014-08-23 22:12 ansible-role-homebrew-path-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-23 22:12 ansible-role-homebrew-path-master/templates/
+-rw-rw-r-- root/root        71 2014-08-23 22:12 ansible-role-homebrew-path-master/templates/homebrew.zsh.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-18 10:10 Stouts.notify-master/
+-rw-rw-r-- root/root        90 2017-12-18 10:10 Stouts.notify-master/.bumpversion.cfg
+-rw-rw-r-- root/root       338 2017-12-18 10:10 Stouts.notify-master/.travis.yml
+-rw-rw-r-- root/root      1072 2017-12-18 10:10 Stouts.notify-master/LICENSE
+-rw-rw-r-- root/root       315 2017-12-18 10:10 Stouts.notify-master/Makefile
+-rw-rw-r-- root/root      1607 2017-12-18 10:10 Stouts.notify-master/README.md
+drwxrwxr-x root/root         0 2017-12-18 10:10 Stouts.notify-master/defaults/
+-rw-rw-r-- root/root       798 2017-12-18 10:10 Stouts.notify-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-18 10:10 Stouts.notify-master/meta/
+-rw-rw-r-- root/root       223 2017-12-18 10:10 Stouts.notify-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-18 10:10 Stouts.notify-master/tasks/
+-rw-rw-r-- root/root       257 2017-12-18 10:10 Stouts.notify-master/tasks/jabber.yml
+-rw-rw-r-- root/root       508 2017-12-18 10:10 Stouts.notify-master/tasks/mail.yml
+-rw-rw-r-- root/root        72 2017-12-18 10:10 Stouts.notify-master/tasks/main.yml
+-rw-rw-r-- root/root       232 2017-12-18 10:10 Stouts.notify-master/tasks/notify.yml
+-rw-rw-r-- root/root       568 2017-12-18 10:10 Stouts.notify-master/tasks/slack.yml
+-rw-rw-r-- root/root        92 2017-12-18 10:10 Stouts.notify-master/test.yml

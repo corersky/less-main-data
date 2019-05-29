@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-16 05:43 users-master/
+-rw-rw-r-- root/root        11 2019-04-16 05:43 users-master/.gitignore
+-rw-rw-r-- root/root      1061 2019-04-16 05:43 users-master/LICENSE
+-rw-rw-r-- root/root       767 2019-04-16 05:43 users-master/README.md
+drwxrwxr-x root/root         0 2019-04-16 05:43 users-master/defaults/
+-rw-rw-r-- root/root        68 2019-04-16 05:43 users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-16 05:43 users-master/handlers/
+-rw-rw-r-- root/root        29 2019-04-16 05:43 users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-16 05:43 users-master/meta/
+-rw-rw-r-- root/root       236 2019-04-16 05:43 users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-16 05:43 users-master/tasks/
+-rw-rw-r-- root/root      1104 2019-04-16 05:43 users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-16 05:43 users-master/tests/
+-rw-rw-r-- root/root        11 2019-04-16 05:43 users-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-04-16 05:43 users-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-16 05:43 users-master/vars/
+-rw-rw-r-- root/root        25 2019-04-16 05:43 users-master/vars/main.yml

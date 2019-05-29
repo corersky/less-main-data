@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2016-05-24 22:56 ansible-ec2-group-master/
+-rw-rw-r-- root/root        43 2016-05-24 22:56 ansible-ec2-group-master/.gitignore
+-rw-rw-r-- root/root      1274 2016-05-24 22:56 ansible-ec2-group-master/README.md
+drwxrwxr-x root/root         0 2016-05-24 22:56 ansible-ec2-group-master/defaults/
+-rw-rw-r-- root/root       107 2016-05-24 22:56 ansible-ec2-group-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-24 22:56 ansible-ec2-group-master/meta/
+-rw-rw-r-- root/root       274 2016-05-24 22:56 ansible-ec2-group-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-24 22:56 ansible-ec2-group-master/tasks/
+-rw-rw-r-- root/root      1423 2016-05-24 22:56 ansible-ec2-group-master/tasks/main.yml

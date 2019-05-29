@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-24 02:30 ansible-role-nodesource-master/
+-rw-rw-r-- root/root        28 2018-10-24 02:30 ansible-role-nodesource-master/.gitignore
+-rw-rw-r-- root/root       693 2018-10-24 02:30 ansible-role-nodesource-master/.travis.yml
+-rw-rw-r-- root/root       725 2018-10-24 02:30 ansible-role-nodesource-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 02:30 ansible-role-nodesource-master/defaults/
+-rw-rw-r-- root/root        39 2018-10-24 02:30 ansible-role-nodesource-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 02:30 ansible-role-nodesource-master/meta/
+-rw-rw-r-- root/root       307 2018-10-24 02:30 ansible-role-nodesource-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 02:30 ansible-role-nodesource-master/tasks/
+-rw-rw-r-- root/root       663 2018-10-24 02:30 ansible-role-nodesource-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 02:30 ansible-role-nodesource-master/tests/
+-rw-rw-r-- root/root         9 2018-10-24 02:30 ansible-role-nodesource-master/tests/inventory
+-rw-rw-r-- root/root       102 2018-10-24 02:30 ansible-role-nodesource-master/tests/test.yml

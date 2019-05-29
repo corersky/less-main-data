@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-06-25 09:12 ansible-role-perfsonar-docker-master/
+-rw-rw-r-- root/root      2439 2018-06-25 09:12 ansible-role-perfsonar-docker-master/README.md
+drwxrwxr-x root/root         0 2018-06-25 09:12 ansible-role-perfsonar-docker-master/defaults/
+-rw-rw-r-- root/root       166 2018-06-25 09:12 ansible-role-perfsonar-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-25 09:12 ansible-role-perfsonar-docker-master/meta/
+-rw-rw-r-- root/root       312 2018-06-25 09:12 ansible-role-perfsonar-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-25 09:12 ansible-role-perfsonar-docker-master/tasks/
+-rw-rw-r-- root/root       927 2018-06-25 09:12 ansible-role-perfsonar-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       380 2018-06-25 09:12 ansible-role-perfsonar-docker-master/tasks/ntp.yml

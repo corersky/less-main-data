@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-09 08:40 ansible-kibana-master/
+-rw-rw-r-- root/root         0 2019-01-09 08:40 ansible-kibana-master/.gitignore
+-rw-rw-r-- root/root      1080 2019-01-09 08:40 ansible-kibana-master/LICENSE
+-rw-rw-r-- root/root      3899 2019-01-09 08:40 ansible-kibana-master/README.md
+drwxrwxr-x root/root         0 2019-01-09 08:40 ansible-kibana-master/defaults/
+-rw-rw-r-- root/root      2383 2019-01-09 08:40 ansible-kibana-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 08:40 ansible-kibana-master/handlers/
+-rw-rw-r-- root/root       195 2019-01-09 08:40 ansible-kibana-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 08:40 ansible-kibana-master/meta/
+-rw-rw-r-- root/root       330 2019-01-09 08:40 ansible-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-09 08:40 ansible-kibana-master/tasks/
+-rw-rw-r-- root/root      2568 2019-01-09 08:40 ansible-kibana-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 08:40 ansible-kibana-master/templates/
+-rw-rw-r-- root/root        67 2019-01-09 08:40 ansible-kibana-master/templates/kibana.yml.j2

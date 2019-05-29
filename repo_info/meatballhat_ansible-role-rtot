@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-01-12 21:34 ansible-role-rtot-master/
+-rw-rw-r-- root/root       862 2014-01-12 21:34 ansible-role-rtot-master/README.md
+drwxrwxr-x root/root         0 2014-01-12 21:34 ansible-role-rtot-master/defaults/
+-rw-rw-r-- root/root       313 2014-01-12 21:34 ansible-role-rtot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-12 21:34 ansible-role-rtot-master/handlers/
+-rw-rw-r-- root/root        62 2014-01-12 21:34 ansible-role-rtot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-01-12 21:34 ansible-role-rtot-master/meta/
+-rw-rw-r-- root/root       325 2014-01-12 21:34 ansible-role-rtot-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-12 21:34 ansible-role-rtot-master/tasks/
+-rw-rw-r-- root/root      1076 2014-01-12 21:34 ansible-role-rtot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-12 21:34 ansible-role-rtot-master/templates/
+-rw-rw-r-- root/root       333 2014-01-12 21:34 ansible-role-rtot-master/templates/rtot.conf
+drwxrwxr-x root/root         0 2014-01-12 21:34 ansible-role-rtot-master/vars/
+-rw-rw-r-- root/root         4 2014-01-12 21:34 ansible-role-rtot-master/vars/main.yml

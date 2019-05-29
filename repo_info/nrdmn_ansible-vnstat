@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-25 08:42 ansible-vnstat-master/
+-rw-rw-r-- root/root     34520 2017-03-25 08:42 ansible-vnstat-master/LICENSE
+-rw-rw-r-- root/root       695 2017-03-25 08:42 ansible-vnstat-master/README.md
+drwxrwxr-x root/root         0 2017-03-25 08:42 ansible-vnstat-master/defaults/
+-rw-rw-r-- root/root       255 2017-03-25 08:42 ansible-vnstat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-25 08:42 ansible-vnstat-master/handlers/
+-rw-rw-r-- root/root        81 2017-03-25 08:42 ansible-vnstat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-25 08:42 ansible-vnstat-master/meta/
+-rw-rw-r-- root/root       479 2017-03-25 08:42 ansible-vnstat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-25 08:42 ansible-vnstat-master/tasks/
+-rw-rw-r-- root/root       836 2017-03-25 08:42 ansible-vnstat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-25 08:42 ansible-vnstat-master/templates/
+-rw-rw-r-- root/root       177 2017-03-25 08:42 ansible-vnstat-master/templates/config.j2
+drwxrwxr-x root/root         0 2017-03-25 08:42 ansible-vnstat-master/vars/
+-rw-rw-r-- root/root      1213 2017-03-25 08:42 ansible-vnstat-master/vars/default.yml

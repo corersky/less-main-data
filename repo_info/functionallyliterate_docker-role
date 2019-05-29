@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-08-09 12:22 docker-role-master/
+-rw-rw-r-- root/root        17 2016-08-09 12:22 docker-role-master/.gitignore
+-rw-rw-r-- root/root      1272 2016-08-09 12:22 docker-role-master/.travis.yml
+-rw-rw-r-- root/root      1268 2016-08-09 12:22 docker-role-master/README.md
+drwxrwxr-x root/root         0 2016-08-09 12:22 docker-role-master/defaults/
+-rw-rw-r-- root/root        75 2016-08-09 12:22 docker-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-09 12:22 docker-role-master/handlers/
+-rw-rw-r-- root/root        41 2016-08-09 12:22 docker-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-09 12:22 docker-role-master/meta/
+-rw-rw-r-- root/root      3564 2016-08-09 12:22 docker-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-09 12:22 docker-role-master/tasks/
+-rw-rw-r-- root/root      1304 2016-08-09 12:22 docker-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-09 12:22 docker-role-master/tests/
+-rw-rw-r-- root/root        34 2016-08-09 12:22 docker-role-master/tests/inventory
+-rw-rw-r-- root/root        63 2016-08-09 12:22 docker-role-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-08-09 12:22 docker-role-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-08-09 12:22 docker-role-master/tests/roles/docker-role -> ../../../docker-role
+-rw-rw-r-- root/root       614 2016-08-09 12:22 docker-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-09 12:22 docker-role-master/vars/
+-rw-rw-r-- root/root        36 2016-08-09 12:22 docker-role-master/vars/main.yml

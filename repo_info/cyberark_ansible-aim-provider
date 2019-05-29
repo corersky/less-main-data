@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-15 17:44 ansible-aim-provider-master/
+-rw-rw-r-- root/root      1072 2017-11-15 17:44 ansible-aim-provider-master/LICENSE
+-rwxrwxr-x root/root      2880 2017-11-15 17:44 ansible-aim-provider-master/README.md
+drwxrwxr-x root/root         0 2017-11-15 17:44 ansible-aim-provider-master/defaults/
+-rw-rw-r-- root/root       791 2017-11-15 17:44 ansible-aim-provider-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-15 17:44 ansible-aim-provider-master/meta/
+-rw-rw-r-- root/root       541 2017-11-15 17:44 ansible-aim-provider-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-15 17:44 ansible-aim-provider-master/tasks/
+-rw-rw-r-- root/root      5521 2017-11-15 17:44 ansible-aim-provider-master/tasks/installAIMProvider.yml
+-rw-rw-r-- root/root       856 2017-11-15 17:44 ansible-aim-provider-master/tasks/main.yml
+-rw-rw-r-- root/root      1994 2017-11-15 17:44 ansible-aim-provider-master/tasks/uninstallAIMProvider.yml
+drwxrwxr-x root/root         0 2017-11-15 17:44 ansible-aim-provider-master/tests/
+-rw-rw-r-- root/root         9 2017-11-15 17:44 ansible-aim-provider-master/tests/inventory
+-rw-rw-r-- root/root       816 2017-11-15 17:44 ansible-aim-provider-master/tests/test-aiminstall-with-creds.yml
+-rw-rw-r-- root/root       330 2017-11-15 17:44 ansible-aim-provider-master/tests/test-aiminstall.yml
+-rw-rw-r-- root/root       694 2017-11-15 17:44 ansible-aim-provider-master/tests/test-aimuninstall-with-creds.yml
+-rw-rw-r-- root/root       256 2017-11-15 17:44 ansible-aim-provider-master/tests/test-aimuninstall.yml

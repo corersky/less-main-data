@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-07-30 09:09 ansible-dom0-master/
+-rw-rw-r-- root/root       784 2014-07-30 09:09 ansible-dom0-master/README.md
+drwxrwxr-x root/root         0 2014-07-30 09:09 ansible-dom0-master/files/
+-rw-rw-r-- root/root       685 2014-07-30 09:09 ansible-dom0-master/files/xen-tools.conf
+-rw-rw-r-- root/root        22 2014-07-30 09:09 ansible-dom0-master/hosts.example
+drwxrwxr-x root/root         0 2014-07-30 09:09 ansible-dom0-master/meta/
+-rw-rw-r-- root/root       327 2014-07-30 09:09 ansible-dom0-master/meta/main.yml
+-rw-rw-r-- root/root        36 2014-07-30 09:09 ansible-dom0-master/recipe.yml
+drwxrwxr-x root/root         0 2014-07-30 09:09 ansible-dom0-master/tasks/
+-rw-rw-r-- root/root       502 2014-07-30 09:09 ansible-dom0-master/tasks/main.yml

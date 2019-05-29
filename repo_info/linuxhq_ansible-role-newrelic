@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-01 21:31 ansible-role-newrelic-master/
+-rw-rw-r-- root/root       317 2018-07-01 21:31 ansible-role-newrelic-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-07-01 21:31 ansible-role-newrelic-master/COPYING
+-rw-rw-r-- root/root      1916 2018-07-01 21:31 ansible-role-newrelic-master/README.md
+drwxrwxr-x root/root         0 2018-07-01 21:31 ansible-role-newrelic-master/defaults/
+-rw-rw-r-- root/root       451 2018-07-01 21:31 ansible-role-newrelic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:31 ansible-role-newrelic-master/meta/
+-rw-rw-r-- root/root       267 2018-07-01 21:31 ansible-role-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:31 ansible-role-newrelic-master/tasks/
+-rw-rw-r-- root/root      1781 2018-07-01 21:31 ansible-role-newrelic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-01 21:31 ansible-role-newrelic-master/templates/
+-rw-rw-r-- root/root       256 2018-07-01 21:31 ansible-role-newrelic-master/templates/newrelic.repo.j2
+drwxrwxr-x root/root         0 2018-07-01 21:31 ansible-role-newrelic-master/tests/
+-rw-rw-r-- root/root        10 2018-07-01 21:31 ansible-role-newrelic-master/tests/inventory
+-rw-rw-r-- root/root        84 2018-07-01 21:31 ansible-role-newrelic-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-23 05:46 ansible-repo-priority-master/
+-rw-rw-r-- root/root        48 2017-08-23 05:46 ansible-repo-priority-master/.gitignore
+-rw-rw-r-- root/root      1068 2017-08-23 05:46 ansible-repo-priority-master/LICENSE.txt
+-rw-rw-r-- root/root       287 2017-08-23 05:46 ansible-repo-priority-master/README.md
+drwxrwxr-x root/root         0 2017-08-23 05:46 ansible-repo-priority-master/defaults/
+-rw-rw-r-- root/root        83 2017-08-23 05:46 ansible-repo-priority-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-23 05:46 ansible-repo-priority-master/meta/
+-rw-rw-r-- root/root       288 2017-08-23 05:46 ansible-repo-priority-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-23 05:46 ansible-repo-priority-master/tasks/
+-rw-rw-r-- root/root       480 2017-08-23 05:46 ansible-repo-priority-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-23 05:46 ansible-repo-priority-master/tests/
+-rw-rw-r-- root/root         9 2017-08-23 05:46 ansible-repo-priority-master/tests/inventory
+-rw-rw-r-- root/root        52 2017-08-23 05:46 ansible-repo-priority-master/tests/test.yml

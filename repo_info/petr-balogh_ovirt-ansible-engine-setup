@@ -1,0 +1,53 @@
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/
+-rw-rw-r-- root/root       149 2019-02-01 05:08 ovirt-ansible-engine-setup-master/.ansible-lint
+-rw-rw-r-- root/root       105 2019-02-01 05:08 ovirt-ansible-engine-setup-master/.gitignore
+-rw-rw-r-- root/root      1008 2019-02-01 05:08 ovirt-ansible-engine-setup-master/.travis.yml
+-rw-rw-r-- root/root        53 2019-02-01 05:08 ovirt-ansible-engine-setup-master/.yamllint
+-rw-rw-r-- root/root     10759 2019-02-01 05:08 ovirt-ansible-engine-setup-master/LICENSE
+-rw-rw-r-- root/root      7262 2019-02-01 05:08 ovirt-ansible-engine-setup-master/README.md
+-rw-rw-r-- root/root        95 2019-02-01 05:08 ovirt-ansible-engine-setup-master/automation.yaml
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/automation/
+-rw-rw-r-- root/root       308 2019-02-01 05:08 ovirt-ansible-engine-setup-master/automation/README.md
+lrwxrwxrwx root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/automation/build-artifacts-manual.sh -> build-artifacts.sh
+-rw-rw-r-- root/root        22 2019-02-01 05:08 ovirt-ansible-engine-setup-master/automation/build-artifacts.packages
+-rwxrwxr-x root/root       658 2019-02-01 05:08 ovirt-ansible-engine-setup-master/automation/build-artifacts.sh
+-rw-rw-r-- root/root        22 2019-02-01 05:08 ovirt-ansible-engine-setup-master/automation/check-patch.packages
+lrwxrwxrwx root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/automation/check-patch.sh -> build-artifacts.sh
+-rwxrwxr-x root/root      1491 2019-02-01 05:08 ovirt-ansible-engine-setup-master/build.sh
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/defaults/
+-rw-rw-r-- root/root      1088 2019-02-01 05:08 ovirt-ansible-engine-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/examples/
+-rw-rw-r-- root/root       623 2019-02-01 05:08 ovirt-ansible-engine-setup-master/examples/engine-deploy.yml
+-rw-rw-r-- root/root       749 2019-02-01 05:08 ovirt-ansible-engine-setup-master/examples/engine-upgrade.yml
+lrwxrwxrwx root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/examples/ovirt.engine-setup -> ../
+-rw-rw-r-- root/root       381 2019-02-01 05:08 ovirt-ansible-engine-setup-master/examples/passwords.yml
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/meta/
+-rw-rw-r-- root/root       331 2019-02-01 05:08 ovirt-ansible-engine-setup-master/meta/main.yml
+-rw-rw-r-- root/root      2763 2019-02-01 05:08 ovirt-ansible-engine-setup-master/ovirt-ansible-engine-setup.spec.in
+-rw-rw-r-- root/root         7 2019-02-01 05:08 ovirt-ansible-engine-setup-master/requirements.txt
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tasks/
+-rw-rw-r-- root/root      2282 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tasks/engine_setup.yml
+-rw-rw-r-- root/root       843 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tasks/install_packages.yml
+-rw-rw-r-- root/root       211 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/templates/
+-rw-rw-r-- root/root       202 2019-02-01 05:08 ovirt-ansible-engine-setup-master/templates/answerfile_4.1_basic.txt.j2
+-rw-rw-r-- root/root        52 2019-02-01 05:08 ovirt-ansible-engine-setup-master/templates/answerfile_4.1_upgrade.txt.j2
+-rw-rw-r-- root/root       720 2019-02-01 05:08 ovirt-ansible-engine-setup-master/templates/answerfile_4.2_basic.txt.j2
+-rw-rw-r-- root/root       609 2019-02-01 05:08 ovirt-ansible-engine-setup-master/templates/answerfile_4.2_upgrade.txt.j2
+-rw-rw-r-- root/root        56 2019-02-01 05:08 ovirt-ansible-engine-setup-master/templates/answerfile_4.3_basic.txt.j2
+-rw-rw-r-- root/root        58 2019-02-01 05:08 ovirt-ansible-engine-setup-master/templates/answerfile_4.3_upgrade.txt.j2
+-rw-rw-r-- root/root      2549 2019-02-01 05:08 ovirt-ansible-engine-setup-master/templates/basic_answerfile.txt.j2
+-rw-rw-r-- root/root        29 2019-02-01 05:08 ovirt-ansible-engine-setup-master/test-requirements.txt
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/
+-rw-rw-r-- root/root       404 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/containers-deploy.yml
+-rw-rw-r-- root/root       610 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/engine-deploy.yml
+-rw-rw-r-- root/root       667 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/engine-upgrade.yml
+-rw-rw-r-- root/root       143 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/inventory
+-rw-rw-r-- root/root       381 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/passwords.yml
+-rw-rw-r-- root/root        94 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/roles/oVirt.engine-setup -> ../../
+-rw-rw-r-- root/root       219 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/test-4.1.yml
+-rw-rw-r-- root/root       224 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/test-master.yml
+-rw-rw-r-- root/root       399 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tests/test-upgrade-4.1-to-master.yml
+-rw-rw-r-- root/root       939 2019-02-01 05:08 ovirt-ansible-engine-setup-master/tox.ini

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-17 11:57 ansible-role-macos-homebrew-master/
+-rw-rw-r-- root/root      2681 2019-04-17 11:57 ansible-role-macos-homebrew-master/.gitignore
+-rw-rw-r-- root/root       608 2019-04-17 11:57 ansible-role-macos-homebrew-master/.travis.yml
+-rw-rw-r-- root/root      1070 2019-04-17 11:57 ansible-role-macos-homebrew-master/LICENSE
+-rw-rw-r-- root/root      1065 2019-04-17 11:57 ansible-role-macos-homebrew-master/README.md
+drwxrwxr-x root/root         0 2019-04-17 11:57 ansible-role-macos-homebrew-master/defaults/
+-rw-rw-r-- root/root       400 2019-04-17 11:57 ansible-role-macos-homebrew-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-17 11:57 ansible-role-macos-homebrew-master/meta/
+-rw-rw-r-- root/root       311 2019-04-17 11:57 ansible-role-macos-homebrew-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-17 11:57 ansible-role-macos-homebrew-master/tasks/
+-rw-rw-r-- root/root       850 2019-04-17 11:57 ansible-role-macos-homebrew-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-17 11:57 ansible-role-macos-homebrew-master/tests/
+-rw-rw-r-- root/root         9 2019-04-17 11:57 ansible-role-macos-homebrew-master/tests/inventory
+-rw-rw-r-- root/root        87 2019-04-17 11:57 ansible-role-macos-homebrew-master/tests/test.yml

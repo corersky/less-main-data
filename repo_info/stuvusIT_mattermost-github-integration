@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-03 11:28 mattermost-github-integration-master/
+-rw-rw-r-- root/root     20133 2018-12-03 11:28 mattermost-github-integration-master/LICENSE
+-rw-rw-r-- root/root      6457 2018-12-03 11:28 mattermost-github-integration-master/README.md
+drwxrwxr-x root/root         0 2018-12-03 11:28 mattermost-github-integration-master/defaults/
+-rw-rw-r-- root/root       643 2018-12-03 11:28 mattermost-github-integration-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-03 11:28 mattermost-github-integration-master/handlers/
+-rw-rw-r-- root/root       148 2018-12-03 11:28 mattermost-github-integration-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-03 11:28 mattermost-github-integration-master/meta/
+-rw-rw-r-- root/root       409 2018-12-03 11:28 mattermost-github-integration-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-03 11:28 mattermost-github-integration-master/tasks/
+-rw-rw-r-- root/root      1264 2018-12-03 11:28 mattermost-github-integration-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-03 11:28 mattermost-github-integration-master/templates/
+-rw-rw-r-- root/root       851 2018-12-03 11:28 mattermost-github-integration-master/templates/config.py.j2
+-rw-rw-r-- root/root       313 2018-12-03 11:28 mattermost-github-integration-master/templates/systemd_file.j2

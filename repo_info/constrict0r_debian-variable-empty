@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-08 18:59 debian-variable-empty-master/
+-rw-rw-r-- root/root        52 2019-05-08 18:59 debian-variable-empty-master/.gitignore
+-rw-rw-r-- root/root       612 2019-05-08 18:59 debian-variable-empty-master/.travis.yml
+-rw-rw-r-- root/root      1077 2019-05-08 18:59 debian-variable-empty-master/LICENSE
+-rw-rw-r-- root/root      4726 2019-05-08 18:59 debian-variable-empty-master/README.md
+drwxrwxr-x root/root         0 2019-05-08 18:59 debian-variable-empty-master/docs/
+drwxrwxr-x root/root         0 2019-05-08 18:59 debian-variable-empty-master/docs/uml/
+-rw-rw-r-- root/root       148 2019-05-08 18:59 debian-variable-empty-master/docs/uml/deployment.txt
+-rw-rw-r-- root/root       644 2019-05-08 18:59 debian-variable-empty-master/docs/uml/main.txt
+drwxrwxr-x root/root         0 2019-05-08 18:59 debian-variable-empty-master/meta/
+-rw-rw-r-- root/root       348 2019-05-08 18:59 debian-variable-empty-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 18:59 debian-variable-empty-master/tasks/
+-rw-rw-r-- root/root      3188 2019-05-08 18:59 debian-variable-empty-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-08 18:59 debian-variable-empty-master/tests/
+-rw-rw-r-- root/root         9 2019-05-08 18:59 debian-variable-empty-master/tests/inventory
+-rw-rw-r-- root/root       202 2019-05-08 18:59 debian-variable-empty-master/tests/local-playbook.yml
+-rw-rw-r-- root/root      2617 2019-05-08 18:59 debian-variable-empty-master/tests/test-playbook.yml

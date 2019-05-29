@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-09-05 17:11 ansible-role-blacklist-hosts-master/
+-rw-rw-r-- root/root      1621 2017-09-05 17:11 ansible-role-blacklist-hosts-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-09-05 17:11 ansible-role-blacklist-hosts-master/LICENSE
+-rw-rw-r-- root/root      1612 2017-09-05 17:11 ansible-role-blacklist-hosts-master/README.md
+drwxrwxr-x root/root         0 2017-09-05 17:11 ansible-role-blacklist-hosts-master/defaults/
+-rw-rw-r-- root/root       308 2017-09-05 17:11 ansible-role-blacklist-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-05 17:11 ansible-role-blacklist-hosts-master/meta/
+-rw-rw-r-- root/root       320 2017-09-05 17:11 ansible-role-blacklist-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-05 17:11 ansible-role-blacklist-hosts-master/tasks/
+-rw-rw-r-- root/root      1560 2017-09-05 17:11 ansible-role-blacklist-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-05 17:11 ansible-role-blacklist-hosts-master/templates/
+-rw-rw-r-- root/root       174 2017-09-05 17:11 ansible-role-blacklist-hosts-master/templates/hosts_custom.j2
+drwxrwxr-x root/root         0 2017-09-05 17:11 ansible-role-blacklist-hosts-master/tests/
+-rw-rw-r-- root/root       192 2017-09-05 17:11 ansible-role-blacklist-hosts-master/tests/test.yml

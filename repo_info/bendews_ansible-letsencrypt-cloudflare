@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/
+-rw-rw-r-- root/root        65 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/.gitattributes
+-rw-rw-r-- root/root        18 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/.gitignore
+-rw-rw-r-- root/root      1069 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/.travis.yml
+-rw-rw-r-- root/root      1064 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/LICENSE
+-rw-rw-r-- root/root      2411 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/README.md
+drwxrwxr-x root/root         0 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/defaults/
+-rw-rw-r-- root/root      1151 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/meta/
+-rw-rw-r-- root/root       393 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/tasks/
+-rw-rw-r-- root/root      7651 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/templates/
+-rwxrwxr-x root/root       264 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/templates/openssl-request.conf.j2
+drwxrwxr-x root/root         0 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/tests/
+-rw-rw-r-- root/root         9 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/tests/inventory
+-rw-rw-r-- root/root       498 2018-10-28 06:47 ansible-letsencrypt-cloudflare-master/tests/test.yml

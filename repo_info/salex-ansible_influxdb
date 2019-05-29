@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-06 04:53 influxdb-master/
+-rw-rw-r-- root/root      1113 2017-07-06 04:53 influxdb-master/README.md
+drwxrwxr-x root/root         0 2017-07-06 04:53 influxdb-master/defaults/
+-rw-rw-r-- root/root       615 2017-07-06 04:53 influxdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-06 04:53 influxdb-master/handlers/
+-rw-rw-r-- root/root        70 2017-07-06 04:53 influxdb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-06 04:53 influxdb-master/meta/
+-rw-rw-r-- root/root       213 2017-07-06 04:53 influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-06 04:53 influxdb-master/tasks/
+-rw-rw-r-- root/root       676 2017-07-06 04:53 influxdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-06 04:53 influxdb-master/templates/
+-rw-rw-r-- root/root     10727 2017-07-06 04:53 influxdb-master/templates/influxdb.conf.j2
+drwxrwxr-x root/root         0 2017-07-06 04:53 influxdb-master/tests/
+-rw-rw-r-- root/root        11 2017-07-06 04:53 influxdb-master/tests/inventory
+-rw-rw-r-- root/root        70 2017-07-06 04:53 influxdb-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-06 04:53 influxdb-master/vars/
+-rw-rw-r-- root/root        32 2017-07-06 04:53 influxdb-master/vars/main.yml

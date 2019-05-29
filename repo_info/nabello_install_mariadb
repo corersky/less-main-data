@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-30 15:05 install_mariadb-master/
+-rw-rw-r-- root/root      1328 2018-01-30 15:05 install_mariadb-master/README.md
+drwxrwxr-x root/root         0 2018-01-30 15:05 install_mariadb-master/defaults/
+-rw-rw-r-- root/root        98 2018-01-30 15:05 install_mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-30 15:05 install_mariadb-master/handlers/
+-rw-rw-r-- root/root        39 2018-01-30 15:05 install_mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-30 15:05 install_mariadb-master/meta/
+-rw-rw-r-- root/root      1876 2018-01-30 15:05 install_mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-30 15:05 install_mariadb-master/tasks/
+-rw-rw-r-- root/root       849 2018-01-30 15:05 install_mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-30 15:05 install_mariadb-master/templates/
+-rw-rw-r-- root/root       248 2018-01-30 15:05 install_mariadb-master/templates/mariadb-centos.repo.j2
+drwxrwxr-x root/root         0 2018-01-30 15:05 install_mariadb-master/tests/
+-rw-rw-r-- root/root        11 2018-01-30 15:05 install_mariadb-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-01-30 15:05 install_mariadb-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-30 15:05 install_mariadb-master/vars/
+-rw-rw-r-- root/root         3 2018-01-30 15:05 install_mariadb-master/vars/main.yml

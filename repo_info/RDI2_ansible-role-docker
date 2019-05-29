@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/
+-rw-rw-r-- root/root       539 2016-04-15 11:19 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root       889 2016-04-15 11:19 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        61 2016-04-15 11:19 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/files/
+-rw-rw-r-- root/root       166 2016-04-15 11:19 ansible-role-docker-master/files/docker.repo
+-rw-rw-r-- root/root       370 2016-04-15 11:19 ansible-role-docker-master/files/docker.service
+-rw-rw-r-- root/root        23 2016-04-15 11:19 ansible-role-docker-master/files/subgid
+-rw-rw-r-- root/root        23 2016-04-15 11:19 ansible-role-docker-master/files/subuid
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root       180 2016-04-15 11:19 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       263 2016-04-15 11:19 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       562 2016-04-15 11:19 ansible-role-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       373 2016-04-15 11:19 ansible-role-docker-master/tasks/user_namespaces.yml
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root        17 2016-04-15 11:19 ansible-role-docker-master/tests/.gitignore
+-rw-rw-r-- root/root       279 2016-04-15 11:19 ansible-role-docker-master/tests/Vagrantfile
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-04-15 11:19 ansible-role-docker-master/tests/roles/RDI2.docker -> ../../
+-rw-rw-r-- root/root        96 2016-04-15 11:19 ansible-role-docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-04-15 11:19 ansible-role-docker-master/vars/
+-rw-rw-r-- root/root        27 2016-04-15 11:19 ansible-role-docker-master/vars/main.yml

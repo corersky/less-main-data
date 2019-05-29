@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-03 23:19 role-sqlserver-ag-config-master/
+-rw-rw-r-- root/root     18026 2017-08-03 23:19 role-sqlserver-ag-config-master/LICENSE
+-rw-rw-r-- root/root      3038 2017-08-03 23:19 role-sqlserver-ag-config-master/README.md
+drwxrwxr-x root/root         0 2017-08-03 23:19 role-sqlserver-ag-config-master/files/
+drwxrwxr-x root/root         0 2017-08-03 23:19 role-sqlserver-ag-config-master/files/sql/
+-rw-rw-r-- root/root       305 2017-08-03 23:19 role-sqlserver-ag-config-master/files/sql/1_create_dbm_user.sql.j2
+-rw-rw-r-- root/root       586 2017-08-03 23:19 role-sqlserver-ag-config-master/files/sql/2_PRIMARY_ONLY_create_master_key_on_primary.sql.j2
+-rw-rw-r-- root/root       499 2017-08-03 23:19 role-sqlserver-ag-config-master/files/sql/2_REPLICA_ONLY_restore_master_key_on_replica.sql.j2
+-rw-rw-r-- root/root       418 2017-08-03 23:19 role-sqlserver-ag-config-master/files/sql/3_create_mirroring_endpoint.sql.j2
+-rw-rw-r-- root/root       775 2017-08-03 23:19 role-sqlserver-ag-config-master/files/sql/4_PRIMARY_ONLY_create_availability_group_primary.sql.j2
+-rw-rw-r-- root/root       273 2017-08-03 23:19 role-sqlserver-ag-config-master/files/sql/5_REPLICA_ONLY_join_replica_to_availability_group.sql.j2
+drwxrwxr-x root/root         0 2017-08-03 23:19 role-sqlserver-ag-config-master/meta/
+-rw-rw-r-- root/root       531 2017-08-03 23:19 role-sqlserver-ag-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-03 23:19 role-sqlserver-ag-config-master/tasks/
+-rw-rw-r-- root/root      3178 2017-08-03 23:19 role-sqlserver-ag-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-03 23:19 role-sqlserver-ag-config-master/vars/
+-rw-rw-r-- root/root       343 2017-08-03 23:19 role-sqlserver-ag-config-master/vars/main.yml

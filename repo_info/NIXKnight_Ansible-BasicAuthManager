@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-21 04:58 Ansible-BasicAuthManager-master/
+-rw-rw-r-- root/root      1095 2018-08-21 04:58 Ansible-BasicAuthManager-master/LICENSE
+-rw-rw-r-- root/root      3732 2018-08-21 04:58 Ansible-BasicAuthManager-master/README.md
+drwxrwxr-x root/root         0 2018-08-21 04:58 Ansible-BasicAuthManager-master/defaults/
+-rw-rw-r-- root/root       883 2018-08-21 04:58 Ansible-BasicAuthManager-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-21 04:58 Ansible-BasicAuthManager-master/handlers/
+-rw-rw-r-- root/root       199 2018-08-21 04:58 Ansible-BasicAuthManager-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-21 04:58 Ansible-BasicAuthManager-master/meta/
+-rw-rw-r-- root/root       388 2018-08-21 04:58 Ansible-BasicAuthManager-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-21 04:58 Ansible-BasicAuthManager-master/tasks/
+-rw-rw-r-- root/root      2091 2018-08-21 04:58 Ansible-BasicAuthManager-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-21 04:58 Ansible-BasicAuthManager-master/templates/
+-rw-rw-r-- root/root       545 2018-08-21 04:58 Ansible-BasicAuthManager-master/templates/bam-nginx-server-block.conf.j2
+-rw-rw-r-- root/root       401 2018-08-21 04:58 Ansible-BasicAuthManager-master/templates/bam-supervisor.cfg.j2
+-rw-rw-r-- root/root       361 2018-08-21 04:58 Ansible-BasicAuthManager-master/templates/bam.cfg.j2
+drwxrwxr-x root/root         0 2018-08-21 04:58 Ansible-BasicAuthManager-master/vars/
+-rw-rw-r-- root/root       265 2018-08-21 04:58 Ansible-BasicAuthManager-master/vars/main.yml

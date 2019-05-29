@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-17 09:20 ansible-role-rpi_upgrade-master/
+-rw-rw-r-- root/root       324 2019-03-17 09:20 ansible-role-rpi_upgrade-master/README.md
+drwxrwxr-x root/root         0 2019-03-17 09:20 ansible-role-rpi_upgrade-master/defaults/
+-rw-rw-r-- root/root        34 2019-03-17 09:20 ansible-role-rpi_upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-17 09:20 ansible-role-rpi_upgrade-master/handlers/
+-rw-rw-r-- root/root        94 2019-03-17 09:20 ansible-role-rpi_upgrade-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-17 09:20 ansible-role-rpi_upgrade-master/meta/
+-rw-rw-r-- root/root       375 2019-03-17 09:20 ansible-role-rpi_upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-17 09:20 ansible-role-rpi_upgrade-master/tasks/
+-rw-rw-r-- root/root       703 2019-03-17 09:20 ansible-role-rpi_upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-17 09:20 ansible-role-rpi_upgrade-master/tests/
+-rw-rw-r-- root/root        11 2019-03-17 09:20 ansible-role-rpi_upgrade-master/tests/inventory
+-rw-rw-r-- root/root        68 2019-03-17 09:20 ansible-role-rpi_upgrade-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-17 09:20 ansible-role-rpi_upgrade-master/vars/
+-rw-rw-r-- root/root        30 2019-03-17 09:20 ansible-role-rpi_upgrade-master/vars/main.yml

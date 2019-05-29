@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-10 08:56 create_config-master/
+-rw-rw-r-- root/root        66 2018-08-10 08:56 create_config-master/.gitattributes
+-rw-rw-r-- root/root      1328 2018-08-10 08:56 create_config-master/README.md
+drwxrwxr-x root/root         0 2018-08-10 08:56 create_config-master/defaults/
+-rw-rw-r-- root/root        37 2018-08-10 08:56 create_config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:56 create_config-master/handlers/
+-rw-rw-r-- root/root        37 2018-08-10 08:56 create_config-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:56 create_config-master/meta/
+-rw-rw-r-- root/root      1796 2018-08-10 08:56 create_config-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:56 create_config-master/tasks/
+-rw-rw-r-- root/root       185 2018-08-10 08:56 create_config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:56 create_config-master/tests/
+-rw-rw-r-- root/root        11 2018-08-10 08:56 create_config-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-08-10 08:56 create_config-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-10 08:56 create_config-master/vars/
+-rw-rw-r-- root/root        33 2018-08-10 08:56 create_config-master/vars/main.yml

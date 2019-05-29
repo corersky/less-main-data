@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-01-23 05:06 ansible-role-s3cmd-master/
+-rw-rw-r-- root/root       184 2015-01-23 05:06 ansible-role-s3cmd-master/README.md
+drwxrwxr-x root/root         0 2015-01-23 05:06 ansible-role-s3cmd-master/defaults/
+-rw-rw-r-- root/root       133 2015-01-23 05:06 ansible-role-s3cmd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-23 05:06 ansible-role-s3cmd-master/meta/
+-rw-rw-r-- root/root       255 2015-01-23 05:06 ansible-role-s3cmd-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-23 05:06 ansible-role-s3cmd-master/tasks/
+-rw-rw-r-- root/root       482 2015-01-23 05:06 ansible-role-s3cmd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-23 05:06 ansible-role-s3cmd-master/templates/
+-rw-rw-r-- root/root      1202 2015-01-23 05:06 ansible-role-s3cmd-master/templates/_s3cfg.j2
+drwxrwxr-x root/root         0 2015-01-23 05:06 ansible-role-s3cmd-master/vars/
+-rw-rw-r-- root/root         0 2015-01-23 05:06 ansible-role-s3cmd-master/vars/main.yml

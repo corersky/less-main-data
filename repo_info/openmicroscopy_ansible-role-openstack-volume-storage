@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/
+-rw-rw-r-- root/root         4 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/.gitignore
+-rw-rw-r-- root/root       598 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/.travis.yml
+-rw-rw-r-- root/root       607 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/README.md
+drwxrwxr-x root/root         0 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/meta/
+-rw-rw-r-- root/root       293 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/tasks/
+-rw-rw-r-- root/root       636 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/tests/
+-rw-rw-r-- root/root        10 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/tests/inventory
+-rw-rw-r-- root/root        94 2017-06-14 07:58 ansible-role-openstack-volume-storage-master/tests/test.yml

@@ -1,0 +1,47 @@
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/
+-rw-rw-r-- root/root       136 2017-01-15 11:38 ansible-role-authorized_keys-master/.gitignore
+-rw-rw-r-- root/root       559 2017-01-15 11:38 ansible-role-authorized_keys-master/.travis.yml
+-rw-rw-r-- root/root       834 2017-01-15 11:38 ansible-role-authorized_keys-master/CHANGELOG.md
+-rw-rw-r-- root/root      1537 2017-01-15 11:38 ansible-role-authorized_keys-master/COPYRIGHT
+-rw-rw-r-- root/root      2293 2017-01-15 11:38 ansible-role-authorized_keys-master/README.md
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/defaults/
+-rw-rw-r-- root/root       723 2017-01-15 11:38 ansible-role-authorized_keys-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/meta/
+-rw-rw-r-- root/root       520 2017-01-15 11:38 ansible-role-authorized_keys-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tasks/
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tasks/configure/
+-rw-rw-r-- root/root       622 2017-01-15 11:38 ansible-role-authorized_keys-master/tasks/configure/main.yml
+-rw-rw-r-- root/root        94 2017-01-15 11:38 ansible-role-authorized_keys-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/
+-rw-rw-r-- root/root      1104 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/Makefile
+lrwxrwxrwx root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/ansible.cfg -> ../ansible.cfg
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/
+-rw-rw-r-- root/root       401 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s1_authorized_keys
+-rw-rw-r-- root/root       401 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s1_user1
+-rw-rw-r-- root/root       440 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s1_user2
+-rw-rw-r-- root/root      1094 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s1_user3
+-rw-rw-r-- root/root      1094 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s1_user4
+-rw-rw-r-- root/root       401 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s1_user5
+-rw-rw-r-- root/root       405 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s1_user7
+-rw-rw-r-- root/root       405 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s1_user8
+-rw-rw-r-- root/root       401 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s2_user1
+-rw-rw-r-- root/root       806 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s2_user2
+-rw-rw-r-- root/root       401 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s2_user3
+-rw-rw-r-- root/root       401 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s2_user4
+-rw-rw-r-- root/root       806 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/acceptance/s2_user5
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/public_keys/
+-rw-rw-r-- root/root       183 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/public_keys/id_ecdsa.pub
+-rw-rw-r-- root/root       105 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/public_keys/id_ed25519.pub
+-rw-rw-r-- root/root       401 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/public_keys/id_rsa.pub
+-rw-rw-r-- root/root       405 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/files/public_keys/id_rsa_two.pub
+lrwxrwxrwx root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/inventory -> ../inventory
+lrwxrwxrwx root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/roles -> ../roles/
+-rw-rw-r-- root/root     11102 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/01_basic/test.yml
+-rw-rw-r-- root/root        71 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/Makefile
+-rw-rw-r-- root/root       246 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/ansible.cfg
+-rw-rw-r-- root/root        35 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/inventory
+-rw-rw-r-- root/root        43 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-01-15 11:38 ansible-role-authorized_keys-master/tests/roles/tomashavlas.authorized_keys -> ../../

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-31 11:25 ansible-pihole-master/
+-rw-rw-r-- root/root       480 2017-03-31 11:25 ansible-pihole-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-03-31 11:25 ansible-pihole-master/LICENSE
+-rw-rw-r-- root/root      1609 2017-03-31 11:25 ansible-pihole-master/README.md
+drwxrwxr-x root/root         0 2017-03-31 11:25 ansible-pihole-master/defaults/
+-rw-rw-r-- root/root       384 2017-03-31 11:25 ansible-pihole-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-31 11:25 ansible-pihole-master/meta/
+-rw-rw-r-- root/root       279 2017-03-31 11:25 ansible-pihole-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-31 11:25 ansible-pihole-master/tasks/
+-rw-rw-r-- root/root       487 2017-03-31 11:25 ansible-pihole-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-31 11:25 ansible-pihole-master/tests/
+-rw-rw-r-- root/root        10 2017-03-31 11:25 ansible-pihole-master/tests/inventory
+-rw-rw-r-- root/root       117 2017-03-31 11:25 ansible-pihole-master/tests/test.yml

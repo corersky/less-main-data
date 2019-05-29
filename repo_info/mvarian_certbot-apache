@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-08-24 14:15 certbot-apache-master/
+-rw-rw-r-- root/root      1071 2017-08-24 14:15 certbot-apache-master/LICENSE
+-rw-rw-r-- root/root       654 2017-08-24 14:15 certbot-apache-master/README.md
+drwxrwxr-x root/root         0 2017-08-24 14:15 certbot-apache-master/meta/
+-rw-rw-r-- root/root       509 2017-08-24 14:15 certbot-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-24 14:15 certbot-apache-master/tasks/
+-rw-rw-r-- root/root       529 2017-08-24 14:15 certbot-apache-master/tasks/Debian.yml
+-rw-rw-r-- root/root       432 2017-08-24 14:15 certbot-apache-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       291 2017-08-24 14:15 certbot-apache-master/tasks/generate.yml
+-rw-rw-r-- root/root       189 2017-08-24 14:15 certbot-apache-master/tasks/main.yml

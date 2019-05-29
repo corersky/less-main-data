@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/
+-rw-rw-r-- root/root       543 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/README.md
+-rw-rw-r-- root/root       233 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/circle.yml
+drwxrwxr-x root/root         0 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/defaults/
+-rw-rw-r-- root/root       146 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/meta/
+-rw-rw-r-- root/root       318 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/tasks/
+-rw-rw-r-- root/root       790 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/templates/
+-rw-rw-r-- root/root      1359 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/templates/phantomjs.init.j2
+drwxrwxr-x root/root         0 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/tests/
+-rw-rw-r-- root/root        36 2016-08-01 05:18 ansible-role-beetbox-phantomjs-master/tests/config.yml

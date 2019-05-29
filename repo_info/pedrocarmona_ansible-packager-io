@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-31 11:29 ansible-packager-io-master/
+-rw-rw-r-- root/root       246 2018-07-31 11:29 ansible-packager-io-master/.gitignore
+-rw-rw-r-- root/root      2227 2018-07-31 11:29 ansible-packager-io-master/README.md
+drwxrwxr-x root/root         0 2018-07-31 11:29 ansible-packager-io-master/defaults/
+-rw-rw-r-- root/root      1179 2018-07-31 11:29 ansible-packager-io-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-31 11:29 ansible-packager-io-master/handlers/
+-rw-rw-r-- root/root       337 2018-07-31 11:29 ansible-packager-io-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-31 11:29 ansible-packager-io-master/meta/
+-rw-rw-r-- root/root      1673 2018-07-31 11:29 ansible-packager-io-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-31 11:29 ansible-packager-io-master/tasks/
+-rw-rw-r-- root/root       919 2018-07-31 11:29 ansible-packager-io-master/tasks/main.yml
+-rw-rw-r-- root/root       650 2018-07-31 11:29 ansible-packager-io-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       597 2018-07-31 11:29 ansible-packager-io-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2018-07-31 11:29 ansible-packager-io-master/tests/
+-rw-rw-r-- root/root        11 2018-07-31 11:29 ansible-packager-io-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-07-31 11:29 ansible-packager-io-master/tests/test.yml

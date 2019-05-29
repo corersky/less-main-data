@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-19 23:04 ansible-role-munin_node-master/
+-rw-rw-r-- root/root      1328 2018-11-19 23:04 ansible-role-munin_node-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 23:04 ansible-role-munin_node-master/defaults/
+-rw-rw-r-- root/root        59 2018-11-19 23:04 ansible-role-munin_node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 23:04 ansible-role-munin_node-master/files/
+-rw-rw-r-- root/root      3414 2018-11-19 23:04 ansible-role-munin_node-master/files/memory
+drwxrwxr-x root/root         0 2018-11-19 23:04 ansible-role-munin_node-master/handlers/
+-rw-rw-r-- root/root        74 2018-11-19 23:04 ansible-role-munin_node-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 23:04 ansible-role-munin_node-master/meta/
+-rw-rw-r-- root/root       248 2018-11-19 23:04 ansible-role-munin_node-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 23:04 ansible-role-munin_node-master/tasks/
+-rw-rw-r-- root/root       636 2018-11-19 23:04 ansible-role-munin_node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 23:04 ansible-role-munin_node-master/templates/
+-rw-rw-r-- root/root      1535 2018-11-19 23:04 ansible-role-munin_node-master/templates/munin-node.conf

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-01 09:01 ansible-influxdb-master/
+-rw-rw-r-- root/root       157 2017-05-01 09:01 ansible-influxdb-master/.travis.yml
+-rw-rw-r-- root/root      1393 2017-05-01 09:01 ansible-influxdb-master/Makefile
+-rw-rw-r-- root/root       338 2017-05-01 09:01 ansible-influxdb-master/README.md
+drwxrwxr-x root/root         0 2017-05-01 09:01 ansible-influxdb-master/defaults/
+-rw-rw-r-- root/root        39 2017-05-01 09:01 ansible-influxdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-01 09:01 ansible-influxdb-master/handlers/
+-rw-rw-r-- root/root        79 2017-05-01 09:01 ansible-influxdb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-01 09:01 ansible-influxdb-master/meta/
+-rw-rw-r-- root/root       465 2017-05-01 09:01 ansible-influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-01 09:01 ansible-influxdb-master/tasks/
+-rw-rw-r-- root/root       764 2017-05-01 09:01 ansible-influxdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-01 09:01 ansible-influxdb-master/tests/
+-rw-rw-r-- root/root         9 2017-05-01 09:01 ansible-influxdb-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-05-01 09:01 ansible-influxdb-master/tests/test.yml

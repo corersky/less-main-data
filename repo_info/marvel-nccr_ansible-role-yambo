@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-22 14:33 ansible-role-yambo-master/
+-rw-rw-r-- root/root         6 2019-03-22 14:33 ansible-role-yambo-master/.gitignore
+-rw-rw-r-- root/root       908 2019-03-22 14:33 ansible-role-yambo-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-03-22 14:33 ansible-role-yambo-master/LICENSE
+-rw-rw-r-- root/root       479 2019-03-22 14:33 ansible-role-yambo-master/README.md
+drwxrwxr-x root/root         0 2019-03-22 14:33 ansible-role-yambo-master/defaults/
+-rw-rw-r-- root/root       514 2019-03-22 14:33 ansible-role-yambo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-22 14:33 ansible-role-yambo-master/meta/
+-rw-rw-r-- root/root       363 2019-03-22 14:33 ansible-role-yambo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-22 14:33 ansible-role-yambo-master/molecule/
+drwxrwxr-x root/root         0 2019-03-22 14:33 ansible-role-yambo-master/molecule/default/
+-rw-rw-r-- root/root       570 2019-03-22 14:33 ansible-role-yambo-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       207 2019-03-22 14:33 ansible-role-yambo-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-03-22 14:33 ansible-role-yambo-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-03-22 14:33 ansible-role-yambo-master/tasks/
+-rw-rw-r-- root/root      1863 2019-03-22 14:33 ansible-role-yambo-master/tasks/main.yml

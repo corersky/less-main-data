@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-06-21 03:29 ansible-git-server-master/
+-rw-rw-r-- root/root       505 2016-06-21 03:29 ansible-git-server-master/README.md
+drwxrwxr-x root/root         0 2016-06-21 03:29 ansible-git-server-master/defaults/
+-rw-rw-r-- root/root       183 2016-06-21 03:29 ansible-git-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-21 03:29 ansible-git-server-master/meta/
+-rw-rw-r-- root/root       289 2016-06-21 03:29 ansible-git-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-21 03:29 ansible-git-server-master/tasks/
+-rw-rw-r-- root/root      1731 2016-06-21 03:29 ansible-git-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-21 03:29 ansible-git-server-master/templates/
+-rw-rw-r-- root/root       177 2016-06-21 03:29 ansible-git-server-master/templates/no-interactive-login.j2

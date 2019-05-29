@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-12-07 06:21 ansible-role-gnuplot-master/
+-rw-rw-r-- root/root      1245 2016-12-07 06:21 ansible-role-gnuplot-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-12-07 06:21 ansible-role-gnuplot-master/LICENSE
+-rw-rw-r-- root/root       770 2016-12-07 06:21 ansible-role-gnuplot-master/README.md
+drwxrwxr-x root/root         0 2016-12-07 06:21 ansible-role-gnuplot-master/meta/
+-rw-rw-r-- root/root       293 2016-12-07 06:21 ansible-role-gnuplot-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-07 06:21 ansible-role-gnuplot-master/tasks/
+-rw-rw-r-- root/root       104 2016-12-07 06:21 ansible-role-gnuplot-master/tasks/Debian.yaml
+-rw-rw-r-- root/root        81 2016-12-07 06:21 ansible-role-gnuplot-master/tasks/RedHat.yaml
+-rw-rw-r-- root/root        98 2016-12-07 06:21 ansible-role-gnuplot-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-12-07 06:21 ansible-role-gnuplot-master/tests/
+-rw-rw-r-- root/root        36 2016-12-07 06:21 ansible-role-gnuplot-master/tests/inventory
+-rw-rw-r-- root/root        54 2016-12-07 06:21 ansible-role-gnuplot-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-11 05:06 role-jenkins-master/
+-rw-rw-r-- root/root      1090 2019-04-11 05:06 role-jenkins-master/README.md
+drwxrwxr-x root/root         0 2019-04-11 05:06 role-jenkins-master/defaults/
+-rw-rw-r-- root/root        50 2019-04-11 05:06 role-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-11 05:06 role-jenkins-master/handlers/
+-rw-rw-r-- root/root        50 2019-04-11 05:06 role-jenkins-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-11 05:06 role-jenkins-master/meta/
+-rw-rw-r-- root/root      2015 2019-04-11 05:06 role-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-11 05:06 role-jenkins-master/tasks/
+-rw-rw-r-- root/root        37 2019-04-11 05:06 role-jenkins-master/tasks/main.yml
+-rw-rw-r-- root/root       503 2019-04-11 05:06 role-jenkins-master/tasks/setupjenkins.yml
+drwxrwxr-x root/root         0 2019-04-11 05:06 role-jenkins-master/tests/
+-rw-rw-r-- root/root        11 2019-04-11 05:06 role-jenkins-master/tests/inventory
+-rw-rw-r-- root/root        84 2019-04-11 05:06 role-jenkins-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-11 05:06 role-jenkins-master/vars/
+-rw-rw-r-- root/root        46 2019-04-11 05:06 role-jenkins-master/vars/main.yml

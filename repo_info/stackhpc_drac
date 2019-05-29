@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-04-03 08:49 drac-master/
+-rw-rw-r-- root/root         6 2018-04-03 08:49 drac-master/.gitignore
+-rw-rw-r-- root/root       806 2018-04-03 08:49 drac-master/.travis.yml
+-rw-rw-r-- root/root      3327 2018-04-03 08:49 drac-master/README.md
+drwxrwxr-x root/root         0 2018-04-03 08:49 drac-master/defaults/
+-rw-rw-r-- root/root       779 2018-04-03 08:49 drac-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-03 08:49 drac-master/library/
+-rwxrwxr-x root/root     50381 2018-04-03 08:49 drac-master/library/drac.py
+drwxrwxr-x root/root         0 2018-04-03 08:49 drac-master/meta/
+-rw-rw-r-- root/root       332 2018-04-03 08:49 drac-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-03 08:49 drac-master/tasks/
+-rw-rw-r-- root/root       579 2018-04-03 08:49 drac-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-03 08:49 drac-master/tests/
+-rw-rw-r-- root/root        10 2018-04-03 08:49 drac-master/tests/inventory
+-rw-rw-r-- root/root        63 2018-04-03 08:49 drac-master/tests/test.yml
+-rw-rw-r-- root/root     50194 2018-04-03 08:49 drac-master/tests/test_drac.py

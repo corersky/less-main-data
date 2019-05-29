@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-07 05:51 ansible-role-docker-master/
+-rw-rw-r-- root/root      1769 2018-10-07 05:51 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root      3029 2018-10-07 05:51 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2018-10-07 05:51 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       112 2018-10-07 05:51 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-07 05:51 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        87 2018-10-07 05:51 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-07 05:51 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       363 2018-10-07 05:51 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-07 05:51 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       820 2018-10-07 05:51 ansible-role-docker-master/tasks/docker_engine_get_install_version.yml
+-rw-rw-r-- root/root      1641 2018-10-07 05:51 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-07 05:51 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root       123 2018-10-07 05:51 ansible-role-docker-master/tests/docker_17.06.1.yml
+-rw-rw-r-- root/root       123 2018-10-07 05:51 ansible-role-docker-master/tests/docker_17.09.0.yml
+-rw-rw-r-- root/root       123 2018-10-07 05:51 ansible-role-docker-master/tests/docker_18.03.1.yml
+-rw-rw-r-- root/root         9 2018-10-07 05:51 ansible-role-docker-master/tests/inventory

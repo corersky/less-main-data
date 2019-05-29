@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/
+-rw-rw-r-- root/root       132 2015-03-10 17:02 ansible-kibana-master/.gitignore
+-rw-rw-r-- root/root       327 2015-03-10 17:02 ansible-kibana-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-03-10 17:02 ansible-kibana-master/LICENSE
+-rw-rw-r-- root/root       952 2015-03-10 17:02 ansible-kibana-master/README.md
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/defaults/
+-rw-rw-r-- root/root       292 2015-03-10 17:02 ansible-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/examples/
+-rw-rw-r-- root/root       953 2015-03-10 17:02 ansible-kibana-master/examples/Vagrantfile
+-rw-rw-r-- root/root        86 2015-03-10 17:02 ansible-kibana-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-03-10 17:02 ansible-kibana-master/examples/roles/azavea.kibana -> ../../
+-rw-rw-r-- root/root       590 2015-03-10 17:02 ansible-kibana-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/examples/templates/
+-rw-rw-r-- root/root       237 2015-03-10 17:02 ansible-kibana-master/examples/templates/logstash.conf.j2
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/handlers/
+-rw-rw-r-- root/root        66 2015-03-10 17:02 ansible-kibana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/meta/
+-rw-rw-r-- root/root       303 2015-03-10 17:02 ansible-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/tasks/
+-rw-rw-r-- root/root      1357 2015-03-10 17:02 ansible-kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-10 17:02 ansible-kibana-master/templates/
+-rw-rw-r-- root/root       248 2015-03-10 17:02 ansible-kibana-master/templates/kibana.conf.j2
+-rw-rw-r-- root/root      2213 2015-03-10 17:02 ansible-kibana-master/templates/kibana.yml.j2
+-rw-rw-r-- root/root       131 2015-03-10 17:02 ansible-kibana-master/templates/logrotate_kibana.j2

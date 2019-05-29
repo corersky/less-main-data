@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-02-23 23:58 ansible-template-master/
+-rw-rw-r-- root/root       480 2016-02-23 23:58 ansible-template-master/.travis.yml
+-rw-rw-r-- root/root      1069 2016-02-23 23:58 ansible-template-master/README.md
+drwxrwxr-x root/root         0 2016-02-23 23:58 ansible-template-master/defaults/
+-rw-rw-r-- root/root       325 2016-02-23 23:58 ansible-template-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-23 23:58 ansible-template-master/meta/
+-rw-rw-r-- root/root       329 2016-02-23 23:58 ansible-template-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-23 23:58 ansible-template-master/tasks/
+-rw-rw-r-- root/root      2147 2016-02-23 23:58 ansible-template-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-23 23:58 ansible-template-master/tests/
+-rw-rw-r-- root/root        10 2016-02-23 23:58 ansible-template-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-02-23 23:58 ansible-template-master/tests/test.yml

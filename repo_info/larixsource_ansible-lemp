@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-27 10:31 ansible-lemp-master/
+-rw-rw-r-- root/root     11309 2016-01-27 10:31 ansible-lemp-master/LICENSE
+-rw-rw-r-- root/root      1060 2016-01-27 10:31 ansible-lemp-master/README.md
+drwxrwxr-x root/root         0 2016-01-27 10:31 ansible-lemp-master/defaults/
+-rw-rw-r-- root/root        57 2016-01-27 10:31 ansible-lemp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-27 10:31 ansible-lemp-master/meta/
+-rw-rw-r-- root/root       323 2016-01-27 10:31 ansible-lemp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-27 10:31 ansible-lemp-master/tasks/
+-rw-rw-r-- root/root       529 2016-01-27 10:31 ansible-lemp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-27 10:31 ansible-lemp-master/test/
+-rw-rw-r-- root/root        16 2016-01-27 10:31 ansible-lemp-master/test/.gitignore
+-rw-rw-r-- root/root      1107 2016-01-27 10:31 ansible-lemp-master/test/Vagrantfile
+-rw-rw-r-- root/root        50 2016-01-27 10:31 ansible-lemp-master/test/ansible.cfg
+-rw-rw-r-- root/root        99 2016-01-27 10:31 ansible-lemp-master/test/inventory
+-rw-rw-r-- root/root       238 2016-01-27 10:31 ansible-lemp-master/test/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-01 22:49 ansible-prometheus-exporters-common-master/
+-rw-rw-r-- root/root       548 2017-10-01 22:49 ansible-prometheus-exporters-common-master/.travis.yml
+-rw-rw-r-- root/root     18046 2017-10-01 22:49 ansible-prometheus-exporters-common-master/LICENSE
+-rw-rw-r-- root/root       836 2017-10-01 22:49 ansible-prometheus-exporters-common-master/README.md
+drwxrwxr-x root/root         0 2017-10-01 22:49 ansible-prometheus-exporters-common-master/defaults/
+-rw-rw-r-- root/root       370 2017-10-01 22:49 ansible-prometheus-exporters-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-01 22:49 ansible-prometheus-exporters-common-master/meta/
+-rw-rw-r-- root/root       301 2017-10-01 22:49 ansible-prometheus-exporters-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-01 22:49 ansible-prometheus-exporters-common-master/tasks/
+-rw-rw-r-- root/root       914 2017-10-01 22:49 ansible-prometheus-exporters-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-01 22:49 ansible-prometheus-exporters-common-master/tests/
+-rw-rw-r-- root/root         9 2017-10-01 22:49 ansible-prometheus-exporters-common-master/tests/inventory
+-rw-rw-r-- root/root        94 2017-10-01 22:49 ansible-prometheus-exporters-common-master/tests/test.yml

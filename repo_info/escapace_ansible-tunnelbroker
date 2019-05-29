@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/
+-rw-rw-r-- root/root        80 2018-10-17 06:54 ansible-tunnelbroker-master/.gitignore
+-rw-rw-r-- root/root     11317 2018-10-17 06:54 ansible-tunnelbroker-master/LICENSE
+-rw-rw-r-- root/root       320 2018-10-17 06:54 ansible-tunnelbroker-master/README.md
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/defaults/
+-rw-rw-r-- root/root       376 2018-10-17 06:54 ansible-tunnelbroker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/handlers/
+-rw-rw-r-- root/root       127 2018-10-17 06:54 ansible-tunnelbroker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/meta/
+-rw-rw-r-- root/root       290 2018-10-17 06:54 ansible-tunnelbroker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/tasks/
+-rw-rw-r-- root/root        77 2018-10-17 06:54 ansible-tunnelbroker-master/tasks/main.yml
+-rw-rw-r-- root/root       982 2018-10-17 06:54 ansible-tunnelbroker-master/tasks/tunnelbroker.yml
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/templates/
+-rw-rw-r-- root/root       257 2018-10-17 06:54 ansible-tunnelbroker-master/templates/ifcfg-sit1.j2
+-rw-rw-r-- root/root       392 2018-10-17 06:54 ansible-tunnelbroker-master/templates/tunnelbroker.service.j2
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/tests/
+-rw-rw-r-- root/root        53 2018-10-17 06:54 ansible-tunnelbroker-master/tests/inventory
+-rw-rw-r-- root/root        58 2018-10-17 06:54 ansible-tunnelbroker-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/tests/roles/escapace.tunnelbroker -> ../../
+-rw-rw-r-- root/root       207 2018-10-17 06:54 ansible-tunnelbroker-master/tests/teardown.yml
+-rw-rw-r-- root/root       583 2018-10-17 06:54 ansible-tunnelbroker-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-17 06:54 ansible-tunnelbroker-master/vars/
+-rw-rw-r-- root/root         4 2018-10-17 06:54 ansible-tunnelbroker-master/vars/main.yml

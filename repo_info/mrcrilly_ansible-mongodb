@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-11-19 04:58 ansible-mongodb-master/
+-rw-rw-r-- root/root      1488 2014-11-19 04:58 ansible-mongodb-master/LICENSE
+-rw-rw-r-- root/root       645 2014-11-19 04:58 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2014-11-19 04:58 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root       357 2014-11-19 04:58 ansible-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-19 04:58 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root       264 2014-11-19 04:58 ansible-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-19 04:58 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       363 2014-11-19 04:58 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-19 04:58 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root       147 2014-11-19 04:58 ansible-mongodb-master/tasks/configuration.yml
+-rw-rw-r-- root/root       541 2014-11-19 04:58 ansible-mongodb-master/tasks/main.yml
+-rw-rw-r-- root/root       176 2014-11-19 04:58 ansible-mongodb-master/tasks/permissions.yml
+-rw-rw-r-- root/root        87 2014-11-19 04:58 ansible-mongodb-master/tasks/service.yml
+-rw-rw-r-- root/root       556 2014-11-19 04:58 ansible-mongodb-master/tasks/software.yml
+drwxrwxr-x root/root         0 2014-11-19 04:58 ansible-mongodb-master/templates/
+-rw-rw-r-- root/root       261 2014-11-19 04:58 ansible-mongodb-master/templates/mongodb.conf

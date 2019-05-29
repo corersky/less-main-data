@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2018-10-17 07:18 ansible-logrotate-master/
+-rw-rw-r-- root/root        77 2018-10-17 07:18 ansible-logrotate-master/.gitignore
+-rw-rw-r-- root/root     11317 2018-10-17 07:18 ansible-logrotate-master/LICENSE
+-rw-rw-r-- root/root       320 2018-10-17 07:18 ansible-logrotate-master/README.md
+drwxrwxr-x root/root         0 2018-10-17 07:18 ansible-logrotate-master/defaults/
+-rw-rw-r-- root/root         5 2018-10-17 07:18 ansible-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-17 07:18 ansible-logrotate-master/handlers/
+-rw-rw-r-- root/root         4 2018-10-17 07:18 ansible-logrotate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-17 07:18 ansible-logrotate-master/meta/
+-rw-rw-r-- root/root       299 2018-10-17 07:18 ansible-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-17 07:18 ansible-logrotate-master/tasks/
+-rw-rw-r-- root/root       507 2018-10-17 07:18 ansible-logrotate-master/tasks/logrotate.yml
+-rw-rw-r-- root/root        74 2018-10-17 07:18 ansible-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-17 07:18 ansible-logrotate-master/tests/
+-rw-rw-r-- root/root        53 2018-10-17 07:18 ansible-logrotate-master/tests/inventory
+-rw-rw-r-- root/root        58 2018-10-17 07:18 ansible-logrotate-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-10-17 07:18 ansible-logrotate-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-17 07:18 ansible-logrotate-master/tests/roles/escapace.logrotate -> ../../
+-rw-rw-r-- root/root       207 2018-10-17 07:18 ansible-logrotate-master/tests/teardown.yml
+-rw-rw-r-- root/root       222 2018-10-17 07:18 ansible-logrotate-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-17 07:18 ansible-logrotate-master/vars/
+-rw-rw-r-- root/root         4 2018-10-17 07:18 ansible-logrotate-master/vars/main.yml

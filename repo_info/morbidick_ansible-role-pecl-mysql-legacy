@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/
+-rw-rw-r-- root/root        29 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/.gitignore
+-rw-rw-r-- root/root       778 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/.travis.yml
+-rw-rw-r-- root/root       751 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/README.md
+-rw-rw-r-- root/root       345 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/defaults/
+-rw-rw-r-- root/root       154 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/handlers/
+-rw-rw-r-- root/root         4 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/meta/
+-rw-rw-r-- root/root       240 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/tasks/
+-rw-rw-r-- root/root      1233 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/tests/
+-rw-rw-r-- root/root       355 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/tests/role.yml
+lrwxrwxrwx root/root         0 2018-11-22 03:17 ansible-role-pecl-mysql-legacy-master/tests/role_under_test -> ..

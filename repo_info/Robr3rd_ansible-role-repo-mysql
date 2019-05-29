@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-09 11:27 ansible-role-repo-mysql-master/
+-rw-rw-r-- root/root      1082 2015-12-09 11:27 ansible-role-repo-mysql-master/LICENSE
+-rw-rw-r-- root/root      3181 2015-12-09 11:27 ansible-role-repo-mysql-master/README.md
+drwxrwxr-x root/root         0 2015-12-09 11:27 ansible-role-repo-mysql-master/defaults/
+-rw-rw-r-- root/root        37 2015-12-09 11:27 ansible-role-repo-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-09 11:27 ansible-role-repo-mysql-master/meta/
+-rw-rw-r-- root/root       292 2015-12-09 11:27 ansible-role-repo-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-09 11:27 ansible-role-repo-mysql-master/tasks/
+-rw-rw-r-- root/root       685 2015-12-09 11:27 ansible-role-repo-mysql-master/tasks/config-yum.yml
+-rw-rw-r-- root/root       101 2015-12-09 11:27 ansible-role-repo-mysql-master/tasks/install-yum.yml
+-rw-rw-r-- root/root      1102 2015-12-09 11:27 ansible-role-repo-mysql-master/tasks/main.yml
+-rw-rw-r-- root/root       389 2015-12-09 11:27 ansible-role-repo-mysql-master/tasks/set-mysql-version-yum.yml
+drwxrwxr-x root/root         0 2015-12-09 11:27 ansible-role-repo-mysql-master/vars/
+-rw-rw-r-- root/root        37 2015-12-09 11:27 ansible-role-repo-mysql-master/vars/Fedora.yml
+-rw-rw-r-- root/root        82 2015-12-09 11:27 ansible-role-repo-mysql-master/vars/RedHat.yml
+-rw-rw-r-- root/root         4 2015-12-09 11:27 ansible-role-repo-mysql-master/vars/empty-fallback-hack.yml
+-rw-rw-r-- root/root       542 2015-12-09 11:27 ansible-role-repo-mysql-master/vars/yum.yml

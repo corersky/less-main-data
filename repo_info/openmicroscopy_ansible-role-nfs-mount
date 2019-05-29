@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-21 09:03 ansible-role-nfs-mount-master/
+-rw-rw-r-- root/root         4 2019-05-21 09:03 ansible-role-nfs-mount-master/.gitignore
+-rw-rw-r-- root/root       572 2019-05-21 09:03 ansible-role-nfs-mount-master/.travis.yml
+-rw-rw-r-- root/root      1037 2019-05-21 09:03 ansible-role-nfs-mount-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 09:03 ansible-role-nfs-mount-master/defaults/
+-rw-rw-r-- root/root       206 2019-05-21 09:03 ansible-role-nfs-mount-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 09:03 ansible-role-nfs-mount-master/meta/
+-rw-rw-r-- root/root       306 2019-05-21 09:03 ansible-role-nfs-mount-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 09:03 ansible-role-nfs-mount-master/tasks/
+-rw-rw-r-- root/root       835 2019-05-21 09:03 ansible-role-nfs-mount-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 09:03 ansible-role-nfs-mount-master/tests/
+-rw-rw-r-- root/root        10 2019-05-21 09:03 ansible-role-nfs-mount-master/tests/inventory
+-rw-rw-r-- root/root        85 2019-05-21 09:03 ansible-role-nfs-mount-master/tests/test.yml

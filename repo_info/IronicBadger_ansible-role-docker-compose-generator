@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-24 22:49 ansible-role-docker-compose-generator-master/
+-rw-rw-r-- root/root      2115 2019-05-24 22:49 ansible-role-docker-compose-generator-master/README.md
+drwxrwxr-x root/root         0 2019-05-24 22:49 ansible-role-docker-compose-generator-master/defaults/
+-rw-rw-r-- root/root       147 2019-05-24 22:49 ansible-role-docker-compose-generator-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-24 22:49 ansible-role-docker-compose-generator-master/meta/
+-rw-rw-r-- root/root       773 2019-05-24 22:49 ansible-role-docker-compose-generator-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-24 22:49 ansible-role-docker-compose-generator-master/tasks/
+-rw-rw-r-- root/root       400 2019-05-24 22:49 ansible-role-docker-compose-generator-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-24 22:49 ansible-role-docker-compose-generator-master/templates/
+-rw-rw-r-- root/root      1600 2019-05-24 22:49 ansible-role-docker-compose-generator-master/templates/docker-compose.yml.j2

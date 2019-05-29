@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-28 09:21 ansible-slack-notify-master/
+-rw-rw-r-- root/root       620 2016-04-28 09:21 ansible-slack-notify-master/.travis.yml
+-rw-rw-r-- root/root      1677 2016-04-28 09:21 ansible-slack-notify-master/README.md
+drwxrwxr-x root/root         0 2016-04-28 09:21 ansible-slack-notify-master/defaults/
+-rw-rw-r-- root/root       174 2016-04-28 09:21 ansible-slack-notify-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-28 09:21 ansible-slack-notify-master/handlers/
+-rw-rw-r-- root/root        38 2016-04-28 09:21 ansible-slack-notify-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-28 09:21 ansible-slack-notify-master/meta/
+-rw-rw-r-- root/root       373 2016-04-28 09:21 ansible-slack-notify-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-28 09:21 ansible-slack-notify-master/tasks/
+-rw-rw-r-- root/root       268 2016-04-28 09:21 ansible-slack-notify-master/tasks/main.yml
+-rw-rw-r-- root/root       270 2016-04-28 09:21 ansible-slack-notify-master/tasks/slack_asg.yaml
+-rw-rw-r-- root/root       559 2016-04-28 09:21 ansible-slack-notify-master/tasks/slack_elb.yaml
+drwxrwxr-x root/root         0 2016-04-28 09:21 ansible-slack-notify-master/tests/
+-rw-rw-r-- root/root         9 2016-04-28 09:21 ansible-slack-notify-master/tests/inventory
+-rw-rw-r-- root/root       315 2016-04-28 09:21 ansible-slack-notify-master/tests/test.yml

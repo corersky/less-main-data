@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-08-26 12:12 monit-master/
+-rw-rw-r-- root/root      1067 2014-08-26 12:12 monit-master/LICENSE
+-rw-rw-r-- root/root       561 2014-08-26 12:12 monit-master/README.md
+drwxrwxr-x root/root         0 2014-08-26 12:12 monit-master/defaults/
+-rw-rw-r-- root/root        20 2014-08-26 12:12 monit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-26 12:12 monit-master/handlers/
+-rw-rw-r-- root/root        76 2014-08-26 12:12 monit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-08-26 12:12 monit-master/meta/
+-rw-rw-r-- root/root       282 2014-08-26 12:12 monit-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-26 12:12 monit-master/tasks/
+-rw-rw-r-- root/root       219 2014-08-26 12:12 monit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-26 12:12 monit-master/templates/
+-rwxrwxr-x root/root     10719 2014-08-26 12:12 monit-master/templates/monitrc.j2

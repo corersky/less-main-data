@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-03 13:52 ansible-pip-master/
+-rw-rw-r-- root/root        67 2019-04-03 13:52 ansible-pip-master/.gitignore
+-rw-rw-r-- root/root       838 2019-04-03 13:52 ansible-pip-master/CHANGELOG.md
+-rw-rw-r-- root/root     11342 2019-04-03 13:52 ansible-pip-master/LICENSE
+-rw-rw-r-- root/root      1406 2019-04-03 13:52 ansible-pip-master/README.md
+drwxrwxr-x root/root         0 2019-04-03 13:52 ansible-pip-master/defaults/
+-rw-rw-r-- root/root        77 2019-04-03 13:52 ansible-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-03 13:52 ansible-pip-master/meta/
+-rw-rw-r-- root/root       277 2019-04-03 13:52 ansible-pip-master/meta/main.yml
+-rw-rw-r-- root/root       351 2019-04-03 13:52 ansible-pip-master/molecule.yml
+-rw-rw-r-- root/root       990 2019-04-03 13:52 ansible-pip-master/playbook.yml
+drwxrwxr-x root/root         0 2019-04-03 13:52 ansible-pip-master/tasks/
+-rw-rw-r-- root/root       991 2019-04-03 13:52 ansible-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-03 13:52 ansible-pip-master/tests/
+-rw-rw-r-- root/root       779 2019-04-03 13:52 ansible-pip-master/tests/test_pip.py

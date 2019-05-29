@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-10-27 10:06 ansible-postgres-master/
+-rw-rw-r-- root/root       520 2014-10-27 10:06 ansible-postgres-master/README.md
+drwxrwxr-x root/root         0 2014-10-27 10:06 ansible-postgres-master/defaults/
+-rw-rw-r-- root/root        22 2014-10-27 10:06 ansible-postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-27 10:06 ansible-postgres-master/handlers/
+-rw-rw-r-- root/root       105 2014-10-27 10:06 ansible-postgres-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-27 10:06 ansible-postgres-master/meta/
+-rw-rw-r-- root/root       262 2014-10-27 10:06 ansible-postgres-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-27 10:06 ansible-postgres-master/tasks/
+-rw-rw-r-- root/root      1034 2014-10-27 10:06 ansible-postgres-master/tasks/configure.yml
+-rw-rw-r-- root/root        53 2014-10-27 10:06 ansible-postgres-master/tasks/main.yml
+-rw-rw-r-- root/root       176 2014-10-27 10:06 ansible-postgres-master/tasks/prereqs.yml
+drwxrwxr-x root/root         0 2014-10-27 10:06 ansible-postgres-master/vars/
+-rw-rw-r-- root/root        37 2014-10-27 10:06 ansible-postgres-master/vars/main.yml

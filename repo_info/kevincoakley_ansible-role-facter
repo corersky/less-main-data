@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/
+-rw-rw-r-- root/root       979 2019-03-05 13:59 ansible-role-facter-master/.gitignore
+-rw-rw-r-- root/root       123 2019-03-05 13:59 ansible-role-facter-master/.gitmodules
+-rw-rw-r-- root/root      1568 2019-03-05 13:59 ansible-role-facter-master/.travis.yml
+-rw-rw-r-- root/root       777 2019-03-05 13:59 ansible-role-facter-master/README.md
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/defaults/
+-rw-rw-r-- root/root        44 2019-03-05 13:59 ansible-role-facter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/handlers/
+-rw-rw-r-- root/root        44 2019-03-05 13:59 ansible-role-facter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/meta/
+-rw-rw-r-- root/root       315 2019-03-05 13:59 ansible-role-facter-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/tasks/
+-rw-rw-r-- root/root       286 2019-03-05 13:59 ansible-role-facter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/tests/
+-rw-rw-r-- root/root       318 2019-03-05 13:59 ansible-role-facter-master/tests/docker_containers.yml
+-rw-rw-r-- root/root       256 2019-03-05 13:59 ansible-role-facter-master/tests/inventory
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-03-05 13:59 ansible-role-facter-master/tests/roles/ansible-role-facter -> ../../
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/tests/roles/docker/
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/tests/roles/facter-test/
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/tests/roles/facter-test/tasks/
+-rw-rw-r-- root/root       136 2019-03-05 13:59 ansible-role-facter-master/tests/roles/facter-test/tasks/main.yml
+-rw-rw-r-- root/root       638 2019-03-05 13:59 ansible-role-facter-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-05 13:59 ansible-role-facter-master/vars/
+-rw-rw-r-- root/root        40 2019-03-05 13:59 ansible-role-facter-master/vars/main.yml

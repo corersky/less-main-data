@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-07 11:24 ansible-sabnzbd-master/
+-rw-rw-r-- root/root        16 2017-12-07 11:24 ansible-sabnzbd-master/.gitignore
+-rw-rw-r-- root/root      3061 2017-12-07 11:24 ansible-sabnzbd-master/README.md
+drwxrwxr-x root/root         0 2017-12-07 11:24 ansible-sabnzbd-master/defaults/
+-rw-rw-r-- root/root       777 2017-12-07 11:24 ansible-sabnzbd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-07 11:24 ansible-sabnzbd-master/handlers/
+-rw-rw-r-- root/root       213 2017-12-07 11:24 ansible-sabnzbd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-07 11:24 ansible-sabnzbd-master/meta/
+-rw-rw-r-- root/root      2231 2017-12-07 11:24 ansible-sabnzbd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-07 11:24 ansible-sabnzbd-master/tasks/
+-rw-rw-r-- root/root      2537 2017-12-07 11:24 ansible-sabnzbd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-07 11:24 ansible-sabnzbd-master/templates/
+-rw-rw-r-- root/root       379 2017-12-07 11:24 ansible-sabnzbd-master/templates/sabnzbd.service.j2
+drwxrwxr-x root/root         0 2017-12-07 11:24 ansible-sabnzbd-master/tests/
+-rw-rw-r-- root/root       956 2017-12-07 11:24 ansible-sabnzbd-master/tests/Vagrantfile
+-rw-rw-r-- root/root       134 2017-12-07 11:24 ansible-sabnzbd-master/tests/provision.yml

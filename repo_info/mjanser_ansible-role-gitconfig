@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-24 00:57 ansible-role-gitconfig-master/
+-rw-rw-r-- root/root       186 2017-04-24 00:57 ansible-role-gitconfig-master/.editorconfig
+-rw-rw-r-- root/root       275 2017-04-24 00:57 ansible-role-gitconfig-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-04-24 00:57 ansible-role-gitconfig-master/LICENSE
+-rw-rw-r-- root/root      1833 2017-04-24 00:57 ansible-role-gitconfig-master/README.md
+-rw-rw-r-- root/root      1687 2017-04-24 00:57 ansible-role-gitconfig-master/Vagrantfile
+-rw-rw-r-- root/root        28 2017-04-24 00:57 ansible-role-gitconfig-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-04-24 00:57 ansible-role-gitconfig-master/defaults/
+-rw-rw-r-- root/root        24 2017-04-24 00:57 ansible-role-gitconfig-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-24 00:57 ansible-role-gitconfig-master/meta/
+-rw-rw-r-- root/root       206 2017-04-24 00:57 ansible-role-gitconfig-master/meta/main.yml
+-rw-rw-r-- root/root       298 2017-04-24 00:57 ansible-role-gitconfig-master/playbook.yml
+drwxrwxr-x root/root         0 2017-04-24 00:57 ansible-role-gitconfig-master/tasks/
+-rw-rw-r-- root/root      1656 2017-04-24 00:57 ansible-role-gitconfig-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 00:57 ansible-role-gitconfig-master/templates/
+-rw-rw-r-- root/root       346 2017-04-24 00:57 ansible-role-gitconfig-master/templates/git-config.j2

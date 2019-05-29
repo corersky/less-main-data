@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-11-09 10:29 ansible-role-composer-master/
+-rw-rw-r-- root/root       339 2016-11-09 10:29 ansible-role-composer-master/README.md
+drwxrwxr-x root/root         0 2016-11-09 10:29 ansible-role-composer-master/meta/
+-rw-rw-r-- root/root       299 2016-11-09 10:29 ansible-role-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-09 10:29 ansible-role-composer-master/tasks/
+drwxrwxr-x root/root         0 2016-11-09 10:29 ansible-role-composer-master/tasks/Ubuntu/
+-rw-rw-r-- root/root       205 2016-11-09 10:29 ansible-role-composer-master/tasks/Ubuntu/install_composer.yml
+-rw-rw-r-- root/root       222 2016-11-09 10:29 ansible-role-composer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-09 10:29 ansible-role-composer-master/vars/
+-rw-rw-r-- root/root        78 2016-11-09 10:29 ansible-role-composer-master/vars/Debian.yml
+-rw-rw-r-- root/root        76 2016-11-09 10:29 ansible-role-composer-master/vars/main.yml

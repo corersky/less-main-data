@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-09-26 10:25 ansible-swapfile-master/
+-rw-rw-r-- root/root       703 2015-09-26 10:25 ansible-swapfile-master/.travis.yml
+-rw-rw-r-- root/root       496 2015-09-26 10:25 ansible-swapfile-master/README.md
+drwxrwxr-x root/root         0 2015-09-26 10:25 ansible-swapfile-master/defaults/
+-rw-rw-r-- root/root        73 2015-09-26 10:25 ansible-swapfile-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-26 10:25 ansible-swapfile-master/handlers/
+-rw-rw-r-- root/root        46 2015-09-26 10:25 ansible-swapfile-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-26 10:25 ansible-swapfile-master/meta/
+-rw-rw-r-- root/root       300 2015-09-26 10:25 ansible-swapfile-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-26 10:25 ansible-swapfile-master/tasks/
+-rw-rw-r-- root/root       912 2015-09-26 10:25 ansible-swapfile-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-26 10:25 ansible-swapfile-master/tests/
+-rw-rw-r-- root/root         9 2015-09-26 10:25 ansible-swapfile-master/tests/inventory
+-rw-rw-r-- root/root        75 2015-09-26 10:25 ansible-swapfile-master/tests/test.yml

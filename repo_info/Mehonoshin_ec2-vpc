@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-11-02 09:36 ec2-vpc-master/
+-rw-rw-r-- root/root      1078 2016-11-02 09:36 ec2-vpc-master/LICENSE
+-rw-rw-r-- root/root       488 2016-11-02 09:36 ec2-vpc-master/README.md
+drwxrwxr-x root/root         0 2016-11-02 09:36 ec2-vpc-master/defaults/
+-rw-rw-r-- root/root       202 2016-11-02 09:36 ec2-vpc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-02 09:36 ec2-vpc-master/meta/
+-rw-rw-r-- root/root       368 2016-11-02 09:36 ec2-vpc-master/meta/main.yml
+-rw-rw-r-- root/root        91 2016-11-02 09:36 ec2-vpc-master/playbook.yml
+drwxrwxr-x root/root         0 2016-11-02 09:36 ec2-vpc-master/tasks/
+-rw-rw-r-- root/root      2370 2016-11-02 09:36 ec2-vpc-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       993 2016-11-02 09:36 ec2-vpc-master/tasks/dns.yml
+-rw-rw-r-- root/root        96 2016-11-02 09:36 ec2-vpc-master/tasks/main.yml
+-rw-rw-r-- root/root      4057 2016-11-02 09:36 ec2-vpc-master/tasks/vpc.yml

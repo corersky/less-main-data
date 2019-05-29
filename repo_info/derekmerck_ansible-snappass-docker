@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-snappass-docker-master/
+-rw-rw-r-- root/root      1606 2018-09-03 13:09 ansible-snappass-docker-master/.travis.yml
+-rw-rw-r-- root/root      1760 2018-09-03 13:09 ansible-snappass-docker-master/README.md
+-rw-rw-r-- root/root        51 2018-09-03 13:09 ansible-snappass-docker-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-snappass-docker-master/defaults/
+-rw-rw-r-- root/root       975 2018-09-03 13:09 ansible-snappass-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-snappass-docker-master/meta/
+-rw-rw-r-- root/root       400 2018-09-03 13:09 ansible-snappass-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-snappass-docker-master/tasks/
+-rw-rw-r-- root/root      1775 2018-09-03 13:09 ansible-snappass-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-snappass-docker-master/tests/
+-rw-rw-r-- root/root       258 2018-09-03 13:09 ansible-snappass-docker-master/tests/test_inv.yml
+-rw-rw-r-- root/root       290 2018-09-03 13:09 ansible-snappass-docker-master/tests/test_play.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-snappass-docker-master/vars/
+-rw-rw-r-- root/root        35 2018-09-03 13:09 ansible-snappass-docker-master/vars/main.yml

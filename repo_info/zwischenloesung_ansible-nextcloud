@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-03-29 17:03 ansible-nextcloud-master/
+-rw-rw-r-- root/root       620 2018-03-29 17:03 ansible-nextcloud-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-03-29 17:03 ansible-nextcloud-master/LICENSE
+-rw-rw-r-- root/root       470 2018-03-29 17:03 ansible-nextcloud-master/README.md
+drwxrwxr-x root/root         0 2018-03-29 17:03 ansible-nextcloud-master/defaults/
+-rw-rw-r-- root/root      1094 2018-03-29 17:03 ansible-nextcloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-29 17:03 ansible-nextcloud-master/meta/
+-rw-rw-r-- root/root       388 2018-03-29 17:03 ansible-nextcloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-29 17:03 ansible-nextcloud-master/tasks/
+-rw-rw-r-- root/root      3418 2018-03-29 17:03 ansible-nextcloud-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-29 17:03 ansible-nextcloud-master/templates/
+-rw-rw-r-- root/root      4194 2018-03-29 17:03 ansible-nextcloud-master/templates/nextcloud-prepare.sh.j2
+drwxrwxr-x root/root         0 2018-03-29 17:03 ansible-nextcloud-master/tests/
+-rw-rw-r-- root/root         9 2018-03-29 17:03 ansible-nextcloud-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-03-29 17:03 ansible-nextcloud-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-29 17:03 ansible-nextcloud-master/vars/
+-rw-rw-r-- root/root       974 2018-03-29 17:03 ansible-nextcloud-master/vars/main.yml

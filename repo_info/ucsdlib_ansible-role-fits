@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-10-28 16:06 ansible-role-fits-master/
+-rw-rw-r-- root/root       539 2016-10-28 16:06 ansible-role-fits-master/.travis.yml
+-rw-rw-r-- root/root       550 2016-10-28 16:06 ansible-role-fits-master/README.md
+drwxrwxr-x root/root         0 2016-10-28 16:06 ansible-role-fits-master/defaults/
+-rw-rw-r-- root/root       101 2016-10-28 16:06 ansible-role-fits-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-28 16:06 ansible-role-fits-master/meta/
+-rw-rw-r-- root/root       347 2016-10-28 16:06 ansible-role-fits-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-28 16:06 ansible-role-fits-master/tasks/
+-rw-rw-r-- root/root       936 2016-10-28 16:06 ansible-role-fits-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-28 16:06 ansible-role-fits-master/tests/
+-rw-rw-r-- root/root        10 2016-10-28 16:06 ansible-role-fits-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-10-28 16:06 ansible-role-fits-master/tests/test.yml

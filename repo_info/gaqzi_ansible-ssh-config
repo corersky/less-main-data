@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-14 10:09 ansible-ssh-config-master/
+-rw-rw-r-- root/root      2168 2016-02-14 10:09 ansible-ssh-config-master/CHANGELOG.md
+-rw-rw-r-- root/root      2585 2016-02-14 10:09 ansible-ssh-config-master/README.md
+drwxrwxr-x root/root         0 2016-02-14 10:09 ansible-ssh-config-master/library/
+-rwxrwxr-x root/root     25966 2016-02-14 10:09 ansible-ssh-config-master/library/ssh_config.py
+drwxrwxr-x root/root         0 2016-02-14 10:09 ansible-ssh-config-master/meta/
+-rw-rw-r-- root/root       206 2016-02-14 10:09 ansible-ssh-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-14 10:09 ansible-ssh-config-master/test/
+-rw-rw-r-- root/root       201 2016-02-14 10:09 ansible-ssh-config-master/test/Vagrantfile
+drwxrwxr-x root/root         0 2016-02-14 10:09 ansible-ssh-config-master/test/library/
+lrwxrwxrwx root/root         0 2016-02-14 10:09 ansible-ssh-config-master/test/library/ssh_config.py -> ../../library/ssh_config.py
+drwxrwxr-x root/root         0 2016-02-14 10:09 ansible-ssh-config-master/test/roles/
+drwxrwxr-x root/root         0 2016-02-14 10:09 ansible-ssh-config-master/test/roles/normal-user/
+drwxrwxr-x root/root         0 2016-02-14 10:09 ansible-ssh-config-master/test/roles/normal-user/tasks/
+-rw-rw-r-- root/root       303 2016-02-14 10:09 ansible-ssh-config-master/test/roles/normal-user/tasks/_assert.yml
+-rw-rw-r-- root/root      1608 2016-02-14 10:09 ansible-ssh-config-master/test/roles/normal-user/tasks/main.yml
+-rw-rw-r-- root/root        64 2016-02-14 10:09 ansible-ssh-config-master/test/test.yml

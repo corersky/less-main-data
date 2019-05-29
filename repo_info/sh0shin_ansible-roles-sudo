@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-09 01:25 ansible-roles-sudo-master/
+-rw-rw-r-- root/root      1511 2018-11-09 01:25 ansible-roles-sudo-master/LICENSE
+-rw-rw-r-- root/root      2263 2018-11-09 01:25 ansible-roles-sudo-master/README.md
+drwxrwxr-x root/root         0 2018-11-09 01:25 ansible-roles-sudo-master/defaults/
+-rw-rw-r-- root/root       579 2018-11-09 01:25 ansible-roles-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-09 01:25 ansible-roles-sudo-master/files/
+drwxrwxr-x root/root         0 2018-11-09 01:25 ansible-roles-sudo-master/files/sudoers.d.in/
+-rw-rw-r-- root/root       130 2018-11-09 01:25 ansible-roles-sudo-master/files/sudoers.d.in/00ansible
+drwxrwxr-x root/root         0 2018-11-09 01:25 ansible-roles-sudo-master/meta/
+-rw-rw-r-- root/root       638 2018-11-09 01:25 ansible-roles-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-09 01:25 ansible-roles-sudo-master/tasks/
+-rw-rw-r-- root/root      2493 2018-11-09 01:25 ansible-roles-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-09 01:25 ansible-roles-sudo-master/templates/
+-rw-rw-r-- root/root       794 2018-11-09 01:25 ansible-roles-sudo-master/templates/sudoers.j2.in
+drwxrwxr-x root/root         0 2018-11-09 01:25 ansible-roles-sudo-master/vars/
+-rw-rw-r-- root/root       146 2018-11-09 01:25 ansible-roles-sudo-master/vars/FreeBSD.yml
+-rw-rw-r-- root/root       145 2018-11-09 01:25 ansible-roles-sudo-master/vars/main.yml

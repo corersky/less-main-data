@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-02-16 15:45 ansible-ntp-master/
+-rw-rw-r-- root/root       743 2015-02-16 15:45 ansible-ntp-master/.travis.yml
+-rw-rw-r-- root/root       592 2015-02-16 15:45 ansible-ntp-master/README.md
+drwxrwxr-x root/root         0 2015-02-16 15:45 ansible-ntp-master/defaults/
+-rw-rw-r-- root/root        93 2015-02-16 15:45 ansible-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-16 15:45 ansible-ntp-master/handlers/
+-rw-rw-r-- root/root        60 2015-02-16 15:45 ansible-ntp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-16 15:45 ansible-ntp-master/meta/
+-rw-rw-r-- root/root       264 2015-02-16 15:45 ansible-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-16 15:45 ansible-ntp-master/tasks/
+-rw-rw-r-- root/root       254 2015-02-16 15:45 ansible-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-16 15:45 ansible-ntp-master/templates/
+-rw-rw-r-- root/root       495 2015-02-16 15:45 ansible-ntp-master/templates/ntp.conf.j2
+drwxrwxr-x root/root         0 2015-02-16 15:45 ansible-ntp-master/tests/
+-rw-rw-r-- root/root        46 2015-02-16 15:45 ansible-ntp-master/tests/role.yml

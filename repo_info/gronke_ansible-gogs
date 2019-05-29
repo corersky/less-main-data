@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-09-20 08:21 ansible-gogs-master/
+-rw-rw-r-- root/root      1081 2016-09-20 08:21 ansible-gogs-master/LICENSE
+-rw-rw-r-- root/root       733 2016-09-20 08:21 ansible-gogs-master/README.md
+drwxrwxr-x root/root         0 2016-09-20 08:21 ansible-gogs-master/defaults/
+-rw-rw-r-- root/root      1883 2016-09-20 08:21 ansible-gogs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-20 08:21 ansible-gogs-master/handlers/
+-rw-rw-r-- root/root       122 2016-09-20 08:21 ansible-gogs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-20 08:21 ansible-gogs-master/meta/
+-rw-rw-r-- root/root       372 2016-09-20 08:21 ansible-gogs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-20 08:21 ansible-gogs-master/tasks/
+-rw-rw-r-- root/root       877 2016-09-20 08:21 ansible-gogs-master/tasks/configure.yml
+-rw-rw-r-- root/root      1769 2016-09-20 08:21 ansible-gogs-master/tasks/install.yml
+-rw-rw-r-- root/root       340 2016-09-20 08:21 ansible-gogs-master/tasks/main.yml
+-rw-rw-r-- root/root       342 2016-09-20 08:21 ansible-gogs-master/tasks/prepare.yml
+drwxrwxr-x root/root         0 2016-09-20 08:21 ansible-gogs-master/templates/
+-rw-rw-r-- root/root       724 2016-09-20 08:21 ansible-gogs-master/templates/app.ini.j2

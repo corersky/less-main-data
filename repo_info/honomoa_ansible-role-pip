@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-04-25 04:00 ansible-role-pip-master/
+-rw-rw-r-- root/root         0 2019-04-25 04:00 ansible-role-pip-master/.gitignore
+-rw-rw-r-- root/root       373 2019-04-25 04:00 ansible-role-pip-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 04:00 ansible-role-pip-master/defaults/
+-rw-rw-r-- root/root       199 2019-04-25 04:00 ansible-role-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 04:00 ansible-role-pip-master/meta/
+-rw-rw-r-- root/root       394 2019-04-25 04:00 ansible-role-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 04:00 ansible-role-pip-master/tasks/
+-rw-rw-r-- root/root        92 2019-04-25 04:00 ansible-role-pip-master/tasks/main.yml
+-rwxrwxr-x root/root       492 2019-04-25 04:00 ansible-role-pip-master/tasks/provision.yml

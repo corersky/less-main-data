@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-20 03:11 ansible-role-account-master/
+-rw-rw-r-- root/root       424 2017-06-20 03:11 ansible-role-account-master/.travis.yml
+-rw-rw-r-- root/root      1121 2017-06-20 03:11 ansible-role-account-master/LICENSE
+-rw-rw-r-- root/root      1497 2017-06-20 03:11 ansible-role-account-master/README.md
+drwxrwxr-x root/root         0 2017-06-20 03:11 ansible-role-account-master/defaults/
+-rw-rw-r-- root/root        41 2017-06-20 03:11 ansible-role-account-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-20 03:11 ansible-role-account-master/meta/
+-rw-rw-r-- root/root       247 2017-06-20 03:11 ansible-role-account-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-20 03:11 ansible-role-account-master/tasks/
+-rw-rw-r-- root/root      1907 2017-06-20 03:11 ansible-role-account-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-20 03:11 ansible-role-account-master/tests/
+-rw-rw-r-- root/root        11 2017-06-20 03:11 ansible-role-account-master/tests/inventory
+-rw-rw-r-- root/root       444 2017-06-20 03:11 ansible-role-account-master/tests/test.yml

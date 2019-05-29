@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-09-10 11:55 ansible-sd-agent-master/
+-rw-rw-r-- root/root        23 2014-09-10 11:55 ansible-sd-agent-master/.gitignore
+-rw-rw-r-- root/root      1937 2014-09-10 11:55 ansible-sd-agent-master/README.md
+drwxrwxr-x root/root         0 2014-09-10 11:55 ansible-sd-agent-master/handlers/
+-rw-rw-r-- root/root       211 2014-09-10 11:55 ansible-sd-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-10 11:55 ansible-sd-agent-master/meta/
+-rw-rw-r-- root/root       392 2014-09-10 11:55 ansible-sd-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-10 11:55 ansible-sd-agent-master/tasks/
+-rw-rw-r-- root/root      1679 2014-09-10 11:55 ansible-sd-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-10 11:55 ansible-sd-agent-master/templates/
+-rw-rw-r-- root/root      2611 2014-09-10 11:55 ansible-sd-agent-master/templates/config.cfg.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-05 09:36 ansible-puppetserver-master/
+-rw-rw-r-- root/root       767 2016-05-05 09:36 ansible-puppetserver-master/README.md
+drwxrwxr-x root/root         0 2016-05-05 09:36 ansible-puppetserver-master/defaults/
+-rw-rw-r-- root/root       301 2016-05-05 09:36 ansible-puppetserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-05 09:36 ansible-puppetserver-master/meta/
+-rw-rw-r-- root/root       295 2016-05-05 09:36 ansible-puppetserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-05 09:36 ansible-puppetserver-master/tasks/
+-rw-rw-r-- root/root       413 2016-05-05 09:36 ansible-puppetserver-master/tasks/configure.yml
+-rw-rw-r-- root/root       135 2016-05-05 09:36 ansible-puppetserver-master/tasks/install.debian.yml
+-rw-rw-r-- root/root       209 2016-05-05 09:36 ansible-puppetserver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-05 09:36 ansible-puppetserver-master/templates/
+drwxrwxr-x root/root         0 2016-05-05 09:36 ansible-puppetserver-master/templates/etc/
+drwxrwxr-x root/root         0 2016-05-05 09:36 ansible-puppetserver-master/templates/etc/puppetlabs/
+drwxrwxr-x root/root         0 2016-05-05 09:36 ansible-puppetserver-master/templates/etc/puppetlabs/puppet/
+-rw-rw-r-- root/root        74 2016-05-05 09:36 ansible-puppetserver-master/templates/etc/puppetlabs/puppet/autosign.conf.j2
+-rw-rw-r-- root/root       450 2016-05-05 09:36 ansible-puppetserver-master/templates/etc/puppetlabs/puppet/puppet.conf.j2

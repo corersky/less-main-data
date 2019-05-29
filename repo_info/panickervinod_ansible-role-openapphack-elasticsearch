@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/
+-rw-rw-r-- root/root      1009 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/.travis.yml
+-rw-rw-r-- root/root        60 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/handlers/
+-rw-rw-r-- root/root        80 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/meta/
+-rw-rw-r-- root/root       347 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/tasks/
+-rw-rw-r-- root/root       524 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/tasks/main.yml
+-rw-rw-r-- root/root       377 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/tests/inventory
+-rw-rw-r-- root/root       120 2016-01-26 08:13 ansible-role-openapphack-elasticsearch-master/tests/test.yml

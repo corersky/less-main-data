@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-06-12 10:55 ansible-sbt-master/
+-rw-rw-r-- root/root       934 2015-06-12 10:55 ansible-sbt-master/.travis.yml
+-rw-rw-r-- root/root       483 2015-06-12 10:55 ansible-sbt-master/README.md
+drwxrwxr-x root/root         0 2015-06-12 10:55 ansible-sbt-master/defaults/
+-rw-rw-r-- root/root         5 2015-06-12 10:55 ansible-sbt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-12 10:55 ansible-sbt-master/meta/
+-rw-rw-r-- root/root       268 2015-06-12 10:55 ansible-sbt-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-12 10:55 ansible-sbt-master/tasks/
+-rw-rw-r-- root/root       311 2015-06-12 10:55 ansible-sbt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-12 10:55 ansible-sbt-master/tests/
+-rw-rw-r-- root/root        10 2015-06-12 10:55 ansible-sbt-master/tests/inventory
+-rw-rw-r-- root/root        70 2015-06-12 10:55 ansible-sbt-master/tests/test.yml

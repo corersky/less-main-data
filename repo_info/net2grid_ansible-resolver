@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-09-29 07:00 ansible-resolver-master/
+-rw-rw-r-- root/root         7 2017-09-29 07:00 ansible-resolver-master/.gitignore
+-rw-rw-r-- root/root      1068 2017-09-29 07:00 ansible-resolver-master/LICENSE.txt
+-rw-rw-r-- root/root       177 2017-09-29 07:00 ansible-resolver-master/README.md
+drwxrwxr-x root/root         0 2017-09-29 07:00 ansible-resolver-master/defaults/
+-rw-rw-r-- root/root        25 2017-09-29 07:00 ansible-resolver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-29 07:00 ansible-resolver-master/meta/
+-rw-rw-r-- root/root       250 2017-09-29 07:00 ansible-resolver-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-29 07:00 ansible-resolver-master/tasks/
+-rw-rw-r-- root/root       113 2017-09-29 07:00 ansible-resolver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-29 07:00 ansible-resolver-master/templates/
+-rw-rw-r-- root/root       114 2017-09-29 07:00 ansible-resolver-master/templates/resolv.conf.j2

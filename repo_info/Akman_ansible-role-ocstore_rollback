@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-16 07:36 ansible-role-ocstore_rollback-master/
+-rw-rw-r-- root/root        29 2018-09-16 07:36 ansible-role-ocstore_rollback-master/.gitignore
+-rw-rw-r-- root/root      1085 2018-09-16 07:36 ansible-role-ocstore_rollback-master/LICENSE
+-rw-rw-r-- root/root       915 2018-09-16 07:36 ansible-role-ocstore_rollback-master/README.md
+drwxrwxr-x root/root         0 2018-09-16 07:36 ansible-role-ocstore_rollback-master/defaults/
+-rw-rw-r-- root/root       239 2018-09-16 07:36 ansible-role-ocstore_rollback-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:36 ansible-role-ocstore_rollback-master/meta/
+-rw-rw-r-- root/root       380 2018-09-16 07:36 ansible-role-ocstore_rollback-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:36 ansible-role-ocstore_rollback-master/tasks/
+-rw-rw-r-- root/root      1048 2018-09-16 07:36 ansible-role-ocstore_rollback-master/tasks/cache.yml
+-rw-rw-r-- root/root      2384 2018-09-16 07:36 ansible-role-ocstore_rollback-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       241 2018-09-16 07:36 ansible-role-ocstore_rollback-master/tasks/main.yml
+-rw-rw-r-- root/root      1640 2018-09-16 07:36 ansible-role-ocstore_rollback-master/tasks/symlink.yml

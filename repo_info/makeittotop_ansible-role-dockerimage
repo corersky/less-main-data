@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-16 06:30 ansible-role-dockerimage-master/
+-rw-rw-r-- root/root       539 2016-08-16 06:30 ansible-role-dockerimage-master/.travis.yml
+-rw-rw-r-- root/root       517 2016-08-16 06:30 ansible-role-dockerimage-master/README.md
+drwxrwxr-x root/root         0 2016-08-16 06:30 ansible-role-dockerimage-master/defaults/
+-rw-rw-r-- root/root       121 2016-08-16 06:30 ansible-role-dockerimage-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-16 06:30 ansible-role-dockerimage-master/handlers/
+-rw-rw-r-- root/root        50 2016-08-16 06:30 ansible-role-dockerimage-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-16 06:30 ansible-role-dockerimage-master/meta/
+-rw-rw-r-- root/root       320 2016-08-16 06:30 ansible-role-dockerimage-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-16 06:30 ansible-role-dockerimage-master/tasks/
+-rw-rw-r-- root/root       333 2016-08-16 06:30 ansible-role-dockerimage-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-16 06:30 ansible-role-dockerimage-master/tests/
+-rw-rw-r-- root/root         9 2016-08-16 06:30 ansible-role-dockerimage-master/tests/inventory
+-rw-rw-r-- root/root        83 2016-08-16 06:30 ansible-role-dockerimage-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-16 06:30 ansible-role-dockerimage-master/vars/
+-rw-rw-r-- root/root        46 2016-08-16 06:30 ansible-role-dockerimage-master/vars/main.yml

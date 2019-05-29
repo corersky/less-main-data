@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-06-18 03:40 ansible-role-hostname-master/
+-rw-rw-r-- root/root       424 2017-06-18 03:40 ansible-role-hostname-master/.travis.yml
+-rw-rw-r-- root/root      1121 2017-06-18 03:40 ansible-role-hostname-master/LICENSE
+-rw-rw-r-- root/root       594 2017-06-18 03:40 ansible-role-hostname-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 03:40 ansible-role-hostname-master/meta/
+-rw-rw-r-- root/root       231 2017-06-18 03:40 ansible-role-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 03:40 ansible-role-hostname-master/tasks/
+-rw-rw-r-- root/root        98 2017-06-18 03:40 ansible-role-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-18 03:40 ansible-role-hostname-master/tests/
+-rw-rw-r-- root/root        11 2017-06-18 03:40 ansible-role-hostname-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-06-18 03:40 ansible-role-hostname-master/tests/test.yml

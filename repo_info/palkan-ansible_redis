@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-06-26 07:54 redis-master/
+-rw-rw-r-- root/root       663 2015-06-26 07:54 redis-master/README.md
+drwxrwxr-x root/root         0 2015-06-26 07:54 redis-master/defaults/
+-rw-rw-r-- root/root        82 2015-06-26 07:54 redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-26 07:54 redis-master/handlers/
+-rw-rw-r-- root/root        59 2015-06-26 07:54 redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-26 07:54 redis-master/meta/
+-rw-rw-r-- root/root       252 2015-06-26 07:54 redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-26 07:54 redis-master/tasks/
+-rw-rw-r-- root/root        31 2015-06-26 07:54 redis-master/tasks/main.yml
+-rw-rw-r-- root/root      1020 2015-06-26 07:54 redis-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2015-06-26 07:54 redis-master/templates/
+-rw-rw-r-- root/root       153 2015-06-26 07:54 redis-master/templates/upstart_redis.conf

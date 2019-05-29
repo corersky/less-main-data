@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/
+-rw-rw-r-- root/root       987 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/.travis.yml
+-rw-rw-r-- root/root         0 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/README.md
+drwxrwxr-x root/root         0 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/defaults/
+-rw-rw-r-- root/root       437 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/meta/
+-rw-rw-r-- root/root       354 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/tasks/
+-rw-rw-r-- root/root       467 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       737 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       379 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/tests/
+-rw-rw-r-- root/root        10 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/tests/inventory
+-rw-rw-r-- root/root       196 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/tests/test-npm.yml
+-rw-rw-r-- root/root        89 2015-12-27 22:16 ansible-role-virtualenv-nodejs-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/
+-rw-rw-r-- root/root        79 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/README.md
+drwxrwxr-x root/root         0 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/defaults/
+-rw-rw-r-- root/root        53 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/meta/
+-rw-rw-r-- root/root      2112 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/tasks/
+-rw-rw-r-- root/root        60 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/tasks/main.yml
+-rw-rw-r-- root/root       816 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/tasks/rbenv-ruby-install.yml
+-rw-rw-r-- root/root       969 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/tasks/rbenv.yml
+drwxrwxr-x root/root         0 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/templates/
+-rw-rw-r-- root/root        94 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/templates/rbenv.sh.j2
+drwxrwxr-x root/root         0 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/vars/
+-rw-rw-r-- root/root        33 2014-09-19 15:03 ansible-galaxy-rbenv-ruby-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-09 09:19 ansible-role-hostname-master/
+-rw-rw-r-- root/root      1349 2017-02-09 09:19 ansible-role-hostname-master/README.md
+drwxrwxr-x root/root         0 2017-02-09 09:19 ansible-role-hostname-master/defaults/
+-rw-rw-r-- root/root        48 2017-02-09 09:19 ansible-role-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-09 09:19 ansible-role-hostname-master/handlers/
+-rw-rw-r-- root/root        48 2017-02-09 09:19 ansible-role-hostname-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-09 09:19 ansible-role-hostname-master/meta/
+-rw-rw-r-- root/root      3948 2017-02-09 09:19 ansible-role-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-09 09:19 ansible-role-hostname-master/tasks/
+-rw-rw-r-- root/root       312 2017-02-09 09:19 ansible-role-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-09 09:19 ansible-role-hostname-master/templates/
+-rw-rw-r-- root/root       496 2017-02-09 09:19 ansible-role-hostname-master/templates/hosts.j2
+drwxrwxr-x root/root         0 2017-02-09 09:19 ansible-role-hostname-master/tests/
+-rw-rw-r-- root/root         9 2017-02-09 09:19 ansible-role-hostname-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-02-09 09:19 ansible-role-hostname-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-09 09:19 ansible-role-hostname-master/vars/
+-rw-rw-r-- root/root       183 2017-02-09 09:19 ansible-role-hostname-master/vars/main.yml

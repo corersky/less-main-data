@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-27 19:33 ansible.nodejs-master/
+-rw-rw-r-- root/root       539 2019-04-27 19:33 ansible.nodejs-master/.travis.yml
+-rw-rw-r-- root/root      1579 2019-04-27 19:33 ansible.nodejs-master/LICENSE
+-rw-rw-r-- root/root       207 2019-04-27 19:33 ansible.nodejs-master/README.md
+drwxrwxr-x root/root         0 2019-04-27 19:33 ansible.nodejs-master/defaults/
+-rw-rw-r-- root/root       283 2019-04-27 19:33 ansible.nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-27 19:33 ansible.nodejs-master/meta/
+-rw-rw-r-- root/root      2119 2019-04-27 19:33 ansible.nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-27 19:33 ansible.nodejs-master/tasks/
+-rw-rw-r-- root/root        87 2019-04-27 19:33 ansible.nodejs-master/tasks/Debian.yml
+-rw-rw-r-- root/root        87 2019-04-27 19:33 ansible.nodejs-master/tasks/RedHat.yml
+-rw-rw-r-- root/root      1008 2019-04-27 19:33 ansible.nodejs-master/tasks/compile_nodejs.yml
+-rw-rw-r-- root/root       523 2019-04-27 19:33 ansible.nodejs-master/tasks/install_from_binaries.yml
+-rw-rw-r-- root/root       164 2019-04-27 19:33 ansible.nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-27 19:33 ansible.nodejs-master/tests/
+-rw-rw-r-- root/root        11 2019-04-27 19:33 ansible.nodejs-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-04-27 19:33 ansible.nodejs-master/tests/test.yml

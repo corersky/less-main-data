@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-16 09:23 ansible-scala-master/
+-rw-rw-r-- root/root        58 2016-08-16 09:23 ansible-scala-master/.gitignore
+-rw-rw-r-- root/root       267 2016-08-16 09:23 ansible-scala-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-08-16 09:23 ansible-scala-master/LICENSE
+-rw-rw-r-- root/root      1307 2016-08-16 09:23 ansible-scala-master/README.md
+-rw-rw-r-- root/root        38 2016-08-16 09:23 ansible-scala-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-08-16 09:23 ansible-scala-master/defaults/
+-rw-rw-r-- root/root        56 2016-08-16 09:23 ansible-scala-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-16 09:23 ansible-scala-master/meta/
+-rw-rw-r-- root/root       546 2016-08-16 09:23 ansible-scala-master/meta/main.yml
+-rw-rw-r-- root/root       357 2016-08-16 09:23 ansible-scala-master/molecule.yml
+-rw-rw-r-- root/root       915 2016-08-16 09:23 ansible-scala-master/playbook.yml
+-rw-rw-r-- root/root        18 2016-08-16 09:23 ansible-scala-master/requirements.yml
+drwxrwxr-x root/root         0 2016-08-16 09:23 ansible-scala-master/tasks/
+-rw-rw-r-- root/root       826 2016-08-16 09:23 ansible-scala-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-16 09:23 ansible-scala-master/tests/
+-rw-rw-r-- root/root      2766 2016-08-16 09:23 ansible-scala-master/tests/test_scala.py

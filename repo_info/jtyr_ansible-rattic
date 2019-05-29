@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-02 11:47 ansible-rattic-master/
+-rw-rw-r-- root/root      1088 2017-05-02 11:47 ansible-rattic-master/LICENSE
+-rw-rw-r-- root/root      9746 2017-05-02 11:47 ansible-rattic-master/README.md
+drwxrwxr-x root/root         0 2017-05-02 11:47 ansible-rattic-master/defaults/
+-rw-rw-r-- root/root      6831 2017-05-02 11:47 ansible-rattic-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-02 11:47 ansible-rattic-master/files/
+-rw-rw-r-- root/root       559 2017-05-02 11:47 ansible-rattic-master/files/requirements-base
+drwxrwxr-x root/root         0 2017-05-02 11:47 ansible-rattic-master/meta/
+-rw-rw-r-- root/root       268 2017-05-02 11:47 ansible-rattic-master/meta/main.yaml
+drwxrwxr-x root/root         0 2017-05-02 11:47 ansible-rattic-master/tasks/
+-rw-rw-r-- root/root      4287 2017-05-02 11:47 ansible-rattic-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-02 11:47 ansible-rattic-master/templates/
+-rw-rw-r-- root/root        83 2017-05-02 11:47 ansible-rattic-master/templates/defaults.cfg.j2

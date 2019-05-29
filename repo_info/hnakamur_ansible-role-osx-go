@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-08-28 04:32 ansible-role-osx-go-master/
+-rw-rw-r-- root/root       592 2014-08-28 04:32 ansible-role-osx-go-master/README.md
+drwxrwxr-x root/root         0 2014-08-28 04:32 ansible-role-osx-go-master/defaults/
+-rw-rw-r-- root/root        24 2014-08-28 04:32 ansible-role-osx-go-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-28 04:32 ansible-role-osx-go-master/meta/
+-rw-rw-r-- root/root       252 2014-08-28 04:32 ansible-role-osx-go-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-28 04:32 ansible-role-osx-go-master/tasks/
+-rw-rw-r-- root/root       204 2014-08-28 04:32 ansible-role-osx-go-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-28 04:32 ansible-role-osx-go-master/templates/
+-rw-rw-r-- root/root       115 2014-08-28 04:32 ansible-role-osx-go-master/templates/go.zsh.j2

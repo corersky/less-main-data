@@ -1,0 +1,105 @@
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/
+-rw-rw-r-- root/root        86 2019-05-10 02:27 ansible-concourse-master/.gitignore
+-rw-rw-r-- root/root      2235 2019-05-10 02:27 ansible-concourse-master/.kitchen-cluster.yml
+-rw-rw-r-- root/root      5091 2019-05-10 02:27 ansible-concourse-master/.kitchen.yml
+-rw-rw-r-- root/root      1080 2019-05-10 02:27 ansible-concourse-master/.travis.yml
+-rw-rw-r-- root/root       213 2019-05-10 02:27 ansible-concourse-master/Gemfile
+-rw-rw-r-- root/root      2465 2019-05-10 02:27 ansible-concourse-master/Gemfile.lock
+-rw-rw-r-- root/root      1078 2019-05-10 02:27 ansible-concourse-master/LICENSE
+-rw-rw-r-- root/root      9877 2019-05-10 02:27 ansible-concourse-master/README.md
+-rw-rw-r-- root/root       560 2019-05-10 02:27 ansible-concourse-master/Vagrantfile
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/ansible.cfg -> ./test/ansible.cfg
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/defaults/
+-rw-rw-r-- root/root      4856 2019-05-10 02:27 ansible-concourse-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/handlers/
+-rw-rw-r-- root/root      1592 2019-05-10 02:27 ansible-concourse-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/keys/
+-rwxrwxr-x root/root      1684 2019-05-10 02:27 ansible-concourse-master/keys/key.sh
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/meta/
+-rw-rw-r-- root/root       273 2019-05-10 02:27 ansible-concourse-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/tasks/
+-rw-rw-r-- root/root      1418 2019-05-10 02:27 ansible-concourse-master/tasks/auth.yml
+-rw-rw-r-- root/root       820 2019-05-10 02:27 ansible-concourse-master/tasks/checks.yml
+-rw-rw-r-- root/root      1530 2019-05-10 02:27 ansible-concourse-master/tasks/common_nix.yml
+-rw-rw-r-- root/root      1101 2019-05-10 02:27 ansible-concourse-master/tasks/install_nix_4.yml
+-rw-rw-r-- root/root      1682 2019-05-10 02:27 ansible-concourse-master/tasks/install_nix_5.yml
+-rw-rw-r-- root/root       836 2019-05-10 02:27 ansible-concourse-master/tasks/kernel_update.yml
+-rw-rw-r-- root/root      1821 2019-05-10 02:27 ansible-concourse-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/tasks/manage/
+-rw-rw-r-- root/root       447 2019-05-10 02:27 ansible-concourse-master/tasks/manage/main.yml
+-rw-rw-r-- root/root      1851 2019-05-10 02:27 ansible-concourse-master/tasks/manage/teams.yml
+-rw-rw-r-- root/root      2638 2019-05-10 02:27 ansible-concourse-master/tasks/web_nix.yml
+-rw-rw-r-- root/root      2699 2019-05-10 02:27 ansible-concourse-master/tasks/worker_nix.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/templates/
+-rw-rw-r-- root/root       360 2019-05-10 02:27 ansible-concourse-master/templates/com.github.ahelal.concourse.web.plist.j2
+-rw-rw-r-- root/root       366 2019-05-10 02:27 ansible-concourse-master/templates/com.github.ahelal.concourse.worker.plist.j2
+-rw-rw-r-- root/root      2229 2019-05-10 02:27 ansible-concourse-master/templates/concourse-web-init.sh.j2
+-rw-rw-r-- root/root       343 2019-05-10 02:27 ansible-concourse-master/templates/concourse-web.j2
+-rw-rw-r-- root/root      5338 2019-05-10 02:27 ansible-concourse-master/templates/concourse-worker-init.sh.j2
+-rw-rw-r-- root/root       685 2019-05-10 02:27 ansible-concourse-master/templates/concourse-worker.j2
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/
+-rw-rw-r-- root/root       932 2019-05-10 02:27 ansible-concourse-master/test/ansible-setup.sh
+-rw-rw-r-- root/root       283 2019-05-10 02:27 ansible-concourse-master/test/ansible.cfg
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/defaults/
+-rw-rw-r-- root/root       128 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/files/
+-rw-rw-r-- root/root       378 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/files/macos.yml
+-rw-rw-r-- root/root       352 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/files/simple_failure.yml
+-rw-rw-r-- root/root       357 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/files/simple_success.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/tasks/
+-rw-rw-r-- root/root      1210 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/tasks/fly.yml
+-rw-rw-r-- root/root        58 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/tasks/main.yml
+-rw-rw-r-- root/root       106 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/fly/tasks/packages.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/hosts/
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/hosts/tasks/
+-rw-rw-r-- root/root       379 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/hosts/tasks/main.yml
+-rw-rw-r-- root/root        93 2019-05-10 02:27 ansible-concourse-master/test/helper_roles/roles_requirements.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/
+-rw-rw-r-- root/root       117 2019-05-10 02:27 ansible-concourse-master/test/integration/Gemfile
+-rw-rw-r-- root/root       942 2019-05-10 02:27 ansible-concourse-master/test/integration/helper_spec.rb
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/
+-rw-rw-r-- root/root     16170 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/concourse-vars.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/
+-rw-rw-r-- root/root       159 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/a_user_spec.rb
+-rw-rw-r-- root/root       366 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/a_web_spec.rb
+-rw-rw-r-- root/root       447 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/b_worker_spec.rb
+-rw-rw-r-- root/root       471 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/c_binary_spec.rb
+-rw-rw-r-- root/root       268 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/ca_binary_web_spec.rb
+-rw-rw-r-- root/root       274 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/cb_binary_worker_spec.rb
+-rw-rw-r-- root/root      2060 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/d_job_spec.rb
+-rw-rw-r-- root/root      1598 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/e_manage_spec.rb
+-rw-rw-r-- root/root       106 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/ssh_spec.rb
+-rw-rw-r-- root/root      2855 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/serverspec/z_control_scripts_spec.rb
+-rw-rw-r-- root/root       673 2019-05-10 02:27 ansible-concourse-master/test/integration/simple/simple.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/a_user_spec.rb -> ../../simple/serverspec/a_user_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/a_web_spec.rb -> ../../simple/serverspec/a_web_spec.rb
+-rw-rw-r-- root/root       335 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/b_worker_not_running_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/c_binary_spec.rb -> ../../simple/serverspec/c_binary_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/ca_binary_web_spec.rb -> ../../simple/serverspec/ca_binary_web_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/d_job_spec.rb -> ../../simple/serverspec/d_job_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/e_manage_spec.rb -> ../../simple/serverspec/e_manage_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/ssh_spec.rb -> ../../simple/serverspec/ssh_spec.rb
+-rw-rw-r-- root/root      1409 2019-05-10 02:27 ansible-concourse-master/test/integration/web/serverspec/z_web_control_scripts_spec.rb
+-rw-rw-r-- root/root       862 2019-05-10 02:27 ansible-concourse-master/test/integration/web/web.yml
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/serverspec/
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/serverspec/a_user_spec.rb -> ../../simple/serverspec/a_user_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/serverspec/b_worker_spec.rb -> ../../simple/serverspec/b_worker_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/serverspec/c_binary_spec.rb -> ../../simple/serverspec/c_binary_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/serverspec/cb_binary_worker_spec.rb -> ../../simple/serverspec/cb_binary_worker_spec.rb
+-rw-rw-r-- root/root       336 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/serverspec/d-web_not_running_spec.rb
+lrwxrwxrwx root/root         0 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/serverspec/ssh_spec.rb -> ../../simple/serverspec/ssh_spec.rb
+-rw-rw-r-- root/root      1490 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/serverspec/z_worker_control_scripts_spec.rb
+-rw-rw-r-- root/root       760 2019-05-10 02:27 ansible-concourse-master/test/integration/worker/worker.yml
+-rwxrwxr-x root/root       244 2019-05-10 02:27 ansible-concourse-master/test/setup_roles.sh
+-rwxrwxr-x root/root       777 2019-05-10 02:27 ansible-concourse-master/test/test-cluster.sh
+-rw-rw-r-- root/root       299 2019-05-10 02:27 ansible-concourse-master/test/test-pipeline.yml
+-rw-rw-r-- root/root       557 2019-05-10 02:27 ansible-concourse-master/test/uploaded.sh
+drwxrwxr-x root/root         0 2019-05-10 02:27 ansible-concourse-master/vars/
+-rw-rw-r-- root/root      1449 2019-05-10 02:27 ansible-concourse-master/vars/main.yml
+-rw-rw-r-- root/root     33461 2019-05-10 02:27 ansible-concourse-master/web_arguments.txt
+-rw-rw-r-- root/root     14832 2019-05-10 02:27 ansible-concourse-master/worker_arguments.txt

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-04-29 04:19 debian-timesyncd-master/
+-rw-rw-r-- root/root       683 2017-04-29 04:19 debian-timesyncd-master/README.md
+drwxrwxr-x root/root         0 2017-04-29 04:19 debian-timesyncd-master/defaults/
+-rw-rw-r-- root/root       152 2017-04-29 04:19 debian-timesyncd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-29 04:19 debian-timesyncd-master/handlers/
+-rw-rw-r-- root/root        99 2017-04-29 04:19 debian-timesyncd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-29 04:19 debian-timesyncd-master/meta/
+-rw-rw-r-- root/root       269 2017-04-29 04:19 debian-timesyncd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-29 04:19 debian-timesyncd-master/tasks/
+-rw-rw-r-- root/root       197 2017-04-29 04:19 debian-timesyncd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-29 04:19 debian-timesyncd-master/templates/
+-rw-rw-r-- root/root       381 2017-04-29 04:19 debian-timesyncd-master/templates/timesyncd.conf.j2

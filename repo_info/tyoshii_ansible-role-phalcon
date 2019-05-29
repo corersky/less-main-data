@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-17 07:50 ansible-role-phalcon-master/
+-rw-rw-r-- root/root       466 2017-11-17 07:50 ansible-role-phalcon-master/README.md
+drwxrwxr-x root/root         0 2017-11-17 07:50 ansible-role-phalcon-master/defaults/
+-rw-rw-r-- root/root        98 2017-11-17 07:50 ansible-role-phalcon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-17 07:50 ansible-role-phalcon-master/handlers/
+-rw-rw-r-- root/root        44 2017-11-17 07:50 ansible-role-phalcon-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-17 07:50 ansible-role-phalcon-master/meta/
+-rw-rw-r-- root/root      1838 2017-11-17 07:50 ansible-role-phalcon-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-17 07:50 ansible-role-phalcon-master/tasks/
+-rw-rw-r-- root/root       601 2017-11-17 07:50 ansible-role-phalcon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-17 07:50 ansible-role-phalcon-master/templates/
+-rw-rw-r-- root/root        46 2017-11-17 07:50 ansible-role-phalcon-master/templates/phalcon.ini.j2
+drwxrwxr-x root/root         0 2017-11-17 07:50 ansible-role-phalcon-master/tests/
+-rw-rw-r-- root/root        11 2017-11-17 07:50 ansible-role-phalcon-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-11-17 07:50 ansible-role-phalcon-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-17 07:50 ansible-role-phalcon-master/vars/
+-rw-rw-r-- root/root        40 2017-11-17 07:50 ansible-role-phalcon-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-17 12:23 ansible-role-aegir-user-master/
+-rw-rw-r-- root/root      2134 2019-05-17 12:23 ansible-role-aegir-user-master/.travis.yml
+-rw-rw-r-- root/root       434 2019-05-17 12:23 ansible-role-aegir-user-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 12:23 ansible-role-aegir-user-master/defaults/
+-rw-rw-r-- root/root       722 2019-05-17 12:23 ansible-role-aegir-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 12:23 ansible-role-aegir-user-master/meta/
+-rw-rw-r-- root/root       308 2019-05-17 12:23 ansible-role-aegir-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 12:23 ansible-role-aegir-user-master/tasks/
+-rw-rw-r-- root/root      4512 2019-05-17 12:23 ansible-role-aegir-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-17 12:23 ansible-role-aegir-user-master/vars/
+-rw-rw-r-- root/root        33 2019-05-17 12:23 ansible-role-aegir-user-master/vars/Debian.yml
+-rw-rw-r-- root/root       497 2019-05-17 12:23 ansible-role-aegir-user-master/vars/RedHat.yml
+-rw-rw-r-- root/root       684 2019-05-17 12:23 ansible-role-aegir-user-master/vars/vars.Ubuntu14.yml
+-rw-rw-r-- root/root       393 2019-05-17 12:23 ansible-role-aegir-user-master/vars/vars.Ubuntu16.yml
+-rw-rw-r-- root/root       393 2019-05-17 12:23 ansible-role-aegir-user-master/vars/vars.Ubuntu18.yml
+-rw-rw-r-- root/root        88 2019-05-17 12:23 ansible-role-aegir-user-master/vars/vars.yml

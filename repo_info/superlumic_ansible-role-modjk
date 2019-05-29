@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-09-27 17:10 ansible-role-modjk-master/
+-rw-rw-r-- root/root       396 2015-09-27 17:10 ansible-role-modjk-master/.travis.yml
+-rw-rw-r-- root/root       454 2015-09-27 17:10 ansible-role-modjk-master/README.md
+drwxrwxr-x root/root         0 2015-09-27 17:10 ansible-role-modjk-master/files/
+-rw-rw-r-- root/root       304 2015-09-27 17:10 ansible-role-modjk-master/files/jk.conf
+drwxrwxr-x root/root         0 2015-09-27 17:10 ansible-role-modjk-master/meta/
+-rw-rw-r-- root/root       374 2015-09-27 17:10 ansible-role-modjk-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-27 17:10 ansible-role-modjk-master/tasks/
+-rw-rw-r-- root/root      2055 2015-09-27 17:10 ansible-role-modjk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-27 17:10 ansible-role-modjk-master/tests/
+-rw-rw-r-- root/root        10 2015-09-27 17:10 ansible-role-modjk-master/tests/inventory
+-rw-rw-r-- root/root        78 2015-09-27 17:10 ansible-role-modjk-master/tests/travis.yml

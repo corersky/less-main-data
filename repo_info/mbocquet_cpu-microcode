@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-28 16:12 cpu-microcode-master/
+-rw-rw-r-- root/root     32386 2019-04-28 16:12 cpu-microcode-master/COPYRIGHT
+-rw-rw-r-- root/root       881 2019-04-28 16:12 cpu-microcode-master/LICENSE
+-rw-rw-r-- root/root       506 2019-04-28 16:12 cpu-microcode-master/README.md
+drwxrwxr-x root/root         0 2019-04-28 16:12 cpu-microcode-master/defaults/
+-rw-rw-r-- root/root       143 2019-04-28 16:12 cpu-microcode-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-28 16:12 cpu-microcode-master/handlers/
+-rw-rw-r-- root/root        37 2019-04-28 16:12 cpu-microcode-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-28 16:12 cpu-microcode-master/meta/
+-rw-rw-r-- root/root       356 2019-04-28 16:12 cpu-microcode-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-28 16:12 cpu-microcode-master/tasks/
+-rw-rw-r-- root/root      1221 2019-04-28 16:12 cpu-microcode-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-28 16:12 cpu-microcode-master/tests/
+-rw-rw-r-- root/root        11 2019-04-28 16:12 cpu-microcode-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-04-28 16:12 cpu-microcode-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-28 16:12 cpu-microcode-master/vars/
+-rw-rw-r-- root/root        33 2019-04-28 16:12 cpu-microcode-master/vars/main.yml

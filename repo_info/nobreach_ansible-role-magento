@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-01 08:08 ansible-role-magento-master/
+-rw-rw-r-- root/root       539 2017-09-01 08:08 ansible-role-magento-master/.travis.yml
+-rw-rw-r-- root/root       694 2017-09-01 08:08 ansible-role-magento-master/README.md
+drwxrwxr-x root/root         0 2017-09-01 08:08 ansible-role-magento-master/defaults/
+-rw-rw-r-- root/root        31 2017-09-01 08:08 ansible-role-magento-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-01 08:08 ansible-role-magento-master/handlers/
+-rw-rw-r-- root/root        31 2017-09-01 08:08 ansible-role-magento-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-01 08:08 ansible-role-magento-master/meta/
+-rw-rw-r-- root/root      1817 2017-09-01 08:08 ansible-role-magento-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-01 08:08 ansible-role-magento-master/tasks/
+-rw-rw-r-- root/root      3007 2017-09-01 08:08 ansible-role-magento-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-01 08:08 ansible-role-magento-master/tests/
+-rw-rw-r-- root/root        11 2017-09-01 08:08 ansible-role-magento-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-09-01 08:08 ansible-role-magento-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-01 08:08 ansible-role-magento-master/vars/
+-rw-rw-r-- root/root        27 2017-09-01 08:08 ansible-role-magento-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-python-master/
+-rw-rw-r-- root/root       219 2019-03-21 23:30 ansible-python-master/.editorconfig
+-rw-rw-r-- root/root       492 2019-03-21 23:30 ansible-python-master/.gitattributes
+-rw-rw-r-- root/root       819 2019-03-21 23:30 ansible-python-master/.gitignore
+-rw-rw-r-- root/root      1073 2019-03-21 23:30 ansible-python-master/LICENSE
+-rw-rw-r-- root/root       392 2019-03-21 23:30 ansible-python-master/README.md
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-python-master/meta/
+-rw-rw-r-- root/root       734 2019-03-21 23:30 ansible-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-python-master/tasks/
+-rw-rw-r-- root/root        98 2019-03-21 23:30 ansible-python-master/tasks/alpine.yml
+-rw-rw-r-- root/root       117 2019-03-21 23:30 ansible-python-master/tasks/debian.yml
+-rw-rw-r-- root/root       127 2019-03-21 23:30 ansible-python-master/tasks/main.yml
+-rw-rw-r-- root/root        81 2019-03-21 23:30 ansible-python-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-python-master/tests/
+-rw-rw-r-- root/root        11 2019-03-21 23:30 ansible-python-master/tests/inventory
+-rw-rw-r-- root/root        64 2019-03-21 23:30 ansible-python-master/tests/test.yml

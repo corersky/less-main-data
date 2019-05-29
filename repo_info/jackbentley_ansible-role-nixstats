@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-12 16:23 ansible-role-nixstats-master/
+-rw-rw-r-- root/root      1079 2017-12-12 16:23 ansible-role-nixstats-master/LICENSE
+-rw-rw-r-- root/root       485 2017-12-12 16:23 ansible-role-nixstats-master/README.md
+drwxrwxr-x root/root         0 2017-12-12 16:23 ansible-role-nixstats-master/defaults/
+-rw-rw-r-- root/root      1199 2017-12-12 16:23 ansible-role-nixstats-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-12 16:23 ansible-role-nixstats-master/handlers/
+-rw-rw-r-- root/root        80 2017-12-12 16:23 ansible-role-nixstats-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-12 16:23 ansible-role-nixstats-master/meta/
+-rw-rw-r-- root/root       437 2017-12-12 16:23 ansible-role-nixstats-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-12 16:23 ansible-role-nixstats-master/tasks/
+-rw-rw-r-- root/root       446 2017-12-12 16:23 ansible-role-nixstats-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-12 16:23 ansible-role-nixstats-master/templates/
+-rw-rw-r-- root/root      1577 2017-12-12 16:23 ansible-role-nixstats-master/templates/nixstats.ini.j2

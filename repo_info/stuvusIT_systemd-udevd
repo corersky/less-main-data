@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-10 17:03 systemd-udevd-master/
+-rw-rw-r-- root/root     22240 2017-08-10 17:03 systemd-udevd-master/LICENSE
+-rw-rw-r-- root/root      2362 2017-08-10 17:03 systemd-udevd-master/README.md
+drwxrwxr-x root/root         0 2017-08-10 17:03 systemd-udevd-master/defaults/
+-rw-rw-r-- root/root        26 2017-08-10 17:03 systemd-udevd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-10 17:03 systemd-udevd-master/handlers/
+-rw-rw-r-- root/root       252 2017-08-10 17:03 systemd-udevd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-10 17:03 systemd-udevd-master/meta/
+-rw-rw-r-- root/root       453 2017-08-10 17:03 systemd-udevd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-10 17:03 systemd-udevd-master/tasks/
+-rw-rw-r-- root/root       916 2017-08-10 17:03 systemd-udevd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-10 17:03 systemd-udevd-master/templates/
+-rw-rw-r-- root/root       511 2017-08-10 17:03 systemd-udevd-master/templates/hwdb.j2
+-rw-rw-r-- root/root       137 2017-08-10 17:03 systemd-udevd-master/templates/rules.j2
+-rw-rw-r-- root/root        58 2017-08-10 17:03 systemd-udevd-master/templates/udev.conf.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-nspawn-on-fedora-master/
+-rw-rw-r-- root/root        37 2019-01-10 17:23 ansible-nspawn-on-fedora-master/.gitignore
+-rw-rw-r-- root/root         0 2019-01-10 17:23 ansible-nspawn-on-fedora-master/.gitmodules
+-rw-rw-r-- root/root     35147 2019-01-10 17:23 ansible-nspawn-on-fedora-master/LICENSE.txt
+-rw-rw-r-- root/root      1667 2019-01-10 17:23 ansible-nspawn-on-fedora-master/README.md
+-rw-rw-r-- root/root       994 2019-01-10 17:23 ansible-nspawn-on-fedora-master/example.nspawn
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-nspawn-on-fedora-master/files/
+-rw-rw-r-- root/root       257 2019-01-10 17:23 ansible-nspawn-on-fedora-master/files/my-nspawn.te
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-nspawn-on-fedora-master/meta/
+-rw-rw-r-- root/root       339 2019-01-10 17:23 ansible-nspawn-on-fedora-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-nspawn-on-fedora-master/tasks/
+-rw-rw-r-- root/root      2359 2019-01-10 17:23 ansible-nspawn-on-fedora-master/tasks/main-tasks.yml
+-rw-rw-r-- root/root        55 2019-01-10 17:23 ansible-nspawn-on-fedora-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-nspawn-on-fedora-master/templates/
+drwxrwxr-x root/root         0 2019-01-10 17:23 ansible-nspawn-on-fedora-master/templates/systemd-nspawn@.service.d/
+-rw-rw-r-- root/root       860 2019-01-10 17:23 ansible-nspawn-on-fedora-master/templates/systemd-nspawn@.service.d/override.conf.j2

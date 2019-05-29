@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-10 10:42 ansible-authkeys-master/
+-rw-rw-r-- root/root      2409 2018-10-10 10:42 ansible-authkeys-master/.travis.yml
+-rw-rw-r-- root/root     18046 2018-10-10 10:42 ansible-authkeys-master/LICENSE
+-rw-rw-r-- root/root      1010 2018-10-10 10:42 ansible-authkeys-master/README.md
+drwxrwxr-x root/root         0 2018-10-10 10:42 ansible-authkeys-master/defaults/
+-rw-rw-r-- root/root       842 2018-10-10 10:42 ansible-authkeys-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-10 10:42 ansible-authkeys-master/meta/
+-rw-rw-r-- root/root       383 2018-10-10 10:42 ansible-authkeys-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-10 10:42 ansible-authkeys-master/tasks/
+-rw-rw-r-- root/root       729 2018-10-10 10:42 ansible-authkeys-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-10 10:42 ansible-authkeys-master/tests/
+-rw-rw-r-- root/root        10 2018-10-10 10:42 ansible-authkeys-master/tests/inventory
+-rw-rw-r-- root/root      1043 2018-10-10 10:42 ansible-authkeys-master/tests/test-assertions.yml
+-rw-rw-r-- root/root       537 2018-10-10 10:42 ansible-authkeys-master/tests/test.yml
+-rw-rw-r-- root/root       179 2018-10-10 10:42 ansible-authkeys-master/travis.yml

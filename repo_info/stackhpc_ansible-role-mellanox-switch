@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-04 15:23 ansible-role-mellanox-switch-master/
+-rw-rw-r-- root/root      1203 2018-09-04 15:23 ansible-role-mellanox-switch-master/.gitignore
+-rw-rw-r-- root/root       647 2018-09-04 15:23 ansible-role-mellanox-switch-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-09-04 15:23 ansible-role-mellanox-switch-master/LICENSE
+-rw-rw-r-- root/root      2356 2018-09-04 15:23 ansible-role-mellanox-switch-master/README.md
+drwxrwxr-x root/root         0 2018-09-04 15:23 ansible-role-mellanox-switch-master/defaults/
+-rw-rw-r-- root/root       400 2018-09-04 15:23 ansible-role-mellanox-switch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:23 ansible-role-mellanox-switch-master/meta/
+-rw-rw-r-- root/root       344 2018-09-04 15:23 ansible-role-mellanox-switch-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:23 ansible-role-mellanox-switch-master/tasks/
+-rw-rw-r-- root/root      2522 2018-09-04 15:23 ansible-role-mellanox-switch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:23 ansible-role-mellanox-switch-master/tests/
+-rw-rw-r-- root/root        97 2018-09-04 15:23 ansible-role-mellanox-switch-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-09-04 15:23 ansible-role-mellanox-switch-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-04 15:23 ansible-role-mellanox-switch-master/vars/
+-rw-rw-r-- root/root       401 2018-09-04 15:23 ansible-role-mellanox-switch-master/vars/main.yml

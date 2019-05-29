@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-07-22 20:28 ansible-plight-master/
+-rw-rw-r-- root/root     11323 2014-07-22 20:28 ansible-plight-master/LICENSE
+-rw-rw-r-- root/root      1909 2014-07-22 20:28 ansible-plight-master/README.md
+drwxrwxr-x root/root         0 2014-07-22 20:28 ansible-plight-master/defaults/
+-rw-rw-r-- root/root       330 2014-07-22 20:28 ansible-plight-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-22 20:28 ansible-plight-master/handlers/
+-rw-rw-r-- root/root        68 2014-07-22 20:28 ansible-plight-master/handlers/main.yml
+-rw-rw-r-- root/root         9 2014-07-22 20:28 ansible-plight-master/hosts
+drwxrwxr-x root/root         0 2014-07-22 20:28 ansible-plight-master/meta/
+-rw-rw-r-- root/root       415 2014-07-22 20:28 ansible-plight-master/meta/main.yml
+-rw-rw-r-- root/root        91 2014-07-22 20:28 ansible-plight-master/plight.yml
+drwxrwxr-x root/root         0 2014-07-22 20:28 ansible-plight-master/tasks/
+-rw-rw-r-- root/root       878 2014-07-22 20:28 ansible-plight-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-07-22 20:28 ansible-plight-master/templates/
+-rw-rw-r-- root/root       481 2014-07-22 20:28 ansible-plight-master/templates/config.j2
+-rw-rw-r-- root/root       303 2014-07-22 20:28 ansible-plight-master/templates/repo.j2
+-rw-rw-r-- root/root       126 2014-07-22 20:28 ansible-plight-master/test.sh

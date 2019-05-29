@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-23 21:00 ansible-role-gitbucket-master/
+-rw-rw-r-- root/root       539 2017-05-23 21:00 ansible-role-gitbucket-master/.travis.yml
+-rw-rw-r-- root/root      1556 2017-05-23 21:00 ansible-role-gitbucket-master/README.md
+drwxrwxr-x root/root         0 2017-05-23 21:00 ansible-role-gitbucket-master/defaults/
+-rw-rw-r-- root/root        30 2017-05-23 21:00 ansible-role-gitbucket-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-23 21:00 ansible-role-gitbucket-master/meta/
+-rw-rw-r-- root/root       276 2017-05-23 21:00 ansible-role-gitbucket-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-23 21:00 ansible-role-gitbucket-master/tasks/
+-rw-rw-r-- root/root       119 2017-05-23 21:00 ansible-role-gitbucket-master/tasks/docker-Alpine.yml
+-rw-rw-r-- root/root       198 2017-05-23 21:00 ansible-role-gitbucket-master/tasks/docker-RedHat.yml
+-rw-rw-r-- root/root       364 2017-05-23 21:00 ansible-role-gitbucket-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-23 21:00 ansible-role-gitbucket-master/templates/
+-rw-rw-r-- root/root       364 2017-05-23 21:00 ansible-role-gitbucket-master/templates/backup-gitbucket.sh.j2
+-rw-rw-r-- root/root       352 2017-05-23 21:00 ansible-role-gitbucket-master/templates/database.conf.j2
+drwxrwxr-x root/root         0 2017-05-23 21:00 ansible-role-gitbucket-master/tests/
+-rw-rw-r-- root/root         9 2017-05-23 21:00 ansible-role-gitbucket-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-05-23 21:00 ansible-role-gitbucket-master/tests/test.yml

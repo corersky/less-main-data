@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-27 07:48 ansible-role-users-master/
+-rw-rw-r-- root/root      1081 2018-03-27 07:48 ansible-role-users-master/LICENSE
+-rw-rw-r-- root/root      3349 2018-03-27 07:48 ansible-role-users-master/README.md
+drwxrwxr-x root/root         0 2018-03-27 07:48 ansible-role-users-master/defaults/
+-rw-rw-r-- root/root       199 2018-03-27 07:48 ansible-role-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-27 07:48 ansible-role-users-master/meta/
+-rw-rw-r-- root/root       390 2018-03-27 07:48 ansible-role-users-master/meta/main.yml
+-rw-rw-r-- root/root        39 2018-03-27 07:48 ansible-role-users-master/playbook.yml
+drwxrwxr-x root/root         0 2018-03-27 07:48 ansible-role-users-master/tasks/
+-rw-rw-r-- root/root      2820 2018-03-27 07:48 ansible-role-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-27 07:48 ansible-role-users-master/templates/
+-rw-rw-r-- root/root      4124 2018-03-27 07:48 ansible-role-users-master/templates/bashrc.j2
+drwxrwxr-x root/root         0 2018-03-27 07:48 ansible-role-users-master/tests/
+-rw-rw-r-- root/root        11 2018-03-27 07:48 ansible-role-users-master/tests/inventory
+-rw-rw-r-- root/root       250 2018-03-27 07:48 ansible-role-users-master/tests/users.yml

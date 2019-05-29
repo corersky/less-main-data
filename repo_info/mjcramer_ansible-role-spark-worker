@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-10 14:11 ansible-role-spark-worker-master/
+drwxrwxr-x root/root         0 2018-01-10 14:11 ansible-role-spark-worker-master/defaults/
+-rw-rw-r-- root/root       129 2018-01-10 14:11 ansible-role-spark-worker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-10 14:11 ansible-role-spark-worker-master/handlers/
+-rw-rw-r-- root/root       174 2018-01-10 14:11 ansible-role-spark-worker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-10 14:11 ansible-role-spark-worker-master/meta/
+-rwxrwxr-x root/root        76 2018-01-10 14:11 ansible-role-spark-worker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-10 14:11 ansible-role-spark-worker-master/tasks/
+-rw-rw-r-- root/root       128 2018-01-10 14:11 ansible-role-spark-worker-master/tasks/check.yml
+-rw-rw-r-- root/root       388 2018-01-10 14:11 ansible-role-spark-worker-master/tasks/configure.yml
+-rw-rw-r-- root/root       180 2018-01-10 14:11 ansible-role-spark-worker-master/tasks/initialize.yml
+-rw-rw-r-- root/root       185 2018-01-10 14:11 ansible-role-spark-worker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-10 14:11 ansible-role-spark-worker-master/templates/
+-rw-rw-r-- root/root      1856 2018-01-10 14:11 ansible-role-spark-worker-master/templates/systemd.service.j2
+-rwxrwxr-x root/root      1680 2018-01-10 14:11 ansible-role-spark-worker-master/templates/wrapper.sh.j2
+drwxrwxr-x root/root         0 2018-01-10 14:11 ansible-role-spark-worker-master/vars/
+-rw-rw-r-- root/root       347 2018-01-10 14:11 ansible-role-spark-worker-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-11-10 08:44 dvmtn-env-master/
+-rw-rw-r-- root/root      2193 2017-11-10 08:44 dvmtn-env-master/README.md
+drwxrwxr-x root/root         0 2017-11-10 08:44 dvmtn-env-master/handlers/
+-rw-rw-r-- root/root         0 2017-11-10 08:44 dvmtn-env-master/handlers/.gitkeep
+drwxrwxr-x root/root         0 2017-11-10 08:44 dvmtn-env-master/meta/
+-rw-rw-r-- root/root       224 2017-11-10 08:44 dvmtn-env-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-10 08:44 dvmtn-env-master/tasks/
+-rw-rw-r-- root/root      1695 2017-11-10 08:44 dvmtn-env-master/tasks/environment.yml
+-rw-rw-r-- root/root        31 2017-11-10 08:44 dvmtn-env-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-10 08:44 dvmtn-env-master/templates/
+-rw-rw-r-- root/root       183 2017-11-10 08:44 dvmtn-env-master/templates/deploy_app_env.j2
+-rw-rw-r-- root/root       117 2017-11-10 08:44 dvmtn-env-master/templates/deploy_shared_env.j2

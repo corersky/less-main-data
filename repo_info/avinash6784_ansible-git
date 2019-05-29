@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-11 00:24 ansible-git-master/
+-rw-rw-r-- root/root         6 2017-03-11 00:24 ansible-git-master/.gitignore
+-rw-rw-r-- root/root      1074 2017-03-11 00:24 ansible-git-master/LICENSE
+-rw-rw-r-- root/root       854 2017-03-11 00:24 ansible-git-master/README.md
+drwxrwxr-x root/root         0 2017-03-11 00:24 ansible-git-master/defaults/
+-rw-rw-r-- root/root        43 2017-03-11 00:24 ansible-git-master/defaults/main.yml
+-rw-rw-r-- root/root        97 2017-03-11 00:24 ansible-git-master/git.yml
+-rw-rw-r-- root/root        35 2017-03-11 00:24 ansible-git-master/hosts
+drwxrwxr-x root/root         0 2017-03-11 00:24 ansible-git-master/meta/
+-rw-rw-r-- root/root       282 2017-03-11 00:24 ansible-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-11 00:24 ansible-git-master/tasks/
+-rw-rw-r-- root/root       103 2017-03-11 00:24 ansible-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-11 00:24 ansible-git-master/vars/
+-rw-rw-r-- root/root        43 2017-03-11 00:24 ansible-git-master/vars/main.yml

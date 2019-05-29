@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-23 11:35 ansible-role-flowblade-master/
+-rw-rw-r-- root/root        53 2019-03-23 11:35 ansible-role-flowblade-master/.gitignore
+-rw-rw-r-- root/root      1126 2019-03-23 11:35 ansible-role-flowblade-master/.travis.yml
+-rw-rw-r-- root/root       841 2019-03-23 11:35 ansible-role-flowblade-master/README.md
+-rw-rw-r-- root/root       467 2019-03-23 11:35 ansible-role-flowblade-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-23 11:35 ansible-role-flowblade-master/defaults/
+-rw-rw-r-- root/root        40 2019-03-23 11:35 ansible-role-flowblade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-23 11:35 ansible-role-flowblade-master/meta/
+-rw-rw-r-- root/root      3586 2019-03-23 11:35 ansible-role-flowblade-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-23 11:35 ansible-role-flowblade-master/tasks/
+-rw-rw-r-- root/root         4 2019-03-23 11:35 ansible-role-flowblade-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3369 2019-03-23 11:35 ansible-role-flowblade-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-23 11:35 ansible-role-flowblade-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       927 2019-03-23 11:35 ansible-role-flowblade-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       413 2019-03-23 11:35 ansible-role-flowblade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-23 11:35 ansible-role-flowblade-master/vars/
+-rw-rw-r-- root/root        31 2019-03-23 11:35 ansible-role-flowblade-master/vars/default.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-08-17 13:11 ansible-openvpn-master/
+-rw-rw-r-- root/root      1379 2015-08-17 13:11 ansible-openvpn-master/README.md
+drwxrwxr-x root/root         0 2015-08-17 13:11 ansible-openvpn-master/defaults/
+-rw-rw-r-- root/root      1194 2015-08-17 13:11 ansible-openvpn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-17 13:11 ansible-openvpn-master/handlers/
+-rw-rw-r-- root/root        43 2015-08-17 13:11 ansible-openvpn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-17 13:11 ansible-openvpn-master/meta/
+-rw-rw-r-- root/root       322 2015-08-17 13:11 ansible-openvpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-17 13:11 ansible-openvpn-master/tasks/
+-rw-rw-r-- root/root       827 2015-08-17 13:11 ansible-openvpn-master/tasks/configure.yml
+-rw-rw-r-- root/root        82 2015-08-17 13:11 ansible-openvpn-master/tasks/install.yml
+-rw-rw-r-- root/root        79 2015-08-17 13:11 ansible-openvpn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-17 13:11 ansible-openvpn-master/templates/
+-rw-rw-r-- root/root       723 2015-08-17 13:11 ansible-openvpn-master/templates/vpn.conf.j2
+drwxrwxr-x root/root         0 2015-08-17 13:11 ansible-openvpn-master/vars/
+-rw-rw-r-- root/root        39 2015-08-17 13:11 ansible-openvpn-master/vars/main.yml

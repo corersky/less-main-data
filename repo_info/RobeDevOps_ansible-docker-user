@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-04-12 07:55 ansible-docker-user-master/
+-rw-rw-r-- root/root      3735 2019-04-12 07:55 ansible-docker-user-master/README.md
+drwxrwxr-x root/root         0 2019-04-12 07:55 ansible-docker-user-master/meta/
+-rw-rw-r-- root/root       362 2019-04-12 07:55 ansible-docker-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-12 07:55 ansible-docker-user-master/tasks/
+-rw-rw-r-- root/root       417 2019-04-12 07:55 ansible-docker-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-12 07:55 ansible-docker-user-master/vars/
+-rw-rw-r-- root/root        23 2019-04-12 07:55 ansible-docker-user-master/vars/CentOS.yml
+-rw-rw-r-- root/root        23 2019-04-12 07:55 ansible-docker-user-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        25 2019-04-12 07:55 ansible-docker-user-master/vars/default.yml

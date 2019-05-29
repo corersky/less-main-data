@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-05 00:39 ansible-role-terraform-master/
+-rw-rw-r-- root/root         8 2019-04-05 00:39 ansible-role-terraform-master/.gitignore
+-rw-rw-r-- root/root     16725 2019-04-05 00:39 ansible-role-terraform-master/LICENSE
+-rw-rw-r-- root/root       647 2019-04-05 00:39 ansible-role-terraform-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 00:39 ansible-role-terraform-master/defaults/
+-rw-rw-r-- root/root        96 2019-04-05 00:39 ansible-role-terraform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-05 00:39 ansible-role-terraform-master/meta/
+-rw-rw-r-- root/root       328 2019-04-05 00:39 ansible-role-terraform-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 00:39 ansible-role-terraform-master/tasks/
+-rw-rw-r-- root/root       109 2019-04-05 00:39 ansible-role-terraform-master/tasks/main.yml
+-rw-rw-r-- root/root       425 2019-04-05 00:39 ansible-role-terraform-master/tasks/setup-Linux.yml

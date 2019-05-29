@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-erlang-master/
+-rw-rw-r-- root/root        11 2016-12-30 11:38 ansible-role-erlang-master/.gitignore
+-rw-rw-r-- root/root     35120 2016-12-30 11:38 ansible-role-erlang-master/LICENSE
+-rw-rw-r-- root/root       681 2016-12-30 11:38 ansible-role-erlang-master/README.md
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-erlang-master/defaults/
+-rw-rw-r-- root/root       642 2016-12-30 11:38 ansible-role-erlang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-erlang-master/meta/
+-rw-rw-r-- root/root       276 2016-12-30 11:38 ansible-role-erlang-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-erlang-master/tasks/
+-rw-rw-r-- root/root       511 2016-12-30 11:38 ansible-role-erlang-master/tasks/debian.yml
+-rw-rw-r-- root/root       158 2016-12-30 11:38 ansible-role-erlang-master/tasks/main.yml
+-rw-rw-r-- root/root       478 2016-12-30 11:38 ansible-role-erlang-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-erlang-master/templates/
+-rw-rw-r-- root/root       195 2016-12-30 11:38 ansible-role-erlang-master/templates/erlang-solutions.j2
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-erlang-master/tests/
+-rw-rw-r-- root/root        10 2016-12-30 11:38 ansible-role-erlang-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-12-30 11:38 ansible-role-erlang-master/tests/test.yml

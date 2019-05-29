@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-05 02:41 ansible-python-master/
+-rw-rw-r-- root/root      1346 2018-07-05 02:41 ansible-python-master/.travis.yml
+-rw-rw-r-- root/root       869 2018-07-05 02:41 ansible-python-master/README.md
+drwxrwxr-x root/root         0 2018-07-05 02:41 ansible-python-master/defaults/
+-rw-rw-r-- root/root        63 2018-07-05 02:41 ansible-python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-05 02:41 ansible-python-master/meta/
+-rw-rw-r-- root/root       250 2018-07-05 02:41 ansible-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-05 02:41 ansible-python-master/tasks/
+-rw-rw-r-- root/root       844 2018-07-05 02:41 ansible-python-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-05 02:41 ansible-python-master/test/
+-rw-rw-r-- root/root       395 2018-07-05 02:41 ansible-python-master/test/Dockerfile.ubuntu-trusty
+-rw-rw-r-- root/root       395 2018-07-05 02:41 ansible-python-master/test/Dockerfile.ubuntu-xenial
+-rw-rw-r-- root/root        39 2018-07-05 02:41 ansible-python-master/test/test.yml

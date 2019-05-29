@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-21 03:38 ansible-role-kanboard-master/
+-rw-rw-r-- root/root      1113 2018-05-21 03:38 ansible-role-kanboard-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-05-21 03:38 ansible-role-kanboard-master/LICENSE
+-rw-rw-r-- root/root      1795 2018-05-21 03:38 ansible-role-kanboard-master/README.md
+drwxrwxr-x root/root         0 2018-05-21 03:38 ansible-role-kanboard-master/defaults/
+-rw-rw-r-- root/root       304 2018-05-21 03:38 ansible-role-kanboard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-21 03:38 ansible-role-kanboard-master/tasks/
+-rw-rw-r-- root/root       283 2018-05-21 03:38 ansible-role-kanboard-master/tasks/dependencies-Debian.yml
+-rw-rw-r-- root/root       274 2018-05-21 03:38 ansible-role-kanboard-master/tasks/dependencies-Ubuntu.yml
+-rw-rw-r-- root/root      3202 2018-05-21 03:38 ansible-role-kanboard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-21 03:38 ansible-role-kanboard-master/templates/
+-rw-rw-r-- root/root      7861 2018-05-21 03:38 ansible-role-kanboard-master/templates/config.php.j2
+-rw-rw-r-- root/root        65 2018-05-21 03:38 ansible-role-kanboard-master/templates/maintenance.sh.j2
+drwxrwxr-x root/root         0 2018-05-21 03:38 ansible-role-kanboard-master/tests/
+-rw-rw-r-- root/root         9 2018-05-21 03:38 ansible-role-kanboard-master/tests/inventory
+-rw-rw-r-- root/root       141 2018-05-21 03:38 ansible-role-kanboard-master/tests/test.yml

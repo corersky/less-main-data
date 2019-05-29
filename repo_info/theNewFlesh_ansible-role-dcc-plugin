@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-03 13:03 ansible-role-dcc-plugin-master/
+-rw-rw-r-- root/root       843 2017-11-03 13:03 ansible-role-dcc-plugin-master/.gitignore
+-rw-rw-r-- root/root       539 2017-11-03 13:03 ansible-role-dcc-plugin-master/.travis.yml
+-rw-rw-r-- root/root      1328 2017-11-03 13:03 ansible-role-dcc-plugin-master/README.md
+drwxrwxr-x root/root         0 2017-11-03 13:03 ansible-role-dcc-plugin-master/defaults/
+-rw-rw-r-- root/root       114 2017-11-03 13:03 ansible-role-dcc-plugin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-03 13:03 ansible-role-dcc-plugin-master/meta/
+-rw-rw-r-- root/root       403 2017-11-03 13:03 ansible-role-dcc-plugin-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-03 13:03 ansible-role-dcc-plugin-master/tasks/
+-rw-rw-r-- root/root      1016 2017-11-03 13:03 ansible-role-dcc-plugin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-03 13:03 ansible-role-dcc-plugin-master/templates/
+-rw-rw-r-- root/root       182 2017-11-03 13:03 ansible-role-dcc-plugin-master/templates/init.py.j2
+drwxrwxr-x root/root         0 2017-11-03 13:03 ansible-role-dcc-plugin-master/tests/
+-rw-rw-r-- root/root       213 2017-11-03 13:03 ansible-role-dcc-plugin-master/tests/ansible.cfg
+-rw-rw-r-- root/root       147 2017-11-03 13:03 ansible-role-dcc-plugin-master/tests/staging
+-rw-rw-r-- root/root        94 2017-11-03 13:03 ansible-role-dcc-plugin-master/tests/test.yml
+-rw-rw-r-- root/root       785 2017-11-03 13:03 ansible-role-dcc-plugin-master/tests/test_vars.yml

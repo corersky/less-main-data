@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-09 09:41 ansible-base-master/
+-rw-rw-r-- root/root         7 2019-01-09 09:41 ansible-base-master/.gitignore
+-rw-rw-r-- root/root       572 2019-01-09 09:41 ansible-base-master/.travis.yml
+-rw-rw-r-- root/root      1065 2019-01-09 09:41 ansible-base-master/LICENSE
+-rw-rw-r-- root/root       626 2019-01-09 09:41 ansible-base-master/README.md
+-rw-rw-r-- root/root        27 2019-01-09 09:41 ansible-base-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-01-09 09:41 ansible-base-master/defaults/
+-rw-rw-r-- root/root        83 2019-01-09 09:41 ansible-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-09 09:41 ansible-base-master/meta/
+-rw-rw-r-- root/root       332 2019-01-09 09:41 ansible-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-09 09:41 ansible-base-master/tasks/
+-rw-rw-r-- root/root       553 2019-01-09 09:41 ansible-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-09 09:41 ansible-base-master/templates/
+-rw-rw-r-- root/root        20 2019-01-09 09:41 ansible-base-master/templates/timezone.tpl
+drwxrwxr-x root/root         0 2019-01-09 09:41 ansible-base-master/tests/
+-rw-rw-r-- root/root         9 2019-01-09 09:41 ansible-base-master/tests/inventory
+-rw-rw-r-- root/root        70 2019-01-09 09:41 ansible-base-master/tests/test.yml

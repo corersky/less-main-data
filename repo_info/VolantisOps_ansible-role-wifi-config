@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-19 00:09 ansible-role-wifi-config-master/
+-rw-rw-r-- root/root         9 2017-06-19 00:09 ansible-role-wifi-config-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-19 00:09 ansible-role-wifi-config-master/LICENSE
+-rw-rw-r-- root/root       443 2017-06-19 00:09 ansible-role-wifi-config-master/README.md
+drwxrwxr-x root/root         0 2017-06-19 00:09 ansible-role-wifi-config-master/defaults/
+-rw-rw-r-- root/root       281 2017-06-19 00:09 ansible-role-wifi-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-19 00:09 ansible-role-wifi-config-master/files/
+-rw-rw-r-- root/root   1678700 2017-06-19 00:09 ansible-role-wifi-config-master/files/hostapd
+drwxrwxr-x root/root         0 2017-06-19 00:09 ansible-role-wifi-config-master/meta/
+-rw-rw-r-- root/root       342 2017-06-19 00:09 ansible-role-wifi-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-19 00:09 ansible-role-wifi-config-master/tasks/
+-rw-rw-r-- root/root      2302 2017-06-19 00:09 ansible-role-wifi-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-19 00:09 ansible-role-wifi-config-master/templates/
+-rw-rw-r-- root/root       242 2017-06-19 00:09 ansible-role-wifi-config-master/templates/dhcpd4@.service.j2
+-rw-rw-r-- root/root       367 2017-06-19 00:09 ansible-role-wifi-config-master/templates/wifi-configuration.service.j2

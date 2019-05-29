@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-06-25 17:36 ansible-role-locale-lang-master/
+-rw-rw-r-- root/root       184 2017-06-25 17:36 ansible-role-locale-lang-master/README.md
+drwxrwxr-x root/root         0 2017-06-25 17:36 ansible-role-locale-lang-master/defaults/
+-rw-rw-r-- root/root        49 2017-06-25 17:36 ansible-role-locale-lang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-25 17:36 ansible-role-locale-lang-master/meta/
+-rw-rw-r-- root/root       269 2017-06-25 17:36 ansible-role-locale-lang-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-25 17:36 ansible-role-locale-lang-master/tasks/
+-rw-rw-r-- root/root       467 2017-06-25 17:36 ansible-role-locale-lang-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-25 17:36 ansible-role-locale-lang-master/templates/
+-rw-rw-r-- root/root        35 2017-06-25 17:36 ansible-role-locale-lang-master/templates/clock.j2
+-rw-rw-r-- root/root        51 2017-06-25 17:36 ansible-role-locale-lang-master/templates/i18n.j2

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/
+-rw-rw-r-- root/root      1406 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/README.md
+drwxrwxr-x root/root         0 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/defaults/
+-rw-rw-r-- root/root        56 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/meta/
+-rw-rw-r-- root/root       494 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/tasks/
+-rw-rw-r-- root/root      1131 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/templates/
+-rw-rw-r-- root/root       693 2017-03-23 05:44 ansible-role-letsencrypt-webroot-master/templates/letsencrypt_cli_ini.j2

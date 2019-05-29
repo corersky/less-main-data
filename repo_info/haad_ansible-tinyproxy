@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-14 05:07 ansible-tinyproxy-master/
+-rw-rw-r-- root/root      1193 2019-01-14 05:07 ansible-tinyproxy-master/.travis.yml
+-rw-rw-r-- root/root      1118 2019-01-14 05:07 ansible-tinyproxy-master/LICENSE
+-rw-rw-r-- root/root      1695 2019-01-14 05:07 ansible-tinyproxy-master/README.md
+drwxrwxr-x root/root         0 2019-01-14 05:07 ansible-tinyproxy-master/defaults/
+-rw-rw-r-- root/root       494 2019-01-14 05:07 ansible-tinyproxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-14 05:07 ansible-tinyproxy-master/handlers/
+-rw-rw-r-- root/root       127 2019-01-14 05:07 ansible-tinyproxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-14 05:07 ansible-tinyproxy-master/meta/
+-rw-rw-r-- root/root       299 2019-01-14 05:07 ansible-tinyproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-14 05:07 ansible-tinyproxy-master/tasks/
+-rw-rw-r-- root/root       356 2019-01-14 05:07 ansible-tinyproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-14 05:07 ansible-tinyproxy-master/templates/
+-rw-rw-r-- root/root      1405 2019-01-14 05:07 ansible-tinyproxy-master/templates/tinyproxy.conf.j2
+drwxrwxr-x root/root         0 2019-01-14 05:07 ansible-tinyproxy-master/tests/
+-rw-rw-r-- root/root        10 2019-01-14 05:07 ansible-tinyproxy-master/tests/inventory
+-rw-rw-r-- root/root       219 2019-01-14 05:07 ansible-tinyproxy-master/tests/test.yml

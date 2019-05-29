@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-31 03:01 ansible-roles-rabbitmq-master/
+-rw-rw-r-- root/root       145 2018-05-31 03:01 ansible-roles-rabbitmq-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-05-31 03:01 ansible-roles-rabbitmq-master/LICENSE
+-rw-rw-r-- root/root      1591 2018-05-31 03:01 ansible-roles-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2018-05-31 03:01 ansible-roles-rabbitmq-master/defaults/
+-rw-rw-r-- root/root       535 2018-05-31 03:01 ansible-roles-rabbitmq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-31 03:01 ansible-roles-rabbitmq-master/handlers/
+-rw-rw-r-- root/root        90 2018-05-31 03:01 ansible-roles-rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-31 03:01 ansible-roles-rabbitmq-master/meta/
+-rw-rw-r-- root/root       264 2018-05-31 03:01 ansible-roles-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-31 03:01 ansible-roles-rabbitmq-master/tasks/
+-rw-rw-r-- root/root      1136 2018-05-31 03:01 ansible-roles-rabbitmq-master/tasks/build.yml
+-rw-rw-r-- root/root       877 2018-05-31 03:01 ansible-roles-rabbitmq-master/tasks/deploy.yml
+-rw-rw-r-- root/root       165 2018-05-31 03:01 ansible-roles-rabbitmq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-31 03:01 ansible-roles-rabbitmq-master/templates/
+-rw-rw-r-- root/root       118 2018-05-31 03:01 ansible-roles-rabbitmq-master/templates/rabbitmq-env.conf.j2
+-rw-rw-r-- root/root       314 2018-05-31 03:01 ansible-roles-rabbitmq-master/templates/rabbitmq.config.j2

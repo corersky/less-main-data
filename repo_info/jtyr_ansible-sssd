@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-11 12:59 ansible-sssd-master/
+-rw-rw-r-- root/root         0 2017-01-11 12:59 ansible-sssd-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-01-11 12:59 ansible-sssd-master/LICENSE
+-rw-rw-r-- root/root      1328 2017-01-11 12:59 ansible-sssd-master/README.md
+drwxrwxr-x root/root         0 2017-01-11 12:59 ansible-sssd-master/defaults/
+-rw-rw-r-- root/root       380 2017-01-11 12:59 ansible-sssd-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:59 ansible-sssd-master/handlers/
+-rw-rw-r-- root/root       163 2017-01-11 12:59 ansible-sssd-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:59 ansible-sssd-master/meta/
+-rw-rw-r-- root/root       262 2017-01-11 12:59 ansible-sssd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-11 12:59 ansible-sssd-master/tasks/
+-rw-rw-r-- root/root       679 2017-01-11 12:59 ansible-sssd-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:59 ansible-sssd-master/templates/
+-rw-rw-r-- root/root        81 2017-01-11 12:59 ansible-sssd-master/templates/sssd.conf.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-10-16 03:44 openslides_wlan_ap-master/
+-rw-rw-r-- root/root       380 2016-10-16 03:44 openslides_wlan_ap-master/README.rst
+drwxrwxr-x root/root         0 2016-10-16 03:44 openslides_wlan_ap-master/defaults/
+-rw-rw-r-- root/root       252 2016-10-16 03:44 openslides_wlan_ap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-16 03:44 openslides_wlan_ap-master/handlers/
+-rw-rw-r-- root/root       279 2016-10-16 03:44 openslides_wlan_ap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-16 03:44 openslides_wlan_ap-master/meta/
+-rw-rw-r-- root/root       398 2016-10-16 03:44 openslides_wlan_ap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-16 03:44 openslides_wlan_ap-master/tasks/
+-rw-rw-r-- root/root      1051 2016-10-16 03:44 openslides_wlan_ap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-16 03:44 openslides_wlan_ap-master/templates/
+-rw-rw-r-- root/root       235 2016-10-16 03:44 openslides_wlan_ap-master/templates/dnsmasq.conf.j2
+-rw-rw-r-- root/root       292 2016-10-16 03:44 openslides_wlan_ap-master/templates/hostapd.conf.j2
+-rw-rw-r-- root/root        40 2016-10-16 03:44 openslides_wlan_ap-master/templates/resolv.conf.j2
+-rw-rw-r-- root/root        58 2016-10-16 03:44 openslides_wlan_ap-master/templates/wlan0.network.j2

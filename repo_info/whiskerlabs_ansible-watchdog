@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-09 14:31 ansible-watchdog-master/
+-rw-rw-r-- root/root      1079 2018-02-09 14:31 ansible-watchdog-master/LICENSE
+-rw-rw-r-- root/root      1319 2018-02-09 14:31 ansible-watchdog-master/README.md
+drwxrwxr-x root/root         0 2018-02-09 14:31 ansible-watchdog-master/defaults/
+-rw-rw-r-- root/root      2119 2018-02-09 14:31 ansible-watchdog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-09 14:31 ansible-watchdog-master/handlers/
+-rw-rw-r-- root/root        96 2018-02-09 14:31 ansible-watchdog-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-09 14:31 ansible-watchdog-master/meta/
+-rw-rw-r-- root/root       568 2018-02-09 14:31 ansible-watchdog-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-09 14:31 ansible-watchdog-master/tasks/
+-rw-rw-r-- root/root       211 2018-02-09 14:31 ansible-watchdog-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-09 14:31 ansible-watchdog-master/templates/
+-rw-rw-r-- root/root      1937 2018-02-09 14:31 ansible-watchdog-master/templates/watchdog.conf.j2

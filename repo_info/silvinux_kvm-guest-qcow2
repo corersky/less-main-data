@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-16 07:50 kvm-guest-qcow2-master/
+-rw-rw-r-- root/root      2978 2019-03-16 07:50 kvm-guest-qcow2-master/README.md
+drwxrwxr-x root/root         0 2019-03-16 07:50 kvm-guest-qcow2-master/defaults/
+-rw-rw-r-- root/root      1565 2019-03-16 07:50 kvm-guest-qcow2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-16 07:50 kvm-guest-qcow2-master/handlers/
+-rw-rw-r-- root/root        39 2019-03-16 07:50 kvm-guest-qcow2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-16 07:50 kvm-guest-qcow2-master/meta/
+-rw-rw-r-- root/root       354 2019-03-16 07:50 kvm-guest-qcow2-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-16 07:50 kvm-guest-qcow2-master/tasks/
+-rw-rw-r-- root/root      6315 2019-03-16 07:50 kvm-guest-qcow2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-16 07:50 kvm-guest-qcow2-master/templates/
+-rw-rw-r-- root/root      1193 2019-03-16 07:50 kvm-guest-qcow2-master/templates/user-data.j2
+drwxrwxr-x root/root         0 2019-03-16 07:50 kvm-guest-qcow2-master/tests/
+-rw-rw-r-- root/root        11 2019-03-16 07:50 kvm-guest-qcow2-master/tests/inventory
+-rw-rw-r-- root/root        73 2019-03-16 07:50 kvm-guest-qcow2-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-16 07:50 kvm-guest-qcow2-master/vars/
+-rw-rw-r-- root/root        35 2019-03-16 07:50 kvm-guest-qcow2-master/vars/main.yml

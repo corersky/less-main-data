@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-08-31 14:01 ansible-mysql-client-master/
+-rwxrwxr-x root/root       281 2015-08-31 14:01 ansible-mysql-client-master/.editorconfig
+-rw-rw-r-- root/root        18 2015-08-31 14:01 ansible-mysql-client-master/.gitignore
+-rw-rw-r-- root/root       647 2015-08-31 14:01 ansible-mysql-client-master/.travis.yml
+-rw-rw-r-- root/root       709 2015-08-31 14:01 ansible-mysql-client-master/README.md
+-rw-rw-r-- root/root      3270 2015-08-31 14:01 ansible-mysql-client-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-08-31 14:01 ansible-mysql-client-master/defaults/
+-rw-rw-r-- root/root       153 2015-08-31 14:01 ansible-mysql-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-31 14:01 ansible-mysql-client-master/handlers/
+-rw-rw-r-- root/root        45 2015-08-31 14:01 ansible-mysql-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-31 14:01 ansible-mysql-client-master/meta/
+-rw-rw-r-- root/root       294 2015-08-31 14:01 ansible-mysql-client-master/meta/main.yml
+-rw-rw-r-- root/root        31 2015-08-31 14:01 ansible-mysql-client-master/playbook.yml
+drwxrwxr-x root/root         0 2015-08-31 14:01 ansible-mysql-client-master/tasks/
+-rw-rw-r-- root/root       320 2015-08-31 14:01 ansible-mysql-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-31 14:01 ansible-mysql-client-master/vars/
+-rw-rw-r-- root/root        41 2015-08-31 14:01 ansible-mysql-client-master/vars/main.yml

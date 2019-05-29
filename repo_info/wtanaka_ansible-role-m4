@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-31 19:56 ansible-role-m4-master/
+-rw-rw-r-- root/root        53 2019-03-31 19:56 ansible-role-m4-master/.gitignore
+-rw-rw-r-- root/root      3419 2019-03-31 19:56 ansible-role-m4-master/.travis.yml
+-rw-rw-r-- root/root       781 2019-03-31 19:56 ansible-role-m4-master/README.md
+-rw-rw-r-- root/root       408 2019-03-31 19:56 ansible-role-m4-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-31 19:56 ansible-role-m4-master/meta/
+-rw-rw-r-- root/root      3513 2019-03-31 19:56 ansible-role-m4-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 19:56 ansible-role-m4-master/tasks/
+-rw-rw-r-- root/root         4 2019-03-31 19:56 ansible-role-m4-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3550 2019-03-31 19:56 ansible-role-m4-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-31 19:56 ansible-role-m4-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       974 2019-03-31 19:56 ansible-role-m4-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       154 2019-03-31 19:56 ansible-role-m4-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 19:56 ansible-role-m4-master/vars/
+-rw-rw-r-- root/root        24 2019-03-31 19:56 ansible-role-m4-master/vars/default.yml

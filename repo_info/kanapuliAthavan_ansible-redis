@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-07 04:59 ansible-redis-master/
+-rw-rw-r-- root/root      1073 2018-02-07 04:59 ansible-redis-master/LICENSE
+-rw-rw-r-- root/root      1727 2018-02-07 04:59 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2018-02-07 04:59 ansible-redis-master/defaults/
+-rw-rw-r-- root/root       851 2018-02-07 04:59 ansible-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-07 04:59 ansible-redis-master/handlers/
+-rw-rw-r-- root/root        89 2018-02-07 04:59 ansible-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-07 04:59 ansible-redis-master/meta/
+-rw-rw-r-- root/root       264 2018-02-07 04:59 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-07 04:59 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       866 2018-02-07 04:59 ansible-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-07 04:59 ansible-redis-master/templates/
+-rw-rw-r-- root/root     58606 2018-02-07 04:59 ansible-redis-master/templates/redis.conf
+drwxrwxr-x root/root         0 2018-02-07 04:59 ansible-redis-master/vars/
+-rw-rw-r-- root/root       102 2018-02-07 04:59 ansible-redis-master/vars/rpm_family.yml

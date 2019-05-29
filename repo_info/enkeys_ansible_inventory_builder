@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-19 10:35 ansible_inventory_builder-master/
+-rw-rw-r-- root/root     11357 2019-05-19 10:35 ansible_inventory_builder-master/LICENSE
+-rw-rw-r-- root/root       982 2019-05-19 10:35 ansible_inventory_builder-master/README.md
+drwxrwxr-x root/root         0 2019-05-19 10:35 ansible_inventory_builder-master/defaults/
+-rw-rw-r-- root/root        96 2019-05-19 10:35 ansible_inventory_builder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-19 10:35 ansible_inventory_builder-master/meta/
+-rw-rw-r-- root/root       486 2019-05-19 10:35 ansible_inventory_builder-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-19 10:35 ansible_inventory_builder-master/tasks/
+-rw-rw-r-- root/root       157 2019-05-19 10:35 ansible_inventory_builder-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-19 10:35 ansible_inventory_builder-master/templates/
+-rw-rw-r-- root/root       158 2019-05-19 10:35 ansible_inventory_builder-master/templates/inventory.ini.j2

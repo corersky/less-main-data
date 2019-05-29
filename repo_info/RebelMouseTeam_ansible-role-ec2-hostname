@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-01-29 02:27 ansible-role-ec2-hostname-master/
+-rw-rw-r-- root/root        17 2018-01-29 02:27 ansible-role-ec2-hostname-master/.gitignore
+-rw-rw-r-- root/root      1860 2018-01-29 02:27 ansible-role-ec2-hostname-master/README.md
+drwxrwxr-x root/root         0 2018-01-29 02:27 ansible-role-ec2-hostname-master/defaults/
+-rw-rw-r-- root/root       232 2018-01-29 02:27 ansible-role-ec2-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-29 02:27 ansible-role-ec2-hostname-master/files/
+-rw-rw-r-- root/root      6133 2018-01-29 02:27 ansible-role-ec2-hostname-master/files/ec2_hostname.py
+drwxrwxr-x root/root         0 2018-01-29 02:27 ansible-role-ec2-hostname-master/meta/
+-rw-rw-r-- root/root       253 2018-01-29 02:27 ansible-role-ec2-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-29 02:27 ansible-role-ec2-hostname-master/tasks/
+-rw-rw-r-- root/root      1456 2018-01-29 02:27 ansible-role-ec2-hostname-master/tasks/main.yml

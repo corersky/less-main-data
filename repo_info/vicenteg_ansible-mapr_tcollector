@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_tcollector-master/
+-rw-rw-r-- root/root      1082 2016-09-08 13:15 ansible-mapr_tcollector-master/LICENSE
+-rw-rw-r-- root/root      1100 2016-09-08 13:15 ansible-mapr_tcollector-master/README.md
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_tcollector-master/defaults/
+-rw-rw-r-- root/root       210 2016-09-08 13:15 ansible-mapr_tcollector-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_tcollector-master/files/
+-rw-rw-r-- root/root       351 2016-09-08 13:15 ansible-mapr_tcollector-master/files/tcollector.service
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_tcollector-master/handlers/
+-rw-rw-r-- root/root        40 2016-09-08 13:15 ansible-mapr_tcollector-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_tcollector-master/meta/
+-rw-rw-r-- root/root      1993 2016-09-08 13:15 ansible-mapr_tcollector-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_tcollector-master/tasks/
+-rw-rw-r-- root/root      1472 2016-09-08 13:15 ansible-mapr_tcollector-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_tcollector-master/templates/
+-rw-rw-r-- root/root      1394 2016-09-08 13:15 ansible-mapr_tcollector-master/templates/etc.mapr_metrics_conf.py.j2
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_tcollector-master/vars/
+-rw-rw-r-- root/root        36 2016-09-08 13:15 ansible-mapr_tcollector-master/vars/main.yml

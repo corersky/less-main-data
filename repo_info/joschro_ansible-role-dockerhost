@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-05 14:51 ansible-role-dockerhost-master/
+-rw-rw-r-- root/root        93 2016-06-05 14:51 ansible-role-dockerhost-master/.travis.yml
+-rw-rw-r-- root/root     35141 2016-06-05 14:51 ansible-role-dockerhost-master/LICENSE
+-rw-rw-r-- root/root      1742 2016-06-05 14:51 ansible-role-dockerhost-master/README.md
+drwxrwxr-x root/root         0 2016-06-05 14:51 ansible-role-dockerhost-master/defaults/
+-rw-rw-r-- root/root        35 2016-06-05 14:51 ansible-role-dockerhost-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-05 14:51 ansible-role-dockerhost-master/handlers/
+-rw-rw-r-- root/root        99 2016-06-05 14:51 ansible-role-dockerhost-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-05 14:51 ansible-role-dockerhost-master/meta/
+-rw-rw-r-- root/root      2586 2016-06-05 14:51 ansible-role-dockerhost-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-05 14:51 ansible-role-dockerhost-master/tasks/
+-rw-rw-r-- root/root      1567 2016-06-05 14:51 ansible-role-dockerhost-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-05 14:51 ansible-role-dockerhost-master/templates/
+-rw-rw-r-- root/root       572 2016-06-05 14:51 ansible-role-dockerhost-master/templates/Fedora-Everything.repo
+drwxrwxr-x root/root         0 2016-06-05 14:51 ansible-role-dockerhost-master/vars/
+-rw-rw-r-- root/root        31 2016-06-05 14:51 ansible-role-dockerhost-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-28 10:50 ansible-role-prometheus-jmx-master/
+-rw-rw-r-- root/root       222 2018-05-28 10:50 ansible-role-prometheus-jmx-master/.travis.yml
+-rw-rw-r-- root/root       230 2018-05-28 10:50 ansible-role-prometheus-jmx-master/README.md
+drwxrwxr-x root/root         0 2018-05-28 10:50 ansible-role-prometheus-jmx-master/files/
+-rw-rw-r-- root/root        24 2018-05-28 10:50 ansible-role-prometheus-jmx-master/files/etc-prometheus-jmx-default-config.yml
+drwxrwxr-x root/root         0 2018-05-28 10:50 ansible-role-prometheus-jmx-master/meta/
+-rw-rw-r-- root/root       249 2018-05-28 10:50 ansible-role-prometheus-jmx-master/meta/main.yml
+-rw-rw-r-- root/root       373 2018-05-28 10:50 ansible-role-prometheus-jmx-master/molecule.yml
+-rw-rw-r-- root/root       886 2018-05-28 10:50 ansible-role-prometheus-jmx-master/playbook.yml
+drwxrwxr-x root/root         0 2018-05-28 10:50 ansible-role-prometheus-jmx-master/tasks/
+-rw-rw-r-- root/root      1028 2018-05-28 10:50 ansible-role-prometheus-jmx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-28 10:50 ansible-role-prometheus-jmx-master/tests/
+drwxrwxr-x root/root         0 2018-05-28 10:50 ansible-role-prometheus-jmx-master/tests/resources/
+-rw-rw-r-- root/root       329 2018-05-28 10:50 ansible-role-prometheus-jmx-master/tests/resources/BusyApp.java
+-rw-rw-r-- root/root       311 2018-05-28 10:50 ansible-role-prometheus-jmx-master/tests/test_default.py
+drwxrwxr-x root/root         0 2018-05-28 10:50 ansible-role-prometheus-jmx-master/vars/
+-rw-rw-r-- root/root       149 2018-05-28 10:50 ansible-role-prometheus-jmx-master/vars/main.yml

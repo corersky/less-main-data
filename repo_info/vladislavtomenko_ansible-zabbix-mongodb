@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-19 14:31 ansible-zabbix-mongodb-master/
+-rw-rw-r-- root/root       539 2017-02-19 14:31 ansible-zabbix-mongodb-master/.travis.yml
+-rw-rw-r-- root/root      1516 2017-02-19 14:31 ansible-zabbix-mongodb-master/LICENSE
+-rw-rw-r-- root/root      2194 2017-02-19 14:31 ansible-zabbix-mongodb-master/README.md
+drwxrwxr-x root/root         0 2017-02-19 14:31 ansible-zabbix-mongodb-master/defaults/
+-rw-rw-r-- root/root       265 2017-02-19 14:31 ansible-zabbix-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-19 14:31 ansible-zabbix-mongodb-master/handlers/
+-rw-rw-r-- root/root        39 2017-02-19 14:31 ansible-zabbix-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-19 14:31 ansible-zabbix-mongodb-master/meta/
+-rw-rw-r-- root/root      3912 2017-02-19 14:31 ansible-zabbix-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-19 14:31 ansible-zabbix-mongodb-master/tasks/
+-rw-rw-r-- root/root      1789 2017-02-19 14:31 ansible-zabbix-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-19 14:31 ansible-zabbix-mongodb-master/tests/
+-rw-rw-r-- root/root         9 2017-02-19 14:31 ansible-zabbix-mongodb-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-02-19 14:31 ansible-zabbix-mongodb-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-19 14:31 ansible-zabbix-mongodb-master/vars/
+-rw-rw-r-- root/root        35 2017-02-19 14:31 ansible-zabbix-mongodb-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-16 16:09 ansible-tranquility-master/
+-rw-rw-r-- root/root       141 2018-04-16 16:09 ansible-tranquility-master/README.md
+drwxrwxr-x root/root         0 2018-04-16 16:09 ansible-tranquility-master/defaults/
+-rw-rw-r-- root/root       151 2018-04-16 16:09 ansible-tranquility-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-16 16:09 ansible-tranquility-master/meta/
+-rw-rw-r-- root/root       293 2018-04-16 16:09 ansible-tranquility-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-16 16:09 ansible-tranquility-master/tasks/
+-rw-rw-r-- root/root       642 2018-04-16 16:09 ansible-tranquility-master/tasks/config.yml
+-rw-rw-r-- root/root       819 2018-04-16 16:09 ansible-tranquility-master/tasks/install.yml
+-rw-rw-r-- root/root       178 2018-04-16 16:09 ansible-tranquility-master/tasks/main.yml
+-rw-rw-r-- root/root       202 2018-04-16 16:09 ansible-tranquility-master/tasks/test.yml
+drwxrwxr-x root/root         0 2018-04-16 16:09 ansible-tranquility-master/templates/
+-rw-rw-r-- root/root       341 2018-04-16 16:09 ansible-tranquility-master/templates/tranquility.service.j2
+drwxrwxr-x root/root         0 2018-04-16 16:09 ansible-tranquility-master/templates/tranquility/
+-rw-rw-r-- root/root      1653 2018-04-16 16:09 ansible-tranquility-master/templates/tranquility/server.json.j2
+drwxrwxr-x root/root         0 2018-04-16 16:09 ansible-tranquility-master/vars/
+-rw-rw-r-- root/root       156 2018-04-16 16:09 ansible-tranquility-master/vars/main.yml

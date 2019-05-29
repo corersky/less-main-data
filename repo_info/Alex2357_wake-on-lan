@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-06 18:08 wake-on-lan-master/
+-rw-rw-r-- root/root       731 2019-01-06 18:08 wake-on-lan-master/README.md
+drwxrwxr-x root/root         0 2019-01-06 18:08 wake-on-lan-master/defaults/
+-rw-rw-r-- root/root        55 2019-01-06 18:08 wake-on-lan-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-06 18:08 wake-on-lan-master/handlers/
+-rw-rw-r-- root/root        35 2019-01-06 18:08 wake-on-lan-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-06 18:08 wake-on-lan-master/meta/
+-rw-rw-r-- root/root      3940 2019-01-06 18:08 wake-on-lan-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-06 18:08 wake-on-lan-master/tasks/
+-rw-rw-r-- root/root       707 2019-01-06 18:08 wake-on-lan-master/tasks/install-and-configure-tlp.yml
+-rw-rw-r-- root/root       134 2019-01-06 18:08 wake-on-lan-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-06 18:08 wake-on-lan-master/tests/
+-rw-rw-r-- root/root        11 2019-01-06 18:08 wake-on-lan-master/tests/inventory
+-rw-rw-r-- root/root        69 2019-01-06 18:08 wake-on-lan-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-06 18:08 wake-on-lan-master/vars/
+-rw-rw-r-- root/root        31 2019-01-06 18:08 wake-on-lan-master/vars/main.yml

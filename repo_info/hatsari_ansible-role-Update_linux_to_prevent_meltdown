@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/
+-rw-rw-r-- root/root      1810 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/README.md
+drwxrwxr-x root/root         0 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/meta/
+-rw-rw-r-- root/root      3750 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/meta/main.yml
+-rw-rw-r-- root/root      3595 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/meta/main.yml~
+drwxrwxr-x root/root         0 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/tasks/
+-rw-rw-r-- root/root      1206 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/templates/
+-rw-rw-r-- root/root       564 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/templates/centos7.repo
+drwxrwxr-x root/root         0 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/tests/
+-rw-rw-r-- root/root        29 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/tests/inventory
+-rw-rw-r-- root/root         3 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/tests/meltdown_patch.retry
+-rw-rw-r-- root/root      1462 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/tests/meltdown_patch.yml
+-rw-rw-r-- root/root       101 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/vars/
+-rw-rw-r-- root/root        79 2018-01-09 04:24 ansible-role-Update_linux_to_prevent_meltdown-master/vars/main.yml

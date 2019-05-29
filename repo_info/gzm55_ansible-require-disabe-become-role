@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-17 21:16 ansible-require-disabe-become-role-master/
+-rw-rw-r-- root/root         8 2018-12-17 21:16 ansible-require-disabe-become-role-master/.gitignore
+-rw-rw-r-- root/root      3200 2018-12-17 21:16 ansible-require-disabe-become-role-master/.travis.yml
+-rw-rw-r-- root/root      1320 2018-12-17 21:16 ansible-require-disabe-become-role-master/LICENSE
+-rw-rw-r-- root/root      1277 2018-12-17 21:16 ansible-require-disabe-become-role-master/README.md
+drwxrwxr-x root/root         0 2018-12-17 21:16 ansible-require-disabe-become-role-master/meta/
+-rw-rw-r-- root/root       438 2018-12-17 21:16 ansible-require-disabe-become-role-master/meta/main.yml
+-rw-rw-r-- root/root        29 2018-12-17 21:16 ansible-require-disabe-become-role-master/requirements-test.yml
+-rw-rw-r-- root/root        25 2018-12-17 21:16 ansible-require-disabe-become-role-master/requirements.txt
+drwxrwxr-x root/root         0 2018-12-17 21:16 ansible-require-disabe-become-role-master/tasks/
+-rw-rw-r-- root/root      1005 2018-12-17 21:16 ansible-require-disabe-become-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-17 21:16 ansible-require-disabe-become-role-master/tests/
+-rw-rw-r-- root/root       116 2018-12-17 21:16 ansible-require-disabe-become-role-master/tests/inventory
+-rw-rw-r-- root/root       430 2018-12-17 21:16 ansible-require-disabe-become-role-master/tests/test.yml

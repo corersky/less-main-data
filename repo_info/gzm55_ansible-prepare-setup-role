@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-26 03:00 ansible-prepare-setup-role-master/
+-rw-rw-r-- root/root         8 2019-04-26 03:00 ansible-prepare-setup-role-master/.gitignore
+-rw-rw-r-- root/root      2571 2019-04-26 03:00 ansible-prepare-setup-role-master/.travis.yml
+-rw-rw-r-- root/root      1320 2019-04-26 03:00 ansible-prepare-setup-role-master/LICENSE
+-rw-rw-r-- root/root       897 2019-04-26 03:00 ansible-prepare-setup-role-master/README.md
+drwxrwxr-x root/root         0 2019-04-26 03:00 ansible-prepare-setup-role-master/meta/
+-rw-rw-r-- root/root       629 2019-04-26 03:00 ansible-prepare-setup-role-master/meta/main.yml
+-rw-rw-r-- root/root        38 2019-04-26 03:00 ansible-prepare-setup-role-master/requirements.txt
+-rw-rw-r-- root/root       223 2019-04-26 03:00 ansible-prepare-setup-role-master/requirements.yml
+drwxrwxr-x root/root         0 2019-04-26 03:00 ansible-prepare-setup-role-master/tests/
+-rw-rw-r-- root/root       996 2019-04-26 03:00 ansible-prepare-setup-role-master/tests/Dockerfile
+-rw-rw-r-- root/root       917 2019-04-26 03:00 ansible-prepare-setup-role-master/tests/inventory
+-rw-rw-r-- root/root       260 2019-04-26 03:00 ansible-prepare-setup-role-master/tests/test.yml

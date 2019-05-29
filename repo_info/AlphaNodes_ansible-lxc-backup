@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-10-13 13:39 ansible-lxc-backup-master/
+-rw-rw-r-- root/root        19 2018-10-13 13:39 ansible-lxc-backup-master/.gitignore
+-rw-rw-r-- root/root     35141 2018-10-13 13:39 ansible-lxc-backup-master/LICENSE
+-rw-rw-r-- root/root       476 2018-10-13 13:39 ansible-lxc-backup-master/README.md
+drwxrwxr-x root/root         0 2018-10-13 13:39 ansible-lxc-backup-master/defaults/
+-rw-rw-r-- root/root       524 2018-10-13 13:39 ansible-lxc-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-13 13:39 ansible-lxc-backup-master/meta/
+-rw-rw-r-- root/root       362 2018-10-13 13:39 ansible-lxc-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-13 13:39 ansible-lxc-backup-master/tasks/
+-rw-rw-r-- root/root      1053 2018-10-13 13:39 ansible-lxc-backup-master/tasks/clear.yml
+-rw-rw-r-- root/root      1570 2018-10-13 13:39 ansible-lxc-backup-master/tasks/lxc.yml
+-rw-rw-r-- root/root       486 2018-10-13 13:39 ansible-lxc-backup-master/tasks/main.yml

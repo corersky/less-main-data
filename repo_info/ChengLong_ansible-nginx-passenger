@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-09-20 06:42 ansible-nginx-passenger-master/
+-rw-rw-r-- root/root      1010 2015-09-20 06:42 ansible-nginx-passenger-master/README.md
+drwxrwxr-x root/root         0 2015-09-20 06:42 ansible-nginx-passenger-master/defaults/
+-rw-rw-r-- root/root        48 2015-09-20 06:42 ansible-nginx-passenger-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-20 06:42 ansible-nginx-passenger-master/handlers/
+-rw-rw-r-- root/root        48 2015-09-20 06:42 ansible-nginx-passenger-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-20 06:42 ansible-nginx-passenger-master/meta/
+-rw-rw-r-- root/root      1525 2015-09-20 06:42 ansible-nginx-passenger-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-20 06:42 ansible-nginx-passenger-master/tasks/
+-rw-rw-r-- root/root      1424 2015-09-20 06:42 ansible-nginx-passenger-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-20 06:42 ansible-nginx-passenger-master/templates/
+-rw-rw-r-- root/root        85 2015-09-20 06:42 ansible-nginx-passenger-master/templates/passenger.list
+drwxrwxr-x root/root         0 2015-09-20 06:42 ansible-nginx-passenger-master/vars/
+-rw-rw-r-- root/root        44 2015-09-20 06:42 ansible-nginx-passenger-master/vars/main.yml

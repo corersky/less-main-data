@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-17 16:01 ansible-role-gvm-master/
+-rw-rw-r-- root/root        30 2016-03-17 16:01 ansible-role-gvm-master/.gitignore
+-rw-rw-r-- root/root      1056 2016-03-17 16:01 ansible-role-gvm-master/README.md
+drwxrwxr-x root/root         0 2016-03-17 16:01 ansible-role-gvm-master/defaults/
+-rw-rw-r-- root/root        99 2016-03-17 16:01 ansible-role-gvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-17 16:01 ansible-role-gvm-master/meta/
+-rw-rw-r-- root/root      1379 2016-03-17 16:01 ansible-role-gvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-17 16:01 ansible-role-gvm-master/tasks/
+-rw-rw-r-- root/root       643 2016-03-17 16:01 ansible-role-gvm-master/tasks/main.yml
+-rw-rw-r-- root/root       218 2016-03-17 16:01 ansible-role-gvm-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       164 2016-03-17 16:01 ansible-role-gvm-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2016-03-17 16:01 ansible-role-gvm-master/vars/
+-rw-rw-r-- root/root       105 2016-03-17 16:01 ansible-role-gvm-master/vars/Debian.yml
+-rw-rw-r-- root/root       109 2016-03-17 16:01 ansible-role-gvm-master/vars/RedHat.yml

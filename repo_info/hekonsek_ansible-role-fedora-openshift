@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-08-23 14:54 ansible-role-fedora-openshift-master/
+-rw-rw-r-- root/root        13 2017-08-23 14:54 ansible-role-fedora-openshift-master/.gitignore
+-rw-rw-r-- root/root       773 2017-08-23 14:54 ansible-role-fedora-openshift-master/README.md
+drwxrwxr-x root/root         0 2017-08-23 14:54 ansible-role-fedora-openshift-master/defaults/
+-rw-rw-r-- root/root        67 2017-08-23 14:54 ansible-role-fedora-openshift-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-23 14:54 ansible-role-fedora-openshift-master/meta/
+-rw-rw-r-- root/root       348 2017-08-23 14:54 ansible-role-fedora-openshift-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-23 14:54 ansible-role-fedora-openshift-master/tasks/
+-rw-rw-r-- root/root        45 2017-08-23 14:54 ansible-role-fedora-openshift-master/tasks/daemon.json
+-rw-rw-r-- root/root      4095 2017-08-23 14:54 ansible-role-fedora-openshift-master/tasks/main.yml
+-rw-rw-r-- root/root       250 2017-08-23 14:54 ansible-role-fedora-openshift-master/tasks/openshift.service
+drwxrwxr-x root/root         0 2017-08-23 14:54 ansible-role-fedora-openshift-master/tests/
+-rw-rw-r-- root/root       138 2017-08-23 14:54 ansible-role-fedora-openshift-master/tests/test-aws.yml
+-rw-rw-r-- root/root        84 2017-08-23 14:54 ansible-role-fedora-openshift-master/tests/test-local.yml

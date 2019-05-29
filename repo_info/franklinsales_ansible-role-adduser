@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-09 17:37 ansible-role-adduser-master/
+-rw-rw-r-- root/root       539 2017-04-09 17:37 ansible-role-adduser-master/.travis.yml
+-rw-rw-r-- root/root      1071 2017-04-09 17:37 ansible-role-adduser-master/LICENSE
+-rw-rw-r-- root/root      1360 2017-04-09 17:37 ansible-role-adduser-master/README.md
+drwxrwxr-x root/root         0 2017-04-09 17:37 ansible-role-adduser-master/defaults/
+-rw-rw-r-- root/root       160 2017-04-09 17:37 ansible-role-adduser-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-09 17:37 ansible-role-adduser-master/handlers/
+-rw-rw-r-- root/root       110 2017-04-09 17:37 ansible-role-adduser-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-09 17:37 ansible-role-adduser-master/meta/
+-rw-rw-r-- root/root      3900 2017-04-09 17:37 ansible-role-adduser-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-09 17:37 ansible-role-adduser-master/tasks/
+-rw-rw-r-- root/root      1135 2017-04-09 17:37 ansible-role-adduser-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-09 17:37 ansible-role-adduser-master/tests/
+-rw-rw-r-- root/root         9 2017-04-09 17:37 ansible-role-adduser-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-04-09 17:37 ansible-role-adduser-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-09 17:37 ansible-role-adduser-master/vars/
+-rw-rw-r-- root/root        30 2017-04-09 17:37 ansible-role-adduser-master/vars/main.yml

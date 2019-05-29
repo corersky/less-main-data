@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-10 03:15 ansible-role-composer-master/
+-rw-rw-r-- root/root      1182 2016-08-10 03:15 ansible-role-composer-master/.travis.yml
+-rw-rw-r-- root/root       587 2016-08-10 03:15 ansible-role-composer-master/README.md
+drwxrwxr-x root/root         0 2016-08-10 03:15 ansible-role-composer-master/defaults/
+-rw-rw-r-- root/root       115 2016-08-10 03:15 ansible-role-composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-10 03:15 ansible-role-composer-master/meta/
+-rw-rw-r-- root/root       318 2016-08-10 03:15 ansible-role-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-10 03:15 ansible-role-composer-master/tasks/
+-rw-rw-r-- root/root       305 2016-08-10 03:15 ansible-role-composer-master/tasks/install.yml
+-rw-rw-r-- root/root       385 2016-08-10 03:15 ansible-role-composer-master/tasks/main.yml
+-rw-rw-r-- root/root       453 2016-08-10 03:15 ansible-role-composer-master/tasks/update.yml
+drwxrwxr-x root/root         0 2016-08-10 03:15 ansible-role-composer-master/tests/
+-rw-rw-r-- root/root         9 2016-08-10 03:15 ansible-role-composer-master/tests/inventory
+-rw-rw-r-- root/root       175 2016-08-10 03:15 ansible-role-composer-master/tests/test.yml

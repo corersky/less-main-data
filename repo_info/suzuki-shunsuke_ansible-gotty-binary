@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-06 07:29 ansible-gotty-binary-master/
+-rw-rw-r-- root/root        17 2016-11-06 07:29 ansible-gotty-binary-master/.gitignore
+-rw-rw-r-- root/root       339 2016-11-06 07:29 ansible-gotty-binary-master/.travis.yml
+-rw-rw-r-- root/root       920 2016-11-06 07:29 ansible-gotty-binary-master/README.md
+drwxrwxr-x root/root         0 2016-11-06 07:29 ansible-gotty-binary-master/defaults/
+-rw-rw-r-- root/root       189 2016-11-06 07:29 ansible-gotty-binary-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-06 07:29 ansible-gotty-binary-master/meta/
+-rw-rw-r-- root/root       246 2016-11-06 07:29 ansible-gotty-binary-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-06 07:29 ansible-gotty-binary-master/tasks/
+-rw-rw-r-- root/root       783 2016-11-06 07:29 ansible-gotty-binary-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-06 07:29 ansible-gotty-binary-master/tests/
+-rw-rw-r-- root/root       276 2016-11-06 07:29 ansible-gotty-binary-master/tests/Vagrantfile
+-rw-rw-r-- root/root        31 2016-11-06 07:29 ansible-gotty-binary-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2016-11-06 07:29 ansible-gotty-binary-master/tests/inventory-local
+-rw-rw-r-- root/root       192 2016-11-06 07:29 ansible-gotty-binary-master/tests/test.yml

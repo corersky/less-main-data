@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/
+-rw-rw-r-- root/root        66 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/.gitignore
+-rw-rw-r-- root/root      1507 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/LICENSE.mkd
+-rw-rw-r-- root/root      1694 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/README.md
+drwxrwxr-x root/root         0 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/defaults/
+-rw-rw-r-- root/root       824 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/meta/
+-rw-rw-r-- root/root        60 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       562 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/tasks/
+-rw-rw-r-- root/root       287 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/templates/
+-rw-rw-r-- root/root       321 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/templates/configmap.yml.j2
+-rw-rw-r-- root/root      2066 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root      1515 2017-11-16 19:38 ansible-role-kubernetes-kube-lego-master/templates/rbac.yml.j2

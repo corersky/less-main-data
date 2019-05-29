@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-23 06:08 ansible-role-terrahelp-master/
+-rw-rw-r-- root/root        28 2019-05-23 06:08 ansible-role-terrahelp-master/.gitignore
+-rw-rw-r-- root/root       694 2019-05-23 06:08 ansible-role-terrahelp-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-23 06:08 ansible-role-terrahelp-master/LICENSE
+-rw-rw-r-- root/root       586 2019-05-23 06:08 ansible-role-terrahelp-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 06:08 ansible-role-terrahelp-master/defaults/
+-rw-rw-r-- root/root        34 2019-05-23 06:08 ansible-role-terrahelp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:08 ansible-role-terrahelp-master/meta/
+-rw-rw-r-- root/root       363 2019-05-23 06:08 ansible-role-terrahelp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:08 ansible-role-terrahelp-master/tasks/
+-rw-rw-r-- root/root       227 2019-05-23 06:08 ansible-role-terrahelp-master/tasks/download.yml
+-rw-rw-r-- root/root       543 2019-05-23 06:08 ansible-role-terrahelp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:08 ansible-role-terrahelp-master/tests/
+-rw-rw-r-- root/root         9 2019-05-23 06:08 ansible-role-terrahelp-master/tests/inventory
+-rw-rw-r-- root/root       101 2019-05-23 06:08 ansible-role-terrahelp-master/tests/test.yml

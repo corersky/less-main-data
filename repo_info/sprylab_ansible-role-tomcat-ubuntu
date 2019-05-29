@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/
+-rw-rw-r-- root/root      1561 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/.gitignore
+-rw-rw-r-- root/root     11357 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/LICENSE
+-rw-rw-r-- root/root      7763 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/README.md
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/defaults/
+-rw-rw-r-- root/root       890 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/examples/
+-rw-rw-r-- root/root       387 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/examples/roles/
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/examples/roles/openjdk/
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/examples/roles/openjdk/tasks/
+-rw-rw-r-- root/root       117 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/examples/roles/openjdk/tasks/main.yml
+lrwxrwxrwx root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/examples/roles/sprylab.tomcat-ubuntu -> ../..
+-rw-rw-r-- root/root       168 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/handlers/
+-rw-rw-r-- root/root       149 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/meta/
+-rw-rw-r-- root/root       368 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/tasks/
+-rw-rw-r-- root/root      5363 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/tasks/main.yml
+-rw-rw-r-- root/root      3402 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/tasks/user-instance.yml
+drwxrwxr-x root/root         0 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/templates/
+-rwxrwxr-x root/root      8105 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/templates/init.j2
+-rw-rw-r-- root/root      6674 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/templates/server.j2
+-rw-rw-r-- root/root      1454 2016-09-23 09:44 ansible-role-tomcat-ubuntu-master/templates/tomcat-users.j2

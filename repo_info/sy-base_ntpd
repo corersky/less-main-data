@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-18 22:05 ntpd-master/
+-rw-rw-r-- root/root      1210 2018-10-18 22:05 ntpd-master/README.md
+drwxrwxr-x root/root         0 2018-10-18 22:05 ntpd-master/defaults/
+-rw-rw-r-- root/root       145 2018-10-18 22:05 ntpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-18 22:05 ntpd-master/handlers/
+-rw-rw-r-- root/root        91 2018-10-18 22:05 ntpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-18 22:05 ntpd-master/meta/
+-rw-rw-r-- root/root       657 2018-10-18 22:05 ntpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-18 22:05 ntpd-master/tasks/
+-rw-rw-r-- root/root       940 2018-10-18 22:05 ntpd-master/tasks/main.yml
+-rw-rw-r-- root/root       186 2018-10-18 22:05 ntpd-master/tasks/redhat-absent.yml
+-rw-rw-r-- root/root       300 2018-10-18 22:05 ntpd-master/tasks/redhat-present.yml
+drwxrwxr-x root/root         0 2018-10-18 22:05 ntpd-master/templates/
+-rw-rw-r-- root/root       359 2018-10-18 22:05 ntpd-master/templates/ntp.conf.j2
+drwxrwxr-x root/root         0 2018-10-18 22:05 ntpd-master/vars/
+-rw-rw-r-- root/root        58 2018-10-18 22:05 ntpd-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-16 14:25 travis-testing-master/
+-rw-rw-r-- root/root      2473 2019-01-16 14:25 travis-testing-master/.travis-original.yml
+-rw-rw-r-- root/root       178 2019-01-16 14:25 travis-testing-master/.travis.yml
+-rw-rw-r-- root/root      1068 2019-01-16 14:25 travis-testing-master/LICENSE
+-rw-rw-r-- root/root        16 2019-01-16 14:25 travis-testing-master/README.md
+-rwxrwxr-x root/root       411 2019-01-16 14:25 travis-testing-master/debug.sh
+drwxrwxr-x root/root         0 2019-01-16 14:25 travis-testing-master/defaults/
+-rw-rw-r-- root/root        70 2019-01-16 14:25 travis-testing-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-16 14:25 travis-testing-master/tasks/
+-rw-rw-r-- root/root       226 2019-01-16 14:25 travis-testing-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-16 14:25 travis-testing-master/tests/
+-rw-rw-r-- root/root      1259 2019-01-16 14:25 travis-testing-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root      2285 2019-01-16 14:25 travis-testing-master/tests/Dockerfile.ubuntu-16.04
+-rw-rw-r-- root/root        39 2019-01-16 14:25 travis-testing-master/tests/ansible.cfg
+-rw-rw-r-- root/root        47 2019-01-16 14:25 travis-testing-master/tests/test.yml

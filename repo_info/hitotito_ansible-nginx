@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-04-27 19:08 ansible-nginx-master/
+-rw-rw-r-- root/root      1083 2018-04-27 19:08 ansible-nginx-master/LICENSE.txt
+-rw-rw-r-- root/root       194 2018-04-27 19:08 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2018-04-27 19:08 ansible-nginx-master/files/
+-rw-rw-r-- root/root       492 2018-04-27 19:08 ansible-nginx-master/files/nginx.fact
+drwxrwxr-x root/root         0 2018-04-27 19:08 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       404 2018-04-27 19:08 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-27 19:08 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root       391 2018-04-27 19:08 ansible-nginx-master/tasks/install.yml
+-rw-rw-r-- root/root       150 2018-04-27 19:08 ansible-nginx-master/tasks/main.yml

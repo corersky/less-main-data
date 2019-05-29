@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2018-08-09 10:33 ansible-role-certbot-master/
+-rw-rw-r-- root/root       147 2018-08-09 10:33 ansible-role-certbot-master/.editorconfig
+-rw-rw-r-- root/root        29 2018-08-09 10:33 ansible-role-certbot-master/.gitignore
+-rw-rw-r-- root/root       778 2018-08-09 10:33 ansible-role-certbot-master/.travis.yml
+-rw-rw-r-- root/root      1188 2018-08-09 10:33 ansible-role-certbot-master/README.md
+-rw-rw-r-- root/root       345 2018-08-09 10:33 ansible-role-certbot-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-08-09 10:33 ansible-role-certbot-master/defaults/
+-rw-rw-r-- root/root       251 2018-08-09 10:33 ansible-role-certbot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-09 10:33 ansible-role-certbot-master/meta/
+-rw-rw-r-- root/root       275 2018-08-09 10:33 ansible-role-certbot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-09 10:33 ansible-role-certbot-master/tasks/
+-rw-rw-r-- root/root       925 2018-08-09 10:33 ansible-role-certbot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-09 10:33 ansible-role-certbot-master/templates/
+drwxrwxr-x root/root         0 2018-08-09 10:33 ansible-role-certbot-master/templates/etc/
+drwxrwxr-x root/root         0 2018-08-09 10:33 ansible-role-certbot-master/templates/etc/letsencrypt/
+-rw-rw-r-- root/root       357 2018-08-09 10:33 ansible-role-certbot-master/templates/etc/letsencrypt/cli.ini
+drwxrwxr-x root/root         0 2018-08-09 10:33 ansible-role-certbot-master/tests/
+-rw-rw-r-- root/root       117 2018-08-09 10:33 ansible-role-certbot-master/tests/role.yml
+lrwxrwxrwx root/root         0 2018-08-09 10:33 ansible-role-certbot-master/tests/role_under_test -> ..

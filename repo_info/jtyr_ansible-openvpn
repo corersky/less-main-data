@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-08 17:21 ansible-openvpn-master/
+-rw-rw-r-- root/root         0 2018-02-08 17:21 ansible-openvpn-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-02-08 17:21 ansible-openvpn-master/LICENSE
+-rw-rw-r-- root/root     12537 2018-02-08 17:21 ansible-openvpn-master/README.md
+drwxrwxr-x root/root         0 2018-02-08 17:21 ansible-openvpn-master/defaults/
+-rw-rw-r-- root/root      7863 2018-02-08 17:21 ansible-openvpn-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-02-08 17:21 ansible-openvpn-master/handlers/
+-rw-rw-r-- root/root       199 2018-02-08 17:21 ansible-openvpn-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2018-02-08 17:21 ansible-openvpn-master/meta/
+-rw-rw-r-- root/root       382 2018-02-08 17:21 ansible-openvpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-08 17:21 ansible-openvpn-master/tasks/
+-rw-rw-r-- root/root      3276 2018-02-08 17:21 ansible-openvpn-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-02-08 17:21 ansible-openvpn-master/templates/
+-rw-rw-r-- root/root        82 2018-02-08 17:21 ansible-openvpn-master/templates/server.conf.j2

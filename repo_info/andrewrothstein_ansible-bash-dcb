@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-04 20:46 ansible-bash-dcb-master/
+-rw-rw-r-- root/root        27 2016-12-04 20:46 ansible-bash-dcb-master/.gitignore
+-rw-rw-r-- root/root      1084 2016-12-04 20:46 ansible-bash-dcb-master/LICENSE
+-rw-rw-r-- root/root       558 2016-12-04 20:46 ansible-bash-dcb-master/README.md
+-rw-rw-r-- root/root       944 2016-12-04 20:46 ansible-bash-dcb-master/circle.yml
+drwxrwxr-x root/root         0 2016-12-04 20:46 ansible-bash-dcb-master/files/
+-rwxrwxr-x root/root       142 2016-12-04 20:46 ansible-bash-dcb-master/files/dcb-build.sh
+-rwxrwxr-x root/root       229 2016-12-04 20:46 ansible-bash-dcb-master/files/dcb-circleci-build-fixedsubdirs.sh
+-rwxrwxr-x root/root       220 2016-12-04 20:46 ansible-bash-dcb-master/files/dcb-circleci-test-fixedsubdirs.sh
+-rwxrwxr-x root/root       362 2016-12-04 20:46 ansible-bash-dcb-master/files/dcb-env.sh
+-rwxrwxr-x root/root       137 2016-12-04 20:46 ansible-bash-dcb-master/files/dcb-test.sh
+drwxrwxr-x root/root         0 2016-12-04 20:46 ansible-bash-dcb-master/meta/
+-rw-rw-r-- root/root       727 2016-12-04 20:46 ansible-bash-dcb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-04 20:46 ansible-bash-dcb-master/tasks/
+-rw-rw-r-- root/root         4 2016-12-04 20:46 ansible-bash-dcb-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2016-12-04 20:46 ansible-bash-dcb-master/test.yml

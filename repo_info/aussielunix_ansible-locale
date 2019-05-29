@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2015-08-22 19:13 ansible-locale-master/
+-rw-rw-r-- root/root        22 2015-08-22 19:13 ansible-locale-master/.gitignore
+-rw-rw-r-- root/root       856 2015-08-22 19:13 ansible-locale-master/README.md
+-rw-rw-r-- root/root       565 2015-08-22 19:13 ansible-locale-master/circle.yml
+drwxrwxr-x root/root         0 2015-08-22 19:13 ansible-locale-master/defaults/
+-rw-rw-r-- root/root        38 2015-08-22 19:13 ansible-locale-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-22 19:13 ansible-locale-master/meta/
+-rw-rw-r-- root/root       313 2015-08-22 19:13 ansible-locale-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-22 19:13 ansible-locale-master/tasks/
+-rw-rw-r-- root/root       153 2015-08-22 19:13 ansible-locale-master/tasks/main.yml
+-rw-rw-r-- root/root        70 2015-08-22 19:13 ansible-locale-master/tasks/redhat.yml
+-rw-rw-r-- root/root       256 2015-08-22 19:13 ansible-locale-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2015-08-22 19:13 ansible-locale-master/templates/
+-rw-rw-r-- root/root        56 2015-08-22 19:13 ansible-locale-master/templates/locale-ubuntu.j2
+drwxrwxr-x root/root         0 2015-08-22 19:13 ansible-locale-master/tests/
+-rw-rw-r-- root/root       496 2015-08-22 19:13 ansible-locale-master/tests/.hack.sh
+-rw-rw-r-- root/root      1233 2015-08-22 19:13 ansible-locale-master/tests/Vagrantfile
+-rw-rw-r-- root/root        94 2015-08-22 19:13 ansible-locale-master/tests/ansible.cfg
+-rw-rw-r-- root/root        47 2015-08-22 19:13 ansible-locale-master/tests/inventory
+drwxrwxr-x root/root         0 2015-08-22 19:13 ansible-locale-master/tests/roles/
+lrwxrwxrwx root/root         0 2015-08-22 19:13 ansible-locale-master/tests/roles/aussielunix.locale -> ../..
+-rw-rw-r-- root/root        98 2015-08-22 19:13 ansible-locale-master/tests/test.yml

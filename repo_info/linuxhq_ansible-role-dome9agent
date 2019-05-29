@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-01 14:43 ansible-role-dome9agent-master/
+-rw-rw-r-- root/root       317 2018-07-01 14:43 ansible-role-dome9agent-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-07-01 14:43 ansible-role-dome9agent-master/COPYING
+-rw-rw-r-- root/root      2601 2018-07-01 14:43 ansible-role-dome9agent-master/README.md
+drwxrwxr-x root/root         0 2018-07-01 14:43 ansible-role-dome9agent-master/defaults/
+-rw-rw-r-- root/root       676 2018-07-01 14:43 ansible-role-dome9agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-01 14:43 ansible-role-dome9agent-master/handlers/
+-rw-rw-r-- root/root       114 2018-07-01 14:43 ansible-role-dome9agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-01 14:43 ansible-role-dome9agent-master/meta/
+-rw-rw-r-- root/root       277 2018-07-01 14:43 ansible-role-dome9agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-01 14:43 ansible-role-dome9agent-master/tasks/
+-rw-rw-r-- root/root      1169 2018-07-01 14:43 ansible-role-dome9agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-01 14:43 ansible-role-dome9agent-master/templates/
+-rw-rw-r-- root/root       990 2018-07-01 14:43 ansible-role-dome9agent-master/templates/agent.conf.j2
+drwxrwxr-x root/root         0 2018-07-01 14:43 ansible-role-dome9agent-master/tests/
+-rw-rw-r-- root/root        10 2018-07-01 14:43 ansible-role-dome9agent-master/tests/inventory
+-rw-rw-r-- root/root        86 2018-07-01 14:43 ansible-role-dome9agent-master/tests/test.yml

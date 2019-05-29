@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2013-04-22 22:14 ansible-playbook-deluge-master/
+-rw-rw-r-- root/root       791 2013-04-22 22:14 ansible-playbook-deluge-master/README.md
+drwxrwxr-x root/root         0 2013-04-22 22:14 ansible-playbook-deluge-master/handlers/
+-rw-rw-r-- root/root       207 2013-04-22 22:14 ansible-playbook-deluge-master/handlers/main.yml
+-rw-rw-r-- root/root       170 2013-04-22 22:14 ansible-playbook-deluge-master/main.yml
+drwxrwxr-x root/root         0 2013-04-22 22:14 ansible-playbook-deluge-master/tasks/
+-rw-rw-r-- root/root      1126 2013-04-22 22:14 ansible-playbook-deluge-master/tasks/main.yml
+drwxrwxr-x root/root         0 2013-04-22 22:14 ansible-playbook-deluge-master/templates/
+drwxrwxr-x root/root         0 2013-04-22 22:14 ansible-playbook-deluge-master/templates/etc/
+drwxrwxr-x root/root         0 2013-04-22 22:14 ansible-playbook-deluge-master/templates/etc/init/
+-rw-rw-r-- root/root       506 2013-04-22 22:14 ansible-playbook-deluge-master/templates/etc/init/deluge-web.conf.j2
+-rw-rw-r-- root/root       499 2013-04-22 22:14 ansible-playbook-deluge-master/templates/etc/init/deluged.conf.j2
+drwxrwxr-x root/root         0 2013-04-22 22:14 ansible-playbook-deluge-master/vars/
+-rw-rw-r-- root/root       976 2013-04-22 22:14 ansible-playbook-deluge-master/vars/main.yml

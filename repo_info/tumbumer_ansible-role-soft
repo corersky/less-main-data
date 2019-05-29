@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-05-26 09:57 ansible-role-soft-master/
+-rw-rw-r-- root/root     11357 2018-05-26 09:57 ansible-role-soft-master/LICENSE
+-rw-rw-r-- root/root      1534 2018-05-26 09:57 ansible-role-soft-master/README.md
+drwxrwxr-x root/root         0 2018-05-26 09:57 ansible-role-soft-master/meta/
+-rw-rw-r-- root/root       310 2018-05-26 09:57 ansible-role-soft-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-26 09:57 ansible-role-soft-master/tasks/
+-rw-rw-r-- root/root      1748 2018-05-26 09:57 ansible-role-soft-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-26 09:57 ansible-role-soft-master/templates/
+-rw-rw-r-- root/root      1183 2018-05-26 09:57 ansible-role-soft-master/templates/sources.list.ubuntu.j2

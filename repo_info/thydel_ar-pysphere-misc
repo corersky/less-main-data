@@ -1,0 +1,32 @@
+drwxrwxr-x root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/
+-rw-rw-r-- root/root        28 2018-03-16 09:13 ar-pysphere-misc-master/.gitignore
+-rw-rw-r-- root/root      1019 2018-03-16 09:13 ar-pysphere-misc-master/Makefile
+-rw-rw-r-- root/root      5954 2018-03-16 09:13 ar-pysphere-misc-master/README.md
+-rw-rw-r-- root/root       370 2018-03-16 09:13 ar-pysphere-misc-master/library.mk
+drwxrwxr-x root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/
+-rw-rw-r-- root/root      7302 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_disk
+drwxrwxr-x root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_disk.d/
+lrwxrwxrwx root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_disk.d/Makefile -> ../../library.mk
+-rw-rw-r-- root/root      1345 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_disk.d/documentation.yml
+-rw-rw-r-- root/root       142 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_disk.d/examples.yml
+-rw-rw-r-- root/root      5864 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_disk.d/module.py
+-rw-rw-r-- root/root      6478 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_nic
+drwxrwxr-x root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_nic.d/
+lrwxrwxrwx root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_nic.d/Makefile -> ../../library.mk
+-rw-rw-r-- root/root      1174 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_nic.d/documentation.yml
+-rw-rw-r-- root/root       174 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_nic.d/examples.yml
+-rw-rw-r-- root/root      5179 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_add_nic.d/module.py
+-rw-rw-r-- root/root      4659 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_extraconfig
+drwxrwxr-x root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_extraconfig.d/
+lrwxrwxrwx root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_extraconfig.d/Makefile -> ../../library.mk
+-rw-rw-r-- root/root      1342 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_extraconfig.d/documentation.yml
+-rw-rw-r-- root/root       210 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_extraconfig.d/examples.yml
+-rw-rw-r-- root/root      3156 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_extraconfig.d/module.py
+-rw-rw-r-- root/root      3409 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_status
+drwxrwxr-x root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_status.d/
+lrwxrwxrwx root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_status.d/Makefile -> ../../library.mk
+-rw-rw-r-- root/root      1050 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_status.d/documentation.yml
+-rw-rw-r-- root/root       130 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_status.d/examples.yml
+-rw-rw-r-- root/root      2278 2018-03-16 09:13 ar-pysphere-misc-master/library/vsphere_status.d/module.py
+drwxrwxr-x root/root         0 2018-03-16 09:13 ar-pysphere-misc-master/meta/
+-rw-rw-r-- root/root       259 2018-03-16 09:13 ar-pysphere-misc-master/meta/main.yml

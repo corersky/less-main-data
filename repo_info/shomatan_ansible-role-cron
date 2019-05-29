@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-03-27 03:56 ansible-role-cron-master/
+-rw-rw-r-- root/root       539 2017-03-27 03:56 ansible-role-cron-master/.travis.yml
+-rw-rw-r-- root/root       413 2017-03-27 03:56 ansible-role-cron-master/README.md
+drwxrwxr-x root/root         0 2017-03-27 03:56 ansible-role-cron-master/meta/
+-rw-rw-r-- root/root       250 2017-03-27 03:56 ansible-role-cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-27 03:56 ansible-role-cron-master/tasks/
+-rw-rw-r-- root/root       359 2017-03-27 03:56 ansible-role-cron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-27 03:56 ansible-role-cron-master/tests/
+-rw-rw-r-- root/root         9 2017-03-27 03:56 ansible-role-cron-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-03-27 03:56 ansible-role-cron-master/tests/test.yml

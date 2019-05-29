@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/
+-rw-rw-r-- root/root       424 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/.travis.yml
+-rw-rw-r-- root/root      1121 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/LICENSE
+-rw-rw-r-- root/root       923 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/README.md
+drwxrwxr-x root/root         0 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/defaults/
+-rw-rw-r-- root/root        42 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/meta/
+-rw-rw-r-- root/root       276 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/tasks/
+-rw-rw-r-- root/root       649 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/tests/
+-rw-rw-r-- root/root        11 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/tests/inventory
+-rw-rw-r-- root/root        94 2017-07-04 08:44 ansible-role-gitlab-ci-multi-runner-master/tests/test.yml

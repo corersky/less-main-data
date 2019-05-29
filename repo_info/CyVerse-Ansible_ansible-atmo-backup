@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-16 11:06 ansible-atmo-backup-master/
+-rw-rw-r-- root/root       972 2017-06-16 11:06 ansible-atmo-backup-master/.travis.yml
+-rw-rw-r-- root/root      1945 2017-06-16 11:06 ansible-atmo-backup-master/LICENSE.txt
+-rw-rw-r-- root/root       251 2017-06-16 11:06 ansible-atmo-backup-master/README.md
+drwxrwxr-x root/root         0 2017-06-16 11:06 ansible-atmo-backup-master/files/
+-rw-rw-r-- root/root      7696 2017-06-16 11:06 ansible-atmo-backup-master/files/cyverse_backup.sh
+drwxrwxr-x root/root         0 2017-06-16 11:06 ansible-atmo-backup-master/meta/
+-rw-rw-r-- root/root       344 2017-06-16 11:06 ansible-atmo-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-16 11:06 ansible-atmo-backup-master/tasks/
+-rw-rw-r-- root/root       293 2017-06-16 11:06 ansible-atmo-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-16 11:06 ansible-atmo-backup-master/tests/
+-rw-rw-r-- root/root        10 2017-06-16 11:06 ansible-atmo-backup-master/tests/inventory
+-rw-rw-r-- root/root       116 2017-06-16 11:06 ansible-atmo-backup-master/tests/test.yml

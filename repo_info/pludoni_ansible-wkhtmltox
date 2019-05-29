@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-09-22 05:07 ansible-wkhtmltox-master/
+-rw-rw-r-- root/root       429 2017-09-22 05:07 ansible-wkhtmltox-master/README.md
+drwxrwxr-x root/root         0 2017-09-22 05:07 ansible-wkhtmltox-master/defaults/
+-rw-rw-r-- root/root       305 2017-09-22 05:07 ansible-wkhtmltox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-22 05:07 ansible-wkhtmltox-master/meta/
+-rw-rw-r-- root/root       293 2017-09-22 05:07 ansible-wkhtmltox-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-22 05:07 ansible-wkhtmltox-master/tasks/
+-rw-rw-r-- root/root       264 2017-09-22 05:07 ansible-wkhtmltox-master/tasks/deb.yml
+-rw-rw-r-- root/root       473 2017-09-22 05:07 ansible-wkhtmltox-master/tasks/font.yml
+-rw-rw-r-- root/root       244 2017-09-22 05:07 ansible-wkhtmltox-master/tasks/main.yml
+-rw-rw-r-- root/root       641 2017-09-22 05:07 ansible-wkhtmltox-master/tasks/static.yml

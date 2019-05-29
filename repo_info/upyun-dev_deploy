@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-05 02:02 deploy-master/
+-rw-rw-r-- root/root       964 2017-04-05 02:02 deploy-master/.gitignore
+-rw-rw-r-- root/root       376 2017-04-05 02:02 deploy-master/.travis.yml
+-rw-rw-r-- root/root       698 2017-04-05 02:02 deploy-master/README.md
+drwxrwxr-x root/root         0 2017-04-05 02:02 deploy-master/defaults/
+-rw-rw-r-- root/root       996 2017-04-05 02:02 deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-05 02:02 deploy-master/meta/
+-rw-rw-r-- root/root      3177 2017-04-05 02:02 deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-05 02:02 deploy-master/tasks/
+-rw-rw-r-- root/root       218 2017-04-05 02:02 deploy-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       136 2017-04-05 02:02 deploy-master/tasks/empty.yml
+-rw-rw-r-- root/root       206 2017-04-05 02:02 deploy-master/tasks/main.yml
+-rw-rw-r-- root/root       533 2017-04-05 02:02 deploy-master/tasks/rsync.yml
+-rw-rw-r-- root/root       735 2017-04-05 02:02 deploy-master/tasks/setup.yml
+-rw-rw-r-- root/root      1848 2017-04-05 02:02 deploy-master/tasks/symlink-shared.yml
+-rw-rw-r-- root/root       555 2017-04-05 02:02 deploy-master/tasks/symlink.yml
+-rw-rw-r-- root/root       673 2017-04-05 02:02 deploy-master/tasks/update-code.yml

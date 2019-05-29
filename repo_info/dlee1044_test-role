@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-25 15:09 test-role-master/
+-rw-rw-r-- root/root      1328 2018-06-25 15:09 test-role-master/README.md
+drwxrwxr-x root/root         0 2018-06-25 15:09 test-role-master/defaults/
+-rw-rw-r-- root/root        33 2018-06-25 15:09 test-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-25 15:09 test-role-master/handlers/
+-rw-rw-r-- root/root        33 2018-06-25 15:09 test-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-25 15:09 test-role-master/meta/
+-rw-rw-r-- root/root      1772 2018-06-25 15:09 test-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-25 15:09 test-role-master/tasks/
+-rw-rw-r-- root/root        30 2018-06-25 15:09 test-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-25 15:09 test-role-master/tests/
+-rw-rw-r-- root/root        11 2018-06-25 15:09 test-role-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-06-25 15:09 test-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-25 15:09 test-role-master/vars/
+-rw-rw-r-- root/root        29 2018-06-25 15:09 test-role-master/vars/main.yml

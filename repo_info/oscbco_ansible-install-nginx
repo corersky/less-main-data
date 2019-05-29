@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-04 16:27 ansible-install-nginx-master/
+-rw-rw-r-- root/root       338 2019-04-04 16:27 ansible-install-nginx-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 16:27 ansible-install-nginx-master/defaults/
+-rw-rw-r-- root/root        45 2019-04-04 16:27 ansible-install-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 16:27 ansible-install-nginx-master/handlers/
+-rw-rw-r-- root/root        89 2019-04-04 16:27 ansible-install-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-04 16:27 ansible-install-nginx-master/meta/
+-rw-rw-r-- root/root       249 2019-04-04 16:27 ansible-install-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 16:27 ansible-install-nginx-master/tasks/
+-rw-rw-r-- root/root       297 2019-04-04 16:27 ansible-install-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 16:27 ansible-install-nginx-master/tests/
+-rw-rw-r-- root/root        11 2019-04-04 16:27 ansible-install-nginx-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-04-04 16:27 ansible-install-nginx-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-04 16:27 ansible-install-nginx-master/vars/
+-rw-rw-r-- root/root        41 2019-04-04 16:27 ansible-install-nginx-master/vars/main.yml

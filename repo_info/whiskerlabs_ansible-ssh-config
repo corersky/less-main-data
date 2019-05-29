@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-12-31 17:16 ansible-ssh-config-master/
+-rw-rw-r-- root/root      1079 2015-12-31 17:16 ansible-ssh-config-master/LICENSE
+-rw-rw-r-- root/root      1720 2015-12-31 17:16 ansible-ssh-config-master/README.md
+drwxrwxr-x root/root         0 2015-12-31 17:16 ansible-ssh-config-master/defaults/
+-rw-rw-r-- root/root       390 2015-12-31 17:16 ansible-ssh-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-31 17:16 ansible-ssh-config-master/meta/
+-rw-rw-r-- root/root       499 2015-12-31 17:16 ansible-ssh-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-31 17:16 ansible-ssh-config-master/tasks/
+-rw-rw-r-- root/root       137 2015-12-31 17:16 ansible-ssh-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-31 17:16 ansible-ssh-config-master/templates/
+-rw-rw-r-- root/root      1005 2015-12-31 17:16 ansible-ssh-config-master/templates/ssh_config.j2

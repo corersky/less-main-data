@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-29 17:16 ansible-role-ovftool-master/
+-rw-rw-r-- root/root        38 2019-04-29 17:16 ansible-role-ovftool-master/.gitignore
+-rw-rw-r-- root/root       324 2019-04-29 17:16 ansible-role-ovftool-master/.travis.yml
+-rw-rw-r-- root/root     45636 2019-04-29 17:16 ansible-role-ovftool-master/LICENSE
+-rw-rw-r-- root/root      1680 2019-04-29 17:16 ansible-role-ovftool-master/README.md
+drwxrwxr-x root/root         0 2019-04-29 17:16 ansible-role-ovftool-master/defaults/
+-rw-rw-r-- root/root       637 2019-04-29 17:16 ansible-role-ovftool-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-29 17:16 ansible-role-ovftool-master/meta/
+-rw-rw-r-- root/root       624 2019-04-29 17:16 ansible-role-ovftool-master/meta/main.yml
+-rw-rw-r-- root/root      1003 2019-04-29 17:16 ansible-role-ovftool-master/molecule.yml
+drwxrwxr-x root/root         0 2019-04-29 17:16 ansible-role-ovftool-master/tasks/
+-rw-rw-r-- root/root      1014 2019-04-29 17:16 ansible-role-ovftool-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-29 17:16 ansible-role-ovftool-master/tests/
+-rw-rw-r-- root/root       352 2019-04-29 17:16 ansible-role-ovftool-master/tests/playbook.yml
+-rw-rw-r-- root/root       402 2019-04-29 17:16 ansible-role-ovftool-master/tests/test_default.py
+-rw-rw-r-- root/root       919 2019-04-29 17:16 ansible-role-ovftool-master/tests/test_default.pyc
+-rw-rw-r-- root/root       165 2019-04-29 17:16 ansible-role-ovftool-master/tests/travis-playbook.yml

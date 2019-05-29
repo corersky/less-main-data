@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-09 18:02 install-certbot-ssl-certs-master/
+-rw-rw-r-- root/root        63 2018-11-09 18:02 install-certbot-ssl-certs-master/.gitignore
+-rw-rw-r-- root/root      1988 2018-11-09 18:02 install-certbot-ssl-certs-master/README.md
+drwxrwxr-x root/root         0 2018-11-09 18:02 install-certbot-ssl-certs-master/defaults/
+-rw-rw-r-- root/root       282 2018-11-09 18:02 install-certbot-ssl-certs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-09 18:02 install-certbot-ssl-certs-master/handlers/
+-rw-rw-r-- root/root        51 2018-11-09 18:02 install-certbot-ssl-certs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-09 18:02 install-certbot-ssl-certs-master/meta/
+-rw-rw-r-- root/root       418 2018-11-09 18:02 install-certbot-ssl-certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-09 18:02 install-certbot-ssl-certs-master/tasks/
+-rw-rw-r-- root/root      1670 2018-11-09 18:02 install-certbot-ssl-certs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-09 18:02 install-certbot-ssl-certs-master/tests/
+-rw-rw-r-- root/root        11 2018-11-09 18:02 install-certbot-ssl-certs-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-11-09 18:02 install-certbot-ssl-certs-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-09 18:02 install-certbot-ssl-certs-master/vars/
+-rw-rw-r-- root/root       816 2018-11-09 18:02 install-certbot-ssl-certs-master/vars/main.yml

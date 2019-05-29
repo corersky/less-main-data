@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-08 21:13 ansible-s3-master/
+-rw-rw-r-- root/root        43 2016-03-08 21:13 ansible-s3-master/.gitignore
+-rw-rw-r-- root/root      1096 2016-03-08 21:13 ansible-s3-master/LICENSE
+-rw-rw-r-- root/root       926 2016-03-08 21:13 ansible-s3-master/README.md
+drwxrwxr-x root/root         0 2016-03-08 21:13 ansible-s3-master/defaults/
+-rw-rw-r-- root/root       100 2016-03-08 21:13 ansible-s3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:13 ansible-s3-master/files/
+-rw-rw-r-- root/root       340 2016-03-08 21:13 ansible-s3-master/files/cors-config.json
+drwxrwxr-x root/root         0 2016-03-08 21:13 ansible-s3-master/meta/
+-rw-rw-r-- root/root       295 2016-03-08 21:13 ansible-s3-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:13 ansible-s3-master/tasks/
+-rw-rw-r-- root/root      1448 2016-03-08 21:13 ansible-s3-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:13 ansible-s3-master/templates/
+-rw-rw-r-- root/root       177 2016-03-08 21:13 ansible-s3-master/templates/aws_config.j2
+-rw-rw-r-- root/root       219 2016-03-08 21:13 ansible-s3-master/templates/policy-config.json.j2

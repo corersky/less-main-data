@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-01 13:05 ansible-role-bamboo-agent-master/
+-rw-rw-r-- root/root        15 2016-06-01 13:05 ansible-role-bamboo-agent-master/.gitignore
+-rw-rw-r-- root/root       552 2016-06-01 13:05 ansible-role-bamboo-agent-master/README.md
+drwxrwxr-x root/root         0 2016-06-01 13:05 ansible-role-bamboo-agent-master/defaults/
+-rw-rw-r-- root/root        43 2016-06-01 13:05 ansible-role-bamboo-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-01 13:05 ansible-role-bamboo-agent-master/files/
+-rw-rw-r-- root/root       145 2016-06-01 13:05 ansible-role-bamboo-agent-master/files/bamboo-capabilities.properties
+drwxrwxr-x root/root         0 2016-06-01 13:05 ansible-role-bamboo-agent-master/handlers/
+-rw-rw-r-- root/root        43 2016-06-01 13:05 ansible-role-bamboo-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-01 13:05 ansible-role-bamboo-agent-master/meta/
+-rw-rw-r-- root/root       383 2016-06-01 13:05 ansible-role-bamboo-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-01 13:05 ansible-role-bamboo-agent-master/tasks/
+-rw-rw-r-- root/root      2676 2016-06-01 13:05 ansible-role-bamboo-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-01 13:05 ansible-role-bamboo-agent-master/vars/
+-rw-rw-r-- root/root      2363 2016-06-01 13:05 ansible-role-bamboo-agent-master/vars/main.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-05-05 13:13 ansible-role-ulimit-master/
+-rw-rw-r-- root/root       123 2017-05-05 13:13 ansible-role-ulimit-master/.gitignore
+-rw-rw-r-- root/root      1079 2017-05-05 13:13 ansible-role-ulimit-master/LICENSE
+-rw-rw-r-- root/root       573 2017-05-05 13:13 ansible-role-ulimit-master/README.md
+drwxrwxr-x root/root         0 2017-05-05 13:13 ansible-role-ulimit-master/meta/
+-rw-rw-r-- root/root       273 2017-05-05 13:13 ansible-role-ulimit-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-05 13:13 ansible-role-ulimit-master/tasks/
+-rw-rw-r-- root/root       168 2017-05-05 13:13 ansible-role-ulimit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-05 13:13 ansible-role-ulimit-master/templates/
+-rw-rw-r-- root/root       224 2017-05-05 13:13 ansible-role-ulimit-master/templates/limits.conf.j2

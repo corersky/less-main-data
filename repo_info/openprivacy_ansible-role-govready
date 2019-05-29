@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-10-19 17:44 ansible-role-govready-master/
+-rw-rw-r-- root/root      1164 2016-10-19 17:44 ansible-role-govready-master/README.md
+drwxrwxr-x root/root         0 2016-10-19 17:44 ansible-role-govready-master/defaults/
+-rw-rw-r-- root/root       718 2016-10-19 17:44 ansible-role-govready-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-19 17:44 ansible-role-govready-master/files/
+-rw-rw-r-- root/root      1462 2016-10-19 17:44 ansible-role-govready-master/files/GovReadyfile
+drwxrwxr-x root/root         0 2016-10-19 17:44 ansible-role-govready-master/meta/
+-rw-rw-r-- root/root       374 2016-10-19 17:44 ansible-role-govready-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-19 17:44 ansible-role-govready-master/tasks/
+-rw-rw-r-- root/root      2146 2016-10-19 17:44 ansible-role-govready-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-19 17:44 ansible-role-govready-master/tests/
+-rw-rw-r-- root/root      5263 2016-10-19 17:44 ansible-role-govready-master/tests/README.md
+-rw-rw-r-- root/root      1189 2016-10-19 17:44 ansible-role-govready-master/tests/Vagrantfile
+-rwxrwxr-x root/root       445 2016-10-19 17:44 ansible-role-govready-master/tests/create_keys.sh
+-rw-rw-r-- root/root        35 2016-10-19 17:44 ansible-role-govready-master/tests/inventory
+-rw-rw-r-- root/root       916 2016-10-19 17:44 ansible-role-govready-master/tests/test.yml
+-rw-rw-r-- root/root        75 2016-10-19 17:44 ansible-role-govready-master/tests/vagrant_hosts.yml

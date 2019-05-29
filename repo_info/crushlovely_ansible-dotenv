@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-08 19:39 ansible-dotenv-master/
+-rw-rw-r-- root/root        43 2016-03-08 19:39 ansible-dotenv-master/.gitignore
+-rw-rw-r-- root/root      1096 2016-03-08 19:39 ansible-dotenv-master/LICENSE
+-rw-rw-r-- root/root       987 2016-03-08 19:39 ansible-dotenv-master/README.md
+-rw-rw-r-- root/root      1012 2016-03-08 19:39 ansible-dotenv-master/circle.yml
+drwxrwxr-x root/root         0 2016-03-08 19:39 ansible-dotenv-master/defaults/
+-rw-rw-r-- root/root        82 2016-03-08 19:39 ansible-dotenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 19:39 ansible-dotenv-master/meta/
+-rw-rw-r-- root/root       319 2016-03-08 19:39 ansible-dotenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 19:39 ansible-dotenv-master/tasks/
+-rw-rw-r-- root/root       308 2016-03-08 19:39 ansible-dotenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 19:39 ansible-dotenv-master/tests/
+drwxrwxr-x root/root         0 2016-03-08 19:39 ansible-dotenv-master/tests/files/
+-rw-rw-r-- root/root        13 2016-03-08 19:39 ansible-dotenv-master/tests/files/.env.qa
+-rw-rw-r-- root/root         9 2016-03-08 19:39 ansible-dotenv-master/tests/inventory
+-rw-rw-r-- root/root       116 2016-03-08 19:39 ansible-dotenv-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-19 12:30 ansible-roles-kernel-parameters-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:30 ansible-roles-kernel-parameters-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:30 ansible-roles-kernel-parameters-master/defaults/
+-rw-rw-r-- root/root       409 2018-11-19 12:30 ansible-roles-kernel-parameters-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:30 ansible-roles-kernel-parameters-master/handlers/
+-rw-rw-r-- root/root        50 2018-11-19 12:30 ansible-roles-kernel-parameters-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:30 ansible-roles-kernel-parameters-master/meta/
+-rw-rw-r-- root/root       286 2018-11-19 12:30 ansible-roles-kernel-parameters-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:30 ansible-roles-kernel-parameters-master/tasks/
+-rw-rw-r-- root/root       176 2018-11-19 12:30 ansible-roles-kernel-parameters-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:30 ansible-roles-kernel-parameters-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       236 2018-11-19 12:30 ansible-roles-kernel-parameters-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:30 ansible-roles-kernel-parameters-master/templates/
+-rw-rw-r-- root/root        20 2018-11-19 12:30 ansible-roles-kernel-parameters-master/templates/10-custom.conf.j2
+drwxrwxr-x root/root         0 2018-11-19 12:30 ansible-roles-kernel-parameters-master/vars/
+-rw-rw-r-- root/root        51 2018-11-19 12:30 ansible-roles-kernel-parameters-master/vars/main.yml

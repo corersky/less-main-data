@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-10-21 05:27 ansible-role-node-js-master/
+-rw-rw-r-- root/root       539 2016-10-21 05:27 ansible-role-node-js-master/.travis.yml
+-rw-rw-r-- root/root      1069 2016-10-21 05:27 ansible-role-node-js-master/LICENSE
+-rw-rw-r-- root/root      1190 2016-10-21 05:27 ansible-role-node-js-master/README.md
+drwxrwxr-x root/root         0 2016-10-21 05:27 ansible-role-node-js-master/defaults/
+-rw-rw-r-- root/root        25 2016-10-21 05:27 ansible-role-node-js-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-21 05:27 ansible-role-node-js-master/example/
+-rw-rw-r-- root/root       233 2016-10-21 05:27 ansible-role-node-js-master/example/Vagrantfile
+-rw-rw-r-- root/root        29 2016-10-21 05:27 ansible-role-node-js-master/example/ansible.cfg
+-rw-rw-r-- root/root        68 2016-10-21 05:27 ansible-role-node-js-master/example/playbook.yml
+drwxrwxr-x root/root         0 2016-10-21 05:27 ansible-role-node-js-master/meta/
+-rw-rw-r-- root/root       368 2016-10-21 05:27 ansible-role-node-js-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-21 05:27 ansible-role-node-js-master/tasks/
+-rw-rw-r-- root/root       505 2016-10-21 05:27 ansible-role-node-js-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-21 05:27 ansible-role-node-js-master/tests/
+-rw-rw-r-- root/root         9 2016-10-21 05:27 ansible-role-node-js-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-10-21 05:27 ansible-role-node-js-master/tests/test.yml

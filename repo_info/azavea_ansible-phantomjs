@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-03-03 18:58 ansible-phantomjs-master/
+-rw-rw-r-- root/root         9 2015-03-03 18:58 ansible-phantomjs-master/.gitignore
+-rw-rw-r-- root/root        29 2015-03-03 18:58 ansible-phantomjs-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-03-03 18:58 ansible-phantomjs-master/LICENSE
+-rw-rw-r-- root/root       215 2015-03-03 18:58 ansible-phantomjs-master/README.md
+drwxrwxr-x root/root         0 2015-03-03 18:58 ansible-phantomjs-master/defaults/
+-rw-rw-r-- root/root        33 2015-03-03 18:58 ansible-phantomjs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-03 18:58 ansible-phantomjs-master/examples/
+-rw-rw-r-- root/root       278 2015-03-03 18:58 ansible-phantomjs-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-03-03 18:58 ansible-phantomjs-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-03-03 18:58 ansible-phantomjs-master/examples/roles/azavea.phantomjs -> ../../
+-rw-rw-r-- root/root       133 2015-03-03 18:58 ansible-phantomjs-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-03-03 18:58 ansible-phantomjs-master/meta/
+-rw-rw-r-- root/root       270 2015-03-03 18:58 ansible-phantomjs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-03 18:58 ansible-phantomjs-master/tasks/
+-rw-rw-r-- root/root        89 2015-03-03 18:58 ansible-phantomjs-master/tasks/main.yml

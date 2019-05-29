@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-07-18 02:07 debian-docker-master/
+-rw-rw-r-- root/root       788 2015-07-18 02:07 debian-docker-master/README.md
+drwxrwxr-x root/root         0 2015-07-18 02:07 debian-docker-master/defaults/
+-rw-rw-r-- root/root       100 2015-07-18 02:07 debian-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-18 02:07 debian-docker-master/handlers/
+-rw-rw-r-- root/root       121 2015-07-18 02:07 debian-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-07-18 02:07 debian-docker-master/meta/
+-rw-rw-r-- root/root       281 2015-07-18 02:07 debian-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-18 02:07 debian-docker-master/tasks/
+-rw-rw-r-- root/root      1616 2015-07-18 02:07 debian-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-07-18 02:07 debian-docker-master/tests/
+-rw-rw-r-- root/root       219 2015-07-18 02:07 debian-docker-master/tests/wheezy.yml
+drwxrwxr-x root/root         0 2015-07-18 02:07 debian-docker-master/vars/
+-rw-rw-r-- root/root        42 2015-07-18 02:07 debian-docker-master/vars/main.yml

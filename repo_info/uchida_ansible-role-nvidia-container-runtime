@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/
+-rw-rw-r-- root/root        31 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/.ansible-lint
+-rw-rw-r-- root/root       868 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/.travis.yml
+-rw-rw-r-- root/root      6555 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/LICENSE
+-rw-rw-r-- root/root      2914 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/README.md
+drwxrwxr-x root/root         0 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/defaults/
+-rw-rw-r-- root/root       127 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/meta/
+-rw-rw-r-- root/root       433 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/tasks/
+-rw-rw-r-- root/root      1526 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/tasks/debian.yml
+-rw-rw-r-- root/root       113 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/tests/
+-rw-rw-r-- root/root       889 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/vars/
+-rw-rw-r-- root/root       228 2019-02-19 23:04 ansible-role-nvidia-container-runtime-master/vars/main.yml

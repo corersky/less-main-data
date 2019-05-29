@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-29 07:54 ansible-nginx-master/
+-rw-rw-r-- root/root     35147 2018-10-29 07:54 ansible-nginx-master/COPYING
+-rw-rw-r-- root/root      7651 2018-10-29 07:54 ansible-nginx-master/COPYING.LESSER
+-rw-rw-r-- root/root      5758 2018-10-29 07:54 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2018-10-29 07:54 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root      2158 2018-10-29 07:54 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-29 07:54 ansible-nginx-master/files/
+-rw-rw-r-- root/root       199 2018-10-29 07:54 ansible-nginx-master/files/default.conf
+drwxrwxr-x root/root         0 2018-10-29 07:54 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root        75 2018-10-29 07:54 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-29 07:54 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       306 2018-10-29 07:54 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-29 07:54 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root      2801 2018-10-29 07:54 ansible-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-29 07:54 ansible-nginx-master/templates/
+-rw-rw-r-- root/root      1247 2018-10-29 07:54 ansible-nginx-master/templates/fastcgi_params.j2
+-rw-rw-r-- root/root      1121 2018-10-29 07:54 ansible-nginx-master/templates/nginx.conf.j2

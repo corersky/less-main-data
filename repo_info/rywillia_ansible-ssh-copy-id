@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-05 12:15 ansible-ssh-copy-id-master/
+-rw-rw-r-- root/root        12 2018-09-05 12:15 ansible-ssh-copy-id-master/.gitignore
+-rw-rw-r-- root/root       230 2018-09-05 12:15 ansible-ssh-copy-id-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-09-05 12:15 ansible-ssh-copy-id-master/LICENSE
+-rw-rw-r-- root/root      1638 2018-09-05 12:15 ansible-ssh-copy-id-master/README.md
+-rw-rw-r-- root/root        55 2018-09-05 12:15 ansible-ssh-copy-id-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-09-05 12:15 ansible-ssh-copy-id-master/defaults/
+-rw-rw-r-- root/root        69 2018-09-05 12:15 ansible-ssh-copy-id-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-05 12:15 ansible-ssh-copy-id-master/library/
+-rw-rw-r-- root/root      5252 2018-09-05 12:15 ansible-ssh-copy-id-master/library/ssh_copy_id.py
+drwxrwxr-x root/root         0 2018-09-05 12:15 ansible-ssh-copy-id-master/meta/
+-rw-rw-r-- root/root       306 2018-09-05 12:15 ansible-ssh-copy-id-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-05 12:15 ansible-ssh-copy-id-master/tasks/
+-rw-rw-r-- root/root       273 2018-09-05 12:15 ansible-ssh-copy-id-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-05 12:15 ansible-ssh-copy-id-master/tests/
+-rw-rw-r-- root/root        11 2018-09-05 12:15 ansible-ssh-copy-id-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-09-05 12:15 ansible-ssh-copy-id-master/tests/test.yml

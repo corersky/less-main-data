@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-11-21 01:59 ansible-role-ntp-master/
+-rw-rw-r-- root/root       795 2014-11-21 01:59 ansible-role-ntp-master/.travis.yml
+-rw-rw-r-- root/root       733 2014-11-21 01:59 ansible-role-ntp-master/README.md
+drwxrwxr-x root/root         0 2014-11-21 01:59 ansible-role-ntp-master/defaults/
+-rw-rw-r-- root/root        31 2014-11-21 01:59 ansible-role-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-21 01:59 ansible-role-ntp-master/meta/
+-rw-rw-r-- root/root       258 2014-11-21 01:59 ansible-role-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-21 01:59 ansible-role-ntp-master/tasks/
+-rw-rw-r-- root/root       478 2014-11-21 01:59 ansible-role-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-21 01:59 ansible-role-ntp-master/tests/
+-rw-rw-r-- root/root        10 2014-11-21 01:59 ansible-role-ntp-master/tests/inventory
+-rw-rw-r-- root/root        75 2014-11-21 01:59 ansible-role-ntp-master/tests/test.yml

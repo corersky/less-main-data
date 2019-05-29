@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-18 08:55 aws-vpc-master/
+-rw-rw-r-- root/root         8 2019-04-18 08:55 aws-vpc-master/.gitignore
+-rw-rw-r-- root/root      1310 2019-04-18 08:55 aws-vpc-master/LICENSE
+-rw-rw-r-- root/root      2293 2019-04-18 08:55 aws-vpc-master/README.md
+drwxrwxr-x root/root         0 2019-04-18 08:55 aws-vpc-master/defaults/
+-rw-rw-r-- root/root        88 2019-04-18 08:55 aws-vpc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-18 08:55 aws-vpc-master/meta/
+-rw-rw-r-- root/root       177 2019-04-18 08:55 aws-vpc-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-18 08:55 aws-vpc-master/tasks/
+-rw-rw-r-- root/root       884 2019-04-18 08:55 aws-vpc-master/tasks/create.yml
+-rw-rw-r-- root/root        81 2019-04-18 08:55 aws-vpc-master/tasks/main.yml
+-rw-rw-r-- root/root       598 2019-04-18 08:55 aws-vpc-master/tasks/rollback.yml

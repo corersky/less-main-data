@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-01 13:05 ansible-telegraf-master/
+-rw-rw-r-- root/root       157 2017-05-01 13:05 ansible-telegraf-master/.travis.yml
+-rw-rw-r-- root/root      1393 2017-05-01 13:05 ansible-telegraf-master/Makefile
+-rw-rw-r-- root/root       353 2017-05-01 13:05 ansible-telegraf-master/README.md
+drwxrwxr-x root/root         0 2017-05-01 13:05 ansible-telegraf-master/defaults/
+-rw-rw-r-- root/root      1251 2017-05-01 13:05 ansible-telegraf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-01 13:05 ansible-telegraf-master/handlers/
+-rw-rw-r-- root/root        80 2017-05-01 13:05 ansible-telegraf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-01 13:05 ansible-telegraf-master/meta/
+-rw-rw-r-- root/root       444 2017-05-01 13:05 ansible-telegraf-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-01 13:05 ansible-telegraf-master/tasks/
+-rw-rw-r-- root/root       766 2017-05-01 13:05 ansible-telegraf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-01 13:05 ansible-telegraf-master/templates/
+-rw-rw-r-- root/root      4609 2017-05-01 13:05 ansible-telegraf-master/templates/telegraf.conf.j2
+drwxrwxr-x root/root         0 2017-05-01 13:05 ansible-telegraf-master/tests/
+-rw-rw-r-- root/root         9 2017-05-01 13:05 ansible-telegraf-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-05-01 13:05 ansible-telegraf-master/tests/test.yml

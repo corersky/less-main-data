@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-16 18:27 monsterui-master/
+-rw-rw-r-- root/root      1070 2017-12-16 18:27 monsterui-master/LICENSE
+-rw-rw-r-- root/root       786 2017-12-16 18:27 monsterui-master/README.md
+drwxrwxr-x root/root         0 2017-12-16 18:27 monsterui-master/defaults/
+-rw-rw-r-- root/root        38 2017-12-16 18:27 monsterui-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:27 monsterui-master/handlers/
+-rw-rw-r-- root/root        75 2017-12-16 18:27 monsterui-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:27 monsterui-master/meta/
+-rw-rw-r-- root/root      1715 2017-12-16 18:27 monsterui-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:27 monsterui-master/tasks/
+-rw-rw-r-- root/root      3087 2017-12-16 18:27 monsterui-master/tasks/letsencrypt.yml
+-rw-rw-r-- root/root      1323 2017-12-16 18:27 monsterui-master/tasks/main.yml
+-rw-rw-r-- root/root       404 2017-12-16 18:27 monsterui-master/tasks/usercert.yml
+drwxrwxr-x root/root         0 2017-12-16 18:27 monsterui-master/templates/
+-rw-rw-r-- root/root      4441 2017-12-16 18:27 monsterui-master/templates/config.js.j2
+-rw-rw-r-- root/root       447 2017-12-16 18:27 monsterui-master/templates/kazoohttp.conf.j2
+-rw-rw-r-- root/root       538 2017-12-16 18:27 monsterui-master/templates/kazoohttps.conf.j2

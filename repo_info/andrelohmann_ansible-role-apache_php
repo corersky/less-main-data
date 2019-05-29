@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-08 14:03 ansible-role-apache_php-master/
+-rw-rw-r-- root/root        28 2018-10-08 14:03 ansible-role-apache_php-master/.gitignore
+-rw-rw-r-- root/root      1052 2018-10-08 14:03 ansible-role-apache_php-master/.travis.yml
+-rw-rw-r-- root/root      1141 2018-10-08 14:03 ansible-role-apache_php-master/README.md
+drwxrwxr-x root/root         0 2018-10-08 14:03 ansible-role-apache_php-master/defaults/
+-rw-rw-r-- root/root       141 2018-10-08 14:03 ansible-role-apache_php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:03 ansible-role-apache_php-master/handlers/
+-rw-rw-r-- root/root        85 2018-10-08 14:03 ansible-role-apache_php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:03 ansible-role-apache_php-master/meta/
+-rw-rw-r-- root/root       339 2018-10-08 14:03 ansible-role-apache_php-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:03 ansible-role-apache_php-master/tasks/
+-rw-rw-r-- root/root      1382 2018-10-08 14:03 ansible-role-apache_php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:03 ansible-role-apache_php-master/tests/
+-rw-rw-r-- root/root         9 2018-10-08 14:03 ansible-role-apache_php-master/tests/inventory
+-rw-rw-r-- root/root       599 2018-10-08 14:03 ansible-role-apache_php-master/tests/test.yml

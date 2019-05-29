@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-11-04 04:45 ansible-role-deploy-monitor-master/
+-rw-rw-r-- root/root        47 2015-11-04 04:45 ansible-role-deploy-monitor-master/README.md
+drwxrwxr-x root/root         0 2015-11-04 04:45 ansible-role-deploy-monitor-master/defaults/
+-rw-rw-r-- root/root        28 2015-11-04 04:45 ansible-role-deploy-monitor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-04 04:45 ansible-role-deploy-monitor-master/meta/
+-rw-rw-r-- root/root       227 2015-11-04 04:45 ansible-role-deploy-monitor-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-04 04:45 ansible-role-deploy-monitor-master/tasks/
+-rw-rw-r-- root/root       396 2015-11-04 04:45 ansible-role-deploy-monitor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-04 04:45 ansible-role-deploy-monitor-master/templates/
+-rw-rw-r-- root/root      1538 2015-11-04 04:45 ansible-role-deploy-monitor-master/templates/monitrc.j2
+-rw-rw-r-- root/root       427 2015-11-04 04:45 ansible-role-deploy-monitor-master/templates/upstart-monitor.conf.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-05 01:16 ansible-mongo-replica-set-master/
+-rw-rw-r-- root/root      1259 2016-07-05 01:16 ansible-mongo-replica-set-master/.travis.yml
+-rw-rw-r-- root/root       615 2016-07-05 01:16 ansible-mongo-replica-set-master/README.md
+drwxrwxr-x root/root         0 2016-07-05 01:16 ansible-mongo-replica-set-master/defaults/
+-rw-rw-r-- root/root        65 2016-07-05 01:16 ansible-mongo-replica-set-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-05 01:16 ansible-mongo-replica-set-master/handlers/
+-rw-rw-r-- root/root        79 2016-07-05 01:16 ansible-mongo-replica-set-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-05 01:16 ansible-mongo-replica-set-master/library/
+-rw-rw-r-- root/root     12147 2016-07-05 01:16 ansible-mongo-replica-set-master/library/mongodb_replica_set
+drwxrwxr-x root/root         0 2016-07-05 01:16 ansible-mongo-replica-set-master/meta/
+-rw-rw-r-- root/root       417 2016-07-05 01:16 ansible-mongo-replica-set-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-05 01:16 ansible-mongo-replica-set-master/tasks/
+-rw-rw-r-- root/root        27 2016-07-05 01:16 ansible-mongo-replica-set-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-05 01:16 ansible-mongo-replica-set-master/tests/
+-rw-rw-r-- root/root         9 2016-07-05 01:16 ansible-mongo-replica-set-master/tests/inventory
+-rw-rw-r-- root/root       214 2016-07-05 01:16 ansible-mongo-replica-set-master/tests/test.yml

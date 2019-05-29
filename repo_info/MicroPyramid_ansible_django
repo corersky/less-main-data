@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-14 00:50 ansible_django-master/
+-rw-rw-r-- root/root       813 2017-02-14 00:50 ansible_django-master/README.rst
+drwxrwxr-x root/root         0 2017-02-14 00:50 ansible_django-master/defaults/
+-rw-rw-r-- root/root        44 2017-02-14 00:50 ansible_django-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:50 ansible_django-master/handlers/
+-rw-rw-r-- root/root        31 2017-02-14 00:50 ansible_django-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:50 ansible_django-master/meta/
+-rw-rw-r-- root/root       579 2017-02-14 00:50 ansible_django-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:50 ansible_django-master/tasks/
+-rw-rw-r-- root/root       375 2017-02-14 00:50 ansible_django-master/tasks/django_project.yml
+-rw-rw-r-- root/root       392 2017-02-14 00:50 ansible_django-master/tasks/initialize_server.yml
+-rw-rw-r-- root/root        68 2017-02-14 00:50 ansible_django-master/tasks/main.yml
+-rw-rw-r-- root/root       430 2017-02-14 00:50 ansible_django-master/test.yml
+drwxrwxr-x root/root         0 2017-02-14 00:50 ansible_django-master/vars/
+-rw-rw-r-- root/root        27 2017-02-14 00:50 ansible_django-master/vars/main.yml

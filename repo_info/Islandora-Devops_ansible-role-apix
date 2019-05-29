@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-15 08:47 ansible-role-apix-master/
+-rw-rw-r-- root/root      1333 2017-12-15 08:47 ansible-role-apix-master/README.md
+drwxrwxr-x root/root         0 2017-12-15 08:47 ansible-role-apix-master/defaults/
+-rw-rw-r-- root/root       579 2017-12-15 08:47 ansible-role-apix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-15 08:47 ansible-role-apix-master/meta/
+-rw-rw-r-- root/root       428 2017-12-15 08:47 ansible-role-apix-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-15 08:47 ansible-role-apix-master/tasks/
+-rw-rw-r-- root/root       154 2017-12-15 08:47 ansible-role-apix-master/tasks/config.yml
+-rw-rw-r-- root/root       247 2017-12-15 08:47 ansible-role-apix-master/tasks/deploy.yml
+-rw-rw-r-- root/root       124 2017-12-15 08:47 ansible-role-apix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-15 08:47 ansible-role-apix-master/templates/
+-rw-rw-r-- root/root       102 2017-12-15 08:47 ansible-role-apix-master/templates/apix.cfg.j2

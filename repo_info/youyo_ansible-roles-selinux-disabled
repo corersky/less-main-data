@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-19 12:50 ansible-roles-selinux-disabled-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:50 ansible-roles-selinux-disabled-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:50 ansible-roles-selinux-disabled-master/defaults/
+-rw-rw-r-- root/root        54 2018-11-19 12:50 ansible-roles-selinux-disabled-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:50 ansible-roles-selinux-disabled-master/handlers/
+-rw-rw-r-- root/root        54 2018-11-19 12:50 ansible-roles-selinux-disabled-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:50 ansible-roles-selinux-disabled-master/meta/
+-rw-rw-r-- root/root       273 2018-11-19 12:50 ansible-roles-selinux-disabled-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:50 ansible-roles-selinux-disabled-master/tasks/
+lrwxrwxrwx root/root         0 2018-11-19 12:50 ansible-roles-selinux-disabled-master/tasks/el6.yml -> el7.yml
+-rw-rw-r-- root/root       148 2018-11-19 12:50 ansible-roles-selinux-disabled-master/tasks/el7.yml
+-rw-rw-r-- root/root       243 2018-11-19 12:50 ansible-roles-selinux-disabled-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:50 ansible-roles-selinux-disabled-master/vars/
+-rw-rw-r-- root/root        50 2018-11-19 12:50 ansible-roles-selinux-disabled-master/vars/main.yml

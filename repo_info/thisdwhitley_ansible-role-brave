@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-09-25 10:30 ansible-role-brave-master/
+-rw-rw-r-- root/root      3564 2018-09-25 10:30 ansible-role-brave-master/.gitignore
+-rw-rw-r-- root/root       742 2018-09-25 10:30 ansible-role-brave-master/.travis.yml
+-rw-rw-r-- root/root      1071 2018-09-25 10:30 ansible-role-brave-master/LICENSE
+-rw-rw-r-- root/root      1981 2018-09-25 10:30 ansible-role-brave-master/README.md
+drwxrwxr-x root/root         0 2018-09-25 10:30 ansible-role-brave-master/meta/
+-rw-rw-r-- root/root       384 2018-09-25 10:30 ansible-role-brave-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-25 10:30 ansible-role-brave-master/tasks/
+-rw-rw-r-- root/root      1300 2018-09-25 10:30 ansible-role-brave-master/tasks/install.yml
+-rw-rw-r-- root/root       112 2018-09-25 10:30 ansible-role-brave-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-25 10:30 ansible-role-brave-master/tests/
+-rw-rw-r-- root/root       332 2018-09-25 10:30 ansible-role-brave-master/tests/test.yml

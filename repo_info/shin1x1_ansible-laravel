@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-09-25 06:19 ansible-laravel-master/
+-rw-rw-r-- root/root      2290 2014-09-25 06:19 ansible-laravel-master/README.md
+drwxrwxr-x root/root         0 2014-09-25 06:19 ansible-laravel-master/meta/
+-rw-rw-r-- root/root      2079 2014-09-25 06:19 ansible-laravel-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-25 06:19 ansible-laravel-master/tasks/
+-rw-rw-r-- root/root       316 2014-09-25 06:19 ansible-laravel-master/tasks/composer.yml
+-rw-rw-r-- root/root       192 2014-09-25 06:19 ansible-laravel-master/tasks/deploy.yml
+-rw-rw-r-- root/root      1041 2014-09-25 06:19 ansible-laravel-master/tasks/directory.yml
+-rw-rw-r-- root/root       692 2014-09-25 06:19 ansible-laravel-master/tasks/main.yml
+-rw-rw-r-- root/root        98 2014-09-25 06:19 ansible-laravel-master/tasks/phpunit.yml
+drwxrwxr-x root/root         0 2014-09-25 06:19 ansible-laravel-master/vars/
+-rw-rw-r-- root/root       443 2014-09-25 06:19 ansible-laravel-master/vars/main.yml

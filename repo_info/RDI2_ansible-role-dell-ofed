@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/
+-rw-rw-r-- root/root       539 2016-03-10 15:48 ansible-role-dell-ofed-master/.travis.yml
+-rw-rw-r-- root/root       830 2016-03-10 15:48 ansible-role-dell-ofed-master/README.md
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/defaults/
+-rw-rw-r-- root/root       215 2016-03-10 15:48 ansible-role-dell-ofed-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/examples/
+-rw-rw-r-- root/root        17 2016-03-10 15:48 ansible-role-dell-ofed-master/examples/.gitignore
+-rw-rw-r-- root/root       279 2016-03-10 15:48 ansible-role-dell-ofed-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/examples/roles/RDI2.dell-ofed -> ../../
+-rw-rw-r-- root/root        59 2016-03-10 15:48 ansible-role-dell-ofed-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/files/
+-rw-rw-r-- root/root       314 2016-03-10 15:48 ansible-role-dell-ofed-master/files/ofed.conf.basic
+-rw-rw-r-- root/root       771 2016-03-10 15:48 ansible-role-dell-ofed-master/files/ofed.conf.hpc
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/handlers/
+-rw-rw-r-- root/root        34 2016-03-10 15:48 ansible-role-dell-ofed-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/meta/
+-rw-rw-r-- root/root       294 2016-03-10 15:48 ansible-role-dell-ofed-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/tasks/
+-rw-rw-r-- root/root       598 2016-03-10 15:48 ansible-role-dell-ofed-master/tasks/install.yml
+-rw-rw-r-- root/root      1009 2016-03-10 15:48 ansible-role-dell-ofed-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/tests/
+-rw-rw-r-- root/root         9 2016-03-10 15:48 ansible-role-dell-ofed-master/tests/inventory
+-rw-rw-r-- root/root        67 2016-03-10 15:48 ansible-role-dell-ofed-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-10 15:48 ansible-role-dell-ofed-master/vars/
+-rw-rw-r-- root/root        30 2016-03-10 15:48 ansible-role-dell-ofed-master/vars/main.yml

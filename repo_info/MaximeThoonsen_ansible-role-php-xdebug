@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-21 01:42 ansible-role-php-xdebug-master/
+-rw-rw-r-- root/root      1187 2016-12-21 01:42 ansible-role-php-xdebug-master/README.md
+drwxrwxr-x root/root         0 2016-12-21 01:42 ansible-role-php-xdebug-master/defaults/
+-rw-rw-r-- root/root       235 2016-12-21 01:42 ansible-role-php-xdebug-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-21 01:42 ansible-role-php-xdebug-master/meta/
+-rw-rw-r-- root/root       282 2016-12-21 01:42 ansible-role-php-xdebug-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-21 01:42 ansible-role-php-xdebug-master/tasks/
+-rw-rw-r-- root/root       258 2016-12-21 01:42 ansible-role-php-xdebug-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-21 01:42 ansible-role-php-xdebug-master/templates/
+-rw-rw-r-- root/root       418 2016-12-21 01:42 ansible-role-php-xdebug-master/templates/xdebug.ini.j2
+drwxrwxr-x root/root         0 2016-12-21 01:42 ansible-role-php-xdebug-master/tests/
+-rw-rw-r-- root/root        69 2016-12-21 01:42 ansible-role-php-xdebug-master/tests/Makefile
+-rw-rw-r-- root/root       313 2016-12-21 01:42 ansible-role-php-xdebug-master/tests/Vagrantfile
+-rw-rw-r-- root/root        10 2016-12-21 01:42 ansible-role-php-xdebug-master/tests/inventory
+-rw-rw-r-- root/root       251 2016-12-21 01:42 ansible-role-php-xdebug-master/tests/playbook.yml

@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2017-03-16 14:44 ansible-role-php7-master/
+-rw-rw-r-- root/root      1045 2017-03-16 14:44 ansible-role-php7-master/.travis.yml
+-rw-rw-r-- root/root      1084 2017-03-16 14:44 ansible-role-php7-master/LICENSE
+-rw-rw-r-- root/root       988 2017-03-16 14:44 ansible-role-php7-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 14:44 ansible-role-php7-master/defaults/
+-rw-rw-r-- root/root       431 2017-03-16 14:44 ansible-role-php7-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-16 14:44 ansible-role-php7-master/handlers/
+-rwxrwxr-x root/root        94 2017-03-16 14:44 ansible-role-php7-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-16 14:44 ansible-role-php7-master/meta/
+-rw-rw-r-- root/root       302 2017-03-16 14:44 ansible-role-php7-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 14:44 ansible-role-php7-master/tasks/
+-rwxrwxr-x root/root       234 2017-03-16 14:44 ansible-role-php7-master/tasks/configure.yml
+-rwxrwxr-x root/root       352 2017-03-16 14:44 ansible-role-php7-master/tasks/main.yml
+-rw-rw-r-- root/root      1814 2017-03-16 14:44 ansible-role-php7-master/tasks/php-apache.yml
+-rwxrwxr-x root/root       203 2017-03-16 14:44 ansible-role-php7-master/tasks/php-cli.yml
+drwxrwxr-x root/root         0 2017-03-16 14:44 ansible-role-php7-master/test/
+-rw-rw-r-- root/root        35 2017-03-16 14:44 ansible-role-php7-master/test/inventory
+-rw-rw-r-- root/root       441 2017-03-16 14:44 ansible-role-php7-master/test/main.yml
+-rw-rw-r-- root/root        64 2017-03-16 14:44 ansible-role-php7-master/test/requirements.yml
+drwxrwxr-x root/root         0 2017-03-16 14:44 ansible-role-php7-master/test/roles/
+lrwxrwxrwx root/root         0 2017-03-16 14:44 ansible-role-php7-master/test/roles/php7 -> ../../../ansible-role-php7

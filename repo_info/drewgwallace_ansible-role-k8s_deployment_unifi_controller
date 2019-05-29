@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/
+-rw-rw-r-- root/root      1072 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/LICENSE
+-rw-rw-r-- root/root      1043 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/README.md
+drwxrwxr-x root/root         0 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/defaults/
+-rw-rw-r-- root/root       223 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/meta/
+-rw-rw-r-- root/root       571 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/tasks/
+-rw-rw-r-- root/root       155 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/tasks/main.yml
+-rw-rw-r-- root/root       588 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/tasks/unifi.yml
+-rw-rw-r-- root/root       366 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/tasks/volume_dirs.yml
+drwxrwxr-x root/root         0 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/templates/
+-rw-rw-r-- root/root      1542 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/templates/deployment.yml
+-rw-rw-r-- root/root       565 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/templates/ingress.yml
+-rw-rw-r-- root/root       571 2018-07-30 18:06 ansible-role-k8s_deployment_unifi_controller-master/templates/service.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-30 08:43 ansible-conga-files-master/
+-rw-rw-r-- root/root        39 2018-11-30 08:43 ansible-conga-files-master/.ansible-lint
+-rw-rw-r-- root/root      1070 2018-11-30 08:43 ansible-conga-files-master/.gitattributes
+-rw-rw-r-- root/root       364 2018-11-30 08:43 ansible-conga-files-master/.gitignore
+-rw-rw-r-- root/root       998 2018-11-30 08:43 ansible-conga-files-master/.travis.yml
+-rw-rw-r-- root/root     11525 2018-11-30 08:43 ansible-conga-files-master/LICENSE
+-rw-rw-r-- root/root      2883 2018-11-30 08:43 ansible-conga-files-master/README.md
+drwxrwxr-x root/root         0 2018-11-30 08:43 ansible-conga-files-master/defaults/
+-rw-rw-r-- root/root       609 2018-11-30 08:43 ansible-conga-files-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-30 08:43 ansible-conga-files-master/meta/
+-rw-rw-r-- root/root       521 2018-11-30 08:43 ansible-conga-files-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-30 08:43 ansible-conga-files-master/tasks/
+-rw-rw-r-- root/root      1514 2018-11-30 08:43 ansible-conga-files-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-30 08:43 ansible-conga-files-master/tests/
+-rw-rw-r-- root/root        18 2018-11-30 08:43 ansible-conga-files-master/tests/inventory
+-rw-rw-r-- root/root        33 2018-11-30 08:43 ansible-conga-files-master/tests/requirements.yml
+-rw-rw-r-- root/root        73 2018-11-30 08:43 ansible-conga-files-master/tests/test.yml

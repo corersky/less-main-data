@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-10-28 17:22 ansible-role-redis-master/
+-rw-rw-r-- root/root       637 2016-10-28 17:22 ansible-role-redis-master/.travis.yml
+-rw-rw-r-- root/root       459 2016-10-28 17:22 ansible-role-redis-master/README.md
+drwxrwxr-x root/root         0 2016-10-28 17:22 ansible-role-redis-master/meta/
+-rw-rw-r-- root/root       352 2016-10-28 17:22 ansible-role-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-28 17:22 ansible-role-redis-master/tasks/
+-rw-rw-r-- root/root       376 2016-10-28 17:22 ansible-role-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-28 17:22 ansible-role-redis-master/tests/
+-rw-rw-r-- root/root        10 2016-10-28 17:22 ansible-role-redis-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-10-28 17:22 ansible-role-redis-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-28 17:22 ansible-role-redis-master/vars/
+-rw-rw-r-- root/root        38 2016-10-28 17:22 ansible-role-redis-master/vars/Debian.yml
+-rw-rw-r-- root/root        31 2016-10-28 17:22 ansible-role-redis-master/vars/RedHat.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/
+-rw-rw-r-- root/root        80 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/.travis.yml
+-rw-rw-r-- root/root      1684 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/README.md
+drwxrwxr-x root/root         0 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/defaults/
+-rw-rw-r-- root/root       467 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/meta/
+-rw-rw-r-- root/root       328 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/tasks/
+-rw-rw-r-- root/root       599 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/tasks/backup-config-files.yml
+-rw-rw-r-- root/root      3862 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/tasks/main.yml
+-rw-rw-r-- root/root      3474 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/tasks/remove-local-db.yml
+-rw-rw-r-- root/root      1222 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/tasks/reset-engine.yml
+-rw-rw-r-- root/root      1193 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/tasks/set-engine.yml
+drwxrwxr-x root/root         0 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/vars/
+-rw-rw-r-- root/root        40 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/vars/default.yml
+-rw-rw-r-- root/root        56 2018-08-08 09:41 ovirt-ansible-local-to-remote-db-master/vars/postgres95.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-09 11:29 ansible-rosonpve-master/
+-rw-rw-r-- root/root      3538 2019-05-09 11:29 ansible-rosonpve-master/README.md
+drwxrwxr-x root/root         0 2019-05-09 11:29 ansible-rosonpve-master/defaults/
+-rw-rw-r-- root/root       631 2019-05-09 11:29 ansible-rosonpve-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-09 11:29 ansible-rosonpve-master/meta/
+-rw-rw-r-- root/root       254 2019-05-09 11:29 ansible-rosonpve-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-09 11:29 ansible-rosonpve-master/tasks/
+-rw-rw-r-- root/root       807 2019-05-09 11:29 ansible-rosonpve-master/tasks/build_configdrive.yml
+-rw-rw-r-- root/root       441 2019-05-09 11:29 ansible-rosonpve-master/tasks/main.yml
+-rw-rw-r-- root/root      1587 2019-05-09 11:29 ansible-rosonpve-master/tasks/vmcreate.yml
+drwxrwxr-x root/root         0 2019-05-09 11:29 ansible-rosonpve-master/templates/
+-rw-rw-r-- root/root       688 2019-05-09 11:29 ansible-rosonpve-master/templates/cloud-config.yml.j2
+drwxrwxr-x root/root         0 2019-05-09 11:29 ansible-rosonpve-master/tests/
+-rw-rw-r-- root/root        26 2019-05-09 11:29 ansible-rosonpve-master/tests/inventory
+-rw-rw-r-- root/root      1359 2019-05-09 11:29 ansible-rosonpve-master/tests/test.yml

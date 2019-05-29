@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-06-22 18:48 ansible-mtprotoproxy-master/
+-rw-rw-r-- root/root       767 2018-06-22 18:48 ansible-mtprotoproxy-master/README.md
+drwxrwxr-x root/root         0 2018-06-22 18:48 ansible-mtprotoproxy-master/defaults/
+-rw-rw-r-- root/root       149 2018-06-22 18:48 ansible-mtprotoproxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-22 18:48 ansible-mtprotoproxy-master/meta/
+-rw-rw-r-- root/root       465 2018-06-22 18:48 ansible-mtprotoproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-22 18:48 ansible-mtprotoproxy-master/tasks/
+-rw-rw-r-- root/root      1755 2018-06-22 18:48 ansible-mtprotoproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-22 18:48 ansible-mtprotoproxy-master/templates/
+-rw-rw-r-- root/root       232 2018-06-22 18:48 ansible-mtprotoproxy-master/templates/service.j2
+drwxrwxr-x root/root         0 2018-06-22 18:48 ansible-mtprotoproxy-master/tests/
+-rw-rw-r-- root/root        11 2018-06-22 18:48 ansible-mtprotoproxy-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-06-22 18:48 ansible-mtprotoproxy-master/tests/test.yml

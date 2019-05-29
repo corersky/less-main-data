@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-storage-drivers-master/
+-rw-rw-r-- root/root       783 2017-08-24 03:35 ansible-storage-drivers-master/.travis.yml
+-rw-rw-r-- root/root      3219 2017-08-24 03:35 ansible-storage-drivers-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root      1082 2017-08-24 03:35 ansible-storage-drivers-master/LICENSE
+-rw-rw-r-- root/root       862 2017-08-24 03:35 ansible-storage-drivers-master/README.md
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-storage-drivers-master/defaults/
+-rw-rw-r-- root/root       309 2017-08-24 03:35 ansible-storage-drivers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-storage-drivers-master/meta/
+-rw-rw-r-- root/root      3856 2017-08-24 03:35 ansible-storage-drivers-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-storage-drivers-master/tasks/
+-rw-rw-r-- root/root       569 2017-08-24 03:35 ansible-storage-drivers-master/tasks/ceph.yml
+-rw-rw-r-- root/root        61 2017-08-24 03:35 ansible-storage-drivers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-storage-drivers-master/tests/
+-rw-rw-r-- root/root         9 2017-08-24 03:35 ansible-storage-drivers-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-08-24 03:35 ansible-storage-drivers-master/tests/test.yml

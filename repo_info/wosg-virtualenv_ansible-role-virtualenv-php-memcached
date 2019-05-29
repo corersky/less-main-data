@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/
+-rw-rw-r-- root/root       995 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/.travis.yml
+-rw-rw-r-- root/root        40 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/README.md
+drwxrwxr-x root/root         0 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/defaults/
+-rw-rw-r-- root/root        92 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/meta/
+-rw-rw-r-- root/root       336 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/tasks/
+-rw-rw-r-- root/root       432 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/tests/
+-rw-rw-r-- root/root        10 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/tests/inventory
+-rw-rw-r-- root/root       765 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/tests/memcached-test.php
+-rw-rw-r-- root/root       134 2016-01-02 09:22 ansible-role-virtualenv-php-memcached-master/tests/test.yml

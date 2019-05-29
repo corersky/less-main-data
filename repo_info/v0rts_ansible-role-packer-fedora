@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-packer-fedora-master/
+-rw-rw-r-- root/root      1186 2019-02-24 13:55 ansible-role-packer-fedora-master/.travis.yml
+-rw-rw-r-- root/root       278 2019-02-24 13:55 ansible-role-packer-fedora-master/.whitesource
+-rw-rw-r-- root/root      2620 2019-02-24 13:55 ansible-role-packer-fedora-master/README.md
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-packer-fedora-master/meta/
+-rw-rw-r-- root/root       336 2019-02-24 13:55 ansible-role-packer-fedora-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-packer-fedora-master/tasks/
+-rw-rw-r-- root/root      2264 2019-02-24 13:55 ansible-role-packer-fedora-master/tasks/main.yml
+-rw-rw-r-- root/root       720 2019-02-24 13:55 ansible-role-packer-fedora-master/tasks/virtualbox.yml
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-packer-fedora-master/templates/
+-rw-rw-r-- root/root        16 2019-02-24 13:55 ansible-role-packer-fedora-master/templates/vmhgfs.modules.j2
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-packer-fedora-master/tests/
+-rw-rw-r-- root/root        10 2019-02-24 13:55 ansible-role-packer-fedora-master/tests/inventory
+-rw-rw-r-- root/root        86 2019-02-24 13:55 ansible-role-packer-fedora-master/tests/test.yml

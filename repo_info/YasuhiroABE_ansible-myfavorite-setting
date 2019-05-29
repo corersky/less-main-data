@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-23 09:45 ansible-myfavorite-setting-master/
+-rw-rw-r-- root/root         9 2019-05-23 09:45 ansible-myfavorite-setting-master/.gitignore
+-rw-rw-r-- root/root      2133 2019-05-23 09:45 ansible-myfavorite-setting-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 09:45 ansible-myfavorite-setting-master/defaults/
+-rw-rw-r-- root/root      1241 2019-05-23 09:45 ansible-myfavorite-setting-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 09:45 ansible-myfavorite-setting-master/handlers/
+-rw-rw-r-- root/root        28 2019-05-23 09:45 ansible-myfavorite-setting-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-23 09:45 ansible-myfavorite-setting-master/meta/
+-rw-rw-r-- root/root       281 2019-05-23 09:45 ansible-myfavorite-setting-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 09:45 ansible-myfavorite-setting-master/tasks/
+-rw-rw-r-- root/root      3314 2019-05-23 09:45 ansible-myfavorite-setting-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 09:45 ansible-myfavorite-setting-master/tests/
+-rw-rw-r-- root/root        11 2019-05-23 09:45 ansible-myfavorite-setting-master/tests/inventory
+-rw-rw-r-- root/root        62 2019-05-23 09:45 ansible-myfavorite-setting-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-23 09:45 ansible-myfavorite-setting-master/vars/
+-rw-rw-r-- root/root        24 2019-05-23 09:45 ansible-myfavorite-setting-master/vars/main.yml

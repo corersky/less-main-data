@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-xclip-master/
+-rw-rw-r-- root/root       843 2016-05-25 21:19 ansible-role-xclip-master/.gitignore
+-rw-rw-r-- root/root       539 2016-05-25 21:19 ansible-role-xclip-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-05-25 21:19 ansible-role-xclip-master/README.md
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-xclip-master/defaults/
+-rw-rw-r-- root/root        19 2016-05-25 21:19 ansible-role-xclip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-xclip-master/meta/
+-rw-rw-r-- root/root       291 2016-05-25 21:19 ansible-role-xclip-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-xclip-master/tasks/
+-rw-rw-r-- root/root       172 2016-05-25 21:19 ansible-role-xclip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-xclip-master/tests/
+-rw-rw-r-- root/root       257 2016-05-25 21:19 ansible-role-xclip-master/tests/ansible.cfg
+-rw-rw-r-- root/root       526 2016-05-25 21:19 ansible-role-xclip-master/tests/staging
+-rw-rw-r-- root/root       194 2016-05-25 21:19 ansible-role-xclip-master/tests/test.yml

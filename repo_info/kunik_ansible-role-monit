@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-02-10 05:52 ansible-role-monit-master/
+-rw-rw-r-- root/root        62 2015-02-10 05:52 ansible-role-monit-master/README.md
+drwxrwxr-x root/root         0 2015-02-10 05:52 ansible-role-monit-master/defaults/
+-rw-rw-r-- root/root        60 2015-02-10 05:52 ansible-role-monit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-10 05:52 ansible-role-monit-master/handlers/
+-rw-rw-r-- root/root       145 2015-02-10 05:52 ansible-role-monit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-10 05:52 ansible-role-monit-master/meta/
+-rw-rw-r-- root/root       175 2015-02-10 05:52 ansible-role-monit-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-10 05:52 ansible-role-monit-master/tasks/
+-rw-rw-r-- root/root       236 2015-02-10 05:52 ansible-role-monit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-10 05:52 ansible-role-monit-master/templates/
+-rw-rw-r-- root/root      4737 2015-02-10 05:52 ansible-role-monit-master/templates/monitrc.j2

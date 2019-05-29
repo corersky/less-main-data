@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/
+-rw-rw-r-- root/root       540 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/LICENSE
+-rw-rw-r-- root/root      2607 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/README.md
+drwxrwxr-x root/root         0 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/defaults/
+-rw-rw-r-- root/root      2878 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/meta/
+-rw-rw-r-- root/root       355 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/tasks/
+-rw-rw-r-- root/root      1989 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/tests/
+-rw-rw-r-- root/root         9 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/tests/inventory
+-rw-rw-r-- root/root        88 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/vars/
+-rw-rw-r-- root/root        71 2016-09-15 00:25 ansible-role-QCA6174-firmware-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-06-29 03:39 ansible-iojs-master/
+-rw-rw-r-- root/root       171 2015-06-29 03:39 ansible-iojs-master/.gitignore
+-rw-rw-r-- root/root       636 2015-06-29 03:39 ansible-iojs-master/.travis.yml
+-rw-rw-r-- root/root      1098 2015-06-29 03:39 ansible-iojs-master/LICENSE.md
+-rw-rw-r-- root/root      2931 2015-06-29 03:39 ansible-iojs-master/README.md
+-rw-rw-r-- root/root      1199 2015-06-29 03:39 ansible-iojs-master/Vagrantfile
+-rw-rw-r-- root/root       153 2015-06-29 03:39 ansible-iojs-master/boxed.yml
+drwxrwxr-x root/root         0 2015-06-29 03:39 ansible-iojs-master/defaults/
+-rw-rw-r-- root/root       142 2015-06-29 03:39 ansible-iojs-master/defaults/main.yml
+-rw-rw-r-- root/root       330 2015-06-29 03:39 ansible-iojs-master/inventory
+-rw-rw-r-- root/root       369 2015-06-29 03:39 ansible-iojs-master/main.yml
+drwxrwxr-x root/root         0 2015-06-29 03:39 ansible-iojs-master/meta/
+-rw-rw-r-- root/root       354 2015-06-29 03:39 ansible-iojs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-29 03:39 ansible-iojs-master/tasks/
+-rw-rw-r-- root/root      1220 2015-06-29 03:39 ansible-iojs-master/tasks/install.yml
+-rw-rw-r-- root/root       107 2015-06-29 03:39 ansible-iojs-master/tasks/main.yml
+-rw-rw-r-- root/root       497 2015-06-29 03:39 ansible-iojs-master/test.yml

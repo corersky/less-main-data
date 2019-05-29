@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-03 14:40 ansible-meteor-master/
+-rw-rw-r-- root/root        10 2015-12-03 14:40 ansible-meteor-master/.gitignore
+-rw-rw-r-- root/root      1077 2015-12-03 14:40 ansible-meteor-master/LICENSE
+-rw-rw-r-- root/root       809 2015-12-03 14:40 ansible-meteor-master/README.md
+-rw-rw-r-- root/root       464 2015-12-03 14:40 ansible-meteor-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-12-03 14:40 ansible-meteor-master/defaults/
+-rw-rw-r-- root/root        32 2015-12-03 14:40 ansible-meteor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-03 14:40 ansible-meteor-master/handlers/
+-rw-rw-r-- root/root         4 2015-12-03 14:40 ansible-meteor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-03 14:40 ansible-meteor-master/meta/
+-rw-rw-r-- root/root       207 2015-12-03 14:40 ansible-meteor-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-03 14:40 ansible-meteor-master/tasks/
+-rw-rw-r-- root/root       746 2015-12-03 14:40 ansible-meteor-master/tasks/main.yml
+-rw-rw-r-- root/root       111 2015-12-03 14:40 ansible-meteor-master/test.yml
+-rw-rw-r-- root/root        89 2015-12-03 14:40 ansible-meteor-master/vagrant-inventory
+drwxrwxr-x root/root         0 2015-12-03 14:40 ansible-meteor-master/vars/
+-rw-rw-r-- root/root        22 2015-12-03 14:40 ansible-meteor-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-21 08:37 ansible-role-autologin-master/
+-rw-rw-r-- root/root       525 2019-05-21 08:37 ansible-role-autologin-master/.travis.yml
+-rw-rw-r-- root/root      1097 2019-05-21 08:37 ansible-role-autologin-master/LICENSE
+-rw-rw-r-- root/root      2304 2019-05-21 08:37 ansible-role-autologin-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 08:37 ansible-role-autologin-master/defaults/
+-rw-rw-r-- root/root       385 2019-05-21 08:37 ansible-role-autologin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 08:37 ansible-role-autologin-master/meta/
+-rw-rw-r-- root/root       510 2019-05-21 08:37 ansible-role-autologin-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 08:37 ansible-role-autologin-master/molecule/
+drwxrwxr-x root/root         0 2019-05-21 08:37 ansible-role-autologin-master/molecule/default/
+-rw-rw-r-- root/root       470 2019-05-21 08:37 ansible-role-autologin-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       704 2019-05-21 08:37 ansible-role-autologin-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-05-21 08:37 ansible-role-autologin-master/tasks/
+-rw-rw-r-- root/root      1107 2019-05-21 08:37 ansible-role-autologin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 08:37 ansible-role-autologin-master/templates/
+-rw-rw-r-- root/root       276 2019-05-21 08:37 ansible-role-autologin-master/templates/autologin.j2

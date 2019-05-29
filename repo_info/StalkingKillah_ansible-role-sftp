@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-12 17:05 ansible-role-sftp-master/
+-rw-rw-r-- root/root       542 2016-11-12 17:05 ansible-role-sftp-master/.travis.yml
+-rw-rw-r-- root/root      1075 2016-11-12 17:05 ansible-role-sftp-master/LICENSE
+-rw-rw-r-- root/root      1634 2016-11-12 17:05 ansible-role-sftp-master/README.md
+drwxrwxr-x root/root         0 2016-11-12 17:05 ansible-role-sftp-master/defaults/
+-rw-rw-r-- root/root       170 2016-11-12 17:05 ansible-role-sftp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-12 17:05 ansible-role-sftp-master/handlers/
+-rw-rw-r-- root/root       102 2016-11-12 17:05 ansible-role-sftp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-12 17:05 ansible-role-sftp-master/meta/
+-rw-rw-r-- root/root      1333 2016-11-12 17:05 ansible-role-sftp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-12 17:05 ansible-role-sftp-master/tasks/
+-rw-rw-r-- root/root      2330 2016-11-12 17:05 ansible-role-sftp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-12 17:05 ansible-role-sftp-master/tests/
+-rw-rw-r-- root/root         9 2016-11-12 17:05 ansible-role-sftp-master/tests/inventory
+-rw-rw-r-- root/root       310 2016-11-12 17:05 ansible-role-sftp-master/tests/test.yml

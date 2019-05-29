@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-28 10:24 nginx-master/
+-rw-rw-r-- root/root      1328 2017-11-28 10:24 nginx-master/README.md
+drwxrwxr-x root/root         0 2017-11-28 10:24 nginx-master/defaults/
+-rw-rw-r-- root/root        31 2017-11-28 10:24 nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-28 10:24 nginx-master/handlers/
+-rw-rw-r-- root/root        29 2017-11-28 10:24 nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-28 10:24 nginx-master/meta/
+-rw-rw-r-- root/root      1790 2017-11-28 10:24 nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-28 10:24 nginx-master/tasks/
+-rw-rw-r-- root/root       273 2017-11-28 10:24 nginx-master/tasks/main.yml
+-rw-rw-r-- root/root       207 2017-11-28 10:24 nginx-master/tasks/nginx-Debian.yml
+-rw-rw-r-- root/root       279 2017-11-28 10:24 nginx-master/tasks/nginx-RedHat.yml
+drwxrwxr-x root/root         0 2017-11-28 10:24 nginx-master/tests/
+-rw-rw-r-- root/root        11 2017-11-28 10:24 nginx-master/tests/inventory
+-rw-rw-r-- root/root        63 2017-11-28 10:24 nginx-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-28 10:24 nginx-master/vars/
+-rw-rw-r-- root/root        74 2017-11-28 10:24 nginx-master/vars/main.yml

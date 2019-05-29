@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-19 04:57 ansible-openssl-master/
+-rw-rw-r-- root/root         7 2017-12-19 04:57 ansible-openssl-master/.gitignore
+-rw-rw-r-- root/root      2664 2017-12-19 04:57 ansible-openssl-master/README.md
+drwxrwxr-x root/root         0 2017-12-19 04:57 ansible-openssl-master/defaults/
+-rw-rw-r-- root/root       253 2017-12-19 04:57 ansible-openssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-19 04:57 ansible-openssl-master/meta/
+-rw-rw-r-- root/root       353 2017-12-19 04:57 ansible-openssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-19 04:57 ansible-openssl-master/tasks/
+-rw-rw-r-- root/root       492 2017-12-19 04:57 ansible-openssl-master/tasks/generateCertificate.yml
+-rw-rw-r-- root/root       582 2017-12-19 04:57 ansible-openssl-master/tasks/generateKey.yml
+-rw-rw-r-- root/root      2193 2017-12-19 04:57 ansible-openssl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-19 04:57 ansible-openssl-master/templates/
+-rw-rw-r-- root/root       386 2017-12-19 04:57 ansible-openssl-master/templates/ca.csr.cnf.j2
+-rw-rw-r-- root/root       207 2017-12-19 04:57 ansible-openssl-master/templates/v3.ext.j2

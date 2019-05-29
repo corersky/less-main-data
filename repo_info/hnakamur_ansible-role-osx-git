@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2014-08-25 12:46 ansible-role-osx-git-master/
+-rw-rw-r-- root/root       603 2014-08-25 12:46 ansible-role-osx-git-master/README.md
+drwxrwxr-x root/root         0 2014-08-25 12:46 ansible-role-osx-git-master/meta/
+-rw-rw-r-- root/root       231 2014-08-25 12:46 ansible-role-osx-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-25 12:46 ansible-role-osx-git-master/tasks/
+-rw-rw-r-- root/root       134 2014-08-25 12:46 ansible-role-osx-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-25 12:46 ansible-role-osx-git-master/templates/
+-rw-rw-r-- root/root       984 2014-08-25 12:46 ansible-role-osx-git-master/templates/gitconfig.j2
+-rw-rw-r-- root/root        38 2014-08-25 12:46 ansible-role-osx-git-master/templates/gitignore.j2

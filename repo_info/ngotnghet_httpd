@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-29 13:57 httpd-master/
+-rw-rw-r-- root/root      1328 2017-05-29 13:57 httpd-master/README.md
+drwxrwxr-x root/root         0 2017-05-29 13:57 httpd-master/defaults/
+-rw-rw-r-- root/root        28 2017-05-29 13:57 httpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-29 13:57 httpd-master/handlers/
+-rw-rw-r-- root/root        28 2017-05-29 13:57 httpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-29 13:57 httpd-master/meta/
+-rw-rw-r-- root/root       269 2017-05-29 13:57 httpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-29 13:57 httpd-master/tasks/
+-rw-rw-r-- root/root        25 2017-05-29 13:57 httpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-29 13:57 httpd-master/tests/
+-rw-rw-r-- root/root        11 2017-05-29 13:57 httpd-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-05-29 13:57 httpd-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-29 13:57 httpd-master/vars/
+-rw-rw-r-- root/root        24 2017-05-29 13:57 httpd-master/vars/main.yml

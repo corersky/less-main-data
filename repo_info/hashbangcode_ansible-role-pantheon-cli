@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-09-26 10:02 ansible-role-pantheon-cli-master/
+-rw-rw-r-- root/root       963 2016-09-26 10:02 ansible-role-pantheon-cli-master/.travis.yml
+-rw-rw-r-- root/root       877 2016-09-26 10:02 ansible-role-pantheon-cli-master/README.md
+drwxrwxr-x root/root         0 2016-09-26 10:02 ansible-role-pantheon-cli-master/defaults/
+-rw-rw-r-- root/root        34 2016-09-26 10:02 ansible-role-pantheon-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-26 10:02 ansible-role-pantheon-cli-master/meta/
+-rw-rw-r-- root/root       294 2016-09-26 10:02 ansible-role-pantheon-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-26 10:02 ansible-role-pantheon-cli-master/tasks/
+-rw-rw-r-- root/root       298 2016-09-26 10:02 ansible-role-pantheon-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-26 10:02 ansible-role-pantheon-cli-master/tests/
+-rw-rw-r-- root/root        10 2016-09-26 10:02 ansible-role-pantheon-cli-master/tests/inventory
+-rw-rw-r-- root/root        84 2016-09-26 10:02 ansible-role-pantheon-cli-master/tests/test.yml

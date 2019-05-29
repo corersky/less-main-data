@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-09 20:43 ansible-role-selinux-master/
+-rw-rw-r-- root/root       539 2017-05-09 20:43 ansible-role-selinux-master/.travis.yml
+-rw-rw-r-- root/root       384 2017-05-09 20:43 ansible-role-selinux-master/README.md
+drwxrwxr-x root/root         0 2017-05-09 20:43 ansible-role-selinux-master/defaults/
+-rw-rw-r-- root/root        26 2017-05-09 20:43 ansible-role-selinux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-09 20:43 ansible-role-selinux-master/meta/
+-rw-rw-r-- root/root       220 2017-05-09 20:43 ansible-role-selinux-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-09 20:43 ansible-role-selinux-master/tasks/
+-rw-rw-r-- root/root       521 2017-05-09 20:43 ansible-role-selinux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-09 20:43 ansible-role-selinux-master/tests/
+-rw-rw-r-- root/root         9 2017-05-09 20:43 ansible-role-selinux-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-05-09 20:43 ansible-role-selinux-master/tests/test.yml

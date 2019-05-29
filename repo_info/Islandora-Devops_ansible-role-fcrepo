@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-30 14:04 ansible-role-fcrepo-master/
+-rw-rw-r-- root/root      2149 2019-04-30 14:04 ansible-role-fcrepo-master/README.md
+drwxrwxr-x root/root         0 2019-04-30 14:04 ansible-role-fcrepo-master/defaults/
+-rw-rw-r-- root/root       548 2019-04-30 14:04 ansible-role-fcrepo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-30 14:04 ansible-role-fcrepo-master/meta/
+-rw-rw-r-- root/root       389 2019-04-30 14:04 ansible-role-fcrepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-30 14:04 ansible-role-fcrepo-master/tasks/
+-rw-rw-r-- root/root       777 2019-04-30 14:04 ansible-role-fcrepo-master/tasks/config.yml
+-rw-rw-r-- root/root      1382 2019-04-30 14:04 ansible-role-fcrepo-master/tasks/install.yml
+-rw-rw-r-- root/root       129 2019-04-30 14:04 ansible-role-fcrepo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-30 14:04 ansible-role-fcrepo-master/templates/
+-rw-rw-r-- root/root      1349 2019-04-30 14:04 ansible-role-fcrepo-master/templates/activemq.xml.j2
+-rw-rw-r-- root/root        74 2019-04-30 14:04 ansible-role-fcrepo-master/templates/allowed-external-content.txt.j2
+-rw-rw-r-- root/root      1457 2019-04-30 14:04 ansible-role-fcrepo-master/templates/claw.cnd
+-rw-rw-r-- root/root     11619 2019-04-30 14:04 ansible-role-fcrepo-master/templates/fcrepo-config.xml
+-rw-rw-r-- root/root       882 2019-04-30 14:04 ansible-role-fcrepo-master/templates/repository.json

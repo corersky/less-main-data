@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-08-02 12:45 ssh-role-master/
+-rw-rw-r-- root/root        17 2016-08-02 12:45 ssh-role-master/.gitignore
+-rw-rw-r-- root/root      1272 2016-08-02 12:45 ssh-role-master/.travis.yml
+-rw-rw-r-- root/root      1191 2016-08-02 12:45 ssh-role-master/README.md
+drwxrwxr-x root/root         0 2016-08-02 12:45 ssh-role-master/defaults/
+-rw-rw-r-- root/root       149 2016-08-02 12:45 ssh-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-02 12:45 ssh-role-master/handlers/
+-rw-rw-r-- root/root        98 2016-08-02 12:45 ssh-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-02 12:45 ssh-role-master/meta/
+-rw-rw-r-- root/root      3504 2016-08-02 12:45 ssh-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-02 12:45 ssh-role-master/tasks/
+-rw-rw-r-- root/root       749 2016-08-02 12:45 ssh-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-02 12:45 ssh-role-master/tests/
+-rw-rw-r-- root/root        34 2016-08-02 12:45 ssh-role-master/tests/inventory
+-rw-rw-r-- root/root        63 2016-08-02 12:45 ssh-role-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-08-02 12:45 ssh-role-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-08-02 12:45 ssh-role-master/tests/roles/ssh-role -> ../../../ssh-role
+-rw-rw-r-- root/root       369 2016-08-02 12:45 ssh-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-02 12:45 ssh-role-master/vars/
+-rw-rw-r-- root/root        38 2016-08-02 12:45 ssh-role-master/vars/main.yml

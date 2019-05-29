@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-10 07:52 ansible-python-27-scl-master/
+-rw-rw-r-- root/root        14 2016-06-10 07:52 ansible-python-27-scl-master/.gitignore
+-rw-rw-r-- root/root      1079 2016-06-10 07:52 ansible-python-27-scl-master/LICENSE
+-rw-rw-r-- root/root       461 2016-06-10 07:52 ansible-python-27-scl-master/README.md
+-rw-rw-r-- root/root      2133 2016-06-10 07:52 ansible-python-27-scl-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-06-10 07:52 ansible-python-27-scl-master/defaults/
+-rw-rw-r-- root/root       365 2016-06-10 07:52 ansible-python-27-scl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-10 07:52 ansible-python-27-scl-master/meta/
+-rw-rw-r-- root/root       284 2016-06-10 07:52 ansible-python-27-scl-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-10 07:52 ansible-python-27-scl-master/tasks/
+-rw-rw-r-- root/root       153 2016-06-10 07:52 ansible-python-27-scl-master/tasks/install.yml
+-rw-rw-r-- root/root        51 2016-06-10 07:52 ansible-python-27-scl-master/tasks/main.yml
+-rw-rw-r-- root/root       286 2016-06-10 07:52 ansible-python-27-scl-master/tasks/scl_repo.yml
+drwxrwxr-x root/root         0 2016-06-10 07:52 ansible-python-27-scl-master/tests/
+-rw-rw-r-- root/root         8 2016-06-10 07:52 ansible-python-27-scl-master/tests/test.retry
+-rw-rw-r-- root/root        88 2016-06-10 07:52 ansible-python-27-scl-master/tests/test.yml
+-rw-rw-r-- root/root       184 2016-06-10 07:52 ansible-python-27-scl-master/tests/vagrant_inventory

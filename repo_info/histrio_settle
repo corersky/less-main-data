@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-01 01:34 settle-master/
+-rw-rw-r-- root/root       539 2017-11-01 01:34 settle-master/.travis.yml
+-rw-rw-r-- root/root      1022 2017-11-01 01:34 settle-master/README.md
+drwxrwxr-x root/root         0 2017-11-01 01:34 settle-master/defaults/
+-rw-rw-r-- root/root        31 2017-11-01 01:34 settle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-01 01:34 settle-master/handlers/
+-rw-rw-r-- root/root       159 2017-11-01 01:34 settle-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-01 01:34 settle-master/meta/
+-rw-rw-r-- root/root       394 2017-11-01 01:34 settle-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-01 01:34 settle-master/tasks/
+-rw-rw-r-- root/root      1683 2017-11-01 01:34 settle-master/tasks/main.yml
+-rw-rw-r-- root/root      1111 2017-11-01 01:34 settle-master/tasks/user.yml
+drwxrwxr-x root/root         0 2017-11-01 01:34 settle-master/tests/
+-rw-rw-r-- root/root         9 2017-11-01 01:34 settle-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-11-01 01:34 settle-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-01 01:34 settle-master/vars/
+-rw-rw-r-- root/root       657 2017-11-01 01:34 settle-master/vars/main.yml

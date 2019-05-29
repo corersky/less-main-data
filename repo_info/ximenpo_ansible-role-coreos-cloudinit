@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/
+-rw-rw-r-- root/root      1064 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/LICENSE
+-rw-rw-r-- root/root        70 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/README.md
+drwxrwxr-x root/root         0 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/defaults/
+-rw-rw-r-- root/root      2000 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/files/
+-rw-rw-r-- root/root       272 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/files/script-post.sh
+-rw-rw-r-- root/root       156 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/files/script-pre.sh
+drwxrwxr-x root/root         0 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/meta/
+-rw-rw-r-- root/root       270 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/tasks/
+-rw-rw-r-- root/root      5009 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/tests/
+-rw-rw-r-- root/root        11 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-08-18 04:10 ansible-role-coreos-cloudinit-master/tests/test.yml

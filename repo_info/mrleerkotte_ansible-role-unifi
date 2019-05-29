@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-09 05:27 ansible-role-unifi-master/
+-rw-rw-r-- root/root        13 2019-03-09 05:27 ansible-role-unifi-master/.gitignore
+-rw-rw-r-- root/root      2004 2019-03-09 05:27 ansible-role-unifi-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 05:27 ansible-role-unifi-master/defaults/
+-rw-rw-r-- root/root       752 2019-03-09 05:27 ansible-role-unifi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 05:27 ansible-role-unifi-master/handlers/
+-rw-rw-r-- root/root       111 2019-03-09 05:27 ansible-role-unifi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-09 05:27 ansible-role-unifi-master/meta/
+-rw-rw-r-- root/root       351 2019-03-09 05:27 ansible-role-unifi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 05:27 ansible-role-unifi-master/tasks/
+-rw-rw-r-- root/root      1388 2019-03-09 05:27 ansible-role-unifi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 05:27 ansible-role-unifi-master/tests/
+-rw-rw-r-- root/root        11 2019-03-09 05:27 ansible-role-unifi-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-03-09 05:27 ansible-role-unifi-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-09 05:27 ansible-role-unifi-master/vars/
+-rw-rw-r-- root/root        37 2019-03-09 05:27 ansible-role-unifi-master/vars/main.yml

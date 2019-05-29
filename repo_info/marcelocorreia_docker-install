@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-11-01 22:49 docker-install-master/
+-rw-rw-r-- root/root        17 2017-11-01 22:49 docker-install-master/.gitignore
+-rw-rw-r-- root/root       298 2017-11-01 22:49 docker-install-master/README.md
+drwxrwxr-x root/root         0 2017-11-01 22:49 docker-install-master/defaults/
+-rw-rw-r-- root/root       123 2017-11-01 22:49 docker-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-01 22:49 docker-install-master/handlers/
+-rw-rw-r-- root/root       208 2017-11-01 22:49 docker-install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-01 22:49 docker-install-master/meta/
+-rw-rw-r-- root/root        59 2017-11-01 22:49 docker-install-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       307 2017-11-01 22:49 docker-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-01 22:49 docker-install-master/tasks/
+-rw-rw-r-- root/root      1266 2017-11-01 22:49 docker-install-master/tasks/main.yml
+-rw-rw-r-- root/root         6 2017-11-01 22:49 docker-install-master/version

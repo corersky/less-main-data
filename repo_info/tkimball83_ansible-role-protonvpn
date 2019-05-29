@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-09 20:52 ansible-role-protonvpn-master/
+-rw-rw-r-- root/root       331 2019-03-09 20:52 ansible-role-protonvpn-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-03-09 20:52 ansible-role-protonvpn-master/COPYING
+-rw-rw-r-- root/root      2277 2019-03-09 20:52 ansible-role-protonvpn-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 20:52 ansible-role-protonvpn-master/defaults/
+-rw-rw-r-- root/root       117 2019-03-09 20:52 ansible-role-protonvpn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:52 ansible-role-protonvpn-master/meta/
+-rw-rw-r-- root/root       279 2019-03-09 20:52 ansible-role-protonvpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:52 ansible-role-protonvpn-master/tasks/
+-rw-rw-r-- root/root       723 2019-03-09 20:52 ansible-role-protonvpn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:52 ansible-role-protonvpn-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 20:52 ansible-role-protonvpn-master/tests/inventory
+-rw-rw-r-- root/root        85 2019-03-09 20:52 ansible-role-protonvpn-master/tests/test.yml

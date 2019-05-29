@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-05-20 15:12 ansible-redis-master/
+-rw-rw-r-- root/root       568 2015-05-20 15:12 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2015-05-20 15:12 ansible-redis-master/defaults/
+-rw-rw-r-- root/root        70 2015-05-20 15:12 ansible-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-20 15:12 ansible-redis-master/handlers/
+-rw-rw-r-- root/root       117 2015-05-20 15:12 ansible-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-20 15:12 ansible-redis-master/meta/
+-rw-rw-r-- root/root       286 2015-05-20 15:12 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-20 15:12 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       376 2015-05-20 15:12 ansible-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-20 15:12 ansible-redis-master/vars/
+-rw-rw-r-- root/root        26 2015-05-20 15:12 ansible-redis-master/vars/main.yml

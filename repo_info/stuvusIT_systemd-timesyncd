@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-11-05 09:42 systemd-timesyncd-master/
+-rw-rw-r-- root/root     22240 2018-11-05 09:42 systemd-timesyncd-master/LICENSE
+-rw-rw-r-- root/root      1160 2018-11-05 09:42 systemd-timesyncd-master/README.md
+drwxrwxr-x root/root         0 2018-11-05 09:42 systemd-timesyncd-master/defaults/
+-rw-rw-r-- root/root       136 2018-11-05 09:42 systemd-timesyncd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-05 09:42 systemd-timesyncd-master/handlers/
+-rw-rw-r-- root/root       343 2018-11-05 09:42 systemd-timesyncd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-05 09:42 systemd-timesyncd-master/meta/
+-rw-rw-r-- root/root       503 2018-11-05 09:42 systemd-timesyncd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-05 09:42 systemd-timesyncd-master/tasks/
+-rw-rw-r-- root/root       530 2018-11-05 09:42 systemd-timesyncd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-05 09:42 systemd-timesyncd-master/templates/
+-rw-rw-r-- root/root       162 2018-11-05 09:42 systemd-timesyncd-master/templates/timesyncd.conf.j2

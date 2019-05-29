@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-07 12:09 ansible-role-apache-master/
+-rw-rw-r-- root/root      1073 2016-01-07 12:09 ansible-role-apache-master/LICENSE
+-rw-rw-r-- root/root      1129 2016-01-07 12:09 ansible-role-apache-master/README.md
+drwxrwxr-x root/root         0 2016-01-07 12:09 ansible-role-apache-master/defaults/
+-rw-rw-r-- root/root       276 2016-01-07 12:09 ansible-role-apache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-07 12:09 ansible-role-apache-master/handlers/
+-rwxrwxr-x root/root        78 2016-01-07 12:09 ansible-role-apache-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-07 12:09 ansible-role-apache-master/meta/
+-rw-rw-r-- root/root       311 2016-01-07 12:09 ansible-role-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-07 12:09 ansible-role-apache-master/tasks/
+-rwxrwxr-x root/root      1152 2016-01-07 12:09 ansible-role-apache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-07 12:09 ansible-role-apache-master/templates/
+-rw-rw-r-- root/root      1949 2016-01-07 12:09 ansible-role-apache-master/templates/envvars.tpl
+-rwxrwxr-x root/root       462 2016-01-07 12:09 ansible-role-apache-master/templates/vhost22.conf.tpl
+-rwxrwxr-x root/root       444 2016-01-07 12:09 ansible-role-apache-master/templates/vhost24.conf.tpl
+drwxrwxr-x root/root         0 2016-01-07 12:09 ansible-role-apache-master/vars/
+-rw-rw-r-- root/root       128 2016-01-07 12:09 ansible-role-apache-master/vars/main.yml

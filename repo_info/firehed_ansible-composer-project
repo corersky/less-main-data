@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-11-06 15:00 ansible-composer-project-master/
+-rw-rw-r-- root/root      1714 2015-11-06 15:00 ansible-composer-project-master/README.md
+drwxrwxr-x root/root         0 2015-11-06 15:00 ansible-composer-project-master/defaults/
+-rw-rw-r-- root/root       323 2015-11-06 15:00 ansible-composer-project-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-06 15:00 ansible-composer-project-master/meta/
+-rw-rw-r-- root/root      2318 2015-11-06 15:00 ansible-composer-project-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-06 15:00 ansible-composer-project-master/tasks/
+-rw-rw-r-- root/root      1073 2015-11-06 15:00 ansible-composer-project-master/tasks/checkout.yml
+-rw-rw-r-- root/root       133 2015-11-06 15:00 ansible-composer-project-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       583 2015-11-06 15:00 ansible-composer-project-master/tasks/deploy.yml
+-rw-rw-r-- root/root        93 2015-11-06 15:00 ansible-composer-project-master/tasks/main.yml
+-rw-rw-r-- root/root       597 2015-11-06 15:00 ansible-composer-project-master/tasks/push.yml

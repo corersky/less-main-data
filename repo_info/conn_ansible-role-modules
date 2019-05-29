@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-02 19:52 ansible-role-modules-master/
+-rw-rw-r-- root/root      1514 2018-01-02 19:52 ansible-role-modules-master/LICENSE
+-rw-rw-r-- root/root        59 2018-01-02 19:52 ansible-role-modules-master/README.md
+drwxrwxr-x root/root         0 2018-01-02 19:52 ansible-role-modules-master/defaults/
+-rw-rw-r-- root/root        42 2018-01-02 19:52 ansible-role-modules-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-02 19:52 ansible-role-modules-master/files/
+drwxrwxr-x root/root         0 2018-01-02 19:52 ansible-role-modules-master/files/configs/
+-rw-rw-r-- root/root        92 2018-01-02 19:52 ansible-role-modules-master/files/configs/nomodules
+drwxrwxr-x root/root         0 2018-01-02 19:52 ansible-role-modules-master/meta/
+-rw-rw-r-- root/root       495 2018-01-02 19:52 ansible-role-modules-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-02 19:52 ansible-role-modules-master/tasks/
+-rw-rw-r-- root/root       127 2018-01-02 19:52 ansible-role-modules-master/tasks/build.yml
+drwxrwxr-x root/root         0 2018-01-02 19:52 ansible-role-modules-master/tasks/build/
+-rw-rw-r-- root/root       842 2018-01-02 19:52 ansible-role-modules-master/tasks/build/module.yml
+-rw-rw-r-- root/root       278 2018-01-02 19:52 ansible-role-modules-master/tasks/build/wipe.yml
+-rw-rw-r-- root/root        45 2018-01-02 19:52 ansible-role-modules-master/tasks/main.yml

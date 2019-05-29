@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/
+-rw-rw-r-- root/root        83 2018-11-11 22:43 openssh-master/.gitignore
+-rw-rw-r-- root/root       733 2018-11-11 22:43 openssh-master/.travis.yml
+-rw-rw-r-- root/root      1079 2018-11-11 22:43 openssh-master/LICENSE
+-rw-rw-r-- root/root      1218 2018-11-11 22:43 openssh-master/README.md
+-rw-rw-r-- root/root       346 2018-11-11 22:43 openssh-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/defaults/
+-rw-rw-r-- root/root      2285 2018-11-11 22:43 openssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/handlers/
+-rw-rw-r-- root/root       101 2018-11-11 22:43 openssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/meta/
+-rw-rw-r-- root/root       293 2018-11-11 22:43 openssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/tasks/
+-rw-rw-r-- root/root       911 2018-11-11 22:43 openssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/templates/
+-rw-rw-r-- root/root        95 2018-11-11 22:43 openssh-master/templates/etc_ssh_ssh_config.j2
+-rw-rw-r-- root/root        95 2018-11-11 22:43 openssh-master/templates/etc_ssh_sshd_config.j2
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/vagrant/
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/vagrant/roles/
+lrwxrwxrwx root/root         0 2018-11-11 22:43 openssh-master/vagrant/roles/openssh -> ../../
+-rw-rw-r-- root/root        73 2018-11-11 22:43 openssh-master/vagrant/test.yml
+drwxrwxr-x root/root         0 2018-11-11 22:43 openssh-master/vars/
+-rw-rw-r-- root/root       109 2018-11-11 22:43 openssh-master/vars/main.yml

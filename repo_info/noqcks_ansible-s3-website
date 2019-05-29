@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-08-16 13:00 ansible-s3-website-master/
+-rw-rw-r-- root/root      1066 2015-08-16 13:00 ansible-s3-website-master/LICENSE
+-rw-rw-r-- root/root      1504 2015-08-16 13:00 ansible-s3-website-master/README.md
+drwxrwxr-x root/root         0 2015-08-16 13:00 ansible-s3-website-master/defaults/
+-rw-rw-r-- root/root      2564 2015-08-16 13:00 ansible-s3-website-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-16 13:00 ansible-s3-website-master/meta/
+-rw-rw-r-- root/root       271 2015-08-16 13:00 ansible-s3-website-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-16 13:00 ansible-s3-website-master/tasks/
+-rw-rw-r-- root/root       478 2015-08-16 13:00 ansible-s3-website-master/tasks/cloudfront.yml
+-rw-rw-r-- root/root        71 2015-08-16 13:00 ansible-s3-website-master/tasks/main.yml
+-rw-rw-r-- root/root       710 2015-08-16 13:00 ansible-s3-website-master/tasks/route53.yml
+-rw-rw-r-- root/root       693 2015-08-16 13:00 ansible-s3-website-master/tasks/s3.yml

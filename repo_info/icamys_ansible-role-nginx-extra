@@ -1,0 +1,8 @@
+drwxrwxr-x root/root         0 2016-11-18 09:09 ansible-role-nginx-extra-master/
+-rw-rw-r-- root/root       787 2016-11-18 09:09 ansible-role-nginx-extra-master/README.md
+drwxrwxr-x root/root         0 2016-11-18 09:09 ansible-role-nginx-extra-master/meta/
+-rw-rw-r-- root/root       259 2016-11-18 09:09 ansible-role-nginx-extra-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-18 09:09 ansible-role-nginx-extra-master/tasks/
+-rw-rw-r-- root/root       172 2016-11-18 09:09 ansible-role-nginx-extra-master/tasks/main.yml
+-rw-rw-r-- root/root        97 2016-11-18 09:09 ansible-role-nginx-extra-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root        97 2016-11-18 09:09 ansible-role-nginx-extra-master/tasks/setup-Ubuntu.yml

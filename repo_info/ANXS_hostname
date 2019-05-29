@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-16 01:18 hostname-master/
+-rw-rw-r-- root/root        83 2019-01-16 01:18 hostname-master/.gitignore
+-rw-rw-r-- root/root       710 2019-01-16 01:18 hostname-master/.travis.yml
+-rw-rw-r-- root/root      1079 2019-01-16 01:18 hostname-master/LICENSE
+-rw-rw-r-- root/root      1424 2019-01-16 01:18 hostname-master/README.md
+-rw-rw-r-- root/root       598 2019-01-16 01:18 hostname-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-01-16 01:18 hostname-master/defaults/
+-rw-rw-r-- root/root        24 2019-01-16 01:18 hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-16 01:18 hostname-master/meta/
+-rw-rw-r-- root/root       269 2019-01-16 01:18 hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-16 01:18 hostname-master/tasks/
+-rw-rw-r-- root/root      1304 2019-01-16 01:18 hostname-master/tasks/main.yml
+-rw-rw-r-- root/root       126 2019-01-16 01:18 hostname-master/test.yml
+-rw-rw-r-- root/root        69 2019-01-16 01:18 hostname-master/vagrant-inventory
+drwxrwxr-x root/root         0 2019-01-16 01:18 hostname-master/vars/
+-rw-rw-r-- root/root       115 2019-01-16 01:18 hostname-master/vars/main.yml

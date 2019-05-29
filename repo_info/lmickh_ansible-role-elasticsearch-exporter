@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/
+-rw-rw-r-- root/root       123 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/.gitignore
+-rw-rw-r-- root/root      1079 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/LICENSE
+-rw-rw-r-- root/root       530 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/README.md
+drwxrwxr-x root/root         0 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/defaults/
+-rw-rw-r-- root/root       286 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/meta/
+-rw-rw-r-- root/root       302 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/tasks/
+-rw-rw-r-- root/root      1105 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/templates/
+-rw-rw-r-- root/root       427 2017-09-13 11:32 ansible-role-elasticsearch-exporter-master/templates/elasticsearch-exporter.service.j2

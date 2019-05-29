@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-14 10:05 postfix-master/
+-rw-rw-r-- root/root      1057 2017-08-14 10:05 postfix-master/LICENSE
+-rw-rw-r-- root/root       506 2017-08-14 10:05 postfix-master/README.md
+drwxrwxr-x root/root         0 2017-08-14 10:05 postfix-master/defaults/
+-rw-rw-r-- root/root        41 2017-08-14 10:05 postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-14 10:05 postfix-master/handlers/
+-rw-rw-r-- root/root       176 2017-08-14 10:05 postfix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-14 10:05 postfix-master/meta/
+-rw-rw-r-- root/root       259 2017-08-14 10:05 postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-14 10:05 postfix-master/tasks/
+-rw-rw-r-- root/root       909 2017-08-14 10:05 postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-14 10:05 postfix-master/tests/
+-rw-rw-r-- root/root      6148 2017-08-14 10:05 postfix-master/tests/.DS_Store
+-rw-rw-r-- root/root        11 2017-08-14 10:05 postfix-master/tests/inventory
+-rw-rw-r-- root/root        49 2017-08-14 10:05 postfix-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-08-14 10:05 postfix-master/vars/
+-rw-rw-r-- root/root       144 2017-08-14 10:05 postfix-master/vars/main.yml

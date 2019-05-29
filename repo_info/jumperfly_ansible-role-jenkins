@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-29 13:48 ansible-role-jenkins-master/
+-rw-rw-r-- root/root        87 2019-04-29 13:48 ansible-role-jenkins-master/.gitignore
+-rw-rw-r-- root/root       584 2019-04-29 13:48 ansible-role-jenkins-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-04-29 13:48 ansible-role-jenkins-master/defaults/
+-rw-rw-r-- root/root       632 2019-04-29 13:48 ansible-role-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-29 13:48 ansible-role-jenkins-master/files/
+-rw-rw-r-- root/root        94 2019-04-29 13:48 ansible-role-jenkins-master/files/jenkins.CLI.xml
+drwxrwxr-x root/root         0 2019-04-29 13:48 ansible-role-jenkins-master/handlers/
+-rw-rw-r-- root/root        78 2019-04-29 13:48 ansible-role-jenkins-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-29 13:48 ansible-role-jenkins-master/meta/
+-rw-rw-r-- root/root       254 2019-04-29 13:48 ansible-role-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-29 13:48 ansible-role-jenkins-master/tasks/
+-rw-rw-r-- root/root      2077 2019-04-29 13:48 ansible-role-jenkins-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-29 13:48 ansible-role-jenkins-master/tests/
+-rwxrwxr-x root/root        40 2019-04-29 13:48 ansible-role-jenkins-master/tests/requirements.yml
+-rw-rw-r-- root/root        54 2019-04-29 13:48 ansible-role-jenkins-master/tests/test.yml

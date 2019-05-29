@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-16 17:54 ansible-role-collectd-signalfx-master/
+-rw-rw-r-- root/root        28 2019-05-16 17:54 ansible-role-collectd-signalfx-master/.gitignore
+-rw-rw-r-- root/root       565 2019-05-16 17:54 ansible-role-collectd-signalfx-master/.travis.yml
+-rw-rw-r-- root/root      2717 2019-05-16 17:54 ansible-role-collectd-signalfx-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 17:54 ansible-role-collectd-signalfx-master/defaults/
+-rw-rw-r-- root/root      1337 2019-05-16 17:54 ansible-role-collectd-signalfx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 17:54 ansible-role-collectd-signalfx-master/handlers/
+-rw-rw-r-- root/root       106 2019-05-16 17:54 ansible-role-collectd-signalfx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-16 17:54 ansible-role-collectd-signalfx-master/meta/
+-rw-rw-r-- root/root       468 2019-05-16 17:54 ansible-role-collectd-signalfx-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 17:54 ansible-role-collectd-signalfx-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 17:54 ansible-role-collectd-signalfx-master/molecule/default/
+-rw-rw-r-- root/root       711 2019-05-16 17:54 ansible-role-collectd-signalfx-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       861 2019-05-16 17:54 ansible-role-collectd-signalfx-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-05-16 17:54 ansible-role-collectd-signalfx-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 17:54 ansible-role-collectd-signalfx-master/tasks/
+-rw-rw-r-- root/root      1954 2019-05-16 17:54 ansible-role-collectd-signalfx-master/tasks/main.yml

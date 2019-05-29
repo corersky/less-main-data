@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-02-14 00:26 ansible_postgresql-master/
+-rw-rw-r-- root/root       308 2017-02-14 00:26 ansible_postgresql-master/README.rst
+drwxrwxr-x root/root         0 2017-02-14 00:26 ansible_postgresql-master/defaults/
+-rw-rw-r-- root/root        35 2017-02-14 00:26 ansible_postgresql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:26 ansible_postgresql-master/handlers/
+-rw-rw-r-- root/root        35 2017-02-14 00:26 ansible_postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:26 ansible_postgresql-master/meta/
+-rw-rw-r-- root/root       301 2017-02-14 00:26 ansible_postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:26 ansible_postgresql-master/tasks/
+-rw-rw-r-- root/root       269 2017-02-14 00:26 ansible_postgresql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:26 ansible_postgresql-master/vars/
+-rw-rw-r-- root/root        31 2017-02-14 00:26 ansible_postgresql-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-02 12:04 Ansible-Role-Docker-master/
+-rw-rw-r-- root/root      1328 2017-01-02 12:04 Ansible-Role-Docker-master/README.md
+drwxrwxr-x root/root         0 2017-01-02 12:04 Ansible-Role-Docker-master/defaults/
+-rw-rw-r-- root/root        30 2017-01-02 12:04 Ansible-Role-Docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-02 12:04 Ansible-Role-Docker-master/handlers/
+-rw-rw-r-- root/root        30 2017-01-02 12:04 Ansible-Role-Docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-02 12:04 Ansible-Role-Docker-master/meta/
+-rw-rw-r-- root/root       286 2017-01-02 12:04 Ansible-Role-Docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-02 12:04 Ansible-Role-Docker-master/tasks/
+-rw-rw-r-- root/root        27 2017-01-02 12:04 Ansible-Role-Docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-02 12:04 Ansible-Role-Docker-master/tests/
+-rw-rw-r-- root/root        11 2017-01-02 12:04 Ansible-Role-Docker-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-01-02 12:04 Ansible-Role-Docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-02 12:04 Ansible-Role-Docker-master/vars/
+-rw-rw-r-- root/root        26 2017-01-02 12:04 Ansible-Role-Docker-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-23 13:53 terraform-master/
+-rw-rw-r-- root/root      1074 2018-02-23 13:53 terraform-master/LICENSE
+-rw-rw-r-- root/root        49 2018-02-23 13:53 terraform-master/README.md
+drwxrwxr-x root/root         0 2018-02-23 13:53 terraform-master/defaults/
+-rw-rw-r-- root/root       387 2018-02-23 13:53 terraform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-23 13:53 terraform-master/handlers/
+-rw-rw-r-- root/root         4 2018-02-23 13:53 terraform-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-23 13:53 terraform-master/meta/
+-rw-rw-r-- root/root       241 2018-02-23 13:53 terraform-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-23 13:53 terraform-master/tasks/
+-rw-rw-r-- root/root      1461 2018-02-23 13:53 terraform-master/tasks/install.yml
+-rw-rw-r-- root/root       307 2018-02-23 13:53 terraform-master/tasks/main.yml
+-rw-rw-r-- root/root       493 2018-02-23 13:53 terraform-master/tasks/pre.yml
+-rw-rw-r-- root/root       683 2018-02-23 13:53 terraform-master/tasks/purge.yml
+drwxrwxr-x root/root         0 2018-02-23 13:53 terraform-master/tests/
+-rw-rw-r-- root/root        10 2018-02-23 13:53 terraform-master/tests/inventory
+-rw-rw-r-- root/root       100 2018-02-23 13:53 terraform-master/tests/test.yml

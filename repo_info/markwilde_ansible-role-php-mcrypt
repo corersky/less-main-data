@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-19 10:07 ansible-role-php-mcrypt-master/
+-rw-rw-r-- root/root       134 2015-10-19 10:07 ansible-role-php-mcrypt-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 10:07 ansible-role-php-mcrypt-master/defaults/
+-rw-rw-r-- root/root        74 2015-10-19 10:07 ansible-role-php-mcrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:07 ansible-role-php-mcrypt-master/meta/
+-rw-rw-r-- root/root       325 2015-10-19 10:07 ansible-role-php-mcrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:07 ansible-role-php-mcrypt-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 10:07 ansible-role-php-mcrypt-master/tasks/debian/
+-rw-rw-r-- root/root       336 2015-10-19 10:07 ansible-role-php-mcrypt-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       353 2015-10-19 10:07 ansible-role-php-mcrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:07 ansible-role-php-mcrypt-master/tasks/redhat/
+-rw-rw-r-- root/root        95 2015-10-19 10:07 ansible-role-php-mcrypt-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:07 ansible-role-php-mcrypt-master/templates/
+-rw-rw-r-- root/root       118 2015-10-19 10:07 ansible-role-php-mcrypt-master/templates/mcrypt.ini.j2
+drwxrwxr-x root/root         0 2015-10-19 10:07 ansible-role-php-mcrypt-master/vars/
+-rw-rw-r-- root/root        61 2015-10-19 10:07 ansible-role-php-mcrypt-master/vars/Debian.yml
+-rw-rw-r-- root/root        60 2015-10-19 10:07 ansible-role-php-mcrypt-master/vars/RedHat.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-03 07:21 ansible-role-dyndns-master/
+-rw-rw-r-- root/root        21 2019-01-03 07:21 ansible-role-dyndns-master/.gitignore
+-rw-rw-r-- root/root       867 2019-01-03 07:21 ansible-role-dyndns-master/.travis.yml
+drwxrwxr-x root/root         0 2019-01-03 07:21 ansible-role-dyndns-master/defaults/
+-rw-rw-r-- root/root        17 2019-01-03 07:21 ansible-role-dyndns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-03 07:21 ansible-role-dyndns-master/meta/
+-rw-rw-r-- root/root      3897 2019-01-03 07:21 ansible-role-dyndns-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-03 07:21 ansible-role-dyndns-master/tasks/
+-rw-rw-r-- root/root        74 2019-01-03 07:21 ansible-role-dyndns-master/tasks/dyndns.yml
+-rw-rw-r-- root/root        44 2019-01-03 07:21 ansible-role-dyndns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-03 07:21 ansible-role-dyndns-master/templates/
+-rw-rw-r-- root/root        94 2019-01-03 07:21 ansible-role-dyndns-master/templates/cronjob
+drwxrwxr-x root/root         0 2019-01-03 07:21 ansible-role-dyndns-master/tests/
+-rw-rw-r-- root/root         9 2019-01-03 07:21 ansible-role-dyndns-master/tests/inventory
+-rw-rw-r-- root/root       130 2019-01-03 07:21 ansible-role-dyndns-master/tests/test.yml

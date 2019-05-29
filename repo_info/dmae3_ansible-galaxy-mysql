@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-22 03:36 ansible-galaxy-mysql-master/
+-rw-rw-r-- root/root      2107 2017-10-22 03:36 ansible-galaxy-mysql-master/README.md
+drwxrwxr-x root/root         0 2017-10-22 03:36 ansible-galaxy-mysql-master/defaults/
+-rw-rw-r-- root/root       523 2017-10-22 03:36 ansible-galaxy-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-22 03:36 ansible-galaxy-mysql-master/handlers/
+-rw-rw-r-- root/root        95 2017-10-22 03:36 ansible-galaxy-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-22 03:36 ansible-galaxy-mysql-master/meta/
+-rw-rw-r-- root/root       231 2017-10-22 03:36 ansible-galaxy-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-22 03:36 ansible-galaxy-mysql-master/tasks/
+-rw-rw-r-- root/root      2233 2017-10-22 03:36 ansible-galaxy-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-22 03:36 ansible-galaxy-mysql-master/templates/
+-rw-rw-r-- root/root      1830 2017-10-22 03:36 ansible-galaxy-mysql-master/templates/my.cnf.j2
+-rw-rw-r-- root/root        54 2017-10-22 03:36 ansible-galaxy-mysql-master/templates/root.cnf.j2
+drwxrwxr-x root/root         0 2017-10-22 03:36 ansible-galaxy-mysql-master/tests/
+-rw-rw-r-- root/root        65 2017-10-22 03:36 ansible-galaxy-mysql-master/tests/test.yml

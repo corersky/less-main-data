@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-08 05:53 ansible-rancher-common-master/
+-rw-rw-r-- root/root      1328 2018-01-08 05:53 ansible-rancher-common-master/README.md
+drwxrwxr-x root/root         0 2018-01-08 05:53 ansible-rancher-common-master/defaults/
+-rw-rw-r-- root/root        46 2018-01-08 05:53 ansible-rancher-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-08 05:53 ansible-rancher-common-master/handlers/
+-rw-rw-r-- root/root        46 2018-01-08 05:53 ansible-rancher-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-08 05:53 ansible-rancher-common-master/meta/
+-rw-rw-r-- root/root      1790 2018-01-08 05:53 ansible-rancher-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-08 05:53 ansible-rancher-common-master/tasks/
+-rw-rw-r-- root/root     12288 2018-01-08 05:53 ansible-rancher-common-master/tasks/.main.yml.swp
+-rw-rw-r-- root/root       528 2018-01-08 05:53 ansible-rancher-common-master/tasks/base_packages.yml
+-rw-rw-r-- root/root      1522 2018-01-08 05:53 ansible-rancher-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-08 05:53 ansible-rancher-common-master/tests/
+-rw-rw-r-- root/root        11 2018-01-08 05:53 ansible-rancher-common-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-01-08 05:53 ansible-rancher-common-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-08 05:53 ansible-rancher-common-master/vars/
+-rw-rw-r-- root/root        42 2018-01-08 05:53 ansible-rancher-common-master/vars/main.yml

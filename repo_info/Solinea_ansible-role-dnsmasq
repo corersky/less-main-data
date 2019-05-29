@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-07 14:02 ansible-role-dnsmasq-master/
+-rw-rw-r-- root/root      1404 2017-07-07 14:02 ansible-role-dnsmasq-master/.gitignore
+-rw-rw-r-- root/root       243 2017-07-07 14:02 ansible-role-dnsmasq-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-07-07 14:02 ansible-role-dnsmasq-master/LICENSE
+-rw-rw-r-- root/root       647 2017-07-07 14:02 ansible-role-dnsmasq-master/README.md
+drwxrwxr-x root/root         0 2017-07-07 14:02 ansible-role-dnsmasq-master/meta/
+-rw-rw-r-- root/root       296 2017-07-07 14:02 ansible-role-dnsmasq-master/meta/main.yml
+-rw-rw-r-- root/root       242 2017-07-07 14:02 ansible-role-dnsmasq-master/molecule.yml
+-rw-rw-r-- root/root        59 2017-07-07 14:02 ansible-role-dnsmasq-master/playbook.yml
+drwxrwxr-x root/root         0 2017-07-07 14:02 ansible-role-dnsmasq-master/tasks/
+-rw-rw-r-- root/root       259 2017-07-07 14:02 ansible-role-dnsmasq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-07 14:02 ansible-role-dnsmasq-master/templates/
+-rw-rw-r-- root/root       261 2017-07-07 14:02 ansible-role-dnsmasq-master/templates/config
+drwxrwxr-x root/root         0 2017-07-07 14:02 ansible-role-dnsmasq-master/tests/
+-rw-rw-r-- root/root       295 2017-07-07 14:02 ansible-role-dnsmasq-master/tests/test_default.py

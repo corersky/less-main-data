@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-20 01:45 zabbix-agent-master/
+-rw-rw-r-- root/root      4841 2017-01-20 01:45 zabbix-agent-master/README.md
+drwxrwxr-x root/root         0 2017-01-20 01:45 zabbix-agent-master/defaults/
+-rw-rw-r-- root/root      4382 2017-01-20 01:45 zabbix-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-20 01:45 zabbix-agent-master/handlers/
+-rw-rw-r-- root/root       269 2017-01-20 01:45 zabbix-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-20 01:45 zabbix-agent-master/meta/
+-rw-rw-r-- root/root      1889 2017-01-20 01:45 zabbix-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-20 01:45 zabbix-agent-master/tasks/
+-rw-rw-r-- root/root      2407 2017-01-20 01:45 zabbix-agent-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       501 2017-01-20 01:45 zabbix-agent-master/tasks/iptables.yml
+-rw-rw-r-- root/root       320 2017-01-20 01:45 zabbix-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-20 01:45 zabbix-agent-master/templates/
+-rw-rw-r-- root/root      8645 2017-01-20 01:45 zabbix-agent-master/templates/zabbix_agentd.conf.j2
+-rw-rw-r-- root/root      1101 2017-01-20 01:45 zabbix-agent-master/templates/zabbix_api_hostadd.j2
+drwxrwxr-x root/root         0 2017-01-20 01:45 zabbix-agent-master/vars/
+-rw-rw-r-- root/root        33 2017-01-20 01:45 zabbix-agent-master/vars/main.yml

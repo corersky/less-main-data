@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-15 03:20 ansible.npm-master/
+-rw-rw-r-- root/root       540 2016-08-15 03:20 ansible.npm-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-08-15 03:20 ansible.npm-master/LICENSE
+-rw-rw-r-- root/root      1443 2016-08-15 03:20 ansible.npm-master/README.md
+drwxrwxr-x root/root         0 2016-08-15 03:20 ansible.npm-master/defaults/
+-rw-rw-r-- root/root        21 2016-08-15 03:20 ansible.npm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-15 03:20 ansible.npm-master/handlers/
+-rw-rw-r-- root/root         4 2016-08-15 03:20 ansible.npm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-15 03:20 ansible.npm-master/meta/
+-rw-rw-r-- root/root       537 2016-08-15 03:20 ansible.npm-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-15 03:20 ansible.npm-master/tasks/
+-rw-rw-r-- root/root       723 2016-08-15 03:20 ansible.npm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-15 03:20 ansible.npm-master/tests/
+-rw-rw-r-- root/root         9 2016-08-15 03:20 ansible.npm-master/tests/inventory
+-rw-rw-r-- root/root       177 2016-08-15 03:20 ansible.npm-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-15 03:20 ansible.npm-master/vars/
+-rw-rw-r-- root/root        64 2016-08-15 03:20 ansible.npm-master/vars/main.yml

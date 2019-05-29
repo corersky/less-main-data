@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-09-09 13:14 elasticsearch-master/
+-rw-rw-r-- root/root      1328 2015-09-09 13:14 elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2015-09-09 13:14 elasticsearch-master/defaults/
+-rw-rw-r-- root/root      1355 2015-09-09 13:14 elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-09 13:14 elasticsearch-master/handlers/
+-rw-rw-r-- root/root       134 2015-09-09 13:14 elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-09 13:14 elasticsearch-master/meta/
+-rw-rw-r-- root/root       212 2015-09-09 13:14 elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-09 13:14 elasticsearch-master/tasks/
+-rw-rw-r-- root/root      1719 2015-09-09 13:14 elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-09 13:14 elasticsearch-master/templates/
+-rw-rw-r-- root/root      1200 2015-09-09 13:14 elasticsearch-master/templates/elasticsearch.j2
+-rw-rw-r-- root/root     14140 2015-09-09 13:14 elasticsearch-master/templates/elasticsearch.yml.j2

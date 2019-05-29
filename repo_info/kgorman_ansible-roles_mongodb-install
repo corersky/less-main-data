@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-03-06 17:28 ansible-roles_mongodb-install-master/
+-rw-rw-r-- root/root      1388 2015-03-06 17:28 ansible-roles_mongodb-install-master/README.md
+drwxrwxr-x root/root         0 2015-03-06 17:28 ansible-roles_mongodb-install-master/defaults/
+-rw-rw-r-- root/root       640 2015-03-06 17:28 ansible-roles_mongodb-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-06 17:28 ansible-roles_mongodb-install-master/handlers/
+-rw-rw-r-- root/root        54 2015-03-06 17:28 ansible-roles_mongodb-install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-06 17:28 ansible-roles_mongodb-install-master/meta/
+-rw-rw-r-- root/root       419 2015-03-06 17:28 ansible-roles_mongodb-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-06 17:28 ansible-roles_mongodb-install-master/tasks/
+-rw-rw-r-- root/root      3065 2015-03-06 17:28 ansible-roles_mongodb-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-06 17:28 ansible-roles_mongodb-install-master/templates/
+-rw-rw-r-- root/root      1409 2015-03-06 17:28 ansible-roles_mongodb-install-master/templates/init_mongodb.j2
+-rw-rw-r-- root/root      2576 2015-03-06 17:28 ansible-roles_mongodb-install-master/templates/limits_conf.j2
+-rw-rw-r-- root/root       343 2015-03-06 17:28 ansible-roles_mongodb-install-master/templates/mongodb_conf.j2
+-rw-rw-r-- root/root        26 2015-03-06 17:28 ansible-roles_mongodb-install-master/templates/mongodb_keyfile.j2
+drwxrwxr-x root/root         0 2015-03-06 17:28 ansible-roles_mongodb-install-master/vars/
+-rw-rw-r-- root/root       672 2015-03-06 17:28 ansible-roles_mongodb-install-master/vars/main.yml

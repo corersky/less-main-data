@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-13 13:37 ansible-role-galaxylab-master/
+-rw-rw-r-- root/root      1328 2017-10-13 13:37 ansible-role-galaxylab-master/README.md
+drwxrwxr-x root/root         0 2017-10-13 13:37 ansible-role-galaxylab-master/defaults/
+-rw-rw-r-- root/root        33 2017-10-13 13:37 ansible-role-galaxylab-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:37 ansible-role-galaxylab-master/handlers/
+-rw-rw-r-- root/root        33 2017-10-13 13:37 ansible-role-galaxylab-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:37 ansible-role-galaxylab-master/meta/
+-rw-rw-r-- root/root      1777 2017-10-13 13:37 ansible-role-galaxylab-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:37 ansible-role-galaxylab-master/tasks/
+-rw-rw-r-- root/root        30 2017-10-13 13:37 ansible-role-galaxylab-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:37 ansible-role-galaxylab-master/tests/
+-rw-rw-r-- root/root        11 2017-10-13 13:37 ansible-role-galaxylab-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-10-13 13:37 ansible-role-galaxylab-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-13 13:37 ansible-role-galaxylab-master/vars/
+-rw-rw-r-- root/root        29 2017-10-13 13:37 ansible-role-galaxylab-master/vars/main.yml

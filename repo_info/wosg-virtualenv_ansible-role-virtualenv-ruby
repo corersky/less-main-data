@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/
+-rw-rw-r-- root/root      1405 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/.travis.yml
+-rw-rw-r-- root/root        74 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/README.md
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/defaults/
+-rw-rw-r-- root/root       385 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/meta/
+-rw-rw-r-- root/root       339 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tasks/
+-rw-rw-r-- root/root      1312 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root       762 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tasks/main.yml
+-rw-rw-r-- root/root       427 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       144 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tests/
+-rw-rw-r-- root/root        10 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tests/inventory
+-rw-rw-r-- root/root       235 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tests/test-install-from-source.yml
+-rw-rw-r-- root/root        76 2016-01-05 06:02 ansible-role-virtualenv-ruby-master/tests/test-install-package.yml

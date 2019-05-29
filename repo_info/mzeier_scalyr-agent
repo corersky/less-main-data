@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-08 20:02 scalyr-agent-master/
+-rw-rw-r-- root/root     11357 2017-02-08 20:02 scalyr-agent-master/LICENSE
+-rw-rw-r-- root/root       583 2017-02-08 20:02 scalyr-agent-master/README.md
+drwxrwxr-x root/root         0 2017-02-08 20:02 scalyr-agent-master/defaults/
+-rw-rw-r-- root/root        78 2017-02-08 20:02 scalyr-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-08 20:02 scalyr-agent-master/handlers/
+-rw-rw-r-- root/root        70 2017-02-08 20:02 scalyr-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-08 20:02 scalyr-agent-master/meta/
+-rw-rw-r-- root/root       408 2017-02-08 20:02 scalyr-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-08 20:02 scalyr-agent-master/tasks/
+-rw-rw-r-- root/root       213 2017-02-08 20:02 scalyr-agent-master/tasks/configure-scalyr.yml
+-rw-rw-r-- root/root       468 2017-02-08 20:02 scalyr-agent-master/tasks/install-scalyr.yml
+-rw-rw-r-- root/root        67 2017-02-08 20:02 scalyr-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-08 20:02 scalyr-agent-master/templates/
+-rw-rw-r-- root/root      1453 2017-02-08 20:02 scalyr-agent-master/templates/agent.json.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-28 23:24 slcli-master/
+-rw-rw-r-- root/root       426 2017-05-28 23:24 slcli-master/README.md
+drwxrwxr-x root/root         0 2017-05-28 23:24 slcli-master/defaults/
+-rw-rw-r-- root/root        29 2017-05-28 23:24 slcli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-28 23:24 slcli-master/handlers/
+-rw-rw-r-- root/root        29 2017-05-28 23:24 slcli-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-28 23:24 slcli-master/meta/
+-rw-rw-r-- root/root       262 2017-05-28 23:24 slcli-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-28 23:24 slcli-master/tasks/
+-rw-rw-r-- root/root        47 2017-05-28 23:24 slcli-master/tasks/main.yml
+-rw-rw-r-- root/root        93 2017-05-28 23:24 slcli-master/tasks/slcli.yml
+drwxrwxr-x root/root         0 2017-05-28 23:24 slcli-master/tests/
+-rw-rw-r-- root/root        11 2017-05-28 23:24 slcli-master/tests/inventory
+-rw-rw-r-- root/root        63 2017-05-28 23:24 slcli-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-28 23:24 slcli-master/vars/
+-rw-rw-r-- root/root        25 2017-05-28 23:24 slcli-master/vars/main.yml

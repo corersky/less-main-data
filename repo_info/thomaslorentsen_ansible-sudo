@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-23 21:51 ansible-sudo-master/
+-rw-rw-r-- root/root       217 2017-12-23 21:51 ansible-sudo-master/.editorconfig
+-rw-rw-r-- root/root         9 2017-12-23 21:51 ansible-sudo-master/.gitignore
+-rw-rw-r-- root/root       798 2017-12-23 21:51 ansible-sudo-master/.travis.yml
+-rw-rw-r-- root/root       312 2017-12-23 21:51 ansible-sudo-master/README.md
+drwxrwxr-x root/root         0 2017-12-23 21:51 ansible-sudo-master/defaults/
+-rw-rw-r-- root/root        22 2017-12-23 21:51 ansible-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-23 21:51 ansible-sudo-master/meta/
+-rw-rw-r-- root/root      3976 2017-12-23 21:51 ansible-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-23 21:51 ansible-sudo-master/tasks/
+-rw-rw-r-- root/root       408 2017-12-23 21:51 ansible-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-23 21:51 ansible-sudo-master/tests/
+-rw-rw-r-- root/root        10 2017-12-23 21:51 ansible-sudo-master/tests/inventory
+-rw-rw-r-- root/root       161 2017-12-23 21:51 ansible-sudo-master/tests/test.yml

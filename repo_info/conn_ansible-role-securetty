@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-11-30 21:14 ansible-role-securetty-master/
+-rw-rw-r-- root/root      1514 2017-11-30 21:14 ansible-role-securetty-master/LICENSE
+-rw-rw-r-- root/root        70 2017-11-30 21:14 ansible-role-securetty-master/README.md
+drwxrwxr-x root/root         0 2017-11-30 21:14 ansible-role-securetty-master/files/
+-rw-rw-r-- root/root        61 2017-11-30 21:14 ansible-role-securetty-master/files/securetty
+drwxrwxr-x root/root         0 2017-11-30 21:14 ansible-role-securetty-master/meta/
+-rw-rw-r-- root/root       276 2017-11-30 21:14 ansible-role-securetty-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-30 21:14 ansible-role-securetty-master/tasks/
+-rw-rw-r-- root/root       137 2017-11-30 21:14 ansible-role-securetty-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2017-11-30 21:14 ansible-role-securetty-master/tasks/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-15 11:07 log_manager-master/
+-rw-rw-r-- root/root     35149 2019-03-15 11:07 log_manager-master/LICENSE
+-rw-rw-r-- root/root      1049 2019-03-15 11:07 log_manager-master/README.md
+drwxrwxr-x root/root         0 2019-03-15 11:07 log_manager-master/meta/
+-rw-rw-r-- root/root      1799 2019-03-15 11:07 log_manager-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-15 11:07 log_manager-master/tasks/
+-rw-rw-r-- root/root       103 2019-03-15 11:07 log_manager-master/tasks/forward_logs_to_syslog.yaml
+drwxrwxr-x root/root         0 2019-03-15 11:07 log_manager-master/tasks/tasks/
+drwxrwxr-x root/root         0 2019-03-15 11:07 log_manager-master/tasks/tasks/checkpoint/
+-rw-rw-r-- root/root       659 2019-03-15 11:07 log_manager-master/tasks/tasks/checkpoint/forward_logs_to_syslog.yaml
+-rw-rw-r-- root/root       344 2019-03-15 11:07 log_manager-master/tasks/tasks/checkpoint/unforward_logs_to_syslog.yaml
+-rw-rw-r-- root/root       105 2019-03-15 11:07 log_manager-master/tasks/unforward_logs_to_syslog.yaml

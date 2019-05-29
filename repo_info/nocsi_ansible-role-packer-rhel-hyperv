@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/
+-rw-rw-r-- root/root      1409 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/README.md
+drwxrwxr-x root/root         0 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/meta/
+-rw-rw-r-- root/root       322 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/tasks/
+-rw-rw-r-- root/root       690 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/tasks/hyperv.yml
+-rw-rw-r-- root/root      2721 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/tasks/main.yml
+-rw-rw-r-- root/root       789 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/tasks/virtualbox.yml
+-rw-rw-r-- root/root      1724 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/tasks/vmware.yml
+drwxrwxr-x root/root         0 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/templates/
+-rw-rw-r-- root/root        16 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/templates/vmhgfs.modules.j2
+-rw-rw-r-- root/root       293 2016-12-03 16:17 ansible-role-packer-rhel-hyperv-master/templates/vmware-tools.repo.j2

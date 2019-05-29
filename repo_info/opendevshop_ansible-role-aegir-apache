@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-apache-master/
+-rw-rw-r-- root/root      2179 2018-12-19 15:23 ansible-role-aegir-apache-master/.travis.yml
+-rw-rw-r-- root/root       267 2018-12-19 15:23 ansible-role-aegir-apache-master/README.md
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-apache-master/defaults/
+-rw-rw-r-- root/root       270 2018-12-19 15:23 ansible-role-aegir-apache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-apache-master/meta/
+-rw-rw-r-- root/root       434 2018-12-19 15:23 ansible-role-aegir-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-apache-master/tasks/
+-rw-rw-r-- root/root       271 2018-12-19 15:23 ansible-role-aegir-apache-master/tasks/Debian-post.yml
+-rw-rw-r-- root/root       432 2018-12-19 15:23 ansible-role-aegir-apache-master/tasks/Debian.yml
+-rw-rw-r-- root/root      1205 2018-12-19 15:23 ansible-role-aegir-apache-master/tasks/RedHat-post.yml
+-rw-rw-r-- root/root       595 2018-12-19 15:23 ansible-role-aegir-apache-master/tasks/RedHat.yml
+-rw-rw-r-- root/root      1365 2018-12-19 15:23 ansible-role-aegir-apache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-apache-master/vars/
+-rw-rw-r-- root/root       363 2018-12-19 15:23 ansible-role-aegir-apache-master/vars/Debian.yml
+-rw-rw-r-- root/root       472 2018-12-19 15:23 ansible-role-aegir-apache-master/vars/RedHat.yml
+-rw-rw-r-- root/root       197 2018-12-19 15:23 ansible-role-aegir-apache-master/vars/vars.Ubuntu14.yml

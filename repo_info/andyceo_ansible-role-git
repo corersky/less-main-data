@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-03-31 06:36 ansible-role-git-master/
+-rw-rw-r-- root/root       100 2016-03-31 06:36 ansible-role-git-master/README.md
+drwxrwxr-x root/root         0 2016-03-31 06:36 ansible-role-git-master/defaults/
+-rw-rw-r-- root/root      1194 2016-03-31 06:36 ansible-role-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-31 06:36 ansible-role-git-master/meta/
+-rw-rw-r-- root/root       281 2016-03-31 06:36 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-31 06:36 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root       389 2016-03-31 06:36 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-31 06:36 ansible-role-git-master/templates/
+-rw-rw-r-- root/root      1021 2016-03-31 06:36 ansible-role-git-master/templates/gitconfig.j2

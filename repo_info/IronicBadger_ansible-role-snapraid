@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-22 21:40 ansible-role-snapraid-master/
+-rw-rw-r-- root/root        66 2019-02-22 21:40 ansible-role-snapraid-master/README.md
+drwxrwxr-x root/root         0 2019-02-22 21:40 ansible-role-snapraid-master/defaults/
+-rw-rw-r-- root/root       866 2019-02-22 21:40 ansible-role-snapraid-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-22 21:40 ansible-role-snapraid-master/meta/
+-rw-rw-r-- root/root       500 2019-02-22 21:40 ansible-role-snapraid-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-22 21:40 ansible-role-snapraid-master/tasks/
+-rw-rw-r-- root/root       155 2019-02-22 21:40 ansible-role-snapraid-master/tasks/configure.yml
+-rw-rw-r-- root/root       788 2019-02-22 21:40 ansible-role-snapraid-master/tasks/install-debian.yml
+-rw-rw-r-- root/root       229 2019-02-22 21:40 ansible-role-snapraid-master/tasks/main.yml
+-rw-rw-r-- root/root       665 2019-02-22 21:40 ansible-role-snapraid-master/tasks/parity-checks.yml
+drwxrwxr-x root/root         0 2019-02-22 21:40 ansible-role-snapraid-master/templates/
+-rw-rw-r-- root/root      1088 2019-02-22 21:40 ansible-role-snapraid-master/templates/snapraid-runner.conf.j2
+-rw-rw-r-- root/root       688 2019-02-22 21:40 ansible-role-snapraid-master/templates/snapraid.conf.j2

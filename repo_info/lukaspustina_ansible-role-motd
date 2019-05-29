@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/
+-rw-rw-r-- root/root     18047 2016-08-10 13:27 ansible-role-motd-master/LICENSE
+-rw-rw-r-- root/root      1806 2016-08-10 13:27 ansible-role-motd-master/README.md
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/defaults/
+-rw-rw-r-- root/root        93 2016-08-10 13:27 ansible-role-motd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/files/
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/files/etc/
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/files/etc/update-motd.d/
+-rw-rw-r-- root/root      1289 2016-08-10 13:27 ansible-role-motd-master/files/etc/update-motd.d/10-default
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/meta/
+-rw-rw-r-- root/root       212 2016-08-10 13:27 ansible-role-motd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/tasks/
+-rw-rw-r-- root/root      1027 2016-08-10 13:27 ansible-role-motd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/templates/
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/templates/etc/
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-motd-master/templates/etc/update-motd.d/
+-rw-rw-r-- root/root       185 2016-08-10 13:27 ansible-role-motd-master/templates/etc/update-motd.d/20-services.j2

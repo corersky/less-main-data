@@ -1,0 +1,54 @@
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/
+-rw-rw-r-- root/root       702 2018-01-12 14:31 ansible-eos-acl-master/.gitignore
+-rw-rw-r-- root/root      2371 2018-01-12 14:31 ansible-eos-acl-master/Jenkinsfile
+-rw-rw-r-- root/root      1495 2018-01-12 14:31 ansible-eos-acl-master/LICENSE
+-rw-rw-r-- root/root       764 2018-01-12 14:31 ansible-eos-acl-master/Makefile
+-rw-rw-r-- root/root     11421 2018-01-12 14:31 ansible-eos-acl-master/README.md
+-rw-rw-r-- root/root         6 2018-01-12 14:31 ansible-eos-acl-master/VERSION
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/defaults/
+-rw-rw-r-- root/root       295 2018-01-12 14:31 ansible-eos-acl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/files/
+-rw-rw-r-- root/root        28 2018-01-12 14:31 ansible-eos-acl-master/files/README.md
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/filter_plugins/
+-rw-rw-r-- root/root      3772 2018-01-12 14:31 ansible-eos-acl-master/filter_plugins/config_block.py
+-rw-rw-r-- root/root      2062 2018-01-12 14:31 ansible-eos-acl-master/filter_plugins/netaddr.py
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/handlers/
+-rw-rw-r-- root/root      2045 2018-01-12 14:31 ansible-eos-acl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/meta/
+-rw-rw-r-- root/root      1831 2018-01-12 14:31 ansible-eos-acl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/tasks/
+-rw-rw-r-- root/root      1554 2018-01-12 14:31 ansible-eos-acl-master/tasks/main.yml
+-rw-rw-r-- root/root      1284 2018-01-12 14:31 ansible-eos-acl-master/tasks/resources2.1.yml
+-rw-rw-r-- root/root      1270 2018-01-12 14:31 ansible-eos-acl-master/tasks/resources2.2.yml
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/templates/
+-rw-rw-r-- root/root        32 2018-01-12 14:31 ansible-eos-acl-master/templates/README.md
+-rw-rw-r-- root/root      3663 2018-01-12 14:31 ansible-eos-acl-master/templates/acl.j2
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/
+-rw-rw-r-- root/root       661 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/.gitignore
+-rw-rw-r-- root/root      1494 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/LICENSE
+-rw-rw-r-- root/root     23038 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/README.md
+-rw-rw-r-- root/root      2493 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/eos_module.yml
+-rw-rw-r-- root/root       226 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/eos_role.yml
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/group_vars/
+-rw-rw-r-- root/root       160 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/group_vars/all.yml
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-acl -> ../../../../ansible-eos-acl
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-bgp -> ../../../../ansible-eos-bgp
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-bridging -> ../../../../ansible-eos-bridging
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-interfaces -> ../../../../ansible-eos-interfaces
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-ipv4 -> ../../../../ansible-eos-ipv4
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-mlag -> ../../../../ansible-eos-mlag
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-route-control -> ../../../../ansible-eos-route-control
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-system -> ../../../../ansible-eos-route-system
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-virtual-router -> ../../../../ansible-eos-virtual-router
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/roles/arista.eos-vxlan -> ../../../../ansible-eos-vxlan
+-rw-rw-r-- root/root     30868 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/test_module.py
+lrwxrwxrwx root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/testcases -> ../testcases
+-rwxrwxr-x root/root      1392 2018-01-12 14:31 ansible-eos-acl-master/test/arista-ansible-role-test/update_arista_roles.sh
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/fixtures/
+-rw-rw-r-- root/root        95 2018-01-12 14:31 ansible-eos-acl-master/test/fixtures/hosts
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/test/testcases/
+-rw-rw-r-- root/root      8970 2018-01-12 14:31 ansible-eos-acl-master/test/testcases/acl.yml
+drwxrwxr-x root/root         0 2018-01-12 14:31 ansible-eos-acl-master/vars/
+-rw-rw-r-- root/root        16 2018-01-12 14:31 ansible-eos-acl-master/vars/main.yml

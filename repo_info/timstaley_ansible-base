@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-06-16 18:32 ansible-base-master/
+-rw-rw-r-- root/root       436 2018-06-16 18:32 ansible-base-master/README.md
+drwxrwxr-x root/root         0 2018-06-16 18:32 ansible-base-master/files/
+-rw-rw-r-- root/root        90 2018-06-16 18:32 ansible-base-master/files/ubuntu-apt-deps.txt
+drwxrwxr-x root/root         0 2018-06-16 18:32 ansible-base-master/meta/
+-rw-rw-r-- root/root       407 2018-06-16 18:32 ansible-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-16 18:32 ansible-base-master/tasks/
+-rw-rw-r-- root/root       551 2018-06-16 18:32 ansible-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-16 18:32 ansible-base-master/vagrant/
+-rw-rw-r-- root/root       497 2018-06-16 18:32 ansible-base-master/vagrant/Vagrantfile
+-rw-rw-r-- root/root       182 2018-06-16 18:32 ansible-base-master/vagrant/ansible.cfg
+-rw-rw-r-- root/root       358 2018-06-16 18:32 ansible-base-master/vagrant/test-base-role.yml

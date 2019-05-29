@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-11-21 05:48 ansible-role-docker-compose-master/
+-rw-rw-r-- root/root      2010 2015-11-21 05:48 ansible-role-docker-compose-master/README.md
+drwxrwxr-x root/root         0 2015-11-21 05:48 ansible-role-docker-compose-master/defaults/
+-rw-rw-r-- root/root       113 2015-11-21 05:48 ansible-role-docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-21 05:48 ansible-role-docker-compose-master/handlers/
+-rw-rw-r-- root/root        39 2015-11-21 05:48 ansible-role-docker-compose-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-21 05:48 ansible-role-docker-compose-master/meta/
+-rw-rw-r-- root/root       361 2015-11-21 05:48 ansible-role-docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-21 05:48 ansible-role-docker-compose-master/tasks/
+-rw-rw-r-- root/root       433 2015-11-21 05:48 ansible-role-docker-compose-master/tasks/compose.yml
+-rw-rw-r-- root/root        68 2015-11-21 05:48 ansible-role-docker-compose-master/tasks/main.yml
+-rw-rw-r-- root/root       196 2015-11-21 05:48 ansible-role-docker-compose-master/tasks/run.yml
+-rw-rw-r-- root/root       988 2015-11-21 05:48 ansible-role-docker-compose-master/tasks/stop_rm.yml
+drwxrwxr-x root/root         0 2015-11-21 05:48 ansible-role-docker-compose-master/vars/
+-rw-rw-r-- root/root        35 2015-11-21 05:48 ansible-role-docker-compose-master/vars/main.yml

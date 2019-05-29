@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-04-18 07:07 selenoid-docker-master/
+-rw-rw-r-- root/root       958 2018-04-18 07:07 selenoid-docker-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-04-18 07:07 selenoid-docker-master/LICENSE
+-rw-rw-r-- root/root      1203 2018-04-18 07:07 selenoid-docker-master/README.md
+drwxrwxr-x root/root         0 2018-04-18 07:07 selenoid-docker-master/defaults/
+-rw-rw-r-- root/root       946 2018-04-18 07:07 selenoid-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-18 07:07 selenoid-docker-master/meta/
+-rw-rw-r-- root/root       394 2018-04-18 07:07 selenoid-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-18 07:07 selenoid-docker-master/tasks/
+-rw-rw-r-- root/root      1584 2018-04-18 07:07 selenoid-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-18 07:07 selenoid-docker-master/tests/
+-rw-rw-r-- root/root        82 2018-04-18 07:07 selenoid-docker-master/tests/role.yml
+-rw-rw-r-- root/root        84 2018-04-18 07:07 selenoid-docker-master/tests/test-local-inventory
+-rw-rw-r-- root/root        90 2018-04-18 07:07 selenoid-docker-master/tests/test-local.yml

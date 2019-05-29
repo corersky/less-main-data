@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-22 13:20 epel-master/
+-rw-rw-r-- root/root        72 2017-12-22 13:20 epel-master/.gitignore
+-rw-rw-r-- root/root      1109 2017-12-22 13:20 epel-master/.travis.yml
+-rw-rw-r-- root/root      1513 2017-12-22 13:20 epel-master/LICENSE
+-rw-rw-r-- root/root       675 2017-12-22 13:20 epel-master/README.md
+drwxrwxr-x root/root         0 2017-12-22 13:20 epel-master/defaults/
+-rw-rw-r-- root/root        86 2017-12-22 13:20 epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:20 epel-master/handlers/
+-rw-rw-r-- root/root         4 2017-12-22 13:20 epel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:20 epel-master/meta/
+-rw-rw-r-- root/root        60 2017-12-22 13:20 epel-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       301 2017-12-22 13:20 epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:20 epel-master/tasks/
+-rw-rw-r-- root/root       100 2017-12-22 13:20 epel-master/tasks/epel.yml
+-rw-rw-r-- root/root        63 2017-12-22 13:20 epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:20 epel-master/vars/
+-rw-rw-r-- root/root        29 2017-12-22 13:20 epel-master/vars/main.yml

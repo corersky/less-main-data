@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/
+-rw-rw-r-- root/root       354 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/README.md
+drwxrwxr-x root/root         0 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/defaults/
+-rw-rw-r-- root/root      4151 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/handlers/
+-rw-rw-r-- root/root       113 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/meta/
+-rw-rw-r-- root/root       278 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/tasks/
+-rw-rw-r-- root/root      1789 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/tasks/configure-icingaweb2-postgres.yml
+-rw-rw-r-- root/root       725 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/tasks/configure-icingaweb2.yml
+-rw-rw-r-- root/root        55 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/tasks/install-icingaweb2-debian.yml
+-rw-rw-r-- root/root       398 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/tasks/install-icingaweb2-redhat.yml
+-rw-rw-r-- root/root       284 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/tasks/main.yml
+-rw-rw-r-- root/root       972 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/tasks/setup-phppool.yml
+drwxrwxr-x root/root         0 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/templates/
+-rw-rw-r-- root/root      1165 2018-12-08 16:02 ansible-role-icingaweb2-php-fpm-master/templates/icingaweb2-php-fpm.conf.j2

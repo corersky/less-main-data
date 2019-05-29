@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-14 15:20 ansible-wowza-master/
+-rw-rw-r-- root/root         6 2017-12-14 15:20 ansible-wowza-master/.gitignore
+-rw-rw-r-- root/root      1710 2017-12-14 15:20 ansible-wowza-master/README.md
+drwxrwxr-x root/root         0 2017-12-14 15:20 ansible-wowza-master/defaults/
+-rw-rw-r-- root/root       280 2017-12-14 15:20 ansible-wowza-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-14 15:20 ansible-wowza-master/meta/
+-rw-rw-r-- root/root       231 2017-12-14 15:20 ansible-wowza-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-14 15:20 ansible-wowza-master/tasks/
+-rw-rw-r-- root/root        25 2017-12-14 15:20 ansible-wowza-master/tasks/main.yml
+-rw-rw-r-- root/root       587 2017-12-14 15:20 ansible-wowza-master/tasks/wowza.yml
+drwxrwxr-x root/root         0 2017-12-14 15:20 ansible-wowza-master/templates/
+-rw-rw-r-- root/root       725 2017-12-14 15:20 ansible-wowza-master/templates/script.exp.j2

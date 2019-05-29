@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/
+-rw-rw-r-- root/root      1509 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/LICENSE
+-rw-rw-r-- root/root      5010 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/README.md
+drwxrwxr-x root/root         0 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/defaults/
+-rw-rw-r-- root/root       156 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/meta/
+-rw-rw-r-- root/root      2031 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/tasks/
+-rw-rw-r-- root/root      1022 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/tasks/generate_hosts.yml
+-rw-rw-r-- root/root       429 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/tasks/generate_okd_param_official.yml
+-rw-rw-r-- root/root       663 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/templates/
+-rw-rw-r-- root/root       447 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/templates/hosts.j2
+-rw-rw-r-- root/root      3611 2018-12-29 22:48 ansible-role-okd-generate-ansible-hosts-master/templates/okd_hosts.j2

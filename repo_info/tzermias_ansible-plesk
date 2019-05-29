@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-12-11 04:40 ansible-plesk-master/
+-rw-rw-r-- root/root        12 2015-12-11 04:40 ansible-plesk-master/.gitignore
+-rw-rw-r-- root/root      1156 2015-12-11 04:40 ansible-plesk-master/.travis.yml
+-rw-rw-r-- root/root      1647 2015-12-11 04:40 ansible-plesk-master/README.md
+drwxrwxr-x root/root         0 2015-12-11 04:40 ansible-plesk-master/defaults/
+-rw-rw-r-- root/root       485 2015-12-11 04:40 ansible-plesk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-11 04:40 ansible-plesk-master/meta/
+-rw-rw-r-- root/root       296 2015-12-11 04:40 ansible-plesk-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-11 04:40 ansible-plesk-master/tasks/
+-rw-rw-r-- root/root      1425 2015-12-11 04:40 ansible-plesk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-11 04:40 ansible-plesk-master/tests/
+-rw-rw-r-- root/root        10 2015-12-11 04:40 ansible-plesk-master/tests/inventory
+-rw-rw-r-- root/root       102 2015-12-11 04:40 ansible-plesk-master/tests/test.yml
+drwxrwxr-x root/root         0 2015-12-11 04:40 ansible-plesk-master/vars/
+-rw-rw-r-- root/root        37 2015-12-11 04:40 ansible-plesk-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-12-23 06:51 ansible-docker-master/
+-rw-rw-r-- root/root       573 2015-12-23 06:51 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root      1082 2015-12-23 06:51 ansible-docker-master/LICENSE
+-rw-rw-r-- root/root       427 2015-12-23 06:51 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2015-12-23 06:51 ansible-docker-master/meta/
+-rw-rw-r-- root/root      2077 2015-12-23 06:51 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-23 06:51 ansible-docker-master/tasks/
+-rw-rw-r-- root/root        98 2015-12-23 06:51 ansible-docker-master/tasks/Debian.yml
+-rw-rw-r-- root/root       302 2015-12-23 06:51 ansible-docker-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       125 2015-12-23 06:51 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-23 06:51 ansible-docker-master/vars/
+-rw-rw-r-- root/root        35 2015-12-23 06:51 ansible-docker-master/vars/main.yml

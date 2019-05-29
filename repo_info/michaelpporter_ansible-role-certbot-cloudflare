@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/
+-rw-rw-r-- root/root      1726 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/README.md
+drwxrwxr-x root/root         0 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/defaults/
+-rw-rw-r-- root/root       721 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/meta/
+-rw-rw-r-- root/root       545 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/tasks/
+-rw-rw-r-- root/root      1144 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/templates/
+-rw-rw-r-- root/root       152 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/templates/confcloudflare.ini.j2
+-rw-rw-r-- root/root       149 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/templates/letsencrypt_cli.ini.j2
+drwxrwxr-x root/root         0 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/tests/
+-rw-rw-r-- root/root        11 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/vars/
+-rw-rw-r-- root/root       363 2018-09-29 08:49 ansible-role-certbot-cloudflare-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-26 05:20 ansible-role-mattermost-github-master/
+-rw-rw-r-- root/root      2696 2018-01-26 05:20 ansible-role-mattermost-github-master/README.md
+drwxrwxr-x root/root         0 2018-01-26 05:20 ansible-role-mattermost-github-master/defaults/
+-rw-rw-r-- root/root      1826 2018-01-26 05:20 ansible-role-mattermost-github-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-26 05:20 ansible-role-mattermost-github-master/handlers/
+-rw-rw-r-- root/root       223 2018-01-26 05:20 ansible-role-mattermost-github-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-26 05:20 ansible-role-mattermost-github-master/meta/
+-rw-rw-r-- root/root       445 2018-01-26 05:20 ansible-role-mattermost-github-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-26 05:20 ansible-role-mattermost-github-master/tasks/
+-rw-rw-r-- root/root       215 2018-01-26 05:20 ansible-role-mattermost-github-master/tasks/config.yml
+-rw-rw-r-- root/root       982 2018-01-26 05:20 ansible-role-mattermost-github-master/tasks/install.yml
+-rw-rw-r-- root/root       432 2018-01-26 05:20 ansible-role-mattermost-github-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-26 05:20 ansible-role-mattermost-github-master/templates/
+-rw-rw-r-- root/root       570 2018-01-26 05:20 ansible-role-mattermost-github-master/templates/config.py.j2
+-rw-rw-r-- root/root       388 2018-01-26 05:20 ansible-role-mattermost-github-master/templates/mattermost-github.service.j2

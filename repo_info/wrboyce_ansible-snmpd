@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-25 14:29 ansible-snmpd-master/
+-rw-rw-r-- root/root       743 2018-10-25 14:29 ansible-snmpd-master/.travis.yml
+-rw-rw-r-- root/root       723 2018-10-25 14:29 ansible-snmpd-master/README.md
+drwxrwxr-x root/root         0 2018-10-25 14:29 ansible-snmpd-master/defaults/
+-rw-rw-r-- root/root        96 2018-10-25 14:29 ansible-snmpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-25 14:29 ansible-snmpd-master/handlers/
+-rw-rw-r-- root/root        64 2018-10-25 14:29 ansible-snmpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-25 14:29 ansible-snmpd-master/meta/
+-rw-rw-r-- root/root       287 2018-10-25 14:29 ansible-snmpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-25 14:29 ansible-snmpd-master/tasks/
+-rw-rw-r-- root/root       273 2018-10-25 14:29 ansible-snmpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-25 14:29 ansible-snmpd-master/templates/
+-rw-rw-r-- root/root       253 2018-10-25 14:29 ansible-snmpd-master/templates/snmpd.conf.j2
+drwxrwxr-x root/root         0 2018-10-25 14:29 ansible-snmpd-master/tests/
+-rw-rw-r-- root/root        48 2018-10-25 14:29 ansible-snmpd-master/tests/role.yml

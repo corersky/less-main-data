@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-11-25 13:06 ansible-role-beanstool-master/
+-rw-rw-r-- root/root        30 2017-11-25 13:06 ansible-role-beanstool-master/.gitignore
+-rw-rw-r-- root/root       642 2017-11-25 13:06 ansible-role-beanstool-master/.travis.yml
+-rw-rw-r-- root/root      1507 2017-11-25 13:06 ansible-role-beanstool-master/README.md
+drwxrwxr-x root/root         0 2017-11-25 13:06 ansible-role-beanstool-master/defaults/
+-rw-rw-r-- root/root       279 2017-11-25 13:06 ansible-role-beanstool-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-25 13:06 ansible-role-beanstool-master/meta/
+-rw-rw-r-- root/root       319 2017-11-25 13:06 ansible-role-beanstool-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-25 13:06 ansible-role-beanstool-master/tasks/
+-rw-rw-r-- root/root       922 2017-11-25 13:06 ansible-role-beanstool-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-25 13:06 ansible-role-beanstool-master/tests/
+-rw-rw-r-- root/root       631 2017-11-25 13:06 ansible-role-beanstool-master/tests/README.md
+-rw-rw-r-- root/root        29 2017-11-25 13:06 ansible-role-beanstool-master/tests/requirements.yml
+-rw-rw-r-- root/root        73 2017-11-25 13:06 ansible-role-beanstool-master/tests/test.yml

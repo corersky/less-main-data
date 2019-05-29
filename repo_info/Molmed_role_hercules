@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-05-19 07:01 role_hercules-master/
+-rw-rw-r-- root/root      1138 2015-05-19 07:01 role_hercules-master/LICENSE
+-rw-rw-r-- root/root      3338 2015-05-19 07:01 role_hercules-master/README.md
+drwxrwxr-x root/root         0 2015-05-19 07:01 role_hercules-master/defaults/
+-rw-rw-r-- root/root      1912 2015-05-19 07:01 role_hercules-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-19 07:01 role_hercules-master/handlers/
+-rw-rw-r-- root/root        71 2015-05-19 07:01 role_hercules-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-19 07:01 role_hercules-master/meta/
+-rw-rw-r-- root/root       326 2015-05-19 07:01 role_hercules-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-19 07:01 role_hercules-master/tasks/
+-rw-rw-r-- root/root      1555 2015-05-19 07:01 role_hercules-master/tasks/deploy.yml
+-rw-rw-r-- root/root       178 2015-05-19 07:01 role_hercules-master/tasks/main.yml
+-rw-rw-r-- root/root       482 2015-05-19 07:01 role_hercules-master/tasks/system.yml
+-rw-rw-r-- root/root       522 2015-05-19 07:01 role_hercules-master/tasks/user.yml
+drwxrwxr-x root/root         0 2015-05-19 07:01 role_hercules-master/templates/
+-rw-rw-r-- root/root      4494 2015-05-19 07:01 role_hercules-master/templates/hercules.j2

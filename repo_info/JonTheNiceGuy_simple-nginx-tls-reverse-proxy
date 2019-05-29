@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/
+-rw-rw-r-- root/root      1210 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/LICENSE
+-rw-rw-r-- root/root      2123 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/README.md
+drwxrwxr-x root/root         0 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/handlers/
+-rw-rw-r-- root/root       114 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/meta/
+-rw-rw-r-- root/root       363 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/tasks/
+-rw-rw-r-- root/root       908 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/templates/
+-rw-rw-r-- root/root      1683 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/templates/nginx.conf.j2
+drwxrwxr-x root/root         0 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/vars/
+-rw-rw-r-- root/root       341 2018-03-14 03:43 simple-nginx-tls-reverse-proxy-master/vars/RedHat.yml

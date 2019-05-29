@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-09-20 15:57 ansible-jupyter-r-deps-master/
+-rw-rw-r-- root/root        27 2017-09-20 15:57 ansible-jupyter-r-deps-master/.gitignore
+-rw-rw-r-- root/root      1079 2017-09-20 15:57 ansible-jupyter-r-deps-master/LICENSE
+-rw-rw-r-- root/root       658 2017-09-20 15:57 ansible-jupyter-r-deps-master/README.md
+-rw-rw-r-- root/root       651 2017-09-20 15:57 ansible-jupyter-r-deps-master/circle.yml
+drwxrwxr-x root/root         0 2017-09-20 15:57 ansible-jupyter-r-deps-master/meta/
+-rw-rw-r-- root/root       358 2017-09-20 15:57 ansible-jupyter-r-deps-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-20 15:57 ansible-jupyter-r-deps-master/tasks/
+-rw-rw-r-- root/root       399 2017-09-20 15:57 ansible-jupyter-r-deps-master/tasks/main.yml
+-rw-rw-r-- root/root        63 2017-09-20 15:57 ansible-jupyter-r-deps-master/test.yml
+drwxrwxr-x root/root         0 2017-09-20 15:57 ansible-jupyter-r-deps-master/vars/
+-rw-rw-r-- root/root        94 2017-09-20 15:57 ansible-jupyter-r-deps-master/vars/Debian.yml
+-rw-rw-r-- root/root       102 2017-09-20 15:57 ansible-jupyter-r-deps-master/vars/RedHat.yml

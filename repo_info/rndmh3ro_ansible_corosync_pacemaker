@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-03 02:34 ansible_corosync_pacemaker-master/
+-rw-rw-r-- root/root     11358 2016-08-03 02:34 ansible_corosync_pacemaker-master/LICENSE
+-rw-rw-r-- root/root      1146 2016-08-03 02:34 ansible_corosync_pacemaker-master/README.md
+drwxrwxr-x root/root         0 2016-08-03 02:34 ansible_corosync_pacemaker-master/defaults/
+-rw-rw-r-- root/root        43 2016-08-03 02:34 ansible_corosync_pacemaker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-03 02:34 ansible_corosync_pacemaker-master/files/
+-rwxrwxr-x root/root       122 2016-08-03 02:34 ansible_corosync_pacemaker-master/files/ha
+drwxrwxr-x root/root         0 2016-08-03 02:34 ansible_corosync_pacemaker-master/handlers/
+-rw-rw-r-- root/root        43 2016-08-03 02:34 ansible_corosync_pacemaker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-03 02:34 ansible_corosync_pacemaker-master/meta/
+-rwxrwxr-x root/root       444 2016-08-03 02:34 ansible_corosync_pacemaker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-03 02:34 ansible_corosync_pacemaker-master/tasks/
+-rwxrwxr-x root/root      1171 2016-08-03 02:34 ansible_corosync_pacemaker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-03 02:34 ansible_corosync_pacemaker-master/templates/
+-rwxrwxr-x root/root      1044 2016-08-03 02:34 ansible_corosync_pacemaker-master/templates/corosync_conf.j2
+drwxrwxr-x root/root         0 2016-08-03 02:34 ansible_corosync_pacemaker-master/vars/
+-rw-rw-r-- root/root        39 2016-08-03 02:34 ansible_corosync_pacemaker-master/vars/main.yml

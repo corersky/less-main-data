@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-pip-master/
+-rw-rw-r-- root/root        54 2017-05-09 06:41 ansible-galaxy-pip-master/.gitignore
+-rw-rw-r-- root/root       539 2017-05-09 06:41 ansible-galaxy-pip-master/.travis.yml
+-rw-rw-r-- root/root       582 2017-05-09 06:41 ansible-galaxy-pip-master/README.md
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-pip-master/defaults/
+-rw-rw-r-- root/root       122 2017-05-09 06:41 ansible-galaxy-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-pip-master/meta/
+-rw-rw-r-- root/root      3832 2017-05-09 06:41 ansible-galaxy-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-pip-master/tasks/
+-rw-rw-r-- root/root       240 2017-05-09 06:41 ansible-galaxy-pip-master/tasks/centos.yml
+-rw-rw-r-- root/root       418 2017-05-09 06:41 ansible-galaxy-pip-master/tasks/main.yml
+-rw-rw-r-- root/root       129 2017-05-09 06:41 ansible-galaxy-pip-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-pip-master/templates/
+-rw-rw-r-- root/root        87 2017-05-09 06:41 ansible-galaxy-pip-master/templates/pip.conf.j2
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-pip-master/tests/
+-rw-rw-r-- root/root         9 2017-05-09 06:41 ansible-galaxy-pip-master/tests/inventory
+-rw-rw-r-- root/root        39 2017-05-09 06:41 ansible-galaxy-pip-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-13 18:16 ansible-role-jupyter-container-master/
+-rw-rw-r-- root/root      1512 2018-06-13 18:16 ansible-role-jupyter-container-master/LICENSE
+-rw-rw-r-- root/root      1905 2018-06-13 18:16 ansible-role-jupyter-container-master/README.md
+drwxrwxr-x root/root         0 2018-06-13 18:16 ansible-role-jupyter-container-master/defaults/
+-rw-rw-r-- root/root      2254 2018-06-13 18:16 ansible-role-jupyter-container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-13 18:16 ansible-role-jupyter-container-master/meta/
+-rw-rw-r-- root/root       271 2018-06-13 18:16 ansible-role-jupyter-container-master/meta/container.yml
+-rw-rw-r-- root/root      1157 2018-06-13 18:16 ansible-role-jupyter-container-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-13 18:16 ansible-role-jupyter-container-master/tasks/
+-rw-rw-r-- root/root       767 2018-06-13 18:16 ansible-role-jupyter-container-master/tasks/install_r.yml
+-rw-rw-r-- root/root      2588 2018-06-13 18:16 ansible-role-jupyter-container-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-13 18:16 ansible-role-jupyter-container-master/tests/
+-rw-rw-r-- root/root        33 2018-06-13 18:16 ansible-role-jupyter-container-master/tests/ansible.cfg
+-rw-rw-r-- root/root        12 2018-06-13 18:16 ansible-role-jupyter-container-master/tests/inventory
+-rw-rw-r-- root/root       131 2018-06-13 18:16 ansible-role-jupyter-container-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-13 18:16 ansible-role-jupyter-container-master/vars/
+-rw-rw-r-- root/root        29 2018-06-13 18:16 ansible-role-jupyter-container-master/vars/main.yml

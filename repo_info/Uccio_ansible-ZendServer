@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-13 07:07 ansible-ZendServer-master/
+-rw-rw-r-- root/root         6 2016-07-13 07:07 ansible-ZendServer-master/.gitignore
+-rw-rw-r-- root/root       932 2016-07-13 07:07 ansible-ZendServer-master/README.md
+drwxrwxr-x root/root         0 2016-07-13 07:07 ansible-ZendServer-master/defaults/
+-rw-rw-r-- root/root       103 2016-07-13 07:07 ansible-ZendServer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-13 07:07 ansible-ZendServer-master/handlers/
+-rw-rw-r-- root/root       258 2016-07-13 07:07 ansible-ZendServer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-13 07:07 ansible-ZendServer-master/meta/
+-rw-rw-r-- root/root      1284 2016-07-13 07:07 ansible-ZendServer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-13 07:07 ansible-ZendServer-master/tasks/
+-rw-rw-r-- root/root       508 2016-07-13 07:07 ansible-ZendServer-master/tasks/apache.yml
+-rw-rw-r-- root/root       138 2016-07-13 07:07 ansible-ZendServer-master/tasks/main.yml
+-rw-rw-r-- root/root       851 2016-07-13 07:07 ansible-ZendServer-master/tasks/nginx.yml
+-rw-rw-r-- root/root      1378 2016-07-13 07:07 ansible-ZendServer-master/tasks/repository.yml
+drwxrwxr-x root/root         0 2016-07-13 07:07 ansible-ZendServer-master/tests/
+-rw-rw-r-- root/root         9 2016-07-13 07:07 ansible-ZendServer-master/tests/inventory
+-rw-rw-r-- root/root        68 2016-07-13 07:07 ansible-ZendServer-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-10 01:47 ansible-sbt-master/
+-rw-rw-r-- root/root       888 2016-09-10 01:47 ansible-sbt-master/README.md
+drwxrwxr-x root/root         0 2016-09-10 01:47 ansible-sbt-master/defaults/
+-rw-rw-r-- root/root       628 2016-09-10 01:47 ansible-sbt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-10 01:47 ansible-sbt-master/meta/
+-rw-rw-r-- root/root       296 2016-09-10 01:47 ansible-sbt-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-10 01:47 ansible-sbt-master/tasks/
+-rw-rw-r-- root/root       106 2016-09-10 01:47 ansible-sbt-master/tasks/install.yml
+-rw-rw-r-- root/root      1134 2016-09-10 01:47 ansible-sbt-master/tasks/install_from_binaries.yml
+-rw-rw-r-- root/root       905 2016-09-10 01:47 ansible-sbt-master/tasks/install_from_repositories.yml
+-rw-rw-r-- root/root       184 2016-09-10 01:47 ansible-sbt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-10 01:47 ansible-sbt-master/templates/
+-rw-rw-r-- root/root        85 2016-09-10 01:47 ansible-sbt-master/templates/profile.sh.j2
+drwxrwxr-x root/root         0 2016-09-10 01:47 ansible-sbt-master/vars/
+-rw-rw-r-- root/root       161 2016-09-10 01:47 ansible-sbt-master/vars/main.yml

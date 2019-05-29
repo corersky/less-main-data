@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-11-23 22:32 ansible-nfs-client-master/
+-rw-rw-r-- root/root        12 2016-11-23 22:32 ansible-nfs-client-master/.gitignore
+-rw-rw-r-- root/root      1084 2016-11-23 22:32 ansible-nfs-client-master/LICENSE
+-rw-rw-r-- root/root       458 2016-11-23 22:32 ansible-nfs-client-master/README.md
+-rw-rw-r-- root/root       895 2016-11-23 22:32 ansible-nfs-client-master/circle.yml
+drwxrwxr-x root/root         0 2016-11-23 22:32 ansible-nfs-client-master/meta/
+-rw-rw-r-- root/root       385 2016-11-23 22:32 ansible-nfs-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:32 ansible-nfs-client-master/tasks/
+-rw-rw-r-- root/root       368 2016-11-23 22:32 ansible-nfs-client-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2016-11-23 22:32 ansible-nfs-client-master/test.yml
+drwxrwxr-x root/root         0 2016-11-23 22:32 ansible-nfs-client-master/vars/
+-rw-rw-r-- root/root        36 2016-11-23 22:32 ansible-nfs-client-master/vars/Debian.yml
+-rw-rw-r-- root/root        34 2016-11-23 22:32 ansible-nfs-client-master/vars/RedHat.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-07 13:35 ansible-role-common-master/
+-rw-rw-r-- root/root       539 2017-03-07 13:35 ansible-role-common-master/.travis.yml
+-rw-rw-r-- root/root      2760 2017-03-07 13:35 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2017-03-07 13:35 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root       109 2017-03-07 13:35 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-07 13:35 ansible-role-common-master/meta/
+-rw-rw-r-- root/root      3946 2017-03-07 13:35 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-07 13:35 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root      3246 2017-03-07 13:35 ansible-role-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-07 13:35 ansible-role-common-master/templates/
+-rw-rw-r-- root/root       135 2017-03-07 13:35 ansible-role-common-master/templates/resolv.conf.j2
+-rw-rw-r-- root/root        68 2017-03-07 13:35 ansible-role-common-master/templates/sudoers.j2
+drwxrwxr-x root/root         0 2017-03-07 13:35 ansible-role-common-master/tests/
+-rw-rw-r-- root/root        10 2017-03-07 13:35 ansible-role-common-master/tests/inventory
+-rw-rw-r-- root/root       460 2017-03-07 13:35 ansible-role-common-master/tests/test.yml

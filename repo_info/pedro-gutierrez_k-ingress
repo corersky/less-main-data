@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-18 06:39 k-ingress-master/
+-rw-rw-r-- root/root      1328 2018-02-18 06:39 k-ingress-master/README.md
+drwxrwxr-x root/root         0 2018-02-18 06:39 k-ingress-master/defaults/
+-rw-rw-r-- root/root        23 2018-02-18 06:39 k-ingress-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-18 06:39 k-ingress-master/handlers/
+-rw-rw-r-- root/root        33 2018-02-18 06:39 k-ingress-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-18 06:39 k-ingress-master/meta/
+-rw-rw-r-- root/root      1845 2018-02-18 06:39 k-ingress-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-18 06:39 k-ingress-master/tasks/
+-rw-rw-r-- root/root       819 2018-02-18 06:39 k-ingress-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-18 06:39 k-ingress-master/tests/
+-rw-rw-r-- root/root        11 2018-02-18 06:39 k-ingress-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-02-18 06:39 k-ingress-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-18 06:39 k-ingress-master/vars/
+-rw-rw-r-- root/root        29 2018-02-18 06:39 k-ingress-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-06 04:04 ansible-flow-tools-master/
+-rw-rw-r-- root/root      1438 2016-06-06 04:04 ansible-flow-tools-master/README.md
+drwxrwxr-x root/root         0 2016-06-06 04:04 ansible-flow-tools-master/handlers/
+-rw-rw-r-- root/root        78 2016-06-06 04:04 ansible-flow-tools-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-06 04:04 ansible-flow-tools-master/meta/
+-rw-rw-r-- root/root       330 2016-06-06 04:04 ansible-flow-tools-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-06 04:04 ansible-flow-tools-master/tasks/
+-rw-rw-r-- root/root       360 2016-06-06 04:04 ansible-flow-tools-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-06 04:04 ansible-flow-tools-master/templates/
+-rw-rw-r-- root/root      1224 2016-06-06 04:04 ansible-flow-tools-master/templates/flow-capture.j2
+drwxrwxr-x root/root         0 2016-06-06 04:04 ansible-flow-tools-master/vars/
+-rw-rw-r-- root/root       409 2016-06-06 04:04 ansible-flow-tools-master/vars/main.yml

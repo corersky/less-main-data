@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-06 11:03 ansible-apache2-vhost-master/
+-rw-rw-r-- root/root      1699 2017-03-06 11:03 ansible-apache2-vhost-master/.travis.yml
+-rw-rw-r-- root/root      1057 2017-03-06 11:03 ansible-apache2-vhost-master/LICENSE
+-rw-rw-r-- root/root       543 2017-03-06 11:03 ansible-apache2-vhost-master/README.md
+drwxrwxr-x root/root         0 2017-03-06 11:03 ansible-apache2-vhost-master/defaults/
+-rw-rw-r-- root/root       127 2017-03-06 11:03 ansible-apache2-vhost-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-06 11:03 ansible-apache2-vhost-master/meta/
+-rw-rw-r-- root/root       274 2017-03-06 11:03 ansible-apache2-vhost-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-06 11:03 ansible-apache2-vhost-master/tasks/
+-rw-rw-r-- root/root       889 2017-03-06 11:03 ansible-apache2-vhost-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-06 11:03 ansible-apache2-vhost-master/templates/
+-rw-rw-r-- root/root        69 2017-03-06 11:03 ansible-apache2-vhost-master/templates/vhosts.conf.j2
+-rw-rw-r-- root/root       216 2017-03-06 11:03 ansible-apache2-vhost-master/templates/virtualhost.conf.j2
+drwxrwxr-x root/root         0 2017-03-06 11:03 ansible-apache2-vhost-master/tests/
+-rw-rw-r-- root/root       286 2017-03-06 11:03 ansible-apache2-vhost-master/tests/Dockerfile.centos-6.8
+-rw-rw-r-- root/root        74 2017-03-06 11:03 ansible-apache2-vhost-master/tests/test.yml

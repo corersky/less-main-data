@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-rocketchat-master/
+-rw-rw-r-- root/root       241 2018-08-01 21:38 ansible-rocketchat-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-rocketchat-master/defaults/
+-rw-rw-r-- root/root        34 2018-08-01 21:38 ansible-rocketchat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-rocketchat-master/handlers/
+-rw-rw-r-- root/root        34 2018-08-01 21:38 ansible-rocketchat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-rocketchat-master/meta/
+-rw-rw-r-- root/root       244 2018-08-01 21:38 ansible-rocketchat-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-rocketchat-master/tasks/
+-rw-rw-r-- root/root       532 2018-08-01 21:38 ansible-rocketchat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-rocketchat-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:38 ansible-rocketchat-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-08-01 21:38 ansible-rocketchat-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-rocketchat-master/vars/
+-rw-rw-r-- root/root        30 2018-08-01 21:38 ansible-rocketchat-master/vars/main.yml

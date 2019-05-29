@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-08 03:31 ansible-role-resolvconf-master/
+-rw-rw-r-- root/root        14 2017-08-08 03:31 ansible-role-resolvconf-master/.gitignore
+-rw-rw-r-- root/root       120 2017-08-08 03:31 ansible-role-resolvconf-master/README.md
+drwxrwxr-x root/root         0 2017-08-08 03:31 ansible-role-resolvconf-master/defaults/
+-rw-rw-r-- root/root       144 2017-08-08 03:31 ansible-role-resolvconf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-08 03:31 ansible-role-resolvconf-master/handlers/
+-rw-rw-r-- root/root        96 2017-08-08 03:31 ansible-role-resolvconf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-08 03:31 ansible-role-resolvconf-master/meta/
+-rw-rw-r-- root/root      2631 2017-08-08 03:31 ansible-role-resolvconf-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-08 03:31 ansible-role-resolvconf-master/tasks/
+-rw-rw-r-- root/root      1004 2017-08-08 03:31 ansible-role-resolvconf-master/tasks/dnsmasq.yml
+-rw-rw-r-- root/root       181 2017-08-08 03:31 ansible-role-resolvconf-master/tasks/main.yml
+-rw-rw-r-- root/root      1070 2017-08-08 03:31 ansible-role-resolvconf-master/tasks/resolvconf.yml
+drwxrwxr-x root/root         0 2017-08-08 03:31 ansible-role-resolvconf-master/templates/
+-rw-rw-r-- root/root        93 2017-08-08 03:31 ansible-role-resolvconf-master/templates/etc-dnsmasq.conf.j2
+-rw-rw-r-- root/root       618 2017-08-08 03:31 ansible-role-resolvconf-master/templates/etc-resolv-conf.j2
+-rw-rw-r-- root/root       343 2017-08-08 03:31 ansible-role-resolvconf-master/templates/etc-resolv-dnsmasq.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-27 19:32 ansible-role-docker-selenium-master/
+-rw-rw-r-- root/root      1041 2015-11-27 19:32 ansible-role-docker-selenium-master/.travis.yml
+-rw-rw-r-- root/root     18026 2015-11-27 19:32 ansible-role-docker-selenium-master/License
+-rw-rw-r-- root/root      2467 2015-11-27 19:32 ansible-role-docker-selenium-master/README.md
+drwxrwxr-x root/root         0 2015-11-27 19:32 ansible-role-docker-selenium-master/defaults/
+-rw-rw-r-- root/root       505 2015-11-27 19:32 ansible-role-docker-selenium-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-27 19:32 ansible-role-docker-selenium-master/handlers/
+-rw-rw-r-- root/root        53 2015-11-27 19:32 ansible-role-docker-selenium-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-27 19:32 ansible-role-docker-selenium-master/meta/
+-rw-rw-r-- root/root       326 2015-11-27 19:32 ansible-role-docker-selenium-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-27 19:32 ansible-role-docker-selenium-master/tasks/
+-rw-rw-r-- root/root      1103 2015-11-27 19:32 ansible-role-docker-selenium-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-27 19:32 ansible-role-docker-selenium-master/tests/
+-rw-rw-r-- root/root        10 2015-11-27 19:32 ansible-role-docker-selenium-master/tests/inventory
+-rw-rw-r-- root/root        87 2015-11-27 19:32 ansible-role-docker-selenium-master/tests/test.yml
+drwxrwxr-x root/root         0 2015-11-27 19:32 ansible-role-docker-selenium-master/vars/
+-rw-rw-r-- root/root        49 2015-11-27 19:32 ansible-role-docker-selenium-master/vars/main.yml

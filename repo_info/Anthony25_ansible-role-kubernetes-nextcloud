@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/
+-rw-rw-r-- root/root        66 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/.gitignore
+-rw-rw-r-- root/root      1507 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/LICENSE.mkd
+-rw-rw-r-- root/root      4098 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/README.md
+drwxrwxr-x root/root         0 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/defaults/
+-rw-rw-r-- root/root      1475 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/meta/
+-rw-rw-r-- root/root       562 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/tasks/
+-rw-rw-r-- root/root       500 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/templates/
+-rw-rw-r-- root/root      3503 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/templates/configmap.yml.j2
+-rw-rw-r-- root/root       694 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/templates/cronjob.yml.j2
+-rw-rw-r-- root/root      3567 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       587 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/templates/deployment_shared_mounts.include.j2
+-rw-rw-r-- root/root       638 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       235 2019-05-18 14:13 ansible-role-kubernetes-nextcloud-master/templates/service.yml.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-09-01 20:26 ansible-rvm-prerequisites-master/
+-rwxrwxr-x root/root       281 2015-09-01 20:26 ansible-rvm-prerequisites-master/.editorconfig
+-rw-rw-r-- root/root        18 2015-09-01 20:26 ansible-rvm-prerequisites-master/.gitignore
+-rw-rw-r-- root/root       543 2015-09-01 20:26 ansible-rvm-prerequisites-master/.travis.yml
+-rw-rw-r-- root/root       595 2015-09-01 20:26 ansible-rvm-prerequisites-master/README.md
+-rw-rw-r-- root/root      3301 2015-09-01 20:26 ansible-rvm-prerequisites-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-09-01 20:26 ansible-rvm-prerequisites-master/defaults/
+-rw-rw-r-- root/root        50 2015-09-01 20:26 ansible-rvm-prerequisites-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-01 20:26 ansible-rvm-prerequisites-master/handlers/
+-rw-rw-r-- root/root        50 2015-09-01 20:26 ansible-rvm-prerequisites-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-01 20:26 ansible-rvm-prerequisites-master/meta/
+-rw-rw-r-- root/root       250 2015-09-01 20:26 ansible-rvm-prerequisites-master/meta/main.yml
+-rw-rw-r-- root/root        31 2015-09-01 20:26 ansible-rvm-prerequisites-master/playbook.yml
+drwxrwxr-x root/root         0 2015-09-01 20:26 ansible-rvm-prerequisites-master/tasks/
+-rw-rw-r-- root/root       303 2015-09-01 20:26 ansible-rvm-prerequisites-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-01 20:26 ansible-rvm-prerequisites-master/vars/
+-rw-rw-r-- root/root        46 2015-09-01 20:26 ansible-rvm-prerequisites-master/vars/main.yml

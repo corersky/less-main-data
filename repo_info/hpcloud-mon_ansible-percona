@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-06-24 15:51 ansible-percona-master/
+-rw-rw-r-- root/root         6 2015-06-24 15:51 ansible-percona-master/.gitignore
+-rw-rw-r-- root/root      2077 2015-06-24 15:51 ansible-percona-master/README.md
+drwxrwxr-x root/root         0 2015-06-24 15:51 ansible-percona-master/defaults/
+-rw-rw-r-- root/root      1260 2015-06-24 15:51 ansible-percona-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-24 15:51 ansible-percona-master/handlers/
+-rw-rw-r-- root/root       140 2015-06-24 15:51 ansible-percona-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-24 15:51 ansible-percona-master/meta/
+-rw-rw-r-- root/root       313 2015-06-24 15:51 ansible-percona-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-24 15:51 ansible-percona-master/tasks/
+-rw-rw-r-- root/root      2937 2015-06-24 15:51 ansible-percona-master/tasks/install.yml
+-rw-rw-r-- root/root        74 2015-06-24 15:51 ansible-percona-master/tasks/main.yml
+-rw-rw-r-- root/root       531 2015-06-24 15:51 ansible-percona-master/tasks/repo.yml
+drwxrwxr-x root/root         0 2015-06-24 15:51 ansible-percona-master/templates/
+-rw-rw-r-- root/root      4080 2015-06-24 15:51 ansible-percona-master/templates/etc_mysql_my.cnf.j2
+-rw-rw-r-- root/root        54 2015-06-24 15:51 ansible-percona-master/templates/root-my-cnf.j2

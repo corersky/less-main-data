@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-07-27 06:32 ansible-resolv_conf-master/
+-rw-rw-r-- root/root         0 2016-07-27 06:32 ansible-resolv_conf-master/.gitignore
+-rw-rw-r-- root/root      1075 2016-07-27 06:32 ansible-resolv_conf-master/LICENSE
+-rw-rw-r-- root/root      1139 2016-07-27 06:32 ansible-resolv_conf-master/README.md
+drwxrwxr-x root/root         0 2016-07-27 06:32 ansible-resolv_conf-master/defaults/
+-rw-rw-r-- root/root       325 2016-07-27 06:32 ansible-resolv_conf-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-07-27 06:32 ansible-resolv_conf-master/meta/
+-rw-rw-r-- root/root       302 2016-07-27 06:32 ansible-resolv_conf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-27 06:32 ansible-resolv_conf-master/tasks/
+-rw-rw-r-- root/root       136 2016-07-27 06:32 ansible-resolv_conf-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-07-27 06:32 ansible-resolv_conf-master/templates/
+-rw-rw-r-- root/root       509 2016-07-27 06:32 ansible-resolv_conf-master/templates/resolv.conf.j2

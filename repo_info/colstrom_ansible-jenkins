@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-09-16 19:14 ansible-jenkins-master/
+-rw-rw-r-- root/root        43 2015-09-16 19:14 ansible-jenkins-master/README.md
+drwxrwxr-x root/root         0 2015-09-16 19:14 ansible-jenkins-master/defaults/
+-rw-rw-r-- root/root       163 2015-09-16 19:14 ansible-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-16 19:14 ansible-jenkins-master/handlers/
+-rw-rw-r-- root/root       111 2015-09-16 19:14 ansible-jenkins-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-16 19:14 ansible-jenkins-master/meta/
+-rw-rw-r-- root/root       414 2015-09-16 19:14 ansible-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-16 19:14 ansible-jenkins-master/tasks/
+-rw-rw-r-- root/root       110 2015-09-16 19:14 ansible-jenkins-master/tasks/install.yml
+-rw-rw-r-- root/root        27 2015-09-16 19:14 ansible-jenkins-master/tasks/main.yml

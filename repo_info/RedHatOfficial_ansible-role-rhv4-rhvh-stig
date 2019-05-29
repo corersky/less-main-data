@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/
+-rw-rw-r-- root/root      2300 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/defaults/
+-rw-rw-r-- root/root      9423 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/handlers/
+-rw-rw-r-- root/root        51 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/meta/
+-rw-rw-r-- root/root       564 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/tasks/
+-rw-rw-r-- root/root    514620 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/tests/
+-rw-rw-r-- root/root        11 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/tests/inventory
+-rw-rw-r-- root/root        85 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/vars/
+-rw-rw-r-- root/root      4040 2019-05-17 18:18 ansible-role-rhv4-rhvh-stig-master/vars/main.yml

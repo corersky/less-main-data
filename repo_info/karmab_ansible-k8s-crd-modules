@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-19 12:54 ansible-k8s-crd-modules-master/
+-rw-rw-r-- root/root      1142 2018-02-19 12:54 ansible-k8s-crd-modules-master/README.md
+drwxrwxr-x root/root         0 2018-02-19 12:54 ansible-k8s-crd-modules-master/defaults/
+-rw-rw-r-- root/root        36 2018-02-19 12:54 ansible-k8s-crd-modules-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-19 12:54 ansible-k8s-crd-modules-master/library/
+-rw-rw-r-- root/root      5207 2018-02-19 12:54 ansible-k8s-crd-modules-master/library/k8s_crd.py
+drwxrwxr-x root/root         0 2018-02-19 12:54 ansible-k8s-crd-modules-master/meta/
+-rw-rw-r-- root/root      1242 2018-02-19 12:54 ansible-k8s-crd-modules-master/meta/main.yml
+-rw-rw-r-- root/root       449 2018-02-19 12:54 ansible-k8s-crd-modules-master/prout.sh
+drwxrwxr-x root/root         0 2018-02-19 12:54 ansible-k8s-crd-modules-master/tasks/
+-rw-rw-r-- root/root       489 2018-02-19 12:54 ansible-k8s-crd-modules-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-19 12:54 ansible-k8s-crd-modules-master/tests/
+-rw-rw-r-- root/root        10 2018-02-19 12:54 ansible-k8s-crd-modules-master/tests/guitar.retry
+-rw-rw-r-- root/root       387 2018-02-19 12:54 ansible-k8s-crd-modules-master/tests/guitar.yml

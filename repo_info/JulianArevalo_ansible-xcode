@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-01-08 16:06 ansible-xcode-master/
+-rw-rw-r-- root/root        42 2018-01-08 16:06 ansible-xcode-master/.gitignore
+-rw-rw-r-- root/root      1057 2018-01-08 16:06 ansible-xcode-master/LICENSE
+-rw-rw-r-- root/root        47 2018-01-08 16:06 ansible-xcode-master/README.md
+drwxrwxr-x root/root         0 2018-01-08 16:06 ansible-xcode-master/meta/
+-rw-rw-r-- root/root       499 2018-01-08 16:06 ansible-xcode-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-08 16:06 ansible-xcode-master/tasks/
+-rw-rw-r-- root/root      2266 2018-01-08 16:06 ansible-xcode-master/tasks/install.yml
+-rw-rw-r-- root/root       585 2018-01-08 16:06 ansible-xcode-master/tasks/main.yml
+-rw-rw-r-- root/root       355 2018-01-08 16:06 ansible-xcode-master/tasks/select.yml
+drwxrwxr-x root/root         0 2018-01-08 16:06 ansible-xcode-master/tests/
+-rw-rw-r-- root/root       403 2018-01-08 16:06 ansible-xcode-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-23 13:51 ansible-nvidia-driver-master/
+-rw-rw-r-- root/root         8 2018-09-23 13:51 ansible-nvidia-driver-master/.gitignore
+-rw-rw-r-- root/root      1080 2018-09-23 13:51 ansible-nvidia-driver-master/LICENSE
+-rw-rw-r-- root/root       605 2018-09-23 13:51 ansible-nvidia-driver-master/README.md
+drwxrwxr-x root/root         0 2018-09-23 13:51 ansible-nvidia-driver-master/defaults/
+-rw-rw-r-- root/root        60 2018-09-23 13:51 ansible-nvidia-driver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-23 13:51 ansible-nvidia-driver-master/meta/
+-rw-rw-r-- root/root       268 2018-09-23 13:51 ansible-nvidia-driver-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-23 13:51 ansible-nvidia-driver-master/tasks/
+-rw-rw-r-- root/root       616 2018-09-23 13:51 ansible-nvidia-driver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-23 13:51 ansible-nvidia-driver-master/tests/
+-rw-rw-r-- root/root         7 2018-09-23 13:51 ansible-nvidia-driver-master/tests/inventory
+-rw-rw-r-- root/root       226 2018-09-23 13:51 ansible-nvidia-driver-master/tests/test.yml

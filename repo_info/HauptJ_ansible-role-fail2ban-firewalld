@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/
+-rw-rw-r-- root/root       118 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/.gitmodules
+-rw-rw-r-- root/root      1099 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/.travis.yml
+-rw-rw-r-- root/root     11558 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/LICENSE
+-rw-rw-r-- root/root      2282 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/README.md
+drwxrwxr-x root/root         0 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/defaults/
+-rw-rw-r-- root/root       546 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/handlers/
+-rw-rw-r-- root/root       257 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/meta/
+-rw-rw-r-- root/root       511 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/tasks/
+-rw-rw-r-- root/root      1464 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/templates/
+-rw-rw-r-- root/root      2396 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/templates/fail2ban.local
+-rw-rw-r-- root/root     22710 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/templates/jail.local
+drwxrwxr-x root/root         0 2019-05-25 16:53 ansible-role-fail2ban-firewalld-master/travis/

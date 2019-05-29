@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-09-15 00:18 ansible-mongodb-master/
+-rw-rw-r-- root/root      1066 2015-09-15 00:18 ansible-mongodb-master/LICENSE
+-rw-rw-r-- root/root      1833 2015-09-15 00:18 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2015-09-15 00:18 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root       386 2015-09-15 00:18 ansible-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-15 00:18 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root       110 2015-09-15 00:18 ansible-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-15 00:18 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       427 2015-09-15 00:18 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-15 00:18 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root      1407 2015-09-15 00:18 ansible-mongodb-master/tasks/configure.yml
+-rw-rw-r-- root/root       638 2015-09-15 00:18 ansible-mongodb-master/tasks/install.yml
+-rw-rw-r-- root/root      1060 2015-09-15 00:18 ansible-mongodb-master/tasks/logging.yml
+-rw-rw-r-- root/root       132 2015-09-15 00:18 ansible-mongodb-master/tasks/main.yml

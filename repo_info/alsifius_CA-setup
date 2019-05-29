@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-23 09:56 CA-setup-master/
+-rw-rw-r-- root/root      1328 2019-01-23 09:56 CA-setup-master/README.md
+drwxrwxr-x root/root         0 2019-01-23 09:56 CA-setup-master/defaults/
+-rw-rw-r-- root/root        32 2019-01-23 09:56 CA-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-23 09:56 CA-setup-master/handlers/
+-rw-rw-r-- root/root        32 2019-01-23 09:56 CA-setup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-23 09:56 CA-setup-master/meta/
+-rw-rw-r-- root/root      2032 2019-01-23 09:56 CA-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-23 09:56 CA-setup-master/tasks/
+-rw-rw-r-- root/root        29 2019-01-23 09:56 CA-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-23 09:56 CA-setup-master/tests/
+-rw-rw-r-- root/root        11 2019-01-23 09:56 CA-setup-master/tests/inventory
+-rw-rw-r-- root/root        66 2019-01-23 09:56 CA-setup-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-23 09:56 CA-setup-master/vars/
+-rw-rw-r-- root/root        28 2019-01-23 09:56 CA-setup-master/vars/main.yml

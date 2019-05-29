@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-04 12:59 ansible-role-nginx-more-master/
+-rw-rw-r-- root/root      1365 2019-03-04 12:59 ansible-role-nginx-more-master/README.md
+drwxrwxr-x root/root         0 2019-03-04 12:59 ansible-role-nginx-more-master/defaults/
+-rw-rw-r-- root/root        34 2019-03-04 12:59 ansible-role-nginx-more-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-04 12:59 ansible-role-nginx-more-master/meta/
+-rw-rw-r-- root/root       300 2019-03-04 12:59 ansible-role-nginx-more-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-04 12:59 ansible-role-nginx-more-master/tasks/
+-rw-rw-r-- root/root       551 2019-03-04 12:59 ansible-role-nginx-more-master/tasks/install.yml
+-rw-rw-r-- root/root       525 2019-03-04 12:59 ansible-role-nginx-more-master/tasks/main.yml
+-rw-rw-r-- root/root       305 2019-03-04 12:59 ansible-role-nginx-more-master/tasks/selinux.yml
+drwxrwxr-x root/root         0 2019-03-04 12:59 ansible-role-nginx-more-master/vars/
+-rw-rw-r-- root/root       106 2019-03-04 12:59 ansible-role-nginx-more-master/vars/main.yml

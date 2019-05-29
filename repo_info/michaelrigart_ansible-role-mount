@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-12-30 11:41 ansible-role-mount-master/
+-rw-rw-r-- root/root        11 2016-12-30 11:41 ansible-role-mount-master/.gitignore
+-rw-rw-r-- root/root     35120 2016-12-30 11:41 ansible-role-mount-master/LICENSE
+-rw-rw-r-- root/root       854 2016-12-30 11:41 ansible-role-mount-master/README.md
+drwxrwxr-x root/root         0 2016-12-30 11:41 ansible-role-mount-master/defaults/
+-rw-rw-r-- root/root        22 2016-12-30 11:41 ansible-role-mount-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:41 ansible-role-mount-master/meta/
+-rw-rw-r-- root/root       318 2016-12-30 11:41 ansible-role-mount-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:41 ansible-role-mount-master/tasks/
+-rw-rw-r-- root/root       415 2016-12-30 11:41 ansible-role-mount-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:41 ansible-role-mount-master/tests/
+-rw-rw-r-- root/root        10 2016-12-30 11:41 ansible-role-mount-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-12-30 11:41 ansible-role-mount-master/tests/test.yml

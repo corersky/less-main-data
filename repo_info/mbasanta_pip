@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-12-05 15:10 pip-master/
+-rw-rw-r-- root/root        13 2016-12-05 15:10 pip-master/.gitignore
+-rw-rw-r-- root/root       361 2016-12-05 15:10 pip-master/.travis.yml
+-rw-rw-r-- root/root      1076 2016-12-05 15:10 pip-master/LICENSE
+-rw-rw-r-- root/root      1034 2016-12-05 15:10 pip-master/README.md
+drwxrwxr-x root/root         0 2016-12-05 15:10 pip-master/defaults/
+-rw-rw-r-- root/root       335 2016-12-05 15:10 pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-05 15:10 pip-master/meta/
+-rw-rw-r-- root/root       448 2016-12-05 15:10 pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-05 15:10 pip-master/tasks/
+-rw-rw-r-- root/root       519 2016-12-05 15:10 pip-master/tasks/installer.yml
+-rw-rw-r-- root/root       158 2016-12-05 15:10 pip-master/tasks/main.yml
+-rw-rw-r-- root/root       442 2016-12-05 15:10 pip-master/tasks/package.yml
+-rw-rw-r-- root/root        94 2016-12-05 15:10 pip-master/test.yml

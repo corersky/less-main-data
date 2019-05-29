@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/
+-rw-rw-r-- root/root      1062 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/LICENSE
+-rw-rw-r-- root/root      2870 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/README.md
+drwxrwxr-x root/root         0 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/defaults/
+-rw-rw-r-- root/root       599 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/meta/
+-rw-rw-r-- root/root       376 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/tasks/
+-rw-rw-r-- root/root      2583 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/templates/
+-rw-rw-r-- root/root       239 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/templates/zfs-auto-snapshot.frequent.j2
+-rw-rw-r-- root/root       154 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/templates/zfs-auto-snapshot.j2
+drwxrwxr-x root/root         0 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/vars/
+-rw-rw-r-- root/root        55 2018-11-06 12:55 ansible-zfs-auto-snapshot-master/vars/main.yml

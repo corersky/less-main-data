@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-05-29 06:12 ansible-rails-common-master/
+-rw-rw-r-- root/root       859 2014-05-29 06:12 ansible-rails-common-master/README.md
+drwxrwxr-x root/root         0 2014-05-29 06:12 ansible-rails-common-master/defaults/
+-rw-rw-r-- root/root        37 2014-05-29 06:12 ansible-rails-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-05-29 06:12 ansible-rails-common-master/handlers/
+-rw-rw-r-- root/root        37 2014-05-29 06:12 ansible-rails-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-29 06:12 ansible-rails-common-master/meta/
+-rw-rw-r-- root/root      2069 2014-05-29 06:12 ansible-rails-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-29 06:12 ansible-rails-common-master/tasks/
+-rw-rw-r-- root/root       445 2014-05-29 06:12 ansible-rails-common-master/tasks/main.yml
+-rw-rw-r-- root/root       435 2014-05-29 06:12 ansible-rails-common-master/tasks/rails_mysql_db.yml
+-rw-rw-r-- root/root       706 2014-05-29 06:12 ansible-rails-common-master/tasks/rails_postgresql_db.yml
+drwxrwxr-x root/root         0 2014-05-29 06:12 ansible-rails-common-master/vars/
+-rw-rw-r-- root/root        32 2014-05-29 06:12 ansible-rails-common-master/vars/main.yml

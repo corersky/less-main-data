@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2019-03-19 13:17 ns1-ansible-modules-master/
+-rw-rw-r-- root/root         8 2019-03-19 13:17 ns1-ansible-modules-master/.gitignore
+-rw-rw-r-- root/root      2330 2019-03-19 13:17 ns1-ansible-modules-master/README.md
+drwxrwxr-x root/root         0 2019-03-19 13:17 ns1-ansible-modules-master/library/
+-rw-rw-r-- root/root     11451 2019-03-19 13:17 ns1-ansible-modules-master/library/ns1_record
+-rw-rw-r-- root/root      7943 2019-03-19 13:17 ns1-ansible-modules-master/library/ns1_zone
+drwxrwxr-x root/root         0 2019-03-19 13:17 ns1-ansible-modules-master/meta/
+-rw-rw-r-- root/root       872 2019-03-19 13:17 ns1-ansible-modules-master/meta/main.yml
+-rw-rw-r-- root/root      4095 2019-03-19 13:17 ns1-ansible-modules-master/test.yml

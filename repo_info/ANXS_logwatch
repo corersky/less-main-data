@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-04-09 00:52 logwatch-master/
+-rw-rw-r-- root/root        83 2015-04-09 00:52 logwatch-master/.gitignore
+-rw-rw-r-- root/root       546 2015-04-09 00:52 logwatch-master/.travis.yml
+-rw-rw-r-- root/root      1079 2015-04-09 00:52 logwatch-master/LICENSE
+-rw-rw-r-- root/root      1171 2015-04-09 00:52 logwatch-master/README.md
+-rw-rw-r-- root/root       444 2015-04-09 00:52 logwatch-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-04-09 00:52 logwatch-master/defaults/
+-rw-rw-r-- root/root       532 2015-04-09 00:52 logwatch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-09 00:52 logwatch-master/meta/
+-rw-rw-r-- root/root       317 2015-04-09 00:52 logwatch-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-09 00:52 logwatch-master/tasks/
+-rw-rw-r-- root/root       657 2015-04-09 00:52 logwatch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-09 00:52 logwatch-master/templates/
+-rw-rw-r-- root/root       234 2015-04-09 00:52 logwatch-master/templates/etc_logwatch_conf_logwatch.conf.j2
+-rw-rw-r-- root/root        94 2015-04-09 00:52 logwatch-master/test.yml
+-rw-rw-r-- root/root        69 2015-04-09 00:52 logwatch-master/vagrant-inventory

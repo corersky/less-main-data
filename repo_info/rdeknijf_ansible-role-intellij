@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-18 08:38 ansible-role-intellij-master/
+-rw-rw-r-- root/root         0 2018-10-18 08:38 ansible-role-intellij-master/.gitignore
+-rw-rw-r-- root/root      1156 2018-10-18 08:38 ansible-role-intellij-master/README.md
+drwxrwxr-x root/root         0 2018-10-18 08:38 ansible-role-intellij-master/defaults/
+-rw-rw-r-- root/root       124 2018-10-18 08:38 ansible-role-intellij-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-18 08:38 ansible-role-intellij-master/meta/
+-rw-rw-r-- root/root       367 2018-10-18 08:38 ansible-role-intellij-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-18 08:38 ansible-role-intellij-master/tasks/
+-rw-rw-r-- root/root      1815 2018-10-18 08:38 ansible-role-intellij-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-18 08:38 ansible-role-intellij-master/templates/
+-rw-rw-r-- root/root       110 2018-10-18 08:38 ansible-role-intellij-master/templates/intellij.j2
+drwxrwxr-x root/root         0 2018-10-18 08:38 ansible-role-intellij-master/vars/
+-rw-rw-r-- root/root       241 2018-10-18 08:38 ansible-role-intellij-master/vars/main.yml

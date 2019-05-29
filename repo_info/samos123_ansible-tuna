@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-07-30 21:10 ansible-tuna-master/
+-rw-rw-r-- root/root       722 2015-07-30 21:10 ansible-tuna-master/README.md
+drwxrwxr-x root/root         0 2015-07-30 21:10 ansible-tuna-master/handlers/
+-rw-rw-r-- root/root        84 2015-07-30 21:10 ansible-tuna-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-07-30 21:10 ansible-tuna-master/meta/
+-rw-rw-r-- root/root      2328 2015-07-30 21:10 ansible-tuna-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-30 21:10 ansible-tuna-master/tasks/
+-rw-rw-r-- root/root        67 2015-07-30 21:10 ansible-tuna-master/tasks/main.yml
+-rw-rw-r-- root/root       131 2015-07-30 21:10 ansible-tuna-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2015-07-30 21:10 ansible-tuna-master/templates/
+-rw-rw-r-- root/root       626 2015-07-30 21:10 ansible-tuna-master/templates/sources.list.j2

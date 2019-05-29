@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2019-03-29 09:09 ansible-role-keypair-master/
+-rw-rw-r-- root/root     11357 2019-03-29 09:09 ansible-role-keypair-master/LICENSE
+-rw-rw-r-- root/root      1960 2019-03-29 09:09 ansible-role-keypair-master/README.md
+drwxrwxr-x root/root         0 2019-03-29 09:09 ansible-role-keypair-master/defaults/
+-rw-rw-r-- root/root       292 2019-03-29 09:09 ansible-role-keypair-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-29 09:09 ansible-role-keypair-master/handlers/
+-rw-rw-r-- root/root        48 2019-03-29 09:09 ansible-role-keypair-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-29 09:09 ansible-role-keypair-master/meta/
+-rw-rw-r-- root/root       467 2019-03-29 09:09 ansible-role-keypair-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-29 09:09 ansible-role-keypair-master/tasks/
+-rw-rw-r-- root/root       755 2019-03-29 09:09 ansible-role-keypair-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-29 09:09 ansible-role-keypair-master/tests/
+-rw-rw-r-- root/root        66 2019-03-29 09:09 ansible-role-keypair-master/tests/inventory
+drwxrwxr-x root/root         0 2019-03-29 09:09 ansible-role-keypair-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-03-29 09:09 ansible-role-keypair-master/tests/roles/otc_keypair -> ../../
+-rw-rw-r-- root/root       147 2019-03-29 09:09 ansible-role-keypair-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-29 09:09 ansible-role-keypair-master/vars/
+-rw-rw-r-- root/root       315 2019-03-29 09:09 ansible-role-keypair-master/vars/main.yml

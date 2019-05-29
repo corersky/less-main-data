@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-diana-docker-master/
+-rw-rw-r-- root/root      1316 2018-09-03 13:09 ansible-diana-docker-master/.travis.yml
+-rw-rw-r-- root/root      1569 2018-09-03 13:09 ansible-diana-docker-master/README.md
+-rw-rw-r-- root/root        51 2018-09-03 13:09 ansible-diana-docker-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-diana-docker-master/defaults/
+-rw-rw-r-- root/root      1350 2018-09-03 13:09 ansible-diana-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-diana-docker-master/meta/
+-rw-rw-r-- root/root       470 2018-09-03 13:09 ansible-diana-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-diana-docker-master/tasks/
+-rw-rw-r-- root/root      1994 2018-09-03 13:09 ansible-diana-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-diana-docker-master/tests/
+-rw-rw-r-- root/root       258 2018-09-03 13:09 ansible-diana-docker-master/tests/test_inv.yml
+-rw-rw-r-- root/root       213 2018-09-03 13:09 ansible-diana-docker-master/tests/test_play.yml

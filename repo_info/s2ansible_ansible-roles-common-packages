@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/
+-rw-rw-r-- root/root      1328 2019-02-13 03:55 ansible-roles-common-packages-master/README.md
+drwxrwxr-x root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/defaults/
+-rw-rw-r-- root/root       158 2019-02-13 03:55 ansible-roles-common-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/handlers/
+-rw-rw-r-- root/root        53 2019-02-13 03:55 ansible-roles-common-packages-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/meta/
+-rw-rw-r-- root/root       310 2019-02-13 03:55 ansible-roles-common-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/tasks/
+lrwxrwxrwx root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/tasks/amzn.yml -> amzn2.yml
+-rw-rw-r-- root/root        89 2019-02-13 03:55 ansible-roles-common-packages-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/tasks/el6.yml -> amzn2.yml
+lrwxrwxrwx root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       468 2019-02-13 03:55 ansible-roles-common-packages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-13 03:55 ansible-roles-common-packages-master/vars/
+-rw-rw-r-- root/root        49 2019-02-13 03:55 ansible-roles-common-packages-master/vars/main.yml

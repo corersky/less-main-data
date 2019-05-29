@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-04-16 13:29 ansible-pip-master/
+-rw-rw-r-- root/root      1221 2019-04-16 13:29 ansible-pip-master/README.md
+drwxrwxr-x root/root         0 2019-04-16 13:29 ansible-pip-master/defaults/
+-rw-rw-r-- root/root       372 2019-04-16 13:29 ansible-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-16 13:29 ansible-pip-master/meta/
+-rw-rw-r-- root/root       475 2019-04-16 13:29 ansible-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-16 13:29 ansible-pip-master/tasks/
+-rw-rw-r-- root/root       178 2019-04-16 13:29 ansible-pip-master/tasks/main.yml
+-rw-rw-r-- root/root      1011 2019-04-16 13:29 ansible-pip-master/tasks/setup-CentOS.yml
+-rw-rw-r-- root/root       829 2019-04-16 13:29 ansible-pip-master/tasks/setup-Debian.yml

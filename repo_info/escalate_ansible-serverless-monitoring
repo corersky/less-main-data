@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-13 02:21 ansible-serverless-monitoring-master/
+-rw-rw-r-- root/root      1070 2017-12-13 02:21 ansible-serverless-monitoring-master/LICENSE
+-rw-rw-r-- root/root        88 2017-12-13 02:21 ansible-serverless-monitoring-master/README.md
+drwxrwxr-x root/root         0 2017-12-13 02:21 ansible-serverless-monitoring-master/defaults/
+-rw-rw-r-- root/root       154 2017-12-13 02:21 ansible-serverless-monitoring-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-13 02:21 ansible-serverless-monitoring-master/meta/
+-rw-rw-r-- root/root       427 2017-12-13 02:21 ansible-serverless-monitoring-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-13 02:21 ansible-serverless-monitoring-master/tasks/
+-rw-rw-r-- root/root      1131 2017-12-13 02:21 ansible-serverless-monitoring-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-13 02:21 ansible-serverless-monitoring-master/templates/
+-rw-rw-r-- root/root       647 2017-12-13 02:21 ansible-serverless-monitoring-master/templates/check.sh.j2
+-rw-rw-r-- root/root       438 2017-12-13 02:21 ansible-serverless-monitoring-master/templates/monitoring.sh.j2

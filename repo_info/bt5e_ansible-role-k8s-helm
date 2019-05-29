@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-18 15:52 ansible-role-k8s-helm-master/
+-rw-rw-r-- root/root       350 2019-05-18 15:52 ansible-role-k8s-helm-master/.travis.yml
+-rw-rw-r-- root/root      1064 2019-05-18 15:52 ansible-role-k8s-helm-master/LICENSE
+-rw-rw-r-- root/root       531 2019-05-18 15:52 ansible-role-k8s-helm-master/README.md
+drwxrwxr-x root/root         0 2019-05-18 15:52 ansible-role-k8s-helm-master/meta/
+-rw-rw-r-- root/root       261 2019-05-18 15:52 ansible-role-k8s-helm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-18 15:52 ansible-role-k8s-helm-master/tasks/
+-rw-rw-r-- root/root       719 2019-05-18 15:52 ansible-role-k8s-helm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-18 15:52 ansible-role-k8s-helm-master/tests/
+-rw-rw-r-- root/root        48 2019-05-18 15:52 ansible-role-k8s-helm-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-18 15:52 ansible-role-k8s-helm-master/vars/
+-rw-rw-r-- root/root       386 2019-05-18 15:52 ansible-role-k8s-helm-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-30 09:30 ansible_role_terragrunt-master/
+-rw-rw-r-- root/root       429 2017-09-30 09:30 ansible_role_terragrunt-master/.travis.yml
+-rw-rw-r-- root/root      1611 2017-09-30 09:30 ansible_role_terragrunt-master/README.md
+drwxrwxr-x root/root         0 2017-09-30 09:30 ansible_role_terragrunt-master/defaults/
+-rw-rw-r-- root/root       401 2017-09-30 09:30 ansible_role_terragrunt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-30 09:30 ansible_role_terragrunt-master/meta/
+-rw-rw-r-- root/root       356 2017-09-30 09:30 ansible_role_terragrunt-master/meta/main.yml
+-rw-rw-r-- root/root       113 2017-09-30 09:30 ansible_role_terragrunt-master/requirements.yml
+drwxrwxr-x root/root         0 2017-09-30 09:30 ansible_role_terragrunt-master/tasks/
+-rw-rw-r-- root/root      1463 2017-09-30 09:30 ansible_role_terragrunt-master/tasks/install.yml
+-rw-rw-r-- root/root       330 2017-09-30 09:30 ansible_role_terragrunt-master/tasks/main.yml
+-rw-rw-r-- root/root       536 2017-09-30 09:30 ansible_role_terragrunt-master/tasks/prelim.yml
+-rw-rw-r-- root/root       715 2017-09-30 09:30 ansible_role_terragrunt-master/tasks/purge-old.yml
+drwxrwxr-x root/root         0 2017-09-30 09:30 ansible_role_terragrunt-master/tests/
+-rw-rw-r-- root/root         9 2017-09-30 09:30 ansible_role_terragrunt-master/tests/inventory
+-rw-rw-r-- root/root       194 2017-09-30 09:30 ansible_role_terragrunt-master/tests/test.yml

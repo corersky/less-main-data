@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-19 09:02 ansible-role-codedeploy-agent-master/
+-rw-rw-r-- root/root      1139 2017-03-19 09:02 ansible-role-codedeploy-agent-master/.travis.yml
+-rw-rw-r-- root/root      1071 2017-03-19 09:02 ansible-role-codedeploy-agent-master/LICENSE
+-rw-rw-r-- root/root       761 2017-03-19 09:02 ansible-role-codedeploy-agent-master/README.md
+drwxrwxr-x root/root         0 2017-03-19 09:02 ansible-role-codedeploy-agent-master/meta/
+-rw-rw-r-- root/root       845 2017-03-19 09:02 ansible-role-codedeploy-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-19 09:02 ansible-role-codedeploy-agent-master/tasks/
+-rw-rw-r-- root/root       609 2017-03-19 09:02 ansible-role-codedeploy-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-19 09:02 ansible-role-codedeploy-agent-master/tests/
+-rw-rw-r-- root/root         9 2017-03-19 09:02 ansible-role-codedeploy-agent-master/tests/inventory
+-rw-rw-r-- root/root       106 2017-03-19 09:02 ansible-role-codedeploy-agent-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-19 09:02 ansible-role-codedeploy-agent-master/vars/
+-rw-rw-r-- root/root        51 2017-03-19 09:02 ansible-role-codedeploy-agent-master/vars/Debian.yml
+-rw-rw-r-- root/root        36 2017-03-19 09:02 ansible-role-codedeploy-agent-master/vars/RedHat.yml

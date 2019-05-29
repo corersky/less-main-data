@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-03-09 07:16 ansible-acme-proxy-master/
+-rw-rw-r-- root/root       668 2018-03-09 07:16 ansible-acme-proxy-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-03-09 07:16 ansible-acme-proxy-master/LICENSE
+-rw-rw-r-- root/root      2479 2018-03-09 07:16 ansible-acme-proxy-master/README.md
+drwxrwxr-x root/root         0 2018-03-09 07:16 ansible-acme-proxy-master/defaults/
+-rw-rw-r-- root/root       641 2018-03-09 07:16 ansible-acme-proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-09 07:16 ansible-acme-proxy-master/meta/
+-rw-rw-r-- root/root       476 2018-03-09 07:16 ansible-acme-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-09 07:16 ansible-acme-proxy-master/tasks/
+-rw-rw-r-- root/root      1703 2018-03-09 07:16 ansible-acme-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-09 07:16 ansible-acme-proxy-master/templates/
+-rw-rw-r-- root/root      2221 2018-03-09 07:16 ansible-acme-proxy-master/templates/acme-remote_cert.sh.j2
+drwxrwxr-x root/root         0 2018-03-09 07:16 ansible-acme-proxy-master/tests/
+-rw-rw-r-- root/root         9 2018-03-09 07:16 ansible-acme-proxy-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-03-09 07:16 ansible-acme-proxy-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-09 07:16 ansible-acme-proxy-master/vars/
+-rw-rw-r-- root/root      1195 2018-03-09 07:16 ansible-acme-proxy-master/vars/main.yml

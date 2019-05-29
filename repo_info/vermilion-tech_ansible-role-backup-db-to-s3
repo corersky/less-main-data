@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/
+-rw-rw-r-- root/root        16 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/.gitignore
+-rw-rw-r-- root/root       978 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/README.md
+drwxrwxr-x root/root         0 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/defaults/
+-rw-rw-r-- root/root       517 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/meta/
+-rw-rw-r-- root/root      2042 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/meta/main.yml
+-rw-rw-r-- root/root        94 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/playbook.yml
+drwxrwxr-x root/root         0 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/tasks/
+-rw-rw-r-- root/root       869 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/vars/
+-rw-rw-r-- root/root       154 2019-03-20 10:03 ansible-role-backup-db-to-s3-master/vars/main.yml

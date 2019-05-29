@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-20 12:59 ansible-role-keepassxc-master/
+-rw-rw-r-- root/root         7 2017-04-20 12:59 ansible-role-keepassxc-master/.gitignore
+-rw-rw-r-- root/root       539 2017-04-20 12:59 ansible-role-keepassxc-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-04-20 12:59 ansible-role-keepassxc-master/LICENSE
+-rw-rw-r-- root/root       642 2017-04-20 12:59 ansible-role-keepassxc-master/README.md
+drwxrwxr-x root/root         0 2017-04-20 12:59 ansible-role-keepassxc-master/defaults/
+-rw-rw-r-- root/root       217 2017-04-20 12:59 ansible-role-keepassxc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-20 12:59 ansible-role-keepassxc-master/meta/
+-rw-rw-r-- root/root       292 2017-04-20 12:59 ansible-role-keepassxc-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-20 12:59 ansible-role-keepassxc-master/tasks/
+-rw-rw-r-- root/root       119 2017-04-20 12:59 ansible-role-keepassxc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-20 12:59 ansible-role-keepassxc-master/tests/
+-rw-rw-r-- root/root         9 2017-04-20 12:59 ansible-role-keepassxc-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-04-20 12:59 ansible-role-keepassxc-master/tests/test.yml

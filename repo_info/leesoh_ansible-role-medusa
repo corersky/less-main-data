@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-18 10:30 ansible-role-medusa-master/
+-rw-rw-r-- root/root       390 2017-12-18 10:30 ansible-role-medusa-master/.travis.yml
+-rw-rw-r-- root/root       412 2017-12-18 10:30 ansible-role-medusa-master/README.md
+-rw-rw-r-- root/root        28 2017-12-18 10:30 ansible-role-medusa-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-12-18 10:30 ansible-role-medusa-master/defaults/
+-rw-rw-r-- root/root        30 2017-12-18 10:30 ansible-role-medusa-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-18 10:30 ansible-role-medusa-master/handlers/
+-rw-rw-r-- root/root        30 2017-12-18 10:30 ansible-role-medusa-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-18 10:30 ansible-role-medusa-master/meta/
+-rw-rw-r-- root/root       337 2017-12-18 10:30 ansible-role-medusa-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-18 10:30 ansible-role-medusa-master/tasks/
+-rw-rw-r-- root/root       129 2017-12-18 10:30 ansible-role-medusa-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-18 10:30 ansible-role-medusa-master/tests/
+-rw-rw-r-- root/root        11 2017-12-18 10:30 ansible-role-medusa-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-12-18 10:30 ansible-role-medusa-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-18 10:30 ansible-role-medusa-master/vars/
+-rw-rw-r-- root/root        26 2017-12-18 10:30 ansible-role-medusa-master/vars/main.yml

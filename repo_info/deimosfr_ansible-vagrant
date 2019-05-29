@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-21 05:53 ansible-vagrant-master/
+-rw-rw-r-- root/root       942 2016-03-21 05:53 ansible-vagrant-master/.travis.yml
+-rw-rw-r-- root/root     18027 2016-03-21 05:53 ansible-vagrant-master/LICENSE
+-rw-rw-r-- root/root      1009 2016-03-21 05:53 ansible-vagrant-master/README.md
+drwxrwxr-x root/root         0 2016-03-21 05:53 ansible-vagrant-master/defaults/
+-rw-rw-r-- root/root       287 2016-03-21 05:53 ansible-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-21 05:53 ansible-vagrant-master/meta/
+-rw-rw-r-- root/root       269 2016-03-21 05:53 ansible-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-21 05:53 ansible-vagrant-master/tasks/
+-rw-rw-r-- root/root       332 2016-03-21 05:53 ansible-vagrant-master/tasks/get_info.yml
+-rw-rw-r-- root/root       576 2016-03-21 05:53 ansible-vagrant-master/tasks/install.yml
+-rw-rw-r-- root/root       219 2016-03-21 05:53 ansible-vagrant-master/tasks/main.yml
+-rw-rw-r-- root/root       862 2016-03-21 05:53 ansible-vagrant-master/tasks/upgrade.yml
+drwxrwxr-x root/root         0 2016-03-21 05:53 ansible-vagrant-master/tests/
+-rw-rw-r-- root/root         9 2016-03-21 05:53 ansible-vagrant-master/tests/inventory
+-rw-rw-r-- root/root        68 2016-03-21 05:53 ansible-vagrant-master/tests/test.yml

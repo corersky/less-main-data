@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-04-27 22:51 ansible-nfs-master/
+-rw-rw-r-- root/root       739 2016-04-27 22:51 ansible-nfs-master/LICENSE
+-rw-rw-r-- root/root      1122 2016-04-27 22:51 ansible-nfs-master/README.md
+drwxrwxr-x root/root         0 2016-04-27 22:51 ansible-nfs-master/defaults/
+-rw-rw-r-- root/root       245 2016-04-27 22:51 ansible-nfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-27 22:51 ansible-nfs-master/meta/
+-rw-rw-r-- root/root       251 2016-04-27 22:51 ansible-nfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-27 22:51 ansible-nfs-master/tasks/
+-rw-rw-r-- root/root       309 2016-04-27 22:51 ansible-nfs-master/tasks/client.yml
+-rw-rw-r-- root/root        86 2016-04-27 22:51 ansible-nfs-master/tasks/main.yml
+-rw-rw-r-- root/root       329 2016-04-27 22:51 ansible-nfs-master/tasks/server.yml
+drwxrwxr-x root/root         0 2016-04-27 22:51 ansible-nfs-master/templates/
+drwxrwxr-x root/root         0 2016-04-27 22:51 ansible-nfs-master/templates/etc/
+-rw-rw-r-- root/root       141 2016-04-27 22:51 ansible-nfs-master/templates/etc/exports

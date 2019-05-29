@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-07 02:30 ansible.cron-master/
+-rw-rw-r-- root/root         6 2017-07-07 02:30 ansible.cron-master/.gitignore
+-rw-rw-r-- root/root      1084 2017-07-07 02:30 ansible.cron-master/LICENSE
+-rw-rw-r-- root/root      1796 2017-07-07 02:30 ansible.cron-master/README.md
+drwxrwxr-x root/root         0 2017-07-07 02:30 ansible.cron-master/defaults/
+-rw-rw-r-- root/root        24 2017-07-07 02:30 ansible.cron-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-07 02:30 ansible.cron-master/handlers/
+-rw-rw-r-- root/root        73 2017-07-07 02:30 ansible.cron-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-07 02:30 ansible.cron-master/meta/
+-rw-rw-r-- root/root       237 2017-07-07 02:30 ansible.cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-07 02:30 ansible.cron-master/tasks/
+-rw-rw-r-- root/root       985 2017-07-07 02:30 ansible.cron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-07 02:30 ansible.cron-master/tests/
+-rw-rw-r-- root/root         9 2017-07-07 02:30 ansible.cron-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-07-07 02:30 ansible.cron-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-02-12 15:52 ansible-role-homebrew-master/
+-rw-rw-r-- root/root       396 2018-02-12 15:52 ansible-role-homebrew-master/.travis.yml
+-rw-rw-r-- root/root       518 2018-02-12 15:52 ansible-role-homebrew-master/README.md
+drwxrwxr-x root/root         0 2018-02-12 15:52 ansible-role-homebrew-master/defaults/
+-rw-rw-r-- root/root        65 2018-02-12 15:52 ansible-role-homebrew-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-12 15:52 ansible-role-homebrew-master/meta/
+-rw-rw-r-- root/root       363 2018-02-12 15:52 ansible-role-homebrew-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-12 15:52 ansible-role-homebrew-master/tasks/
+-rw-rw-r-- root/root       963 2018-02-12 15:52 ansible-role-homebrew-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-12 15:52 ansible-role-homebrew-master/tests/
+-rw-rw-r-- root/root        10 2018-02-12 15:52 ansible-role-homebrew-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-02-12 15:52 ansible-role-homebrew-master/tests/travis.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-22 15:19 ansible-terraform-master/
+-rw-rw-r-- root/root        61 2017-08-22 15:19 ansible-terraform-master/.gitignore
+-rw-rw-r-- root/root       352 2017-08-22 15:19 ansible-terraform-master/CHANGELOG.md
+-rw-rw-r-- root/root     11342 2017-08-22 15:19 ansible-terraform-master/LICENSE
+-rw-rw-r-- root/root      1324 2017-08-22 15:19 ansible-terraform-master/README.md
+-rw-rw-r-- root/root        38 2017-08-22 15:19 ansible-terraform-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-08-22 15:19 ansible-terraform-master/defaults/
+-rw-rw-r-- root/root        32 2017-08-22 15:19 ansible-terraform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-22 15:19 ansible-terraform-master/meta/
+-rw-rw-r-- root/root       336 2017-08-22 15:19 ansible-terraform-master/meta/main.yml
+-rw-rw-r-- root/root       441 2017-08-22 15:19 ansible-terraform-master/molecule.yml
+-rw-rw-r-- root/root       901 2017-08-22 15:19 ansible-terraform-master/playbook.yml
+-rw-rw-r-- root/root        19 2017-08-22 15:19 ansible-terraform-master/requirements.yml
+drwxrwxr-x root/root         0 2017-08-22 15:19 ansible-terraform-master/tasks/
+-rw-rw-r-- root/root      1130 2017-08-22 15:19 ansible-terraform-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-22 15:19 ansible-terraform-master/tests/
+-rw-rw-r-- root/root       123 2017-08-22 15:19 ansible-terraform-master/tests/test_terraform.py

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-08-28 02:26 ansible-role-nodejs-master/
+-rw-rw-r-- root/root        27 2015-08-28 02:26 ansible-role-nodejs-master/.gitignore
+-rw-rw-r-- root/root       756 2015-08-28 02:26 ansible-role-nodejs-master/README.md
+drwxrwxr-x root/root         0 2015-08-28 02:26 ansible-role-nodejs-master/defaults/
+-rw-rw-r-- root/root        73 2015-08-28 02:26 ansible-role-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-28 02:26 ansible-role-nodejs-master/meta/
+-rw-rw-r-- root/root       269 2015-08-28 02:26 ansible-role-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-28 02:26 ansible-role-nodejs-master/tasks/
+-rw-rw-r-- root/root       967 2015-08-28 02:26 ansible-role-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-28 02:26 ansible-role-nodejs-master/templates/
+-rw-rw-r-- root/root       373 2015-08-28 02:26 ansible-role-nodejs-master/templates/nodesource.list.j2
+-rw-rw-r-- root/root        74 2015-08-28 02:26 ansible-role-nodejs-master/templates/npmrc.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-28 07:28 ansible-role-git-gpg-master/
+-rw-rw-r-- root/root      2309 2018-03-28 07:28 ansible-role-git-gpg-master/README.md
+drwxrwxr-x root/root         0 2018-03-28 07:28 ansible-role-git-gpg-master/defaults/
+-rw-rw-r-- root/root        54 2018-03-28 07:28 ansible-role-git-gpg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-28 07:28 ansible-role-git-gpg-master/handlers/
+-rw-rw-r-- root/root        57 2018-03-28 07:28 ansible-role-git-gpg-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-28 07:28 ansible-role-git-gpg-master/meta/
+-rw-rw-r-- root/root      1917 2018-03-28 07:28 ansible-role-git-gpg-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-28 07:28 ansible-role-git-gpg-master/tasks/
+-rw-rw-r-- root/root       645 2018-03-28 07:28 ansible-role-git-gpg-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-28 07:28 ansible-role-git-gpg-master/tests/
+-rw-rw-r-- root/root        11 2018-03-28 07:28 ansible-role-git-gpg-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-03-28 07:28 ansible-role-git-gpg-master/tests/test.yml

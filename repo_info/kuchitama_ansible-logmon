@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-11-08 18:28 ansible-logmon-master/
+-rw-rw-r-- root/root       995 2015-11-08 18:28 ansible-logmon-master/README.md
+drwxrwxr-x root/root         0 2015-11-08 18:28 ansible-logmon-master/defaults/
+-rw-rw-r-- root/root       190 2015-11-08 18:28 ansible-logmon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-08 18:28 ansible-logmon-master/handlers/
+-rw-rw-r-- root/root        67 2015-11-08 18:28 ansible-logmon-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-08 18:28 ansible-logmon-master/meta/
+-rw-rw-r-- root/root       596 2015-11-08 18:28 ansible-logmon-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-08 18:28 ansible-logmon-master/tasks/
+-rw-rw-r-- root/root       472 2015-11-08 18:28 ansible-logmon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-08 18:28 ansible-logmon-master/templates/
+-rw-rw-r-- root/root       161 2015-11-08 18:28 ansible-logmon-master/templates/logmon_conf.j2
+drwxrwxr-x root/root         0 2015-11-08 18:28 ansible-logmon-master/vars/
+-rw-rw-r-- root/root        35 2015-11-08 18:28 ansible-logmon-master/vars/main.yml

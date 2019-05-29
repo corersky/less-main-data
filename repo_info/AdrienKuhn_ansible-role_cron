@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-10 15:15 ansible-role_cron-master/
+-rw-rw-r-- root/root        29 2018-08-10 15:15 ansible-role_cron-master/.gitignore
+-rw-rw-r-- root/root       693 2018-08-10 15:15 ansible-role_cron-master/README.md
+drwxrwxr-x root/root         0 2018-08-10 15:15 ansible-role_cron-master/defaults/
+-rw-rw-r-- root/root        30 2018-08-10 15:15 ansible-role_cron-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-10 15:15 ansible-role_cron-master/handlers/
+-rw-rw-r-- root/root        28 2018-08-10 15:15 ansible-role_cron-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-10 15:15 ansible-role_cron-master/meta/
+-rw-rw-r-- root/root      1698 2018-08-10 15:15 ansible-role_cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-10 15:15 ansible-role_cron-master/tasks/
+-rw-rw-r-- root/root       536 2018-08-10 15:15 ansible-role_cron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-10 15:15 ansible-role_cron-master/tests/
+-rw-rw-r-- root/root       735 2018-08-10 15:15 ansible-role_cron-master/tests/Vagrantfile
+-rw-rw-r-- root/root        30 2018-08-10 15:15 ansible-role_cron-master/tests/ansible.cfg
+-rw-rw-r-- root/root       166 2018-08-10 15:15 ansible-role_cron-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-10 15:15 ansible-role_cron-master/vars/
+-rw-rw-r-- root/root        24 2018-08-10 15:15 ansible-role_cron-master/vars/main.yml

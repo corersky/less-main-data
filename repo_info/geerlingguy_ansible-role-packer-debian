@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-25 11:40 ansible-role-packer-debian-master/
+-rw-rw-r-- root/root       480 2018-10-25 11:40 ansible-role-packer-debian-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-10-25 11:40 ansible-role-packer-debian-master/LICENSE
+-rw-rw-r-- root/root      3881 2018-10-25 11:40 ansible-role-packer-debian-master/README.md
+drwxrwxr-x root/root         0 2018-10-25 11:40 ansible-role-packer-debian-master/defaults/
+-rw-rw-r-- root/root        37 2018-10-25 11:40 ansible-role-packer-debian-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-25 11:40 ansible-role-packer-debian-master/files/
+-rw-rw-r-- root/root        89 2018-10-25 11:40 ansible-role-packer-debian-master/files/refresh-apt.conf
+drwxrwxr-x root/root         0 2018-10-25 11:40 ansible-role-packer-debian-master/meta/
+-rw-rw-r-- root/root       479 2018-10-25 11:40 ansible-role-packer-debian-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-25 11:40 ansible-role-packer-debian-master/tasks/
+-rw-rw-r-- root/root      2136 2018-10-25 11:40 ansible-role-packer-debian-master/tasks/main.yml
+-rw-rw-r-- root/root       789 2018-10-25 11:40 ansible-role-packer-debian-master/tasks/virtualbox.yml
+-rw-rw-r-- root/root      1611 2018-10-25 11:40 ansible-role-packer-debian-master/tasks/vmware.yml
+drwxrwxr-x root/root         0 2018-10-25 11:40 ansible-role-packer-debian-master/tests/
+-rw-rw-r-- root/root        10 2018-10-25 11:40 ansible-role-packer-debian-master/tests/inventory
+-rw-rw-r-- root/root        86 2018-10-25 11:40 ansible-role-packer-debian-master/tests/test.yml

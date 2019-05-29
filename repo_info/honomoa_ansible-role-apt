@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-10-22 04:02 ansible-role-apt-master/
+-rw-rw-r-- root/root         7 2018-10-22 04:02 ansible-role-apt-master/.gitignore
+-rw-rw-r-- root/root       385 2018-10-22 04:02 ansible-role-apt-master/README.md
+drwxrwxr-x root/root         0 2018-10-22 04:02 ansible-role-apt-master/defaults/
+-rw-rw-r-- root/root        32 2018-10-22 04:02 ansible-role-apt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-22 04:02 ansible-role-apt-master/meta/
+-rw-rw-r-- root/root       441 2018-10-22 04:02 ansible-role-apt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-22 04:02 ansible-role-apt-master/tasks/
+-rw-rw-r-- root/root        92 2018-10-22 04:02 ansible-role-apt-master/tasks/main.yml
+-rw-rw-r-- root/root       109 2018-10-22 04:02 ansible-role-apt-master/tasks/provision.yml

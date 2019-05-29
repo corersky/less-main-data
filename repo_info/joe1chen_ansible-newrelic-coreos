@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-04-04 13:19 ansible-newrelic-coreos-master/
+-rw-rw-r-- root/root         5 2016-04-04 13:19 ansible-newrelic-coreos-master/.gitignore
+-rw-rw-r-- root/root     11357 2016-04-04 13:19 ansible-newrelic-coreos-master/LICENSE
+-rw-rw-r-- root/root      1091 2016-04-04 13:19 ansible-newrelic-coreos-master/README.md
+drwxrwxr-x root/root         0 2016-04-04 13:19 ansible-newrelic-coreos-master/defaults/
+-rw-rw-r-- root/root       119 2016-04-04 13:19 ansible-newrelic-coreos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-04 13:19 ansible-newrelic-coreos-master/handlers/
+-rw-rw-r-- root/root       227 2016-04-04 13:19 ansible-newrelic-coreos-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-04 13:19 ansible-newrelic-coreos-master/meta/
+-rw-rw-r-- root/root      1974 2016-04-04 13:19 ansible-newrelic-coreos-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-04 13:19 ansible-newrelic-coreos-master/tasks/
+-rw-rw-r-- root/root       750 2016-04-04 13:19 ansible-newrelic-coreos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-04 13:19 ansible-newrelic-coreos-master/templates/
+-rw-rw-r-- root/root       683 2016-04-04 13:19 ansible-newrelic-coreos-master/templates/newrelic.service.j2

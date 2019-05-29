@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-03 13:20 ansible-role-searchsploit-master/
+-rw-rw-r-- root/root       445 2018-10-03 13:20 ansible-role-searchsploit-master/.travis.yml
+-rw-rw-r-- root/root       423 2018-10-03 13:20 ansible-role-searchsploit-master/README.md
+-rw-rw-r-- root/root        27 2018-10-03 13:20 ansible-role-searchsploit-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-10-03 13:20 ansible-role-searchsploit-master/meta/
+-rw-rw-r-- root/root       294 2018-10-03 13:20 ansible-role-searchsploit-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-03 13:20 ansible-role-searchsploit-master/tasks/
+-rw-rw-r-- root/root       591 2018-10-03 13:20 ansible-role-searchsploit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-03 13:20 ansible-role-searchsploit-master/tests/
+-rw-rw-r-- root/root        11 2018-10-03 13:20 ansible-role-searchsploit-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-10-03 13:20 ansible-role-searchsploit-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-03 13:20 ansible-role-searchsploit-master/vars/
+-rw-rw-r-- root/root        37 2018-10-03 13:20 ansible-role-searchsploit-master/vars/main.yml

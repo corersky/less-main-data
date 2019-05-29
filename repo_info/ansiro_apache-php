@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-05-24 06:52 apache-php-master/
+-rw-rw-r-- root/root         6 2015-05-24 06:52 apache-php-master/.gitignore
+-rw-rw-r-- root/root      2672 2015-05-24 06:52 apache-php-master/README.md
+drwxrwxr-x root/root         0 2015-05-24 06:52 apache-php-master/defaults/
+-rw-rw-r-- root/root       698 2015-05-24 06:52 apache-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-24 06:52 apache-php-master/handlers/
+-rw-rw-r-- root/root       130 2015-05-24 06:52 apache-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-24 06:52 apache-php-master/meta/
+-rw-rw-r-- root/root       332 2015-05-24 06:52 apache-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-24 06:52 apache-php-master/tasks/
+-rw-rw-r-- root/root       894 2015-05-24 06:52 apache-php-master/tasks/apache.yml
+-rw-rw-r-- root/root        46 2015-05-24 06:52 apache-php-master/tasks/main.yml
+-rw-rw-r-- root/root       362 2015-05-24 06:52 apache-php-master/tasks/php.yml
+drwxrwxr-x root/root         0 2015-05-24 06:52 apache-php-master/templates/
+-rw-rw-r-- root/root       526 2015-05-24 06:52 apache-php-master/templates/opcache.ini.j2
+-rw-rw-r-- root/root      2384 2015-05-24 06:52 apache-php-master/templates/vhost.j2

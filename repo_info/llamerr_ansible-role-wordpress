@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-19 17:14 ansible-role-wordpress-master/
+-rw-rw-r-- root/root      1145 2015-12-19 17:14 ansible-role-wordpress-master/README.md
+drwxrwxr-x root/root         0 2015-12-19 17:14 ansible-role-wordpress-master/defaults/
+-rw-rw-r-- root/root       597 2015-12-19 17:14 ansible-role-wordpress-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-19 17:14 ansible-role-wordpress-master/meta/
+-rw-rw-r-- root/root       370 2015-12-19 17:14 ansible-role-wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-19 17:14 ansible-role-wordpress-master/tasks/
+-rw-rw-r-- root/root       611 2015-12-19 17:14 ansible-role-wordpress-master/tasks/main.yml
+-rw-rw-r-- root/root       572 2015-12-19 17:14 ansible-role-wordpress-master/tasks/mysql.yml
+-rw-rw-r-- root/root       184 2015-12-19 17:14 ansible-role-wordpress-master/tasks/nginx.yml
+drwxrwxr-x root/root         0 2015-12-19 17:14 ansible-role-wordpress-master/templates/
+drwxrwxr-x root/root         0 2015-12-19 17:14 ansible-role-wordpress-master/templates/mysql/
+-rw-rw-r-- root/root        75 2015-12-19 17:14 ansible-role-wordpress-master/templates/mysql/my.cnf
+drwxrwxr-x root/root         0 2015-12-19 17:14 ansible-role-wordpress-master/templates/nginx/
+-rw-rw-r-- root/root      1692 2015-12-19 17:14 ansible-role-wordpress-master/templates/nginx/wordpress.conf
+-rw-rw-r-- root/root      4313 2015-12-19 17:14 ansible-role-wordpress-master/templates/wp-config.php

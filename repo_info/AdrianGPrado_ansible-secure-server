@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-19 20:53 ansible-secure-server-master/
+-rw-rw-r-- root/root       185 2017-11-19 20:53 ansible-secure-server-master/.gitignore
+-rw-rw-r-- root/root       541 2017-11-19 20:53 ansible-secure-server-master/.travis.yml
+-rw-rw-r-- root/root      1108 2017-11-19 20:53 ansible-secure-server-master/README.md
+drwxrwxr-x root/root         0 2017-11-19 20:53 ansible-secure-server-master/defaults/
+-rw-rw-r-- root/root       111 2017-11-19 20:53 ansible-secure-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-19 20:53 ansible-secure-server-master/meta/
+-rw-rw-r-- root/root      1132 2017-11-19 20:53 ansible-secure-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-19 20:53 ansible-secure-server-master/tasks/
+-rw-rw-r-- root/root       867 2017-11-19 20:53 ansible-secure-server-master/tasks/config_ssh.yml
+-rw-rw-r-- root/root       672 2017-11-19 20:53 ansible-secure-server-master/tasks/config_ufw.yml
+-rw-rw-r-- root/root       843 2017-11-19 20:53 ansible-secure-server-master/tasks/config_user.yml
+-rw-rw-r-- root/root       163 2017-11-19 20:53 ansible-secure-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-19 20:53 ansible-secure-server-master/tests/
+-rw-rw-r-- root/root        11 2017-11-19 20:53 ansible-secure-server-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-11-19 20:53 ansible-secure-server-master/tests/test.yml

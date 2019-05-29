@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-22 18:52 rhn_registration-master/
+-rw-rw-r-- root/root      1070 2017-08-22 18:52 rhn_registration-master/LICENSE
+-rw-rw-r-- root/root      1440 2017-08-22 18:52 rhn_registration-master/README.md
+drwxrwxr-x root/root         0 2017-08-22 18:52 rhn_registration-master/defaults/
+-rw-rw-r-- root/root       794 2017-08-22 18:52 rhn_registration-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-22 18:52 rhn_registration-master/meta/
+-rw-rw-r-- root/root       255 2017-08-22 18:52 rhn_registration-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-22 18:52 rhn_registration-master/tasks/
+-rw-rw-r-- root/root      2541 2017-08-22 18:52 rhn_registration-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-22 18:52 rhn_registration-master/templates/
+-rw-rw-r-- root/root      2044 2017-08-22 18:52 rhn_registration-master/templates/rhsm.conf.j2
+drwxrwxr-x root/root         0 2017-08-22 18:52 rhn_registration-master/vars/
+-rw-rw-r-- root/root        37 2017-08-22 18:52 rhn_registration-master/vars/main.yml

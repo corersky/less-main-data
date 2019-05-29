@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-29 08:05 ansible-role-pound-master/
+-rwxrwxr-x root/root       310 2018-11-29 08:05 ansible-role-pound-master/CHANGELOG.md
+-rwxrwxr-x root/root      1340 2018-11-29 08:05 ansible-role-pound-master/LICENSE.md
+-rwxrwxr-x root/root      1734 2018-11-29 08:05 ansible-role-pound-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:05 ansible-role-pound-master/defaults/
+-rwxrwxr-x root/root        38 2018-11-29 08:05 ansible-role-pound-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:05 ansible-role-pound-master/handlers/
+-rwxrwxr-x root/root       188 2018-11-29 08:05 ansible-role-pound-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:05 ansible-role-pound-master/meta/
+-rwxrwxr-x root/root       325 2018-11-29 08:05 ansible-role-pound-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:05 ansible-role-pound-master/tasks/
+-rwxrwxr-x root/root       545 2018-11-29 08:05 ansible-role-pound-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:05 ansible-role-pound-master/templates/
+-rw-rw-r-- root/root       556 2018-11-29 08:05 ansible-role-pound-master/templates/pound.cfg.j2
+drwxrwxr-x root/root         0 2018-11-29 08:05 ansible-role-pound-master/vars/
+-rwxrwxr-x root/root       157 2018-11-29 08:05 ansible-role-pound-master/vars/RedHat.yml

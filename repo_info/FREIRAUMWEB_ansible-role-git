@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-01 08:00 ansible-role-git-master/
+-rw-rw-r-- root/root       539 2016-09-01 08:00 ansible-role-git-master/.travis.yml
+-rw-rw-r-- root/root      1068 2016-09-01 08:00 ansible-role-git-master/LICENSE
+-rw-rw-r-- root/root       477 2016-09-01 08:00 ansible-role-git-master/README.md
+drwxrwxr-x root/root         0 2016-09-01 08:00 ansible-role-git-master/defaults/
+-rw-rw-r-- root/root        41 2016-09-01 08:00 ansible-role-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-01 08:00 ansible-role-git-master/handlers/
+-rw-rw-r-- root/root        41 2016-09-01 08:00 ansible-role-git-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-01 08:00 ansible-role-git-master/meta/
+-rw-rw-r-- root/root      3555 2016-09-01 08:00 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-01 08:00 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root       150 2016-09-01 08:00 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-01 08:00 ansible-role-git-master/tests/
+-rw-rw-r-- root/root         9 2016-09-01 08:00 ansible-role-git-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-09-01 08:00 ansible-role-git-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-01 08:00 ansible-role-git-master/vars/
+-rw-rw-r-- root/root        37 2016-09-01 08:00 ansible-role-git-master/vars/main.yml

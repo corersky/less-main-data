@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-02-12 08:57 ansible-hosts-master/
+-rw-rw-r-- root/root      1119 2019-02-12 08:57 ansible-hosts-master/LICENSE
+-rw-rw-r-- root/root      5202 2019-02-12 08:57 ansible-hosts-master/README.md
+drwxrwxr-x root/root         0 2019-02-12 08:57 ansible-hosts-master/defaults/
+-rw-rw-r-- root/root        88 2019-02-12 08:57 ansible-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-12 08:57 ansible-hosts-master/meta/
+-rw-rw-r-- root/root      3343 2019-02-12 08:57 ansible-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-12 08:57 ansible-hosts-master/tasks/
+-rw-rw-r-- root/root       513 2019-02-12 08:57 ansible-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-12 08:57 ansible-hosts-master/templates/
+-rw-rw-r-- root/root      2459 2019-02-12 08:57 ansible-hosts-master/templates/hosts.j2

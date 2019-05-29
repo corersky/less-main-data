@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-04-18 03:53 ansible-flaskapp-master/
+-rw-rw-r-- root/root      2360 2018-04-18 03:53 ansible-flaskapp-master/README.md
+drwxrwxr-x root/root         0 2018-04-18 03:53 ansible-flaskapp-master/defaults/
+-rw-rw-r-- root/root      1499 2018-04-18 03:53 ansible-flaskapp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-18 03:53 ansible-flaskapp-master/meta/
+-rw-rw-r-- root/root       302 2018-04-18 03:53 ansible-flaskapp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-18 03:53 ansible-flaskapp-master/tasks/
+-rw-rw-r-- root/root       159 2018-04-18 03:53 ansible-flaskapp-master/tasks/bower.yml
+-rw-rw-r-- root/root      1605 2018-04-18 03:53 ansible-flaskapp-master/tasks/main.yml
+-rw-rw-r-- root/root       775 2018-04-18 03:53 ansible-flaskapp-master/tasks/npm.yml
+-rw-rw-r-- root/root       901 2018-04-18 03:53 ansible-flaskapp-master/tasks/pip.yml

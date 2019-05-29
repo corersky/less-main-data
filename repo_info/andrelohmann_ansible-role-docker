@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-16 02:02 ansible-role-docker-master/
+-rw-rw-r-- root/root        28 2019-05-16 02:02 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root      1066 2019-05-16 02:02 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 02:02 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       581 2019-05-16 02:02 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 02:02 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        25 2019-05-16 02:02 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 02:02 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       310 2019-05-16 02:02 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 02:02 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root      1603 2019-05-16 02:02 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 02:02 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root         9 2019-05-16 02:02 ansible-role-docker-master/tests/inventory
+-rw-rw-r-- root/root       319 2019-05-16 02:02 ansible-role-docker-master/tests/test.yml

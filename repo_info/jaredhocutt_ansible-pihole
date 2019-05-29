@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-13 21:40 ansible-pihole-master/
+-rw-rw-r-- root/root       187 2019-03-13 21:40 ansible-pihole-master/README.md
+drwxrwxr-x root/root         0 2019-03-13 21:40 ansible-pihole-master/defaults/
+-rw-rw-r-- root/root        30 2019-03-13 21:40 ansible-pihole-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-13 21:40 ansible-pihole-master/files/
+-rw-rw-r-- root/root       702 2019-03-13 21:40 ansible-pihole-master/files/pihole.service
+drwxrwxr-x root/root         0 2019-03-13 21:40 ansible-pihole-master/handlers/
+-rw-rw-r-- root/root        30 2019-03-13 21:40 ansible-pihole-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-13 21:40 ansible-pihole-master/meta/
+-rw-rw-r-- root/root       195 2019-03-13 21:40 ansible-pihole-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-13 21:40 ansible-pihole-master/tasks/
+-rw-rw-r-- root/root       664 2019-03-13 21:40 ansible-pihole-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-13 21:40 ansible-pihole-master/tests/
+-rw-rw-r-- root/root        11 2019-03-13 21:40 ansible-pihole-master/tests/inventory
+-rw-rw-r-- root/root        64 2019-03-13 21:40 ansible-pihole-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-13 21:40 ansible-pihole-master/vars/
+-rw-rw-r-- root/root        26 2019-03-13 21:40 ansible-pihole-master/vars/main.yml

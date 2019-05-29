@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2017-03-07 07:37 ansible-php-fpm-master/
+-rw-rw-r-- root/root       210 2017-03-07 07:37 ansible-php-fpm-master/README.md
+drwxrwxr-x root/root         0 2017-03-07 07:37 ansible-php-fpm-master/defaults/
+-rw-rw-r-- root/root       803 2017-03-07 07:37 ansible-php-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-07 07:37 ansible-php-fpm-master/handlers/
+-rw-rw-r-- root/root       165 2017-03-07 07:37 ansible-php-fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-07 07:37 ansible-php-fpm-master/meta/
+-rw-rw-r-- root/root       210 2017-03-07 07:37 ansible-php-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-07 07:37 ansible-php-fpm-master/tasks/
+-rw-rw-r-- root/root      1561 2017-03-07 07:37 ansible-php-fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-07 07:37 ansible-php-fpm-master/templates/
+-rw-rw-r-- root/root      4435 2017-03-07 07:37 ansible-php-fpm-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root       384 2017-03-07 07:37 ansible-php-fpm-master/templates/pool.conf.j2
+drwxrwxr-x root/root         0 2017-03-07 07:37 ansible-php-fpm-master/test/
+-rw-rw-r-- root/root        34 2017-03-07 07:37 ansible-php-fpm-master/test/inventory
+-rw-rw-r-- root/root        48 2017-03-07 07:37 ansible-php-fpm-master/test/main.yml
+drwxrwxr-x root/root         0 2017-03-07 07:37 ansible-php-fpm-master/test/roles/
+lrwxrwxrwx root/root         0 2017-03-07 07:37 ansible-php-fpm-master/test/roles/php-fpm -> ../../../ansible-php-fpm

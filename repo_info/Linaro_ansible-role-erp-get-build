@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-05-08 22:54 ansible-role-erp-get-build-master/
+-rw-rw-r-- root/root        19 2018-05-08 22:54 ansible-role-erp-get-build-master/.gitignore
+-rw-rw-r-- root/root      1386 2018-05-08 22:54 ansible-role-erp-get-build-master/.travis.yml
+-rw-rw-r-- root/root      1297 2018-05-08 22:54 ansible-role-erp-get-build-master/LICENSE
+-rw-rw-r-- root/root      1911 2018-05-08 22:54 ansible-role-erp-get-build-master/README.md
+drwxrwxr-x root/root         0 2018-05-08 22:54 ansible-role-erp-get-build-master/defaults/
+-rw-rw-r-- root/root       956 2018-05-08 22:54 ansible-role-erp-get-build-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-08 22:54 ansible-role-erp-get-build-master/meta/
+-rw-rw-r-- root/root       296 2018-05-08 22:54 ansible-role-erp-get-build-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-08 22:54 ansible-role-erp-get-build-master/tasks/
+-rw-rw-r-- root/root      1897 2018-05-08 22:54 ansible-role-erp-get-build-master/tasks/get-build.yml
+-rw-rw-r-- root/root        72 2018-05-08 22:54 ansible-role-erp-get-build-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-08 22:54 ansible-role-erp-get-build-master/tests/
+-rw-rw-r-- root/root        48 2018-05-08 22:54 ansible-role-erp-get-build-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-03 08:30 ansible-system-watch-master/
+-rw-rw-r-- root/root        19 2019-03-03 08:30 ansible-system-watch-master/.gitignore
+-rw-rw-r-- root/root     35141 2019-03-03 08:30 ansible-system-watch-master/LICENSE
+-rw-rw-r-- root/root       576 2019-03-03 08:30 ansible-system-watch-master/README.md
+drwxrwxr-x root/root         0 2019-03-03 08:30 ansible-system-watch-master/defaults/
+-rw-rw-r-- root/root      1149 2019-03-03 08:30 ansible-system-watch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-03 08:30 ansible-system-watch-master/meta/
+-rw-rw-r-- root/root       443 2019-03-03 08:30 ansible-system-watch-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-03 08:30 ansible-system-watch-master/tasks/
+-rw-rw-r-- root/root      3650 2019-03-03 08:30 ansible-system-watch-master/tasks/base.yml
+-rw-rw-r-- root/root      1368 2019-03-03 08:30 ansible-system-watch-master/tasks/include_drupal.yml
+-rw-rw-r-- root/root       874 2019-03-03 08:30 ansible-system-watch-master/tasks/include_git.yml
+-rw-rw-r-- root/root      2086 2019-03-03 08:30 ansible-system-watch-master/tasks/include_redmine.yml
+-rw-rw-r-- root/root        74 2019-03-03 08:30 ansible-system-watch-master/tasks/main.yml

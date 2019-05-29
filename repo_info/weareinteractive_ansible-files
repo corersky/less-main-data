@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-05-15 10:35 ansible-files-master/
+-rw-rw-r-- root/root       372 2015-05-15 10:35 ansible-files-master/.editorconfig
+-rw-rw-r-- root/root        41 2015-05-15 10:35 ansible-files-master/.gitignore
+-rw-rw-r-- root/root       382 2015-05-15 10:35 ansible-files-master/.travis.yml
+-rw-rw-r-- root/root      1057 2015-05-15 10:35 ansible-files-master/LICENSE
+-rw-rw-r-- root/root      1998 2015-05-15 10:35 ansible-files-master/README.md
+-rw-rw-r-- root/root       691 2015-05-15 10:35 ansible-files-master/Vagrantfile
+-rw-rw-r-- root/root        27 2015-05-15 10:35 ansible-files-master/ansible.cfg
+drwxrwxr-x root/root         0 2015-05-15 10:35 ansible-files-master/defaults/
+-rw-rw-r-- root/root       293 2015-05-15 10:35 ansible-files-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-15 10:35 ansible-files-master/meta/
+-rw-rw-r-- root/root      2193 2015-05-15 10:35 ansible-files-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-15 10:35 ansible-files-master/tasks/
+-rw-rw-r-- root/root        92 2015-05-15 10:35 ansible-files-master/tasks/main.yml
+-rw-rw-r-- root/root       534 2015-05-15 10:35 ansible-files-master/tasks/manage.yml
+-rw-rw-r-- root/root       163 2015-05-15 10:35 ansible-files-master/test.yml

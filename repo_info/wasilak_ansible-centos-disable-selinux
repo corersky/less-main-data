@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-01 11:03 ansible-centos-disable-selinux-master/
+-rw-rw-r-- root/root        54 2017-09-01 11:03 ansible-centos-disable-selinux-master/README.md
+drwxrwxr-x root/root         0 2017-09-01 11:03 ansible-centos-disable-selinux-master/defaults/
+-rw-rw-r-- root/root        30 2017-09-01 11:03 ansible-centos-disable-selinux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-01 11:03 ansible-centos-disable-selinux-master/handlers/
+-rw-rw-r-- root/root        30 2017-09-01 11:03 ansible-centos-disable-selinux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-01 11:03 ansible-centos-disable-selinux-master/meta/
+-rw-rw-r-- root/root       213 2017-09-01 11:03 ansible-centos-disable-selinux-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-01 11:03 ansible-centos-disable-selinux-master/tasks/
+-rw-rw-r-- root/root       203 2017-09-01 11:03 ansible-centos-disable-selinux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-01 11:03 ansible-centos-disable-selinux-master/tests/
+-rw-rw-r-- root/root        11 2017-09-01 11:03 ansible-centos-disable-selinux-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-09-01 11:03 ansible-centos-disable-selinux-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-01 11:03 ansible-centos-disable-selinux-master/vars/
+-rw-rw-r-- root/root        26 2017-09-01 11:03 ansible-centos-disable-selinux-master/vars/main.yml

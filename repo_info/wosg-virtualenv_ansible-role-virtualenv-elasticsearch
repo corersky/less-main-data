@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/
+-rw-rw-r-- root/root      1008 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/.travis.yml
+-rw-rw-r-- root/root        92 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/files/
+-rw-rw-r-- root/root       204 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/files/elasticsearch.repo
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/handlers/
+-rw-rw-r-- root/root        80 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/meta/
+-rw-rw-r-- root/root       345 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/tasks/
+-rw-rw-r-- root/root       591 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/tasks/main.yml
+-rw-rw-r-- root/root       377 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       337 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/tests/
+-rw-rw-r-- root/root        10 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/tests/inventory
+-rw-rw-r-- root/root       118 2016-01-05 06:02 ansible-role-virtualenv-elasticsearch-master/tests/test.yml

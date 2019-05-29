@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-09-25 01:27 ansible-role-biomarkers-master/
+-rw-rw-r-- root/root      1214 2017-09-25 01:27 ansible-role-biomarkers-master/.travis.yml
+-rw-rw-r-- root/root       400 2017-09-25 01:27 ansible-role-biomarkers-master/README.md
+drwxrwxr-x root/root         0 2017-09-25 01:27 ansible-role-biomarkers-master/meta/
+-rw-rw-r-- root/root       354 2017-09-25 01:27 ansible-role-biomarkers-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-25 01:27 ansible-role-biomarkers-master/tasks/
+-rw-rw-r-- root/root       700 2017-09-25 01:27 ansible-role-biomarkers-master/tasks/install.yml
+-rw-rw-r-- root/root       177 2017-09-25 01:27 ansible-role-biomarkers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-25 01:27 ansible-role-biomarkers-master/tests/
+-rw-rw-r-- root/root         9 2017-09-25 01:27 ansible-role-biomarkers-master/tests/inventory
+-rw-rw-r-- root/root        54 2017-09-25 01:27 ansible-role-biomarkers-master/tests/test.yml

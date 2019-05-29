@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-18 21:44 ansible-role-netctl-master/
+-rw-rw-r-- root/root         9 2017-06-18 21:44 ansible-role-netctl-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-18 21:44 ansible-role-netctl-master/LICENSE
+-rw-rw-r-- root/root       333 2017-06-18 21:44 ansible-role-netctl-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 21:44 ansible-role-netctl-master/defaults/
+-rw-rw-r-- root/root       420 2017-06-18 21:44 ansible-role-netctl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-18 21:44 ansible-role-netctl-master/meta/
+-rw-rw-r-- root/root       290 2017-06-18 21:44 ansible-role-netctl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 21:44 ansible-role-netctl-master/tasks/
+-rw-rw-r-- root/root      1344 2017-06-18 21:44 ansible-role-netctl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-18 21:44 ansible-role-netctl-master/templates/
+-rw-rw-r-- root/root        46 2017-06-18 21:44 ansible-role-netctl-master/templates/8192cu.conf.j2
+-rw-rw-r-- root/root       182 2017-06-18 21:44 ansible-role-netctl-master/templates/wifi.j2

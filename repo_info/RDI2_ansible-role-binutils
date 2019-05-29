@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2016-03-09 21:23 ansible-role-binutils-master/
+-rw-rw-r-- root/root        18 2016-03-09 21:23 ansible-role-binutils-master/.gitignore
+-rw-rw-r-- root/root       731 2016-03-09 21:23 ansible-role-binutils-master/README.md
+drwxrwxr-x root/root         0 2016-03-09 21:23 ansible-role-binutils-master/defaults/
+-rw-rw-r-- root/root       196 2016-03-09 21:23 ansible-role-binutils-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-09 21:23 ansible-role-binutils-master/examples/
+-rw-rw-r-- root/root       279 2016-03-09 21:23 ansible-role-binutils-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-03-09 21:23 ansible-role-binutils-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-03-09 21:23 ansible-role-binutils-master/examples/roles/RDI2.binutils -> ../../
+-rw-rw-r-- root/root        58 2016-03-09 21:23 ansible-role-binutils-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-03-09 21:23 ansible-role-binutils-master/handlers/
+-rw-rw-r-- root/root        33 2016-03-09 21:23 ansible-role-binutils-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-09 21:23 ansible-role-binutils-master/meta/
+-rw-rw-r-- root/root       234 2016-03-09 21:23 ansible-role-binutils-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-09 21:23 ansible-role-binutils-master/tasks/
+-rw-rw-r-- root/root       622 2016-03-09 21:23 ansible-role-binutils-master/tasks/install.yml
+-rw-rw-r-- root/root       562 2016-03-09 21:23 ansible-role-binutils-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-09 21:23 ansible-role-binutils-master/vars/
+-rw-rw-r-- root/root        29 2016-03-09 21:23 ansible-role-binutils-master/vars/main.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/
+-rw-rw-r-- root/root        28 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/.gitignore
+-rw-rw-r-- root/root       653 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/.travis.yml
+-rw-rw-r-- root/root       593 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/meta/
+-rw-rw-r-- root/root       313 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/tasks/
+-rw-rw-r-- root/root      1411 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/tests/
+-rw-rw-r-- root/root         9 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/tests/inventory
+-rw-rw-r-- root/root       103 2018-10-24 14:28 ansible-role-wkhtmltopdf-master/tests/test.yml

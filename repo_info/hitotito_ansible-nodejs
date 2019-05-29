@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-02 00:28 ansible-nodejs-master/
+-rw-rw-r-- root/root      1083 2019-02-02 00:28 ansible-nodejs-master/LICENSE.txt
+-rw-rw-r-- root/root       174 2019-02-02 00:28 ansible-nodejs-master/README.md
+drwxrwxr-x root/root         0 2019-02-02 00:28 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root       180 2019-02-02 00:28 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-02 00:28 ansible-nodejs-master/files/
+-rw-rw-r-- root/root      1070 2019-02-02 00:28 ansible-nodejs-master/files/nodejs.fact
+drwxrwxr-x root/root         0 2019-02-02 00:28 ansible-nodejs-master/handlers/
+-rw-rw-r-- root/root         0 2019-02-02 00:28 ansible-nodejs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-02 00:28 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       426 2019-02-02 00:28 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-02 00:28 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root       739 2019-02-02 00:28 ansible-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-02 00:28 ansible-nodejs-master/vars/
+-rw-rw-r-- root/root       516 2019-02-02 00:28 ansible-nodejs-master/vars/main.yml

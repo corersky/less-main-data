@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-02-16 17:40 rbenv-master/
+-rw-rw-r-- root/root         9 2015-02-16 17:40 rbenv-master/.gitignore
+-rw-rw-r-- root/root      1104 2015-02-16 17:40 rbenv-master/LICENSE
+-rw-rw-r-- root/root      1057 2015-02-16 17:40 rbenv-master/README.md
+-rw-rw-r-- root/root       254 2015-02-16 17:40 rbenv-master/Vagrantfile
+-rw-rw-r-- root/root        28 2015-02-16 17:40 rbenv-master/ansible.cfg
+drwxrwxr-x root/root         0 2015-02-16 17:40 rbenv-master/defaults/
+-rw-rw-r-- root/root       104 2015-02-16 17:40 rbenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-16 17:40 rbenv-master/meta/
+-rw-rw-r-- root/root       323 2015-02-16 17:40 rbenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-16 17:40 rbenv-master/tasks/
+-rw-rw-r-- root/root      2770 2015-02-16 17:40 rbenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-16 17:40 rbenv-master/templates/
+-rw-rw-r-- root/root       278 2015-02-16 17:40 rbenv-master/templates/rbenv.sh.j2
+-rw-rw-r-- root/root       158 2015-02-16 17:40 rbenv-master/test.yml

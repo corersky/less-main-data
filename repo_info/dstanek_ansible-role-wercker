@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-05-27 01:12 ansible-role-wercker-master/
+-rw-rw-r-- root/root       539 2016-05-27 01:12 ansible-role-wercker-master/.travis.yml
+-rw-rw-r-- root/root       792 2016-05-27 01:12 ansible-role-wercker-master/README.md
+drwxrwxr-x root/root         0 2016-05-27 01:12 ansible-role-wercker-master/meta/
+-rw-rw-r-- root/root       297 2016-05-27 01:12 ansible-role-wercker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-27 01:12 ansible-role-wercker-master/tasks/
+-rw-rw-r-- root/root       897 2016-05-27 01:12 ansible-role-wercker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-27 01:12 ansible-role-wercker-master/tests/
+-rw-rw-r-- root/root         9 2016-05-27 01:12 ansible-role-wercker-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-05-27 01:12 ansible-role-wercker-master/tests/test.yml

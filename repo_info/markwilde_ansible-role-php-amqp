@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-19 09:59 ansible-role-php-amqp-master/
+-rw-rw-r-- root/root       130 2015-10-19 09:59 ansible-role-php-amqp-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 09:59 ansible-role-php-amqp-master/defaults/
+-rw-rw-r-- root/root       346 2015-10-19 09:59 ansible-role-php-amqp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:59 ansible-role-php-amqp-master/meta/
+-rw-rw-r-- root/root       468 2015-10-19 09:59 ansible-role-php-amqp-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:59 ansible-role-php-amqp-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 09:59 ansible-role-php-amqp-master/tasks/debian/
+-rw-rw-r-- root/root       418 2015-10-19 09:59 ansible-role-php-amqp-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       343 2015-10-19 09:59 ansible-role-php-amqp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:59 ansible-role-php-amqp-master/tasks/redhat/
+-rw-rw-r-- root/root        93 2015-10-19 09:59 ansible-role-php-amqp-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:59 ansible-role-php-amqp-master/templates/
+-rw-rw-r-- root/root       556 2015-10-19 09:59 ansible-role-php-amqp-master/templates/amqp.ini.j2
+drwxrwxr-x root/root         0 2015-10-19 09:59 ansible-role-php-amqp-master/vars/
+-rw-rw-r-- root/root        51 2015-10-19 09:59 ansible-role-php-amqp-master/vars/Debian.yml
+-rw-rw-r-- root/root        59 2015-10-19 09:59 ansible-role-php-amqp-master/vars/RedHat.yml

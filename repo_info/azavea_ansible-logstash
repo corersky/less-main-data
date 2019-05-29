@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2014-10-08 11:05 ansible-logstash-master/
+-rw-rw-r-- root/root         9 2014-10-08 11:05 ansible-logstash-master/.gitignore
+-rw-rw-r-- root/root        29 2014-10-08 11:05 ansible-logstash-master/CHANGELOG.md
+-rw-rw-r-- root/root       920 2014-10-08 11:05 ansible-logstash-master/README.md
+drwxrwxr-x root/root         0 2014-10-08 11:05 ansible-logstash-master/defaults/
+-rw-rw-r-- root/root       120 2014-10-08 11:05 ansible-logstash-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-08 11:05 ansible-logstash-master/examples/
+-rw-rw-r-- root/root       278 2014-10-08 11:05 ansible-logstash-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-10-08 11:05 ansible-logstash-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-10-08 11:05 ansible-logstash-master/examples/roles/azavea.logstash -> ../../
+-rw-rw-r-- root/root       375 2014-10-08 11:05 ansible-logstash-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-10-08 11:05 ansible-logstash-master/examples/templates/
+-rw-rw-r-- root/root        95 2014-10-08 11:05 ansible-logstash-master/examples/templates/logstash.conf.j2
+drwxrwxr-x root/root         0 2014-10-08 11:05 ansible-logstash-master/handlers/
+-rw-rw-r-- root/root        70 2014-10-08 11:05 ansible-logstash-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-08 11:05 ansible-logstash-master/meta/
+-rw-rw-r-- root/root       279 2014-10-08 11:05 ansible-logstash-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-08 11:05 ansible-logstash-master/tasks/
+-rw-rw-r-- root/root       726 2014-10-08 11:05 ansible-logstash-master/tasks/main.yml

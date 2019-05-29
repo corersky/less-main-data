@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-08 06:51 ruby-master/
+-rw-rw-r-- root/root        16 2016-12-08 06:51 ruby-master/.gitignore
+-rw-rw-r-- root/root       357 2016-12-08 06:51 ruby-master/.travis.yml
+-rw-rw-r-- root/root      1083 2016-12-08 06:51 ruby-master/LICENSE
+-rw-rw-r-- root/root       924 2016-12-08 06:51 ruby-master/README.md
+-rw-rw-r-- root/root      4960 2016-12-08 06:51 ruby-master/Vagrantfile
+-rwxrwxr-x root/root        66 2016-12-08 06:51 ruby-master/galaxy.pull
+-rw-rw-r-- root/root        66 2016-12-08 06:51 ruby-master/galaxy.roles
+drwxrwxr-x root/root         0 2016-12-08 06:51 ruby-master/meta/
+-rw-rw-r-- root/root       395 2016-12-08 06:51 ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-08 06:51 ruby-master/tasks/
+-rw-rw-r-- root/root       796 2016-12-08 06:51 ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-08 06:51 ruby-master/templates/
+-rw-rw-r-- root/root        23 2016-12-08 06:51 ruby-master/templates/gemrc
+-rw-rw-r-- root/root        32 2016-12-08 06:51 ruby-master/templates/ruby-version
+-rw-rw-r-- root/root       421 2016-12-08 06:51 ruby-master/test.yml

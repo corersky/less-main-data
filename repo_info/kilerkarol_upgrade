@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-14 15:53 upgrade-master/
+-rw-rw-r-- root/root        25 2017-12-14 15:53 upgrade-master/.gitignore
+-rw-rw-r-- root/root       541 2017-12-14 15:53 upgrade-master/.travis.yml
+-rw-rw-r-- root/root      1073 2017-12-14 15:53 upgrade-master/LICENSE
+-rw-rw-r-- root/root       473 2017-12-14 15:53 upgrade-master/README.md
+drwxrwxr-x root/root         0 2017-12-14 15:53 upgrade-master/meta/
+-rw-rw-r-- root/root       314 2017-12-14 15:53 upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-14 15:53 upgrade-master/tasks/
+-rw-rw-r-- root/root       521 2017-12-14 15:53 upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-14 15:53 upgrade-master/tests/
+-rw-rw-r-- root/root        11 2017-12-14 15:53 upgrade-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-12-14 15:53 upgrade-master/tests/test.yml

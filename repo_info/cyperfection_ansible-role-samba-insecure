@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-09 07:51 ansible-role-samba-insecure-master/
+-rwxrwxr-x root/root       198 2019-04-09 07:51 ansible-role-samba-insecure-master/.editorconfig
+-rwxrwxr-x root/root       694 2019-04-09 07:51 ansible-role-samba-insecure-master/README.md
+drwxrwxr-x root/root         0 2019-04-09 07:51 ansible-role-samba-insecure-master/defaults/
+-rwxrwxr-x root/root        32 2019-04-09 07:51 ansible-role-samba-insecure-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-09 07:51 ansible-role-samba-insecure-master/handlers/
+-rwxrwxr-x root/root        90 2019-04-09 07:51 ansible-role-samba-insecure-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-09 07:51 ansible-role-samba-insecure-master/meta/
+-rwxrwxr-x root/root       477 2019-04-09 07:51 ansible-role-samba-insecure-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-09 07:51 ansible-role-samba-insecure-master/tasks/
+-rwxrwxr-x root/root       410 2019-04-09 07:51 ansible-role-samba-insecure-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-09 07:51 ansible-role-samba-insecure-master/templates/
+-rwxrwxr-x root/root      2748 2019-04-09 07:51 ansible-role-samba-insecure-master/templates/smb.conf.j2
+drwxrwxr-x root/root         0 2019-04-09 07:51 ansible-role-samba-insecure-master/vars/
+-rwxrwxr-x root/root        24 2019-04-09 07:51 ansible-role-samba-insecure-master/vars/Debian.yml
+-rwxrwxr-x root/root        23 2019-04-09 07:51 ansible-role-samba-insecure-master/vars/RedHat.yml

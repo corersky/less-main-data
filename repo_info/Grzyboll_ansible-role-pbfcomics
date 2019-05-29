@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/
+-rw-rw-r-- root/root      1359 2017-09-04 08:50 ansible-role-pbfcomics-master/README.md
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/defaults/
+-rw-rw-r-- root/root        46 2017-09-04 08:50 ansible-role-pbfcomics-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/handlers/
+-rw-rw-r-- root/root        46 2017-09-04 08:50 ansible-role-pbfcomics-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/meta/
+-rw-rw-r-- root/root       342 2017-09-04 08:50 ansible-role-pbfcomics-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/tasks/
+-rw-rw-r-- root/root       638 2017-09-04 08:50 ansible-role-pbfcomics-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/templates/
+-rw-rw-r-- root/root     12288 2017-09-04 08:50 ansible-role-pbfcomics-master/templates/.pbfcomics.sh.swp
+-rw-rw-r-- root/root       742 2017-09-04 08:50 ansible-role-pbfcomics-master/templates/pbfcomics.com.j2
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/tests/
+-rw-rw-r-- root/root         8 2017-09-04 08:50 ansible-role-pbfcomics-master/tests/.gitignore
+-rw-rw-r-- root/root        18 2017-09-04 08:50 ansible-role-pbfcomics-master/tests/inventory
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/tests/roles/ansible-role-pbfcomics -> ../../../ansible-role-pbfcomics/
+-rw-rw-r-- root/root        75 2017-09-04 08:50 ansible-role-pbfcomics-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-pbfcomics-master/vars/
+-rw-rw-r-- root/root       772 2017-09-04 08:50 ansible-role-pbfcomics-master/vars/main.yml

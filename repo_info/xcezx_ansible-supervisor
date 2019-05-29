@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-06-26 03:52 ansible-supervisor-master/
+-rw-rw-r-- root/root       565 2015-06-26 03:52 ansible-supervisor-master/README.md
+-rw-rw-r-- root/root       208 2015-06-26 03:52 ansible-supervisor-master/circle.yml
+drwxrwxr-x root/root         0 2015-06-26 03:52 ansible-supervisor-master/defaults/
+-rw-rw-r-- root/root        41 2015-06-26 03:52 ansible-supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-26 03:52 ansible-supervisor-master/handlers/
+-rw-rw-r-- root/root        82 2015-06-26 03:52 ansible-supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-26 03:52 ansible-supervisor-master/meta/
+-rw-rw-r-- root/root       231 2015-06-26 03:52 ansible-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-26 03:52 ansible-supervisor-master/tasks/
+-rw-rw-r-- root/root       718 2015-06-26 03:52 ansible-supervisor-master/tasks/CentOS.yml
+-rw-rw-r-- root/root       151 2015-06-26 03:52 ansible-supervisor-master/tasks/main.yml
+-rw-rw-r-- root/root       126 2015-06-26 03:52 ansible-supervisor-master/test.yml
+drwxrwxr-x root/root         0 2015-06-26 03:52 ansible-supervisor-master/vars/
+-rw-rw-r-- root/root       219 2015-06-26 03:52 ansible-supervisor-master/vars/CentOS.yml
+-rw-rw-r-- root/root        37 2015-06-26 03:52 ansible-supervisor-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-05-06 17:22 ansible-elasticsearch-master/
+-rw-rw-r-- root/root      1008 2015-05-06 17:22 ansible-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2015-05-06 17:22 ansible-elasticsearch-master/defaults/
+-rw-rw-r-- root/root       356 2015-05-06 17:22 ansible-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-06 17:22 ansible-elasticsearch-master/handlers/
+-rw-rw-r-- root/root       123 2015-05-06 17:22 ansible-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-06 17:22 ansible-elasticsearch-master/meta/
+-rw-rw-r-- root/root       497 2015-05-06 17:22 ansible-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-06 17:22 ansible-elasticsearch-master/tasks/
+-rw-rw-r-- root/root       421 2015-05-06 17:22 ansible-elasticsearch-master/tasks/install.yml
+-rw-rw-r-- root/root       274 2015-05-06 17:22 ansible-elasticsearch-master/tasks/logging.yml
+-rw-rw-r-- root/root        76 2015-05-06 17:22 ansible-elasticsearch-master/tasks/main.yml
+-rw-rw-r-- root/root       287 2015-05-06 17:22 ansible-elasticsearch-master/tasks/monitoring.yml

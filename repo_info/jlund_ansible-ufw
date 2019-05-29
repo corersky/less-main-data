@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-01-31 18:31 ansible-ufw-master/
+-rw-rw-r-- root/root      3795 2014-01-31 18:31 ansible-ufw-master/README.md
+drwxrwxr-x root/root         0 2014-01-31 18:31 ansible-ufw-master/defaults/
+-rw-rw-r-- root/root       165 2014-01-31 18:31 ansible-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-31 18:31 ansible-ufw-master/handlers/
+-rw-rw-r-- root/root        71 2014-01-31 18:31 ansible-ufw-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-01-31 18:31 ansible-ufw-master/meta/
+-rw-rw-r-- root/root       365 2014-01-31 18:31 ansible-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-31 18:31 ansible-ufw-master/tasks/
+-rw-rw-r-- root/root       416 2014-01-31 18:31 ansible-ufw-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-31 18:31 ansible-ufw-master/templates/
+-rw-rw-r-- root/root      2226 2014-01-31 18:31 ansible-ufw-master/templates/user.rules.j2
+-rw-rw-r-- root/root      1487 2014-01-31 18:31 ansible-ufw-master/templates/user6.rules.j2

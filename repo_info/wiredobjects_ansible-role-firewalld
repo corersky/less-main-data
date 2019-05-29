@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-27 07:18 ansible-role-firewalld-master/
+-rw-rw-r-- root/root      2000 2016-01-27 07:18 ansible-role-firewalld-master/.gitignore
+-rw-rw-r-- root/root         0 2016-01-27 07:18 ansible-role-firewalld-master/CONTRIBUTORS
+-rw-rw-r-- root/root     11357 2016-01-27 07:18 ansible-role-firewalld-master/LICENSE
+-rw-rw-r-- root/root       490 2016-01-27 07:18 ansible-role-firewalld-master/README.md
+drwxrwxr-x root/root         0 2016-01-27 07:18 ansible-role-firewalld-master/defaults/
+-rw-rw-r-- root/root        79 2016-01-27 07:18 ansible-role-firewalld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-27 07:18 ansible-role-firewalld-master/handlers/
+-rw-rw-r-- root/root        47 2016-01-27 07:18 ansible-role-firewalld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-27 07:18 ansible-role-firewalld-master/meta/
+-rw-rw-r-- root/root       272 2016-01-27 07:18 ansible-role-firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-27 07:18 ansible-role-firewalld-master/tasks/
+-rw-rw-r-- root/root        70 2016-01-27 07:18 ansible-role-firewalld-master/tasks/install.yml
+-rw-rw-r-- root/root        33 2016-01-27 07:18 ansible-role-firewalld-master/tasks/main.yml
+-rw-rw-r-- root/root       131 2016-01-27 07:18 ansible-role-firewalld-master/tasks/service.yml
+drwxrwxr-x root/root         0 2016-01-27 07:18 ansible-role-firewalld-master/vars/
+-rw-rw-r-- root/root        43 2016-01-27 07:18 ansible-role-firewalld-master/vars/main.yml

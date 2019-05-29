@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-02-27 03:10 ansible-docker-registry-master/
+-rw-rw-r-- root/root       694 2015-02-27 03:10 ansible-docker-registry-master/.gitignore
+-rw-rw-r-- root/root     11325 2015-02-27 03:10 ansible-docker-registry-master/LICENSE
+-rw-rw-r-- root/root      2217 2015-02-27 03:10 ansible-docker-registry-master/README.md
+drwxrwxr-x root/root         0 2015-02-27 03:10 ansible-docker-registry-master/defaults/
+-rw-rw-r-- root/root      1373 2015-02-27 03:10 ansible-docker-registry-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-27 03:10 ansible-docker-registry-master/handlers/
+-rw-rw-r-- root/root        62 2015-02-27 03:10 ansible-docker-registry-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-27 03:10 ansible-docker-registry-master/meta/
+-rw-rw-r-- root/root       340 2015-02-27 03:10 ansible-docker-registry-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-27 03:10 ansible-docker-registry-master/tasks/
+-rw-rw-r-- root/root       507 2015-02-27 03:10 ansible-docker-registry-master/tasks/install_docker_debian.yml
+-rw-rw-r-- root/root      3102 2015-02-27 03:10 ansible-docker-registry-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-27 03:10 ansible-docker-registry-master/templates/
+-rw-rw-r-- root/root      3080 2015-02-27 03:10 ansible-docker-registry-master/templates/nginx.registry.conf

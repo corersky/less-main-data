@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/
+-rw-rw-r-- root/root      2096 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/README.md
+drwxrwxr-x root/root         0 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/defaults/
+-rw-rw-r-- root/root       332 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/handlers/
+-rw-rw-r-- root/root        65 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/meta/
+-rw-rw-r-- root/root       547 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/tasks/
+-rw-rw-r-- root/root       365 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/tasks/configure.yml
+-rw-rw-r-- root/root      1775 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/tasks/install.yml
+-rw-rw-r-- root/root       382 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/tasks/main.yml
+-rw-rw-r-- root/root       645 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/tasks/manage_users.yml
+drwxrwxr-x root/root         0 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/templates/
+-rw-rw-r-- root/root       142 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/templates/client_options.j2
+-rw-rw-r-- root/root      4857 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/templates/my.cnf.j2
+-rw-rw-r-- root/root     12463 2015-11-23 08:57 ansible-localcloud-mysql51compiled-master/templates/mysql.service.j2

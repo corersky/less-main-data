@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-17 02:33 ffmpeg-master/
+-rw-rw-r-- root/root      1199 2018-04-17 02:33 ffmpeg-master/README.md
+drwxrwxr-x root/root         0 2018-04-17 02:33 ffmpeg-master/defaults/
+-rw-rw-r-- root/root       440 2018-04-17 02:33 ffmpeg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-17 02:33 ffmpeg-master/meta/
+-rw-rw-r-- root/root       259 2018-04-17 02:33 ffmpeg-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-17 02:33 ffmpeg-master/tasks/
+-rw-rw-r-- root/root       412 2018-04-17 02:33 ffmpeg-master/tasks/aac.yml
+-rw-rw-r-- root/root       626 2018-04-17 02:33 ffmpeg-master/tasks/ffmpeg.yml
+-rw-rw-r-- root/root       198 2018-04-17 02:33 ffmpeg-master/tasks/main.yml
+-rw-rw-r-- root/root       607 2018-04-17 02:33 ffmpeg-master/tasks/nasm.yml
+-rw-rw-r-- root/root       389 2018-04-17 02:33 ffmpeg-master/tasks/opus.yml
+-rw-rw-r-- root/root       651 2018-04-17 02:33 ffmpeg-master/tasks/prepare.yml
+-rw-rw-r-- root/root       495 2018-04-17 02:33 ffmpeg-master/tasks/speex.yml
+-rw-rw-r-- root/root       416 2018-04-17 02:33 ffmpeg-master/tasks/vpx.yml
+-rw-rw-r-- root/root       428 2018-04-17 02:33 ffmpeg-master/tasks/x264.yml
+-rw-rw-r-- root/root       394 2018-04-17 02:33 ffmpeg-master/tasks/yasm.yml

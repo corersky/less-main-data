@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/
+-rw-rw-r-- root/root        26 2019-03-20 11:56 ansible-role-user-master/.gitignore
+-rw-rw-r-- root/root      1310 2019-03-20 11:56 ansible-role-user-master/README.md
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/defaults/
+-rw-rw-r-- root/root       154 2019-03-20 11:56 ansible-role-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/meta/
+-rw-rw-r-- root/root      2306 2019-03-20 11:56 ansible-role-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/tasks/
+-rw-rw-r-- root/root      1391 2019-03-20 11:56 ansible-role-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/templates/
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/templates/etc/
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/templates/etc/sudoers.d/
+-rw-rw-r-- root/root        51 2019-03-20 11:56 ansible-role-user-master/templates/etc/sudoers.d/10-grant-sudo-access.j2
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/templates/home/
+drwxrwxr-x root/root         0 2019-03-20 11:56 ansible-role-user-master/templates/home/user/
+-rw-rw-r-- root/root       343 2019-03-20 11:56 ansible-role-user-master/templates/home/user/.bashrc
+-rw-rw-r-- root/root       103 2019-03-20 11:56 ansible-role-user-master/templates/home/user/.vimrc

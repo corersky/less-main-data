@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-03 13:27 install-kernel-ansible-role-master/
+-rw-rw-r-- root/root      1117 2017-10-03 13:27 install-kernel-ansible-role-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-10-03 13:27 install-kernel-ansible-role-master/LICENSE
+-rw-rw-r-- root/root       175 2017-10-03 13:27 install-kernel-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-10-03 13:27 install-kernel-ansible-role-master/handlers/
+-rw-rw-r-- root/root       110 2017-10-03 13:27 install-kernel-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-03 13:27 install-kernel-ansible-role-master/meta/
+-rw-rw-r-- root/root       253 2017-10-03 13:27 install-kernel-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-03 13:27 install-kernel-ansible-role-master/tasks/
+-rw-rw-r-- root/root       367 2017-10-03 13:27 install-kernel-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-03 13:27 install-kernel-ansible-role-master/tests/
+-rw-rw-r-- root/root        11 2017-10-03 13:27 install-kernel-ansible-role-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-10-03 13:27 install-kernel-ansible-role-master/tests/test.yml

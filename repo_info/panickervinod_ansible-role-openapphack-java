@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-java-master/
+-rw-rw-r-- root/root       989 2016-01-26 08:13 ansible-role-openapphack-java-master/.travis.yml
+-rw-rw-r-- root/root        51 2016-01-26 08:13 ansible-role-openapphack-java-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-java-master/defaults/
+-rw-rw-r-- root/root       123 2016-01-26 08:13 ansible-role-openapphack-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-java-master/meta/
+-rw-rw-r-- root/root       310 2016-01-26 08:13 ansible-role-openapphack-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-java-master/tasks/
+-rw-rw-r-- root/root       445 2016-01-26 08:13 ansible-role-openapphack-java-master/tasks/main.yml
+-rw-rw-r-- root/root       181 2016-01-26 08:13 ansible-role-openapphack-java-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-java-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:13 ansible-role-openapphack-java-master/tests/inventory
+-rw-rw-r-- root/root        88 2016-01-26 08:13 ansible-role-openapphack-java-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-java-master/vars/
+-rw-rw-r-- root/root       121 2016-01-26 08:13 ansible-role-openapphack-java-master/vars/Debian.yml
+-rw-rw-r-- root/root       120 2016-01-26 08:13 ansible-role-openapphack-java-master/vars/FreeBSD.yml

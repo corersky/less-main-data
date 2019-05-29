@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-26 03:34 ovirt_hosted_engine_install-master/
+-rw-rw-r-- root/root        23 2016-05-26 03:34 ovirt_hosted_engine_install-master/.gitignore
+-rw-rw-r-- root/root      2137 2016-05-26 03:34 ovirt_hosted_engine_install-master/README.md
+drwxrwxr-x root/root         0 2016-05-26 03:34 ovirt_hosted_engine_install-master/defaults/
+-rw-rw-r-- root/root      1048 2016-05-26 03:34 ovirt_hosted_engine_install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-26 03:34 ovirt_hosted_engine_install-master/meta/
+-rw-rw-r-- root/root       280 2016-05-26 03:34 ovirt_hosted_engine_install-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-26 03:34 ovirt_hosted_engine_install-master/tasks/
+-rw-rw-r-- root/root        43 2016-05-26 03:34 ovirt_hosted_engine_install-master/tasks/main.yml
+-rw-rw-r-- root/root       721 2016-05-26 03:34 ovirt_hosted_engine_install-master/tasks/ovirt_hosted_engine_install.yml
+drwxrwxr-x root/root         0 2016-05-26 03:34 ovirt_hosted_engine_install-master/templates/
+-rw-rw-r-- root/root      3538 2016-05-26 03:34 ovirt_hosted_engine_install-master/templates/ovirt-answer.conf

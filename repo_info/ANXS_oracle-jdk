@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-04-09 02:14 oracle-jdk-master/
+-rw-rw-r-- root/root        83 2015-04-09 02:14 oracle-jdk-master/.gitignore
+-rw-rw-r-- root/root       548 2015-04-09 02:14 oracle-jdk-master/.travis.yml
+-rw-rw-r-- root/root      1079 2015-04-09 02:14 oracle-jdk-master/LICENSE
+-rw-rw-r-- root/root      1067 2015-04-09 02:14 oracle-jdk-master/README.md
+-rw-rw-r-- root/root       444 2015-04-09 02:14 oracle-jdk-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-04-09 02:14 oracle-jdk-master/defaults/
+-rw-rw-r-- root/root       244 2015-04-09 02:14 oracle-jdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-09 02:14 oracle-jdk-master/meta/
+-rw-rw-r-- root/root       311 2015-04-09 02:14 oracle-jdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-09 02:14 oracle-jdk-master/tasks/
+-rw-rw-r-- root/root      1315 2015-04-09 02:14 oracle-jdk-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2015-04-09 02:14 oracle-jdk-master/test.yml
+-rw-rw-r-- root/root        69 2015-04-09 02:14 oracle-jdk-master/vagrant-inventory

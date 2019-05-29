@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-05-15 17:33 ansible-yumrepo-master/
+-rw-rw-r-- root/root         0 2015-05-15 17:33 ansible-yumrepo-master/.gitignore
+-rw-rw-r-- root/root      1075 2015-05-15 17:33 ansible-yumrepo-master/LICENSE.md
+-rw-rw-r-- root/root      4021 2015-05-15 17:33 ansible-yumrepo-master/README.md
+drwxrwxr-x root/root         0 2015-05-15 17:33 ansible-yumrepo-master/defaults/
+-rw-rw-r-- root/root       721 2015-05-15 17:33 ansible-yumrepo-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2015-05-15 17:33 ansible-yumrepo-master/handlers/
+-rw-rw-r-- root/root       279 2015-05-15 17:33 ansible-yumrepo-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2015-05-15 17:33 ansible-yumrepo-master/meta/
+-rw-rw-r-- root/root       261 2015-05-15 17:33 ansible-yumrepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-15 17:33 ansible-yumrepo-master/tasks/
+-rw-rw-r-- root/root      2950 2015-05-15 17:33 ansible-yumrepo-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2015-05-15 17:33 ansible-yumrepo-master/templates/
+-rw-rw-r-- root/root       217 2015-05-15 17:33 ansible-yumrepo-master/templates/yum_repo.j2

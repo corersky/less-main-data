@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-07-14 13:22 oem-agent-decommission-master/
+-rw-rw-r-- root/root       539 2017-07-14 13:22 oem-agent-decommission-master/.travis.yml
+-rw-rw-r-- root/root      1553 2017-07-14 13:22 oem-agent-decommission-master/README.md
+drwxrwxr-x root/root         0 2017-07-14 13:22 oem-agent-decommission-master/defaults/
+-rw-rw-r-- root/root       147 2017-07-14 13:22 oem-agent-decommission-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-14 13:22 oem-agent-decommission-master/handlers/
+-rw-rw-r-- root/root       111 2017-07-14 13:22 oem-agent-decommission-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-14 13:22 oem-agent-decommission-master/meta/
+-rw-rw-r-- root/root      3290 2017-07-14 13:22 oem-agent-decommission-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-14 13:22 oem-agent-decommission-master/tasks/
+-rw-rw-r-- root/root       924 2017-07-14 13:22 oem-agent-decommission-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-14 13:22 oem-agent-decommission-master/tests/
+-rw-rw-r-- root/root         9 2017-07-14 13:22 oem-agent-decommission-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-07-14 13:22 oem-agent-decommission-master/tests/test.yml

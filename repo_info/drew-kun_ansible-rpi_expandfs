@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-05 14:00 ansible-rpi_expandfs-master/
+-rw-rw-r-- root/root      1057 2019-01-05 14:00 ansible-rpi_expandfs-master/LICENSE
+-rw-rw-r-- root/root      1077 2019-01-05 14:00 ansible-rpi_expandfs-master/README.md
+drwxrwxr-x root/root         0 2019-01-05 14:00 ansible-rpi_expandfs-master/files/
+-rw-rw-r-- root/root        19 2019-01-05 14:00 ansible-rpi_expandfs-master/files/resolv.conf
+drwxrwxr-x root/root         0 2019-01-05 14:00 ansible-rpi_expandfs-master/handlers/
+-rw-rw-r-- root/root       135 2019-01-05 14:00 ansible-rpi_expandfs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-05 14:00 ansible-rpi_expandfs-master/meta/
+-rw-rw-r-- root/root       466 2019-01-05 14:00 ansible-rpi_expandfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-05 14:00 ansible-rpi_expandfs-master/tasks/
+-rw-rw-r-- root/root       825 2019-01-05 14:00 ansible-rpi_expandfs-master/tasks/Debian.yml
+-rw-rw-r-- root/root       954 2019-01-05 14:00 ansible-rpi_expandfs-master/tasks/RedHat.yml
+-rw-rw-r-- root/root      1344 2019-01-05 14:00 ansible-rpi_expandfs-master/tasks/dependencies.yml
+-rw-rw-r-- root/root       445 2019-01-05 14:00 ansible-rpi_expandfs-master/tasks/main.yml

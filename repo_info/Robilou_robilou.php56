@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-10-28 17:02 robilou.php56-master/
+-rw-rw-r-- root/root      1328 2015-10-28 17:02 robilou.php56-master/README.md
+drwxrwxr-x root/root         0 2015-10-28 17:02 robilou.php56-master/defaults/
+-rw-rw-r-- root/root       330 2015-10-28 17:02 robilou.php56-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-28 17:02 robilou.php56-master/handlers/
+-rw-rw-r-- root/root       168 2015-10-28 17:02 robilou.php56-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-28 17:02 robilou.php56-master/meta/
+-rw-rw-r-- root/root       936 2015-10-28 17:02 robilou.php56-master/meta/main.yml
+-rw-rw-r-- root/root        80 2015-10-28 17:02 robilou.php56-master/php56.yml
+drwxrwxr-x root/root         0 2015-10-28 17:02 robilou.php56-master/tasks/
+-rw-rw-r-- root/root       763 2015-10-28 17:02 robilou.php56-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-28 17:02 robilou.php56-master/templates/
+-rw-rw-r-- root/root     22898 2015-10-28 17:02 robilou.php56-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root     72429 2015-10-28 17:02 robilou.php56-master/templates/php.ini-production.j2
+drwxrwxr-x root/root         0 2015-10-28 17:02 robilou.php56-master/vars/
+-rw-rw-r-- root/root        26 2015-10-28 17:02 robilou.php56-master/vars/main.yml

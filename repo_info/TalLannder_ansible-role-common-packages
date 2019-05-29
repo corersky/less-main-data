@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-02-14 07:33 ansible-role-common-packages-master/
+-rw-rw-r-- root/root       696 2016-02-14 07:33 ansible-role-common-packages-master/README.md
+drwxrwxr-x root/root         0 2016-02-14 07:33 ansible-role-common-packages-master/handlers/
+-rw-rw-r-- root/root        15 2016-02-14 07:33 ansible-role-common-packages-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-14 07:33 ansible-role-common-packages-master/meta/
+-rw-rw-r-- root/root      1579 2016-02-14 07:33 ansible-role-common-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-14 07:33 ansible-role-common-packages-master/tasks/
+-rw-rw-r-- root/root       619 2016-02-14 07:33 ansible-role-common-packages-master/tasks/Debian.yml
+-rw-rw-r-- root/root         4 2016-02-14 07:33 ansible-role-common-packages-master/tasks/RedHat.yml
+-rw-rw-r-- root/root         4 2016-02-14 07:33 ansible-role-common-packages-master/tasks/Suse.yml
+-rw-rw-r-- root/root       518 2016-02-14 07:33 ansible-role-common-packages-master/tasks/main.yml

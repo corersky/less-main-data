@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/
+-rw-rw-r-- root/root        70 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/.ansible-lint
+-rw-rw-r-- root/root      4341 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/defaults/
+-rw-rw-r-- root/root       188 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/meta/
+-rw-rw-r-- root/root       431 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/tasks/
+-rw-rw-r-- root/root       626 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/tasks/install_ssh_authorized_keys.yml
+-rw-rw-r-- root/root       177 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/templates/
+-rw-rw-r-- root/root       346 2019-05-17 09:47 ansible-role-network_appliance_bootstrap-master/templates/load-authorized-key.sh.j2

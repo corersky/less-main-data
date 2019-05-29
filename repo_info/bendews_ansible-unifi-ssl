@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-24 01:10 ansible-unifi-ssl-master/
+-rw-rw-r-- root/root        65 2017-09-24 01:10 ansible-unifi-ssl-master/.gitattributes
+-rw-rw-r-- root/root      1064 2017-09-24 01:10 ansible-unifi-ssl-master/LICENSE
+-rw-rw-r-- root/root      1326 2017-09-24 01:10 ansible-unifi-ssl-master/README.md
+drwxrwxr-x root/root         0 2017-09-24 01:10 ansible-unifi-ssl-master/defaults/
+-rw-rw-r-- root/root        67 2017-09-24 01:10 ansible-unifi-ssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-24 01:10 ansible-unifi-ssl-master/meta/
+-rw-rw-r-- root/root       413 2017-09-24 01:10 ansible-unifi-ssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-24 01:10 ansible-unifi-ssl-master/tasks/
+-rw-rw-r-- root/root       685 2017-09-24 01:10 ansible-unifi-ssl-master/tasks/certificate-check.yml
+-rw-rw-r-- root/root      1519 2017-09-24 01:10 ansible-unifi-ssl-master/tasks/common.yml
+-rw-rw-r-- root/root       626 2017-09-24 01:10 ansible-unifi-ssl-master/tasks/main.yml
+-rw-rw-r-- root/root       428 2017-09-24 01:10 ansible-unifi-ssl-master/tasks/unifi-video.yml
+-rw-rw-r-- root/root       929 2017-09-24 01:10 ansible-unifi-ssl-master/tasks/unifi.yml
+drwxrwxr-x root/root         0 2017-09-24 01:10 ansible-unifi-ssl-master/vars/
+-rw-rw-r-- root/root        99 2017-09-24 01:10 ansible-unifi-ssl-master/vars/main.yml

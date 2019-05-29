@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-16 07:20 ansible-role-msmtp-master/
+-rw-rw-r-- root/root        29 2018-09-16 07:20 ansible-role-msmtp-master/.gitignore
+-rw-rw-r-- root/root      1085 2018-09-16 07:20 ansible-role-msmtp-master/LICENSE
+-rw-rw-r-- root/root     13934 2018-09-16 07:20 ansible-role-msmtp-master/README.md
+drwxrwxr-x root/root         0 2018-09-16 07:20 ansible-role-msmtp-master/defaults/
+-rw-rw-r-- root/root       342 2018-09-16 07:20 ansible-role-msmtp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:20 ansible-role-msmtp-master/meta/
+-rw-rw-r-- root/root       415 2018-09-16 07:20 ansible-role-msmtp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:20 ansible-role-msmtp-master/tasks/
+-rw-rw-r-- root/root      2018 2018-09-16 07:20 ansible-role-msmtp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:20 ansible-role-msmtp-master/templates/
+-rw-rw-r-- root/root       223 2018-09-16 07:20 ansible-role-msmtp-master/templates/aliases.j2
+-rw-rw-r-- root/root      1079 2018-09-16 07:20 ansible-role-msmtp-master/templates/msmtprc.j2
+drwxrwxr-x root/root         0 2018-09-16 07:20 ansible-role-msmtp-master/vars/
+-rw-rw-r-- root/root        83 2018-09-16 07:20 ansible-role-msmtp-master/vars/Debian.yml

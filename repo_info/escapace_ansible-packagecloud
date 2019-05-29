@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/
+-rw-rw-r-- root/root        71 2018-10-24 07:22 ansible-packagecloud-master/.gitignore
+-rw-rw-r-- root/root     11317 2018-10-24 07:22 ansible-packagecloud-master/LICENSE
+-rw-rw-r-- root/root       320 2018-10-24 07:22 ansible-packagecloud-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/defaults/
+-rw-rw-r-- root/root        37 2018-10-24 07:22 ansible-packagecloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/handlers/
+-rw-rw-r-- root/root        37 2018-10-24 07:22 ansible-packagecloud-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/meta/
+-rw-rw-r-- root/root       314 2018-10-24 07:22 ansible-packagecloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/tasks/
+-rw-rw-r-- root/root        77 2018-10-24 07:22 ansible-packagecloud-master/tasks/main.yml
+-rw-rw-r-- root/root       668 2018-10-24 07:22 ansible-packagecloud-master/tasks/packagecloud.yml
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/templates/
+-rw-rw-r-- root/root       540 2018-10-24 07:22 ansible-packagecloud-master/templates/escapace_stack.repo.j2
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/tests/
+-rw-rw-r-- root/root        53 2018-10-24 07:22 ansible-packagecloud-master/tests/inventory
+-rw-rw-r-- root/root        58 2018-10-24 07:22 ansible-packagecloud-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-24 07:22 ansible-packagecloud-master/tests/roles/packagecloud -> ../../
+-rw-rw-r-- root/root       207 2018-10-24 07:22 ansible-packagecloud-master/tests/teardown.yml
+-rw-rw-r-- root/root       400 2018-10-24 07:22 ansible-packagecloud-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 07:22 ansible-packagecloud-master/vars/
+-rw-rw-r-- root/root        33 2018-10-24 07:22 ansible-packagecloud-master/vars/main.yml

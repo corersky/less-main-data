@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2017-07-06 20:47 ansible-role-win-iis-master/
+-rw-rw-r-- root/root        89 2017-07-06 20:47 ansible-role-win-iis-master/.bumpversion.cfg
+-rw-rw-r-- root/root         8 2017-07-06 20:47 ansible-role-win-iis-master/.gitignore
+-rw-rw-r-- root/root       284 2017-07-06 20:47 ansible-role-win-iis-master/.travis.yml
+-rw-rw-r-- root/root      4834 2017-07-06 20:47 ansible-role-win-iis-master/README.md
+drwxrwxr-x root/root         0 2017-07-06 20:47 ansible-role-win-iis-master/defaults/
+-rw-rw-r-- root/root       923 2017-07-06 20:47 ansible-role-win-iis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-06 20:47 ansible-role-win-iis-master/handlers/
+-rw-rw-r-- root/root        77 2017-07-06 20:47 ansible-role-win-iis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-06 20:47 ansible-role-win-iis-master/meta/
+-rw-rw-r-- root/root       406 2017-07-06 20:47 ansible-role-win-iis-master/meta/main.yml
+-rw-rw-r-- root/root        51 2017-07-06 20:47 ansible-role-win-iis-master/requirements.txt
+drwxrwxr-x root/root         0 2017-07-06 20:47 ansible-role-win-iis-master/tasks/
+-rw-rw-r-- root/root      2826 2017-07-06 20:47 ansible-role-win-iis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-06 20:47 ansible-role-win-iis-master/test/
+lrwxrwxrwx root/root         0 2017-07-06 20:47 ansible-role-win-iis-master/test/cchurch.win-iis -> ..
+-rw-rw-r-- root/root        92 2017-07-06 20:47 ansible-role-win-iis-master/test/local
+-rw-rw-r-- root/root        88 2017-07-06 20:47 ansible-role-win-iis-master/test/main.yml

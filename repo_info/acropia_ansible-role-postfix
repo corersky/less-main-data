@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-15 06:33 ansible-role-postfix-master/
+-rw-rw-r-- root/root       539 2017-01-15 06:33 ansible-role-postfix-master/.travis.yml
+-rw-rw-r-- root/root       488 2017-01-15 06:33 ansible-role-postfix-master/README.md
+drwxrwxr-x root/root         0 2017-01-15 06:33 ansible-role-postfix-master/defaults/
+-rw-rw-r-- root/root        36 2017-01-15 06:33 ansible-role-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-15 06:33 ansible-role-postfix-master/meta/
+-rw-rw-r-- root/root       270 2017-01-15 06:33 ansible-role-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-15 06:33 ansible-role-postfix-master/tasks/
+-rw-rw-r-- root/root       121 2017-01-15 06:33 ansible-role-postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-15 06:33 ansible-role-postfix-master/templates/
+-rw-rw-r-- root/root     27209 2017-01-15 06:33 ansible-role-postfix-master/templates/main.cf.j2
+-rw-rw-r-- root/root     27176 2017-01-15 06:33 ansible-role-postfix-master/templates/main.cf.org
+drwxrwxr-x root/root         0 2017-01-15 06:33 ansible-role-postfix-master/tests/
+-rw-rw-r-- root/root         9 2017-01-15 06:33 ansible-role-postfix-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-01-15 06:33 ansible-role-postfix-master/tests/test.yml

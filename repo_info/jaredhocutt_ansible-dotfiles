@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-dotfiles-master/
+-rw-rw-r-- root/root       931 2018-08-01 21:37 ansible-dotfiles-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-dotfiles-master/defaults/
+-rw-rw-r-- root/root        26 2018-08-01 21:37 ansible-dotfiles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-dotfiles-master/handlers/
+-rw-rw-r-- root/root        32 2018-08-01 21:37 ansible-dotfiles-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-dotfiles-master/meta/
+-rw-rw-r-- root/root       251 2018-08-01 21:37 ansible-dotfiles-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-dotfiles-master/tasks/
+-rw-rw-r-- root/root       246 2018-08-01 21:37 ansible-dotfiles-master/tasks/enable.yml
+-rw-rw-r-- root/root       365 2018-08-01 21:37 ansible-dotfiles-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-dotfiles-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:37 ansible-dotfiles-master/tests/inventory
+-rw-rw-r-- root/root        66 2018-08-01 21:37 ansible-dotfiles-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-dotfiles-master/vars/
+-rw-rw-r-- root/root        28 2018-08-01 21:37 ansible-dotfiles-master/vars/main.yml

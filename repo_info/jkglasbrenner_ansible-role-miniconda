@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-27 22:09 ansible-role-miniconda-master/
+-rw-rw-r-- root/root        21 2019-01-27 22:09 ansible-role-miniconda-master/.gitignore
+-rw-rw-r-- root/root       641 2019-01-27 22:09 ansible-role-miniconda-master/.travis.yml
+-rw-rw-r-- root/root      1078 2019-01-27 22:09 ansible-role-miniconda-master/LICENSE
+-rw-rw-r-- root/root      1983 2019-01-27 22:09 ansible-role-miniconda-master/README.md
+drwxrwxr-x root/root         0 2019-01-27 22:09 ansible-role-miniconda-master/defaults/
+-rw-rw-r-- root/root      1523 2019-01-27 22:09 ansible-role-miniconda-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-27 22:09 ansible-role-miniconda-master/meta/
+-rw-rw-r-- root/root       619 2019-01-27 22:09 ansible-role-miniconda-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-27 22:09 ansible-role-miniconda-master/tasks/
+-rw-rw-r-- root/root      1874 2019-01-27 22:09 ansible-role-miniconda-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-27 22:09 ansible-role-miniconda-master/tests/
+-rw-rw-r-- root/root       654 2019-01-27 22:09 ansible-role-miniconda-master/tests/README.md
+-rw-rw-r-- root/root       542 2019-01-27 22:09 ansible-role-miniconda-master/tests/test.yml

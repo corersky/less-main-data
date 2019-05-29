@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-27 04:15 ansible-autossh-master/
+-rw-rw-r-- root/root       222 2018-10-27 04:15 ansible-autossh-master/.travis.yml
+-rw-rw-r-- root/root      1245 2018-10-27 04:15 ansible-autossh-master/README.md
+drwxrwxr-x root/root         0 2018-10-27 04:15 ansible-autossh-master/defaults/
+-rw-rw-r-- root/root        43 2018-10-27 04:15 ansible-autossh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-27 04:15 ansible-autossh-master/files/
+-rwxrwxr-x root/root       808 2018-10-27 04:15 ansible-autossh-master/files/initscript.sh
+drwxrwxr-x root/root         0 2018-10-27 04:15 ansible-autossh-master/handlers/
+-rw-rw-r-- root/root       101 2018-10-27 04:15 ansible-autossh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-27 04:15 ansible-autossh-master/meta/
+-rw-rw-r-- root/root       301 2018-10-27 04:15 ansible-autossh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-27 04:15 ansible-autossh-master/tasks/
+-rw-rw-r-- root/root      1354 2018-10-27 04:15 ansible-autossh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-27 04:15 ansible-autossh-master/templates/
+-rw-rw-r-- root/root       106 2018-10-27 04:15 ansible-autossh-master/templates/configuration.j2
+drwxrwxr-x root/root         0 2018-10-27 04:15 ansible-autossh-master/tests/
+-rw-rw-r-- root/root        57 2018-10-27 04:15 ansible-autossh-master/tests/test.yml

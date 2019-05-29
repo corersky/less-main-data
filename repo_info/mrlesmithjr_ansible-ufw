@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-06 20:21 ansible-ufw-master/
+-rw-rw-r-- root/root      2512 2016-12-06 20:21 ansible-ufw-master/README.md
+drwxrwxr-x root/root         0 2016-12-06 20:21 ansible-ufw-master/defaults/
+-rw-rw-r-- root/root      1407 2016-12-06 20:21 ansible-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-06 20:21 ansible-ufw-master/handlers/
+-rw-rw-r-- root/root        36 2016-12-06 20:21 ansible-ufw-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-06 20:21 ansible-ufw-master/meta/
+-rw-rw-r-- root/root      2438 2016-12-06 20:21 ansible-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-06 20:21 ansible-ufw-master/tasks/
+-rw-rw-r-- root/root      1284 2016-12-06 20:21 ansible-ufw-master/tasks/configure_firewall.yml
+-rw-rw-r-- root/root       265 2016-12-06 20:21 ansible-ufw-master/tasks/debian.yml
+-rw-rw-r-- root/root       102 2016-12-06 20:21 ansible-ufw-master/tasks/disable_firewall.yml
+-rw-rw-r-- root/root        94 2016-12-06 20:21 ansible-ufw-master/tasks/main.yml
+-rw-rw-r-- root/root        92 2016-12-06 20:21 ansible-ufw-master/tasks/ufw_package.yml
+drwxrwxr-x root/root         0 2016-12-06 20:21 ansible-ufw-master/vars/
+-rw-rw-r-- root/root        32 2016-12-06 20:21 ansible-ufw-master/vars/main.yml

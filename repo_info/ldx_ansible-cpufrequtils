@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-11 13:10 ansible-cpufrequtils-master/
+-rw-rw-r-- root/root         7 2015-12-11 13:10 ansible-cpufrequtils-master/.gitignore
+-rw-rw-r-- root/root       189 2015-12-11 13:10 ansible-cpufrequtils-master/.travis.yml
+-rw-rw-r-- root/root      1071 2015-12-11 13:10 ansible-cpufrequtils-master/LICENSE
+-rw-rw-r-- root/root       459 2015-12-11 13:10 ansible-cpufrequtils-master/README.md
+drwxrwxr-x root/root         0 2015-12-11 13:10 ansible-cpufrequtils-master/defaults/
+-rw-rw-r-- root/root        97 2015-12-11 13:10 ansible-cpufrequtils-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-11 13:10 ansible-cpufrequtils-master/meta/
+-rw-rw-r-- root/root       302 2015-12-11 13:10 ansible-cpufrequtils-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-11 13:10 ansible-cpufrequtils-master/tasks/
+-rw-rw-r-- root/root       933 2015-12-11 13:10 ansible-cpufrequtils-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-11 13:10 ansible-cpufrequtils-master/templates/
+drwxrwxr-x root/root         0 2015-12-11 13:10 ansible-cpufrequtils-master/templates/etc/
+drwxrwxr-x root/root         0 2015-12-11 13:10 ansible-cpufrequtils-master/templates/etc/default/
+-rw-rw-r-- root/root       159 2015-12-11 13:10 ansible-cpufrequtils-master/templates/etc/default/cpufrequtils.j2
+-rw-rw-r-- root/root      1152 2015-12-11 13:10 ansible-cpufrequtils-master/test.yml

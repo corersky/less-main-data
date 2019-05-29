@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-22 06:25 ansible-role-gradle-master/
+-rw-rw-r-- root/root       454 2017-06-22 06:25 ansible-role-gradle-master/.travis.yml
+-rw-rw-r-- root/root       792 2017-06-22 06:25 ansible-role-gradle-master/README.md
+drwxrwxr-x root/root         0 2017-06-22 06:25 ansible-role-gradle-master/defaults/
+-rw-rw-r-- root/root        73 2017-06-22 06:25 ansible-role-gradle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-22 06:25 ansible-role-gradle-master/meta/
+-rw-rw-r-- root/root       285 2017-06-22 06:25 ansible-role-gradle-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-22 06:25 ansible-role-gradle-master/tasks/
+-rw-rw-r-- root/root      1292 2017-06-22 06:25 ansible-role-gradle-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-22 06:25 ansible-role-gradle-master/tests/
+-rw-rw-r-- root/root        84 2017-06-22 06:25 ansible-role-gradle-master/tests/inventory
+-rw-rw-r-- root/root        92 2017-06-22 06:25 ansible-role-gradle-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2017-06-22 06:25 ansible-role-gradle-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-06-22 06:25 ansible-role-gradle-master/tests/roles/gradle -> ../../
+-rw-rw-r-- root/root       993 2017-06-22 06:25 ansible-role-gradle-master/tests/test.yml

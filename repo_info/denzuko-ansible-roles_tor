@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-24 12:49 tor-master/
+-rw-rw-r-- root/root      1157 2018-05-24 12:49 tor-master/.gitignore
+-rw-rw-r-- root/root       568 2018-05-24 12:49 tor-master/.travis.yml
+-rw-rw-r-- root/root      1326 2018-05-24 12:49 tor-master/LICENSE
+-rw-rw-r-- root/root       849 2018-05-24 12:49 tor-master/README.md
+drwxrwxr-x root/root         0 2018-05-24 12:49 tor-master/files/
+-rw-rw-r-- root/root       125 2018-05-24 12:49 tor-master/files/torrc
+drwxrwxr-x root/root         0 2018-05-24 12:49 tor-master/meta/
+-rw-rw-r-- root/root       514 2018-05-24 12:49 tor-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 12:49 tor-master/tasks/
+-rw-rw-r-- root/root       138 2018-05-24 12:49 tor-master/tasks/apk.yml
+-rw-rw-r-- root/root       166 2018-05-24 12:49 tor-master/tasks/apt.yml
+-rw-rw-r-- root/root       545 2018-05-24 12:49 tor-master/tasks/main.yml
+-rw-rw-r-- root/root       202 2018-05-24 12:49 tor-master/tasks/rpm.yml
+drwxrwxr-x root/root         0 2018-05-24 12:49 tor-master/tests/
+-rw-rw-r-- root/root        11 2018-05-24 12:49 tor-master/tests/inventory
+-rw-rw-r-- root/root        61 2018-05-24 12:49 tor-master/tests/test.yml

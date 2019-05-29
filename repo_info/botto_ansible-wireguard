@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-27 12:48 ansible-wireguard-master/
+-rw-rw-r-- root/root       912 2017-06-27 12:48 ansible-wireguard-master/README.md
+drwxrwxr-x root/root         0 2017-06-27 12:48 ansible-wireguard-master/defaults/
+-rw-rw-r-- root/root       188 2017-06-27 12:48 ansible-wireguard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-27 12:48 ansible-wireguard-master/handlers/
+-rw-rw-r-- root/root        92 2017-06-27 12:48 ansible-wireguard-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-27 12:48 ansible-wireguard-master/meta/
+-rw-rw-r-- root/root       317 2017-06-27 12:48 ansible-wireguard-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-27 12:48 ansible-wireguard-master/tasks/
+-rw-rw-r-- root/root       783 2017-06-27 12:48 ansible-wireguard-master/tasks/main.yml
+-rw-rw-r-- root/root       391 2017-06-27 12:48 ansible-wireguard-master/tasks/private_key.yml
+-rw-rw-r-- root/root       412 2017-06-27 12:48 ansible-wireguard-master/tasks/public_key.yml
+drwxrwxr-x root/root         0 2017-06-27 12:48 ansible-wireguard-master/templates/
+-rw-rw-r-- root/root       335 2017-06-27 12:48 ansible-wireguard-master/templates/wg0-server.conf.j2
+drwxrwxr-x root/root         0 2017-06-27 12:48 ansible-wireguard-master/vars/
+-rw-rw-r-- root/root        33 2017-06-27 12:48 ansible-wireguard-master/vars/main.yml

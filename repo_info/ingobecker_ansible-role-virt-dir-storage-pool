@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/
+-rw-rw-r-- root/root      1212 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/README.md
+drwxrwxr-x root/root         0 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/meta/
+-rw-rw-r-- root/root       238 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/tasks/
+-rw-rw-r-- root/root      1167 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/templates/
+-rw-rw-r-- root/root       315 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/templates/dir_pool.j2
+drwxrwxr-x root/root         0 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/tests/
+-rw-rw-r-- root/root         9 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-11-05 14:28 ansible-role-virt-dir-storage-pool-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-30 13:34 docker-systemd-service-master/
+-rw-rw-r-- root/root         7 2018-08-30 13:34 docker-systemd-service-master/.gitignore
+-rw-rw-r-- root/root      1482 2018-08-30 13:34 docker-systemd-service-master/README.md
+drwxrwxr-x root/root         0 2018-08-30 13:34 docker-systemd-service-master/defaults/
+-rw-rw-r-- root/root        62 2018-08-30 13:34 docker-systemd-service-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-30 13:34 docker-systemd-service-master/meta/
+-rw-rw-r-- root/root       339 2018-08-30 13:34 docker-systemd-service-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-30 13:34 docker-systemd-service-master/tasks/
+-rw-rw-r-- root/root      1931 2018-08-30 13:34 docker-systemd-service-master/tasks/_service.yml
+-rw-rw-r-- root/root      1169 2018-08-30 13:34 docker-systemd-service-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-30 13:34 docker-systemd-service-master/tests/
+-rw-rw-r-- root/root        11 2018-08-30 13:34 docker-systemd-service-master/tests/inventory
+-rw-rw-r-- root/root       133 2018-08-30 13:34 docker-systemd-service-master/tests/test.bats
+-rw-rw-r-- root/root       657 2018-08-30 13:34 docker-systemd-service-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-01-11 20:24 ansible-ssl-master/
+-rw-rw-r-- root/root      1060 2018-01-11 20:24 ansible-ssl-master/.travis.yml
+-rw-rw-r-- root/root       978 2018-01-11 20:24 ansible-ssl-master/README.md
+drwxrwxr-x root/root         0 2018-01-11 20:24 ansible-ssl-master/defaults/
+-rw-rw-r-- root/root       542 2018-01-11 20:24 ansible-ssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-11 20:24 ansible-ssl-master/meta/
+-rw-rw-r-- root/root       532 2018-01-11 20:24 ansible-ssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-11 20:24 ansible-ssl-master/tasks/
+-rw-rw-r-- root/root      1684 2018-01-11 20:24 ansible-ssl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-11 20:24 ansible-ssl-master/tests/
+-rw-rw-r-- root/root         9 2018-01-11 20:24 ansible-ssl-master/tests/inventory
+-rw-rw-r-- root/root       164 2018-01-11 20:24 ansible-ssl-master/tests/test.yml

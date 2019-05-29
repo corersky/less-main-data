@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-10-28 17:39 robilou.mariadb-master/
+-rw-rw-r-- root/root      1328 2015-10-28 17:39 robilou.mariadb-master/README.md
+drwxrwxr-x root/root         0 2015-10-28 17:39 robilou.mariadb-master/defaults/
+-rw-rw-r-- root/root        43 2015-10-28 17:39 robilou.mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-28 17:39 robilou.mariadb-master/handlers/
+-rw-rw-r-- root/root        98 2015-10-28 17:39 robilou.mariadb-master/handlers/main.yml
+-rw-rw-r-- root/root        95 2015-10-28 17:39 robilou.mariadb-master/mariadb.yml
+drwxrwxr-x root/root         0 2015-10-28 17:39 robilou.mariadb-master/meta/
+-rw-rw-r-- root/root       321 2015-10-28 17:39 robilou.mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-28 17:39 robilou.mariadb-master/tasks/
+-rw-rw-r-- root/root       624 2015-10-28 17:39 robilou.mariadb-master/tasks/main.yml
+-rw-rw-r-- root/root       150 2015-10-28 17:39 robilou.mariadb-master/tasks/zfs.yml
+drwxrwxr-x root/root         0 2015-10-28 17:39 robilou.mariadb-master/templates/
+-rw-rw-r-- root/root      4898 2015-10-28 17:39 robilou.mariadb-master/templates/my.cnf.j2
+drwxrwxr-x root/root         0 2015-10-28 17:39 robilou.mariadb-master/vars/
+-rw-rw-r-- root/root        28 2015-10-28 17:39 robilou.mariadb-master/vars/main.yml

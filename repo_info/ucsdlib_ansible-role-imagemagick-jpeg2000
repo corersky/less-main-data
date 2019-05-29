@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/
+-rw-rw-r-- root/root       539 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/.travis.yml
+-rw-rw-r-- root/root       647 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/README.md
+drwxrwxr-x root/root         0 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/meta/
+-rw-rw-r-- root/root       349 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/tasks/
+-rw-rw-r-- root/root       276 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/tests/
+-rw-rw-r-- root/root        10 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/tests/inventory
+-rw-rw-r-- root/root        92 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/vars/
+-rw-rw-r-- root/root        52 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/vars/Debian.yml
+-rw-rw-r-- root/root        52 2016-10-28 16:07 ansible-role-imagemagick-jpeg2000-master/vars/RedHat.yml

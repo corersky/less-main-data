@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-02 00:47 ansible-ruby-master/
+-rw-rw-r-- root/root       161 2019-05-02 00:47 ansible-ruby-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       379 2019-05-02 00:47 ansible-ruby-master/README.md
+drwxrwxr-x root/root         0 2019-05-02 00:47 ansible-ruby-master/defaults/
+-rw-rw-r-- root/root       141 2019-05-02 00:47 ansible-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-02 00:47 ansible-ruby-master/files/
+-rw-rw-r-- root/root        19 2019-05-02 00:47 ansible-ruby-master/files/gemrc
+drwxrwxr-x root/root         0 2019-05-02 00:47 ansible-ruby-master/meta/
+-rw-rw-r-- root/root       299 2019-05-02 00:47 ansible-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-02 00:47 ansible-ruby-master/tasks/
+-rw-rw-r-- root/root       884 2019-05-02 00:47 ansible-ruby-master/tasks/dependencies_Debian.yml
+-rw-rw-r-- root/root       829 2019-05-02 00:47 ansible-ruby-master/tasks/dependencies_RedHat.yml
+-rw-rw-r-- root/root      1104 2019-05-02 00:47 ansible-ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-02 00:47 ansible-ruby-master/templates/
+-rw-rw-r-- root/root       165 2019-05-02 00:47 ansible-ruby-master/templates/ruby-install.j2

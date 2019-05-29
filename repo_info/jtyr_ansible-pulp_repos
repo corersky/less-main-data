@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-20 12:57 ansible-pulp_repos-master/
+-rw-rw-r-- root/root         0 2017-03-20 12:57 ansible-pulp_repos-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-03-20 12:57 ansible-pulp_repos-master/LICENSE
+-rw-rw-r-- root/root      8144 2017-03-20 12:57 ansible-pulp_repos-master/README.md
+drwxrwxr-x root/root         0 2017-03-20 12:57 ansible-pulp_repos-master/defaults/
+-rw-rw-r-- root/root      2912 2017-03-20 12:57 ansible-pulp_repos-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-03-20 12:57 ansible-pulp_repos-master/handlers/
+-rw-rw-r-- root/root        82 2017-03-20 12:57 ansible-pulp_repos-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-03-20 12:57 ansible-pulp_repos-master/meta/
+-rw-rw-r-- root/root        41 2017-03-20 12:57 ansible-pulp_repos-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-20 12:57 ansible-pulp_repos-master/tasks/
+-rw-rw-r-- root/root      4274 2017-03-20 12:57 ansible-pulp_repos-master/tasks/create.yaml
+-rw-rw-r-- root/root      1645 2017-03-20 12:57 ansible-pulp_repos-master/tasks/delete.yaml
+-rw-rw-r-- root/root      1130 2017-03-20 12:57 ansible-pulp_repos-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-03-20 12:57 ansible-pulp_repos-master/templates/
+-rw-rw-r-- root/root        88 2017-03-20 12:57 ansible-pulp_repos-master/templates/pulp_elServer_rewrite.conf.j2

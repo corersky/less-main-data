@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-20 01:42 ansible-exim-master/
+-rw-rw-r-- root/root      1074 2016-06-20 01:42 ansible-exim-master/LICENSE
+-rw-rw-r-- root/root       268 2016-06-20 01:42 ansible-exim-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 01:42 ansible-exim-master/defaults/
+-rw-rw-r-- root/root        25 2016-06-20 01:42 ansible-exim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:42 ansible-exim-master/handlers/
+-rw-rw-r-- root/root       105 2016-06-20 01:42 ansible-exim-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:42 ansible-exim-master/meta/
+-rw-rw-r-- root/root       533 2016-06-20 01:42 ansible-exim-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:42 ansible-exim-master/tasks/
+-rw-rw-r-- root/root       225 2016-06-20 01:42 ansible-exim-master/tasks/centos.yml
+-rw-rw-r-- root/root       604 2016-06-20 01:42 ansible-exim-master/tasks/debian.yml
+-rw-rw-r-- root/root       162 2016-06-20 01:42 ansible-exim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:42 ansible-exim-master/templates/
+-rw-rw-r-- root/root      1009 2016-06-20 01:42 ansible-exim-master/templates/update-exim4.conf.conf
+drwxrwxr-x root/root         0 2016-06-20 01:42 ansible-exim-master/tests/
+-rw-rw-r-- root/root      1671 2016-06-20 01:42 ansible-exim-master/tests/main.yml

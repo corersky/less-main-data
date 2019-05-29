@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-05-11 22:10 ansible-haskell-master/
+-rw-rw-r-- root/root       873 2015-05-11 22:10 ansible-haskell-master/README.md
+drwxrwxr-x root/root         0 2015-05-11 22:10 ansible-haskell-master/defaults/
+-rw-rw-r-- root/root       475 2015-05-11 22:10 ansible-haskell-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-11 22:10 ansible-haskell-master/meta/
+-rw-rw-r-- root/root       273 2015-05-11 22:10 ansible-haskell-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-11 22:10 ansible-haskell-master/tasks/
+-rw-rw-r-- root/root      2195 2015-05-11 22:10 ansible-haskell-master/tasks/Debian.yml
+-rw-rw-r-- root/root       157 2015-05-11 22:10 ansible-haskell-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       129 2015-05-11 22:10 ansible-haskell-master/tasks/main.yml

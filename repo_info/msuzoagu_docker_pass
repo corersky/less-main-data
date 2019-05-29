@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-09 21:47 docker_pass-master/
+-rw-rw-r-- root/root         9 2019-05-09 21:47 docker_pass-master/.gitignore
+-rw-rw-r-- root/root      1327 2019-05-09 21:47 docker_pass-master/README.md
+drwxrwxr-x root/root         0 2019-05-09 21:47 docker_pass-master/defaults/
+-rw-rw-r-- root/root       717 2019-05-09 21:47 docker_pass-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-09 21:47 docker_pass-master/files/
+-rw-rw-r-- root/root        27 2019-05-09 21:47 docker_pass-master/files/config_json.j2
+drwxrwxr-x root/root         0 2019-05-09 21:47 docker_pass-master/meta/
+-rw-rw-r-- root/root       373 2019-05-09 21:47 docker_pass-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-09 21:47 docker_pass-master/tasks/
+-rw-rw-r-- root/root      3897 2019-05-09 21:47 docker_pass-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-09 21:47 docker_pass-master/vars/
+-rw-rw-r-- root/root        96 2019-05-09 21:47 docker_pass-master/vars/gpg_certs_example.yaml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-12-23 08:25 ansible-role-percona-client-master/
+-rw-rw-r-- root/root         5 2016-12-23 08:25 ansible-role-percona-client-master/.gitignore
+-rw-rw-r-- root/root       539 2016-12-23 08:25 ansible-role-percona-client-master/.travis.yml
+-rw-rw-r-- root/root       809 2016-12-23 08:25 ansible-role-percona-client-master/README.md
+drwxrwxr-x root/root         0 2016-12-23 08:25 ansible-role-percona-client-master/meta/
+-rw-rw-r-- root/root       219 2016-12-23 08:25 ansible-role-percona-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-23 08:25 ansible-role-percona-client-master/tasks/
+-rw-rw-r-- root/root       403 2016-12-23 08:25 ansible-role-percona-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-23 08:25 ansible-role-percona-client-master/tests/
+-rw-rw-r-- root/root         9 2016-12-23 08:25 ansible-role-percona-client-master/tests/inventory
+-rw-rw-r-- root/root        66 2016-12-23 08:25 ansible-role-percona-client-master/tests/test.yml

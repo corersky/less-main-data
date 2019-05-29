@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/
+-rw-rw-r-- root/root     35147 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/LICENSE
+-rw-rw-r-- root/root       462 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/README.md
+drwxrwxr-x root/root         0 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/defaults/
+-rw-rw-r-- root/root       207 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/meta/
+-rw-rw-r-- root/root       240 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/tasks/
+-rw-rw-r-- root/root      2357 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/tasks/main.yml
+-rw-rw-r-- root/root      1586 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/tasks/remediations.yml
+-rw-rw-r-- root/root      1941 2018-03-05 18:18 ansible-ec2-800-53-remediate-master/tasks/setup-facts.yml

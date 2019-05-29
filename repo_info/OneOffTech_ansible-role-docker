@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-13 03:44 ansible-role-docker-master/
+-rw-rw-r-- root/root      1080 2019-05-13 03:44 ansible-role-docker-master/LICENSE
+drwxrwxr-x root/root         0 2019-05-13 03:44 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       589 2019-05-13 03:44 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-13 03:44 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root      1741 2019-05-13 03:44 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-13 03:44 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       708 2019-05-13 03:44 ansible-role-docker-master/tasks/docker-compose.yml
+-rw-rw-r-- root/root       389 2019-05-13 03:44 ansible-role-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       800 2019-05-13 03:44 ansible-role-docker-master/tasks/setup-debian.yml

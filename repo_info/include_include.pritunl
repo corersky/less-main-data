@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-09-15 13:23 include.pritunl-master/
+-rw-rw-r-- root/root      1301 2014-09-15 13:23 include.pritunl-master/LICENSE
+-rw-rw-r-- root/root       510 2014-09-15 13:23 include.pritunl-master/README.md
+drwxrwxr-x root/root         0 2014-09-15 13:23 include.pritunl-master/defaults/
+-rw-rw-r-- root/root        40 2014-09-15 13:23 include.pritunl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-15 13:23 include.pritunl-master/handlers/
+-rw-rw-r-- root/root        40 2014-09-15 13:23 include.pritunl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-15 13:23 include.pritunl-master/meta/
+-rw-rw-r-- root/root      2079 2014-09-15 13:23 include.pritunl-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-15 13:23 include.pritunl-master/tasks/
+-rw-rw-r-- root/root       543 2014-09-15 13:23 include.pritunl-master/tasks/CentOS.yml
+-rw-rw-r-- root/root       511 2014-09-15 13:23 include.pritunl-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       245 2014-09-15 13:23 include.pritunl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-15 13:23 include.pritunl-master/vars/
+-rw-rw-r-- root/root       437 2014-09-15 13:23 include.pritunl-master/vars/main.yml

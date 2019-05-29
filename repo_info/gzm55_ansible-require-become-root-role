@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-19 20:41 ansible-require-become-root-role-master/
+-rw-rw-r-- root/root        35 2017-04-19 20:41 ansible-require-become-root-role-master/.gitignore
+-rw-rw-r-- root/root       483 2017-04-19 20:41 ansible-require-become-root-role-master/.travis.yml
+-rw-rw-r-- root/root      1320 2017-04-19 20:41 ansible-require-become-root-role-master/LICENSE
+-rw-rw-r-- root/root       973 2017-04-19 20:41 ansible-require-become-root-role-master/README.md
+drwxrwxr-x root/root         0 2017-04-19 20:41 ansible-require-become-root-role-master/meta/
+-rw-rw-r-- root/root       368 2017-04-19 20:41 ansible-require-become-root-role-master/meta/main.yml
+-rw-rw-r-- root/root       817 2017-04-19 20:41 ansible-require-become-root-role-master/molecule.yml
+-rw-rw-r-- root/root      1351 2017-04-19 20:41 ansible-require-become-root-role-master/playbook.yml
+-rw-rw-r-- root/root        25 2017-04-19 20:41 ansible-require-become-root-role-master/requirements.txt
+drwxrwxr-x root/root         0 2017-04-19 20:41 ansible-require-become-root-role-master/tasks/
+-rw-rw-r-- root/root      1375 2017-04-19 20:41 ansible-require-become-root-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-19 20:41 ansible-require-become-root-role-master/tests/
+-rw-rw-r-- root/root       194 2017-04-19 20:41 ansible-require-become-root-role-master/tests/test_default.py

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-06 10:39 rhn-subscription-master/
+-rw-rw-r-- root/root      1835 2019-03-06 10:39 rhn-subscription-master/README.md
+drwxrwxr-x root/root         0 2019-03-06 10:39 rhn-subscription-master/defaults/
+-rw-rw-r-- root/root       827 2019-03-06 10:39 rhn-subscription-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-06 10:39 rhn-subscription-master/handlers/
+-rw-rw-r-- root/root        41 2019-03-06 10:39 rhn-subscription-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-06 10:39 rhn-subscription-master/meta/
+-rw-rw-r-- root/root      1983 2019-03-06 10:39 rhn-subscription-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-06 10:39 rhn-subscription-master/tasks/
+-rw-rw-r-- root/root      2433 2019-03-06 10:39 rhn-subscription-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-06 10:39 rhn-subscription-master/tests/
+-rw-rw-r-- root/root        22 2019-03-06 10:39 rhn-subscription-master/tests/inventory
+-rw-rw-r-- root/root        81 2019-03-06 10:39 rhn-subscription-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-06 10:39 rhn-subscription-master/vars/
+-rw-rw-r-- root/root        37 2019-03-06 10:39 rhn-subscription-master/vars/main.yml
+-rw-rw-r-- root/root       155 2019-03-06 10:39 rhn-subscription-master/vars/vault.yml

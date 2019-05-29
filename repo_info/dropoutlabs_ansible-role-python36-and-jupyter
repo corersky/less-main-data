@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/
+-rw-rw-r-- root/root       539 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/.travis.yml
+-rw-rw-r-- root/root       116 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/README.md
+drwxrwxr-x root/root         0 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/defaults/
+-rw-rw-r-- root/root        32 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/handlers/
+-rw-rw-r-- root/root        32 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/meta/
+-rw-rw-r-- root/root      1813 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/tasks/
+-rw-rw-r-- root/root      1459 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/tests/
+-rw-rw-r-- root/root        11 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/vars/
+-rw-rw-r-- root/root        28 2017-09-10 05:16 ansible-role-python36-and-jupyter-master/vars/main.yml

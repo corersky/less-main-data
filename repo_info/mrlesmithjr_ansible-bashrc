@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-22 08:51 ansible-bashrc-master/
+-rw-rw-r-- root/root        10 2015-10-22 08:51 ansible-bashrc-master/.gitignore
+-rw-rw-r-- root/root      1005 2015-10-22 08:51 ansible-bashrc-master/README.md
+drwxrwxr-x root/root         0 2015-10-22 08:51 ansible-bashrc-master/defaults/
+-rw-rw-r-- root/root       563 2015-10-22 08:51 ansible-bashrc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-22 08:51 ansible-bashrc-master/handlers/
+-rw-rw-r-- root/root        39 2015-10-22 08:51 ansible-bashrc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-22 08:51 ansible-bashrc-master/meta/
+-rw-rw-r-- root/root      2410 2015-10-22 08:51 ansible-bashrc-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-22 08:51 ansible-bashrc-master/tasks/
+-rw-rw-r-- root/root       453 2015-10-22 08:51 ansible-bashrc-master/tasks/debian.yml
+-rw-rw-r-- root/root       208 2015-10-22 08:51 ansible-bashrc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-22 08:51 ansible-bashrc-master/templates/
+drwxrwxr-x root/root         0 2015-10-22 08:51 ansible-bashrc-master/templates/etc/
+-rw-rw-r-- root/root      4364 2015-10-22 08:51 ansible-bashrc-master/templates/etc/bash.bashrc.j2
+drwxrwxr-x root/root         0 2015-10-22 08:51 ansible-bashrc-master/vars/
+-rw-rw-r-- root/root        35 2015-10-22 08:51 ansible-bashrc-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-07-17 16:25 ansible-erln8-master/
+-rw-rw-r-- root/root      1078 2015-07-17 16:25 ansible-erln8-master/LICENSE
+-rw-rw-r-- root/root       501 2015-07-17 16:25 ansible-erln8-master/README.md
+drwxrwxr-x root/root         0 2015-07-17 16:25 ansible-erln8-master/defaults/
+-rw-rw-r-- root/root        71 2015-07-17 16:25 ansible-erln8-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-17 16:25 ansible-erln8-master/meta/
+-rw-rw-r-- root/root       536 2015-07-17 16:25 ansible-erln8-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-17 16:25 ansible-erln8-master/tasks/
+drwxrwxr-x root/root         0 2015-07-17 16:25 ansible-erln8-master/tasks/install/
+-rw-rw-r-- root/root       932 2015-07-17 16:25 ansible-erln8-master/tasks/install/debian-deps.yml
+-rw-rw-r-- root/root       380 2015-07-17 16:25 ansible-erln8-master/tasks/install/erln8.yml
+-rw-rw-r-- root/root       391 2015-07-17 16:25 ansible-erln8-master/tasks/install/redhat-deps.yml
+-rw-rw-r-- root/root       202 2015-07-17 16:25 ansible-erln8-master/tasks/main.yml
+-rw-rw-r-- root/root       643 2015-07-17 16:25 ansible-erln8-master/tasks/path.yml
+-rw-rw-r-- root/root       114 2015-07-17 16:25 ansible-erln8-master/test.yml
+drwxrwxr-x root/root         0 2015-07-17 16:25 ansible-erln8-master/vars/
+-rw-rw-r-- root/root        30 2015-07-17 16:25 ansible-erln8-master/vars/main.yml

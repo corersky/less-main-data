@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-27 13:32 banner-master/
+-rw-rw-r-- root/root       831 2016-01-27 13:32 banner-master/.travis.yml
+-rw-rw-r-- root/root      1078 2016-01-27 13:32 banner-master/LICENSE
+-rw-rw-r-- root/root       552 2016-01-27 13:32 banner-master/README.md
+drwxrwxr-x root/root         0 2016-01-27 13:32 banner-master/defaults/
+-rw-rw-r-- root/root       291 2016-01-27 13:32 banner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-27 13:32 banner-master/handlers/
+-rw-rw-r-- root/root        61 2016-01-27 13:32 banner-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-27 13:32 banner-master/meta/
+-rw-rw-r-- root/root      2361 2016-01-27 13:32 banner-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-27 13:32 banner-master/tasks/
+-rw-rw-r-- root/root       443 2016-01-27 13:32 banner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-27 13:32 banner-master/tests/
+-rw-rw-r-- root/root        10 2016-01-27 13:32 banner-master/tests/inventory
+-rw-rw-r-- root/root        65 2016-01-27 13:32 banner-master/tests/test.yml

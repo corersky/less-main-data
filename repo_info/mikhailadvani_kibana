@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-04 15:38 kibana-master/
+-rw-rw-r-- root/root       539 2017-05-04 15:38 kibana-master/.travis.yml
+-rw-rw-r-- root/root     11344 2017-05-04 15:38 kibana-master/LICENSE
+-rw-rw-r-- root/root       738 2017-05-04 15:38 kibana-master/README.md
+drwxrwxr-x root/root         0 2017-05-04 15:38 kibana-master/defaults/
+-rw-rw-r-- root/root        43 2017-05-04 15:38 kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-04 15:38 kibana-master/handlers/
+-rw-rw-r-- root/root       117 2017-05-04 15:38 kibana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-04 15:38 kibana-master/meta/
+-rw-rw-r-- root/root      2505 2017-05-04 15:38 kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-04 15:38 kibana-master/tasks/
+-rw-rw-r-- root/root       924 2017-05-04 15:38 kibana-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       116 2017-05-04 15:38 kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-04 15:38 kibana-master/tests/
+-rw-rw-r-- root/root         9 2017-05-04 15:38 kibana-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-05-04 15:38 kibana-master/tests/test.yml

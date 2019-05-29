@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-14 11:39 ansible-gnome-extensions-master/
+-rw-rw-r-- root/root      1339 2019-04-14 11:39 ansible-gnome-extensions-master/README.md
+drwxrwxr-x root/root         0 2019-04-14 11:39 ansible-gnome-extensions-master/defaults/
+-rw-rw-r-- root/root        29 2019-04-14 11:39 ansible-gnome-extensions-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-14 11:39 ansible-gnome-extensions-master/handlers/
+-rw-rw-r-- root/root        40 2019-04-14 11:39 ansible-gnome-extensions-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-14 11:39 ansible-gnome-extensions-master/meta/
+-rw-rw-r-- root/root       315 2019-04-14 11:39 ansible-gnome-extensions-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-14 11:39 ansible-gnome-extensions-master/tasks/
+-rw-rw-r-- root/root      2671 2019-04-14 11:39 ansible-gnome-extensions-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-14 11:39 ansible-gnome-extensions-master/tests/
+-rw-rw-r-- root/root        11 2019-04-14 11:39 ansible-gnome-extensions-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-04-14 11:39 ansible-gnome-extensions-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-14 11:39 ansible-gnome-extensions-master/vars/
+-rw-rw-r-- root/root        36 2019-04-14 11:39 ansible-gnome-extensions-master/vars/main.yml

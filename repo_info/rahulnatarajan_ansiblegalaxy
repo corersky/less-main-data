@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-12-15 04:09 ansiblegalaxy-master/
+-rw-rw-r-- root/root        49 2016-12-15 04:09 ansiblegalaxy-master/.gitignore
+-rw-rw-r-- root/root      1080 2016-12-15 04:09 ansiblegalaxy-master/LICENSE
+-rw-rw-r-- root/root      1138 2016-12-15 04:09 ansiblegalaxy-master/README.md
+drwxrwxr-x root/root         0 2016-12-15 04:09 ansiblegalaxy-master/defaults/
+-rw-rw-r-- root/root       372 2016-12-15 04:09 ansiblegalaxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-15 04:09 ansiblegalaxy-master/files/
+-rw-rw-r-- root/root         0 2016-12-15 04:09 ansiblegalaxy-master/files/.gitkeep
+drwxrwxr-x root/root         0 2016-12-15 04:09 ansiblegalaxy-master/handlers/
+-rw-rw-r-- root/root        64 2016-12-15 04:09 ansiblegalaxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-15 04:09 ansiblegalaxy-master/meta/
+-rw-rw-r-- root/root       219 2016-12-15 04:09 ansiblegalaxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-15 04:09 ansiblegalaxy-master/tasks/
+-rw-rw-r-- root/root      1354 2016-12-15 04:09 ansiblegalaxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-15 04:09 ansiblegalaxy-master/templates/
+-rw-rw-r-- root/root      2031 2016-12-15 04:09 ansiblegalaxy-master/templates/config.js.j2
+-rw-rw-r-- root/root      2906 2016-12-15 04:09 ansiblegalaxy-master/templates/nginx.conf.j2

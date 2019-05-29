@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-25 19:22 ansible-role-hhvm-master/
+-rw-rw-r-- root/root       976 2015-11-25 19:22 ansible-role-hhvm-master/README.md
+drwxrwxr-x root/root         0 2015-11-25 19:22 ansible-role-hhvm-master/defaults/
+-rw-rw-r-- root/root       537 2015-11-25 19:22 ansible-role-hhvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:22 ansible-role-hhvm-master/handlers/
+-rw-rw-r-- root/root        68 2015-11-25 19:22 ansible-role-hhvm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:22 ansible-role-hhvm-master/meta/
+-rw-rw-r-- root/root       232 2015-11-25 19:22 ansible-role-hhvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:22 ansible-role-hhvm-master/tasks/
+-rw-rw-r-- root/root       592 2015-11-25 19:22 ansible-role-hhvm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:22 ansible-role-hhvm-master/templates/
+-rw-rw-r-- root/root       451 2015-11-25 19:22 ansible-role-hhvm-master/templates/php.ini
+-rw-rw-r-- root/root       350 2015-11-25 19:22 ansible-role-hhvm-master/templates/server.ini

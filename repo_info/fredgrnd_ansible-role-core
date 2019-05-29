@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-06 10:15 ansible-role-core-master/
+-rw-rw-r-- root/root        26 2019-02-06 10:15 ansible-role-core-master/.gitignore
+-rw-rw-r-- root/root       456 2019-02-06 10:15 ansible-role-core-master/README.md
+drwxrwxr-x root/root         0 2019-02-06 10:15 ansible-role-core-master/defaults/
+-rw-rw-r-- root/root        28 2019-02-06 10:15 ansible-role-core-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-06 10:15 ansible-role-core-master/handlers/
+-rw-rw-r-- root/root        28 2019-02-06 10:15 ansible-role-core-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-06 10:15 ansible-role-core-master/meta/
+-rw-rw-r-- root/root      2100 2019-02-06 10:15 ansible-role-core-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-06 10:15 ansible-role-core-master/tasks/
+-rw-rw-r-- root/root       746 2019-02-06 10:15 ansible-role-core-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-06 10:15 ansible-role-core-master/tests/
+-rw-rw-r-- root/root         9 2019-02-06 10:15 ansible-role-core-master/tests/inventory
+-rw-rw-r-- root/root        62 2019-02-06 10:15 ansible-role-core-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-06 10:15 ansible-role-core-master/vars/
+-rw-rw-r-- root/root       202 2019-02-06 10:15 ansible-role-core-master/vars/main.yml

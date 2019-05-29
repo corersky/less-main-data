@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-09-26 03:29 ansible-confluent-platform-master/
+-rw-rw-r-- root/root        38 2018-09-26 03:29 ansible-confluent-platform-master/README.md
+drwxrwxr-x root/root         0 2018-09-26 03:29 ansible-confluent-platform-master/defaults/
+-rw-rw-r-- root/root       674 2018-09-26 03:29 ansible-confluent-platform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-26 03:29 ansible-confluent-platform-master/meta/
+-rw-rw-r-- root/root       323 2018-09-26 03:29 ansible-confluent-platform-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-26 03:29 ansible-confluent-platform-master/tasks/
+-rw-rw-r-- root/root       329 2018-09-26 03:29 ansible-confluent-platform-master/tasks/apt.yml
+-rw-rw-r-- root/root        47 2018-09-26 03:29 ansible-confluent-platform-master/tasks/main.yml
+-rw-rw-r-- root/root      2132 2018-09-26 03:29 ansible-confluent-platform-master/tasks/packages.yml

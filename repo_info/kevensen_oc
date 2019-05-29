@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-09-05 14:50 oc-master/
+-rw-rw-r-- root/root         6 2017-09-05 14:50 oc-master/.gitignore
+-rw-rw-r-- root/root      1591 2017-09-05 14:50 oc-master/README.md
+drwxrwxr-x root/root         0 2017-09-05 14:50 oc-master/filter_plugins/
+-rw-rw-r-- root/root      2451 2017-09-05 14:50 oc-master/filter_plugins/OCFilter.py
+drwxrwxr-x root/root         0 2017-09-05 14:50 oc-master/library/
+-rw-rw-r-- root/root     15799 2017-09-05 14:50 oc-master/library/oc.py
+drwxrwxr-x root/root         0 2017-09-05 14:50 oc-master/lookup_plugins/
+-rw-rw-r-- root/root      6707 2017-09-05 14:50 oc-master/lookup_plugins/oc.py
+drwxrwxr-x root/root         0 2017-09-05 14:50 oc-master/meta/
+-rw-rw-r-- root/root       346 2017-09-05 14:50 oc-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-05 14:50 oc-master/tests/
+-rw-rw-r-- root/root        11 2017-09-05 14:50 oc-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-09-05 14:50 oc-master/tests/test.yml

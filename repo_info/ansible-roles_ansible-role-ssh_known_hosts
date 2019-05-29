@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/
+-rw-rw-r-- root/root       202 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/.editorconfig
+-rw-rw-r-- root/root       611 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/.travis.yml
+-rw-rw-r-- root/root      1102 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/LICENSE
+-rw-rw-r-- root/root      1117 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/README.md
+drwxrwxr-x root/root         0 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/defaults/
+-rw-rw-r-- root/root       133 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/meta/
+-rw-rw-r-- root/root       295 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/tasks/
+-rw-rw-r-- root/root       401 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/tests/
+-rw-rw-r-- root/root         9 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/tests/.gitignore
+-rw-rw-r-- root/root       393 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/tests/Vagrantfile
+-rw-rw-r-- root/root        35 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/tests/inventory
+-rw-rw-r-- root/root       176 2015-06-21 08:31 ansible-role-ssh_known_hosts-master/tests/playbook.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-05 12:23 ansible-winehq-master/
+-rw-rw-r-- root/root        57 2018-01-05 12:23 ansible-winehq-master/.gitignore
+-rw-rw-r-- root/root       544 2018-01-05 12:23 ansible-winehq-master/.travis.yml
+-rw-rw-r-- root/root      1078 2018-01-05 12:23 ansible-winehq-master/LICENSE
+-rw-rw-r-- root/root       583 2018-01-05 12:23 ansible-winehq-master/README.md
+-rw-rw-r-- root/root       723 2018-01-05 12:23 ansible-winehq-master/circle.yml
+drwxrwxr-x root/root         0 2018-01-05 12:23 ansible-winehq-master/defaults/
+-rw-rw-r-- root/root       134 2018-01-05 12:23 ansible-winehq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-05 12:23 ansible-winehq-master/meta/
+-rw-rw-r-- root/root       364 2018-01-05 12:23 ansible-winehq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-05 12:23 ansible-winehq-master/tasks/
+-rw-rw-r-- root/root       918 2018-01-05 12:23 ansible-winehq-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2018-01-05 12:23 ansible-winehq-master/test.yml
+drwxrwxr-x root/root         0 2018-01-05 12:23 ansible-winehq-master/vars/
+-rw-rw-r-- root/root       138 2018-01-05 12:23 ansible-winehq-master/vars/main.yml

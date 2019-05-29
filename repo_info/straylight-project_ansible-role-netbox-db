@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-27 13:37 ansible-role-netbox-db-master/
+-rw-rw-r-- root/root     11357 2018-06-27 13:37 ansible-role-netbox-db-master/LICENSE
+-rw-rw-r-- root/root       712 2018-06-27 13:37 ansible-role-netbox-db-master/README.md
+drwxrwxr-x root/root         0 2018-06-27 13:37 ansible-role-netbox-db-master/defaults/
+-rw-rw-r-- root/root       127 2018-06-27 13:37 ansible-role-netbox-db-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-27 13:37 ansible-role-netbox-db-master/handlers/
+-rw-rw-r-- root/root        34 2018-06-27 13:37 ansible-role-netbox-db-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-27 13:37 ansible-role-netbox-db-master/meta/
+-rw-rw-r-- root/root       346 2018-06-27 13:37 ansible-role-netbox-db-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-27 13:37 ansible-role-netbox-db-master/tasks/
+-rw-rw-r-- root/root       536 2018-06-27 13:37 ansible-role-netbox-db-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-27 13:37 ansible-role-netbox-db-master/tests/
+-rw-rw-r-- root/root        11 2018-06-27 13:37 ansible-role-netbox-db-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-06-27 13:37 ansible-role-netbox-db-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-27 13:37 ansible-role-netbox-db-master/vars/
+-rw-rw-r-- root/root         5 2018-06-27 13:37 ansible-role-netbox-db-master/vars/main.yml

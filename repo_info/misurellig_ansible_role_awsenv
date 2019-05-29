@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-07 08:32 ansible_role_awsenv-master/
+-rw-rw-r-- root/root        35 2017-11-07 08:32 ansible_role_awsenv-master/.gitignore
+-rw-rw-r-- root/root       495 2017-11-07 08:32 ansible_role_awsenv-master/.travis.yml
+-rw-rw-r-- root/root      1424 2017-11-07 08:32 ansible_role_awsenv-master/README.md
+drwxrwxr-x root/root         0 2017-11-07 08:32 ansible_role_awsenv-master/defaults/
+-rw-rw-r-- root/root       396 2017-11-07 08:32 ansible_role_awsenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-07 08:32 ansible_role_awsenv-master/meta/
+-rw-rw-r-- root/root       264 2017-11-07 08:32 ansible_role_awsenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-07 08:32 ansible_role_awsenv-master/tasks/
+-rw-rw-r-- root/root       943 2017-11-07 08:32 ansible_role_awsenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-07 08:32 ansible_role_awsenv-master/tests/
+-rw-rw-r-- root/root        34 2017-11-07 08:32 ansible_role_awsenv-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2017-11-07 08:32 ansible_role_awsenv-master/tests/inventory
+-rwxrwxr-x root/root      3758 2017-11-07 08:32 ansible_role_awsenv-master/tests/test.sh
+-rw-rw-r-- root/root        48 2017-11-07 08:32 ansible_role_awsenv-master/tests/test.yml

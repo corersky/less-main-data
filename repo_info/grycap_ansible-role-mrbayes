@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-12-07 12:45 ansible-role-mrbayes-master/
+-rw-rw-r-- root/root      1135 2016-12-07 12:45 ansible-role-mrbayes-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-12-07 12:45 ansible-role-mrbayes-master/LICENSE
+-rw-rw-r-- root/root      1032 2016-12-07 12:45 ansible-role-mrbayes-master/README.md
+drwxrwxr-x root/root         0 2016-12-07 12:45 ansible-role-mrbayes-master/meta/
+-rw-rw-r-- root/root       254 2016-12-07 12:45 ansible-role-mrbayes-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-07 12:45 ansible-role-mrbayes-master/tasks/
+-rw-rw-r-- root/root       292 2016-12-07 12:45 ansible-role-mrbayes-master/tasks/Debian.yaml
+-rw-rw-r-- root/root       402 2016-12-07 12:45 ansible-role-mrbayes-master/tasks/RedHat.yaml
+-rw-rw-r-- root/root      1667 2016-12-07 12:45 ansible-role-mrbayes-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-07 12:45 ansible-role-mrbayes-master/tests/
+-rw-rw-r-- root/root        36 2016-12-07 12:45 ansible-role-mrbayes-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-12-07 12:45 ansible-role-mrbayes-master/tests/test.yml

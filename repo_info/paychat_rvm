@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-04-06 03:51 rvm-master/
+-rw-rw-r-- root/root       354 2014-04-06 03:51 rvm-master/README.md
+drwxrwxr-x root/root         0 2014-04-06 03:51 rvm-master/defaults/
+-rw-rw-r-- root/root        35 2014-04-06 03:51 rvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-04-06 03:51 rvm-master/files/
+-rwxrwxr-x root/root     20511 2014-04-06 03:51 rvm-master/files/rvm-installer
+drwxrwxr-x root/root         0 2014-04-06 03:51 rvm-master/meta/
+-rw-rw-r-- root/root       257 2014-04-06 03:51 rvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-06 03:51 rvm-master/tasks/
+-rw-rw-r-- root/root       236 2014-04-06 03:51 rvm-master/tasks/install_ruby.yml
+-rw-rw-r-- root/root       306 2014-04-06 03:51 rvm-master/tasks/install_rvm.yml
+-rw-rw-r-- root/root       447 2014-04-06 03:51 rvm-master/tasks/main.yml

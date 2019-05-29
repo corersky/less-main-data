@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-package-master/
+-rw-rw-r-- root/root      1347 2017-05-02 03:13 ansible-package-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1056 2017-05-02 03:13 ansible-package-master/LICENSE
+-rw-rw-r-- root/root       578 2017-05-02 03:13 ansible-package-master/README.md
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-package-master/defaults/
+-rw-rw-r-- root/root        59 2017-05-02 03:13 ansible-package-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-package-master/meta/
+-rw-rw-r-- root/root       265 2017-05-02 03:13 ansible-package-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-package-master/tasks/
+-rw-rw-r-- root/root       337 2017-05-02 03:13 ansible-package-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-package-master/tests/
+-rw-rw-r-- root/root        93 2017-05-02 03:13 ansible-package-master/tests/main.yml

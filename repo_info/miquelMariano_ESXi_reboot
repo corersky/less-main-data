@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-19 15:13 ESXi_reboot-master/
+-rw-rw-r-- root/root       539 2018-06-19 15:13 ESXi_reboot-master/.travis.yml
+-rw-rw-r-- root/root      1157 2018-06-19 15:13 ESXi_reboot-master/README.md
+drwxrwxr-x root/root         0 2018-06-19 15:13 ESXi_reboot-master/defaults/
+-rw-rw-r-- root/root        36 2018-06-19 15:13 ESXi_reboot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-19 15:13 ESXi_reboot-master/handlers/
+-rw-rw-r-- root/root        36 2018-06-19 15:13 ESXi_reboot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-19 15:13 ESXi_reboot-master/meta/
+-rw-rw-r-- root/root       381 2018-06-19 15:13 ESXi_reboot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-19 15:13 ESXi_reboot-master/tasks/
+-rw-rw-r-- root/root       917 2018-06-19 15:13 ESXi_reboot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-19 15:13 ESXi_reboot-master/tests/
+-rw-rw-r-- root/root         9 2018-06-19 15:13 ESXi_reboot-master/tests/inventory
+-rw-rw-r-- root/root        69 2018-06-19 15:13 ESXi_reboot-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-19 15:13 ESXi_reboot-master/vars/
+-rw-rw-r-- root/root       114 2018-06-19 15:13 ESXi_reboot-master/vars/main.yml

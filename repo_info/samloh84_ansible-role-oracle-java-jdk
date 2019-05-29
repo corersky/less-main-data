@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/
+-rw-rw-r-- root/root       971 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/.gitignore
+-rw-rw-r-- root/root       663 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/README.md
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/defaults/
+-rw-rw-r-- root/root        68 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/meta/
+-rw-rw-r-- root/root       269 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/tasks/
+-rw-rw-r-- root/root      3488 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/templates/
+-rw-rw-r-- root/root       135 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/templates/java.sh.j2
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/tests/
+-rw-rw-r-- root/root        81 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/vars/
+-rw-rw-r-- root/root      2616 2016-11-15 03:44 ansible-role-oracle-java-jdk-master/vars/main.yml

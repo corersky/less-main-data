@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/
+-rw-rw-r-- root/root        17 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/.gitignore
+-rw-rw-r-- root/root       349 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/.travis.yml
+-rw-rw-r-- root/root       768 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/README.md
+drwxrwxr-x root/root         0 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/defaults/
+-rw-rw-r-- root/root        49 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/meta/
+-rw-rw-r-- root/root       272 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/tasks/
+-rw-rw-r-- root/root       199 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/tests/
+-rw-rw-r-- root/root       276 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/tests/Vagrantfile
+-rw-rw-r-- root/root        31 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/tests/inventory-local
+-rw-rw-r-- root/root        67 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/vars/
+-rw-rw-r-- root/root       374 2017-06-28 08:45 ansible-rbenv-install-dep-ubuntu-master/vars/main.yml

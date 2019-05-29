@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-08 22:37 ansible-role-adminer-master/
+-rw-rw-r-- root/root       960 2015-10-08 22:37 ansible-role-adminer-master/.travis.yml
+-rw-rw-r-- root/root      2182 2015-10-08 22:37 ansible-role-adminer-master/README.md
+drwxrwxr-x root/root         0 2015-10-08 22:37 ansible-role-adminer-master/defaults/
+-rw-rw-r-- root/root       134 2015-10-08 22:37 ansible-role-adminer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-08 22:37 ansible-role-adminer-master/meta/
+-rw-rw-r-- root/root       701 2015-10-08 22:37 ansible-role-adminer-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-08 22:37 ansible-role-adminer-master/tasks/
+-rw-rw-r-- root/root      1334 2015-10-08 22:37 ansible-role-adminer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-08 22:37 ansible-role-adminer-master/templates/
+-rw-rw-r-- root/root       235 2015-10-08 22:37 ansible-role-adminer-master/templates/adminer.conf.j2
+drwxrwxr-x root/root         0 2015-10-08 22:37 ansible-role-adminer-master/tests/
+-rw-rw-r-- root/root        10 2015-10-08 22:37 ansible-role-adminer-master/tests/inventory
+-rw-rw-r-- root/root       150 2015-10-08 22:37 ansible-role-adminer-master/tests/test-apache.yml
+-rw-rw-r-- root/root       164 2015-10-08 22:37 ansible-role-adminer-master/tests/test-standalone.yml

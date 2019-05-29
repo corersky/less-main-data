@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-19 10:04 ansible-role-php-gd-master/
+-rw-rw-r-- root/root       126 2015-10-19 10:04 ansible-role-php-gd-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 10:04 ansible-role-php-gd-master/defaults/
+-rw-rw-r-- root/root        62 2015-10-19 10:04 ansible-role-php-gd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:04 ansible-role-php-gd-master/meta/
+-rw-rw-r-- root/root       321 2015-10-19 10:04 ansible-role-php-gd-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:04 ansible-role-php-gd-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 10:04 ansible-role-php-gd-master/tasks/debian/
+-rw-rw-r-- root/root       316 2015-10-19 10:04 ansible-role-php-gd-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       337 2015-10-19 10:04 ansible-role-php-gd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:04 ansible-role-php-gd-master/tasks/redhat/
+-rw-rw-r-- root/root        91 2015-10-19 10:04 ansible-role-php-gd-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:04 ansible-role-php-gd-master/templates/
+-rw-rw-r-- root/root       106 2015-10-19 10:04 ansible-role-php-gd-master/templates/gd.ini.j2
+drwxrwxr-x root/root         0 2015-10-19 10:04 ansible-role-php-gd-master/vars/
+-rw-rw-r-- root/root        49 2015-10-19 10:04 ansible-role-php-gd-master/vars/Debian.yml
+-rw-rw-r-- root/root        48 2015-10-19 10:04 ansible-role-php-gd-master/vars/RedHat.yml

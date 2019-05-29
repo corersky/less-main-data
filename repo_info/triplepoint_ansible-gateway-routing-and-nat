@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/
+-rw-rw-r-- root/root      1620 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/.gitignore
+-rw-rw-r-- root/root      1072 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/LICENSE.md
+-rw-rw-r-- root/root       167 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/README.md
+drwxrwxr-x root/root         0 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/defaults/
+-rw-rw-r-- root/root      1286 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/handlers/
+-rw-rw-r-- root/root       173 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/meta/
+-rw-rw-r-- root/root       287 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/tasks/
+-rw-rw-r-- root/root       731 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/templates/
+-rw-rw-r-- root/root      2104 2018-12-09 16:33 ansible-gateway-routing-and-nat-master/templates/iptables_v4_config.j2

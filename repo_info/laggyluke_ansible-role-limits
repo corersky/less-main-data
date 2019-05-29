@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-01-27 10:08 ansible-role-limits-master/
+-rw-rw-r-- root/root       179 2014-01-27 10:08 ansible-role-limits-master/README.md
+drwxrwxr-x root/root         0 2014-01-27 10:08 ansible-role-limits-master/handlers/
+-rw-rw-r-- root/root        71 2014-01-27 10:08 ansible-role-limits-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-01-27 10:08 ansible-role-limits-master/meta/
+-rw-rw-r-- root/root       227 2014-01-27 10:08 ansible-role-limits-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-27 10:08 ansible-role-limits-master/tasks/
+-rw-rw-r-- root/root       362 2014-01-27 10:08 ansible-role-limits-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-27 10:08 ansible-role-limits-master/templates/
+-rw-rw-r-- root/root        42 2014-01-27 10:08 ansible-role-limits-master/templates/limits.conf.j2
+-rw-rw-r-- root/root       362 2014-01-27 10:08 ansible-role-limits-master/templates/sysctl.conf.j2

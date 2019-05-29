@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-12 05:24 ansible-samba-master/
+-rw-rw-r-- root/root         0 2017-05-12 05:24 ansible-samba-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-12 05:24 ansible-samba-master/LICENSE
+-rw-rw-r-- root/root      5428 2017-05-12 05:24 ansible-samba-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 05:24 ansible-samba-master/defaults/
+-rw-rw-r-- root/root      4031 2017-05-12 05:24 ansible-samba-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:24 ansible-samba-master/handlers/
+-rw-rw-r-- root/root       230 2017-05-12 05:24 ansible-samba-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:24 ansible-samba-master/meta/
+-rw-rw-r-- root/root       258 2017-05-12 05:24 ansible-samba-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 05:24 ansible-samba-master/tasks/
+-rw-rw-r-- root/root       976 2017-05-12 05:24 ansible-samba-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:24 ansible-samba-master/templates/
+-rw-rw-r-- root/root        86 2017-05-12 05:24 ansible-samba-master/templates/lmhosts.j2
+-rw-rw-r-- root/root        82 2017-05-12 05:24 ansible-samba-master/templates/smb.conf.j2
+-rw-rw-r-- root/root        88 2017-05-12 05:24 ansible-samba-master/templates/smbusers.j2

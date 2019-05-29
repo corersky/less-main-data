@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-29 10:11 ansible-role-debpkg-master/
+-rw-rw-r-- root/root     11342 2017-07-29 10:11 ansible-role-debpkg-master/LICENSE
+-rw-rw-r-- root/root      2994 2017-07-29 10:11 ansible-role-debpkg-master/README.md
+drwxrwxr-x root/root         0 2017-07-29 10:11 ansible-role-debpkg-master/defaults/
+-rw-rw-r-- root/root       513 2017-07-29 10:11 ansible-role-debpkg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-29 10:11 ansible-role-debpkg-master/meta/
+-rw-rw-r-- root/root       374 2017-07-29 10:11 ansible-role-debpkg-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-29 10:11 ansible-role-debpkg-master/tasks/
+-rw-rw-r-- root/root       998 2017-07-29 10:11 ansible-role-debpkg-master/tasks/chroots.yml
+-rw-rw-r-- root/root       533 2017-07-29 10:11 ansible-role-debpkg-master/tasks/lintian.yml
+-rw-rw-r-- root/root       377 2017-07-29 10:11 ansible-role-debpkg-master/tasks/mail.yml
+-rw-rw-r-- root/root       283 2017-07-29 10:11 ansible-role-debpkg-master/tasks/main.yml
+-rw-rw-r-- root/root       597 2017-07-29 10:11 ansible-role-debpkg-master/tasks/piuparts.yml
+-rw-rw-r-- root/root       728 2017-07-29 10:11 ansible-role-debpkg-master/tasks/sbuild.yml
+drwxrwxr-x root/root         0 2017-07-29 10:11 ansible-role-debpkg-master/vars/
+-rw-rw-r-- root/root       240 2017-07-29 10:11 ansible-role-debpkg-master/vars/Debian.yml
+-rw-rw-r-- root/root       248 2017-07-29 10:11 ansible-role-debpkg-master/vars/Ubuntu.yml

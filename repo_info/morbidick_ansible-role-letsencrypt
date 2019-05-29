@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root        23 2018-04-16 06:52 ansible-role-letsencrypt-master/.gitignore
+-rw-rw-r-- root/root       916 2018-04-16 06:52 ansible-role-letsencrypt-master/.travis.yml
+-rw-rw-r-- root/root      6354 2018-04-16 06:52 ansible-role-letsencrypt-master/README.md
+-rw-rw-r-- root/root       313 2018-04-16 06:52 ansible-role-letsencrypt-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root      2785 2018-04-16 06:52 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/filter_plugins/
+-rw-rw-r-- root/root       967 2018-04-16 06:52 ansible-role-letsencrypt-master/filter_plugins/helpers.py
+drwxrwxr-x root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/handlers/
+-rw-rw-r-- root/root       177 2018-04-16 06:52 ansible-role-letsencrypt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root       399 2018-04-16 06:52 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root       504 2018-04-16 06:52 ansible-role-letsencrypt-master/tasks/cert_check.yml
+-rw-rw-r-- root/root      3686 2018-04-16 06:52 ansible-role-letsencrypt-master/tasks/cert_renew.yml
+-rw-rw-r-- root/root      4774 2018-04-16 06:52 ansible-role-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/tests/
+-rw-rw-r-- root/root      1092 2018-04-16 06:52 ansible-role-letsencrypt-master/tests/filter_default_from_list.yml
+-rw-rw-r-- root/root       755 2018-04-16 06:52 ansible-role-letsencrypt-master/tests/filter_pluck_key.yml
+lrwxrwxrwx root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/tests/filter_plugins -> ../filter_plugins
+-rw-rw-r-- root/root       133 2018-04-16 06:52 ansible-role-letsencrypt-master/tests/role.yml
+lrwxrwxrwx root/root         0 2018-04-16 06:52 ansible-role-letsencrypt-master/tests/role_under_test -> ..

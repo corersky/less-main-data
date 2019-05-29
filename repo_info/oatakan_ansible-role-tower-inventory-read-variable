@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/
+-rw-rw-r-- root/root       539 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/.travis.yml
+-rw-rw-r-- root/root       804 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/README.md
+drwxrwxr-x root/root         0 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/defaults/
+-rw-rw-r-- root/root        75 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/meta/
+-rw-rw-r-- root/root       341 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/tasks/
+-rw-rw-r-- root/root      1044 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/tests/
+-rw-rw-r-- root/root         9 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/tests/inventory
+-rw-rw-r-- root/root       100 2017-07-17 16:07 ansible-role-tower-inventory-read-variable-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-01 09:01 common-role-master/
+-rw-rw-r-- root/root        22 2019-03-01 09:01 common-role-master/README.md
+drwxrwxr-x root/root         0 2019-03-01 09:01 common-role-master/defaults/
+-rw-rw-r-- root/root       254 2019-03-01 09:01 common-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-01 09:01 common-role-master/handlers/
+-rwxrwxr-x root/root       106 2019-03-01 09:01 common-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-01 09:01 common-role-master/meta/
+-rw-rw-r-- root/root       291 2019-03-01 09:01 common-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-01 09:01 common-role-master/tasks/
+-rwxrwxr-x root/root       533 2019-03-01 09:01 common-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-01 09:01 common-role-master/templates/
+-rwxrwxr-x root/root       461 2019-03-01 09:01 common-role-master/templates/hosts.j2
+-rw-rw-r-- root/root      1116 2019-03-01 09:01 common-role-master/templates/sources.list.j2
+drwxrwxr-x root/root         0 2019-03-01 09:01 common-role-master/vars/
+-rw-rw-r-- root/root         0 2019-03-01 09:01 common-role-master/vars/debian.yml

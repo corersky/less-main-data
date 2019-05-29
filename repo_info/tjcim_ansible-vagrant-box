@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-vagrant-box-master/
+-rw-rw-r-- root/root      1085 2017-11-14 15:14 ansible-vagrant-box-master/README.md
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-vagrant-box-master/defaults/
+-rw-rw-r-- root/root        43 2017-11-14 15:14 ansible-vagrant-box-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-vagrant-box-master/handlers/
+-rw-rw-r-- root/root       182 2017-11-14 15:14 ansible-vagrant-box-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-vagrant-box-master/meta/
+-rw-rw-r-- root/root       322 2017-11-14 15:14 ansible-vagrant-box-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-vagrant-box-master/tasks/
+-rw-rw-r-- root/root      2109 2017-11-14 15:14 ansible-vagrant-box-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-vagrant-box-master/tests/
+-rw-rw-r-- root/root        11 2017-11-14 15:14 ansible-vagrant-box-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-11-14 15:14 ansible-vagrant-box-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-vagrant-box-master/vars/
+-rw-rw-r-- root/root        39 2017-11-14 15:14 ansible-vagrant-box-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/
+-rw-rw-r-- root/root      1328 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/README.md
+drwxrwxr-x root/root         0 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/defaults/
+-rw-rw-r-- root/root       112 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/handlers/
+-rw-rw-r-- root/root        49 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/meta/
+-rw-rw-r-- root/root       323 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/tasks/
+-rw-rw-r-- root/root       992 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/tests/
+-rw-rw-r-- root/root        11 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/tests/inventory
+-rw-rw-r-- root/root        91 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/vars/
+-rw-rw-r-- root/root        45 2017-07-25 17:03 ansible-role-gitlab-pipeline-artifacts-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-mosh-master/
+-rw-rw-r-- root/root         4 2016-03-09 14:38 ansible-mosh-master/.gitignore
+-rw-rw-r-- root/root      1084 2016-03-09 14:38 ansible-mosh-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-03-09 14:38 ansible-mosh-master/README.md
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-mosh-master/defaults/
+-rw-rw-r-- root/root        29 2016-03-09 14:38 ansible-mosh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-mosh-master/handlers/
+-rw-rw-r-- root/root        29 2016-03-09 14:38 ansible-mosh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-mosh-master/meta/
+-rw-rw-r-- root/root       406 2016-03-09 14:38 ansible-mosh-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-mosh-master/tasks/
+-rw-rw-r-- root/root        64 2016-03-09 14:38 ansible-mosh-master/tasks/main.yml
+-rw-rw-r-- root/root        26 2016-03-09 14:38 ansible-mosh-master/tasks/main.yml~
+-rw-rw-r-- root/root        46 2016-03-09 14:38 ansible-mosh-master/test.yml
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-mosh-master/vars/
+-rw-rw-r-- root/root        25 2016-03-09 14:38 ansible-mosh-master/vars/main.yml

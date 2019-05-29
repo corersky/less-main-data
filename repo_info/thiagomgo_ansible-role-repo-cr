@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-30 18:33 ansible-role-repo-cr-master/
+-rw-rw-r-- root/root       476 2016-08-30 18:33 ansible-role-repo-cr-master/.gitignore
+-rw-rw-r-- root/root      2101 2016-08-30 18:33 ansible-role-repo-cr-master/.travis.yml
+-rw-rw-r-- root/root       709 2016-08-30 18:33 ansible-role-repo-cr-master/README.md
+drwxrwxr-x root/root         0 2016-08-30 18:33 ansible-role-repo-cr-master/meta/
+-rw-rw-r-- root/root       306 2016-08-30 18:33 ansible-role-repo-cr-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-30 18:33 ansible-role-repo-cr-master/tasks/
+-rw-rw-r-- root/root       212 2016-08-30 18:33 ansible-role-repo-cr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-30 18:33 ansible-role-repo-cr-master/tests/
+-rw-rw-r-- root/root       461 2016-08-30 18:33 ansible-role-repo-cr-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1073 2016-08-30 18:33 ansible-role-repo-cr-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root        75 2016-08-30 18:33 ansible-role-repo-cr-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-14 03:20 ansible-vim-master/
+-rw-rw-r-- root/root        10 2019-01-14 03:20 ansible-vim-master/.gitignore
+-rw-rw-r-- root/root       674 2019-01-14 03:20 ansible-vim-master/README.md
+drwxrwxr-x root/root         0 2019-01-14 03:20 ansible-vim-master/defaults/
+-rw-rw-r-- root/root        65 2019-01-14 03:20 ansible-vim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-14 03:20 ansible-vim-master/handlers/
+-rw-rw-r-- root/root       242 2019-01-14 03:20 ansible-vim-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-14 03:20 ansible-vim-master/meta/
+-rw-rw-r-- root/root       345 2019-01-14 03:20 ansible-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-14 03:20 ansible-vim-master/tasks/
+-rw-rw-r-- root/root       795 2019-01-14 03:20 ansible-vim-master/tasks/install_neovim.yml
+-rw-rw-r-- root/root        93 2019-01-14 03:20 ansible-vim-master/tasks/install_vim8.yml
+-rw-rw-r-- root/root      3213 2019-01-14 03:20 ansible-vim-master/tasks/install_vim_plugins.yml
+-rw-rw-r-- root/root      3074 2019-01-14 03:20 ansible-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-14 03:20 ansible-vim-master/vars/
+-rw-rw-r-- root/root         4 2019-01-14 03:20 ansible-vim-master/vars/main.yml

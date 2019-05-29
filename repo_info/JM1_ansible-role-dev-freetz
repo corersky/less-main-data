@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-freetz-master/
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-freetz-master/defaults/
+-rw-rw-r-- root/root         4 2019-05-08 06:17 ansible-role-dev-freetz-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-freetz-master/meta/
+-rw-rw-r-- root/root       411 2019-05-08 06:17 ansible-role-dev-freetz-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-freetz-master/tasks/
+-rw-rw-r-- root/root       140 2019-05-08 06:17 ansible-role-dev-freetz-master/tasks/main.yml
+-rw-rw-r-- root/root       273 2019-05-08 06:17 ansible-role-dev-freetz-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-freetz-master/vars/
+-rw-rw-r-- root/root       992 2019-05-08 06:17 ansible-role-dev-freetz-master/vars/Debian-Buster.yml

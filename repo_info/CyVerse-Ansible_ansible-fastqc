@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-26 12:48 ansible-fastqc-master/
+-rw-rw-r-- root/root      1945 2017-07-26 12:48 ansible-fastqc-master/LICENSE.txt
+-rw-rw-r-- root/root       598 2017-07-26 12:48 ansible-fastqc-master/README.md
+drwxrwxr-x root/root         0 2017-07-26 12:48 ansible-fastqc-master/defaults/
+-rw-rw-r-- root/root        23 2017-07-26 12:48 ansible-fastqc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-26 12:48 ansible-fastqc-master/meta/
+-rw-rw-r-- root/root       327 2017-07-26 12:48 ansible-fastqc-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-26 12:48 ansible-fastqc-master/tasks/
+-rw-rw-r-- root/root       920 2017-07-26 12:48 ansible-fastqc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-26 12:48 ansible-fastqc-master/vars/
+-rw-rw-r-- root/root        32 2017-07-26 12:48 ansible-fastqc-master/vars/CentOS.yml
+-rw-rw-r-- root/root        36 2017-07-26 12:48 ansible-fastqc-master/vars/Ubuntu-14.yml
+-rw-rw-r-- root/root        27 2017-07-26 12:48 ansible-fastqc-master/vars/Ubuntu-16.yml

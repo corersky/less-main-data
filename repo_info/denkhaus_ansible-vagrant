@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-17 12:02 ansible-vagrant-master/
+-rw-rw-r-- root/root        43 2016-03-17 12:02 ansible-vagrant-master/.gitignore
+-rw-rw-r-- root/root        29 2016-03-17 12:02 ansible-vagrant-master/CHANGELOG.md
+-rw-rw-r-- root/root       267 2016-03-17 12:02 ansible-vagrant-master/README.md
+drwxrwxr-x root/root         0 2016-03-17 12:02 ansible-vagrant-master/defaults/
+-rw-rw-r-- root/root       189 2016-03-17 12:02 ansible-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-17 12:02 ansible-vagrant-master/examples/
+-rw-rw-r-- root/root       557 2016-03-17 12:02 ansible-vagrant-master/examples/Vagrantfile
+-rw-rw-r-- root/root        24 2016-03-17 12:02 ansible-vagrant-master/examples/roles.txt
+-rw-rw-r-- root/root        59 2016-03-17 12:02 ansible-vagrant-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-03-17 12:02 ansible-vagrant-master/meta/
+-rw-rw-r-- root/root       296 2016-03-17 12:02 ansible-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-17 12:02 ansible-vagrant-master/tasks/
+-rw-rw-r-- root/root       282 2016-03-17 12:02 ansible-vagrant-master/tasks/main.yml

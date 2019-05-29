@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-03 06:19 ansible-role-supervisor-master/
+-rw-rw-r-- root/root        12 2016-08-03 06:19 ansible-role-supervisor-master/.gitattributes
+-rw-rw-r-- root/root        10 2016-08-03 06:19 ansible-role-supervisor-master/.gitignore
+-rw-rw-r-- root/root      1104 2016-08-03 06:19 ansible-role-supervisor-master/LICENSE
+-rw-rw-r-- root/root       464 2016-08-03 06:19 ansible-role-supervisor-master/README.md
+drwxrwxr-x root/root         0 2016-08-03 06:19 ansible-role-supervisor-master/handlers/
+-rw-rw-r-- root/root       171 2016-08-03 06:19 ansible-role-supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-03 06:19 ansible-role-supervisor-master/meta/
+-rw-rw-r-- root/root       394 2016-08-03 06:19 ansible-role-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-03 06:19 ansible-role-supervisor-master/tasks/
+-rw-rw-r-- root/root       240 2016-08-03 06:19 ansible-role-supervisor-master/tasks/centos.yml
+-rw-rw-r-- root/root       223 2016-08-03 06:19 ansible-role-supervisor-master/tasks/main.yml
+-rw-rw-r-- root/root       278 2016-08-03 06:19 ansible-role-supervisor-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2016-08-03 06:19 ansible-role-supervisor-master/vars/
+-rw-rw-r-- root/root        76 2016-08-03 06:19 ansible-role-supervisor-master/vars/centos.yml
+-rw-rw-r-- root/root        35 2016-08-03 06:19 ansible-role-supervisor-master/vars/main.yml
+-rw-rw-r-- root/root        79 2016-08-03 06:19 ansible-role-supervisor-master/vars/ubuntu.yml

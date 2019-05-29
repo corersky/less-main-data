@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-19 23:58 ansible-role-telemetry-client-master/
+-rw-rw-r-- root/root      1080 2018-09-19 23:58 ansible-role-telemetry-client-master/LICENSE
+-rw-rw-r-- root/root      1351 2018-09-19 23:58 ansible-role-telemetry-client-master/README.md
+drwxrwxr-x root/root         0 2018-09-19 23:58 ansible-role-telemetry-client-master/defaults/
+-rw-rw-r-- root/root       136 2018-09-19 23:58 ansible-role-telemetry-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-19 23:58 ansible-role-telemetry-client-master/handlers/
+-rw-rw-r-- root/root        86 2018-09-19 23:58 ansible-role-telemetry-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-19 23:58 ansible-role-telemetry-client-master/meta/
+-rw-rw-r-- root/root       271 2018-09-19 23:58 ansible-role-telemetry-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-19 23:58 ansible-role-telemetry-client-master/tasks/
+-rw-rw-r-- root/root       304 2018-09-19 23:58 ansible-role-telemetry-client-master/tasks/configure.yml
+-rw-rw-r-- root/root       138 2018-09-19 23:58 ansible-role-telemetry-client-master/tasks/download.yml
+-rw-rw-r-- root/root       514 2018-09-19 23:58 ansible-role-telemetry-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-19 23:58 ansible-role-telemetry-client-master/templates/
+-rw-rw-r-- root/root       966 2018-09-19 23:58 ansible-role-telemetry-client-master/templates/telegraf.conf.j2

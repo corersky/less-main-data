@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-20 17:05 ansible-role-helm-master/
+-rw-rw-r-- root/root       189 2019-05-20 17:05 ansible-role-helm-master/README.md
+drwxrwxr-x root/root         0 2019-05-20 17:05 ansible-role-helm-master/defaults/
+-rw-rw-r-- root/root        61 2019-05-20 17:05 ansible-role-helm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-20 17:05 ansible-role-helm-master/handlers/
+-rw-rw-r-- root/root         4 2019-05-20 17:05 ansible-role-helm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-20 17:05 ansible-role-helm-master/meta/
+-rw-rw-r-- root/root      1971 2019-05-20 17:05 ansible-role-helm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-20 17:05 ansible-role-helm-master/tasks/
+-rw-rw-r-- root/root        36 2019-05-20 17:05 ansible-role-helm-master/tasks/helm.yml
+-rw-rw-r-- root/root       442 2019-05-20 17:05 ansible-role-helm-master/tasks/kube.yml
+-rw-rw-r-- root/root        24 2019-05-20 17:05 ansible-role-helm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-20 17:05 ansible-role-helm-master/tests/
+-rw-rw-r-- root/root        11 2019-05-20 17:05 ansible-role-helm-master/tests/inventory
+-rw-rw-r-- root/root        84 2019-05-20 17:05 ansible-role-helm-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-20 17:05 ansible-role-helm-master/vars/
+-rw-rw-r-- root/root         4 2019-05-20 17:05 ansible-role-helm-master/vars/main.yml

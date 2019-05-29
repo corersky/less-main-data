@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-01-29 07:56 ansible-unicorn-master/
+-rw-rw-r-- root/root         0 2015-01-29 07:56 ansible-unicorn-master/README.md
+drwxrwxr-x root/root         0 2015-01-29 07:56 ansible-unicorn-master/defaults/
+-rw-rw-r-- root/root       183 2015-01-29 07:56 ansible-unicorn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-29 07:56 ansible-unicorn-master/meta/
+-rw-rw-r-- root/root       132 2015-01-29 07:56 ansible-unicorn-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-29 07:56 ansible-unicorn-master/tasks/
+-rw-rw-r-- root/root       177 2015-01-29 07:56 ansible-unicorn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-29 07:56 ansible-unicorn-master/templates/
+-rw-rw-r-- root/root      1187 2015-01-29 07:56 ansible-unicorn-master/templates/unicorn.rb.j2

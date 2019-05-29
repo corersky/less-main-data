@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-27 16:23 ansible-role-rubymotion-master/
+-rw-rw-r-- root/root       539 2016-06-27 16:23 ansible-role-rubymotion-master/.travis.yml
+-rw-rw-r-- root/root       797 2016-06-27 16:23 ansible-role-rubymotion-master/README.md
+drwxrwxr-x root/root         0 2016-06-27 16:23 ansible-role-rubymotion-master/meta/
+-rw-rw-r-- root/root       356 2016-06-27 16:23 ansible-role-rubymotion-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-27 16:23 ansible-role-rubymotion-master/tasks/
+-rw-rw-r-- root/root       946 2016-06-27 16:23 ansible-role-rubymotion-master/tasks/android.yaml
+-rw-rw-r-- root/root       356 2016-06-27 16:23 ansible-role-rubymotion-master/tasks/apple.yaml
+-rw-rw-r-- root/root       543 2016-06-27 16:23 ansible-role-rubymotion-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-06-27 16:23 ansible-role-rubymotion-master/tests/
+-rw-rw-r-- root/root         9 2016-06-27 16:23 ansible-role-rubymotion-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-06-27 16:23 ansible-role-rubymotion-master/tests/test.yml

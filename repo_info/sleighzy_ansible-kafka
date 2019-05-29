@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2018-08-04 18:10 ansible-kafka-master/
+-rw-rw-r-- root/root        33 2018-08-04 18:10 ansible-kafka-master/.gitignore
+-rw-rw-r-- root/root      4501 2018-08-04 18:10 ansible-kafka-master/.travis.yml
+-rw-rw-r-- root/root      2870 2018-08-04 18:10 ansible-kafka-master/README.md
+drwxrwxr-x root/root         0 2018-08-04 18:10 ansible-kafka-master/defaults/
+-rw-rw-r-- root/root      5773 2018-08-04 18:10 ansible-kafka-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-08-04 18:10 ansible-kafka-master/handlers/
+-rw-rw-r-- root/root       204 2018-08-04 18:10 ansible-kafka-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2018-08-04 18:10 ansible-kafka-master/meta/
+-rw-rw-r-- root/root       265 2018-08-04 18:10 ansible-kafka-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-04 18:10 ansible-kafka-master/tasks/
+-rw-rw-r-- root/root      5166 2018-08-04 18:10 ansible-kafka-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-08-04 18:10 ansible-kafka-master/templates/
+-rw-rw-r-- root/root      6267 2018-08-04 18:10 ansible-kafka-master/templates/connect-distributed.properties.j2
+-rw-rw-r-- root/root      3050 2018-08-04 18:10 ansible-kafka-master/templates/connect-standalone.properties.j2
+-rw-rw-r-- root/root      1278 2018-08-04 18:10 ansible-kafka-master/templates/consumer.properties.j2
+-rw-rw-r-- root/root      1135 2018-08-04 18:10 ansible-kafka-master/templates/kafka.initd.j2
+-rw-rw-r-- root/root       414 2018-08-04 18:10 ansible-kafka-master/templates/kafka.service.j2
+-rw-rw-r-- root/root      2001 2018-08-04 18:10 ansible-kafka-master/templates/producer.properties.j2
+-rw-rw-r-- root/root      8074 2018-08-04 18:10 ansible-kafka-master/templates/server.properties.j2
+-rw-rw-r-- root/root      1128 2018-08-04 18:10 ansible-kafka-master/templates/zookeeper.properties.j2
+drwxrwxr-x root/root         0 2018-08-04 18:10 ansible-kafka-master/tests/
+-rw-rw-r-- root/root       805 2018-08-04 18:10 ansible-kafka-master/tests/inventory
+-rw-rw-r-- root/root        44 2018-08-04 18:10 ansible-kafka-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-08-04 18:10 ansible-kafka-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-08-04 18:10 ansible-kafka-master/tests/roles/ansible-kafka -> ../../../ansible-kafka
+-rw-rw-r-- root/root      2910 2018-08-04 18:10 ansible-kafka-master/tests/test.yaml

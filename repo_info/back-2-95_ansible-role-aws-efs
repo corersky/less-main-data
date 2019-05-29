@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-12-26 08:00 ansible-role-aws-efs-master/
+-rw-rw-r-- root/root         5 2016-12-26 08:00 ansible-role-aws-efs-master/.gitignore
+-rw-rw-r-- root/root      1081 2016-12-26 08:00 ansible-role-aws-efs-master/LICENSE
+-rw-rw-r-- root/root      1033 2016-12-26 08:00 ansible-role-aws-efs-master/README.md
+drwxrwxr-x root/root         0 2016-12-26 08:00 ansible-role-aws-efs-master/defaults/
+-rw-rw-r-- root/root       689 2016-12-26 08:00 ansible-role-aws-efs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-26 08:00 ansible-role-aws-efs-master/meta/
+-rw-rw-r-- root/root       303 2016-12-26 08:00 ansible-role-aws-efs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-26 08:00 ansible-role-aws-efs-master/tasks/
+-rw-rw-r-- root/root       893 2016-12-26 08:00 ansible-role-aws-efs-master/tasks/main.yml

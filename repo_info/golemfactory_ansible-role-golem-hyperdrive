@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/
+-rw-rw-r-- root/root       118 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/README.md
+drwxrwxr-x root/root         0 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/defaults/
+-rw-rw-r-- root/root       431 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/handlers/
+-rw-rw-r-- root/root       159 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/meta/
+-rw-rw-r-- root/root       302 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/tasks/
+-rw-rw-r-- root/root      1990 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/templates/
+-rw-rw-r-- root/root       325 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/templates/hyperdrive.service.j2
+drwxrwxr-x root/root         0 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/tests/
+-rw-rw-r-- root/root        11 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/vars/
+-rw-rw-r-- root/root        36 2019-03-14 08:42 ansible-role-golem-hyperdrive-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-25 04:12 ansible-role-dhcpd-master/
+-rw-rw-r-- root/root      1504 2017-09-25 04:12 ansible-role-dhcpd-master/README.md
+drwxrwxr-x root/root         0 2017-09-25 04:12 ansible-role-dhcpd-master/defaults/
+-rw-rw-r-- root/root       187 2017-09-25 04:12 ansible-role-dhcpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-25 04:12 ansible-role-dhcpd-master/handlers/
+-rw-rw-r-- root/root       225 2017-09-25 04:12 ansible-role-dhcpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-25 04:12 ansible-role-dhcpd-master/meta/
+-rw-rw-r-- root/root       233 2017-09-25 04:12 ansible-role-dhcpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-25 04:12 ansible-role-dhcpd-master/tasks/
+-rw-rw-r-- root/root       176 2017-09-25 04:12 ansible-role-dhcpd-master/tasks/main.yml
+-rw-rw-r-- root/root       492 2017-09-25 04:12 ansible-role-dhcpd-master/tasks/setup-RedHat.yml
+-rw-rw-r-- root/root       510 2017-09-25 04:12 ansible-role-dhcpd-master/tasks/setup-Ubuntu.yml
+drwxrwxr-x root/root         0 2017-09-25 04:12 ansible-role-dhcpd-master/templates/
+-rw-rw-r-- root/root      1036 2017-09-25 04:12 ansible-role-dhcpd-master/templates/dhcpd.conf.j2
+-rw-rw-r-- root/root       365 2017-09-25 04:12 ansible-role-dhcpd-master/templates/dhcpd.service.j2
+-rw-rw-r-- root/root        40 2017-09-25 04:12 ansible-role-dhcpd-master/templates/isc-dhcp-server.j2

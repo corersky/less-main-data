@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-04 03:13 users-master/
+-rw-rw-r-- root/root        47 2019-02-04 03:13 users-master/.gitignore
+-rw-rw-r-- root/root      1077 2019-02-04 03:13 users-master/LICENSE
+-rw-rw-r-- root/root       689 2019-02-04 03:13 users-master/README.md
+-rw-rw-r-- root/root       364 2019-02-04 03:13 users-master/main.yml
+drwxrwxr-x root/root         0 2019-02-04 03:13 users-master/meta/
+-rw-rw-r-- root/root       364 2019-02-04 03:13 users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-04 03:13 users-master/tasks/
+-rw-rw-r-- root/root      2402 2019-02-04 03:13 users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-04 03:13 users-master/tests/
+-rw-rw-r-- root/root      1046 2019-02-04 03:13 users-master/tests/Vagrantfile
+-rw-rw-r-- root/root        42 2019-02-04 03:13 users-master/tests/ansible.cfg
+-rw-rw-r-- root/root       396 2019-02-04 03:13 users-master/tests/test.yml

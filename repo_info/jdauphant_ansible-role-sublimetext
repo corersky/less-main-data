@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-22 17:10 ansible-role-sublimetext-master/
+-rw-rw-r-- root/root       371 2016-12-22 17:10 ansible-role-sublimetext-master/.travis.yml
+-rw-rw-r-- root/root      1299 2016-12-22 17:10 ansible-role-sublimetext-master/LICENSE
+-rw-rw-r-- root/root       461 2016-12-22 17:10 ansible-role-sublimetext-master/README.md
+-rw-rw-r-- root/root        29 2016-12-22 17:10 ansible-role-sublimetext-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-12-22 17:10 ansible-role-sublimetext-master/defaults/
+-rw-rw-r-- root/root        86 2016-12-22 17:10 ansible-role-sublimetext-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-22 17:10 ansible-role-sublimetext-master/meta/
+-rw-rw-r-- root/root      1758 2016-12-22 17:10 ansible-role-sublimetext-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-22 17:10 ansible-role-sublimetext-master/tasks/
+-rw-rw-r-- root/root       271 2016-12-22 17:10 ansible-role-sublimetext-master/tasks/Debian.yml
+-rw-rw-r-- root/root       697 2016-12-22 17:10 ansible-role-sublimetext-master/tasks/MacOSX.yml
+-rw-rw-r-- root/root       147 2016-12-22 17:10 ansible-role-sublimetext-master/tasks/main.yml
+-rw-rw-r-- root/root        83 2016-12-22 17:10 ansible-role-sublimetext-master/test.yml
+drwxrwxr-x root/root         0 2016-12-22 17:10 ansible-role-sublimetext-master/vars/
+-rw-rw-r-- root/root       531 2016-12-22 17:10 ansible-role-sublimetext-master/vars/main.yml

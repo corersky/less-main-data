@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-30 17:52 ansible-beanstalkd-master/
+-rw-rw-r-- root/root       473 2018-11-30 17:52 ansible-beanstalkd-master/README.md
+drwxrwxr-x root/root         0 2018-11-30 17:52 ansible-beanstalkd-master/defaults/
+-rw-rw-r-- root/root        43 2018-11-30 17:52 ansible-beanstalkd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-30 17:52 ansible-beanstalkd-master/handlers/
+-rw-rw-r-- root/root        35 2018-11-30 17:52 ansible-beanstalkd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-30 17:52 ansible-beanstalkd-master/meta/
+-rw-rw-r-- root/root       210 2018-11-30 17:52 ansible-beanstalkd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-30 17:52 ansible-beanstalkd-master/tasks/
+-rw-rw-r-- root/root       910 2018-11-30 17:52 ansible-beanstalkd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-30 17:52 ansible-beanstalkd-master/templates/
+-rw-rw-r-- root/root       281 2018-11-30 17:52 ansible-beanstalkd-master/templates/beanstalkd.service.j2
+drwxrwxr-x root/root         0 2018-11-30 17:52 ansible-beanstalkd-master/vars/
+-rw-rw-r-- root/root        31 2018-11-30 17:52 ansible-beanstalkd-master/vars/main.yml

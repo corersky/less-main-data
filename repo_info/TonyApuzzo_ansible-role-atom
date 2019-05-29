@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-10 10:12 ansible-role-atom-master/
+-rw-rw-r-- root/root        25 2018-03-10 10:12 ansible-role-atom-master/.gitignore
+-rw-rw-r-- root/root      1156 2018-03-10 10:12 ansible-role-atom-master/.travis.yml
+-rw-rw-r-- root/root      1093 2018-03-10 10:12 ansible-role-atom-master/LICENSE
+-rw-rw-r-- root/root      1611 2018-03-10 10:12 ansible-role-atom-master/README.md
+drwxrwxr-x root/root         0 2018-03-10 10:12 ansible-role-atom-master/defaults/
+-rw-rw-r-- root/root       134 2018-03-10 10:12 ansible-role-atom-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-10 10:12 ansible-role-atom-master/meta/
+-rw-rw-r-- root/root       332 2018-03-10 10:12 ansible-role-atom-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-10 10:12 ansible-role-atom-master/tasks/
+-rw-rw-r-- root/root       238 2018-03-10 10:12 ansible-role-atom-master/tasks/main.yml
+-rw-rw-r-- root/root       858 2018-03-10 10:12 ansible-role-atom-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       616 2018-03-10 10:12 ansible-role-atom-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2018-03-10 10:12 ansible-role-atom-master/tests/
+-rw-rw-r-- root/root       632 2018-03-10 10:12 ansible-role-atom-master/tests/README.md
+-rw-rw-r-- root/root       263 2018-03-10 10:12 ansible-role-atom-master/tests/test.yml

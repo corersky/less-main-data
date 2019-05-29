@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-07 09:37 ansible_login_users-master/
+-rw-rw-r-- root/root         0 2016-09-07 09:37 ansible_login_users-master/.gitignore
+-rw-rw-r-- root/root       852 2016-09-07 09:37 ansible_login_users-master/README.md
+drwxrwxr-x root/root         0 2016-09-07 09:37 ansible_login_users-master/defaults/
+-rw-rw-r-- root/root        46 2016-09-07 09:37 ansible_login_users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-07 09:37 ansible_login_users-master/handlers/
+-rw-rw-r-- root/root        36 2016-09-07 09:37 ansible_login_users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-07 09:37 ansible_login_users-master/meta/
+-rw-rw-r-- root/root       970 2016-09-07 09:37 ansible_login_users-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-07 09:37 ansible_login_users-master/tasks/
+-rw-rw-r-- root/root       380 2016-09-07 09:37 ansible_login_users-master/tasks/login.yml
+-rw-rw-r-- root/root       126 2016-09-07 09:37 ansible_login_users-master/tasks/main.yml
+-rw-rw-r-- root/root       317 2016-09-07 09:37 ansible_login_users-master/tasks/sudo.yml
+drwxrwxr-x root/root         0 2016-09-07 09:37 ansible_login_users-master/templates/
+-rw-rw-r-- root/root        69 2016-09-07 09:37 ansible_login_users-master/templates/sudo.j2
+drwxrwxr-x root/root         0 2016-09-07 09:37 ansible_login_users-master/vars/
+-rw-rw-r-- root/root        32 2016-09-07 09:37 ansible_login_users-master/vars/main.yml

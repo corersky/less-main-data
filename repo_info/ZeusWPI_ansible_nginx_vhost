@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-19 06:55 ansible_nginx_vhost-master/
+-rw-rw-r-- root/root       539 2017-06-19 06:55 ansible_nginx_vhost-master/.travis.yml
+-rw-rw-r-- root/root      1125 2017-06-19 06:55 ansible_nginx_vhost-master/README.md
+drwxrwxr-x root/root         0 2017-06-19 06:55 ansible_nginx_vhost-master/defaults/
+-rw-rw-r-- root/root       344 2017-06-19 06:55 ansible_nginx_vhost-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-19 06:55 ansible_nginx_vhost-master/handlers/
+-rw-rw-r-- root/root        36 2017-06-19 06:55 ansible_nginx_vhost-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-19 06:55 ansible_nginx_vhost-master/meta/
+-rw-rw-r-- root/root      4024 2017-06-19 06:55 ansible_nginx_vhost-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-19 06:55 ansible_nginx_vhost-master/tasks/
+-rw-rw-r-- root/root       444 2017-06-19 06:55 ansible_nginx_vhost-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-19 06:55 ansible_nginx_vhost-master/tests/
+-rw-rw-r-- root/root         9 2017-06-19 06:55 ansible_nginx_vhost-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-06-19 06:55 ansible_nginx_vhost-master/tests/test.yml

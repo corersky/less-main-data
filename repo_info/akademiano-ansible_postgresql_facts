@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-05 20:53 postgresql_facts-master/
+-rw-rw-r-- root/root      1328 2019-05-05 20:53 postgresql_facts-master/README.md
+drwxrwxr-x root/root         0 2019-05-05 20:53 postgresql_facts-master/defaults/
+-rw-rw-r-- root/root       189 2019-05-05 20:53 postgresql_facts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-05 20:53 postgresql_facts-master/meta/
+-rw-rw-r-- root/root      1935 2019-05-05 20:53 postgresql_facts-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-05 20:53 postgresql_facts-master/tasks/
+-rw-rw-r-- root/root       585 2019-05-05 20:53 postgresql_facts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-05 20:53 postgresql_facts-master/tests/
+-rw-rw-r-- root/root        11 2019-05-05 20:53 postgresql_facts-master/tests/inventory
+-rw-rw-r-- root/root       102 2019-05-05 20:53 postgresql_facts-master/tests/test.yml

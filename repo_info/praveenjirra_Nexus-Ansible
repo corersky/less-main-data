@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2018-06-08 05:47 Nexus-Ansible-master/
+-rw-rw-r-- root/root     12288 2018-06-08 05:47 Nexus-Ansible-master/.nexus.yml.swp
+-rw-rw-r-- root/root      1079 2018-06-08 05:47 Nexus-Ansible-master/LICENSE
+-rw-rw-r-- root/root      1185 2018-06-08 05:47 Nexus-Ansible-master/README.md
+drwxrwxr-x root/root         0 2018-06-08 05:47 Nexus-Ansible-master/defaults/
+-rw-rw-r-- root/root       426 2018-06-08 05:47 Nexus-Ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-08 05:47 Nexus-Ansible-master/handlers/
+-rw-rw-r-- root/root       203 2018-06-08 05:47 Nexus-Ansible-master/handlers/main.yml
+-rw-rw-r-- root/root        10 2018-06-08 05:47 Nexus-Ansible-master/inventory.ini
+drwxrwxr-x root/root         0 2018-06-08 05:47 Nexus-Ansible-master/meta/
+-rw-rw-r-- root/root       238 2018-06-08 05:47 Nexus-Ansible-master/meta/main.yml
+-rw-rw-r-- root/root        10 2018-06-08 05:47 Nexus-Ansible-master/nexus.retry
+-rw-rw-r-- root/root        89 2018-06-08 05:47 Nexus-Ansible-master/nexus.yml
+-rw-rw-r-- root/root       151 2018-06-08 05:47 Nexus-Ansible-master/playbook.yml
+drwxrwxr-x root/root         0 2018-06-08 05:47 Nexus-Ansible-master/roles/
+lrwxrwxrwx root/root         0 2018-06-08 05:47 Nexus-Ansible-master/roles/jhinrichsen.nexus -> ..
+drwxrwxr-x root/root         0 2018-06-08 05:47 Nexus-Ansible-master/tasks/
+-rw-rw-r-- root/root      3682 2018-06-08 05:47 Nexus-Ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-08 05:47 Nexus-Ansible-master/templates/
+-rw-rw-r-- root/root     14663 2018-06-08 05:47 Nexus-Ansible-master/templates/init-nexus.j2
+-rw-rw-r-- root/root         5 2018-06-08 05:47 Nexus-Ansible-master/test.txt
+drwxrwxr-x root/root         0 2018-06-08 05:47 Nexus-Ansible-master/vars/
+-rw-rw-r-- root/root        51 2018-06-08 05:47 Nexus-Ansible-master/vars/main.yml

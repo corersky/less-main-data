@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/
+-rw-rw-r-- root/root     18026 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/LICENSE
+-rw-rw-r-- root/root      1830 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/README.md
+drwxrwxr-x root/root         0 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/defaults/
+-rw-rw-r-- root/root       444 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/meta/
+-rw-rw-r-- root/root       533 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/tasks/
+-rw-rw-r-- root/root       493 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/tasks/container.yml
+-rw-rw-r-- root/root       457 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/tests/
+-rw-rw-r-- root/root        10 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/tests/inventory
+-rw-rw-r-- root/root        92 2018-02-19 18:54 ansible-role-docker-selenium-grid-master/tests/test.yml

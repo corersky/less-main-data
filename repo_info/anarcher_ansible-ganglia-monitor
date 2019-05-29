@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-07 07:34 ansible-ganglia-monitor-master/
+-rw-rw-r-- root/root     35141 2016-04-07 07:34 ansible-ganglia-monitor-master/LICENSE
+-rw-rw-r-- root/root       189 2016-04-07 07:34 ansible-ganglia-monitor-master/README.md
+drwxrwxr-x root/root         0 2016-04-07 07:34 ansible-ganglia-monitor-master/defaults/
+-rw-rw-r-- root/root        55 2016-04-07 07:34 ansible-ganglia-monitor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-07 07:34 ansible-ganglia-monitor-master/files/
+-rwxrwxr-x root/root       331 2016-04-07 07:34 ansible-ganglia-monitor-master/files/fd-and-sockets
+drwxrwxr-x root/root         0 2016-04-07 07:34 ansible-ganglia-monitor-master/handlers/
+-rw-rw-r-- root/root       127 2016-04-07 07:34 ansible-ganglia-monitor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-07 07:34 ansible-ganglia-monitor-master/meta/
+-rw-rw-r-- root/root       341 2016-04-07 07:34 ansible-ganglia-monitor-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-07 07:34 ansible-ganglia-monitor-master/tasks/
+-rw-rw-r-- root/root       374 2016-04-07 07:34 ansible-ganglia-monitor-master/tasks/main.yml
+-rw-rw-r-- root/root       383 2016-04-07 07:34 ansible-ganglia-monitor-master/tasks/monitor-fd-and-sockets.yml
+drwxrwxr-x root/root         0 2016-04-07 07:34 ansible-ganglia-monitor-master/templates/
+-rw-rw-r-- root/root      7432 2016-04-07 07:34 ansible-ganglia-monitor-master/templates/default_gmond.conf.j2

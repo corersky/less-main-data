@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-11-10 11:19 ansible-rails-deploy-master/
+-rw-rw-r-- root/root      1328 2017-11-10 11:19 ansible-rails-deploy-master/README-FOR-APP-DIR.md
+-rw-rw-r-- root/root      4287 2017-11-10 11:19 ansible-rails-deploy-master/README.md
+drwxrwxr-x root/root         0 2017-11-10 11:19 ansible-rails-deploy-master/defaults/
+-rw-rw-r-- root/root       643 2017-11-10 11:19 ansible-rails-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-10 11:19 ansible-rails-deploy-master/meta/
+-rw-rw-r-- root/root        60 2017-11-10 11:19 ansible-rails-deploy-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       304 2017-11-10 11:19 ansible-rails-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-10 11:19 ansible-rails-deploy-master/tasks/
+-rw-rw-r-- root/root       337 2017-11-10 11:19 ansible-rails-deploy-master/tasks/dependencies.yml
+-rw-rw-r-- root/root      1621 2017-11-10 11:19 ansible-rails-deploy-master/tasks/deploy.yml
+-rw-rw-r-- root/root       232 2017-11-10 11:19 ansible-rails-deploy-master/tasks/git.yml
+-rw-rw-r-- root/root       209 2017-11-10 11:19 ansible-rails-deploy-master/tasks/main.yml

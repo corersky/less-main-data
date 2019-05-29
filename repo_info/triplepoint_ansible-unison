@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-07-23 12:56 ansible-unison-master/
+-rw-rw-r-- root/root      1620 2018-07-23 12:56 ansible-unison-master/.gitignore
+-rw-rw-r-- root/root      1082 2018-07-23 12:56 ansible-unison-master/LICENSE
+-rw-rw-r-- root/root      3706 2018-07-23 12:56 ansible-unison-master/README.md
+drwxrwxr-x root/root         0 2018-07-23 12:56 ansible-unison-master/defaults/
+-rw-rw-r-- root/root       240 2018-07-23 12:56 ansible-unison-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-23 12:56 ansible-unison-master/meta/
+-rw-rw-r-- root/root       383 2018-07-23 12:56 ansible-unison-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-23 12:56 ansible-unison-master/tasks/
+-rw-rw-r-- root/root      1356 2018-07-23 12:56 ansible-unison-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-23 12:56 ansible-unison-master/templates/
+-rw-rw-r-- root/root       565 2018-07-23 12:56 ansible-unison-master/templates/unison_profile.prf.j2

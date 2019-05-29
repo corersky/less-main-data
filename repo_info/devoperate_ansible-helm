@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-helm-master/
+-rw-rw-r-- root/root       219 2019-03-21 23:30 ansible-helm-master/.editorconfig
+-rw-rw-r-- root/root       492 2019-03-21 23:30 ansible-helm-master/.gitattributes
+-rw-rw-r-- root/root       819 2019-03-21 23:30 ansible-helm-master/.gitignore
+-rw-rw-r-- root/root      1063 2019-03-21 23:30 ansible-helm-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1073 2019-03-21 23:30 ansible-helm-master/LICENSE
+-rw-rw-r-- root/root       987 2019-03-21 23:30 ansible-helm-master/README.md
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-helm-master/defaults/
+-rw-rw-r-- root/root        27 2019-03-21 23:30 ansible-helm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-helm-master/meta/
+-rw-rw-r-- root/root       692 2019-03-21 23:30 ansible-helm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-helm-master/tasks/
+-rw-rw-r-- root/root      1092 2019-03-21 23:30 ansible-helm-master/tasks/install.yml
+-rw-rw-r-- root/root       509 2019-03-21 23:30 ansible-helm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-helm-master/tests/
+-rw-rw-r-- root/root        54 2019-03-21 23:30 ansible-helm-master/tests/requirements.yml
+-rw-rw-r-- root/root        57 2019-03-21 23:30 ansible-helm-master/tests/test.yml

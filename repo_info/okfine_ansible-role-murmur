@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-22 23:16 ansible-role-murmur-master/
+-rw-rw-r-- root/root         9 2015-11-22 23:16 ansible-role-murmur-master/.gitignore
+-rw-rw-r-- root/root       539 2015-11-22 23:16 ansible-role-murmur-master/.travis.yml
+-rw-rw-r-- root/root      1074 2015-11-22 23:16 ansible-role-murmur-master/LICENSE
+-rw-rw-r-- root/root      1963 2015-11-22 23:16 ansible-role-murmur-master/README.md
+-rw-rw-r-- root/root       310 2015-11-22 23:16 ansible-role-murmur-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-11-22 23:16 ansible-role-murmur-master/defaults/
+-rw-rw-r-- root/root       223 2015-11-22 23:16 ansible-role-murmur-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-22 23:16 ansible-role-murmur-master/handlers/
+-rw-rw-r-- root/root        83 2015-11-22 23:16 ansible-role-murmur-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-22 23:16 ansible-role-murmur-master/meta/
+-rw-rw-r-- root/root       269 2015-11-22 23:16 ansible-role-murmur-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-22 23:16 ansible-role-murmur-master/tasks/
+-rw-rw-r-- root/root       887 2015-11-22 23:16 ansible-role-murmur-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-22 23:16 ansible-role-murmur-master/templates/
+-rw-rw-r-- root/root      1129 2015-11-22 23:16 ansible-role-murmur-master/templates/mumble-server.ini.j2
+-rw-rw-r-- root/root       141 2015-11-22 23:16 ansible-role-murmur-master/test.yml

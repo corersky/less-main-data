@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-28 14:53 ansible-role-chrome-master/
+-rw-rw-r-- root/root         6 2017-05-28 14:53 ansible-role-chrome-master/.gitignore
+-rw-rw-r-- root/root      1643 2017-05-28 14:53 ansible-role-chrome-master/.travis.yml
+-rw-rw-r-- root/root       774 2017-05-28 14:53 ansible-role-chrome-master/README.md
+drwxrwxr-x root/root         0 2017-05-28 14:53 ansible-role-chrome-master/meta/
+-rw-rw-r-- root/root       320 2017-05-28 14:53 ansible-role-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-28 14:53 ansible-role-chrome-master/tasks/
+-rw-rw-r-- root/root       548 2017-05-28 14:53 ansible-role-chrome-master/tasks/debian.yml
+-rw-rw-r-- root/root       115 2017-05-28 14:53 ansible-role-chrome-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-28 14:53 ansible-role-chrome-master/tests/
+-rw-rw-r-- root/root         9 2017-05-28 14:53 ansible-role-chrome-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-05-28 14:53 ansible-role-chrome-master/tests/test.yml

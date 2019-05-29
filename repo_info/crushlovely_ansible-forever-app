@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2014-12-18 16:09 ansible-forever-app-master/
+-rw-rw-r-- root/root        43 2014-12-18 16:09 ansible-forever-app-master/.gitignore
+-rw-rw-r-- root/root      1035 2014-12-18 16:09 ansible-forever-app-master/README.md
+drwxrwxr-x root/root         0 2014-12-18 16:09 ansible-forever-app-master/meta/
+-rw-rw-r-- root/root       284 2014-12-18 16:09 ansible-forever-app-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-18 16:09 ansible-forever-app-master/tasks/
+-rw-rw-r-- root/root       220 2014-12-18 16:09 ansible-forever-app-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-18 16:09 ansible-forever-app-master/templates/
+-rw-rw-r-- root/root       707 2014-12-18 16:09 ansible-forever-app-master/templates/app_init.conf.j2

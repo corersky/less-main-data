@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-16 09:13 ansible-nodejs-master/
+-rw-rw-r-- root/root         9 2015-12-16 09:13 ansible-nodejs-master/.gitignore
+-rw-rw-r-- root/root       339 2015-12-16 09:13 ansible-nodejs-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-12-16 09:13 ansible-nodejs-master/LICENSE
+-rw-rw-r-- root/root       467 2015-12-16 09:13 ansible-nodejs-master/README.md
+drwxrwxr-x root/root         0 2015-12-16 09:13 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root       129 2015-12-16 09:13 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-16 09:13 ansible-nodejs-master/examples/
+-rw-rw-r-- root/root       278 2015-12-16 09:13 ansible-nodejs-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-12-16 09:13 ansible-nodejs-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-12-16 09:13 ansible-nodejs-master/examples/roles/azavea.nodejs -> ../../
+-rw-rw-r-- root/root        58 2015-12-16 09:13 ansible-nodejs-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-12-16 09:13 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       268 2015-12-16 09:13 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-16 09:13 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root      1147 2015-12-16 09:13 ansible-nodejs-master/tasks/main.yml

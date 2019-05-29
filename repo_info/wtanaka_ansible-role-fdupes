@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-06 15:26 ansible-role-fdupes-master/
+-rw-rw-r-- root/root       399 2019-05-06 15:26 ansible-role-fdupes-master/.ciconfiggen.config
+-rw-rw-r-- root/root        53 2019-05-06 15:26 ansible-role-fdupes-master/.gitignore
+-rw-rw-r-- root/root      5353 2019-05-06 15:26 ansible-role-fdupes-master/.travis.yml
+-rw-rw-r-- root/root       511 2019-05-06 15:26 ansible-role-fdupes-master/README.md
+-rw-rw-r-- root/root       446 2019-05-06 15:26 ansible-role-fdupes-master/circle.yml
+drwxrwxr-x root/root         0 2019-05-06 15:26 ansible-role-fdupes-master/meta/
+-rw-rw-r-- root/root      3533 2019-05-06 15:26 ansible-role-fdupes-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 15:26 ansible-role-fdupes-master/tasks/
+-rw-rw-r-- root/root      3550 2019-05-06 15:26 ansible-role-fdupes-master/tasks/compat.yml
+-rw-rw-r-- root/root       568 2019-05-06 15:26 ansible-role-fdupes-master/tasks/epel.yml
+-rw-rw-r-- root/root       318 2019-05-06 15:26 ansible-role-fdupes-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       974 2019-05-06 15:26 ansible-role-fdupes-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       155 2019-05-06 15:26 ansible-role-fdupes-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 15:26 ansible-role-fdupes-master/vars/
+-rw-rw-r-- root/root        28 2019-05-06 15:26 ansible-role-fdupes-master/vars/default.yml
+-rw-rw-r-- root/root        51 2019-05-06 15:26 ansible-role-fdupes-master/vars/main.yml

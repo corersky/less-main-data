@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-07-12 15:03 ansible-ssmtp-master/
+-rw-rw-r-- root/root       539 2016-07-12 15:03 ansible-ssmtp-master/.travis.yml
+-rw-rw-r-- root/root      1066 2016-07-12 15:03 ansible-ssmtp-master/LICENSE
+-rw-rw-r-- root/root       870 2016-07-12 15:03 ansible-ssmtp-master/README.md
+drwxrwxr-x root/root         0 2016-07-12 15:03 ansible-ssmtp-master/defaults/
+-rw-rw-r-- root/root       142 2016-07-12 15:03 ansible-ssmtp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-12 15:03 ansible-ssmtp-master/meta/
+-rw-rw-r-- root/root       297 2016-07-12 15:03 ansible-ssmtp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-12 15:03 ansible-ssmtp-master/tasks/
+-rw-rw-r-- root/root       273 2016-07-12 15:03 ansible-ssmtp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-12 15:03 ansible-ssmtp-master/templates/
+-rw-rw-r-- root/root       599 2016-07-12 15:03 ansible-ssmtp-master/templates/ssmtp.conf.j2
+drwxrwxr-x root/root         0 2016-07-12 15:03 ansible-ssmtp-master/tests/
+-rw-rw-r-- root/root         9 2016-07-12 15:03 ansible-ssmtp-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-07-12 15:03 ansible-ssmtp-master/tests/test.yml

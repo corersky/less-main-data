@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-21 03:17 iptables-role-master/
+-rw-rw-r-- root/root        21 2015-12-21 03:17 iptables-role-master/.gitignore
+-rw-rw-r-- root/root       948 2015-12-21 03:17 iptables-role-master/README.md
+drwxrwxr-x root/root         0 2015-12-21 03:17 iptables-role-master/defaults/
+-rw-rw-r-- root/root       381 2015-12-21 03:17 iptables-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-21 03:17 iptables-role-master/files/
+-rw-rw-r-- root/root      5087 2015-12-21 03:17 iptables-role-master/files/iptables_init
+-rw-rw-r-- root/root       106 2015-12-21 03:17 iptables-role-master/files/iptables_rollback.sh
+drwxrwxr-x root/root         0 2015-12-21 03:17 iptables-role-master/meta/
+-rw-rw-r-- root/root       309 2015-12-21 03:17 iptables-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-21 03:17 iptables-role-master/tasks/
+-rw-rw-r-- root/root      1040 2015-12-21 03:17 iptables-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-21 03:17 iptables-role-master/templates/
+-rw-rw-r-- root/root      2388 2015-12-21 03:17 iptables-role-master/templates/iptables_rules.sh.j2
+drwxrwxr-x root/root         0 2015-12-21 03:17 iptables-role-master/tests/
+-rw-rw-r-- root/root        12 2015-12-21 03:17 iptables-role-master/tests/inventory
+-rw-rw-r-- root/root       188 2015-12-21 03:17 iptables-role-master/tests/test.yml

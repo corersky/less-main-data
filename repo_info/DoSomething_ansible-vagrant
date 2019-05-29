@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/
+-rw-rw-r-- root/root      1202 2015-05-11 09:09 ansible-vagrant-master/README.md
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/defaults/
+-rw-rw-r-- root/root        32 2015-05-11 09:09 ansible-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/handlers/
+-rw-rw-r-- root/root        32 2015-05-11 09:09 ansible-vagrant-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/meta/
+-rw-rw-r-- root/root       511 2015-05-11 09:09 ansible-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/tasks/
+-rw-rw-r-- root/root       456 2015-05-11 09:09 ansible-vagrant-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/templates/
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/templates/etc/
+-rw-rw-r-- root/root       907 2015-05-11 09:09 ansible-vagrant-master/templates/etc/motd.j2
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/templates/scripts/
+-rw-rw-r-- root/root       270 2015-05-11 09:09 ansible-vagrant-master/templates/scripts/setup-www.j2
+drwxrwxr-x root/root         0 2015-05-11 09:09 ansible-vagrant-master/vars/
+-rw-rw-r-- root/root        28 2015-05-11 09:09 ansible-vagrant-master/vars/main.yml

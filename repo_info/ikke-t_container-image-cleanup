@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-03 05:57 container-image-cleanup-master/
+-rw-rw-r-- root/root      1609 2019-03-03 05:57 container-image-cleanup-master/README.md
+drwxrwxr-x root/root         0 2019-03-03 05:57 container-image-cleanup-master/defaults/
+-rw-rw-r-- root/root       217 2019-03-03 05:57 container-image-cleanup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-03 05:57 container-image-cleanup-master/handlers/
+-rw-rw-r-- root/root        41 2019-03-03 05:57 container-image-cleanup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-03 05:57 container-image-cleanup-master/meta/
+-rw-rw-r-- root/root       370 2019-03-03 05:57 container-image-cleanup-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-03 05:57 container-image-cleanup-master/tasks/
+-rw-rw-r-- root/root      1025 2019-03-03 05:57 container-image-cleanup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-03 05:57 container-image-cleanup-master/tests/
+-rw-rw-r-- root/root        11 2019-03-03 05:57 container-image-cleanup-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-03-03 05:57 container-image-cleanup-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-03 05:57 container-image-cleanup-master/vars/
+-rw-rw-r-- root/root        37 2019-03-03 05:57 container-image-cleanup-master/vars/main.yml

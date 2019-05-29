@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-php-memcached-master/
+-rw-rw-r-- root/root      1704 2016-09-25 15:50 ansible-role-php-memcached-master/.travis.yml
+-rw-rw-r-- root/root      1546 2016-09-25 15:50 ansible-role-php-memcached-master/README.md
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-php-memcached-master/defaults/
+-rw-rw-r-- root/root        92 2016-09-25 15:50 ansible-role-php-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-php-memcached-master/meta/
+-rw-rw-r-- root/root       411 2016-09-25 15:50 ansible-role-php-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-php-memcached-master/tasks/
+-rw-rw-r-- root/root       758 2016-09-25 15:50 ansible-role-php-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-php-memcached-master/tests/
+-rw-rw-r-- root/root       765 2016-09-25 15:50 ansible-role-php-memcached-master/tests/memcached-test.php
+-rw-rw-r-- root/root        56 2016-09-25 15:50 ansible-role-php-memcached-master/tests/requirements.yml
+-rw-rw-r-- root/root       140 2016-09-25 15:50 ansible-role-php-memcached-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-php-memcached-master/vars/
+-rw-rw-r-- root/root        43 2016-09-25 15:50 ansible-role-php-memcached-master/vars/Debian.yml
+-rw-rw-r-- root/root        48 2016-09-25 15:50 ansible-role-php-memcached-master/vars/RedHat.yml

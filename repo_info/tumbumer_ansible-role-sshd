@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-05-26 09:35 ansible-role-sshd-master/
+-rw-rw-r-- root/root     11357 2018-05-26 09:35 ansible-role-sshd-master/LICENSE
+-rw-rw-r-- root/root       904 2018-05-26 09:35 ansible-role-sshd-master/README.md
+drwxrwxr-x root/root         0 2018-05-26 09:35 ansible-role-sshd-master/handlers/
+-rw-rw-r-- root/root        95 2018-05-26 09:35 ansible-role-sshd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-26 09:35 ansible-role-sshd-master/meta/
+-rw-rw-r-- root/root       361 2018-05-26 09:35 ansible-role-sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-26 09:35 ansible-role-sshd-master/tasks/
+-rw-rw-r-- root/root      2353 2018-05-26 09:35 ansible-role-sshd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-26 09:35 ansible-role-sshd-master/templates/
+-rw-rw-r-- root/root       933 2018-05-26 09:35 ansible-role-sshd-master/templates/sshd_config.j2

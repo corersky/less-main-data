@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-16 04:36 ansible-monit-master/
+-rw-rw-r-- root/root      1086 2015-06-16 04:36 ansible-monit-master/LICENSE
+-rw-rw-r-- root/root       773 2015-06-16 04:36 ansible-monit-master/README.md
+drwxrwxr-x root/root         0 2015-06-16 04:36 ansible-monit-master/defaults/
+-rw-rw-r-- root/root        58 2015-06-16 04:36 ansible-monit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-16 04:36 ansible-monit-master/handlers/
+-rw-rw-r-- root/root       146 2015-06-16 04:36 ansible-monit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-16 04:36 ansible-monit-master/meta/
+-rw-rw-r-- root/root       522 2015-06-16 04:36 ansible-monit-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-16 04:36 ansible-monit-master/tasks/
+-rw-rw-r-- root/root       422 2015-06-16 04:36 ansible-monit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-16 04:36 ansible-monit-master/templates/
+-rw-rw-r-- root/root       252 2015-06-16 04:36 ansible-monit-master/templates/haproxy.monitrc
+-rw-rw-r-- root/root       192 2015-06-16 04:36 ansible-monit-master/templates/nginx.monitrc
+-rw-rw-r-- root/root       386 2015-06-16 04:36 ansible-monit-master/templates/unicorn.monitrc

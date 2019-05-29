@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-11-23 09:45 ansible-role-python-master/
+-rw-rw-r-- root/root       470 2014-11-23 09:45 ansible-role-python-master/README.md
+drwxrwxr-x root/root         0 2014-11-23 09:45 ansible-role-python-master/meta/
+-rw-rw-r-- root/root       339 2014-11-23 09:45 ansible-role-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-23 09:45 ansible-role-python-master/tasks/
+-rw-rw-r-- root/root       172 2014-11-23 09:45 ansible-role-python-master/tasks/install_pip.yml
+-rw-rw-r-- root/root       815 2014-11-23 09:45 ansible-role-python-master/tasks/install_python.yml
+-rw-rw-r-- root/root       580 2014-11-23 09:45 ansible-role-python-master/tasks/install_setuptools.yml
+-rw-rw-r-- root/root        96 2014-11-23 09:45 ansible-role-python-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-23 09:45 ansible-role-python-master/tests/
+-rw-rw-r-- root/root        31 2014-11-23 09:45 ansible-role-python-master/tests/ansible.cfg
+-rw-rw-r-- root/root        22 2014-11-23 09:45 ansible-role-python-master/tests/hosts
+-rw-rw-r-- root/root        74 2014-11-23 09:45 ansible-role-python-master/tests/test.yml

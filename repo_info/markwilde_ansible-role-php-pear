@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-19 09:56 ansible-role-php-pear-master/
+-rw-rw-r-- root/root       133 2015-10-19 09:56 ansible-role-php-pear-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 09:56 ansible-role-php-pear-master/defaults/
+-rw-rw-r-- root/root        77 2015-10-19 09:56 ansible-role-php-pear-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:56 ansible-role-php-pear-master/meta/
+-rw-rw-r-- root/root       324 2015-10-19 09:56 ansible-role-php-pear-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:56 ansible-role-php-pear-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 09:56 ansible-role-php-pear-master/tasks/debian/
+-rw-rw-r-- root/root        94 2015-10-19 09:56 ansible-role-php-pear-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       820 2015-10-19 09:56 ansible-role-php-pear-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:56 ansible-role-php-pear-master/tasks/redhat/
+-rw-rw-r-- root/root        94 2015-10-19 09:56 ansible-role-php-pear-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:56 ansible-role-php-pear-master/vars/
+-rw-rw-r-- root/root        26 2015-10-19 09:56 ansible-role-php-pear-master/vars/Debian.yml
+-rw-rw-r-- root/root        26 2015-10-19 09:56 ansible-role-php-pear-master/vars/RedHat.yml

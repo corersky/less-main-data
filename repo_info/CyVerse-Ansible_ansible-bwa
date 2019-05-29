@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-16 15:15 ansible-bwa-master/
+-rw-rw-r-- root/root      1127 2017-06-16 15:15 ansible-bwa-master/.travis.yml
+-rw-rw-r-- root/root      1945 2017-06-16 15:15 ansible-bwa-master/LICENSE.txt
+-rw-rw-r-- root/root       955 2017-06-16 15:15 ansible-bwa-master/README.md
+drwxrwxr-x root/root         0 2017-06-16 15:15 ansible-bwa-master/defaults/
+-rw-rw-r-- root/root        22 2017-06-16 15:15 ansible-bwa-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-16 15:15 ansible-bwa-master/meta/
+-rw-rw-r-- root/root       343 2017-06-16 15:15 ansible-bwa-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-16 15:15 ansible-bwa-master/tasks/
+-rw-rw-r-- root/root       999 2017-06-16 15:15 ansible-bwa-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-16 15:15 ansible-bwa-master/tests/
+-rw-rw-r-- root/root        10 2017-06-16 15:15 ansible-bwa-master/tests/inventory
+-rw-rw-r-- root/root       345 2017-06-16 15:15 ansible-bwa-master/tests/pre-test.yml
+-rw-rw-r-- root/root       108 2017-06-16 15:15 ansible-bwa-master/tests/test.yml

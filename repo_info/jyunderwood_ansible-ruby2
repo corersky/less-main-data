@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-05-28 15:26 ansible-ruby2-master/
+-rw-rw-r-- root/root      1356 2015-05-28 15:26 ansible-ruby2-master/README.md
+drwxrwxr-x root/root         0 2015-05-28 15:26 ansible-ruby2-master/defaults/
+-rw-rw-r-- root/root       350 2015-05-28 15:26 ansible-ruby2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-28 15:26 ansible-ruby2-master/meta/
+-rw-rw-r-- root/root       242 2015-05-28 15:26 ansible-ruby2-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-28 15:26 ansible-ruby2-master/tasks/
+-rw-rw-r-- root/root       578 2015-05-28 15:26 ansible-ruby2-master/tasks/install.yml
+-rw-rw-r-- root/root        60 2015-05-28 15:26 ansible-ruby2-master/tasks/main.yml
+-rw-rw-r-- root/root       272 2015-05-28 15:26 ansible-ruby2-master/tasks/prereqs.deb.yml
+-rw-rw-r-- root/root       117 2015-05-28 15:26 ansible-ruby2-master/tasks/ruby.yml
+-rw-rw-r-- root/root       368 2015-05-28 15:26 ansible-ruby2-master/tasks/symlinks.yml
+drwxrwxr-x root/root         0 2015-05-28 15:26 ansible-ruby2-master/templates/
+-rw-rw-r-- root/root       213 2015-05-28 15:26 ansible-ruby2-master/templates/install-ruby.j2

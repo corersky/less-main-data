@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-02 14:31 wordpress-master/
+-rw-rw-r-- root/root      1328 2018-04-02 14:31 wordpress-master/README.md
+drwxrwxr-x root/root         0 2018-04-02 14:31 wordpress-master/defaults/
+-rw-rw-r-- root/root        34 2018-04-02 14:31 wordpress-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:31 wordpress-master/handlers/
+-rw-rw-r-- root/root        80 2018-04-02 14:31 wordpress-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:31 wordpress-master/meta/
+-rw-rw-r-- root/root       438 2018-04-02 14:31 wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:31 wordpress-master/tasks/
+-rw-rw-r-- root/root      1165 2018-04-02 14:31 wordpress-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:31 wordpress-master/tests/
+-rw-rw-r-- root/root         9 2018-04-02 14:31 wordpress-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-04-02 14:31 wordpress-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-02 14:31 wordpress-master/vars/
+-rw-rw-r-- root/root        30 2018-04-02 14:31 wordpress-master/vars/main.yml

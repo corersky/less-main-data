@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-23 03:22 ansible-centos-base-master/
+-rw-rw-r-- root/root        86 2018-02-23 03:22 ansible-centos-base-master/README.md
+drwxrwxr-x root/root         0 2018-02-23 03:22 ansible-centos-base-master/defaults/
+-rw-rw-r-- root/root         4 2018-02-23 03:22 ansible-centos-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-23 03:22 ansible-centos-base-master/handlers/
+-rw-rw-r-- root/root        28 2018-02-23 03:22 ansible-centos-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-23 03:22 ansible-centos-base-master/meta/
+-rw-rw-r-- root/root       209 2018-02-23 03:22 ansible-centos-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-23 03:22 ansible-centos-base-master/tasks/
+-rw-rw-r-- root/root       785 2018-02-23 03:22 ansible-centos-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-23 03:22 ansible-centos-base-master/tests/
+-rw-rw-r-- root/root        11 2018-02-23 03:22 ansible-centos-base-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-02-23 03:22 ansible-centos-base-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-23 03:22 ansible-centos-base-master/vars/
+-rw-rw-r-- root/root        24 2018-02-23 03:22 ansible-centos-base-master/vars/main.yml

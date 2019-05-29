@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-01 05:09 ansible.solaris_10_zone-master/
+-rw-rw-r-- root/root      2981 2016-08-01 05:09 ansible.solaris_10_zone-master/README.md
+drwxrwxr-x root/root         0 2016-08-01 05:09 ansible.solaris_10_zone-master/defaults/
+-rw-rw-r-- root/root       467 2016-08-01 05:09 ansible.solaris_10_zone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-01 05:09 ansible.solaris_10_zone-master/files/
+-rw-rw-r-- root/root         0 2016-08-01 05:09 ansible.solaris_10_zone-master/files/empty_file
+drwxrwxr-x root/root         0 2016-08-01 05:09 ansible.solaris_10_zone-master/meta/
+-rw-rw-r-- root/root       242 2016-08-01 05:09 ansible.solaris_10_zone-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-01 05:09 ansible.solaris_10_zone-master/tasks/
+-rw-rw-r-- root/root       441 2016-08-01 05:09 ansible.solaris_10_zone-master/tasks/exclusive.yml
+-rw-rw-r-- root/root      1762 2016-08-01 05:09 ansible.solaris_10_zone-master/tasks/main.yml
+-rw-rw-r-- root/root      1926 2016-08-01 05:09 ansible.solaris_10_zone-master/tasks/prerequisites.yml
+-rw-rw-r-- root/root      1085 2016-08-01 05:09 ansible.solaris_10_zone-master/tasks/shared.yml
+drwxrwxr-x root/root         0 2016-08-01 05:09 ansible.solaris_10_zone-master/templates/
+-rw-rw-r-- root/root       536 2016-08-01 05:09 ansible.solaris_10_zone-master/templates/sysidcfg_exclusive.j2
+-rw-rw-r-- root/root       399 2016-08-01 05:09 ansible.solaris_10_zone-master/templates/sysidcfg_shared.j2

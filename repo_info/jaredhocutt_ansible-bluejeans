@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-bluejeans-master/
+-rw-rw-r-- root/root       196 2018-08-01 21:37 ansible-bluejeans-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-bluejeans-master/defaults/
+-rw-rw-r-- root/root        33 2018-08-01 21:37 ansible-bluejeans-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-bluejeans-master/handlers/
+-rw-rw-r-- root/root        33 2018-08-01 21:37 ansible-bluejeans-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-bluejeans-master/meta/
+-rw-rw-r-- root/root       201 2018-08-01 21:37 ansible-bluejeans-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-bluejeans-master/tasks/
+-rw-rw-r-- root/root       164 2018-08-01 21:37 ansible-bluejeans-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-bluejeans-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:37 ansible-bluejeans-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-08-01 21:37 ansible-bluejeans-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-bluejeans-master/vars/
+-rw-rw-r-- root/root        29 2018-08-01 21:37 ansible-bluejeans-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-19 15:21 ansible-role-entrapment-master/
+-rw-rw-r-- root/root     11357 2018-12-19 15:21 ansible-role-entrapment-master/LICENSE
+-rw-rw-r-- root/root       949 2018-12-19 15:21 ansible-role-entrapment-master/README.md
+drwxrwxr-x root/root         0 2018-12-19 15:21 ansible-role-entrapment-master/defaults/
+-rw-rw-r-- root/root        92 2018-12-19 15:21 ansible-role-entrapment-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-19 15:21 ansible-role-entrapment-master/meta/
+-rw-rw-r-- root/root       841 2018-12-19 15:21 ansible-role-entrapment-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-19 15:21 ansible-role-entrapment-master/tasks/
+-rw-rw-r-- root/root        92 2018-12-19 15:21 ansible-role-entrapment-master/tasks/apt.yml
+-rw-rw-r-- root/root       799 2018-12-19 15:21 ansible-role-entrapment-master/tasks/main.yml
+-rw-rw-r-- root/root       148 2018-12-19 15:21 ansible-role-entrapment-master/tasks/yum.yml
+-rw-rw-r-- root/root        98 2018-12-19 15:21 ansible-role-entrapment-master/tasks/zypper.yml
+drwxrwxr-x root/root         0 2018-12-19 15:21 ansible-role-entrapment-master/vars/
+-rw-rw-r-- root/root        31 2018-12-19 15:21 ansible-role-entrapment-master/vars/main.yml

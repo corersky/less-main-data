@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-15 19:03 ansible-role-kiosk-master/
+-rw-rw-r-- root/root       992 2017-02-15 19:03 ansible-role-kiosk-master/.travis.yml
+-rw-rw-r-- root/root       403 2017-02-15 19:03 ansible-role-kiosk-master/README.md
+drwxrwxr-x root/root         0 2017-02-15 19:03 ansible-role-kiosk-master/defaults/
+-rw-rw-r-- root/root       736 2017-02-15 19:03 ansible-role-kiosk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-15 19:03 ansible-role-kiosk-master/meta/
+-rwxrwxr-x root/root       264 2017-02-15 19:03 ansible-role-kiosk-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-15 19:03 ansible-role-kiosk-master/tasks/
+-rw-rw-r-- root/root      1740 2017-02-15 19:03 ansible-role-kiosk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-15 19:03 ansible-role-kiosk-master/templates/
+drwxrwxr-x root/root         0 2017-02-15 19:03 ansible-role-kiosk-master/templates/etc/
+drwxrwxr-x root/root         0 2017-02-15 19:03 ansible-role-kiosk-master/templates/etc/systemd/
+-rw-rw-r-- root/root       131 2017-02-15 19:03 ansible-role-kiosk-master/templates/etc/systemd/autologin.conf.j2
+drwxrwxr-x root/root         0 2017-02-15 19:03 ansible-role-kiosk-master/tests/
+-rw-rw-r-- root/root        49 2017-02-15 19:03 ansible-role-kiosk-master/tests/test.yml

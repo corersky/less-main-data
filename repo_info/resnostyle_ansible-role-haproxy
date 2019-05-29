@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-31 06:13 ansible-role-haproxy-master/
+-rw-rw-r-- root/root       965 2016-10-31 06:13 ansible-role-haproxy-master/.travis.yml
+-rw-rw-r-- root/root      1781 2016-10-31 06:13 ansible-role-haproxy-master/README.md
+drwxrwxr-x root/root         0 2016-10-31 06:13 ansible-role-haproxy-master/defaults/
+-rw-rw-r-- root/root      1174 2016-10-31 06:13 ansible-role-haproxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-31 06:13 ansible-role-haproxy-master/handlers/
+-rw-rw-r-- root/root        68 2016-10-31 06:13 ansible-role-haproxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-31 06:13 ansible-role-haproxy-master/meta/
+-rw-rw-r-- root/root       367 2016-10-31 06:13 ansible-role-haproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-31 06:13 ansible-role-haproxy-master/tasks/
+-rw-rw-r-- root/root      1773 2016-10-31 06:13 ansible-role-haproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-31 06:13 ansible-role-haproxy-master/templates/
+-rw-rw-r-- root/root      1671 2016-10-31 06:13 ansible-role-haproxy-master/templates/haproxy.cfg.j2
+drwxrwxr-x root/root         0 2016-10-31 06:13 ansible-role-haproxy-master/tests/
+-rw-rw-r-- root/root        10 2016-10-31 06:13 ansible-role-haproxy-master/tests/inventory
+-rw-rw-r-- root/root       607 2016-10-31 06:13 ansible-role-haproxy-master/tests/test.yml

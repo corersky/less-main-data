@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-06-03 05:19 ansible_rabbitmq-master/
+-rw-rw-r-- root/root      1086 2015-06-03 05:19 ansible_rabbitmq-master/LICENSE
+-rw-rw-r-- root/root        46 2015-06-03 05:19 ansible_rabbitmq-master/README.md
+-rw-rw-r-- root/root         6 2015-06-03 05:19 ansible_rabbitmq-master/VERSION
+drwxrwxr-x root/root         0 2015-06-03 05:19 ansible_rabbitmq-master/handlers/
+-rw-rw-r-- root/root       144 2015-06-03 05:19 ansible_rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-03 05:19 ansible_rabbitmq-master/meta/
+-rw-rw-r-- root/root       206 2015-06-03 05:19 ansible_rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-03 05:19 ansible_rabbitmq-master/tasks/
+-rw-rw-r-- root/root        75 2015-06-03 05:19 ansible_rabbitmq-master/tasks/main.yml
+-rw-rw-r-- root/root       415 2015-06-03 05:19 ansible_rabbitmq-master/tasks/rabbitmq.yml

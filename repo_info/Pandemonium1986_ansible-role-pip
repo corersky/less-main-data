@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2019-04-21 10:28 ansible-role-pip-master/
+-rw-rw-r-- root/root       172 2019-04-21 10:28 ansible-role-pip-master/.yamllint
+-rw-rw-r-- root/root      1072 2019-04-21 10:28 ansible-role-pip-master/LICENSE
+-rw-rw-r-- root/root      1070 2019-04-21 10:28 ansible-role-pip-master/README.md
+drwxrwxr-x root/root         0 2019-04-21 10:28 ansible-role-pip-master/meta/
+-rw-rw-r-- root/root       562 2019-04-21 10:28 ansible-role-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-21 10:28 ansible-role-pip-master/molecule/
+drwxrwxr-x root/root         0 2019-04-21 10:28 ansible-role-pip-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-04-21 10:28 ansible-role-pip-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       555 2019-04-21 10:28 ansible-role-pip-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       240 2019-04-21 10:28 ansible-role-pip-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        72 2019-04-21 10:28 ansible-role-pip-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-04-21 10:28 ansible-role-pip-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2019-04-21 10:28 ansible-role-pip-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1021 2019-04-21 10:28 ansible-role-pip-master/molecule/default/tests/test_default.pyc
+drwxrwxr-x root/root         0 2019-04-21 10:28 ansible-role-pip-master/tasks/
+-rw-rw-r-- root/root      2171 2019-04-21 10:28 ansible-role-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-21 10:28 ansible-role-pip-master/vars/
+-rw-rw-r-- root/root        32 2019-04-21 10:28 ansible-role-pip-master/vars/CentOS-7.yml
+-rw-rw-r-- root/root        30 2019-04-21 10:28 ansible-role-pip-master/vars/Debian-9.yml
+-rw-rw-r-- root/root        31 2019-04-21 10:28 ansible-role-pip-master/vars/Linux Mint-19.yml
+-rw-rw-r-- root/root        31 2019-04-21 10:28 ansible-role-pip-master/vars/Ubuntu-18.yml

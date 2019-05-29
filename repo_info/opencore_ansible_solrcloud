@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-03 15:04 ansible_solrcloud-master/
+-rw-rw-r-- root/root        12 2017-12-03 15:04 ansible_solrcloud-master/.gitignore
+-rw-rw-r-- root/root      1328 2017-12-03 15:04 ansible_solrcloud-master/README.md
+drwxrwxr-x root/root         0 2017-12-03 15:04 ansible_solrcloud-master/defaults/
+-rw-rw-r-- root/root       204 2017-12-03 15:04 ansible_solrcloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-03 15:04 ansible_solrcloud-master/handlers/
+-rw-rw-r-- root/root        41 2017-12-03 15:04 ansible_solrcloud-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-03 15:04 ansible_solrcloud-master/meta/
+-rw-rw-r-- root/root      1370 2017-12-03 15:04 ansible_solrcloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-03 15:04 ansible_solrcloud-master/tasks/
+-rw-rw-r-- root/root      1644 2017-12-03 15:04 ansible_solrcloud-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-03 15:04 ansible_solrcloud-master/templates/
+-rw-rw-r-- root/root        31 2017-12-03 15:04 ansible_solrcloud-master/templates/solr.j2
+-rw-rw-r-- root/root       214 2017-12-03 15:04 ansible_solrcloud-master/templates/solr.service.j2

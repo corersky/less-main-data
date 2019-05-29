@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/
+-rw-rw-r-- root/root     11356 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/LICENSE
+-rw-rw-r-- root/root        63 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/README.md
+drwxrwxr-x root/root         0 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/defaults/
+-rw-rw-r-- root/root       211 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/meta/
+-rw-rw-r-- root/root       329 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/tasks/
+-rw-rw-r-- root/root       154 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/templates/
+-rw-rw-r-- root/root      1098 2019-02-01 02:53 ansible-role-kubeoscar-ui-master/templates/oscarui.j2

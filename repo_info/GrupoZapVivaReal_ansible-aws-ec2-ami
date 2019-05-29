@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-04 09:25 ansible-aws-ec2-ami-master/
+-rw-rw-r-- root/root      2713 2016-05-04 09:25 ansible-aws-ec2-ami-master/README.md
+-rw-rw-r-- root/root       722 2016-05-04 09:25 ansible-aws-ec2-ami-master/circle.yml
+drwxrwxr-x root/root         0 2016-05-04 09:25 ansible-aws-ec2-ami-master/meta/
+-rw-rw-r-- root/root       359 2016-05-04 09:25 ansible-aws-ec2-ami-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-04 09:25 ansible-aws-ec2-ami-master/tasks/
+-rw-rw-r-- root/root      1083 2016-05-04 09:25 ansible-aws-ec2-ami-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-04 09:25 ansible-aws-ec2-ami-master/tests/
+-rw-rw-r-- root/root         9 2016-05-04 09:25 ansible-aws-ec2-ami-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-05-04 09:25 ansible-aws-ec2-ami-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-05-04 09:25 ansible-aws-ec2-ami-master/vars/
+-rw-rw-r-- root/root        32 2016-05-04 09:25 ansible-aws-ec2-ami-master/vars/main.yml

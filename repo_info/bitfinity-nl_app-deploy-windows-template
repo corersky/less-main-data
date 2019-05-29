@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-17 04:22 app-deploy-windows-template-master/
+-rw-rw-r-- root/root      1066 2018-05-17 04:22 app-deploy-windows-template-master/LICENSE
+-rw-rw-r-- root/root       540 2018-05-17 04:22 app-deploy-windows-template-master/README.md
+drwxrwxr-x root/root         0 2018-05-17 04:22 app-deploy-windows-template-master/defaults/
+-rw-rw-r-- root/root      1430 2018-05-17 04:22 app-deploy-windows-template-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-17 04:22 app-deploy-windows-template-master/handlers/
+-rw-rw-r-- root/root        54 2018-05-17 04:22 app-deploy-windows-template-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-17 04:22 app-deploy-windows-template-master/meta/
+-rw-rw-r-- root/root       309 2018-05-17 04:22 app-deploy-windows-template-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-17 04:22 app-deploy-windows-template-master/tasks/
+-rw-rw-r-- root/root       534 2018-05-17 04:22 app-deploy-windows-template-master/tasks/main.yml
+-rw-rw-r-- root/root      1547 2018-05-17 04:22 app-deploy-windows-template-master/tasks/windows-amd64.yml
+-rw-rw-r-- root/root      1539 2018-05-17 04:22 app-deploy-windows-template-master/tasks/windows-x86.yml
+drwxrwxr-x root/root         0 2018-05-17 04:22 app-deploy-windows-template-master/vars/
+-rw-rw-r-- root/root        50 2018-05-17 04:22 app-deploy-windows-template-master/vars/main.yml

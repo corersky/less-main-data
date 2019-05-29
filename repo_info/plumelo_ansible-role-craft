@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2019-04-15 04:53 ansible-role-craft-master/
+-rw-rw-r-- root/root       219 2019-04-15 04:53 ansible-role-craft-master/.editorconfig
+-rw-rw-r-- root/root        76 2019-04-15 04:53 ansible-role-craft-master/.gitignore
+-rw-rw-r-- root/root      2282 2019-04-15 04:53 ansible-role-craft-master/README.md
+drwxrwxr-x root/root         0 2019-04-15 04:53 ansible-role-craft-master/defaults/
+-rw-rw-r-- root/root      1899 2019-04-15 04:53 ansible-role-craft-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-15 04:53 ansible-role-craft-master/meta/
+-rw-rw-r-- root/root       253 2019-04-15 04:53 ansible-role-craft-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-15 04:53 ansible-role-craft-master/tasks/
+-rw-rw-r-- root/root       739 2019-04-15 04:53 ansible-role-craft-master/tasks/deps.yml
+-rw-rw-r-- root/root       289 2019-04-15 04:53 ansible-role-craft-master/tasks/fpm.yml
+-rw-rw-r-- root/root      1747 2019-04-15 04:53 ansible-role-craft-master/tasks/install.yml
+-rw-rw-r-- root/root       220 2019-04-15 04:53 ansible-role-craft-master/tasks/main.yml
+-rw-rw-r-- root/root       361 2019-04-15 04:53 ansible-role-craft-master/tasks/mysql.yml
+-rw-rw-r-- root/root       116 2019-04-15 04:53 ansible-role-craft-master/tasks/nginx.yml
+drwxrwxr-x root/root         0 2019-04-15 04:53 ansible-role-craft-master/templates/
+-rw-rw-r-- root/root       919 2019-04-15 04:53 ansible-role-craft-master/templates/craft.conf.j2
+drwxrwxr-x root/root         0 2019-04-15 04:53 ansible-role-craft-master/tests/
+-rw-rw-r-- root/root       465 2019-04-15 04:53 ansible-role-craft-master/tests/Vagrantfile
+-rw-rw-r-- root/root        76 2019-04-15 04:53 ansible-role-craft-master/tests/galaxy.yml
+drwxrwxr-x root/root         0 2019-04-15 04:53 ansible-role-craft-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-04-15 04:53 ansible-role-craft-master/tests/roles/plumelo.craft -> ../../../ansible-role-craft
+-rw-rw-r-- root/root        99 2019-04-15 04:53 ansible-role-craft-master/tests/test.yml
+-rw-rw-r-- root/root       148 2019-04-15 04:53 ansible-role-craft-master/tests/vars.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-05 01:32 ansible-role-nodejs-master/
+-rw-rw-r-- root/root        52 2018-04-05 01:32 ansible-role-nodejs-master/.gitignore
+-rw-rw-r-- root/root      1069 2018-04-05 01:32 ansible-role-nodejs-master/LICENSE
+-rw-rw-r-- root/root       492 2018-04-05 01:32 ansible-role-nodejs-master/README.md
+drwxrwxr-x root/root         0 2018-04-05 01:32 ansible-role-nodejs-master/defaults/
+-rw-rw-r-- root/root        65 2018-04-05 01:32 ansible-role-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-05 01:32 ansible-role-nodejs-master/handlers/
+-rw-rw-r-- root/root        43 2018-04-05 01:32 ansible-role-nodejs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-05 01:32 ansible-role-nodejs-master/meta/
+-rw-rw-r-- root/root       302 2018-04-05 01:32 ansible-role-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-05 01:32 ansible-role-nodejs-master/tasks/
+-rw-rw-r-- root/root      1260 2018-04-05 01:32 ansible-role-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-05 01:32 ansible-role-nodejs-master/tests/
+-rw-rw-r-- root/root        11 2018-04-05 01:32 ansible-role-nodejs-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-04-05 01:32 ansible-role-nodejs-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-05 01:32 ansible-role-nodejs-master/vars/
+-rw-rw-r-- root/root        39 2018-04-05 01:32 ansible-role-nodejs-master/vars/main.yml

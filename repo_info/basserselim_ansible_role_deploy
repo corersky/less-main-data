@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-27 05:20 ansible_role_deploy-master/
+-rw-rw-r-- root/root       539 2016-07-27 05:20 ansible_role_deploy-master/.travis.yml
+-rw-rw-r-- root/root      1045 2016-07-27 05:20 ansible_role_deploy-master/README.md
+drwxrwxr-x root/root         0 2016-07-27 05:20 ansible_role_deploy-master/defaults/
+-rw-rw-r-- root/root       128 2016-07-27 05:20 ansible_role_deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-27 05:20 ansible_role_deploy-master/handlers/
+-rw-rw-r-- root/root        31 2016-07-27 05:20 ansible_role_deploy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-27 05:20 ansible_role_deploy-master/meta/
+-rw-rw-r-- root/root      3255 2016-07-27 05:20 ansible_role_deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-27 05:20 ansible_role_deploy-master/tasks/
+-rw-rw-r-- root/root      2167 2016-07-27 05:20 ansible_role_deploy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-27 05:20 ansible_role_deploy-master/tests/
+-rw-rw-r-- root/root         9 2016-07-27 05:20 ansible_role_deploy-master/tests/inventory
+-rw-rw-r-- root/root        64 2016-07-27 05:20 ansible_role_deploy-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-27 05:20 ansible_role_deploy-master/vars/
+-rw-rw-r-- root/root        27 2016-07-27 05:20 ansible_role_deploy-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-27 02:15 ansible-secure-ssh-master/
+-rw-rw-r-- root/root      2166 2019-05-27 02:15 ansible-secure-ssh-master/README.md
+drwxrwxr-x root/root         0 2019-05-27 02:15 ansible-secure-ssh-master/defaults/
+-rw-rw-r-- root/root       644 2019-05-27 02:15 ansible-secure-ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-27 02:15 ansible-secure-ssh-master/handlers/
+-rw-rw-r-- root/root        86 2019-05-27 02:15 ansible-secure-ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-27 02:15 ansible-secure-ssh-master/meta/
+-rw-rw-r-- root/root       236 2019-05-27 02:15 ansible-secure-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-27 02:15 ansible-secure-ssh-master/tasks/
+-rw-rw-r-- root/root      1777 2019-05-27 02:15 ansible-secure-ssh-master/tasks/_generate_keys.yml
+-rw-rw-r-- root/root       649 2019-05-27 02:15 ansible-secure-ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-27 02:15 ansible-secure-ssh-master/templates/
+-rw-rw-r-- root/root       254 2019-05-27 02:15 ansible-secure-ssh-master/templates/ssh_config
+-rw-rw-r-- root/root      3795 2019-05-27 02:15 ansible-secure-ssh-master/templates/sshd_config

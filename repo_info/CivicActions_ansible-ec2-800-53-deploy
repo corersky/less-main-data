@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/
+-rw-rw-r-- root/root     35141 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/LICENSE
+-rw-rw-r-- root/root       220 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/README.md
+drwxrwxr-x root/root         0 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/defaults/
+-rw-rw-r-- root/root        54 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/meta/
+-rw-rw-r-- root/root       395 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/tasks/
+-rw-rw-r-- root/root      2597 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/tasks/create-ami.yml
+-rw-rw-r-- root/root      2085 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/tasks/deploy.yml
+-rw-rw-r-- root/root      1482 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/tasks/encrypt-ami.yml
+-rw-rw-r-- root/root      1556 2017-09-13 13:16 ansible-ec2-800-53-deploy-master/tasks/main.yml

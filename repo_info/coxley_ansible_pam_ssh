@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-11-16 04:49 ansible_pam_ssh-master/
+-rw-rw-r-- root/root       766 2015-11-16 04:49 ansible_pam_ssh-master/README.md
+drwxrwxr-x root/root         0 2015-11-16 04:49 ansible_pam_ssh-master/defaults/
+-rw-rw-r-- root/root        70 2015-11-16 04:49 ansible_pam_ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-16 04:49 ansible_pam_ssh-master/handlers/
+-rw-rw-r-- root/root        90 2015-11-16 04:49 ansible_pam_ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-16 04:49 ansible_pam_ssh-master/meta/
+-rw-rw-r-- root/root       453 2015-11-16 04:49 ansible_pam_ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-16 04:49 ansible_pam_ssh-master/tasks/
+-rw-rw-r-- root/root       440 2015-11-16 04:49 ansible_pam_ssh-master/tasks/arch.yml
+-rw-rw-r-- root/root       984 2015-11-16 04:49 ansible_pam_ssh-master/tasks/debian.yml
+-rw-rw-r-- root/root       571 2015-11-16 04:49 ansible_pam_ssh-master/tasks/main.yml
+-rw-rw-r-- root/root        78 2015-11-16 04:49 ansible_pam_ssh-master/tasks/requirements.yml
+drwxrwxr-x root/root         0 2015-11-16 04:49 ansible_pam_ssh-master/vars/
+-rw-rw-r-- root/root       168 2015-11-16 04:49 ansible_pam_ssh-master/vars/main.yml

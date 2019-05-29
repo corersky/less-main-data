@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-05-07 05:43 ansible-rol-kibana-master/
+-rw-rw-r-- root/root       616 2018-05-07 05:43 ansible-rol-kibana-master/README.md
+drwxrwxr-x root/root         0 2018-05-07 05:43 ansible-rol-kibana-master/defaults/
+-rw-rw-r-- root/root        89 2018-05-07 05:43 ansible-rol-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-07 05:43 ansible-rol-kibana-master/handlers/
+-rw-rw-r-- root/root        67 2018-05-07 05:43 ansible-rol-kibana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-07 05:43 ansible-rol-kibana-master/meta/
+-rw-rw-r-- root/root       287 2018-05-07 05:43 ansible-rol-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-07 05:43 ansible-rol-kibana-master/tasks/
+-rw-rw-r-- root/root       441 2018-05-07 05:43 ansible-rol-kibana-master/tasks/Debian.yml
+-rw-rw-r-- root/root       252 2018-05-07 05:43 ansible-rol-kibana-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       278 2018-05-07 05:43 ansible-rol-kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-07 05:43 ansible-rol-kibana-master/templates/
+-rw-rw-r-- root/root      4659 2018-05-07 05:43 ansible-rol-kibana-master/templates/kibana.yml.base

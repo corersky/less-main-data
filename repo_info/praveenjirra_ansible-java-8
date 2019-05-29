@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-22 17:02 ansible-java-8-master/
+-rw-rw-r-- root/root        33 2018-05-22 17:02 ansible-java-8-master/.gitignore
+-rw-rw-r-- root/root      1954 2018-05-22 17:02 ansible-java-8-master/.travis.yml
+-rw-rw-r-- root/root       744 2018-05-22 17:02 ansible-java-8-master/README.md
+drwxrwxr-x root/root         0 2018-05-22 17:02 ansible-java-8-master/defaults/
+-rw-rw-r-- root/root       270 2018-05-22 17:02 ansible-java-8-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-05-22 17:02 ansible-java-8-master/meta/
+-rw-rw-r-- root/root       331 2018-05-22 17:02 ansible-java-8-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-22 17:02 ansible-java-8-master/tasks/
+-rw-rw-r-- root/root      1839 2018-05-22 17:02 ansible-java-8-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-05-22 17:02 ansible-java-8-master/tests/
+-rw-rw-r-- root/root        10 2018-05-22 17:02 ansible-java-8-master/tests/inventory
+drwxrwxr-x root/root         0 2018-05-22 17:02 ansible-java-8-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-05-22 17:02 ansible-java-8-master/tests/roles/ansible-java-8 -> ../../../ansible-java-8
+-rw-rw-r-- root/root        74 2018-05-22 17:02 ansible-java-8-master/tests/test.yaml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-12 10:21 ansible-mapr_drill_test-master/
+-rw-rw-r-- root/root       394 2016-08-12 10:21 ansible-mapr_drill_test-master/README.md
+drwxrwxr-x root/root         0 2016-08-12 10:21 ansible-mapr_drill_test-master/defaults/
+-rw-rw-r-- root/root        40 2016-08-12 10:21 ansible-mapr_drill_test-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-12 10:21 ansible-mapr_drill_test-master/files/
+-rw-rw-r-- root/root        41 2016-08-12 10:21 ansible-mapr_drill_test-master/files/query1.sql
+drwxrwxr-x root/root         0 2016-08-12 10:21 ansible-mapr_drill_test-master/handlers/
+-rw-rw-r-- root/root        40 2016-08-12 10:21 ansible-mapr_drill_test-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-12 10:21 ansible-mapr_drill_test-master/meta/
+-rw-rw-r-- root/root      2373 2016-08-12 10:21 ansible-mapr_drill_test-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-12 10:21 ansible-mapr_drill_test-master/tasks/
+-rw-rw-r-- root/root       328 2016-08-12 10:21 ansible-mapr_drill_test-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-12 10:21 ansible-mapr_drill_test-master/vars/
+-rw-rw-r-- root/root        36 2016-08-12 10:21 ansible-mapr_drill_test-master/vars/main.yml

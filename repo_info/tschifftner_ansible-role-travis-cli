@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-25 03:52 ansible-role-travis-cli-master/
+-rw-rw-r-- root/root        38 2018-07-25 03:52 ansible-role-travis-cli-master/.gitignore
+-rwxrwxr-x root/root      1041 2018-07-25 03:52 ansible-role-travis-cli-master/.travis.yml
+-rwxrwxr-x root/root      1089 2018-07-25 03:52 ansible-role-travis-cli-master/LICENSE.txt
+-rwxrwxr-x root/root      1055 2018-07-25 03:52 ansible-role-travis-cli-master/README.md
+drwxrwxr-x root/root         0 2018-07-25 03:52 ansible-role-travis-cli-master/defaults/
+-rwxrwxr-x root/root       112 2018-07-25 03:52 ansible-role-travis-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-25 03:52 ansible-role-travis-cli-master/meta/
+-rwxrwxr-x root/root       420 2018-07-25 03:52 ansible-role-travis-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-25 03:52 ansible-role-travis-cli-master/tasks/
+-rwxrwxr-x root/root       316 2018-07-25 03:52 ansible-role-travis-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-25 03:52 ansible-role-travis-cli-master/tests/
+-rw-rw-r-- root/root       999 2018-07-25 03:52 ansible-role-travis-cli-master/tests/README.md
+-rwxrwxr-x root/root        99 2018-07-25 03:52 ansible-role-travis-cli-master/tests/first-run.sh
+-rwxrwxr-x root/root         9 2018-07-25 03:52 ansible-role-travis-cli-master/tests/inventory
+-rwxrwxr-x root/root        68 2018-07-25 03:52 ansible-role-travis-cli-master/tests/test.yml

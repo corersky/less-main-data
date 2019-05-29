@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-11-11 11:23 ansible-lubuntu-master/
+-rw-rw-r-- root/root       325 2014-11-11 11:23 ansible-lubuntu-master/README.md
+drwxrwxr-x root/root         0 2014-11-11 11:23 ansible-lubuntu-master/defaults/
+-rw-rw-r-- root/root        41 2014-11-11 11:23 ansible-lubuntu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-11 11:23 ansible-lubuntu-master/files/
+-rw-rw-r-- root/root        89 2014-11-11 11:23 ansible-lubuntu-master/files/refresh-apt.conf
+drwxrwxr-x root/root         0 2014-11-11 11:23 ansible-lubuntu-master/handlers/
+-rw-rw-r-- root/root        41 2014-11-11 11:23 ansible-lubuntu-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-11 11:23 ansible-lubuntu-master/meta/
+-rw-rw-r-- root/root        59 2014-11-11 11:23 ansible-lubuntu-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       239 2014-11-11 11:23 ansible-lubuntu-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-11 11:23 ansible-lubuntu-master/tasks/
+-rw-rw-r-- root/root      2291 2014-11-11 11:23 ansible-lubuntu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-11 11:23 ansible-lubuntu-master/vars/
+-rw-rw-r-- root/root        37 2014-11-11 11:23 ansible-lubuntu-master/vars/main.yml

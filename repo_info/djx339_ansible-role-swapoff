@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-13 21:44 ansible-role-swapoff-master/
+-rw-rw-r-- root/root       397 2017-12-13 21:44 ansible-role-swapoff-master/README.md
+drwxrwxr-x root/root         0 2017-12-13 21:44 ansible-role-swapoff-master/defaults/
+-rw-rw-r-- root/root        31 2017-12-13 21:44 ansible-role-swapoff-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-13 21:44 ansible-role-swapoff-master/handlers/
+-rw-rw-r-- root/root        31 2017-12-13 21:44 ansible-role-swapoff-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-13 21:44 ansible-role-swapoff-master/meta/
+-rw-rw-r-- root/root      1080 2017-12-13 21:44 ansible-role-swapoff-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-13 21:44 ansible-role-swapoff-master/tasks/
+-rw-rw-r-- root/root       215 2017-12-13 21:44 ansible-role-swapoff-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-13 21:44 ansible-role-swapoff-master/tests/
+-rw-rw-r-- root/root        11 2017-12-13 21:44 ansible-role-swapoff-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-12-13 21:44 ansible-role-swapoff-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-13 21:44 ansible-role-swapoff-master/vars/
+-rw-rw-r-- root/root        27 2017-12-13 21:44 ansible-role-swapoff-master/vars/main.yml

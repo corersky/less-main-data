@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-06 17:33 ansible-webgoat-master/
+-rw-rw-r-- root/root       760 2015-11-06 17:33 ansible-webgoat-master/.travis.yml
+-rw-rw-r-- root/root      1066 2015-11-06 17:33 ansible-webgoat-master/LICENSE
+-rw-rw-r-- root/root      1046 2015-11-06 17:33 ansible-webgoat-master/README.md
+drwxrwxr-x root/root         0 2015-11-06 17:33 ansible-webgoat-master/handlers/
+-rw-rw-r-- root/root       112 2015-11-06 17:33 ansible-webgoat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-06 17:33 ansible-webgoat-master/meta/
+-rw-rw-r-- root/root       295 2015-11-06 17:33 ansible-webgoat-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-06 17:33 ansible-webgoat-master/tasks/
+-rw-rw-r-- root/root       811 2015-11-06 17:33 ansible-webgoat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-06 17:33 ansible-webgoat-master/templates/
+drwxrwxr-x root/root         0 2015-11-06 17:33 ansible-webgoat-master/templates/etc/
+drwxrwxr-x root/root         0 2015-11-06 17:33 ansible-webgoat-master/templates/etc/tomcat7/
+-rw-rw-r-- root/root       470 2015-11-06 17:33 ansible-webgoat-master/templates/etc/tomcat7/tomcat-users.xml
+drwxrwxr-x root/root         0 2015-11-06 17:33 ansible-webgoat-master/tests/
+-rw-rw-r-- root/root       104 2015-11-06 17:33 ansible-webgoat-master/tests/inventory
+-rw-rw-r-- root/root       110 2015-11-06 17:33 ansible-webgoat-master/tests/test.yml

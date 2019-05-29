@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-17 04:01 ansible-role-matterircd-master/
+-rw-rw-r-- root/root       631 2018-04-17 04:01 ansible-role-matterircd-master/.gitignore
+-rw-rw-r-- root/root      1829 2018-04-17 04:01 ansible-role-matterircd-master/README.md
+drwxrwxr-x root/root         0 2018-04-17 04:01 ansible-role-matterircd-master/defaults/
+-rw-rw-r-- root/root       284 2018-04-17 04:01 ansible-role-matterircd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-17 04:01 ansible-role-matterircd-master/handlers/
+-rw-rw-r-- root/root       195 2018-04-17 04:01 ansible-role-matterircd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-17 04:01 ansible-role-matterircd-master/meta/
+-rw-rw-r-- root/root       394 2018-04-17 04:01 ansible-role-matterircd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-17 04:01 ansible-role-matterircd-master/tasks/
+-rw-rw-r-- root/root       812 2018-04-17 04:01 ansible-role-matterircd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-17 04:01 ansible-role-matterircd-master/templates/
+-rw-rw-r-- root/root       539 2018-04-17 04:01 ansible-role-matterircd-master/templates/matterircd.service.j2
+drwxrwxr-x root/root         0 2018-04-17 04:01 ansible-role-matterircd-master/vars/
+-rw-rw-r-- root/root        46 2018-04-17 04:01 ansible-role-matterircd-master/vars/main.yml

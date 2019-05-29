@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-07-07 16:12 ansible-gitlab-ce-master/
+-rw-rw-r-- root/root       326 2016-07-07 16:12 ansible-gitlab-ce-master/README.md
+drwxrwxr-x root/root         0 2016-07-07 16:12 ansible-gitlab-ce-master/defaults/
+-rw-rw-r-- root/root        44 2016-07-07 16:12 ansible-gitlab-ce-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-07 16:12 ansible-gitlab-ce-master/meta/
+-rw-rw-r-- root/root       252 2016-07-07 16:12 ansible-gitlab-ce-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-07 16:12 ansible-gitlab-ce-master/tasks/
+-rw-rw-r-- root/root        87 2016-07-07 16:12 ansible-gitlab-ce-master/tasks/config.yml
+-rw-rw-r-- root/root       218 2016-07-07 16:12 ansible-gitlab-ce-master/tasks/install.yml
+-rw-rw-r-- root/root       172 2016-07-07 16:12 ansible-gitlab-ce-master/tasks/main.yml
+-rw-rw-r-- root/root       105 2016-07-07 16:12 ansible-gitlab-ce-master/tasks/reconfig.yml
+drwxrwxr-x root/root         0 2016-07-07 16:12 ansible-gitlab-ce-master/templates/
+-rw-rw-r-- root/root        43 2016-07-07 16:12 ansible-gitlab-ce-master/templates/gitlab.j2

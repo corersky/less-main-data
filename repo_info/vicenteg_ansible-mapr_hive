@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-10-31 11:24 ansible-mapr_hive-master/
+-rw-rw-r-- root/root      1226 2016-10-31 11:24 ansible-mapr_hive-master/README.md
+drwxrwxr-x root/root         0 2016-10-31 11:24 ansible-mapr_hive-master/defaults/
+-rw-rw-r-- root/root       359 2016-10-31 11:24 ansible-mapr_hive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-31 11:24 ansible-mapr_hive-master/files/
+-rw-rw-r-- root/root       324 2016-10-31 11:24 ansible-mapr_hive-master/files/getting_started_with_hive.hql
+-rw-rw-r-- root/root       219 2016-10-31 11:24 ansible-mapr_hive-master/files/sample-table.txt
+drwxrwxr-x root/root         0 2016-10-31 11:24 ansible-mapr_hive-master/handlers/
+-rw-rw-r-- root/root       468 2016-10-31 11:24 ansible-mapr_hive-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-31 11:24 ansible-mapr_hive-master/meta/
+-rw-rw-r-- root/root      2165 2016-10-31 11:24 ansible-mapr_hive-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-31 11:24 ansible-mapr_hive-master/tasks/
+-rw-rw-r-- root/root     10708 2016-10-31 11:24 ansible-mapr_hive-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-31 11:24 ansible-mapr_hive-master/templates/
+-rw-rw-r-- root/root       123 2016-10-31 11:24 ansible-mapr_hive-master/templates/dot-my.cnf.j2
+drwxrwxr-x root/root         0 2016-10-31 11:24 ansible-mapr_hive-master/vars/
+-rw-rw-r-- root/root        30 2016-10-31 11:24 ansible-mapr_hive-master/vars/main.yml

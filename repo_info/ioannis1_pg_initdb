@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-01-16 16:48 pg_initdb-master/
+-rw-rw-r-- root/root      1106 2019-01-16 16:48 pg_initdb-master/LICENSE
+-rw-rw-r-- root/root      1423 2019-01-16 16:48 pg_initdb-master/README.md
+drwxrwxr-x root/root         0 2019-01-16 16:48 pg_initdb-master/defaults/
+-rw-rw-r-- root/root       144 2019-01-16 16:48 pg_initdb-master/defaults/main.yml
+-rw-rw-r-- root/root        31 2019-01-16 16:48 pg_initdb-master/install
+drwxrwxr-x root/root         0 2019-01-16 16:48 pg_initdb-master/meta/
+-rw-rw-r-- root/root       444 2019-01-16 16:48 pg_initdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-16 16:48 pg_initdb-master/tasks/
+-rw-rw-r-- root/root      1816 2019-01-16 16:48 pg_initdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-16 16:48 pg_initdb-master/templates/
+-rw-rw-r-- root/root      5310 2019-01-16 16:48 pg_initdb-master/templates/io_1.conf.j2

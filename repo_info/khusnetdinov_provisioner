@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-27 16:48 provisioner-master/
+-rw-rw-r-- root/root        21 2016-08-27 16:48 provisioner-master/.gitignore
+-rw-rw-r-- root/root       532 2016-08-27 16:48 provisioner-master/Makefile
+-rw-rw-r-- root/root      2023 2016-08-27 16:48 provisioner-master/README.md
+-rw-rw-r-- root/root       427 2016-08-27 16:48 provisioner-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-08-27 16:48 provisioner-master/inventories/
+-rw-rw-r-- root/root         9 2016-08-27 16:48 provisioner-master/inventories/production.ini
+drwxrwxr-x root/root         0 2016-08-27 16:48 provisioner-master/meta/
+-rw-rw-r-- root/root       692 2016-08-27 16:48 provisioner-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-27 16:48 provisioner-master/playbooks/
+-rw-rw-r-- root/root      2284 2016-08-27 16:48 provisioner-master/playbooks/provision.yml
+-rw-rw-r-- root/root       785 2016-08-27 16:48 provisioner-master/requirements.yml
+drwxrwxr-x root/root         0 2016-08-27 16:48 provisioner-master/roles/
+-rw-rw-r-- root/root         0 2016-08-27 16:48 provisioner-master/roles/.keep
+-rw-rw-r-- root/root       846 2016-08-27 16:48 provisioner-master/settings.yml
+drwxrwxr-x root/root         0 2016-08-27 16:48 provisioner-master/temp/
+-rw-rw-r-- root/root         0 2016-08-27 16:48 provisioner-master/temp/.keep

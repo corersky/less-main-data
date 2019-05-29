@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-17 14:07 ansible-role-aws-master/
+-rw-rw-r-- root/root         9 2017-06-17 14:07 ansible-role-aws-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-17 14:07 ansible-role-aws-master/LICENSE
+-rw-rw-r-- root/root       274 2017-06-17 14:07 ansible-role-aws-master/README.md
+drwxrwxr-x root/root         0 2017-06-17 14:07 ansible-role-aws-master/defaults/
+-rw-rw-r-- root/root       118 2017-06-17 14:07 ansible-role-aws-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-17 14:07 ansible-role-aws-master/meta/
+-rw-rw-r-- root/root       280 2017-06-17 14:07 ansible-role-aws-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-17 14:07 ansible-role-aws-master/tasks/
+-rw-rw-r-- root/root       654 2017-06-17 14:07 ansible-role-aws-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-17 14:07 ansible-role-aws-master/templates/
+-rw-rw-r-- root/root        69 2017-06-17 14:07 ansible-role-aws-master/templates/config.j2
+-rw-rw-r-- root/root       106 2017-06-17 14:07 ansible-role-aws-master/templates/credentials.j2

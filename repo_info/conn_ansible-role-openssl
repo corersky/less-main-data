@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-12 21:08 ansible-role-openssl-master/
+-rw-rw-r-- root/root      1514 2018-08-12 21:08 ansible-role-openssl-master/LICENSE
+-rw-rw-r-- root/root       179 2018-08-12 21:08 ansible-role-openssl-master/README.md
+drwxrwxr-x root/root         0 2018-08-12 21:08 ansible-role-openssl-master/defaults/
+-rw-rw-r-- root/root        47 2018-08-12 21:08 ansible-role-openssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-12 21:08 ansible-role-openssl-master/meta/
+-rw-rw-r-- root/root       259 2018-08-12 21:08 ansible-role-openssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-12 21:08 ansible-role-openssl-master/tasks/
+-rw-rw-r-- root/root       123 2018-08-12 21:08 ansible-role-openssl-master/tasks/boot.yml
+-rw-rw-r-- root/root       474 2018-08-12 21:08 ansible-role-openssl-master/tasks/build.yml
+-rw-rw-r-- root/root       317 2018-08-12 21:08 ansible-role-openssl-master/tasks/keys.yml
+drwxrwxr-x root/root         0 2018-08-12 21:08 ansible-role-openssl-master/tasks/keys/
+-rw-rw-r-- root/root       346 2018-08-12 21:08 ansible-role-openssl-master/tasks/keys/wipe.yml
+-rw-rw-r-- root/root        85 2018-08-12 21:08 ansible-role-openssl-master/tasks/main.yml

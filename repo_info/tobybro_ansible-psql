@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-27 07:32 ansible-psql-master/
+-rw-rw-r-- root/root       633 2016-10-27 07:32 ansible-psql-master/.travis.yml
+-rw-rw-r-- root/root       627 2016-10-27 07:32 ansible-psql-master/README.md
+drwxrwxr-x root/root         0 2016-10-27 07:32 ansible-psql-master/defaults/
+-rw-rw-r-- root/root       165 2016-10-27 07:32 ansible-psql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-27 07:32 ansible-psql-master/handlers/
+-rw-rw-r-- root/root        29 2016-10-27 07:32 ansible-psql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-27 07:32 ansible-psql-master/meta/
+-rw-rw-r-- root/root      1741 2016-10-27 07:32 ansible-psql-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-27 07:32 ansible-psql-master/tasks/
+-rw-rw-r-- root/root       227 2016-10-27 07:32 ansible-psql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-27 07:32 ansible-psql-master/tests/
+-rw-rw-r-- root/root         9 2016-10-27 07:32 ansible-psql-master/tests/inventory
+-rw-rw-r-- root/root        96 2016-10-27 07:32 ansible-psql-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-27 07:32 ansible-psql-master/vars/
+-rw-rw-r-- root/root        25 2016-10-27 07:32 ansible-psql-master/vars/main.yml

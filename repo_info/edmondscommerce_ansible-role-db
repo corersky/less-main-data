@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-11 09:58 ansible-role-db-master/
+-rw-rw-r-- root/root        26 2019-03-11 09:58 ansible-role-db-master/.gitignore
+-rw-rw-r-- root/root       502 2019-03-11 09:58 ansible-role-db-master/README.md
+drwxrwxr-x root/root         0 2019-03-11 09:58 ansible-role-db-master/defaults/
+-rw-rw-r-- root/root      1024 2019-03-11 09:58 ansible-role-db-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-11 09:58 ansible-role-db-master/meta/
+-rw-rw-r-- root/root      2116 2019-03-11 09:58 ansible-role-db-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-11 09:58 ansible-role-db-master/tasks/
+-rw-rw-r-- root/root      4016 2019-03-11 09:58 ansible-role-db-master/tasks/install.yml
+-rw-rw-r-- root/root        67 2019-03-11 09:58 ansible-role-db-master/tasks/main.yml
+-rw-rw-r-- root/root       217 2019-03-11 09:58 ansible-role-db-master/tasks/percona-repo.yml
+-rw-rw-r-- root/root       886 2019-03-11 09:58 ansible-role-db-master/tasks/set-root-password.yml

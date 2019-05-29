@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-15 09:25 ansible-role-vagrant-master/
+-rw-rw-r-- root/root      1299 2018-11-15 09:25 ansible-role-vagrant-master/.travis.yml
+-rw-rw-r-- root/root      1032 2018-11-15 09:25 ansible-role-vagrant-master/README.md
+drwxrwxr-x root/root         0 2018-11-15 09:25 ansible-role-vagrant-master/defaults/
+-rw-rw-r-- root/root       133 2018-11-15 09:25 ansible-role-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-15 09:25 ansible-role-vagrant-master/meta/
+-rw-rw-r-- root/root       377 2018-11-15 09:25 ansible-role-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-15 09:25 ansible-role-vagrant-master/tasks/
+-rw-rw-r-- root/root       451 2018-11-15 09:25 ansible-role-vagrant-master/tasks/debian.yml
+-rw-rw-r-- root/root       116 2018-11-15 09:25 ansible-role-vagrant-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-15 09:25 ansible-role-vagrant-master/tests/
+-rw-rw-r-- root/root         9 2018-11-15 09:25 ansible-role-vagrant-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-11-15 09:25 ansible-role-vagrant-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-15 09:25 ansible-role-vagrant-master/vars/
+-rw-rw-r-- root/root       145 2018-11-15 09:25 ansible-role-vagrant-master/vars/main.yml

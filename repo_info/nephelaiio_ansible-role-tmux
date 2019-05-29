@@ -1,0 +1,38 @@
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/
+-rw-rw-r-- root/root       128 2019-04-17 01:11 ansible-role-tmux-master/.flake8
+-rw-rw-r-- root/root        51 2019-04-17 01:11 ansible-role-tmux-master/.gitignore
+-rw-rw-r-- root/root       209 2019-04-17 01:11 ansible-role-tmux-master/.travis.yml
+-rw-rw-r-- root/root       172 2019-04-17 01:11 ansible-role-tmux-master/.yamllint
+-rw-rw-r-- root/root      1053 2019-04-17 01:11 ansible-role-tmux-master/LICENSE
+-rw-rw-r-- root/root       923 2019-04-17 01:11 ansible-role-tmux-master/README.md
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/defaults/
+-rw-rw-r-- root/root       266 2019-04-17 01:11 ansible-role-tmux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/meta/
+-rw-rw-r-- root/root       483 2019-04-17 01:11 ansible-role-tmux-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/molecule/
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/
+-rw-rw-r-- root/root      1139 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       441 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/molecule.yml
+lrwxrwxrwx root/root         0 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/nephelaiio.tmux -> ../../
+-rw-rw-r-- root/root        71 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        67 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/prepare.yml
+lrwxrwxrwx root/root         0 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/tests/
+-rw-rw-r-- root/root       241 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1021 2019-04-17 01:11 ansible-role-tmux-master/molecule/default/tests/test_default.pyc
+-rw-rw-r-- root/root        44 2019-04-17 01:11 ansible-role-tmux-master/requirements.txt
+-rw-rw-r-- root/root        40 2019-04-17 01:11 ansible-role-tmux-master/requirements.yml
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/roles/
+lrwxrwxrwx root/root         0 2019-04-17 01:11 ansible-role-tmux-master/roles/tmux -> .././
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/tasks/
+-rw-rw-r-- root/root      1125 2019-04-17 01:11 ansible-role-tmux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/templates/
+-rw-rw-r-- root/root      1582 2019-04-17 01:11 ansible-role-tmux-master/templates/tmux.conf
+drwxrwxr-x root/root         0 2019-04-17 01:11 ansible-role-tmux-master/vars/
+-rw-rw-r-- root/root        36 2019-04-17 01:11 ansible-role-tmux-master/vars/Archlinux.yml
+-rw-rw-r-- root/root        36 2019-04-17 01:11 ansible-role-tmux-master/vars/Debian.yml
+-rw-rw-r-- root/root        36 2019-04-17 01:11 ansible-role-tmux-master/vars/RedHat.yml
+-rw-rw-r-- root/root         4 2019-04-17 01:11 ansible-role-tmux-master/vars/main.yml

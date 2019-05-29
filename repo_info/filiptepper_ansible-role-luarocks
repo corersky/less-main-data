@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-04-13 03:26 ansible-role-luarocks-master/
+-rw-rw-r-- root/root        15 2018-04-13 03:26 ansible-role-luarocks-master/.gitignore
+-rw-rw-r-- root/root      1073 2018-04-13 03:26 ansible-role-luarocks-master/.travis.yml
+-rw-rw-r-- root/root       795 2018-04-13 03:26 ansible-role-luarocks-master/README.md
+drwxrwxr-x root/root         0 2018-04-13 03:26 ansible-role-luarocks-master/defaults/
+-rw-rw-r-- root/root        82 2018-04-13 03:26 ansible-role-luarocks-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-13 03:26 ansible-role-luarocks-master/meta/
+-rw-rw-r-- root/root       304 2018-04-13 03:26 ansible-role-luarocks-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-13 03:26 ansible-role-luarocks-master/tasks/
+-rw-rw-r-- root/root       322 2018-04-13 03:26 ansible-role-luarocks-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-13 03:26 ansible-role-luarocks-master/tests/
+-rw-rw-r-- root/root        10 2018-04-13 03:26 ansible-role-luarocks-master/tests/inventory
+-rw-rw-r-- root/root       149 2018-04-13 03:26 ansible-role-luarocks-master/tests/test.yml

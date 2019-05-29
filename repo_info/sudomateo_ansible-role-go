@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-05 00:36 ansible-role-go-master/
+-rw-rw-r-- root/root         8 2019-04-05 00:36 ansible-role-go-master/.gitignore
+-rw-rw-r-- root/root     16725 2019-04-05 00:36 ansible-role-go-master/LICENSE
+-rw-rw-r-- root/root       565 2019-04-05 00:36 ansible-role-go-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 00:36 ansible-role-go-master/defaults/
+-rw-rw-r-- root/root        70 2019-04-05 00:36 ansible-role-go-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-05 00:36 ansible-role-go-master/meta/
+-rw-rw-r-- root/root       292 2019-04-05 00:36 ansible-role-go-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 00:36 ansible-role-go-master/tasks/
+-rw-rw-r-- root/root       109 2019-04-05 00:36 ansible-role-go-master/tasks/main.yml
+-rw-rw-r-- root/root       257 2019-04-05 00:36 ansible-role-go-master/tasks/setup-Linux.yml

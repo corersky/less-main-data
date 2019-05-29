@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-08-07 17:47 ansible-role-facts-master/
+-rw-rw-r-- root/root       379 2018-08-07 17:47 ansible-role-facts-master/README.md
+drwxrwxr-x root/root         0 2018-08-07 17:47 ansible-role-facts-master/defaults/
+-rw-rw-r-- root/root       103 2018-08-07 17:47 ansible-role-facts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-07 17:47 ansible-role-facts-master/meta/
+-rw-rw-r-- root/root      1769 2018-08-07 17:47 ansible-role-facts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-07 17:47 ansible-role-facts-master/tasks/
+-rw-rw-r-- root/root       882 2018-08-07 17:47 ansible-role-facts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-07 17:47 ansible-role-facts-master/templates/
+-rw-rw-r-- root/root       100 2018-08-07 17:47 ansible-role-facts-master/templates/facts.fact

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-01-16 02:26 ansible-kibana-master/
+-rw-rw-r-- root/root        49 2014-01-16 02:26 ansible-kibana-master/.gitignore
+-rw-rw-r-- root/root      1080 2014-01-16 02:26 ansible-kibana-master/LICENSE
+-rw-rw-r-- root/root      1138 2014-01-16 02:26 ansible-kibana-master/README.md
+drwxrwxr-x root/root         0 2014-01-16 02:26 ansible-kibana-master/defaults/
+-rw-rw-r-- root/root       372 2014-01-16 02:26 ansible-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-16 02:26 ansible-kibana-master/files/
+-rw-rw-r-- root/root         0 2014-01-16 02:26 ansible-kibana-master/files/.gitkeep
+drwxrwxr-x root/root         0 2014-01-16 02:26 ansible-kibana-master/handlers/
+-rw-rw-r-- root/root        64 2014-01-16 02:26 ansible-kibana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-01-16 02:26 ansible-kibana-master/meta/
+-rw-rw-r-- root/root       217 2014-01-16 02:26 ansible-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-16 02:26 ansible-kibana-master/tasks/
+-rw-rw-r-- root/root      1354 2014-01-16 02:26 ansible-kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-16 02:26 ansible-kibana-master/templates/
+-rw-rw-r-- root/root      2031 2014-01-16 02:26 ansible-kibana-master/templates/config.js.j2
+-rw-rw-r-- root/root      2906 2014-01-16 02:26 ansible-kibana-master/templates/nginx.conf.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-21 02:07 ansible-role-ppa-ondrej-master/
+-rw-rw-r-- root/root       534 2017-03-21 02:07 ansible-role-ppa-ondrej-master/.travis.yml
+-rw-rw-r-- root/root      1065 2017-03-21 02:07 ansible-role-ppa-ondrej-master/LICENSE
+-rw-rw-r-- root/root       696 2017-03-21 02:07 ansible-role-ppa-ondrej-master/README.md
+drwxrwxr-x root/root         0 2017-03-21 02:07 ansible-role-ppa-ondrej-master/defaults/
+-rw-rw-r-- root/root       106 2017-03-21 02:07 ansible-role-ppa-ondrej-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-21 02:07 ansible-role-ppa-ondrej-master/meta/
+-rw-rw-r-- root/root       480 2017-03-21 02:07 ansible-role-ppa-ondrej-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-21 02:07 ansible-role-ppa-ondrej-master/tasks/
+-rw-rw-r-- root/root       310 2017-03-21 02:07 ansible-role-ppa-ondrej-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-21 02:07 ansible-role-ppa-ondrej-master/tests/
+-rw-rw-r-- root/root       185 2017-03-21 02:07 ansible-role-ppa-ondrej-master/tests/Dockerfile
+-rw-rw-r-- root/root        54 2017-03-21 02:07 ansible-role-ppa-ondrej-master/tests/test.yml

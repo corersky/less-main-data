@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/
+-rw-rw-r-- root/root      1034 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/.travis.yml
+-rw-rw-r-- root/root        82 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/README.md
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/defaults/
+-rw-rw-r-- root/root       110 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/meta/
+-rw-rw-r-- root/root       340 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/tasks/
+-rw-rw-r-- root/root       285 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/tests/
+-rw-rw-r-- root/root        10 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/tests/inventory
+-rw-rw-r-- root/root       112 2016-01-05 06:02 ansible-role-virtualenv-php-pecl-master/tests/test.yml

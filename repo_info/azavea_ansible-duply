@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2017-01-05 09:37 ansible-duply-master/
+-rw-rw-r-- root/root         9 2017-01-05 09:37 ansible-duply-master/.gitignore
+-rw-rw-r-- root/root       198 2017-01-05 09:37 ansible-duply-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-01-05 09:37 ansible-duply-master/LICENSE
+-rw-rw-r-- root/root       947 2017-01-05 09:37 ansible-duply-master/README.md
+drwxrwxr-x root/root         0 2017-01-05 09:37 ansible-duply-master/defaults/
+-rw-rw-r-- root/root       324 2017-01-05 09:37 ansible-duply-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-05 09:37 ansible-duply-master/examples/
+-rw-rw-r-- root/root       278 2017-01-05 09:37 ansible-duply-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2017-01-05 09:37 ansible-duply-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-01-05 09:37 ansible-duply-master/examples/roles/azavea.duply -> ../../
+-rw-rw-r-- root/root       274 2017-01-05 09:37 ansible-duply-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-01-05 09:37 ansible-duply-master/meta/
+-rw-rw-r-- root/root       261 2017-01-05 09:37 ansible-duply-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-05 09:37 ansible-duply-master/tasks/
+-rw-rw-r-- root/root       443 2017-01-05 09:37 ansible-duply-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-05 09:37 ansible-duply-master/templates/
+-rw-rw-r-- root/root      7099 2017-01-05 09:37 ansible-duply-master/templates/conf.j2
+-rw-rw-r-- root/root        69 2017-01-05 09:37 ansible-duply-master/templates/exclude.j2

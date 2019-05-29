@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-20 07:55 poet-master/
+-rw-rw-r-- root/root       368 2016-02-20 07:55 poet-master/README.md
+-rw-rw-r-- root/root      3206 2016-02-20 07:55 poet-master/Vagrantfile
+-rw-rw-r-- root/root        72 2016-02-20 07:55 poet-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-02-20 07:55 poet-master/defaults/
+-rw-rw-r-- root/root        29 2016-02-20 07:55 poet-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-20 07:55 poet-master/handlers/
+-rw-rw-r-- root/root        29 2016-02-20 07:55 poet-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-20 07:55 poet-master/meta/
+-rw-rw-r-- root/root      2315 2016-02-20 07:55 poet-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-20 07:55 poet-master/tasks/
+-rw-rw-r-- root/root       311 2016-02-20 07:55 poet-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-20 07:55 poet-master/tests/
+-rw-rw-r-- root/root        94 2016-02-20 07:55 poet-master/tests/playbook.yml
+drwxrwxr-x root/root         0 2016-02-20 07:55 poet-master/vars/
+-rw-rw-r-- root/root        25 2016-02-20 07:55 poet-master/vars/main.yml

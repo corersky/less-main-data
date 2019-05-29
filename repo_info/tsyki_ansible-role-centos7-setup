@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-10-03 07:09 ansible-role-centos7-setup-master/
+-rw-rw-r-- root/root      1164 2016-10-03 07:09 ansible-role-centos7-setup-master/README.md
+drwxrwxr-x root/root         0 2016-10-03 07:09 ansible-role-centos7-setup-master/defaults/
+-rw-rw-r-- root/root       393 2016-10-03 07:09 ansible-role-centos7-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-03 07:09 ansible-role-centos7-setup-master/meta/
+-rw-rw-r-- root/root       311 2016-10-03 07:09 ansible-role-centos7-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-03 07:09 ansible-role-centos7-setup-master/tasks/
+-rw-rw-r-- root/root       102 2016-10-03 07:09 ansible-role-centos7-setup-master/tasks/add_main_user.yml
+-rw-rw-r-- root/root       107 2016-10-03 07:09 ansible-role-centos7-setup-master/tasks/disable_selinux.yml
+-rw-rw-r-- root/root        98 2016-10-03 07:09 ansible-role-centos7-setup-master/tasks/main.yml
+-rw-rw-r-- root/root      1244 2016-10-03 07:09 ansible-role-centos7-setup-master/tasks/setup_ssh_and_firewall.yml
+drwxrwxr-x root/root         0 2016-10-03 07:09 ansible-role-centos7-setup-master/vars/
+-rw-rw-r-- root/root        34 2016-10-03 07:09 ansible-role-centos7-setup-master/vars/main.yml

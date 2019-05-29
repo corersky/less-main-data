@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-16 05:36 ansible-role-chronos-master/
+-rw-rw-r-- root/root       586 2017-03-16 05:36 ansible-role-chronos-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-03-16 05:36 ansible-role-chronos-master/LICENSE
+-rw-rw-r-- root/root      1537 2017-03-16 05:36 ansible-role-chronos-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 05:36 ansible-role-chronos-master/defaults/
+-rw-rw-r-- root/root      1343 2017-03-16 05:36 ansible-role-chronos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-16 05:36 ansible-role-chronos-master/meta/
+-rw-rw-r-- root/root       287 2017-03-16 05:36 ansible-role-chronos-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 05:36 ansible-role-chronos-master/tasks/
+-rw-rw-r-- root/root      1432 2017-03-16 05:36 ansible-role-chronos-master/tasks/enable_ssl.yml
+-rw-rw-r-- root/root      1364 2017-03-16 05:36 ansible-role-chronos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-16 05:36 ansible-role-chronos-master/tests/
+-rw-rw-r-- root/root         9 2017-03-16 05:36 ansible-role-chronos-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-03-16 05:36 ansible-role-chronos-master/tests/test.yml

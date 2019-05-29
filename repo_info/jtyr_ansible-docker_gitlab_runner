@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-docker_gitlab_runner-master/
+-rw-rw-r-- root/root         0 2018-06-06 10:30 ansible-docker_gitlab_runner-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-06-06 10:30 ansible-docker_gitlab_runner-master/LICENSE
+-rw-rw-r-- root/root      4997 2018-06-06 10:30 ansible-docker_gitlab_runner-master/README.md
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-docker_gitlab_runner-master/defaults/
+-rw-rw-r-- root/root      2436 2018-06-06 10:30 ansible-docker_gitlab_runner-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-docker_gitlab_runner-master/meta/
+-rw-rw-r-- root/root       367 2018-06-06 10:30 ansible-docker_gitlab_runner-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-docker_gitlab_runner-master/tasks/
+-rw-rw-r-- root/root      2160 2018-06-06 10:30 ansible-docker_gitlab_runner-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-docker_gitlab_runner-master/templates/
+-rw-rw-r-- root/root       255 2018-06-06 10:30 ansible-docker_gitlab_runner-master/templates/reg_opts.j2

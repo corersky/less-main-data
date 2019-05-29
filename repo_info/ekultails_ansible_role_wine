@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-11 12:25 ansible_role_wine-master/
+-rw-rw-r-- root/root     35141 2018-12-11 12:25 ansible_role_wine-master/LICENSE
+-rw-rw-r-- root/root       891 2018-12-11 12:25 ansible_role_wine-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 12:25 ansible_role_wine-master/defaults/
+-rw-rw-r-- root/root       163 2018-12-11 12:25 ansible_role_wine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 12:25 ansible_role_wine-master/files/
+-rw-rw-r-- root/root       200 2018-12-11 12:25 ansible_role_wine-master/files/winehq_fedora.repo
+drwxrwxr-x root/root         0 2018-12-11 12:25 ansible_role_wine-master/meta/
+-rw-rw-r-- root/root       473 2018-12-11 12:25 ansible_role_wine-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 12:25 ansible_role_wine-master/tasks/
+-rw-rw-r-- root/root       404 2018-12-11 12:25 ansible_role_wine-master/tasks/Archlinux.yml
+-rw-rw-r-- root/root       388 2018-12-11 12:25 ansible_role_wine-master/tasks/EL.yml
+-rw-rw-r-- root/root      1176 2018-12-11 12:25 ansible_role_wine-master/tasks/Fedora.yml
+-rw-rw-r-- root/root       644 2018-12-11 12:25 ansible_role_wine-master/tasks/main.yml
+-rw-rw-r-- root/root       109 2018-12-11 12:25 ansible_role_wine-master/tasks/other.yml
+drwxrwxr-x root/root         0 2018-12-11 12:25 ansible_role_wine-master/vars/
+-rw-rw-r-- root/root       325 2018-12-11 12:25 ansible_role_wine-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-09 20:45 ansible-role-prezto-master/
+-rw-rw-r-- root/root        24 2019-03-09 20:45 ansible-role-prezto-master/.gitignore
+-rw-rw-r-- root/root       669 2019-03-09 20:45 ansible-role-prezto-master/.travis.yml
+-rw-rw-r-- root/root      1079 2019-03-09 20:45 ansible-role-prezto-master/LICENSE
+-rw-rw-r-- root/root       818 2019-03-09 20:45 ansible-role-prezto-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 20:45 ansible-role-prezto-master/defaults/
+-rw-rw-r-- root/root       154 2019-03-09 20:45 ansible-role-prezto-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:45 ansible-role-prezto-master/meta/
+-rw-rw-r-- root/root       345 2019-03-09 20:45 ansible-role-prezto-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:45 ansible-role-prezto-master/tasks/
+-rw-rw-r-- root/root       458 2019-03-09 20:45 ansible-role-prezto-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:45 ansible-role-prezto-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 20:45 ansible-role-prezto-master/tests/inventory
+-rw-rw-r-- root/root       261 2019-03-09 20:45 ansible-role-prezto-master/tests/test.yml

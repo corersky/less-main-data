@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-11-18 17:55 ansible-role-resolv-master/
+-rw-rw-r-- root/root      1514 2017-11-18 17:55 ansible-role-resolv-master/LICENSE
+-rw-rw-r-- root/root        55 2017-11-18 17:55 ansible-role-resolv-master/README.md
+drwxrwxr-x root/root         0 2017-11-18 17:55 ansible-role-resolv-master/defaults/
+-rw-rw-r-- root/root        15 2017-11-18 17:55 ansible-role-resolv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-18 17:55 ansible-role-resolv-master/meta/
+-rw-rw-r-- root/root       264 2017-11-18 17:55 ansible-role-resolv-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-18 17:55 ansible-role-resolv-master/tasks/
+-rw-rw-r-- root/root       189 2017-11-18 17:55 ansible-role-resolv-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2017-11-18 17:55 ansible-role-resolv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-18 17:55 ansible-role-resolv-master/templates/
+-rw-rw-r-- root/root       164 2017-11-18 17:55 ansible-role-resolv-master/templates/resolv.conf.j2

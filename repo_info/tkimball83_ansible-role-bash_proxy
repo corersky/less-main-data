@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-09 20:11 ansible-role-bash_proxy-master/
+-rw-rw-r-- root/root       331 2019-03-09 20:11 ansible-role-bash_proxy-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-03-09 20:11 ansible-role-bash_proxy-master/COPYING
+-rw-rw-r-- root/root      2978 2019-03-09 20:11 ansible-role-bash_proxy-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 20:11 ansible-role-bash_proxy-master/defaults/
+-rw-rw-r-- root/root       322 2019-03-09 20:11 ansible-role-bash_proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:11 ansible-role-bash_proxy-master/meta/
+-rw-rw-r-- root/root       286 2019-03-09 20:11 ansible-role-bash_proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:11 ansible-role-bash_proxy-master/tasks/
+-rw-rw-r-- root/root       274 2019-03-09 20:11 ansible-role-bash_proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:11 ansible-role-bash_proxy-master/templates/
+-rw-rw-r-- root/root      3051 2019-03-09 20:11 ansible-role-bash_proxy-master/templates/bash_proxies.j2
+drwxrwxr-x root/root         0 2019-03-09 20:11 ansible-role-bash_proxy-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 20:11 ansible-role-bash_proxy-master/tests/inventory
+-rw-rw-r-- root/root        86 2019-03-09 20:11 ansible-role-bash_proxy-master/tests/test.yml

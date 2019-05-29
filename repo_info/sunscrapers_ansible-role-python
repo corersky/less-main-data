@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-12-06 08:52 ansible-role-python-master/
+-rw-rw-r-- root/root        15 2016-12-06 08:52 ansible-role-python-master/.gitignore
+-rw-rw-r-- root/root       486 2016-12-06 08:52 ansible-role-python-master/.travis.yml
+-rw-rw-r-- root/root      1078 2016-12-06 08:52 ansible-role-python-master/LICENSE
+-rw-rw-r-- root/root      1137 2016-12-06 08:52 ansible-role-python-master/README.md
+-rw-rw-r-- root/root       448 2016-12-06 08:52 ansible-role-python-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-12-06 08:52 ansible-role-python-master/defaults/
+-rw-rw-r-- root/root       464 2016-12-06 08:52 ansible-role-python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-06 08:52 ansible-role-python-master/meta/
+-rw-rw-r-- root/root       371 2016-12-06 08:52 ansible-role-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-06 08:52 ansible-role-python-master/tasks/
+-rw-rw-r-- root/root      1569 2016-12-06 08:52 ansible-role-python-master/tasks/main.yml
+-rw-rw-r-- root/root       164 2016-12-06 08:52 ansible-role-python-master/test.yml
+-rw-rw-r-- root/root        14 2016-12-06 08:52 ansible-role-python-master/vagrant-inventory

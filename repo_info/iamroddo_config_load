@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-22 08:19 config_load-master/
+-rw-rw-r-- root/root        66 2019-02-22 08:19 config_load-master/.gitattributes
+-rw-rw-r-- root/root      1328 2019-02-22 08:19 config_load-master/README.md
+drwxrwxr-x root/root         0 2019-02-22 08:19 config_load-master/handlers/
+-rw-rw-r-- root/root        35 2019-02-22 08:19 config_load-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-22 08:19 config_load-master/meta/
+-rw-rw-r-- root/root      1820 2019-02-22 08:19 config_load-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-22 08:19 config_load-master/tasks/
+-rw-rw-r-- root/root       179 2019-02-22 08:19 config_load-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-22 08:19 config_load-master/tests/
+-rw-rw-r-- root/root        11 2019-02-22 08:19 config_load-master/tests/inventory
+-rw-rw-r-- root/root        69 2019-02-22 08:19 config_load-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-22 08:19 config_load-master/vars/
+-rw-rw-r-- root/root        31 2019-02-22 08:19 config_load-master/vars/main.yml

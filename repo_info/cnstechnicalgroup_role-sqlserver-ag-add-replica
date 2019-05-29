@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/
+-rw-rw-r-- root/root     18026 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/LICENSE
+-rw-rw-r-- root/root      1722 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/README.md
+drwxrwxr-x root/root         0 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/meta/
+-rw-rw-r-- root/root       560 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/tasks/
+-rw-rw-r-- root/root      2989 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/templates/
+-rw-rw-r-- root/root       305 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/templates/1_create_dbm_user.sql.j2
+-rw-rw-r-- root/root       499 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/templates/2_REPLICA_ONLY_restore_master_key_on_replica.sql.j2
+-rw-rw-r-- root/root       418 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/templates/3_REPLICA_ONLY_create_mirroring_endpoint.sql.j2
+-rw-rw-r-- root/root       438 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/templates/4_PRIAMRY_ONLY_Add_replica_to_availability_group.sql.j2
+-rw-rw-r-- root/root       273 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/templates/5_REPLICA_ONLY_join_replica_to_availability_group.sql.j2
+drwxrwxr-x root/root         0 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/vars/
+-rw-rw-r-- root/root       343 2017-08-03 23:20 role-sqlserver-ag-add-replica-master/vars/main.yml

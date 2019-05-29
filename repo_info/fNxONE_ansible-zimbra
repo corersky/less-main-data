@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-02 13:42 ansible-zimbra-master/
+-rw-rw-r-- root/root       652 2018-02-02 13:42 ansible-zimbra-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-02-02 13:42 ansible-zimbra-master/README.md
+drwxrwxr-x root/root         0 2018-02-02 13:42 ansible-zimbra-master/defaults/
+-rw-rw-r-- root/root        31 2018-02-02 13:42 ansible-zimbra-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-02 13:42 ansible-zimbra-master/handlers/
+-rw-rw-r-- root/root        31 2018-02-02 13:42 ansible-zimbra-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-02 13:42 ansible-zimbra-master/meta/
+-rw-rw-r-- root/root       416 2018-02-02 13:42 ansible-zimbra-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-02 13:42 ansible-zimbra-master/tasks/
+-rw-rw-r-- root/root        28 2018-02-02 13:42 ansible-zimbra-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-02 13:42 ansible-zimbra-master/tests/
+-rw-rw-r-- root/root         9 2018-02-02 13:42 ansible-zimbra-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-02-02 13:42 ansible-zimbra-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-02 13:42 ansible-zimbra-master/vars/
+-rw-rw-r-- root/root        27 2018-02-02 13:42 ansible-zimbra-master/vars/main.yml

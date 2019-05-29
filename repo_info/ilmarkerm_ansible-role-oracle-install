@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-02 06:26 ansible-role-oracle-install-master/
+-rw-rw-r-- root/root     11357 2018-08-02 06:26 ansible-role-oracle-install-master/LICENSE
+-rw-rw-r-- root/root       754 2018-08-02 06:26 ansible-role-oracle-install-master/README.md
+drwxrwxr-x root/root         0 2018-08-02 06:26 ansible-role-oracle-install-master/defaults/
+-rw-rw-r-- root/root       577 2018-08-02 06:26 ansible-role-oracle-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-02 06:26 ansible-role-oracle-install-master/meta/
+-rw-rw-r-- root/root       884 2018-08-02 06:26 ansible-role-oracle-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-02 06:26 ansible-role-oracle-install-master/tasks/
+-rw-rw-r-- root/root      7430 2018-08-02 06:26 ansible-role-oracle-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-02 06:26 ansible-role-oracle-install-master/templates/
+-rw-rw-r-- root/root       230 2018-08-02 06:26 ansible-role-oracle-install-master/templates/bashrc.j2
+-rw-rw-r-- root/root     25323 2018-08-02 06:26 ansible-role-oracle-install-master/templates/db_install_12102.rsp
+-rw-rw-r-- root/root     23232 2018-08-02 06:26 ansible-role-oracle-install-master/templates/db_install_12201.rsp
+-rw-rw-r-- root/root     18116 2018-08-02 06:26 ansible-role-oracle-install-master/templates/db_install_18.rsp
+-rw-rw-r-- root/root       197 2018-08-02 06:26 ansible-role-oracle-install-master/templates/dotprofile.j2

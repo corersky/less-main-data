@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-04 06:51 prometheus-server-master/
+-rw-rw-r-- root/root       959 2018-02-04 06:51 prometheus-server-master/.travis.yml
+-rw-rw-r-- root/root      2858 2018-02-04 06:51 prometheus-server-master/README.md
+drwxrwxr-x root/root         0 2018-02-04 06:51 prometheus-server-master/defaults/
+-rw-rw-r-- root/root       268 2018-02-04 06:51 prometheus-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-04 06:51 prometheus-server-master/handlers/
+-rw-rw-r-- root/root        74 2018-02-04 06:51 prometheus-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-04 06:51 prometheus-server-master/meta/
+-rw-rw-r-- root/root       353 2018-02-04 06:51 prometheus-server-master/meta/main.yml
+-rw-rw-r-- root/root        52 2018-02-04 06:51 prometheus-server-master/requirements.yml
+drwxrwxr-x root/root         0 2018-02-04 06:51 prometheus-server-master/tasks/
+-rw-rw-r-- root/root       606 2018-02-04 06:51 prometheus-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-04 06:51 prometheus-server-master/templates/
+-rw-rw-r-- root/root      1273 2018-02-04 06:51 prometheus-server-master/templates/prometheus.j2
+drwxrwxr-x root/root         0 2018-02-04 06:51 prometheus-server-master/tests/
+-rw-rw-r-- root/root        11 2018-02-04 06:51 prometheus-server-master/tests/inventory
+-rw-rw-r-- root/root       141 2018-02-04 06:51 prometheus-server-master/tests/test.yml

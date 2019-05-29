@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-23 14:51 ansible-role-esrally-master/
+-rw-rw-r-- root/root       694 2017-08-23 14:51 ansible-role-esrally-master/.travis.yml
+-rw-rw-r-- root/root      1240 2017-08-23 14:51 ansible-role-esrally-master/README.md
+drwxrwxr-x root/root         0 2017-08-23 14:51 ansible-role-esrally-master/defaults/
+-rw-rw-r-- root/root       473 2017-08-23 14:51 ansible-role-esrally-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-23 14:51 ansible-role-esrally-master/meta/
+-rw-rw-r-- root/root       452 2017-08-23 14:51 ansible-role-esrally-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-23 14:51 ansible-role-esrally-master/tasks/
+-rw-rw-r-- root/root       444 2017-08-23 14:51 ansible-role-esrally-master/tasks/install-pip.yml
+-rw-rw-r-- root/root       631 2017-08-23 14:51 ansible-role-esrally-master/tasks/main.yml
+-rw-rw-r-- root/root       180 2017-08-23 14:51 ansible-role-esrally-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       502 2017-08-23 14:51 ansible-role-esrally-master/tasks/setup-Redhat.yml
+drwxrwxr-x root/root         0 2017-08-23 14:51 ansible-role-esrally-master/templates/
+-rw-rw-r-- root/root       609 2017-08-23 14:51 ansible-role-esrally-master/templates/rally.ini.j2
+drwxrwxr-x root/root         0 2017-08-23 14:51 ansible-role-esrally-master/tests/
+-rw-rw-r-- root/root        28 2017-08-23 14:51 ansible-role-esrally-master/tests/requirements.yml
+-rw-rw-r-- root/root        52 2017-08-23 14:51 ansible-role-esrally-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-15 00:46 ansible-role-ceph-common-master/
+-rw-rw-r-- root/root       960 2016-04-15 00:46 ansible-role-ceph-common-master/README.md
+drwxrwxr-x root/root         0 2016-04-15 00:46 ansible-role-ceph-common-master/defaults/
+-rw-rw-r-- root/root       552 2016-04-15 00:46 ansible-role-ceph-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-15 00:46 ansible-role-ceph-common-master/handlers/
+-rw-rw-r-- root/root       173 2016-04-15 00:46 ansible-role-ceph-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-15 00:46 ansible-role-ceph-common-master/meta/
+-rw-rw-r-- root/root       234 2016-04-15 00:46 ansible-role-ceph-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-15 00:46 ansible-role-ceph-common-master/tasks/
+-rw-rw-r-- root/root       817 2016-04-15 00:46 ansible-role-ceph-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-15 00:46 ansible-role-ceph-common-master/templates/
+-rw-rw-r-- root/root       764 2016-04-15 00:46 ansible-role-ceph-common-master/templates/ceph.conf.j2
+-rw-rw-r-- root/root       702 2016-04-15 00:46 ansible-role-ceph-common-master/templates/ceph.repo.j2
+-rw-rw-r-- root/root       355 2016-04-15 00:46 ansible-role-ceph-common-master/templates/hosts.j2
+drwxrwxr-x root/root         0 2016-04-15 00:46 ansible-role-ceph-common-master/vars/
+-rw-rw-r-- root/root        45 2016-04-15 00:46 ansible-role-ceph-common-master/vars/main.yml

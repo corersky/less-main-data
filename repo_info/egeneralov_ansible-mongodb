@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-12-10 18:45 ansible-mongodb-master/
+-rw-rw-r-- root/root       192 2017-12-10 18:45 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2017-12-10 18:45 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       444 2017-12-10 18:45 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-10 18:45 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root       739 2017-12-10 18:45 ansible-mongodb-master/tasks/centos-7.yml
+-rw-rw-r-- root/root       877 2017-12-10 18:45 ansible-mongodb-master/tasks/debian-8.yml
+-rw-rw-r-- root/root       120 2017-12-10 18:45 ansible-mongodb-master/tasks/main.yml
+-rw-rw-r-- root/root       205 2017-12-10 18:45 ansible-mongodb-master/tasks/systemd.yml
+-rw-rw-r-- root/root       262 2017-12-10 18:45 ansible-mongodb-master/tasks/version.yml

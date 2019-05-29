@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-07 09:03 jump-master/
+-rw-rw-r-- root/root       579 2017-06-07 09:03 jump-master/README.md
+drwxrwxr-x root/root         0 2017-06-07 09:03 jump-master/defaults/
+-rw-rw-r-- root/root        28 2017-06-07 09:03 jump-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-07 09:03 jump-master/handlers/
+-rw-rw-r-- root/root        28 2017-06-07 09:03 jump-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-07 09:03 jump-master/meta/
+-rw-rw-r-- root/root       334 2017-06-07 09:03 jump-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-07 09:03 jump-master/tasks/
+-rw-rw-r-- root/root        25 2017-06-07 09:03 jump-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-07 09:03 jump-master/tests/
+-rw-rw-r-- root/root       393 2017-06-07 09:03 jump-master/tests/ansible.cfg
+-rw-rw-r-- root/root        34 2017-06-07 09:03 jump-master/tests/inventory
+-rw-rw-r-- root/root       922 2017-06-07 09:03 jump-master/tests/ssh_config
+-rw-rw-r-- root/root        47 2017-06-07 09:03 jump-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-07 09:03 jump-master/vars/
+-rw-rw-r-- root/root        24 2017-06-07 09:03 jump-master/vars/main.yml

@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/
+-rw-rw-r-- root/root        19 2016-08-16 13:42 s3cmd-role-master/.gitignore
+-rw-rw-r-- root/root      1692 2016-08-16 13:42 s3cmd-role-master/.travis.yml
+-rw-rw-r-- root/root      1317 2016-08-16 13:42 s3cmd-role-master/README.md
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/defaults/
+-rw-rw-r-- root/root      2060 2016-08-16 13:42 s3cmd-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/handlers/
+-rw-rw-r-- root/root        37 2016-08-16 13:42 s3cmd-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/meta/
+-rw-rw-r-- root/root      3546 2016-08-16 13:42 s3cmd-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/tasks/
+-rw-rw-r-- root/root      1274 2016-08-16 13:42 s3cmd-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/templates/
+-rw-rw-r-- root/root      2622 2016-08-16 13:42 s3cmd-role-master/templates/s3cfg.j2
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/tests/
+-rw-rw-r-- root/root        34 2016-08-16 13:42 s3cmd-role-master/tests/inventory
+-rw-rw-r-- root/root        64 2016-08-16 13:42 s3cmd-role-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-08-16 13:42 s3cmd-role-master/tests/roles/s3cmd-role -> ../../../s3cmd-role
+-rw-rw-r-- root/root        13 2016-08-16 13:42 s3cmd-role-master/tests/test.retry
+-rw-rw-r-- root/root       491 2016-08-16 13:42 s3cmd-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-16 13:42 s3cmd-role-master/vars/
+-rw-rw-r-- root/root        31 2016-08-16 13:42 s3cmd-role-master/vars/main.yml

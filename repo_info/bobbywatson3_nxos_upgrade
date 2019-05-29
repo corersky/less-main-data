@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-15 07:09 nxos_upgrade-master/
+-rw-rw-r-- root/root        20 2017-02-15 07:09 nxos_upgrade-master/.gitignore
+-rw-rw-r-- root/root       573 2017-02-15 07:09 nxos_upgrade-master/.travis.yml
+-rw-rw-r-- root/root      1482 2017-02-15 07:09 nxos_upgrade-master/LICENSE
+-rw-rw-r-- root/root      1157 2017-02-15 07:09 nxos_upgrade-master/README.md
+drwxrwxr-x root/root         0 2017-02-15 07:09 nxos_upgrade-master/defaults/
+-rw-rw-r-- root/root        75 2017-02-15 07:09 nxos_upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-15 07:09 nxos_upgrade-master/library/
+-rw-rw-r-- root/root      8647 2017-02-15 07:09 nxos_upgrade-master/library/nxos_upgrade
+drwxrwxr-x root/root         0 2017-02-15 07:09 nxos_upgrade-master/meta/
+-rw-rw-r-- root/root       637 2017-02-15 07:09 nxos_upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-15 07:09 nxos_upgrade-master/tasks/
+-rw-rw-r-- root/root      3892 2017-02-15 07:09 nxos_upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-15 07:09 nxos_upgrade-master/tests/
+-rw-rw-r-- root/root        34 2017-02-15 07:09 nxos_upgrade-master/tests/inventory
+-rw-rw-r-- root/root       276 2017-02-15 07:09 nxos_upgrade-master/tests/test.yml

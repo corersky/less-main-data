@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/
+-rw-rw-r-- root/root      1075 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/LICENSE
+-rw-rw-r-- root/root       654 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/README.md
+drwxrwxr-x root/root         0 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/defaults/
+-rw-rw-r-- root/root        58 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/handlers/
+-rw-rw-r-- root/root        58 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/meta/
+-rw-rw-r-- root/root      1980 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/tasks/
+-rw-rw-r-- root/root       189 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/tasks/Debian.yml
+-rw-rw-r-- root/root       144 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/tests/
+-rw-rw-r-- root/root        11 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/tests/inventory
+-rw-rw-r-- root/root        92 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/vars/
+-rw-rw-r-- root/root        54 2018-08-07 00:05 AnsibleRoleOsLinuxInstallAptitude-master/vars/main.yml

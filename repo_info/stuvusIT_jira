@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-02 10:19 jira-master/
+-rw-rw-r-- root/root     20133 2019-04-02 10:19 jira-master/LICENSE
+-rw-rw-r-- root/root      4845 2019-04-02 10:19 jira-master/README.md
+drwxrwxr-x root/root         0 2019-04-02 10:19 jira-master/defaults/
+-rw-rw-r-- root/root       476 2019-04-02 10:19 jira-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-02 10:19 jira-master/meta/
+-rw-rw-r-- root/root       428 2019-04-02 10:19 jira-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-02 10:19 jira-master/tasks/
+-rw-rw-r-- root/root      2392 2019-04-02 10:19 jira-master/tasks/main.yml
+-rw-rw-r-- root/root       864 2019-04-02 10:19 jira-master/tasks/postgresql.yml
+drwxrwxr-x root/root         0 2019-04-02 10:19 jira-master/templates/
+-rw-rw-r-- root/root      1697 2019-04-02 10:19 jira-master/templates/jira.service.j2
+-rw-rw-r-- root/root      1934 2019-04-02 10:19 jira-master/templates/server.xml.j2

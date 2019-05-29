@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-25 01:27 ansible-role-ssh-master/
+-rw-rw-r-- root/root        10 2017-04-25 01:27 ansible-role-ssh-master/.gitignore
+-rw-rw-r-- root/root       539 2017-04-25 01:27 ansible-role-ssh-master/.travis.yml
+-rw-rw-r-- root/root     10242 2017-04-25 01:27 ansible-role-ssh-master/LICENSE
+-rw-rw-r-- root/root       267 2017-04-25 01:27 ansible-role-ssh-master/README.md
+drwxrwxr-x root/root         0 2017-04-25 01:27 ansible-role-ssh-master/files/
+-rw-rw-r-- root/root      2523 2017-04-25 01:27 ansible-role-ssh-master/files/sshd_config
+drwxrwxr-x root/root         0 2017-04-25 01:27 ansible-role-ssh-master/handlers/
+-rw-rw-r-- root/root        81 2017-04-25 01:27 ansible-role-ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-25 01:27 ansible-role-ssh-master/meta/
+-rw-rw-r-- root/root       461 2017-04-25 01:27 ansible-role-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-25 01:27 ansible-role-ssh-master/tasks/
+-rw-rw-r-- root/root       379 2017-04-25 01:27 ansible-role-ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-25 01:27 ansible-role-ssh-master/tests/
+-rw-rw-r-- root/root         9 2017-04-25 01:27 ansible-role-ssh-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-04-25 01:27 ansible-role-ssh-master/tests/test.yml

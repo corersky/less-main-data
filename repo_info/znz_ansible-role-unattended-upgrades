@@ -1,0 +1,29 @@
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/
+-rw-rw-r-- root/root      1085 2018-02-19 06:52 ansible-role-unattended-upgrades-master/LICENSE
+-rw-rw-r-- root/root       500 2018-02-19 06:52 ansible-role-unattended-upgrades-master/README.md
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/defaults/
+-rw-rw-r-- root/root       245 2018-02-19 06:52 ansible-role-unattended-upgrades-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/
+-rw-rw-r-- root/root        24 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/.gitignore
+-rw-rw-r-- root/root        31 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/.rspec
+-rw-rw-r-- root/root       685 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/Rakefile
+-rw-rw-r-- root/root      2231 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/Vagrantfile
+-rw-rw-r-- root/root       124 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/playbook.yml
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/roles/
+lrwxrwxrwx root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/roles/znz.unattended-upgrades -> ../..
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/default/
+-rw-rw-r-- root/root        99 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/default/unattended_upgrades_spec.rb
+lrwxrwxrwx root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/jessie64 -> default
+lrwxrwxrwx root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/precise64 -> default
+-rw-rw-r-- root/root       829 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/spec_helper.rb
+lrwxrwxrwx root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/trusty64 -> default
+lrwxrwxrwx root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/wheezy64 -> default
+lrwxrwxrwx root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/examples/spec/xenial64 -> default
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/meta/
+-rw-rw-r-- root/root       240 2018-02-19 06:52 ansible-role-unattended-upgrades-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/tasks/
+-rw-rw-r-- root/root      1296 2018-02-19 06:52 ansible-role-unattended-upgrades-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-19 06:52 ansible-role-unattended-upgrades-master/tests/
+-rw-rw-r-- root/root        10 2018-02-19 06:52 ansible-role-unattended-upgrades-master/tests/inventory
+-rw-rw-r-- root/root        90 2018-02-19 06:52 ansible-role-unattended-upgrades-master/tests/test.yml

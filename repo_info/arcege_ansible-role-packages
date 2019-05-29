@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-25 13:49 ansible-role-packages-master/
+-rw-rw-r-- root/root     35141 2017-03-25 13:49 ansible-role-packages-master/LICENSE
+-rw-rw-r-- root/root       925 2017-03-25 13:49 ansible-role-packages-master/README.md
+drwxrwxr-x root/root         0 2017-03-25 13:49 ansible-role-packages-master/defaults/
+-rw-rw-r-- root/root        84 2017-03-25 13:49 ansible-role-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-25 13:49 ansible-role-packages-master/meta/
+-rw-rw-r-- root/root       281 2017-03-25 13:49 ansible-role-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-25 13:49 ansible-role-packages-master/tasks/
+-rw-rw-r-- root/root       177 2017-03-25 13:49 ansible-role-packages-master/tasks/add_apt.yml
+-rw-rw-r-- root/root       178 2017-03-25 13:49 ansible-role-packages-master/tasks/add_yum.yml
+-rw-rw-r-- root/root       494 2017-03-25 13:49 ansible-role-packages-master/tasks/main.yml
+-rw-rw-r-- root/root       898 2017-03-25 13:49 ansible-role-packages-master/tasks/python.yml
+-rw-rw-r-- root/root       175 2017-03-25 13:49 ansible-role-packages-master/tasks/rem_apt.yml
+-rw-rw-r-- root/root       159 2017-03-25 13:49 ansible-role-packages-master/tasks/rem_yum.yml
+drwxrwxr-x root/root         0 2017-03-25 13:49 ansible-role-packages-master/tests/
+-rw-rw-r-- root/root         9 2017-03-25 13:49 ansible-role-packages-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-03-25 13:49 ansible-role-packages-master/tests/test.yml

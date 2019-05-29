@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-05-12 23:34 ansible-base-master/
+-rw-rw-r-- root/root       397 2018-05-12 23:34 ansible-base-master/README.md
+drwxrwxr-x root/root         0 2018-05-12 23:34 ansible-base-master/files/
+-rw-rw-r-- root/root      1410 2018-05-12 23:34 ansible-base-master/files/bash.bashrc
+drwxrwxr-x root/root         0 2018-05-12 23:34 ansible-base-master/meta/
+-rw-rw-r-- root/root        58 2018-05-12 23:34 ansible-base-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       354 2018-05-12 23:34 ansible-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-12 23:34 ansible-base-master/tasks/
+-rw-rw-r-- root/root      1325 2018-05-12 23:34 ansible-base-master/tasks/main.yml
+-rw-rw-r-- root/root      1794 2018-05-12 23:34 ansible-base-master/tasks/ssh.yml
+-rw-rw-r-- root/root       916 2018-05-12 23:34 ansible-base-master/tasks/thp.yml
+drwxrwxr-x root/root         0 2018-05-12 23:34 ansible-base-master/tests/
+-rw-rw-r-- root/root        11 2018-05-12 23:34 ansible-base-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-05-12 23:34 ansible-base-master/tests/test.yml

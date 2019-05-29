@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-06-04 06:40 ansible-aliases-master/
+-rw-rw-r-- root/root       237 2014-06-04 06:40 ansible-aliases-master/.travis.yml
+-rw-rw-r-- root/root       545 2014-06-04 06:40 ansible-aliases-master/README.md
+drwxrwxr-x root/root         0 2014-06-04 06:40 ansible-aliases-master/defaults/
+-rw-rw-r-- root/root        12 2014-06-04 06:40 ansible-aliases-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-06-04 06:40 ansible-aliases-master/handlers/
+-rw-rw-r-- root/root        66 2014-06-04 06:40 ansible-aliases-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-06-04 06:40 ansible-aliases-master/meta/
+-rw-rw-r-- root/root       202 2014-06-04 06:40 ansible-aliases-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-06-04 06:40 ansible-aliases-master/tasks/
+-rw-rw-r-- root/root       214 2014-06-04 06:40 ansible-aliases-master/tasks/main.yml
+-rw-rw-r-- root/root       135 2014-06-04 06:40 ansible-aliases-master/test.yml

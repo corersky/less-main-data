@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-31 10:27 git-role-master/
+-rw-rw-r-- root/root        19 2019-01-31 10:27 git-role-master/README.md
+drwxrwxr-x root/root         0 2019-01-31 10:27 git-role-master/defaults/
+-rw-rw-r-- root/root       715 2019-01-31 10:27 git-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:27 git-role-master/meta/
+-rw-rw-r-- root/root       236 2019-01-31 10:27 git-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:27 git-role-master/tasks/
+-rw-rw-r-- root/root      2334 2019-01-31 10:27 git-role-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root       614 2019-01-31 10:27 git-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:27 git-role-master/vars/
+-rw-rw-r-- root/root       155 2019-01-31 10:27 git-role-master/vars/Debian.yml
+-rw-rw-r-- root/root       177 2019-01-31 10:27 git-role-master/vars/RedHat.yml
+-rw-rw-r-- root/root         4 2019-01-31 10:27 git-role-master/vars/main.yml

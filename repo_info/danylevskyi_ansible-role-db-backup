@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-03-08 04:02 ansible-role-db-backup-master/
+-rw-rw-r-- root/root      1073 2019-03-08 04:02 ansible-role-db-backup-master/LICENSE
+-rw-rw-r-- root/root      1472 2019-03-08 04:02 ansible-role-db-backup-master/README.md
+drwxrwxr-x root/root         0 2019-03-08 04:02 ansible-role-db-backup-master/defaults/
+-rw-rw-r-- root/root        40 2019-03-08 04:02 ansible-role-db-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-08 04:02 ansible-role-db-backup-master/meta/
+-rw-rw-r-- root/root       344 2019-03-08 04:02 ansible-role-db-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-08 04:02 ansible-role-db-backup-master/tasks/
+-rw-rw-r-- root/root      1731 2019-03-08 04:02 ansible-role-db-backup-master/tasks/dump.yml
+-rw-rw-r-- root/root       539 2019-03-08 04:02 ansible-role-db-backup-master/tasks/main.yml

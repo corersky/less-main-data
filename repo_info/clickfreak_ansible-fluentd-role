@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-05-22 19:02 ansible-fluentd-role-master/
+-rw-rw-r-- root/root     35121 2015-05-22 19:02 ansible-fluentd-role-master/LICENSE.md
+-rw-rw-r-- root/root      2057 2015-05-22 19:02 ansible-fluentd-role-master/README.md
+drwxrwxr-x root/root         0 2015-05-22 19:02 ansible-fluentd-role-master/defaults/
+-rw-rw-r-- root/root       816 2015-05-22 19:02 ansible-fluentd-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-22 19:02 ansible-fluentd-role-master/handlers/
+-rw-rw-r-- root/root       188 2015-05-22 19:02 ansible-fluentd-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-22 19:02 ansible-fluentd-role-master/meta/
+-rw-rw-r-- root/root       298 2015-05-22 19:02 ansible-fluentd-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-22 19:02 ansible-fluentd-role-master/tasks/
+-rw-rw-r-- root/root      2180 2015-05-22 19:02 ansible-fluentd-role-master/tasks/main.yml
+-rw-rw-r-- root/root       415 2015-05-22 19:02 ansible-fluentd-role-master/tasks/plugins.yml
+drwxrwxr-x root/root         0 2015-05-22 19:02 ansible-fluentd-role-master/templates/
+-rw-rw-r-- root/root      1210 2015-05-22 19:02 ansible-fluentd-role-master/templates/td-agent.conf.j2

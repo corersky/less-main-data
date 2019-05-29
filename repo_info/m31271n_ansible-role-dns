@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-21 02:07 ansible-role-dns-master/
+-rw-rw-r-- root/root       424 2017-06-21 02:07 ansible-role-dns-master/.travis.yml
+-rw-rw-r-- root/root      1121 2017-06-21 02:07 ansible-role-dns-master/LICENSE
+-rw-rw-r-- root/root       813 2017-06-21 02:07 ansible-role-dns-master/README.md
+drwxrwxr-x root/root         0 2017-06-21 02:07 ansible-role-dns-master/defaults/
+-rw-rw-r-- root/root        78 2017-06-21 02:07 ansible-role-dns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-21 02:07 ansible-role-dns-master/meta/
+-rw-rw-r-- root/root       222 2017-06-21 02:07 ansible-role-dns-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-21 02:07 ansible-role-dns-master/tasks/
+-rw-rw-r-- root/root       287 2017-06-21 02:07 ansible-role-dns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-21 02:07 ansible-role-dns-master/templates/
+-rw-rw-r-- root/root       137 2017-06-21 02:07 ansible-role-dns-master/templates/resolv.conf.j2
+drwxrwxr-x root/root         0 2017-06-21 02:07 ansible-role-dns-master/tests/
+-rw-rw-r-- root/root        11 2017-06-21 02:07 ansible-role-dns-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-06-21 02:07 ansible-role-dns-master/tests/test.yml

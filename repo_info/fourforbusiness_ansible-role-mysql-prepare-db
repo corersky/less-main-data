@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/
+-rw-rw-r-- root/root      1782 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/.travis.yml
+-rw-rw-r-- root/root      1077 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/LICENSE
+-rw-rw-r-- root/root      2242 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/README.md
+drwxrwxr-x root/root         0 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/defaults/
+-rw-rw-r-- root/root       107 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/meta/
+-rw-rw-r-- root/root       517 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/tasks/
+-rw-rw-r-- root/root      3443 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/tests/
+-rw-rw-r-- root/root       154 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/tests/additional_script.sql
+-rw-rw-r-- root/root        28 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/tests/requirements.yml
+-rw-rw-r-- root/root       917 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/tests/test.yml
+-rw-rw-r-- root/root      2214 2018-05-07 03:57 ansible-role-mysql-prepare-db-master/tests/test_dump.sql

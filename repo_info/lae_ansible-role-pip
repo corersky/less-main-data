@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-30 10:57 ansible-role-pip-master/
+-rw-rw-r-- root/root        67 2017-01-30 10:57 ansible-role-pip-master/.gitignore
+-rw-rw-r-- root/root       440 2017-01-30 10:57 ansible-role-pip-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-01-30 10:57 ansible-role-pip-master/LICENSE
+-rw-rw-r-- root/root      1294 2017-01-30 10:57 ansible-role-pip-master/README.md
+drwxrwxr-x root/root         0 2017-01-30 10:57 ansible-role-pip-master/defaults/
+-rw-rw-r-- root/root        25 2017-01-30 10:57 ansible-role-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-30 10:57 ansible-role-pip-master/meta/
+-rw-rw-r-- root/root       277 2017-01-30 10:57 ansible-role-pip-master/meta/main.yml
+-rw-rw-r-- root/root       351 2017-01-30 10:57 ansible-role-pip-master/molecule.yml
+-rw-rw-r-- root/root       990 2017-01-30 10:57 ansible-role-pip-master/playbook.yml
+drwxrwxr-x root/root         0 2017-01-30 10:57 ansible-role-pip-master/tasks/
+-rw-rw-r-- root/root       593 2017-01-30 10:57 ansible-role-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-30 10:57 ansible-role-pip-master/tests/
+-rw-rw-r-- root/root       779 2017-01-30 10:57 ansible-role-pip-master/tests/test_pip.py

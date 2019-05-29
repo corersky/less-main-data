@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-16 13:22 ansible-gemini-master/
+-rw-rw-r-- root/root       672 2016-09-16 13:22 ansible-gemini-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-16 13:22 ansible-gemini-master/LICENSE
+-rw-rw-r-- root/root       598 2016-09-16 13:22 ansible-gemini-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 13:22 ansible-gemini-master/defaults/
+-rw-rw-r-- root/root        36 2016-09-16 13:22 ansible-gemini-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:22 ansible-gemini-master/meta/
+-rw-rw-r-- root/root       463 2016-09-16 13:22 ansible-gemini-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:22 ansible-gemini-master/tasks/
+-rw-rw-r-- root/root       415 2016-09-16 13:22 ansible-gemini-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:22 ansible-gemini-master/tests/
+-rw-rw-r-- root/root         9 2016-09-16 13:22 ansible-gemini-master/tests/inventory
+-rw-rw-r-- root/root        73 2016-09-16 13:22 ansible-gemini-master/tests/test.yml

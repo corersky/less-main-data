@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-10 03:58 ansible-role-kubeadm-master/
+-rw-rw-r-- root/root        18 2017-05-10 03:58 ansible-role-kubeadm-master/.gitignore
+-rw-rw-r-- root/root       116 2017-05-10 03:58 ansible-role-kubeadm-master/README.md
+drwxrwxr-x root/root         0 2017-05-10 03:58 ansible-role-kubeadm-master/defaults/
+-rw-rw-r-- root/root        44 2017-05-10 03:58 ansible-role-kubeadm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-10 03:58 ansible-role-kubeadm-master/handlers/
+-rw-rw-r-- root/root        44 2017-05-10 03:58 ansible-role-kubeadm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-10 03:58 ansible-role-kubeadm-master/meta/
+-rw-rw-r-- root/root       162 2017-05-10 03:58 ansible-role-kubeadm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-10 03:58 ansible-role-kubeadm-master/tasks/
+-rw-rw-r-- root/root       495 2017-05-10 03:58 ansible-role-kubeadm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-10 03:58 ansible-role-kubeadm-master/tests/
+-rw-rw-r-- root/root       327 2017-05-10 03:58 ansible-role-kubeadm-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-05-10 03:58 ansible-role-kubeadm-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-10 03:58 ansible-role-kubeadm-master/vars/
+-rw-rw-r-- root/root        40 2017-05-10 03:58 ansible-role-kubeadm-master/vars/main.yml

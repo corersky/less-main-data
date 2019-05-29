@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2019-05-23 19:02 ansible-update-master/
+-rw-rw-r-- root/root        59 2019-05-23 19:02 ansible-update-master/.gitattributes
+drwxrwxr-x root/root         0 2019-05-23 19:02 ansible-update-master/.github/
+-rw-rw-r-- root/root       994 2019-05-23 19:02 ansible-update-master/.github/ISSUE_TEMPLATE.md
+-rw-rw-r-- root/root       244 2019-05-23 19:02 ansible-update-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root         7 2019-05-23 19:02 ansible-update-master/.gitignore
+-rw-rw-r-- root/root      1067 2019-05-23 19:02 ansible-update-master/LICENSE
+-rw-rw-r-- root/root       714 2019-05-23 19:02 ansible-update-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 19:02 ansible-update-master/defaults/
+-rw-rw-r-- root/root       200 2019-05-23 19:02 ansible-update-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 19:02 ansible-update-master/meta/
+-rw-rw-r-- root/root       254 2019-05-23 19:02 ansible-update-master/meta/main.yml
+-rw-rw-r-- root/root       602 2019-05-23 19:02 ansible-update-master/package.json
+drwxrwxr-x root/root         0 2019-05-23 19:02 ansible-update-master/tasks/
+-rw-rw-r-- root/root       724 2019-05-23 19:02 ansible-update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 19:02 ansible-update-master/tests/
+-rw-rw-r-- root/root       496 2019-05-23 19:02 ansible-update-master/tests/.hack.sh
+-rw-rw-r-- root/root      1235 2019-05-23 19:02 ansible-update-master/tests/Vagrantfile
+-rw-rw-r-- root/root       103 2019-05-23 19:02 ansible-update-master/tests/ansible.cfg
+-rw-rw-r-- root/root        49 2019-05-23 19:02 ansible-update-master/tests/inventory
+drwxrwxr-x root/root         0 2019-05-23 19:02 ansible-update-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-05-23 19:02 ansible-update-master/tests/roles/pgkehle.sysupdate -> ../..
+-rw-rw-r-- root/root        62 2019-05-23 19:02 ansible-update-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-23 19:02 ansible-update-master/vars/
+-rw-rw-r-- root/root        28 2019-05-23 19:02 ansible-update-master/vars/main.yaml

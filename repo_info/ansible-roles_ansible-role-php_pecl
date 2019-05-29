@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-04 17:23 ansible-role-php_pecl-master/
+-rw-rw-r-- root/root       178 2016-01-04 17:23 ansible-role-php_pecl-master/.editorconfig
+-rw-rw-r-- root/root        23 2016-01-04 17:23 ansible-role-php_pecl-master/.gitignore
+-rw-rw-r-- root/root       238 2016-01-04 17:23 ansible-role-php_pecl-master/CHANGELOG.md
+-rw-rw-r-- root/root       957 2016-01-04 17:23 ansible-role-php_pecl-master/README.md
+drwxrwxr-x root/root         0 2016-01-04 17:23 ansible-role-php_pecl-master/defaults/
+-rw-rw-r-- root/root      1043 2016-01-04 17:23 ansible-role-php_pecl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-04 17:23 ansible-role-php_pecl-master/meta/
+-rw-rw-r-- root/root       266 2016-01-04 17:23 ansible-role-php_pecl-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-04 17:23 ansible-role-php_pecl-master/tasks/
+-rw-rw-r-- root/root      1251 2016-01-04 17:23 ansible-role-php_pecl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-04 17:23 ansible-role-php_pecl-master/templates/
+-rw-rw-r-- root/root       561 2016-01-04 17:23 ansible-role-php_pecl-master/templates/extension.ini.j2
+drwxrwxr-x root/root         0 2016-01-04 17:23 ansible-role-php_pecl-master/tests/
+-rw-rw-r-- root/root       392 2016-01-04 17:23 ansible-role-php_pecl-master/tests/Vagrantfile
+-rw-rw-r-- root/root        35 2016-01-04 17:23 ansible-role-php_pecl-master/tests/inventory
+-rw-rw-r-- root/root       369 2016-01-04 17:23 ansible-role-php_pecl-master/tests/playbook.yml

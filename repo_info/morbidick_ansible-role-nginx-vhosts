@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2018-09-30 03:44 ansible-role-nginx-vhosts-master/
+-rw-rw-r-- root/root       147 2018-09-30 03:44 ansible-role-nginx-vhosts-master/.editorconfig
+-rw-rw-r-- root/root        29 2018-09-30 03:44 ansible-role-nginx-vhosts-master/.gitignore
+-rw-rw-r-- root/root       866 2018-09-30 03:44 ansible-role-nginx-vhosts-master/.travis.yml
+-rw-rw-r-- root/root      1736 2018-09-30 03:44 ansible-role-nginx-vhosts-master/README.md
+-rw-rw-r-- root/root       345 2018-09-30 03:44 ansible-role-nginx-vhosts-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-09-30 03:44 ansible-role-nginx-vhosts-master/defaults/
+-rw-rw-r-- root/root       640 2018-09-30 03:44 ansible-role-nginx-vhosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 03:44 ansible-role-nginx-vhosts-master/meta/
+-rw-rw-r-- root/root       254 2018-09-30 03:44 ansible-role-nginx-vhosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-30 03:44 ansible-role-nginx-vhosts-master/tasks/
+-rw-rw-r-- root/root       666 2018-09-30 03:44 ansible-role-nginx-vhosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-30 03:44 ansible-role-nginx-vhosts-master/templates/
+-rw-rw-r-- root/root       170 2018-09-30 03:44 ansible-role-nginx-vhosts-master/templates/http.conf
+-rw-rw-r-- root/root       750 2018-09-30 03:44 ansible-role-nginx-vhosts-master/templates/https.conf
+drwxrwxr-x root/root         0 2018-09-30 03:44 ansible-role-nginx-vhosts-master/templates/types/
+-rw-rw-r-- root/root       365 2018-09-30 03:44 ansible-role-nginx-vhosts-master/templates/types/proxy-ws.conf
+-rw-rw-r-- root/root       174 2018-09-30 03:44 ansible-role-nginx-vhosts-master/templates/types/proxy.conf
+-rw-rw-r-- root/root       294 2018-09-30 03:44 ansible-role-nginx-vhosts-master/templates/types/redirect.conf
+-rw-rw-r-- root/root        93 2018-09-30 03:44 ansible-role-nginx-vhosts-master/templates/types/static.conf
+drwxrwxr-x root/root         0 2018-09-30 03:44 ansible-role-nginx-vhosts-master/tests/
+-rw-rw-r-- root/root        49 2018-09-30 03:44 ansible-role-nginx-vhosts-master/tests/role.yml
+lrwxrwxrwx root/root         0 2018-09-30 03:44 ansible-role-nginx-vhosts-master/tests/role_under_test -> ..
+-rw-rw-r-- root/root       812 2018-09-30 03:44 ansible-role-nginx-vhosts-master/webserver.md

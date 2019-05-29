@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-03-03 01:16 ansible-repo-remi-master/
+-rw-rw-r-- root/root      1314 2017-03-03 01:16 ansible-repo-remi-master/.travis.yml
+-rw-rw-r-- root/root       462 2017-03-03 01:16 ansible-repo-remi-master/README.md
+drwxrwxr-x root/root         0 2017-03-03 01:16 ansible-repo-remi-master/meta/
+-rw-rw-r-- root/root       256 2017-03-03 01:16 ansible-repo-remi-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-03 01:16 ansible-repo-remi-master/tasks/
+-rw-rw-r-- root/root       356 2017-03-03 01:16 ansible-repo-remi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-03 01:16 ansible-repo-remi-master/tests/
+-rw-rw-r-- root/root        35 2017-03-03 01:16 ansible-repo-remi-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-03-03 01:16 ansible-repo-remi-master/tests/test.yml

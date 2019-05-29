@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-01-27 03:45 ansible-role-find-package-master/
+-rw-rw-r-- root/root      3733 2016-01-27 03:45 ansible-role-find-package-master/README.md
+drwxrwxr-x root/root         0 2016-01-27 03:45 ansible-role-find-package-master/defaults/
+-rw-rw-r-- root/root       768 2016-01-27 03:45 ansible-role-find-package-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-27 03:45 ansible-role-find-package-master/handlers/
+-rw-rw-r-- root/root        50 2016-01-27 03:45 ansible-role-find-package-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-27 03:45 ansible-role-find-package-master/meta/
+-rw-rw-r-- root/root      2441 2016-01-27 03:45 ansible-role-find-package-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-27 03:45 ansible-role-find-package-master/tasks/
+-rw-rw-r-- root/root       229 2016-01-27 03:45 ansible-role-find-package-master/tasks/main.yml
+-rw-rw-r-- root/root       903 2016-01-27 03:45 ansible-role-find-package-master/tasks/multi_package.yml
+-rw-rw-r-- root/root       688 2016-01-27 03:45 ansible-role-find-package-master/tasks/single_package.yml
+drwxrwxr-x root/root         0 2016-01-27 03:45 ansible-role-find-package-master/vars/
+-rw-rw-r-- root/root        46 2016-01-27 03:45 ansible-role-find-package-master/vars/main.yml

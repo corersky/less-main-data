@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-01-25 09:56 ansible-role-oxid-master/
+-rw-rw-r-- root/root         6 2016-01-25 09:56 ansible-role-oxid-master/.gitignore
+-rw-rw-r-- root/root       138 2016-01-25 09:56 ansible-role-oxid-master/CHANGELOG.md
+-rw-rw-r-- root/root       759 2016-01-25 09:56 ansible-role-oxid-master/README.md
+-rw-rw-r-- root/root         5 2016-01-25 09:56 ansible-role-oxid-master/VERSION
+-rw-rw-r-- root/root       335 2016-01-25 09:56 ansible-role-oxid-master/ansible-role-oxid.iml
+drwxrwxr-x root/root         0 2016-01-25 09:56 ansible-role-oxid-master/defaults/
+-rw-rw-r-- root/root       237 2016-01-25 09:56 ansible-role-oxid-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-25 09:56 ansible-role-oxid-master/meta/
+-rw-rw-r-- root/root       472 2016-01-25 09:56 ansible-role-oxid-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-25 09:56 ansible-role-oxid-master/tasks/
+-rw-rw-r-- root/root       574 2016-01-25 09:56 ansible-role-oxid-master/tasks/cli.yml
+-rw-rw-r-- root/root       581 2016-01-25 09:56 ansible-role-oxid-master/tasks/install.yml
+-rw-rw-r-- root/root        61 2016-01-25 09:56 ansible-role-oxid-master/tasks/main.yml

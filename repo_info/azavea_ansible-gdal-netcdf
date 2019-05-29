@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-01-23 18:19 ansible-gdal-netcdf-master/
+-rw-rw-r-- root/root        33 2015-01-23 18:19 ansible-gdal-netcdf-master/.gitignore
+-rw-rw-r-- root/root      1203 2015-01-23 18:19 ansible-gdal-netcdf-master/README.md
+drwxrwxr-x root/root         0 2015-01-23 18:19 ansible-gdal-netcdf-master/defaults/
+-rw-rw-r-- root/root       781 2015-01-23 18:19 ansible-gdal-netcdf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-23 18:19 ansible-gdal-netcdf-master/examples/
+-rw-rw-r-- root/root       630 2015-01-23 18:19 ansible-gdal-netcdf-master/examples/Vagrantfile
+-rw-rw-r-- root/root        37 2015-01-23 18:19 ansible-gdal-netcdf-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-01-23 18:19 ansible-gdal-netcdf-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-01-23 18:19 ansible-gdal-netcdf-master/examples/roles/azavea.gdal-netcdf -> ../../
+-rw-rw-r-- root/root        62 2015-01-23 18:19 ansible-gdal-netcdf-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-01-23 18:19 ansible-gdal-netcdf-master/meta/
+-rw-rw-r-- root/root       399 2015-01-23 18:19 ansible-gdal-netcdf-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-23 18:19 ansible-gdal-netcdf-master/tasks/
+-rw-rw-r-- root/root      2439 2015-01-23 18:19 ansible-gdal-netcdf-master/tasks/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-23 03:30 shadowsocks-ansible-master/
+-rw-rw-r-- root/root        22 2019-02-23 03:30 shadowsocks-ansible-master/.gitignore
+-rw-rw-r-- root/root      1195 2019-02-23 03:30 shadowsocks-ansible-master/README.md
+drwxrwxr-x root/root         0 2019-02-23 03:30 shadowsocks-ansible-master/defaults/
+-rw-rw-r-- root/root        97 2019-02-23 03:30 shadowsocks-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-23 03:30 shadowsocks-ansible-master/handlers/
+-rw-rw-r-- root/root       240 2019-02-23 03:30 shadowsocks-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-23 03:30 shadowsocks-ansible-master/meta/
+-rw-rw-r-- root/root       362 2019-02-23 03:30 shadowsocks-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-23 03:30 shadowsocks-ansible-master/tasks/
+-rw-rw-r-- root/root       655 2019-02-23 03:30 shadowsocks-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-23 03:30 shadowsocks-ansible-master/templates/
+-rw-rw-r-- root/root       328 2019-02-23 03:30 shadowsocks-ansible-master/templates/config.json.j2
+drwxrwxr-x root/root         0 2019-02-23 03:30 shadowsocks-ansible-master/tests/
+-rw-rw-r-- root/root        11 2019-02-23 03:30 shadowsocks-ansible-master/tests/inventory
+-rw-rw-r-- root/root        70 2019-02-23 03:30 shadowsocks-ansible-master/tests/test.yml

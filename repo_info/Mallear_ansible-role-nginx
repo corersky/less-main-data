@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-04 10:27 ansible-role-nginx-master/
+-rw-rw-r-- root/root       650 2017-12-04 10:27 ansible-role-nginx-master/README.md
+drwxrwxr-x root/root         0 2017-12-04 10:27 ansible-role-nginx-master/defaults/
+-rw-rw-r-- root/root       439 2017-12-04 10:27 ansible-role-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-04 10:27 ansible-role-nginx-master/handlers/
+-rw-rw-r-- root/root       210 2017-12-04 10:27 ansible-role-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-04 10:27 ansible-role-nginx-master/meta/
+-rw-rw-r-- root/root       400 2017-12-04 10:27 ansible-role-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-04 10:27 ansible-role-nginx-master/tasks/
+-rw-rw-r-- root/root       545 2017-12-04 10:27 ansible-role-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-04 10:27 ansible-role-nginx-master/templates/
+-rw-rw-r-- root/root      1264 2017-12-04 10:27 ansible-role-nginx-master/templates/nginx.conf.j2

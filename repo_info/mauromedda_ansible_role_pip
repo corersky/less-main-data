@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-11-25 07:49 ansible_role_pip-master/
+-rw-rw-r-- root/root       429 2017-11-25 07:49 ansible_role_pip-master/.travis.yml
+-rw-rw-r-- root/root        46 2017-11-25 07:49 ansible_role_pip-master/CHANGELOG.md
+-rw-rw-r-- root/root      1316 2017-11-25 07:49 ansible_role_pip-master/LICENSE
+-rw-rw-r-- root/root       310 2017-11-25 07:49 ansible_role_pip-master/README.md
+drwxrwxr-x root/root         0 2017-11-25 07:49 ansible_role_pip-master/meta/
+-rw-rw-r-- root/root       330 2017-11-25 07:49 ansible_role_pip-master/meta/main.yml
+-rw-rw-r-- root/root        36 2017-11-25 07:49 ansible_role_pip-master/requirements.yml
+drwxrwxr-x root/root         0 2017-11-25 07:49 ansible_role_pip-master/tasks/
+-rw-rw-r-- root/root       281 2017-11-25 07:49 ansible_role_pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-25 07:49 ansible_role_pip-master/tests/
+-rw-rw-r-- root/root        11 2017-11-25 07:49 ansible_role_pip-master/tests/inventory
+-rw-rw-r-- root/root       125 2017-11-25 07:49 ansible_role_pip-master/tests/test.yml

@@ -1,0 +1,34 @@
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/
+-rw-rw-r-- root/root        11 2016-12-13 14:46 tsm-client-master/.gitignore
+-rw-rw-r-- root/root       583 2016-12-13 14:46 tsm-client-master/.travis.yml
+-rw-rw-r-- root/root     18046 2016-12-13 14:46 tsm-client-master/LICENSE
+-rw-rw-r-- root/root      2045 2016-12-13 14:46 tsm-client-master/README.md
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/defaults/
+-rw-rw-r-- root/root       700 2016-12-13 14:46 tsm-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/handlers/
+-rw-rw-r-- root/root       144 2016-12-13 14:46 tsm-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/meta/
+-rw-rw-r-- root/root      3238 2016-12-13 14:46 tsm-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/tasks/
+-rw-rw-r-- root/root       340 2016-12-13 14:46 tsm-client-master/tasks/generate_password.py
+-rw-rw-r-- root/root      2265 2016-12-13 14:46 tsm-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/templates/
+-rw-rw-r-- root/root        60 2016-12-13 14:46 tsm-client-master/templates/InclExcl.custom.j2
+-rw-rw-r-- root/root       305 2016-12-13 14:46 tsm-client-master/templates/InclExcl.j2
+-rw-rw-r-- root/root         0 2016-12-13 14:46 tsm-client-master/templates/InclExcl.local.j2
+-rw-rw-r-- root/root        34 2016-12-13 14:46 tsm-client-master/templates/dsm.opt.j2
+-rw-rw-r-- root/root      1162 2016-12-13 14:46 tsm-client-master/templates/dsm.sys.j2
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/tests/
+-rw-rw-r-- root/root         9 2016-12-13 14:46 tsm-client-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-12-13 14:46 tsm-client-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/uninstall/
+-rw-rw-r-- root/root      1394 2016-12-13 14:46 tsm-client-master/uninstall/README.md
+lrwxrwxrwx root/root         0 2016-12-13 14:46 tsm-client-master/uninstall/defaults -> ../defaults
+lrwxrwxrwx root/root         0 2016-12-13 14:46 tsm-client-master/uninstall/files -> ../files
+lrwxrwxrwx root/root         0 2016-12-13 14:46 tsm-client-master/uninstall/handlers -> ../handlers
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/uninstall/tasks/
+-rw-rw-r-- root/root       125 2016-12-13 14:46 tsm-client-master/uninstall/tasks/main.yml
+lrwxrwxrwx root/root         0 2016-12-13 14:46 tsm-client-master/uninstall/templates -> ../templates
+lrwxrwxrwx root/root         0 2016-12-13 14:46 tsm-client-master/uninstall/vars -> ../vars
+drwxrwxr-x root/root         0 2016-12-13 14:46 tsm-client-master/vars/
+-rw-rw-r-- root/root        31 2016-12-13 14:46 tsm-client-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/
+-rw-rw-r-- root/root         9 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/.gitignore
+-rw-rw-r-- root/root      2294 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/LICENSE
+-rw-rw-r-- root/root      1230 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/README.md
+-rw-rw-r-- root/root       386 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/files/
+-rw-rw-r-- root/root       128 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/files/allow-ssh-agent-forwarding
+drwxrwxr-x root/root         0 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/meta/
+-rw-rw-r-- root/root       630 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/tasks/
+-rw-rw-r-- root/root       939 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/tasks/main.yml
+-rw-rw-r-- root/root        69 2016-06-14 04:39 ansible-sudo-agent-forwarding-master/test.yml

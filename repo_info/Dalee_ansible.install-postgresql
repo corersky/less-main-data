@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-24 09:07 ansible.install-postgresql-master/
+-rw-rw-r-- root/root       221 2017-04-24 09:07 ansible.install-postgresql-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 09:07 ansible.install-postgresql-master/meta/
+-rw-rw-r-- root/root       268 2017-04-24 09:07 ansible.install-postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 09:07 ansible.install-postgresql-master/tasks/
+-rw-rw-r-- root/root       312 2017-04-24 09:07 ansible.install-postgresql-master/tasks/bashd.yml
+-rw-rw-r-- root/root       463 2017-04-24 09:07 ansible.install-postgresql-master/tasks/install.yml
+-rw-rw-r-- root/root       284 2017-04-24 09:07 ansible.install-postgresql-master/tasks/main.yml
+-rw-rw-r-- root/root      1125 2017-04-24 09:07 ansible.install-postgresql-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2017-04-24 09:07 ansible.install-postgresql-master/templates/
+-rw-rw-r-- root/root       233 2017-04-24 09:07 ansible.install-postgresql-master/templates/pg_hba.j2
+-rw-rw-r-- root/root        42 2017-04-24 09:07 ansible.install-postgresql-master/templates/pgpass.j2
+-rw-rw-r-- root/root      1888 2017-04-24 09:07 ansible.install-postgresql-master/templates/postgresql.j2
+-rw-rw-r-- root/root       221 2017-04-24 09:07 ansible.install-postgresql-master/templates/psql.rc.j2
+drwxrwxr-x root/root         0 2017-04-24 09:07 ansible.install-postgresql-master/vars/
+-rw-rw-r-- root/root       102 2017-04-24 09:07 ansible.install-postgresql-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-14 09:54 ansible-dovecot-master/
+-rw-rw-r-- root/root       555 2017-07-14 09:54 ansible-dovecot-master/README.md
+drwxrwxr-x root/root         0 2017-07-14 09:54 ansible-dovecot-master/defaults/
+-rw-rw-r-- root/root       244 2017-07-14 09:54 ansible-dovecot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:54 ansible-dovecot-master/files/
+-rw-rw-r-- root/root        83 2017-07-14 09:54 ansible-dovecot-master/files/spam-global.sieve
+-rw-rw-r-- root/root        41 2017-07-14 09:54 ansible-dovecot-master/files/spampipe.sh
+drwxrwxr-x root/root         0 2017-07-14 09:54 ansible-dovecot-master/handlers/
+-rw-rw-r-- root/root       163 2017-07-14 09:54 ansible-dovecot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:54 ansible-dovecot-master/meta/
+-rw-rw-r-- root/root       351 2017-07-14 09:54 ansible-dovecot-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:54 ansible-dovecot-master/tasks/
+-rw-rw-r-- root/root      1481 2017-07-14 09:54 ansible-dovecot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:54 ansible-dovecot-master/templates/
+-rw-rw-r-- root/root       542 2017-07-14 09:54 ansible-dovecot-master/templates/dovecot-sql.conf.j2
+-rw-rw-r-- root/root      3409 2017-07-14 09:54 ansible-dovecot-master/templates/dovecot.conf.j2

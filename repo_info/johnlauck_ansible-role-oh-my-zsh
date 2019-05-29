@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-29 22:44 ansible-role-oh-my-zsh-master/
+-rw-rw-r-- root/root       557 2016-05-29 22:44 ansible-role-oh-my-zsh-master/README.md
+drwxrwxr-x root/root         0 2016-05-29 22:44 ansible-role-oh-my-zsh-master/defaults/
+-rw-rw-r-- root/root       211 2016-05-29 22:44 ansible-role-oh-my-zsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-29 22:44 ansible-role-oh-my-zsh-master/meta/
+-rw-rw-r-- root/root       235 2016-05-29 22:44 ansible-role-oh-my-zsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-29 22:44 ansible-role-oh-my-zsh-master/tasks/
+-rw-rw-r-- root/root       261 2016-05-29 22:44 ansible-role-oh-my-zsh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-29 22:44 ansible-role-oh-my-zsh-master/templates/
+-rw-rw-r-- root/root       356 2016-05-29 22:44 ansible-role-oh-my-zsh-master/templates/hnakamur.zsh-theme.j2
+-rw-rw-r-- root/root        59 2016-05-29 22:44 ansible-role-oh-my-zsh-master/templates/theme.zsh.j2
+-rw-rw-r-- root/root      2609 2016-05-29 22:44 ansible-role-oh-my-zsh-master/templates/zshrc.j2

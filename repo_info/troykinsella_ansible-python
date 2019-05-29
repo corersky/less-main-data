@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-12-14 15:21 ansible-python-master/
+-rw-rw-r-- root/root         5 2018-12-14 15:21 ansible-python-master/.gitignore
+-rw-rw-r-- root/root       580 2018-12-14 15:21 ansible-python-master/README.md
+drwxrwxr-x root/root         0 2018-12-14 15:21 ansible-python-master/defaults/
+-rw-rw-r-- root/root       127 2018-12-14 15:21 ansible-python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-14 15:21 ansible-python-master/meta/
+-rw-rw-r-- root/root       273 2018-12-14 15:21 ansible-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-14 15:21 ansible-python-master/tasks/
+-rw-rw-r-- root/root       500 2018-12-14 15:21 ansible-python-master/tasks/install.yml
+-rw-rw-r-- root/root        60 2018-12-14 15:21 ansible-python-master/tasks/main.yml

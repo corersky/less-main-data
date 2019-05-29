@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-05-13 02:16 ansible-elasticsearch-master/
+-rw-rw-r-- root/root       994 2015-05-13 02:16 ansible-elasticsearch-master/.travis.yml
+-rw-rw-r-- root/root      1093 2015-05-13 02:16 ansible-elasticsearch-master/LICENSE
+-rw-rw-r-- root/root      1126 2015-05-13 02:16 ansible-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2015-05-13 02:16 ansible-elasticsearch-master/defaults/
+-rw-rw-r-- root/root       319 2015-05-13 02:16 ansible-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-13 02:16 ansible-elasticsearch-master/handlers/
+-rw-rw-r-- root/root       133 2015-05-13 02:16 ansible-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-13 02:16 ansible-elasticsearch-master/meta/
+-rw-rw-r-- root/root       327 2015-05-13 02:16 ansible-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-13 02:16 ansible-elasticsearch-master/tasks/
+-rw-rw-r-- root/root      1350 2015-05-13 02:16 ansible-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-13 02:16 ansible-elasticsearch-master/tests/
+-rw-rw-r-- root/root        10 2015-05-13 02:16 ansible-elasticsearch-master/tests/inventory
+-rw-rw-r-- root/root       583 2015-05-13 02:16 ansible-elasticsearch-master/tests/test.py
+-rw-rw-r-- root/root       242 2015-05-13 02:16 ansible-elasticsearch-master/tests/test.yml

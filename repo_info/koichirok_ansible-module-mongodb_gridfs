@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/
+-rw-rw-r-- root/root      1222 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/.gitignore
+-rw-rw-r-- root/root     34523 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/LICENSE
+-rw-rw-r-- root/root      2459 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/README.md
+drwxrwxr-x root/root         0 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/library/
+-rw-rw-r-- root/root     10588 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/library/mongodb_gridfs.py
+drwxrwxr-x root/root         0 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/meta/
+-rw-rw-r-- root/root       389 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/tests/
+-rw-rw-r-- root/root        11 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/tests/inventory
+-rw-rw-r-- root/root       818 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/tests/make-readme.yml
+drwxrwxr-x root/root         0 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/tests/roles/
+-rw-rw-r-- root/root        16 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/tests/roles/.gitignore
+drwxrwxr-x root/root         0 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/tests/templates/
+-rw-rw-r-- root/root      2516 2019-01-22 23:27 ansible-module-mongodb_gridfs-master/tests/templates/README.md.j2

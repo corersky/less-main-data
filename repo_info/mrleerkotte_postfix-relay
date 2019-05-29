@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-09 09:38 postfix-relay-master/
+-rw-rw-r-- root/root      1507 2018-07-09 09:38 postfix-relay-master/LICENSE
+-rw-rw-r-- root/root       720 2018-07-09 09:38 postfix-relay-master/README.md
+drwxrwxr-x root/root         0 2018-07-09 09:38 postfix-relay-master/defaults/
+-rw-rw-r-- root/root        74 2018-07-09 09:38 postfix-relay-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-09 09:38 postfix-relay-master/handlers/
+-rw-rw-r-- root/root       146 2018-07-09 09:38 postfix-relay-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-09 09:38 postfix-relay-master/meta/
+-rw-rw-r-- root/root       297 2018-07-09 09:38 postfix-relay-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-09 09:38 postfix-relay-master/tasks/
+-rw-rw-r-- root/root       525 2018-07-09 09:38 postfix-relay-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-09 09:38 postfix-relay-master/tests/
+-rw-rw-r-- root/root        11 2018-07-09 09:38 postfix-relay-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-07-09 09:38 postfix-relay-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-09 09:38 postfix-relay-master/vars/
+-rw-rw-r-- root/root        45 2018-07-09 09:38 postfix-relay-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/
+-rw-rw-r-- root/root       997 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/.travis.yml
+-rw-rw-r-- root/root        94 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/defaults/
+-rw-rw-r-- root/root        92 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/meta/
+-rw-rw-r-- root/root       338 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/tasks/
+-rw-rw-r-- root/root       191 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/tests/inventory
+-rw-rw-r-- root/root       765 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/tests/memcached-test.php
+-rw-rw-r-- root/root       136 2016-01-26 08:14 ansible-role-openapphack-php-memcached-master/tests/test.yml

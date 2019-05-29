@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-11-14 08:41 ansible-apache-maven-master/
+-rw-rw-r-- root/root      1494 2014-11-14 08:41 ansible-apache-maven-master/LICENSE
+-rw-rw-r-- root/root       597 2014-11-14 08:41 ansible-apache-maven-master/README.md
+drwxrwxr-x root/root         0 2014-11-14 08:41 ansible-apache-maven-master/defaults/
+-rw-rw-r-- root/root        69 2014-11-14 08:41 ansible-apache-maven-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-14 08:41 ansible-apache-maven-master/files/
+-rw-rw-r-- root/root        38 2014-11-14 08:41 ansible-apache-maven-master/files/maven.sh
+drwxrwxr-x root/root         0 2014-11-14 08:41 ansible-apache-maven-master/meta/
+-rw-rw-r-- root/root       269 2014-11-14 08:41 ansible-apache-maven-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-14 08:41 ansible-apache-maven-master/tasks/
+-rw-rw-r-- root/root       122 2014-11-14 08:41 ansible-apache-maven-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       272 2014-11-14 08:41 ansible-apache-maven-master/tasks/main.yml
+-rw-rw-r-- root/root      1486 2014-11-14 08:41 ansible-apache-maven-master/tasks/software.yml

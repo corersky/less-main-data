@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-24 10:54 ansible-role-update-packages-master/
+-rw-rw-r-- root/root       424 2017-06-24 10:54 ansible-role-update-packages-master/.travis.yml
+-rw-rw-r-- root/root      1121 2017-06-24 10:54 ansible-role-update-packages-master/LICENSE
+-rw-rw-r-- root/root       678 2017-06-24 10:54 ansible-role-update-packages-master/README.md
+drwxrwxr-x root/root         0 2017-06-24 10:54 ansible-role-update-packages-master/defaults/
+-rw-rw-r-- root/root        26 2017-06-24 10:54 ansible-role-update-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-24 10:54 ansible-role-update-packages-master/meta/
+-rw-rw-r-- root/root       233 2017-06-24 10:54 ansible-role-update-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-24 10:54 ansible-role-update-packages-master/tasks/
+-rw-rw-r-- root/root       104 2017-06-24 10:54 ansible-role-update-packages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-24 10:54 ansible-role-update-packages-master/tests/
+-rw-rw-r-- root/root        11 2017-06-24 10:54 ansible-role-update-packages-master/tests/inventory
+-rw-rw-r-- root/root        87 2017-06-24 10:54 ansible-role-update-packages-master/tests/test.yml

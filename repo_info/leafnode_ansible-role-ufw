@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-25 11:20 ansible-role-ufw-master/
+-rwxrwxr-x root/root      1012 2019-01-25 11:20 ansible-role-ufw-master/.travis.yml
+-rw-rw-r-- root/root      3089 2019-01-25 11:20 ansible-role-ufw-master/DEVELOPMENT.md
+-rw-rw-r-- root/root       577 2019-01-25 11:20 ansible-role-ufw-master/README.md
+drwxrwxr-x root/root         0 2019-01-25 11:20 ansible-role-ufw-master/defaults/
+-rw-rw-r-- root/root       151 2019-01-25 11:20 ansible-role-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-25 11:20 ansible-role-ufw-master/handlers/
+-rw-rw-r-- root/root       120 2019-01-25 11:20 ansible-role-ufw-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-25 11:20 ansible-role-ufw-master/meta/
+-rw-rw-r-- root/root       300 2019-01-25 11:20 ansible-role-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-25 11:20 ansible-role-ufw-master/tasks/
+-rw-rw-r-- root/root       562 2019-01-25 11:20 ansible-role-ufw-master/tasks/main.yml
+-rw-rw-r-- root/root       231 2019-01-25 11:20 ansible-role-ufw-master/tasks/post.yml
+-rw-rw-r-- root/root       491 2019-01-25 11:20 ansible-role-ufw-master/tasks/pre.yml
+drwxrwxr-x root/root         0 2019-01-25 11:20 ansible-role-ufw-master/tests/
+-rw-rw-r-- root/root        10 2019-01-25 11:20 ansible-role-ufw-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-01-25 11:20 ansible-role-ufw-master/tests/test.yml

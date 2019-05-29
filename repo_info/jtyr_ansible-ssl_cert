@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-07-03 10:00 ansible-ssl_cert-master/
+-rw-rw-r-- root/root         0 2018-07-03 10:00 ansible-ssl_cert-master/.gitignore
+-rw-rw-r-- root/root      1080 2018-07-03 10:00 ansible-ssl_cert-master/LICENSE
+-rw-rw-r-- root/root      7683 2018-07-03 10:00 ansible-ssl_cert-master/README.md
+drwxrwxr-x root/root         0 2018-07-03 10:00 ansible-ssl_cert-master/defaults/
+-rw-rw-r-- root/root      2776 2018-07-03 10:00 ansible-ssl_cert-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-07-03 10:00 ansible-ssl_cert-master/meta/
+-rw-rw-r-- root/root       264 2018-07-03 10:00 ansible-ssl_cert-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-03 10:00 ansible-ssl_cert-master/tasks/
+-rw-rw-r-- root/root      4797 2018-07-03 10:00 ansible-ssl_cert-master/tasks/cert.yaml
+-rw-rw-r-- root/root       112 2018-07-03 10:00 ansible-ssl_cert-master/tasks/main.yaml

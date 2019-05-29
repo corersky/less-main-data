@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-10 08:46 ansible-gitlab-ci-runner-master/
+-rw-rw-r-- root/root         8 2018-10-10 08:46 ansible-gitlab-ci-runner-master/.gitignore
+-rw-rw-r-- root/root      1098 2018-10-10 08:46 ansible-gitlab-ci-runner-master/LICENSE
+-rw-rw-r-- root/root      1357 2018-10-10 08:46 ansible-gitlab-ci-runner-master/README.md
+-rw-rw-r-- root/root         6 2018-10-10 08:46 ansible-gitlab-ci-runner-master/VERSION
+drwxrwxr-x root/root         0 2018-10-10 08:46 ansible-gitlab-ci-runner-master/defaults/
+-rw-rw-r-- root/root       834 2018-10-10 08:46 ansible-gitlab-ci-runner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-10 08:46 ansible-gitlab-ci-runner-master/handlers/
+-rw-rw-r-- root/root        80 2018-10-10 08:46 ansible-gitlab-ci-runner-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-10 08:46 ansible-gitlab-ci-runner-master/meta/
+-rw-rw-r-- root/root       263 2018-10-10 08:46 ansible-gitlab-ci-runner-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-10 08:46 ansible-gitlab-ci-runner-master/tasks/
+-rw-rw-r-- root/root      1801 2018-10-10 08:46 ansible-gitlab-ci-runner-master/tasks/main.yml

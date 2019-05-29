@@ -1,0 +1,54 @@
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/
+-rw-rw-r-- root/root      1072 2017-07-07 18:50 ansible-openstack-master/LICENSE.md
+-rw-rw-r-- root/root      3385 2017-07-07 18:50 ansible-openstack-master/README.md
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/
+-rw-rw-r-- root/root       165 2017-07-07 18:50 ansible-openstack-master/Vagrant/.gitignore
+-rw-rw-r-- root/root      5968 2017-07-07 18:50 ansible-openstack-master/Vagrant/Vagrantfile
+-rw-rw-r-- root/root     15182 2017-07-07 18:50 ansible-openstack-master/Vagrant/ansible.cfg
+-rwxrwxr-x root/root      1216 2017-07-07 18:50 ansible-openstack-master/Vagrant/bootstrap.sh
+-rw-rw-r-- root/root      7921 2017-07-07 18:50 ansible-openstack-master/Vagrant/bootstrap.yml
+-rw-rw-r-- root/root       103 2017-07-07 18:50 ansible-openstack-master/Vagrant/cleanup.bat
+-rwxrwxr-x root/root       125 2017-07-07 18:50 ansible-openstack-master/Vagrant/cleanup.sh
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/all/
+-rw-rw-r-- root/root        42 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/all/dns.yml
+lrwxrwxrwx root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/all/etc-hosts.yml -> ../../../group_vars/all/etc-hosts.yml
+-rw-rw-r-- root/root       677 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/all/etc-network-interfaces.yml
+lrwxrwxrwx root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/all/openstack-openrc.yml -> ../../../group_vars/all/openstack-openrc.yml
+-rw-rw-r-- root/root       356 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/all/openstack.yml
+lrwxrwxrwx root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/all/users.yml -> ../../../group_vars/all/users.yml
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_computes/
+-rw-rw-r-- root/root       118 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_computes/chrony.yml
+-rw-rw-r-- root/root      1037 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_computes/openstack-compute-service-compute.yml
+-rw-rw-r-- root/root       713 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_computes/openstack-networking-service-compute.yml
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/
+-rw-rw-r-- root/root       643 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/ansible-mariadb-galera-cluster.yml
+-rw-rw-r-- root/root      9254 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/haproxy.yml
+-rw-rw-r-- root/root       122 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/memcached.yml
+-rw-rw-r-- root/root       658 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/mysql.yml
+-rw-rw-r-- root/root      1561 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/openstack-compute-service-controller.yml
+-rw-rw-r-- root/root        62 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/openstack-dashboard.yml
+-rw-rw-r-- root/root      1049 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/openstack-identity-service.yml
+-rw-rw-r-- root/root      1111 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/openstack-image-service.yml
+-rw-rw-r-- root/root      1645 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/openstack-networking-service-controller.yml
+-rw-rw-r-- root/root      1615 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/pacemaker.yml
+-rw-rw-r-- root/root       884 2017-07-07 18:50 ansible-openstack-master/Vagrant/group_vars/openstack_controllers/rabbitmq.yml
+lrwxrwxrwx root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/hosts -> .vagrant/provisioners/ansible/inventory/vagrant_ansible_inventory
+-rw-rw-r-- root/root      1880 2017-07-07 18:50 ansible-openstack-master/Vagrant/nodes.yml
+lrwxrwxrwx root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/playbook.yml -> ../playbook.yml
+-rwxrwxr-x root/root       428 2017-07-07 18:50 ansible-openstack-master/Vagrant/prep.sh
+lrwxrwxrwx root/root         0 2017-07-07 18:50 ansible-openstack-master/Vagrant/requirements.yml -> ../requirements.yml
+-rwxrwxr-x root/root      1178 2017-07-07 18:50 ansible-openstack-master/Vagrant/unit-test.sh
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/group_vars/
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/group_vars/all/
+-rw-rw-r-- root/root       108 2017-07-07 18:50 ansible-openstack-master/group_vars/all/etc-hosts.yml
+-rw-rw-r-- root/root       411 2017-07-07 18:50 ansible-openstack-master/group_vars/all/openstack-openrc.yml
+-rw-rw-r-- root/root      1453 2017-07-07 18:50 ansible-openstack-master/group_vars/all/users.yml
+-rwxrwxr-x root/root       298 2017-07-07 18:50 ansible-openstack-master/install_required_ansible_roles.sh
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/meta/
+-rw-rw-r-- root/root      1777 2017-07-07 18:50 ansible-openstack-master/meta/main.yml
+-rw-rw-r-- root/root      1632 2017-07-07 18:50 ansible-openstack-master/playbook.yml
+-rw-rw-r-- root/root      1370 2017-07-07 18:50 ansible-openstack-master/requirements.yml
+drwxrwxr-x root/root         0 2017-07-07 18:50 ansible-openstack-master/tests/
+-rw-rw-r-- root/root        11 2017-07-07 18:50 ansible-openstack-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-07-07 18:50 ansible-openstack-master/tests/test.yml

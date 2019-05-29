@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/
+-rw-rw-r-- root/root       758 2016-03-28 15:00 ansible-role-gromacs-master/README.md
+drwxrwxr-x root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/defaults/
+-rw-rw-r-- root/root       213 2016-03-28 15:00 ansible-role-gromacs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/examples/
+-rw-rw-r-- root/root        63 2016-03-28 15:00 ansible-role-gromacs-master/examples/.gitignore
+-rw-rw-r-- root/root      2056 2016-03-28 15:00 ansible-role-gromacs-master/examples/README.md
+-rw-rw-r-- root/root       279 2016-03-28 15:00 ansible-role-gromacs-master/examples/Vagrantfile
+-rw-rw-r-- root/root        62 2016-03-28 15:00 ansible-role-gromacs-master/examples/requirement.yml
+drwxrwxr-x root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/examples/roles/RDI2.gromacs -> ../../
+-rw-rw-r-- root/root        80 2016-03-28 15:00 ansible-role-gromacs-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/handlers/
+-rw-rw-r-- root/root        32 2016-03-28 15:00 ansible-role-gromacs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/meta/
+-rw-rw-r-- root/root       283 2016-03-28 15:00 ansible-role-gromacs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/tasks/
+-rw-rw-r-- root/root      1473 2016-03-28 15:00 ansible-role-gromacs-master/tasks/install.yml
+-rw-rw-r-- root/root       363 2016-03-28 15:00 ansible-role-gromacs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-28 15:00 ansible-role-gromacs-master/vars/
+-rw-rw-r-- root/root        28 2016-03-28 15:00 ansible-role-gromacs-master/vars/main.yml

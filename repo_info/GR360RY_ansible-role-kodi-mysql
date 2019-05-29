@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-26 14:40 ansible-role-kodi-mysql-master/
+-rw-rw-r-- root/root      3395 2016-03-26 14:40 ansible-role-kodi-mysql-master/README.md
+drwxrwxr-x root/root         0 2016-03-26 14:40 ansible-role-kodi-mysql-master/defaults/
+-rw-rw-r-- root/root       169 2016-03-26 14:40 ansible-role-kodi-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-26 14:40 ansible-role-kodi-mysql-master/handlers/
+-rw-rw-r-- root/root       107 2016-03-26 14:40 ansible-role-kodi-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-26 14:40 ansible-role-kodi-mysql-master/meta/
+-rw-rw-r-- root/root       281 2016-03-26 14:40 ansible-role-kodi-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-26 14:40 ansible-role-kodi-mysql-master/tasks/
+-rw-rw-r-- root/root      1894 2016-03-26 14:40 ansible-role-kodi-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-26 14:40 ansible-role-kodi-mysql-master/templates/
+-rw-rw-r-- root/root     29566 2016-03-26 14:40 ansible-role-kodi-mysql-master/templates/MyMusic52.sql
+-rw-rw-r-- root/root     53091 2016-03-26 14:40 ansible-role-kodi-mysql-master/templates/MyVideos93.sql
+drwxrwxr-x root/root         0 2016-03-26 14:40 ansible-role-kodi-mysql-master/vars/
+-rw-rw-r-- root/root        31 2016-03-26 14:40 ansible-role-kodi-mysql-master/vars/main.yml

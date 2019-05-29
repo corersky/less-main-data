@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-02 15:20 ansible-silk-master/
+-rw-rw-r-- root/root       609 2015-12-02 15:20 ansible-silk-master/README.md
+drwxrwxr-x root/root         0 2015-12-02 15:20 ansible-silk-master/defaults/
+-rw-rw-r-- root/root       142 2015-12-02 15:20 ansible-silk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-02 15:20 ansible-silk-master/files/
+-rw-rw-r-- root/root      7289 2015-12-02 15:20 ansible-silk-master/files/rwflowpack.conf
+-rw-rw-r-- root/root        34 2015-12-02 15:20 ansible-silk-master/files/silk.conf
+drwxrwxr-x root/root         0 2015-12-02 15:20 ansible-silk-master/handlers/
+-rw-rw-r-- root/root        37 2015-12-02 15:20 ansible-silk-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-02 15:20 ansible-silk-master/meta/
+-rw-rw-r-- root/root      2278 2015-12-02 15:20 ansible-silk-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-02 15:20 ansible-silk-master/tasks/
+-rw-rw-r-- root/root      3072 2015-12-02 15:20 ansible-silk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-02 15:20 ansible-silk-master/templates/
+-rw-rw-r-- root/root       366 2015-12-02 15:20 ansible-silk-master/templates/sensors.j2
+drwxrwxr-x root/root         0 2015-12-02 15:20 ansible-silk-master/vars/
+-rw-rw-r-- root/root        33 2015-12-02 15:20 ansible-silk-master/vars/main.yml

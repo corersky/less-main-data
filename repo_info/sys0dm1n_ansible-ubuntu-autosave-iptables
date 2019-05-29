@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/
+-rw-rw-r-- root/root       556 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/README.md
+drwxrwxr-x root/root         0 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/meta/
+-rw-rw-r-- root/root      2104 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/tasks/
+-rw-rw-r-- root/root       381 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/templates/
+-rw-rw-r-- root/root        64 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/templates/loadiptables
+-rw-rw-r-- root/root        61 2014-04-14 06:59 ansible-ubuntu-autosave-iptables-master/templates/saveiptables

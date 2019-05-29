@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-10-09 14:19 postfix-smarthost-ansible-role-master/
+-rw-rw-r-- root/root      1392 2017-10-09 14:19 postfix-smarthost-ansible-role-master/.travis.yml
+-rw-rw-r-- root/root       786 2017-10-09 14:19 postfix-smarthost-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-10-09 14:19 postfix-smarthost-ansible-role-master/defaults/
+-rw-rw-r-- root/root        80 2017-10-09 14:19 postfix-smarthost-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-09 14:19 postfix-smarthost-ansible-role-master/handlers/
+-rw-rw-r-- root/root       153 2017-10-09 14:19 postfix-smarthost-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-09 14:19 postfix-smarthost-ansible-role-master/meta/
+-rw-rw-r-- root/root      1885 2017-10-09 14:19 postfix-smarthost-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-09 14:19 postfix-smarthost-ansible-role-master/tasks/
+-rw-rw-r-- root/root       495 2017-10-09 14:19 postfix-smarthost-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-09 14:19 postfix-smarthost-ansible-role-master/tests/
+-rw-rw-r-- root/root        11 2017-10-09 14:19 postfix-smarthost-ansible-role-master/tests/inventory
+-rw-rw-r-- root/root       122 2017-10-09 14:19 postfix-smarthost-ansible-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-09 14:19 postfix-smarthost-ansible-role-master/vars/
+-rw-rw-r-- root/root        51 2017-10-09 14:19 postfix-smarthost-ansible-role-master/vars/main.yml

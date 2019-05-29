@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-17 02:45 ansible-root-passwd-master/
+-rw-rw-r-- root/root        55 2017-02-17 02:45 ansible-root-passwd-master/.gitignore
+-rw-rw-r-- root/root       950 2017-02-17 02:45 ansible-root-passwd-master/README.md
+drwxrwxr-x root/root         0 2017-02-17 02:45 ansible-root-passwd-master/defaults/
+-rw-rw-r-- root/root        47 2017-02-17 02:45 ansible-root-passwd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-17 02:45 ansible-root-passwd-master/meta/
+-rw-rw-r-- root/root       355 2017-02-17 02:45 ansible-root-passwd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-17 02:45 ansible-root-passwd-master/tasks/
+-rw-rw-r-- root/root        80 2017-02-17 02:45 ansible-root-passwd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-17 02:45 ansible-root-passwd-master/tests/
+-rw-rw-r-- root/root       213 2017-02-17 02:45 ansible-root-passwd-master/tests/Dockerfile_centos7
+-rw-rw-r-- root/root       213 2017-02-17 02:45 ansible-root-passwd-master/tests/Dockerfile_debian7
+-rw-rw-r-- root/root       213 2017-02-17 02:45 ansible-root-passwd-master/tests/Dockerfile_debian8
+-rw-rw-r-- root/root       217 2017-02-17 02:45 ansible-root-passwd-master/tests/Dockerfile_ubuntu14
+-rw-rw-r-- root/root       217 2017-02-17 02:45 ansible-root-passwd-master/tests/Dockerfile_ubuntu16
+-rw-rw-r-- root/root       106 2017-02-17 02:45 ansible-root-passwd-master/tests/provision.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-31 00:14 ansible-role-rsyslog-master/
+-rw-rw-r-- root/root         3 2019-03-31 00:14 ansible-role-rsyslog-master/.gitignore
+-rw-rw-r-- root/root      3389 2019-03-31 00:14 ansible-role-rsyslog-master/.travis.yml
+-rw-rw-r-- root/root       507 2019-03-31 00:14 ansible-role-rsyslog-master/README.md
+-rw-rw-r-- root/root       407 2019-03-31 00:14 ansible-role-rsyslog-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-31 00:14 ansible-role-rsyslog-master/meta/
+-rw-rw-r-- root/root      3530 2019-03-31 00:14 ansible-role-rsyslog-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 00:14 ansible-role-rsyslog-master/tasks/
+-rw-rw-r-- root/root         4 2019-03-31 00:14 ansible-role-rsyslog-master/tasks/Debian.yml
+-rw-rw-r-- root/root      4306 2019-03-31 00:14 ansible-role-rsyslog-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-31 00:14 ansible-role-rsyslog-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1226 2019-03-31 00:14 ansible-role-rsyslog-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       154 2019-03-31 00:14 ansible-role-rsyslog-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 00:14 ansible-role-rsyslog-master/vars/
+-rw-rw-r-- root/root        29 2019-03-31 00:14 ansible-role-rsyslog-master/vars/default.yml
+-rw-rw-r-- root/root         4 2019-03-31 00:14 ansible-role-rsyslog-master/vars/main.yml

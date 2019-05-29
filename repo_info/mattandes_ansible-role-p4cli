@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-05 21:02 ansible-role-p4cli-master/
+-rw-rw-r-- root/root        33 2018-12-05 21:02 ansible-role-p4cli-master/.gitignore
+-rw-rw-r-- root/root       515 2018-12-05 21:02 ansible-role-p4cli-master/.travis.yml
+-rw-rw-r-- root/root      1030 2018-12-05 21:02 ansible-role-p4cli-master/README.md
+drwxrwxr-x root/root         0 2018-12-05 21:02 ansible-role-p4cli-master/defaults/
+-rw-rw-r-- root/root       413 2018-12-05 21:02 ansible-role-p4cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-05 21:02 ansible-role-p4cli-master/meta/
+-rw-rw-r-- root/root       314 2018-12-05 21:02 ansible-role-p4cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-05 21:02 ansible-role-p4cli-master/molecule/
+drwxrwxr-x root/root         0 2018-12-05 21:02 ansible-role-p4cli-master/molecule/default/
+-rw-rw-r-- root/root       587 2018-12-05 21:02 ansible-role-p4cli-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       334 2018-12-05 21:02 ansible-role-p4cli-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root       182 2018-12-05 21:02 ansible-role-p4cli-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2018-12-05 21:02 ansible-role-p4cli-master/tasks/
+-rw-rw-r-- root/root       200 2018-12-05 21:02 ansible-role-p4cli-master/tasks/main.yml
+-rw-rw-r-- root/root       280 2018-12-05 21:02 ansible-role-p4cli-master/tasks/setup-RedHat.yml

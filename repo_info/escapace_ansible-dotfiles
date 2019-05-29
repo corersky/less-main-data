@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2018-10-24 07:23 ansible-dotfiles-master/
+-rw-rw-r-- root/root        76 2018-10-24 07:23 ansible-dotfiles-master/.gitignore
+-rw-rw-r-- root/root     11317 2018-10-24 07:23 ansible-dotfiles-master/LICENSE
+-rw-rw-r-- root/root       320 2018-10-24 07:23 ansible-dotfiles-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 07:23 ansible-dotfiles-master/defaults/
+-rw-rw-r-- root/root      1022 2018-10-24 07:23 ansible-dotfiles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:23 ansible-dotfiles-master/handlers/
+-rw-rw-r-- root/root         4 2018-10-24 07:23 ansible-dotfiles-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:23 ansible-dotfiles-master/meta/
+-rw-rw-r-- root/root       396 2018-10-24 07:23 ansible-dotfiles-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:23 ansible-dotfiles-master/tasks/
+-rw-rw-r-- root/root      1144 2018-10-24 07:23 ansible-dotfiles-master/tasks/dependencies.yml
+-rw-rw-r-- root/root      5186 2018-10-24 07:23 ansible-dotfiles-master/tasks/dotfiles.yml
+-rw-rw-r-- root/root       220 2018-10-24 07:23 ansible-dotfiles-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:23 ansible-dotfiles-master/tests/
+-rw-rw-r-- root/root        96 2018-10-24 07:23 ansible-dotfiles-master/tests/inventory
+-rw-rw-r-- root/root       162 2018-10-24 07:23 ansible-dotfiles-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-10-24 07:23 ansible-dotfiles-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-24 07:23 ansible-dotfiles-master/tests/roles/escapace.dotfiles -> ../../
+-rw-rw-r-- root/root       207 2018-10-24 07:23 ansible-dotfiles-master/tests/teardown.yml
+-rw-rw-r-- root/root       257 2018-10-24 07:23 ansible-dotfiles-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 07:23 ansible-dotfiles-master/vars/
+-rw-rw-r-- root/root         4 2018-10-24 07:23 ansible-dotfiles-master/vars/main.yml

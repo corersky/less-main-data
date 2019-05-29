@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-11-26 07:48 ansible-localcloud-mysql-master/
+-rw-rw-r-- root/root        78 2017-11-26 07:48 ansible-localcloud-mysql-master/.gitignore
+-rw-rw-r-- root/root      1968 2017-11-26 07:48 ansible-localcloud-mysql-master/README.md
+drwxrwxr-x root/root         0 2017-11-26 07:48 ansible-localcloud-mysql-master/defaults/
+-rw-rw-r-- root/root       337 2017-11-26 07:48 ansible-localcloud-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-26 07:48 ansible-localcloud-mysql-master/handlers/
+-rw-rw-r-- root/root        65 2017-11-26 07:48 ansible-localcloud-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-26 07:48 ansible-localcloud-mysql-master/meta/
+-rw-rw-r-- root/root       517 2017-11-26 07:48 ansible-localcloud-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-26 07:48 ansible-localcloud-mysql-master/tasks/
+-rw-rw-r-- root/root      1276 2017-11-26 07:48 ansible-localcloud-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-26 07:48 ansible-localcloud-mysql-master/templates/
+-rw-rw-r-- root/root       142 2017-11-26 07:48 ansible-localcloud-mysql-master/templates/client_options.j2
+-rw-rw-r-- root/root      3768 2017-11-26 07:48 ansible-localcloud-mysql-master/templates/my.cnf.j2

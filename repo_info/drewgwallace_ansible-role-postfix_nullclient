@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-11 17:35 ansible-role-postfix_nullclient-master/
+-rw-rw-r-- root/root        66 2018-07-11 17:35 ansible-role-postfix_nullclient-master/.gitattributes
+-rw-rw-r-- root/root      1071 2018-07-11 17:35 ansible-role-postfix_nullclient-master/LICENSE
+-rw-rw-r-- root/root       781 2018-07-11 17:35 ansible-role-postfix_nullclient-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 17:35 ansible-role-postfix_nullclient-master/defaults/
+-rw-rw-r-- root/root       435 2018-07-11 17:35 ansible-role-postfix_nullclient-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-11 17:35 ansible-role-postfix_nullclient-master/files/
+drwxrwxr-x root/root         0 2018-07-11 17:35 ansible-role-postfix_nullclient-master/files/postfix/
+-rw-rw-r-- root/root       217 2018-07-11 17:35 ansible-role-postfix_nullclient-master/files/postfix/main.cf
+drwxrwxr-x root/root         0 2018-07-11 17:35 ansible-role-postfix_nullclient-master/meta/
+-rw-rw-r-- root/root       324 2018-07-11 17:35 ansible-role-postfix_nullclient-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-11 17:35 ansible-role-postfix_nullclient-master/tasks/
+-rw-rw-r-- root/root      1559 2018-07-11 17:35 ansible-role-postfix_nullclient-master/tasks/add_null_client.yml
+-rw-rw-r-- root/root       180 2018-07-11 17:35 ansible-role-postfix_nullclient-master/tasks/main.yml

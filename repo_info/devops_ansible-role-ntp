@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-04-14 04:29 ansible-role-ntp-master/
+-rwxrwxr-x root/root       644 2016-04-14 04:29 ansible-role-ntp-master/README.md
+drwxrwxr-x root/root         0 2016-04-14 04:29 ansible-role-ntp-master/defaults/
+-rwxrwxr-x root/root       184 2016-04-14 04:29 ansible-role-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-14 04:29 ansible-role-ntp-master/handlers/
+-rwxrwxr-x root/root       123 2016-04-14 04:29 ansible-role-ntp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-14 04:29 ansible-role-ntp-master/meta/
+-rwxrwxr-x root/root       270 2016-04-14 04:29 ansible-role-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-14 04:29 ansible-role-ntp-master/tasks/
+-rwxrwxr-x root/root       813 2016-04-14 04:29 ansible-role-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-14 04:29 ansible-role-ntp-master/templates/
+-rwxrwxr-x root/root       319 2016-04-14 04:29 ansible-role-ntp-master/templates/ntp.conf.j2
+drwxrwxr-x root/root         0 2016-04-14 04:29 ansible-role-ntp-master/vars/
+-rwxrwxr-x root/root        79 2016-04-14 04:29 ansible-role-ntp-master/vars/RedHat.yml
+-rwxrwxr-x root/root        60 2016-04-14 04:29 ansible-role-ntp-master/vars/main.yml

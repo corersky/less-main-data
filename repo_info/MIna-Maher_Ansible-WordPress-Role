@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-17 12:39 Ansible-WordPress-Role-master/
+-rw-rw-r-- root/root      1510 2019-01-17 12:39 Ansible-WordPress-Role-master/LICENSE
+-rw-rw-r-- root/root      1335 2019-01-17 12:39 Ansible-WordPress-Role-master/README.md
+drwxrwxr-x root/root         0 2019-01-17 12:39 Ansible-WordPress-Role-master/meta/
+-rw-rw-r-- root/root       510 2019-01-17 12:39 Ansible-WordPress-Role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-17 12:39 Ansible-WordPress-Role-master/tasks/
+-rw-rw-r-- root/root      1700 2019-01-17 12:39 Ansible-WordPress-Role-master/tasks/DataBase.yml
+-rw-rw-r-- root/root       628 2019-01-17 12:39 Ansible-WordPress-Role-master/tasks/main.yml
+-rw-rw-r-- root/root       450 2019-01-17 12:39 Ansible-WordPress-Role-master/tasks/webserver.yml
+-rw-rw-r-- root/root       662 2019-01-17 12:39 Ansible-WordPress-Role-master/tasks/wordpress.yml
+drwxrwxr-x root/root         0 2019-01-17 12:39 Ansible-WordPress-Role-master/templates/
+-rw-rw-r-- root/root      2871 2019-01-17 12:39 Ansible-WordPress-Role-master/templates/wp-config.php.j2
+drwxrwxr-x root/root         0 2019-01-17 12:39 Ansible-WordPress-Role-master/vars/
+-rw-rw-r-- root/root     12288 2019-01-17 12:39 Ansible-WordPress-Role-master/vars/.main.yml.swp
+-rw-rw-r-- root/root       242 2019-01-17 12:39 Ansible-WordPress-Role-master/vars/main.yml

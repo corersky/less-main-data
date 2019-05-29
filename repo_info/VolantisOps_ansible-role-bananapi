@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-06-17 20:14 ansible-role-bananapi-master/
+-rw-rw-r-- root/root         9 2017-06-17 20:14 ansible-role-bananapi-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-17 20:14 ansible-role-bananapi-master/LICENSE
+-rw-rw-r-- root/root       334 2017-06-17 20:14 ansible-role-bananapi-master/README.md
+drwxrwxr-x root/root         0 2017-06-17 20:14 ansible-role-bananapi-master/defaults/
+-rw-rw-r-- root/root        82 2017-06-17 20:14 ansible-role-bananapi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-17 20:14 ansible-role-bananapi-master/meta/
+-rw-rw-r-- root/root       336 2017-06-17 20:14 ansible-role-bananapi-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-17 20:14 ansible-role-bananapi-master/tasks/
+-rw-rw-r-- root/root       374 2017-06-17 20:14 ansible-role-bananapi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-17 20:14 ansible-role-bananapi-master/templates/
+-rw-rw-r-- root/root        89 2017-06-17 20:14 ansible-role-bananapi-master/templates/20-bananapi.conf.j2

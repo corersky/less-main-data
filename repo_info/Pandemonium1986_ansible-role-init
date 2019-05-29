@@ -1,0 +1,31 @@
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/
+-rw-rw-r-- root/root      1203 2019-04-22 13:27 ansible-role-init-master/.gitignore
+-rw-rw-r-- root/root      1072 2019-04-22 13:27 ansible-role-init-master/LICENSE
+-rw-rw-r-- root/root      1783 2019-04-22 13:27 ansible-role-init-master/README.md
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/defaults/
+-rw-rw-r-- root/root       268 2019-04-22 13:27 ansible-role-init-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/files/
+-rw-rw-r-- root/root      1685 2019-04-22 13:27 ansible-role-init-master/files/banner.txt
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/handlers/
+-rw-rw-r-- root/root       100 2019-04-22 13:27 ansible-role-init-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/meta/
+-rw-rw-r-- root/root       587 2019-04-22 13:27 ansible-role-init-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/molecule/
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-04-22 13:27 ansible-role-init-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       263 2019-04-22 13:27 ansible-role-init-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       266 2019-04-22 13:27 ansible-role-init-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        73 2019-04-22 13:27 ansible-role-init-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2019-04-22 13:27 ansible-role-init-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/tasks/
+-rw-rw-r-- root/root      2170 2019-04-22 13:27 ansible-role-init-master/tasks/main.yml
+-rw-rw-r-- root/root       268 2019-04-22 13:27 ansible-role-init-master/tasks/setup-CentOS.yml
+-rw-rw-r-- root/root       205 2019-04-22 13:27 ansible-role-init-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root        73 2019-04-22 13:27 ansible-role-init-master/tasks/setup-Linux Mint.yml
+-rw-rw-r-- root/root       238 2019-04-22 13:27 ansible-role-init-master/tasks/setup-Ubuntu.yml
+drwxrwxr-x root/root         0 2019-04-22 13:27 ansible-role-init-master/vars/
+-rw-rw-r-- root/root       345 2019-04-22 13:27 ansible-role-init-master/vars/CentOS-7.yml
+-rw-rw-r-- root/root       390 2019-04-22 13:27 ansible-role-init-master/vars/Debian-9.yml
+-rw-rw-r-- root/root       394 2019-04-22 13:27 ansible-role-init-master/vars/Linux Mint-19.yml
+-rw-rw-r-- root/root       391 2019-04-22 13:27 ansible-role-init-master/vars/Ubuntu-18.yml

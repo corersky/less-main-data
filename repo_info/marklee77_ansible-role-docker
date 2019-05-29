@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2017-03-05 10:23 ansible-role-docker-master/
+-rw-rw-r-- root/root        24 2017-03-05 10:23 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root        35 2017-03-05 10:23 ansible-role-docker-master/AUTHORS
+-rw-rw-r-- root/root     18025 2017-03-05 10:23 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       725 2017-03-05 10:23 ansible-role-docker-master/README.md
+-rw-rw-r-- root/root       524 2017-03-05 10:23 ansible-role-docker-master/Vagrantfile
+-rw-rw-r-- root/root       126 2017-03-05 10:23 ansible-role-docker-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-03-05 10:23 ansible-role-docker-master/inventories/
+-rw-rw-r-- root/root        35 2017-03-05 10:23 ansible-role-docker-master/inventories/local.ini
+drwxrwxr-x root/root         0 2017-03-05 10:23 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       426 2017-03-05 10:23 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-05 10:23 ansible-role-docker-master/roles/
+lrwxrwxrwx root/root         0 2017-03-05 10:23 ansible-role-docker-master/roles/docker -> ..
+-rw-rw-r-- root/root        54 2017-03-05 10:23 ansible-role-docker-master/site.yml
+drwxrwxr-x root/root         0 2017-03-05 10:23 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root      2398 2017-03-05 10:23 ansible-role-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       557 2017-03-05 10:23 ansible-role-docker-master/tasks/reboot.yml
+-rw-rw-r-- root/root       940 2017-03-05 10:23 ansible-role-docker-master/tasks/ubuntu.yml
+-rw-rw-r-- root/root       257 2017-03-05 10:23 ansible-role-docker-master/test.yml
+drwxrwxr-x root/root         0 2017-03-05 10:23 ansible-role-docker-master/vars/
+-rw-rw-r-- root/root       178 2017-03-05 10:23 ansible-role-docker-master/vars/centos-6.yml
+-rw-rw-r-- root/root       172 2017-03-05 10:23 ansible-role-docker-master/vars/centos-7.yml
+-rw-rw-r-- root/root       374 2017-03-05 10:23 ansible-role-docker-master/vars/debian.yml
+-rw-rw-r-- root/root       129 2017-03-05 10:23 ansible-role-docker-master/vars/fedora-20.yml
+-rw-rw-r-- root/root       126 2017-03-05 10:23 ansible-role-docker-master/vars/redhat.yml

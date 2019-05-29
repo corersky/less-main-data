@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-29 14:22 hw-diff-master/
+-rw-rw-r-- root/root       755 2017-06-29 14:22 hw-diff-master/README.md
+drwxrwxr-x root/root         0 2017-06-29 14:22 hw-diff-master/defaults/
+-rw-rw-r-- root/root       537 2017-06-29 14:22 hw-diff-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-29 14:22 hw-diff-master/handlers/
+-rw-rw-r-- root/root        31 2017-06-29 14:22 hw-diff-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-29 14:22 hw-diff-master/meta/
+-rw-rw-r-- root/root      1603 2017-06-29 14:22 hw-diff-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-29 14:22 hw-diff-master/tasks/
+-rw-rw-r-- root/root      3196 2017-06-29 14:22 hw-diff-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-29 14:22 hw-diff-master/templates/
+-rw-rw-r-- root/root        63 2017-06-29 14:22 hw-diff-master/templates/hw-diff.json.j2
+drwxrwxr-x root/root         0 2017-06-29 14:22 hw-diff-master/tests/
+-rw-rw-r-- root/root        11 2017-06-29 14:22 hw-diff-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-06-29 14:22 hw-diff-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-29 14:22 hw-diff-master/vars/
+-rw-rw-r-- root/root        27 2017-06-29 14:22 hw-diff-master/vars/main.yml

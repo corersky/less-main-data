@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-05 02:46 roundcube-master/
+-rw-rw-r-- root/root     20133 2019-02-05 02:46 roundcube-master/LICENSE
+-rw-rw-r-- root/root     14635 2019-02-05 02:46 roundcube-master/README.md
+drwxrwxr-x root/root         0 2019-02-05 02:46 roundcube-master/defaults/
+-rwxrwxr-x root/root      1251 2019-02-05 02:46 roundcube-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-05 02:46 roundcube-master/meta/
+-rw-rw-r-- root/root       413 2019-02-05 02:46 roundcube-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-05 02:46 roundcube-master/tasks/
+-rwxrwxr-x root/root       220 2019-02-05 02:46 roundcube-master/tasks/configure.yml
+-rwxrwxr-x root/root       906 2019-02-05 02:46 roundcube-master/tasks/database.yml
+-rwxrwxr-x root/root      3151 2019-02-05 02:46 roundcube-master/tasks/install.yml
+-rw-rw-r-- root/root       186 2019-02-05 02:46 roundcube-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-05 02:46 roundcube-master/templates/
+-rwxrwxr-x root/root      5154 2019-02-05 02:46 roundcube-master/templates/config.inc.php
+drwxrwxr-x root/root         0 2019-02-05 02:46 roundcube-master/vars/
+-rw-rw-r-- root/root       105 2019-02-05 02:46 roundcube-master/vars/main.yml

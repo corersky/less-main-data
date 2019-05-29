@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-20 15:37 apb-xss-master/
+-rw-rw-r-- root/root       178 2018-08-20 15:37 apb-xss-master/Dockerfile
+-rw-rw-r-- root/root       401 2018-08-20 15:37 apb-xss-master/Makefile
+-rw-rw-r-- root/root       727 2018-08-20 15:37 apb-xss-master/apb.yml
+drwxrwxr-x root/root         0 2018-08-20 15:37 apb-xss-master/playbooks/
+-rw-rw-r-- root/root       298 2018-08-20 15:37 apb-xss-master/playbooks/deprovision.yml
+-rw-rw-r-- root/root       294 2018-08-20 15:37 apb-xss-master/playbooks/provision.yml
+drwxrwxr-x root/root         0 2018-08-20 15:37 apb-xss-master/roles/
+drwxrwxr-x root/root         0 2018-08-20 15:37 apb-xss-master/roles/deprovision-apb-xss/
+drwxrwxr-x root/root         0 2018-08-20 15:37 apb-xss-master/roles/deprovision-apb-xss/tasks/
+-rw-rw-r-- root/root      1382 2018-08-20 15:37 apb-xss-master/roles/deprovision-apb-xss/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-20 15:37 apb-xss-master/roles/provision-apb-xss/
+drwxrwxr-x root/root         0 2018-08-20 15:37 apb-xss-master/roles/provision-apb-xss/tasks/
+-rw-rw-r-- root/root      2816 2018-08-20 15:37 apb-xss-master/roles/provision-apb-xss/tasks/main.yml

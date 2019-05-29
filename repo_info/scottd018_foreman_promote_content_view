@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-30 20:57 foreman_promote_content_view-master/
+-rw-rw-r-- root/root        38 2018-10-30 20:57 foreman_promote_content_view-master/.gitignore
+-rw-rw-r-- root/root     35149 2018-10-30 20:57 foreman_promote_content_view-master/LICENSE
+-rw-rw-r-- root/root      2299 2018-10-30 20:57 foreman_promote_content_view-master/README.md
+drwxrwxr-x root/root         0 2018-10-30 20:57 foreman_promote_content_view-master/defaults/
+-rw-rw-r-- root/root       155 2018-10-30 20:57 foreman_promote_content_view-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-30 20:57 foreman_promote_content_view-master/meta/
+-rw-rw-r-- root/root       334 2018-10-30 20:57 foreman_promote_content_view-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-30 20:57 foreman_promote_content_view-master/tasks/
+-rw-rw-r-- root/root       719 2018-10-30 20:57 foreman_promote_content_view-master/tasks/get_satellite_object.yml
+-rw-rw-r-- root/root       969 2018-10-30 20:57 foreman_promote_content_view-master/tasks/main.yml
+-rw-rw-r-- root/root      1305 2018-10-30 20:57 foreman_promote_content_view-master/tasks/promote_content_view.yml
+-rw-rw-r-- root/root       742 2018-10-30 20:57 foreman_promote_content_view-master/tasks/wait_for_task_completion.yml

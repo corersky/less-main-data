@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-09-11 07:29 playbook_test_framework-master/
+-rw-rw-r-- root/root         7 2016-09-11 07:29 playbook_test_framework-master/.gitignore
+-rw-rw-r-- root/root      1082 2016-09-11 07:29 playbook_test_framework-master/LICENSE
+-rw-rw-r-- root/root      4619 2016-09-11 07:29 playbook_test_framework-master/README.md
+-rw-rw-r-- root/root        28 2016-09-11 07:29 playbook_test_framework-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-09-11 07:29 playbook_test_framework-master/meta/
+-rw-rw-r-- root/root       797 2016-09-11 07:29 playbook_test_framework-master/meta/main.yml
+-rw-rw-r-- root/root       187 2016-09-11 07:29 playbook_test_framework-master/requirements.yml
+drwxrwxr-x root/root         0 2016-09-11 07:29 playbook_test_framework-master/sample/
+-rw-rw-r-- root/root       578 2016-09-11 07:29 playbook_test_framework-master/sample/applicationX_proxy_servers_test.yml
+-rw-rw-r-- root/root       398 2016-09-11 07:29 playbook_test_framework-master/sample/dev-machines_test.yml
+-rwxrwxr-x root/root       313 2016-09-11 07:29 playbook_test_framework-master/sample/sample-test.sh

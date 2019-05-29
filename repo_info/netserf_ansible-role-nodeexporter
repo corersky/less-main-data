@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-10 12:01 ansible-role-nodeexporter-master/
+-rw-rw-r-- root/root        44 2018-04-10 12:01 ansible-role-nodeexporter-master/.gitignore
+-rw-rw-r-- root/root      1384 2018-04-10 12:01 ansible-role-nodeexporter-master/README.md
+drwxrwxr-x root/root         0 2018-04-10 12:01 ansible-role-nodeexporter-master/defaults/
+-rw-rw-r-- root/root       185 2018-04-10 12:01 ansible-role-nodeexporter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-10 12:01 ansible-role-nodeexporter-master/files/
+-rwxrwxr-x root/root   5278094 2018-04-10 12:01 ansible-role-nodeexporter-master/files/node_exporter-0.15.2.linux-amd64.tar.gz
+-rwxrwxr-x root/root      1693 2018-04-10 12:01 ansible-role-nodeexporter-master/files/node_exporter.sh
+drwxrwxr-x root/root         0 2018-04-10 12:01 ansible-role-nodeexporter-master/handlers/
+-rw-rw-r-- root/root        49 2018-04-10 12:01 ansible-role-nodeexporter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-10 12:01 ansible-role-nodeexporter-master/meta/
+-rw-rw-r-- root/root       446 2018-04-10 12:01 ansible-role-nodeexporter-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-10 12:01 ansible-role-nodeexporter-master/tasks/
+-rw-rw-r-- root/root      2423 2018-04-10 12:01 ansible-role-nodeexporter-master/tasks/main.yml
+-rw-rw-r-- root/root       203 2018-04-10 12:01 ansible-role-nodeexporter-master/test.yml
+drwxrwxr-x root/root         0 2018-04-10 12:01 ansible-role-nodeexporter-master/vars/
+-rw-rw-r-- root/root        45 2018-04-10 12:01 ansible-role-nodeexporter-master/vars/main.yml

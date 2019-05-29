@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-07 09:16 ansible-role-deploy-archive-master/
+-rw-rw-r-- root/root        10 2019-03-07 09:16 ansible-role-deploy-archive-master/.gitignore
+-rw-rw-r-- root/root       215 2019-03-07 09:16 ansible-role-deploy-archive-master/.travis.yml
+-rw-rw-r-- root/root      1493 2019-03-07 09:16 ansible-role-deploy-archive-master/README.md
+drwxrwxr-x root/root         0 2019-03-07 09:16 ansible-role-deploy-archive-master/defaults/
+-rw-rw-r-- root/root       692 2019-03-07 09:16 ansible-role-deploy-archive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-07 09:16 ansible-role-deploy-archive-master/meta/
+-rw-rw-r-- root/root       346 2019-03-07 09:16 ansible-role-deploy-archive-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-07 09:16 ansible-role-deploy-archive-master/molecule/
+drwxrwxr-x root/root         0 2019-03-07 09:16 ansible-role-deploy-archive-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-03-07 09:16 ansible-role-deploy-archive-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       349 2019-03-07 09:16 ansible-role-deploy-archive-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       775 2019-03-07 09:16 ansible-role-deploy-archive-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-03-07 09:16 ansible-role-deploy-archive-master/molecule/default/tests/
+-rw-rw-r-- root/root       836 2019-03-07 09:16 ansible-role-deploy-archive-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2019-03-07 09:16 ansible-role-deploy-archive-master/tasks/
+-rw-rw-r-- root/root      1215 2019-03-07 09:16 ansible-role-deploy-archive-master/tasks/main.yml

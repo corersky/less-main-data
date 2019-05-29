@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-03 16:52 ansible-role-golang-master/
+-rw-rw-r-- root/root       471 2019-02-03 16:52 ansible-role-golang-master/.travis.yml
+-rw-rw-r-- root/root      1068 2019-02-03 16:52 ansible-role-golang-master/LICENSE
+-rw-rw-r-- root/root       810 2019-02-03 16:52 ansible-role-golang-master/README.md
+drwxrwxr-x root/root         0 2019-02-03 16:52 ansible-role-golang-master/defaults/
+-rw-rw-r-- root/root       260 2019-02-03 16:52 ansible-role-golang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-03 16:52 ansible-role-golang-master/meta/
+-rw-rw-r-- root/root       458 2019-02-03 16:52 ansible-role-golang-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-03 16:52 ansible-role-golang-master/tasks/
+-rw-rw-r-- root/root      2051 2019-02-03 16:52 ansible-role-golang-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-03 16:52 ansible-role-golang-master/templates/
+-rw-rw-r-- root/root        64 2019-02-03 16:52 ansible-role-golang-master/templates/golang.sh
+drwxrwxr-x root/root         0 2019-02-03 16:52 ansible-role-golang-master/tests/
+-rw-rw-r-- root/root        10 2019-02-03 16:52 ansible-role-golang-master/tests/inventory
+-rw-rw-r-- root/root       693 2019-02-03 16:52 ansible-role-golang-master/tests/test_on_travis.yml
+drwxrwxr-x root/root         0 2019-02-03 16:52 ansible-role-golang-master/vars/
+-rw-rw-r-- root/root      2848 2019-02-03 16:52 ansible-role-golang-master/vars/main.yml

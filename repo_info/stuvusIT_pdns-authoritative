@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-02 18:54 pdns-authoritative-master/
+-rw-rw-r-- root/root     22240 2018-12-02 18:54 pdns-authoritative-master/LICENSE
+-rw-rw-r-- root/root      1910 2018-12-02 18:54 pdns-authoritative-master/README.md
+drwxrwxr-x root/root         0 2018-12-02 18:54 pdns-authoritative-master/defaults/
+-rw-rw-r-- root/root       256 2018-12-02 18:54 pdns-authoritative-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-02 18:54 pdns-authoritative-master/handlers/
+-rw-rw-r-- root/root       144 2018-12-02 18:54 pdns-authoritative-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-02 18:54 pdns-authoritative-master/meta/
+-rw-rw-r-- root/root       424 2018-12-02 18:54 pdns-authoritative-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-02 18:54 pdns-authoritative-master/tasks/
+-rw-rw-r-- root/root      1415 2018-12-02 18:54 pdns-authoritative-master/tasks/database.yml
+-rw-rw-r-- root/root      1796 2018-12-02 18:54 pdns-authoritative-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-02 18:54 pdns-authoritative-master/templates/
+-rw-rw-r-- root/root       272 2018-12-02 18:54 pdns-authoritative-master/templates/pdns-chroot-resolv.conf.j2
+-rw-rw-r-- root/root        96 2018-12-02 18:54 pdns-authoritative-master/templates/pdns.conf.j2

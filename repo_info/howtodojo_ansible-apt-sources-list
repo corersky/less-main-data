@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-02 19:29 ansible-apt-sources-list-master/
+-rw-rw-r-- root/root       539 2017-10-02 19:29 ansible-apt-sources-list-master/.travis.yml
+-rw-rw-r-- root/root      1070 2017-10-02 19:29 ansible-apt-sources-list-master/LICENSE
+-rw-rw-r-- root/root       467 2017-10-02 19:29 ansible-apt-sources-list-master/README.md
+drwxrwxr-x root/root         0 2017-10-02 19:29 ansible-apt-sources-list-master/defaults/
+-rw-rw-r-- root/root       124 2017-10-02 19:29 ansible-apt-sources-list-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-02 19:29 ansible-apt-sources-list-master/meta/
+-rw-rw-r-- root/root       278 2017-10-02 19:29 ansible-apt-sources-list-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-02 19:29 ansible-apt-sources-list-master/tasks/
+-rw-rw-r-- root/root        46 2017-10-02 19:29 ansible-apt-sources-list-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-02 19:29 ansible-apt-sources-list-master/templates/
+-rw-rw-r-- root/root      3911 2017-10-02 19:29 ansible-apt-sources-list-master/templates/apt-sources-list.j2
+drwxrwxr-x root/root         0 2017-10-02 19:29 ansible-apt-sources-list-master/tests/
+-rw-rw-r-- root/root         9 2017-10-02 19:29 ansible-apt-sources-list-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-10-02 19:29 ansible-apt-sources-list-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-02 19:29 ansible-apt-sources-list-master/vars/
+-rw-rw-r-- root/root        45 2017-10-02 19:29 ansible-apt-sources-list-master/vars/main.yml

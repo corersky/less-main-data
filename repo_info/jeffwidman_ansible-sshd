@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-03-03 04:31 ansible-sshd-master/
+-rw-rw-r-- root/root       815 2016-03-03 04:31 ansible-sshd-master/.gitignore
+-rw-rw-r-- root/root      1079 2016-03-03 04:31 ansible-sshd-master/LICENSE
+-rw-rw-r-- root/root      1320 2016-03-03 04:31 ansible-sshd-master/README.md
+drwxrwxr-x root/root         0 2016-03-03 04:31 ansible-sshd-master/defaults/
+-rw-rw-r-- root/root       719 2016-03-03 04:31 ansible-sshd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-03 04:31 ansible-sshd-master/handlers/
+-rw-rw-r-- root/root        88 2016-03-03 04:31 ansible-sshd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-03 04:31 ansible-sshd-master/meta/
+-rw-rw-r-- root/root       432 2016-03-03 04:31 ansible-sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-03 04:31 ansible-sshd-master/tasks/
+-rw-rw-r-- root/root      1530 2016-03-03 04:31 ansible-sshd-master/tasks/main.yml

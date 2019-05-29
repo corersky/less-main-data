@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/
+-rw-rw-r-- root/root        95 2016-04-18 12:55 ansible-beaver-master/.gitignore
+-rw-rw-r-- root/root       474 2016-04-18 12:55 ansible-beaver-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-04-18 12:55 ansible-beaver-master/LICENSE
+-rw-rw-r-- root/root      1865 2016-04-18 12:55 ansible-beaver-master/README.md
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/defaults/
+-rw-rw-r-- root/root       293 2016-04-18 12:55 ansible-beaver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/examples/
+-rw-rw-r-- root/root       719 2016-04-18 12:55 ansible-beaver-master/examples/Vagrantfile
+-rw-rw-r-- root/root       112 2016-04-18 12:55 ansible-beaver-master/examples/roles.yml
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-04-18 12:55 ansible-beaver-master/examples/roles/azavea.beaver -> ../../
+-rw-rw-r-- root/root       735 2016-04-18 12:55 ansible-beaver-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/examples/templates/
+-rw-rw-r-- root/root       145 2016-04-18 12:55 ansible-beaver-master/examples/templates/logstash.conf.j2
+-rw-rw-r-- root/root        51 2016-04-18 12:55 ansible-beaver-master/examples/templates/syslog.j2
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/handlers/
+-rw-rw-r-- root/root        66 2016-04-18 12:55 ansible-beaver-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/meta/
+-rw-rw-r-- root/root       301 2016-04-18 12:55 ansible-beaver-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/tasks/
+-rw-rw-r-- root/root       920 2016-04-18 12:55 ansible-beaver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-18 12:55 ansible-beaver-master/templates/
+-rw-rw-r-- root/root       251 2016-04-18 12:55 ansible-beaver-master/templates/beaver.conf.j2
+-rw-rw-r-- root/root       137 2016-04-18 12:55 ansible-beaver-master/templates/beaver.j2
+-rw-rw-r-- root/root       131 2016-04-18 12:55 ansible-beaver-master/templates/logrotate_beaver.j2

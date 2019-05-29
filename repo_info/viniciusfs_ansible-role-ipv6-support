@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-02-13 19:13 ansible-role-ipv6-support-master/
+-rw-rw-r-- root/root        35 2017-02-13 19:13 ansible-role-ipv6-support-master/.gitignore
+-rw-rw-r-- root/root       347 2017-02-13 19:13 ansible-role-ipv6-support-master/.travis.yml
+-rw-rw-r-- root/root       556 2017-02-13 19:13 ansible-role-ipv6-support-master/README.md
+drwxrwxr-x root/root         0 2017-02-13 19:13 ansible-role-ipv6-support-master/defaults/
+-rw-rw-r-- root/root        24 2017-02-13 19:13 ansible-role-ipv6-support-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-13 19:13 ansible-role-ipv6-support-master/meta/
+-rw-rw-r-- root/root       230 2017-02-13 19:13 ansible-role-ipv6-support-master/meta/main.yml
+-rw-rw-r-- root/root       488 2017-02-13 19:13 ansible-role-ipv6-support-master/molecule.yml
+drwxrwxr-x root/root         0 2017-02-13 19:13 ansible-role-ipv6-support-master/tasks/
+-rw-rw-r-- root/root       240 2017-02-13 19:13 ansible-role-ipv6-support-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-13 19:13 ansible-role-ipv6-support-master/tests/
+-rw-rw-r-- root/root        64 2017-02-13 19:13 ansible-role-ipv6-support-master/tests/playbook.yml
+-rw-rw-r-- root/root       546 2017-02-13 19:13 ansible-role-ipv6-support-master/tests/test_default.py

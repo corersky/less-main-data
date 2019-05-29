@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-30 03:24 ansible-csf-master/
+-rw-rw-r-- root/root      1328 2017-05-30 03:24 ansible-csf-master/README.md
+drwxrwxr-x root/root         0 2017-05-30 03:24 ansible-csf-master/defaults/
+-rw-rw-r-- root/root        27 2017-05-30 03:24 ansible-csf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-30 03:24 ansible-csf-master/files/
+-rw-rw-r-- root/root       125 2017-05-30 03:24 ansible-csf-master/files/csf-script.sh
+drwxrwxr-x root/root         0 2017-05-30 03:24 ansible-csf-master/handlers/
+-rw-rw-r-- root/root        27 2017-05-30 03:24 ansible-csf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-30 03:24 ansible-csf-master/meta/
+-rw-rw-r-- root/root      1777 2017-05-30 03:24 ansible-csf-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-30 03:24 ansible-csf-master/tasks/
+-rw-rw-r-- root/root       354 2017-05-30 03:24 ansible-csf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-30 03:24 ansible-csf-master/tests/
+-rw-rw-r-- root/root        11 2017-05-30 03:24 ansible-csf-master/tests/inventory
+-rw-rw-r-- root/root        61 2017-05-30 03:24 ansible-csf-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-30 03:24 ansible-csf-master/vars/
+-rw-rw-r-- root/root        23 2017-05-30 03:24 ansible-csf-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-22 01:58 ansible-role-vsts-agent-master/
+-rw-rw-r-- root/root       913 2018-02-22 01:58 ansible-role-vsts-agent-master/.travis.yml
+-rw-rw-r-- root/root      1116 2018-02-22 01:58 ansible-role-vsts-agent-master/LICENSE
+-rw-rw-r-- root/root      1217 2018-02-22 01:58 ansible-role-vsts-agent-master/README.md
+drwxrwxr-x root/root         0 2018-02-22 01:58 ansible-role-vsts-agent-master/defaults/
+-rw-rw-r-- root/root      1021 2018-02-22 01:58 ansible-role-vsts-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-22 01:58 ansible-role-vsts-agent-master/handlers/
+-rw-rw-r-- root/root        34 2018-02-22 01:58 ansible-role-vsts-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-22 01:58 ansible-role-vsts-agent-master/meta/
+-rw-rw-r-- root/root       240 2018-02-22 01:58 ansible-role-vsts-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-22 01:58 ansible-role-vsts-agent-master/tasks/
+-rw-rw-r-- root/root      3823 2018-02-22 01:58 ansible-role-vsts-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-22 01:58 ansible-role-vsts-agent-master/tests/
+-rw-rw-r-- root/root        11 2018-02-22 01:58 ansible-role-vsts-agent-master/tests/inventory
+-rw-rw-r-- root/root       116 2018-02-22 01:58 ansible-role-vsts-agent-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-22 01:58 ansible-role-vsts-agent-master/vars/
+-rw-rw-r-- root/root        30 2018-02-22 01:58 ansible-role-vsts-agent-master/vars/main.yml

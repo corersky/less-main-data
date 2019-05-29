@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-11 17:50 ansible-cronjob-master/
+-rw-rw-r-- root/root         7 2019-01-11 17:50 ansible-cronjob-master/.gitignore
+-rw-rw-r-- root/root       869 2019-01-11 17:50 ansible-cronjob-master/.travis.yml
+-rw-rw-r-- root/root      1065 2019-01-11 17:50 ansible-cronjob-master/LICENSE
+-rw-rw-r-- root/root       790 2019-01-11 17:50 ansible-cronjob-master/README.md
+-rw-rw-r-- root/root        27 2019-01-11 17:50 ansible-cronjob-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-01-11 17:50 ansible-cronjob-master/defaults/
+-rw-rw-r-- root/root        17 2019-01-11 17:50 ansible-cronjob-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:50 ansible-cronjob-master/meta/
+-rw-rw-r-- root/root       341 2019-01-11 17:50 ansible-cronjob-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:50 ansible-cronjob-master/tasks/
+-rw-rw-r-- root/root       448 2019-01-11 17:50 ansible-cronjob-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:50 ansible-cronjob-master/tests/
+-rw-rw-r-- root/root         9 2019-01-11 17:50 ansible-cronjob-master/tests/inventory
+-rw-rw-r-- root/root        73 2019-01-11 17:50 ansible-cronjob-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-20 07:27 ansible-docker-master/
+-rw-rw-r-- root/root        10 2017-02-20 07:27 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root       707 2017-02-20 07:27 ansible-docker-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-02-20 07:27 ansible-docker-master/LICENSE
+-rw-rw-r-- root/root       541 2017-02-20 07:27 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2017-02-20 07:27 ansible-docker-master/defaults/
+-rw-rw-r-- root/root       453 2017-02-20 07:27 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-20 07:27 ansible-docker-master/handlers/
+-rw-rw-r-- root/root       311 2017-02-20 07:27 ansible-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-20 07:27 ansible-docker-master/meta/
+-rw-rw-r-- root/root       267 2017-02-20 07:27 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-20 07:27 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       930 2017-02-20 07:27 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-20 07:27 ansible-docker-master/templates/
+-rw-rw-r-- root/root       344 2017-02-20 07:27 ansible-docker-master/templates/docker.j2
+drwxrwxr-x root/root         0 2017-02-20 07:27 ansible-docker-master/tests/
+-rw-rw-r-- root/root        62 2017-02-20 07:27 ansible-docker-master/tests/role.yml

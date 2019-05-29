@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-28 13:33 adagios-master/
+-rw-rw-r-- root/root       427 2017-12-28 13:33 adagios-master/README.md
+drwxrwxr-x root/root         0 2017-12-28 13:33 adagios-master/meta/
+-rw-rw-r-- root/root       300 2017-12-28 13:33 adagios-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-28 13:33 adagios-master/tasks/
+-rw-rw-r-- root/root       970 2017-12-28 13:33 adagios-master/tasks/filesandfolders.yml
+-rw-rw-r-- root/root       259 2017-12-28 13:33 adagios-master/tasks/git.yml
+-rw-rw-r-- root/root       170 2017-12-28 13:33 adagios-master/tasks/main.yml
+-rw-rw-r-- root/root      3219 2017-12-28 13:33 adagios-master/tasks/naemon.yml
+-rw-rw-r-- root/root       833 2017-12-28 13:33 adagios-master/tasks/repo.yml
+drwxrwxr-x root/root         0 2017-12-28 13:33 adagios-master/templates/
+-rw-rw-r-- root/root      1170 2017-12-28 13:33 adagios-master/templates/sedcommands.sh
+-rw-rw-r-- root/root       303 2017-12-28 13:33 adagios-master/templates/sudoers.d-adagios.yml

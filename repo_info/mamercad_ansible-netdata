@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-31 18:50 ansible-netdata-master/
+-rw-rw-r-- root/root       539 2016-03-31 18:50 ansible-netdata-master/.travis.yml
+-rw-rw-r-- root/root       369 2016-03-31 18:50 ansible-netdata-master/README.md
+drwxrwxr-x root/root         0 2016-03-31 18:50 ansible-netdata-master/defaults/
+-rw-rw-r-- root/root        40 2016-03-31 18:50 ansible-netdata-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-31 18:50 ansible-netdata-master/handlers/
+-rw-rw-r-- root/root        40 2016-03-31 18:50 ansible-netdata-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-31 18:50 ansible-netdata-master/meta/
+-rw-rw-r-- root/root      3014 2016-03-31 18:50 ansible-netdata-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-31 18:50 ansible-netdata-master/tasks/
+-rw-rw-r-- root/root      1785 2016-03-31 18:50 ansible-netdata-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-31 18:50 ansible-netdata-master/tests/
+-rw-rw-r-- root/root         9 2016-03-31 18:50 ansible-netdata-master/tests/inventory
+-rw-rw-r-- root/root        73 2016-03-31 18:50 ansible-netdata-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-31 18:50 ansible-netdata-master/vars/
+-rw-rw-r-- root/root       504 2016-03-31 18:50 ansible-netdata-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-28 16:52 robilou.nginx-master/
+-rw-rw-r-- root/root      1328 2015-10-28 16:52 robilou.nginx-master/README.md
+drwxrwxr-x root/root         0 2015-10-28 16:52 robilou.nginx-master/defaults/
+-rw-rw-r-- root/root       452 2015-10-28 16:52 robilou.nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-28 16:52 robilou.nginx-master/handlers/
+-rw-rw-r-- root/root       160 2015-10-28 16:52 robilou.nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-28 16:52 robilou.nginx-master/meta/
+-rw-rw-r-- root/root       936 2015-10-28 16:52 robilou.nginx-master/meta/main.yml
+-rw-rw-r-- root/root        95 2015-10-28 16:52 robilou.nginx-master/nginx.yml
+drwxrwxr-x root/root         0 2015-10-28 16:52 robilou.nginx-master/tasks/
+-rw-rw-r-- root/root      1128 2015-10-28 16:52 robilou.nginx-master/tasks/main.yml
+-rw-rw-r-- root/root       132 2015-10-28 16:52 robilou.nginx-master/tasks/zfs.yml
+drwxrwxr-x root/root         0 2015-10-28 16:52 robilou.nginx-master/templates/
+-rw-rw-r-- root/root       697 2015-10-28 16:52 robilou.nginx-master/templates/default.conf.j2
+-rw-rw-r-- root/root      1130 2015-10-28 16:52 robilou.nginx-master/templates/nginx.conf.j2
+drwxrwxr-x root/root         0 2015-10-28 16:52 robilou.nginx-master/vars/
+-rw-rw-r-- root/root        26 2015-10-28 16:52 robilou.nginx-master/vars/main.yml

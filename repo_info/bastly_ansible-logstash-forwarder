@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-02-24 06:54 ansible-logstash-forwarder-master/
+-rw-rw-r-- root/root      1328 2015-02-24 06:54 ansible-logstash-forwarder-master/README.md
+drwxrwxr-x root/root         0 2015-02-24 06:54 ansible-logstash-forwarder-master/defaults/
+-rw-rw-r-- root/root       374 2015-02-24 06:54 ansible-logstash-forwarder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-24 06:54 ansible-logstash-forwarder-master/handlers/
+-rw-rw-r-- root/root        90 2015-02-24 06:54 ansible-logstash-forwarder-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-24 06:54 ansible-logstash-forwarder-master/meta/
+-rw-rw-r-- root/root       417 2015-02-24 06:54 ansible-logstash-forwarder-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-24 06:54 ansible-logstash-forwarder-master/tasks/
+-rw-rw-r-- root/root      2456 2015-02-24 06:54 ansible-logstash-forwarder-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-24 06:54 ansible-logstash-forwarder-master/templates/
+-rw-rw-r-- root/root       289 2015-02-24 06:54 ansible-logstash-forwarder-master/templates/logstash-forwarder.j2
+drwxrwxr-x root/root         0 2015-02-24 06:54 ansible-logstash-forwarder-master/vars/
+-rw-rw-r-- root/root        52 2015-02-24 06:54 ansible-logstash-forwarder-master/vars/main.yml

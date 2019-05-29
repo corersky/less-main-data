@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-03 18:04 ansible-dripstat-infra-role-master/
+-rw-rw-r-- root/root        15 2018-08-03 18:04 ansible-dripstat-infra-role-master/.gitignore
+-rw-rw-r-- root/root       546 2018-08-03 18:04 ansible-dripstat-infra-role-master/README.md
+drwxrwxr-x root/root         0 2018-08-03 18:04 ansible-dripstat-infra-role-master/meta/
+-rw-rw-r-- root/root       410 2018-08-03 18:04 ansible-dripstat-infra-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-03 18:04 ansible-dripstat-infra-role-master/tasks/
+-rw-rw-r-- root/root       639 2018-08-03 18:04 ansible-dripstat-infra-role-master/tasks/debian.yaml
+-rw-rw-r-- root/root       239 2018-08-03 18:04 ansible-dripstat-infra-role-master/tasks/main.yaml
+-rw-rw-r-- root/root       776 2018-08-03 18:04 ansible-dripstat-infra-role-master/tasks/redhat.yaml
+drwxrwxr-x root/root         0 2018-08-03 18:04 ansible-dripstat-infra-role-master/templates/
+-rw-rw-r-- root/root        42 2018-08-03 18:04 ansible-dripstat-infra-role-master/templates/config.toml.j2
+drwxrwxr-x root/root         0 2018-08-03 18:04 ansible-dripstat-infra-role-master/vars/
+-rw-rw-r-- root/root       390 2018-08-03 18:04 ansible-dripstat-infra-role-master/vars/debian.yaml
+-rw-rw-r-- root/root       259 2018-08-03 18:04 ansible-dripstat-infra-role-master/vars/redhat.yaml

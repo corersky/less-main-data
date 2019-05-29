@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-17 04:26 ansible-module-openshift-master/
+-rw-rw-r-- root/root     11404 2019-05-17 04:26 ansible-module-openshift-master/LICENSE
+-rw-rw-r-- root/root      2259 2019-05-17 04:26 ansible-module-openshift-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 04:26 ansible-module-openshift-master/action_plugins/
+-rw-rw-r-- root/root      8162 2019-05-17 04:26 ansible-module-openshift-master/action_plugins/openshift.py
+-rw-rw-r-- root/root      7864 2019-05-17 04:26 ansible-module-openshift-master/action_plugins/openshift_imagestream.py
+drwxrwxr-x root/root         0 2019-05-17 04:26 ansible-module-openshift-master/library/
+-rw-rw-r-- root/root     11031 2019-05-17 04:26 ansible-module-openshift-master/library/_openshift.py
+drwxrwxr-x root/root         0 2019-05-17 04:26 ansible-module-openshift-master/meta/
+-rw-rw-r-- root/root       323 2019-05-17 04:26 ansible-module-openshift-master/meta/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-04-04 13:04 rvm-master/
+-rw-rw-r-- root/root      1263 2016-04-04 13:04 rvm-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-04-04 13:04 rvm-master/README.md
+drwxrwxr-x root/root         0 2016-04-04 13:04 rvm-master/defaults/
+-rw-rw-r-- root/root        28 2016-04-04 13:04 rvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-04 13:04 rvm-master/handlers/
+-rw-rw-r-- root/root       121 2016-04-04 13:04 rvm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-04 13:04 rvm-master/meta/
+-rw-rw-r-- root/root      3172 2016-04-04 13:04 rvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-04 13:04 rvm-master/tasks/
+-rw-rw-r-- root/root       548 2016-04-04 13:04 rvm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-04 13:04 rvm-master/tests/
+-rw-rw-r-- root/root         9 2016-04-04 13:04 rvm-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-04-04 13:04 rvm-master/tests/setup.yml
+-rw-rw-r-- root/root        62 2016-04-04 13:04 rvm-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-04-04 13:04 rvm-master/vars/
+-rw-rw-r-- root/root        72 2016-04-04 13:04 rvm-master/vars/main.yml

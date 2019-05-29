@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/
+-rw-rw-r-- root/root       549 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/.travis.yml
+-rw-rw-r-- root/root        95 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/GITHUB
+-rw-rw-r-- root/root      1437 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/README.md
+drwxrwxr-x root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/defaults/
+-rw-rw-r-- root/root       110 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/demo/
+-rw-rw-r-- root/root       290 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/demo/docker-unprovisionning.yml
+drwxrwxr-x root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/demo/inventory/
+drwxrwxr-x root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/demo/inventory/docker/
+-rw-rw-r-- root/root       101 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/demo/inventory/docker/000_hosts
+drwxrwxr-x root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/demo/roles/
+lrwxrwxrwx root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/demo/roles/arnaudblancher.docker_unprovisionning -> ../../../arnaudblancher.docker_unprovisionning
+drwxrwxr-x root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/meta/
+-rw-rw-r-- root/root       594 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/tasks/
+-rw-rw-r-- root/root       352 2016-09-11 17:11 ansible-role-docker_unprovisionning-master/tasks/main.yml

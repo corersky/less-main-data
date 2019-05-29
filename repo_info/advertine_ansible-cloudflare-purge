@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-08-02 12:42 ansible-cloudflare-purge-master/
+-rw-rw-r-- root/root      1326 2015-08-02 12:42 ansible-cloudflare-purge-master/README.md
+drwxrwxr-x root/root         0 2015-08-02 12:42 ansible-cloudflare-purge-master/defaults/
+-rw-rw-r-- root/root       272 2015-08-02 12:42 ansible-cloudflare-purge-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-02 12:42 ansible-cloudflare-purge-master/files/
+-rw-rw-r-- root/root        57 2015-08-02 12:42 ansible-cloudflare-purge-master/files/urls.yml
+drwxrwxr-x root/root         0 2015-08-02 12:42 ansible-cloudflare-purge-master/handlers/
+-rw-rw-r-- root/root        49 2015-08-02 12:42 ansible-cloudflare-purge-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-02 12:42 ansible-cloudflare-purge-master/meta/
+-rw-rw-r-- root/root       241 2015-08-02 12:42 ansible-cloudflare-purge-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-02 12:42 ansible-cloudflare-purge-master/tasks/
+-rw-rw-r-- root/root       516 2015-08-02 12:42 ansible-cloudflare-purge-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-02 12:42 ansible-cloudflare-purge-master/vars/
+-rw-rw-r-- root/root       192 2015-08-02 12:42 ansible-cloudflare-purge-master/vars/main.yml

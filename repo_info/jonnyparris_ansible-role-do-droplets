@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-06 05:57 ansible-role-do-droplets-master/
+-rw-rw-r-- root/root      1643 2017-03-06 05:57 ansible-role-do-droplets-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-03-06 05:57 ansible-role-do-droplets-master/LICENSE
+-rw-rw-r-- root/root      3310 2017-03-06 05:57 ansible-role-do-droplets-master/README.md
+drwxrwxr-x root/root         0 2017-03-06 05:57 ansible-role-do-droplets-master/defaults/
+-rw-rw-r-- root/root      1594 2017-03-06 05:57 ansible-role-do-droplets-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-06 05:57 ansible-role-do-droplets-master/meta/
+-rw-rw-r-- root/root       287 2017-03-06 05:57 ansible-role-do-droplets-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-06 05:57 ansible-role-do-droplets-master/tasks/
+-rw-rw-r-- root/root      3770 2017-03-06 05:57 ansible-role-do-droplets-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-06 05:57 ansible-role-do-droplets-master/templates/
+-rw-rw-r-- root/root      1442 2017-03-06 05:57 ansible-role-do-droplets-master/templates/user-data.j2
+drwxrwxr-x root/root         0 2017-03-06 05:57 ansible-role-do-droplets-master/tests/
+-rw-rw-r-- root/root         9 2017-03-06 05:57 ansible-role-do-droplets-master/tests/inventory
+-rw-rw-r-- root/root       321 2017-03-06 05:57 ansible-role-do-droplets-master/tests/test.yml

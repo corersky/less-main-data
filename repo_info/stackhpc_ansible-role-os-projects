@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-08 09:33 ansible-role-os-projects-master/
+-rw-rw-r-- root/root         6 2019-02-08 09:33 ansible-role-os-projects-master/.gitignore
+-rw-rw-r-- root/root       835 2019-02-08 09:33 ansible-role-os-projects-master/.travis.yml
+-rw-rw-r-- root/root     10143 2019-02-08 09:33 ansible-role-os-projects-master/LICENSE
+-rw-rw-r-- root/root      3409 2019-02-08 09:33 ansible-role-os-projects-master/README.md
+drwxrwxr-x root/root         0 2019-02-08 09:33 ansible-role-os-projects-master/defaults/
+-rw-rw-r-- root/root      1982 2019-02-08 09:33 ansible-role-os-projects-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-08 09:33 ansible-role-os-projects-master/meta/
+-rw-rw-r-- root/root       519 2019-02-08 09:33 ansible-role-os-projects-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-08 09:33 ansible-role-os-projects-master/tasks/
+-rw-rw-r-- root/root     10220 2019-02-08 09:33 ansible-role-os-projects-master/tasks/main.yml
+-rw-rw-r-- root/root      3271 2019-02-08 09:33 ansible-role-os-projects-master/tasks/users.yml
+drwxrwxr-x root/root         0 2019-02-08 09:33 ansible-role-os-projects-master/templates/
+-rw-rw-r-- root/root       656 2019-02-08 09:33 ansible-role-os-projects-master/templates/openrc.j2
+drwxrwxr-x root/root         0 2019-02-08 09:33 ansible-role-os-projects-master/tests/
+-rw-rw-r-- root/root        86 2019-02-08 09:33 ansible-role-os-projects-master/tests/inventory
+-rw-rw-r-- root/root        73 2019-02-08 09:33 ansible-role-os-projects-master/tests/test.yml

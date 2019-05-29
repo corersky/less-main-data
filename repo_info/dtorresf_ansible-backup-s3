@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-17 09:26 ansible-backup-s3-master/
+-rw-rw-r-- root/root      1187 2018-03-17 09:26 ansible-backup-s3-master/README.md
+drwxrwxr-x root/root         0 2018-03-17 09:26 ansible-backup-s3-master/defaults/
+-rw-rw-r-- root/root       262 2018-03-17 09:26 ansible-backup-s3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-17 09:26 ansible-backup-s3-master/handlers/
+-rw-rw-r-- root/root        32 2018-03-17 09:26 ansible-backup-s3-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-17 09:26 ansible-backup-s3-master/meta/
+-rw-rw-r-- root/root      1925 2018-03-17 09:26 ansible-backup-s3-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-17 09:26 ansible-backup-s3-master/tasks/
+-rw-rw-r-- root/root      1289 2018-03-17 09:26 ansible-backup-s3-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-17 09:26 ansible-backup-s3-master/tests/
+-rw-rw-r-- root/root        11 2018-03-17 09:26 ansible-backup-s3-master/tests/inventory
+-rw-rw-r-- root/root        66 2018-03-17 09:26 ansible-backup-s3-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-17 09:26 ansible-backup-s3-master/vars/
+-rw-rw-r-- root/root        28 2018-03-17 09:26 ansible-backup-s3-master/vars/main.yml

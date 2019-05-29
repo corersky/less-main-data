@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-08-03 16:38 ansible-java-master/
+-rw-rw-r-- root/root     11357 2016-08-03 16:38 ansible-java-master/LICENSE
+-rw-rw-r-- root/root         6 2016-08-03 16:38 ansible-java-master/README.md
+drwxrwxr-x root/root         0 2016-08-03 16:38 ansible-java-master/defaults/
+-rw-rw-r-- root/root        16 2016-08-03 16:38 ansible-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-03 16:38 ansible-java-master/meta/
+-rw-rw-r-- root/root       230 2016-08-03 16:38 ansible-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-03 16:38 ansible-java-master/tasks/
+-rw-rw-r-- root/root       276 2016-08-03 16:38 ansible-java-master/tasks/Debian.yml
+-rw-rw-r-- root/root       234 2016-08-03 16:38 ansible-java-master/tasks/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-12-09 15:35 symfony2-role-master/
+-rw-rw-r-- root/root        43 2014-12-09 15:35 symfony2-role-master/.gitignore
+-rw-rw-r-- root/root       358 2014-12-09 15:35 symfony2-role-master/README.md
+drwxrwxr-x root/root         0 2014-12-09 15:35 symfony2-role-master/defaults/
+-rw-rw-r-- root/root       186 2014-12-09 15:35 symfony2-role-master/defaults/main.yml
+-rw-rw-r-- root/root        86 2014-12-09 15:35 symfony2-role-master/inventory
+-rw-rw-r-- root/root       301 2014-12-09 15:35 symfony2-role-master/main.yml
+drwxrwxr-x root/root         0 2014-12-09 15:35 symfony2-role-master/meta/
+-rw-rw-r-- root/root       207 2014-12-09 15:35 symfony2-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-09 15:35 symfony2-role-master/tasks/
+-rw-rw-r-- root/root      1039 2014-12-09 15:35 symfony2-role-master/tasks/github.yml
+-rw-rw-r-- root/root       151 2014-12-09 15:35 symfony2-role-master/tasks/main.yml
+-rw-rw-r-- root/root      1022 2014-12-09 15:35 symfony2-role-master/tasks/mysql.yml
+-rw-rw-r-- root/root       132 2014-12-09 15:35 symfony2-role-master/tasks/specific.yml
+-rw-rw-r-- root/root      3229 2014-12-09 15:35 symfony2-role-master/tasks/symfony2.yml
+drwxrwxr-x root/root         0 2014-12-09 15:35 symfony2-role-master/vars/
+-rw-rw-r-- root/root      1123 2014-12-09 15:35 symfony2-role-master/vars/main.yml

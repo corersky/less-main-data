@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-10-12 09:54 ansible-role-install-docker-master/
+-rw-rw-r-- root/root       325 2017-10-12 09:54 ansible-role-install-docker-master/README.md
+drwxrwxr-x root/root         0 2017-10-12 09:54 ansible-role-install-docker-master/defaults/
+-rw-rw-r-- root/root        46 2017-10-12 09:54 ansible-role-install-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:54 ansible-role-install-docker-master/handlers/
+-rw-rw-r-- root/root       273 2017-10-12 09:54 ansible-role-install-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:54 ansible-role-install-docker-master/meta/
+-rw-rw-r-- root/root      2602 2017-10-12 09:54 ansible-role-install-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:54 ansible-role-install-docker-master/tasks/
+-rw-rw-r-- root/root      1633 2017-10-12 09:54 ansible-role-install-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:54 ansible-role-install-docker-master/templates/
+-rw-rw-r-- root/root        35 2017-10-12 09:54 ansible-role-install-docker-master/templates/etc-docker-daemon.json.j2

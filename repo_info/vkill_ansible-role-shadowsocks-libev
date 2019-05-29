@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/
+-rw-rw-r-- root/root        15 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/.gitignore
+-rw-rw-r-- root/root       539 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/.travis.yml
+-rw-rw-r-- root/root       573 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/README.md
+drwxrwxr-x root/root         0 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/defaults/
+-rw-rw-r-- root/root       610 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/meta/
+-rw-rw-r-- root/root       285 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/tasks/
+-rw-rw-r-- root/root      2032 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root       306 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/tests/
+-rw-rw-r-- root/root         9 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/tests/inventory
+-rw-rw-r-- root/root        88 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/vars/
+-rw-rw-r-- root/root        43 2017-03-21 21:57 ansible-role-shadowsocks-libev-master/vars/main.yml

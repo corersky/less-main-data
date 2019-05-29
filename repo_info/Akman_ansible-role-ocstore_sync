@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-16 07:42 ansible-role-ocstore_sync-master/
+-rw-rw-r-- root/root        29 2018-09-16 07:42 ansible-role-ocstore_sync-master/.gitignore
+-rw-rw-r-- root/root      1085 2018-09-16 07:42 ansible-role-ocstore_sync-master/LICENSE
+-rw-rw-r-- root/root      1125 2018-09-16 07:42 ansible-role-ocstore_sync-master/README.md
+drwxrwxr-x root/root         0 2018-09-16 07:42 ansible-role-ocstore_sync-master/defaults/
+-rw-rw-r-- root/root       109 2018-09-16 07:42 ansible-role-ocstore_sync-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:42 ansible-role-ocstore_sync-master/meta/
+-rw-rw-r-- root/root       370 2018-09-16 07:42 ansible-role-ocstore_sync-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:42 ansible-role-ocstore_sync-master/tasks/
+-rw-rw-r-- root/root      1249 2018-09-16 07:42 ansible-role-ocstore_sync-master/tasks/files.yml
+-rw-rw-r-- root/root       273 2018-09-16 07:42 ansible-role-ocstore_sync-master/tasks/main.yml
+-rw-rw-r-- root/root      1084 2018-09-16 07:42 ansible-role-ocstore_sync-master/tasks/permissions.yml
+-rw-rw-r-- root/root       682 2018-09-16 07:42 ansible-role-ocstore_sync-master/tasks/setup.yml

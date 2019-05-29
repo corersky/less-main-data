@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-04 05:19 ansible-role-guacamole-master/
+-rw-rw-r-- root/root     35147 2018-07-04 05:19 ansible-role-guacamole-master/LICENSE
+-rw-rw-r-- root/root      2657 2018-07-04 05:19 ansible-role-guacamole-master/README.md
+drwxrwxr-x root/root         0 2018-07-04 05:19 ansible-role-guacamole-master/defaults/
+-rw-rw-r-- root/root      2490 2018-07-04 05:19 ansible-role-guacamole-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:19 ansible-role-guacamole-master/meta/
+-rw-rw-r-- root/root       316 2018-07-04 05:19 ansible-role-guacamole-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:19 ansible-role-guacamole-master/tasks/
+-rw-rw-r-- root/root      5552 2018-07-04 05:19 ansible-role-guacamole-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:19 ansible-role-guacamole-master/templates/
+-rw-rw-r-- root/root       121 2018-07-04 05:19 ansible-role-guacamole-master/templates/gmt.cnf.j2
+-rw-rw-r-- root/root       498 2018-07-04 05:19 ansible-role-guacamole-master/templates/guacamole.properties.j2
+-rw-rw-r-- root/root      1982 2018-07-04 05:19 ansible-role-guacamole-master/templates/tomcat8.j2

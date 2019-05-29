@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-08-23 00:05 ansible-ansible-master/
+-rw-rw-r-- root/root        53 2015-08-23 00:05 ansible-ansible-master/.gitignore
+-rw-rw-r-- root/root       751 2015-08-23 00:05 ansible-ansible-master/README.md
+drwxrwxr-x root/root         0 2015-08-23 00:05 ansible-ansible-master/meta/
+-rw-rw-r-- root/root       314 2015-08-23 00:05 ansible-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-23 00:05 ansible-ansible-master/tasks/
+-rw-rw-r-- root/root       153 2015-08-23 00:05 ansible-ansible-master/tasks/main.yml
+-rw-rw-r-- root/root        70 2015-08-23 00:05 ansible-ansible-master/tasks/redhat.yml
+-rw-rw-r-- root/root       216 2015-08-23 00:05 ansible-ansible-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2015-08-23 00:05 ansible-ansible-master/tests/
+-rw-rw-r-- root/root       539 2015-08-23 00:05 ansible-ansible-master/tests/.hack.sh
+-rw-rw-r-- root/root      1233 2015-08-23 00:05 ansible-ansible-master/tests/Vagrantfile
+-rw-rw-r-- root/root        94 2015-08-23 00:05 ansible-ansible-master/tests/ansible.cfg
+-rw-rw-r-- root/root        47 2015-08-23 00:05 ansible-ansible-master/tests/inventory
+drwxrwxr-x root/root         0 2015-08-23 00:05 ansible-ansible-master/tests/roles/
+lrwxrwxrwx root/root         0 2015-08-23 00:05 ansible-ansible-master/tests/roles/aussielunix.ansible -> ../..
+-rw-rw-r-- root/root        92 2015-08-23 00:05 ansible-ansible-master/tests/test.yml

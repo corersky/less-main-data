@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-16 10:04 ansible-role-basedeps-master/
+-rw-rw-r-- root/root        10 2018-11-16 10:04 ansible-role-basedeps-master/.gitignore
+-rw-rw-r-- root/root       215 2018-11-16 10:04 ansible-role-basedeps-master/.travis.yml
+-rw-rw-r-- root/root       678 2018-11-16 10:04 ansible-role-basedeps-master/README.md
+drwxrwxr-x root/root         0 2018-11-16 10:04 ansible-role-basedeps-master/meta/
+-rw-rw-r-- root/root       292 2018-11-16 10:04 ansible-role-basedeps-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-16 10:04 ansible-role-basedeps-master/molecule/
+drwxrwxr-x root/root         0 2018-11-16 10:04 ansible-role-basedeps-master/molecule/default/
+-rw-rw-r-- root/root       961 2018-11-16 10:04 ansible-role-basedeps-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       266 2018-11-16 10:04 ansible-role-basedeps-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        77 2018-11-16 10:04 ansible-role-basedeps-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2018-11-16 10:04 ansible-role-basedeps-master/molecule/default/tests/
+-rw-rw-r-- root/root       520 2018-11-16 10:04 ansible-role-basedeps-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2018-11-16 10:04 ansible-role-basedeps-master/tasks/
+-rw-rw-r-- root/root       358 2018-11-16 10:04 ansible-role-basedeps-master/tasks/main.yml

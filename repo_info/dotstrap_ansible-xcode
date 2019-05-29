@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-06 00:15 ansible-xcode-master/
+-rw-rw-r-- root/root       632 2016-06-06 00:15 ansible-xcode-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-06-06 00:15 ansible-xcode-master/LICENSE
+-rw-rw-r-- root/root      1449 2016-06-06 00:15 ansible-xcode-master/README.md
+drwxrwxr-x root/root         0 2016-06-06 00:15 ansible-xcode-master/defaults/
+-rw-rw-r-- root/root      1029 2016-06-06 00:15 ansible-xcode-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-06 00:15 ansible-xcode-master/meta/
+-rw-rw-r-- root/root       336 2016-06-06 00:15 ansible-xcode-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-06 00:15 ansible-xcode-master/tasks/
+-rw-rw-r-- root/root       814 2016-06-06 00:15 ansible-xcode-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-06 00:15 ansible-xcode-master/tests/
+-rw-rw-r-- root/root        10 2016-06-06 00:15 ansible-xcode-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-06-06 00:15 ansible-xcode-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-06-06 00:15 ansible-xcode-master/vars/
+-rw-rw-r-- root/root       104 2016-06-06 00:15 ansible-xcode-master/vars/main.yml

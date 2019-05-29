@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-25 16:06 ansible-role-s3-proxy-master/
+-rw-rw-r-- root/root       870 2017-09-25 16:06 ansible-role-s3-proxy-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-09-25 16:06 ansible-role-s3-proxy-master/LICENSE
+-rw-rw-r-- root/root      1528 2017-09-25 16:06 ansible-role-s3-proxy-master/README.md
+drwxrwxr-x root/root         0 2017-09-25 16:06 ansible-role-s3-proxy-master/defaults/
+-rw-rw-r-- root/root       726 2017-09-25 16:06 ansible-role-s3-proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-25 16:06 ansible-role-s3-proxy-master/meta/
+-rw-rw-r-- root/root       328 2017-09-25 16:06 ansible-role-s3-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-25 16:06 ansible-role-s3-proxy-master/tasks/
+-rw-rw-r-- root/root       397 2017-09-25 16:06 ansible-role-s3-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-25 16:06 ansible-role-s3-proxy-master/templates/
+-rw-rw-r-- root/root      1393 2017-09-25 16:06 ansible-role-s3-proxy-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root       901 2017-09-25 16:06 ansible-role-s3-proxy-master/templates/vhosts.j2
+drwxrwxr-x root/root         0 2017-09-25 16:06 ansible-role-s3-proxy-master/tests/
+-rw-rw-r-- root/root       632 2017-09-25 16:06 ansible-role-s3-proxy-master/tests/README.md
+-rw-rw-r-- root/root        29 2017-09-25 16:06 ansible-role-s3-proxy-master/tests/requirements.yml
+-rw-rw-r-- root/root       452 2017-09-25 16:06 ansible-role-s3-proxy-master/tests/test.yml

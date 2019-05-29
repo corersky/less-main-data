@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/
+-rw-rw-r-- root/root       415 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/.editorconfig
+-rw-rw-r-- root/root       119 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/.gitignore
+-rw-rw-r-- root/root      1101 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/.travis.yml
+-rw-rw-r-- root/root      1113 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/LICENSE
+-rw-rw-r-- root/root      1817 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/README.md
+drwxrwxr-x root/root         0 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/defaults/
+-rw-rw-r-- root/root       425 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/meta/
+-rw-rw-r-- root/root       429 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/tasks/
+-rw-rw-r-- root/root      1603 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/tests/
+-rw-rw-r-- root/root        10 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/tests/inventory
+-rw-rw-r-- root/root       262 2015-07-14 20:30 ansible-role-virtualenvwrapper-master/tests/test.yml

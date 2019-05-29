@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-09-10 04:36 ansible-golang-master/
+-rw-rw-r-- root/root         9 2015-09-10 04:36 ansible-golang-master/.gitignore
+-rw-rw-r-- root/root      1054 2015-09-10 04:36 ansible-golang-master/LICENSE-MIT
+-rw-rw-r-- root/root       728 2015-09-10 04:36 ansible-golang-master/README.md
+drwxrwxr-x root/root         0 2015-09-10 04:36 ansible-golang-master/defaults/
+-rw-rw-r-- root/root       291 2015-09-10 04:36 ansible-golang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-10 04:36 ansible-golang-master/handlers/
+-rw-rw-r-- root/root         0 2015-09-10 04:36 ansible-golang-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-10 04:36 ansible-golang-master/meta/
+-rw-rw-r-- root/root       236 2015-09-10 04:36 ansible-golang-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-10 04:36 ansible-golang-master/tasks/
+-rw-rw-r-- root/root      1709 2015-09-10 04:36 ansible-golang-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-10 04:36 ansible-golang-master/vagrant/
+-rw-rw-r-- root/root       294 2015-09-10 04:36 ansible-golang-master/vagrant/Vagrantfile
+drwxrwxr-x root/root         0 2015-09-10 04:36 ansible-golang-master/vars/
+-rw-rw-r-- root/root        66 2015-09-10 04:36 ansible-golang-master/vars/main.yml

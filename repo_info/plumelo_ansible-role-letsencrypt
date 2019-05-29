@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root       188 2018-06-14 10:59 ansible-role-letsencrypt-master/.editorconfig
+-rw-rw-r-- root/root        74 2018-06-14 10:59 ansible-role-letsencrypt-master/.gitignore
+-rw-rw-r-- root/root       539 2018-06-14 10:59 ansible-role-letsencrypt-master/.travis.yml
+-rw-rw-r-- root/root      1036 2018-06-14 10:59 ansible-role-letsencrypt-master/.yamllint
+-rw-rw-r-- root/root       502 2018-06-14 10:59 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root      1513 2018-06-14 10:59 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/handlers/
+-rw-rw-r-- root/root        36 2018-06-14 10:59 ansible-role-letsencrypt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root      3429 2018-06-14 10:59 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root       603 2018-06-14 10:59 ansible-role-letsencrypt-master/tasks/certificates.yml
+-rw-rw-r-- root/root       175 2018-06-14 10:59 ansible-role-letsencrypt-master/tasks/install.yml
+-rw-rw-r-- root/root        67 2018-06-14 10:59 ansible-role-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/tests/
+-rw-rw-r-- root/root       357 2018-06-14 10:59 ansible-role-letsencrypt-master/tests/Vagrantfile
+-rw-rw-r-- root/root         9 2018-06-14 10:59 ansible-role-letsencrypt-master/tests/inventory
+drwxrwxr-x root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/tests/roles/plumelo.letsencrypt -> ../../../ansible-role-letsencrypt/
+-rw-rw-r-- root/root       466 2018-06-14 10:59 ansible-role-letsencrypt-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-14 10:59 ansible-role-letsencrypt-master/vars/
+-rw-rw-r-- root/root        32 2018-06-14 10:59 ansible-role-letsencrypt-master/vars/main.yml

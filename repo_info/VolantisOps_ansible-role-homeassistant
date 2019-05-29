@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-18 11:19 ansible-role-homeassistant-master/
+-rw-rw-r-- root/root         9 2017-06-18 11:19 ansible-role-homeassistant-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-18 11:19 ansible-role-homeassistant-master/LICENSE
+-rw-rw-r-- root/root       306 2017-06-18 11:19 ansible-role-homeassistant-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 11:19 ansible-role-homeassistant-master/defaults/
+-rw-rw-r-- root/root      1689 2017-06-18 11:19 ansible-role-homeassistant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-18 11:19 ansible-role-homeassistant-master/handlers/
+-rw-rw-r-- root/root        82 2017-06-18 11:19 ansible-role-homeassistant-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-18 11:19 ansible-role-homeassistant-master/meta/
+-rw-rw-r-- root/root       301 2017-06-18 11:19 ansible-role-homeassistant-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 11:19 ansible-role-homeassistant-master/tasks/
+-rw-rw-r-- root/root       973 2017-06-18 11:19 ansible-role-homeassistant-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-18 11:19 ansible-role-homeassistant-master/templates/
+-rw-rw-r-- root/root      3143 2017-06-18 11:19 ansible-role-homeassistant-master/templates/configuration.yaml.j2
+-rw-rw-r-- root/root       134 2017-06-18 11:19 ansible-role-homeassistant-master/templates/google_calendars.yaml.j2
+-rw-rw-r-- root/root        40 2017-06-18 11:19 ansible-role-homeassistant-master/templates/groups.yaml.j2
+-rw-rw-r-- root/root       253 2017-06-18 11:19 ansible-role-homeassistant-master/templates/home-assistant.service.j2

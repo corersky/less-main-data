@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-17 04:33 ansible-memcache-master/
+-rw-rw-r-- root/root      2371 2017-01-17 04:33 ansible-memcache-master/.travis.yml
+-rw-rw-r-- root/root      1075 2017-01-17 04:33 ansible-memcache-master/LICENSE
+-rw-rw-r-- root/root      1521 2017-01-17 04:33 ansible-memcache-master/README.md
+drwxrwxr-x root/root         0 2017-01-17 04:33 ansible-memcache-master/defaults/
+-rw-rw-r-- root/root       215 2017-01-17 04:33 ansible-memcache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:33 ansible-memcache-master/handlers/
+-rw-rw-r-- root/root        83 2017-01-17 04:33 ansible-memcache-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:33 ansible-memcache-master/meta/
+-rw-rw-r-- root/root       363 2017-01-17 04:33 ansible-memcache-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:33 ansible-memcache-master/tasks/
+-rw-rw-r-- root/root       521 2017-01-17 04:33 ansible-memcache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:33 ansible-memcache-master/templates/
+-rw-rw-r-- root/root       178 2017-01-17 04:33 ansible-memcache-master/templates/memcached.conf.j2
+drwxrwxr-x root/root         0 2017-01-17 04:33 ansible-memcache-master/tests/
+-rw-rw-r-- root/root         9 2017-01-17 04:33 ansible-memcache-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-01-17 04:33 ansible-memcache-master/tests/test.yml

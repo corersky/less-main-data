@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-08 11:18 ansible-role-symlink-repo-master/
+-rw-rw-r-- root/root      2770 2019-01-08 11:18 ansible-role-symlink-repo-master/.travis.yml
+-rw-rw-r-- root/root     11358 2019-01-08 11:18 ansible-role-symlink-repo-master/LICENSE
+-rw-rw-r-- root/root      1315 2019-01-08 11:18 ansible-role-symlink-repo-master/README.md
+drwxrwxr-x root/root         0 2019-01-08 11:18 ansible-role-symlink-repo-master/defaults/
+-rw-rw-r-- root/root       219 2019-01-08 11:18 ansible-role-symlink-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-08 11:18 ansible-role-symlink-repo-master/meta/
+-rw-rw-r-- root/root       324 2019-01-08 11:18 ansible-role-symlink-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-08 11:18 ansible-role-symlink-repo-master/tasks/
+-rw-rw-r-- root/root      1342 2019-01-08 11:18 ansible-role-symlink-repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-08 11:18 ansible-role-symlink-repo-master/tests/
+-rw-rw-r-- root/root        11 2019-01-08 11:18 ansible-role-symlink-repo-master/tests/inventory
+-rw-rw-r-- root/root       161 2019-01-08 11:18 ansible-role-symlink-repo-master/tests/test.yml

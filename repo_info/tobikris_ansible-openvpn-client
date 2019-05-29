@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-18 07:10 ansible-openvpn-client-master/
+-rw-rw-r-- root/root       376 2018-02-18 07:10 ansible-openvpn-client-master/README.md
+drwxrwxr-x root/root         0 2018-02-18 07:10 ansible-openvpn-client-master/defaults/
+-rw-rw-r-- root/root       394 2018-02-18 07:10 ansible-openvpn-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-18 07:10 ansible-openvpn-client-master/handlers/
+-rw-rw-r-- root/root       193 2018-02-18 07:10 ansible-openvpn-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-18 07:10 ansible-openvpn-client-master/meta/
+-rw-rw-r-- root/root      1745 2018-02-18 07:10 ansible-openvpn-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-18 07:10 ansible-openvpn-client-master/tasks/
+-rw-rw-r-- root/root       372 2018-02-18 07:10 ansible-openvpn-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-18 07:10 ansible-openvpn-client-master/templates/
+-rw-rw-r-- root/root       495 2018-02-18 07:10 ansible-openvpn-client-master/templates/openvpn-client-config.j2
+drwxrwxr-x root/root         0 2018-02-18 07:10 ansible-openvpn-client-master/tests/
+-rw-rw-r-- root/root        11 2018-02-18 07:10 ansible-openvpn-client-master/tests/inventory
+-rw-rw-r-- root/root        54 2018-02-18 07:10 ansible-openvpn-client-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-18 07:10 ansible-openvpn-client-master/vars/
+-rw-rw-r-- root/root        34 2018-02-18 07:10 ansible-openvpn-client-master/vars/main.yml

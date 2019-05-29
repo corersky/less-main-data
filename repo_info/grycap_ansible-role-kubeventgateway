@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-01 02:30 ansible-role-kubeventgateway-master/
+-rw-rw-r-- root/root         9 2019-02-01 02:30 ansible-role-kubeventgateway-master/.gitignore
+-rw-rw-r-- root/root     11356 2019-02-01 02:30 ansible-role-kubeventgateway-master/LICENSE
+-rw-rw-r-- root/root        78 2019-02-01 02:30 ansible-role-kubeventgateway-master/README.md
+drwxrwxr-x root/root         0 2019-02-01 02:30 ansible-role-kubeventgateway-master/defaults/
+-rw-rw-r-- root/root        55 2019-02-01 02:30 ansible-role-kubeventgateway-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:30 ansible-role-kubeventgateway-master/files/
+-rw-rw-r-- root/root        62 2019-02-01 02:30 ansible-role-kubeventgateway-master/files/eg-namespace.yaml
+drwxrwxr-x root/root         0 2019-02-01 02:30 ansible-role-kubeventgateway-master/meta/
+-rw-rw-r-- root/root       329 2019-02-01 02:30 ansible-role-kubeventgateway-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:30 ansible-role-kubeventgateway-master/tasks/
+-rw-rw-r-- root/root       502 2019-02-01 02:30 ansible-role-kubeventgateway-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:30 ansible-role-kubeventgateway-master/templates/
+-rw-rw-r-- root/root      1659 2019-02-01 02:30 ansible-role-kubeventgateway-master/templates/etcd.j2
+-rw-rw-r-- root/root      1291 2019-02-01 02:30 ansible-role-kubeventgateway-master/templates/event-gateway.j2

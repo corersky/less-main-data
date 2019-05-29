@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-16 18:14 ansible-role-nanoc-master/
+-rw-rw-r-- root/root        11 2016-12-16 18:14 ansible-role-nanoc-master/.gitignore
+-rw-rw-r-- root/root       539 2016-12-16 18:14 ansible-role-nanoc-master/.travis.yml
+-rw-rw-r-- root/root      1001 2016-12-16 18:14 ansible-role-nanoc-master/README.md
+drwxrwxr-x root/root         0 2016-12-16 18:14 ansible-role-nanoc-master/defaults/
+-rw-rw-r-- root/root        61 2016-12-16 18:14 ansible-role-nanoc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-16 18:14 ansible-role-nanoc-master/meta/
+-rw-rw-r-- root/root       479 2016-12-16 18:14 ansible-role-nanoc-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-16 18:14 ansible-role-nanoc-master/tasks/
+-rw-rw-r-- root/root      1814 2016-12-16 18:14 ansible-role-nanoc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-16 18:14 ansible-role-nanoc-master/tests/
+-rw-rw-r-- root/root        10 2016-12-16 18:14 ansible-role-nanoc-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-12-16 18:14 ansible-role-nanoc-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-16 18:14 ansible-role-nanoc-master/vars/
+-rw-rw-r-- root/root        33 2016-12-16 18:14 ansible-role-nanoc-master/vars/main.yml

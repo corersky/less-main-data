@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-pip-master/
+-rwxrwxr-x root/root      1005 2018-11-29 08:26 ansible-role-pip-master/.travis.yml
+-rw-rw-r-- root/root       288 2018-11-29 08:26 ansible-role-pip-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-pip-master/meta/
+-rw-rw-r-- root/root       281 2018-11-29 08:26 ansible-role-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-pip-master/tasks/
+-rw-rw-r-- root/root        51 2018-11-29 08:26 ansible-role-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-pip-master/tests/
+-rw-rw-r-- root/root        10 2018-11-29 08:26 ansible-role-pip-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-11-29 08:26 ansible-role-pip-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-18 05:34 redis-master/
+-rw-rw-r-- root/root         7 2019-04-18 05:34 redis-master/.gitignore
+-rw-rw-r-- root/root      1072 2019-04-18 05:34 redis-master/LICENSE
+drwxrwxr-x root/root         0 2019-04-18 05:34 redis-master/defaults/
+-rw-rw-r-- root/root        31 2019-04-18 05:34 redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-18 05:34 redis-master/handlers/
+-rw-rw-r-- root/root       167 2019-04-18 05:34 redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-18 05:34 redis-master/meta/
+-rw-rw-r-- root/root       172 2019-04-18 05:34 redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-18 05:34 redis-master/tasks/
+-rw-rw-r-- root/root       277 2019-04-18 05:34 redis-master/tasks/main.yml

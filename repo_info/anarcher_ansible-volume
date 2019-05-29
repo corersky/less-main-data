@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-21 09:49 ansible-volume-master/
+-rw-rw-r-- root/root       539 2016-02-21 09:49 ansible-volume-master/.travis.yml
+-rw-rw-r-- root/root     35141 2016-02-21 09:49 ansible-volume-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-02-21 09:49 ansible-volume-master/README.md
+drwxrwxr-x root/root         0 2016-02-21 09:49 ansible-volume-master/defaults/
+-rw-rw-r-- root/root       236 2016-02-21 09:49 ansible-volume-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-21 09:49 ansible-volume-master/handlers/
+-rw-rw-r-- root/root        39 2016-02-21 09:49 ansible-volume-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-21 09:49 ansible-volume-master/meta/
+-rw-rw-r-- root/root      1657 2016-02-21 09:49 ansible-volume-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-21 09:49 ansible-volume-master/tasks/
+-rw-rw-r-- root/root       648 2016-02-21 09:49 ansible-volume-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-21 09:49 ansible-volume-master/tests/
+-rw-rw-r-- root/root         9 2016-02-21 09:49 ansible-volume-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-02-21 09:49 ansible-volume-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-02-21 09:49 ansible-volume-master/vars/
+-rw-rw-r-- root/root        35 2016-02-21 09:49 ansible-volume-master/vars/main.yml

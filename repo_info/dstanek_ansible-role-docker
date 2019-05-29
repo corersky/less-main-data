@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-05-26 21:07 ansible-role-docker-master/
+-rw-rw-r-- root/root       539 2016-05-26 21:07 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root     10143 2016-05-26 21:07 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root      1186 2016-05-26 21:07 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2016-05-26 21:07 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       652 2016-05-26 21:07 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-26 21:07 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root       676 2016-05-26 21:07 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-26 21:07 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       367 2016-05-26 21:07 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-26 21:07 ansible-role-docker-master/tasks/
+drwxrwxr-x root/root         0 2016-05-26 21:07 ansible-role-docker-master/tasks/install/
+-rw-rw-r-- root/root      1096 2016-05-26 21:07 ansible-role-docker-master/tasks/install/Ubuntu.yml
+-rw-rw-r-- root/root      1218 2016-05-26 21:07 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-26 21:07 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root        10 2016-05-26 21:07 ansible-role-docker-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-05-26 21:07 ansible-role-docker-master/tests/test.yml

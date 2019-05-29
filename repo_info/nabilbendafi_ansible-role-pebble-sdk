@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-16 12:09 ansible-role-pebble-sdk-master/
+-rw-rw-r-- root/root       971 2016-09-16 12:09 ansible-role-pebble-sdk-master/.travis.yml
+-rw-rw-r-- root/root      1080 2016-09-16 12:09 ansible-role-pebble-sdk-master/LICENSE.txt
+-rw-rw-r-- root/root       678 2016-09-16 12:09 ansible-role-pebble-sdk-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 12:09 ansible-role-pebble-sdk-master/defaults/
+-rw-rw-r-- root/root        35 2016-09-16 12:09 ansible-role-pebble-sdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-16 12:09 ansible-role-pebble-sdk-master/handlers/
+-rw-rw-r-- root/root        35 2016-09-16 12:09 ansible-role-pebble-sdk-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-16 12:09 ansible-role-pebble-sdk-master/meta/
+-rw-rw-r-- root/root       293 2016-09-16 12:09 ansible-role-pebble-sdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 12:09 ansible-role-pebble-sdk-master/tasks/
+-rw-rw-r-- root/root        32 2016-09-16 12:09 ansible-role-pebble-sdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 12:09 ansible-role-pebble-sdk-master/tests/
+-rw-rw-r-- root/root         9 2016-09-16 12:09 ansible-role-pebble-sdk-master/tests/inventory
+-rw-rw-r-- root/root        69 2016-09-16 12:09 ansible-role-pebble-sdk-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-16 12:09 ansible-role-pebble-sdk-master/vars/
+-rw-rw-r-- root/root        31 2016-09-16 12:09 ansible-role-pebble-sdk-master/vars/main.yml

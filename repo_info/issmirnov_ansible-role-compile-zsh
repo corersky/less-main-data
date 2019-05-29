@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-01 02:18 ansible-role-compile-zsh-master/
+-rw-rw-r-- root/root        40 2019-04-01 02:18 ansible-role-compile-zsh-master/.gitignore
+-rw-rw-r-- root/root       467 2019-04-01 02:18 ansible-role-compile-zsh-master/.travis.yml
+-rw-rw-r-- root/root      1104 2019-04-01 02:18 ansible-role-compile-zsh-master/README.md
+drwxrwxr-x root/root         0 2019-04-01 02:18 ansible-role-compile-zsh-master/defaults/
+-rw-rw-r-- root/root       368 2019-04-01 02:18 ansible-role-compile-zsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-01 02:18 ansible-role-compile-zsh-master/meta/
+-rw-rw-r-- root/root       707 2019-04-01 02:18 ansible-role-compile-zsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-01 02:18 ansible-role-compile-zsh-master/tasks/
+-rw-rw-r-- root/root      2953 2019-04-01 02:18 ansible-role-compile-zsh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-01 02:18 ansible-role-compile-zsh-master/tests/
+-rw-rw-r-- root/root        10 2019-04-01 02:18 ansible-role-compile-zsh-master/tests/hosts
+-rw-rw-r-- root/root        11 2019-04-01 02:18 ansible-role-compile-zsh-master/tests/inventory
+-rw-rw-r-- root/root       534 2019-04-01 02:18 ansible-role-compile-zsh-master/tests/playbook.yml
+drwxrwxr-x root/root         0 2019-04-01 02:18 ansible-role-compile-zsh-master/vars/
+-rw-rw-r-- root/root        76 2019-04-01 02:18 ansible-role-compile-zsh-master/vars/debian.yml
+-rw-rw-r-- root/root        66 2019-04-01 02:18 ansible-role-compile-zsh-master/vars/redhat.yml

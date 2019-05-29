@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-09 16:14 rapiddeploy-ansible-role-master/
+-rw-rw-r-- root/root       837 2018-10-09 16:14 rapiddeploy-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2018-10-09 16:14 rapiddeploy-ansible-role-master/defaults/
+-rw-rw-r-- root/root        35 2018-10-09 16:14 rapiddeploy-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-09 16:14 rapiddeploy-ansible-role-master/handlers/
+-rw-rw-r-- root/root        35 2018-10-09 16:14 rapiddeploy-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-09 16:14 rapiddeploy-ansible-role-master/meta/
+-rw-rw-r-- root/root       361 2018-10-09 16:14 rapiddeploy-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-09 16:14 rapiddeploy-ansible-role-master/tasks/
+-rw-rw-r-- root/root       784 2018-10-09 16:14 rapiddeploy-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-09 16:14 rapiddeploy-ansible-role-master/templates/
+-rw-rw-r-- root/root       256 2018-10-09 16:14 rapiddeploy-ansible-role-master/templates/rapiddeploy.service
+drwxrwxr-x root/root         0 2018-10-09 16:14 rapiddeploy-ansible-role-master/vars/
+-rw-rw-r-- root/root        36 2018-10-09 16:14 rapiddeploy-ansible-role-master/vars/Debian-vars.yml
+-rw-rw-r-- root/root        40 2018-10-09 16:14 rapiddeploy-ansible-role-master/vars/RedHat-vars.yml
+-rw-rw-r-- root/root        31 2018-10-09 16:14 rapiddeploy-ansible-role-master/vars/main.yml

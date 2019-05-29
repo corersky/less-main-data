@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-08 07:39 ansible-role-myroletest-master/
+-rw-rw-r-- root/root       396 2017-05-08 07:39 ansible-role-myroletest-master/.travis.yml
+-rw-rw-r-- root/root       369 2017-05-08 07:39 ansible-role-myroletest-master/README.md
+drwxrwxr-x root/root         0 2017-05-08 07:39 ansible-role-myroletest-master/defaults/
+-rw-rw-r-- root/root        29 2017-05-08 07:39 ansible-role-myroletest-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-08 07:39 ansible-role-myroletest-master/handlers/
+-rw-rw-r-- root/root       103 2017-05-08 07:39 ansible-role-myroletest-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-08 07:39 ansible-role-myroletest-master/meta/
+-rw-rw-r-- root/root      1630 2017-05-08 07:39 ansible-role-myroletest-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-08 07:39 ansible-role-myroletest-master/tasks/
+-rw-rw-r-- root/root      1405 2017-05-08 07:39 ansible-role-myroletest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-08 07:39 ansible-role-myroletest-master/tests/
+-rw-rw-r-- root/root         9 2017-05-08 07:39 ansible-role-myroletest-master/tests/inventory
+-rw-rw-r-- root/root        31 2017-05-08 07:39 ansible-role-myroletest-master/tests/requirements.yml
+-rw-rw-r-- root/root        82 2017-05-08 07:39 ansible-role-myroletest-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-08 07:39 ansible-role-myroletest-master/vars/
+-rw-rw-r-- root/root        25 2017-05-08 07:39 ansible-role-myroletest-master/vars/main.yml

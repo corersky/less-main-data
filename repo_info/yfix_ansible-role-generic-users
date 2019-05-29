@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-10-13 03:33 ansible-role-generic-users-master/
+-rw-rw-r-- root/root         9 2015-10-13 03:33 ansible-role-generic-users-master/.gitignore
+-rw-rw-r-- root/root       546 2015-10-13 03:33 ansible-role-generic-users-master/.travis.yml
+-rw-rw-r-- root/root      1500 2015-10-13 03:33 ansible-role-generic-users-master/README.md
+-rw-rw-r-- root/root       351 2015-10-13 03:33 ansible-role-generic-users-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-10-13 03:33 ansible-role-generic-users-master/defaults/
+-rw-rw-r-- root/root       152 2015-10-13 03:33 ansible-role-generic-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-13 03:33 ansible-role-generic-users-master/meta/
+-rw-rw-r-- root/root       254 2015-10-13 03:33 ansible-role-generic-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-13 03:33 ansible-role-generic-users-master/tasks/
+-rw-rw-r-- root/root      1321 2015-10-13 03:33 ansible-role-generic-users-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2015-10-13 03:33 ansible-role-generic-users-master/test.yml

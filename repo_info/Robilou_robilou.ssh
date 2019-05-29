@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-12-30 13:07 robilou.ssh-master/
+-rw-rw-r-- root/root      1328 2016-12-30 13:07 robilou.ssh-master/README.md
+drwxrwxr-x root/root         0 2016-12-30 13:07 robilou.ssh-master/defaults/
+-rw-rw-r-- root/root        48 2016-12-30 13:07 robilou.ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-30 13:07 robilou.ssh-master/files/
+-rw-rw-r-- root/root         0 2016-12-30 13:07 robilou.ssh-master/files/ansible.pub
+drwxrwxr-x root/root         0 2016-12-30 13:07 robilou.ssh-master/handlers/
+-rw-rw-r-- root/root        92 2016-12-30 13:07 robilou.ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-30 13:07 robilou.ssh-master/meta/
+-rw-rw-r-- root/root       346 2016-12-30 13:07 robilou.ssh-master/meta/main.yml
+-rw-rw-r-- root/root       135 2016-12-30 13:07 robilou.ssh-master/ssh.yml
+drwxrwxr-x root/root         0 2016-12-30 13:07 robilou.ssh-master/tasks/
+-rw-rw-r-- root/root       612 2016-12-30 13:07 robilou.ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-30 13:07 robilou.ssh-master/templates/
+-rw-rw-r-- root/root      3435 2016-12-30 13:07 robilou.ssh-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2016-12-30 13:07 robilou.ssh-master/vars/
+-rw-rw-r-- root/root        24 2016-12-30 13:07 robilou.ssh-master/vars/main.yml

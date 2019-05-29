@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-10-19 22:16 shellshock-master/
+-rw-rw-r-- root/root        28 2014-10-19 22:16 shellshock-master/.gitignore
+-rw-rw-r-- root/root      3244 2014-10-19 22:16 shellshock-master/README.md
+drwxrwxr-x root/root         0 2014-10-19 22:16 shellshock-master/files/
+-rwxrwxr-x root/root      2889 2014-10-19 22:16 shellshock-master/files/shellshock.sh
+drwxrwxr-x root/root         0 2014-10-19 22:16 shellshock-master/handlers/
+-rw-rw-r-- root/root        35 2014-10-19 22:16 shellshock-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-19 22:16 shellshock-master/meta/
+-rw-rw-r-- root/root      2102 2014-10-19 22:16 shellshock-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-19 22:16 shellshock-master/tasks/
+-rw-rw-r-- root/root       935 2014-10-19 22:16 shellshock-master/tasks/apt-os.yml
+-rw-rw-r-- root/root       871 2014-10-19 22:16 shellshock-master/tasks/main.yml
+-rw-rw-r-- root/root       139 2014-10-19 22:16 shellshock-master/tasks/yum-os.yml
+drwxrwxr-x root/root         0 2014-10-19 22:16 shellshock-master/vars/
+-rw-rw-r-- root/root       546 2014-10-19 22:16 shellshock-master/vars/main.yml

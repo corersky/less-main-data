@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-08 00:50 ansible-pip-master/
+-rw-rw-r-- root/root       274 2015-12-08 00:50 ansible-pip-master/.travis.yml
+-rw-rw-r-- root/root       832 2015-12-08 00:50 ansible-pip-master/README.md
+drwxrwxr-x root/root         0 2015-12-08 00:50 ansible-pip-master/defaults/
+-rw-rw-r-- root/root       170 2015-12-08 00:50 ansible-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-08 00:50 ansible-pip-master/handlers/
+-rw-rw-r-- root/root        36 2015-12-08 00:50 ansible-pip-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-08 00:50 ansible-pip-master/meta/
+-rw-rw-r-- root/root       254 2015-12-08 00:50 ansible-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-08 00:50 ansible-pip-master/tasks/
+-rw-rw-r-- root/root       351 2015-12-08 00:50 ansible-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-08 00:50 ansible-pip-master/tests/
+-rw-rw-r-- root/root        10 2015-12-08 00:50 ansible-pip-master/tests/inventory
+-rw-rw-r-- root/root        70 2015-12-08 00:50 ansible-pip-master/tests/test.yml
+drwxrwxr-x root/root         0 2015-12-08 00:50 ansible-pip-master/vars/
+-rw-rw-r-- root/root        32 2015-12-08 00:50 ansible-pip-master/vars/main.yml

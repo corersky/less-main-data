@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-08 16:05 ansible-docker-master/
+-rw-rw-r-- root/root      1077 2017-06-08 16:05 ansible-docker-master/LICENSE.txt
+-rw-rw-r-- root/root       310 2017-06-08 16:05 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2017-06-08 16:05 ansible-docker-master/defaults/
+-rw-rw-r-- root/root       299 2017-06-08 16:05 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-08 16:05 ansible-docker-master/handlers/
+-rw-rw-r-- root/root      1149 2017-06-08 16:05 ansible-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-08 16:05 ansible-docker-master/meta/
+-rw-rw-r-- root/root       214 2017-06-08 16:05 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-08 16:05 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       340 2017-06-08 16:05 ansible-docker-master/tasks/configure-sysd.yml
+-rw-rw-r-- root/root       164 2017-06-08 16:05 ansible-docker-master/tasks/configure.yml
+-rw-rw-r-- root/root      1545 2017-06-08 16:05 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-08 16:05 ansible-docker-master/templates/
+-rw-rw-r-- root/root      1035 2017-06-08 16:05 ansible-docker-master/templates/default.j2
+-rw-rw-r-- root/root       376 2017-06-08 16:05 ansible-docker-master/templates/network.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-30 16:15 ansible-base-master/
+-rw-rw-r-- root/root        15 2016-11-30 16:15 ansible-base-master/.gitignore
+-rw-rw-r-- root/root        25 2016-11-30 16:15 ansible-base-master/README.md
+drwxrwxr-x root/root         0 2016-11-30 16:15 ansible-base-master/defaults/
+-rw-rw-r-- root/root       584 2016-11-30 16:15 ansible-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-30 16:15 ansible-base-master/meta/
+-rw-rw-r-- root/root       204 2016-11-30 16:15 ansible-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-30 16:15 ansible-base-master/tasks/
+-rw-rw-r-- root/root       549 2016-11-30 16:15 ansible-base-master/tasks/backup.yml
+-rw-rw-r-- root/root       216 2016-11-30 16:15 ansible-base-master/tasks/dirs.yml
+-rw-rw-r-- root/root         0 2016-11-30 16:15 ansible-base-master/tasks/init.yml
+-rw-rw-r-- root/root        28 2016-11-30 16:15 ansible-base-master/tasks/main.yml
+-rw-rw-r-- root/root        98 2016-11-30 16:15 ansible-base-master/tasks/setup.yml
+-rw-rw-r-- root/root       106 2016-11-30 16:15 ansible-base-master/tasks/sync.yml
+-rw-rw-r-- root/root       304 2016-11-30 16:15 ansible-base-master/tasks/user.yml

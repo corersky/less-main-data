@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-01-09 13:52 ansible-nsq-master/
+-rw-rw-r-- root/root      1079 2014-01-09 13:52 ansible-nsq-master/LICENSE
+-rw-rw-r-- root/root      2364 2014-01-09 13:52 ansible-nsq-master/README.md
+drwxrwxr-x root/root         0 2014-01-09 13:52 ansible-nsq-master/defaults/
+-rw-rw-r-- root/root       183 2014-01-09 13:52 ansible-nsq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-09 13:52 ansible-nsq-master/files/
+-rw-rw-r-- root/root        37 2014-01-09 13:52 ansible-nsq-master/files/nsq-bin.sh
+drwxrwxr-x root/root         0 2014-01-09 13:52 ansible-nsq-master/handlers/
+-rw-rw-r-- root/root         3 2014-01-09 13:52 ansible-nsq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-01-09 13:52 ansible-nsq-master/meta/
+-rw-rw-r-- root/root       293 2014-01-09 13:52 ansible-nsq-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-09 13:52 ansible-nsq-master/tasks/
+-rw-rw-r-- root/root       498 2014-01-09 13:52 ansible-nsq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-09 13:52 ansible-nsq-master/vars/
+-rw-rw-r-- root/root        91 2014-01-09 13:52 ansible-nsq-master/vars/main.yml

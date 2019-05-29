@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-03 00:53 ansible-role-git-master/
+-rw-rw-r-- root/root        10 2019-01-03 00:53 ansible-role-git-master/.gitignore
+-rw-rw-r-- root/root       934 2019-01-03 00:53 ansible-role-git-master/.travis.yml
+-rw-rw-r-- root/root      1101 2019-01-03 00:53 ansible-role-git-master/LICENSE
+-rw-rw-r-- root/root       555 2019-01-03 00:53 ansible-role-git-master/README.md
+drwxrwxr-x root/root         0 2019-01-03 00:53 ansible-role-git-master/defaults/
+-rw-rw-r-- root/root        25 2019-01-03 00:53 ansible-role-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-03 00:53 ansible-role-git-master/meta/
+-rw-rw-r-- root/root       391 2019-01-03 00:53 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-03 00:53 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root       910 2019-01-03 00:53 ansible-role-git-master/tasks/compile.yml
+-rw-rw-r-- root/root       241 2019-01-03 00:53 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-03 00:53 ansible-role-git-master/tests/
+-rw-rw-r-- root/root        10 2019-01-03 00:53 ansible-role-git-master/tests/inventory
+-rw-rw-r-- root/root        77 2019-01-03 00:53 ansible-role-git-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-03 00:53 ansible-role-git-master/vars/
+-rw-rw-r-- root/root        61 2019-01-03 00:53 ansible-role-git-master/vars/main.yml

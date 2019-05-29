@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-04 04:51 ansible-role-ulimits_setup-master/
+-rw-rw-r-- root/root       812 2018-07-04 04:51 ansible-role-ulimits_setup-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-07-04 04:51 ansible-role-ulimits_setup-master/LICENSE
+-rw-rw-r-- root/root      1291 2018-07-04 04:51 ansible-role-ulimits_setup-master/README.md
+drwxrwxr-x root/root         0 2018-07-04 04:51 ansible-role-ulimits_setup-master/defaults/
+-rw-rw-r-- root/root       154 2018-07-04 04:51 ansible-role-ulimits_setup-master/defaults/main.yml
+-rw-rw-r-- root/root       568 2018-07-04 04:51 ansible-role-ulimits_setup-master/galaxy-yamllint.yaml
+drwxrwxr-x root/root         0 2018-07-04 04:51 ansible-role-ulimits_setup-master/meta/
+-rw-rw-r-- root/root       312 2018-07-04 04:51 ansible-role-ulimits_setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:51 ansible-role-ulimits_setup-master/tasks/
+-rw-rw-r-- root/root       541 2018-07-04 04:51 ansible-role-ulimits_setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:51 ansible-role-ulimits_setup-master/tests/
+-rw-rw-r-- root/root        29 2018-07-04 04:51 ansible-role-ulimits_setup-master/tests/ansible.cfg
+-rw-rw-r-- root/root        20 2018-07-04 04:51 ansible-role-ulimits_setup-master/tests/inventory
+-rwxrwxr-x root/root        63 2018-07-04 04:51 ansible-role-ulimits_setup-master/tests/run_tests.sh
+-rw-rw-r-- root/root       119 2018-07-04 04:51 ansible-role-ulimits_setup-master/tests/test.yml

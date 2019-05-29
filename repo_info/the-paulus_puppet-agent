@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-11 03:19 puppet-agent-master/
+-rw-rw-r-- root/root       985 2018-11-11 03:19 puppet-agent-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 03:19 puppet-agent-master/defaults/
+-rw-rw-r-- root/root       158 2018-11-11 03:19 puppet-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 03:19 puppet-agent-master/handlers/
+-rw-rw-r-- root/root        36 2018-11-11 03:19 puppet-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-11 03:19 puppet-agent-master/meta/
+-rw-rw-r-- root/root       353 2018-11-11 03:19 puppet-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 03:19 puppet-agent-master/tasks/
+-rw-rw-r-- root/root       539 2018-11-11 03:19 puppet-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 03:19 puppet-agent-master/tests/
+-rw-rw-r-- root/root        11 2018-11-11 03:19 puppet-agent-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-11-11 03:19 puppet-agent-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-11 03:19 puppet-agent-master/vars/
+-rw-rw-r-- root/root        32 2018-11-11 03:19 puppet-agent-master/vars/main.yml

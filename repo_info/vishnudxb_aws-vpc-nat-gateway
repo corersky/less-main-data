@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-17 10:48 aws-vpc-nat-gateway-master/
+-rw-rw-r-- root/root      1025 2016-02-17 10:48 aws-vpc-nat-gateway-master/README.md
+drwxrwxr-x root/root         0 2016-02-17 10:48 aws-vpc-nat-gateway-master/meta/
+-rw-rw-r-- root/root       398 2016-02-17 10:48 aws-vpc-nat-gateway-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-17 10:48 aws-vpc-nat-gateway-master/tasks/
+-rw-rw-r-- root/root      1558 2016-02-17 10:48 aws-vpc-nat-gateway-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-17 10:48 aws-vpc-nat-gateway-master/templates/
+-rw-rw-r-- root/root       809 2016-02-17 10:48 aws-vpc-nat-gateway-master/templates/create-nat-gw.sh
+drwxrwxr-x root/root         0 2016-02-17 10:48 aws-vpc-nat-gateway-master/tests/
+-rw-rw-r-- root/root         9 2016-02-17 10:48 aws-vpc-nat-gateway-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-02-17 10:48 aws-vpc-nat-gateway-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-02-17 10:48 aws-vpc-nat-gateway-master/vars/
+-rw-rw-r-- root/root       177 2016-02-17 10:48 aws-vpc-nat-gateway-master/vars/main.yml

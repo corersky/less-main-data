@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2014-12-12 15:37 azulinho-ansible-master/
+drwxrwxr-x root/root         0 2014-12-12 15:37 azulinho-ansible-master/.bundle/
+-rw-rw-r-- root/root        36 2014-12-12 15:37 azulinho-ansible-master/.bundle/config
+-rw-rw-r-- root/root       229 2014-12-12 15:37 azulinho-ansible-master/.gitignore
+-rw-rw-r-- root/root       192 2014-12-12 15:37 azulinho-ansible-master/README.md
+-rw-rw-r-- root/root      1230 2014-12-12 15:37 azulinho-ansible-master/Rakefile
+drwxrwxr-x root/root         0 2014-12-12 15:37 azulinho-ansible-master/meta/
+-rw-rw-r-- root/root       203 2014-12-12 15:37 azulinho-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-12 15:37 azulinho-ansible-master/tasks/
+-rw-rw-r-- root/root       347 2014-12-12 15:37 azulinho-ansible-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/
+drwxrwxr-x root/root         0 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/.bundle/
+-rw-rw-r-- root/root        36 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/.bundle/config
+-rw-rw-r-- root/root         0 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/Gemfile
+-rw-rw-r-- root/root        45 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/Gemfile.lock
+-rw-rw-r-- root/root      2199 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/Vagrantfile
+-rw-rw-r-- root/root       431 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/ansible.cfg
+-rw-rw-r-- root/root       160 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/ansible.yml
+-rw-rw-r-- root/root       388 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/main_spec.rb
+drwxrwxr-x root/root         0 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/roles/
+lrwxrwxrwx root/root         0 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/roles/ansible -> ../../
+-rw-rw-r-- root/root       125 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/spec_helper.rb
+-rw-rw-r-- root/root       154 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/vagrant
+-rw-rw-r-- root/root       224 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/vagrant-ansible.yml
+-rw-rw-r-- root/root        12 2014-12-12 15:37 azulinho-ansible-master/vagrantbox/vagrant-vault

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-02 17:02 ansible-role-php_modules-master/
+-rw-rw-r-- root/root       317 2018-07-02 17:02 ansible-role-php_modules-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-07-02 17:02 ansible-role-php_modules-master/COPYING
+-rw-rw-r-- root/root      2226 2018-07-02 17:02 ansible-role-php_modules-master/README.md
+drwxrwxr-x root/root         0 2018-07-02 17:02 ansible-role-php_modules-master/defaults/
+-rw-rw-r-- root/root        51 2018-07-02 17:02 ansible-role-php_modules-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-02 17:02 ansible-role-php_modules-master/meta/
+-rw-rw-r-- root/root       275 2018-07-02 17:02 ansible-role-php_modules-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-02 17:02 ansible-role-php_modules-master/tasks/
+-rw-rw-r-- root/root       695 2018-07-02 17:02 ansible-role-php_modules-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-02 17:02 ansible-role-php_modules-master/templates/
+-rw-rw-r-- root/root       155 2018-07-02 17:02 ansible-role-php_modules-master/templates/php_extension.ini.j2
+drwxrwxr-x root/root         0 2018-07-02 17:02 ansible-role-php_modules-master/tests/
+-rw-rw-r-- root/root        10 2018-07-02 17:02 ansible-role-php_modules-master/tests/inventory
+-rw-rw-r-- root/root        87 2018-07-02 17:02 ansible-role-php_modules-master/tests/test.yml

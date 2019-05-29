@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/
+-rw-rw-r-- root/root      1328 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/README.md
+drwxrwxr-x root/root         0 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/defaults/
+-rw-rw-r-- root/root       101 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/handlers/
+-rw-rw-r-- root/root        43 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/meta/
+-rw-rw-r-- root/root      1623 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/tasks/
+-rw-rw-r-- root/root       397 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/templates/
+-rw-rw-r-- root/root       473 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/templates/haproxy.conf.j2
+drwxrwxr-x root/root         0 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/tests/
+-rw-rw-r-- root/root        11 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/vars/
+-rw-rw-r-- root/root        39 2017-10-27 04:23 ansible-role-haproxy-shadowsocks-master/vars/main.yml

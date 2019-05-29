@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-15 21:18 ansible-role-ebtables-master/
+-rw-rw-r-- root/root      1514 2017-10-15 21:18 ansible-role-ebtables-master/LICENSE
+-rw-rw-r-- root/root        51 2017-10-15 21:18 ansible-role-ebtables-master/README.md
+drwxrwxr-x root/root         0 2017-10-15 21:18 ansible-role-ebtables-master/files/
+-rw-rw-r-- root/root        39 2017-10-15 21:18 ansible-role-ebtables-master/files/down
+-rw-rw-r-- root/root        53 2017-10-15 21:18 ansible-role-ebtables-master/files/rules-save
+-rw-rw-r-- root/root        56 2017-10-15 21:18 ansible-role-ebtables-master/files/up
+drwxrwxr-x root/root         0 2017-10-15 21:18 ansible-role-ebtables-master/handlers/
+-rw-rw-r-- root/root        89 2017-10-15 21:18 ansible-role-ebtables-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-15 21:18 ansible-role-ebtables-master/meta/
+-rw-rw-r-- root/root       258 2017-10-15 21:18 ansible-role-ebtables-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-15 21:18 ansible-role-ebtables-master/tasks/
+-rw-rw-r-- root/root       716 2017-10-15 21:18 ansible-role-ebtables-master/tasks/main.yml

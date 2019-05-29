@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-19 05:41 ansible-role-omero-web-apps-master/
+-rw-rw-r-- root/root         4 2018-09-19 05:41 ansible-role-omero-web-apps-master/.gitignore
+-rw-rw-r-- root/root       222 2018-09-19 05:41 ansible-role-omero-web-apps-master/.travis.yml
+-rw-rw-r-- root/root      1483 2018-09-19 05:41 ansible-role-omero-web-apps-master/README.md
+drwxrwxr-x root/root         0 2018-09-19 05:41 ansible-role-omero-web-apps-master/defaults/
+-rw-rw-r-- root/root       795 2018-09-19 05:41 ansible-role-omero-web-apps-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-19 05:41 ansible-role-omero-web-apps-master/meta/
+-rw-rw-r-- root/root       337 2018-09-19 05:41 ansible-role-omero-web-apps-master/meta/main.yml
+-rw-rw-r-- root/root       462 2018-09-19 05:41 ansible-role-omero-web-apps-master/molecule.yml
+-rw-rw-r-- root/root      1363 2018-09-19 05:41 ansible-role-omero-web-apps-master/playbook.yml
+drwxrwxr-x root/root         0 2018-09-19 05:41 ansible-role-omero-web-apps-master/tasks/
+-rw-rw-r-- root/root       487 2018-09-19 05:41 ansible-role-omero-web-apps-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-19 05:41 ansible-role-omero-web-apps-master/templates/
+-rw-rw-r-- root/root      1044 2018-09-19 05:41 ansible-role-omero-web-apps-master/templates/omero-web-apps-omero.j2
+drwxrwxr-x root/root         0 2018-09-19 05:41 ansible-role-omero-web-apps-master/tests/
+-rw-rw-r-- root/root        95 2018-09-19 05:41 ansible-role-omero-web-apps-master/tests/requirements.yml
+-rw-rw-r-- root/root      2485 2018-09-19 05:41 ansible-role-omero-web-apps-master/tests/test_default.py

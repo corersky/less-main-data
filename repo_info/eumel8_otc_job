@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-10 12:07 otc_job-master/
+-rw-rw-r-- root/root        21 2019-04-10 12:07 otc_job-master/.ansible-lint
+-rw-rw-r-- root/root       720 2019-04-10 12:07 otc_job-master/.travis.yml
+-rw-rw-r-- root/root       622 2019-04-10 12:07 otc_job-master/README.rst
+drwxrwxr-x root/root         0 2019-04-10 12:07 otc_job-master/defaults/
+-rw-rw-r-- root/root       107 2019-04-10 12:07 otc_job-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-10 12:07 otc_job-master/handlers/
+-rw-rw-r-- root/root        31 2019-04-10 12:07 otc_job-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-10 12:07 otc_job-master/meta/
+-rw-rw-r-- root/root       286 2019-04-10 12:07 otc_job-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-10 12:07 otc_job-master/tasks/
+-rw-rw-r-- root/root       692 2019-04-10 12:07 otc_job-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-10 12:07 otc_job-master/tests/
+-rw-rw-r-- root/root        11 2019-04-10 12:07 otc_job-master/tests/inventory
+-rw-rw-r-- root/root        65 2019-04-10 12:07 otc_job-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-10 12:07 otc_job-master/vars/
+-rw-rw-r-- root/root        27 2019-04-10 12:07 otc_job-master/vars/main.yml

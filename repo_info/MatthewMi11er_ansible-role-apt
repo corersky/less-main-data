@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-08-09 17:36 ansible-role-apt-master/
+-rw-rw-r-- root/root         0 2014-08-09 17:36 ansible-role-apt-master/.gitignore
+-rw-rw-r-- root/root       581 2014-08-09 17:36 ansible-role-apt-master/.travis.yml
+-rw-rw-r-- root/root      1055 2014-08-09 17:36 ansible-role-apt-master/LICENSE.md
+-rw-rw-r-- root/root       407 2014-08-09 17:36 ansible-role-apt-master/README.md
+drwxrwxr-x root/root         0 2014-08-09 17:36 ansible-role-apt-master/files/
+-rw-rw-r-- root/root       168 2014-08-09 17:36 ansible-role-apt-master/files/apt_periodic
+drwxrwxr-x root/root         0 2014-08-09 17:36 ansible-role-apt-master/meta/
+-rw-rw-r-- root/root       306 2014-08-09 17:36 ansible-role-apt-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-09 17:36 ansible-role-apt-master/tasks/
+-rw-rw-r-- root/root       461 2014-08-09 17:36 ansible-role-apt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-09 17:36 ansible-role-apt-master/tests/
+-rw-rw-r-- root/root        10 2014-08-09 17:36 ansible-role-apt-master/tests/inventory
+-rw-rw-r-- root/root        75 2014-08-09 17:36 ansible-role-apt-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-06-05 16:01 ansible-graphite_api_influxdb-master/
+-rw-rw-r-- root/root         0 2015-06-05 16:01 ansible-graphite_api_influxdb-master/.gitignore
+-rw-rw-r-- root/root      1075 2015-06-05 16:01 ansible-graphite_api_influxdb-master/LICENSE.md
+-rw-rw-r-- root/root      3538 2015-06-05 16:01 ansible-graphite_api_influxdb-master/README.md
+drwxrwxr-x root/root         0 2015-06-05 16:01 ansible-graphite_api_influxdb-master/contrib/
+-rw-rw-r-- root/root      1183 2015-06-05 16:01 ansible-graphite_api_influxdb-master/contrib/python-flask-cache.spec
+-rw-rw-r-- root/root      1592 2015-06-05 16:01 ansible-graphite_api_influxdb-master/contrib/python-graphite-influxdb.spec
+-rw-rw-r-- root/root      1225 2015-06-05 16:01 ansible-graphite_api_influxdb-master/contrib/python-influxdb.spec
+drwxrwxr-x root/root         0 2015-06-05 16:01 ansible-graphite_api_influxdb-master/defaults/
+-rw-rw-r-- root/root      1486 2015-06-05 16:01 ansible-graphite_api_influxdb-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2015-06-05 16:01 ansible-graphite_api_influxdb-master/handlers/
+-rw-rw-r-- root/root        97 2015-06-05 16:01 ansible-graphite_api_influxdb-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2015-06-05 16:01 ansible-graphite_api_influxdb-master/meta/
+-rw-rw-r-- root/root       339 2015-06-05 16:01 ansible-graphite_api_influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-05 16:01 ansible-graphite_api_influxdb-master/tasks/
+-rw-rw-r-- root/root       412 2015-06-05 16:01 ansible-graphite_api_influxdb-master/tasks/main.yaml

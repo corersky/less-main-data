@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2017-04-03 12:06 ansible-statsite-master/
+-rw-rw-r-- root/root        62 2017-04-03 12:06 ansible-statsite-master/.gitignore
+-rw-rw-r-- root/root       442 2017-04-03 12:06 ansible-statsite-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-04-03 12:06 ansible-statsite-master/LICENSE
+-rw-rw-r-- root/root       887 2017-04-03 12:06 ansible-statsite-master/README.md
+drwxrwxr-x root/root         0 2017-04-03 12:06 ansible-statsite-master/defaults/
+-rw-rw-r-- root/root       356 2017-04-03 12:06 ansible-statsite-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-03 12:06 ansible-statsite-master/examples/
+-rw-rw-r-- root/root       624 2017-04-03 12:06 ansible-statsite-master/examples/Vagrantfile
+-rw-rw-r-- root/root        72 2017-04-03 12:06 ansible-statsite-master/examples/roles.yml
+drwxrwxr-x root/root         0 2017-04-03 12:06 ansible-statsite-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-04-03 12:06 ansible-statsite-master/examples/roles/azavea.statsite -> ../../
+-rw-rw-r-- root/root       135 2017-04-03 12:06 ansible-statsite-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-04-03 12:06 ansible-statsite-master/handlers/
+-rw-rw-r-- root/root        70 2017-04-03 12:06 ansible-statsite-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-03 12:06 ansible-statsite-master/meta/
+-rw-rw-r-- root/root       303 2017-04-03 12:06 ansible-statsite-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-03 12:06 ansible-statsite-master/tasks/
+-rw-rw-r-- root/root      2347 2017-04-03 12:06 ansible-statsite-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-03 12:06 ansible-statsite-master/templates/
+-rw-rw-r-- root/root       183 2017-04-03 12:06 ansible-statsite-master/templates/logrotate_statsite.j2
+-rw-rw-r-- root/root       276 2017-04-03 12:06 ansible-statsite-master/templates/statsite.cfg.j2
+-rw-rw-r-- root/root       357 2017-04-03 12:06 ansible-statsite-master/templates/statsite.conf.j2

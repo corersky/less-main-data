@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-08-01 13:29 ansible-qpid_cpp_server-master/
+-rw-rw-r-- root/root         0 2017-08-01 13:29 ansible-qpid_cpp_server-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-08-01 13:29 ansible-qpid_cpp_server-master/LICENSE
+-rw-rw-r-- root/root      2088 2017-08-01 13:29 ansible-qpid_cpp_server-master/README.md
+drwxrwxr-x root/root         0 2017-08-01 13:29 ansible-qpid_cpp_server-master/defaults/
+-rw-rw-r-- root/root      1144 2017-08-01 13:29 ansible-qpid_cpp_server-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-08-01 13:29 ansible-qpid_cpp_server-master/handlers/
+-rw-rw-r-- root/root       193 2017-08-01 13:29 ansible-qpid_cpp_server-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-08-01 13:29 ansible-qpid_cpp_server-master/meta/
+-rw-rw-r-- root/root       259 2017-08-01 13:29 ansible-qpid_cpp_server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-01 13:29 ansible-qpid_cpp_server-master/tasks/
+-rw-rw-r-- root/root      1515 2017-08-01 13:29 ansible-qpid_cpp_server-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-08-01 13:29 ansible-qpid_cpp_server-master/templates/
+-rw-rw-r-- root/root        81 2017-08-01 13:29 ansible-qpid_cpp_server-master/templates/qpidd.conf.j2

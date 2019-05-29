@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-28 08:08 ansible-docker-postgres-master/
+-rw-rw-r-- root/root        11 2018-11-28 08:08 ansible-docker-postgres-master/.gitignore
+-rw-rw-r-- root/root       280 2018-11-28 08:08 ansible-docker-postgres-master/.travis.yml
+-rw-rw-r-- root/root       227 2018-11-28 08:08 ansible-docker-postgres-master/CHANGELOG.md
+-rw-rw-r-- root/root      1073 2018-11-28 08:08 ansible-docker-postgres-master/LICENSE
+-rw-rw-r-- root/root      4211 2018-11-28 08:08 ansible-docker-postgres-master/README.md
+drwxrwxr-x root/root         0 2018-11-28 08:08 ansible-docker-postgres-master/defaults/
+-rw-rw-r-- root/root      2977 2018-11-28 08:08 ansible-docker-postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-28 08:08 ansible-docker-postgres-master/meta/
+-rw-rw-r-- root/root       771 2018-11-28 08:08 ansible-docker-postgres-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-28 08:08 ansible-docker-postgres-master/tasks/
+-rw-rw-r-- root/root      2745 2018-11-28 08:08 ansible-docker-postgres-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-28 08:08 ansible-docker-postgres-master/tests/
+-rw-rw-r-- root/root         9 2018-11-28 08:08 ansible-docker-postgres-master/tests/inventory
+-rw-rw-r-- root/root       243 2018-11-28 08:08 ansible-docker-postgres-master/tests/test.yml

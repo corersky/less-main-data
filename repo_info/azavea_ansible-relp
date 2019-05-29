@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2015-03-09 12:01 ansible-relp-master/
+-rw-rw-r-- root/root         9 2015-03-09 12:01 ansible-relp-master/.gitignore
+-rw-rw-r-- root/root       196 2015-03-09 12:01 ansible-relp-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-03-09 12:01 ansible-relp-master/LICENSE
+-rw-rw-r-- root/root       317 2015-03-09 12:01 ansible-relp-master/README.md
+drwxrwxr-x root/root         0 2015-03-09 12:01 ansible-relp-master/defaults/
+-rw-rw-r-- root/root        64 2015-03-09 12:01 ansible-relp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-09 12:01 ansible-relp-master/examples/
+-rw-rw-r-- root/root       278 2015-03-09 12:01 ansible-relp-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-03-09 12:01 ansible-relp-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-03-09 12:01 ansible-relp-master/examples/roles/azavea.relp -> ../../
+-rw-rw-r-- root/root       127 2015-03-09 12:01 ansible-relp-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-03-09 12:01 ansible-relp-master/handlers/
+-rw-rw-r-- root/root        68 2015-03-09 12:01 ansible-relp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-09 12:01 ansible-relp-master/meta/
+-rw-rw-r-- root/root       295 2015-03-09 12:01 ansible-relp-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-09 12:01 ansible-relp-master/tasks/
+-rw-rw-r-- root/root       227 2015-03-09 12:01 ansible-relp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-09 12:01 ansible-relp-master/templates/
+-rw-rw-r-- root/root       434 2015-03-09 12:01 ansible-relp-master/templates/01-omrelp.conf.j2

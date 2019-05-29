@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-26 06:25 varnish-master/
+-rw-rw-r-- root/root       963 2015-06-26 06:25 varnish-master/README.md
+drwxrwxr-x root/root         0 2015-06-26 06:25 varnish-master/defaults/
+-rw-rw-r-- root/root       382 2015-06-26 06:25 varnish-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-26 06:25 varnish-master/handlers/
+-rw-rw-r-- root/root       153 2015-06-26 06:25 varnish-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-26 06:25 varnish-master/meta/
+-rw-rw-r-- root/root       229 2015-06-26 06:25 varnish-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-26 06:25 varnish-master/tasks/
+-rw-rw-r-- root/root       118 2015-06-26 06:25 varnish-master/tasks/config.yml
+-rw-rw-r-- root/root       542 2015-06-26 06:25 varnish-master/tasks/install.yml
+-rw-rw-r-- root/root        89 2015-06-26 06:25 varnish-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-26 06:25 varnish-master/templates/
+-rw-rw-r-- root/root     16641 2015-06-26 06:25 varnish-master/templates/default.vcl.j2
+-rw-rw-r-- root/root      3663 2015-06-26 06:25 varnish-master/templates/varnish.j2

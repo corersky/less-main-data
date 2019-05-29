@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-05 21:04 ansible-docker-osx-install-master/
+-rw-rw-r-- root/root        16 2017-04-05 21:04 ansible-docker-osx-install-master/.gitignore
+-rw-rw-r-- root/root       580 2017-04-05 21:04 ansible-docker-osx-install-master/.travis.yml
+-rw-rw-r-- root/root      1057 2017-04-05 21:04 ansible-docker-osx-install-master/LICENSE
+-rw-rw-r-- root/root       649 2017-04-05 21:04 ansible-docker-osx-install-master/README.md
+drwxrwxr-x root/root         0 2017-04-05 21:04 ansible-docker-osx-install-master/defaults/
+-rw-rw-r-- root/root       122 2017-04-05 21:04 ansible-docker-osx-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-05 21:04 ansible-docker-osx-install-master/meta/
+-rw-rw-r-- root/root      3984 2017-04-05 21:04 ansible-docker-osx-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-05 21:04 ansible-docker-osx-install-master/tasks/
+-rw-rw-r-- root/root       872 2017-04-05 21:04 ansible-docker-osx-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-05 21:04 ansible-docker-osx-install-master/tests/
+-rw-rw-r-- root/root         9 2017-04-05 21:04 ansible-docker-osx-install-master/tests/inventory
+-rw-rw-r-- root/root        42 2017-04-05 21:04 ansible-docker-osx-install-master/tests/test.yml

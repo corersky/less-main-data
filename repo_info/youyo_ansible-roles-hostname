@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:25 ansible-roles-hostname-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/defaults/
+-rw-rw-r-- root/root        23 2018-11-19 12:25 ansible-roles-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/handlers/
+-rw-rw-r-- root/root        46 2018-11-19 12:25 ansible-roles-hostname-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/meta/
+-rw-rw-r-- root/root       280 2018-11-19 12:25 ansible-roles-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/tasks/
+lrwxrwxrwx root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/tasks/amzn.yml -> amzn2.yml
+-rw-rw-r-- root/root        64 2018-11-19 12:25 ansible-roles-hostname-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/tasks/el6.yml -> amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       468 2018-11-19 12:25 ansible-roles-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:25 ansible-roles-hostname-master/vars/
+-rw-rw-r-- root/root        42 2018-11-19 12:25 ansible-roles-hostname-master/vars/main.yml

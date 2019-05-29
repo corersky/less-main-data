@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-30 15:07 ansible-role-system-update-master/
+-rw-rw-r-- root/root       486 2015-06-30 15:07 ansible-role-system-update-master/.drone.yml
+-rw-rw-r-- root/root       747 2015-06-30 15:07 ansible-role-system-update-master/.travis.yml
+-rw-rw-r-- root/root     18027 2015-06-30 15:07 ansible-role-system-update-master/LICENSE
+-rw-rw-r-- root/root       598 2015-06-30 15:07 ansible-role-system-update-master/README.md
+drwxrwxr-x root/root         0 2015-06-30 15:07 ansible-role-system-update-master/meta/
+-rw-rw-r-- root/root       394 2015-06-30 15:07 ansible-role-system-update-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-30 15:07 ansible-role-system-update-master/tasks/
+-rw-rw-r-- root/root       145 2015-06-30 15:07 ansible-role-system-update-master/tasks/Debian.yml
+-rw-rw-r-- root/root        83 2015-06-30 15:07 ansible-role-system-update-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       145 2015-06-30 15:07 ansible-role-system-update-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       258 2015-06-30 15:07 ansible-role-system-update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-30 15:07 ansible-role-system-update-master/tests/
+-rw-rw-r-- root/root        10 2015-06-30 15:07 ansible-role-system-update-master/tests/inventory
+-rw-rw-r-- root/root        85 2015-06-30 15:07 ansible-role-system-update-master/tests/test.yml

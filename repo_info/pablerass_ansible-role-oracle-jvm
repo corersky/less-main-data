@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-26 05:26 ansible-role-oracle-jvm-master/
+-rw-rw-r-- root/root       539 2017-01-26 05:26 ansible-role-oracle-jvm-master/.travis.yml
+-rw-rw-r-- root/root      7651 2017-01-26 05:26 ansible-role-oracle-jvm-master/LICENSE
+-rw-rw-r-- root/root       450 2017-01-26 05:26 ansible-role-oracle-jvm-master/README.md
+drwxrwxr-x root/root         0 2017-01-26 05:26 ansible-role-oracle-jvm-master/defaults/
+-rw-rw-r-- root/root        35 2017-01-26 05:26 ansible-role-oracle-jvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-26 05:26 ansible-role-oracle-jvm-master/handlers/
+-rw-rw-r-- root/root        35 2017-01-26 05:26 ansible-role-oracle-jvm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-26 05:26 ansible-role-oracle-jvm-master/meta/
+-rw-rw-r-- root/root       247 2017-01-26 05:26 ansible-role-oracle-jvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-26 05:26 ansible-role-oracle-jvm-master/tasks/
+-rw-rw-r-- root/root       993 2017-01-26 05:26 ansible-role-oracle-jvm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-26 05:26 ansible-role-oracle-jvm-master/tests/
+-rw-rw-r-- root/root         9 2017-01-26 05:26 ansible-role-oracle-jvm-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-01-26 05:26 ansible-role-oracle-jvm-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-26 05:26 ansible-role-oracle-jvm-master/vars/
+-rw-rw-r-- root/root       119 2017-01-26 05:26 ansible-role-oracle-jvm-master/vars/main.yml

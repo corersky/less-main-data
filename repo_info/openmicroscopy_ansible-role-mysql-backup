@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-15 09:11 ansible-role-mysql-backup-master/
+-rw-rw-r-- root/root       217 2017-02-15 09:11 ansible-role-mysql-backup-master/.travis.yml
+-rw-rw-r-- root/root      1465 2017-02-15 09:11 ansible-role-mysql-backup-master/README.md
+drwxrwxr-x root/root         0 2017-02-15 09:11 ansible-role-mysql-backup-master/defaults/
+-rw-rw-r-- root/root       204 2017-02-15 09:11 ansible-role-mysql-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-15 09:11 ansible-role-mysql-backup-master/meta/
+-rw-rw-r-- root/root       304 2017-02-15 09:11 ansible-role-mysql-backup-master/meta/main.yml
+-rw-rw-r-- root/root       386 2017-02-15 09:11 ansible-role-mysql-backup-master/molecule.yml
+-rw-rw-r-- root/root       510 2017-02-15 09:11 ansible-role-mysql-backup-master/playbook.yml
+drwxrwxr-x root/root         0 2017-02-15 09:11 ansible-role-mysql-backup-master/tasks/
+-rw-rw-r-- root/root       459 2017-02-15 09:11 ansible-role-mysql-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-15 09:11 ansible-role-mysql-backup-master/templates/
+-rw-rw-r-- root/root       443 2017-02-15 09:11 ansible-role-mysql-backup-master/templates/etc-crond-mysql-backup.j2
+drwxrwxr-x root/root         0 2017-02-15 09:11 ansible-role-mysql-backup-master/tests/
+-rw-rw-r-- root/root       611 2017-02-15 09:11 ansible-role-mysql-backup-master/tests/test_default.py

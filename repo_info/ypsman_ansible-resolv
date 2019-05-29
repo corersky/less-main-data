@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-08 12:19 ansible-resolv-master/
+-rw-rw-r-- root/root       782 2018-08-08 12:19 ansible-resolv-master/.travis.yml
+-rw-rw-r-- root/root       561 2018-08-08 12:19 ansible-resolv-master/README.md
+drwxrwxr-x root/root         0 2018-08-08 12:19 ansible-resolv-master/defaults/
+-rw-rw-r-- root/root       136 2018-08-08 12:19 ansible-resolv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-08 12:19 ansible-resolv-master/meta/
+-rw-rw-r-- root/root       329 2018-08-08 12:19 ansible-resolv-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-08 12:19 ansible-resolv-master/tasks/
+-rw-rw-r-- root/root       129 2018-08-08 12:19 ansible-resolv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-08 12:19 ansible-resolv-master/templates/
+-rw-rw-r-- root/root       432 2018-08-08 12:19 ansible-resolv-master/templates/resolv.conf.j2
+drwxrwxr-x root/root         0 2018-08-08 12:19 ansible-resolv-master/tests/
+-rw-rw-r-- root/root         9 2018-08-08 12:19 ansible-resolv-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-08-08 12:19 ansible-resolv-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-24 08:33 ansible-role-common-master/
+-rw-rw-r-- root/root      1183 2016-08-24 08:33 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2016-08-24 08:33 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root       278 2016-08-24 08:33 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-24 08:33 ansible-role-common-master/handlers/
+-rw-rw-r-- root/root        31 2016-08-24 08:33 ansible-role-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-24 08:33 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       518 2016-08-24 08:33 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-24 08:33 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root       212 2016-08-24 08:33 ansible-role-common-master/tasks/install_suse.yml
+-rw-rw-r-- root/root       490 2016-08-24 08:33 ansible-role-common-master/tasks/install_ubuntu.yml
+-rw-rw-r-- root/root       241 2016-08-24 08:33 ansible-role-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-24 08:33 ansible-role-common-master/vars/
+-rw-rw-r-- root/root        27 2016-08-24 08:33 ansible-role-common-master/vars/main.yml

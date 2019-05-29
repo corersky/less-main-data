@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-04 01:55 ansible-yum-cron-master/
+-rw-rw-r-- root/root       815 2019-05-04 01:55 ansible-yum-cron-master/.gitignore
+-rw-rw-r-- root/root      1079 2019-05-04 01:55 ansible-yum-cron-master/LICENSE
+-rw-rw-r-- root/root      1223 2019-05-04 01:55 ansible-yum-cron-master/README.md
+drwxrwxr-x root/root         0 2019-05-04 01:55 ansible-yum-cron-master/defaults/
+-rw-rw-r-- root/root       842 2019-05-04 01:55 ansible-yum-cron-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-04 01:55 ansible-yum-cron-master/handlers/
+-rw-rw-r-- root/root       112 2019-05-04 01:55 ansible-yum-cron-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-04 01:55 ansible-yum-cron-master/meta/
+-rw-rw-r-- root/root       397 2019-05-04 01:55 ansible-yum-cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-04 01:55 ansible-yum-cron-master/tasks/
+-rw-rw-r-- root/root       890 2019-05-04 01:55 ansible-yum-cron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-04 01:55 ansible-yum-cron-master/templates/
+-rw-rw-r-- root/root      2839 2019-05-04 01:55 ansible-yum-cron-master/templates/yum-cron-hourly.conf.j2
+-rw-rw-r-- root/root      2857 2019-05-04 01:55 ansible-yum-cron-master/templates/yum-cron.conf.j2
+-rw-rw-r-- root/root       202 2019-05-04 01:55 ansible-yum-cron-master/templates/yum_clean_cron.j2

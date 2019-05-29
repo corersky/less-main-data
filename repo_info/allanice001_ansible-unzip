@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-16 23:19 ansible-unzip-master/
+-rw-rw-r-- root/root      1328 2019-01-16 23:19 ansible-unzip-master/README.md
+drwxrwxr-x root/root         0 2019-01-16 23:19 ansible-unzip-master/defaults/
+-rw-rw-r-- root/root        39 2019-01-16 23:19 ansible-unzip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-16 23:19 ansible-unzip-master/handlers/
+-rw-rw-r-- root/root        39 2019-01-16 23:19 ansible-unzip-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-16 23:19 ansible-unzip-master/meta/
+-rw-rw-r-- root/root       723 2019-01-16 23:19 ansible-unzip-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-16 23:19 ansible-unzip-master/tasks/
+-rw-rw-r-- root/root        56 2019-01-16 23:19 ansible-unzip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-16 23:19 ansible-unzip-master/tests/
+-rw-rw-r-- root/root        11 2019-01-16 23:19 ansible-unzip-master/tests/inventory
+-rw-rw-r-- root/root        73 2019-01-16 23:19 ansible-unzip-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-16 23:19 ansible-unzip-master/vars/
+-rw-rw-r-- root/root        35 2019-01-16 23:19 ansible-unzip-master/vars/main.yml

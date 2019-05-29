@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-14 10:18 ansible-role-webmin-master/
+-rw-rw-r-- root/root       387 2019-03-14 10:18 ansible-role-webmin-master/README.md
+drwxrwxr-x root/root         0 2019-03-14 10:18 ansible-role-webmin-master/defaults/
+-rw-rw-r-- root/root       188 2019-03-14 10:18 ansible-role-webmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-14 10:18 ansible-role-webmin-master/handlers/
+-rw-rw-r-- root/root       116 2019-03-14 10:18 ansible-role-webmin-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-14 10:18 ansible-role-webmin-master/meta/
+-rw-rw-r-- root/root       378 2019-03-14 10:18 ansible-role-webmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-14 10:18 ansible-role-webmin-master/tasks/
+-rw-rw-r-- root/root      2055 2019-03-14 10:18 ansible-role-webmin-master/tasks/debian.yml
+-rw-rw-r-- root/root      1315 2019-03-14 10:18 ansible-role-webmin-master/tasks/debian.yml.save
+-rw-rw-r-- root/root       171 2019-03-14 10:18 ansible-role-webmin-master/tasks/main.yml
+-rw-rw-r-- root/root      1316 2019-03-14 10:18 ansible-role-webmin-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2019-03-14 10:18 ansible-role-webmin-master/vars/
+-rw-rw-r-- root/root        54 2019-03-14 10:18 ansible-role-webmin-master/vars/main.yml

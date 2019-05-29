@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-sentry-master/
+-rw-rw-r-- root/root       893 2016-08-14 21:56 docker-sentry-master/.travis.yml
+-rw-rw-r-- root/root      1075 2016-08-14 21:56 docker-sentry-master/LICENSE.txt
+-rw-rw-r-- root/root      2452 2016-08-14 21:56 docker-sentry-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-sentry-master/defaults/
+-rwxrwxr-x root/root      2929 2016-08-14 21:56 docker-sentry-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-sentry-master/meta/
+-rw-rw-r-- root/root       348 2016-08-14 21:56 docker-sentry-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-sentry-master/tasks/
+-rwxrwxr-x root/root      1352 2016-08-14 21:56 docker-sentry-master/tasks/celery.yml
+-rwxrwxr-x root/root      2291 2016-08-14 21:56 docker-sentry-master/tasks/main.yml
+-rwxrwxr-x root/root      1615 2016-08-14 21:56 docker-sentry-master/tasks/server.yml
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-sentry-master/templates/
+-rw-rw-r-- root/root      8533 2016-08-14 21:56 docker-sentry-master/templates/sentry.conf.py.j2
+drwxrwxr-x root/root         0 2016-08-14 21:56 docker-sentry-master/tests/
+-rw-rw-r-- root/root       170 2016-08-14 21:56 docker-sentry-master/tests/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-06-29 06:13 ansible-role-gems-master/
+-rw-rw-r-- root/root        15 2016-06-29 06:13 ansible-role-gems-master/.gitignore
+-rw-rw-r-- root/root      1177 2016-06-29 06:13 ansible-role-gems-master/.travis.yml
+-rw-rw-r-- root/root       860 2016-06-29 06:13 ansible-role-gems-master/README.md
+drwxrwxr-x root/root         0 2016-06-29 06:13 ansible-role-gems-master/defaults/
+-rw-rw-r-- root/root        70 2016-06-29 06:13 ansible-role-gems-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-29 06:13 ansible-role-gems-master/meta/
+-rw-rw-r-- root/root       305 2016-06-29 06:13 ansible-role-gems-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-29 06:13 ansible-role-gems-master/tasks/
+-rw-rw-r-- root/root       335 2016-06-29 06:13 ansible-role-gems-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-29 06:13 ansible-role-gems-master/tests/
+-rw-rw-r-- root/root        10 2016-06-29 06:13 ansible-role-gems-master/tests/inventory
+-rw-rw-r-- root/root       175 2016-06-29 06:13 ansible-role-gems-master/tests/test.yml

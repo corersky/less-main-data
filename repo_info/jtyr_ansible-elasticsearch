@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-09 08:37 ansible-elasticsearch-master/
+-rw-rw-r-- root/root         0 2019-01-09 08:37 ansible-elasticsearch-master/.gitignore
+-rw-rw-r-- root/root      1080 2019-01-09 08:37 ansible-elasticsearch-master/LICENSE
+-rw-rw-r-- root/root     11604 2019-01-09 08:37 ansible-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2019-01-09 08:37 ansible-elasticsearch-master/defaults/
+-rw-rw-r-- root/root      8689 2019-01-09 08:37 ansible-elasticsearch-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 08:37 ansible-elasticsearch-master/handlers/
+-rw-rw-r-- root/root       223 2019-01-09 08:37 ansible-elasticsearch-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 08:37 ansible-elasticsearch-master/meta/
+-rw-rw-r-- root/root       324 2019-01-09 08:37 ansible-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-09 08:37 ansible-elasticsearch-master/tasks/
+-rw-rw-r-- root/root      7168 2019-01-09 08:37 ansible-elasticsearch-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 08:37 ansible-elasticsearch-master/templates/
+-rw-rw-r-- root/root        93 2019-01-09 08:37 ansible-elasticsearch-master/templates/elasticsearch.sysconfig.j2
+-rw-rw-r-- root/root        74 2019-01-09 08:37 ansible-elasticsearch-master/templates/elasticsearch.yml.j2
+-rw-rw-r-- root/root        92 2019-01-09 08:37 ansible-elasticsearch-master/templates/jvm.options.j2
+-rw-rw-r-- root/root        17 2019-01-09 08:37 ansible-elasticsearch-master/templates/script.j2

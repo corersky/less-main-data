@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/
+-rw-rw-r-- root/root       539 2016-10-06 02:33 serf_install-master/.travis.yml
+-rw-rw-r-- root/root      1022 2016-10-06 02:33 serf_install-master/README.md
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/defaults/
+-rw-rw-r-- root/root       114 2016-10-06 02:33 serf_install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/files/
+-rw-rw-r-- root/root       113 2016-10-06 02:33 serf_install-master/files/event.sh
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/handlers/
+-rw-rw-r-- root/root        37 2016-10-06 02:33 serf_install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/meta/
+-rw-rw-r-- root/root       264 2016-10-06 02:33 serf_install-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/tasks/
+-rw-rw-r-- root/root       791 2016-10-06 02:33 serf_install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/tests/
+-rw-rw-r-- root/root       150 2016-10-06 02:33 serf_install-master/tests/inventory
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-10-06 02:33 serf_install-master/tests/roles/serf_install -> .
+-rw-rw-r-- root/root        28 2016-10-06 02:33 serf_install-master/tests/test.retry
+-rw-rw-r-- root/root        93 2016-10-06 02:33 serf_install-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-06 02:33 serf_install-master/vars/
+-rw-rw-r-- root/root        33 2016-10-06 02:33 serf_install-master/vars/main.yml

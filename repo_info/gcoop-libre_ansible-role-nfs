@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-17 11:50 ansible-role-nfs-master/
+-rw-rw-r-- root/root       539 2017-01-17 11:50 ansible-role-nfs-master/.travis.yml
+-rw-rw-r-- root/root      1828 2017-01-17 11:50 ansible-role-nfs-master/README.md
+drwxrwxr-x root/root         0 2017-01-17 11:50 ansible-role-nfs-master/defaults/
+-rw-rw-r-- root/root       300 2017-01-17 11:50 ansible-role-nfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-17 11:50 ansible-role-nfs-master/handlers/
+-rw-rw-r-- root/root        91 2017-01-17 11:50 ansible-role-nfs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-17 11:50 ansible-role-nfs-master/meta/
+-rw-rw-r-- root/root       353 2017-01-17 11:50 ansible-role-nfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-17 11:50 ansible-role-nfs-master/tasks/
+-rw-rw-r-- root/root       758 2017-01-17 11:50 ansible-role-nfs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-17 11:50 ansible-role-nfs-master/templates/
+-rw-rw-r-- root/root       195 2017-01-17 11:50 ansible-role-nfs-master/templates/nfs-server.conf.j2
+drwxrwxr-x root/root         0 2017-01-17 11:50 ansible-role-nfs-master/tests/
+-rw-rw-r-- root/root         9 2017-01-17 11:50 ansible-role-nfs-master/tests/inventory
+-rw-rw-r-- root/root       176 2017-01-17 11:50 ansible-role-nfs-master/tests/test.yml

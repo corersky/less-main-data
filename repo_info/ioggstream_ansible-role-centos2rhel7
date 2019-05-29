@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-26 10:30 ansible-role-centos2rhel7-master/
+-rw-rw-r-- root/root      1045 2017-01-26 10:30 ansible-role-centos2rhel7-master/.gitignore
+-rw-rw-r-- root/root     11357 2017-01-26 10:30 ansible-role-centos2rhel7-master/LICENSE
+-rw-rw-r-- root/root       459 2017-01-26 10:30 ansible-role-centos2rhel7-master/README.md
+drwxrwxr-x root/root         0 2017-01-26 10:30 ansible-role-centos2rhel7-master/files/
+-rw-rw-r-- root/root     28376 2017-01-26 10:30 ansible-role-centos2rhel7-master/files/redhat-release-server-7.3-7.el7.x86_64.rpm
+-rw-rw-r-- root/root   1285404 2017-01-26 10:30 ansible-role-centos2rhel7-master/files/yum-3.4.3-150.el7.noarch.rpm
+drwxrwxr-x root/root         0 2017-01-26 10:30 ansible-role-centos2rhel7-master/meta/
+-rw-rw-r-- root/root      3562 2017-01-26 10:30 ansible-role-centos2rhel7-master/meta/main.yml
+-rw-rw-r-- root/root       184 2017-01-26 10:30 ansible-role-centos2rhel7-master/molecule.yml
+-rw-rw-r-- root/root        51 2017-01-26 10:30 ansible-role-centos2rhel7-master/playbook.yml
+drwxrwxr-x root/root         0 2017-01-26 10:30 ansible-role-centos2rhel7-master/tasks/
+-rw-rw-r-- root/root       138 2017-01-26 10:30 ansible-role-centos2rhel7-master/tasks/main.yml
+-rw-rw-r-- root/root       675 2017-01-26 10:30 ansible-role-centos2rhel7-master/tasks/migrate.yml
+drwxrwxr-x root/root         0 2017-01-26 10:30 ansible-role-centos2rhel7-master/tests/
+-rw-rw-r-- root/root       298 2017-01-26 10:30 ansible-role-centos2rhel7-master/tests/test_default.py

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-17 14:43 ansible-rails-master/
+-rw-rw-r-- root/root       539 2019-04-17 14:43 ansible-rails-master/.travis.yml
+-rw-rw-r-- root/root      1328 2019-04-17 14:43 ansible-rails-master/README.md
+drwxrwxr-x root/root         0 2019-04-17 14:43 ansible-rails-master/defaults/
+-rw-rw-r-- root/root        61 2019-04-17 14:43 ansible-rails-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-17 14:43 ansible-rails-master/handlers/
+-rw-rw-r-- root/root        38 2019-04-17 14:43 ansible-rails-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-17 14:43 ansible-rails-master/meta/
+-rw-rw-r-- root/root       355 2019-04-17 14:43 ansible-rails-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-17 14:43 ansible-rails-master/tasks/
+-rw-rw-r-- root/root      1146 2019-04-17 14:43 ansible-rails-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-17 14:43 ansible-rails-master/tests/
+-rw-rw-r-- root/root         9 2019-04-17 14:43 ansible-rails-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-04-17 14:43 ansible-rails-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-17 14:43 ansible-rails-master/vars/
+-rw-rw-r-- root/root        34 2019-04-17 14:43 ansible-rails-master/vars/main.yml

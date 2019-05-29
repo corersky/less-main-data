@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-20 11:17 ansible-collectd-master/
+-rw-rw-r-- root/root      1710 2016-05-20 11:17 ansible-collectd-master/README.md
+drwxrwxr-x root/root         0 2016-05-20 11:17 ansible-collectd-master/defaults/
+-rw-rw-r-- root/root       176 2016-05-20 11:17 ansible-collectd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-20 11:17 ansible-collectd-master/handlers/
+-rw-rw-r-- root/root        70 2016-05-20 11:17 ansible-collectd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-20 11:17 ansible-collectd-master/meta/
+-rw-rw-r-- root/root      2361 2016-05-20 11:17 ansible-collectd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-20 11:17 ansible-collectd-master/tasks/
+-rw-rw-r-- root/root       502 2016-05-20 11:17 ansible-collectd-master/tasks/main.yml
+-rw-rw-r-- root/root       108 2016-05-20 11:17 ansible-collectd-master/tasks/setup-redhat.yml
+drwxrwxr-x root/root         0 2016-05-20 11:17 ansible-collectd-master/templates/
+-rw-rw-r-- root/root       132 2016-05-20 11:17 ansible-collectd-master/templates/plugin.conf.j2
+drwxrwxr-x root/root         0 2016-05-20 11:17 ansible-collectd-master/vars/
+-rw-rw-r-- root/root        65 2016-05-20 11:17 ansible-collectd-master/vars/RedHat.yml
+-rw-rw-r-- root/root        29 2016-05-20 11:17 ansible-collectd-master/vars/main.yml

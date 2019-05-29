@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-11-21 22:10 simple-cluster-master/
+-rw-rw-r-- root/root      1078 2017-11-21 22:10 simple-cluster-master/LICENSE
+-rw-rw-r-- root/root       421 2017-11-21 22:10 simple-cluster-master/README.md
+drwxrwxr-x root/root         0 2017-11-21 22:10 simple-cluster-master/defaults/
+-rw-rw-r-- root/root        18 2017-11-21 22:10 simple-cluster-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-21 22:10 simple-cluster-master/examples/
+-rw-rw-r-- root/root      2454 2017-11-21 22:10 simple-cluster-master/examples/playbook.yml
+drwxrwxr-x root/root         0 2017-11-21 22:10 simple-cluster-master/meta/
+-rw-rw-r-- root/root       390 2017-11-21 22:10 simple-cluster-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-21 22:10 simple-cluster-master/tasks/
+-rw-rw-r-- root/root       809 2017-11-21 22:10 simple-cluster-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-21 22:10 simple-cluster-master/templates/
+-rw-rw-r-- root/root     13277 2017-11-21 22:10 simple-cluster-master/templates/stack.yml.j2

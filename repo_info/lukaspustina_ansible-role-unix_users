@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-unix_users-master/
+-rw-rw-r-- root/root     18047 2016-08-10 13:27 ansible-role-unix_users-master/LICENSE
+-rw-rw-r-- root/root      1109 2016-08-10 13:27 ansible-role-unix_users-master/README.md
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-unix_users-master/defaults/
+-rw-rw-r-- root/root       295 2016-08-10 13:27 ansible-role-unix_users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-unix_users-master/meta/
+-rw-rw-r-- root/root       230 2016-08-10 13:27 ansible-role-unix_users-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-10 13:27 ansible-role-unix_users-master/tasks/
+-rw-rw-r-- root/root       726 2016-08-10 13:27 ansible-role-unix_users-master/tasks/add.yml
+-rw-rw-r-- root/root       636 2016-08-10 13:27 ansible-role-unix_users-master/tasks/main.yml
+-rw-rw-r-- root/root       176 2016-08-10 13:27 ansible-role-unix_users-master/tasks/remove.yml

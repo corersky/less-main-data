@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-05 15:45 ansible-aws-asg-master/
+-rw-rw-r-- root/root      8278 2018-01-05 15:45 ansible-aws-asg-master/README.md
+-rw-rw-r-- root/root       465 2018-01-05 15:45 ansible-aws-asg-master/circle.yml
+drwxrwxr-x root/root         0 2018-01-05 15:45 ansible-aws-asg-master/meta/
+-rw-rw-r-- root/root       347 2018-01-05 15:45 ansible-aws-asg-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-05 15:45 ansible-aws-asg-master/tasks/
+-rw-rw-r-- root/root      2864 2018-01-05 15:45 ansible-aws-asg-master/tasks/asg.yaml
+-rw-rw-r-- root/root       965 2018-01-05 15:45 ansible-aws-asg-master/tasks/asg_ec2.yaml
+-rw-rw-r-- root/root       977 2018-01-05 15:45 ansible-aws-asg-master/tasks/asg_elb.yaml
+-rw-rw-r-- root/root       117 2018-01-05 15:45 ansible-aws-asg-master/tasks/destroy.yaml
+-rw-rw-r-- root/root      1251 2018-01-05 15:45 ansible-aws-asg-master/tasks/lifecycle-hook.yaml
+-rw-rw-r-- root/root       587 2018-01-05 15:45 ansible-aws-asg-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-05 15:45 ansible-aws-asg-master/tests/
+-rw-rw-r-- root/root         9 2018-01-05 15:45 ansible-aws-asg-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-01-05 15:45 ansible-aws-asg-master/tests/test.yaml
+drwxrwxr-x root/root         0 2018-01-05 15:45 ansible-aws-asg-master/vars/
+-rw-rw-r-- root/root      1383 2018-01-05 15:45 ansible-aws-asg-master/vars/main.yml

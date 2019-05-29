@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-28 03:43 ansible-lxc-master/
+-rw-rw-r-- root/root      1828 2019-02-28 03:43 ansible-lxc-master/README.md
+drwxrwxr-x root/root         0 2019-02-28 03:43 ansible-lxc-master/defaults/
+-rw-rw-r-- root/root       582 2019-02-28 03:43 ansible-lxc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-28 03:43 ansible-lxc-master/handlers/
+-rw-rw-r-- root/root      1612 2019-02-28 03:43 ansible-lxc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-28 03:43 ansible-lxc-master/meta/
+-rw-rw-r-- root/root       396 2019-02-28 03:43 ansible-lxc-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-28 03:43 ansible-lxc-master/tasks/
+-rw-rw-r-- root/root      1334 2019-02-28 03:43 ansible-lxc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-28 03:43 ansible-lxc-master/templates/
+-rw-rw-r-- root/root       559 2019-02-28 03:43 ansible-lxc-master/templates/container.conf.j2
+drwxrwxr-x root/root         0 2019-02-28 03:43 ansible-lxc-master/tests/
+-rw-rw-r-- root/root        11 2019-02-28 03:43 ansible-lxc-master/tests/inventory
+-rw-rw-r-- root/root        64 2019-02-28 03:43 ansible-lxc-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-28 03:43 ansible-lxc-master/vars/
+-rw-rw-r-- root/root        26 2019-02-28 03:43 ansible-lxc-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-25 23:28 ansible-role-php5-fpm-master/
+-rw-rw-r-- root/root       599 2015-11-25 23:28 ansible-role-php5-fpm-master/README.md
+drwxrwxr-x root/root         0 2015-11-25 23:28 ansible-role-php5-fpm-master/defaults/
+-rw-rw-r-- root/root       212 2015-11-25 23:28 ansible-role-php5-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-25 23:28 ansible-role-php5-fpm-master/handlers/
+-rw-rw-r-- root/root        76 2015-11-25 23:28 ansible-role-php5-fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-25 23:28 ansible-role-php5-fpm-master/meta/
+-rw-rw-r-- root/root       229 2015-11-25 23:28 ansible-role-php5-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-25 23:28 ansible-role-php5-fpm-master/tasks/
+-rw-rw-r-- root/root       692 2015-11-25 23:28 ansible-role-php5-fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-25 23:28 ansible-role-php5-fpm-master/templates/
+-rw-rw-r-- root/root      4550 2015-11-25 23:28 ansible-role-php5-fpm-master/templates/php-fpm.conf
+-rw-rw-r-- root/root     70010 2015-11-25 23:28 ansible-role-php5-fpm-master/templates/php.ini

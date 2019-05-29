@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-daemonize-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:08 ansible-role-daemonize-master/.gitignore
+-rw-rw-r-- root/root       591 2019-05-16 22:08 ansible-role-daemonize-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:08 ansible-role-daemonize-master/LICENSE
+-rw-rw-r-- root/root      1226 2019-05-16 22:08 ansible-role-daemonize-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-daemonize-master/defaults/
+-rw-rw-r-- root/root        78 2019-05-16 22:08 ansible-role-daemonize-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-daemonize-master/meta/
+-rw-rw-r-- root/root       499 2019-05-16 22:08 ansible-role-daemonize-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-daemonize-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-daemonize-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:08 ansible-role-daemonize-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       722 2019-05-16 22:08 ansible-role-daemonize-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:08 ansible-role-daemonize-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-daemonize-master/tasks/
+-rw-rw-r-- root/root       871 2019-05-16 22:08 ansible-role-daemonize-master/tasks/main.yml

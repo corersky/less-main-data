@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-11 09:26 ansible-apt-repo-master/
+-rw-rw-r-- root/root        32 2016-11-11 09:26 ansible-apt-repo-master/.gitignore
+-rw-rw-r-- root/root       948 2016-11-11 09:26 ansible-apt-repo-master/README.md
+-rw-rw-r-- root/root       119 2016-11-11 09:26 ansible-apt-repo-master/Vagrantfile
+-rw-rw-r-- root/root        54 2016-11-11 09:26 ansible-apt-repo-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-11-11 09:26 ansible-apt-repo-master/defaults/
+-rw-rw-r-- root/root        53 2016-11-11 09:26 ansible-apt-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-11 09:26 ansible-apt-repo-master/meta/
+-rw-rw-r-- root/root       313 2016-11-11 09:26 ansible-apt-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-11 09:26 ansible-apt-repo-master/tasks/
+-rw-rw-r-- root/root      1083 2016-11-11 09:26 ansible-apt-repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-11 09:26 ansible-apt-repo-master/templates/
+-rw-rw-r-- root/root       107 2016-11-11 09:26 ansible-apt-repo-master/templates/apt.conf.j2
+-rw-rw-r-- root/root       386 2016-11-11 09:26 ansible-apt-repo-master/templates/sources.list.j2
+-rw-rw-r-- root/root       121 2016-11-11 09:26 ansible-apt-repo-master/test_playbook_vagrant.yml
+drwxrwxr-x root/root         0 2016-11-11 09:26 ansible-apt-repo-master/vars/
+-rw-rw-r-- root/root      1622 2016-11-11 09:26 ansible-apt-repo-master/vars/main.yml

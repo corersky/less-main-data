@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-09 21:18 ansible-role-iterm2-master/
+-rw-rw-r-- root/root       331 2019-03-09 21:18 ansible-role-iterm2-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-03-09 21:18 ansible-role-iterm2-master/COPYING
+-rw-rw-r-- root/root      1728 2019-03-09 21:18 ansible-role-iterm2-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 21:18 ansible-role-iterm2-master/defaults/
+-rw-rw-r-- root/root       110 2019-03-09 21:18 ansible-role-iterm2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:18 ansible-role-iterm2-master/meta/
+-rw-rw-r-- root/root       269 2019-03-09 21:18 ansible-role-iterm2-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:18 ansible-role-iterm2-master/tasks/
+-rw-rw-r-- root/root       693 2019-03-09 21:18 ansible-role-iterm2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:18 ansible-role-iterm2-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 21:18 ansible-role-iterm2-master/tests/inventory
+-rw-rw-r-- root/root        82 2019-03-09 21:18 ansible-role-iterm2-master/tests/test.yml

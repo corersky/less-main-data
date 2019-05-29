@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-21 09:05 ansible-role-hddtemp-master/
+-rw-rw-r-- root/root        67 2019-02-21 09:05 ansible-role-hddtemp-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 09:05 ansible-role-hddtemp-master/defaults/
+-rw-rw-r-- root/root       414 2019-02-21 09:05 ansible-role-hddtemp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 09:05 ansible-role-hddtemp-master/handlers/
+-rw-rw-r-- root/root       589 2019-02-21 09:05 ansible-role-hddtemp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-21 09:05 ansible-role-hddtemp-master/meta/
+-rw-rw-r-- root/root       418 2019-02-21 09:05 ansible-role-hddtemp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 09:05 ansible-role-hddtemp-master/tasks/
+-rw-rw-r-- root/root       423 2019-02-21 09:05 ansible-role-hddtemp-master/tasks/configure.yml
+-rw-rw-r-- root/root       114 2019-02-21 09:05 ansible-role-hddtemp-master/tasks/main.yml
+-rw-rw-r-- root/root        97 2019-02-21 09:05 ansible-role-hddtemp-master/tasks/packages.yml
+drwxrwxr-x root/root         0 2019-02-21 09:05 ansible-role-hddtemp-master/templates/
+-rw-rw-r-- root/root      1770 2019-02-21 09:05 ansible-role-hddtemp-master/templates/hddtemp.conf.j2

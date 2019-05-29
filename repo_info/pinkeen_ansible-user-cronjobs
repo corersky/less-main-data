@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-06-13 09:27 ansible-user-cronjobs-master/
+-rw-rw-r-- root/root       816 2017-06-13 09:27 ansible-user-cronjobs-master/README.md
+drwxrwxr-x root/root         0 2017-06-13 09:27 ansible-user-cronjobs-master/defaults/
+-rw-rw-r-- root/root        98 2017-06-13 09:27 ansible-user-cronjobs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-13 09:27 ansible-user-cronjobs-master/meta/
+-rw-rw-r-- root/root       265 2017-06-13 09:27 ansible-user-cronjobs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-13 09:27 ansible-user-cronjobs-master/tasks/
+-rw-rw-r-- root/root       269 2017-06-13 09:27 ansible-user-cronjobs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-13 09:27 ansible-user-cronjobs-master/templates/
+-rw-rw-r-- root/root       460 2017-06-13 09:27 ansible-user-cronjobs-master/templates/crontab

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-17 04:32 ansible-barman-master/
+-rw-rw-r-- root/root         5 2016-08-17 04:32 ansible-barman-master/.gitignore
+-rw-rw-r-- root/root      7651 2016-08-17 04:32 ansible-barman-master/LICENSE
+-rw-rw-r-- root/root       217 2016-08-17 04:32 ansible-barman-master/README.md
+drwxrwxr-x root/root         0 2016-08-17 04:32 ansible-barman-master/defaults/
+-rw-rw-r-- root/root      1857 2016-08-17 04:32 ansible-barman-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-17 04:32 ansible-barman-master/meta/
+-rw-rw-r-- root/root       278 2016-08-17 04:32 ansible-barman-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-17 04:32 ansible-barman-master/tasks/
+-rw-rw-r-- root/root      2311 2016-08-17 04:32 ansible-barman-master/tasks/configure.yml
+-rw-rw-r-- root/root       154 2016-08-17 04:32 ansible-barman-master/tasks/install.yml
+-rw-rw-r-- root/root       123 2016-08-17 04:32 ansible-barman-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-17 04:32 ansible-barman-master/templates/
+-rw-rw-r-- root/root      4190 2016-08-17 04:32 ansible-barman-master/templates/barman.conf.j2

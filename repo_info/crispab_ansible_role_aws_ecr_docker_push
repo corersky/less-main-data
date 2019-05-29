@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/
+-rw-rw-r-- root/root        42 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/.gitignore
+-rw-rw-r-- root/root      1057 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/LICENSE
+-rw-rw-r-- root/root      1597 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/README.md
+drwxrwxr-x root/root         0 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/defaults/
+-rw-rw-r-- root/root       163 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/handlers/
+-rw-rw-r-- root/root        52 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/meta/
+-rw-rw-r-- root/root       484 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/tasks/
+-rw-rw-r-- root/root       814 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/tests/
+-rw-rw-r-- root/root        11 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/tests/inventory
+-rw-rw-r-- root/root        86 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/vars/
+-rw-rw-r-- root/root        48 2019-01-03 11:45 ansible_role_aws_ecr_docker_push-master/vars/main.yml

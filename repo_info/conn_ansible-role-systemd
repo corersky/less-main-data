@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-07 18:36 ansible-role-systemd-master/
+-rw-rw-r-- root/root      1514 2017-12-07 18:36 ansible-role-systemd-master/LICENSE
+-rw-rw-r-- root/root        50 2017-12-07 18:36 ansible-role-systemd-master/README.md
+drwxrwxr-x root/root         0 2017-12-07 18:36 ansible-role-systemd-master/defaults/
+-rw-rw-r-- root/root       117 2017-12-07 18:36 ansible-role-systemd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:36 ansible-role-systemd-master/files/
+-rw-rw-r-- root/root        10 2017-12-07 18:36 ansible-role-systemd-master/files/00-wipe.preset
+-rw-rw-r-- root/root       745 2017-12-07 18:36 ansible-role-systemd-master/files/serial-getty@.service
+drwxrwxr-x root/root         0 2017-12-07 18:36 ansible-role-systemd-master/meta/
+-rw-rw-r-- root/root       258 2017-12-07 18:36 ansible-role-systemd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:36 ansible-role-systemd-master/tasks/
+-rw-rw-r-- root/root       502 2017-12-07 18:36 ansible-role-systemd-master/tasks/build.yml
+drwxrwxr-x root/root         0 2017-12-07 18:36 ansible-role-systemd-master/tasks/build/
+-rw-rw-r-- root/root       345 2017-12-07 18:36 ansible-role-systemd-master/tasks/build/getty.yml
+-rw-rw-r-- root/root       436 2017-12-07 18:36 ansible-role-systemd-master/tasks/build/wipe.yml
+-rw-rw-r-- root/root        45 2017-12-07 18:36 ansible-role-systemd-master/tasks/main.yml

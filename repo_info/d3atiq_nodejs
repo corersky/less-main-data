@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-24 12:33 nodejs-master/
+-rw-rw-r-- root/root      1071 2018-10-24 12:33 nodejs-master/LICENSE
+-rw-rw-r-- root/root      1266 2018-10-24 12:33 nodejs-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 12:33 nodejs-master/defaults/
+-rw-rw-r-- root/root        31 2018-10-24 12:33 nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:33 nodejs-master/handlers/
+-rw-rw-r-- root/root        31 2018-10-24 12:33 nodejs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:33 nodejs-master/meta/
+-rw-rw-r-- root/root       231 2018-10-24 12:33 nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:33 nodejs-master/tasks/
+-rw-rw-r-- root/root       858 2018-10-24 12:33 nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:33 nodejs-master/tests/
+-rw-rw-r-- root/root        11 2018-10-24 12:33 nodejs-master/tests/inventory
+-rw-rw-r-- root/root        65 2018-10-24 12:33 nodejs-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 12:33 nodejs-master/vars/
+-rw-rw-r-- root/root        27 2018-10-24 12:33 nodejs-master/vars/main.yml

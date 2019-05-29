@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-03-25 16:57 ansible-galaxy-hipchat-master/
+-rw-rw-r-- root/root       700 2015-03-25 16:57 ansible-galaxy-hipchat-master/README.md
+drwxrwxr-x root/root         0 2015-03-25 16:57 ansible-galaxy-hipchat-master/defaults/
+-rw-rw-r-- root/root        97 2015-03-25 16:57 ansible-galaxy-hipchat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-25 16:57 ansible-galaxy-hipchat-master/files/
+-rw-rw-r-- root/root        54 2015-03-25 16:57 ansible-galaxy-hipchat-master/files/atlassian-hipchat.list
+drwxrwxr-x root/root         0 2015-03-25 16:57 ansible-galaxy-hipchat-master/handlers/
+-rw-rw-r-- root/root        32 2015-03-25 16:57 ansible-galaxy-hipchat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-25 16:57 ansible-galaxy-hipchat-master/meta/
+-rw-rw-r-- root/root      2101 2015-03-25 16:57 ansible-galaxy-hipchat-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-25 16:57 ansible-galaxy-hipchat-master/tasks/
+-rw-rw-r-- root/root       166 2015-03-25 16:57 ansible-galaxy-hipchat-master/tasks/Debian.yml
+-rw-rw-r-- root/root        89 2015-03-25 16:57 ansible-galaxy-hipchat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-25 16:57 ansible-galaxy-hipchat-master/vars/
+-rw-rw-r-- root/root        28 2015-03-25 16:57 ansible-galaxy-hipchat-master/vars/main.yml

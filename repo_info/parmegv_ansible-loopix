@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2017-02-16 04:40 ansible-loopix-master/
+-rw-rw-r-- root/root         3 2017-02-16 04:40 ansible-loopix-master/.gitignore
+-rw-rw-r-- root/root       555 2017-02-16 04:40 ansible-loopix-master/.travis.yml
+-rw-rw-r-- root/root       964 2017-02-16 04:40 ansible-loopix-master/README.md
+drwxrwxr-x root/root         0 2017-02-16 04:40 ansible-loopix-master/defaults/
+-rw-rw-r-- root/root       158 2017-02-16 04:40 ansible-loopix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-16 04:40 ansible-loopix-master/handlers/
+-rw-rw-r-- root/root        31 2017-02-16 04:40 ansible-loopix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-16 04:40 ansible-loopix-master/meta/
+-rw-rw-r-- root/root       194 2017-02-16 04:40 ansible-loopix-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-16 04:40 ansible-loopix-master/tasks/
+-rw-rw-r-- root/root       143 2017-02-16 04:40 ansible-loopix-master/tasks/debian_apt_deps.yml
+-rw-rw-r-- root/root       258 2017-02-16 04:40 ansible-loopix-master/tasks/install.yml
+-rw-rw-r-- root/root       336 2017-02-16 04:40 ansible-loopix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-16 04:40 ansible-loopix-master/tests/
+-rw-rw-r-- root/root         9 2017-02-16 04:40 ansible-loopix-master/tests/inventory
+drwxrwxr-x root/root         0 2017-02-16 04:40 ansible-loopix-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-02-16 04:40 ansible-loopix-master/tests/roles/loopix -> ../..
+-rw-rw-r-- root/root        64 2017-02-16 04:40 ansible-loopix-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-16 04:40 ansible-loopix-master/vars/
+-rw-rw-r-- root/root       279 2017-02-16 04:40 ansible-loopix-master/vars/main.yml

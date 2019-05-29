@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-11-20 17:35 unbound-master/
+-rw-rw-r-- root/root      1072 2017-11-20 17:35 unbound-master/LICENSE
+-rw-rw-r-- root/root      1128 2017-11-20 17:35 unbound-master/README.md
+drwxrwxr-x root/root         0 2017-11-20 17:35 unbound-master/files/
+drwxrwxr-x root/root         0 2017-11-20 17:35 unbound-master/files/config/
+-rw-rw-r-- root/root     21697 2017-11-20 17:35 unbound-master/files/config/unbound.conf
+drwxrwxr-x root/root         0 2017-11-20 17:35 unbound-master/meta/
+-rw-rw-r-- root/root       302 2017-11-20 17:35 unbound-master/meta/main.yml
+-rw-rw-r-- root/root       347 2017-11-20 17:35 unbound-master/sample_userdata.sh
+drwxrwxr-x root/root         0 2017-11-20 17:35 unbound-master/tasks/
+-rw-rw-r-- root/root      2350 2017-11-20 17:35 unbound-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-20 17:35 unbound-master/vars/
+-rw-rw-r-- root/root        47 2017-11-20 17:35 unbound-master/vars/main.yml

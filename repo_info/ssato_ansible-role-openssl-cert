@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/
+-rw-rw-r-- root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/.ansible-lint
+-rw-rw-r-- root/root       498 2018-10-16 07:19 ansible-role-openssl-cert-master/.travis.yml
+-rw-rw-r-- root/root       140 2018-10-16 07:19 ansible-role-openssl-cert-master/.yamllint
+-rw-rw-r-- root/root      1069 2018-10-16 07:19 ansible-role-openssl-cert-master/LICENSE
+-rw-rw-r-- root/root      1182 2018-10-16 07:19 ansible-role-openssl-cert-master/README.md
+drwxrwxr-x root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/defaults/
+-rw-rw-r-- root/root       406 2018-10-16 07:19 ansible-role-openssl-cert-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/meta/
+-rw-rw-r-- root/root       647 2018-10-16 07:19 ansible-role-openssl-cert-master/meta/main.yml
+-rw-rw-r-- root/root        30 2018-10-16 07:19 ansible-role-openssl-cert-master/requirements.txt
+drwxrwxr-x root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/tasks/
+-rw-rw-r-- root/root       636 2018-10-16 07:19 ansible-role-openssl-cert-master/tasks/debug.yml
+-rw-rw-r-- root/root      2393 2018-10-16 07:19 ansible-role-openssl-cert-master/tasks/generate_files.yml
+-rw-rw-r-- root/root       126 2018-10-16 07:19 ansible-role-openssl-cert-master/tasks/main.yml
+-rw-rw-r-- root/root       273 2018-10-16 07:19 ansible-role-openssl-cert-master/tasks/packages.yml
+-rw-rw-r-- root/root       135 2018-10-16 07:19 ansible-role-openssl-cert-master/tasks/setup_dirs.yml
+drwxrwxr-x root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/
+-rw-rw-r-- root/root        32 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/inventory
+drwxrwxr-x root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/roles/
+drwxrwxr-x root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/roles/ssato.openssl-cert/
+lrwxrwxrwx root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/roles/ssato.openssl-cert/defaults -> ../../../defaults
+lrwxrwxrwx root/root         0 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/roles/ssato.openssl-cert/tasks -> ../../../tasks
+-rwxrwxr-x root/root       399 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/test.sh
+-rw-rw-r-- root/root        99 2018-10-16 07:19 ansible-role-openssl-cert-master/tests/test.yml

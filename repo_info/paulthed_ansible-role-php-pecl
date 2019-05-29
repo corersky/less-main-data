@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-02-03 19:32 ansible-role-php-pecl-master/
+-rw-rw-r-- root/root      1032 2015-02-03 19:32 ansible-role-php-pecl-master/.travis.yml
+-rw-rw-r-- root/root      1162 2015-02-03 19:32 ansible-role-php-pecl-master/README.md
+drwxrwxr-x root/root         0 2015-02-03 19:32 ansible-role-php-pecl-master/defaults/
+-rw-rw-r-- root/root       110 2015-02-03 19:32 ansible-role-php-pecl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-03 19:32 ansible-role-php-pecl-master/meta/
+-rw-rw-r-- root/root       698 2015-02-03 19:32 ansible-role-php-pecl-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-03 19:32 ansible-role-php-pecl-master/tasks/
+-rw-rw-r-- root/root       276 2015-02-03 19:32 ansible-role-php-pecl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-03 19:32 ansible-role-php-pecl-master/tests/
+-rw-rw-r-- root/root        10 2015-02-03 19:32 ansible-role-php-pecl-master/tests/inventory
+-rw-rw-r-- root/root        99 2015-02-03 19:32 ansible-role-php-pecl-master/tests/test.yml

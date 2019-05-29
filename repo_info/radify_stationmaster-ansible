@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-08-12 09:16 stationmaster-ansible-master/
+-rw-rw-r-- root/root       588 2015-08-12 09:16 stationmaster-ansible-master/CONTRIBUTING.md
+-rw-rw-r-- root/root      1495 2015-08-12 09:16 stationmaster-ansible-master/LICENSE
+-rw-rw-r-- root/root      2869 2015-08-12 09:16 stationmaster-ansible-master/README.md
+drwxrwxr-x root/root         0 2015-08-12 09:16 stationmaster-ansible-master/files/
+-rw-rw-r-- root/root        13 2015-08-12 09:16 stationmaster-ansible-master/files/stationmaster.csv
+drwxrwxr-x root/root         0 2015-08-12 09:16 stationmaster-ansible-master/meta/
+-rw-rw-r-- root/root       426 2015-08-12 09:16 stationmaster-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-12 09:16 stationmaster-ansible-master/tasks/
+-rw-rw-r-- root/root       522 2015-08-12 09:16 stationmaster-ansible-master/tasks/add.yml
+-rw-rw-r-- root/root        96 2015-08-12 09:16 stationmaster-ansible-master/tasks/main.yml
+-rw-rw-r-- root/root       149 2015-08-12 09:16 stationmaster-ansible-master/tasks/remove.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-11-01 14:57 selinux_disable-master/
+-rw-rw-r-- root/root       555 2015-11-01 14:57 selinux_disable-master/README.md
+drwxrwxr-x root/root         0 2015-11-01 14:57 selinux_disable-master/defaults/
+-rw-rw-r-- root/root       117 2015-11-01 14:57 selinux_disable-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-01 14:57 selinux_disable-master/files/
+-rw-rw-r-- root/root         0 2015-11-01 14:57 selinux_disable-master/files/empty.txt
+drwxrwxr-x root/root         0 2015-11-01 14:57 selinux_disable-master/handlers/
+-rw-rw-r-- root/root       355 2015-11-01 14:57 selinux_disable-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-01 14:57 selinux_disable-master/meta/
+-rw-rw-r-- root/root       244 2015-11-01 14:57 selinux_disable-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-01 14:57 selinux_disable-master/tasks/
+-rw-rw-r-- root/root       389 2015-11-01 14:57 selinux_disable-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-01 14:57 selinux_disable-master/templates/
+-rw-rw-r-- root/root         0 2015-11-01 14:57 selinux_disable-master/templates/empty.txt
+drwxrwxr-x root/root         0 2015-11-01 14:57 selinux_disable-master/vars/
+-rw-rw-r-- root/root        36 2015-11-01 14:57 selinux_disable-master/vars/main.yml

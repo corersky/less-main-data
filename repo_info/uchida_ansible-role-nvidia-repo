@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-14 05:55 ansible-role-nvidia-repo-master/
+-rw-rw-r-- root/root       751 2019-02-14 05:55 ansible-role-nvidia-repo-master/.travis.yml
+-rw-rw-r-- root/root      6556 2019-02-14 05:55 ansible-role-nvidia-repo-master/LICENSE
+-rw-rw-r-- root/root       907 2019-02-14 05:55 ansible-role-nvidia-repo-master/README.md
+drwxrwxr-x root/root         0 2019-02-14 05:55 ansible-role-nvidia-repo-master/meta/
+-rw-rw-r-- root/root       270 2019-02-14 05:55 ansible-role-nvidia-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-14 05:55 ansible-role-nvidia-repo-master/tasks/
+-rw-rw-r-- root/root      1006 2019-02-14 05:55 ansible-role-nvidia-repo-master/tasks/debian.yml
+-rw-rw-r-- root/root       113 2019-02-14 05:55 ansible-role-nvidia-repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-14 05:55 ansible-role-nvidia-repo-master/tests/
+-rw-rw-r-- root/root        99 2019-02-14 05:55 ansible-role-nvidia-repo-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-14 05:55 ansible-role-nvidia-repo-master/vars/
+-rw-rw-r-- root/root       144 2019-02-14 05:55 ansible-role-nvidia-repo-master/vars/main.yml

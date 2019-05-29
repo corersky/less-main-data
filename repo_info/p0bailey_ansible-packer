@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-26 07:43 ansible-packer-master/
+-rw-rw-r-- root/root       578 2016-03-26 07:43 ansible-packer-master/README.md
+drwxrwxr-x root/root         0 2016-03-26 07:43 ansible-packer-master/defaults/
+-rw-rw-r-- root/root       329 2016-03-26 07:43 ansible-packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-26 07:43 ansible-packer-master/handlers/
+-rw-rw-r-- root/root        31 2016-03-26 07:43 ansible-packer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-26 07:43 ansible-packer-master/meta/
+-rw-rw-r-- root/root       266 2016-03-26 07:43 ansible-packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-26 07:43 ansible-packer-master/tasks/
+-rw-rw-r-- root/root      1036 2016-03-26 07:43 ansible-packer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-26 07:43 ansible-packer-master/tests/
+-rw-rw-r-- root/root         9 2016-03-26 07:43 ansible-packer-master/tests/inventory
+-rw-rw-r-- root/root        64 2016-03-26 07:43 ansible-packer-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-26 07:43 ansible-packer-master/vars/
+-rw-rw-r-- root/root        27 2016-03-26 07:43 ansible-packer-master/vars/main.yml

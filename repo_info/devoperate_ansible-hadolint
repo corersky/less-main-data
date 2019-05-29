@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-hadolint-master/
+-rw-rw-r-- root/root       219 2019-03-21 23:29 ansible-hadolint-master/.editorconfig
+-rw-rw-r-- root/root       492 2019-03-21 23:29 ansible-hadolint-master/.gitattributes
+-rw-rw-r-- root/root       819 2019-03-21 23:29 ansible-hadolint-master/.gitignore
+-rw-rw-r-- root/root       886 2019-03-21 23:29 ansible-hadolint-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1073 2019-03-21 23:29 ansible-hadolint-master/LICENSE
+-rw-rw-r-- root/root       899 2019-03-21 23:29 ansible-hadolint-master/README.md
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-hadolint-master/defaults/
+-rw-rw-r-- root/root        31 2019-03-21 23:29 ansible-hadolint-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-hadolint-master/meta/
+-rw-rw-r-- root/root       618 2019-03-21 23:29 ansible-hadolint-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-hadolint-master/tasks/
+-rw-rw-r-- root/root       830 2019-03-21 23:29 ansible-hadolint-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-hadolint-master/tests/
+-rw-rw-r-- root/root        11 2019-03-21 23:29 ansible-hadolint-master/tests/inventory
+-rw-rw-r-- root/root        57 2019-03-21 23:29 ansible-hadolint-master/tests/test.yml

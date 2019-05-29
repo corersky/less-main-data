@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-29 06:34 centos-pxe-master/
+-rw-rw-r-- root/root       947 2018-10-29 06:34 centos-pxe-master/README.md
+drwxrwxr-x root/root         0 2018-10-29 06:34 centos-pxe-master/defaults/
+-rw-rw-r-- root/root       178 2018-10-29 06:34 centos-pxe-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:34 centos-pxe-master/files/
+-rw-rw-r-- root/root       139 2018-10-29 06:34 centos-pxe-master/files/httpd-pxe.conf
+drwxrwxr-x root/root         0 2018-10-29 06:34 centos-pxe-master/handlers/
+-rw-rw-r-- root/root       117 2018-10-29 06:34 centos-pxe-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:34 centos-pxe-master/meta/
+-rw-rw-r-- root/root       278 2018-10-29 06:34 centos-pxe-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:34 centos-pxe-master/tasks/
+-rw-rw-r-- root/root      1415 2018-10-29 06:34 centos-pxe-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:34 centos-pxe-master/templates/
+-rw-rw-r-- root/root       345 2018-10-29 06:34 centos-pxe-master/templates/default.j2
+drwxrwxr-x root/root         0 2018-10-29 06:34 centos-pxe-master/vars/
+-rw-rw-r-- root/root        42 2018-10-29 06:34 centos-pxe-master/vars/main.yml

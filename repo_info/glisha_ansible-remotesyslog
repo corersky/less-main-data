@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-27 07:55 ansible-remotesyslog-master/
+-rw-rw-r-- root/root      1085 2017-12-27 07:55 ansible-remotesyslog-master/LICENSE
+-rw-rw-r-- root/root       922 2017-12-27 07:55 ansible-remotesyslog-master/README.md
+drwxrwxr-x root/root         0 2017-12-27 07:55 ansible-remotesyslog-master/defaults/
+-rw-rw-r-- root/root        92 2017-12-27 07:55 ansible-remotesyslog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-27 07:55 ansible-remotesyslog-master/handlers/
+-rw-rw-r-- root/root        68 2017-12-27 07:55 ansible-remotesyslog-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-27 07:55 ansible-remotesyslog-master/meta/
+-rw-rw-r-- root/root       292 2017-12-27 07:55 ansible-remotesyslog-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-27 07:55 ansible-remotesyslog-master/tasks/
+-rw-rw-r-- root/root       256 2017-12-27 07:55 ansible-remotesyslog-master/tasks/main.yml
+-rw-rw-r-- root/root       839 2017-12-27 07:55 ansible-remotesyslog-master/tasks/semanage_port.yml
+drwxrwxr-x root/root         0 2017-12-27 07:55 ansible-remotesyslog-master/templates/
+-rw-rw-r-- root/root       285 2017-12-27 07:55 ansible-remotesyslog-master/templates/send_to_remote.conf.j2

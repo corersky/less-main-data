@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-09-21 08:16 ansible-role-sysctl-master/
+-rw-rw-r-- root/root         7 2018-09-21 08:16 ansible-role-sysctl-master/.gitignore
+-rw-rw-r-- root/root       398 2018-09-21 08:16 ansible-role-sysctl-master/README.md
+drwxrwxr-x root/root         0 2018-09-21 08:16 ansible-role-sysctl-master/defaults/
+-rw-rw-r-- root/root        69 2018-09-21 08:16 ansible-role-sysctl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-21 08:16 ansible-role-sysctl-master/meta/
+-rw-rw-r-- root/root       308 2018-09-21 08:16 ansible-role-sysctl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-21 08:16 ansible-role-sysctl-master/tasks/
+-rw-rw-r-- root/root        95 2018-09-21 08:16 ansible-role-sysctl-master/tasks/main.yml
+-rw-rw-r-- root/root       180 2018-09-21 08:16 ansible-role-sysctl-master/tasks/provision.yml

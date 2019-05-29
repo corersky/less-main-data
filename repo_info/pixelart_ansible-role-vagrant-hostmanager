@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/
+-rw-rw-r-- root/root      1140 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/CHANGELOG.md
+-rw-rw-r-- root/root      3226 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root      1070 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/LICENSE
+-rw-rw-r-- root/root      2169 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/README.md
+drwxrwxr-x root/root         0 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/defaults/
+-rw-rw-r-- root/root        77 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/meta/
+-rw-rw-r-- root/root       329 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/tasks/
+-rw-rw-r-- root/root      1121 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/templates/
+-rw-rw-r-- root/root       243 2017-05-11 08:30 ansible-role-vagrant-hostmanager-master/templates/sudoers-Ubuntu.j2

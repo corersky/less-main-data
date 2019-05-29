@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-11 20:44 ansible-role-wordpress-master/
+-rw-rw-r-- root/root       539 2017-03-11 20:44 ansible-role-wordpress-master/.travis.yml
+-rw-rw-r-- root/root       750 2017-03-11 20:44 ansible-role-wordpress-master/README.md
+drwxrwxr-x root/root         0 2017-03-11 20:44 ansible-role-wordpress-master/files/
+-rw-rw-r-- root/root      1107 2017-03-11 20:44 ansible-role-wordpress-master/files/wordpress
+drwxrwxr-x root/root         0 2017-03-11 20:44 ansible-role-wordpress-master/handlers/
+-rw-rw-r-- root/root        64 2017-03-11 20:44 ansible-role-wordpress-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-11 20:44 ansible-role-wordpress-master/meta/
+-rw-rw-r-- root/root       291 2017-03-11 20:44 ansible-role-wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-11 20:44 ansible-role-wordpress-master/tasks/
+-rw-rw-r-- root/root      1365 2017-03-11 20:44 ansible-role-wordpress-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-11 20:44 ansible-role-wordpress-master/tests/
+-rw-rw-r-- root/root         9 2017-03-11 20:44 ansible-role-wordpress-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-03-11 20:44 ansible-role-wordpress-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-11 20:44 ansible-role-wordpress-master/vars/
+-rw-rw-r-- root/root        30 2017-03-11 20:44 ansible-role-wordpress-master/vars/main.yml

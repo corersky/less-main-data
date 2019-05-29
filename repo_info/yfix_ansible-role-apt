@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-13 03:29 ansible-role-apt-master/
+-rw-rw-r-- root/root         9 2015-10-13 03:29 ansible-role-apt-master/.gitignore
+-rw-rw-r-- root/root       546 2015-10-13 03:29 ansible-role-apt-master/.travis.yml
+-rw-rw-r-- root/root      1920 2015-10-13 03:29 ansible-role-apt-master/README.md
+-rw-rw-r-- root/root       351 2015-10-13 03:29 ansible-role-apt-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-10-13 03:29 ansible-role-apt-master/defaults/
+-rw-rw-r-- root/root      1107 2015-10-13 03:29 ansible-role-apt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-13 03:29 ansible-role-apt-master/meta/
+-rw-rw-r-- root/root       324 2015-10-13 03:29 ansible-role-apt-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-13 03:29 ansible-role-apt-master/tasks/
+-rw-rw-r-- root/root      1569 2015-10-13 03:29 ansible-role-apt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-13 03:29 ansible-role-apt-master/templates/
+-rw-rw-r-- root/root       446 2015-10-13 03:29 ansible-role-apt-master/templates/etc_apt_apt.conf.d_10general.j2
+-rw-rw-r-- root/root      3422 2015-10-13 03:29 ansible-role-apt-master/templates/etc_apt_sources.list.j2
+-rw-rw-r-- root/root        94 2015-10-13 03:29 ansible-role-apt-master/test.yml

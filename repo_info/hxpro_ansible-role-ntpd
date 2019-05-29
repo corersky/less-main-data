@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-12 05:07 ansible-role-ntpd-master/
+-rw-rw-r-- root/root       484 2018-02-12 05:07 ansible-role-ntpd-master/LICENSE
+-rw-rw-r-- root/root       268 2018-02-12 05:07 ansible-role-ntpd-master/README.md
+drwxrwxr-x root/root         0 2018-02-12 05:07 ansible-role-ntpd-master/defaults/
+-rw-rw-r-- root/root        91 2018-02-12 05:07 ansible-role-ntpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-12 05:07 ansible-role-ntpd-master/handlers/
+-rw-rw-r-- root/root        70 2018-02-12 05:07 ansible-role-ntpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-12 05:07 ansible-role-ntpd-master/meta/
+-rw-rw-r-- root/root       238 2018-02-12 05:07 ansible-role-ntpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-12 05:07 ansible-role-ntpd-master/tasks/
+-rw-rw-r-- root/root       359 2018-02-12 05:07 ansible-role-ntpd-master/tasks/centos.yml
+-rw-rw-r-- root/root        72 2018-02-12 05:07 ansible-role-ntpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-12 05:07 ansible-role-ntpd-master/templates/
+-rw-rw-r-- root/root      2221 2018-02-12 05:07 ansible-role-ntpd-master/templates/ntp.conf.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-07-13 04:53 ansible-role-pre-users_profiles-master/
+-rw-rw-r-- root/root        35 2016-07-13 04:53 ansible-role-pre-users_profiles-master/.gitignore
+-rw-rw-r-- root/root       148 2016-07-13 04:53 ansible-role-pre-users_profiles-master/.travis.yml
+-rw-rw-r-- root/root       303 2016-07-13 04:53 ansible-role-pre-users_profiles-master/CHANGELOG.md
+-rw-rw-r-- root/root      1537 2016-07-13 04:53 ansible-role-pre-users_profiles-master/COPYRIGHT
+-rw-rw-r-- root/root       937 2016-07-13 04:53 ansible-role-pre-users_profiles-master/README.md
+drwxrwxr-x root/root         0 2016-07-13 04:53 ansible-role-pre-users_profiles-master/meta/
+-rw-rw-r-- root/root       508 2016-07-13 04:53 ansible-role-pre-users_profiles-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-13 04:53 ansible-role-pre-users_profiles-master/tasks/
+drwxrwxr-x root/root         0 2016-07-13 04:53 ansible-role-pre-users_profiles-master/tasks/init/
+-rw-rw-r-- root/root      1153 2016-07-13 04:53 ansible-role-pre-users_profiles-master/tasks/init/map_to_authorized_keys.yml
+-rw-rw-r-- root/root      1827 2016-07-13 04:53 ansible-role-pre-users_profiles-master/tasks/init/map_to_sudo.yml
+-rw-rw-r-- root/root      1881 2016-07-13 04:53 ansible-role-pre-users_profiles-master/tasks/init/map_to_system_users.yml
+-rw-rw-r-- root/root       413 2016-07-13 04:53 ansible-role-pre-users_profiles-master/tasks/main.yml

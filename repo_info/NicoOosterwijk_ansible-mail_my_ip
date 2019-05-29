@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-07 05:12 ansible-mail_my_ip-master/
+-rwxrwxr-x root/root       664 2019-05-07 05:12 ansible-mail_my_ip-master/README.md
+drwxrwxr-x root/root         0 2019-05-07 05:12 ansible-mail_my_ip-master/defaults/
+-rwxrwxr-x root/root       112 2019-05-07 05:12 ansible-mail_my_ip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-07 05:12 ansible-mail_my_ip-master/files/
+-rwxrwxr-x root/root       607 2019-05-07 05:12 ansible-mail_my_ip-master/files/mailIP.sh
+drwxrwxr-x root/root         0 2019-05-07 05:12 ansible-mail_my_ip-master/meta/
+-rw-rw-r-- root/root       224 2019-05-07 05:12 ansible-mail_my_ip-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-07 05:12 ansible-mail_my_ip-master/tasks/
+-rwxrwxr-x root/root       942 2019-05-07 05:12 ansible-mail_my_ip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-07 05:12 ansible-mail_my_ip-master/templates/
+-rwxrwxr-x root/root        71 2019-05-07 05:12 ansible-mail_my_ip-master/templates/mail.txt.j2

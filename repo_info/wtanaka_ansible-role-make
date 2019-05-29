@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-16 09:36 ansible-role-make-master/
+-rw-rw-r-- root/root       379 2019-05-16 09:36 ansible-role-make-master/.ciconfiggen.config
+drwxrwxr-x root/root         0 2019-05-16 09:36 ansible-role-make-master/.circleci/
+-rw-rw-r-- root/root     28833 2019-05-16 09:36 ansible-role-make-master/.circleci/config.yml
+-rw-rw-r-- root/root        53 2019-05-16 09:36 ansible-role-make-master/.gitignore
+-rw-rw-r-- root/root      2758 2019-05-16 09:36 ansible-role-make-master/.travis.yml
+-rw-rw-r-- root/root       630 2019-05-16 09:36 ansible-role-make-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 09:36 ansible-role-make-master/meta/
+-rw-rw-r-- root/root      3515 2019-05-16 09:36 ansible-role-make-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 09:36 ansible-role-make-master/tasks/
+-rw-rw-r-- root/root         4 2019-05-16 09:36 ansible-role-make-master/tasks/Debian.yml
+-rw-rw-r-- root/root      4306 2019-05-16 09:36 ansible-role-make-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-05-16 09:36 ansible-role-make-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1226 2019-05-16 09:36 ansible-role-make-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       154 2019-05-16 09:36 ansible-role-make-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 09:36 ansible-role-make-master/vars/
+-rw-rw-r-- root/root        26 2019-05-16 09:36 ansible-role-make-master/vars/default.yml

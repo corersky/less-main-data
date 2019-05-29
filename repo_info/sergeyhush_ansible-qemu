@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-06-14 17:02 ansible-qemu-master/
+-rw-rw-r-- root/root       540 2016-06-14 17:02 ansible-qemu-master/.travis.yml
+-rw-rw-r-- root/root       574 2016-06-14 17:02 ansible-qemu-master/README.md
+drwxrwxr-x root/root         0 2016-06-14 17:02 ansible-qemu-master/defaults/
+-rw-rw-r-- root/root       309 2016-06-14 17:02 ansible-qemu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-14 17:02 ansible-qemu-master/meta/
+-rw-rw-r-- root/root       264 2016-06-14 17:02 ansible-qemu-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-14 17:02 ansible-qemu-master/tasks/
+-rw-rw-r-- root/root       451 2016-06-14 17:02 ansible-qemu-master/tasks/build_from_source.yml
+-rw-rw-r-- root/root       261 2016-06-14 17:02 ansible-qemu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-14 17:02 ansible-qemu-master/tests/
+-rw-rw-r-- root/root         9 2016-06-14 17:02 ansible-qemu-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-06-14 17:02 ansible-qemu-master/tests/test.yml

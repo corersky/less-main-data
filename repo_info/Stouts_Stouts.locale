@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-12 02:41 Stouts.locale-master/
+-rw-rw-r-- root/root        89 2017-12-12 02:41 Stouts.locale-master/.bumpversion.cfg
+-rw-rw-r-- root/root       708 2017-12-12 02:41 Stouts.locale-master/.travis.yml
+-rw-rw-r-- root/root      1072 2017-12-12 02:41 Stouts.locale-master/LICENSE
+-rw-rw-r-- root/root       315 2017-12-12 02:41 Stouts.locale-master/Makefile
+-rw-rw-r-- root/root       914 2017-12-12 02:41 Stouts.locale-master/README.md
+drwxrwxr-x root/root         0 2017-12-12 02:41 Stouts.locale-master/defaults/
+-rw-rw-r-- root/root        55 2017-12-12 02:41 Stouts.locale-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-12 02:41 Stouts.locale-master/meta/
+-rw-rw-r-- root/root       318 2017-12-12 02:41 Stouts.locale-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-12 02:41 Stouts.locale-master/tasks/
+-rw-rw-r-- root/root       177 2017-12-12 02:41 Stouts.locale-master/tasks/configure.deb.yml
+-rw-rw-r-- root/root        54 2017-12-12 02:41 Stouts.locale-master/tasks/configure.yum.yml
+-rw-rw-r-- root/root       150 2017-12-12 02:41 Stouts.locale-master/tasks/locale.yml
+-rw-rw-r-- root/root        72 2017-12-12 02:41 Stouts.locale-master/tasks/main.yml
+-rw-rw-r-- root/root       113 2017-12-12 02:41 Stouts.locale-master/test.yml

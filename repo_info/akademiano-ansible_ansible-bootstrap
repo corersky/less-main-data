@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-02 13:00 ansible-bootstrap-master/
+-rw-rw-r-- root/root     11357 2019-03-02 13:00 ansible-bootstrap-master/LICENSE
+-rw-rw-r-- root/root      1328 2019-03-02 13:00 ansible-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2019-03-02 13:00 ansible-bootstrap-master/defaults/
+-rw-rw-r-- root/root        33 2019-03-02 13:00 ansible-bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-02 13:00 ansible-bootstrap-master/handlers/
+-rw-rw-r-- root/root        33 2019-03-02 13:00 ansible-bootstrap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-02 13:00 ansible-bootstrap-master/meta/
+-rw-rw-r-- root/root      1887 2019-03-02 13:00 ansible-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-02 13:00 ansible-bootstrap-master/tasks/
+-rw-rw-r-- root/root       444 2019-03-02 13:00 ansible-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-02 13:00 ansible-bootstrap-master/tests/
+-rw-rw-r-- root/root        11 2019-03-02 13:00 ansible-bootstrap-master/tests/inventory
+-rw-rw-r-- root/root        67 2019-03-02 13:00 ansible-bootstrap-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-02 13:00 ansible-bootstrap-master/vars/
+-rw-rw-r-- root/root        29 2019-03-02 13:00 ansible-bootstrap-master/vars/main.yml

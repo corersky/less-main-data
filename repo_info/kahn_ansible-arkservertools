@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-08-22 00:09 ansible-arkservertools-master/
+-rw-rw-r-- root/root      1078 2015-08-22 00:09 ansible-arkservertools-master/LICENSE
+-rw-rw-r-- root/root      1801 2015-08-22 00:09 ansible-arkservertools-master/README.md
+drwxrwxr-x root/root         0 2015-08-22 00:09 ansible-arkservertools-master/defaults/
+-rw-rw-r-- root/root       469 2015-08-22 00:09 ansible-arkservertools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-22 00:09 ansible-arkservertools-master/handlers/
+-rw-rw-r-- root/root        74 2015-08-22 00:09 ansible-arkservertools-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-22 00:09 ansible-arkservertools-master/meta/
+-rw-rw-r-- root/root       306 2015-08-22 00:09 ansible-arkservertools-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-22 00:09 ansible-arkservertools-master/tasks/
+-rw-rw-r-- root/root      2821 2015-08-22 00:09 ansible-arkservertools-master/tasks/main.yml
+-rw-rw-r-- root/root       351 2015-08-22 00:09 ansible-arkservertools-master/tasks/set-firewall-module.yml
+drwxrwxr-x root/root         0 2015-08-22 00:09 ansible-arkservertools-master/templates/
+-rw-rw-r-- root/root      2831 2015-08-22 00:09 ansible-arkservertools-master/templates/arkmanager.cfg

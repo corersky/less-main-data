@@ -1,0 +1,36 @@
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/
+-rw-rw-r-- root/root        15 2018-08-14 03:44 ansible_box_info-master/.gitignore
+-rw-rw-r-- root/root       244 2018-08-14 03:44 ansible_box_info-master/.gitlab-ci.yml
+-rw-rw-r-- root/root       306 2018-08-14 03:44 ansible_box_info-master/.travis.yml
+-rw-rw-r-- root/root       843 2018-08-14 03:44 ansible_box_info-master/README.md
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/defaults/
+-rw-rw-r-- root/root       174 2018-08-14 03:44 ansible_box_info-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/meta/
+-rw-rw-r-- root/root       477 2018-08-14 03:44 ansible_box_info-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/molecule/
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/molecule/cnc/
+-rw-rw-r-- root/root        10 2018-08-14 03:44 ansible_box_info-master/molecule/cnc/.gitignore
+lrwxrwxrwx root/root         0 2018-08-14 03:44 ansible_box_info-master/molecule/cnc/Dockerfile.j2 -> ../default/Dockerfile.j2
+-rw-rw-r-- root/root       517 2018-08-14 03:44 ansible_box_info-master/molecule/cnc/molecule.yml
+-rw-rw-r-- root/root        64 2018-08-14 03:44 ansible_box_info-master/molecule/cnc/playbook.yml
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/molecule/default/
+-rw-rw-r-- root/root        10 2018-08-14 03:44 ansible_box_info-master/molecule/default/.gitignore
+-rw-rw-r-- root/root       755 2018-08-14 03:44 ansible_box_info-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       151 2018-08-14 03:44 ansible_box_info-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2018-08-14 03:44 ansible_box_info-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2018-08-14 03:44 ansible_box_info-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       411 2018-08-14 03:44 ansible_box_info-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        72 2018-08-14 03:44 ansible_box_info-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root       199 2018-08-14 03:44 ansible_box_info-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/molecule/github/
+-rw-rw-r-- root/root        10 2018-08-14 03:44 ansible_box_info-master/molecule/github/.gitignore
+lrwxrwxrwx root/root         0 2018-08-14 03:44 ansible_box_info-master/molecule/github/Dockerfile.j2 -> ../default/Dockerfile.j2
+-rw-rw-r-- root/root       520 2018-08-14 03:44 ansible_box_info-master/molecule/github/molecule.yml
+-rw-rw-r-- root/root        72 2018-08-14 03:44 ansible_box_info-master/molecule/github/playbook.yml
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/tasks/
+-rw-rw-r-- root/root       329 2018-08-14 03:44 ansible_box_info-master/tasks/facts.yml
+-rw-rw-r-- root/root       394 2018-08-14 03:44 ansible_box_info-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-14 03:44 ansible_box_info-master/templates/
+-rw-rw-r-- root/root      1308 2018-08-14 03:44 ansible_box_info-master/templates/bash_custom.j2
+-rw-rw-r-- root/root       511 2018-08-14 03:44 ansible_box_info-master/templates/box_info.j2
+-rw-rw-r-- root/root        52 2018-08-14 03:44 ansible_box_info-master/templates/facts.yml.j2

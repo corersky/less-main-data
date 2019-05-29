@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-02-05 22:05 ansible-common-master/
+-rw-rw-r-- root/root        57 2015-02-05 22:05 ansible-common-master/.gitignore
+-rw-rw-r-- root/root      1328 2015-02-05 22:05 ansible-common-master/README.md
+drwxrwxr-x root/root         0 2015-02-05 22:05 ansible-common-master/defaults/
+-rw-rw-r-- root/root        31 2015-02-05 22:05 ansible-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-05 22:05 ansible-common-master/handlers/
+-rw-rw-r-- root/root        77 2015-02-05 22:05 ansible-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-05 22:05 ansible-common-master/meta/
+-rw-rw-r-- root/root       221 2015-02-05 22:05 ansible-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-05 22:05 ansible-common-master/tasks/
+-rw-rw-r-- root/root       286 2015-02-05 22:05 ansible-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-05 22:05 ansible-common-master/vars/
+-rw-rw-r-- root/root       142 2015-02-05 22:05 ansible-common-master/vars/main.yml

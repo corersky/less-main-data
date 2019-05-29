@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2016-06-20 01:00 ansible-zeromq-master/
+-rw-rw-r-- root/root      1074 2016-06-20 01:00 ansible-zeromq-master/LICENSE
+-rw-rw-r-- root/root       129 2016-06-20 01:00 ansible-zeromq-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 01:00 ansible-zeromq-master/meta/
+-rw-rw-r-- root/root       479 2016-06-20 01:00 ansible-zeromq-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:00 ansible-zeromq-master/tasks/
+-rw-rw-r-- root/root       377 2016-06-20 01:00 ansible-zeromq-master/tasks/centos.yml
+-rw-rw-r-- root/root       396 2016-06-20 01:00 ansible-zeromq-master/tasks/debian.yml
+-rw-rw-r-- root/root       127 2016-06-20 01:00 ansible-zeromq-master/tasks/main.yml

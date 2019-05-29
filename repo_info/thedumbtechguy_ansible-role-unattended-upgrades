@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-12 08:28 ansible-role-unattended-upgrades-master/
+-rw-rw-r-- root/root      5633 2017-05-12 08:28 ansible-role-unattended-upgrades-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 08:28 ansible-role-unattended-upgrades-master/defaults/
+-rw-rw-r-- root/root      2497 2017-05-12 08:28 ansible-role-unattended-upgrades-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:28 ansible-role-unattended-upgrades-master/files/
+-rw-rw-r-- root/root       168 2017-05-12 08:28 ansible-role-unattended-upgrades-master/files/auto-upgrades
+-rw-rw-r-- root/root       163 2017-05-12 08:28 ansible-role-unattended-upgrades-master/files/options
+drwxrwxr-x root/root         0 2017-05-12 08:28 ansible-role-unattended-upgrades-master/meta/
+-rw-rw-r-- root/root       323 2017-05-12 08:28 ansible-role-unattended-upgrades-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:28 ansible-role-unattended-upgrades-master/tasks/
+-rw-rw-r-- root/root        75 2017-05-12 08:28 ansible-role-unattended-upgrades-master/tasks/main.yml
+-rw-rw-r-- root/root       324 2017-05-12 08:28 ansible-role-unattended-upgrades-master/tasks/reboot.yml
+-rw-rw-r-- root/root       838 2017-05-12 08:28 ansible-role-unattended-upgrades-master/tasks/unattended-upgrades.yml
+drwxrwxr-x root/root         0 2017-05-12 08:28 ansible-role-unattended-upgrades-master/templates/
+-rw-rw-r-- root/root      2966 2017-05-12 08:28 ansible-role-unattended-upgrades-master/templates/unattended-upgrades.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-05 20:31 ansible-mysql-master/
+-rw-rw-r-- root/root      1748 2017-03-05 20:31 ansible-mysql-master/.travis.yml
+-rw-rw-r-- root/root      1057 2017-03-05 20:31 ansible-mysql-master/LICENSE
+-rw-rw-r-- root/root       499 2017-03-05 20:31 ansible-mysql-master/README.md
+drwxrwxr-x root/root         0 2017-03-05 20:31 ansible-mysql-master/defaults/
+-rw-rw-r-- root/root        49 2017-03-05 20:31 ansible-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-05 20:31 ansible-mysql-master/meta/
+-rw-rw-r-- root/root       242 2017-03-05 20:31 ansible-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-05 20:31 ansible-mysql-master/tasks/
+-rw-rw-r-- root/root      1635 2017-03-05 20:31 ansible-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-05 20:31 ansible-mysql-master/tests/
+-rw-rw-r-- root/root       286 2017-03-05 20:31 ansible-mysql-master/tests/Dockerfile.centos-6.8
+-rw-rw-r-- root/root       112 2017-03-05 20:31 ansible-mysql-master/tests/test.yml

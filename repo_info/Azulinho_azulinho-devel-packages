@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/
+drwxrwxr-x root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/.bundle/
+-rw-rw-r-- root/root        36 2015-09-07 14:39 azulinho-devel-packages-master/.bundle/config
+-rw-rw-r-- root/root       141 2015-09-07 14:39 azulinho-devel-packages-master/.gitignore
+-rw-rw-r-- root/root       221 2015-09-07 14:39 azulinho-devel-packages-master/README.md
+-rw-rw-r-- root/root      1194 2015-09-07 14:39 azulinho-devel-packages-master/Rakefile
+drwxrwxr-x root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/meta/
+-rw-rw-r-- root/root       178 2015-09-07 14:39 azulinho-devel-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/tasks/
+-rw-rw-r-- root/root       352 2015-09-07 14:39 azulinho-devel-packages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/
+drwxrwxr-x root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/.bundle/
+-rw-rw-r-- root/root        36 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/.bundle/config
+-rw-rw-r-- root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/Gemfile
+-rw-rw-r-- root/root        45 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/Gemfile.lock
+-rw-rw-r-- root/root      2212 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/Vagrantfile
+-rw-rw-r-- root/root       431 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/ansible.cfg
+-rw-rw-r-- root/root       172 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/devel-packages.yml
+-rw-rw-r-- root/root       732 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/main_spec.rb
+drwxrwxr-x root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/roles/
+lrwxrwxrwx root/root         0 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/roles/devel-packages -> ../../
+-rw-rw-r-- root/root       125 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/spec_helper.rb
+-rw-rw-r-- root/root       178 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/vagrant
+-rw-rw-r-- root/root       231 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/vagrant-devel-packages.yml
+-rw-rw-r-- root/root        12 2015-09-07 14:39 azulinho-devel-packages-master/vagrantbox/vagrant-vault

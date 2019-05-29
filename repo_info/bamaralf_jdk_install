@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-31 14:13 jdk_install-master/
+-rwxrwxr-x root/root       539 2017-07-31 14:13 jdk_install-master/.travis.yml
+-rw-rw-r-- root/root       599 2017-07-31 14:13 jdk_install-master/README.md
+drwxrwxr-x root/root         0 2017-07-31 14:13 jdk_install-master/defaults/
+-rwxrwxr-x root/root        36 2017-07-31 14:13 jdk_install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-31 14:13 jdk_install-master/handlers/
+-rwxrwxr-x root/root        36 2017-07-31 14:13 jdk_install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-31 14:13 jdk_install-master/meta/
+-rw-rw-r-- root/root        60 2017-07-31 14:13 jdk_install-master/meta/.galaxy_install_info
+-rwxrwxr-x root/root      3679 2017-07-31 14:13 jdk_install-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-31 14:13 jdk_install-master/tasks/
+-rwxrwxr-x root/root      2848 2017-07-31 14:13 jdk_install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-31 14:13 jdk_install-master/tests/
+-rwxrwxr-x root/root         9 2017-07-31 14:13 jdk_install-master/tests/inventory
+-rwxrwxr-x root/root       331 2017-07-31 14:13 jdk_install-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-31 14:13 jdk_install-master/vars/
+-rwxrwxr-x root/root       224 2017-07-31 14:13 jdk_install-master/vars/main.yml

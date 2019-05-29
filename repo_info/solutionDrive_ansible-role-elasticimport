@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-05 14:06 ansible-role-elasticimport-master/
+-rw-rw-r-- root/root         7 2018-07-05 14:06 ansible-role-elasticimport-master/.gitignore
+-rw-rw-r-- root/root      1196 2018-07-05 14:06 ansible-role-elasticimport-master/.travis.yml
+-rw-rw-r-- root/root       822 2018-07-05 14:06 ansible-role-elasticimport-master/README.md
+drwxrwxr-x root/root         0 2018-07-05 14:06 ansible-role-elasticimport-master/defaults/
+-rw-rw-r-- root/root        86 2018-07-05 14:06 ansible-role-elasticimport-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-05 14:06 ansible-role-elasticimport-master/meta/
+-rw-rw-r-- root/root       420 2018-07-05 14:06 ansible-role-elasticimport-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-05 14:06 ansible-role-elasticimport-master/tasks/
+-rw-rw-r-- root/root       354 2018-07-05 14:06 ansible-role-elasticimport-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-05 14:06 ansible-role-elasticimport-master/tests/
+-rw-rw-r-- root/root        10 2018-07-05 14:06 ansible-role-elasticimport-master/tests/inventory
+-rw-rw-r-- root/root       184 2018-07-05 14:06 ansible-role-elasticimport-master/tests/test.yml

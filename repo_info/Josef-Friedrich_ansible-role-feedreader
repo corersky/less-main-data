@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-10 02:14 ansible-role-feedreader-master/
+-rw-rw-r-- root/root        20 2018-07-10 02:14 ansible-role-feedreader-master/.gitignore
+-rw-rw-r-- root/root       606 2018-07-10 02:14 ansible-role-feedreader-master/.travis.yml
+-rw-rw-r-- root/root      1072 2018-07-10 02:14 ansible-role-feedreader-master/LICENSE
+-rw-rw-r-- root/root        55 2018-07-10 02:14 ansible-role-feedreader-master/README.md
+-rw-rw-r-- root/root        54 2018-07-10 02:14 ansible-role-feedreader-master/description
+drwxrwxr-x root/root         0 2018-07-10 02:14 ansible-role-feedreader-master/meta/
+-rw-rw-r-- root/root       340 2018-07-10 02:14 ansible-role-feedreader-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-10 02:14 ansible-role-feedreader-master/tasks/
+-rw-rw-r-- root/root       252 2018-07-10 02:14 ansible-role-feedreader-master/tasks/apt.yml
+-rw-rw-r-- root/root      1456 2018-07-10 02:14 ansible-role-feedreader-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-10 02:14 ansible-role-feedreader-master/tests/
+-rw-rw-r-- root/root        10 2018-07-10 02:14 ansible-role-feedreader-master/tests/inventory
+-rw-rw-r-- root/root        79 2018-07-10 02:14 ansible-role-feedreader-master/tests/test.yml

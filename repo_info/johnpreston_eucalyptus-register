@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-06-25 09:44 eucalyptus-register-master/
+-rw-rw-r-- root/root     11325 2015-06-25 09:44 eucalyptus-register-master/LICENSE
+-rw-rw-r-- root/root      1469 2015-06-25 09:44 eucalyptus-register-master/README.md
+drwxrwxr-x root/root         0 2015-06-25 09:44 eucalyptus-register-master/defaults/
+-rw-rw-r-- root/root       161 2015-06-25 09:44 eucalyptus-register-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-25 09:44 eucalyptus-register-master/handlers/
+-rw-rw-r-- root/root        44 2015-06-25 09:44 eucalyptus-register-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-25 09:44 eucalyptus-register-master/meta/
+-rw-rw-r-- root/root       326 2015-06-25 09:44 eucalyptus-register-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-25 09:44 eucalyptus-register-master/tasks/
+-rw-rw-r-- root/root      1717 2015-06-25 09:44 eucalyptus-register-master/tasks/frontends_registration.yml
+-rw-rw-r-- root/root       399 2015-06-25 09:44 eucalyptus-register-master/tasks/getting_ready.yml
+-rw-rw-r-- root/root      1425 2015-06-25 09:44 eucalyptus-register-master/tasks/main.yml
+-rw-rw-r-- root/root       427 2015-06-25 09:44 eucalyptus-register-master/tasks/nc_registration.yml
+drwxrwxr-x root/root         0 2015-06-25 09:44 eucalyptus-register-master/vars/
+-rw-rw-r-- root/root        40 2015-06-25 09:44 eucalyptus-register-master/vars/main.yml

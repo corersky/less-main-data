@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-10 08:55 env_setup-master/
+-rw-rw-r-- root/root        66 2018-08-10 08:55 env_setup-master/.gitattributes
+-rw-rw-r-- root/root      1328 2018-08-10 08:55 env_setup-master/README.md
+drwxrwxr-x root/root         0 2018-08-10 08:55 env_setup-master/defaults/
+-rw-rw-r-- root/root        33 2018-08-10 08:55 env_setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:55 env_setup-master/handlers/
+-rw-rw-r-- root/root        33 2018-08-10 08:55 env_setup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:55 env_setup-master/meta/
+-rw-rw-r-- root/root      1805 2018-08-10 08:55 env_setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:55 env_setup-master/tasks/
+-rw-rw-r-- root/root       950 2018-08-10 08:55 env_setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:55 env_setup-master/tests/
+-rw-rw-r-- root/root        11 2018-08-10 08:55 env_setup-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-08-10 08:55 env_setup-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-10 08:55 env_setup-master/vars/
+-rw-rw-r-- root/root        29 2018-08-10 08:55 env_setup-master/vars/main.yml

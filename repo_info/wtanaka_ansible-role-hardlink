@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-25 07:35 ansible-role-hardlink-master/
+-rw-rw-r-- root/root        53 2019-03-25 07:35 ansible-role-hardlink-master/.gitignore
+-rw-rw-r-- root/root      1165 2019-03-25 07:35 ansible-role-hardlink-master/.travis.yml
+-rw-rw-r-- root/root      1121 2019-03-25 07:35 ansible-role-hardlink-master/README.md
+-rw-rw-r-- root/root       408 2019-03-25 07:35 ansible-role-hardlink-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-25 07:35 ansible-role-hardlink-master/defaults/
+-rw-rw-r-- root/root        39 2019-03-25 07:35 ansible-role-hardlink-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-25 07:35 ansible-role-hardlink-master/meta/
+-rw-rw-r-- root/root      3593 2019-03-25 07:35 ansible-role-hardlink-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 07:35 ansible-role-hardlink-master/tasks/
+-rw-rw-r-- root/root         4 2019-03-25 07:35 ansible-role-hardlink-master/tasks/Debian.yml
+-rw-rw-r-- root/root      4509 2019-03-25 07:35 ansible-role-hardlink-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-25 07:35 ansible-role-hardlink-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1289 2019-03-25 07:35 ansible-role-hardlink-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       414 2019-03-25 07:35 ansible-role-hardlink-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-25 07:35 ansible-role-hardlink-master/vars/
+-rw-rw-r-- root/root        30 2019-03-25 07:35 ansible-role-hardlink-master/vars/default.yml

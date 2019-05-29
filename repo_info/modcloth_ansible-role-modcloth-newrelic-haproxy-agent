@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/
+-rw-rw-r-- root/root       246 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/.travis.yml
+-rw-rw-r-- root/root      1442 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/README.md
+drwxrwxr-x root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/defaults/
+-rw-rw-r-- root/root       200 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/defaults/main.yml
+-rw-rw-r-- root/root       244 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/example.yml
+drwxrwxr-x root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/handlers/
+-rw-rw-r-- root/root        56 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/meta/
+-rw-rw-r-- root/root       287 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/meta/main.yml
+-rw-rw-r-- root/root        15 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/requirements.txt
+drwxrwxr-x root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/roles/
+lrwxrwxrwx root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/roles/modcloth.newrelic-haproxy-agent -> ../
+drwxrwxr-x root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/tasks/
+-rw-rw-r-- root/root      1001 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/templates/
+-rw-rw-r-- root/root       212 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/templates/newrelic_haproxy_agent.conf.j2
+-rw-rw-r-- root/root       538 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/templates/newrelic_haproxy_agent.yml.j2
+drwxrwxr-x root/root         0 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/vars/
+-rw-rw-r-- root/root        52 2014-10-27 09:25 ansible-role-modcloth-newrelic-haproxy-agent-master/vars/main.yml

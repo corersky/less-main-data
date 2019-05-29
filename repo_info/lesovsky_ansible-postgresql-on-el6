@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-18 14:31 ansible-postgresql-on-el6-master/
+-rw-rw-r-- root/root      1459 2016-08-18 14:31 ansible-postgresql-on-el6-master/README.md
+drwxrwxr-x root/root         0 2016-08-18 14:31 ansible-postgresql-on-el6-master/defaults/
+-rw-rw-r-- root/root      5556 2016-08-18 14:31 ansible-postgresql-on-el6-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-18 14:31 ansible-postgresql-on-el6-master/meta/
+-rw-rw-r-- root/root       387 2016-08-18 14:31 ansible-postgresql-on-el6-master/meta/main.yml
+-rw-rw-r-- root/root       202 2016-08-18 14:31 ansible-postgresql-on-el6-master/role.yml
+drwxrwxr-x root/root         0 2016-08-18 14:31 ansible-postgresql-on-el6-master/tasks/
+-rw-rw-r-- root/root      2213 2016-08-18 14:31 ansible-postgresql-on-el6-master/tasks/configure.yml
+-rw-rw-r-- root/root       769 2016-08-18 14:31 ansible-postgresql-on-el6-master/tasks/databases.yml
+-rw-rw-r-- root/root       674 2016-08-18 14:31 ansible-postgresql-on-el6-master/tasks/install.yml
+-rw-rw-r-- root/root       672 2016-08-18 14:31 ansible-postgresql-on-el6-master/tasks/main.yml
+-rw-rw-r-- root/root       347 2016-08-18 14:31 ansible-postgresql-on-el6-master/tasks/users.yml
+drwxrwxr-x root/root         0 2016-08-18 14:31 ansible-postgresql-on-el6-master/templates/
+-rw-rw-r-- root/root      4020 2016-08-18 14:31 ansible-postgresql-on-el6-master/templates/pg_hba.conf.j2
+drwxrwxr-x root/root         0 2016-08-18 14:31 ansible-postgresql-on-el6-master/vars/
+-rw-rw-r-- root/root      2498 2016-08-18 14:31 ansible-postgresql-on-el6-master/vars/repo.yml

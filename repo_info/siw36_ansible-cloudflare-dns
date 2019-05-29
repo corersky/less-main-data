@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-27 01:16 ansible-cloudflare-dns-master/
+-rw-rw-r-- root/root     35149 2019-05-27 01:16 ansible-cloudflare-dns-master/LICENSE
+-rw-rw-r-- root/root      3827 2019-05-27 01:16 ansible-cloudflare-dns-master/README.md
+drwxrwxr-x root/root         0 2019-05-27 01:16 ansible-cloudflare-dns-master/defaults/
+-rw-rw-r-- root/root        57 2019-05-27 01:16 ansible-cloudflare-dns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-27 01:16 ansible-cloudflare-dns-master/meta/
+-rw-rw-r-- root/root       530 2019-05-27 01:16 ansible-cloudflare-dns-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-27 01:16 ansible-cloudflare-dns-master/tasks/
+-rw-rw-r-- root/root       116 2019-05-27 01:16 ansible-cloudflare-dns-master/tasks/main.yml
+-rw-rw-r-- root/root      2240 2019-05-27 01:16 ansible-cloudflare-dns-master/tasks/zone.yml
+drwxrwxr-x root/root         0 2019-05-27 01:16 ansible-cloudflare-dns-master/vars/
+-rw-rw-r-- root/root       501 2019-05-27 01:16 ansible-cloudflare-dns-master/vars/main.yml
+-rw-rw-r-- root/root       175 2019-05-27 01:16 ansible-cloudflare-dns-master/vars/vault.yml

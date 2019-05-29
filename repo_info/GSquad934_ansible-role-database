@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-10 16:51 ansible-role-database-master/
+-rw-rw-r-- root/root       149 2018-08-10 16:51 ansible-role-database-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-08-10 16:51 ansible-role-database-master/LICENSE.md
+-rw-rw-r-- root/root      1843 2018-08-10 16:51 ansible-role-database-master/README.md
+drwxrwxr-x root/root         0 2018-08-10 16:51 ansible-role-database-master/defaults/
+-rw-rw-r-- root/root       306 2018-08-10 16:51 ansible-role-database-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-10 16:51 ansible-role-database-master/handlers/
+-rw-rw-r-- root/root       153 2018-08-10 16:51 ansible-role-database-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-10 16:51 ansible-role-database-master/meta/
+-rw-rw-r-- root/root       283 2018-08-10 16:51 ansible-role-database-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-10 16:51 ansible-role-database-master/tasks/
+-rw-rw-r-- root/root       201 2018-08-10 16:51 ansible-role-database-master/tasks/main.yml
+-rw-rw-r-- root/root       614 2018-08-10 16:51 ansible-role-database-master/tasks/mariadb-remote.yml
+-rw-rw-r-- root/root      3568 2018-08-10 16:51 ansible-role-database-master/tasks/mariadb.yml

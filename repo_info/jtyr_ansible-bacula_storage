@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_storage-master/
+-rw-rw-r-- root/root         0 2017-03-05 20:50 ansible-bacula_storage-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-03-05 20:50 ansible-bacula_storage-master/LICENSE
+-rw-rw-r-- root/root      7326 2017-03-05 20:50 ansible-bacula_storage-master/README.md
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_storage-master/defaults/
+-rw-rw-r-- root/root      5913 2017-03-05 20:50 ansible-bacula_storage-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_storage-master/handlers/
+-rw-rw-r-- root/root       227 2017-03-05 20:50 ansible-bacula_storage-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_storage-master/meta/
+-rw-rw-r-- root/root       257 2017-03-05 20:50 ansible-bacula_storage-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_storage-master/tasks/
+-rw-rw-r-- root/root      1135 2017-03-05 20:50 ansible-bacula_storage-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_storage-master/templates/
+-rw-rw-r-- root/root       600 2017-03-05 20:50 ansible-bacula_storage-master/templates/bacula-sd.conf.j2
+-rw-rw-r-- root/root       105 2017-03-05 20:50 ansible-bacula_storage-master/templates/bacula-sd.sysconfig.j2

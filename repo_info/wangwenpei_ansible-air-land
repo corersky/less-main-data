@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-07-31 10:14 ansible-air-land-master/
+-rw-rw-r-- root/root      1271 2018-07-31 10:14 ansible-air-land-master/.gitignore
+-rw-rw-r-- root/root      1274 2018-07-31 10:14 ansible-air-land-master/README.md
+drwxrwxr-x root/root         0 2018-07-31 10:14 ansible-air-land-master/defaults/
+-rw-rw-r-- root/root       558 2018-07-31 10:14 ansible-air-land-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-31 10:14 ansible-air-land-master/meta/
+-rw-rw-r-- root/root       371 2018-07-31 10:14 ansible-air-land-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-31 10:14 ansible-air-land-master/plugins/
+drwxrwxr-x root/root         0 2018-07-31 10:14 ansible-air-land-master/plugins/filter/
+-rw-rw-r-- root/root       640 2018-07-31 10:14 ansible-air-land-master/plugins/filter/parentname.py
+drwxrwxr-x root/root         0 2018-07-31 10:14 ansible-air-land-master/tasks/
+-rw-rw-r-- root/root      4035 2018-07-31 10:14 ansible-air-land-master/tasks/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-16 02:52 ansible.nfs-manage-master/
+-rw-rw-r-- root/root         6 2017-03-16 02:52 ansible.nfs-manage-master/.gitignore
+-rw-rw-r-- root/root      1074 2017-03-16 02:52 ansible.nfs-manage-master/LICENSE
+-rw-rw-r-- root/root      1802 2017-03-16 02:52 ansible.nfs-manage-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 02:52 ansible.nfs-manage-master/defaults/
+-rw-rw-r-- root/root        71 2017-03-16 02:52 ansible.nfs-manage-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-16 02:52 ansible.nfs-manage-master/meta/
+-rw-rw-r-- root/root       307 2017-03-16 02:52 ansible.nfs-manage-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 02:52 ansible.nfs-manage-master/tasks/
+-rw-rw-r-- root/root       571 2017-03-16 02:52 ansible.nfs-manage-master/tasks/configs.yml
+-rw-rw-r-- root/root       141 2017-03-16 02:52 ansible.nfs-manage-master/tasks/install.yml
+-rw-rw-r-- root/root       106 2017-03-16 02:52 ansible.nfs-manage-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-16 02:52 ansible.nfs-manage-master/tests/
+-rw-rw-r-- root/root         9 2017-03-16 02:52 ansible.nfs-manage-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-03-16 02:52 ansible.nfs-manage-master/tests/test.yml

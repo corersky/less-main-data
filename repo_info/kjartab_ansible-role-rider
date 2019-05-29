@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-23 04:39 ansible-role-rider-master/
+-rw-rw-r-- root/root       539 2017-02-23 04:39 ansible-role-rider-master/.travis.yml
+-rw-rw-r-- root/root       484 2017-02-23 04:39 ansible-role-rider-master/README.md
+drwxrwxr-x root/root         0 2017-02-23 04:39 ansible-role-rider-master/defaults/
+-rw-rw-r-- root/root        43 2017-02-23 04:39 ansible-role-rider-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-23 04:39 ansible-role-rider-master/handlers/
+-rw-rw-r-- root/root        43 2017-02-23 04:39 ansible-role-rider-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-23 04:39 ansible-role-rider-master/meta/
+-rw-rw-r-- root/root       288 2017-02-23 04:39 ansible-role-rider-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-23 04:39 ansible-role-rider-master/tasks/
+-rw-rw-r-- root/root        40 2017-02-23 04:39 ansible-role-rider-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-23 04:39 ansible-role-rider-master/tests/
+-rw-rw-r-- root/root         9 2017-02-23 04:39 ansible-role-rider-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-02-23 04:39 ansible-role-rider-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-23 04:39 ansible-role-rider-master/vars/
+-rw-rw-r-- root/root        39 2017-02-23 04:39 ansible-role-rider-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-19 21:14 ansible-role-w3af-master/
+-rw-rw-r-- root/root      1505 2016-01-19 21:14 ansible-role-w3af-master/.travis.yml
+-rw-rw-r-- root/root      2100 2016-01-19 21:14 ansible-role-w3af-master/README.md
+drwxrwxr-x root/root         0 2016-01-19 21:14 ansible-role-w3af-master/defaults/
+-rw-rw-r-- root/root       239 2016-01-19 21:14 ansible-role-w3af-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-19 21:14 ansible-role-w3af-master/meta/
+-rw-rw-r-- root/root       847 2016-01-19 21:14 ansible-role-w3af-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-19 21:14 ansible-role-w3af-master/tasks/
+-rw-rw-r-- root/root      2091 2016-01-19 21:14 ansible-role-w3af-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-19 21:14 ansible-role-w3af-master/templates/
+-rw-rw-r-- root/root        43 2016-01-19 21:14 ansible-role-w3af-master/templates/startup.conf.j2
+-rw-rw-r-- root/root        45 2016-01-19 21:14 ansible-role-w3af-master/templates/w3af.sh.j2
+drwxrwxr-x root/root         0 2016-01-19 21:14 ansible-role-w3af-master/tests/
+-rw-rw-r-- root/root        10 2016-01-19 21:14 ansible-role-w3af-master/tests/inventory
+-rw-rw-r-- root/root       120 2016-01-19 21:14 ansible-role-w3af-master/tests/test.yml

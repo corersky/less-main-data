@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-03 11:16 ansible-role-docker-postgresql-master/
+-rw-rw-r-- root/root        16 2019-04-03 11:16 ansible-role-docker-postgresql-master/.gitignore
+-rw-rw-r-- root/root      1699 2019-04-03 11:16 ansible-role-docker-postgresql-master/Jenkinsfile
+-rw-rw-r-- root/root        57 2019-04-03 11:16 ansible-role-docker-postgresql-master/Makefile
+-rw-rw-r-- root/root      1328 2019-04-03 11:16 ansible-role-docker-postgresql-master/README.md
+drwxrwxr-x root/root         0 2019-04-03 11:16 ansible-role-docker-postgresql-master/defaults/
+-rw-rw-r-- root/root       190 2019-04-03 11:16 ansible-role-docker-postgresql-master/defaults/main.yml
+-rwxrwxr-x root/root     21123 2019-04-03 11:16 ansible-role-docker-postgresql-master/digital_ocean.py
+drwxrwxr-x root/root         0 2019-04-03 11:16 ansible-role-docker-postgresql-master/meta/
+-rw-rw-r-- root/root      1951 2019-04-03 11:16 ansible-role-docker-postgresql-master/meta/main.yml
+-rw-rw-r-- root/root       163 2019-04-03 11:16 ansible-role-docker-postgresql-master/playbook.yml
+drwxrwxr-x root/root         0 2019-04-03 11:16 ansible-role-docker-postgresql-master/tasks/
+-rw-rw-r-- root/root       349 2019-04-03 11:16 ansible-role-docker-postgresql-master/tasks/main.yml

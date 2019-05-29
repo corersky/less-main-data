@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-08 20:52 ansible-dome9-lease-master/
+-rw-rw-r-- root/root       195 2017-05-08 20:52 ansible-dome9-lease-master/.gitignore
+-rw-rw-r-- root/root       543 2017-05-08 20:52 ansible-dome9-lease-master/.travis.yml
+-rw-rw-r-- root/root      3226 2017-05-08 20:52 ansible-dome9-lease-master/README.md
+drwxrwxr-x root/root         0 2017-05-08 20:52 ansible-dome9-lease-master/defaults/
+-rw-rw-r-- root/root       440 2017-05-08 20:52 ansible-dome9-lease-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-08 20:52 ansible-dome9-lease-master/meta/
+-rw-rw-r-- root/root       472 2017-05-08 20:52 ansible-dome9-lease-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-08 20:52 ansible-dome9-lease-master/tasks/
+-rw-rw-r-- root/root      3661 2017-05-08 20:52 ansible-dome9-lease-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-08 20:52 ansible-dome9-lease-master/tests/
+-rw-rw-r-- root/root         9 2017-05-08 20:52 ansible-dome9-lease-master/tests/inventory
+-rw-rw-r-- root/root      1222 2017-05-08 20:52 ansible-dome9-lease-master/tests/test.yml

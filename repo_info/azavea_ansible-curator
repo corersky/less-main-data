@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-11-20 08:02 ansible-curator-master/
+-rw-rw-r-- root/root        36 2014-11-20 08:02 ansible-curator-master/.gitignore
+-rw-rw-r-- root/root        29 2014-11-20 08:02 ansible-curator-master/CHANGELOG.md
+-rw-rw-r-- root/root       259 2014-11-20 08:02 ansible-curator-master/README.md
+drwxrwxr-x root/root         0 2014-11-20 08:02 ansible-curator-master/defaults/
+-rw-rw-r-- root/root        29 2014-11-20 08:02 ansible-curator-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-20 08:02 ansible-curator-master/examples/
+-rw-rw-r-- root/root       543 2014-11-20 08:02 ansible-curator-master/examples/Vagrantfile
+-rw-rw-r-- root/root        17 2014-11-20 08:02 ansible-curator-master/examples/roles.txt
+drwxrwxr-x root/root         0 2014-11-20 08:02 ansible-curator-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-11-20 08:02 ansible-curator-master/examples/roles/azavea.curator -> ../../
+-rw-rw-r-- root/root        59 2014-11-20 08:02 ansible-curator-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-11-20 08:02 ansible-curator-master/meta/
+-rw-rw-r-- root/root       307 2014-11-20 08:02 ansible-curator-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-20 08:02 ansible-curator-master/tasks/
+-rw-rw-r-- root/root       120 2014-11-20 08:02 ansible-curator-master/tasks/main.yml

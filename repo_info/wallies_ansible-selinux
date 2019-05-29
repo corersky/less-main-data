@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-07 15:55 ansible-selinux-master/
+-rw-rw-r-- root/root        10 2016-06-07 15:55 ansible-selinux-master/.gitignore
+-rw-rw-r-- root/root      1074 2016-06-07 15:55 ansible-selinux-master/LICENSE
+-rw-rw-r-- root/root      1056 2016-06-07 15:55 ansible-selinux-master/README.md
+drwxrwxr-x root/root         0 2016-06-07 15:55 ansible-selinux-master/defaults/
+-rw-rw-r-- root/root        81 2016-06-07 15:55 ansible-selinux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-07 15:55 ansible-selinux-master/handlers/
+-rw-rw-r-- root/root       173 2016-06-07 15:55 ansible-selinux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-07 15:55 ansible-selinux-master/meta/
+-rw-rw-r-- root/root       300 2016-06-07 15:55 ansible-selinux-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-07 15:55 ansible-selinux-master/tasks/
+-rw-rw-r-- root/root       459 2016-06-07 15:55 ansible-selinux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-07 15:55 ansible-selinux-master/templates/
+-rw-rw-r-- root/root       555 2016-06-07 15:55 ansible-selinux-master/templates/setup-selinux.j2
+-rw-rw-r-- root/root       253 2016-06-07 15:55 ansible-selinux-master/templates/setup-selinux.service.j2

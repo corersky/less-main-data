@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-12-06 15:18 ansible-mapr_myriad-master/
+-rw-rw-r-- root/root      1328 2016-12-06 15:18 ansible-mapr_myriad-master/README.md
+drwxrwxr-x root/root         0 2016-12-06 15:18 ansible-mapr_myriad-master/defaults/
+-rw-rw-r-- root/root        45 2016-12-06 15:18 ansible-mapr_myriad-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-06 15:18 ansible-mapr_myriad-master/handlers/
+-rw-rw-r-- root/root        88 2016-12-06 15:18 ansible-mapr_myriad-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-06 15:18 ansible-mapr_myriad-master/meta/
+-rw-rw-r-- root/root      2545 2016-12-06 15:18 ansible-mapr_myriad-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-06 15:18 ansible-mapr_myriad-master/tasks/
+-rw-rw-r-- root/root       451 2016-12-06 15:18 ansible-mapr_myriad-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-06 15:18 ansible-mapr_myriad-master/templates/
+-rw-rw-r-- root/root      3370 2016-12-06 15:18 ansible-mapr_myriad-master/templates/myriad-config-default.yml.j2
+drwxrwxr-x root/root         0 2016-12-06 15:18 ansible-mapr_myriad-master/vars/
+-rw-rw-r-- root/root        41 2016-12-06 15:18 ansible-mapr_myriad-master/vars/main.yml

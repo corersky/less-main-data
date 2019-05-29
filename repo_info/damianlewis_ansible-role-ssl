@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-17 08:38 ansible-role-ssl-master/
+-rw-rw-r-- root/root      2104 2018-12-17 08:38 ansible-role-ssl-master/README.md
+drwxrwxr-x root/root         0 2018-12-17 08:38 ansible-role-ssl-master/defaults/
+-rw-rw-r-- root/root        69 2018-12-17 08:38 ansible-role-ssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 08:38 ansible-role-ssl-master/meta/
+-rw-rw-r-- root/root       342 2018-12-17 08:38 ansible-role-ssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 08:38 ansible-role-ssl-master/tasks/
+-rw-rw-r-- root/root      1346 2018-12-17 08:38 ansible-role-ssl-master/tasks/generate-certificate.yml
+-rw-rw-r-- root/root       880 2018-12-17 08:38 ansible-role-ssl-master/tasks/generate-csr.yml
+-rw-rw-r-- root/root       522 2018-12-17 08:38 ansible-role-ssl-master/tasks/generate-private-key.yml
+-rw-rw-r-- root/root       305 2018-12-17 08:38 ansible-role-ssl-master/tasks/install-openssl.yml
+-rw-rw-r-- root/root       307 2018-12-17 08:38 ansible-role-ssl-master/tasks/main.yml
+-rw-rw-r-- root/root       668 2018-12-17 08:38 ansible-role-ssl-master/tasks/variables.yml
+drwxrwxr-x root/root         0 2018-12-17 08:38 ansible-role-ssl-master/templates/
+-rw-rw-r-- root/root       798 2018-12-17 08:38 ansible-role-ssl-master/templates/ssl.conf.j2
+drwxrwxr-x root/root         0 2018-12-17 08:38 ansible-role-ssl-master/vars/
+-rw-rw-r-- root/root       246 2018-12-17 08:38 ansible-role-ssl-master/vars/main.yml

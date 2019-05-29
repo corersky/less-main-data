@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/
+-rw-rw-r-- root/root      1458 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/README.md
+drwxrwxr-x root/root         0 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/defaults/
+-rw-rw-r-- root/root       155 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/files/
+-rw-rw-r-- root/root       174 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/files/acme.conf
+drwxrwxr-x root/root         0 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/meta/
+-rw-rw-r-- root/root       185 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/tasks/
+-rw-rw-r-- root/root       782 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/tasks/initial.yml
+-rw-rw-r-- root/root      1372 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/templates/
+-rw-rw-r-- root/root       401 2018-10-28 06:54 ansible-role-freebsd-acme-client-master/templates/renew.sh.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-24 14:58 ansible-role-hostname-master/
+-rw-rw-r-- root/root        28 2019-03-24 14:58 ansible-role-hostname-master/.gitignore
+-rw-rw-r-- root/root       506 2019-03-24 14:58 ansible-role-hostname-master/.travis.yml
+-rw-rw-r-- root/root       172 2019-03-24 14:58 ansible-role-hostname-master/.yamllint
+-rw-rw-r-- root/root       467 2019-03-24 14:58 ansible-role-hostname-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 14:58 ansible-role-hostname-master/meta/
+-rw-rw-r-- root/root       278 2019-03-24 14:58 ansible-role-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 14:58 ansible-role-hostname-master/molecule/
+drwxrwxr-x root/root         0 2019-03-24 14:58 ansible-role-hostname-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-03-24 14:58 ansible-role-hostname-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       555 2019-03-24 14:58 ansible-role-hostname-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       386 2019-03-24 14:58 ansible-role-hostname-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        68 2019-03-24 14:58 ansible-role-hostname-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-03-24 14:58 ansible-role-hostname-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2019-03-24 14:58 ansible-role-hostname-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2019-03-24 14:58 ansible-role-hostname-master/tasks/
+-rw-rw-r-- root/root       126 2019-03-24 14:58 ansible-role-hostname-master/tasks/main.yml

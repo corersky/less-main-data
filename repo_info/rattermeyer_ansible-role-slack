@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-06 14:42 ansible-role-slack-master/
+-rw-rw-r-- root/root       539 2016-10-06 14:42 ansible-role-slack-master/.travis.yml
+-rw-rw-r-- root/root       162 2016-10-06 14:42 ansible-role-slack-master/README.md
+drwxrwxr-x root/root         0 2016-10-06 14:42 ansible-role-slack-master/defaults/
+-rw-rw-r-- root/root       168 2016-10-06 14:42 ansible-role-slack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-06 14:42 ansible-role-slack-master/handlers/
+-rw-rw-r-- root/root        43 2016-10-06 14:42 ansible-role-slack-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-06 14:42 ansible-role-slack-master/meta/
+-rw-rw-r-- root/root      3504 2016-10-06 14:42 ansible-role-slack-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-06 14:42 ansible-role-slack-master/tasks/
+-rw-rw-r-- root/root       206 2016-10-06 14:42 ansible-role-slack-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-06 14:42 ansible-role-slack-master/tests/
+-rw-rw-r-- root/root        35 2016-10-06 14:42 ansible-role-slack-master/tests/inventory
+-rw-rw-r-- root/root       103 2016-10-06 14:42 ansible-role-slack-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-06 14:42 ansible-role-slack-master/vars/
+-rw-rw-r-- root/root         4 2016-10-06 14:42 ansible-role-slack-master/vars/main.yml

@@ -1,0 +1,37 @@
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/
+-rw-rw-r-- root/root       127 2019-05-01 00:14 ansible-role-vim-master/.flake8
+-rw-rw-r-- root/root        68 2019-05-01 00:14 ansible-role-vim-master/.gitignore
+-rw-rw-r-- root/root       271 2019-05-01 00:14 ansible-role-vim-master/.travis.yml
+-rw-rw-r-- root/root       171 2019-05-01 00:14 ansible-role-vim-master/.yamllint
+-rw-rw-r-- root/root      1053 2019-05-01 00:14 ansible-role-vim-master/LICENSE
+-rw-rw-r-- root/root      1045 2019-05-01 00:14 ansible-role-vim-master/README.md
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/defaults/
+-rw-rw-r-- root/root       231 2019-05-01 00:14 ansible-role-vim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/meta/
+-rw-rw-r-- root/root       435 2019-05-01 00:14 ansible-role-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/molecule/
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/molecule/default/
+-rw-rw-r-- root/root      1145 2019-05-01 00:14 ansible-role-vim-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2019-05-01 00:14 ansible-role-vim-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2019-05-01 00:14 ansible-role-vim-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2019-05-01 00:14 ansible-role-vim-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       402 2019-05-01 00:14 ansible-role-vim-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        70 2019-05-01 00:14 ansible-role-vim-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        67 2019-05-01 00:14 ansible-role-vim-master/molecule/default/prepare.yml
+lrwxrwxrwx root/root         0 2019-05-01 00:14 ansible-role-vim-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/molecule/default/roles/
+lrwxrwxrwx root/root         0 2019-05-01 00:14 ansible-role-vim-master/molecule/default/roles/nephelaiio.vim -> ../../../
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/molecule/default/tests/
+-rw-rw-r-- root/root       307 2019-05-01 00:14 ansible-role-vim-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1021 2019-05-01 00:14 ansible-role-vim-master/molecule/default/tests/test_default.pyc
+-rw-rw-r-- root/root       571 2019-05-01 00:14 ansible-role-vim-master/playbook.yml
+-rw-rw-r-- root/root        44 2019-05-01 00:14 ansible-role-vim-master/requirements.txt
+-rw-rw-r-- root/root        26 2019-05-01 00:14 ansible-role-vim-master/requirements.yml
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/tasks/
+-rw-rw-r-- root/root       869 2019-05-01 00:14 ansible-role-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/templates/
+-rw-rw-r-- root/root      3254 2019-05-01 00:14 ansible-role-vim-master/templates/vimrc
+drwxrwxr-x root/root         0 2019-05-01 00:14 ansible-role-vim-master/vars/
+-rw-rw-r-- root/root        59 2019-05-01 00:14 ansible-role-vim-master/vars/Archlinux.yml
+-rw-rw-r-- root/root        57 2019-05-01 00:14 ansible-role-vim-master/vars/Debian.yml
+-rw-rw-r-- root/root         4 2019-05-01 00:14 ansible-role-vim-master/vars/main.yml

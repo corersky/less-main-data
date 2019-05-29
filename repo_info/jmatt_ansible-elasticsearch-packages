@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-30 13:15 ansible-elasticsearch-packages-master/
+-rw-rw-r-- root/root       647 2017-03-30 13:15 ansible-elasticsearch-packages-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-03-30 13:15 ansible-elasticsearch-packages-master/LICENSE
+-rw-rw-r-- root/root       528 2017-03-30 13:15 ansible-elasticsearch-packages-master/README.md
+drwxrwxr-x root/root         0 2017-03-30 13:15 ansible-elasticsearch-packages-master/meta/
+-rw-rw-r-- root/root       599 2017-03-30 13:15 ansible-elasticsearch-packages-master/meta/main.yml
+-rw-rw-r-- root/root        26 2017-03-30 13:15 ansible-elasticsearch-packages-master/requirements.yml
+drwxrwxr-x root/root         0 2017-03-30 13:15 ansible-elasticsearch-packages-master/tasks/
+-rw-rw-r-- root/root       633 2017-03-30 13:15 ansible-elasticsearch-packages-master/tasks/debian.yml
+-rw-rw-r-- root/root       165 2017-03-30 13:15 ansible-elasticsearch-packages-master/tasks/elasticsearch.yml
+-rw-rw-r-- root/root       165 2017-03-30 13:15 ansible-elasticsearch-packages-master/tasks/main.yml
+-rw-rw-r-- root/root       560 2017-03-30 13:15 ansible-elasticsearch-packages-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2017-03-30 13:15 ansible-elasticsearch-packages-master/tests/
+-rw-rw-r-- root/root         9 2017-03-30 13:15 ansible-elasticsearch-packages-master/tests/inventory
+-rw-rw-r-- root/root        88 2017-03-30 13:15 ansible-elasticsearch-packages-master/tests/test.yml

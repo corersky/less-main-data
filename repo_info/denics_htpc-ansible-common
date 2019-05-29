@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-14 10:03 htpc-ansible-common-master/
+-rw-rw-r-- root/root      3537 2018-07-14 10:03 htpc-ansible-common-master/README.md
+drwxrwxr-x root/root         0 2018-07-14 10:03 htpc-ansible-common-master/defaults/
+-rw-rw-r-- root/root       932 2018-07-14 10:03 htpc-ansible-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-14 10:03 htpc-ansible-common-master/handlers/
+-rw-rw-r-- root/root        36 2018-07-14 10:03 htpc-ansible-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-14 10:03 htpc-ansible-common-master/meta/
+-rw-rw-r-- root/root       270 2018-07-14 10:03 htpc-ansible-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-14 10:03 htpc-ansible-common-master/tasks/
+-rw-rw-r-- root/root      2995 2018-07-14 10:03 htpc-ansible-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-14 10:03 htpc-ansible-common-master/tests/
+-rw-rw-r-- root/root         9 2018-07-14 10:03 htpc-ansible-common-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-07-14 10:03 htpc-ansible-common-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-14 10:03 htpc-ansible-common-master/vars/
+-rw-rw-r-- root/root        32 2018-07-14 10:03 htpc-ansible-common-master/vars/main.yml

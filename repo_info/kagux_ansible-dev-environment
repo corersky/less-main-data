@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-04-25 09:09 ansible-dev-environment-master/
+-rw-rw-r-- root/root        80 2016-04-25 09:09 ansible-dev-environment-master/README.md
+drwxrwxr-x root/root         0 2016-04-25 09:09 ansible-dev-environment-master/defaults/
+-rw-rw-r-- root/root        29 2016-04-25 09:09 ansible-dev-environment-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-25 09:09 ansible-dev-environment-master/meta/
+-rw-rw-r-- root/root       321 2016-04-25 09:09 ansible-dev-environment-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-25 09:09 ansible-dev-environment-master/tasks/
+-rw-rw-r-- root/root       293 2016-04-25 09:09 ansible-dev-environment-master/tasks/install_dotfiles.yml
+-rw-rw-r-- root/root       251 2016-04-25 09:09 ansible-dev-environment-master/tasks/install_requirements.yml
+-rw-rw-r-- root/root        68 2016-04-25 09:09 ansible-dev-environment-master/tasks/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-20 14:11 ansible-role-ffmbc-master/
+-rw-rw-r-- root/root      2696 2016-06-20 14:11 ansible-role-ffmbc-master/.gitignore
+-rw-rw-r-- root/root       539 2016-06-20 14:11 ansible-role-ffmbc-master/.travis.yml
+-rw-rw-r-- root/root      1137 2016-06-20 14:11 ansible-role-ffmbc-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 14:11 ansible-role-ffmbc-master/defaults/
+-rw-rw-r-- root/root        36 2016-06-20 14:11 ansible-role-ffmbc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 14:11 ansible-role-ffmbc-master/files/
+-rw-rw-r-- root/root   4582147 2016-06-20 14:11 ansible-role-ffmbc-master/files/FFmbc-0.7.1.tar.bz2
+drwxrwxr-x root/root         0 2016-06-20 14:11 ansible-role-ffmbc-master/meta/
+-rw-rw-r-- root/root       305 2016-06-20 14:11 ansible-role-ffmbc-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 14:11 ansible-role-ffmbc-master/tasks/
+-rw-rw-r-- root/root      2082 2016-06-20 14:11 ansible-role-ffmbc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-20 14:11 ansible-role-ffmbc-master/tests/
+-rw-rw-r-- root/root       401 2016-06-20 14:11 ansible-role-ffmbc-master/tests/Dockerfile
+-rw-rw-r-- root/root        54 2016-06-20 14:11 ansible-role-ffmbc-master/tests/install_roles.yml
+-rw-rw-r-- root/root        70 2016-06-20 14:11 ansible-role-ffmbc-master/tests/playbook.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-03-30 03:18 ansible-node-js-master/
+-rw-rw-r-- root/root       300 2014-03-30 03:18 ansible-node-js-master/README.md
+drwxrwxr-x root/root         0 2014-03-30 03:18 ansible-node-js-master/inventories/
+-rw-rw-r-- root/root        18 2014-03-30 03:18 ansible-node-js-master/inventories/production
+-rw-rw-r-- root/root       245 2014-03-30 03:18 ansible-node-js-master/main.yml
+drwxrwxr-x root/root         0 2014-03-30 03:18 ansible-node-js-master/roles/
+drwxrwxr-x root/root         0 2014-03-30 03:18 ansible-node-js-master/roles/common/
+drwxrwxr-x root/root         0 2014-03-30 03:18 ansible-node-js-master/roles/common/tasks/
+-rw-rw-r-- root/root       191 2014-03-30 03:18 ansible-node-js-master/roles/common/tasks/main.yml
+drwxrwxr-x root/root         0 2014-03-30 03:18 ansible-node-js-master/roles/node/
+drwxrwxr-x root/root         0 2014-03-30 03:18 ansible-node-js-master/roles/node/tasks/
+-rw-rw-r-- root/root       731 2014-03-30 03:18 ansible-node-js-master/roles/node/tasks/main.yml

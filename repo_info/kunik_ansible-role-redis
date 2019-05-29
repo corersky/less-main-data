@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-01 07:50 ansible-role-redis-master/
+-rw-rw-r-- root/root        46 2018-11-01 07:50 ansible-role-redis-master/README.md
+drwxrwxr-x root/root         0 2018-11-01 07:50 ansible-role-redis-master/defaults/
+-rw-rw-r-- root/root       248 2018-11-01 07:50 ansible-role-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-01 07:50 ansible-role-redis-master/handlers/
+-rw-rw-r-- root/root       167 2018-11-01 07:50 ansible-role-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-01 07:50 ansible-role-redis-master/meta/
+-rw-rw-r-- root/root        60 2018-11-01 07:50 ansible-role-redis-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       192 2018-11-01 07:50 ansible-role-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-01 07:50 ansible-role-redis-master/tasks/
+-rw-rw-r-- root/root      1382 2018-11-01 07:50 ansible-role-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-01 07:50 ansible-role-redis-master/templates/
+-rw-rw-r-- root/root        97 2018-11-01 07:50 ansible-role-redis-master/templates/redis.conf.j2
+-rw-rw-r-- root/root       197 2018-11-01 07:50 ansible-role-redis-master/templates/upstart.conf.j2

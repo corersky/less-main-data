@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-05-27 14:12 ansible-clj-services-master/
+-rw-rw-r-- root/root       539 2016-05-27 14:12 ansible-clj-services-master/.travis.yml
+-rw-rw-r-- root/root      2168 2016-05-27 14:12 ansible-clj-services-master/README.md
+drwxrwxr-x root/root         0 2016-05-27 14:12 ansible-clj-services-master/defaults/
+-rw-rw-r-- root/root        75 2016-05-27 14:12 ansible-clj-services-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-27 14:12 ansible-clj-services-master/meta/
+-rw-rw-r-- root/root       275 2016-05-27 14:12 ansible-clj-services-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-27 14:12 ansible-clj-services-master/tasks/
+-rw-rw-r-- root/root      1802 2016-05-27 14:12 ansible-clj-services-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-27 14:12 ansible-clj-services-master/templates/
+-rw-rw-r-- root/root        88 2016-05-27 14:12 ansible-clj-services-master/templates/ENVS
+-rw-rw-r-- root/root       851 2016-05-27 14:12 ansible-clj-services-master/templates/clj-service.service
+drwxrwxr-x root/root         0 2016-05-27 14:12 ansible-clj-services-master/tests/
+-rw-rw-r-- root/root         9 2016-05-27 14:12 ansible-clj-services-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-05-27 14:12 ansible-clj-services-master/tests/test.yml

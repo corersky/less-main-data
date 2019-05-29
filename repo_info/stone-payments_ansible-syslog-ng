@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-04-24 17:14 ansible-syslog-ng-master/
+-rw-rw-r-- root/root      1065 2017-04-24 17:14 ansible-syslog-ng-master/LICENSE
+-rw-rw-r-- root/root        88 2017-04-24 17:14 ansible-syslog-ng-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 17:14 ansible-syslog-ng-master/defaults/
+-rw-rw-r-- root/root       431 2017-04-24 17:14 ansible-syslog-ng-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-24 17:14 ansible-syslog-ng-master/files/
+-rw-rw-r-- root/root       356 2017-04-24 17:14 ansible-syslog-ng-master/files/syslog-ng.conf
+drwxrwxr-x root/root         0 2017-04-24 17:14 ansible-syslog-ng-master/handlers/
+-rw-rw-r-- root/root       173 2017-04-24 17:14 ansible-syslog-ng-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-24 17:14 ansible-syslog-ng-master/meta/
+-rw-rw-r-- root/root       238 2017-04-24 17:14 ansible-syslog-ng-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 17:14 ansible-syslog-ng-master/tasks/
+-rw-rw-r-- root/root       552 2017-04-24 17:14 ansible-syslog-ng-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 17:14 ansible-syslog-ng-master/templates/
+-rw-rw-r-- root/root       537 2017-04-24 17:14 ansible-syslog-ng-master/templates/basic.j2

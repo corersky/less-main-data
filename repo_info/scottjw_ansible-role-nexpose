@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-09 09:43 ansible-role-nexpose-master/
+-rw-rw-r-- root/root      1073 2019-05-09 09:43 ansible-role-nexpose-master/LICENSE
+-rw-rw-r-- root/root      2785 2019-05-09 09:43 ansible-role-nexpose-master/README.md
+drwxrwxr-x root/root         0 2019-05-09 09:43 ansible-role-nexpose-master/defaults/
+-rw-rw-r-- root/root       673 2019-05-09 09:43 ansible-role-nexpose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-09 09:43 ansible-role-nexpose-master/handlers/
+-rw-rw-r-- root/root        99 2019-05-09 09:43 ansible-role-nexpose-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-09 09:43 ansible-role-nexpose-master/meta/
+-rw-rw-r-- root/root       302 2019-05-09 09:43 ansible-role-nexpose-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-09 09:43 ansible-role-nexpose-master/tasks/
+-rw-rw-r-- root/root      3796 2019-05-09 09:43 ansible-role-nexpose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-09 09:43 ansible-role-nexpose-master/tests/
+-rw-rw-r-- root/root      1007 2019-05-09 09:43 ansible-role-nexpose-master/tests/Vagrantfile
+-rw-rw-r-- root/root        55 2019-05-09 09:43 ansible-role-nexpose-master/tests/vagrant.yml
+drwxrwxr-x root/root         0 2019-05-09 09:43 ansible-role-nexpose-master/vars/
+-rw-rw-r-- root/root         4 2019-05-09 09:43 ansible-role-nexpose-master/vars/main.yml

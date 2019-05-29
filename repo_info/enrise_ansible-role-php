@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-08-22 06:55 ansible-role-php-master/
+-rw-rw-r-- root/root      1074 2014-08-22 06:55 ansible-role-php-master/LICENSE
+-rw-rw-r-- root/root      1091 2014-08-22 06:55 ansible-role-php-master/README.md
+drwxrwxr-x root/root         0 2014-08-22 06:55 ansible-role-php-master/defaults/
+-rw-rw-r-- root/root      1089 2014-08-22 06:55 ansible-role-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-22 06:55 ansible-role-php-master/handlers/
+-rw-rw-r-- root/root       149 2014-08-22 06:55 ansible-role-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-08-22 06:55 ansible-role-php-master/meta/
+-rw-rw-r-- root/root       278 2014-08-22 06:55 ansible-role-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-22 06:55 ansible-role-php-master/tasks/
+-rw-rw-r-- root/root      2147 2014-08-22 06:55 ansible-role-php-master/tasks/configure.yml
+-rw-rw-r-- root/root       319 2014-08-22 06:55 ansible-role-php-master/tasks/extensions.yml
+-rw-rw-r-- root/root       313 2014-08-22 06:55 ansible-role-php-master/tasks/install.yml
+-rw-rw-r-- root/root       309 2014-08-22 06:55 ansible-role-php-master/tasks/main.yml
+-rw-rw-r-- root/root       794 2014-08-22 06:55 ansible-role-php-master/tasks/pecl.yml

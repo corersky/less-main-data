@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-07 00:18 ansible-rsyslog-master/
+-rw-rw-r-- root/root      1074 2017-07-07 00:18 ansible-rsyslog-master/LICENSE
+-rw-rw-r-- root/root      2028 2017-07-07 00:18 ansible-rsyslog-master/README.md
+drwxrwxr-x root/root         0 2017-07-07 00:18 ansible-rsyslog-master/defaults/
+-rw-rw-r-- root/root       196 2017-07-07 00:18 ansible-rsyslog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-07 00:18 ansible-rsyslog-master/handlers/
+-rw-rw-r-- root/root        98 2017-07-07 00:18 ansible-rsyslog-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-07 00:18 ansible-rsyslog-master/meta/
+-rw-rw-r-- root/root       386 2017-07-07 00:18 ansible-rsyslog-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-07 00:18 ansible-rsyslog-master/tasks/
+-rw-rw-r-- root/root      1984 2017-07-07 00:18 ansible-rsyslog-master/tasks/main.yml
+-rw-rw-r-- root/root      2468 2017-07-07 00:18 ansible-rsyslog-master/tasks/papertrail.yml
+drwxrwxr-x root/root         0 2017-07-07 00:18 ansible-rsyslog-master/templates/
+-rw-rw-r-- root/root        56 2017-07-07 00:18 ansible-rsyslog-master/templates/00_udp_server.conf.j2
+-rw-rw-r-- root/root       296 2017-07-07 00:18 ansible-rsyslog-master/templates/papertrail.conf.j2

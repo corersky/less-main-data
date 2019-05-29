@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-04 06:40 dnsdist-master/
+-rw-rw-r-- root/root     22240 2018-08-04 06:40 dnsdist-master/LICENSE
+-rw-rw-r-- root/root      1503 2018-08-04 06:40 dnsdist-master/README.md
+drwxrwxr-x root/root         0 2018-08-04 06:40 dnsdist-master/defaults/
+-rw-rw-r-- root/root        66 2018-08-04 06:40 dnsdist-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-04 06:40 dnsdist-master/handlers/
+-rw-rw-r-- root/root       140 2018-08-04 06:40 dnsdist-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-04 06:40 dnsdist-master/meta/
+-rw-rw-r-- root/root       397 2018-08-04 06:40 dnsdist-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-04 06:40 dnsdist-master/tasks/
+-rw-rw-r-- root/root      1796 2018-08-04 06:40 dnsdist-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-04 06:40 dnsdist-master/templates/
+-rw-rw-r-- root/root        73 2018-08-04 06:40 dnsdist-master/templates/nofile.conf.j2

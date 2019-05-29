@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-18 10:31 ansible-rsyslog8-master/
+-rw-rw-r-- root/root       372 2015-11-18 10:31 ansible-rsyslog8-master/.editorconfig
+-rw-rw-r-- root/root       448 2015-11-18 10:31 ansible-rsyslog8-master/.travis.yml
+-rw-rw-r-- root/root      1081 2015-11-18 10:31 ansible-rsyslog8-master/LICENSE
+-rw-rw-r-- root/root       847 2015-11-18 10:31 ansible-rsyslog8-master/README.md
+drwxrwxr-x root/root         0 2015-11-18 10:31 ansible-rsyslog8-master/defaults/
+-rw-rw-r-- root/root      1107 2015-11-18 10:31 ansible-rsyslog8-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-18 10:31 ansible-rsyslog8-master/handlers/
+-rw-rw-r-- root/root       105 2015-11-18 10:31 ansible-rsyslog8-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-18 10:31 ansible-rsyslog8-master/meta/
+-rw-rw-r-- root/root      1675 2015-11-18 10:31 ansible-rsyslog8-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-18 10:31 ansible-rsyslog8-master/tasks/
+-rw-rw-r-- root/root       202 2015-11-18 10:31 ansible-rsyslog8-master/tasks/main.yml
+-rw-rw-r-- root/root       641 2015-11-18 10:31 ansible-rsyslog8-master/tasks/rhel-centos.yml
+-rw-rw-r-- root/root       432 2015-11-18 10:31 ansible-rsyslog8-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2015-11-18 10:31 ansible-rsyslog8-master/templates/
+-rw-rw-r-- root/root       351 2015-11-18 10:31 ansible-rsyslog8-master/templates/yum.j2

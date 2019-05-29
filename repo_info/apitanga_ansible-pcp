@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-15 10:32 ansible-pcp-master/
+-rw-rw-r-- root/root       806 2019-04-15 10:32 ansible-pcp-master/README.md
+drwxrwxr-x root/root         0 2019-04-15 10:32 ansible-pcp-master/handlers/
+-rw-rw-r-- root/root       144 2019-04-15 10:32 ansible-pcp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-15 10:32 ansible-pcp-master/meta/
+-rw-rw-r-- root/root       279 2019-04-15 10:32 ansible-pcp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-15 10:32 ansible-pcp-master/tasks/
+-rw-rw-r-- root/root       719 2019-04-15 10:32 ansible-pcp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-15 10:32 ansible-pcp-master/templates/
+-rw-rw-r-- root/root       945 2019-04-15 10:32 ansible-pcp-master/templates/local.j2
+-rw-rw-r-- root/root       954 2019-04-15 10:32 ansible-pcp-master/templates/pmcd.j2

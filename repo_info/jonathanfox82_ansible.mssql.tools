@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-10-05 10:31 ansible.mssql.tools-master/
+-rw-rw-r-- root/root      2077 2017-10-05 10:31 ansible.mssql.tools-master/README.md
+drwxrwxr-x root/root         0 2017-10-05 10:31 ansible.mssql.tools-master/defaults/
+-rw-rw-r-- root/root        35 2017-10-05 10:31 ansible.mssql.tools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-05 10:31 ansible.mssql.tools-master/handlers/
+-rw-rw-r-- root/root        35 2017-10-05 10:31 ansible.mssql.tools-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-05 10:31 ansible.mssql.tools-master/meta/
+-rw-rw-r-- root/root       602 2017-10-05 10:31 ansible.mssql.tools-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-05 10:31 ansible.mssql.tools-master/tasks/
+-rw-rw-r-- root/root        70 2017-10-05 10:31 ansible.mssql.tools-master/tasks/main.yml
+-rw-rw-r-- root/root       391 2017-10-05 10:31 ansible.mssql.tools-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2017-10-05 10:31 ansible.mssql.tools-master/tests/
+-rw-rw-r-- root/root        11 2017-10-05 10:31 ansible.mssql.tools-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-10-05 10:31 ansible.mssql.tools-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-05 10:31 ansible.mssql.tools-master/vars/
+-rw-rw-r-- root/root        31 2017-10-05 10:31 ansible.mssql.tools-master/vars/main.yml

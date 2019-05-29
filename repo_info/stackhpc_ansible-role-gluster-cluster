@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-04 08:41 ansible-role-gluster-cluster-master/
+-rw-rw-r-- root/root         8 2019-04-04 08:41 ansible-role-gluster-cluster-master/.gitignore
+-rw-rw-r-- root/root     11357 2019-04-04 08:41 ansible-role-gluster-cluster-master/LICENSE
+-rw-rw-r-- root/root      2323 2019-04-04 08:41 ansible-role-gluster-cluster-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 08:41 ansible-role-gluster-cluster-master/defaults/
+-rw-rw-r-- root/root       357 2019-04-04 08:41 ansible-role-gluster-cluster-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 08:41 ansible-role-gluster-cluster-master/meta/
+-rw-rw-r-- root/root       351 2019-04-04 08:41 ansible-role-gluster-cluster-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 08:41 ansible-role-gluster-cluster-master/tasks/
+-rw-rw-r-- root/root      1624 2019-04-04 08:41 ansible-role-gluster-cluster-master/tasks/clients.yml
+-rw-rw-r-- root/root       203 2019-04-04 08:41 ansible-role-gluster-cluster-master/tasks/main.yml
+-rw-rw-r-- root/root      3024 2019-04-04 08:41 ansible-role-gluster-cluster-master/tasks/servers.yml

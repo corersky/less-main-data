@@ -1,0 +1,8 @@
+drwxrwxr-x root/root         0 2018-12-10 05:06 ansible-role-php-versions-master/
+-rw-rw-r-- root/root       396 2018-12-10 05:06 ansible-role-php-versions-master/README.md
+drwxrwxr-x root/root         0 2018-12-10 05:06 ansible-role-php-versions-master/meta/
+-rw-rw-r-- root/root       364 2018-12-10 05:06 ansible-role-php-versions-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-10 05:06 ansible-role-php-versions-master/tasks/
+-rw-rw-r-- root/root        58 2018-12-10 05:06 ansible-role-php-versions-master/tasks/main.yml
+-rw-rw-r-- root/root       357 2018-12-10 05:06 ansible-role-php-versions-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root        82 2018-12-10 05:06 ansible-role-php-versions-master/tasks/setup-Ubuntu.yml

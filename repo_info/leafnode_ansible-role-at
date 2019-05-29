@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-at-master/
+-rwxrwxr-x root/root      1005 2018-11-29 08:24 ansible-role-at-master/.travis.yml
+-rw-rw-r-- root/root       335 2018-11-29 08:24 ansible-role-at-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-at-master/defaults/
+-rw-rw-r-- root/root        20 2018-11-29 08:24 ansible-role-at-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-at-master/meta/
+-rw-rw-r-- root/root       279 2018-11-29 08:24 ansible-role-at-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-at-master/tasks/
+-rw-rw-r-- root/root       212 2018-11-29 08:24 ansible-role-at-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:24 ansible-role-at-master/tests/
+-rw-rw-r-- root/root        10 2018-11-29 08:24 ansible-role-at-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-11-29 08:24 ansible-role-at-master/tests/test.yml

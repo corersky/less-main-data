@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2019-03-11 18:33 ansible-role-oauth2-proxy-master/
+-rw-rw-r-- root/root        29 2019-03-11 18:33 ansible-role-oauth2-proxy-master/.gitignore
+-rw-rw-r-- root/root      1112 2019-03-11 18:33 ansible-role-oauth2-proxy-master/.travis.yml
+-rw-rw-r-- root/root      1077 2019-03-11 18:33 ansible-role-oauth2-proxy-master/LICENSE
+-rw-rw-r-- root/root      2117 2019-03-11 18:33 ansible-role-oauth2-proxy-master/README.md
+-rw-rw-r-- root/root       429 2019-03-11 18:33 ansible-role-oauth2-proxy-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-03-11 18:33 ansible-role-oauth2-proxy-master/defaults/
+-rw-rw-r-- root/root      1375 2019-03-11 18:33 ansible-role-oauth2-proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-11 18:33 ansible-role-oauth2-proxy-master/handlers/
+-rw-rw-r-- root/root       163 2019-03-11 18:33 ansible-role-oauth2-proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-11 18:33 ansible-role-oauth2-proxy-master/meta/
+-rw-rw-r-- root/root       310 2019-03-11 18:33 ansible-role-oauth2-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-11 18:33 ansible-role-oauth2-proxy-master/tasks/
+-rw-rw-r-- root/root      2125 2019-03-11 18:33 ansible-role-oauth2-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-11 18:33 ansible-role-oauth2-proxy-master/templates/
+-rw-rw-r-- root/root       310 2019-03-11 18:33 ansible-role-oauth2-proxy-master/templates/config.j2
+-rw-rw-r-- root/root      4488 2019-03-11 18:33 ansible-role-oauth2-proxy-master/templates/init.d.sh.j2.sh
+-rw-rw-r-- root/root       376 2019-03-11 18:33 ansible-role-oauth2-proxy-master/templates/systemd.service.j2
+drwxrwxr-x root/root         0 2019-03-11 18:33 ansible-role-oauth2-proxy-master/tests/
+-rw-rw-r-- root/root       752 2019-03-11 18:33 ansible-role-oauth2-proxy-master/tests/role.yml
+lrwxrwxrwx root/root         0 2019-03-11 18:33 ansible-role-oauth2-proxy-master/tests/role_under_test -> ..

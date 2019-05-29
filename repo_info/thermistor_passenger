@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-26 01:21 passenger-master/
+-rw-rw-r-- root/root      1084 2018-10-26 01:21 passenger-master/LICENSE
+-rw-rw-r-- root/root      1691 2018-10-26 01:21 passenger-master/README.md
+drwxrwxr-x root/root         0 2018-10-26 01:21 passenger-master/defaults/
+-rw-rw-r-- root/root       411 2018-10-26 01:21 passenger-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-26 01:21 passenger-master/handlers/
+-rw-rw-r-- root/root       152 2018-10-26 01:21 passenger-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-26 01:21 passenger-master/meta/
+-rw-rw-r-- root/root       297 2018-10-26 01:21 passenger-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-26 01:21 passenger-master/tasks/
+-rw-rw-r-- root/root       840 2018-10-26 01:21 passenger-master/tasks/main.yml
+-rw-rw-r-- root/root       394 2018-10-26 01:21 passenger-master/tasks/repository.yml
+drwxrwxr-x root/root         0 2018-10-26 01:21 passenger-master/templates/
+-rw-rw-r-- root/root       374 2018-10-26 01:21 passenger-master/templates/passenger.conf.j2
+-rw-rw-r-- root/root       183 2018-10-26 01:21 passenger-master/templates/sudoers_passenger.j2

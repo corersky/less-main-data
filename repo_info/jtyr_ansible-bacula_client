@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-30 07:42 ansible-bacula_client-master/
+-rw-rw-r-- root/root         0 2017-07-30 07:42 ansible-bacula_client-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-07-30 07:42 ansible-bacula_client-master/LICENSE
+-rw-rw-r-- root/root      5523 2017-07-30 07:42 ansible-bacula_client-master/README.md
+drwxrwxr-x root/root         0 2017-07-30 07:42 ansible-bacula_client-master/defaults/
+-rw-rw-r-- root/root      4098 2017-07-30 07:42 ansible-bacula_client-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-07-30 07:42 ansible-bacula_client-master/handlers/
+-rw-rw-r-- root/root       223 2017-07-30 07:42 ansible-bacula_client-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-07-30 07:42 ansible-bacula_client-master/meta/
+-rw-rw-r-- root/root       256 2017-07-30 07:42 ansible-bacula_client-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-30 07:42 ansible-bacula_client-master/tasks/
+-rw-rw-r-- root/root      1115 2017-07-30 07:42 ansible-bacula_client-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-07-30 07:42 ansible-bacula_client-master/templates/
+-rw-rw-r-- root/root       469 2017-07-30 07:42 ansible-bacula_client-master/templates/bacula-fd.conf.j2
+-rw-rw-r-- root/root       104 2017-07-30 07:42 ansible-bacula_client-master/templates/bacula-fd.sysconfig.j2

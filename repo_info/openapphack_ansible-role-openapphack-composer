@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-composer-master/
+-rw-rw-r-- root/root        55 2016-01-26 08:13 ansible-role-openapphack-composer-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-composer-master/defaults/
+-rw-rw-r-- root/root       557 2016-01-26 08:13 ansible-role-openapphack-composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-composer-master/meta/
+-rw-rw-r-- root/root       327 2016-01-26 08:13 ansible-role-openapphack-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-composer-master/tasks/
+-rw-rw-r-- root/root       533 2016-01-26 08:13 ansible-role-openapphack-composer-master/tasks/global-require.yml
+-rw-rw-r-- root/root      1029 2016-01-26 08:13 ansible-role-openapphack-composer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-composer-master/templates/
+-rw-rw-r-- root/root        90 2016-01-26 08:13 ansible-role-openapphack-composer-master/templates/auth.json.j2
+-rw-rw-r-- root/root        54 2016-01-26 08:13 ansible-role-openapphack-composer-master/templates/composer.sh.j2
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-composer-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:13 ansible-role-openapphack-composer-master/tests/inventory
+-rw-rw-r-- root/root       208 2016-01-26 08:13 ansible-role-openapphack-composer-master/tests/test-global-require.yml
+-rw-rw-r-- root/root       115 2016-01-26 08:13 ansible-role-openapphack-composer-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-05-15 09:06 ansible-search-master/
+-rw-rw-r-- root/root      1195 2015-05-15 09:06 ansible-search-master/README.md
+drwxrwxr-x root/root         0 2015-05-15 09:06 ansible-search-master/defaults/
+-rw-rw-r-- root/root       238 2015-05-15 09:06 ansible-search-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-15 09:06 ansible-search-master/handlers/
+-rw-rw-r-- root/root       102 2015-05-15 09:06 ansible-search-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-15 09:06 ansible-search-master/meta/
+-rw-rw-r-- root/root       287 2015-05-15 09:06 ansible-search-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-15 09:06 ansible-search-master/tasks/
+-rw-rw-r-- root/root       381 2015-05-15 09:06 ansible-search-master/tasks/main.yml
+-rw-rw-r-- root/root       849 2015-05-15 09:06 ansible-search-master/tasks/solr-first-install.yml
+-rw-rw-r-- root/root       451 2015-05-15 09:06 ansible-search-master/tasks/solr-install-core.yml
+drwxrwxr-x root/root         0 2015-05-15 09:06 ansible-search-master/vars/
+-rw-rw-r-- root/root        27 2015-05-15 09:06 ansible-search-master/vars/main.yml

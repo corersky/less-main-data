@@ -1,0 +1,28 @@
+drwxrwxr-x root/root         0 2016-03-08 15:27 users_and_groups-master/
+-rw-rw-r-- root/root       148 2016-03-08 15:27 users_and_groups-master/.editorconfig
+-rw-rw-r-- root/root        45 2016-03-08 15:27 users_and_groups-master/.gitignore
+-rw-rw-r-- root/root      1205 2016-03-08 15:27 users_and_groups-master/.travis.yml
+-rw-rw-r-- root/root      1087 2016-03-08 15:27 users_and_groups-master/LICENSE
+-rw-rw-r-- root/root       975 2016-03-08 15:27 users_and_groups-master/Makefile
+-rw-rw-r-- root/root      2607 2016-03-08 15:27 users_and_groups-master/README.md
+-rw-rw-r-- root/root         5 2016-03-08 15:27 users_and_groups-master/VERSION
+drwxrwxr-x root/root         0 2016-03-08 15:27 users_and_groups-master/defaults/
+-rw-rw-r-- root/root       374 2016-03-08 15:27 users_and_groups-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 15:27 users_and_groups-master/meta/
+-rw-rw-r-- root/root       302 2016-03-08 15:27 users_and_groups-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 15:27 users_and_groups-master/tasks/
+-rw-rw-r-- root/root      1824 2016-03-08 15:27 users_and_groups-master/tasks/build.yml
+-rw-rw-r-- root/root        95 2016-03-08 15:27 users_and_groups-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 15:27 users_and_groups-master/templates/
+-rw-rw-r-- root/root       111 2016-03-08 15:27 users_and_groups-master/templates/sudoers.j2
+drwxrwxr-x root/root         0 2016-03-08 15:27 users_and_groups-master/tests/
+lrwxrwxrwx root/root         0 2016-03-08 15:27 users_and_groups-master/tests/ansible-city.users_and_groups -> ..
+-rw-rw-r-- root/root        34 2016-03-08 15:27 users_and_groups-master/tests/ansible.cfg
+-rw-rw-r-- root/root        57 2016-03-08 15:27 users_and_groups-master/tests/integration_requirements.yml
+-rw-rw-r-- root/root        10 2016-03-08 15:27 users_and_groups-master/tests/inventory
+-rw-rw-r-- root/root      1651 2016-03-08 15:27 users_and_groups-master/tests/lorem.ipsum
+-rw-rw-r-- root/root       401 2016-03-08 15:27 users_and_groups-master/tests/lorem.ipsum.pub
+-rw-rw-r-- root/root      1541 2016-03-08 15:27 users_and_groups-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-08 15:27 users_and_groups-master/tests/vagrant/
+-rw-rw-r-- root/root       986 2016-03-08 15:27 users_and_groups-master/tests/vagrant/Vagrantfile
+lrwxrwxrwx root/root         0 2016-03-08 15:27 users_and_groups-master/tests/vagrant/ansible.cfg -> ../ansible.cfg

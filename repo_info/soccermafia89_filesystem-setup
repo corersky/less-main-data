@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2017-09-21 17:48 filesystem-setup-master/
+-rw-rw-r-- root/root      1316 2017-09-21 17:48 filesystem-setup-master/README.md
+drwxrwxr-x root/root         0 2017-09-21 17:48 filesystem-setup-master/meta/
+-rw-rw-r-- root/root      1862 2017-09-21 17:48 filesystem-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-21 17:48 filesystem-setup-master/tasks/
+-rw-rw-r-- root/root      2970 2017-09-21 17:48 filesystem-setup-master/tasks/filesystem-setup.yml
+-rw-rw-r-- root/root        37 2017-09-21 17:48 filesystem-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-21 17:48 filesystem-setup-master/templates/
+-rw-rw-r-- root/root       353 2017-09-21 17:48 filesystem-setup-master/templates/centos7.Dockerfile

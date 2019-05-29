@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-12 07:11 ansible-ntp-master/
+-rw-rw-r-- root/root         8 2018-11-12 07:11 ansible-ntp-master/.gitignore
+-rw-rw-r-- root/root      1098 2018-11-12 07:11 ansible-ntp-master/LICENSE
+-rw-rw-r-- root/root       635 2018-11-12 07:11 ansible-ntp-master/README.md
+-rw-rw-r-- root/root         6 2018-11-12 07:11 ansible-ntp-master/VERSION
+drwxrwxr-x root/root         0 2018-11-12 07:11 ansible-ntp-master/defaults/
+-rw-rw-r-- root/root       115 2018-11-12 07:11 ansible-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-12 07:11 ansible-ntp-master/handlers/
+-rw-rw-r-- root/root        62 2018-11-12 07:11 ansible-ntp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-12 07:11 ansible-ntp-master/meta/
+-rw-rw-r-- root/root       223 2018-11-12 07:11 ansible-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-12 07:11 ansible-ntp-master/tasks/
+-rw-rw-r-- root/root       362 2018-11-12 07:11 ansible-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-12 07:11 ansible-ntp-master/templates/
+-rw-rw-r-- root/root      1266 2018-11-12 07:11 ansible-ntp-master/templates/ntp.conf.j2

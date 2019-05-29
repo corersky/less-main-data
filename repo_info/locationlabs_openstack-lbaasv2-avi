@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-28 13:43 openstack-lbaasv2-avi-master/
+-rw-rw-r-- root/root     11358 2018-02-28 13:43 openstack-lbaasv2-avi-master/LICENSE.txt
+-rw-rw-r-- root/root      1610 2018-02-28 13:43 openstack-lbaasv2-avi-master/README.md
+drwxrwxr-x root/root         0 2018-02-28 13:43 openstack-lbaasv2-avi-master/defaults/
+-rw-rw-r-- root/root       444 2018-02-28 13:43 openstack-lbaasv2-avi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-28 13:43 openstack-lbaasv2-avi-master/handlers/
+-rw-rw-r-- root/root       671 2018-02-28 13:43 openstack-lbaasv2-avi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-28 13:43 openstack-lbaasv2-avi-master/meta/
+-rw-rw-r-- root/root       362 2018-02-28 13:43 openstack-lbaasv2-avi-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-28 13:43 openstack-lbaasv2-avi-master/tasks/
+-rw-rw-r-- root/root      1134 2018-02-28 13:43 openstack-lbaasv2-avi-master/tasks/avi-dashboard.yml
+-rw-rw-r-- root/root       562 2018-02-28 13:43 openstack-lbaasv2-avi-master/tasks/heat.yml
+-rw-rw-r-- root/root      3967 2018-02-28 13:43 openstack-lbaasv2-avi-master/tasks/lbaas.yml
+-rw-rw-r-- root/root       405 2018-02-28 13:43 openstack-lbaasv2-avi-master/tasks/main.yml
+-rw-rw-r-- root/root       402 2018-02-28 13:43 openstack-lbaasv2-avi-master/tasks/native-dashboard.yml
+drwxrwxr-x root/root         0 2018-02-28 13:43 openstack-lbaasv2-avi-master/vars/
+-rw-rw-r-- root/root       650 2018-02-28 13:43 openstack-lbaasv2-avi-master/vars/main.yml

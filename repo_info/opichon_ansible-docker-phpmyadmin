@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-31 15:25 ansible-docker-phpmyadmin-master/
+-rw-rw-r-- root/root      1071 2019-03-31 15:25 ansible-docker-phpmyadmin-master/LICENSE
+-rw-rw-r-- root/root      1220 2019-03-31 15:25 ansible-docker-phpmyadmin-master/README.md
+drwxrwxr-x root/root         0 2019-03-31 15:25 ansible-docker-phpmyadmin-master/defaults/
+-rw-rw-r-- root/root       129 2019-03-31 15:25 ansible-docker-phpmyadmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-31 15:25 ansible-docker-phpmyadmin-master/meta/
+-rw-rw-r-- root/root       352 2019-03-31 15:25 ansible-docker-phpmyadmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 15:25 ansible-docker-phpmyadmin-master/tasks/
+-rw-rw-r-- root/root       778 2019-03-31 15:25 ansible-docker-phpmyadmin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 15:25 ansible-docker-phpmyadmin-master/tests/
+-rw-rw-r-- root/root        11 2019-03-31 15:25 ansible-docker-phpmyadmin-master/tests/inventory
+-rw-rw-r-- root/root        59 2019-03-31 15:25 ansible-docker-phpmyadmin-master/tests/test.yml

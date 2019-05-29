@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-07-25 02:12 ansible-role-service-stop-master/
+-rw-rw-r-- root/root      1731 2016-07-25 02:12 ansible-role-service-stop-master/.travis.yml
+-rw-rw-r-- root/root      1313 2016-07-25 02:12 ansible-role-service-stop-master/README.md
+drwxrwxr-x root/root         0 2016-07-25 02:12 ansible-role-service-stop-master/defaults/
+-rw-rw-r-- root/root       434 2016-07-25 02:12 ansible-role-service-stop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-25 02:12 ansible-role-service-stop-master/meta/
+-rw-rw-r-- root/root       314 2016-07-25 02:12 ansible-role-service-stop-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-25 02:12 ansible-role-service-stop-master/tasks/
+-rw-rw-r-- root/root       238 2016-07-25 02:12 ansible-role-service-stop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-25 02:12 ansible-role-service-stop-master/tests/
+-rw-rw-r-- root/root       380 2016-07-25 02:12 ansible-role-service-stop-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1027 2016-07-25 02:12 ansible-role-service-stop-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root         9 2016-07-25 02:12 ansible-role-service-stop-master/tests/inventory
+-rw-rw-r-- root/root        57 2016-07-25 02:12 ansible-role-service-stop-master/tests/test.yml

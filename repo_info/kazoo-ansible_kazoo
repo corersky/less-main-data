@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-03 11:54 kazoo-master/
+-rw-rw-r-- root/root      1070 2018-02-03 11:54 kazoo-master/LICENSE
+-rw-rw-r-- root/root       522 2018-02-03 11:54 kazoo-master/README.md
+drwxrwxr-x root/root         0 2018-02-03 11:54 kazoo-master/handlers/
+-rw-rw-r-- root/root       140 2018-02-03 11:54 kazoo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-03 11:54 kazoo-master/library/
+-rw-rw-r-- root/root      1160 2018-02-03 11:54 kazoo-master/library/freeswitchcluster.py
+-rw-rw-r-- root/root      1342 2018-02-03 11:54 kazoo-master/library/kamailiocluster.py
+-rw-rw-r-- root/root      1039 2018-02-03 11:54 kazoo-master/library/waitdbinit.py
+drwxrwxr-x root/root         0 2018-02-03 11:54 kazoo-master/meta/
+-rw-rw-r-- root/root      1731 2018-02-03 11:54 kazoo-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-03 11:54 kazoo-master/tasks/
+-rw-rw-r-- root/root      1101 2018-02-03 11:54 kazoo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-03 11:54 kazoo-master/templates/
+-rw-rw-r-- root/root       701 2018-02-03 11:54 kazoo-master/templates/config.ini.j2
+-rw-rw-r-- root/root       725 2018-02-03 11:54 kazoo-master/templates/vm.args.j2

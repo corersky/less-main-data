@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-04-13 12:26 ar-r-base-master/
+-rw-rw-r-- root/root       114 2015-04-13 12:26 ar-r-base-master/.gitignore
+-rwxrwxr-x root/root      1103 2015-04-13 12:26 ar-r-base-master/LICENSE.md
+-rw-rw-r-- root/root      1358 2015-04-13 12:26 ar-r-base-master/Makefile
+-rw-rw-r-- root/root       604 2015-04-13 12:26 ar-r-base-master/README.md
+-rw-rw-r-- root/root       622 2015-04-13 12:26 ar-r-base-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-04-13 12:26 ar-r-base-master/defaults/
+-rw-rw-r-- root/root       178 2015-04-13 12:26 ar-r-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-13 12:26 ar-r-base-master/meta/
+-rw-rw-r-- root/root       263 2015-04-13 12:26 ar-r-base-master/meta/main.yml
+-rw-rw-r-- root/root        77 2015-04-13 12:26 ar-r-base-master/r-base-play.yml
+-rwxrwxr-x root/root       976 2015-04-13 12:26 ar-r-base-master/roll.mk
+-rw-rw-r-- root/root        15 2015-04-13 12:26 ar-r-base-master/self.mk
+drwxrwxr-x root/root         0 2015-04-13 12:26 ar-r-base-master/tasks/
+-rw-rw-r-- root/root       381 2015-04-13 12:26 ar-r-base-master/tasks/main.yml
+-rw-rw-r-- root/root        64 2015-04-13 12:26 ar-r-base-master/test.yml
+-rw-rw-r-- root/root        52 2015-04-13 12:26 ar-r-base-master/vagrant-inventory

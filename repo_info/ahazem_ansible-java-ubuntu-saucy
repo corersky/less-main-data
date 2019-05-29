@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/
+-rw-rw-r-- root/root      1075 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/LICENSE
+-rw-rw-r-- root/root      1004 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/README.md
+drwxrwxr-x root/root         0 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/defaults/
+-rw-rw-r-- root/root       101 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/meta/
+-rw-rw-r-- root/root       277 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/tasks/
+-rw-rw-r-- root/root       166 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/tasks/main.yml
+-rw-rw-r-- root/root       252 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/tasks/openjdk.yml
+-rw-rw-r-- root/root      1020 2014-04-21 18:25 ansible-java-ubuntu-saucy-master/tasks/oracle.yml

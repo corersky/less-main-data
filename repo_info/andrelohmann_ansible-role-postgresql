@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-02 12:39 ansible-role-postgresql-master/
+-rw-rw-r-- root/root        28 2019-01-02 12:39 ansible-role-postgresql-master/.gitignore
+-rw-rw-r-- root/root       947 2019-01-02 12:39 ansible-role-postgresql-master/.travis.yml
+-rw-rw-r-- root/root      1138 2019-01-02 12:39 ansible-role-postgresql-master/README.md
+drwxrwxr-x root/root         0 2019-01-02 12:39 ansible-role-postgresql-master/defaults/
+-rw-rw-r-- root/root       159 2019-01-02 12:39 ansible-role-postgresql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-02 12:39 ansible-role-postgresql-master/handlers/
+-rw-rw-r-- root/root        88 2019-01-02 12:39 ansible-role-postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-02 12:39 ansible-role-postgresql-master/meta/
+-rw-rw-r-- root/root       341 2019-01-02 12:39 ansible-role-postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-02 12:39 ansible-role-postgresql-master/tasks/
+-rw-rw-r-- root/root      2246 2019-01-02 12:39 ansible-role-postgresql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-02 12:39 ansible-role-postgresql-master/tests/
+-rw-rw-r-- root/root         9 2019-01-02 12:39 ansible-role-postgresql-master/tests/inventory
+-rw-rw-r-- root/root       595 2019-01-02 12:39 ansible-role-postgresql-master/tests/test.yml

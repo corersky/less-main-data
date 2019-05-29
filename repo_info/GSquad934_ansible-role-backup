@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-06 12:32 ansible-role-backup-master/
+-rw-rw-r-- root/root       149 2018-08-06 12:32 ansible-role-backup-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-08-06 12:32 ansible-role-backup-master/LICENSE.md
+-rw-rw-r-- root/root      2974 2018-08-06 12:32 ansible-role-backup-master/README.md
+drwxrwxr-x root/root         0 2018-08-06 12:32 ansible-role-backup-master/defaults/
+-rw-rw-r-- root/root      2032 2018-08-06 12:32 ansible-role-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-06 12:32 ansible-role-backup-master/files/
+-rwxrwxr-x root/root       184 2018-08-06 12:32 ansible-role-backup-master/files/delete_archives.sh
+drwxrwxr-x root/root         0 2018-08-06 12:32 ansible-role-backup-master/meta/
+-rw-rw-r-- root/root       246 2018-08-06 12:32 ansible-role-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-06 12:32 ansible-role-backup-master/tasks/
+-rw-rw-r-- root/root      2849 2018-08-06 12:32 ansible-role-backup-master/tasks/backup.yml
+-rw-rw-r-- root/root        80 2018-08-06 12:32 ansible-role-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-06 12:32 ansible-role-backup-master/templates/
+-rwxrwxr-x root/root       350 2018-08-06 12:32 ansible-role-backup-master/templates/backup-rsync.sh
+-rwxrwxr-x root/root      1251 2018-08-06 12:32 ansible-role-backup-master/templates/backup-tar.sh

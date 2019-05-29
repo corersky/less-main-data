@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/
+-rw-rw-r-- root/root        24 2018-04-24 13:18 ansible-common-master/.gitignore
+-rw-rw-r-- root/root        64 2018-04-24 13:18 ansible-common-master/Makefile
+-rw-rw-r-- root/root       230 2018-04-24 13:18 ansible-common-master/README.md
+-rw-rw-r-- root/root      2961 2018-04-24 13:18 ansible-common-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/defaults/
+-rw-rw-r-- root/root       237 2018-04-24 13:18 ansible-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/files/
+-rw-rw-r-- root/root      2115 2018-04-24 13:18 ansible-common-master/files/50unattended-upgrades
+-rw-rw-r-- root/root       195 2018-04-24 13:18 ansible-common-master/files/apt_periodic
+-rw-rw-r-- root/root       377 2018-04-24 13:18 ansible-common-master/files/auto.pub
+-rw-rw-r-- root/root      1788 2018-04-24 13:18 ansible-common-master/files/collectd.conf
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/handlers/
+-rw-rw-r-- root/root       354 2018-04-24 13:18 ansible-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/meta/
+-rw-rw-r-- root/root       361 2018-04-24 13:18 ansible-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/tasks/
+-rw-rw-r-- root/root      5356 2018-04-24 13:18 ansible-common-master/tasks/main.yml
+-rw-rw-r-- root/root      1176 2018-04-24 13:18 ansible-common-master/tasks/nullmailer.yml
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/templates/
+-rw-rw-r-- root/root        22 2018-04-24 13:18 ansible-common-master/templates/ansible-setup.j2
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/test/
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/test/roles/
+lrwxrwxrwx root/root         0 2018-04-24 13:18 ansible-common-master/test/roles/ansible-common -> ../../
+-rw-rw-r-- root/root        84 2018-04-24 13:18 ansible-common-master/test/vagrant.yml
+drwxrwxr-x root/root         0 2018-04-24 13:18 ansible-common-master/vars/
+-rw-rw-r-- root/root         0 2018-04-24 13:18 ansible-common-master/vars/main.yml

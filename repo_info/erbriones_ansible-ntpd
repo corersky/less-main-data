@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-21 14:08 ansible-ntpd-master/
+-rw-rw-r-- root/root       549 2017-04-21 14:08 ansible-ntpd-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-04-21 14:08 ansible-ntpd-master/LICENSE
+-rw-rw-r-- root/root       483 2017-04-21 14:08 ansible-ntpd-master/README.md
+drwxrwxr-x root/root         0 2017-04-21 14:08 ansible-ntpd-master/defaults/
+-rw-rw-r-- root/root        20 2017-04-21 14:08 ansible-ntpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-21 14:08 ansible-ntpd-master/handlers/
+-rw-rw-r-- root/root        69 2017-04-21 14:08 ansible-ntpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-21 14:08 ansible-ntpd-master/meta/
+-rw-rw-r-- root/root       314 2017-04-21 14:08 ansible-ntpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-21 14:08 ansible-ntpd-master/tasks/
+-rw-rw-r-- root/root        54 2017-04-21 14:08 ansible-ntpd-master/tasks/debian.yml
+-rw-rw-r-- root/root       512 2017-04-21 14:08 ansible-ntpd-master/tasks/main.yml
+-rw-rw-r-- root/root        54 2017-04-21 14:08 ansible-ntpd-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2017-04-21 14:08 ansible-ntpd-master/tests/
+-rw-rw-r-- root/root         9 2017-04-21 14:08 ansible-ntpd-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-04-21 14:08 ansible-ntpd-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-02-08 23:52 ansible-nginx-apps-master/
+-rw-rw-r-- root/root        57 2015-02-08 23:52 ansible-nginx-apps-master/.gitignore
+-rw-rw-r-- root/root      1328 2015-02-08 23:52 ansible-nginx-apps-master/README.md
+drwxrwxr-x root/root         0 2015-02-08 23:52 ansible-nginx-apps-master/defaults/
+-rw-rw-r-- root/root        44 2015-02-08 23:52 ansible-nginx-apps-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-08 23:52 ansible-nginx-apps-master/handlers/
+-rw-rw-r-- root/root       149 2015-02-08 23:52 ansible-nginx-apps-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-08 23:52 ansible-nginx-apps-master/meta/
+-rw-rw-r-- root/root       261 2015-02-08 23:52 ansible-nginx-apps-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-08 23:52 ansible-nginx-apps-master/tasks/
+-rw-rw-r-- root/root      2564 2015-02-08 23:52 ansible-nginx-apps-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-08 23:52 ansible-nginx-apps-master/templates/
+-rw-rw-r-- root/root       824 2015-02-08 23:52 ansible-nginx-apps-master/templates/static_http.conf.j2
+-rw-rw-r-- root/root       955 2015-02-08 23:52 ansible-nginx-apps-master/templates/static_https.conf.j2
+drwxrwxr-x root/root         0 2015-02-08 23:52 ansible-nginx-apps-master/vars/
+-rw-rw-r-- root/root        40 2015-02-08 23:52 ansible-nginx-apps-master/vars/main.yml

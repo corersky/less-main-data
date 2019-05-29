@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-linux-master/
+-rw-rw-r-- root/root       165 2019-03-14 08:21 ansible-role-golem-dev-linux-master/README.md
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-linux-master/defaults/
+-rw-rw-r-- root/root       639 2019-03-14 08:21 ansible-role-golem-dev-linux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-linux-master/handlers/
+-rw-rw-r-- root/root        39 2019-03-14 08:21 ansible-role-golem-dev-linux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-linux-master/meta/
+-rw-rw-r-- root/root       414 2019-03-14 08:21 ansible-role-golem-dev-linux-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-linux-master/tasks/
+-rw-rw-r-- root/root      1988 2019-03-14 08:21 ansible-role-golem-dev-linux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-linux-master/tests/
+-rw-rw-r-- root/root        11 2019-03-14 08:21 ansible-role-golem-dev-linux-master/tests/inventory
+-rw-rw-r-- root/root        73 2019-03-14 08:21 ansible-role-golem-dev-linux-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-linux-master/vars/
+-rw-rw-r-- root/root        35 2019-03-14 08:21 ansible-role-golem-dev-linux-master/vars/main.yml

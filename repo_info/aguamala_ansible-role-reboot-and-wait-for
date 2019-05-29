@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/
+-rw-rw-r-- root/root      1328 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/README.md
+drwxrwxr-x root/root         0 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/defaults/
+-rw-rw-r-- root/root        57 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/meta/
+-rw-rw-r-- root/root      3279 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/tasks/
+-rw-rw-r-- root/root       352 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/tests/
+-rw-rw-r-- root/root         9 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/tests/inventory
+-rw-rw-r-- root/root        90 2016-05-05 11:38 ansible-role-reboot-and-wait-for-master/tests/test.yml

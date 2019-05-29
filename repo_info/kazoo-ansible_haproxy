@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-12-16 18:29 haproxy-master/
+-rw-rw-r-- root/root      1070 2017-12-16 18:29 haproxy-master/LICENSE
+-rw-rw-r-- root/root       300 2017-12-16 18:29 haproxy-master/README.md
+drwxrwxr-x root/root         0 2017-12-16 18:29 haproxy-master/handlers/
+-rw-rw-r-- root/root        85 2017-12-16 18:29 haproxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:29 haproxy-master/meta/
+-rw-rw-r-- root/root      1719 2017-12-16 18:29 haproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:29 haproxy-master/tasks/
+-rw-rw-r-- root/root       348 2017-12-16 18:29 haproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:29 haproxy-master/templates/
+-rw-rw-r-- root/root      1065 2017-12-16 18:29 haproxy-master/templates/haproxy.cfg.j2

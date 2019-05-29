@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-06-10 01:47 ansible-role-sysctl-master/
+-rw-rw-r-- root/root       352 2016-06-10 01:47 ansible-role-sysctl-master/.gitignore
+-rw-rw-r-- root/root      1212 2016-06-10 01:47 ansible-role-sysctl-master/.travis.yml
+-rw-rw-r-- root/root      1124 2016-06-10 01:47 ansible-role-sysctl-master/README.md
+drwxrwxr-x root/root         0 2016-06-10 01:47 ansible-role-sysctl-master/defaults/
+-rw-rw-r-- root/root       103 2016-06-10 01:47 ansible-role-sysctl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-10 01:47 ansible-role-sysctl-master/meta/
+-rw-rw-r-- root/root       429 2016-06-10 01:47 ansible-role-sysctl-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-10 01:47 ansible-role-sysctl-master/tasks/
+-rw-rw-r-- root/root       374 2016-06-10 01:47 ansible-role-sysctl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-10 01:47 ansible-role-sysctl-master/tests/
+-rw-rw-r-- root/root        10 2016-06-10 01:47 ansible-role-sysctl-master/tests/inventory
+-rw-rw-r-- root/root       191 2016-06-10 01:47 ansible-role-sysctl-master/tests/test.yml

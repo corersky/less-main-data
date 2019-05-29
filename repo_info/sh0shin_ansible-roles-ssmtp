@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-11 04:28 ansible-roles-ssmtp-master/
+-rw-rw-r-- root/root      1511 2017-11-11 04:28 ansible-roles-ssmtp-master/LICENSE
+-rw-rw-r-- root/root      2364 2017-11-11 04:28 ansible-roles-ssmtp-master/README.md
+drwxrwxr-x root/root         0 2017-11-11 04:28 ansible-roles-ssmtp-master/defaults/
+-rw-rw-r-- root/root       643 2017-11-11 04:28 ansible-roles-ssmtp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-11 04:28 ansible-roles-ssmtp-master/files/
+-rw-rw-r-- root/root       277 2017-11-11 04:28 ansible-roles-ssmtp-master/files/mailer.conf-ssmtp.in
+drwxrwxr-x root/root         0 2017-11-11 04:28 ansible-roles-ssmtp-master/meta/
+-rw-rw-r-- root/root       580 2017-11-11 04:28 ansible-roles-ssmtp-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-11 04:28 ansible-roles-ssmtp-master/tasks/
+-rw-rw-r-- root/root      2282 2017-11-11 04:28 ansible-roles-ssmtp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-11 04:28 ansible-roles-ssmtp-master/templates/
+-rw-rw-r-- root/root      1403 2017-11-11 04:28 ansible-roles-ssmtp-master/templates/ssmtp.conf.j2.in
+drwxrwxr-x root/root         0 2017-11-11 04:28 ansible-roles-ssmtp-master/vars/
+-rw-rw-r-- root/root       128 2017-11-11 04:28 ansible-roles-ssmtp-master/vars/FreeBSD.yml
+-rw-rw-r-- root/root       147 2017-11-11 04:28 ansible-roles-ssmtp-master/vars/main.yml

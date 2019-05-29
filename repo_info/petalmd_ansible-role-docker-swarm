@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-15 11:04 ansible-role-docker-swarm-master/
+-rw-rw-r-- root/root     11357 2017-08-15 11:04 ansible-role-docker-swarm-master/LICENSE
+-rw-rw-r-- root/root      1802 2017-08-15 11:04 ansible-role-docker-swarm-master/README.md
+drwxrwxr-x root/root         0 2017-08-15 11:04 ansible-role-docker-swarm-master/defaults/
+-rw-rw-r-- root/root        28 2017-08-15 11:04 ansible-role-docker-swarm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-15 11:04 ansible-role-docker-swarm-master/example/
+-rw-rw-r-- root/root      1067 2017-08-15 11:04 ansible-role-docker-swarm-master/example/docker.yml
+-rw-rw-r-- root/root       150 2017-08-15 11:04 ansible-role-docker-swarm-master/example/hosts
+drwxrwxr-x root/root         0 2017-08-15 11:04 ansible-role-docker-swarm-master/meta/
+-rw-rw-r-- root/root       362 2017-08-15 11:04 ansible-role-docker-swarm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-15 11:04 ansible-role-docker-swarm-master/tasks/
+-rw-rw-r-- root/root       787 2017-08-15 11:04 ansible-role-docker-swarm-master/tasks/boostrap-manager-steps.yml
+-rw-rw-r-- root/root       925 2017-08-15 11:04 ansible-role-docker-swarm-master/tasks/boostrap-worker-steps.yml
+-rw-rw-r-- root/root       990 2017-08-15 11:04 ansible-role-docker-swarm-master/tasks/main.yml
+-rw-rw-r-- root/root       452 2017-08-15 11:04 ansible-role-docker-swarm-master/tasks/manager-boostrap.yml
+-rw-rw-r-- root/root       466 2017-08-15 11:04 ansible-role-docker-swarm-master/tasks/retreive-join-token.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-29 03:20 ansible-role-spamassassin-master/
+-rw-rw-r-- root/root      1328 2018-11-29 03:20 ansible-role-spamassassin-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 03:20 ansible-role-spamassassin-master/defaults/
+-rw-rw-r-- root/root        66 2018-11-29 03:20 ansible-role-spamassassin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 03:20 ansible-role-spamassassin-master/files/
+-rw-rw-r-- root/root        65 2018-11-29 03:20 ansible-role-spamassassin-master/files/spamc.conf
+-rw-rw-r-- root/root      2412 2018-11-29 03:20 ansible-role-spamassassin-master/files/v320.pre
+drwxrwxr-x root/root         0 2018-11-29 03:20 ansible-role-spamassassin-master/handlers/
+-rw-rw-r-- root/root       149 2018-11-29 03:20 ansible-role-spamassassin-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-29 03:20 ansible-role-spamassassin-master/meta/
+-rw-rw-r-- root/root       265 2018-11-29 03:20 ansible-role-spamassassin-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 03:20 ansible-role-spamassassin-master/tasks/
+-rw-rw-r-- root/root      1592 2018-11-29 03:20 ansible-role-spamassassin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 03:20 ansible-role-spamassassin-master/templates/
+-rw-rw-r-- root/root      2701 2018-11-29 03:20 ansible-role-spamassassin-master/templates/local.cf
+-rw-rw-r-- root/root       105 2018-11-29 03:20 ansible-role-spamassassin-master/templates/whitelist

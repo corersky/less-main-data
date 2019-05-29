@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-15 04:47 ansible-role-composer-master/
+-rw-rw-r-- root/root      1428 2016-11-15 04:47 ansible-role-composer-master/.travis.yml
+-rw-rw-r-- root/root      1026 2016-11-15 04:47 ansible-role-composer-master/README.md
+drwxrwxr-x root/root         0 2016-11-15 04:47 ansible-role-composer-master/defaults/
+-rw-rw-r-- root/root       159 2016-11-15 04:47 ansible-role-composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-15 04:47 ansible-role-composer-master/meta/
+-rw-rw-r-- root/root       341 2016-11-15 04:47 ansible-role-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-15 04:47 ansible-role-composer-master/tasks/
+-rw-rw-r-- root/root       877 2016-11-15 04:47 ansible-role-composer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-15 04:47 ansible-role-composer-master/templates/
+-rw-rw-r-- root/root        82 2016-11-15 04:47 ansible-role-composer-master/templates/auth.json.j2
+drwxrwxr-x root/root         0 2016-11-15 04:47 ansible-role-composer-master/tests/
+-rw-rw-r-- root/root       318 2016-11-15 04:47 ansible-role-composer-master/tests/Dockerfile.ubuntu-14.04
+-rw-rw-r-- root/root         9 2016-11-15 04:47 ansible-role-composer-master/tests/inventory
+-rw-rw-r-- root/root        67 2016-11-15 04:47 ansible-role-composer-master/tests/test.yml

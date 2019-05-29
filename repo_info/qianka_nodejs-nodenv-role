@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-04-29 04:02 nodejs-nodenv-role-master/
+-rw-rw-r-- root/root       891 2015-04-29 04:02 nodejs-nodenv-role-master/README.md
+drwxrwxr-x root/root         0 2015-04-29 04:02 nodejs-nodenv-role-master/defaults/
+-rw-rw-r-- root/root       169 2015-04-29 04:02 nodejs-nodenv-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-29 04:02 nodejs-nodenv-role-master/files/
+-rw-rw-r-- root/root       228 2015-04-29 04:02 nodejs-nodenv-role-master/files/install-nodejs.sh
+-rw-rw-r-- root/root       134 2015-04-29 04:02 nodejs-nodenv-role-master/files/nodenv-profile.sh
+-rw-rw-r-- root/root        62 2015-04-29 04:02 nodejs-nodenv-role-master/files/nodenv-sudoers
+drwxrwxr-x root/root         0 2015-04-29 04:02 nodejs-nodenv-role-master/meta/
+-rw-rw-r-- root/root       194 2015-04-29 04:02 nodejs-nodenv-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-29 04:02 nodejs-nodenv-role-master/tasks/
+-rw-rw-r-- root/root      1625 2015-04-29 04:02 nodejs-nodenv-role-master/tasks/main.yml

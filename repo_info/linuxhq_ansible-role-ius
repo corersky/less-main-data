@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-17 18:49 ansible-role-ius-master/
+-rw-rw-r-- root/root       331 2019-05-17 18:49 ansible-role-ius-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-05-17 18:49 ansible-role-ius-master/COPYING
+-rw-rw-r-- root/root      3075 2019-05-17 18:49 ansible-role-ius-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 18:49 ansible-role-ius-master/defaults/
+-rw-rw-r-- root/root      1446 2019-05-17 18:49 ansible-role-ius-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 18:49 ansible-role-ius-master/meta/
+-rw-rw-r-- root/root       282 2019-05-17 18:49 ansible-role-ius-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 18:49 ansible-role-ius-master/tasks/
+-rw-rw-r-- root/root      2545 2019-05-17 18:49 ansible-role-ius-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-17 18:49 ansible-role-ius-master/templates/
+-rw-rw-r-- root/root      1278 2019-05-17 18:49 ansible-role-ius-master/templates/ius-archive.repo.j2
+-rw-rw-r-- root/root      1278 2019-05-17 18:49 ansible-role-ius-master/templates/ius-testing.repo.j2
+-rw-rw-r-- root/root      1128 2019-05-17 18:49 ansible-role-ius-master/templates/ius.repo.j2
+drwxrwxr-x root/root         0 2019-05-17 18:49 ansible-role-ius-master/tests/
+-rw-rw-r-- root/root        10 2019-05-17 18:49 ansible-role-ius-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-05-17 18:49 ansible-role-ius-master/tests/test.yml

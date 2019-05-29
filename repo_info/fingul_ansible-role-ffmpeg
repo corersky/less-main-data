@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-05-02 18:39 ansible-role-ffmpeg-master/
+-rw-rw-r-- root/root      2696 2016-05-02 18:39 ansible-role-ffmpeg-master/.gitignore
+-rw-rw-r-- root/root       539 2016-05-02 18:39 ansible-role-ffmpeg-master/.travis.yml
+-rw-rw-r-- root/root      1112 2016-05-02 18:39 ansible-role-ffmpeg-master/Dockerfile
+-rw-rw-r-- root/root       670 2016-05-02 18:39 ansible-role-ffmpeg-master/README.md
+drwxrwxr-x root/root         0 2016-05-02 18:39 ansible-role-ffmpeg-master/files/
+-rwxrwxr-x root/root  29665296 2016-05-02 18:39 ansible-role-ffmpeg-master/files/ffmpeg
+-rwxrwxr-x root/root  29591344 2016-05-02 18:39 ansible-role-ffmpeg-master/files/ffprobe
+-rwxrwxr-x root/root  26886112 2016-05-02 18:39 ansible-role-ffmpeg-master/files/frmxtract
+drwxrwxr-x root/root         0 2016-05-02 18:39 ansible-role-ffmpeg-master/meta/
+-rw-rw-r-- root/root       330 2016-05-02 18:39 ansible-role-ffmpeg-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-02 18:39 ansible-role-ffmpeg-master/tasks/
+-rw-rw-r-- root/root       149 2016-05-02 18:39 ansible-role-ffmpeg-master/tasks/main.yml

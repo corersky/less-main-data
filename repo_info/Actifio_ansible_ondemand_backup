@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-11 00:47 ansible_ondemand_backup-master/
+-rw-rw-r-- root/root      1102 2018-09-11 00:47 ansible_ondemand_backup-master/LICENSE
+-rw-rw-r-- root/root      3119 2018-09-11 00:47 ansible_ondemand_backup-master/README.md
+drwxrwxr-x root/root         0 2018-09-11 00:47 ansible_ondemand_backup-master/defaults/
+-rw-rw-r-- root/root       546 2018-09-11 00:47 ansible_ondemand_backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-11 00:47 ansible_ondemand_backup-master/filter_plugins/
+-rw-rw-r-- root/root       538 2018-09-11 00:47 ansible_ondemand_backup-master/filter_plugins/custom.py
+drwxrwxr-x root/root         0 2018-09-11 00:47 ansible_ondemand_backup-master/meta/
+-rw-rw-r-- root/root       780 2018-09-11 00:47 ansible_ondemand_backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-11 00:47 ansible_ondemand_backup-master/tasks/
+-rw-rw-r-- root/root      3839 2018-09-11 00:47 ansible_ondemand_backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-11 00:47 ansible_ondemand_backup-master/vars/
+-rw-rw-r-- root/root       271 2018-09-11 00:47 ansible_ondemand_backup-master/vars/main.yml

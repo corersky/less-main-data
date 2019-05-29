@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-13 08:25 ansible-role-lammps-master/
+-rw-rw-r-- root/root       909 2019-04-13 08:25 ansible-role-lammps-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-04-13 08:25 ansible-role-lammps-master/LICENSE
+-rw-rw-r-- root/root       633 2019-04-13 08:25 ansible-role-lammps-master/README.md
+drwxrwxr-x root/root         0 2019-04-13 08:25 ansible-role-lammps-master/defaults/
+-rw-rw-r-- root/root       138 2019-04-13 08:25 ansible-role-lammps-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-13 08:25 ansible-role-lammps-master/meta/
+-rw-rw-r-- root/root       364 2019-04-13 08:25 ansible-role-lammps-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-13 08:25 ansible-role-lammps-master/molecule/
+drwxrwxr-x root/root         0 2019-04-13 08:25 ansible-role-lammps-master/molecule/default/
+-rw-rw-r-- root/root       625 2019-04-13 08:25 ansible-role-lammps-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       208 2019-04-13 08:25 ansible-role-lammps-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        54 2019-04-13 08:25 ansible-role-lammps-master/molecule/default/requirements.yml
+-rw-rw-r-- root/root        75 2019-04-13 08:25 ansible-role-lammps-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-04-13 08:25 ansible-role-lammps-master/tasks/
+-rw-rw-r-- root/root       871 2019-04-13 08:25 ansible-role-lammps-master/tasks/main.yml

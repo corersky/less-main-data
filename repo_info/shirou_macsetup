@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-08-02 08:21 macsetup-master/
+-rw-rw-r-- root/root         3 2014-08-02 08:21 macsetup-master/.gitignore
+-rw-rw-r-- root/root       418 2014-08-02 08:21 macsetup-master/README.md
+drwxrwxr-x root/root         0 2014-08-02 08:21 macsetup-master/meta/
+-rw-rw-r-- root/root       204 2014-08-02 08:21 macsetup-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-02 08:21 macsetup-master/tasks/
+-rw-rw-r-- root/root       649 2014-08-02 08:21 macsetup-master/tasks/install_homebrew.yml
+-rw-rw-r-- root/root       211 2014-08-02 08:21 macsetup-master/tasks/install_homebrew_cask.yml
+-rw-rw-r-- root/root       112 2014-08-02 08:21 macsetup-master/tasks/install_python.yml
+-rw-rw-r-- root/root       196 2014-08-02 08:21 macsetup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-02 08:21 macsetup-master/vars/
+-rw-rw-r-- root/root       358 2014-08-02 08:21 macsetup-master/vars/homebrew.yml
+-rw-rw-r-- root/root       402 2014-08-02 08:21 macsetup-master/vars/homebrew_cask.yml
+-rw-rw-r-- root/root        57 2014-08-02 08:21 macsetup-master/vars/python.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/
+-rw-rw-r-- root/root      3260 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/README.md
+drwxrwxr-x root/root         0 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/defaults/
+-rw-rw-r-- root/root       470 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/handlers/
+-rw-rw-r-- root/root        49 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/meta/
+-rw-rw-r-- root/root      1412 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/tasks/
+-rw-rw-r-- root/root       438 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/tasks/bambooagent_install_java.yml
+-rw-rw-r-- root/root      2536 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/tasks/bambooagent_install_java_linux.yml
+-rw-rw-r-- root/root      1725 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/tasks/bambooagent_install_java_osx.yml
+-rw-rw-r-- root/root      3054 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/tasks/bambooagent_install_java_win.yml
+-rw-rw-r-- root/root       533 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/tasks/check_vars.yml
+-rw-rw-r-- root/root       183 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/vars/
+-rw-rw-r-- root/root        45 2019-05-03 09:36 ansible-atlassian-bambooagent-oracle-java-role-master/vars/main.yml

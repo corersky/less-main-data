@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-27 19:30 ansible-elrepo-master/
+-rw-rw-r-- root/root       539 2016-02-27 19:30 ansible-elrepo-master/.travis.yml
+-rw-rw-r-- root/root       381 2016-02-27 19:30 ansible-elrepo-master/README.md
+drwxrwxr-x root/root         0 2016-02-27 19:30 ansible-elrepo-master/defaults/
+-rw-rw-r-- root/root        39 2016-02-27 19:30 ansible-elrepo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:30 ansible-elrepo-master/handlers/
+-rw-rw-r-- root/root        39 2016-02-27 19:30 ansible-elrepo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:30 ansible-elrepo-master/meta/
+-rw-rw-r-- root/root      3017 2016-02-27 19:30 ansible-elrepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:30 ansible-elrepo-master/tasks/
+-rw-rw-r-- root/root       794 2016-02-27 19:30 ansible-elrepo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:30 ansible-elrepo-master/tests/
+-rw-rw-r-- root/root         9 2016-02-27 19:30 ansible-elrepo-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-02-27 19:30 ansible-elrepo-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-02-27 19:30 ansible-elrepo-master/vars/
+-rw-rw-r-- root/root        35 2016-02-27 19:30 ansible-elrepo-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-11 13:27 tequila-nginx-master/
+-rw-rw-r-- root/root        19 2018-09-11 13:27 tequila-nginx-master/.gitignore
+-rw-rw-r-- root/root      2517 2018-09-11 13:27 tequila-nginx-master/CHANGES.rst
+-rw-rw-r-- root/root      1507 2018-09-11 13:27 tequila-nginx-master/LICENSE
+-rw-rw-r-- root/root      5885 2018-09-11 13:27 tequila-nginx-master/README.rst
+drwxrwxr-x root/root         0 2018-09-11 13:27 tequila-nginx-master/defaults/
+-rw-rw-r-- root/root       387 2018-09-11 13:27 tequila-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-11 13:27 tequila-nginx-master/handlers/
+-rw-rw-r-- root/root        62 2018-09-11 13:27 tequila-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-11 13:27 tequila-nginx-master/meta/
+-rw-rw-r-- root/root       323 2018-09-11 13:27 tequila-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-11 13:27 tequila-nginx-master/tasks/
+-rw-rw-r-- root/root       396 2018-09-11 13:27 tequila-nginx-master/tasks/http_auth.yml
+-rw-rw-r-- root/root      2196 2018-09-11 13:27 tequila-nginx-master/tasks/letsencrypt.yml
+-rw-rw-r-- root/root      3128 2018-09-11 13:27 tequila-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-11 13:27 tequila-nginx-master/templates/
+-rw-rw-r-- root/root      3994 2018-09-11 13:27 tequila-nginx-master/templates/nginx.conf.j2

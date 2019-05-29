@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-01 13:31 ansible-role-solr-master/
+-rw-rw-r-- root/root       708 2017-08-01 13:31 ansible-role-solr-master/.yamllint
+-rw-rw-r-- root/root     35141 2017-08-01 13:31 ansible-role-solr-master/LICENSE
+-rw-rw-r-- root/root       569 2017-08-01 13:31 ansible-role-solr-master/README.md
+drwxrwxr-x root/root         0 2017-08-01 13:31 ansible-role-solr-master/defaults/
+-rw-rw-r-- root/root       266 2017-08-01 13:31 ansible-role-solr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-01 13:31 ansible-role-solr-master/handlers/
+-rw-rw-r-- root/root        76 2017-08-01 13:31 ansible-role-solr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-01 13:31 ansible-role-solr-master/meta/
+-rw-rw-r-- root/root       401 2017-08-01 13:31 ansible-role-solr-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-01 13:31 ansible-role-solr-master/tasks/
+-rw-rw-r-- root/root       744 2017-08-01 13:31 ansible-role-solr-master/tasks/install.yml
+-rw-rw-r-- root/root       244 2017-08-01 13:31 ansible-role-solr-master/tasks/main.yml

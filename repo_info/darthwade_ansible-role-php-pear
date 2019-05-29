@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-11-14 13:32 ansible-role-php-pear-master/
+-rw-rw-r-- root/root        35 2014-11-14 13:32 ansible-role-php-pear-master/.gitignore
+-rw-rw-r-- root/root       988 2014-11-14 13:32 ansible-role-php-pear-master/.travis.yml
+-rw-rw-r-- root/root      1111 2014-11-14 13:32 ansible-role-php-pear-master/LICENSE
+-rw-rw-r-- root/root      2516 2014-11-14 13:32 ansible-role-php-pear-master/README.md
+-rw-rw-r-- root/root       303 2014-11-14 13:32 ansible-role-php-pear-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-11-14 13:32 ansible-role-php-pear-master/defaults/
+-rw-rw-r-- root/root       115 2014-11-14 13:32 ansible-role-php-pear-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-14 13:32 ansible-role-php-pear-master/meta/
+-rw-rw-r-- root/root       602 2014-11-14 13:32 ansible-role-php-pear-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-14 13:32 ansible-role-php-pear-master/tasks/
+-rw-rw-r-- root/root       803 2014-11-14 13:32 ansible-role-php-pear-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-14 13:32 ansible-role-php-pear-master/tests/
+-rw-rw-r-- root/root         9 2014-11-14 13:32 ansible-role-php-pear-master/tests/inventory
+-rw-rw-r-- root/root       149 2014-11-14 13:32 ansible-role-php-pear-master/tests/test.yml

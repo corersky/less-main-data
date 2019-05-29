@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-05-05 04:32 ansible-elasticsearch-role-master/
+-rw-rw-r-- root/root        19 2016-05-05 04:32 ansible-elasticsearch-role-master/.gitignore
+-rw-rw-r-- root/root     35121 2016-05-05 04:32 ansible-elasticsearch-role-master/LICENSE.md
+-rw-rw-r-- root/root      1055 2016-05-05 04:32 ansible-elasticsearch-role-master/README.md
+drwxrwxr-x root/root         0 2016-05-05 04:32 ansible-elasticsearch-role-master/defaults/
+-rw-rw-r-- root/root      3658 2016-05-05 04:32 ansible-elasticsearch-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-05 04:32 ansible-elasticsearch-role-master/handlers/
+-rw-rw-r-- root/root       102 2016-05-05 04:32 ansible-elasticsearch-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-05 04:32 ansible-elasticsearch-role-master/meta/
+-rw-rw-r-- root/root       758 2016-05-05 04:32 ansible-elasticsearch-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-05 04:32 ansible-elasticsearch-role-master/tasks/
+-rw-rw-r-- root/root      1351 2016-05-05 04:32 ansible-elasticsearch-role-master/tasks/elasticsearch_deb.yml
+-rw-rw-r-- root/root       134 2016-05-05 04:32 ansible-elasticsearch-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-05 04:32 ansible-elasticsearch-role-master/templates/
+-rw-rw-r-- root/root        64 2016-05-05 04:32 ansible-elasticsearch-role-master/templates/elasticsearch.yml.j2
+drwxrwxr-x root/root         0 2016-05-05 04:32 ansible-elasticsearch-role-master/vars/
+-rw-rw-r-- root/root         3 2016-05-05 04:32 ansible-elasticsearch-role-master/vars/main.yml

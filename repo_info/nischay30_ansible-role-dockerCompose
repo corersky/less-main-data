@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-09 01:28 ansible-role-dockerCompose-master/
+-rw-rw-r-- root/root       539 2017-01-09 01:28 ansible-role-dockerCompose-master/.travis.yml
+-rw-rw-r-- root/root       348 2017-01-09 01:28 ansible-role-dockerCompose-master/README.md
+drwxrwxr-x root/root         0 2017-01-09 01:28 ansible-role-dockerCompose-master/defaults/
+-rw-rw-r-- root/root        69 2017-01-09 01:28 ansible-role-dockerCompose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-09 01:28 ansible-role-dockerCompose-master/handlers/
+-rw-rw-r-- root/root        38 2017-01-09 01:28 ansible-role-dockerCompose-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-09 01:28 ansible-role-dockerCompose-master/meta/
+-rw-rw-r-- root/root       419 2017-01-09 01:28 ansible-role-dockerCompose-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-09 01:28 ansible-role-dockerCompose-master/tasks/
+-rw-rw-r-- root/root       330 2017-01-09 01:28 ansible-role-dockerCompose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-09 01:28 ansible-role-dockerCompose-master/tests/
+-rw-rw-r-- root/root         9 2017-01-09 01:28 ansible-role-dockerCompose-master/tests/inventory
+-rw-rw-r-- root/root       112 2017-01-09 01:28 ansible-role-dockerCompose-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-09 01:28 ansible-role-dockerCompose-master/vars/
+-rw-rw-r-- root/root        34 2017-01-09 01:28 ansible-role-dockerCompose-master/vars/main.yml

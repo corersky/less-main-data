@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-05-17 08:11 ansible-role-drush-master/
+-rw-rw-r-- root/root      1071 2017-05-17 08:11 ansible-role-drush-master/LICENSE.md
+-rw-rw-r-- root/root      2067 2017-05-17 08:11 ansible-role-drush-master/README.md
+drwxrwxr-x root/root         0 2017-05-17 08:11 ansible-role-drush-master/defaults/
+-rw-rw-r-- root/root      1196 2017-05-17 08:11 ansible-role-drush-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-17 08:11 ansible-role-drush-master/meta/
+-rw-rw-r-- root/root       323 2017-05-17 08:11 ansible-role-drush-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-17 08:11 ansible-role-drush-master/tasks/
+-rw-rw-r-- root/root      1162 2017-05-17 08:11 ansible-role-drush-master/tasks/global_drush_via_composer.yml
+-rwxrwxr-x root/root      1592 2017-05-17 08:11 ansible-role-drush-master/tasks/main.yml

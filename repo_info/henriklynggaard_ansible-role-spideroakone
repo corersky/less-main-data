@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-18 10:51 ansible-role-spideroakone-master/
+-rw-rw-r-- root/root         7 2017-04-18 10:51 ansible-role-spideroakone-master/.gitignore
+-rw-rw-r-- root/root       539 2017-04-18 10:51 ansible-role-spideroakone-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-04-18 10:51 ansible-role-spideroakone-master/LICENSE
+-rw-rw-r-- root/root      1949 2017-04-18 10:51 ansible-role-spideroakone-master/README.md
+drwxrwxr-x root/root         0 2017-04-18 10:51 ansible-role-spideroakone-master/defaults/
+-rw-rw-r-- root/root       618 2017-04-18 10:51 ansible-role-spideroakone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-18 10:51 ansible-role-spideroakone-master/meta/
+-rw-rw-r-- root/root       317 2017-04-18 10:51 ansible-role-spideroakone-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-18 10:51 ansible-role-spideroakone-master/tasks/
+-rw-rw-r-- root/root      1745 2017-04-18 10:51 ansible-role-spideroakone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-18 10:51 ansible-role-spideroakone-master/templates/
+-rw-rw-r-- root/root       195 2017-04-18 10:51 ansible-role-spideroakone-master/templates/install.json.j2
+drwxrwxr-x root/root         0 2017-04-18 10:51 ansible-role-spideroakone-master/tests/
+-rw-rw-r-- root/root         9 2017-04-18 10:51 ansible-role-spideroakone-master/tests/inventory
+-rw-rw-r-- root/root        83 2017-04-18 10:51 ansible-role-spideroakone-master/tests/test.yml

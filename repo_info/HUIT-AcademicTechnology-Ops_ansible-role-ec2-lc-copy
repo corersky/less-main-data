@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/
+-rw-rw-r-- root/root       544 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/.travis.yml
+-rw-rw-r-- root/root      2750 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/README.md
+drwxrwxr-x root/root         0 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/defaults/
+-rw-rw-r-- root/root        41 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/meta/
+-rw-rw-r-- root/root      3994 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/tasks/
+-rw-rw-r-- root/root      2176 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/tests/
+-rw-rw-r-- root/root         9 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-07-10 14:06 ansible-role-ec2-lc-copy-master/tests/test.yml

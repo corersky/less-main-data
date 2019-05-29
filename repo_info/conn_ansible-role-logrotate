@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2017-10-15 21:23 ansible-role-logrotate-master/
+-rw-rw-r-- root/root      1514 2017-10-15 21:23 ansible-role-logrotate-master/LICENSE
+-rw-rw-r-- root/root        49 2017-10-15 21:23 ansible-role-logrotate-master/README.md
+drwxrwxr-x root/root         0 2017-10-15 21:23 ansible-role-logrotate-master/files/
+-rw-rw-r-- root/root       246 2017-10-15 21:23 ansible-role-logrotate-master/files/logrotate.conf
+drwxrwxr-x root/root         0 2017-10-15 21:23 ansible-role-logrotate-master/meta/
+-rw-rw-r-- root/root       417 2017-10-15 21:23 ansible-role-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-15 21:23 ansible-role-logrotate-master/tasks/
+-rw-rw-r-- root/root       349 2017-10-15 21:23 ansible-role-logrotate-master/tasks/main.yml

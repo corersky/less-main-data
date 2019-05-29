@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2014-12-19 05:35 azulinho-apache-master/
+drwxrwxr-x root/root         0 2014-12-19 05:35 azulinho-apache-master/.bundle/
+-rw-rw-r-- root/root        36 2014-12-19 05:35 azulinho-apache-master/.bundle/config
+-rw-rw-r-- root/root        87 2014-12-19 05:35 azulinho-apache-master/.gitignore
+-rw-rw-r-- root/root       184 2014-12-19 05:35 azulinho-apache-master/README.md
+-rw-rw-r-- root/root      1173 2014-12-19 05:35 azulinho-apache-master/Rakefile
+drwxrwxr-x root/root         0 2014-12-19 05:35 azulinho-apache-master/handlers/
+-rw-rw-r-- root/root        65 2014-12-19 05:35 azulinho-apache-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2014-12-19 05:35 azulinho-apache-master/meta/
+-rw-rw-r-- root/root       178 2014-12-19 05:35 azulinho-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-19 05:35 azulinho-apache-master/tasks/
+-rw-rw-r-- root/root       329 2014-12-19 05:35 azulinho-apache-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2014-12-19 05:35 azulinho-apache-master/vagrantbox/
+drwxrwxr-x root/root         0 2014-12-19 05:35 azulinho-apache-master/vagrantbox/.bundle/
+-rw-rw-r-- root/root        36 2014-12-19 05:35 azulinho-apache-master/vagrantbox/.bundle/config
+-rw-rw-r-- root/root         0 2014-12-19 05:35 azulinho-apache-master/vagrantbox/Gemfile
+-rw-rw-r-- root/root        45 2014-12-19 05:35 azulinho-apache-master/vagrantbox/Gemfile.lock
+-rw-rw-r-- root/root      2195 2014-12-19 05:35 azulinho-apache-master/vagrantbox/Vagrantfile
+-rw-rw-r-- root/root       431 2014-12-19 05:35 azulinho-apache-master/vagrantbox/ansible.cfg
+-rw-rw-r-- root/root       119 2014-12-19 05:35 azulinho-apache-master/vagrantbox/main_spec.rb
+-rw-rw-r-- root/root       169 2014-12-19 05:35 azulinho-apache-master/vagrantbox/playbook.yml
+drwxrwxr-x root/root         0 2014-12-19 05:35 azulinho-apache-master/vagrantbox/roles/
+lrwxrwxrwx root/root         0 2014-12-19 05:35 azulinho-apache-master/vagrantbox/roles/this-github-role -> ../../
+-rw-rw-r-- root/root       125 2014-12-19 05:35 azulinho-apache-master/vagrantbox/spec_helper.rb
+-rw-rw-r-- root/root       149 2014-12-19 05:35 azulinho-apache-master/vagrantbox/vagrant
+-rw-rw-r-- root/root       225 2014-12-19 05:35 azulinho-apache-master/vagrantbox/vagrant-playbook.yml
+-rw-rw-r-- root/root        12 2014-12-19 05:35 azulinho-apache-master/vagrantbox/vagrant-vault

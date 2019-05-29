@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2019-04-22 03:58 kembali-master/
+-rw-rw-r-- root/root      1067 2019-04-22 03:58 kembali-master/LICENSE
+-rw-rw-r-- root/root      1343 2019-04-22 03:58 kembali-master/README.md
+drwxrwxr-x root/root         0 2019-04-22 03:58 kembali-master/defaults/
+-rw-rw-r-- root/root       376 2019-04-22 03:58 kembali-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-22 03:58 kembali-master/meta/
+-rw-rw-r-- root/root        59 2019-04-22 03:58 kembali-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       790 2019-04-22 03:58 kembali-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-22 03:58 kembali-master/tasks/
+-rw-rw-r-- root/root       196 2019-04-22 03:58 kembali-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       147 2019-04-22 03:58 kembali-master/tasks/empty.yml
+-rw-rw-r-- root/root       522 2019-04-22 03:58 kembali-master/tasks/main.yml
+-rw-rw-r-- root/root      1665 2019-04-22 03:58 kembali-master/tasks/setup.yml
+-rw-rw-r-- root/root       242 2019-04-22 03:58 kembali-master/tasks/symlink.yml
+drwxrwxr-x root/root         0 2019-04-22 03:58 kembali-master/test/
+-rw-rw-r-- root/root       122 2019-04-22 03:58 kembali-master/test/deploy.yml
+drwxrwxr-x root/root         0 2019-04-22 03:58 kembali-master/test/roles/
+lrwxrwxrwx root/root         0 2019-04-22 03:58 kembali-master/test/roles/local-kembali -> ../..
+-rw-rw-r-- root/root       116 2019-04-22 03:58 kembali-master/test/test.yml

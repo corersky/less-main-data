@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-20 12:57 sat6-create-hosts-master/
+-rw-rw-r-- root/root      1073 2019-05-20 12:57 sat6-create-hosts-master/LICENSE
+-rw-rw-r-- root/root      7658 2019-05-20 12:57 sat6-create-hosts-master/README.md
+drwxrwxr-x root/root         0 2019-05-20 12:57 sat6-create-hosts-master/defaults/
+-rw-rw-r-- root/root      1045 2019-05-20 12:57 sat6-create-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-20 12:57 sat6-create-hosts-master/meta/
+-rw-rw-r-- root/root      2160 2019-05-20 12:57 sat6-create-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-20 12:57 sat6-create-hosts-master/tasks/
+-rw-rw-r-- root/root     16688 2019-05-20 12:57 sat6-create-hosts-master/tasks/create_host.yml
+-rw-rw-r-- root/root      3459 2019-05-20 12:57 sat6-create-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-20 12:57 sat6-create-hosts-master/templates/
+-rw-rw-r-- root/root       928 2019-05-20 12:57 sat6-create-hosts-master/templates/new_host_physical.json.j2
+-rw-rw-r-- root/root       897 2019-05-20 12:57 sat6-create-hosts-master/templates/new_host_physical_register_only.json.j2
+-rw-rw-r-- root/root      1007 2019-05-20 12:57 sat6-create-hosts-master/templates/new_host_virtual.json.j2
+-rw-rw-r-- root/root      1079 2019-05-20 12:57 sat6-create-hosts-master/templates/new_host_virtual_register_only.json.j2
+drwxrwxr-x root/root         0 2019-05-20 12:57 sat6-create-hosts-master/vars/
+-rw-rw-r-- root/root         4 2019-05-20 12:57 sat6-create-hosts-master/vars/main.yml

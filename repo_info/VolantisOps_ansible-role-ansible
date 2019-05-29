@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-06-18 14:14 ansible-role-ansible-master/
+-rw-rw-r-- root/root         9 2017-06-18 14:14 ansible-role-ansible-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-18 14:14 ansible-role-ansible-master/LICENSE
+-rw-rw-r-- root/root       344 2017-06-18 14:14 ansible-role-ansible-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 14:14 ansible-role-ansible-master/defaults/
+-rw-rw-r-- root/root       579 2017-06-18 14:14 ansible-role-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-18 14:14 ansible-role-ansible-master/meta/
+-rw-rw-r-- root/root       311 2017-06-18 14:14 ansible-role-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 14:14 ansible-role-ansible-master/tasks/
+-rw-rw-r-- root/root      1202 2017-06-18 14:14 ansible-role-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-18 14:14 ansible-role-ansible-master/templates/
+-rw-rw-r-- root/root     18174 2017-06-18 14:14 ansible-role-ansible-master/templates/ansible.cfg.j2

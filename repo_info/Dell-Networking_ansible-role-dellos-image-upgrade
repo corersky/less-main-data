@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/
+-rw-rw-r-- root/root     11365 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/LICENSE
+-rw-rw-r-- root/root      4519 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/README.md
+drwxrwxr-x root/root         0 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/defaults/
+-rw-rw-r-- root/root        62 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/handlers/
+-rw-rw-r-- root/root        61 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/meta/
+-rw-rw-r-- root/root       359 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/tasks/
+-rw-rw-r-- root/root      1380 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/tests/
+-rw-rw-r-- root/root        10 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/tests/inventory
+-rw-rw-r-- root/root       274 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/tests/main.yml
+-rw-rw-r-- root/root       101 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/vars/
+-rw-rw-r-- root/root        96 2018-05-09 13:57 ansible-role-dellos-image-upgrade-master/vars/main.yml

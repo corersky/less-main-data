@@ -1,0 +1,7 @@
+drwxrwxr-x root/root         0 2016-12-15 10:56 ansible.install-kibana-master/
+-rw-rw-r-- root/root        26 2016-12-15 10:56 ansible.install-kibana-master/README.md
+drwxrwxr-x root/root         0 2016-12-15 10:56 ansible.install-kibana-master/meta/
+-rw-rw-r-- root/root       221 2016-12-15 10:56 ansible.install-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:56 ansible.install-kibana-master/tasks/
+-rw-rw-r-- root/root       378 2016-12-15 10:56 ansible.install-kibana-master/tasks/install.yml
+-rw-rw-r-- root/root        22 2016-12-15 10:56 ansible.install-kibana-master/tasks/main.yml

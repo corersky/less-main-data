@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-29 14:04 provision-ec2-master/
+-rw-rw-r-- root/root      1328 2017-05-29 14:04 provision-ec2-master/README.md
+drwxrwxr-x root/root         0 2017-05-29 14:04 provision-ec2-master/defaults/
+-rw-rw-r-- root/root        28 2017-05-29 14:04 provision-ec2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-29 14:04 provision-ec2-master/handlers/
+-rw-rw-r-- root/root        28 2017-05-29 14:04 provision-ec2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-29 14:04 provision-ec2-master/meta/
+-rw-rw-r-- root/root       293 2017-05-29 14:04 provision-ec2-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-29 14:04 provision-ec2-master/tasks/
+-rw-rw-r-- root/root        25 2017-05-29 14:04 provision-ec2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-29 14:04 provision-ec2-master/tests/
+-rw-rw-r-- root/root        11 2017-05-29 14:04 provision-ec2-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-05-29 14:04 provision-ec2-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-29 14:04 provision-ec2-master/vars/
+-rw-rw-r-- root/root        24 2017-05-29 14:04 provision-ec2-master/vars/main.yml

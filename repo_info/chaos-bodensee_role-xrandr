@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-24 01:36 role-xrandr-master/
+-rw-rw-r-- root/root      1060 2019-05-24 01:36 role-xrandr-master/LICENSE
+-rw-rw-r-- root/root       668 2019-05-24 01:36 role-xrandr-master/README.md
+drwxrwxr-x root/root         0 2019-05-24 01:36 role-xrandr-master/defaults/
+-rw-rw-r-- root/root       141 2019-05-24 01:36 role-xrandr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-24 01:36 role-xrandr-master/meta/
+-rw-rw-r-- root/root       519 2019-05-24 01:36 role-xrandr-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-24 01:36 role-xrandr-master/tasks/
+-rw-rw-r-- root/root       587 2019-05-24 01:36 role-xrandr-master/tasks/main.yml
+-rw-rw-r-- root/root      1236 2019-05-24 01:36 role-xrandr-master/tasks/versioncheck.yml
+drwxrwxr-x root/root         0 2019-05-24 01:36 role-xrandr-master/vars/
+-rw-rw-r-- root/root       146 2019-05-24 01:36 role-xrandr-master/vars/Archlinux.yml
+-rw-rw-r-- root/root       126 2019-05-24 01:36 role-xrandr-master/vars/Debian.yml
+-rw-rw-r-- root/root       165 2019-05-24 01:36 role-xrandr-master/vars/RedHat.yml
+-rw-rw-r-- root/root       126 2019-05-24 01:36 role-xrandr-master/vars/main.yml

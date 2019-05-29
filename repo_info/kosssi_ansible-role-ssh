@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-09-20 10:54 ansible-role-ssh-master/
+-rw-rw-r-- root/root        15 2015-09-20 10:54 ansible-role-ssh-master/.gitignore
+-rw-rw-r-- root/root      1058 2015-09-20 10:54 ansible-role-ssh-master/LICENSE
+-rw-rw-r-- root/root       439 2015-09-20 10:54 ansible-role-ssh-master/README.md
+drwxrwxr-x root/root         0 2015-09-20 10:54 ansible-role-ssh-master/defaults/
+-rw-rw-r-- root/root       157 2015-09-20 10:54 ansible-role-ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-20 10:54 ansible-role-ssh-master/meta/
+-rw-rw-r-- root/root       280 2015-09-20 10:54 ansible-role-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-20 10:54 ansible-role-ssh-master/tasks/
+-rw-rw-r-- root/root       130 2015-09-20 10:54 ansible-role-ssh-master/tasks/install.yml
+-rw-rw-r-- root/root       540 2015-09-20 10:54 ansible-role-ssh-master/tasks/keys.yml
+-rw-rw-r-- root/root        48 2015-09-20 10:54 ansible-role-ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-20 10:54 ansible-role-ssh-master/tests/
+-rw-rw-r-- root/root       498 2015-09-20 10:54 ansible-role-ssh-master/tests/Makefile
+-rw-rw-r-- root/root       323 2015-09-20 10:54 ansible-role-ssh-master/tests/Vagrantfile
+-rw-rw-r-- root/root        90 2015-09-20 10:54 ansible-role-ssh-master/tests/playbook.yml

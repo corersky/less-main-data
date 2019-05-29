@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-04-13 21:56 ansible-role-networking-master/
+-rw-rw-r-- root/root      1514 2018-04-13 21:56 ansible-role-networking-master/LICENSE
+-rw-rw-r-- root/root       403 2018-04-13 21:56 ansible-role-networking-master/README.md
+drwxrwxr-x root/root         0 2018-04-13 21:56 ansible-role-networking-master/defaults/
+-rw-rw-r-- root/root        95 2018-04-13 21:56 ansible-role-networking-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-13 21:56 ansible-role-networking-master/meta/
+-rw-rw-r-- root/root       265 2018-04-13 21:56 ansible-role-networking-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-13 21:56 ansible-role-networking-master/tasks/
+-rw-rw-r-- root/root       579 2018-04-13 21:56 ansible-role-networking-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2018-04-13 21:56 ansible-role-networking-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-13 21:56 ansible-role-networking-master/templates/
+-rw-rw-r-- root/root       398 2018-04-13 21:56 ansible-role-networking-master/templates/interfaces.j2

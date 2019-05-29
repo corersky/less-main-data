@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-05 21:17 ansible-role-package-master/
+-rw-rw-r-- root/root        10 2018-02-05 21:17 ansible-role-package-master/.gitignore
+-rw-rw-r-- root/root       474 2018-02-05 21:17 ansible-role-package-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-02-05 21:17 ansible-role-package-master/LICENSE
+-rw-rw-r-- root/root      1779 2018-02-05 21:17 ansible-role-package-master/README.md
+drwxrwxr-x root/root         0 2018-02-05 21:17 ansible-role-package-master/defaults/
+-rw-rw-r-- root/root      1184 2018-02-05 21:17 ansible-role-package-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-05 21:17 ansible-role-package-master/meta/
+-rw-rw-r-- root/root       316 2018-02-05 21:17 ansible-role-package-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-05 21:17 ansible-role-package-master/tasks/
+-rw-rw-r-- root/root      2068 2018-02-05 21:17 ansible-role-package-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-05 21:17 ansible-role-package-master/tests/
+-rwxrwxr-x root/root      3758 2018-02-05 21:17 ansible-role-package-master/tests/test.sh
+-rw-rw-r-- root/root       530 2018-02-05 21:17 ansible-role-package-master/tests/test.yml

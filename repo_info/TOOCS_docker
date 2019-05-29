@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-09 09:11 docker-master/
+-rw-rw-r-- root/root       141 2019-01-09 09:11 docker-master/.travis.yml
+-rw-rw-r-- root/root      1074 2019-01-09 09:11 docker-master/LICENSE.md
+-rw-rw-r-- root/root      2146 2019-01-09 09:11 docker-master/README.md
+drwxrwxr-x root/root         0 2019-01-09 09:11 docker-master/defaults/
+-rw-rw-r-- root/root        65 2019-01-09 09:11 docker-master/defaults/main.yml
+-rw-rw-r-- root/root       364 2019-01-09 09:11 docker-master/example-playbook.yml
+drwxrwxr-x root/root         0 2019-01-09 09:11 docker-master/meta/
+-rw-rw-r-- root/root       382 2019-01-09 09:11 docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-09 09:11 docker-master/tasks/
+-rw-rw-r-- root/root      1539 2019-01-09 09:11 docker-master/tasks/dockercompose.yml
+-rw-rw-r-- root/root      1539 2019-01-09 09:11 docker-master/tasks/dockermachine.yml
+-rw-rw-r-- root/root      1188 2019-01-09 09:11 docker-master/tasks/main.yml

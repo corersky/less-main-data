@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-25 14:17 postfix-master/
+-rw-rw-r-- root/root     35147 2019-05-25 14:17 postfix-master/COPYING
+-rw-rw-r-- root/root      2014 2019-05-25 14:17 postfix-master/README.md
+drwxrwxr-x root/root         0 2019-05-25 14:17 postfix-master/defaults/
+-rw-rw-r-- root/root       433 2019-05-25 14:17 postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-25 14:17 postfix-master/handlers/
+-rw-rw-r-- root/root       202 2019-05-25 14:17 postfix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-25 14:17 postfix-master/meta/
+-rw-rw-r-- root/root       304 2019-05-25 14:17 postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-25 14:17 postfix-master/tasks/
+-rw-rw-r-- root/root       952 2019-05-25 14:17 postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-25 14:17 postfix-master/tests/
+drwxrwxr-x root/root         0 2019-05-25 14:17 postfix-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-05-25 14:17 postfix-master/tests/roles/linux-system-roles.postfix -> ../../
+-rw-rw-r-- root/root       115 2019-05-25 14:17 postfix-master/tests/tests_default.yml
+-rw-rw-r-- root/root       331 2019-05-25 14:17 postfix-master/tests/tests_set_banner.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-05 05:29 ansible-role-zookeeper-master/
+-rw-rw-r-- root/root     11357 2017-04-05 05:29 ansible-role-zookeeper-master/LICENSE
+-rw-rw-r-- root/root       935 2017-04-05 05:29 ansible-role-zookeeper-master/README.md
+drwxrwxr-x root/root         0 2017-04-05 05:29 ansible-role-zookeeper-master/defaults/
+-rw-rw-r-- root/root       984 2017-04-05 05:29 ansible-role-zookeeper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-05 05:29 ansible-role-zookeeper-master/meta/
+-rw-rw-r-- root/root       398 2017-04-05 05:29 ansible-role-zookeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-05 05:29 ansible-role-zookeeper-master/tasks/
+-rw-rw-r-- root/root       870 2017-04-05 05:29 ansible-role-zookeeper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-05 05:29 ansible-role-zookeeper-master/templates/
+-rw-rw-r-- root/root       196 2017-04-05 05:29 ansible-role-zookeeper-master/templates/zookepeer-service.json
+drwxrwxr-x root/root         0 2017-04-05 05:29 ansible-role-zookeeper-master/tests/
+-rw-rw-r-- root/root         9 2017-04-05 05:29 ansible-role-zookeeper-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-04-05 05:29 ansible-role-zookeeper-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-05-08 16:23 ansible-role-magerun-master/
+-rw-rw-r-- root/root      1569 2015-05-08 16:23 ansible-role-magerun-master/README.md
+drwxrwxr-x root/root         0 2015-05-08 16:23 ansible-role-magerun-master/defaults/
+-rw-rw-r-- root/root       550 2015-05-08 16:23 ansible-role-magerun-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-08 16:23 ansible-role-magerun-master/handlers/
+-rw-rw-r-- root/root        32 2015-05-08 16:23 ansible-role-magerun-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-08 16:23 ansible-role-magerun-master/meta/
+-rw-rw-r-- root/root       356 2015-05-08 16:23 ansible-role-magerun-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-08 16:23 ansible-role-magerun-master/tasks/
+-rw-rw-r-- root/root       293 2015-05-08 16:23 ansible-role-magerun-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-08 16:23 ansible-role-magerun-master/templates/
+-rw-rw-r-- root/root       825 2015-05-08 16:23 ansible-role-magerun-master/templates/n98-magerun.yaml.j2

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-02-20 14:16 iptables-rules-master/
+-rw-rw-r-- root/root      3916 2019-02-20 14:16 iptables-rules-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 14:16 iptables-rules-master/defaults/
+-rw-rw-r-- root/root      2237 2019-02-20 14:16 iptables-rules-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-02-20 14:16 iptables-rules-master/meta/
+-rw-rw-r-- root/root       308 2019-02-20 14:16 iptables-rules-master/meta/main.yaml
+drwxrwxr-x root/root         0 2019-02-20 14:16 iptables-rules-master/tasks/
+-rw-rw-r-- root/root      1144 2019-02-20 14:16 iptables-rules-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-02-20 14:16 iptables-rules-master/templates/
+-rw-rw-r-- root/root      4295 2019-02-20 14:16 iptables-rules-master/templates/iptables.j2
+drwxrwxr-x root/root         0 2019-02-20 14:16 iptables-rules-master/vars/
+-rw-rw-r-- root/root       318 2019-02-20 14:16 iptables-rules-master/vars/main.yaml

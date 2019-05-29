@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-31 16:27 ansible-role-jenkins-master/
+-rw-rw-r-- root/root       586 2016-05-31 16:27 ansible-role-jenkins-master/.travis.yml
+-rw-rw-r-- root/root       997 2016-05-31 16:27 ansible-role-jenkins-master/README.md
+drwxrwxr-x root/root         0 2016-05-31 16:27 ansible-role-jenkins-master/defaults/
+-rw-rw-r-- root/root       115 2016-05-31 16:27 ansible-role-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-31 16:27 ansible-role-jenkins-master/handlers/
+-rw-rw-r-- root/root        68 2016-05-31 16:27 ansible-role-jenkins-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-31 16:27 ansible-role-jenkins-master/meta/
+-rw-rw-r-- root/root       379 2016-05-31 16:27 ansible-role-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-31 16:27 ansible-role-jenkins-master/tasks/
+-rw-rw-r-- root/root      1094 2016-05-31 16:27 ansible-role-jenkins-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-31 16:27 ansible-role-jenkins-master/tests/
+-rw-rw-r-- root/root         9 2016-05-31 16:27 ansible-role-jenkins-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-05-31 16:27 ansible-role-jenkins-master/tests/test.yml

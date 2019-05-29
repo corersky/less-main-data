@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2015-08-30 10:28 ansible-percona-client-master/
+-rw-rw-r-- root/root       223 2015-08-30 10:28 ansible-percona-client-master/README.md
+drwxrwxr-x root/root         0 2015-08-30 10:28 ansible-percona-client-master/defaults/
+-rw-rw-r-- root/root        67 2015-08-30 10:28 ansible-percona-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-30 10:28 ansible-percona-client-master/meta/
+-rwxrwxr-x root/root       272 2015-08-30 10:28 ansible-percona-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-30 10:28 ansible-percona-client-master/tasks/
+-rwxrwxr-x root/root        59 2015-08-30 10:28 ansible-percona-client-master/tasks/main.yml
+-rwxrwxr-x root/root       349 2015-08-30 10:28 ansible-percona-client-master/tasks/percona-client.yml

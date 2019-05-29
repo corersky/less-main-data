@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-03-25 20:17 ansible-logrotate-master/
+-rw-rw-r-- root/root      2717 2019-03-25 20:17 ansible-logrotate-master/README.md
+drwxrwxr-x root/root         0 2019-03-25 20:17 ansible-logrotate-master/defaults/
+-rw-rw-r-- root/root       559 2019-03-25 20:17 ansible-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-25 20:17 ansible-logrotate-master/meta/
+-rw-rw-r-- root/root       337 2019-03-25 20:17 ansible-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 20:17 ansible-logrotate-master/tasks/
+-rw-rw-r-- root/root       220 2019-03-25 20:17 ansible-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-25 20:17 ansible-logrotate-master/templates/
+-rw-rw-r-- root/root       569 2019-03-25 20:17 ansible-logrotate-master/templates/logrotate_config.j2

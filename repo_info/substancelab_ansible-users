@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2014-12-26 11:51 ansible-users-master/
+-rw-rw-r-- root/root       181 2014-12-26 11:51 ansible-users-master/.travis.yml
+-rw-rw-r-- root/root      1057 2014-12-26 11:51 ansible-users-master/LICENSE
+-rw-rw-r-- root/root      2430 2014-12-26 11:51 ansible-users-master/README.md
+drwxrwxr-x root/root         0 2014-12-26 11:51 ansible-users-master/defaults/
+-rw-rw-r-- root/root       513 2014-12-26 11:51 ansible-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-26 11:51 ansible-users-master/meta/
+-rw-rw-r-- root/root       527 2014-12-26 11:51 ansible-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-26 11:51 ansible-users-master/tasks/
+-rw-rw-r-- root/root      1313 2014-12-26 11:51 ansible-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-26 11:51 ansible-users-master/tests/
+-rw-rw-r-- root/root      2089 2014-12-26 11:51 ansible-users-master/tests/add_user.yml
+-rw-rw-r-- root/root        87 2014-12-26 11:51 ansible-users-master/tests/all.yml
+-rw-rw-r-- root/root       196 2014-12-26 11:51 ansible-users-master/tests/cleanup.yml
+-rw-rw-r-- root/root        26 2014-12-26 11:51 ansible-users-master/tests/hosts
+drwxrwxr-x root/root         0 2014-12-26 11:51 ansible-users-master/tests/roles/
+lrwxrwxrwx root/root         0 2014-12-26 11:51 ansible-users-master/tests/roles/users -> ../../
+-rw-rw-r-- root/root      1330 2014-12-26 11:51 ansible-users-master/tests/ssh_keys_optional.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-30 09:43 ansible-role-borgbackup-master/
+-rw-rw-r-- root/root      3094 2019-03-30 09:43 ansible-role-borgbackup-master/README.md
+drwxrwxr-x root/root         0 2019-03-30 09:43 ansible-role-borgbackup-master/defaults/
+-rw-rw-r-- root/root      1076 2019-03-30 09:43 ansible-role-borgbackup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-30 09:43 ansible-role-borgbackup-master/meta/
+-rw-rw-r-- root/root      1565 2019-03-30 09:43 ansible-role-borgbackup-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-30 09:43 ansible-role-borgbackup-master/tasks/
+-rw-rw-r-- root/root      1320 2019-03-30 09:43 ansible-role-borgbackup-master/tasks/borgmatic.yml
+-rw-rw-r-- root/root      2677 2019-03-30 09:43 ansible-role-borgbackup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-30 09:43 ansible-role-borgbackup-master/templates/
+-rw-rw-r-- root/root       694 2019-03-30 09:43 ansible-role-borgbackup-master/templates/backup.sh.j2
+-rw-rw-r-- root/root      5630 2019-03-30 09:43 ansible-role-borgbackup-master/templates/borgmatic_config.yaml.j2
+-rw-rw-r-- root/root        14 2019-03-30 09:43 ansible-role-borgbackup-master/templates/repokey.j2

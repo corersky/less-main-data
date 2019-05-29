@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/
+-rw-rw-r-- root/root      1655 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/LICENSE
+-rw-rw-r-- root/root      2067 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/README.md
+drwxrwxr-x root/root         0 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/defaults/
+-rw-rw-r-- root/root       297 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/meta/
+-rw-rw-r-- root/root       503 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/tasks/
+-rw-rw-r-- root/root       952 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/templates/
+-rw-rw-r-- root/root       231 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/templates/.bashrc.j2
+drwxrwxr-x root/root         0 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/test/
+-rw-rw-r-- root/root        35 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/test/inventory
+-rw-rw-r-- root/root       422 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/test/main.yml
+-rw-rw-r-- root/root        64 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/test/requirements.yml
+-rw-rw-r-- root/root       107 2017-02-01 21:08 ansible-role-redhat-jboss-common-master/test/vars.yml

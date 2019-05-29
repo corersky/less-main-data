@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/
+-rw-rw-r-- root/root       398 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/CHANGELOG.md
+-rw-rw-r-- root/root     35149 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/LICENSE
+-rw-rw-r-- root/root      3857 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/README.md
+drwxrwxr-x root/root         0 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/defaults/
+-rw-rw-r-- root/root       758 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/handlers/
+-rw-rw-r-- root/root         4 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/meta/
+-rw-rw-r-- root/root       358 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/tasks/
+-rw-rw-r-- root/root      1477 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/tests/
+-rw-rw-r-- root/root        11 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/tests/inventory
+-rw-rw-r-- root/root        59 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/vars/
+-rw-rw-r-- root/root         4 2019-01-07 15:27 ansible-role-hetzner-floating-ip-master/vars/main.yml

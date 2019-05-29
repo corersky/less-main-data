@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-06 08:17 ansible-ci-registry-rm-container-master/
+-rw-rw-r-- root/root        37 2019-02-06 08:17 ansible-ci-registry-rm-container-master/.gitignore
+-rw-rw-r-- root/root       280 2019-02-06 08:17 ansible-ci-registry-rm-container-master/.travis.yml
+-rw-rw-r-- root/root      1073 2019-02-06 08:17 ansible-ci-registry-rm-container-master/LICENSE
+-rw-rw-r-- root/root       983 2019-02-06 08:17 ansible-ci-registry-rm-container-master/README.md
+drwxrwxr-x root/root         0 2019-02-06 08:17 ansible-ci-registry-rm-container-master/defaults/
+-rw-rw-r-- root/root       189 2019-02-06 08:17 ansible-ci-registry-rm-container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-06 08:17 ansible-ci-registry-rm-container-master/meta/
+-rw-rw-r-- root/root       627 2019-02-06 08:17 ansible-ci-registry-rm-container-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-06 08:17 ansible-ci-registry-rm-container-master/tasks/
+-rw-rw-r-- root/root      1075 2019-02-06 08:17 ansible-ci-registry-rm-container-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-06 08:17 ansible-ci-registry-rm-container-master/tests/
+-rw-rw-r-- root/root         9 2019-02-06 08:17 ansible-ci-registry-rm-container-master/tests/inventory
+-rw-rw-r-- root/root       232 2019-02-06 08:17 ansible-ci-registry-rm-container-master/tests/test.yml

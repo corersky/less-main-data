@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/
+-rw-rw-r-- root/root        27 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/.gitignore
+-rw-rw-r-- root/root      1322 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/LICENSE
+-rw-rw-r-- root/root      2284 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/README.md
+drwxrwxr-x root/root         0 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/defaults/
+-rw-rw-r-- root/root      1629 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/handlers/
+-rw-rw-r-- root/root         4 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/library/
+-rw-rw-r-- root/root         0 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/library/__init__.py
+-rw-rw-r-- root/root     19424 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/library/vmware_deploy_ovf.py
+drwxrwxr-x root/root         0 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/meta/
+-rw-rw-r-- root/root       362 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/tasks/
+-rw-rw-r-- root/root      1580 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/vars/
+-rw-rw-r-- root/root         4 2018-09-16 07:27 ansible-role-nsx-deploy-ovf-master/vars/main.yml

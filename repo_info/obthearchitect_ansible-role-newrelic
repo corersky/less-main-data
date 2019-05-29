@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-01-30 23:34 ansible-role-newrelic-master/
+-rw-rw-r-- root/root      6148 2016-01-30 23:34 ansible-role-newrelic-master/.DS_Store
+-rw-rw-r-- root/root      1932 2016-01-30 23:34 ansible-role-newrelic-master/README.md
+drwxrwxr-x root/root         0 2016-01-30 23:34 ansible-role-newrelic-master/defaults/
+-rw-rw-r-- root/root       298 2016-01-30 23:34 ansible-role-newrelic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-30 23:34 ansible-role-newrelic-master/handlers/
+-rw-rw-r-- root/root        82 2016-01-30 23:34 ansible-role-newrelic-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-30 23:34 ansible-role-newrelic-master/meta/
+-rw-rw-r-- root/root       270 2016-01-30 23:34 ansible-role-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-30 23:34 ansible-role-newrelic-master/tasks/
+-rw-rw-r-- root/root       855 2016-01-30 23:34 ansible-role-newrelic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-30 23:34 ansible-role-newrelic-master/templates/
+-rw-rw-r-- root/root      5341 2016-01-30 23:34 ansible-role-newrelic-master/templates/nrsysmond.cfg.j2

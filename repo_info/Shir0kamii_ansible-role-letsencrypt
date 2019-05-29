@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-12-11 09:46 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root      1202 2018-12-11 09:46 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 09:46 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       222 2018-12-11 09:46 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 09:46 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root       250 2018-12-11 09:46 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 09:46 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root       144 2018-12-11 09:46 ansible-role-letsencrypt-master/tasks/arch_install.yml
+-rw-rw-r-- root/root       128 2018-12-11 09:46 ansible-role-letsencrypt-master/tasks/debian_install.yml
+-rw-rw-r-- root/root       164 2018-12-11 09:46 ansible-role-letsencrypt-master/tasks/install.yml
+-rw-rw-r-- root/root      1064 2018-12-11 09:46 ansible-role-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-11 09:46 ansible-role-letsencrypt-master/templates/
+-rw-rw-r-- root/root       302 2018-12-11 09:46 ansible-role-letsencrypt-master/templates/letsencrypt.conf.j2

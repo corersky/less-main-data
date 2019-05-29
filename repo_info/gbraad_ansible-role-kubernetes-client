@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/
+-rw-rw-r-- root/root       527 2016-08-14 03:44 ansible-role-kubernetes-client-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/defaults/
+-rw-rw-r-- root/root         4 2016-08-14 03:44 ansible-role-kubernetes-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/files/
+-rw-rw-r-- root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/files/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/handlers/
+-rw-rw-r-- root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/handlers/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/meta/
+-rw-rw-r-- root/root       281 2016-08-14 03:44 ansible-role-kubernetes-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/tasks/
+-rw-rw-r-- root/root        88 2016-08-14 03:44 ansible-role-kubernetes-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/templates/
+-rw-rw-r-- root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:44 ansible-role-kubernetes-client-master/vars/
+-rw-rw-r-- root/root         4 2016-08-14 03:44 ansible-role-kubernetes-client-master/vars/main.yml

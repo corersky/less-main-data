@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/
+-rw-rw-r-- root/root       687 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/README.md
+drwxrwxr-x root/root         0 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/defaults/
+-rw-rw-r-- root/root        44 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/meta/
+-rw-rw-r-- root/root       304 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/tasks/
+-rw-rw-r-- root/root       187 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/templates/
+-rw-rw-r-- root/root       361 2014-01-14 12:34 ansible-xorg-trackpoint-scroll-master/templates/40-trackpoint-scroll.conf

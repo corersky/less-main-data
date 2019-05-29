@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-google-chrome-master/
+-rw-rw-r-- root/root       250 2018-08-01 21:37 ansible-google-chrome-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-google-chrome-master/defaults/
+-rw-rw-r-- root/root        37 2018-08-01 21:37 ansible-google-chrome-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-google-chrome-master/handlers/
+-rw-rw-r-- root/root        37 2018-08-01 21:37 ansible-google-chrome-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-google-chrome-master/meta/
+-rw-rw-r-- root/root       251 2018-08-01 21:37 ansible-google-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-google-chrome-master/tasks/
+-rw-rw-r-- root/root       420 2018-08-01 21:37 ansible-google-chrome-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-google-chrome-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:37 ansible-google-chrome-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-08-01 21:37 ansible-google-chrome-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-google-chrome-master/vars/
+-rw-rw-r-- root/root        33 2018-08-01 21:37 ansible-google-chrome-master/vars/main.yml

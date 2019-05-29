@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/
+-rw-rw-r-- root/root      5316 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/README.md
+drwxrwxr-x root/root         0 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/docs/
+-rwxrwxr-x root/root     51858 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/docs/instance_attributes.png
+drwxrwxr-x root/root         0 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/meta/
+-rw-rw-r-- root/root       255 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/tasks/
+-rw-rw-r-- root/root      1341 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/tasks/authentication-check.yaml
+-rw-rw-r-- root/root      1618 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/tasks/authentication.yaml
+-rw-rw-r-- root/root       223 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/tasks/event-check.yaml
+-rw-rw-r-- root/root       883 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/tasks/event.yaml
+-rw-rw-r-- root/root       179 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/vars/
+-rw-rw-r-- root/root       236 2018-10-25 04:29 ansible-role-nuage-miq-automate-master/vars/main.yaml

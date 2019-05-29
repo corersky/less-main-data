@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-16 22:23 ansible-role-repo-dotdeb-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:23 ansible-role-repo-dotdeb-master/.gitignore
+-rw-rw-r-- root/root       525 2019-05-16 22:23 ansible-role-repo-dotdeb-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:23 ansible-role-repo-dotdeb-master/LICENSE
+-rw-rw-r-- root/root      1243 2019-05-16 22:23 ansible-role-repo-dotdeb-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:23 ansible-role-repo-dotdeb-master/defaults/
+-rw-rw-r-- root/root       235 2019-05-16 22:23 ansible-role-repo-dotdeb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:23 ansible-role-repo-dotdeb-master/meta/
+-rw-rw-r-- root/root       351 2019-05-16 22:23 ansible-role-repo-dotdeb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:23 ansible-role-repo-dotdeb-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:23 ansible-role-repo-dotdeb-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:23 ansible-role-repo-dotdeb-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        95 2019-05-16 22:23 ansible-role-repo-dotdeb-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:23 ansible-role-repo-dotdeb-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:23 ansible-role-repo-dotdeb-master/tasks/
+-rw-rw-r-- root/root       702 2019-05-16 22:23 ansible-role-repo-dotdeb-master/tasks/main.yml

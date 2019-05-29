@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-04 10:01 ansible-role-mssql-master/
+-rw-rw-r-- root/root        41 2019-04-04 10:01 ansible-role-mssql-master/.gitignore
+-rw-rw-r-- root/root       296 2019-04-04 10:01 ansible-role-mssql-master/.yamllint
+-rw-rw-r-- root/root       293 2019-04-04 10:01 ansible-role-mssql-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 10:01 ansible-role-mssql-master/library/
+-rw-rw-r-- root/root      5127 2019-04-04 10:01 ansible-role-mssql-master/library/mssql_login.py
+-rw-rw-r-- root/root      5369 2019-04-04 10:01 ansible-role-mssql-master/library/mssql_user.py
+drwxrwxr-x root/root         0 2019-04-04 10:01 ansible-role-mssql-master/meta/
+-rw-rw-r-- root/root       229 2019-04-04 10:01 ansible-role-mssql-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:01 ansible-role-mssql-master/scripts/
+-rwxrwxr-x root/root        74 2019-04-04 10:01 ansible-role-mssql-master/scripts/galaxy-import.sh

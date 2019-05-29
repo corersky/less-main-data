@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-08 14:34 ansible-role-kvm-master/
+-rw-rw-r-- root/root        70 2017-07-08 14:34 ansible-role-kvm-master/.gitignore
+-rw-rw-r-- root/root       274 2017-07-08 14:34 ansible-role-kvm-master/.travis.yml
+-rw-rw-r-- root/root      1179 2017-07-08 14:34 ansible-role-kvm-master/README.md
+drwxrwxr-x root/root         0 2017-07-08 14:34 ansible-role-kvm-master/defaults/
+-rw-rw-r-- root/root       102 2017-07-08 14:34 ansible-role-kvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-08 14:34 ansible-role-kvm-master/meta/
+-rw-rw-r-- root/root       317 2017-07-08 14:34 ansible-role-kvm-master/meta/main.yml
+-rw-rw-r-- root/root       193 2017-07-08 14:34 ansible-role-kvm-master/molecule.yml
+-rw-rw-r-- root/root        49 2017-07-08 14:34 ansible-role-kvm-master/playbook.yml
+drwxrwxr-x root/root         0 2017-07-08 14:34 ansible-role-kvm-master/tasks/
+-rw-rw-r-- root/root      1601 2017-07-08 14:34 ansible-role-kvm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-08 14:34 ansible-role-kvm-master/tests/
+-rw-rw-r-- root/root        11 2017-07-08 14:34 ansible-role-kvm-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-07-08 14:34 ansible-role-kvm-master/tests/test.yml
+-rw-rw-r-- root/root       790 2017-07-08 14:34 ansible-role-kvm-master/tests/test_default.py

@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-06-09 11:14 ansible-docker-master/
+-rw-rw-r-- root/root      1328 2018-06-09 11:14 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2018-06-09 11:14 ansible-docker-master/meta/
+-rw-rw-r-- root/root      1786 2018-06-09 11:14 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-09 11:14 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       916 2018-06-09 11:14 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-09 11:14 ansible-docker-master/tests/
+-rw-rw-r-- root/root        11 2018-06-09 11:14 ansible-docker-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-06-09 11:14 ansible-docker-master/tests/test.yml

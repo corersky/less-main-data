@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-03-24 21:25 ansible-role-mtail-master/
+-rwxrwxr-x root/root      1278 2019-03-24 21:25 ansible-role-mtail-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 21:25 ansible-role-mtail-master/defaults/
+-rwxrwxr-x root/root       119 2019-03-24 21:25 ansible-role-mtail-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-24 21:25 ansible-role-mtail-master/meta/
+-rwxrwxr-x root/root      1951 2019-03-24 21:25 ansible-role-mtail-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 21:25 ansible-role-mtail-master/tasks/
+-rwxrwxr-x root/root       835 2019-03-24 21:25 ansible-role-mtail-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 21:25 ansible-role-mtail-master/templates/
+-rwxrwxr-x root/root        23 2019-03-24 21:25 ansible-role-mtail-master/templates/default.j2
+-rwxrwxr-x root/root       244 2019-03-24 21:25 ansible-role-mtail-master/templates/service.j2

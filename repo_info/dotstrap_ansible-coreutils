@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-10 13:15 ansible-coreutils-master/
+-rw-rw-r-- root/root       959 2016-12-10 13:15 ansible-coreutils-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-12-10 13:15 ansible-coreutils-master/LICENSE
+-rw-rw-r-- root/root      1719 2016-12-10 13:15 ansible-coreutils-master/README.md
+drwxrwxr-x root/root         0 2016-12-10 13:15 ansible-coreutils-master/defaults/
+-rw-rw-r-- root/root       653 2016-12-10 13:15 ansible-coreutils-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-10 13:15 ansible-coreutils-master/meta/
+-rw-rw-r-- root/root       283 2016-12-10 13:15 ansible-coreutils-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-10 13:15 ansible-coreutils-master/tasks/
+-rw-rw-r-- root/root      2076 2016-12-10 13:15 ansible-coreutils-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-10 13:15 ansible-coreutils-master/tests/
+-rw-rw-r-- root/root        10 2016-12-10 13:15 ansible-coreutils-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-12-10 13:15 ansible-coreutils-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-10 13:15 ansible-coreutils-master/vars/
+-rw-rw-r-- root/root       167 2016-12-10 13:15 ansible-coreutils-master/vars/main.yml

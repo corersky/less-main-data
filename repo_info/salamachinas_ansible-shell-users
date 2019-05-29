@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-02-22 05:45 ansible-shell-users-master/
+-rw-rw-r-- root/root        55 2017-02-22 05:45 ansible-shell-users-master/.gitignore
+-rw-rw-r-- root/root      1333 2017-02-22 05:45 ansible-shell-users-master/README.md
+drwxrwxr-x root/root         0 2017-02-22 05:45 ansible-shell-users-master/meta/
+-rw-rw-r-- root/root       342 2017-02-22 05:45 ansible-shell-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-22 05:45 ansible-shell-users-master/tasks/
+-rw-rw-r-- root/root       385 2017-02-22 05:45 ansible-shell-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-22 05:45 ansible-shell-users-master/tests/
+-rw-rw-r-- root/root       213 2017-02-22 05:45 ansible-shell-users-master/tests/Dockerfile_centos7
+-rw-rw-r-- root/root       213 2017-02-22 05:45 ansible-shell-users-master/tests/Dockerfile_debian7
+-rw-rw-r-- root/root       213 2017-02-22 05:45 ansible-shell-users-master/tests/Dockerfile_debian8
+-rw-rw-r-- root/root       217 2017-02-22 05:45 ansible-shell-users-master/tests/Dockerfile_ubuntu14
+-rw-rw-r-- root/root       217 2017-02-22 05:45 ansible-shell-users-master/tests/Dockerfile_ubuntu16
+-rw-rw-r-- root/root       179 2017-02-22 05:45 ansible-shell-users-master/tests/provision.yml

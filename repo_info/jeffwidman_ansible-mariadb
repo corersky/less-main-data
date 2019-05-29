@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-09-28 17:39 ansible-mariadb-master/
+-rw-rw-r-- root/root       815 2015-09-28 17:39 ansible-mariadb-master/.gitignore
+-rw-rw-r-- root/root      1079 2015-09-28 17:39 ansible-mariadb-master/LICENSE
+-rw-rw-r-- root/root      1446 2015-09-28 17:39 ansible-mariadb-master/README.md
+drwxrwxr-x root/root         0 2015-09-28 17:39 ansible-mariadb-master/defaults/
+-rw-rw-r-- root/root      1010 2015-09-28 17:39 ansible-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-28 17:39 ansible-mariadb-master/handlers/
+-rw-rw-r-- root/root        94 2015-09-28 17:39 ansible-mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-28 17:39 ansible-mariadb-master/meta/
+-rw-rw-r-- root/root       434 2015-09-28 17:39 ansible-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-28 17:39 ansible-mariadb-master/tasks/
+-rw-rw-r-- root/root      1770 2015-09-28 17:39 ansible-mariadb-master/tasks/main.yml

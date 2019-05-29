@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-16 20:36 ansible-role-docker-ce-master/
+-rw-rw-r-- root/root       350 2019-05-16 20:36 ansible-role-docker-ce-master/.travis.yml
+-rw-rw-r-- root/root      1064 2019-05-16 20:36 ansible-role-docker-ce-master/LICENSE
+-rw-rw-r-- root/root       616 2019-05-16 20:36 ansible-role-docker-ce-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 20:36 ansible-role-docker-ce-master/meta/
+-rw-rw-r-- root/root       239 2019-05-16 20:36 ansible-role-docker-ce-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 20:36 ansible-role-docker-ce-master/tasks/
+-rw-rw-r-- root/root       731 2019-05-16 20:36 ansible-role-docker-ce-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 20:36 ansible-role-docker-ce-master/tests/
+-rw-rw-r-- root/root        48 2019-05-16 20:36 ansible-role-docker-ce-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-16 20:36 ansible-role-docker-ce-master/vars/
+-rw-rw-r-- root/root        31 2019-05-16 20:36 ansible-role-docker-ce-master/vars/main.yml

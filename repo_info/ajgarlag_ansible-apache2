@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-10 02:53 ansible-apache2-master/
+-rw-rw-r-- root/root      1014 2015-12-10 02:53 ansible-apache2-master/.travis.yml
+-rw-rw-r-- root/root      1093 2015-12-10 02:53 ansible-apache2-master/LICENSE
+-rw-rw-r-- root/root      2732 2015-12-10 02:53 ansible-apache2-master/README.md
+drwxrwxr-x root/root         0 2015-12-10 02:53 ansible-apache2-master/defaults/
+-rw-rw-r-- root/root      1692 2015-12-10 02:53 ansible-apache2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-10 02:53 ansible-apache2-master/handlers/
+-rw-rw-r-- root/root       151 2015-12-10 02:53 ansible-apache2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-10 02:53 ansible-apache2-master/meta/
+-rw-rw-r-- root/root       343 2015-12-10 02:53 ansible-apache2-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-10 02:53 ansible-apache2-master/tasks/
+-rw-rw-r-- root/root      3893 2015-12-10 02:53 ansible-apache2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-10 02:53 ansible-apache2-master/templates/
+-rw-rw-r-- root/root      2452 2015-12-10 02:53 ansible-apache2-master/templates/vhost.conf.j2
+drwxrwxr-x root/root         0 2015-12-10 02:53 ansible-apache2-master/tests/
+-rw-rw-r-- root/root        10 2015-12-10 02:53 ansible-apache2-master/tests/inventory
+-rw-rw-r-- root/root       693 2015-12-10 02:53 ansible-apache2-master/tests/test.yml

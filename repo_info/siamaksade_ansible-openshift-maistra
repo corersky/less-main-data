@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-24 04:33 ansible-openshift-maistra-master/
+-rw-rw-r-- root/root        27 2018-08-24 04:33 ansible-openshift-maistra-master/.gitignore
+-rw-rw-r-- root/root       147 2018-08-24 04:33 ansible-openshift-maistra-master/.travis.yml
+-rw-rw-r-- root/root      1405 2018-08-24 04:33 ansible-openshift-maistra-master/README.md
+drwxrwxr-x root/root         0 2018-08-24 04:33 ansible-openshift-maistra-master/defaults/
+-rw-rw-r-- root/root       539 2018-08-24 04:33 ansible-openshift-maistra-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-24 04:33 ansible-openshift-maistra-master/meta/
+-rw-rw-r-- root/root       421 2018-08-24 04:33 ansible-openshift-maistra-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-24 04:33 ansible-openshift-maistra-master/tasks/
+-rw-rw-r-- root/root      1698 2018-08-24 04:33 ansible-openshift-maistra-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-24 04:33 ansible-openshift-maistra-master/templates/
+-rw-rw-r-- root/root       616 2018-08-24 04:33 ansible-openshift-maistra-master/templates/istio-cr-full.yaml.j2
+-rw-rw-r-- root/root       102 2018-08-24 04:33 ansible-openshift-maistra-master/templates/istio-cr.yaml.j2
+drwxrwxr-x root/root         0 2018-08-24 04:33 ansible-openshift-maistra-master/tests/
+-rw-rw-r-- root/root         9 2018-08-24 04:33 ansible-openshift-maistra-master/tests/inventory
+-rw-rw-r-- root/root       101 2018-08-24 04:33 ansible-openshift-maistra-master/tests/test.yml

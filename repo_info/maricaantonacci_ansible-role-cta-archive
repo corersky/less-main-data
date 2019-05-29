@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-20 09:25 ansible-role-cta-archive-master/
+-rw-rw-r-- root/root     11357 2019-03-20 09:25 ansible-role-cta-archive-master/LICENSE
+-rw-rw-r-- root/root       389 2019-03-20 09:25 ansible-role-cta-archive-master/README.md
+drwxrwxr-x root/root         0 2019-03-20 09:25 ansible-role-cta-archive-master/defaults/
+-rw-rw-r-- root/root       245 2019-03-20 09:25 ansible-role-cta-archive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-20 09:25 ansible-role-cta-archive-master/meta/
+-rw-rw-r-- root/root       379 2019-03-20 09:25 ansible-role-cta-archive-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-20 09:25 ansible-role-cta-archive-master/tasks/
+-rw-rw-r-- root/root      1086 2019-03-20 09:25 ansible-role-cta-archive-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-20 09:25 ansible-role-cta-archive-master/templates/
+-rw-rw-r-- root/root       256 2019-03-20 09:25 ansible-role-cta-archive-master/templates/environment.j2
+drwxrwxr-x root/root         0 2019-03-20 09:25 ansible-role-cta-archive-master/tests/
+-rw-rw-r-- root/root        10 2019-03-20 09:25 ansible-role-cta-archive-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-03-20 09:25 ansible-role-cta-archive-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-20 09:25 ansible-role-cta-archive-master/vars/
+-rw-rw-r-- root/root       297 2019-03-20 09:25 ansible-role-cta-archive-master/vars/main.yml

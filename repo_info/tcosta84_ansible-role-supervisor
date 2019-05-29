@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-12-18 11:52 ansible-role-supervisor-master/
+-rw-rw-r-- root/root      2206 2014-12-18 11:52 ansible-role-supervisor-master/README.md
+drwxrwxr-x root/root         0 2014-12-18 11:52 ansible-role-supervisor-master/defaults/
+-rw-rw-r-- root/root      1153 2014-12-18 11:52 ansible-role-supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-18 11:52 ansible-role-supervisor-master/handlers/
+-rw-rw-r-- root/root       338 2014-12-18 11:52 ansible-role-supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-18 11:52 ansible-role-supervisor-master/meta/
+-rw-rw-r-- root/root       329 2014-12-18 11:52 ansible-role-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-18 11:52 ansible-role-supervisor-master/tasks/
+-rw-rw-r-- root/root       628 2014-12-18 11:52 ansible-role-supervisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-18 11:52 ansible-role-supervisor-master/templates/
+-rw-rw-r-- root/root      1879 2014-12-18 11:52 ansible-role-supervisor-master/templates/init_script.j2
+-rw-rw-r-- root/root      2242 2014-12-18 11:52 ansible-role-supervisor-master/templates/supervisord.j2
+drwxrwxr-x root/root         0 2014-12-18 11:52 ansible-role-supervisor-master/tests/
+-rw-rw-r-- root/root        31 2014-12-18 11:52 ansible-role-supervisor-master/tests/ansible.cfg
+-rw-rw-r-- root/root        25 2014-12-18 11:52 ansible-role-supervisor-master/tests/hosts
+-rw-rw-r-- root/root       241 2014-12-18 11:52 ansible-role-supervisor-master/tests/test.yml

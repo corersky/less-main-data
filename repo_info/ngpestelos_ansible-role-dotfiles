@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-03 03:47 ansible-role-dotfiles-master/
+-rw-rw-r-- root/root       584 2016-07-03 03:47 ansible-role-dotfiles-master/.travis.yml
+-rw-rw-r-- root/root      1060 2016-07-03 03:47 ansible-role-dotfiles-master/MIT-LICENSE
+-rw-rw-r-- root/root       228 2016-07-03 03:47 ansible-role-dotfiles-master/README.md
+drwxrwxr-x root/root         0 2016-07-03 03:47 ansible-role-dotfiles-master/defaults/
+-rw-rw-r-- root/root        26 2016-07-03 03:47 ansible-role-dotfiles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-03 03:47 ansible-role-dotfiles-master/handlers/
+-rw-rw-r-- root/root        46 2016-07-03 03:47 ansible-role-dotfiles-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-03 03:47 ansible-role-dotfiles-master/meta/
+-rw-rw-r-- root/root       259 2016-07-03 03:47 ansible-role-dotfiles-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-03 03:47 ansible-role-dotfiles-master/tasks/
+-rw-rw-r-- root/root       533 2016-07-03 03:47 ansible-role-dotfiles-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-03 03:47 ansible-role-dotfiles-master/tests/
+-rw-rw-r-- root/root         9 2016-07-03 03:47 ansible-role-dotfiles-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-07-03 03:47 ansible-role-dotfiles-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-03 03:47 ansible-role-dotfiles-master/vars/
+-rw-rw-r-- root/root       153 2016-07-03 03:47 ansible-role-dotfiles-master/vars/main.yml

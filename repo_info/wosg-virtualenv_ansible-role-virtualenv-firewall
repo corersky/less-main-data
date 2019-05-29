@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/
+-rw-rw-r-- root/root      1048 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/.travis.yml
+-rw-rw-r-- root/root       129 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/README.md
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/defaults/
+-rw-rw-r-- root/root       231 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/handlers/
+-rw-rw-r-- root/root        98 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/meta/
+-rw-rw-r-- root/root       373 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/tasks/
+-rw-rw-r-- root/root       759 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/templates/
+-rwxrwxr-x root/root      2003 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/templates/firewall.bash.j2
+-rw-rw-r-- root/root       736 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/templates/firewall.j2
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/tests/
+-rw-rw-r-- root/root        10 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/tests/inventory
+-rw-rw-r-- root/root       148 2016-01-05 06:02 ansible-role-virtualenv-firewall-master/tests/test.yml

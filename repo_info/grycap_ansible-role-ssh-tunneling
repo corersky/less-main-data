@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-06 10:38 ansible-role-ssh-tunneling-master/
+-rw-rw-r-- root/root      1091 2017-03-06 10:38 ansible-role-ssh-tunneling-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-03-06 10:38 ansible-role-ssh-tunneling-master/LICENSE
+-rw-rw-r-- root/root      1591 2017-03-06 10:38 ansible-role-ssh-tunneling-master/README.md
+drwxrwxr-x root/root         0 2017-03-06 10:38 ansible-role-ssh-tunneling-master/defaults/
+-rw-rw-r-- root/root        69 2017-03-06 10:38 ansible-role-ssh-tunneling-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-06 10:38 ansible-role-ssh-tunneling-master/meta/
+-rw-rw-r-- root/root       260 2017-03-06 10:38 ansible-role-ssh-tunneling-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tasks/
+-rw-rw-r-- root/root       146 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tasks/Debian.yml
+-rw-rw-r-- root/root       118 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tasks/RedHat.yml
+-rw-rw-r-- root/root      1100 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tasks/front.yml
+-rw-rw-r-- root/root        98 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tasks/main.yml
+-rw-rw-r-- root/root      1909 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tasks/wn.yml
+drwxrwxr-x root/root         0 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tests/
+-rw-rw-r-- root/root        36 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tests/inventory
+-rw-rw-r-- root/root        54 2017-03-06 10:38 ansible-role-ssh-tunneling-master/tests/test.yml

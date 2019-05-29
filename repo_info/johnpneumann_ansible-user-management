@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-29 12:56 ansible-user-management-master/
+-rw-rw-r-- root/root       539 2017-12-29 12:56 ansible-user-management-master/.travis.yml
+-rw-rw-r-- root/root      1072 2017-12-29 12:56 ansible-user-management-master/LICENSE
+-rw-rw-r-- root/root       943 2017-12-29 12:56 ansible-user-management-master/README.md
+drwxrwxr-x root/root         0 2017-12-29 12:56 ansible-user-management-master/defaults/
+-rw-rw-r-- root/root        84 2017-12-29 12:56 ansible-user-management-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-29 12:56 ansible-user-management-master/meta/
+-rw-rw-r-- root/root       377 2017-12-29 12:56 ansible-user-management-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-29 12:56 ansible-user-management-master/tasks/
+-rw-rw-r-- root/root      1061 2017-12-29 12:56 ansible-user-management-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-29 12:56 ansible-user-management-master/tests/
+-rw-rw-r-- root/root         9 2017-12-29 12:56 ansible-user-management-master/tests/inventory
+-rw-rw-r-- root/root       468 2017-12-29 12:56 ansible-user-management-master/tests/test.yml

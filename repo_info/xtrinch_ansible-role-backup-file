@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-29 01:47 ansible-role-backup-file-master/
+-rw-rw-r-- root/root       539 2017-12-29 01:47 ansible-role-backup-file-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-12-29 01:47 ansible-role-backup-file-master/LICENSE
+-rw-rw-r-- root/root      1448 2017-12-29 01:47 ansible-role-backup-file-master/README.md
+drwxrwxr-x root/root         0 2017-12-29 01:47 ansible-role-backup-file-master/defaults/
+-rw-rw-r-- root/root        49 2017-12-29 01:47 ansible-role-backup-file-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-29 01:47 ansible-role-backup-file-master/handlers/
+-rw-rw-r-- root/root        49 2017-12-29 01:47 ansible-role-backup-file-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-29 01:47 ansible-role-backup-file-master/meta/
+-rw-rw-r-- root/root      3965 2017-12-29 01:47 ansible-role-backup-file-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-29 01:47 ansible-role-backup-file-master/tasks/
+-rw-rw-r-- root/root       949 2017-12-29 01:47 ansible-role-backup-file-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-29 01:47 ansible-role-backup-file-master/tests/
+-rw-rw-r-- root/root         9 2017-12-29 01:47 ansible-role-backup-file-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-12-29 01:47 ansible-role-backup-file-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-29 01:47 ansible-role-backup-file-master/vars/
+-rw-rw-r-- root/root       513 2017-12-29 01:47 ansible-role-backup-file-master/vars/main.yml

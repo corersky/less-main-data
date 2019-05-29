@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-19 03:16 ansible-openssh-master/
+-rw-rw-r-- root/root     11357 2019-02-19 03:16 ansible-openssh-master/LICENSE
+-rw-rw-r-- root/root       810 2019-02-19 03:16 ansible-openssh-master/README.md
+drwxrwxr-x root/root         0 2019-02-19 03:16 ansible-openssh-master/defaults/
+-rw-rw-r-- root/root       155 2019-02-19 03:16 ansible-openssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-19 03:16 ansible-openssh-master/handlers/
+-rw-rw-r-- root/root        84 2019-02-19 03:16 ansible-openssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-19 03:16 ansible-openssh-master/meta/
+-rw-rw-r-- root/root      1948 2019-02-19 03:16 ansible-openssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-19 03:16 ansible-openssh-master/tasks/
+-rw-rw-r-- root/root      1262 2019-02-19 03:16 ansible-openssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-19 03:16 ansible-openssh-master/templates/
+-rw-rw-r-- root/root      6926 2019-02-19 03:16 ansible-openssh-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2019-02-19 03:16 ansible-openssh-master/vars/
+-rw-rw-r-- root/root       111 2019-02-19 03:16 ansible-openssh-master/vars/Debian.yml
+-rw-rw-r-- root/root       116 2019-02-19 03:16 ansible-openssh-master/vars/RedHat.yml

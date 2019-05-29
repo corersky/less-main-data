@@ -1,0 +1,52 @@
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/
+-rw-rw-r-- root/root       303 2017-05-17 16:06 ansible-apache-master/.gitignore
+-rw-rw-r-- root/root       372 2017-05-17 16:06 ansible-apache-master/.travis.yml
+-rw-rw-r-- root/root      3960 2017-05-17 16:06 ansible-apache-master/CHANGES.rst
+-rw-rw-r-- root/root       740 2017-05-17 16:06 ansible-apache-master/COPYRIGHT
+-rw-rw-r-- root/root     35147 2017-05-17 16:06 ansible-apache-master/LICENSE
+-rw-rw-r-- root/root      1959 2017-05-17 16:06 ansible-apache-master/README.md
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/defaults/
+-rw-rw-r-- root/root     41452 2017-05-17 16:06 ansible-apache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/docs/
+-rw-rw-r-- root/root      2027 2017-05-17 16:06 ansible-apache-master/docs/ansible-integration.rst
+-rw-rw-r-- root/root        28 2017-05-17 16:06 ansible-apache-master/docs/changelog.rst
+-rw-rw-r-- root/root        54 2017-05-17 16:06 ansible-apache-master/docs/copyright.rst
+-rw-rw-r-- root/root     19510 2017-05-17 16:06 ansible-apache-master/docs/defaults-detailed.rst
+-rw-rw-r-- root/root      1470 2017-05-17 16:06 ansible-apache-master/docs/getting-started.rst
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/docs/includes/
+-rw-rw-r-- root/root        64 2017-05-17 16:06 ansible-apache-master/docs/includes/all.rst
+-rw-rw-r-- root/root      4348 2017-05-17 16:06 ansible-apache-master/docs/includes/role.rst
+-rw-rw-r-- root/root       300 2017-05-17 16:06 ansible-apache-master/docs/index.rst
+-rw-rw-r-- root/root       407 2017-05-17 16:06 ansible-apache-master/docs/introduction.rst
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/docs/playbooks/
+-rw-rw-r-- root/root       579 2017-05-17 16:06 ansible-apache-master/docs/playbooks/apache.yml
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/env/
+lrwxrwxrwx root/root         0 2017-05-17 16:06 ansible-apache-master/env/defaults -> ../defaults
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/env/tasks/
+-rw-rw-r-- root/root       865 2017-05-17 16:06 ansible-apache-master/env/tasks/main.yml
+lrwxrwxrwx root/root         0 2017-05-17 16:06 ansible-apache-master/env/templates -> ../templates
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/handlers/
+-rw-rw-r-- root/root       492 2017-05-17 16:06 ansible-apache-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/meta/
+-rw-rw-r-- root/root       567 2017-05-17 16:06 ansible-apache-master/meta/ansigenome.yml
+-rw-rw-r-- root/root       377 2017-05-17 16:06 ansible-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/tasks/
+-rw-rw-r-- root/root       604 2017-05-17 16:06 ansible-apache-master/tasks/apache_module_state.yml
+-rw-rw-r-- root/root      7046 2017-05-17 16:06 ansible-apache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/templates/
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/templates/etc/
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/templates/etc/ansible/
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/templates/etc/ansible/facts.d/
+-rw-rw-r-- root/root       823 2017-05-17 16:06 ansible-apache-master/templates/etc/ansible/facts.d/apache.fact.j2
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/conf-available/
+lrwxrwxrwx root/root         0 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/conf-available/apache__tpl_macros.j2 -> ../sites-available/apache__tpl_macros.j2
+lrwxrwxrwx root/root         0 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/conf-available/debops__tpl_macros.j2 -> ../sites-available/debops__tpl_macros.j2
+-rw-rw-r-- root/root      1571 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/conf-available/local-debops_apache.conf.j2
+-rw-rw-r-- root/root       163 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/conf-available/local-debops_apache_security_module.conf.j2
+-rw-rw-r-- root/root        87 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/conf-available/raw.conf.j2
+drwxrwxr-x root/root         0 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/sites-available/
+-rw-rw-r-- root/root     13683 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/sites-available/apache__tpl_macros.j2
+-rw-rw-r-- root/root      4066 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/sites-available/debops__tpl_macros.j2
+-rw-rw-r-- root/root      1786 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/sites-available/default.conf.j2
+-rw-rw-r-- root/root        75 2017-05-17 16:06 ansible-apache-master/templates/etc/apache2/sites-available/raw.conf.j2

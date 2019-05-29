@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-02-12 14:42 ansible-role-shinken-master/
+-rw-rw-r-- root/root       211 2017-02-12 14:42 ansible-role-shinken-master/.travis.yml
+drwxrwxr-x root/root         0 2017-02-12 14:42 ansible-role-shinken-master/defaults/
+-rw-rw-r-- root/root       118 2017-02-12 14:42 ansible-role-shinken-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-12 14:42 ansible-role-shinken-master/handlers/
+-rw-rw-r-- root/root       173 2017-02-12 14:42 ansible-role-shinken-master/handlers/main.yml
+-rw-rw-r-- root/root       451 2017-02-12 14:42 ansible-role-shinken-master/molecule.yml
+-rw-rw-r-- root/root        59 2017-02-12 14:42 ansible-role-shinken-master/playbook.yml
+drwxrwxr-x root/root         0 2017-02-12 14:42 ansible-role-shinken-master/tasks/
+-rw-rw-r-- root/root      1404 2017-02-12 14:42 ansible-role-shinken-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-12 14:42 ansible-role-shinken-master/tests/
+-rw-rw-r-- root/root       444 2017-02-12 14:42 ansible-role-shinken-master/tests/test_default.py

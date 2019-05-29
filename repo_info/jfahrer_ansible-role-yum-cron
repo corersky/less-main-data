@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-05-28 21:31 ansible-role-yum-cron-master/
+-rw-rw-r-- root/root      1053 2017-05-28 21:31 ansible-role-yum-cron-master/LICENSE
+-rw-rw-r-- root/root       515 2017-05-28 21:31 ansible-role-yum-cron-master/README.md
+drwxrwxr-x root/root         0 2017-05-28 21:31 ansible-role-yum-cron-master/defaults/
+-rw-rw-r-- root/root       208 2017-05-28 21:31 ansible-role-yum-cron-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-28 21:31 ansible-role-yum-cron-master/meta/
+-rw-rw-r-- root/root       235 2017-05-28 21:31 ansible-role-yum-cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-28 21:31 ansible-role-yum-cron-master/tasks/
+-rw-rw-r-- root/root       327 2017-05-28 21:31 ansible-role-yum-cron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-28 21:31 ansible-role-yum-cron-master/templates/
+-rw-rw-r-- root/root      2653 2017-05-28 21:31 ansible-role-yum-cron-master/templates/yum-cron.conf.j2

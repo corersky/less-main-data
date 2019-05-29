@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-24 16:45 ansible-packer-master/
+-rw-rw-r-- root/root      1298 2018-09-24 16:45 ansible-packer-master/LICENSE
+-rw-rw-r-- root/root      1267 2018-09-24 16:45 ansible-packer-master/README.md
+drwxrwxr-x root/root         0 2018-09-24 16:45 ansible-packer-master/defaults/
+-rw-rw-r-- root/root       138 2018-09-24 16:45 ansible-packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:45 ansible-packer-master/handlers/
+-rw-rw-r-- root/root        31 2018-09-24 16:45 ansible-packer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:45 ansible-packer-master/meta/
+-rw-rw-r-- root/root      2133 2018-09-24 16:45 ansible-packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:45 ansible-packer-master/tasks/
+-rw-rw-r-- root/root        46 2018-09-24 16:45 ansible-packer-master/tasks/CentOS.yml
+-rw-rw-r-- root/root        46 2018-09-24 16:45 ansible-packer-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       660 2018-09-24 16:45 ansible-packer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:45 ansible-packer-master/vars/
+-rw-rw-r-- root/root        45 2018-09-24 16:45 ansible-packer-master/vars/CentOS.yml
+-rw-rw-r-- root/root        45 2018-09-24 16:45 ansible-packer-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root       205 2018-09-24 16:45 ansible-packer-master/vars/main.yml

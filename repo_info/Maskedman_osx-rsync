@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-02-08 17:24 osx-rsync-master/
+-rw-rw-r-- root/root       399 2016-02-08 17:24 osx-rsync-master/README.md
+drwxrwxr-x root/root         0 2016-02-08 17:24 osx-rsync-master/defaults/
+-rw-rw-r-- root/root        15 2016-02-08 17:24 osx-rsync-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-08 17:24 osx-rsync-master/files/
+-rwxrwxr-x root/root       260 2016-02-08 17:24 osx-rsync-master/files/patch-rsync.sh
+drwxrwxr-x root/root         0 2016-02-08 17:24 osx-rsync-master/handlers/
+-rw-rw-r-- root/root        28 2016-02-08 17:24 osx-rsync-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-08 17:24 osx-rsync-master/meta/
+-rw-rw-r-- root/root       113 2016-02-08 17:24 osx-rsync-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-08 17:24 osx-rsync-master/tasks/
+-rw-rw-r-- root/root      1706 2016-02-08 17:24 osx-rsync-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-08 17:24 osx-rsync-master/vars/
+-rw-rw-r-- root/root        23 2016-02-08 17:24 osx-rsync-master/vars/main.yml

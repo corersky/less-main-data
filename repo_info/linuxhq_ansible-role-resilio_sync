@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-21 18:21 ansible-role-resilio_sync-master/
+-rw-rw-r-- root/root       331 2019-01-21 18:21 ansible-role-resilio_sync-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-21 18:21 ansible-role-resilio_sync-master/COPYING
+-rw-rw-r-- root/root      5179 2019-01-21 18:21 ansible-role-resilio_sync-master/README.md
+drwxrwxr-x root/root         0 2019-01-21 18:21 ansible-role-resilio_sync-master/defaults/
+-rw-rw-r-- root/root      2408 2019-01-21 18:21 ansible-role-resilio_sync-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-21 18:21 ansible-role-resilio_sync-master/handlers/
+-rw-rw-r-- root/root       123 2019-01-21 18:21 ansible-role-resilio_sync-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-21 18:21 ansible-role-resilio_sync-master/meta/
+-rw-rw-r-- root/root       306 2019-01-21 18:21 ansible-role-resilio_sync-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-21 18:21 ansible-role-resilio_sync-master/tasks/
+-rw-rw-r-- root/root      2312 2019-01-21 18:21 ansible-role-resilio_sync-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-21 18:21 ansible-role-resilio_sync-master/templates/
+-rw-rw-r-- root/root      6487 2019-01-21 18:21 ansible-role-resilio_sync-master/templates/config.json.j2
+drwxrwxr-x root/root         0 2019-01-21 18:21 ansible-role-resilio_sync-master/tests/
+-rw-rw-r-- root/root        10 2019-01-21 18:21 ansible-role-resilio_sync-master/tests/inventory
+-rw-rw-r-- root/root        88 2019-01-21 18:21 ansible-role-resilio_sync-master/tests/test.yml

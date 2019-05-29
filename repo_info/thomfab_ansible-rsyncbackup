@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-08-21 09:42 ansible-rsyncbackup-master/
+-rw-rw-r-- root/root      1118 2018-08-21 09:42 ansible-rsyncbackup-master/README.md
+drwxrwxr-x root/root         0 2018-08-21 09:42 ansible-rsyncbackup-master/defaults/
+-rw-rw-r-- root/root       579 2018-08-21 09:42 ansible-rsyncbackup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-21 09:42 ansible-rsyncbackup-master/meta/
+-rw-rw-r-- root/root      2303 2018-08-21 09:42 ansible-rsyncbackup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-21 09:42 ansible-rsyncbackup-master/tasks/
+-rw-rw-r-- root/root      1014 2018-08-21 09:42 ansible-rsyncbackup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-21 09:42 ansible-rsyncbackup-master/templates/
+-rw-rw-r-- root/root        66 2018-08-21 09:42 ansible-rsyncbackup-master/templates/backup.conf.j2
+-rw-rw-r-- root/root      1026 2018-08-21 09:42 ansible-rsyncbackup-master/templates/backup.sh.j2

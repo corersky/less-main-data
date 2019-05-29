@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/
+-rw-rw-r-- root/root      1079 2018-09-17 14:29 ansible-role-mariadb-master/LICENSE
+-rw-rw-r-- root/root       386 2018-09-17 14:29 ansible-role-mariadb-master/README.md
+drwxrwxr-x root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/defaults/
+-rw-rw-r-- root/root       899 2018-09-17 14:29 ansible-role-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/handlers/
+-rw-rw-r-- root/root       138 2018-09-17 14:29 ansible-role-mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/meta/
+-rw-rw-r-- root/root       454 2018-09-17 14:29 ansible-role-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/tasks/
+-rw-rw-r-- root/root      2691 2018-09-17 14:29 ansible-role-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/templates/
+-rw-rw-r-- root/root      4968 2018-09-17 14:29 ansible-role-mariadb-master/templates/mysql.conf.j2
+-rw-rw-r-- root/root        93 2018-09-17 14:29 ansible-role-mariadb-master/templates/root_my.cnf.j2
+drwxrwxr-x root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/tests/
+-rw-rw-r-- root/root         9 2018-09-17 14:29 ansible-role-mariadb-master/tests/.gitignore
+-rw-rw-r-- root/root      1408 2018-09-17 14:29 ansible-role-mariadb-master/tests/Vagrantfile
+-rw-rw-r-- root/root        21 2018-09-17 14:29 ansible-role-mariadb-master/tests/inventory
+drwxrwxr-x root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-09-17 14:29 ansible-role-mariadb-master/tests/roles/monsieurbiz.mariadb -> ../../
+-rw-rw-r-- root/root        12 2018-09-17 14:29 ansible-role-mariadb-master/tests/test.retry
+-rw-rw-r-- root/root        75 2018-09-17 14:29 ansible-role-mariadb-master/tests/test.yml

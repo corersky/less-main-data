@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-25 08:54 ansible-hostname-master/
+-rw-rw-r-- root/root       539 2016-11-25 08:54 ansible-hostname-master/.travis.yml
+-rw-rw-r-- root/root      1072 2016-11-25 08:54 ansible-hostname-master/LICENSE
+-rw-rw-r-- root/root      1052 2016-11-25 08:54 ansible-hostname-master/README.md
+drwxrwxr-x root/root         0 2016-11-25 08:54 ansible-hostname-master/defaults/
+-rw-rw-r-- root/root        56 2016-11-25 08:54 ansible-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-25 08:54 ansible-hostname-master/handlers/
+-rw-rw-r-- root/root        33 2016-11-25 08:54 ansible-hostname-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-25 08:54 ansible-hostname-master/meta/
+-rw-rw-r-- root/root      3941 2016-11-25 08:54 ansible-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-25 08:54 ansible-hostname-master/tasks/
+-rw-rw-r-- root/root       309 2016-11-25 08:54 ansible-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-25 08:54 ansible-hostname-master/tests/
+-rw-rw-r-- root/root         9 2016-11-25 08:54 ansible-hostname-master/tests/inventory
+-rw-rw-r-- root/root        66 2016-11-25 08:54 ansible-hostname-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-25 08:54 ansible-hostname-master/vars/
+-rw-rw-r-- root/root        29 2016-11-25 08:54 ansible-hostname-master/vars/main.yml

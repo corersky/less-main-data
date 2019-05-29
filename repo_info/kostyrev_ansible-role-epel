@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-28 13:08 ansible-role-epel-master/
+-rw-rw-r-- root/root        83 2017-12-28 13:08 ansible-role-epel-master/.gitignore
+-rw-rw-r-- root/root       327 2017-12-28 13:08 ansible-role-epel-master/.travis.yml
+-rw-rw-r-- root/root      1571 2017-12-28 13:08 ansible-role-epel-master/README.md
+drwxrwxr-x root/root         0 2017-12-28 13:08 ansible-role-epel-master/defaults/
+-rw-rw-r-- root/root       238 2017-12-28 13:08 ansible-role-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-28 13:08 ansible-role-epel-master/handlers/
+-rw-rw-r-- root/root        29 2017-12-28 13:08 ansible-role-epel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-28 13:08 ansible-role-epel-master/meta/
+-rw-rw-r-- root/root      2094 2017-12-28 13:08 ansible-role-epel-master/meta/main.yml
+-rw-rw-r-- root/root       268 2017-12-28 13:08 ansible-role-epel-master/molecule.yml
+-rw-rw-r-- root/root       369 2017-12-28 13:08 ansible-role-epel-master/playbook.yml
+drwxrwxr-x root/root         0 2017-12-28 13:08 ansible-role-epel-master/tasks/
+-rw-rw-r-- root/root      1324 2017-12-28 13:08 ansible-role-epel-master/tasks/main.yml

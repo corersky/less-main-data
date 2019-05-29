@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-10 11:48 ansible-role-graylog-collector-master/
+-rw-rw-r-- root/root     35787 2018-07-10 11:48 ansible-role-graylog-collector-master/LICENSE
+-rw-rw-r-- root/root       387 2018-07-10 11:48 ansible-role-graylog-collector-master/README.md
+drwxrwxr-x root/root         0 2018-07-10 11:48 ansible-role-graylog-collector-master/defaults/
+-rw-rw-r-- root/root        32 2018-07-10 11:48 ansible-role-graylog-collector-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-10 11:48 ansible-role-graylog-collector-master/handlers/
+-rw-rw-r-- root/root        88 2018-07-10 11:48 ansible-role-graylog-collector-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-10 11:48 ansible-role-graylog-collector-master/meta/
+-rw-rw-r-- root/root       467 2018-07-10 11:48 ansible-role-graylog-collector-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-10 11:48 ansible-role-graylog-collector-master/tasks/
+-rw-rw-r-- root/root       657 2018-07-10 11:48 ansible-role-graylog-collector-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-10 11:48 ansible-role-graylog-collector-master/templates/
+-rw-rw-r-- root/root       729 2018-07-10 11:48 ansible-role-graylog-collector-master/templates/collector_sidecar.yml

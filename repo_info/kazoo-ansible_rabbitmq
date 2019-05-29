@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-12-16 18:29 rabbitmq-master/
+-rw-rw-r-- root/root      1070 2017-12-16 18:29 rabbitmq-master/LICENSE
+-rw-rw-r-- root/root       475 2017-12-16 18:29 rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2017-12-16 18:29 rabbitmq-master/handlers/
+-rw-rw-r-- root/root        87 2017-12-16 18:29 rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:29 rabbitmq-master/meta/
+-rw-rw-r-- root/root      1713 2017-12-16 18:29 rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:29 rabbitmq-master/tasks/
+-rw-rw-r-- root/root       341 2017-12-16 18:29 rabbitmq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:29 rabbitmq-master/templates/
+-rw-rw-r-- root/root       337 2017-12-16 18:29 rabbitmq-master/templates/rabbitmq.config.j2

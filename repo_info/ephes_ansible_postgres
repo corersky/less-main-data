@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-08 03:22 ansible_postgres-master/
+-rw-rw-r-- root/root      1086 2016-05-08 03:22 ansible_postgres-master/LICENSE
+-rw-rw-r-- root/root        58 2016-05-08 03:22 ansible_postgres-master/README.md
+-rw-rw-r-- root/root         6 2016-05-08 03:22 ansible_postgres-master/VERSION
+drwxrwxr-x root/root         0 2016-05-08 03:22 ansible_postgres-master/defaults/
+-rw-rw-r-- root/root       145 2016-05-08 03:22 ansible_postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-08 03:22 ansible_postgres-master/handlers/
+-rw-rw-r-- root/root       196 2016-05-08 03:22 ansible_postgres-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-08 03:22 ansible_postgres-master/meta/
+-rw-rw-r-- root/root       217 2016-05-08 03:22 ansible_postgres-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-08 03:22 ansible_postgres-master/tasks/
+-rw-rw-r-- root/root        75 2016-05-08 03:22 ansible_postgres-master/tasks/main.yml
+-rw-rw-r-- root/root      2257 2016-05-08 03:22 ansible_postgres-master/tasks/postgres.yml
+drwxrwxr-x root/root         0 2016-05-08 03:22 ansible_postgres-master/templates/
+-rw-rw-r-- root/root       387 2016-05-08 03:22 ansible_postgres-master/templates/pg_hba.conf.j2
+-rw-rw-r-- root/root      3059 2016-05-08 03:22 ansible_postgres-master/templates/postgresql.conf.j2

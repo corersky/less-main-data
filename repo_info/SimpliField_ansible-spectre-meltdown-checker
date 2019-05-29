@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/
+-rw-rw-r-- root/root       261 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/.travis.yml
+-rw-rw-r-- root/root      1320 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/Makefile
+-rw-rw-r-- root/root      1471 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/README.md
+drwxrwxr-x root/root         0 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/defaults/
+-rw-rw-r-- root/root        43 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/files/
+-rwxrwxr-x root/root     64240 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/files/spectre-meltdown-checker.sh
+drwxrwxr-x root/root         0 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/meta/
+-rw-rw-r-- root/root       322 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/tasks/
+-rw-rw-r-- root/root       496 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/tests/
+-rw-rw-r-- root/root         9 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/tests/inventory
+-rw-rw-r-- root/root       102 2018-02-09 04:54 ansible-spectre-meltdown-checker-master/tests/test.yml

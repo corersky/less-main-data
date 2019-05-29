@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-05-12 22:56 nginxproxy-master/
+-rw-rw-r-- root/root       793 2014-05-12 22:56 nginxproxy-master/README.md
+drwxrwxr-x root/root         0 2014-05-12 22:56 nginxproxy-master/handlers/
+-rw-rw-r-- root/root        76 2014-05-12 22:56 nginxproxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-12 22:56 nginxproxy-master/meta/
+-rw-rw-r-- root/root       240 2014-05-12 22:56 nginxproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-12 22:56 nginxproxy-master/tasks/
+-rw-rw-r-- root/root       325 2014-05-12 22:56 nginxproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-12 22:56 nginxproxy-master/templates/
+-rw-rw-r-- root/root       131 2014-05-12 22:56 nginxproxy-master/templates/nginx.conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/
+-rw-rw-r-- root/root      2734 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/.travis.yml
+-rw-rw-r-- root/root       611 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/README.md
+drwxrwxr-x root/root         0 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/defaults/
+-rw-rw-r-- root/root        48 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/handlers/
+-rw-rw-r-- root/root        43 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/meta/
+-rw-rw-r-- root/root      1074 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/tasks/
+-rw-rw-r-- root/root        57 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/tasks/main.yml
+-rw-rw-r-- root/root       612 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/tests/
+-rw-rw-r-- root/root       193 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/vars/
+-rw-rw-r-- root/root         5 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/vars/Debian.yml
+-rw-rw-r-- root/root        39 2018-04-29 22:40 ansible-role-k8s-kubeadm-install-master/vars/main.yml

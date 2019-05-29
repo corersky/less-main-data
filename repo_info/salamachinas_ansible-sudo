@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-14 14:55 ansible-sudo-master/
+-rw-rw-r-- root/root        40 2017-01-14 14:55 ansible-sudo-master/.gitignore
+-rw-rw-r-- root/root       806 2017-01-14 14:55 ansible-sudo-master/README.md
+drwxrwxr-x root/root         0 2017-01-14 14:55 ansible-sudo-master/meta/
+-rw-rw-r-- root/root       335 2017-01-14 14:55 ansible-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-14 14:55 ansible-sudo-master/tasks/
+-rw-rw-r-- root/root        59 2017-01-14 14:55 ansible-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-14 14:55 ansible-sudo-master/tests/
+-rw-rw-r-- root/root       199 2017-01-14 14:55 ansible-sudo-master/tests/Dockerfile_centos7
+-rw-rw-r-- root/root       199 2017-01-14 14:55 ansible-sudo-master/tests/Dockerfile_debian7
+-rw-rw-r-- root/root       199 2017-01-14 14:55 ansible-sudo-master/tests/Dockerfile_debian8
+-rw-rw-r-- root/root       203 2017-01-14 14:55 ansible-sudo-master/tests/Dockerfile_ubuntu14
+-rw-rw-r-- root/root       203 2017-01-14 14:55 ansible-sudo-master/tests/Dockerfile_ubuntu16
+-rw-rw-r-- root/root        51 2017-01-14 14:55 ansible-sudo-master/tests/provision.yml

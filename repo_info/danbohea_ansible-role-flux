@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-20 03:21 ansible-role-flux-master/
+-rw-rw-r-- root/root      1387 2017-10-20 03:21 ansible-role-flux-master/.travis.yml
+-rw-rw-r-- root/root      1194 2017-10-20 03:21 ansible-role-flux-master/README.md
+drwxrwxr-x root/root         0 2017-10-20 03:21 ansible-role-flux-master/defaults/
+-rw-rw-r-- root/root       149 2017-10-20 03:21 ansible-role-flux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-20 03:21 ansible-role-flux-master/handlers/
+-rw-rw-r-- root/root        71 2017-10-20 03:21 ansible-role-flux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-20 03:21 ansible-role-flux-master/meta/
+-rw-rw-r-- root/root       322 2017-10-20 03:21 ansible-role-flux-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-20 03:21 ansible-role-flux-master/tasks/
+-rw-rw-r-- root/root       686 2017-10-20 03:21 ansible-role-flux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-20 03:21 ansible-role-flux-master/tests/
+-rw-rw-r-- root/root        10 2017-10-20 03:21 ansible-role-flux-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-10-20 03:21 ansible-role-flux-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-01 04:59 ansible-role-taskwarrior-master/
+-rw-rw-r-- root/root      6555 2019-05-01 04:59 ansible-role-taskwarrior-master/LICENSE
+-rw-rw-r-- root/root      3494 2019-05-01 04:59 ansible-role-taskwarrior-master/README.md
+drwxrwxr-x root/root         0 2019-05-01 04:59 ansible-role-taskwarrior-master/defaults/
+-rw-rw-r-- root/root      1423 2019-05-01 04:59 ansible-role-taskwarrior-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-01 04:59 ansible-role-taskwarrior-master/meta/
+-rw-rw-r-- root/root       481 2019-05-01 04:59 ansible-role-taskwarrior-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-01 04:59 ansible-role-taskwarrior-master/tasks/
+-rw-rw-r-- root/root       472 2019-05-01 04:59 ansible-role-taskwarrior-master/tasks/install_cert.yml
+-rw-rw-r-- root/root      1168 2019-05-01 04:59 ansible-role-taskwarrior-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-01 04:59 ansible-role-taskwarrior-master/templates/
+-rw-rw-r-- root/root       533 2019-05-01 04:59 ansible-role-taskwarrior-master/templates/taskrc

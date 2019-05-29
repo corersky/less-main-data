@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/
+-rw-rw-r-- root/root        15 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/.gitignore
+-rw-rw-r-- root/root        33 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       555 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/meta/
+-rw-rw-r-- root/root       256 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/tasks/
+-rw-rw-r-- root/root       681 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/tasks/create.yml
+-rw-rw-r-- root/root         0 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/tasks/init.yml
+-rw-rw-r-- root/root        28 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/tasks/main.yml
+-rw-rw-r-- root/root       272 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/tasks/renew.yml
+-rw-rw-r-- root/root       829 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/templates/
+-rw-rw-r-- root/root      1328 2017-07-28 07:50 ansible-haproxy-letsencrypt-master/templates/haproxy.cfg.j2

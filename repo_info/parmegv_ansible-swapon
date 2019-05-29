@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/
+-rw-rw-r-- root/root         3 2017-02-21 06:46 ansible-swapon-master/.gitignore
+-rw-rw-r-- root/root       515 2017-02-21 06:46 ansible-swapon-master/.travis.yml
+-rw-rw-r-- root/root       662 2017-02-21 06:46 ansible-swapon-master/README.md
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/defaults/
+-rw-rw-r-- root/root       140 2017-02-21 06:46 ansible-swapon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/handlers/
+-rw-rw-r-- root/root        39 2017-02-21 06:46 ansible-swapon-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/meta/
+-rw-rw-r-- root/root       197 2017-02-21 06:46 ansible-swapon-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/tasks/
+-rw-rw-r-- root/root       902 2017-02-21 06:46 ansible-swapon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/tests/
+-rw-rw-r-- root/root         9 2017-02-21 06:46 ansible-swapon-master/tests/inventory
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-02-21 06:46 ansible-swapon-master/tests/roles/ansible-swapon -> ../..
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/tests/tasks/
+-rw-rw-r-- root/root        92 2017-02-21 06:46 ansible-swapon-master/tests/tasks/main.yml
+-rw-rw-r-- root/root       277 2017-02-21 06:46 ansible-swapon-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-21 06:46 ansible-swapon-master/vars/
+-rw-rw-r-- root/root        75 2017-02-21 06:46 ansible-swapon-master/vars/main.yml

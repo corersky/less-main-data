@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-17 03:30 hosts-master/
+-rw-rw-r-- root/root       673 2019-05-17 03:30 hosts-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 03:30 hosts-master/defaults/
+-rw-rw-r-- root/root       147 2019-05-17 03:30 hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 03:30 hosts-master/meta/
+-rw-rw-r-- root/root      1948 2019-05-17 03:30 hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 03:30 hosts-master/tasks/
+-rw-rw-r-- root/root       617 2019-05-17 03:30 hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-17 03:30 hosts-master/templates/
+-rw-rw-r-- root/root       288 2019-05-17 03:30 hosts-master/templates/hosts.j2
+drwxrwxr-x root/root         0 2019-05-17 03:30 hosts-master/tests/
+-rw-rw-r-- root/root        11 2019-05-17 03:30 hosts-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-05-17 03:30 hosts-master/tests/test.yml

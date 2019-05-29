@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2017-06-29 19:41 ansible-role-beehive-master/
+-rw-rw-r-- root/root        23 2017-06-29 19:41 ansible-role-beehive-master/.gitignore
+-rw-rw-r-- root/root       956 2017-06-29 19:41 ansible-role-beehive-master/.travis.yml
+-rw-rw-r-- root/root      1575 2017-06-29 19:41 ansible-role-beehive-master/README.md
+-rw-rw-r-- root/root       427 2017-06-29 19:41 ansible-role-beehive-master/Vagrantfile
+drwxrwxr-x root/root         0 2017-06-29 19:41 ansible-role-beehive-master/defaults/
+-rw-rw-r-- root/root       541 2017-06-29 19:41 ansible-role-beehive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-29 19:41 ansible-role-beehive-master/handlers/
+-rw-rw-r-- root/root       120 2017-06-29 19:41 ansible-role-beehive-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-29 19:41 ansible-role-beehive-master/meta/
+-rw-rw-r-- root/root       289 2017-06-29 19:41 ansible-role-beehive-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-29 19:41 ansible-role-beehive-master/tasks/
+-rw-rw-r-- root/root      1318 2017-06-29 19:41 ansible-role-beehive-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-29 19:41 ansible-role-beehive-master/templates/
+drwxrwxr-x root/root         0 2017-06-29 19:41 ansible-role-beehive-master/templates/systemd/
+-rw-rw-r-- root/root       446 2017-06-29 19:41 ansible-role-beehive-master/templates/systemd/beehive.conf.j2
+drwxrwxr-x root/root         0 2017-06-29 19:41 ansible-role-beehive-master/tests/
+-rw-rw-r-- root/root        99 2017-06-29 19:41 ansible-role-beehive-master/tests/role.yml
+lrwxrwxrwx root/root         0 2017-06-29 19:41 ansible-role-beehive-master/tests/role_under_test -> ..
+-rw-rw-r-- root/root        31 2017-06-29 19:41 ansible-role-beehive-master/tests/travis_extra_vars.json

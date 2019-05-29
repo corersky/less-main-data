@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-24 15:26 ansible-centminmod-master/
+-rw-rw-r-- root/root       815 2017-05-24 15:26 ansible-centminmod-master/.gitignore
+-rw-rw-r-- root/root      1079 2017-05-24 15:26 ansible-centminmod-master/LICENSE
+-rw-rw-r-- root/root      1437 2017-05-24 15:26 ansible-centminmod-master/README.md
+drwxrwxr-x root/root         0 2017-05-24 15:26 ansible-centminmod-master/defaults/
+-rw-rw-r-- root/root       762 2017-05-24 15:26 ansible-centminmod-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-24 15:26 ansible-centminmod-master/handlers/
+-rw-rw-r-- root/root       458 2017-05-24 15:26 ansible-centminmod-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-24 15:26 ansible-centminmod-master/meta/
+-rw-rw-r-- root/root       443 2017-05-24 15:26 ansible-centminmod-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-24 15:26 ansible-centminmod-master/tasks/
+-rw-rw-r-- root/root      2789 2017-05-24 15:26 ansible-centminmod-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-24 15:26 ansible-centminmod-master/templates/
+-rw-rw-r-- root/root       741 2017-05-24 15:26 ansible-centminmod-master/templates/custom_config.inc.j2

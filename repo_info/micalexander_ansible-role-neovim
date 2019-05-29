@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-27 17:24 ansible-role-neovim-master/
+-rw-rw-r-- root/root      1328 2018-10-27 17:24 ansible-role-neovim-master/README.md
+drwxrwxr-x root/root         0 2018-10-27 17:24 ansible-role-neovim-master/defaults/
+-rw-rw-r-- root/root        30 2018-10-27 17:24 ansible-role-neovim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-27 17:24 ansible-role-neovim-master/handlers/
+-rw-rw-r-- root/root        30 2018-10-27 17:24 ansible-role-neovim-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-27 17:24 ansible-role-neovim-master/meta/
+-rw-rw-r-- root/root      2250 2018-10-27 17:24 ansible-role-neovim-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-27 17:24 ansible-role-neovim-master/tasks/
+-rw-rw-r-- root/root       201 2018-10-27 17:24 ansible-role-neovim-master/tasks/apt-install.yml
+-rw-rw-r-- root/root        60 2018-10-27 17:24 ansible-role-neovim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-27 17:24 ansible-role-neovim-master/tests/
+-rw-rw-r-- root/root        11 2018-10-27 17:24 ansible-role-neovim-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-10-27 17:24 ansible-role-neovim-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-27 17:24 ansible-role-neovim-master/vars/
+-rw-rw-r-- root/root        26 2018-10-27 17:24 ansible-role-neovim-master/vars/main.yml

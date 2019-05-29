@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-18 02:54 ansible-role-timezone-master/
+-rw-rw-r-- root/root      3798 2018-07-18 02:54 ansible-role-timezone-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      2673 2018-07-18 02:54 ansible-role-timezone-master/.travis.yml
+-rw-rw-r-- root/root      1060 2018-07-18 02:54 ansible-role-timezone-master/LICENSE
+-rw-rw-r-- root/root       820 2018-07-18 02:54 ansible-role-timezone-master/README.md
+drwxrwxr-x root/root         0 2018-07-18 02:54 ansible-role-timezone-master/defaults/
+-rw-rw-r-- root/root        59 2018-07-18 02:54 ansible-role-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-18 02:54 ansible-role-timezone-master/meta/
+-rw-rw-r-- root/root       385 2018-07-18 02:54 ansible-role-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-18 02:54 ansible-role-timezone-master/tasks/
+-rw-rw-r-- root/root       271 2018-07-18 02:54 ansible-role-timezone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-18 02:54 ansible-role-timezone-master/tests/
+-rw-rw-r-- root/root      1331 2018-07-18 02:54 ansible-role-timezone-master/tests/docker_playbook.yml
+-rw-rw-r-- root/root        52 2018-07-18 02:54 ansible-role-timezone-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-15 08:14 ansible-role-girder-worker-master/
+-rw-rw-r-- root/root      2923 2017-09-15 08:14 ansible-role-girder-worker-master/README.md
+drwxrwxr-x root/root         0 2017-09-15 08:14 ansible-role-girder-worker-master/defaults/
+-rw-rw-r-- root/root      1010 2017-09-15 08:14 ansible-role-girder-worker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-15 08:14 ansible-role-girder-worker-master/meta/
+-rw-rw-r-- root/root       414 2017-09-15 08:14 ansible-role-girder-worker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-15 08:14 ansible-role-girder-worker-master/tasks/
+-rw-rw-r-- root/root       380 2017-09-15 08:14 ansible-role-girder-worker-master/tasks/configure.yml
+-rw-rw-r-- root/root      1377 2017-09-15 08:14 ansible-role-girder-worker-master/tasks/daemon.yml
+-rw-rw-r-- root/root      1276 2017-09-15 08:14 ansible-role-girder-worker-master/tasks/girder_worker.yml
+-rw-rw-r-- root/root       770 2017-09-15 08:14 ansible-role-girder-worker-master/tasks/main.yml
+-rw-rw-r-- root/root      2221 2017-09-15 08:14 ansible-role-girder-worker-master/tasks/pip.yml
+drwxrwxr-x root/root         0 2017-09-15 08:14 ansible-role-girder-worker-master/templates/
+drwxrwxr-x root/root         0 2017-09-15 08:14 ansible-role-girder-worker-master/templates/daemon/
+-rw-rw-r-- root/root       361 2017-09-15 08:14 ansible-role-girder-worker-master/templates/daemon/girder_worker.conf.j2
+-rw-rw-r-- root/root       304 2017-09-15 08:14 ansible-role-girder-worker-master/templates/daemon/girder_worker.service.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-19 12:56 ansible-firewalld-master/
+-rw-rw-r-- root/root     35147 2019-02-19 12:56 ansible-firewalld-master/LICENSE.txt
+-rw-rw-r-- root/root      2909 2019-02-19 12:56 ansible-firewalld-master/README.md
+drwxrwxr-x root/root         0 2019-02-19 12:56 ansible-firewalld-master/defaults/
+-rw-rw-r-- root/root        45 2019-02-19 12:56 ansible-firewalld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-19 12:56 ansible-firewalld-master/handlers/
+-rw-rw-r-- root/root        86 2019-02-19 12:56 ansible-firewalld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-19 12:56 ansible-firewalld-master/meta/
+-rw-rw-r-- root/root       419 2019-02-19 12:56 ansible-firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-19 12:56 ansible-firewalld-master/tasks/
+-rw-rw-r-- root/root      1397 2019-02-19 12:56 ansible-firewalld-master/tasks/main-tasks.yml
+-rw-rw-r-- root/root        48 2019-02-19 12:56 ansible-firewalld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-19 12:56 ansible-firewalld-master/templates/
+-rw-rw-r-- root/root       474 2019-02-19 12:56 ansible-firewalld-master/templates/MyZone.xml
+-rw-rw-r-- root/root      2106 2019-02-19 12:56 ansible-firewalld-master/templates/firewalld.conf

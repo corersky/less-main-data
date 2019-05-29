@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2017-06-06 16:24 ansible-mlocate-master/
+-rw-rw-r-- root/root      1071 2017-06-06 16:24 ansible-mlocate-master/LICENSE
+-rw-rw-r-- root/root        89 2017-06-06 16:24 ansible-mlocate-master/README.md
+drwxrwxr-x root/root         0 2017-06-06 16:24 ansible-mlocate-master/meta/
+-rw-rw-r-- root/root       502 2017-06-06 16:24 ansible-mlocate-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-06 16:24 ansible-mlocate-master/tasks/
+-rw-rw-r-- root/root       296 2017-06-06 16:24 ansible-mlocate-master/tasks/Debian.yml
+-rw-rw-r-- root/root       253 2017-06-06 16:24 ansible-mlocate-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       125 2017-06-06 16:24 ansible-mlocate-master/tasks/main.yml

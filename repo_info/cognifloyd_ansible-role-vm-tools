@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-19 01:41 ansible-role-vm-tools-master/
+-rw-rw-r-- root/root       480 2017-01-19 01:41 ansible-role-vm-tools-master/.travis.yml
+-rw-rw-r-- root/root      2374 2017-01-19 01:41 ansible-role-vm-tools-master/README.md
+drwxrwxr-x root/root         0 2017-01-19 01:41 ansible-role-vm-tools-master/defaults/
+-rw-rw-r-- root/root        37 2017-01-19 01:41 ansible-role-vm-tools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-19 01:41 ansible-role-vm-tools-master/meta/
+-rw-rw-r-- root/root       372 2017-01-19 01:41 ansible-role-vm-tools-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-19 01:41 ansible-role-vm-tools-master/tasks/
+-rw-rw-r-- root/root      1400 2017-01-19 01:41 ansible-role-vm-tools-master/tasks/main.yml
+-rw-rw-r-- root/root       803 2017-01-19 01:41 ansible-role-vm-tools-master/tasks/virtualbox.yml
+-rw-rw-r-- root/root      1745 2017-01-19 01:41 ansible-role-vm-tools-master/tasks/vmware.yml
+drwxrwxr-x root/root         0 2017-01-19 01:41 ansible-role-vm-tools-master/templates/
+-rw-rw-r-- root/root        16 2017-01-19 01:41 ansible-role-vm-tools-master/templates/vmhgfs.modules.j2
+-rw-rw-r-- root/root       293 2017-01-19 01:41 ansible-role-vm-tools-master/templates/vmware-tools.repo.j2
+drwxrwxr-x root/root         0 2017-01-19 01:41 ansible-role-vm-tools-master/tests/
+-rw-rw-r-- root/root        10 2017-01-19 01:41 ansible-role-vm-tools-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-01-19 01:41 ansible-role-vm-tools-master/tests/test.yml

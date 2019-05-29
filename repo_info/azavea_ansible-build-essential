@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-09-08 10:45 ansible-build-essential-master/
+-rw-rw-r-- root/root         9 2014-09-08 10:45 ansible-build-essential-master/.gitignore
+-rw-rw-r-- root/root        29 2014-09-08 10:45 ansible-build-essential-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2014-09-08 10:45 ansible-build-essential-master/LICENSE
+-rw-rw-r-- root/root       179 2014-09-08 10:45 ansible-build-essential-master/README.md
+drwxrwxr-x root/root         0 2014-09-08 10:45 ansible-build-essential-master/examples/
+-rw-rw-r-- root/root       278 2014-09-08 10:45 ansible-build-essential-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-09-08 10:45 ansible-build-essential-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-09-08 10:45 ansible-build-essential-master/examples/roles/azavea.build-essential -> ../../
+-rw-rw-r-- root/root        67 2014-09-08 10:45 ansible-build-essential-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-09-08 10:45 ansible-build-essential-master/meta/
+-rw-rw-r-- root/root       315 2014-09-08 10:45 ansible-build-essential-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-08 10:45 ansible-build-essential-master/tasks/
+-rw-rw-r-- root/root        79 2014-09-08 10:45 ansible-build-essential-master/tasks/main.yml
+-rw-rw-r-- root/root         7 2014-09-08 10:45 ansible-build-essential-master/version.txt

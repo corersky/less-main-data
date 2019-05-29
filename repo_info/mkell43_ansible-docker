@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-03-18 17:50 ansible-docker-master/
+-rw-rw-r-- root/root        13 2018-03-18 17:50 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root       421 2018-03-18 17:50 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2018-03-18 17:50 ansible-docker-master/handlers/
+-rw-rw-r-- root/root        84 2018-03-18 17:50 ansible-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-18 17:50 ansible-docker-master/meta/
+-rw-rw-r-- root/root       203 2018-03-18 17:50 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-18 17:50 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       707 2018-03-18 17:50 ansible-docker-master/tasks/debian.yml
+-rw-rw-r-- root/root       150 2018-03-18 17:50 ansible-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       483 2018-03-18 17:50 ansible-docker-master/tasks/redhat.yml

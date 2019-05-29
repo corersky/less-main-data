@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-21 14:13 ansible-synology-docker-daemon-master/
+-rw-rw-r-- root/root       539 2016-11-21 14:13 ansible-synology-docker-daemon-master/.travis.yml
+-rw-rw-r-- root/root       487 2016-11-21 14:13 ansible-synology-docker-daemon-master/LICENSE.txt
+-rw-rw-r-- root/root      2122 2016-11-21 14:13 ansible-synology-docker-daemon-master/README.md
+drwxrwxr-x root/root         0 2016-11-21 14:13 ansible-synology-docker-daemon-master/defaults/
+-rw-rw-r-- root/root        30 2016-11-21 14:13 ansible-synology-docker-daemon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-21 14:13 ansible-synology-docker-daemon-master/handlers/
+-rw-rw-r-- root/root        72 2016-11-21 14:13 ansible-synology-docker-daemon-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-21 14:13 ansible-synology-docker-daemon-master/meta/
+-rw-rw-r-- root/root       315 2016-11-21 14:13 ansible-synology-docker-daemon-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-21 14:13 ansible-synology-docker-daemon-master/tasks/
+-rw-rw-r-- root/root       297 2016-11-21 14:13 ansible-synology-docker-daemon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-21 14:13 ansible-synology-docker-daemon-master/tests/
+-rw-rw-r-- root/root         9 2016-11-21 14:13 ansible-synology-docker-daemon-master/tests/inventory
+-rw-rw-r-- root/root        88 2016-11-21 14:13 ansible-synology-docker-daemon-master/tests/test.yml

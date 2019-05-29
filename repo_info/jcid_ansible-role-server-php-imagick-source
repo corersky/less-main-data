@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/.travis.yml
+-rw-rw-r-- root/root        93 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/files/
+-rw-rw-r-- root/root        21 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/files/imagick.ini
+-rw-rw-r-- root/root      3190 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/files/policy.xml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/meta/
+-rw-rw-r-- root/root       226 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/tasks/
+-rw-rw-r-- root/root      1302 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/tasks/install.yml
+-rw-rw-r-- root/root       355 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/tests/inventory
+-rw-rw-r-- root/root        84 2016-12-11 10:56 ansible-role-server-php-imagick-source-master/tests/test.yml

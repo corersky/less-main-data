@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2016-08-23 16:21 ansible-pg-failover-master/
+-rw-rw-r-- root/root        30 2016-08-23 16:21 ansible-pg-failover-master/.gitignore
+-rw-rw-r-- root/root        27 2016-08-23 16:21 ansible-pg-failover-master/Ansiblefile
+-rw-rw-r-- root/root       199 2016-08-23 16:21 ansible-pg-failover-master/Ansiblefile.lock
+-rw-rw-r-- root/root       731 2016-08-23 16:21 ansible-pg-failover-master/LICENSE.txt
+-rw-rw-r-- root/root       113 2016-08-23 16:21 ansible-pg-failover-master/README.md
+-rw-rw-r-- root/root        58 2016-08-23 16:21 ansible-pg-failover-master/ansible.cfg
+lrwxrwxrwx root/root         0 2016-08-23 16:21 ansible-pg-failover-master/bcoe.pg-failover -> ./
+drwxrwxr-x root/root         0 2016-08-23 16:21 ansible-pg-failover-master/defaults/
+-rw-rw-r-- root/root       809 2016-08-23 16:21 ansible-pg-failover-master/defaults/main.yml
+-rw-rw-r-- root/root        59 2016-08-23 16:21 ansible-pg-failover-master/deploy.yml
+-rw-rw-r-- root/root       198 2016-08-23 16:21 ansible-pg-failover-master/inventory
+drwxrwxr-x root/root         0 2016-08-23 16:21 ansible-pg-failover-master/meta/
+-rw-rw-r-- root/root       371 2016-08-23 16:21 ansible-pg-failover-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-23 16:21 ansible-pg-failover-master/tasks/
+-rw-rw-r-- root/root      1027 2016-08-23 16:21 ansible-pg-failover-master/tasks/main.yml
+-rw-rw-r-- root/root      1394 2016-08-23 16:21 ansible-pg-failover-master/tasks/master.yml
+-rw-rw-r-- root/root       102 2016-08-23 16:21 ansible-pg-failover-master/tasks/pgbouncer.yml
+-rw-rw-r-- root/root       208 2016-08-23 16:21 ansible-pg-failover-master/tasks/repmgr.yml
+-rw-rw-r-- root/root       669 2016-08-23 16:21 ansible-pg-failover-master/tasks/ssh-access.yml
+drwxrwxr-x root/root         0 2016-08-23 16:21 ansible-pg-failover-master/templates/
+-rw-rw-r-- root/root       191 2016-08-23 16:21 ansible-pg-failover-master/templates/known_hosts.j2

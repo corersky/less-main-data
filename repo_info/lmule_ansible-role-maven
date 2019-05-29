@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-04 05:39 ansible-role-maven-master/
+-rw-rw-r-- root/root      1328 2018-11-04 05:39 ansible-role-maven-master/README.md
+drwxrwxr-x root/root         0 2018-11-04 05:39 ansible-role-maven-master/defaults/
+-rw-rw-r-- root/root       247 2018-11-04 05:39 ansible-role-maven-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-04 05:39 ansible-role-maven-master/files/
+-rw-rw-r-- root/root   8842660 2018-11-04 05:39 ansible-role-maven-master/files/maven_3.5.4.tar.gz
+drwxrwxr-x root/root         0 2018-11-04 05:39 ansible-role-maven-master/handlers/
+-rw-rw-r-- root/root        28 2018-11-04 05:39 ansible-role-maven-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-04 05:39 ansible-role-maven-master/meta/
+-rw-rw-r-- root/root       250 2018-11-04 05:39 ansible-role-maven-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-04 05:39 ansible-role-maven-master/tasks/
+-rw-rw-r-- root/root       674 2018-11-04 05:39 ansible-role-maven-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-04 05:39 ansible-role-maven-master/tests/
+-rw-rw-r-- root/root        11 2018-11-04 05:39 ansible-role-maven-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-11-04 05:39 ansible-role-maven-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-04 05:39 ansible-role-maven-master/vars/
+-rw-rw-r-- root/root        24 2018-11-04 05:39 ansible-role-maven-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-25 19:19 ansible-role-mariadb-server-master/
+-rw-rw-r-- root/root       470 2015-11-25 19:19 ansible-role-mariadb-server-master/README.md
+drwxrwxr-x root/root         0 2015-11-25 19:19 ansible-role-mariadb-server-master/defaults/
+-rw-rw-r-- root/root        53 2015-11-25 19:19 ansible-role-mariadb-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:19 ansible-role-mariadb-server-master/meta/
+-rw-rw-r-- root/root       237 2015-11-25 19:19 ansible-role-mariadb-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:19 ansible-role-mariadb-server-master/tasks/
+-rw-rw-r-- root/root      1293 2015-11-25 19:19 ansible-role-mariadb-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-25 19:19 ansible-role-mariadb-server-master/templates/
+-rw-rw-r-- root/root       593 2015-11-25 19:19 ansible-role-mariadb-server-master/templates/logrotate
+-rw-rw-r-- root/root        60 2015-11-25 19:19 ansible-role-mariadb-server-master/templates/my.cnf
+drwxrwxr-x root/root         0 2015-11-25 19:19 ansible-role-mariadb-server-master/templates/mysql/
+-rw-rw-r-- root/root      5160 2015-11-25 19:19 ansible-role-mariadb-server-master/templates/mysql/my.cnf

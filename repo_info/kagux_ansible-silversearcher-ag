@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-11-04 04:49 ansible-silversearcher-ag-master/
+-rw-rw-r-- root/root        68 2018-11-04 04:49 ansible-silversearcher-ag-master/README.md
+drwxrwxr-x root/root         0 2018-11-04 04:49 ansible-silversearcher-ag-master/defaults/
+-rw-rw-r-- root/root       112 2018-11-04 04:49 ansible-silversearcher-ag-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-04 04:49 ansible-silversearcher-ag-master/meta/
+-rw-rw-r-- root/root       319 2018-11-04 04:49 ansible-silversearcher-ag-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-04 04:49 ansible-silversearcher-ag-master/tasks/
+-rw-rw-r-- root/root       355 2018-11-04 04:49 ansible-silversearcher-ag-master/tasks/install.yml
+-rw-rw-r-- root/root        51 2018-11-04 04:49 ansible-silversearcher-ag-master/tasks/main.yml
+-rw-rw-r-- root/root       182 2018-11-04 04:49 ansible-silversearcher-ag-master/tasks/requirements.yml

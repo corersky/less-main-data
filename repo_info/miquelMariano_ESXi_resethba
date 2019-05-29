@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-11 08:02 ESXi_resethba-master/
+-rw-rw-r-- root/root       539 2018-12-11 08:02 ESXi_resethba-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-12-11 08:02 ESXi_resethba-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 08:02 ESXi_resethba-master/defaults/
+-rw-rw-r-- root/root        38 2018-12-11 08:02 ESXi_resethba-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 08:02 ESXi_resethba-master/handlers/
+-rw-rw-r-- root/root        38 2018-12-11 08:02 ESXi_resethba-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-11 08:02 ESXi_resethba-master/meta/
+-rw-rw-r-- root/root       348 2018-12-11 08:02 ESXi_resethba-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 08:02 ESXi_resethba-master/tasks/
+-rw-rw-r-- root/root       471 2018-12-11 08:02 ESXi_resethba-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-11 08:02 ESXi_resethba-master/tests/
+-rw-rw-r-- root/root         9 2018-12-11 08:02 ESXi_resethba-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-12-11 08:02 ESXi_resethba-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-11 08:02 ESXi_resethba-master/vars/
+-rw-rw-r-- root/root        34 2018-12-11 08:02 ESXi_resethba-master/vars/main.yml

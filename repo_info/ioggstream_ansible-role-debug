@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-29 07:29 ansible-role-debug-master/
+-rw-rw-r-- root/root      1045 2016-08-29 07:29 ansible-role-debug-master/.gitignore
+-rw-rw-r-- root/root      1499 2016-08-29 07:29 ansible-role-debug-master/.travis.yml
+-rw-rw-r-- root/root     35141 2016-08-29 07:29 ansible-role-debug-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-08-29 07:29 ansible-role-debug-master/README.md
+drwxrwxr-x root/root         0 2016-08-29 07:29 ansible-role-debug-master/meta/
+-rw-rw-r-- root/root      2247 2016-08-29 07:29 ansible-role-debug-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-29 07:29 ansible-role-debug-master/tasks/
+-rw-rw-r-- root/root       278 2016-08-29 07:29 ansible-role-debug-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-29 07:29 ansible-role-debug-master/tests/
+-rw-rw-r-- root/root       507 2016-08-29 07:29 ansible-role-debug-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1121 2016-08-29 07:29 ansible-role-debug-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root         9 2016-08-29 07:29 ansible-role-debug-master/tests/inventory
+-rw-rw-r-- root/root       145 2016-08-29 07:29 ansible-role-debug-master/tests/test.yml

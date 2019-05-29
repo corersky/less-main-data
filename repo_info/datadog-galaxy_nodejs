@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-09 07:02 nodejs-master/
+-rw-rw-r-- root/root       539 2018-08-09 07:02 nodejs-master/.travis.yml
+-rw-rw-r-- root/root       426 2018-08-09 07:02 nodejs-master/README.md
+drwxrwxr-x root/root         0 2018-08-09 07:02 nodejs-master/defaults/
+-rw-rw-r-- root/root        31 2018-08-09 07:02 nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-09 07:02 nodejs-master/handlers/
+-rw-rw-r-- root/root       119 2018-08-09 07:02 nodejs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-09 07:02 nodejs-master/meta/
+-rw-rw-r-- root/root       240 2018-08-09 07:02 nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-09 07:02 nodejs-master/tasks/
+-rw-rw-r-- root/root       840 2018-08-09 07:02 nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-09 07:02 nodejs-master/tests/
+-rw-rw-r-- root/root         9 2018-08-09 07:02 nodejs-master/tests/inventory
+-rw-rw-r-- root/root        63 2018-08-09 07:02 nodejs-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-09 07:02 nodejs-master/vars/
+-rw-rw-r-- root/root        27 2018-08-09 07:02 nodejs-master/vars/main.yml

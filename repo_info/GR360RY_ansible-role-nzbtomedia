@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-16 22:01 ansible-role-nzbtomedia-master/
+-rw-rw-r-- root/root      3173 2016-03-16 22:01 ansible-role-nzbtomedia-master/README.md
+drwxrwxr-x root/root         0 2016-03-16 22:01 ansible-role-nzbtomedia-master/defaults/
+-rw-rw-r-- root/root        93 2016-03-16 22:01 ansible-role-nzbtomedia-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-16 22:01 ansible-role-nzbtomedia-master/handlers/
+-rw-rw-r-- root/root        35 2016-03-16 22:01 ansible-role-nzbtomedia-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-16 22:01 ansible-role-nzbtomedia-master/meta/
+-rw-rw-r-- root/root       263 2016-03-16 22:01 ansible-role-nzbtomedia-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-16 22:01 ansible-role-nzbtomedia-master/tasks/
+-rw-rw-r-- root/root       838 2016-03-16 22:01 ansible-role-nzbtomedia-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-16 22:01 ansible-role-nzbtomedia-master/templates/
+-rw-rw-r-- root/root     17292 2016-03-16 22:01 ansible-role-nzbtomedia-master/templates/autoProcessMedia.cfg.j2
+drwxrwxr-x root/root         0 2016-03-16 22:01 ansible-role-nzbtomedia-master/vars/
+-rw-rw-r-- root/root        31 2016-03-16 22:01 ansible-role-nzbtomedia-master/vars/main.yml

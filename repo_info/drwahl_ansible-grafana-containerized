@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-12-17 13:20 ansible-grafana-containerized-master/
+-rw-rw-r-- root/root        47 2018-12-17 13:20 ansible-grafana-containerized-master/README.md
+drwxrwxr-x root/root         0 2018-12-17 13:20 ansible-grafana-containerized-master/defaults/
+-rw-rw-r-- root/root       372 2018-12-17 13:20 ansible-grafana-containerized-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 13:20 ansible-grafana-containerized-master/files/
+-rw-rw-r-- root/root      2265 2018-12-17 13:20 ansible-grafana-containerized-master/files/ldap.toml
+drwxrwxr-x root/root         0 2018-12-17 13:20 ansible-grafana-containerized-master/meta/
+-rw-rw-r-- root/root       303 2018-12-17 13:20 ansible-grafana-containerized-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 13:20 ansible-grafana-containerized-master/tasks/
+-rw-rw-r-- root/root      1157 2018-12-17 13:20 ansible-grafana-containerized-master/tasks/main.yml

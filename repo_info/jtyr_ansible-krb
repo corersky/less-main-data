@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-07-20 06:37 ansible-krb-master/
+-rw-rw-r-- root/root         0 2016-07-20 06:37 ansible-krb-master/.gitignore
+-rw-rw-r-- root/root      1075 2016-07-20 06:37 ansible-krb-master/LICENSE
+-rw-rw-r-- root/root      5731 2016-07-20 06:37 ansible-krb-master/README.md
+drwxrwxr-x root/root         0 2016-07-20 06:37 ansible-krb-master/defaults/
+-rw-rw-r-- root/root      4684 2016-07-20 06:37 ansible-krb-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-07-20 06:37 ansible-krb-master/meta/
+-rw-rw-r-- root/root       265 2016-07-20 06:37 ansible-krb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-20 06:37 ansible-krb-master/tasks/
+-rw-rw-r-- root/root       216 2016-07-20 06:37 ansible-krb-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-07-20 06:37 ansible-krb-master/templates/
+-rw-rw-r-- root/root        80 2016-07-20 06:37 ansible-krb-master/templates/krb.conf.j2

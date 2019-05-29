@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-docker-machine-master/
+-rw-rw-r-- root/root        49 2019-05-15 17:38 ansible-docker-machine-master/.gitignore
+-rw-rw-r-- root/root       593 2019-05-15 17:38 ansible-docker-machine-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       691 2019-05-15 17:38 ansible-docker-machine-master/.travis.yml
+-rw-rw-r-- root/root      1084 2019-05-15 17:38 ansible-docker-machine-master/LICENSE
+-rw-rw-r-- root/root       700 2019-05-15 17:38 ansible-docker-machine-master/README.md
+-rw-rw-r-- root/root       312 2019-05-15 17:38 ansible-docker-machine-master/dcb-os.yml
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-docker-machine-master/defaults/
+-rw-rw-r-- root/root      3373 2019-05-15 17:38 ansible-docker-machine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-docker-machine-master/meta/
+-rw-rw-r-- root/root       541 2019-05-15 17:38 ansible-docker-machine-master/meta/main.yml
+-rw-rw-r-- root/root        49 2019-05-15 17:38 ansible-docker-machine-master/requirements.txt
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-docker-machine-master/tasks/
+-rw-rw-r-- root/root       469 2019-05-15 17:38 ansible-docker-machine-master/tasks/main.yml
+-rw-rw-r-- root/root        59 2019-05-15 17:38 ansible-docker-machine-master/test.yml
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-docker-machine-master/vars/
+-rw-rw-r-- root/root       443 2019-05-15 17:38 ansible-docker-machine-master/vars/main.yml

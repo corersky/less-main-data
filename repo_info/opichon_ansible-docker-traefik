@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-29 21:22 ansible-docker-traefik-master/
+-rw-rw-r-- root/root      1071 2018-08-29 21:22 ansible-docker-traefik-master/LICENSE
+-rw-rw-r-- root/root       934 2018-08-29 21:22 ansible-docker-traefik-master/README.md
+drwxrwxr-x root/root         0 2018-08-29 21:22 ansible-docker-traefik-master/defaults/
+-rw-rw-r-- root/root       481 2018-08-29 21:22 ansible-docker-traefik-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-29 21:22 ansible-docker-traefik-master/files/
+-rw-rw-r-- root/root         0 2018-08-29 21:22 ansible-docker-traefik-master/files/acme.json
+drwxrwxr-x root/root         0 2018-08-29 21:22 ansible-docker-traefik-master/meta/
+-rw-rw-r-- root/root       401 2018-08-29 21:22 ansible-docker-traefik-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-29 21:22 ansible-docker-traefik-master/tasks/
+-rw-rw-r-- root/root      1230 2018-08-29 21:22 ansible-docker-traefik-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-29 21:22 ansible-docker-traefik-master/templates/
+-rw-rw-r-- root/root      1596 2018-08-29 21:22 ansible-docker-traefik-master/templates/traefik.toml.j2

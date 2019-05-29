@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-docker-couchdb-master/
+-rw-rw-r-- root/root         4 2016-11-23 22:24 ansible-docker-couchdb-master/.gitignore
+-rw-rw-r-- root/root      1084 2016-11-23 22:24 ansible-docker-couchdb-master/LICENSE
+-rw-rw-r-- root/root       308 2016-11-23 22:24 ansible-docker-couchdb-master/README.md
+-rw-rw-r-- root/root       895 2016-11-23 22:24 ansible-docker-couchdb-master/circle.yml
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-docker-couchdb-master/defaults/
+-rw-rw-r-- root/root       235 2016-11-23 22:24 ansible-docker-couchdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-docker-couchdb-master/meta/
+-rw-rw-r-- root/root       429 2016-11-23 22:24 ansible-docker-couchdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-docker-couchdb-master/tasks/
+-rw-rw-r-- root/root      1486 2016-11-23 22:24 ansible-docker-couchdb-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2016-11-23 22:24 ansible-docker-couchdb-master/test.yml
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-docker-couchdb-master/vars/
+-rw-rw-r-- root/root         4 2016-11-23 22:24 ansible-docker-couchdb-master/vars/main.yml

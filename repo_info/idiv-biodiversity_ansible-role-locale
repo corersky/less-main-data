@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-17 04:50 ansible-role-locale-master/
+-rw-rw-r-- root/root      1115 2018-08-17 04:50 ansible-role-locale-master/LICENSE
+-rw-rw-r-- root/root      2068 2018-08-17 04:50 ansible-role-locale-master/README.md
+drwxrwxr-x root/root         0 2018-08-17 04:50 ansible-role-locale-master/meta/
+-rw-rw-r-- root/root       394 2018-08-17 04:50 ansible-role-locale-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-17 04:50 ansible-role-locale-master/tasks/
+-rw-rw-r-- root/root       748 2018-08-17 04:50 ansible-role-locale-master/tasks/main.yml
+-rw-rw-r-- root/root       366 2018-08-17 04:50 ansible-role-locale-master/tasks/sysconfig.yml
+-rw-rw-r-- root/root       346 2018-08-17 04:50 ansible-role-locale-master/tasks/systemd.yml
+drwxrwxr-x root/root         0 2018-08-17 04:50 ansible-role-locale-master/templates/
+-rw-rw-r-- root/root       218 2018-08-17 04:50 ansible-role-locale-master/templates/i18n.conf.j2
+-rw-rw-r-- root/root       473 2018-08-17 04:50 ansible-role-locale-master/templates/keyboard.conf.j2
+-rw-rw-r-- root/root       107 2018-08-17 04:50 ansible-role-locale-master/templates/locale.conf.j2
+-rw-rw-r-- root/root       354 2018-08-17 04:50 ansible-role-locale-master/templates/vconsole.conf.j2

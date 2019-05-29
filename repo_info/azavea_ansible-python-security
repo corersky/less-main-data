@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-12 16:21 ansible-python-security-master/
+-rw-rw-r-- root/root        58 2018-02-12 16:21 ansible-python-security-master/.gitignore
+-rw-rw-r-- root/root        94 2018-02-12 16:21 ansible-python-security-master/CHANGELOG.md
+-rw-rw-r-- root/root     11357 2018-02-12 16:21 ansible-python-security-master/LICENSE
+-rw-rw-r-- root/root      1230 2018-02-12 16:21 ansible-python-security-master/README.md
+drwxrwxr-x root/root         0 2018-02-12 16:21 ansible-python-security-master/defaults/
+-rw-rw-r-- root/root        45 2018-02-12 16:21 ansible-python-security-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-12 16:21 ansible-python-security-master/meta/
+-rw-rw-r-- root/root       348 2018-02-12 16:21 ansible-python-security-master/meta/main.yml
+-rw-rw-r-- root/root       613 2018-02-12 16:21 ansible-python-security-master/molecule.yml
+-rw-rw-r-- root/root       149 2018-02-12 16:21 ansible-python-security-master/playbook.yml
+-rw-rw-r-- root/root        58 2018-02-12 16:21 ansible-python-security-master/roles.yml
+drwxrwxr-x root/root         0 2018-02-12 16:21 ansible-python-security-master/tasks/
+-rw-rw-r-- root/root       128 2018-02-12 16:21 ansible-python-security-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-12 16:21 ansible-python-security-master/tests/
+-rw-rw-r-- root/root      1420 2018-02-12 16:21 ansible-python-security-master/tests/test_modules.py

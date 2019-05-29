@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-02 14:44 ansible-redis-master/
+-rw-rw-r-- root/root      1073 2017-12-02 14:44 ansible-redis-master/LICENSE
+-rw-rw-r-- root/root      1019 2017-12-02 14:44 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2017-12-02 14:44 ansible-redis-master/defaults/
+-rw-rw-r-- root/root       348 2017-12-02 14:44 ansible-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-02 14:44 ansible-redis-master/meta/
+-rw-rw-r-- root/root       326 2017-12-02 14:44 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-02 14:44 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       257 2017-12-02 14:44 ansible-redis-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       881 2017-12-02 14:44 ansible-redis-master/tasks/install.yml
+-rw-rw-r-- root/root       278 2017-12-02 14:44 ansible-redis-master/tasks/main.yml
+-rw-rw-r-- root/root       191 2017-12-02 14:44 ansible-redis-master/tasks/user.yml
+drwxrwxr-x root/root         0 2017-12-02 14:44 ansible-redis-master/tests/
+-rw-rw-r-- root/root        11 2017-12-02 14:44 ansible-redis-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-12-02 14:44 ansible-redis-master/tests/test.yml

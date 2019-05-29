@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-04-29 05:13 ansible-hostname-master/
+-rw-rw-r-- root/root         6 2016-04-29 05:13 ansible-hostname-master/.gitignore
+-rw-rw-r-- root/root      1057 2016-04-29 05:13 ansible-hostname-master/LICENSE
+-rw-rw-r-- root/root       525 2016-04-29 05:13 ansible-hostname-master/README.md
+drwxrwxr-x root/root         0 2016-04-29 05:13 ansible-hostname-master/defaults/
+-rw-rw-r-- root/root        86 2016-04-29 05:13 ansible-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-29 05:13 ansible-hostname-master/meta/
+-rw-rw-r-- root/root       313 2016-04-29 05:13 ansible-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-29 05:13 ansible-hostname-master/tasks/
+-rw-rw-r-- root/root       760 2016-04-29 05:13 ansible-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-29 05:13 ansible-hostname-master/vars/
+-rw-rw-r-- root/root        29 2016-04-29 05:13 ansible-hostname-master/vars/main.yml

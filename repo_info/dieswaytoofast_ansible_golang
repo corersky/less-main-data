@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-20 17:25 ansible_golang-master/
+-rw-rw-r-- root/root        26 2017-03-20 17:25 ansible_golang-master/.gitignore
+-rw-rw-r-- root/root      1744 2017-03-20 17:25 ansible_golang-master/README.md
+drwxrwxr-x root/root         0 2017-03-20 17:25 ansible_golang-master/defaults/
+-rw-rw-r-- root/root       453 2017-03-20 17:25 ansible_golang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-20 17:25 ansible_golang-master/meta/
+-rw-rw-r-- root/root       577 2017-03-20 17:25 ansible_golang-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-20 17:25 ansible_golang-master/tasks/
+-rw-rw-r-- root/root      3515 2017-03-20 17:25 ansible_golang-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-20 17:25 ansible_golang-master/templates/
+-rw-rw-r-- root/root       153 2017-03-20 17:25 ansible_golang-master/templates/go_vars.sh.j2
+drwxrwxr-x root/root         0 2017-03-20 17:25 ansible_golang-master/vars/
+-rw-rw-r-- root/root         4 2017-03-20 17:25 ansible_golang-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-18 13:23 ansible-role-docker-compose-master/
+-rw-rw-r-- root/root       304 2016-08-18 13:23 ansible-role-docker-compose-master/.drone.yml
+-rw-rw-r-- root/root       568 2016-08-18 13:23 ansible-role-docker-compose-master/.travis.yml
+-rw-rw-r-- root/root      1137 2016-08-18 13:23 ansible-role-docker-compose-master/README.md
+drwxrwxr-x root/root         0 2016-08-18 13:23 ansible-role-docker-compose-master/defaults/
+-rw-rw-r-- root/root       160 2016-08-18 13:23 ansible-role-docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-18 13:23 ansible-role-docker-compose-master/meta/
+-rw-rw-r-- root/root       470 2016-08-18 13:23 ansible-role-docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-18 13:23 ansible-role-docker-compose-master/tasks/
+-rw-rw-r-- root/root       547 2016-08-18 13:23 ansible-role-docker-compose-master/tasks/main.yml
+-rw-rw-r-- root/root       487 2016-08-18 13:23 ansible-role-docker-compose-master/tasks/packages-apt.yml
+-rw-rw-r-- root/root       141 2016-08-18 13:23 ansible-role-docker-compose-master/tasks/packages-yum.yml
+drwxrwxr-x root/root         0 2016-08-18 13:23 ansible-role-docker-compose-master/tests/
+-rw-rw-r-- root/root        35 2016-08-18 13:23 ansible-role-docker-compose-master/tests/inventory
+-rw-rw-r-- root/root       375 2016-08-18 13:23 ansible-role-docker-compose-master/tests/main.yml
+drwxrwxr-x root/root         0 2016-08-18 13:23 ansible-role-docker-compose-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-08-18 13:23 ansible-role-docker-compose-master/tests/roles/pauvos.docker-compose -> ../../

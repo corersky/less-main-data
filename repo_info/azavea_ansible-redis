@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2014-10-07 15:30 ansible-redis-master/
+-rw-rw-r-- root/root         9 2014-10-07 15:30 ansible-redis-master/.gitignore
+-rw-rw-r-- root/root        29 2014-10-07 15:30 ansible-redis-master/CHANGELOG.md
+-rw-rw-r-- root/root       323 2014-10-07 15:30 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2014-10-07 15:30 ansible-redis-master/defaults/
+-rw-rw-r-- root/root        80 2014-10-07 15:30 ansible-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-07 15:30 ansible-redis-master/examples/
+-rw-rw-r-- root/root       278 2014-10-07 15:30 ansible-redis-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-10-07 15:30 ansible-redis-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-10-07 15:30 ansible-redis-master/examples/roles/azavea.redis -> ../../
+-rw-rw-r-- root/root        57 2014-10-07 15:30 ansible-redis-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-10-07 15:30 ansible-redis-master/handlers/
+-rw-rw-r-- root/root        71 2014-10-07 15:30 ansible-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-07 15:30 ansible-redis-master/meta/
+-rw-rw-r-- root/root       269 2014-10-07 15:30 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-07 15:30 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       196 2014-10-07 15:30 ansible-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-07 15:30 ansible-redis-master/templates/
+-rw-rw-r-- root/root     30191 2014-10-07 15:30 ansible-redis-master/templates/redis.conf.j2

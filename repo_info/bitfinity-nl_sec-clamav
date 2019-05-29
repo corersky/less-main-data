@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-clamav-master/
+-rw-rw-r-- root/root     35147 2018-11-13 10:24 sec-clamav-master/LICENSE
+-rw-rw-r-- root/root       839 2018-11-13 10:24 sec-clamav-master/README.md
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-clamav-master/defaults/
+-rw-rw-r-- root/root       358 2018-11-13 10:24 sec-clamav-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-clamav-master/meta/
+-rw-rw-r-- root/root       278 2018-11-13 10:24 sec-clamav-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-clamav-master/tasks/
+-rw-rw-r-- root/root      1633 2018-11-13 10:24 sec-clamav-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-clamav-master/templates/
+-rw-rw-r-- root/root       902 2018-11-13 10:24 sec-clamav-master/templates/scan.sh.j2

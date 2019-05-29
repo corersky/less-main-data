@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/
+drwxrwxr-x root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/.github/
+-rw-rw-r-- root/root       406 2018-04-18 21:24 ansible-role-php-memcached-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root        44 2018-04-18 21:24 ansible-role-php-memcached-master/.gitignore
+-rw-rw-r-- root/root       495 2018-04-18 21:24 ansible-role-php-memcached-master/.travis.yml
+-rw-rw-r-- root/root       849 2018-04-18 21:24 ansible-role-php-memcached-master/README.md
+drwxrwxr-x root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/defaults/
+-rw-rw-r-- root/root        93 2018-04-18 21:24 ansible-role-php-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/files/
+-rw-rw-r-- root/root        22 2018-04-18 21:24 ansible-role-php-memcached-master/files/igbinary.ini
+-rw-rw-r-- root/root        23 2018-04-18 21:24 ansible-role-php-memcached-master/files/memcached.ini
+drwxrwxr-x root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/meta/
+-rw-rw-r-- root/root       337 2018-04-18 21:24 ansible-role-php-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/tasks/
+-rw-rw-r-- root/root      2206 2018-04-18 21:24 ansible-role-php-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/tests/
+-rw-rw-r-- root/root       525 2018-04-18 21:24 ansible-role-php-memcached-master/tests/Vagrantfile
+-rw-rw-r-- root/root        10 2018-04-18 21:24 ansible-role-php-memcached-master/tests/inventory
+-rw-rw-r-- root/root        47 2018-04-18 21:24 ansible-role-php-memcached-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-04-18 21:24 ansible-role-php-memcached-master/tests/roles/php-memcached -> ../..
+-rw-rw-r-- root/root       288 2018-04-18 21:24 ansible-role-php-memcached-master/tests/test.yml

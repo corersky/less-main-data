@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-27 12:09 ansible-bareos-fd-master/
+-rw-rw-r-- root/root       908 2017-09-27 12:09 ansible-bareos-fd-master/README.md
+drwxrwxr-x root/root         0 2017-09-27 12:09 ansible-bareos-fd-master/defaults/
+-rw-rw-r-- root/root       168 2017-09-27 12:09 ansible-bareos-fd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-27 12:09 ansible-bareos-fd-master/handlers/
+-rw-rw-r-- root/root        72 2017-09-27 12:09 ansible-bareos-fd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-27 12:09 ansible-bareos-fd-master/meta/
+-rw-rw-r-- root/root       258 2017-09-27 12:09 ansible-bareos-fd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-27 12:09 ansible-bareos-fd-master/tasks/
+-rw-rw-r-- root/root      1225 2017-09-27 12:09 ansible-bareos-fd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-27 12:09 ansible-bareos-fd-master/templates/
+-rw-rw-r-- root/root       114 2017-09-27 12:09 ansible-bareos-fd-master/templates/client.conf.j2
+-rw-rw-r-- root/root        75 2017-09-27 12:09 ansible-bareos-fd-master/templates/director.conf.j2
+drwxrwxr-x root/root         0 2017-09-27 12:09 ansible-bareos-fd-master/vars/
+-rw-rw-r-- root/root        29 2017-09-27 12:09 ansible-bareos-fd-master/vars/main.yml

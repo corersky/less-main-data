@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-03 14:46 dev-ivantory-master/
+-rw-rw-r-- root/root        80 2019-05-03 14:46 dev-ivantory-master/.gitignore
+-rw-rw-r-- root/root      3859 2019-05-03 14:46 dev-ivantory-master/README.md
+drwxrwxr-x root/root         0 2019-05-03 14:46 dev-ivantory-master/defaults/
+-rw-rw-r-- root/root       763 2019-05-03 14:46 dev-ivantory-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-03 14:46 dev-ivantory-master/meta/
+-rw-rw-r-- root/root       471 2019-05-03 14:46 dev-ivantory-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-03 14:46 dev-ivantory-master/tasks/
+-rw-rw-r-- root/root      2551 2019-05-03 14:46 dev-ivantory-master/tasks/main.yml
+-rw-rw-r-- root/root      3068 2019-05-03 14:46 dev-ivantory-master/tasks/transcrypt.yml
+drwxrwxr-x root/root         0 2019-05-03 14:46 dev-ivantory-master/tests/
+-rw-rw-r-- root/root        11 2019-05-03 14:46 dev-ivantory-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-05-03 14:46 dev-ivantory-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-03 14:46 dev-ivantory-master/vars/
+-rw-rw-r-- root/root        34 2019-05-03 14:46 dev-ivantory-master/vars/main.yml

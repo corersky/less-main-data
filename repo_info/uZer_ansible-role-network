@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-10-12 09:02 ansible-role-network-master/
+-rw-rw-r-- root/root        14 2017-10-12 09:02 ansible-role-network-master/.gitignore
+-rw-rw-r-- root/root        77 2017-10-12 09:02 ansible-role-network-master/README.md
+drwxrwxr-x root/root         0 2017-10-12 09:02 ansible-role-network-master/defaults/
+-rw-rw-r-- root/root       102 2017-10-12 09:02 ansible-role-network-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:02 ansible-role-network-master/handlers/
+-rw-rw-r-- root/root        22 2017-10-12 09:02 ansible-role-network-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:02 ansible-role-network-master/meta/
+-rw-rw-r-- root/root      2603 2017-10-12 09:02 ansible-role-network-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:02 ansible-role-network-master/tasks/
+-rw-rw-r-- root/root      1888 2017-10-12 09:02 ansible-role-network-master/tasks/main.yml

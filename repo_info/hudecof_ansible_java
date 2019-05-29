@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-10-27 07:14 ansible_java-master/
+-rw-rw-r-- root/root        15 2015-10-27 07:14 ansible_java-master/.gitignore
+-rw-rw-r-- root/root      1898 2015-10-27 07:14 ansible_java-master/README.md
+drwxrwxr-x root/root         0 2015-10-27 07:14 ansible_java-master/defaults/
+-rw-rw-r-- root/root       577 2015-10-27 07:14 ansible_java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-27 07:14 ansible_java-master/meta/
+-rw-rw-r-- root/root       431 2015-10-27 07:14 ansible_java-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-27 07:14 ansible_java-master/tasks/
+-rw-rw-r-- root/root       573 2015-10-27 07:14 ansible_java-master/tasks/config.yml
+-rw-rw-r-- root/root       179 2015-10-27 07:14 ansible_java-master/tasks/main.yml
+-rw-rw-r-- root/root       365 2015-10-27 07:14 ansible_java-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       741 2015-10-27 07:14 ansible_java-master/tasks/setup-common.yml

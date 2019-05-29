@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-08 22:24 ansible-role-runit-master/
+-rw-rw-r-- root/root        65 2018-03-08 22:24 ansible-role-runit-master/README.md
+drwxrwxr-x root/root         0 2018-03-08 22:24 ansible-role-runit-master/defaults/
+-rw-rw-r-- root/root       351 2018-03-08 22:24 ansible-role-runit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-08 22:24 ansible-role-runit-master/files/
+-rw-rw-r-- root/root       725 2018-03-08 22:24 ansible-role-runit-master/files/runit.service
+drwxrwxr-x root/root         0 2018-03-08 22:24 ansible-role-runit-master/handlers/
+-rw-rw-r-- root/root        56 2018-03-08 22:24 ansible-role-runit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-08 22:24 ansible-role-runit-master/library/
+-rw-rw-r-- root/root     18052 2018-03-08 22:24 ansible-role-runit-master/library/runit_service.py
+drwxrwxr-x root/root         0 2018-03-08 22:24 ansible-role-runit-master/meta/
+-rw-rw-r-- root/root       278 2018-03-08 22:24 ansible-role-runit-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-08 22:24 ansible-role-runit-master/tasks/
+-rw-rw-r-- root/root       871 2018-03-08 22:24 ansible-role-runit-master/tasks/install.yml
+-rw-rw-r-- root/root        50 2018-03-08 22:24 ansible-role-runit-master/tasks/main.yml
+-rw-rw-r-- root/root       988 2018-03-08 22:24 ansible-role-runit-master/tasks/service.yml

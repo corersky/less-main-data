@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-14 13:49 ansible-role-secure-sshd-master/
+-rw-rw-r-- root/root       214 2019-02-14 13:49 ansible-role-secure-sshd-master/.editorconfig
+-rw-rw-r-- root/root        75 2019-02-14 13:49 ansible-role-secure-sshd-master/.gitattributes
+-rw-rw-r-- root/root      1133 2019-02-14 13:49 ansible-role-secure-sshd-master/LICENSE.md
+-rw-rw-r-- root/root      1637 2019-02-14 13:49 ansible-role-secure-sshd-master/README.md
+drwxrwxr-x root/root         0 2019-02-14 13:49 ansible-role-secure-sshd-master/defaults/
+-rw-rw-r-- root/root      1002 2019-02-14 13:49 ansible-role-secure-sshd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-14 13:49 ansible-role-secure-sshd-master/handlers/
+-rw-rw-r-- root/root        72 2019-02-14 13:49 ansible-role-secure-sshd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-14 13:49 ansible-role-secure-sshd-master/meta/
+-rw-rw-r-- root/root       320 2019-02-14 13:49 ansible-role-secure-sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-14 13:49 ansible-role-secure-sshd-master/tasks/
+-rw-rw-r-- root/root       457 2019-02-14 13:49 ansible-role-secure-sshd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-14 13:49 ansible-role-secure-sshd-master/templates/
+-rw-rw-r-- root/root       489 2019-02-14 13:49 ansible-role-secure-sshd-master/templates/sshd_config.j2

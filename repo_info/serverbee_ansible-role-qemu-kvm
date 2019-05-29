@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-01 10:39 ansible-role-qemu-kvm-master/
+-rw-rw-r-- root/root      1403 2019-04-01 10:39 ansible-role-qemu-kvm-master/README.md
+drwxrwxr-x root/root         0 2019-04-01 10:39 ansible-role-qemu-kvm-master/defaults/
+-rw-rw-r-- root/root       244 2019-04-01 10:39 ansible-role-qemu-kvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:39 ansible-role-qemu-kvm-master/files/
+drwxrwxr-x root/root         0 2019-04-01 10:39 ansible-role-qemu-kvm-master/files/etc/
+drwxrwxr-x root/root         0 2019-04-01 10:39 ansible-role-qemu-kvm-master/files/etc/yum.repos.d/
+-rw-rw-r-- root/root       205 2019-04-01 10:39 ansible-role-qemu-kvm-master/files/etc/yum.repos.d/virt7-kvm-common-candidate.repo
+drwxrwxr-x root/root         0 2019-04-01 10:39 ansible-role-qemu-kvm-master/meta/
+-rw-rw-r-- root/root       322 2019-04-01 10:39 ansible-role-qemu-kvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:39 ansible-role-qemu-kvm-master/tasks/
+-rw-rw-r-- root/root       724 2019-04-01 10:39 ansible-role-qemu-kvm-master/tasks/configure.yml
+-rw-rw-r-- root/root       546 2019-04-01 10:39 ansible-role-qemu-kvm-master/tasks/install.yml
+-rw-rw-r-- root/root       105 2019-04-01 10:39 ansible-role-qemu-kvm-master/tasks/main.yml

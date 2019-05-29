@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-16 13:28 omz-master/
+-rw-rw-r-- root/root       449 2019-05-16 13:28 omz-master/.travis.yml
+-rw-rw-r-- root/root      1368 2019-05-16 13:28 omz-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 13:28 omz-master/defaults/
+-rw-rw-r-- root/root       586 2019-05-16 13:28 omz-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 13:28 omz-master/meta/
+-rw-rw-r-- root/root       486 2019-05-16 13:28 omz-master/meta/main.yml
+-rw-rw-r-- root/root        92 2019-05-16 13:28 omz-master/omz.yml
+drwxrwxr-x root/root         0 2019-05-16 13:28 omz-master/tasks/
+-rw-rw-r-- root/root      1653 2019-05-16 13:28 omz-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 13:28 omz-master/templates/
+-rw-rw-r-- root/root      2499 2019-05-16 13:28 omz-master/templates/zshrc.j2
+drwxrwxr-x root/root         0 2019-05-16 13:28 omz-master/tests/
+-rw-rw-r-- root/root        10 2019-05-16 13:28 omz-master/tests/inventory
+-rw-rw-r-- root/root        62 2019-05-16 13:28 omz-master/tests/test.yml

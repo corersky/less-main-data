@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-20 16:41 ntp-master/
+-rw-rw-r-- root/root      1328 2016-04-20 16:41 ntp-master/README.md
+drwxrwxr-x root/root         0 2016-04-20 16:41 ntp-master/defaults/
+-rw-rw-r-- root/root       460 2016-04-20 16:41 ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-20 16:41 ntp-master/handlers/
+-rw-rw-r-- root/root        89 2016-04-20 16:41 ntp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-20 16:41 ntp-master/meta/
+-rw-rw-r-- root/root       376 2016-04-20 16:41 ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-20 16:41 ntp-master/tasks/
+-rw-rw-r-- root/root       579 2016-04-20 16:41 ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-20 16:41 ntp-master/templates/
+-rw-rw-r-- root/root       813 2016-04-20 16:41 ntp-master/templates/ntp.conf.j2
+drwxrwxr-x root/root         0 2016-04-20 16:41 ntp-master/vars/
+-rw-rw-r-- root/root        60 2016-04-20 16:41 ntp-master/vars/Debian.yml
+-rw-rw-r-- root/root        64 2016-04-20 16:41 ntp-master/vars/RedHat.yml
+-rw-rw-r-- root/root        23 2016-04-20 16:41 ntp-master/vars/main.yml

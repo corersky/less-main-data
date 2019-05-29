@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-05 15:52 ansible-python-master/
+-rw-rw-r-- root/root         9 2017-12-05 15:52 ansible-python-master/.gitignore
+-rw-rw-r-- root/root        29 2017-12-05 15:52 ansible-python-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-12-05 15:52 ansible-python-master/LICENSE
+-rw-rw-r-- root/root       274 2017-12-05 15:52 ansible-python-master/README.md
+drwxrwxr-x root/root         0 2017-12-05 15:52 ansible-python-master/defaults/
+-rw-rw-r-- root/root        54 2017-12-05 15:52 ansible-python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-05 15:52 ansible-python-master/examples/
+-rw-rw-r-- root/root       278 2017-12-05 15:52 ansible-python-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2017-12-05 15:52 ansible-python-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-12-05 15:52 ansible-python-master/examples/roles/azavea.python -> ../../
+-rw-rw-r-- root/root        58 2017-12-05 15:52 ansible-python-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-12-05 15:52 ansible-python-master/meta/
+-rw-rw-r-- root/root        59 2017-12-05 15:52 ansible-python-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       319 2017-12-05 15:52 ansible-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-05 15:52 ansible-python-master/tasks/
+-rw-rw-r-- root/root       297 2017-12-05 15:52 ansible-python-master/tasks/main.yml

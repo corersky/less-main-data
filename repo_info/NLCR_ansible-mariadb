@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-08-30 08:05 ansible-mariadb-master/
+-rw-rw-r-- root/root       664 2017-08-30 08:05 ansible-mariadb-master/README.md
+drwxrwxr-x root/root         0 2017-08-30 08:05 ansible-mariadb-master/defaults/
+-rw-rw-r-- root/root        12 2017-08-30 08:05 ansible-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-30 08:05 ansible-mariadb-master/meta/
+-rw-rw-r-- root/root      1688 2017-08-30 08:05 ansible-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-30 08:05 ansible-mariadb-master/tasks/
+-rw-rw-r-- root/root      1467 2017-08-30 08:05 ansible-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-30 08:05 ansible-mariadb-master/tests/
+-rw-rw-r-- root/root        11 2017-08-30 08:05 ansible-mariadb-master/tests/inventory
+-rw-rw-r-- root/root        70 2017-08-30 08:05 ansible-mariadb-master/tests/test.yml

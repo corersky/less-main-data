@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-24 12:33 ansible-role-chrome-master/
+-rw-rw-r-- root/root       320 2018-02-24 12:33 ansible-role-chrome-master/.editorconfig
+-rw-rw-r-- root/root       839 2018-02-24 12:33 ansible-role-chrome-master/.gitattributes
+-rw-rw-r-- root/root        22 2018-02-24 12:33 ansible-role-chrome-master/.gitignore
+-rw-rw-r-- root/root      1228 2018-02-24 12:33 ansible-role-chrome-master/.travis.yml
+-rw-rw-r-- root/root      1070 2018-02-24 12:33 ansible-role-chrome-master/LICENSE
+-rw-rw-r-- root/root       274 2018-02-24 12:33 ansible-role-chrome-master/README.md
+drwxrwxr-x root/root         0 2018-02-24 12:33 ansible-role-chrome-master/files/
+-rw-rw-r-- root/root       173 2018-02-24 12:33 ansible-role-chrome-master/files/google-chrome.repo
+drwxrwxr-x root/root         0 2018-02-24 12:33 ansible-role-chrome-master/meta/
+-rw-rw-r-- root/root       226 2018-02-24 12:33 ansible-role-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-24 12:33 ansible-role-chrome-master/tasks/
+-rw-rw-r-- root/root       219 2018-02-24 12:33 ansible-role-chrome-master/tasks/RedHat.yml
+-rw-rw-r-- root/root        64 2018-02-24 12:33 ansible-role-chrome-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-24 12:33 ansible-role-chrome-master/tests/
+-rw-rw-r-- root/root       626 2018-02-24 12:33 ansible-role-chrome-master/tests/README.md
+-rw-rw-r-- root/root       184 2018-02-24 12:33 ansible-role-chrome-master/tests/test.yml

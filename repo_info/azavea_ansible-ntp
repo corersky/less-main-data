@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-09-16 12:50 ansible-ntp-master/
+-rw-rw-r-- root/root         9 2016-09-16 12:50 ansible-ntp-master/.gitignore
+-rw-rw-r-- root/root       196 2016-09-16 12:50 ansible-ntp-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-09-16 12:50 ansible-ntp-master/LICENSE
+-rw-rw-r-- root/root       248 2016-09-16 12:50 ansible-ntp-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 12:50 ansible-ntp-master/defaults/
+-rw-rw-r-- root/root       144 2016-09-16 12:50 ansible-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-16 12:50 ansible-ntp-master/examples/
+-rw-rw-r-- root/root       278 2016-09-16 12:50 ansible-ntp-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-09-16 12:50 ansible-ntp-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-09-16 12:50 ansible-ntp-master/examples/roles/azavea.ntp -> ../../
+-rw-rw-r-- root/root       127 2016-09-16 12:50 ansible-ntp-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-09-16 12:50 ansible-ntp-master/handlers/
+-rw-rw-r-- root/root        60 2016-09-16 12:50 ansible-ntp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-16 12:50 ansible-ntp-master/meta/
+-rw-rw-r-- root/root       259 2016-09-16 12:50 ansible-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 12:50 ansible-ntp-master/tasks/
+-rw-rw-r-- root/root       169 2016-09-16 12:50 ansible-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 12:50 ansible-ntp-master/templates/
+-rw-rw-r-- root/root      1311 2016-09-16 12:50 ansible-ntp-master/templates/ntp.conf.j2

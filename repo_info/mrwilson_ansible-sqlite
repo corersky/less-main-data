@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-03-27 16:42 ansible-sqlite-master/
+-rw-rw-r-- root/root       574 2014-03-27 16:42 ansible-sqlite-master/README.md
+drwxrwxr-x root/root         0 2014-03-27 16:42 ansible-sqlite-master/defaults/
+-rw-rw-r-- root/root        47 2014-03-27 16:42 ansible-sqlite-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-03-27 16:42 ansible-sqlite-master/meta/
+-rw-rw-r-- root/root       333 2014-03-27 16:42 ansible-sqlite-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-03-27 16:42 ansible-sqlite-master/tasks/
+-rw-rw-r-- root/root       763 2014-03-27 16:42 ansible-sqlite-master/tasks/main.yml
+-rw-rw-r-- root/root       100 2014-03-27 16:42 ansible-sqlite-master/test.yml
+drwxrwxr-x root/root         0 2014-03-27 16:42 ansible-sqlite-master/vars/
+-rw-rw-r-- root/root        24 2014-03-27 16:42 ansible-sqlite-master/vars/Debian.yml
+-rw-rw-r-- root/root        23 2014-03-27 16:42 ansible-sqlite-master/vars/RedHat.yml
+-rw-rw-r-- root/root        27 2014-03-27 16:42 ansible-sqlite-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-02 21:05 GceInstance-master/
+-rw-rw-r-- root/root       540 2017-11-02 21:05 GceInstance-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-11-02 21:05 GceInstance-master/LICENSE
+-rw-rw-r-- root/root       768 2017-11-02 21:05 GceInstance-master/README.md
+drwxrwxr-x root/root         0 2017-11-02 21:05 GceInstance-master/defaults/
+-rw-rw-r-- root/root       283 2017-11-02 21:05 GceInstance-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-02 21:05 GceInstance-master/handlers/
+-rw-rw-r-- root/root        35 2017-11-02 21:05 GceInstance-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-02 21:05 GceInstance-master/meta/
+-rw-rw-r-- root/root      3960 2017-11-02 21:05 GceInstance-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-02 21:05 GceInstance-master/tasks/
+-rw-rw-r-- root/root      2068 2017-11-02 21:05 GceInstance-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-02 21:05 GceInstance-master/tests/
+-rw-rw-r-- root/root         9 2017-11-02 21:05 GceInstance-master/tests/inventory
+-rw-rw-r-- root/root        70 2017-11-02 21:05 GceInstance-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-02 21:05 GceInstance-master/vars/
+-rw-rw-r-- root/root        31 2017-11-02 21:05 GceInstance-master/vars/main.yml

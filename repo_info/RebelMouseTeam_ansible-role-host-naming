@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-02-28 07:26 ansible-role-host-naming-master/
+-rw-rw-r-- root/root        17 2018-02-28 07:26 ansible-role-host-naming-master/.gitignore
+-rw-rw-r-- root/root      1927 2018-02-28 07:26 ansible-role-host-naming-master/README.md
+drwxrwxr-x root/root         0 2018-02-28 07:26 ansible-role-host-naming-master/defaults/
+-rw-rw-r-- root/root       219 2018-02-28 07:26 ansible-role-host-naming-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-28 07:26 ansible-role-host-naming-master/files/
+-rwxrwxr-x root/root      5642 2018-02-28 07:26 ansible-role-host-naming-master/files/host_naming.py
+drwxrwxr-x root/root         0 2018-02-28 07:26 ansible-role-host-naming-master/meta/
+-rw-rw-r-- root/root       252 2018-02-28 07:26 ansible-role-host-naming-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-28 07:26 ansible-role-host-naming-master/tasks/
+-rw-rw-r-- root/root      1499 2018-02-28 07:26 ansible-role-host-naming-master/tasks/main.yml

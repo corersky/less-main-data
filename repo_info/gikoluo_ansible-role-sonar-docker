@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-22 20:41 ansible-role-sonar-docker-master/
+-rw-rw-r-- root/root      1544 2017-02-22 20:41 ansible-role-sonar-docker-master/.travis.yml
+-rw-rw-r-- root/root       735 2017-02-22 20:41 ansible-role-sonar-docker-master/README.md
+drwxrwxr-x root/root         0 2017-02-22 20:41 ansible-role-sonar-docker-master/defaults/
+-rw-rw-r-- root/root       739 2017-02-22 20:41 ansible-role-sonar-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-22 20:41 ansible-role-sonar-docker-master/handlers/
+-rw-rw-r-- root/root       181 2017-02-22 20:41 ansible-role-sonar-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-22 20:41 ansible-role-sonar-docker-master/meta/
+-rw-rw-r-- root/root       399 2017-02-22 20:41 ansible-role-sonar-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-22 20:41 ansible-role-sonar-docker-master/tasks/
+-rw-rw-r-- root/root      1436 2017-02-22 20:41 ansible-role-sonar-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-22 20:41 ansible-role-sonar-docker-master/tests/
+-rw-rw-r-- root/root        10 2017-02-22 20:41 ansible-role-sonar-docker-master/tests/inventory
+-rw-rw-r-- root/root        27 2017-02-22 20:41 ansible-role-sonar-docker-master/tests/requirements.yml
+-rw-rw-r-- root/root       106 2017-02-22 20:41 ansible-role-sonar-docker-master/tests/test.yml

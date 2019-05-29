@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-15 01:17 ansible-backuptools-master/
+-rw-rw-r-- root/root       539 2018-11-15 01:17 ansible-backuptools-master/.travis.yml
+-rw-rw-r-- root/root       268 2018-11-15 01:17 ansible-backuptools-master/README.md
+drwxrwxr-x root/root         0 2018-11-15 01:17 ansible-backuptools-master/defaults/
+-rw-rw-r-- root/root        44 2018-11-15 01:17 ansible-backuptools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-15 01:17 ansible-backuptools-master/handlers/
+-rw-rw-r-- root/root        44 2018-11-15 01:17 ansible-backuptools-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-15 01:17 ansible-backuptools-master/meta/
+-rw-rw-r-- root/root       381 2018-11-15 01:17 ansible-backuptools-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-15 01:17 ansible-backuptools-master/tasks/
+-rw-rw-r-- root/root       482 2018-11-15 01:17 ansible-backuptools-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-15 01:17 ansible-backuptools-master/tests/
+-rw-rw-r-- root/root         9 2018-11-15 01:17 ansible-backuptools-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-11-15 01:17 ansible-backuptools-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-15 01:17 ansible-backuptools-master/vars/
+-rw-rw-r-- root/root        40 2018-11-15 01:17 ansible-backuptools-master/vars/main.yml

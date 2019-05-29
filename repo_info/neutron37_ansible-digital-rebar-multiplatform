@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/
+-rw-rw-r-- root/root        10 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/.gitignore
+-rw-rw-r-- root/root      1268 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/README.md
+drwxrwxr-x root/root         0 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/defaults/
+-rw-rw-r-- root/root       240 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/handlers/
+-rw-rw-r-- root/root       146 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/meta/
+-rw-rw-r-- root/root      1359 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/tasks/
+-rw-rw-r-- root/root       822 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/tasks/install.yml
+-rw-rw-r-- root/root       344 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/tests/
+-rw-rw-r-- root/root        11 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/tests/inventory
+-rw-rw-r-- root/root        94 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/vars/
+-rw-rw-r-- root/root       286 2019-04-15 04:41 ansible-digital-rebar-multiplatform-master/vars/main.yml

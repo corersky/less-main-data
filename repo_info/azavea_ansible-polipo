@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2014-10-29 10:12 ansible-polipo-master/
+-rw-rw-r-- root/root         9 2014-10-29 10:12 ansible-polipo-master/.gitignore
+-rw-rw-r-- root/root        29 2014-10-29 10:12 ansible-polipo-master/CHANGELOG.md
+-rw-rw-r-- root/root       604 2014-10-29 10:12 ansible-polipo-master/README.md
+drwxrwxr-x root/root         0 2014-10-29 10:12 ansible-polipo-master/defaults/
+-rw-rw-r-- root/root       173 2014-10-29 10:12 ansible-polipo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-29 10:12 ansible-polipo-master/examples/
+-rw-rw-r-- root/root       342 2014-10-29 10:12 ansible-polipo-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-10-29 10:12 ansible-polipo-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-10-29 10:12 ansible-polipo-master/examples/roles/azavea.polipo -> ../../
+-rw-rw-r-- root/root       222 2014-10-29 10:12 ansible-polipo-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-10-29 10:12 ansible-polipo-master/handlers/
+-rw-rw-r-- root/root        66 2014-10-29 10:12 ansible-polipo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-29 10:12 ansible-polipo-master/meta/
+-rw-rw-r-- root/root       270 2014-10-29 10:12 ansible-polipo-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-29 10:12 ansible-polipo-master/tasks/
+-rw-rw-r-- root/root       236 2014-10-29 10:12 ansible-polipo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-29 10:12 ansible-polipo-master/templates/
+-rw-rw-r-- root/root       454 2014-10-29 10:12 ansible-polipo-master/templates/config.j2
+-rw-rw-r-- root/root       172 2014-10-29 10:12 ansible-polipo-master/templates/options.j2

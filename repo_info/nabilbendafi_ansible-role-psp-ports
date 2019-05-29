@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-16 11:29 ansible-role-psp-ports-master/
+-rw-rw-r-- root/root      1080 2016-09-16 11:29 ansible-role-psp-ports-master/LICENSE.txt
+-rw-rw-r-- root/root       757 2016-09-16 11:29 ansible-role-psp-ports-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 11:29 ansible-role-psp-ports-master/defaults/
+-rw-rw-r-- root/root        12 2016-09-16 11:29 ansible-role-psp-ports-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-16 11:29 ansible-role-psp-ports-master/meta/
+-rw-rw-r-- root/root       330 2016-09-16 11:29 ansible-role-psp-ports-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 11:29 ansible-role-psp-ports-master/tasks/
+-rw-rw-r-- root/root       439 2016-09-16 11:29 ansible-role-psp-ports-master/tasks/lua.yml
+-rw-rw-r-- root/root       803 2016-09-16 11:29 ansible-role-psp-ports-master/tasks/main.yml
+-rw-rw-r-- root/root      4302 2016-09-16 11:29 ansible-role-psp-ports-master/tasks/ports.yml
+-rw-rw-r-- root/root      2168 2016-09-16 11:29 ansible-role-psp-ports-master/tasks/sdl.yml
+-rw-rw-r-- root/root       771 2016-09-16 11:29 ansible-role-psp-ports-master/tasks/sqlite.yml
+drwxrwxr-x root/root         0 2016-09-16 11:29 ansible-role-psp-ports-master/vars/
+-rw-rw-r-- root/root        28 2016-09-16 11:29 ansible-role-psp-ports-master/vars/main.yml

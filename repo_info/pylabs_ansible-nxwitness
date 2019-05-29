@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-11 20:16 ansible-nxwitness-master/
+-rw-rw-r-- root/root       261 2018-11-11 20:16 ansible-nxwitness-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 20:16 ansible-nxwitness-master/defaults/
+-rw-rw-r-- root/root        41 2018-11-11 20:16 ansible-nxwitness-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 20:16 ansible-nxwitness-master/handlers/
+-rw-rw-r-- root/root        41 2018-11-11 20:16 ansible-nxwitness-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-11 20:16 ansible-nxwitness-master/meta/
+-rw-rw-r-- root/root       297 2018-11-11 20:16 ansible-nxwitness-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 20:16 ansible-nxwitness-master/tasks/
+-rw-rw-r-- root/root       195 2018-11-11 20:16 ansible-nxwitness-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 20:16 ansible-nxwitness-master/tests/
+-rw-rw-r-- root/root        11 2018-11-11 20:16 ansible-nxwitness-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-11-11 20:16 ansible-nxwitness-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-11 20:16 ansible-nxwitness-master/vars/
+-rw-rw-r-- root/root        37 2018-11-11 20:16 ansible-nxwitness-master/vars/main.yml

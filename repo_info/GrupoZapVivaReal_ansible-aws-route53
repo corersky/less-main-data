@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-27 09:09 ansible-aws-route53-master/
+-rw-rw-r-- root/root      1344 2016-06-27 09:09 ansible-aws-route53-master/README.md
+-rw-rw-r-- root/root       464 2016-06-27 09:09 ansible-aws-route53-master/circle.yml
+drwxrwxr-x root/root         0 2016-06-27 09:09 ansible-aws-route53-master/defaults/
+-rw-rw-r-- root/root        36 2016-06-27 09:09 ansible-aws-route53-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-27 09:09 ansible-aws-route53-master/handlers/
+-rw-rw-r-- root/root        36 2016-06-27 09:09 ansible-aws-route53-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-27 09:09 ansible-aws-route53-master/meta/
+-rw-rw-r-- root/root       361 2016-06-27 09:09 ansible-aws-route53-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-27 09:09 ansible-aws-route53-master/tasks/
+-rw-rw-r-- root/root       452 2016-06-27 09:09 ansible-aws-route53-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-27 09:09 ansible-aws-route53-master/tests/
+-rw-rw-r-- root/root         9 2016-06-27 09:09 ansible-aws-route53-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-06-27 09:09 ansible-aws-route53-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-06-27 09:09 ansible-aws-route53-master/vars/
+-rw-rw-r-- root/root        32 2016-06-27 09:09 ansible-aws-route53-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-03-08 15:30 ansible-capistrano-master/
+-rw-rw-r-- root/root        43 2016-03-08 15:30 ansible-capistrano-master/.gitignore
+-rw-rw-r-- root/root       810 2016-03-08 15:30 ansible-capistrano-master/README.md
+-rw-rw-r-- root/root      1016 2016-03-08 15:30 ansible-capistrano-master/circle.yml
+drwxrwxr-x root/root         0 2016-03-08 15:30 ansible-capistrano-master/defaults/
+-rw-rw-r-- root/root        67 2016-03-08 15:30 ansible-capistrano-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 15:30 ansible-capistrano-master/meta/
+-rw-rw-r-- root/root       335 2016-03-08 15:30 ansible-capistrano-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 15:30 ansible-capistrano-master/tasks/
+-rw-rw-r-- root/root       308 2016-03-08 15:30 ansible-capistrano-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 15:30 ansible-capistrano-master/tests/
+-rw-rw-r-- root/root         9 2016-03-08 15:30 ansible-capistrano-master/tests/inventory
+-rw-rw-r-- root/root       120 2016-03-08 15:30 ansible-capistrano-master/tests/test.yml

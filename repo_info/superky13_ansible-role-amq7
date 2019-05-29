@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-22 16:24 ansible-role-amq7-master/
+-rw-rw-r-- root/root       472 2018-05-22 16:24 ansible-role-amq7-master/README.md
+drwxrwxr-x root/root         0 2018-05-22 16:24 ansible-role-amq7-master/defaults/
+-rw-rw-r-- root/root       484 2018-05-22 16:24 ansible-role-amq7-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-22 16:24 ansible-role-amq7-master/files/
+-rw-rw-r-- root/root      1644 2018-05-22 16:24 ansible-role-amq7-master/files/bootstrap.xml
+drwxrwxr-x root/root         0 2018-05-22 16:24 ansible-role-amq7-master/handlers/
+-rw-rw-r-- root/root       158 2018-05-22 16:24 ansible-role-amq7-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-22 16:24 ansible-role-amq7-master/meta/
+-rw-rw-r-- root/root       245 2018-05-22 16:24 ansible-role-amq7-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-22 16:24 ansible-role-amq7-master/tasks/
+-rw-rw-r-- root/root      2863 2018-05-22 16:24 ansible-role-amq7-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-22 16:24 ansible-role-amq7-master/tests/
+-rw-rw-r-- root/root        11 2018-05-22 16:24 ansible-role-amq7-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-05-22 16:24 ansible-role-amq7-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-22 16:24 ansible-role-amq7-master/vars/
+-rw-rw-r-- root/root        24 2018-05-22 16:24 ansible-role-amq7-master/vars/main.yml

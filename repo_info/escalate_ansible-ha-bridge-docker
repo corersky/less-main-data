@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-29 00:54 ansible-ha-bridge-docker-master/
+-rw-rw-r-- root/root      1070 2018-01-29 00:54 ansible-ha-bridge-docker-master/LICENSE
+-rw-rw-r-- root/root       883 2018-01-29 00:54 ansible-ha-bridge-docker-master/README.md
+drwxrwxr-x root/root         0 2018-01-29 00:54 ansible-ha-bridge-docker-master/defaults/
+-rw-rw-r-- root/root       463 2018-01-29 00:54 ansible-ha-bridge-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-29 00:54 ansible-ha-bridge-docker-master/handlers/
+-rw-rw-r-- root/root       163 2018-01-29 00:54 ansible-ha-bridge-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-29 00:54 ansible-ha-bridge-docker-master/meta/
+-rw-rw-r-- root/root       450 2018-01-29 00:54 ansible-ha-bridge-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-29 00:54 ansible-ha-bridge-docker-master/tasks/
+-rw-rw-r-- root/root      1082 2018-01-29 00:54 ansible-ha-bridge-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-29 00:54 ansible-ha-bridge-docker-master/templates/
+-rw-rw-r-- root/root       795 2018-01-29 00:54 ansible-ha-bridge-docker-master/templates/docker.ha-bridge.service.j2
+drwxrwxr-x root/root         0 2018-01-29 00:54 ansible-ha-bridge-docker-master/vars/
+-rw-rw-r-- root/root        66 2018-01-29 00:54 ansible-ha-bridge-docker-master/vars/armv7.yml

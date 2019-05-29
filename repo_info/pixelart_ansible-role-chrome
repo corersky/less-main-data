@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-11 11:15 ansible-role-chrome-master/
+-rw-rw-r-- root/root       949 2017-05-11 11:15 ansible-role-chrome-master/CHANGELOG.md
+-rw-rw-r-- root/root      3226 2017-05-11 11:15 ansible-role-chrome-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root      1940 2017-05-11 11:15 ansible-role-chrome-master/README.md
+drwxrwxr-x root/root         0 2017-05-11 11:15 ansible-role-chrome-master/defaults/
+-rw-rw-r-- root/root       305 2017-05-11 11:15 ansible-role-chrome-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-11 11:15 ansible-role-chrome-master/meta/
+-rw-rw-r-- root/root       297 2017-05-11 11:15 ansible-role-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-11 11:15 ansible-role-chrome-master/tasks/
+-rw-rw-r-- root/root       798 2017-05-11 11:15 ansible-role-chrome-master/tasks/configure.yml
+-rw-rw-r-- root/root       436 2017-05-11 11:15 ansible-role-chrome-master/tasks/main.yml
+-rw-rw-r-- root/root       581 2017-05-11 11:15 ansible-role-chrome-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       397 2017-05-11 11:15 ansible-role-chrome-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2017-05-11 11:15 ansible-role-chrome-master/vars/
+-rw-rw-r-- root/root        68 2017-05-11 11:15 ansible-role-chrome-master/vars/Debian.yml

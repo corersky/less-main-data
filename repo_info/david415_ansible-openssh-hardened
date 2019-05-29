@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-10-30 17:50 ansible-openssh-hardened-master/
+-rw-rw-r-- root/root      1407 2014-10-30 17:50 ansible-openssh-hardened-master/README.rst
+drwxrwxr-x root/root         0 2014-10-30 17:50 ansible-openssh-hardened-master/defaults/
+-rw-rw-r-- root/root       317 2014-10-30 17:50 ansible-openssh-hardened-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-30 17:50 ansible-openssh-hardened-master/files/
+-rw-rw-r-- root/root       544 2014-10-30 17:50 ansible-openssh-hardened-master/files/ssh_config
+-rw-rw-r-- root/root       609 2014-10-30 17:50 ansible-openssh-hardened-master/files/sshd_config
+drwxrwxr-x root/root         0 2014-10-30 17:50 ansible-openssh-hardened-master/handlers/
+-rw-rw-r-- root/root        89 2014-10-30 17:50 ansible-openssh-hardened-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-30 17:50 ansible-openssh-hardened-master/meta/
+-rw-rw-r-- root/root       269 2014-10-30 17:50 ansible-openssh-hardened-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-30 17:50 ansible-openssh-hardened-master/playbooks/
+-rw-rw-r-- root/root       326 2014-10-30 17:50 ansible-openssh-hardened-master/playbooks/ssh-servers.yml
+drwxrwxr-x root/root         0 2014-10-30 17:50 ansible-openssh-hardened-master/tasks/
+-rw-rw-r-- root/root      1312 2014-10-30 17:50 ansible-openssh-hardened-master/tasks/main.yml

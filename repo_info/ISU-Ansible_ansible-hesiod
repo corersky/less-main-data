@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-17 08:57 ansible-hesiod-master/
+-rw-rw-r-- root/root      1575 2017-11-17 08:57 ansible-hesiod-master/.travis.yml
+-rw-rw-r-- root/root       928 2017-11-17 08:57 ansible-hesiod-master/README.md
+drwxrwxr-x root/root         0 2017-11-17 08:57 ansible-hesiod-master/defaults/
+-rw-rw-r-- root/root        66 2017-11-17 08:57 ansible-hesiod-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-17 08:57 ansible-hesiod-master/meta/
+-rw-rw-r-- root/root       355 2017-11-17 08:57 ansible-hesiod-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-17 08:57 ansible-hesiod-master/tasks/
+-rw-rw-r-- root/root       416 2017-11-17 08:57 ansible-hesiod-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-17 08:57 ansible-hesiod-master/templates/
+-rw-rw-r-- root/root        65 2017-11-17 08:57 ansible-hesiod-master/templates/hesiod_conf.j2
+drwxrwxr-x root/root         0 2017-11-17 08:57 ansible-hesiod-master/tests/
+-rw-rw-r-- root/root         9 2017-11-17 08:57 ansible-hesiod-master/tests/inventory
+-rw-rw-r-- root/root       525 2017-11-17 08:57 ansible-hesiod-master/tests/test-assertions.yml
+-rw-rw-r-- root/root        77 2017-11-17 08:57 ansible-hesiod-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-17 08:57 ansible-hesiod-master/vars/
+-rw-rw-r-- root/root        79 2017-11-17 08:57 ansible-hesiod-master/vars/RedHat.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-10-19 10:01 ansible-role-php-common-master/
+-rw-rw-r-- root/root       134 2015-10-19 10:01 ansible-role-php-common-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 10:01 ansible-role-php-common-master/meta/
+-rw-rw-r-- root/root       325 2015-10-19 10:01 ansible-role-php-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:01 ansible-role-php-common-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 10:01 ansible-role-php-common-master/tasks/debian/
+-rw-rw-r-- root/root        96 2015-10-19 10:01 ansible-role-php-common-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       220 2015-10-19 10:01 ansible-role-php-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:01 ansible-role-php-common-master/tasks/redhat/
+-rw-rw-r-- root/root        96 2015-10-19 10:01 ansible-role-php-common-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:01 ansible-role-php-common-master/vars/
+-rw-rw-r-- root/root        29 2015-10-19 10:01 ansible-role-php-common-master/vars/Debian.yml
+-rw-rw-r-- root/root        28 2015-10-19 10:01 ansible-role-php-common-master/vars/RedHat.yml

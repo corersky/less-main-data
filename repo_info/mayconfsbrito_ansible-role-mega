@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-05 15:54 ansible-role-mega-master/
+-rw-rw-r-- root/root       290 2018-01-05 15:54 ansible-role-mega-master/.travis.yml
+-rw-rw-r-- root/root       461 2018-01-05 15:54 ansible-role-mega-master/README.md
+drwxrwxr-x root/root         0 2018-01-05 15:54 ansible-role-mega-master/defaults/
+-rw-rw-r-- root/root        28 2018-01-05 15:54 ansible-role-mega-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-05 15:54 ansible-role-mega-master/handlers/
+-rw-rw-r-- root/root        28 2018-01-05 15:54 ansible-role-mega-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-05 15:54 ansible-role-mega-master/meta/
+-rw-rw-r-- root/root       231 2018-01-05 15:54 ansible-role-mega-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-05 15:54 ansible-role-mega-master/tasks/
+-rw-rw-r-- root/root       262 2018-01-05 15:54 ansible-role-mega-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-05 15:54 ansible-role-mega-master/tests/
+-rw-rw-r-- root/root        11 2018-01-05 15:54 ansible-role-mega-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-01-05 15:54 ansible-role-mega-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-05 15:54 ansible-role-mega-master/vars/
+-rw-rw-r-- root/root        24 2018-01-05 15:54 ansible-role-mega-master/vars/main.yml

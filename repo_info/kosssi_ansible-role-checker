@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-10-11 03:57 ansible-role-checker-master/
+-rw-rw-r-- root/root       453 2014-10-11 03:57 ansible-role-checker-master/.travis.yml
+-rw-rw-r-- root/root      1075 2014-10-11 03:57 ansible-role-checker-master/LICENSE
+-rw-rw-r-- root/root       567 2014-10-11 03:57 ansible-role-checker-master/README.md
+drwxrwxr-x root/root         0 2014-10-11 03:57 ansible-role-checker-master/defaults/
+-rw-rw-r-- root/root        24 2014-10-11 03:57 ansible-role-checker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-11 03:57 ansible-role-checker-master/meta/
+-rw-rw-r-- root/root       293 2014-10-11 03:57 ansible-role-checker-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-11 03:57 ansible-role-checker-master/tasks/
+-rw-rw-r-- root/root       383 2014-10-11 03:57 ansible-role-checker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-11 03:57 ansible-role-checker-master/tests/
+-rw-rw-r-- root/root        35 2014-10-11 03:57 ansible-role-checker-master/tests/inventory
+-rw-rw-r-- root/root       463 2014-10-11 03:57 ansible-role-checker-master/tests/local_playbook.yml

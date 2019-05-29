@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-10-29 06:09 ansible-role-kubefaas-master/
+-rw-rw-r-- root/root     11357 2018-10-29 06:09 ansible-role-kubefaas-master/LICENSE
+-rw-rw-r-- root/root        74 2018-10-29 06:09 ansible-role-kubefaas-master/README.md
+drwxrwxr-x root/root         0 2018-10-29 06:09 ansible-role-kubefaas-master/defaults/
+-rw-rw-r-- root/root       285 2018-10-29 06:09 ansible-role-kubefaas-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:09 ansible-role-kubefaas-master/meta/
+-rw-rw-r-- root/root       341 2018-10-29 06:09 ansible-role-kubefaas-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:09 ansible-role-kubefaas-master/tasks/
+-rw-rw-r-- root/root        66 2018-10-29 06:09 ansible-role-kubefaas-master/tasks/main.yaml
+-rw-rw-r-- root/root       925 2018-10-29 06:09 ansible-role-kubefaas-master/tasks/openfaas.yaml
+drwxrwxr-x root/root         0 2018-10-29 06:09 ansible-role-kubefaas-master/templates/
+-rw-rw-r-- root/root       775 2018-10-29 06:09 ansible-role-kubefaas-master/templates/queueworker-dep.j2

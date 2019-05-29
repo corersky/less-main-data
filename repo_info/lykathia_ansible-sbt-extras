@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-04-19 11:12 ansible-sbt-extras-master/
+-rw-rw-r-- root/root       725 2015-04-19 11:12 ansible-sbt-extras-master/.travis.yml
+-rw-rw-r-- root/root       405 2015-04-19 11:12 ansible-sbt-extras-master/Dockerfile
+-rw-rw-r-- root/root      1452 2015-04-19 11:12 ansible-sbt-extras-master/LICENCE
+-rw-rw-r-- root/root       287 2015-04-19 11:12 ansible-sbt-extras-master/README.md
+drwxrwxr-x root/root         0 2015-04-19 11:12 ansible-sbt-extras-master/files/
+-rw-rw-r-- root/root       949 2015-04-19 11:12 ansible-sbt-extras-master/files/sbtignore
+drwxrwxr-x root/root         0 2015-04-19 11:12 ansible-sbt-extras-master/meta/
+-rw-rw-r-- root/root       410 2015-04-19 11:12 ansible-sbt-extras-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-19 11:12 ansible-sbt-extras-master/tasks/
+-rw-rw-r-- root/root       511 2015-04-19 11:12 ansible-sbt-extras-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-19 11:12 ansible-sbt-extras-master/tests/
+-rw-rw-r-- root/root        18 2015-04-19 11:12 ansible-sbt-extras-master/tests/inventory
+-rw-rw-r-- root/root        63 2015-04-19 11:12 ansible-sbt-extras-master/tests/test.yml
+drwxrwxr-x root/root         0 2015-04-19 11:12 ansible-sbt-extras-master/vars/
+-rw-rw-r-- root/root       253 2015-04-19 11:12 ansible-sbt-extras-master/vars/main.yml

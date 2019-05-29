@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-11 02:40 ansible-role-marathon-master/
+-rw-rw-r-- root/root      1090 2019-03-11 02:40 ansible-role-marathon-master/.travis.yml
+-rw-rw-r-- root/root     11357 2019-03-11 02:40 ansible-role-marathon-master/LICENSE
+-rw-rw-r-- root/root       821 2019-03-11 02:40 ansible-role-marathon-master/README.md
+drwxrwxr-x root/root         0 2019-03-11 02:40 ansible-role-marathon-master/defaults/
+-rw-rw-r-- root/root       501 2019-03-11 02:40 ansible-role-marathon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-11 02:40 ansible-role-marathon-master/handlers/
+-rw-rw-r-- root/root        98 2019-03-11 02:40 ansible-role-marathon-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-11 02:40 ansible-role-marathon-master/meta/
+-rw-rw-r-- root/root       306 2019-03-11 02:40 ansible-role-marathon-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-11 02:40 ansible-role-marathon-master/tasks/
+-rw-rw-r-- root/root      1315 2019-03-11 02:40 ansible-role-marathon-master/tasks/Debian.yml
+-rw-rw-r-- root/root      1266 2019-03-11 02:40 ansible-role-marathon-master/tasks/RedHat.yml
+-rw-rw-r-- root/root      1637 2019-03-11 02:40 ansible-role-marathon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-11 02:40 ansible-role-marathon-master/tests/
+-rw-rw-r-- root/root        36 2019-03-11 02:40 ansible-role-marathon-master/tests/inventory
+-rw-rw-r-- root/root        54 2019-03-11 02:40 ansible-role-marathon-master/tests/test.yml

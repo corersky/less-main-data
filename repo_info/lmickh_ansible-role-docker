@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-19 12:46 ansible-role-docker-master/
+-rw-rw-r-- root/root       123 2018-04-19 12:46 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root        42 2018-04-19 12:46 ansible-role-docker-master/CHANGELOG.md
+-rw-rw-r-- root/root      1079 2018-04-19 12:46 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       444 2018-04-19 12:46 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2018-04-19 12:46 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        36 2018-04-19 12:46 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-19 12:46 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       222 2018-04-19 12:46 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-19 12:46 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       480 2018-04-19 12:46 ansible-role-docker-master/tasks/configure.yml
+-rw-rw-r-- root/root       163 2018-04-19 12:46 ansible-role-docker-master/tasks/install.yml
+-rw-rw-r-- root/root       141 2018-04-19 12:46 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-19 12:46 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root        54 2018-04-19 12:46 ansible-role-docker-master/templates/10-dockeropts.conf.j2

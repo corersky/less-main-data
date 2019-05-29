@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-12-06 11:17 ansible-tcsh-master/
+-rw-rw-r-- root/root        27 2016-12-06 11:17 ansible-tcsh-master/.gitignore
+-rw-rw-r-- root/root      1079 2016-12-06 11:17 ansible-tcsh-master/LICENSE
+-rw-rw-r-- root/root       395 2016-12-06 11:17 ansible-tcsh-master/README.md
+-rw-rw-r-- root/root       823 2016-12-06 11:17 ansible-tcsh-master/circle.yml
+drwxrwxr-x root/root         0 2016-12-06 11:17 ansible-tcsh-master/defaults/
+-rw-rw-r-- root/root        37 2016-12-06 11:17 ansible-tcsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-06 11:17 ansible-tcsh-master/handlers/
+-rw-rw-r-- root/root        37 2016-12-06 11:17 ansible-tcsh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-06 11:17 ansible-tcsh-master/meta/
+-rw-rw-r-- root/root       407 2016-12-06 11:17 ansible-tcsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-06 11:17 ansible-tcsh-master/tasks/
+-rw-rw-r-- root/root       467 2016-12-06 11:17 ansible-tcsh-master/tasks/main.yml
+-rw-rw-r-- root/root        64 2016-12-06 11:17 ansible-tcsh-master/test.yml
+drwxrwxr-x root/root         0 2016-12-06 11:17 ansible-tcsh-master/vars/
+-rw-rw-r-- root/root        21 2016-12-06 11:17 ansible-tcsh-master/vars/Alpine.yml
+-rw-rw-r-- root/root        36 2016-12-06 11:17 ansible-tcsh-master/vars/Darwin.yml

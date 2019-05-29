@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-08-04 08:14 ansible-influxdb-master/
+-rw-rw-r-- root/root         0 2017-08-04 08:14 ansible-influxdb-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-08-04 08:14 ansible-influxdb-master/LICENSE
+-rw-rw-r-- root/root     22242 2017-08-04 08:14 ansible-influxdb-master/README.md
+drwxrwxr-x root/root         0 2017-08-04 08:14 ansible-influxdb-master/defaults/
+-rw-rw-r-- root/root     20712 2017-08-04 08:14 ansible-influxdb-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-08-04 08:14 ansible-influxdb-master/handlers/
+-rw-rw-r-- root/root       203 2017-08-04 08:14 ansible-influxdb-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-08-04 08:14 ansible-influxdb-master/meta/
+-rw-rw-r-- root/root       276 2017-08-04 08:14 ansible-influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-04 08:14 ansible-influxdb-master/tasks/
+-rw-rw-r-- root/root      1027 2017-08-04 08:14 ansible-influxdb-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-08-04 08:14 ansible-influxdb-master/templates/
+-rw-rw-r-- root/root       108 2017-08-04 08:14 ansible-influxdb-master/templates/config.toml.j2

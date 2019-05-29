@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-mongodb-master/
+-rw-rw-r-- root/root      2534 2017-01-17 04:34 ansible-mongodb-master/.travis.yml
+-rw-rw-r-- root/root      1075 2017-01-17 04:34 ansible-mongodb-master/LICENSE
+-rw-rw-r-- root/root      1823 2017-01-17 04:34 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root       602 2017-01-17 04:34 ansible-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root        94 2017-01-17 04:34 ansible-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       376 2017-01-17 04:34 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root      1005 2017-01-17 04:34 ansible-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-mongodb-master/templates/
+-rw-rw-r-- root/root       609 2017-01-17 04:34 ansible-mongodb-master/templates/mongod.conf.j2
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-mongodb-master/tests/
+-rw-rw-r-- root/root         9 2017-01-17 04:34 ansible-mongodb-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-01-17 04:34 ansible-mongodb-master/tests/test.yml

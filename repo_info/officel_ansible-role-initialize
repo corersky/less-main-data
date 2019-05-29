@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-07 20:19 ansible-role-initialize-master/
+-rw-rw-r-- root/root      2088 2016-09-07 20:19 ansible-role-initialize-master/.travis.yml
+-rw-rw-r-- root/root        66 2016-09-07 20:19 ansible-role-initialize-master/Gemfile
+-rw-rw-r-- root/root      1548 2016-09-07 20:19 ansible-role-initialize-master/README.md
+drwxrwxr-x root/root         0 2016-09-07 20:19 ansible-role-initialize-master/meta/
+-rw-rw-r-- root/root       497 2016-09-07 20:19 ansible-role-initialize-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-07 20:19 ansible-role-initialize-master/spec/
+-rw-rw-r-- root/root      1662 2016-09-07 20:19 ansible-role-initialize-master/spec/container_spec.rb
+-rw-rw-r-- root/root       131 2016-09-07 20:19 ansible-role-initialize-master/spec/spec_helper.rb
+drwxrwxr-x root/root         0 2016-09-07 20:19 ansible-role-initialize-master/tasks/
+-rw-rw-r-- root/root        67 2016-09-07 20:19 ansible-role-initialize-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-07 20:19 ansible-role-initialize-master/tests/
+-rw-rw-r-- root/root       380 2016-09-07 20:19 ansible-role-initialize-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1170 2016-09-07 20:19 ansible-role-initialize-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root         9 2016-09-07 20:19 ansible-role-initialize-master/tests/inventory
+-rw-rw-r-- root/root       183 2016-09-07 20:19 ansible-role-initialize-master/tests/requirements.yml
+-rw-rw-r-- root/root        57 2016-09-07 20:19 ansible-role-initialize-master/tests/test.yml

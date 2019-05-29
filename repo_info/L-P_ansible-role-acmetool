@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-25 10:39 ansible-role-acmetool-master/
+-rw-rw-r-- root/root      1060 2017-12-25 10:39 ansible-role-acmetool-master/LICENSE
+-rw-rw-r-- root/root      2453 2017-12-25 10:39 ansible-role-acmetool-master/README.md
+drwxrwxr-x root/root         0 2017-12-25 10:39 ansible-role-acmetool-master/defaults/
+-rw-rw-r-- root/root       382 2017-12-25 10:39 ansible-role-acmetool-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-25 10:39 ansible-role-acmetool-master/files/
+-rw-rw-r-- root/root       322 2017-12-25 10:39 ansible-role-acmetool-master/files/acmetool.service
+drwxrwxr-x root/root         0 2017-12-25 10:39 ansible-role-acmetool-master/meta/
+-rw-rw-r-- root/root       303 2017-12-25 10:39 ansible-role-acmetool-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-25 10:39 ansible-role-acmetool-master/tasks/
+-rw-rw-r-- root/root       373 2017-12-25 10:39 ansible-role-acmetool-master/tasks/acmetool_service.yml
+-rw-rw-r-- root/root       908 2017-12-25 10:39 ansible-role-acmetool-master/tasks/acmetool_setup.yml
+-rw-rw-r-- root/root       756 2017-12-25 10:39 ansible-role-acmetool-master/tasks/hooks.yml
+-rw-rw-r-- root/root       260 2017-12-25 10:39 ansible-role-acmetool-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-25 10:39 ansible-role-acmetool-master/templates/
+-rw-rw-r-- root/root       632 2017-12-25 10:39 ansible-role-acmetool-master/templates/responses.j2

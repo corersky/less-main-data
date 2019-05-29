@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-14 12:13 ansible-role-aws-iam-master/
+-rw-rw-r-- root/root         8 2017-08-14 12:13 ansible-role-aws-iam-master/.gitignore
+-rw-rw-r-- root/root      2532 2017-08-14 12:13 ansible-role-aws-iam-master/README.md
+drwxrwxr-x root/root         0 2017-08-14 12:13 ansible-role-aws-iam-master/defaults/
+-rw-rw-r-- root/root       433 2017-08-14 12:13 ansible-role-aws-iam-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-14 12:13 ansible-role-aws-iam-master/handlers/
+-rw-rw-r-- root/root        44 2017-08-14 12:13 ansible-role-aws-iam-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-14 12:13 ansible-role-aws-iam-master/meta/
+-rw-rw-r-- root/root       337 2017-08-14 12:13 ansible-role-aws-iam-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-14 12:13 ansible-role-aws-iam-master/tasks/
+-rw-rw-r-- root/root        64 2017-08-14 12:13 ansible-role-aws-iam-master/tasks/main.yml
+-rw-rw-r-- root/root      1573 2017-08-14 12:13 ansible-role-aws-iam-master/tasks/users.yml
+drwxrwxr-x root/root         0 2017-08-14 12:13 ansible-role-aws-iam-master/tests/
+-rw-rw-r-- root/root        11 2017-08-14 12:13 ansible-role-aws-iam-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-08-14 12:13 ansible-role-aws-iam-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-08-14 12:13 ansible-role-aws-iam-master/vars/
+-rw-rw-r-- root/root        40 2017-08-14 12:13 ansible-role-aws-iam-master/vars/main.yml

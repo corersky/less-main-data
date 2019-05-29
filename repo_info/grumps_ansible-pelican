@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-09-01 23:53 ansible-pelican-master/
+-rw-rw-r-- root/root         7 2017-09-01 23:53 ansible-pelican-master/.gitignore
+-rw-rw-r-- root/root      2666 2017-09-01 23:53 ansible-pelican-master/README.md
+drwxrwxr-x root/root         0 2017-09-01 23:53 ansible-pelican-master/defaults/
+-rw-rw-r-- root/root       170 2017-09-01 23:53 ansible-pelican-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-01 23:53 ansible-pelican-master/handlers/
+-rw-rw-r-- root/root        32 2017-09-01 23:53 ansible-pelican-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-01 23:53 ansible-pelican-master/meta/
+-rw-rw-r-- root/root      2324 2017-09-01 23:53 ansible-pelican-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-01 23:53 ansible-pelican-master/tasks/
+-rw-rw-r-- root/root      2067 2017-09-01 23:53 ansible-pelican-master/tasks/deploy.yml
+-rw-rw-r-- root/root       412 2017-09-01 23:53 ansible-pelican-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-01 23:53 ansible-pelican-master/vars/
+-rw-rw-r-- root/root       107 2017-09-01 23:53 ansible-pelican-master/vars/main.yml

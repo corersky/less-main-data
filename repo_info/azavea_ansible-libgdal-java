@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2014-10-02 22:40 ansible-libgdal-java-master/
+-rw-rw-r-- root/root         9 2014-10-02 22:40 ansible-libgdal-java-master/.gitignore
+-rw-rw-r-- root/root        29 2014-10-02 22:40 ansible-libgdal-java-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2014-10-02 22:40 ansible-libgdal-java-master/LICENSE
+-rw-rw-r-- root/root       259 2014-10-02 22:40 ansible-libgdal-java-master/README.md
+drwxrwxr-x root/root         0 2014-10-02 22:40 ansible-libgdal-java-master/examples/
+-rw-rw-r-- root/root       279 2014-10-02 22:40 ansible-libgdal-java-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-10-02 22:40 ansible-libgdal-java-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-10-02 22:40 ansible-libgdal-java-master/examples/roles/azavea.libgdal-java -> ../../
+-rw-rw-r-- root/root        64 2014-10-02 22:40 ansible-libgdal-java-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-10-02 22:40 ansible-libgdal-java-master/meta/
+-rw-rw-r-- root/root       338 2014-10-02 22:40 ansible-libgdal-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-02 22:40 ansible-libgdal-java-master/tasks/
+-rw-rw-r-- root/root       251 2014-10-02 22:40 ansible-libgdal-java-master/tasks/main.yml
+-rw-rw-r-- root/root       203 2014-10-02 22:40 ansible-libgdal-java-master/tasks/precise.yml
+-rw-rw-r-- root/root        98 2014-10-02 22:40 ansible-libgdal-java-master/tasks/trusty.yml
+drwxrwxr-x root/root         0 2014-10-02 22:40 ansible-libgdal-java-master/vars/
+-rw-rw-r-- root/root        46 2014-10-02 22:40 ansible-libgdal-java-master/vars/precise.yml
+-rw-rw-r-- root/root        49 2014-10-02 22:40 ansible-libgdal-java-master/vars/trusty.yml

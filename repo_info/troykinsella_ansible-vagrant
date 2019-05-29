@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-vagrant-master/
+-rw-rw-r-- root/root         6 2016-06-11 18:45 ansible-vagrant-master/.gitignore
+-rw-rw-r-- root/root       540 2016-06-11 18:45 ansible-vagrant-master/.travis.yml
+-rw-rw-r-- root/root      1080 2016-06-11 18:45 ansible-vagrant-master/LICENSE
+-rw-rw-r-- root/root       688 2016-06-11 18:45 ansible-vagrant-master/README.md
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-vagrant-master/defaults/
+-rw-rw-r-- root/root       199 2016-06-11 18:45 ansible-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-vagrant-master/meta/
+-rw-rw-r-- root/root       452 2016-06-11 18:45 ansible-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-vagrant-master/tests/
+-rw-rw-r-- root/root         9 2016-06-11 18:45 ansible-vagrant-master/tests/inventory
+-rw-rw-r-- root/root        88 2016-06-11 18:45 ansible-vagrant-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-01 09:26 ansible-grafana-master/
+-rw-rw-r-- root/root       157 2017-05-01 09:26 ansible-grafana-master/.travis.yml
+-rw-rw-r-- root/root      1393 2017-05-01 09:26 ansible-grafana-master/Makefile
+-rw-rw-r-- root/root       337 2017-05-01 09:26 ansible-grafana-master/README.md
+drwxrwxr-x root/root         0 2017-05-01 09:26 ansible-grafana-master/defaults/
+-rw-rw-r-- root/root        38 2017-05-01 09:26 ansible-grafana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-01 09:26 ansible-grafana-master/handlers/
+-rw-rw-r-- root/root        91 2017-05-01 09:26 ansible-grafana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-01 09:26 ansible-grafana-master/meta/
+-rw-rw-r-- root/root       448 2017-05-01 09:26 ansible-grafana-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-01 09:26 ansible-grafana-master/tasks/
+-rw-rw-r-- root/root       407 2017-05-01 09:26 ansible-grafana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-01 09:26 ansible-grafana-master/tests/
+-rw-rw-r-- root/root         9 2017-05-01 09:26 ansible-grafana-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-05-01 09:26 ansible-grafana-master/tests/test.yml

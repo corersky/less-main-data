@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-09 16:59 ansible-role-cachefilesd-master/
+-rw-rw-r-- root/root      1024 2016-08-09 16:59 ansible-role-cachefilesd-master/.travis.yml
+-rw-rw-r-- root/root       605 2016-08-09 16:59 ansible-role-cachefilesd-master/README.md
+drwxrwxr-x root/root         0 2016-08-09 16:59 ansible-role-cachefilesd-master/defaults/
+-rw-rw-r-- root/root        93 2016-08-09 16:59 ansible-role-cachefilesd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-09 16:59 ansible-role-cachefilesd-master/meta/
+-rw-rw-r-- root/root       322 2016-08-09 16:59 ansible-role-cachefilesd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-09 16:59 ansible-role-cachefilesd-master/tasks/
+-rw-rw-r-- root/root       285 2016-08-09 16:59 ansible-role-cachefilesd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-09 16:59 ansible-role-cachefilesd-master/templates/
+-rw-rw-r-- root/root         7 2016-08-09 16:59 ansible-role-cachefilesd-master/templates/cachefilesd.j2
+drwxrwxr-x root/root         0 2016-08-09 16:59 ansible-role-cachefilesd-master/tests/
+-rw-rw-r-- root/root         9 2016-08-09 16:59 ansible-role-cachefilesd-master/tests/inventory
+-rw-rw-r-- root/root       122 2016-08-09 16:59 ansible-role-cachefilesd-master/tests/test.yml

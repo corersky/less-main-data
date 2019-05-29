@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2018-01-26 16:17 ansible-role-system-update-master/
+-rw-rw-r-- root/root        59 2018-01-26 16:17 ansible-role-system-update-master/.gitattributes
+-rw-rw-r-- root/root         7 2018-01-26 16:17 ansible-role-system-update-master/.gitignore
+-rw-rw-r-- root/root      1067 2018-01-26 16:17 ansible-role-system-update-master/LICENSE
+-rw-rw-r-- root/root       507 2018-01-26 16:17 ansible-role-system-update-master/README.md
+drwxrwxr-x root/root         0 2018-01-26 16:17 ansible-role-system-update-master/defaults/
+-rw-rw-r-- root/root       200 2018-01-26 16:17 ansible-role-system-update-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-26 16:17 ansible-role-system-update-master/meta/
+-rw-rw-r-- root/root       214 2018-01-26 16:17 ansible-role-system-update-master/meta/main.yml
+-rw-rw-r-- root/root       602 2018-01-26 16:17 ansible-role-system-update-master/package.json
+drwxrwxr-x root/root         0 2018-01-26 16:17 ansible-role-system-update-master/tasks/
+-rw-rw-r-- root/root       676 2018-01-26 16:17 ansible-role-system-update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-26 16:17 ansible-role-system-update-master/tests/
+-rw-rw-r-- root/root       496 2018-01-26 16:17 ansible-role-system-update-master/tests/.hack.sh
+-rw-rw-r-- root/root      1235 2018-01-26 16:17 ansible-role-system-update-master/tests/Vagrantfile
+-rw-rw-r-- root/root        94 2018-01-26 16:17 ansible-role-system-update-master/tests/ansible.cfg
+-rw-rw-r-- root/root        49 2018-01-26 16:17 ansible-role-system-update-master/tests/inventory
+drwxrwxr-x root/root         0 2018-01-26 16:17 ansible-role-system-update-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-01-26 16:17 ansible-role-system-update-master/tests/roles/pgkehle.sysupdate -> ../..
+-rw-rw-r-- root/root        62 2018-01-26 16:17 ansible-role-system-update-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-26 16:17 ansible-role-system-update-master/vars/
+-rw-rw-r-- root/root        28 2018-01-26 16:17 ansible-role-system-update-master/vars/main.yaml

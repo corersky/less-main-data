@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-12 13:10 ansible-yumconf-master/
+-rw-rw-r-- root/root         0 2016-08-12 13:10 ansible-yumconf-master/.gitignore
+-rw-rw-r-- root/root      1080 2016-08-12 13:10 ansible-yumconf-master/LICENSE.md
+-rw-rw-r-- root/root      2504 2016-08-12 13:10 ansible-yumconf-master/README.md
+drwxrwxr-x root/root         0 2016-08-12 13:10 ansible-yumconf-master/defaults/
+-rw-rw-r-- root/root      1623 2016-08-12 13:10 ansible-yumconf-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-08-12 13:10 ansible-yumconf-master/meta/
+-rw-rw-r-- root/root       264 2016-08-12 13:10 ansible-yumconf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-12 13:10 ansible-yumconf-master/tasks/
+-rw-rw-r-- root/root       238 2016-08-12 13:10 ansible-yumconf-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-08-12 13:10 ansible-yumconf-master/templates/
+-rw-rw-r-- root/root        67 2016-08-12 13:10 ansible-yumconf-master/templates/yum.conf.j2

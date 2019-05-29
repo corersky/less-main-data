@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-03 10:32 ansible-rolling-reboot-master/
+-rw-rw-r-- root/root      1081 2016-05-03 10:32 ansible-rolling-reboot-master/LICENSE
+-rw-rw-r-- root/root      1805 2016-05-03 10:32 ansible-rolling-reboot-master/README.md
+drwxrwxr-x root/root         0 2016-05-03 10:32 ansible-rolling-reboot-master/defaults/
+-rw-rw-r-- root/root       285 2016-05-03 10:32 ansible-rolling-reboot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-03 10:32 ansible-rolling-reboot-master/files/
+drwxrwxr-x root/root         0 2016-05-03 10:32 ansible-rolling-reboot-master/files/helper/
+-rwxrwxr-x root/root       131 2016-05-03 10:32 ansible-rolling-reboot-master/files/helper/reboot-soon.sh
+drwxrwxr-x root/root         0 2016-05-03 10:32 ansible-rolling-reboot-master/meta/
+-rw-rw-r-- root/root       687 2016-05-03 10:32 ansible-rolling-reboot-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-03 10:32 ansible-rolling-reboot-master/tasks/
+-rw-rw-r-- root/root       517 2016-05-03 10:32 ansible-rolling-reboot-master/tasks/main.yml

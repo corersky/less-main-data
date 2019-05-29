@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/
+-rw-rw-r-- root/root       178 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/.editorconfig
+-rw-rw-r-- root/root        61 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/.gitignore
+-rw-rw-r-- root/root       596 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/.travis.yml
+-rw-rw-r-- root/root      1071 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/LICENSE
+-rw-rw-r-- root/root      1312 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/README.md
+drwxrwxr-x root/root         0 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/defaults/
+-rw-rw-r-- root/root       515 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/meta/
+-rw-rw-r-- root/root       266 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/tasks/
+-rw-rw-r-- root/root      1144 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/templates/
+-rw-rw-r-- root/root       158 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/templates/Package Control.sublime-settings.js2
+drwxrwxr-x root/root         0 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/tests/
+-rw-rw-r-- root/root       392 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/tests/Vagrantfile
+-rw-rw-r-- root/root        35 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/tests/inventory
+-rw-rw-r-- root/root       262 2015-05-04 19:36 ansible-role-sublimetext3_packagecontrol-master/tests/test.yml

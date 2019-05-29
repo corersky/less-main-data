@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-20 14:14 ansible_dante-master/
+-rw-rw-r-- root/root     11357 2019-02-20 14:14 ansible_dante-master/LICENSE
+-rw-rw-r-- root/root       989 2019-02-20 14:14 ansible_dante-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 14:14 ansible_dante-master/defaults/
+-rw-rw-r-- root/root       572 2019-02-20 14:14 ansible_dante-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:14 ansible_dante-master/handlers/
+-rw-rw-r-- root/root        76 2019-02-20 14:14 ansible_dante-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:14 ansible_dante-master/meta/
+-rw-rw-r-- root/root       443 2019-02-20 14:14 ansible_dante-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:14 ansible_dante-master/tasks/
+-rw-rw-r-- root/root       347 2019-02-20 14:14 ansible_dante-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:14 ansible_dante-master/templates/
+-rw-rw-r-- root/root       669 2019-02-20 14:14 ansible_dante-master/templates/danted.conf
+drwxrwxr-x root/root         0 2019-02-20 14:14 ansible_dante-master/tests/
+-rw-rw-r-- root/root        11 2019-02-20 14:14 ansible_dante-master/tests/inventory
+-rw-rw-r-- root/root       134 2019-02-20 14:14 ansible_dante-master/tests/test.yml

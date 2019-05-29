@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-18 07:56 nginxRole-master/
+-rw-rw-r-- root/root         7 2017-07-18 07:56 nginxRole-master/.gitignore
+-rw-rw-r-- root/root     35141 2017-07-18 07:56 nginxRole-master/LICENSE
+-rw-rw-r-- root/root        82 2017-07-18 07:56 nginxRole-master/README.md
+drwxrwxr-x root/root         0 2017-07-18 07:56 nginxRole-master/defaults/
+-rw-rw-r-- root/root       599 2017-07-18 07:56 nginxRole-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-18 07:56 nginxRole-master/meta/
+-rw-rw-r-- root/root       266 2017-07-18 07:56 nginxRole-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-18 07:56 nginxRole-master/tasks/
+-rw-rw-r-- root/root       411 2017-07-18 07:56 nginxRole-master/tasks/aws.yml
+-rw-rw-r-- root/root       663 2017-07-18 07:56 nginxRole-master/tasks/config.yml
+-rw-rw-r-- root/root       419 2017-07-18 07:56 nginxRole-master/tasks/main.yml
+-rw-rw-r-- root/root      1576 2017-07-18 07:56 nginxRole-master/tasks/ssl.yml
+-rw-rw-r-- root/root       343 2017-07-18 07:56 nginxRole-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2017-07-18 07:56 nginxRole-master/templates/
+-rw-rw-r-- root/root      1365 2017-07-18 07:56 nginxRole-master/templates/nginx.conf.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-03-14 10:43 ansible-role-repo-epel-master/
+-rw-rw-r-- root/root        22 2018-03-14 10:43 ansible-role-repo-epel-master/.gitignore
+-rw-rw-r-- root/root       370 2018-03-14 10:43 ansible-role-repo-epel-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-03-14 10:43 ansible-role-repo-epel-master/LICENSE
+-rw-rw-r-- root/root      1413 2018-03-14 10:43 ansible-role-repo-epel-master/README.md
+drwxrwxr-x root/root         0 2018-03-14 10:43 ansible-role-repo-epel-master/defaults/
+-rw-rw-r-- root/root       280 2018-03-14 10:43 ansible-role-repo-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-14 10:43 ansible-role-repo-epel-master/meta/
+-rw-rw-r-- root/root       341 2018-03-14 10:43 ansible-role-repo-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-14 10:43 ansible-role-repo-epel-master/tasks/
+-rw-rw-r-- root/root       894 2018-03-14 10:43 ansible-role-repo-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-14 10:43 ansible-role-repo-epel-master/tests/
+-rw-rw-r-- root/root       632 2018-03-14 10:43 ansible-role-repo-epel-master/tests/README.md
+-rw-rw-r-- root/root        49 2018-03-14 10:43 ansible-role-repo-epel-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-19 01:39 ansible-role-nofloppy-master/
+-rw-rw-r-- root/root         0 2017-01-19 01:39 ansible-role-nofloppy-master/.gitignore
+-rw-rw-r-- root/root       536 2017-01-19 01:39 ansible-role-nofloppy-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-01-19 01:39 ansible-role-nofloppy-master/LICENSE
+-rw-rw-r-- root/root       807 2017-01-19 01:39 ansible-role-nofloppy-master/README.md
+drwxrwxr-x root/root         0 2017-01-19 01:39 ansible-role-nofloppy-master/meta/
+-rw-rw-r-- root/root       320 2017-01-19 01:39 ansible-role-nofloppy-master/meta/main.yml
+-rw-rw-r-- root/root       163 2017-01-19 01:39 ansible-role-nofloppy-master/requirements.yml
+drwxrwxr-x root/root         0 2017-01-19 01:39 ansible-role-nofloppy-master/tasks/
+-rw-rw-r-- root/root       203 2017-01-19 01:39 ansible-role-nofloppy-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-01-19 01:39 ansible-role-nofloppy-master/tests/
+-rw-rw-r-- root/root        10 2017-01-19 01:39 ansible-role-nofloppy-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-01-19 01:39 ansible-role-nofloppy-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-19 01:39 ansible-role-nofloppy-master/vars/
+-rw-rw-r-- root/root       120 2017-01-19 01:39 ansible-role-nofloppy-master/vars/main.yaml

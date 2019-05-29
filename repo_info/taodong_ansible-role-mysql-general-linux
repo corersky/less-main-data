@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-15 00:31 ansible-role-mysql-general-linux-master/
+-rw-rw-r-- root/root       539 2017-02-15 00:31 ansible-role-mysql-general-linux-master/.travis.yml
+-rw-rw-r-- root/root      1449 2017-02-15 00:31 ansible-role-mysql-general-linux-master/README.md
+drwxrwxr-x root/root         0 2017-02-15 00:31 ansible-role-mysql-general-linux-master/defaults/
+-rw-rw-r-- root/root       538 2017-02-15 00:31 ansible-role-mysql-general-linux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-15 00:31 ansible-role-mysql-general-linux-master/handlers/
+-rw-rw-r-- root/root        44 2017-02-15 00:31 ansible-role-mysql-general-linux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-15 00:31 ansible-role-mysql-general-linux-master/meta/
+-rw-rw-r-- root/root       262 2017-02-15 00:31 ansible-role-mysql-general-linux-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-15 00:31 ansible-role-mysql-general-linux-master/tasks/
+-rw-rw-r-- root/root      2498 2017-02-15 00:31 ansible-role-mysql-general-linux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-15 00:31 ansible-role-mysql-general-linux-master/tests/
+-rw-rw-r-- root/root         9 2017-02-15 00:31 ansible-role-mysql-general-linux-master/tests/inventory
+drwxrwxr-x root/root         0 2017-02-15 00:31 ansible-role-mysql-general-linux-master/vars/
+-rw-rw-r-- root/root        40 2017-02-15 00:31 ansible-role-mysql-general-linux-master/vars/main.yml

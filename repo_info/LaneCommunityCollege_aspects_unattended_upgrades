@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-12 16:59 aspects_unattended_upgrades-master/
+-rw-rw-r-- root/root       420 2016-09-12 16:59 aspects_unattended_upgrades-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1086 2016-09-12 16:59 aspects_unattended_upgrades-master/LICENSE
+-rw-rw-r-- root/root      2944 2016-09-12 16:59 aspects_unattended_upgrades-master/README.md
+drwxrwxr-x root/root         0 2016-09-12 16:59 aspects_unattended_upgrades-master/defaults/
+-rw-rw-r-- root/root       643 2016-09-12 16:59 aspects_unattended_upgrades-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-12 16:59 aspects_unattended_upgrades-master/meta/
+-rw-rw-r-- root/root      2033 2016-09-12 16:59 aspects_unattended_upgrades-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-12 16:59 aspects_unattended_upgrades-master/tasks/
+-rw-rw-r-- root/root       652 2016-09-12 16:59 aspects_unattended_upgrades-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-12 16:59 aspects_unattended_upgrades-master/templates/
+-rw-rw-r-- root/root       724 2016-09-12 16:59 aspects_unattended_upgrades-master/templates/etc-apt-apt.conf.d-10periodic.j2
+-rw-rw-r-- root/root      3777 2016-09-12 16:59 aspects_unattended_upgrades-master/templates/etc-apt-apt.conf.d-50unattended-upgrades.j2

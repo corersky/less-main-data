@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-27 14:42 ansible-role-ufw-master/
+-rw-rw-r-- root/root      1328 2018-10-27 14:42 ansible-role-ufw-master/README.md
+drwxrwxr-x root/root         0 2018-10-27 14:42 ansible-role-ufw-master/defaults/
+-rw-rw-r-- root/root        48 2018-10-27 14:42 ansible-role-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-27 14:42 ansible-role-ufw-master/handlers/
+-rw-rw-r-- root/root        27 2018-10-27 14:42 ansible-role-ufw-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-27 14:42 ansible-role-ufw-master/meta/
+-rw-rw-r-- root/root      1960 2018-10-27 14:42 ansible-role-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-27 14:42 ansible-role-ufw-master/tasks/
+-rw-rw-r-- root/root        51 2018-10-27 14:42 ansible-role-ufw-master/tasks/main.yml
+-rw-rw-r-- root/root       281 2018-10-27 14:42 ansible-role-ufw-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2018-10-27 14:42 ansible-role-ufw-master/tests/
+-rw-rw-r-- root/root        11 2018-10-27 14:42 ansible-role-ufw-master/tests/inventory
+-rw-rw-r-- root/root        61 2018-10-27 14:42 ansible-role-ufw-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-27 14:42 ansible-role-ufw-master/vars/
+-rw-rw-r-- root/root        23 2018-10-27 14:42 ansible-role-ufw-master/vars/main.yml

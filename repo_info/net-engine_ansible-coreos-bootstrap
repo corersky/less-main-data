@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-04-19 22:20 ansible-coreos-bootstrap-master/
+-rw-rw-r-- root/root       235 2015-04-19 22:20 ansible-coreos-bootstrap-master/.editorconfig
+-rw-rw-r-- root/root       351 2015-04-19 22:20 ansible-coreos-bootstrap-master/.travis.yml
+-rw-rw-r-- root/root      1081 2015-04-19 22:20 ansible-coreos-bootstrap-master/LICENSE
+-rw-rw-r-- root/root      2401 2015-04-19 22:20 ansible-coreos-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2015-04-19 22:20 ansible-coreos-bootstrap-master/files/
+-rw-rw-r-- root/root       556 2015-04-19 22:20 ansible-coreos-bootstrap-master/files/bootstrap.sh
+-rw-rw-r-- root/root   1340903 2015-04-19 22:20 ansible-coreos-bootstrap-master/files/get-pip.py
+-rw-rw-r-- root/root        93 2015-04-19 22:20 ansible-coreos-bootstrap-master/files/runner
+drwxrwxr-x root/root         0 2015-04-19 22:20 ansible-coreos-bootstrap-master/meta/
+-rw-rw-r-- root/root       185 2015-04-19 22:20 ansible-coreos-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-19 22:20 ansible-coreos-bootstrap-master/tasks/
+-rw-rw-r-- root/root      1294 2015-04-19 22:20 ansible-coreos-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-19 22:20 ansible-coreos-bootstrap-master/tests/
+-rw-rw-r-- root/root        49 2015-04-19 22:20 ansible-coreos-bootstrap-master/tests/test.yml

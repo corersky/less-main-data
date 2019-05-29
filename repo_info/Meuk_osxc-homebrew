@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-24 16:54 osxc-homebrew-master/
+-rw-rw-r-- root/root       450 2016-08-24 16:54 osxc-homebrew-master/.travis.yml
+-rw-rw-r-- root/root      1070 2016-08-24 16:54 osxc-homebrew-master/LICENSE
+-rw-rw-r-- root/root      1113 2016-08-24 16:54 osxc-homebrew-master/README.md
+drwxrwxr-x root/root         0 2016-08-24 16:54 osxc-homebrew-master/defaults/
+-rw-rw-r-- root/root       191 2016-08-24 16:54 osxc-homebrew-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-24 16:54 osxc-homebrew-master/meta/
+-rw-rw-r-- root/root       347 2016-08-24 16:54 osxc-homebrew-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-24 16:54 osxc-homebrew-master/tasks/
+-rw-rw-r-- root/root       551 2016-08-24 16:54 osxc-homebrew-master/tasks/cask.yml
+-rw-rw-r-- root/root      1159 2016-08-24 16:54 osxc-homebrew-master/tasks/clone.yml
+-rw-rw-r-- root/root       232 2016-08-24 16:54 osxc-homebrew-master/tasks/main.yml
+-rw-rw-r-- root/root       227 2016-08-24 16:54 osxc-homebrew-master/tasks/script.yml
+-rw-rw-r-- root/root       180 2016-08-24 16:54 osxc-homebrew-master/test.yml
+-rw-rw-r-- root/root       182 2016-08-24 16:54 osxc-homebrew-master/test_vars.yml

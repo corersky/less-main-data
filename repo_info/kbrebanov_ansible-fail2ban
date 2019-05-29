@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-24 16:20 ansible-fail2ban-master/
+-rw-rw-r-- root/root      1298 2018-09-24 16:20 ansible-fail2ban-master/LICENSE
+-rw-rw-r-- root/root       551 2018-09-24 16:20 ansible-fail2ban-master/README.md
+drwxrwxr-x root/root         0 2018-09-24 16:20 ansible-fail2ban-master/defaults/
+-rw-rw-r-- root/root        33 2018-09-24 16:20 ansible-fail2ban-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:20 ansible-fail2ban-master/handlers/
+-rw-rw-r-- root/root        33 2018-09-24 16:20 ansible-fail2ban-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:20 ansible-fail2ban-master/meta/
+-rw-rw-r-- root/root      2067 2018-09-24 16:20 ansible-fail2ban-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:20 ansible-fail2ban-master/tasks/
+-rw-rw-r-- root/root        48 2018-09-24 16:20 ansible-fail2ban-master/tasks/CentOS.yml
+-rw-rw-r-- root/root       186 2018-09-24 16:20 ansible-fail2ban-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       307 2018-09-24 16:20 ansible-fail2ban-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:20 ansible-fail2ban-master/vars/
+-rw-rw-r-- root/root        47 2018-09-24 16:20 ansible-fail2ban-master/vars/CentOS.yml
+-rw-rw-r-- root/root        80 2018-09-24 16:20 ansible-fail2ban-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        29 2018-09-24 16:20 ansible-fail2ban-master/vars/main.yml

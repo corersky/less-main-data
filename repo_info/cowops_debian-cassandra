@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-07 09:20 debian-cassandra-master/
+-rw-rw-r-- root/root      1027 2019-05-07 09:20 debian-cassandra-master/README.md
+drwxrwxr-x root/root         0 2019-05-07 09:20 debian-cassandra-master/defaults/
+-rw-rw-r-- root/root       246 2019-05-07 09:20 debian-cassandra-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:20 debian-cassandra-master/handlers/
+-rw-rw-r-- root/root       166 2019-05-07 09:20 debian-cassandra-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:20 debian-cassandra-master/meta/
+-rw-rw-r-- root/root       298 2019-05-07 09:20 debian-cassandra-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:20 debian-cassandra-master/tasks/
+-rw-rw-r-- root/root       825 2019-05-07 09:20 debian-cassandra-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:20 debian-cassandra-master/templates/
+-rw-rw-r-- root/root     25557 2019-05-07 09:20 debian-cassandra-master/templates/cassandra.yaml.j2

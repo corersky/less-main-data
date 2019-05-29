@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-17 12:13 ansible-role-root-ca-master/
+-rw-rw-r-- root/root       106 2018-11-17 12:13 ansible-role-root-ca-master/.gitignore
+-rw-rw-r-- root/root       411 2018-11-17 12:13 ansible-role-root-ca-master/README.md
+-rw-rw-r-- root/root       634 2018-11-17 12:13 ansible-role-root-ca-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-11-17 12:13 ansible-role-root-ca-master/defaults/
+-rw-rw-r-- root/root       362 2018-11-17 12:13 ansible-role-root-ca-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-17 12:13 ansible-role-root-ca-master/meta/
+-rw-rw-r-- root/root       195 2018-11-17 12:13 ansible-role-root-ca-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-17 12:13 ansible-role-root-ca-master/tasks/
+-rw-rw-r-- root/root       620 2018-11-17 12:13 ansible-role-root-ca-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-17 12:13 ansible-role-root-ca-master/templates/
+-rw-rw-r-- root/root       442 2018-11-17 12:13 ansible-role-root-ca-master/templates/ca-csr.json.j2
+drwxrwxr-x root/root         0 2018-11-17 12:13 ansible-role-root-ca-master/tests/
+-rw-rw-r-- root/root        41 2018-11-17 12:13 ansible-role-root-ca-master/tests/requirements.yml
+-rw-rw-r-- root/root        78 2018-11-17 12:13 ansible-role-root-ca-master/tests/test.yml

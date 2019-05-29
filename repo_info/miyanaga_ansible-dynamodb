@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-11 21:49 ansible-dynamodb-master/
+-rw-rw-r-- root/root      1074 2016-12-11 21:49 ansible-dynamodb-master/LICENSE
+-rw-rw-r-- root/root       552 2016-12-11 21:49 ansible-dynamodb-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 21:49 ansible-dynamodb-master/defaults/
+-rw-rw-r-- root/root       133 2016-12-11 21:49 ansible-dynamodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-11 21:49 ansible-dynamodb-master/handlers/
+-rw-rw-r-- root/root       101 2016-12-11 21:49 ansible-dynamodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-11 21:49 ansible-dynamodb-master/meta/
+-rw-rw-r-- root/root       430 2016-12-11 21:49 ansible-dynamodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 21:49 ansible-dynamodb-master/tasks/
+-rw-rw-r-- root/root       155 2016-12-11 21:49 ansible-dynamodb-master/tasks/centos.yml
+-rw-rw-r-- root/root       147 2016-12-11 21:49 ansible-dynamodb-master/tasks/debian.yml
+-rw-rw-r-- root/root      1328 2016-12-11 21:49 ansible-dynamodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 21:49 ansible-dynamodb-master/templates/
+-rw-rw-r-- root/root      2681 2016-12-11 21:49 ansible-dynamodb-master/templates/dynamodb.init.sh

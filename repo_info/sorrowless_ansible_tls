@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-20 13:56 ansible_tls-master/
+-rw-rw-r-- root/root     11357 2019-02-20 13:56 ansible_tls-master/LICENSE
+-rw-rw-r-- root/root       942 2019-02-20 13:56 ansible_tls-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 13:56 ansible_tls-master/defaults/
+-rw-rw-r-- root/root      1080 2019-02-20 13:56 ansible_tls-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-20 13:56 ansible_tls-master/meta/
+-rw-rw-r-- root/root       432 2019-02-20 13:56 ansible_tls-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 13:56 ansible_tls-master/tasks/
+-rw-rw-r-- root/root      4966 2019-02-20 13:56 ansible_tls-master/tasks/acme.yml
+-rw-rw-r-- root/root       979 2019-02-20 13:56 ansible_tls-master/tasks/local.yml
+-rw-rw-r-- root/root       547 2019-02-20 13:56 ansible_tls-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-20 13:56 ansible_tls-master/tests/
+-rw-rw-r-- root/root        11 2019-02-20 13:56 ansible_tls-master/tests/inventory
+-rw-rw-r-- root/root        61 2019-02-20 13:56 ansible_tls-master/tests/test.yml

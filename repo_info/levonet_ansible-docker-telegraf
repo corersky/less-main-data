@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-16 03:11 ansible-docker-telegraf-master/
+-rw-rw-r-- root/root        11 2019-04-16 03:11 ansible-docker-telegraf-master/.gitignore
+-rw-rw-r-- root/root       280 2019-04-16 03:11 ansible-docker-telegraf-master/.travis.yml
+-rw-rw-r-- root/root      1073 2019-04-16 03:11 ansible-docker-telegraf-master/LICENSE
+-rw-rw-r-- root/root      3014 2019-04-16 03:11 ansible-docker-telegraf-master/README.md
+drwxrwxr-x root/root         0 2019-04-16 03:11 ansible-docker-telegraf-master/defaults/
+-rw-rw-r-- root/root      1359 2019-04-16 03:11 ansible-docker-telegraf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-16 03:11 ansible-docker-telegraf-master/meta/
+-rw-rw-r-- root/root       628 2019-04-16 03:11 ansible-docker-telegraf-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-16 03:11 ansible-docker-telegraf-master/tasks/
+-rw-rw-r-- root/root      1321 2019-04-16 03:11 ansible-docker-telegraf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-16 03:11 ansible-docker-telegraf-master/templates/
+-rw-rw-r-- root/root        71 2019-04-16 03:11 ansible-docker-telegraf-master/templates/telegraf.conf.j2
+drwxrwxr-x root/root         0 2019-04-16 03:11 ansible-docker-telegraf-master/tests/
+-rw-rw-r-- root/root         9 2019-04-16 03:11 ansible-docker-telegraf-master/tests/inventory
+-rw-rw-r-- root/root       132 2019-04-16 03:11 ansible-docker-telegraf-master/tests/test.yml

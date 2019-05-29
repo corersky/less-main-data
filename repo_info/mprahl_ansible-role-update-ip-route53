@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-11-14 17:16 ansible-role-update-ip-route53-master/
+-rw-rw-r-- root/root      1067 2018-11-14 17:16 ansible-role-update-ip-route53-master/LICENSE
+-rw-rw-r-- root/root      1959 2018-11-14 17:16 ansible-role-update-ip-route53-master/README.md
+drwxrwxr-x root/root         0 2018-11-14 17:16 ansible-role-update-ip-route53-master/defaults/
+-rw-rw-r-- root/root        53 2018-11-14 17:16 ansible-role-update-ip-route53-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-14 17:16 ansible-role-update-ip-route53-master/meta/
+-rw-rw-r-- root/root       346 2018-11-14 17:16 ansible-role-update-ip-route53-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-14 17:16 ansible-role-update-ip-route53-master/tasks/
+-rw-rw-r-- root/root      1076 2018-11-14 17:16 ansible-role-update-ip-route53-master/tasks/main.yml
+-rw-rw-r-- root/root       801 2018-11-14 17:16 ansible-role-update-ip-route53-master/tasks/virtualenv.yml

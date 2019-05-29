@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-14 15:15 ssh_config_from_inventory-master/
+-rw-rw-r-- root/root       714 2017-09-14 15:15 ssh_config_from_inventory-master/.travis.yml
+-rw-rw-r-- root/root      5998 2017-09-14 15:15 ssh_config_from_inventory-master/README.md
+drwxrwxr-x root/root         0 2017-09-14 15:15 ssh_config_from_inventory-master/defaults/
+-rw-rw-r-- root/root       178 2017-09-14 15:15 ssh_config_from_inventory-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-14 15:15 ssh_config_from_inventory-master/meta/
+-rw-rw-r-- root/root      4017 2017-09-14 15:15 ssh_config_from_inventory-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-14 15:15 ssh_config_from_inventory-master/tasks/
+-rw-rw-r-- root/root       701 2017-09-14 15:15 ssh_config_from_inventory-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-14 15:15 ssh_config_from_inventory-master/templates/
+-rw-rw-r-- root/root      1377 2017-09-14 15:15 ssh_config_from_inventory-master/templates/ssh_config.j2
+drwxrwxr-x root/root         0 2017-09-14 15:15 ssh_config_from_inventory-master/tests/
+-rw-rw-r-- root/root       456 2017-09-14 15:15 ssh_config_from_inventory-master/tests/inventory
+-rw-rw-r-- root/root       818 2017-09-14 15:15 ssh_config_from_inventory-master/tests/ssh_config_expected
+-rw-rw-r-- root/root       182 2017-09-14 15:15 ssh_config_from_inventory-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-14 15:15 ssh_config_from_inventory-master/vars/
+-rw-rw-r-- root/root        46 2017-09-14 15:15 ssh_config_from_inventory-master/vars/main.yml

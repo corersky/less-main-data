@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-23 04:12 ansible-aptly-role-master/
+-rw-rw-r-- root/root      4313 2016-08-23 04:12 ansible-aptly-role-master/README.md
+drwxrwxr-x root/root         0 2016-08-23 04:12 ansible-aptly-role-master/defaults/
+-rw-rw-r-- root/root       147 2016-08-23 04:12 ansible-aptly-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-23 04:12 ansible-aptly-role-master/files/
+-rw-rw-r-- root/root       944 2016-08-23 04:12 ansible-aptly-role-master/files/dummy_0.1_all.deb
+drwxrwxr-x root/root         0 2016-08-23 04:12 ansible-aptly-role-master/handlers/
+-rw-rw-r-- root/root        80 2016-08-23 04:12 ansible-aptly-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-23 04:12 ansible-aptly-role-master/meta/
+-rw-rw-r-- root/root       247 2016-08-23 04:12 ansible-aptly-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-23 04:12 ansible-aptly-role-master/tasks/
+-rw-rw-r-- root/root      2963 2016-08-23 04:12 ansible-aptly-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-23 04:12 ansible-aptly-role-master/templates/
+-rw-rw-r-- root/root       145 2016-08-23 04:12 ansible-aptly-role-master/templates/nginx-aptly.conf.j2
+drwxrwxr-x root/root         0 2016-08-23 04:12 ansible-aptly-role-master/vars/
+-rw-rw-r-- root/root        26 2016-08-23 04:12 ansible-aptly-role-master/vars/main.yml

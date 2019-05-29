@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-16 22:03 ansible-linux-updates-master/
+-rw-rw-r-- root/root        11 2016-02-16 22:03 ansible-linux-updates-master/.gitignore
+-rw-rw-r-- root/root      1363 2016-02-16 22:03 ansible-linux-updates-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-02-16 22:03 ansible-linux-updates-master/LICENSE.md
+-rw-rw-r-- root/root       739 2016-02-16 22:03 ansible-linux-updates-master/README.md
+drwxrwxr-x root/root         0 2016-02-16 22:03 ansible-linux-updates-master/defaults/
+-rw-rw-r-- root/root        46 2016-02-16 22:03 ansible-linux-updates-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-16 22:03 ansible-linux-updates-master/meta/
+-rw-rw-r-- root/root       552 2016-02-16 22:03 ansible-linux-updates-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-16 22:03 ansible-linux-updates-master/tasks/
+-rw-rw-r-- root/root       453 2016-02-16 22:03 ansible-linux-updates-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-16 22:03 ansible-linux-updates-master/tests/
+-rw-rw-r-- root/root       510 2016-02-16 22:03 ansible-linux-updates-master/tests/Dockerfile.j2
+-rw-rw-r-- root/root        39 2016-02-16 22:03 ansible-linux-updates-master/tests/inventory
+-rw-rw-r-- root/root       131 2016-02-16 22:03 ansible-linux-updates-master/tests/template.yml
+-rw-rw-r-- root/root        62 2016-02-16 22:03 ansible-linux-updates-master/tests/test.yml

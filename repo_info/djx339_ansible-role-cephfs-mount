@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-04 01:13 ansible-role-cephfs-mount-master/
+-rw-rw-r-- root/root      1003 2018-01-04 01:13 ansible-role-cephfs-mount-master/README.md
+drwxrwxr-x root/root         0 2018-01-04 01:13 ansible-role-cephfs-mount-master/defaults/
+-rw-rw-r-- root/root       159 2018-01-04 01:13 ansible-role-cephfs-mount-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:13 ansible-role-cephfs-mount-master/handlers/
+-rw-rw-r-- root/root        37 2018-01-04 01:13 ansible-role-cephfs-mount-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:13 ansible-role-cephfs-mount-master/meta/
+-rw-rw-r-- root/root       991 2018-01-04 01:13 ansible-role-cephfs-mount-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:13 ansible-role-cephfs-mount-master/tasks/
+-rw-rw-r-- root/root      1361 2018-01-04 01:13 ansible-role-cephfs-mount-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:13 ansible-role-cephfs-mount-master/tests/
+-rw-rw-r-- root/root        11 2018-01-04 01:13 ansible-role-cephfs-mount-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-01-04 01:13 ansible-role-cephfs-mount-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-04 01:13 ansible-role-cephfs-mount-master/vars/
+-rw-rw-r-- root/root        33 2018-01-04 01:13 ansible-role-cephfs-mount-master/vars/main.yml

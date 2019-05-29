@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/
+-rw-rw-r-- root/root        51 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/.gitignore
+-rw-rw-r-- root/root         0 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/.gitmodules
+-rw-rw-r-- root/root      4420 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/README.md
+-rw-rw-r-- root/root    254005 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/ansible-role-apache-nifi-toolkit-folder-struct.png
+drwxrwxr-x root/root         0 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/defaults/
+-rw-rw-r-- root/root      1770 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/meta/
+-rw-rw-r-- root/root       693 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/tasks/
+-rw-rw-r-- root/root      1079 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/tasks/clean.yml
+-rw-rw-r-- root/root      1833 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/tasks/install.yml
+-rw-rw-r-- root/root      1017 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/tasks/main.yml
+-rw-rw-r-- root/root      1478 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/tasks/run_cmd.yml
+-rw-rw-r-- root/root       546 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/tasks/sync.yml
+drwxrwxr-x root/root         0 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/vars/
+-rw-rw-r-- root/root         4 2017-05-31 18:04 ansible-role-apache-nifi-toolkit-master/vars/main.yml

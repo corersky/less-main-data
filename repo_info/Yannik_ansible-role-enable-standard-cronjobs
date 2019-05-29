@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/
+-rw-rw-r-- root/root        26 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/.gitignore
+-rw-rw-r-- root/root       663 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/.travis.yml
+-rw-rw-r-- root/root      1067 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/README.md
+drwxrwxr-x root/root         0 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/defaults/
+-rw-rw-r-- root/root       328 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/meta/
+-rw-rw-r-- root/root       462 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/tasks/
+-rw-rw-r-- root/root       600 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/tasks/fix-cronjobs.yml
+-rw-rw-r-- root/root        56 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/tests/
+-rw-rw-r-- root/root         9 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/tests/inventory
+-rw-rw-r-- root/root        96 2018-01-07 16:23 ansible-role-enable-standard-cronjobs-master/tests/test.yml

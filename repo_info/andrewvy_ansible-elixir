@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-28 11:06 ansible-elixir-master/
+-rw-rw-r-- root/root       181 2016-01-28 11:06 ansible-elixir-master/.gitignore
+-rw-rw-r-- root/root      1076 2016-01-28 11:06 ansible-elixir-master/LICENSE
+-rw-rw-r-- root/root      3626 2016-01-28 11:06 ansible-elixir-master/README.md
+drwxrwxr-x root/root         0 2016-01-28 11:06 ansible-elixir-master/defaults/
+-rw-rw-r-- root/root       157 2016-01-28 11:06 ansible-elixir-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-28 11:06 ansible-elixir-master/meta/
+-rw-rw-r-- root/root       429 2016-01-28 11:06 ansible-elixir-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-28 11:06 ansible-elixir-master/tasks/
+-rw-rw-r-- root/root      2124 2016-01-28 11:06 ansible-elixir-master/tasks/action-build.yml
+-rw-rw-r-- root/root       140 2016-01-28 11:06 ansible-elixir-master/tasks/action-setup.yml
+-rw-rw-r-- root/root       308 2016-01-28 11:06 ansible-elixir-master/tasks/action-start.yml
+-rw-rw-r-- root/root       575 2016-01-28 11:06 ansible-elixir-master/tasks/action-upgrade.yml
+-rw-rw-r-- root/root       671 2016-01-28 11:06 ansible-elixir-master/tasks/deploy.yml
+-rw-rw-r-- root/root       227 2016-01-28 11:06 ansible-elixir-master/tasks/main.yml

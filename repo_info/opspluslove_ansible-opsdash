@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-opsdash-master/
+-rw-rw-r-- root/root       539 2016-05-23 19:22 ansible-opsdash-master/.travis.yml
+-rw-rw-r-- root/root      1108 2016-05-23 19:22 ansible-opsdash-master/LICENSE
+-rw-rw-r-- root/root       313 2016-05-23 19:22 ansible-opsdash-master/README.md
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-opsdash-master/defaults/
+-rw-rw-r-- root/root       291 2016-05-23 19:22 ansible-opsdash-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-opsdash-master/meta/
+-rw-rw-r-- root/root       290 2016-05-23 19:22 ansible-opsdash-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-opsdash-master/tasks/
+-rw-rw-r-- root/root       585 2016-05-23 19:22 ansible-opsdash-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-opsdash-master/templates/
+-rw-rw-r-- root/root      2387 2016-05-23 19:22 ansible-opsdash-master/templates/server.cfg
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-opsdash-master/tests/
+-rw-rw-r-- root/root         9 2016-05-23 19:22 ansible-opsdash-master/tests/inventory
+-rw-rw-r-- root/root        73 2016-05-23 19:22 ansible-opsdash-master/tests/test.yml

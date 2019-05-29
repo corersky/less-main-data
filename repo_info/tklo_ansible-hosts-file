@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-11-04 09:12 ansible-hosts-file-master/
+-rw-rw-r-- root/root      1157 2017-11-04 09:12 ansible-hosts-file-master/.gitignore
+-rw-rw-r-- root/root      1073 2017-11-04 09:12 ansible-hosts-file-master/LICENSE
+-rw-rw-r-- root/root        85 2017-11-04 09:12 ansible-hosts-file-master/README.md
+drwxrwxr-x root/root         0 2017-11-04 09:12 ansible-hosts-file-master/meta/
+-rw-rw-r-- root/root       279 2017-11-04 09:12 ansible-hosts-file-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-04 09:12 ansible-hosts-file-master/tasks/
+-rw-rw-r-- root/root       209 2017-11-04 09:12 ansible-hosts-file-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-04 09:12 ansible-hosts-file-master/templates/
+-rw-rw-r-- root/root       736 2017-11-04 09:12 ansible-hosts-file-master/templates/hosts.j2

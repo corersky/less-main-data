@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-10-12 09:03 ansible-role-packages-master/
+-rw-rw-r-- root/root        14 2017-10-12 09:03 ansible-role-packages-master/.gitignore
+-rw-rw-r-- root/root        79 2017-10-12 09:03 ansible-role-packages-master/README.md
+drwxrwxr-x root/root         0 2017-10-12 09:03 ansible-role-packages-master/defaults/
+-rw-rw-r-- root/root       144 2017-10-12 09:03 ansible-role-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:03 ansible-role-packages-master/meta/
+-rw-rw-r-- root/root      2608 2017-10-12 09:03 ansible-role-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:03 ansible-role-packages-master/tasks/
+-rw-rw-r-- root/root       850 2017-10-12 09:03 ansible-role-packages-master/tasks/install.yml
+-rw-rw-r-- root/root       448 2017-10-12 09:03 ansible-role-packages-master/tasks/main.yml
+-rw-rw-r-- root/root       660 2017-10-12 09:03 ansible-role-packages-master/tasks/update_apt.yml
+-rw-rw-r-- root/root       204 2017-10-12 09:03 ansible-role-packages-master/tasks/update_yum.yml

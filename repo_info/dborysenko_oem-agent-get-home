@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-14 13:18 oem-agent-get-home-master/
+-rw-rw-r-- root/root       539 2017-07-14 13:18 oem-agent-get-home-master/.travis.yml
+-rw-rw-r-- root/root      1113 2017-07-14 13:18 oem-agent-get-home-master/README.md
+drwxrwxr-x root/root         0 2017-07-14 13:18 oem-agent-get-home-master/defaults/
+-rw-rw-r-- root/root       147 2017-07-14 13:18 oem-agent-get-home-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-14 13:18 oem-agent-get-home-master/handlers/
+-rw-rw-r-- root/root        43 2017-07-14 13:18 oem-agent-get-home-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-14 13:18 oem-agent-get-home-master/meta/
+-rw-rw-r-- root/root      3258 2017-07-14 13:18 oem-agent-get-home-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-14 13:18 oem-agent-get-home-master/tasks/
+-rw-rw-r-- root/root      1215 2017-07-14 13:18 oem-agent-get-home-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-14 13:18 oem-agent-get-home-master/templates/
+-rw-rw-r-- root/root      1285 2017-07-14 13:18 oem-agent-get-home-master/templates/emcliGetOracleHome.py
+drwxrwxr-x root/root         0 2017-07-14 13:18 oem-agent-get-home-master/tests/
+-rw-rw-r-- root/root         9 2017-07-14 13:18 oem-agent-get-home-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-07-14 13:18 oem-agent-get-home-master/tests/test.yml

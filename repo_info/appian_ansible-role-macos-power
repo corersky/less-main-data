@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-05 09:16 ansible-role-macos-power-master/
+-rw-rw-r-- root/root         8 2018-10-05 09:16 ansible-role-macos-power-master/.gitignore
+-rw-rw-r-- root/root       166 2018-10-05 09:16 ansible-role-macos-power-master/CONTRIBUTING
+-rw-rw-r-- root/root     11357 2018-10-05 09:16 ansible-role-macos-power-master/LICENSE
+-rw-rw-r-- root/root       910 2018-10-05 09:16 ansible-role-macos-power-master/README.md
+drwxrwxr-x root/root         0 2018-10-05 09:16 ansible-role-macos-power-master/defaults/
+-rw-rw-r-- root/root       417 2018-10-05 09:16 ansible-role-macos-power-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-05 09:16 ansible-role-macos-power-master/meta/
+-rw-rw-r-- root/root       388 2018-10-05 09:16 ansible-role-macos-power-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-05 09:16 ansible-role-macos-power-master/tasks/
+-rw-rw-r-- root/root       912 2018-10-05 09:16 ansible-role-macos-power-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-05 09:16 ansible-role-macos-power-master/tests/
+-rw-rw-r-- root/root        11 2018-10-05 09:16 ansible-role-macos-power-master/tests/inventory
+-rw-rw-r-- root/root       464 2018-10-05 09:16 ansible-role-macos-power-master/tests/test.yml

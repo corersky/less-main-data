@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-08 00:42 reposerver-master/
+-rw-rw-r-- root/root       544 2019-02-08 00:42 reposerver-master/README.md
+drwxrwxr-x root/root         0 2019-02-08 00:42 reposerver-master/defaults/
+-rw-rw-r-- root/root        32 2019-02-08 00:42 reposerver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-08 00:42 reposerver-master/handlers/
+-rw-rw-r-- root/root       113 2019-02-08 00:42 reposerver-master/handlers/main.yml
+-rw-rw-r-- root/root      1068 2019-02-08 00:42 reposerver-master/inventory
+drwxrwxr-x root/root         0 2019-02-08 00:42 reposerver-master/meta/
+-rw-rw-r-- root/root      1973 2019-02-08 00:42 reposerver-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-08 00:42 reposerver-master/tasks/
+-rw-rw-r-- root/root       580 2019-02-08 00:42 reposerver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-08 00:42 reposerver-master/tests/
+-rw-rw-r-- root/root        10 2019-02-08 00:42 reposerver-master/tests/inventory
+-rw-rw-r-- root/root        66 2019-02-08 00:42 reposerver-master/tests/test.yml
+-rw-rw-r-- root/root       101 2019-02-08 00:42 reposerver-master/use-reposvr-role.yml
+drwxrwxr-x root/root         0 2019-02-08 00:42 reposerver-master/vars/
+-rw-rw-r-- root/root        72 2019-02-08 00:42 reposerver-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-11 09:53 ansible-role-ansible-key-master/
+-rw-rw-r-- root/root        27 2018-10-11 09:53 ansible-role-ansible-key-master/.gitignore
+-rw-rw-r-- root/root      1066 2018-10-11 09:53 ansible-role-ansible-key-master/LICENSE
+-rw-rw-r-- root/root      3570 2018-10-11 09:53 ansible-role-ansible-key-master/README.md
+drwxrwxr-x root/root         0 2018-10-11 09:53 ansible-role-ansible-key-master/defaults/
+-rw-rw-r-- root/root       184 2018-10-11 09:53 ansible-role-ansible-key-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-11 09:53 ansible-role-ansible-key-master/meta/
+-rw-rw-r-- root/root       327 2018-10-11 09:53 ansible-role-ansible-key-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-11 09:53 ansible-role-ansible-key-master/tasks/
+-rw-rw-r-- root/root        61 2018-10-11 09:53 ansible-role-ansible-key-master/tasks/main.yml
+-rw-rw-r-- root/root       701 2018-10-11 09:53 ansible-role-ansible-key-master/tasks/setup-key.yml
+drwxrwxr-x root/root         0 2018-10-11 09:53 ansible-role-ansible-key-master/tests/
+-rw-rw-r-- root/root        69 2018-10-11 09:53 ansible-role-ansible-key-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-02 16:35 ansible-role-nfs_server-master/
+-rw-rw-r-- root/root       788 2019-04-02 16:35 ansible-role-nfs_server-master/README.md
+drwxrwxr-x root/root         0 2019-04-02 16:35 ansible-role-nfs_server-master/defaults/
+-rw-rw-r-- root/root        63 2019-04-02 16:35 ansible-role-nfs_server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-02 16:35 ansible-role-nfs_server-master/handlers/
+-rw-rw-r-- root/root       195 2019-04-02 16:35 ansible-role-nfs_server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-02 16:35 ansible-role-nfs_server-master/meta/
+-rw-rw-r-- root/root       363 2019-04-02 16:35 ansible-role-nfs_server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-02 16:35 ansible-role-nfs_server-master/tasks/
+-rw-rw-r-- root/root       857 2019-04-02 16:35 ansible-role-nfs_server-master/tasks/main.yml
+-rw-rw-r-- root/root       982 2019-04-02 16:35 ansible-role-nfs_server-master/tasks/share.yml
+drwxrwxr-x root/root         0 2019-04-02 16:35 ansible-role-nfs_server-master/tests/
+-rw-rw-r-- root/root        11 2019-04-02 16:35 ansible-role-nfs_server-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-04-02 16:35 ansible-role-nfs_server-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-02 16:35 ansible-role-nfs_server-master/vars/
+-rw-rw-r-- root/root       123 2019-04-02 16:35 ansible-role-nfs_server-master/vars/main.yml

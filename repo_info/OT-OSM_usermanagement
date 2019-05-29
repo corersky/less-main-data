@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-12-04 05:10 usermanagement-master/
+-rw-rw-r-- root/root      1802 2018-12-04 05:10 usermanagement-master/README.md
+drwxrwxr-x root/root         0 2018-12-04 05:10 usermanagement-master/meta/
+-rw-rw-r-- root/root       444 2018-12-04 05:10 usermanagement-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-04 05:10 usermanagement-master/pub_keys/
+-rw-rw-r-- root/root         0 2018-12-04 05:10 usermanagement-master/pub_keys/dummypublickey
+drwxrwxr-x root/root         0 2018-12-04 05:10 usermanagement-master/tasks/
+-rw-rw-r-- root/root       916 2018-12-04 05:10 usermanagement-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-04 05:10 usermanagement-master/templates/
+-rw-rw-r-- root/root       274 2018-12-04 05:10 usermanagement-master/templates/sudoersfile.j2
+-rw-rw-r-- root/root         0 2018-12-04 05:10 usermanagement-master/userlist
+-rw-rw-r-- root/root        83 2018-12-04 05:10 usermanagement-master/users.yml

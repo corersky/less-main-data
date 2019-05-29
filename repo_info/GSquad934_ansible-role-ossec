@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-07 12:55 ansible-role-ossec-master/
+-rw-rw-r-- root/root       149 2018-08-07 12:55 ansible-role-ossec-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-08-07 12:55 ansible-role-ossec-master/LICENSE.md
+-rw-rw-r-- root/root      1992 2018-08-07 12:55 ansible-role-ossec-master/README.md
+drwxrwxr-x root/root         0 2018-08-07 12:55 ansible-role-ossec-master/defaults/
+-rw-rw-r-- root/root       643 2018-08-07 12:55 ansible-role-ossec-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-07 12:55 ansible-role-ossec-master/handlers/
+-rw-rw-r-- root/root        74 2018-08-07 12:55 ansible-role-ossec-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-07 12:55 ansible-role-ossec-master/meta/
+-rw-rw-r-- root/root       264 2018-08-07 12:55 ansible-role-ossec-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-07 12:55 ansible-role-ossec-master/tasks/
+-rw-rw-r-- root/root        52 2018-08-07 12:55 ansible-role-ossec-master/tasks/main.yml
+-rw-rw-r-- root/root      3170 2018-08-07 12:55 ansible-role-ossec-master/tasks/ossec.yml

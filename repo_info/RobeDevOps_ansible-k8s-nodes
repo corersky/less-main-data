@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-06 09:09 ansible-k8s-nodes-master/
+-rw-rw-r-- root/root      1657 2019-05-06 09:09 ansible-k8s-nodes-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 09:09 ansible-k8s-nodes-master/handlers/
+-rw-rw-r-- root/root       150 2019-05-06 09:09 ansible-k8s-nodes-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-05-06 09:09 ansible-k8s-nodes-master/meta/
+-rw-rw-r-- root/root       334 2019-05-06 09:09 ansible-k8s-nodes-master/meta/main.yaml
+drwxrwxr-x root/root         0 2019-05-06 09:09 ansible-k8s-nodes-master/tasks/
+-rw-rw-r-- root/root      1406 2019-05-06 09:09 ansible-k8s-nodes-master/tasks/CentOS.yaml
+-rw-rw-r-- root/root        85 2019-05-06 09:09 ansible-k8s-nodes-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-05-06 09:09 ansible-k8s-nodes-master/templates/
+-rw-rw-r-- root/root        78 2019-05-06 09:09 ansible-k8s-nodes-master/templates/k8s.conf.j2
+-rw-rw-r-- root/root       270 2019-05-06 09:09 ansible-k8s-nodes-master/templates/kubernetes.repo.j2

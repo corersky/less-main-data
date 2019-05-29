@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/
+-rw-rw-r-- root/root        26 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/.gitignore
+-rw-rw-r-- root/root      1904 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/README.md
+drwxrwxr-x root/root         0 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/defaults/
+-rw-rw-r-- root/root        66 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/meta/
+-rw-rw-r-- root/root       185 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/tasks/
+-rw-rw-r-- root/root      5984 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/tasks/jail.yml
+-rw-rw-r-- root/root      1331 2018-10-28 07:38 ansible_role_freebsd_jail_hostmaster-master/tasks/main.yml

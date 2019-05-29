@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-10-10 11:26 ansible-role-aws-inspector-master/
+-rw-rw-r-- root/root        22 2017-10-10 11:26 ansible-role-aws-inspector-master/.gitignore
+-rw-rw-r-- root/root       393 2017-10-10 11:26 ansible-role-aws-inspector-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-10-10 11:26 ansible-role-aws-inspector-master/LICENSE
+-rw-rw-r-- root/root      1502 2017-10-10 11:26 ansible-role-aws-inspector-master/README.md
+drwxrwxr-x root/root         0 2017-10-10 11:26 ansible-role-aws-inspector-master/defaults/
+-rw-rw-r-- root/root       230 2017-10-10 11:26 ansible-role-aws-inspector-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-10 11:26 ansible-role-aws-inspector-master/handlers/
+-rw-rw-r-- root/root        70 2017-10-10 11:26 ansible-role-aws-inspector-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-10 11:26 ansible-role-aws-inspector-master/meta/
+-rw-rw-r-- root/root       436 2017-10-10 11:26 ansible-role-aws-inspector-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-10 11:26 ansible-role-aws-inspector-master/tasks/
+-rw-rw-r-- root/root       508 2017-10-10 11:26 ansible-role-aws-inspector-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-10 11:26 ansible-role-aws-inspector-master/tests/
+-rw-rw-r-- root/root       632 2017-10-10 11:26 ansible-role-aws-inspector-master/tests/README.md
+-rw-rw-r-- root/root       257 2017-10-10 11:26 ansible-role-aws-inspector-master/tests/test.yml

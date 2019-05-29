@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2015-12-01 18:27 role-ansible_deps-master/
+-rw-rw-r-- root/root         6 2015-12-01 18:27 role-ansible_deps-master/.gitignore
+-rw-rw-r-- root/root      1236 2015-12-01 18:27 role-ansible_deps-master/.travis.yml
+-rw-rw-r-- root/root       378 2015-12-01 18:27 role-ansible_deps-master/README.md
+drwxrwxr-x root/root         0 2015-12-01 18:27 role-ansible_deps-master/defaults/
+-rw-rw-r-- root/root        26 2015-12-01 18:27 role-ansible_deps-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-01 18:27 role-ansible_deps-master/handlers/
+-rw-rw-r-- root/root        26 2015-12-01 18:27 role-ansible_deps-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-01 18:27 role-ansible_deps-master/meta/
+-rw-rw-r-- root/root      2252 2015-12-01 18:27 role-ansible_deps-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-01 18:27 role-ansible_deps-master/tasks/
+-rw-rw-r-- root/root      1861 2015-12-01 18:27 role-ansible_deps-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-01 18:27 role-ansible_deps-master/test/
+-rw-rw-r-- root/root        35 2015-12-01 18:27 role-ansible_deps-master/test/inventory
+-rw-rw-r-- root/root       861 2015-12-01 18:27 role-ansible_deps-master/test/main.yml
+-rw-rw-r-- root/root        64 2015-12-01 18:27 role-ansible_deps-master/test/requirements.yml
+drwxrwxr-x root/root         0 2015-12-01 18:27 role-ansible_deps-master/test/roles/
+lrwxrwxrwx root/root         0 2015-12-01 18:27 role-ansible_deps-master/test/roles/ansible_deps -> ../../../role-ansible_deps/
+drwxrwxr-x root/root         0 2015-12-01 18:27 role-ansible_deps-master/vars/
+-rw-rw-r-- root/root        22 2015-12-01 18:27 role-ansible_deps-master/vars/main.yml

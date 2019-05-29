@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-02-01 12:25 ansible-php-fpm-pool-master/
+-rw-rw-r-- root/root       815 2016-02-01 12:25 ansible-php-fpm-pool-master/.gitignore
+-rw-rw-r-- root/root      1079 2016-02-01 12:25 ansible-php-fpm-pool-master/LICENSE
+-rw-rw-r-- root/root      1499 2016-02-01 12:25 ansible-php-fpm-pool-master/README.md
+drwxrwxr-x root/root         0 2016-02-01 12:25 ansible-php-fpm-pool-master/defaults/
+-rw-rw-r-- root/root       684 2016-02-01 12:25 ansible-php-fpm-pool-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-01 12:25 ansible-php-fpm-pool-master/handlers/
+-rw-rw-r-- root/root       243 2016-02-01 12:25 ansible-php-fpm-pool-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-01 12:25 ansible-php-fpm-pool-master/meta/
+-rw-rw-r-- root/root       448 2016-02-01 12:25 ansible-php-fpm-pool-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-01 12:25 ansible-php-fpm-pool-master/tasks/
+-rw-rw-r-- root/root      1140 2016-02-01 12:25 ansible-php-fpm-pool-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-01 12:25 ansible-php-fpm-pool-master/templates/
+-rw-rw-r-- root/root      3348 2016-02-01 12:25 ansible-php-fpm-pool-master/templates/nginx_php.conf.j2
+-rw-rw-r-- root/root      1635 2016-02-01 12:25 ansible-php-fpm-pool-master/templates/pool.phpfpm.j2

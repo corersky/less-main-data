@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-13 08:29 ansible-role-composer-master/
+-rw-rw-r-- root/root      1006 2015-10-13 08:29 ansible-role-composer-master/.travis.yml
+-rw-rw-r-- root/root      1818 2015-10-13 08:29 ansible-role-composer-master/README.md
+drwxrwxr-x root/root         0 2015-10-13 08:29 ansible-role-composer-master/defaults/
+-rw-rw-r-- root/root       462 2015-10-13 08:29 ansible-role-composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-13 08:29 ansible-role-composer-master/meta/
+-rw-rw-r-- root/root       671 2015-10-13 08:29 ansible-role-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-13 08:29 ansible-role-composer-master/tasks/
+-rw-rw-r-- root/root       642 2015-10-13 08:29 ansible-role-composer-master/tasks/global-require.yml
+-rw-rw-r-- root/root       733 2015-10-13 08:29 ansible-role-composer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-13 08:29 ansible-role-composer-master/templates/
+-rw-rw-r-- root/root        90 2015-10-13 08:29 ansible-role-composer-master/templates/auth.json.j2
+-rw-rw-r-- root/root        54 2015-10-13 08:29 ansible-role-composer-master/templates/composer.sh.j2
+drwxrwxr-x root/root         0 2015-10-13 08:29 ansible-role-composer-master/tests/
+-rw-rw-r-- root/root        10 2015-10-13 08:29 ansible-role-composer-master/tests/inventory
+-rw-rw-r-- root/root       189 2015-10-13 08:29 ansible-role-composer-master/tests/test-global-require.yml
+-rw-rw-r-- root/root        96 2015-10-13 08:29 ansible-role-composer-master/tests/test.yml

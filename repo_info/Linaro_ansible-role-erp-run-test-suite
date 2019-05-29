@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/
+-rw-rw-r-- root/root      1321 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/.travis.yml
+-rw-rw-r-- root/root      1297 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/LICENSE
+-rw-rw-r-- root/root       934 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/README.md
+drwxrwxr-x root/root         0 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/defaults/
+-rw-rw-r-- root/root       412 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/meta/
+-rw-rw-r-- root/root       289 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/tasks/
+-rw-rw-r-- root/root      1855 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/templates/
+-rw-rw-r-- root/root      2628 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/templates/run_erp_suite.sh
+drwxrwxr-x root/root         0 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/tests/
+-rw-rw-r-- root/root        10 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/tests/test.retry
+-rw-rw-r-- root/root       112 2018-05-31 23:55 ansible-role-erp-run-test-suite-master/tests/test.yml

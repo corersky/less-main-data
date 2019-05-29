@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2017-08-29 11:09 ansible-role-docker-engine-master/
+-rw-rw-r-- root/root       274 2017-08-29 11:09 ansible-role-docker-engine-master/.travis.yml
+-rw-rw-r-- root/root       397 2017-08-29 11:09 ansible-role-docker-engine-master/CHANGELOG.md
+-rw-rw-r-- root/root       494 2017-08-29 11:09 ansible-role-docker-engine-master/Jenkinsfile
+-rw-rw-r-- root/root      1066 2017-08-29 11:09 ansible-role-docker-engine-master/LICENSE.md
+-rw-rw-r-- root/root       200 2017-08-29 11:09 ansible-role-docker-engine-master/Makefile
+-rw-rw-r-- root/root       973 2017-08-29 11:09 ansible-role-docker-engine-master/README.md
+drwxrwxr-x root/root         0 2017-08-29 11:09 ansible-role-docker-engine-master/defaults/
+-rw-rw-r-- root/root        76 2017-08-29 11:09 ansible-role-docker-engine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-29 11:09 ansible-role-docker-engine-master/files/
+-rw-rw-r-- root/root        39 2017-08-29 11:09 ansible-role-docker-engine-master/files/daemon.json
+drwxrwxr-x root/root         0 2017-08-29 11:09 ansible-role-docker-engine-master/meta/
+-rw-rw-r-- root/root       398 2017-08-29 11:09 ansible-role-docker-engine-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-29 11:09 ansible-role-docker-engine-master/tasks/
+-rw-rw-r-- root/root       908 2017-08-29 11:09 ansible-role-docker-engine-master/tasks/install-centos.yml
+-rw-rw-r-- root/root       734 2017-08-29 11:09 ansible-role-docker-engine-master/tasks/install-debian.yml
+-rw-rw-r-- root/root       913 2017-08-29 11:09 ansible-role-docker-engine-master/tasks/install-fedora.yml
+-rw-rw-r-- root/root       691 2017-08-29 11:09 ansible-role-docker-engine-master/tasks/install-ubuntu.yml
+-rw-rw-r-- root/root       831 2017-08-29 11:09 ansible-role-docker-engine-master/tasks/main.yml
+-rw-rw-r-- root/root       353 2017-08-29 11:09 ansible-role-docker-engine-master/tasks/purge-apt.yml
+drwxrwxr-x root/root         0 2017-08-29 11:09 ansible-role-docker-engine-master/tests/
+-rw-rw-r-- root/root        35 2017-08-29 11:09 ansible-role-docker-engine-master/tests/inventory
+-rw-rw-r-- root/root       341 2017-08-29 11:09 ansible-role-docker-engine-master/tests/main.yml
+drwxrwxr-x root/root         0 2017-08-29 11:09 ansible-role-docker-engine-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-08-29 11:09 ansible-role-docker-engine-master/tests/roles/pauvos.docker-engine -> ../../

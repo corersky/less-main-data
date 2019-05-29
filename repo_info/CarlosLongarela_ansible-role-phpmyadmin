@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-11 07:16 ansible-role-phpmyadmin-master/
+-rw-rw-r-- root/root       752 2018-11-11 07:16 ansible-role-phpmyadmin-master/.travis.yml
+-rw-rw-r-- root/root      1316 2018-11-11 07:16 ansible-role-phpmyadmin-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 07:16 ansible-role-phpmyadmin-master/defaults/
+-rw-rw-r-- root/root        46 2018-11-11 07:16 ansible-role-phpmyadmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 07:16 ansible-role-phpmyadmin-master/meta/
+-rw-rw-r-- root/root       363 2018-11-11 07:16 ansible-role-phpmyadmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 07:16 ansible-role-phpmyadmin-master/tasks/
+-rw-rw-r-- root/root       752 2018-11-11 07:16 ansible-role-phpmyadmin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 07:16 ansible-role-phpmyadmin-master/templates/
+-rw-rw-r-- root/root      4576 2018-11-11 07:16 ansible-role-phpmyadmin-master/templates/config.sample.inc.php.j2
+drwxrwxr-x root/root         0 2018-11-11 07:16 ansible-role-phpmyadmin-master/tests/
+-rw-rw-r-- root/root        11 2018-11-11 07:16 ansible-role-phpmyadmin-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-11-11 07:16 ansible-role-phpmyadmin-master/tests/test.yml

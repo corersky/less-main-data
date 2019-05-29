@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2019-01-16 12:04 ansible-freebsd-modules-master/
+-rw-rw-r-- root/root         7 2019-01-16 12:04 ansible-freebsd-modules-master/.gitignore
+-rw-rw-r-- root/root      1082 2019-01-16 12:04 ansible-freebsd-modules-master/LICENSE
+-rw-rw-r-- root/root      1405 2019-01-16 12:04 ansible-freebsd-modules-master/README.md
+drwxrwxr-x root/root         0 2019-01-16 12:04 ansible-freebsd-modules-master/library/
+-rwxrwxr-x root/root      5049 2019-01-16 12:04 ansible-freebsd-modules-master/library/kld
+-rw-rw-r-- root/root      6818 2019-01-16 12:04 ansible-freebsd-modules-master/library/sysrc
+drwxrwxr-x root/root         0 2019-01-16 12:04 ansible-freebsd-modules-master/meta/
+-rw-rw-r-- root/root       232 2019-01-16 12:04 ansible-freebsd-modules-master/meta/main.yml

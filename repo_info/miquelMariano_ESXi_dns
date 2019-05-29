@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-28 08:14 ESXi_dns-master/
+-rw-rw-r-- root/root       539 2017-06-28 08:14 ESXi_dns-master/.travis.yml
+-rw-rw-r-- root/root      1643 2017-06-28 08:14 ESXi_dns-master/README.md
+drwxrwxr-x root/root         0 2017-06-28 08:14 ESXi_dns-master/defaults/
+-rw-rw-r-- root/root        33 2017-06-28 08:14 ESXi_dns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:14 ESXi_dns-master/handlers/
+-rw-rw-r-- root/root        33 2017-06-28 08:14 ESXi_dns-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:14 ESXi_dns-master/meta/
+-rw-rw-r-- root/root       368 2017-06-28 08:14 ESXi_dns-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:14 ESXi_dns-master/tasks/
+-rw-rw-r-- root/root        65 2017-06-28 08:14 ESXi_dns-master/tasks/main.yml
+-rw-rw-r-- root/root       902 2017-06-28 08:14 ESXi_dns-master/tasks/set.yml
+drwxrwxr-x root/root         0 2017-06-28 08:14 ESXi_dns-master/tests/
+-rw-rw-r-- root/root         9 2017-06-28 08:14 ESXi_dns-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-06-28 08:14 ESXi_dns-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-28 08:14 ESXi_dns-master/vars/
+-rw-rw-r-- root/root        29 2017-06-28 08:14 ESXi_dns-master/vars/main.yml

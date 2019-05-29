@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-chronos-master/
+-rw-rw-r-- root/root        20 2016-03-31 10:15 ansible-role-chronos-master/README.md
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-chronos-master/defaults/
+-rw-rw-r-- root/root      3244 2016-03-31 10:15 ansible-role-chronos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-chronos-master/handlers/
+-rw-rw-r-- root/root        68 2016-03-31 10:15 ansible-role-chronos-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-chronos-master/meta/
+-rw-rw-r-- root/root      3210 2016-03-31 10:15 ansible-role-chronos-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-chronos-master/tasks/
+-rw-rw-r-- root/root       318 2016-03-31 10:15 ansible-role-chronos-master/tasks/Debian.yml
+-rw-rw-r-- root/root      2066 2016-03-31 10:15 ansible-role-chronos-master/tasks/conf.yml
+-rw-rw-r-- root/root       272 2016-03-31 10:15 ansible-role-chronos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-chronos-master/vars/
+-rw-rw-r-- root/root       127 2016-03-31 10:15 ansible-role-chronos-master/vars/Debian.yml
+-rw-rw-r-- root/root         3 2016-03-31 10:15 ansible-role-chronos-master/vars/main.yml

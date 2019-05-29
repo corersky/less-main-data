@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-05 08:16 ansible-role-proftpd-master/
+-rw-rw-r-- root/root       475 2018-10-05 08:16 ansible-role-proftpd-master/README.md
+drwxrwxr-x root/root         0 2018-10-05 08:16 ansible-role-proftpd-master/defaults/
+-rw-rw-r-- root/root      1450 2018-10-05 08:16 ansible-role-proftpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-05 08:16 ansible-role-proftpd-master/handlers/
+-rw-rw-r-- root/root        76 2018-10-05 08:16 ansible-role-proftpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-05 08:16 ansible-role-proftpd-master/meta/
+-rw-rw-r-- root/root       223 2018-10-05 08:16 ansible-role-proftpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-05 08:16 ansible-role-proftpd-master/tasks/
+-rw-rw-r-- root/root      1371 2018-10-05 08:16 ansible-role-proftpd-master/tasks/main.yml
+-rw-rw-r-- root/root        90 2018-10-05 08:16 ansible-role-proftpd-master/tasks/setup-debian.yml
+-rw-rw-r-- root/root        90 2018-10-05 08:16 ansible-role-proftpd-master/tasks/setup-redhat.yml
+drwxrwxr-x root/root         0 2018-10-05 08:16 ansible-role-proftpd-master/templates/
+-rwxrwxr-x root/root       815 2018-10-05 08:16 ansible-role-proftpd-master/templates/proftpd-make-users.j2
+-rw-rw-r-- root/root      3363 2018-10-05 08:16 ansible-role-proftpd-master/templates/proftpd.conf.j2
+-rw-rw-r-- root/root       767 2018-10-05 08:16 ansible-role-proftpd-master/templates/proftpd.tls.conf.j2

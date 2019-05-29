@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-13 12:32 memcached-operator-role-master/
+-rw-rw-r-- root/root       594 2019-03-13 12:32 memcached-operator-role-master/README.md
+drwxrwxr-x root/root         0 2019-03-13 12:32 memcached-operator-role-master/defaults/
+-rw-rw-r-- root/root        42 2019-03-13 12:32 memcached-operator-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-13 12:32 memcached-operator-role-master/handlers/
+-rw-rw-r-- root/root        33 2019-03-13 12:32 memcached-operator-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-13 12:32 memcached-operator-role-master/meta/
+-rw-rw-r-- root/root      1847 2019-03-13 12:32 memcached-operator-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-13 12:32 memcached-operator-role-master/tasks/
+-rw-rw-r-- root/root       732 2019-03-13 12:32 memcached-operator-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-13 12:32 memcached-operator-role-master/tests/
+-rw-rw-r-- root/root        11 2019-03-13 12:32 memcached-operator-role-master/tests/inventory
+-rw-rw-r-- root/root        67 2019-03-13 12:32 memcached-operator-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-13 12:32 memcached-operator-role-master/vars/
+-rw-rw-r-- root/root        29 2019-03-13 12:32 memcached-operator-role-master/vars/main.yml

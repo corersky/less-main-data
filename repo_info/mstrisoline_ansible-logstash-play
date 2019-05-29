@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-01-20 11:23 ansible-logstash-play-master/
+-rw-rw-r-- root/root      1078 2014-01-20 11:23 ansible-logstash-play-master/LICENSE
+-rw-rw-r-- root/root      1458 2014-01-20 11:23 ansible-logstash-play-master/README.md
+drwxrwxr-x root/root         0 2014-01-20 11:23 ansible-logstash-play-master/defaults/
+-rw-rw-r-- root/root       199 2014-01-20 11:23 ansible-logstash-play-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-20 11:23 ansible-logstash-play-master/meta/
+-rw-rw-r-- root/root       318 2014-01-20 11:23 ansible-logstash-play-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-20 11:23 ansible-logstash-play-master/tasks/
+-rw-rw-r-- root/root      1383 2014-01-20 11:23 ansible-logstash-play-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-20 11:23 ansible-logstash-play-master/templates/
+-rwxrwxr-x root/root      1290 2014-01-20 11:23 ansible-logstash-play-master/templates/logstash-init.j2
+-rw-rw-r-- root/root         0 2014-01-20 11:23 ansible-logstash-play-master/templates/logstash.conf.j2

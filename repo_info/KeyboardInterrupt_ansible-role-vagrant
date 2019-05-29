@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-29 17:03 ansible-role-vagrant-master/
+-rw-rw-r-- root/root       539 2019-03-29 17:03 ansible-role-vagrant-master/.travis.yml
+-rw-rw-r-- root/root      1110 2019-03-29 17:03 ansible-role-vagrant-master/README.md
+drwxrwxr-x root/root         0 2019-03-29 17:03 ansible-role-vagrant-master/defaults/
+-rw-rw-r-- root/root       376 2019-03-29 17:03 ansible-role-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-29 17:03 ansible-role-vagrant-master/meta/
+-rw-rw-r-- root/root       215 2019-03-29 17:03 ansible-role-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-29 17:03 ansible-role-vagrant-master/tasks/
+-rw-rw-r-- root/root       561 2019-03-29 17:03 ansible-role-vagrant-master/tasks/install_linux_debian.yml
+-rw-rw-r-- root/root       490 2019-03-29 17:03 ansible-role-vagrant-master/tasks/libvirt_plugin.yml
+-rw-rw-r-- root/root       235 2019-03-29 17:03 ansible-role-vagrant-master/tasks/main.yml
+-rw-rw-r-- root/root       336 2019-03-29 17:03 ansible-role-vagrant-master/tasks/mutate_plugin.yml
+drwxrwxr-x root/root         0 2019-03-29 17:03 ansible-role-vagrant-master/tests/
+-rw-rw-r-- root/root        11 2019-03-29 17:03 ansible-role-vagrant-master/tests/inventory
+-rw-rw-r-- root/root        78 2019-03-29 17:03 ansible-role-vagrant-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-29 17:03 ansible-role-vagrant-master/vars/
+-rw-rw-r-- root/root        27 2019-03-29 17:03 ansible-role-vagrant-master/vars/main.yml

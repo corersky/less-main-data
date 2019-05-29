@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-07-15 04:30 ansible-laravel5-deploy-master/
+-rw-rw-r-- root/root      1087 2016-07-15 04:30 ansible-laravel5-deploy-master/LICENSE.md
+-rw-rw-r-- root/root      2674 2016-07-15 04:30 ansible-laravel5-deploy-master/README.md
+drwxrwxr-x root/root         0 2016-07-15 04:30 ansible-laravel5-deploy-master/defaults/
+-rw-rw-r-- root/root       267 2016-07-15 04:30 ansible-laravel5-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-15 04:30 ansible-laravel5-deploy-master/meta/
+-rw-rw-r-- root/root       348 2016-07-15 04:30 ansible-laravel5-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-15 04:30 ansible-laravel5-deploy-master/tasks/
+-rw-rw-r-- root/root      1372 2016-07-15 04:30 ansible-laravel5-deploy-master/tasks/composer.yml
+-rw-rw-r-- root/root      1406 2016-07-15 04:30 ansible-laravel5-deploy-master/tasks/deploy.yml
+-rw-rw-r-- root/root       951 2016-07-15 04:30 ansible-laravel5-deploy-master/tasks/directory.yml
+-rw-rw-r-- root/root      1846 2016-07-15 04:30 ansible-laravel5-deploy-master/tasks/main.yml
+-rw-rw-r-- root/root      2685 2016-07-15 04:30 ansible-laravel5-deploy-master/tasks/symlinks.yml
+drwxrwxr-x root/root         0 2016-07-15 04:30 ansible-laravel5-deploy-master/vars/
+-rw-rw-r-- root/root        22 2016-07-15 04:30 ansible-laravel5-deploy-master/vars/main.yml

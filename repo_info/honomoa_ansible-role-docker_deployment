@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-23 00:34 ansible-role-docker_deployment-master/
+-rw-rw-r-- root/root         7 2019-05-23 00:34 ansible-role-docker_deployment-master/.gitignore
+-rw-rw-r-- root/root      4351 2019-05-23 00:34 ansible-role-docker_deployment-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 00:34 ansible-role-docker_deployment-master/defaults/
+-rw-rw-r-- root/root      1316 2019-05-23 00:34 ansible-role-docker_deployment-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 00:34 ansible-role-docker_deployment-master/meta/
+-rw-rw-r-- root/root       581 2019-05-23 00:34 ansible-role-docker_deployment-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 00:34 ansible-role-docker_deployment-master/tasks/
+-rw-rw-r-- root/root      3061 2019-05-23 00:34 ansible-role-docker_deployment-master/tasks/deploy.yml
+-rw-rw-r-- root/root       260 2019-05-23 00:34 ansible-role-docker_deployment-master/tasks/main.yml

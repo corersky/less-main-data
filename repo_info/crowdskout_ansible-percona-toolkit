@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-02-05 08:29 ansible-percona-toolkit-master/
+-rw-rw-r-- root/root       523 2019-02-05 08:29 ansible-percona-toolkit-master/README.md
+drwxrwxr-x root/root         0 2019-02-05 08:29 ansible-percona-toolkit-master/defaults/
+-rw-rw-r-- root/root       618 2019-02-05 08:29 ansible-percona-toolkit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-05 08:29 ansible-percona-toolkit-master/meta/
+-rw-rw-r-- root/root       294 2019-02-05 08:29 ansible-percona-toolkit-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-05 08:29 ansible-percona-toolkit-master/tasks/
+-rw-rw-r-- root/root       536 2019-02-05 08:29 ansible-percona-toolkit-master/tasks/install.yml
+-rw-rw-r-- root/root       145 2019-02-05 08:29 ansible-percona-toolkit-master/tasks/main.yml
+-rw-rw-r-- root/root       276 2019-02-05 08:29 ansible-percona-toolkit-master/tasks/repository.yml

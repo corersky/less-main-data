@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-29 21:09 centos-mysql-master/
+-rw-rw-r-- root/root       782 2018-10-29 21:09 centos-mysql-master/README.md
+drwxrwxr-x root/root         0 2018-10-29 21:09 centos-mysql-master/defaults/
+-rw-rw-r-- root/root        48 2018-10-29 21:09 centos-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-29 21:09 centos-mysql-master/files/
+-rw-rw-r-- root/root      1975 2018-10-29 21:09 centos-mysql-master/files/mysql-server.cnf
+drwxrwxr-x root/root         0 2018-10-29 21:09 centos-mysql-master/handlers/
+-rw-rw-r-- root/root       125 2018-10-29 21:09 centos-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-29 21:09 centos-mysql-master/meta/
+-rw-rw-r-- root/root       261 2018-10-29 21:09 centos-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-29 21:09 centos-mysql-master/tasks/
+-rw-rw-r-- root/root      1819 2018-10-29 21:09 centos-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-29 21:09 centos-mysql-master/templates/
+-rw-rw-r-- root/root        54 2018-10-29 21:09 centos-mysql-master/templates/my.cnf.j2
+drwxrwxr-x root/root         0 2018-10-29 21:09 centos-mysql-master/vars/
+-rw-rw-r-- root/root        44 2018-10-29 21:09 centos-mysql-master/vars/main.yml
+-rw-rw-r-- root/root        74 2018-10-29 21:09 centos-mysql-master/vars/secret-vault.yml

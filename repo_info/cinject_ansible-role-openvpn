@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-13 11:01 ansible-role-openvpn-master/
+-rw-rw-r-- root/root        27 2019-04-13 11:01 ansible-role-openvpn-master/.gitignore
+-rw-rw-r-- root/root      1064 2019-04-13 11:01 ansible-role-openvpn-master/LICENSE
+-rw-rw-r-- root/root       915 2019-04-13 11:01 ansible-role-openvpn-master/README.md
+drwxrwxr-x root/root         0 2019-04-13 11:01 ansible-role-openvpn-master/defaults/
+-rw-rw-r-- root/root       184 2019-04-13 11:01 ansible-role-openvpn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-13 11:01 ansible-role-openvpn-master/handlers/
+-rw-rw-r-- root/root       263 2019-04-13 11:01 ansible-role-openvpn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-13 11:01 ansible-role-openvpn-master/meta/
+-rw-rw-r-- root/root       229 2019-04-13 11:01 ansible-role-openvpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-13 11:01 ansible-role-openvpn-master/tasks/
+-rw-rw-r-- root/root       169 2019-04-13 11:01 ansible-role-openvpn-master/tasks/main.yml
+-rw-rw-r-- root/root      2083 2019-04-13 11:01 ansible-role-openvpn-master/tasks/nested_loop.yml
+drwxrwxr-x root/root         0 2019-04-13 11:01 ansible-role-openvpn-master/templates/
+-rw-rw-r-- root/root        31 2019-04-13 11:01 ansible-role-openvpn-master/templates/client.conf.j2
+-rw-rw-r-- root/root       827 2019-04-13 11:01 ansible-role-openvpn-master/templates/server.conf.j2

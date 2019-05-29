@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-07-06 01:36 ansible-swarm-agent-master/
+-rw-rw-r-- root/root         8 2016-07-06 01:36 ansible-swarm-agent-master/.gitignore
+-rw-rw-r-- root/root      1080 2016-07-06 01:36 ansible-swarm-agent-master/LICENSE
+-rw-rw-r-- root/root      1782 2016-07-06 01:36 ansible-swarm-agent-master/README.md
+drwxrwxr-x root/root         0 2016-07-06 01:36 ansible-swarm-agent-master/meta/
+-rw-rw-r-- root/root      2540 2016-07-06 01:36 ansible-swarm-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-06 01:36 ansible-swarm-agent-master/tasks/
+-rw-rw-r-- root/root       658 2016-07-06 01:36 ansible-swarm-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-06 01:36 ansible-swarm-agent-master/templates/
+-rw-rw-r-- root/root       223 2016-07-06 01:36 ansible-swarm-agent-master/templates/docker-compose-swarm-agent.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-03 15:08 ansible-lxd-master/
+-rw-rw-r-- root/root       490 2018-03-03 15:08 ansible-lxd-master/.travis.yml
+-rw-rw-r-- root/root     35081 2018-03-03 15:08 ansible-lxd-master/LICENSE
+-rw-rw-r-- root/root      4622 2018-03-03 15:08 ansible-lxd-master/README.md
+drwxrwxr-x root/root         0 2018-03-03 15:08 ansible-lxd-master/defaults/
+-rw-rw-r-- root/root       339 2018-03-03 15:08 ansible-lxd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-03 15:08 ansible-lxd-master/meta/
+-rw-rw-r-- root/root       283 2018-03-03 15:08 ansible-lxd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-03 15:08 ansible-lxd-master/tasks/
+-rw-rw-r-- root/root      2167 2018-03-03 15:08 ansible-lxd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-03 15:08 ansible-lxd-master/tests/
+-rw-rw-r-- root/root         9 2018-03-03 15:08 ansible-lxd-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-03-03 15:08 ansible-lxd-master/tests/test.yml

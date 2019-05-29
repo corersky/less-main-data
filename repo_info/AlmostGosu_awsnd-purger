@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-05-05 14:18 awsnd-purger-master/
+-rw-rw-r-- root/root       385 2018-05-05 14:18 awsnd-purger-master/README.md
+-rw-rw-r-- root/root       115 2018-05-05 14:18 awsnd-purger-master/inventory-ec2
+drwxrwxr-x root/root         0 2018-05-05 14:18 awsnd-purger-master/meta/
+-rw-rw-r-- root/root       385 2018-05-05 14:18 awsnd-purger-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-05 14:18 awsnd-purger-master/tasks/
+-rw-rw-r-- root/root        69 2018-05-05 14:18 awsnd-purger-master/tasks/main.yml
+-rw-rw-r-- root/root      4556 2018-05-05 14:18 awsnd-purger-master/tasks/purge_awsnd.yml
+drwxrwxr-x root/root         0 2018-05-05 14:18 awsnd-purger-master/templates/
+-rw-rw-r-- root/root       115 2018-05-05 14:18 awsnd-purger-master/templates/awsnd-inventory.j2
+-rw-rw-r-- root/root       310 2018-05-05 14:18 awsnd-purger-master/test-purge.yml
+drwxrwxr-x root/root         0 2018-05-05 14:18 awsnd-purger-master/vars/
+-rw-rw-r-- root/root       232 2018-05-05 14:18 awsnd-purger-master/vars/vars.yml

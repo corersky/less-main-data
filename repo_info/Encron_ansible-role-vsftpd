@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-05 09:19 ansible-role-vsftpd-master/
+-rw-rw-r-- root/root      1083 2018-09-05 09:19 ansible-role-vsftpd-master/LICENSE
+-rw-rw-r-- root/root      2569 2018-09-05 09:19 ansible-role-vsftpd-master/README.md
+drwxrwxr-x root/root         0 2018-09-05 09:19 ansible-role-vsftpd-master/defaults/
+-rw-rw-r-- root/root       121 2018-09-05 09:19 ansible-role-vsftpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-05 09:19 ansible-role-vsftpd-master/handlers/
+-rw-rw-r-- root/root       120 2018-09-05 09:19 ansible-role-vsftpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-05 09:19 ansible-role-vsftpd-master/meta/
+-rw-rw-r-- root/root       322 2018-09-05 09:19 ansible-role-vsftpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-05 09:19 ansible-role-vsftpd-master/tasks/
+-rw-rw-r-- root/root      1594 2018-09-05 09:19 ansible-role-vsftpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-05 09:19 ansible-role-vsftpd-master/templates/
+-rw-rw-r-- root/root      5757 2018-09-05 09:19 ansible-role-vsftpd-master/templates/vsftpd.conf.j2
+-rw-rw-r-- root/root       574 2018-09-05 09:19 ansible-role-vsftpd-master/test.yml

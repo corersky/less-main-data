@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-30 07:25 ansible-role-kubectl-master/
+-rw-rw-r-- root/root        27 2019-01-30 07:25 ansible-role-kubectl-master/.gitignore
+-rw-rw-r-- root/root       706 2019-01-30 07:25 ansible-role-kubectl-master/.travis.yml
+-rw-rw-r-- root/root       524 2019-01-30 07:25 ansible-role-kubectl-master/README.md
+drwxrwxr-x root/root         0 2019-01-30 07:25 ansible-role-kubectl-master/defaults/
+-rw-rw-r-- root/root        33 2019-01-30 07:25 ansible-role-kubectl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-30 07:25 ansible-role-kubectl-master/meta/
+-rw-rw-r-- root/root       275 2019-01-30 07:25 ansible-role-kubectl-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-30 07:25 ansible-role-kubectl-master/tasks/
+-rw-rw-r-- root/root       189 2019-01-30 07:25 ansible-role-kubectl-master/tasks/download.yml
+-rw-rw-r-- root/root       465 2019-01-30 07:25 ansible-role-kubectl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-30 07:25 ansible-role-kubectl-master/tests/
+-rw-rw-r-- root/root        10 2019-01-30 07:25 ansible-role-kubectl-master/tests/inventory
+-rw-rw-r-- root/root        99 2019-01-30 07:25 ansible-role-kubectl-master/tests/test.yml

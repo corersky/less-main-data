@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-21 05:05 web_app_role-master/
+-rw-rw-r-- root/root       417 2019-02-21 05:05 web_app_role-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 05:05 web_app_role-master/defaults/
+-rw-rw-r-- root/root        42 2019-02-21 05:05 web_app_role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 05:05 web_app_role-master/handlers/
+-rw-rw-r-- root/root        42 2019-02-21 05:05 web_app_role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-21 05:05 web_app_role-master/meta/
+-rw-rw-r-- root/root      1973 2019-02-21 05:05 web_app_role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 05:05 web_app_role-master/tasks/
+-rw-rw-r-- root/root       627 2019-02-21 05:05 web_app_role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-21 05:05 web_app_role-master/tests/
+-rw-rw-r-- root/root        11 2019-02-21 05:05 web_app_role-master/tests/inventory
+-rw-rw-r-- root/root        76 2019-02-21 05:05 web_app_role-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-21 05:05 web_app_role-master/vars/
+-rw-rw-r-- root/root        38 2019-02-21 05:05 web_app_role-master/vars/main.yml

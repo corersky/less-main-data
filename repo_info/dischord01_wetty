@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-22 13:14 wetty-master/
+drwxrwxr-x root/root         0 2017-12-22 13:14 wetty-master/defaults/
+-rw-rw-r-- root/root       578 2017-12-22 13:14 wetty-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:14 wetty-master/files/
+-rw-rw-r-- root/root       723 2017-12-22 13:14 wetty-master/files/sshd_config
+-rw-rw-r-- root/root       971 2017-12-22 13:14 wetty-master/files/wetty.pp
+-rw-rw-r-- root/root       331 2017-12-22 13:14 wetty-master/files/wetty.te
+drwxrwxr-x root/root         0 2017-12-22 13:14 wetty-master/handlers/
+-rw-rw-r-- root/root       162 2017-12-22 13:14 wetty-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:14 wetty-master/meta/
+-rw-rw-r-- root/root       316 2017-12-22 13:14 wetty-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:14 wetty-master/tasks/
+-rw-rw-r-- root/root      4613 2017-12-22 13:14 wetty-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:14 wetty-master/templates/
+-rw-rw-r-- root/root       365 2017-12-22 13:14 wetty-master/templates/wetty.service.j2
+drwxrwxr-x root/root         0 2017-12-22 13:14 wetty-master/vars/
+-rw-rw-r-- root/root        50 2017-12-22 13:14 wetty-master/vars/main.yml

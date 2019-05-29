@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-07-26 13:02 ansible-gatk-master/
+-rw-rw-r-- root/root      1945 2017-07-26 13:02 ansible-gatk-master/LICENSE.txt
+-rw-rw-r-- root/root       465 2017-07-26 13:02 ansible-gatk-master/README.md
+drwxrwxr-x root/root         0 2017-07-26 13:02 ansible-gatk-master/meta/
+-rw-rw-r-- root/root       325 2017-07-26 13:02 ansible-gatk-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:02 ansible-gatk-master/tasks/
+-rw-rw-r-- root/root      1016 2017-07-26 13:02 ansible-gatk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:02 ansible-gatk-master/vars/
+-rw-rw-r-- root/root        32 2017-07-26 13:02 ansible-gatk-master/vars/CentOS.yml
+-rw-rw-r-- root/root        36 2017-07-26 13:02 ansible-gatk-master/vars/Ubuntu-14.yml
+-rw-rw-r-- root/root        27 2017-07-26 13:02 ansible-gatk-master/vars/Ubuntu-16.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-02-09 00:01 ansible-nginx-master/
+-rw-rw-r-- root/root        57 2015-02-09 00:01 ansible-nginx-master/.gitignore
+-rw-rw-r-- root/root      1328 2015-02-09 00:01 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2015-02-09 00:01 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root         4 2015-02-09 00:01 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-09 00:01 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root       175 2015-02-09 00:01 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-09 00:01 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       218 2015-02-09 00:01 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-09 00:01 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root      1273 2015-02-09 00:01 ansible-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-09 00:01 ansible-nginx-master/templates/
+-rw-rw-r-- root/root       182 2015-02-09 00:01 ansible-nginx-master/templates/localhost.conf.j2
+-rw-rw-r-- root/root       526 2015-02-09 00:01 ansible-nginx-master/templates/nginx.conf.j2
+drwxrwxr-x root/root         0 2015-02-09 00:01 ansible-nginx-master/vars/
+-rw-rw-r-- root/root        26 2015-02-09 00:01 ansible-nginx-master/vars/main.yml

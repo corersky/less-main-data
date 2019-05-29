@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-03 13:14 ansible-git-master/
+-rw-rw-r-- root/root       539 2018-02-03 13:14 ansible-git-master/.travis.yml
+-rw-rw-r-- root/root       441 2018-02-03 13:14 ansible-git-master/README.md
+drwxrwxr-x root/root         0 2018-02-03 13:14 ansible-git-master/defaults/
+-rw-rw-r-- root/root        28 2018-02-03 13:14 ansible-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-03 13:14 ansible-git-master/handlers/
+-rw-rw-r-- root/root        28 2018-02-03 13:14 ansible-git-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-03 13:14 ansible-git-master/meta/
+-rw-rw-r-- root/root      1649 2018-02-03 13:14 ansible-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-03 13:14 ansible-git-master/tasks/
+-rw-rw-r-- root/root      1399 2018-02-03 13:14 ansible-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-03 13:14 ansible-git-master/tests/
+-rw-rw-r-- root/root         9 2018-02-03 13:14 ansible-git-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-02-03 13:14 ansible-git-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-03 13:14 ansible-git-master/vars/
+-rw-rw-r-- root/root        57 2018-02-03 13:14 ansible-git-master/vars/main.yml

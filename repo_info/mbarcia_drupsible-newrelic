@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-06 07:54 drupsible-newrelic-master/
+-rw-rw-r-- root/root     35142 2017-04-06 07:54 drupsible-newrelic-master/LICENSE
+-rw-rw-r-- root/root      2772 2017-04-06 07:54 drupsible-newrelic-master/README.md
+drwxrwxr-x root/root         0 2017-04-06 07:54 drupsible-newrelic-master/defaults/
+-rw-rw-r-- root/root      1418 2017-04-06 07:54 drupsible-newrelic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-06 07:54 drupsible-newrelic-master/handlers/
+-rw-rw-r-- root/root       261 2017-04-06 07:54 drupsible-newrelic-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-06 07:54 drupsible-newrelic-master/meta/
+-rw-rw-r-- root/root       372 2017-04-06 07:54 drupsible-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-06 07:54 drupsible-newrelic-master/tasks/
+-rw-rw-r-- root/root       767 2017-04-06 07:54 drupsible-newrelic-master/tasks/main.yml
+-rw-rw-r-- root/root       300 2017-04-06 07:54 drupsible-newrelic-master/tasks/newrelic-apt.yml
+-rw-rw-r-- root/root       209 2017-04-06 07:54 drupsible-newrelic-master/tasks/newrelic-sysmond.yml
+drwxrwxr-x root/root         0 2017-04-06 07:54 drupsible-newrelic-master/templates/
+-rw-rw-r-- root/root      9834 2017-04-06 07:54 drupsible-newrelic-master/templates/nrsysmond.cfg.j2
+drwxrwxr-x root/root         0 2017-04-06 07:54 drupsible-newrelic-master/vars/
+-rw-rw-r-- root/root       331 2017-04-06 07:54 drupsible-newrelic-master/vars/main.yml

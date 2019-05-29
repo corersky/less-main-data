@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-21 10:14 Installare_Docker_con_Ansible-master/
+-rw-rw-r-- root/root      1328 2019-03-21 10:14 Installare_Docker_con_Ansible-master/README.md
+drwxrwxr-x root/root         0 2019-03-21 10:14 Installare_Docker_con_Ansible-master/defaults/
+-rw-rw-r-- root/root        37 2019-03-21 10:14 Installare_Docker_con_Ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-21 10:14 Installare_Docker_con_Ansible-master/handlers/
+-rw-rw-r-- root/root        37 2019-03-21 10:14 Installare_Docker_con_Ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-21 10:14 Installare_Docker_con_Ansible-master/meta/
+-rw-rw-r-- root/root      1777 2019-03-21 10:14 Installare_Docker_con_Ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-21 10:14 Installare_Docker_con_Ansible-master/tasks/
+-rw-rw-r-- root/root      1350 2019-03-21 10:14 Installare_Docker_con_Ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-21 10:14 Installare_Docker_con_Ansible-master/tests/
+-rw-rw-r-- root/root        11 2019-03-21 10:14 Installare_Docker_con_Ansible-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-03-21 10:14 Installare_Docker_con_Ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-21 10:14 Installare_Docker_con_Ansible-master/vars/
+-rw-rw-r-- root/root        33 2019-03-21 10:14 Installare_Docker_con_Ansible-master/vars/main.yml

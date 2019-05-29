@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-06-01 13:08 ansible-role-rhel-master/
+-rw-rw-r-- root/root      2822 2016-06-01 13:08 ansible-role-rhel-master/README.md
+drwxrwxr-x root/root         0 2016-06-01 13:08 ansible-role-rhel-master/meta/
+-rw-rw-r-- root/root       290 2016-06-01 13:08 ansible-role-rhel-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-01 13:08 ansible-role-rhel-master/tasks/
+-rw-rw-r-- root/root      1818 2016-06-01 13:08 ansible-role-rhel-master/tasks/main.yml
+-rw-rw-r-- root/root      1627 2016-06-01 13:08 ansible-role-rhel-master/tasks/softlayer.yml
+drwxrwxr-x root/root         0 2016-06-01 13:08 ansible-role-rhel-master/templates/
+-rw-rw-r-- root/root        16 2016-06-01 13:08 ansible-role-rhel-master/templates/vmhgfs.modules.j2
+-rw-rw-r-- root/root       293 2016-06-01 13:08 ansible-role-rhel-master/templates/vmware-tools.repo.j2

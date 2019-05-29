@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-03-20 04:31 ansible-check_mk-agent-master/
+-rw-rw-r-- root/root       660 2014-03-20 04:31 ansible-check_mk-agent-master/README.md
+drwxrwxr-x root/root         0 2014-03-20 04:31 ansible-check_mk-agent-master/handlers/
+-rw-rw-r-- root/root       113 2014-03-20 04:31 ansible-check_mk-agent-master/handlers/main.yml
+-rw-rw-r-- root/root        22 2014-03-20 04:31 ansible-check_mk-agent-master/hosts
+drwxrwxr-x root/root         0 2014-03-20 04:31 ansible-check_mk-agent-master/meta/
+-rw-rw-r-- root/root       322 2014-03-20 04:31 ansible-check_mk-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-03-20 04:31 ansible-check_mk-agent-master/tasks/
+-rw-rw-r-- root/root       804 2014-03-20 04:31 ansible-check_mk-agent-master/tasks/main.yml
+-rw-rw-r-- root/root       152 2014-03-20 04:31 ansible-check_mk-agent-master/test.yml
+drwxrwxr-x root/root         0 2014-03-20 04:31 ansible-check_mk-agent-master/vars/
+-rw-rw-r-- root/root        63 2014-03-20 04:31 ansible-check_mk-agent-master/vars/main.yml

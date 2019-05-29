@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-25 06:35 test-master/
+-rw-rw-r-- root/root       539 2016-05-25 06:35 test-master/.travis.yml
+-rw-rw-r-- root/root      1340 2016-05-25 06:35 test-master/README.md
+drwxrwxr-x root/root         0 2016-05-25 06:35 test-master/defaults/
+-rw-rw-r-- root/root        29 2016-05-25 06:35 test-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-25 06:35 test-master/handlers/
+-rw-rw-r-- root/root        29 2016-05-25 06:35 test-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-25 06:35 test-master/meta/
+-rw-rw-r-- root/root      3232 2016-05-25 06:35 test-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-25 06:35 test-master/tasks/
+-rw-rw-r-- root/root        26 2016-05-25 06:35 test-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-25 06:35 test-master/tests/
+-rw-rw-r-- root/root         9 2016-05-25 06:35 test-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-05-25 06:35 test-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-05-25 06:35 test-master/vars/
+-rw-rw-r-- root/root        25 2016-05-25 06:35 test-master/vars/main.yml

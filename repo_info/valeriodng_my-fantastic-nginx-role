@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-30 05:43 my-fantastic-nginx-role-master/
+-rw-rw-r-- root/root      1328 2019-01-30 05:43 my-fantastic-nginx-role-master/README.md
+drwxrwxr-x root/root         0 2019-01-30 05:43 my-fantastic-nginx-role-master/defaults/
+-rw-rw-r-- root/root        29 2019-01-30 05:43 my-fantastic-nginx-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:43 my-fantastic-nginx-role-master/handlers/
+-rw-rw-r-- root/root        91 2019-01-30 05:43 my-fantastic-nginx-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:43 my-fantastic-nginx-role-master/meta/
+-rw-rw-r-- root/root      1973 2019-01-30 05:43 my-fantastic-nginx-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:43 my-fantastic-nginx-role-master/tasks/
+-rw-rw-r-- root/root       605 2019-01-30 05:43 my-fantastic-nginx-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:43 my-fantastic-nginx-role-master/templates/
+-rw-rw-r-- root/root       158 2019-01-30 05:43 my-fantastic-nginx-role-master/templates/nginx.conf.j2
+drwxrwxr-x root/root         0 2019-01-30 05:43 my-fantastic-nginx-role-master/tests/
+-rw-rw-r-- root/root        11 2019-01-30 05:43 my-fantastic-nginx-role-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-01-30 05:43 my-fantastic-nginx-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-30 05:43 my-fantastic-nginx-role-master/vars/
+-rw-rw-r-- root/root        25 2019-01-30 05:43 my-fantastic-nginx-role-master/vars/main.yml

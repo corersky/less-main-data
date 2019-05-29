@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-ruby-master/
+-rw-rw-r-- root/root       633 2016-11-15 03:44 ansible-role-ruby-master/.gitignore
+-rw-rw-r-- root/root       550 2016-11-15 03:44 ansible-role-ruby-master/README.md
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-ruby-master/defaults/
+-rw-rw-r-- root/root        86 2016-11-15 03:44 ansible-role-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-ruby-master/meta/
+-rw-rw-r-- root/root       258 2016-11-15 03:44 ansible-role-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-ruby-master/tasks/
+-rw-rw-r-- root/root      2897 2016-11-15 03:44 ansible-role-ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-ruby-master/templates/
+-rw-rw-r-- root/root        84 2016-11-15 03:44 ansible-role-ruby-master/templates/ruby.sh.j2
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-ruby-master/tests/
+-rw-rw-r-- root/root         9 2016-11-15 03:44 ansible-role-ruby-master/tests/inventory
+-rw-rw-r-- root/root        64 2016-11-15 03:44 ansible-role-ruby-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-15 03:44 ansible-role-ruby-master/vars/
+-rw-rw-r-- root/root       766 2016-11-15 03:44 ansible-role-ruby-master/vars/main.yml

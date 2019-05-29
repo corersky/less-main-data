@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-28 06:37 ansible-localcloud-php-master/
+-rw-rw-r-- root/root      2613 2017-04-28 06:37 ansible-localcloud-php-master/README.md
+drwxrwxr-x root/root         0 2017-04-28 06:37 ansible-localcloud-php-master/defaults/
+-rw-rw-r-- root/root      1589 2017-04-28 06:37 ansible-localcloud-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-28 06:37 ansible-localcloud-php-master/handlers/
+-rw-rw-r-- root/root        79 2017-04-28 06:37 ansible-localcloud-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-28 06:37 ansible-localcloud-php-master/meta/
+-rw-rw-r-- root/root       454 2017-04-28 06:37 ansible-localcloud-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-28 06:37 ansible-localcloud-php-master/tasks/
+-rw-rw-r-- root/root      3869 2017-04-28 06:37 ansible-localcloud-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-28 06:37 ansible-localcloud-php-master/templates/
+-rw-rw-r-- root/root      4583 2017-04-28 06:37 ansible-localcloud-php-master/templates/php-fpm.conf
+-rw-rw-r-- root/root     71605 2017-04-28 06:37 ansible-localcloud-php-master/templates/php.ini
+-rw-rw-r-- root/root     18504 2017-04-28 06:37 ansible-localcloud-php-master/templates/php.www.conf

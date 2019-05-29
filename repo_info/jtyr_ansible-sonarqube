@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-20 11:50 ansible-sonarqube-master/
+-rw-rw-r-- root/root         0 2017-04-20 11:50 ansible-sonarqube-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-04-20 11:50 ansible-sonarqube-master/LICENSE
+-rw-rw-r-- root/root      3949 2017-04-20 11:50 ansible-sonarqube-master/README.md
+drwxrwxr-x root/root         0 2017-04-20 11:50 ansible-sonarqube-master/defaults/
+-rw-rw-r-- root/root      2488 2017-04-20 11:50 ansible-sonarqube-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-04-20 11:50 ansible-sonarqube-master/handlers/
+-rw-rw-r-- root/root       207 2017-04-20 11:50 ansible-sonarqube-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-04-20 11:50 ansible-sonarqube-master/meta/
+-rw-rw-r-- root/root       268 2017-04-20 11:50 ansible-sonarqube-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-20 11:50 ansible-sonarqube-master/tasks/
+-rw-rw-r-- root/root      2782 2017-04-20 11:50 ansible-sonarqube-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-04-20 11:50 ansible-sonarqube-master/templates/
+-rw-rw-r-- root/root        63 2017-04-20 11:50 ansible-sonarqube-master/templates/sonar.properties.j2

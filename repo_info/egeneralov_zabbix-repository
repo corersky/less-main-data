@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-04 12:38 zabbix-repository-master/
+-rw-rw-r-- root/root       457 2019-04-04 12:38 zabbix-repository-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 12:38 zabbix-repository-master/defaults/
+-rw-rw-r-- root/root        71 2019-04-04 12:38 zabbix-repository-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 12:38 zabbix-repository-master/handlers/
+-rw-rw-r-- root/root        52 2019-04-04 12:38 zabbix-repository-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-04 12:38 zabbix-repository-master/meta/
+-rw-rw-r-- root/root       445 2019-04-04 12:38 zabbix-repository-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 12:38 zabbix-repository-master/tasks/
+-rw-rw-r-- root/root       669 2019-04-04 12:38 zabbix-repository-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 12:38 zabbix-repository-master/tests/
+-rw-rw-r-- root/root        11 2019-04-04 12:38 zabbix-repository-master/tests/inventory
+-rw-rw-r-- root/root        86 2019-04-04 12:38 zabbix-repository-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-04 12:38 zabbix-repository-master/vars/
+-rw-rw-r-- root/root        48 2019-04-04 12:38 zabbix-repository-master/vars/main.yml

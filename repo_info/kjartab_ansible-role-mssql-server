@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-02 08:26 ansible-role-mssql-server-master/
+-rw-rw-r-- root/root       539 2017-03-02 08:26 ansible-role-mssql-server-master/.travis.yml
+-rw-rw-r-- root/root       828 2017-03-02 08:26 ansible-role-mssql-server-master/README.md
+drwxrwxr-x root/root         0 2017-03-02 08:26 ansible-role-mssql-server-master/defaults/
+-rw-rw-r-- root/root        79 2017-03-02 08:26 ansible-role-mssql-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-02 08:26 ansible-role-mssql-server-master/meta/
+-rw-rw-r-- root/root       309 2017-03-02 08:26 ansible-role-mssql-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-02 08:26 ansible-role-mssql-server-master/tasks/
+-rw-rw-r-- root/root      1580 2017-03-02 08:26 ansible-role-mssql-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-02 08:26 ansible-role-mssql-server-master/tests/
+-rw-rw-r-- root/root         9 2017-03-02 08:26 ansible-role-mssql-server-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-03-02 08:26 ansible-role-mssql-server-master/tests/test.yml

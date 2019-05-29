@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-zookeeper-master/
+-rw-rw-r-- root/root        37 2018-03-07 18:12 role-zookeeper-master/.gitignore
+-rw-rw-r-- root/root       799 2018-03-07 18:12 role-zookeeper-master/.travis.yml
+-rw-rw-r-- root/root      1100 2018-03-07 18:12 role-zookeeper-master/LICENSE
+-rw-rw-r-- root/root       949 2018-03-07 18:12 role-zookeeper-master/README.md
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-zookeeper-master/defaults/
+-rw-rw-r-- root/root       298 2018-03-07 18:12 role-zookeeper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-zookeeper-master/meta/
+-rw-rw-r-- root/root       329 2018-03-07 18:12 role-zookeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-zookeeper-master/tasks/
+-rw-rw-r-- root/root      3929 2018-03-07 18:12 role-zookeeper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-zookeeper-master/templates/
+-rw-rw-r-- root/root       751 2018-03-07 18:12 role-zookeeper-master/templates/init.tpl
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-zookeeper-master/tests/
+-rw-rw-r-- root/root        10 2018-03-07 18:12 role-zookeeper-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-03-07 18:12 role-zookeeper-master/tests/test.yml

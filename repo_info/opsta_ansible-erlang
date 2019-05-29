@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-05 18:40 ansible-erlang-master/
+-rw-rw-r-- root/root       540 2018-02-05 18:40 ansible-erlang-master/.travis.yml
+-rw-rw-r-- root/root      1062 2018-02-05 18:40 ansible-erlang-master/LICENSE
+-rw-rw-r-- root/root       239 2018-02-05 18:40 ansible-erlang-master/README.md
+drwxrwxr-x root/root         0 2018-02-05 18:40 ansible-erlang-master/defaults/
+-rw-rw-r-- root/root         3 2018-02-05 18:40 ansible-erlang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-05 18:40 ansible-erlang-master/meta/
+-rw-rw-r-- root/root       304 2018-02-05 18:40 ansible-erlang-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-05 18:40 ansible-erlang-master/tasks/
+-rw-rw-r-- root/root       111 2018-02-05 18:40 ansible-erlang-master/tasks/erlang_install.yml
+-rw-rw-r-- root/root        80 2018-02-05 18:40 ansible-erlang-master/tasks/erlang_pre.yml
+-rw-rw-r-- root/root       202 2018-02-05 18:40 ansible-erlang-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-05 18:40 ansible-erlang-master/vars/
+-rw-rw-r-- root/root       117 2018-02-05 18:40 ansible-erlang-master/vars/Debian.yml

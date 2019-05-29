@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-19 07:07 ansible_nginx_certbot_domain-master/
+-rw-rw-r-- root/root       539 2017-06-19 07:07 ansible_nginx_certbot_domain-master/.travis.yml
+-rw-rw-r-- root/root      1412 2017-06-19 07:07 ansible_nginx_certbot_domain-master/README.md
+drwxrwxr-x root/root         0 2017-06-19 07:07 ansible_nginx_certbot_domain-master/defaults/
+-rw-rw-r-- root/root       605 2017-06-19 07:07 ansible_nginx_certbot_domain-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-19 07:07 ansible_nginx_certbot_domain-master/handlers/
+-rw-rw-r-- root/root        45 2017-06-19 07:07 ansible_nginx_certbot_domain-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-19 07:07 ansible_nginx_certbot_domain-master/meta/
+-rw-rw-r-- root/root      4026 2017-06-19 07:07 ansible_nginx_certbot_domain-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-19 07:07 ansible_nginx_certbot_domain-master/tasks/
+-rw-rw-r-- root/root       246 2017-06-19 07:07 ansible_nginx_certbot_domain-master/tasks/main.yml
+-rw-rw-r-- root/root      1181 2017-06-19 07:07 ansible_nginx_certbot_domain-master/tasks/request.yml
+drwxrwxr-x root/root         0 2017-06-19 07:07 ansible_nginx_certbot_domain-master/tests/
+-rw-rw-r-- root/root         9 2017-06-19 07:07 ansible_nginx_certbot_domain-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-06-19 07:07 ansible_nginx_certbot_domain-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-19 07:07 ansible_nginx_certbot_domain-master/vars/
+-rw-rw-r-- root/root        41 2017-06-19 07:07 ansible_nginx_certbot_domain-master/vars/main.yml

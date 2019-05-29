@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-06-19 12:11 ansible-role-traditional-desktop-master/
+-rw-rw-r-- root/root       990 2018-06-19 12:11 ansible-role-traditional-desktop-master/README.md
+drwxrwxr-x root/root         0 2018-06-19 12:11 ansible-role-traditional-desktop-master/defaults/
+-rw-rw-r-- root/root        46 2018-06-19 12:11 ansible-role-traditional-desktop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-19 12:11 ansible-role-traditional-desktop-master/meta/
+-rw-rw-r-- root/root       550 2018-06-19 12:11 ansible-role-traditional-desktop-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-19 12:11 ansible-role-traditional-desktop-master/tasks/
+-rw-rw-r-- root/root       127 2018-06-19 12:11 ansible-role-traditional-desktop-master/tasks/main.yml
+-rw-rw-r-- root/root       819 2018-06-19 12:11 ansible-role-traditional-desktop-master/tasks/rhel_7.yml
+-rw-rw-r-- root/root       814 2018-06-19 12:11 ansible-role-traditional-desktop-master/tasks/ubuntu_16+.yml

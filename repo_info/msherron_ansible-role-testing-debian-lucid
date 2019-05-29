@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/
+-rw-rw-r-- root/root        10 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/.gitignore
+-rw-rw-r-- root/root      1075 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/LICENSE
+-rw-rw-r-- root/root       361 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/README.md
+drwxrwxr-x root/root         0 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/meta/
+-rw-rw-r-- root/root       276 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/tasks/
+-rw-rw-r-- root/root       477 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/tasks/install_behat.yml
+-rw-rw-r-- root/root      1076 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/tasks/install_phantomjs.yml
+-rw-rw-r-- root/root       326 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/tasks/install_wraith.yml
+-rw-rw-r-- root/root        96 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/templates/
+-rw-rw-r-- root/root       205 2015-08-25 17:06 ansible-role-testing-debian-lucid-master/templates/behat.composer.json.j2

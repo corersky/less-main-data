@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-07 11:09 ansible-role-aptly-master/
+-rw-rw-r-- root/root      1077 2018-09-07 11:09 ansible-role-aptly-master/LICENSE
+-rw-rw-r-- root/root      1177 2018-09-07 11:09 ansible-role-aptly-master/README.md
+drwxrwxr-x root/root         0 2018-09-07 11:09 ansible-role-aptly-master/defaults/
+-rw-rw-r-- root/root       383 2018-09-07 11:09 ansible-role-aptly-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-07 11:09 ansible-role-aptly-master/files/
+-rw-rw-r-- root/root       944 2018-09-07 11:09 ansible-role-aptly-master/files/dummy_0.1_all.deb
+drwxrwxr-x root/root         0 2018-09-07 11:09 ansible-role-aptly-master/handlers/
+-rw-rw-r-- root/root        30 2018-09-07 11:09 ansible-role-aptly-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-07 11:09 ansible-role-aptly-master/meta/
+-rw-rw-r-- root/root      2066 2018-09-07 11:09 ansible-role-aptly-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-07 11:09 ansible-role-aptly-master/tasks/
+-rw-rw-r-- root/root      2024 2018-09-07 11:09 ansible-role-aptly-master/tasks/main.yml
+-rw-rw-r-- root/root      1765 2018-09-07 11:09 ansible-role-aptly-master/tasks/test.yml
+drwxrwxr-x root/root         0 2018-09-07 11:09 ansible-role-aptly-master/templates/
+-rw-rw-r-- root/root       344 2018-09-07 11:09 ansible-role-aptly-master/templates/gpg2_gen_key.j2

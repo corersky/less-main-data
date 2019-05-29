@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-05-25 12:32 ansible-update-master/
+-rw-rw-r-- root/root       633 2018-05-25 12:32 ansible-update-master/.travis.yml
+-rw-rw-r-- root/root       492 2018-05-25 12:32 ansible-update-master/README.md
+drwxrwxr-x root/root         0 2018-05-25 12:32 ansible-update-master/meta/
+-rw-rw-r-- root/root       400 2018-05-25 12:32 ansible-update-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-25 12:32 ansible-update-master/tasks/
+-rw-rw-r-- root/root       492 2018-05-25 12:32 ansible-update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-25 12:32 ansible-update-master/tests/
+-rw-rw-r-- root/root        11 2018-05-25 12:32 ansible-update-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-05-25 12:32 ansible-update-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-java-jdk-role-master/
+-rw-rw-r-- root/root       100 2017-06-17 15:12 ansible-java-jdk-role-master/.gitignore
+-rw-rw-r-- root/root      2214 2017-06-17 15:12 ansible-java-jdk-role-master/.travis.yml
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-java-jdk-role-master/.vscode/
+-rw-rw-r-- root/root       516 2017-06-17 15:12 ansible-java-jdk-role-master/.vscode/settings.json
+-rw-rw-r-- root/root      1079 2017-06-17 15:12 ansible-java-jdk-role-master/LICENSE
+-rw-rw-r-- root/root      1550 2017-06-17 15:12 ansible-java-jdk-role-master/README.md
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-java-jdk-role-master/defaults/
+-rw-rw-r-- root/root       247 2017-06-17 15:12 ansible-java-jdk-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-java-jdk-role-master/meta/
+-rw-rw-r-- root/root       358 2017-06-17 15:12 ansible-java-jdk-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-java-jdk-role-master/tasks/
+-rw-rw-r-- root/root      1286 2017-06-17 15:12 ansible-java-jdk-role-master/tasks/java.yml
+-rw-rw-r-- root/root        33 2017-06-17 15:12 ansible-java-jdk-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-java-jdk-role-master/tests/
+-rw-rw-r-- root/root        46 2017-06-17 15:12 ansible-java-jdk-role-master/tests/inventory
+-rw-rw-r-- root/root       101 2017-06-17 15:12 ansible-java-jdk-role-master/tests/test.yml

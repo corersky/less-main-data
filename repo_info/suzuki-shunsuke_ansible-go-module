@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-01 04:43 ansible-go-module-master/
+-rw-rw-r-- root/root        59 2017-07-01 04:43 ansible-go-module-master/.gitignore
+-rw-rw-r-- root/root       388 2017-07-01 04:43 ansible-go-module-master/.travis.yml
+-rw-rw-r-- root/root      1072 2017-07-01 04:43 ansible-go-module-master/LICENSE
+-rw-rw-r-- root/root      1865 2017-07-01 04:43 ansible-go-module-master/README.md
+drwxrwxr-x root/root         0 2017-07-01 04:43 ansible-go-module-master/library/
+-rw-rw-r-- root/root      2190 2017-07-01 04:43 ansible-go-module-master/library/go.py
+drwxrwxr-x root/root         0 2017-07-01 04:43 ansible-go-module-master/meta/
+-rw-rw-r-- root/root       476 2017-07-01 04:43 ansible-go-module-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-01 04:43 ansible-go-module-master/tests/
+-rw-rw-r-- root/root       396 2017-07-01 04:43 ansible-go-module-master/tests/Vagrantfile
+drwxrwxr-x root/root         0 2017-07-01 04:43 ansible-go-module-master/tests/_roles/
+-rw-rw-r-- root/root         0 2017-07-01 04:43 ansible-go-module-master/tests/_roles/.gitkeep
+-rw-rw-r-- root/root        47 2017-07-01 04:43 ansible-go-module-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2017-07-01 04:43 ansible-go-module-master/tests/inventory-local
+-rw-rw-r-- root/root        26 2017-07-01 04:43 ansible-go-module-master/tests/roles.yml
+-rw-rw-r-- root/root       433 2017-07-01 04:43 ansible-go-module-master/tests/test.yml

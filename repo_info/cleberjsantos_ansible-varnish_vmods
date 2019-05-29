@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-20 09:06 ansible-varnish_vmods-master/
+-rw-rw-r-- root/root      1639 2016-03-20 09:06 ansible-varnish_vmods-master/.travis.yml
+-rw-rw-r-- root/root     18092 2016-03-20 09:06 ansible-varnish_vmods-master/LICENSE
+-rw-rw-r-- root/root      2366 2016-03-20 09:06 ansible-varnish_vmods-master/README.md
+drwxrwxr-x root/root         0 2016-03-20 09:06 ansible-varnish_vmods-master/defaults/
+-rw-rw-r-- root/root       176 2016-03-20 09:06 ansible-varnish_vmods-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-20 09:06 ansible-varnish_vmods-master/meta/
+-rw-rw-r-- root/root       327 2016-03-20 09:06 ansible-varnish_vmods-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-20 09:06 ansible-varnish_vmods-master/tasks/
+-rw-rw-r-- root/root       390 2016-03-20 09:06 ansible-varnish_vmods-master/tasks/dependencies.yml
+-rw-rw-r-- root/root      1063 2016-03-20 09:06 ansible-varnish_vmods-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-20 09:06 ansible-varnish_vmods-master/tests/
+-rw-rw-r-- root/root        10 2016-03-20 09:06 ansible-varnish_vmods-master/tests/inventory
+-rw-rw-r-- root/root       228 2016-03-20 09:06 ansible-varnish_vmods-master/tests/test.yml

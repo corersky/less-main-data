@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-15 07:22 ansible-tinc-mesh-master/
+-rw-rw-r-- root/root        21 2018-06-15 07:22 ansible-tinc-mesh-master/.gitignore
+-rw-rw-r-- root/root       987 2018-06-15 07:22 ansible-tinc-mesh-master/README.md
+drwxrwxr-x root/root         0 2018-06-15 07:22 ansible-tinc-mesh-master/meta/
+-rw-rw-r-- root/root       225 2018-06-15 07:22 ansible-tinc-mesh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-15 07:22 ansible-tinc-mesh-master/tasks/
+-rw-rw-r-- root/root      2160 2018-06-15 07:22 ansible-tinc-mesh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-15 07:22 ansible-tinc-mesh-master/templates/
+-rw-rw-r-- root/root        28 2018-06-15 07:22 ansible-tinc-mesh-master/templates/tinc-down.j2
+-rw-rw-r-- root/root        64 2018-06-15 07:22 ansible-tinc-mesh-master/templates/tinc-up.j2
+-rw-rw-r-- root/root       264 2018-06-15 07:22 ansible-tinc-mesh-master/templates/tinc.conf.j2
+-rw-rw-r-- root/root       217 2018-06-15 07:22 ansible-tinc-mesh-master/templates/tinc.service.j2
+drwxrwxr-x root/root         0 2018-06-15 07:22 ansible-tinc-mesh-master/tests/
+-rw-rw-r-- root/root       128 2018-06-15 07:22 ansible-tinc-mesh-master/tests/hosts
+-rw-rw-r-- root/root        69 2018-06-15 07:22 ansible-tinc-mesh-master/tests/test.yml

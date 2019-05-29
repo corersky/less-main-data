@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-03 03:37 ansible-role-mecab-master/
+-rw-rw-r-- root/root         8 2017-05-03 03:37 ansible-role-mecab-master/.gitignore
+-rw-rw-r-- root/root       539 2017-05-03 03:37 ansible-role-mecab-master/.travis.yml
+-rw-rw-r-- root/root       728 2017-05-03 03:37 ansible-role-mecab-master/README.md
+drwxrwxr-x root/root         0 2017-05-03 03:37 ansible-role-mecab-master/defaults/
+-rw-rw-r-- root/root        75 2017-05-03 03:37 ansible-role-mecab-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-03 03:37 ansible-role-mecab-master/meta/
+-rw-rw-r-- root/root       262 2017-05-03 03:37 ansible-role-mecab-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-03 03:37 ansible-role-mecab-master/tasks/
+-rw-rw-r-- root/root       429 2017-05-03 03:37 ansible-role-mecab-master/tasks/main.yml
+-rw-rw-r-- root/root       294 2017-05-03 03:37 ansible-role-mecab-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2017-05-03 03:37 ansible-role-mecab-master/tests/
+-rw-rw-r-- root/root         9 2017-05-03 03:37 ansible-role-mecab-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-05-03 03:37 ansible-role-mecab-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-03 03:37 ansible-role-mecab-master/vars/
+-rw-rw-r-- root/root       127 2017-05-03 03:37 ansible-role-mecab-master/vars/RedHat.yml

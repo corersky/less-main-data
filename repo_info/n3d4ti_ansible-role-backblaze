@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-21 15:44 ansible-role-backblaze-master/
+-rw-rw-r-- root/root      1057 2019-02-21 15:44 ansible-role-backblaze-master/LICENSE
+-rw-rw-r-- root/root      1328 2019-02-21 15:44 ansible-role-backblaze-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 15:44 ansible-role-backblaze-master/defaults/
+-rw-rw-r-- root/root       818 2019-02-21 15:44 ansible-role-backblaze-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 15:44 ansible-role-backblaze-master/handlers/
+-rw-rw-r-- root/root        46 2019-02-21 15:44 ansible-role-backblaze-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-21 15:44 ansible-role-backblaze-master/meta/
+-rw-rw-r-- root/root      2026 2019-02-21 15:44 ansible-role-backblaze-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 15:44 ansible-role-backblaze-master/tasks/
+-rw-rw-r-- root/root      1926 2019-02-21 15:44 ansible-role-backblaze-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-21 15:44 ansible-role-backblaze-master/tests/
+-rw-rw-r-- root/root        11 2019-02-21 15:44 ansible-role-backblaze-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-02-21 15:44 ansible-role-backblaze-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-21 15:44 ansible-role-backblaze-master/vars/
+-rw-rw-r-- root/root        42 2019-02-21 15:44 ansible-role-backblaze-master/vars/main.yml

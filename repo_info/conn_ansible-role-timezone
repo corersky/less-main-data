@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-11-18 18:00 ansible-role-timezone-master/
+-rw-rw-r-- root/root      1514 2017-11-18 18:00 ansible-role-timezone-master/LICENSE
+-rw-rw-r-- root/root        52 2017-11-18 18:00 ansible-role-timezone-master/README.md
+drwxrwxr-x root/root         0 2017-11-18 18:00 ansible-role-timezone-master/defaults/
+-rw-rw-r-- root/root        31 2017-11-18 18:00 ansible-role-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-18 18:00 ansible-role-timezone-master/meta/
+-rw-rw-r-- root/root       259 2017-11-18 18:00 ansible-role-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-18 18:00 ansible-role-timezone-master/tasks/
+-rw-rw-r-- root/root       245 2017-11-18 18:00 ansible-role-timezone-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2017-11-18 18:00 ansible-role-timezone-master/tasks/main.yml

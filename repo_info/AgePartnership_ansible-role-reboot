@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-04 17:20 ansible-role-reboot-master/
+-rw-rw-r-- root/root       551 2017-10-04 17:20 ansible-role-reboot-master/.travis.yml
+-rw-rw-r-- root/root      1071 2017-10-04 17:20 ansible-role-reboot-master/LICENSE
+-rw-rw-r-- root/root      3389 2017-10-04 17:20 ansible-role-reboot-master/README.md
+drwxrwxr-x root/root         0 2017-10-04 17:20 ansible-role-reboot-master/defaults/
+-rw-rw-r-- root/root       425 2017-10-04 17:20 ansible-role-reboot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:20 ansible-role-reboot-master/meta/
+-rw-rw-r-- root/root       379 2017-10-04 17:20 ansible-role-reboot-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:20 ansible-role-reboot-master/tasks/
+-rw-rw-r-- root/root      1210 2017-10-04 17:20 ansible-role-reboot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:20 ansible-role-reboot-master/tests/
+-rw-rw-r-- root/root        10 2017-10-04 17:20 ansible-role-reboot-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-10-04 17:20 ansible-role-reboot-master/tests/test.yml

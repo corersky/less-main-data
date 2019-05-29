@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-18 06:42 ansible-role-fluentd-master/
+-rw-rw-r-- root/root       719 2018-08-18 06:42 ansible-role-fluentd-master/Makefile
+-rw-rw-r-- root/root        82 2018-08-18 06:42 ansible-role-fluentd-master/README.md
+drwxrwxr-x root/root         0 2018-08-18 06:42 ansible-role-fluentd-master/defaults/
+-rw-rw-r-- root/root        42 2018-08-18 06:42 ansible-role-fluentd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-18 06:42 ansible-role-fluentd-master/handlers/
+-rw-rw-r-- root/root        79 2018-08-18 06:42 ansible-role-fluentd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-18 06:42 ansible-role-fluentd-master/meta/
+-rw-rw-r-- root/root       278 2018-08-18 06:42 ansible-role-fluentd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-18 06:42 ansible-role-fluentd-master/tasks/
+-rw-rw-r-- root/root      1090 2018-08-18 06:42 ansible-role-fluentd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-18 06:42 ansible-role-fluentd-master/tests/
+-rw-rw-r-- root/root       232 2018-08-18 06:42 ansible-role-fluentd-master/tests/Dockerfile
+-rw-rw-r-- root/root        34 2018-08-18 06:42 ansible-role-fluentd-master/tests/inventory
+-rw-rw-r-- root/root       110 2018-08-18 06:42 ansible-role-fluentd-master/tests/test.yml

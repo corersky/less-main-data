@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-11-25 11:18 ansible_role_awscli-master/
+-rw-rw-r-- root/root       429 2017-11-25 11:18 ansible_role_awscli-master/.travis.yml
+-rw-rw-r-- root/root      1316 2017-11-25 11:18 ansible_role_awscli-master/LICENSE
+-rw-rw-r-- root/root       410 2017-11-25 11:18 ansible_role_awscli-master/README.md
+drwxrwxr-x root/root         0 2017-11-25 11:18 ansible_role_awscli-master/meta/
+-rw-rw-r-- root/root       331 2017-11-25 11:18 ansible_role_awscli-master/meta/main.yml
+-rw-rw-r-- root/root        35 2017-11-25 11:18 ansible_role_awscli-master/requirements.yml
+drwxrwxr-x root/root         0 2017-11-25 11:18 ansible_role_awscli-master/tasks/
+-rw-rw-r-- root/root       168 2017-11-25 11:18 ansible_role_awscli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-25 11:18 ansible_role_awscli-master/tests/
+-rw-rw-r-- root/root        10 2017-11-25 11:18 ansible_role_awscli-master/tests/inventory
+-rw-rw-r-- root/root       140 2017-11-25 11:18 ansible_role_awscli-master/tests/test.yml

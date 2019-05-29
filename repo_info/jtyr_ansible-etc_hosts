@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-10-09 05:06 ansible-etc_hosts-master/
+-rw-rw-r-- root/root         0 2018-10-09 05:06 ansible-etc_hosts-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-10-09 05:06 ansible-etc_hosts-master/LICENSE
+-rw-rw-r-- root/root      2659 2018-10-09 05:06 ansible-etc_hosts-master/README.md
+drwxrwxr-x root/root         0 2018-10-09 05:06 ansible-etc_hosts-master/defaults/
+-rw-rw-r-- root/root       147 2018-10-09 05:06 ansible-etc_hosts-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-10-09 05:06 ansible-etc_hosts-master/library/
+-rw-rw-r-- root/root     11822 2018-10-09 05:06 ansible-etc_hosts-master/library/etc_hosts.py
+drwxrwxr-x root/root         0 2018-10-09 05:06 ansible-etc_hosts-master/meta/
+-rw-rw-r-- root/root      1082 2018-10-09 05:06 ansible-etc_hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-09 05:06 ansible-etc_hosts-master/tasks/
+-rw-rw-r-- root/root       311 2018-10-09 05:06 ansible-etc_hosts-master/tasks/main.yaml

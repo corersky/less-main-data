@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 19:24 ansible-fio-master/
+-rw-rw-r-- root/root       812 2016-09-05 19:24 ansible-fio-master/.travis.yml
+-rw-rw-r-- root/root       461 2016-09-05 19:24 ansible-fio-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 19:24 ansible-fio-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 19:24 ansible-fio-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:24 ansible-fio-master/meta/
+-rw-rw-r-- root/root       304 2016-09-05 19:24 ansible-fio-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:24 ansible-fio-master/tasks/
+-rw-rw-r-- root/root       373 2016-09-05 19:24 ansible-fio-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:24 ansible-fio-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 19:24 ansible-fio-master/tests/inventory
+-rw-rw-r-- root/root        69 2016-09-05 19:24 ansible-fio-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 19:24 ansible-fio-master/vars/
+-rw-rw-r-- root/root        54 2016-09-05 19:24 ansible-fio-master/vars/main.yml

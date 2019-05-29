@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-28 08:26 vSphereVM-master/
+-rw-rw-r-- root/root       539 2017-06-28 08:26 vSphereVM-master/.travis.yml
+-rw-rw-r-- root/root      2132 2017-06-28 08:26 vSphereVM-master/README.md
+drwxrwxr-x root/root         0 2017-06-28 08:26 vSphereVM-master/defaults/
+-rw-rw-r-- root/root        34 2017-06-28 08:26 vSphereVM-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:26 vSphereVM-master/handlers/
+-rw-rw-r-- root/root        34 2017-06-28 08:26 vSphereVM-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:26 vSphereVM-master/meta/
+-rw-rw-r-- root/root      2947 2017-06-28 08:26 vSphereVM-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:26 vSphereVM-master/tasks/
+-rw-rw-r-- root/root      2192 2017-06-28 08:26 vSphereVM-master/tasks/deploy-customize-win.yml
+-rw-rw-r-- root/root        87 2017-06-28 08:26 vSphereVM-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:26 vSphereVM-master/tests/
+-rw-rw-r-- root/root         9 2017-06-28 08:26 vSphereVM-master/tests/inventory
+-rw-rw-r-- root/root       378 2017-06-28 08:26 vSphereVM-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-28 08:26 vSphereVM-master/vars/
+-rw-rw-r-- root/root       311 2017-06-28 08:26 vSphereVM-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-16 23:13 ansible-role-nodejs-master/
+-rw-rw-r-- root/root        10 2017-03-16 23:13 ansible-role-nodejs-master/.gitignore
+-rw-rw-r-- root/root       539 2017-03-16 23:13 ansible-role-nodejs-master/.travis.yml
+-rw-rw-r-- root/root     10242 2017-03-16 23:13 ansible-role-nodejs-master/LICENSE
+-rw-rw-r-- root/root       277 2017-03-16 23:13 ansible-role-nodejs-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 23:13 ansible-role-nodejs-master/meta/
+-rw-rw-r-- root/root       345 2017-03-16 23:13 ansible-role-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 23:13 ansible-role-nodejs-master/tasks/
+-rw-rw-r-- root/root       137 2017-03-16 23:13 ansible-role-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       541 2017-03-16 23:13 ansible-role-nodejs-master/tasks/setup-debian.yml
+-rw-rw-r-- root/root       223 2017-03-16 23:13 ansible-role-nodejs-master/tasks/setup-redhat.yml
+drwxrwxr-x root/root         0 2017-03-16 23:13 ansible-role-nodejs-master/tests/
+-rw-rw-r-- root/root         9 2017-03-16 23:13 ansible-role-nodejs-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-03-16 23:13 ansible-role-nodejs-master/tests/test.yml

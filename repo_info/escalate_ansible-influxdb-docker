@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-18 07:29 ansible-influxdb-docker-master/
+-rw-rw-r-- root/root      1070 2018-01-18 07:29 ansible-influxdb-docker-master/LICENSE
+-rw-rw-r-- root/root       878 2018-01-18 07:29 ansible-influxdb-docker-master/README.md
+drwxrwxr-x root/root         0 2018-01-18 07:29 ansible-influxdb-docker-master/defaults/
+-rw-rw-r-- root/root      1118 2018-01-18 07:29 ansible-influxdb-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-18 07:29 ansible-influxdb-docker-master/handlers/
+-rw-rw-r-- root/root       161 2018-01-18 07:29 ansible-influxdb-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-18 07:29 ansible-influxdb-docker-master/meta/
+-rw-rw-r-- root/root       444 2018-01-18 07:29 ansible-influxdb-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-18 07:29 ansible-influxdb-docker-master/tasks/
+-rw-rw-r-- root/root      4144 2018-01-18 07:29 ansible-influxdb-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-18 07:29 ansible-influxdb-docker-master/templates/
+-rw-rw-r-- root/root      1280 2018-01-18 07:29 ansible-influxdb-docker-master/templates/backup_influxdb_database.sh.j2
+-rw-rw-r-- root/root      1112 2018-01-18 07:29 ansible-influxdb-docker-master/templates/docker.influxdb.service.j2
+-rw-rw-r-- root/root       129 2018-01-18 07:29 ansible-influxdb-docker-master/templates/influxdb.env.j2
+drwxrwxr-x root/root         0 2018-01-18 07:29 ansible-influxdb-docker-master/vars/
+-rw-rw-r-- root/root        50 2018-01-18 07:29 ansible-influxdb-docker-master/vars/armv7.yml

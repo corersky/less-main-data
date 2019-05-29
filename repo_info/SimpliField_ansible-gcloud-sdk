@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-09-15 08:18 ansible-gcloud-sdk-master/
+-rw-rw-r-- root/root       277 2017-09-15 08:18 ansible-gcloud-sdk-master/.travis.yml
+-rw-rw-r-- root/root      1414 2017-09-15 08:18 ansible-gcloud-sdk-master/Makefile
+-rw-rw-r-- root/root       632 2017-09-15 08:18 ansible-gcloud-sdk-master/README.md
+drwxrwxr-x root/root         0 2017-09-15 08:18 ansible-gcloud-sdk-master/meta/
+-rw-rw-r-- root/root       385 2017-09-15 08:18 ansible-gcloud-sdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-15 08:18 ansible-gcloud-sdk-master/tasks/
+-rw-rw-r-- root/root       706 2017-09-15 08:18 ansible-gcloud-sdk-master/tasks/credentials.yml
+-rw-rw-r-- root/root       677 2017-09-15 08:18 ansible-gcloud-sdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-15 08:18 ansible-gcloud-sdk-master/templates/
+-rw-rw-r-- root/root       578 2017-09-15 08:18 ansible-gcloud-sdk-master/templates/servicekey.json.j2
+drwxrwxr-x root/root         0 2017-09-15 08:18 ansible-gcloud-sdk-master/tests/
+-rw-rw-r-- root/root        11 2017-09-15 08:18 ansible-gcloud-sdk-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-09-15 08:18 ansible-gcloud-sdk-master/tests/test.yml

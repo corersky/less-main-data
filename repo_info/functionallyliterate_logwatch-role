@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2016-08-05 16:24 logwatch-role-master/
+-rw-rw-r-- root/root        17 2016-08-05 16:24 logwatch-role-master/.gitignore
+-rw-rw-r-- root/root      1272 2016-08-05 16:24 logwatch-role-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-08-05 16:24 logwatch-role-master/LICENSE
+-rw-rw-r-- root/root       914 2016-08-05 16:24 logwatch-role-master/README.md
+drwxrwxr-x root/root         0 2016-08-05 16:24 logwatch-role-master/defaults/
+-rw-rw-r-- root/root       597 2016-08-05 16:24 logwatch-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-05 16:24 logwatch-role-master/meta/
+-rw-rw-r-- root/root       317 2016-08-05 16:24 logwatch-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-05 16:24 logwatch-role-master/tasks/
+-rw-rw-r-- root/root       870 2016-08-05 16:24 logwatch-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-05 16:24 logwatch-role-master/templates/
+-rw-rw-r-- root/root       348 2016-08-05 16:24 logwatch-role-master/templates/etc_logwatch_conf_logwatch.conf.j2
+drwxrwxr-x root/root         0 2016-08-05 16:24 logwatch-role-master/tests/
+-rw-rw-r-- root/root        34 2016-08-05 16:24 logwatch-role-master/tests/inventory
+-rw-rw-r-- root/root        63 2016-08-05 16:24 logwatch-role-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-08-05 16:24 logwatch-role-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-08-05 16:24 logwatch-role-master/tests/roles/logwatch-role -> ../../../logwatch-role
+-rw-rw-r-- root/root       472 2016-08-05 16:24 logwatch-role-master/tests/test.yml

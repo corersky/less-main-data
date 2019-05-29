@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-27 02:08 ansible-role-kubernetes-master/
+-rw-rw-r-- root/root      1082 2015-10-27 02:08 ansible-role-kubernetes-master/LICENSE
+-rw-rw-r-- root/root       546 2015-10-27 02:08 ansible-role-kubernetes-master/README.md
+drwxrwxr-x root/root         0 2015-10-27 02:08 ansible-role-kubernetes-master/files/
+-rw-rw-r-- root/root       195 2015-10-27 02:08 ansible-role-kubernetes-master/files/kubernetes-etcd.conf
+-rw-rw-r-- root/root       208 2015-10-27 02:08 ansible-role-kubernetes-master/files/kubernetes-master.conf
+-rw-rw-r-- root/root       216 2015-10-27 02:08 ansible-role-kubernetes-master/files/kubernetes-proxy.conf
+drwxrwxr-x root/root         0 2015-10-27 02:08 ansible-role-kubernetes-master/meta/
+-rw-rw-r-- root/root       243 2015-10-27 02:08 ansible-role-kubernetes-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-27 02:08 ansible-role-kubernetes-master/tasks/
+-rw-rw-r-- root/root      1793 2015-10-27 02:08 ansible-role-kubernetes-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-27 02:08 ansible-role-kubernetes-master/tests/
+-rw-rw-r-- root/root       203 2015-10-27 02:08 ansible-role-kubernetes-master/tests/Vagrantfile
+-rw-rw-r-- root/root        26 2015-10-27 02:08 ansible-role-kubernetes-master/tests/hosts_roletest
+-rw-rw-r-- root/root        60 2015-10-27 02:08 ansible-role-kubernetes-master/tests/test.yml

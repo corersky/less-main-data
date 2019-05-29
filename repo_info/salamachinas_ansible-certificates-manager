@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-24 08:10 ansible-certificates-manager-master/
+-rw-rw-r-- root/root        55 2019-01-24 08:10 ansible-certificates-manager-master/.gitignore
+-rw-rw-r-- root/root      1627 2019-01-24 08:10 ansible-certificates-manager-master/README.md
+drwxrwxr-x root/root         0 2019-01-24 08:10 ansible-certificates-manager-master/defaults/
+-rw-rw-r-- root/root       308 2019-01-24 08:10 ansible-certificates-manager-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-24 08:10 ansible-certificates-manager-master/meta/
+-rw-rw-r-- root/root       351 2019-01-24 08:10 ansible-certificates-manager-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-24 08:10 ansible-certificates-manager-master/tasks/
+-rw-rw-r-- root/root      1116 2019-01-24 08:10 ansible-certificates-manager-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-24 08:10 ansible-certificates-manager-master/tests/
+-rw-rw-r-- root/root       231 2019-01-24 08:10 ansible-certificates-manager-master/tests/Dockerfile_centos7
+-rw-rw-r-- root/root       231 2019-01-24 08:10 ansible-certificates-manager-master/tests/Dockerfile_debian7
+-rw-rw-r-- root/root       231 2019-01-24 08:10 ansible-certificates-manager-master/tests/Dockerfile_debian8
+-rw-rw-r-- root/root       235 2019-01-24 08:10 ansible-certificates-manager-master/tests/Dockerfile_ubuntu14
+-rw-rw-r-- root/root       235 2019-01-24 08:10 ansible-certificates-manager-master/tests/Dockerfile_ubuntu16
+-rw-rw-r-- root/root       627 2019-01-24 08:10 ansible-certificates-manager-master/tests/provision.yml

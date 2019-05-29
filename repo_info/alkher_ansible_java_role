@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-08-17 11:20 ansible_java_role-master/
+-rw-rw-r-- root/root      1278 2015-08-17 11:20 ansible_java_role-master/README.md
+-rw-rw-r-- root/root      1157 2015-08-17 11:20 ansible_java_role-master/README.rst
+drwxrwxr-x root/root         0 2015-08-17 11:20 ansible_java_role-master/defaults/
+-rw-rw-r-- root/root       589 2015-08-17 11:20 ansible_java_role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-17 11:20 ansible_java_role-master/files/
+-rw-rw-r-- root/root      1326 2015-08-17 11:20 ansible_java_role-master/files/update-alternatives.sh
+drwxrwxr-x root/root         0 2015-08-17 11:20 ansible_java_role-master/handlers/
+-rw-rw-r-- root/root        29 2015-08-17 11:20 ansible_java_role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-17 11:20 ansible_java_role-master/meta/
+-rw-rw-r-- root/root      2393 2015-08-17 11:20 ansible_java_role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-17 11:20 ansible_java_role-master/tasks/
+-rw-rw-r-- root/root       134 2015-08-17 11:20 ansible_java_role-master/tasks/main.yml
+-rw-rw-r-- root/root       124 2015-08-17 11:20 ansible_java_role-master/tasks/open_java.yml
+-rw-rw-r-- root/root       483 2015-08-17 11:20 ansible_java_role-master/tasks/oracle_java.yml
+drwxrwxr-x root/root         0 2015-08-17 11:20 ansible_java_role-master/vars/
+-rw-rw-r-- root/root        25 2015-08-17 11:20 ansible_java_role-master/vars/main.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-05-04 11:01 ansible-role-metasploit-master/
+-rw-rw-r-- root/root       386 2018-05-04 11:01 ansible-role-metasploit-master/.travis.yml
+-rw-rw-r-- root/root       352 2018-05-04 11:01 ansible-role-metasploit-master/README.md
+-rw-rw-r-- root/root        28 2018-05-04 11:01 ansible-role-metasploit-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-05-04 11:01 ansible-role-metasploit-master/meta/
+-rw-rw-r-- root/root       354 2018-05-04 11:01 ansible-role-metasploit-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-04 11:01 ansible-role-metasploit-master/tasks/
+-rw-rw-r-- root/root       355 2018-05-04 11:01 ansible-role-metasploit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-04 11:01 ansible-role-metasploit-master/tests/
+-rw-rw-r-- root/root        11 2018-05-04 11:01 ansible-role-metasploit-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-05-04 11:01 ansible-role-metasploit-master/tests/test.yml

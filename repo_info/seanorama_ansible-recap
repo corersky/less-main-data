@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-27 08:34 ansible-recap-master/
+-rw-rw-r-- root/root       941 2017-09-27 08:34 ansible-recap-master/README.md
+drwxrwxr-x root/root         0 2017-09-27 08:34 ansible-recap-master/defaults/
+-rw-rw-r-- root/root        37 2017-09-27 08:34 ansible-recap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-27 08:34 ansible-recap-master/handlers/
+-rw-rw-r-- root/root        37 2017-09-27 08:34 ansible-recap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-27 08:34 ansible-recap-master/meta/
+-rw-rw-r-- root/root      1859 2017-09-27 08:34 ansible-recap-master/meta/main.yml
+-rw-rw-r-- root/root         8 2017-09-27 08:34 ansible-recap-master/requirements.txt
+drwxrwxr-x root/root         0 2017-09-27 08:34 ansible-recap-master/tasks/
+-rw-rw-r-- root/root       835 2017-09-27 08:34 ansible-recap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-27 08:34 ansible-recap-master/tests/
+-rw-rw-r-- root/root        11 2017-09-27 08:34 ansible-recap-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-09-27 08:34 ansible-recap-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-27 08:34 ansible-recap-master/vars/
+-rw-rw-r-- root/root        33 2017-09-27 08:34 ansible-recap-master/vars/main.yml

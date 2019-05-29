@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-06-07 23:57 ansible-role-concourse-common-master/
+-rw-rw-r-- root/root      1446 2018-06-07 23:57 ansible-role-concourse-common-master/README.md
+drwxrwxr-x root/root         0 2018-06-07 23:57 ansible-role-concourse-common-master/defaults/
+-rw-rw-r-- root/root       732 2018-06-07 23:57 ansible-role-concourse-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-07 23:57 ansible-role-concourse-common-master/meta/
+-rw-rw-r-- root/root       361 2018-06-07 23:57 ansible-role-concourse-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-07 23:57 ansible-role-concourse-common-master/tasks/
+-rw-rw-r-- root/root      2253 2018-06-07 23:57 ansible-role-concourse-common-master/tasks/apply.yml
+-rw-rw-r-- root/root      1935 2018-06-07 23:57 ansible-role-concourse-common-master/tasks/configure.yml
+-rw-rw-r-- root/root       205 2018-06-07 23:57 ansible-role-concourse-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-07 23:57 ansible-role-concourse-common-master/vars/
+-rw-rw-r-- root/root       454 2018-06-07 23:57 ansible-role-concourse-common-master/vars/main.yml

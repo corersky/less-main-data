@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-23 01:45 ansible-role-xfce-master/
+-rw-rw-r-- root/root        13 2018-11-23 01:45 ansible-role-xfce-master/.gitignore
+-rw-rw-r-- root/root       687 2018-11-23 01:45 ansible-role-xfce-master/README.md
+drwxrwxr-x root/root         0 2018-11-23 01:45 ansible-role-xfce-master/defaults/
+-rw-rw-r-- root/root        29 2018-11-23 01:45 ansible-role-xfce-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-23 01:45 ansible-role-xfce-master/files/
+-rw-rw-r-- root/root        63 2018-11-23 01:45 ansible-role-xfce-master/files/50-unity-greeter.conf
+drwxrwxr-x root/root         0 2018-11-23 01:45 ansible-role-xfce-master/handlers/
+-rw-rw-r-- root/root        29 2018-11-23 01:45 ansible-role-xfce-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-23 01:45 ansible-role-xfce-master/meta/
+-rw-rw-r-- root/root       317 2018-11-23 01:45 ansible-role-xfce-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-23 01:45 ansible-role-xfce-master/tasks/
+-rw-rw-r-- root/root       531 2018-11-23 01:45 ansible-role-xfce-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-23 01:45 ansible-role-xfce-master/vars/
+-rw-rw-r-- root/root        25 2018-11-23 01:45 ansible-role-xfce-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-21 09:11 allgoliot.debian-master/
+-rw-rw-r-- root/root      1328 2019-02-21 09:11 allgoliot.debian-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 09:11 allgoliot.debian-master/defaults/
+-rw-rw-r-- root/root        31 2019-02-21 09:11 allgoliot.debian-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 09:11 allgoliot.debian-master/handlers/
+-rw-rw-r-- root/root        31 2019-02-21 09:11 allgoliot.debian-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-21 09:11 allgoliot.debian-master/meta/
+-rw-rw-r-- root/root      4984 2019-02-21 09:11 allgoliot.debian-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 09:11 allgoliot.debian-master/tasks/
+-rw-rw-r-- root/root       336 2019-02-21 09:11 allgoliot.debian-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-21 09:11 allgoliot.debian-master/tests/
+-rw-rw-r-- root/root         9 2019-02-21 09:11 allgoliot.debian-master/tests/inventory
+-rw-rw-r-- root/root        64 2019-02-21 09:11 allgoliot.debian-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-21 09:11 allgoliot.debian-master/vars/
+-rw-rw-r-- root/root        27 2019-02-21 09:11 allgoliot.debian-master/vars/main.yml

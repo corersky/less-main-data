@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-07 09:19 ansible-iptables-master/
+-rw-rw-r-- root/root       367 2019-04-07 09:19 ansible-iptables-master/README.md
+drwxrwxr-x root/root         0 2019-04-07 09:19 ansible-iptables-master/defaults/
+-rw-rw-r-- root/root        24 2019-04-07 09:19 ansible-iptables-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-07 09:19 ansible-iptables-master/meta/
+-rw-rw-r-- root/root       260 2019-04-07 09:19 ansible-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-07 09:19 ansible-iptables-master/tasks/
+-rw-rw-r-- root/root       397 2019-04-07 09:19 ansible-iptables-master/tasks/install.yml
+-rw-rw-r-- root/root      2202 2019-04-07 09:19 ansible-iptables-master/tasks/iptables.yml
+-rw-rw-r-- root/root       167 2019-04-07 09:19 ansible-iptables-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-07 09:19 ansible-iptables-master/tests/
+-rw-rw-r-- root/root        11 2019-04-07 09:19 ansible-iptables-master/tests/inventory
+-rw-rw-r-- root/root        78 2019-04-07 09:19 ansible-iptables-master/tests/test.yml

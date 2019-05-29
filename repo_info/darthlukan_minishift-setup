@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-14 13:22 minishift-setup-master/
+-rw-rw-r-- root/root     35149 2019-02-14 13:22 minishift-setup-master/LICENSE
+-rw-rw-r-- root/root      1052 2019-02-14 13:22 minishift-setup-master/README.md
+drwxrwxr-x root/root         0 2019-02-14 13:22 minishift-setup-master/defaults/
+-rw-rw-r-- root/root       176 2019-02-14 13:22 minishift-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-14 13:22 minishift-setup-master/meta/
+-rw-rw-r-- root/root       497 2019-02-14 13:22 minishift-setup-master/meta/main.yml
+-rwxrwxr-x root/root        97 2019-02-14 13:22 minishift-setup-master/minishift-setup.sh
+-rw-rw-r-- root/root       100 2019-02-14 13:22 minishift-setup-master/minishift-setup.yml
+drwxrwxr-x root/root         0 2019-02-14 13:22 minishift-setup-master/tasks/
+-rw-rw-r-- root/root       562 2019-02-14 13:22 minishift-setup-master/tasks/docker_machine.yml
+-rw-rw-r-- root/root       859 2019-02-14 13:22 minishift-setup-master/tasks/libvirt.yml
+-rw-rw-r-- root/root       117 2019-02-14 13:22 minishift-setup-master/tasks/main.yml
+-rw-rw-r-- root/root       637 2019-02-14 13:22 minishift-setup-master/tasks/minishift.yml
+-rw-rw-r-- root/root       237 2019-02-14 13:22 minishift-setup-master/tasks/os_dependencies.yml

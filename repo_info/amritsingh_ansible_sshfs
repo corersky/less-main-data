@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-09-20 02:21 ansible_sshfs-master/
+-rw-rw-r-- root/root     11357 2017-09-20 02:21 ansible_sshfs-master/LICENSE
+-rw-rw-r-- root/root       704 2017-09-20 02:21 ansible_sshfs-master/README.md
+drwxrwxr-x root/root         0 2017-09-20 02:21 ansible_sshfs-master/meta/
+-rw-rw-r-- root/root       242 2017-09-20 02:21 ansible_sshfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-20 02:21 ansible_sshfs-master/tasks/
+-rw-rw-r-- root/root      1310 2017-09-20 02:21 ansible_sshfs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-20 02:21 ansible_sshfs-master/templates/
+-rw-rw-r-- root/root        17 2017-09-20 02:21 ansible_sshfs-master/templates/fuse.conf
+-rw-rw-r-- root/root      1668 2017-09-20 02:21 ansible_sshfs-master/templates/ssh_config
+-rw-rw-r-- root/root       292 2017-09-20 02:21 ansible_sshfs-master/templates/sshfs_script.j2

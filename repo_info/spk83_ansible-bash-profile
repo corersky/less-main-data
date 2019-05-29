@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-11-07 08:29 ansible-bash-profile-master/
+-rw-rw-r-- root/root       280 2016-11-07 08:29 ansible-bash-profile-master/README.md
+drwxrwxr-x root/root         0 2016-11-07 08:29 ansible-bash-profile-master/defaults/
+-rw-rw-r-- root/root       124 2016-11-07 08:29 ansible-bash-profile-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-07 08:29 ansible-bash-profile-master/handlers/
+-rw-rw-r-- root/root        45 2016-11-07 08:29 ansible-bash-profile-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-07 08:29 ansible-bash-profile-master/meta/
+-rw-rw-r-- root/root       400 2016-11-07 08:29 ansible-bash-profile-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-07 08:29 ansible-bash-profile-master/tasks/
+-rw-rw-r-- root/root       891 2016-11-07 08:29 ansible-bash-profile-master/tasks/main.yml
+-rw-rw-r-- root/root        51 2016-11-07 08:29 ansible-bash-profile-master/test.yml
+drwxrwxr-x root/root         0 2016-11-07 08:29 ansible-bash-profile-master/vars/
+-rw-rw-r-- root/root        81 2016-11-07 08:29 ansible-bash-profile-master/vars/Darwin.yml
+-rw-rw-r-- root/root        41 2016-11-07 08:29 ansible-bash-profile-master/vars/main.yml

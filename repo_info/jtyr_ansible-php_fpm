@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-11 12:42 ansible-php_fpm-master/
+-rw-rw-r-- root/root         0 2017-01-11 12:42 ansible-php_fpm-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-01-11 12:42 ansible-php_fpm-master/LICENSE
+-rw-rw-r-- root/root      3397 2017-01-11 12:42 ansible-php_fpm-master/README.md
+drwxrwxr-x root/root         0 2017-01-11 12:42 ansible-php_fpm-master/defaults/
+-rw-rw-r-- root/root      1606 2017-01-11 12:42 ansible-php_fpm-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:42 ansible-php_fpm-master/handlers/
+-rw-rw-r-- root/root       183 2017-01-11 12:42 ansible-php_fpm-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:42 ansible-php_fpm-master/meta/
+-rw-rw-r-- root/root       262 2017-01-11 12:42 ansible-php_fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-11 12:42 ansible-php_fpm-master/tasks/
+-rw-rw-r-- root/root      1258 2017-01-11 12:42 ansible-php_fpm-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:42 ansible-php_fpm-master/templates/
+-rw-rw-r-- root/root        92 2017-01-11 12:42 ansible-php_fpm-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root        88 2017-01-11 12:42 ansible-php_fpm-master/templates/php-fpm.pool.j2
+-rw-rw-r-- root/root        98 2017-01-11 12:42 ansible-php_fpm-master/templates/php-fpm.sysconfig.j2

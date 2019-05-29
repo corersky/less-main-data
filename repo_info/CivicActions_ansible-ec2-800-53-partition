@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-09-12 18:33 ansible-ec2-800-53-partition-master/
+-rw-rw-r-- root/root     35141 2017-09-12 18:33 ansible-ec2-800-53-partition-master/LICENSE
+-rw-rw-r-- root/root       189 2017-09-12 18:33 ansible-ec2-800-53-partition-master/README.md
+drwxrwxr-x root/root         0 2017-09-12 18:33 ansible-ec2-800-53-partition-master/defaults/
+-rw-rw-r-- root/root        69 2017-09-12 18:33 ansible-ec2-800-53-partition-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-12 18:33 ansible-ec2-800-53-partition-master/meta/
+-rw-rw-r-- root/root      1941 2017-09-12 18:33 ansible-ec2-800-53-partition-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-12 18:33 ansible-ec2-800-53-partition-master/tasks/
+-rw-rw-r-- root/root      2312 2017-09-12 18:33 ansible-ec2-800-53-partition-master/tasks/main.yml
+-rw-rw-r-- root/root       507 2017-09-12 18:33 ansible-ec2-800-53-partition-master/tasks/shutdown-cleanup.service

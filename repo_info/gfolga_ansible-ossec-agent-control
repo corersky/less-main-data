@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-04-14 09:20 ansible-ossec-agent-control-master/
+-rw-rw-r-- root/root       656 2017-04-14 09:20 ansible-ossec-agent-control-master/README.md
+drwxrwxr-x root/root         0 2017-04-14 09:20 ansible-ossec-agent-control-master/defautls/
+-rw-rw-r-- root/root       110 2017-04-14 09:20 ansible-ossec-agent-control-master/defautls/main.yml
+drwxrwxr-x root/root         0 2017-04-14 09:20 ansible-ossec-agent-control-master/handlers/
+-rw-rw-r-- root/root        16 2017-04-14 09:20 ansible-ossec-agent-control-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-14 09:20 ansible-ossec-agent-control-master/meta/
+-rw-rw-r-- root/root       210 2017-04-14 09:20 ansible-ossec-agent-control-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-14 09:20 ansible-ossec-agent-control-master/tasks/
+-rw-rw-r-- root/root       615 2017-04-14 09:20 ansible-ossec-agent-control-master/tasks/getid.yml
+-rw-rw-r-- root/root       108 2017-04-14 09:20 ansible-ossec-agent-control-master/tasks/main.yml
+-rw-rw-r-- root/root       171 2017-04-14 09:20 ansible-ossec-agent-control-master/tasks/restart.yml
+-rw-rw-r-- root/root       518 2017-04-14 09:20 ansible-ossec-agent-control-master/tasks/syscheck.yml

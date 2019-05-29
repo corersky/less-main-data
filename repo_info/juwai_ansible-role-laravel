@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/.github/
+-rw-rw-r-- root/root       406 2019-04-17 02:37 ansible-role-laravel-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root        44 2019-04-17 02:37 ansible-role-laravel-master/.gitignore
+-rw-rw-r-- root/root       540 2019-04-17 02:37 ansible-role-laravel-master/.travis.yml
+-rw-rw-r-- root/root      2467 2019-04-17 02:37 ansible-role-laravel-master/README.md
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/defaults/
+-rw-rw-r-- root/root       830 2019-04-17 02:37 ansible-role-laravel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/meta/
+-rw-rw-r-- root/root       382 2019-04-17 02:37 ansible-role-laravel-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/tasks/
+-rw-rw-r-- root/root      2637 2019-04-17 02:37 ansible-role-laravel-master/tasks/main.yml
+-rw-rw-r-- root/root       339 2019-04-17 02:37 ansible-role-laravel-master/tasks/ssl_certificate.yml
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/templates/
+-rw-rw-r-- root/root       121 2019-04-17 02:37 ansible-role-laravel-master/templates/dot_env.j2
+-rw-rw-r-- root/root      3487 2019-04-17 02:37 ansible-role-laravel-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root        60 2019-04-17 02:37 ansible-role-laravel-master/templates/ssl.crt.j2
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/tests/
+-rw-rw-r-- root/root       525 2019-04-17 02:37 ansible-role-laravel-master/tests/Vagrantfile
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/tests/group_vars/
+-rw-rw-r-- root/root      1614 2019-04-17 02:37 ansible-role-laravel-master/tests/group_vars/all.yml
+-rw-rw-r-- root/root        10 2019-04-17 02:37 ansible-role-laravel-master/tests/inventory
+-rw-rw-r-- root/root        96 2019-04-17 02:37 ansible-role-laravel-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2019-04-17 02:37 ansible-role-laravel-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-04-17 02:37 ansible-role-laravel-master/tests/roles/laravel -> ../..
+-rw-rw-r-- root/root       264 2019-04-17 02:37 ansible-role-laravel-master/tests/test.yml

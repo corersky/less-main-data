@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-28 23:44 ansible-mariadb-master/
+-rw-rw-r-- root/root     34523 2019-01-28 23:44 ansible-mariadb-master/LICENSE
+-rw-rw-r-- root/root        54 2019-01-28 23:44 ansible-mariadb-master/README.md
+drwxrwxr-x root/root         0 2019-01-28 23:44 ansible-mariadb-master/defaults/
+-rw-rw-r-- root/root        40 2019-01-28 23:44 ansible-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-28 23:44 ansible-mariadb-master/handlers/
+-rw-rw-r-- root/root       168 2019-01-28 23:44 ansible-mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-28 23:44 ansible-mariadb-master/meta/
+-rw-rw-r-- root/root      1775 2019-01-28 23:44 ansible-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-28 23:44 ansible-mariadb-master/tasks/
+-rw-rw-r-- root/root       456 2019-01-28 23:44 ansible-mariadb-master/tasks/main.yml
+-rw-rw-r-- root/root       153 2019-01-28 23:44 ansible-mariadb-master/tasks/sles12_rpms.yml
+-rw-rw-r-- root/root       159 2019-01-28 23:44 ansible-mariadb-master/tasks/sles15_rpms.yml
+drwxrwxr-x root/root         0 2019-01-28 23:44 ansible-mariadb-master/templates/
+-rw-rw-r-- root/root      3390 2019-01-28 23:44 ansible-mariadb-master/templates/my.cnf.j2
+drwxrwxr-x root/root         0 2019-01-28 23:44 ansible-mariadb-master/vars/
+-rw-rw-r-- root/root         0 2019-01-28 23:44 ansible-mariadb-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-sysdig-master/
+-rw-rw-r-- root/root      2187 2017-01-17 04:34 ansible-sysdig-master/.travis.yml
+-rw-rw-r-- root/root      1075 2017-01-17 04:34 ansible-sysdig-master/LICENSE
+-rw-rw-r-- root/root      1399 2017-01-17 04:34 ansible-sysdig-master/README.md
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-sysdig-master/defaults/
+-rw-rw-r-- root/root       271 2017-01-17 04:34 ansible-sysdig-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-sysdig-master/meta/
+-rw-rw-r-- root/root       375 2017-01-17 04:34 ansible-sysdig-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-sysdig-master/tasks/
+-rw-rw-r-- root/root       660 2017-01-17 04:34 ansible-sysdig-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-sysdig-master/tests/
+-rw-rw-r-- root/root         9 2017-01-17 04:34 ansible-sysdig-master/tests/inventory
+-rw-rw-r-- root/root       118 2017-01-17 04:34 ansible-sysdig-master/tests/test.yml

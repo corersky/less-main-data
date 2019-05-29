@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-10 02:37 ansible-role-torque-master/
+-rw-rw-r-- root/root      1377 2018-05-10 02:37 ansible-role-torque-master/.travis.yml
+-rw-rw-r-- root/root      1276 2018-05-10 02:37 ansible-role-torque-master/LICENSE
+-rw-rw-r-- root/root       525 2018-05-10 02:37 ansible-role-torque-master/README.md
+drwxrwxr-x root/root         0 2018-05-10 02:37 ansible-role-torque-master/defaults/
+-rw-rw-r-- root/root        59 2018-05-10 02:37 ansible-role-torque-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-10 02:37 ansible-role-torque-master/meta/
+-rw-rw-r-- root/root       358 2018-05-10 02:37 ansible-role-torque-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-10 02:37 ansible-role-torque-master/tasks/
+-rw-rw-r-- root/root      4820 2018-05-10 02:37 ansible-role-torque-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-10 02:37 ansible-role-torque-master/templates/
+-rw-rw-r-- root/root         0 2018-05-10 02:37 ansible-role-torque-master/templates/.gitignore
+-rw-rw-r-- root/root      3224 2018-05-10 02:37 ansible-role-torque-master/templates/torque
+drwxrwxr-x root/root         0 2018-05-10 02:37 ansible-role-torque-master/tests/
+-rw-rw-r-- root/root        10 2018-05-10 02:37 ansible-role-torque-master/tests/inventory
+-rw-rw-r-- root/root        88 2018-05-10 02:37 ansible-role-torque-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-02-22 07:18 ansible-role-tftpd-master/
+-rw-rw-r-- root/root      1115 2018-02-22 07:18 ansible-role-tftpd-master/LICENSE
+-rw-rw-r-- root/root      2126 2018-02-22 07:18 ansible-role-tftpd-master/README.md
+drwxrwxr-x root/root         0 2018-02-22 07:18 ansible-role-tftpd-master/defaults/
+-rw-rw-r-- root/root       103 2018-02-22 07:18 ansible-role-tftpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-22 07:18 ansible-role-tftpd-master/meta/
+-rw-rw-r-- root/root       382 2018-02-22 07:18 ansible-role-tftpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-22 07:18 ansible-role-tftpd-master/tasks/
+-rw-rw-r-- root/root       604 2018-02-22 07:18 ansible-role-tftpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-22 07:18 ansible-role-tftpd-master/templates/
+-rw-rw-r-- root/root       139 2018-02-22 07:18 ansible-role-tftpd-master/templates/mapping.conf.j2
+-rw-rw-r-- root/root       748 2018-02-22 07:18 ansible-role-tftpd-master/templates/xinetd-tftp.j2

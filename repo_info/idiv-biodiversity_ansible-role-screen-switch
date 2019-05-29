@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-26 17:41 ansible-role-screen-switch-master/
+-rw-rw-r-- root/root      1869 2018-10-26 17:41 ansible-role-screen-switch-master/README.md
+drwxrwxr-x root/root         0 2018-10-26 17:41 ansible-role-screen-switch-master/defaults/
+-rw-rw-r-- root/root       158 2018-10-26 17:41 ansible-role-screen-switch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-26 17:41 ansible-role-screen-switch-master/files/
+-rw-rw-r-- root/root       114 2018-10-26 17:41 ansible-role-screen-switch-master/files/screen_switch@.service
+drwxrwxr-x root/root         0 2018-10-26 17:41 ansible-role-screen-switch-master/handlers/
+-rw-rw-r-- root/root        61 2018-10-26 17:41 ansible-role-screen-switch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-26 17:41 ansible-role-screen-switch-master/meta/
+-rw-rw-r-- root/root      1036 2018-10-26 17:41 ansible-role-screen-switch-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-26 17:41 ansible-role-screen-switch-master/tasks/
+-rw-rw-r-- root/root       978 2018-10-26 17:41 ansible-role-screen-switch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-26 17:41 ansible-role-screen-switch-master/templates/
+-rw-rw-r-- root/root       176 2018-10-26 17:41 ansible-role-screen-switch-master/templates/screen_on.timer.j2
+-rw-rw-r-- root/root       186 2018-10-26 17:41 ansible-role-screen-switch-master/templates/screen_standby.timer.j2
+-rwxrwxr-x root/root       511 2018-10-26 17:41 ansible-role-screen-switch-master/templates/screen_switch.sh.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-26 01:04 ansible-role-htpc-common-master/
+-rw-rw-r-- root/root       572 2016-03-26 01:04 ansible-role-htpc-common-master/.travis.yml
+-rw-rw-r-- root/root      3537 2016-03-26 01:04 ansible-role-htpc-common-master/README.md
+drwxrwxr-x root/root         0 2016-03-26 01:04 ansible-role-htpc-common-master/defaults/
+-rw-rw-r-- root/root       932 2016-03-26 01:04 ansible-role-htpc-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-26 01:04 ansible-role-htpc-common-master/handlers/
+-rw-rw-r-- root/root        36 2016-03-26 01:04 ansible-role-htpc-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-26 01:04 ansible-role-htpc-common-master/meta/
+-rw-rw-r-- root/root       270 2016-03-26 01:04 ansible-role-htpc-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-26 01:04 ansible-role-htpc-common-master/tasks/
+-rw-rw-r-- root/root      2995 2016-03-26 01:04 ansible-role-htpc-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-26 01:04 ansible-role-htpc-common-master/tests/
+-rw-rw-r-- root/root         9 2016-03-26 01:04 ansible-role-htpc-common-master/tests/inventory
+-rw-rw-r-- root/root        82 2016-03-26 01:04 ansible-role-htpc-common-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-26 01:04 ansible-role-htpc-common-master/vars/
+-rw-rw-r-- root/root        32 2016-03-26 01:04 ansible-role-htpc-common-master/vars/main.yml

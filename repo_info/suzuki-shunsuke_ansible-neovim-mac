@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-28 02:52 ansible-neovim-mac-master/
+-rw-rw-r-- root/root        18 2017-03-28 02:52 ansible-neovim-mac-master/.gitignore
+-rw-rw-r-- root/root      1072 2017-03-28 02:52 ansible-neovim-mac-master/LICENSE
+-rw-rw-r-- root/root       347 2017-03-28 02:52 ansible-neovim-mac-master/README.md
+drwxrwxr-x root/root         0 2017-03-28 02:52 ansible-neovim-mac-master/meta/
+-rw-rw-r-- root/root       242 2017-03-28 02:52 ansible-neovim-mac-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-28 02:52 ansible-neovim-mac-master/tasks/
+-rw-rw-r-- root/root       198 2017-03-28 02:52 ansible-neovim-mac-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-28 02:52 ansible-neovim-mac-master/tests/
+-rw-rw-r-- root/root       133 2017-03-28 02:52 ansible-neovim-mac-master/tests/ansible.cfg
+-rw-rw-r-- root/root        47 2017-03-28 02:52 ansible-neovim-mac-master/tests/localhost
+-rw-rw-r-- root/root        55 2017-03-28 02:52 ansible-neovim-mac-master/tests/test.yml

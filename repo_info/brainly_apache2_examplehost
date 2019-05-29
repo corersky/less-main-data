@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-06-04 09:45 apache2_examplehost-master/
+-rw-rw-r-- root/root     11358 2014-06-04 09:45 apache2_examplehost-master/LICENSE
+-rw-rw-r-- root/root      1867 2014-06-04 09:45 apache2_examplehost-master/README.md
+drwxrwxr-x root/root         0 2014-06-04 09:45 apache2_examplehost-master/files/
+-rw-rw-r-- root/root        24 2014-06-04 09:45 apache2_examplehost-master/files/index.php
+drwxrwxr-x root/root         0 2014-06-04 09:45 apache2_examplehost-master/handlers/
+-rw-rw-r-- root/root       293 2014-06-04 09:45 apache2_examplehost-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-06-04 09:45 apache2_examplehost-master/meta/
+-rw-rw-r-- root/root       340 2014-06-04 09:45 apache2_examplehost-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-06-04 09:45 apache2_examplehost-master/tasks/
+-rw-rw-r-- root/root        82 2014-06-04 09:45 apache2_examplehost-master/tasks/main.yml
+-rw-rw-r-- root/root       208 2014-06-04 09:45 apache2_examplehost-master/tasks/monitoring.yml
+-rw-rw-r-- root/root       686 2014-06-04 09:45 apache2_examplehost-master/tasks/service.yml
+drwxrwxr-x root/root         0 2014-06-04 09:45 apache2_examplehost-master/templates/
+-rw-rw-r-- root/root       486 2014-06-04 09:45 apache2_examplehost-master/templates/examplehost.conf.j2
+-rw-rw-r-- root/root       167 2014-06-04 09:45 apache2_examplehost-master/templates/examplehost.nrpe.conf.j2

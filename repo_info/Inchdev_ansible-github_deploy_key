@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-02-07 09:58 ansible-github_deploy_key-master/
+-rw-rw-r-- root/root      2133 2017-02-07 09:58 ansible-github_deploy_key-master/README.md
+drwxrwxr-x root/root         0 2017-02-07 09:58 ansible-github_deploy_key-master/defaults/
+-rw-rw-r-- root/root       181 2017-02-07 09:58 ansible-github_deploy_key-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-07 09:58 ansible-github_deploy_key-master/meta/
+-rw-rw-r-- root/root       420 2017-02-07 09:58 ansible-github_deploy_key-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-07 09:58 ansible-github_deploy_key-master/tasks/
+-rw-rw-r-- root/root       715 2017-02-07 09:58 ansible-github_deploy_key-master/tasks/add_key.yml
+-rw-rw-r-- root/root       137 2017-02-07 09:58 ansible-github_deploy_key-master/tasks/main.yml
+-rw-rw-r-- root/root       565 2017-02-07 09:58 ansible-github_deploy_key-master/tasks/remove_key.yml

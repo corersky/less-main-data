@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-10-17 09:08 influxdb-backup-master/
+-rw-rw-r-- root/root       539 2016-10-17 09:08 influxdb-backup-master/.travis.yml
+-rw-rw-r-- root/root       668 2016-10-17 09:08 influxdb-backup-master/README.md
+drwxrwxr-x root/root         0 2016-10-17 09:08 influxdb-backup-master/defaults/
+-rw-rw-r-- root/root       261 2016-10-17 09:08 influxdb-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-17 09:08 influxdb-backup-master/meta/
+-rw-rw-r-- root/root       306 2016-10-17 09:08 influxdb-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-17 09:08 influxdb-backup-master/tasks/
+-rw-rw-r-- root/root       558 2016-10-17 09:08 influxdb-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-17 09:08 influxdb-backup-master/templates/
+-rw-rw-r-- root/root      5371 2016-10-17 09:08 influxdb-backup-master/templates/dumper.py.j2

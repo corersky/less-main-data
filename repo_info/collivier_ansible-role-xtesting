@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-15 15:19 ansible-role-xtesting-master/
+-rw-rw-r-- root/root       120 2019-05-15 15:19 ansible-role-xtesting-master/.travis.yml
+drwxrwxr-x root/root         0 2019-05-15 15:19 ansible-role-xtesting-master/defaults/
+-rw-rw-r-- root/root       959 2019-05-15 15:19 ansible-role-xtesting-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 15:19 ansible-role-xtesting-master/meta/
+-rw-rw-r-- root/root       516 2019-05-15 15:19 ansible-role-xtesting-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-15 15:19 ansible-role-xtesting-master/tasks/
+-rw-rw-r-- root/root      4525 2019-05-15 15:19 ansible-role-xtesting-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-15 15:19 ansible-role-xtesting-master/templates/
+-rw-rw-r-- root/root       465 2019-05-15 15:19 ansible-role-xtesting-master/templates/jenkins_jobs.ini.j2
+-rw-rw-r-- root/root     14552 2019-05-15 15:19 ansible-role-xtesting-master/templates/run.yaml.j2
+-rw-rw-r-- root/root       232 2019-05-15 15:19 ansible-role-xtesting-master/test-requirements.txt
+-rw-rw-r-- root/root       381 2019-05-15 15:19 ansible-role-xtesting-master/tox.ini

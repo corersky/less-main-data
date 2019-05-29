@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2015-08-28 08:50 ansible-mesos-master/
+-rw-rw-r-- root/root        37 2015-08-28 08:50 ansible-mesos-master/.gitignore
+-rw-rw-r-- root/root       194 2015-08-28 08:50 ansible-mesos-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-08-28 08:50 ansible-mesos-master/LICENSE
+-rw-rw-r-- root/root       725 2015-08-28 08:50 ansible-mesos-master/README.md
+drwxrwxr-x root/root         0 2015-08-28 08:50 ansible-mesos-master/defaults/
+-rw-rw-r-- root/root       227 2015-08-28 08:50 ansible-mesos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-28 08:50 ansible-mesos-master/examples/
+-rw-rw-r-- root/root       668 2015-08-28 08:50 ansible-mesos-master/examples/Vagrantfile
+-rw-rw-r-- root/root        18 2015-08-28 08:50 ansible-mesos-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-08-28 08:50 ansible-mesos-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-08-28 08:50 ansible-mesos-master/examples/roles/azavea.mesos -> ../../
+-rw-rw-r-- root/root       129 2015-08-28 08:50 ansible-mesos-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-08-28 08:50 ansible-mesos-master/handlers/
+-rw-rw-r-- root/root       200 2015-08-28 08:50 ansible-mesos-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-28 08:50 ansible-mesos-master/meta/
+-rw-rw-r-- root/root       307 2015-08-28 08:50 ansible-mesos-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-28 08:50 ansible-mesos-master/tasks/
+-rw-rw-r-- root/root       400 2015-08-28 08:50 ansible-mesos-master/tasks/main.yml

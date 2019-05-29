@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2013-12-20 18:59 pound-master/
+-rw-rw-r-- root/root      1266 2013-12-20 18:59 pound-master/README.md
+drwxrwxr-x root/root         0 2013-12-20 18:59 pound-master/defaults/
+-rw-rw-r-- root/root       413 2013-12-20 18:59 pound-master/defaults/main.yml
+drwxrwxr-x root/root         0 2013-12-20 18:59 pound-master/handlers/
+-rw-rw-r-- root/root        93 2013-12-20 18:59 pound-master/handlers/main.yml
+drwxrwxr-x root/root         0 2013-12-20 18:59 pound-master/meta/
+-rw-rw-r-- root/root       237 2013-12-20 18:59 pound-master/meta/main.yml
+drwxrwxr-x root/root         0 2013-12-20 18:59 pound-master/tasks/
+-rw-rw-r-- root/root       775 2013-12-20 18:59 pound-master/tasks/main.yml
+drwxrwxr-x root/root         0 2013-12-20 18:59 pound-master/templates/
+-rw-rw-r-- root/root       394 2013-12-20 18:59 pound-master/templates/pound.cfg.j2
+drwxrwxr-x root/root         0 2013-12-20 18:59 pound-master/vars/
+-rw-rw-r-- root/root       186 2013-12-20 18:59 pound-master/vars/Debian.yml
+-rw-rw-r-- root/root       236 2013-12-20 18:59 pound-master/vars/RedHat.yml
+-rw-rw-r-- root/root        23 2013-12-20 18:59 pound-master/vars/main.yml

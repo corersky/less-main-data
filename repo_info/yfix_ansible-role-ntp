@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-10-12 14:17 ansible-role-ntp-master/
+-rw-rw-r-- root/root       809 2015-10-12 14:17 ansible-role-ntp-master/.travis.yml
+-rw-rw-r-- root/root       922 2015-10-12 14:17 ansible-role-ntp-master/README.md
+drwxrwxr-x root/root         0 2015-10-12 14:17 ansible-role-ntp-master/defaults/
+-rw-rw-r-- root/root        48 2015-10-12 14:17 ansible-role-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-12 14:17 ansible-role-ntp-master/meta/
+-rw-rw-r-- root/root       390 2015-10-12 14:17 ansible-role-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-12 14:17 ansible-role-ntp-master/tasks/
+-rw-rw-r-- root/root       859 2015-10-12 14:17 ansible-role-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-12 14:17 ansible-role-ntp-master/tests/
+-rw-rw-r-- root/root        10 2015-10-12 14:17 ansible-role-ntp-master/tests/inventory
+-rw-rw-r-- root/root        75 2015-10-12 14:17 ansible-role-ntp-master/tests/test.yml
+drwxrwxr-x root/root         0 2015-10-12 14:17 ansible-role-ntp-master/vars/
+-rw-rw-r-- root/root        20 2015-10-12 14:17 ansible-role-ntp-master/vars/Debian.yml
+-rw-rw-r-- root/root        21 2015-10-12 14:17 ansible-role-ntp-master/vars/FreeBSD.yml
+-rw-rw-r-- root/root        21 2015-10-12 14:17 ansible-role-ntp-master/vars/RedHat.yml

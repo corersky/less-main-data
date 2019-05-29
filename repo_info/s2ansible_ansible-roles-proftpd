@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-19 12:49 ansible-roles-proftpd-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:49 ansible-roles-proftpd-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:49 ansible-roles-proftpd-master/defaults/
+-rw-rw-r-- root/root        77 2018-11-19 12:49 ansible-roles-proftpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:49 ansible-roles-proftpd-master/handlers/
+-rw-rw-r-- root/root        94 2018-11-19 12:49 ansible-roles-proftpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:49 ansible-roles-proftpd-master/meta/
+-rw-rw-r-- root/root       313 2018-11-19 12:49 ansible-roles-proftpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:49 ansible-roles-proftpd-master/tasks/
+-rw-rw-r-- root/root       337 2018-11-19 12:49 ansible-roles-proftpd-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:49 ansible-roles-proftpd-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       236 2018-11-19 12:49 ansible-roles-proftpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:49 ansible-roles-proftpd-master/templates/
+-rw-rw-r-- root/root      6933 2018-11-19 12:49 ansible-roles-proftpd-master/templates/proftpd.conf.j2
+drwxrwxr-x root/root         0 2018-11-19 12:49 ansible-roles-proftpd-master/vars/
+-rw-rw-r-- root/root        41 2018-11-19 12:49 ansible-roles-proftpd-master/vars/main.yml

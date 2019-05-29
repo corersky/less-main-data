@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-capistrano-setup-master/
+-rw-rw-r-- root/root        11 2016-12-30 11:38 ansible-role-capistrano-setup-master/.gitignore
+-rw-rw-r-- root/root     35120 2016-12-30 11:38 ansible-role-capistrano-setup-master/LICENSE
+-rw-rw-r-- root/root      1967 2016-12-30 11:38 ansible-role-capistrano-setup-master/README.md
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-capistrano-setup-master/defaults/
+-rw-rw-r-- root/root        66 2016-12-30 11:38 ansible-role-capistrano-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-capistrano-setup-master/meta/
+-rw-rw-r-- root/root       616 2016-12-30 11:38 ansible-role-capistrano-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-capistrano-setup-master/tasks/
+-rw-rw-r-- root/root       164 2016-12-30 11:38 ansible-role-capistrano-setup-master/tasks/delete.yml
+-rw-rw-r-- root/root       130 2016-12-30 11:38 ansible-role-capistrano-setup-master/tasks/main.yml
+-rw-rw-r-- root/root      2301 2016-12-30 11:38 ansible-role-capistrano-setup-master/tasks/structure.yml
+-rw-rw-r-- root/root      1193 2016-12-30 11:38 ansible-role-capistrano-setup-master/tasks/users.yml
+drwxrwxr-x root/root         0 2016-12-30 11:38 ansible-role-capistrano-setup-master/tests/
+-rw-rw-r-- root/root        10 2016-12-30 11:38 ansible-role-capistrano-setup-master/tests/inventory
+-rw-rw-r-- root/root        88 2016-12-30 11:38 ansible-role-capistrano-setup-master/tests/test.yml

@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-10-14 08:36 ansible-docker_container-master/
+-rw-rw-r-- root/root       339 2016-10-14 08:36 ansible-docker_container-master/.travis.yml
+-rw-rw-r-- root/root      1333 2016-10-14 08:36 ansible-docker_container-master/README.md
+-rw-rw-r-- root/root        34 2016-10-14 08:36 ansible-docker_container-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-10-14 08:36 ansible-docker_container-master/defaults/
+-rw-rw-r-- root/root        78 2016-10-14 08:36 ansible-docker_container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-14 08:36 ansible-docker_container-master/meta/
+-rw-rw-r-- root/root       264 2016-10-14 08:36 ansible-docker_container-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-14 08:36 ansible-docker_container-master/tasks/
+-rw-rw-r-- root/root       422 2016-10-14 08:36 ansible-docker_container-master/tasks/main.yml
+-rw-rw-r-- root/root       151 2016-10-14 08:36 ansible-docker_container-master/tasks/upstart.yml
+drwxrwxr-x root/root         0 2016-10-14 08:36 ansible-docker_container-master/templates/
+-rw-rw-r-- root/root       860 2016-10-14 08:36 ansible-docker_container-master/templates/upstart.conf.j2
+drwxrwxr-x root/root         0 2016-10-14 08:36 ansible-docker_container-master/tests/
+-rw-rw-r-- root/root         9 2016-10-14 08:36 ansible-docker_container-master/tests/inventory
+drwxrwxr-x root/root         0 2016-10-14 08:36 ansible-docker_container-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-10-14 08:36 ansible-docker_container-master/tests/roles/nolith.docker_container -> ../../
+-rw-rw-r-- root/root       554 2016-10-14 08:36 ansible-docker_container-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-14 08:36 ansible-docker_container-master/tests/utils/
+-rwxrwxr-x root/root       455 2016-10-14 08:36 ansible-docker_container-master/tests/utils/run_test.sh

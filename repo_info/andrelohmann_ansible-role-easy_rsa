@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-08 14:49 ansible-role-easy_rsa-master/
+-rw-rw-r-- root/root        28 2018-10-08 14:49 ansible-role-easy_rsa-master/.gitignore
+-rw-rw-r-- root/root      1194 2018-10-08 14:49 ansible-role-easy_rsa-master/.travis.yml
+-rw-rw-r-- root/root      1564 2018-10-08 14:49 ansible-role-easy_rsa-master/README.md
+drwxrwxr-x root/root         0 2018-10-08 14:49 ansible-role-easy_rsa-master/defaults/
+-rw-rw-r-- root/root       472 2018-10-08 14:49 ansible-role-easy_rsa-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:49 ansible-role-easy_rsa-master/meta/
+-rw-rw-r-- root/root       330 2018-10-08 14:49 ansible-role-easy_rsa-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:49 ansible-role-easy_rsa-master/tasks/
+-rw-rw-r-- root/root      1171 2018-10-08 14:49 ansible-role-easy_rsa-master/tasks/client.yml
+-rw-rw-r-- root/root      2133 2018-10-08 14:49 ansible-role-easy_rsa-master/tasks/edit_vars.yml
+-rw-rw-r-- root/root      3191 2018-10-08 14:49 ansible-role-easy_rsa-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:49 ansible-role-easy_rsa-master/tests/
+-rw-rw-r-- root/root         9 2018-10-08 14:49 ansible-role-easy_rsa-master/tests/inventory
+-rw-rw-r-- root/root       725 2018-10-08 14:49 ansible-role-easy_rsa-master/tests/test.yml

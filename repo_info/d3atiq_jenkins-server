@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-21 07:35 jenkins-server-master/
+-rw-rw-r-- root/root      1071 2019-05-21 07:35 jenkins-server-master/LICENSE
+-rw-rw-r-- root/root      1328 2019-05-21 07:35 jenkins-server-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 07:35 jenkins-server-master/defaults/
+-rw-rw-r-- root/root        38 2019-05-21 07:35 jenkins-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 07:35 jenkins-server-master/handlers/
+-rw-rw-r-- root/root        38 2019-05-21 07:35 jenkins-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-21 07:35 jenkins-server-master/meta/
+-rw-rw-r-- root/root       232 2019-05-21 07:35 jenkins-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 07:35 jenkins-server-master/tasks/
+-rw-rw-r-- root/root       598 2019-05-21 07:35 jenkins-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 07:35 jenkins-server-master/tests/
+-rw-rw-r-- root/root        11 2019-05-21 07:35 jenkins-server-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-05-21 07:35 jenkins-server-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-21 07:35 jenkins-server-master/vars/
+-rw-rw-r-- root/root        34 2019-05-21 07:35 jenkins-server-master/vars/main.yml

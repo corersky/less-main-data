@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-14 13:55 ansible-role-mash-master/
+-rw-rw-r-- root/root      1316 2016-08-14 13:55 ansible-role-mash-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 13:55 ansible-role-mash-master/defaults/
+-rw-rw-r-- root/root       232 2016-08-14 13:55 ansible-role-mash-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 13:55 ansible-role-mash-master/handlers/
+-rw-rw-r-- root/root        40 2016-08-14 13:55 ansible-role-mash-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-14 13:55 ansible-role-mash-master/meta/
+-rw-rw-r-- root/root       490 2016-08-14 13:55 ansible-role-mash-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 13:55 ansible-role-mash-master/tasks/
+-rw-rw-r-- root/root      1099 2016-08-14 13:55 ansible-role-mash-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 13:55 ansible-role-mash-master/templates/
+-rw-rw-r-- root/root       134 2016-08-14 13:55 ansible-role-mash-master/templates/mash.conf.j2
+-rw-rw-r-- root/root       609 2016-08-14 13:55 ansible-role-mash-master/templates/repo.mash.j2
+drwxrwxr-x root/root         0 2016-08-14 13:55 ansible-role-mash-master/vars/
+-rw-rw-r-- root/root        36 2016-08-14 13:55 ansible-role-mash-master/vars/main.yml

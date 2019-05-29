@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-22 12:36 ansible-role-syslog-ng-master/
+-rw-rw-r-- root/root      1514 2017-10-22 12:36 ansible-role-syslog-ng-master/LICENSE
+-rw-rw-r-- root/root        45 2017-10-22 12:36 ansible-role-syslog-ng-master/README.md
+drwxrwxr-x root/root         0 2017-10-22 12:36 ansible-role-syslog-ng-master/files/
+-rw-rw-r-- root/root       830 2017-10-22 12:36 ansible-role-syslog-ng-master/files/logrotate
+-rw-rw-r-- root/root      1553 2017-10-22 12:36 ansible-role-syslog-ng-master/files/syslog-ng.conf
+drwxrwxr-x root/root         0 2017-10-22 12:36 ansible-role-syslog-ng-master/handlers/
+-rw-rw-r-- root/root        87 2017-10-22 12:36 ansible-role-syslog-ng-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-22 12:36 ansible-role-syslog-ng-master/meta/
+-rw-rw-r-- root/root       251 2017-10-22 12:36 ansible-role-syslog-ng-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-22 12:36 ansible-role-syslog-ng-master/tasks/
+-rw-rw-r-- root/root       280 2017-10-22 12:36 ansible-role-syslog-ng-master/tasks/logrotate.yml
+-rw-rw-r-- root/root       500 2017-10-22 12:36 ansible-role-syslog-ng-master/tasks/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-01 08:23 ansible-nginx-master/
+-rw-rw-r-- root/root       353 2017-07-01 08:23 ansible-nginx-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-07-01 08:23 ansible-nginx-master/LICENSE
+-rw-rw-r-- root/root      1024 2017-07-01 08:23 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2017-07-01 08:23 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root        32 2017-07-01 08:23 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-01 08:23 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root       143 2017-07-01 08:23 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-01 08:23 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       229 2017-07-01 08:23 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-01 08:23 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root       548 2017-07-01 08:23 ansible-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-01 08:23 ansible-nginx-master/templates/
+-rw-rw-r-- root/root      1312 2017-07-01 08:23 ansible-nginx-master/templates/nginx.conf.j2
+drwxrwxr-x root/root         0 2017-07-01 08:23 ansible-nginx-master/tests/
+-rw-rw-r-- root/root       751 2017-07-01 08:23 ansible-nginx-master/tests/README.MD
+-rw-rw-r-- root/root        91 2017-07-01 08:23 ansible-nginx-master/tests/test.yml

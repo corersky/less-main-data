@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-02 21:59 macintosh-host-master/
+-rw-rw-r-- root/root      1071 2019-04-02 21:59 macintosh-host-master/LICENSE
+-rw-rw-r-- root/root      1328 2019-04-02 21:59 macintosh-host-master/README.md
+drwxrwxr-x root/root         0 2019-04-02 21:59 macintosh-host-master/defaults/
+-rw-rw-r-- root/root        38 2019-04-02 21:59 macintosh-host-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-02 21:59 macintosh-host-master/handlers/
+-rw-rw-r-- root/root        39 2019-04-02 21:59 macintosh-host-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-02 21:59 macintosh-host-master/meta/
+-rw-rw-r-- root/root       257 2019-04-02 21:59 macintosh-host-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-02 21:59 macintosh-host-master/tasks/
+-rw-rw-r-- root/root       148 2019-04-02 21:59 macintosh-host-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-02 21:59 macintosh-host-master/tests/
+-rw-rw-r-- root/root        11 2019-04-02 21:59 macintosh-host-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-04-02 21:59 macintosh-host-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-02 21:59 macintosh-host-master/vars/
+-rw-rw-r-- root/root        34 2019-04-02 21:59 macintosh-host-master/vars/main.yml

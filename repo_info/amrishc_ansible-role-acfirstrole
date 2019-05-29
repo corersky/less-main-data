@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-13 13:28 ansible-role-acfirstrole-master/
+-rw-rw-r-- root/root      1328 2017-10-13 13:28 ansible-role-acfirstrole-master/README.md
+drwxrwxr-x root/root         0 2017-10-13 13:28 ansible-role-acfirstrole-master/defaults/
+-rw-rw-r-- root/root        48 2017-10-13 13:28 ansible-role-acfirstrole-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:28 ansible-role-acfirstrole-master/handlers/
+-rw-rw-r-- root/root        48 2017-10-13 13:28 ansible-role-acfirstrole-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:28 ansible-role-acfirstrole-master/meta/
+-rw-rw-r-- root/root      1766 2017-10-13 13:28 ansible-role-acfirstrole-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:28 ansible-role-acfirstrole-master/tasks/
+-rw-rw-r-- root/root        45 2017-10-13 13:28 ansible-role-acfirstrole-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:28 ansible-role-acfirstrole-master/tests/
+-rw-rw-r-- root/root        11 2017-10-13 13:28 ansible-role-acfirstrole-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-10-13 13:28 ansible-role-acfirstrole-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-13 13:28 ansible-role-acfirstrole-master/vars/
+-rw-rw-r-- root/root        44 2017-10-13 13:28 ansible-role-acfirstrole-master/vars/main.yml

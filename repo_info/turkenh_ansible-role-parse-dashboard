@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/
+-rw-rw-r-- root/root      1266 2016-10-09 13:33 ansible-role-parse-dashboard-master/.travis.yml
+-rw-rw-r-- root/root      1064 2016-10-09 13:33 ansible-role-parse-dashboard-master/LICENSE
+-rw-rw-r-- root/root       219 2016-10-09 13:33 ansible-role-parse-dashboard-master/README.md
+drwxrwxr-x root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/defaults/
+-rw-rw-r-- root/root       447 2016-10-09 13:33 ansible-role-parse-dashboard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/meta/
+-rw-rw-r-- root/root       515 2016-10-09 13:33 ansible-role-parse-dashboard-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/tasks/
+-rw-rw-r-- root/root       386 2016-10-09 13:33 ansible-role-parse-dashboard-master/tasks/check-required-vars.yml
+-rw-rw-r-- root/root      1246 2016-10-09 13:33 ansible-role-parse-dashboard-master/tasks/install-and-configure-parse-dashboard.yml
+-rw-rw-r-- root/root        91 2016-10-09 13:33 ansible-role-parse-dashboard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/templates/
+-rw-rw-r-- root/root       689 2016-10-09 13:33 ansible-role-parse-dashboard-master/templates/ecosystem.json.j2
+drwxrwxr-x root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/
+drwxrwxr-x root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/files/
+-rw-rw-r-- root/root        72 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/files/cert1.pem
+-rw-rw-r-- root/root        72 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/files/chain1.pem
+-rw-rw-r-- root/root       144 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/files/fullchain1.pem
+-rw-rw-r-- root/root        72 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/files/privkey1.pem
+-rw-rw-r-- root/root        35 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/inventory
+-rw-rw-r-- root/root       499 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/main.yml
+-rw-rw-r-- root/root        83 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-10-09 13:33 ansible-role-parse-dashboard-master/tests/roles/parse-dashboard -> ../../../ansible-role-parse-dashboard

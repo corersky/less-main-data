@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-apache2-master/
+-rw-rw-r-- root/root      1675 2017-03-05 19:38 ansible-apache2-master/.travis.yml
+-rw-rw-r-- root/root      1057 2017-03-05 19:38 ansible-apache2-master/LICENSE
+-rw-rw-r-- root/root       343 2017-03-05 19:38 ansible-apache2-master/README.md
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-apache2-master/handlers/
+-rw-rw-r-- root/root       119 2017-03-05 19:38 ansible-apache2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-apache2-master/meta/
+-rw-rw-r-- root/root       225 2017-03-05 19:38 ansible-apache2-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-apache2-master/tasks/
+-rw-rw-r-- root/root       131 2017-03-05 19:38 ansible-apache2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-apache2-master/tests/
+-rw-rw-r-- root/root       286 2017-03-05 19:38 ansible-apache2-master/tests/Dockerfile.centos-6.8
+-rw-rw-r-- root/root        74 2017-03-05 19:38 ansible-apache2-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-09 19:47 ansible-postgis-master/
+-rw-rw-r-- root/root        43 2016-02-09 19:47 ansible-postgis-master/.gitignore
+-rw-rw-r-- root/root       376 2016-02-09 19:47 ansible-postgis-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-02-09 19:47 ansible-postgis-master/LICENSE
+-rw-rw-r-- root/root       301 2016-02-09 19:47 ansible-postgis-master/README.md
+drwxrwxr-x root/root         0 2016-02-09 19:47 ansible-postgis-master/defaults/
+-rw-rw-r-- root/root        72 2016-02-09 19:47 ansible-postgis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-09 19:47 ansible-postgis-master/examples/
+-rw-rw-r-- root/root       557 2016-02-09 19:47 ansible-postgis-master/examples/Vagrantfile
+-rw-rw-r-- root/root        42 2016-02-09 19:47 ansible-postgis-master/examples/roles.yml
+drwxrwxr-x root/root         0 2016-02-09 19:47 ansible-postgis-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-02-09 19:47 ansible-postgis-master/examples/roles/azavea.postgis -> ../../
+-rw-rw-r-- root/root       153 2016-02-09 19:47 ansible-postgis-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-02-09 19:47 ansible-postgis-master/meta/
+-rw-rw-r-- root/root       300 2016-02-09 19:47 ansible-postgis-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-09 19:47 ansible-postgis-master/tasks/
+-rw-rw-r-- root/root       499 2016-02-09 19:47 ansible-postgis-master/tasks/main.yml

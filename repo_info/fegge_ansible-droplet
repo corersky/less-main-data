@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-25 14:31 ansible-droplet-master/
+-rw-rw-r-- root/root      1049 2017-11-25 14:31 ansible-droplet-master/.travis.yml
+-rw-rw-r-- root/root      1210 2017-11-25 14:31 ansible-droplet-master/LICENSE.txt
+-rw-rw-r-- root/root      1716 2017-11-25 14:31 ansible-droplet-master/README.md
+drwxrwxr-x root/root         0 2017-11-25 14:31 ansible-droplet-master/defaults/
+-rw-rw-r-- root/root       201 2017-11-25 14:31 ansible-droplet-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-25 14:31 ansible-droplet-master/handlers/
+-rw-rw-r-- root/root        39 2017-11-25 14:31 ansible-droplet-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-25 14:31 ansible-droplet-master/meta/
+-rw-rw-r-- root/root       323 2017-11-25 14:31 ansible-droplet-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-25 14:31 ansible-droplet-master/tasks/
+-rw-rw-r-- root/root      2075 2017-11-25 14:31 ansible-droplet-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-25 14:31 ansible-droplet-master/tests/
+-rw-rw-r-- root/root         9 2017-11-25 14:31 ansible-droplet-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-11-25 14:31 ansible-droplet-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-25 14:31 ansible-droplet-master/vars/
+-rw-rw-r-- root/root        36 2017-11-25 14:31 ansible-droplet-master/vars/main.yml

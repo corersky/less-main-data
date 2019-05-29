@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-04-06 05:52 ansible-mail-stack-master/
+-rw-rw-r-- root/root       449 2015-04-06 05:52 ansible-mail-stack-master/README.md
+drwxrwxr-x root/root         0 2015-04-06 05:52 ansible-mail-stack-master/defaults/
+-rw-rw-r-- root/root       961 2015-04-06 05:52 ansible-mail-stack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-06 05:52 ansible-mail-stack-master/handlers/
+-rw-rw-r-- root/root       372 2015-04-06 05:52 ansible-mail-stack-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-06 05:52 ansible-mail-stack-master/meta/
+-rw-rw-r-- root/root       297 2015-04-06 05:52 ansible-mail-stack-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-06 05:52 ansible-mail-stack-master/tasks/
+-rw-rw-r-- root/root      1211 2015-04-06 05:52 ansible-mail-stack-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-06 05:52 ansible-mail-stack-master/templates/
+-rw-rw-r-- root/root      1606 2015-04-06 05:52 ansible-mail-stack-master/templates/main.cf.j2
+-rw-rw-r-- root/root      5585 2015-04-06 05:52 ansible-mail-stack-master/templates/master.cf.j2
+-rw-rw-r-- root/root        51 2015-04-06 05:52 ansible-mail-stack-master/templates/root-forward.j2
+-rw-rw-r-- root/root       103 2015-04-06 05:52 ansible-mail-stack-master/templates/sasl_passwd.j2

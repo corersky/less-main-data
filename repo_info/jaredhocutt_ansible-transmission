@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-transmission-master/
+-rw-rw-r-- root/root       205 2018-08-01 21:38 ansible-transmission-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-transmission-master/defaults/
+-rw-rw-r-- root/root        36 2018-08-01 21:38 ansible-transmission-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-transmission-master/handlers/
+-rw-rw-r-- root/root        36 2018-08-01 21:38 ansible-transmission-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-transmission-master/meta/
+-rw-rw-r-- root/root       207 2018-08-01 21:38 ansible-transmission-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-transmission-master/tasks/
+-rw-rw-r-- root/root       153 2018-08-01 21:38 ansible-transmission-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-transmission-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:38 ansible-transmission-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-08-01 21:38 ansible-transmission-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-transmission-master/vars/
+-rw-rw-r-- root/root        32 2018-08-01 21:38 ansible-transmission-master/vars/main.yml

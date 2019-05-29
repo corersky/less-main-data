@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-12 20:55 ansible-role-gitolite-master/
+-rw-rw-r-- root/root      1514 2018-08-12 20:55 ansible-role-gitolite-master/LICENSE
+-rw-rw-r-- root/root        98 2018-08-12 20:55 ansible-role-gitolite-master/README.md
+drwxrwxr-x root/root         0 2018-08-12 20:55 ansible-role-gitolite-master/defaults/
+-rw-rw-r-- root/root        43 2018-08-12 20:55 ansible-role-gitolite-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-12 20:55 ansible-role-gitolite-master/files/
+-rw-rw-r-- root/root         0 2018-08-12 20:55 ansible-role-gitolite-master/files/.gitolite.rc
+-rw-rw-r-- root/root       513 2018-08-12 20:55 ansible-role-gitolite-master/files/gitolite.rc
+drwxrwxr-x root/root         0 2018-08-12 20:55 ansible-role-gitolite-master/meta/
+-rw-rw-r-- root/root       253 2018-08-12 20:55 ansible-role-gitolite-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-12 20:55 ansible-role-gitolite-master/tasks/
+-rw-rw-r-- root/root        31 2018-08-12 20:55 ansible-role-gitolite-master/tasks/boot.yml
+-rw-rw-r-- root/root       281 2018-08-12 20:55 ansible-role-gitolite-master/tasks/build.yml
+-rw-rw-r-- root/root       687 2018-08-12 20:55 ansible-role-gitolite-master/tasks/config.yml
+-rw-rw-r-- root/root       414 2018-08-12 20:55 ansible-role-gitolite-master/tasks/install.yml
+-rw-rw-r-- root/root        85 2018-08-12 20:55 ansible-role-gitolite-master/tasks/main.yml
+-rw-rw-r-- root/root       310 2018-08-12 20:55 ansible-role-gitolite-master/tasks/setup.yml

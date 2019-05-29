@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-hashcat-master/
+-rw-rw-r-- root/root       533 2018-11-29 13:13 ansible-role-hashcat-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-hashcat-master/meta/
+-rw-rw-r-- root/root       286 2018-11-29 13:13 ansible-role-hashcat-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-hashcat-master/tasks/
+-rw-rw-r-- root/root      3443 2018-11-29 13:13 ansible-role-hashcat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-hashcat-master/tests/
+-rw-rw-r-- root/root        11 2018-11-29 13:13 ansible-role-hashcat-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-11-29 13:13 ansible-role-hashcat-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-29 13:13 ansible-role-hashcat-master/vars/
+-rw-rw-r-- root/root       112 2018-11-29 13:13 ansible-role-hashcat-master/vars/main.yml
+-rw-rw-r-- root/root       112 2018-11-29 13:13 ansible-role-hashcat-master/vars/ubuntu.yml

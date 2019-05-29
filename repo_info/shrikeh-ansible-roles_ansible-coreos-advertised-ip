@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2016-07-25 10:44 ansible-coreos-advertised-ip-master/
+drwxrwxr-x root/root         0 2016-07-25 10:44 ansible-coreos-advertised-ip-master/defaults/
+-rw-rw-r-- root/root       158 2016-07-25 10:44 ansible-coreos-advertised-ip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-25 10:44 ansible-coreos-advertised-ip-master/meta/
+-rw-rw-r-- root/root      1979 2016-07-25 10:44 ansible-coreos-advertised-ip-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-25 10:44 ansible-coreos-advertised-ip-master/tasks/
+-rw-rw-r-- root/root       509 2016-07-25 10:44 ansible-coreos-advertised-ip-master/tasks/ipv4.yml
+-rw-rw-r-- root/root       509 2016-07-25 10:44 ansible-coreos-advertised-ip-master/tasks/ipv6.yml
+-rw-rw-r-- root/root       273 2016-07-25 10:44 ansible-coreos-advertised-ip-master/tasks/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-14 09:26 ansible-platform_populate-master/
+-rw-rw-r-- root/root        48 2019-02-14 09:26 ansible-platform_populate-master/.gitignore
+-rw-rw-r-- root/root      1068 2019-02-14 09:26 ansible-platform_populate-master/LICENSE.txt
+-rw-rw-r-- root/root       221 2019-02-14 09:26 ansible-platform_populate-master/README.md
+drwxrwxr-x root/root         0 2019-02-14 09:26 ansible-platform_populate-master/defaults/
+-rw-rw-r-- root/root        71 2019-02-14 09:26 ansible-platform_populate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-14 09:26 ansible-platform_populate-master/meta/
+-rw-rw-r-- root/root       303 2019-02-14 09:26 ansible-platform_populate-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-14 09:26 ansible-platform_populate-master/tasks/
+-rw-rw-r-- root/root      1398 2019-02-14 09:26 ansible-platform_populate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-14 09:26 ansible-platform_populate-master/tests/
+-rw-rw-r-- root/root         9 2019-02-14 09:26 ansible-platform_populate-master/tests/inventory
+-rw-rw-r-- root/root        52 2019-02-14 09:26 ansible-platform_populate-master/tests/test.yml

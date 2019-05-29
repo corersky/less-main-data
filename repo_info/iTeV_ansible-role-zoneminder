@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-26 11:58 ansible-role-zoneminder-master/
+-rw-rw-r-- root/root        18 2017-12-26 11:58 ansible-role-zoneminder-master/.gitignore
+-rw-rw-r-- root/root      1061 2017-12-26 11:58 ansible-role-zoneminder-master/LICENSE
+-rw-rw-r-- root/root       990 2017-12-26 11:58 ansible-role-zoneminder-master/README.md
+drwxrwxr-x root/root         0 2017-12-26 11:58 ansible-role-zoneminder-master/defaults/
+-rw-rw-r-- root/root        52 2017-12-26 11:58 ansible-role-zoneminder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-26 11:58 ansible-role-zoneminder-master/handlers/
+-rw-rw-r-- root/root       149 2017-12-26 11:58 ansible-role-zoneminder-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-26 11:58 ansible-role-zoneminder-master/meta/
+-rw-rw-r-- root/root       207 2017-12-26 11:58 ansible-role-zoneminder-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-26 11:58 ansible-role-zoneminder-master/tasks/
+-rw-rw-r-- root/root      2037 2017-12-26 11:58 ansible-role-zoneminder-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-26 11:58 ansible-role-zoneminder-master/templates/
+-rw-rw-r-- root/root      1359 2017-12-26 11:58 ansible-role-zoneminder-master/templates/zm.conf.j2
+drwxrwxr-x root/root         0 2017-12-26 11:58 ansible-role-zoneminder-master/vars/
+-rw-rw-r-- root/root       369 2017-12-26 11:58 ansible-role-zoneminder-master/vars/Debian.yml

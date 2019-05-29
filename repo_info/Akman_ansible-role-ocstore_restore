@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-16 07:40 ansible-role-ocstore_restore-master/
+-rw-rw-r-- root/root        29 2018-09-16 07:40 ansible-role-ocstore_restore-master/.gitignore
+-rw-rw-r-- root/root      1085 2018-09-16 07:40 ansible-role-ocstore_restore-master/LICENSE
+-rw-rw-r-- root/root       402 2018-09-16 07:40 ansible-role-ocstore_restore-master/README.md
+drwxrwxr-x root/root         0 2018-09-16 07:40 ansible-role-ocstore_restore-master/defaults/
+-rw-rw-r-- root/root        25 2018-09-16 07:40 ansible-role-ocstore_restore-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:40 ansible-role-ocstore_restore-master/meta/
+-rw-rw-r-- root/root       376 2018-09-16 07:40 ansible-role-ocstore_restore-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/
+-rw-rw-r-- root/root       677 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/archive.yml
+-rw-rw-r-- root/root       979 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/cache.yml
+-rw-rw-r-- root/root       139 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/cleanup.yml
+-rw-rw-r-- root/root      1163 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/databases.yml
+-rw-rw-r-- root/root       497 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/files.yml
+-rw-rw-r-- root/root       263 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/main.yml
+-rw-rw-r-- root/root      1093 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/permissions.yml
+-rw-rw-r-- root/root       846 2018-09-16 07:40 ansible-role-ocstore_restore-master/tasks/setup.yml

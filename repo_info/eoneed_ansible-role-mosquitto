@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-mosquitto-master/
+-rw-rw-r-- root/root      1328 2018-06-30 08:23 ansible-role-mosquitto-master/README.md
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-mosquitto-master/defaults/
+-rw-rw-r-- root/root        46 2018-06-30 08:23 ansible-role-mosquitto-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-mosquitto-master/handlers/
+-rw-rw-r-- root/root        46 2018-06-30 08:23 ansible-role-mosquitto-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-mosquitto-master/meta/
+-rw-rw-r-- root/root       304 2018-06-30 08:23 ansible-role-mosquitto-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-mosquitto-master/tasks/
+-rw-rw-r-- root/root       215 2018-06-30 08:23 ansible-role-mosquitto-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-mosquitto-master/tests/
+-rw-rw-r-- root/root        11 2018-06-30 08:23 ansible-role-mosquitto-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-06-30 08:23 ansible-role-mosquitto-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-30 08:23 ansible-role-mosquitto-master/vars/
+-rw-rw-r-- root/root        42 2018-06-30 08:23 ansible-role-mosquitto-master/vars/main.yml

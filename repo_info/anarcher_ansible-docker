@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-04-04 05:13 ansible-docker-master/
+-rw-rw-r-- root/root     35141 2016-04-04 05:13 ansible-docker-master/LICENSE
+-rw-rw-r-- root/root       727 2016-04-04 05:13 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2016-04-04 05:13 ansible-docker-master/defaults/
+-rw-rw-r-- root/root        91 2016-04-04 05:13 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-04 05:13 ansible-docker-master/handlers/
+-rw-rw-r-- root/root        66 2016-04-04 05:13 ansible-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-04 05:13 ansible-docker-master/meta/
+-rw-rw-r-- root/root       305 2016-04-04 05:13 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-04 05:13 ansible-docker-master/tasks/
+-rw-rw-r-- root/root      2208 2016-04-04 05:13 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-04 05:13 ansible-docker-master/templates/
+-rw-rw-r-- root/root       334 2016-04-04 05:13 ansible-docker-master/templates/default_docker.j2
+-rw-rw-r-- root/root       252 2016-04-04 05:13 ansible-docker-master/templates/default_docker_config.json.j2

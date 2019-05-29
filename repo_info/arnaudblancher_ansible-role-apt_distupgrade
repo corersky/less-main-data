@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/
+-rw-rw-r-- root/root       556 2016-09-22 07:51 ansible-role-apt_distupgrade-master/.travis.yml
+-rw-rw-r-- root/root        84 2016-09-22 07:51 ansible-role-apt_distupgrade-master/GITHUB
+-rw-rw-r-- root/root       714 2016-09-22 07:51 ansible-role-apt_distupgrade-master/README.md
+drwxrwxr-x root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/defaults/
+-rw-rw-r-- root/root       170 2016-09-22 07:51 ansible-role-apt_distupgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/demo/
+-rw-rw-r-- root/root       101 2016-09-22 07:51 ansible-role-apt_distupgrade-master/demo/ansible.cfg
+drwxrwxr-x root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/demo/inventory/
+drwxrwxr-x root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/demo/inventory/demo/
+-rw-rw-r-- root/root        68 2016-09-22 07:51 ansible-role-apt_distupgrade-master/demo/inventory/demo/hosts
+drwxrwxr-x root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/demo/roles/
+lrwxrwxrwx root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/demo/roles/arnaudblancher.apt_distupgrade -> ../../../arnaudblancher.apt_distupgrade
+-rw-rw-r-- root/root       179 2016-09-22 07:51 ansible-role-apt_distupgrade-master/demo/www_rolling_distupgrade.yml
+drwxrwxr-x root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/meta/
+-rw-rw-r-- root/root       548 2016-09-22 07:51 ansible-role-apt_distupgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-22 07:51 ansible-role-apt_distupgrade-master/tasks/
+-rw-rw-r-- root/root      4616 2016-09-22 07:51 ansible-role-apt_distupgrade-master/tasks/main.yml

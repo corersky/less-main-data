@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/
+-rw-rw-r-- root/root        10 2014-09-29 15:27 ansible-role-gitchatploy-master/.gitignore
+-rw-rw-r-- root/root       336 2014-09-29 15:27 ansible-role-gitchatploy-master/.travis.yml
+-rw-rw-r-- root/root       358 2014-09-29 15:27 ansible-role-gitchatploy-master/README.md
+-rw-rw-r-- root/root       473 2014-09-29 15:27 ansible-role-gitchatploy-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/defaults/
+-rw-rw-r-- root/root       729 2014-09-29 15:27 ansible-role-gitchatploy-master/defaults/main.yml
+-rw-rw-r-- root/root       728 2014-09-29 15:27 ansible-role-gitchatploy-master/example.yml
+drwxrwxr-x root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/handlers/
+-rw-rw-r-- root/root        36 2014-09-29 15:27 ansible-role-gitchatploy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/library/
+lrwxrwxrwx root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/library/gitchatploy_facts -> gitchatploy_facts.py
+-rw-rw-r-- root/root      1525 2014-09-29 15:27 ansible-role-gitchatploy-master/library/gitchatploy_facts.py
+drwxrwxr-x root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/meta/
+-rw-rw-r-- root/root       243 2014-09-29 15:27 ansible-role-gitchatploy-master/meta/main.yml
+-rw-rw-r-- root/root        24 2014-09-29 15:27 ansible-role-gitchatploy-master/requirements.txt
+drwxrwxr-x root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/roles/
+lrwxrwxrwx root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/roles/modcloth.gitchatploy -> ..
+drwxrwxr-x root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/tasks/
+-rw-rw-r-- root/root      1826 2014-09-29 15:27 ansible-role-gitchatploy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-29 15:27 ansible-role-gitchatploy-master/vars/
+-rw-rw-r-- root/root        32 2014-09-29 15:27 ansible-role-gitchatploy-master/vars/main.yml

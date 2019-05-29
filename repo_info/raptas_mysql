@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-02 14:29 mysql-master/
+-rw-rw-r-- root/root      1328 2018-04-02 14:29 mysql-master/README.md
+drwxrwxr-x root/root         0 2018-04-02 14:29 mysql-master/defaults/
+-rw-rw-r-- root/root        82 2018-04-02 14:29 mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:29 mysql-master/handlers/
+-rw-rw-r-- root/root        30 2018-04-02 14:29 mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:29 mysql-master/meta/
+-rw-rw-r-- root/root       457 2018-04-02 14:29 mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:29 mysql-master/tasks/
+-rw-rw-r-- root/root       212 2018-04-02 14:29 mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:29 mysql-master/tests/
+-rw-rw-r-- root/root         9 2018-04-02 14:29 mysql-master/tests/inventory
+-rw-rw-r-- root/root        63 2018-04-02 14:29 mysql-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-02 14:29 mysql-master/vars/
+-rw-rw-r-- root/root        26 2018-04-02 14:29 mysql-master/vars/main.yml

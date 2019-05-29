@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-27 13:31 ansible-role-configure-ansible-master/
+-rw-rw-r-- root/root      2993 2017-04-27 13:31 ansible-role-configure-ansible-master/README.md
+drwxrwxr-x root/root         0 2017-04-27 13:31 ansible-role-configure-ansible-master/defaults/
+-rw-rw-r-- root/root       527 2017-04-27 13:31 ansible-role-configure-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-27 13:31 ansible-role-configure-ansible-master/files/
+-rw-rw-r-- root/root     17896 2017-04-27 13:31 ansible-role-configure-ansible-master/files/ansible.cfg
+drwxrwxr-x root/root         0 2017-04-27 13:31 ansible-role-configure-ansible-master/meta/
+-rw-rw-r-- root/root       338 2017-04-27 13:31 ansible-role-configure-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-27 13:31 ansible-role-configure-ansible-master/tasks/
+-rw-rw-r-- root/root       660 2017-04-27 13:31 ansible-role-configure-ansible-master/tasks/configuration.yml
+-rw-rw-r-- root/root       333 2017-04-27 13:31 ansible-role-configure-ansible-master/tasks/install.yml
+-rw-rw-r-- root/root       130 2017-04-27 13:31 ansible-role-configure-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-27 13:31 ansible-role-configure-ansible-master/templates/
+-rw-rw-r-- root/root       605 2017-04-27 13:31 ansible-role-configure-ansible-master/templates/ansible.cfg.j2

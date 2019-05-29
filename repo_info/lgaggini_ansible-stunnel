@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-29 09:27 ansible-stunnel-master/
+-rw-rw-r-- root/root     35147 2018-09-29 09:27 ansible-stunnel-master/LICENSE
+-rw-rw-r-- root/root       686 2018-09-29 09:27 ansible-stunnel-master/README.md
+drwxrwxr-x root/root         0 2018-09-29 09:27 ansible-stunnel-master/defaults/
+-rw-rw-r-- root/root       188 2018-09-29 09:27 ansible-stunnel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-29 09:27 ansible-stunnel-master/files/
+-rw-rw-r-- root/root       361 2018-09-29 09:27 ansible-stunnel-master/files/stunnel.service
+drwxrwxr-x root/root         0 2018-09-29 09:27 ansible-stunnel-master/meta/
+-rw-rw-r-- root/root       361 2018-09-29 09:27 ansible-stunnel-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-29 09:27 ansible-stunnel-master/tasks/
+-rw-rw-r-- root/root       650 2018-09-29 09:27 ansible-stunnel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-29 09:27 ansible-stunnel-master/templates/
+-rw-rw-r-- root/root       148 2018-09-29 09:27 ansible-stunnel-master/templates/stunnel.conf.j2

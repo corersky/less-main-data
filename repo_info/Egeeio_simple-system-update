@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-31 08:49 simple-system-update-master/
+-rw-rw-r-- root/root      1064 2018-05-31 08:49 simple-system-update-master/LICENSE
+-rw-rw-r-- root/root       659 2018-05-31 08:49 simple-system-update-master/README.md
+drwxrwxr-x root/root         0 2018-05-31 08:49 simple-system-update-master/defaults/
+-rw-rw-r-- root/root        44 2018-05-31 08:49 simple-system-update-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-31 08:49 simple-system-update-master/handlers/
+-rw-rw-r-- root/root        44 2018-05-31 08:49 simple-system-update-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-31 08:49 simple-system-update-master/meta/
+-rw-rw-r-- root/root      1777 2018-05-31 08:49 simple-system-update-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-31 08:49 simple-system-update-master/tasks/
+-rw-rw-r-- root/root       252 2018-05-31 08:49 simple-system-update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-31 08:49 simple-system-update-master/tests/
+-rw-rw-r-- root/root        11 2018-05-31 08:49 simple-system-update-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-05-31 08:49 simple-system-update-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-31 08:49 simple-system-update-master/vars/
+-rw-rw-r-- root/root        40 2018-05-31 08:49 simple-system-update-master/vars/main.yml

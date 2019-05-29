@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-07-25 22:18 init_user.ansible_role-master/
+-rw-rw-r-- root/root      1056 2015-07-25 22:18 init_user.ansible_role-master/LICENSE
+-rw-rw-r-- root/root      1035 2015-07-25 22:18 init_user.ansible_role-master/README.md
+drwxrwxr-x root/root         0 2015-07-25 22:18 init_user.ansible_role-master/defaults/
+-rw-rw-r-- root/root       509 2015-07-25 22:18 init_user.ansible_role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-25 22:18 init_user.ansible_role-master/meta/
+-rw-rw-r-- root/root       227 2015-07-25 22:18 init_user.ansible_role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-25 22:18 init_user.ansible_role-master/tasks/
+-rw-rw-r-- root/root       698 2015-07-25 22:18 init_user.ansible_role-master/tasks/create_user.yml
+-rw-rw-r-- root/root       576 2015-07-25 22:18 init_user.ansible_role-master/tasks/main.yml
+-rw-rw-r-- root/root      1237 2015-07-25 22:18 init_user.ansible_role-master/tasks/ssh_access.yml
+drwxrwxr-x root/root         0 2015-07-25 22:18 init_user.ansible_role-master/templates/
+drwxrwxr-x root/root         0 2015-07-25 22:18 init_user.ansible_role-master/templates/etc/
+drwxrwxr-x root/root         0 2015-07-25 22:18 init_user.ansible_role-master/templates/etc/sudoers.d/
+-rw-rw-r-- root/root       134 2015-07-25 22:18 init_user.ansible_role-master/templates/etc/sudoers.d/user.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/
+-rw-rw-r-- root/root       993 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/.travis.yml
+-rw-rw-r-- root/root        78 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/README.md
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/defaults/
+-rw-rw-r-- root/root       206 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/meta/
+-rw-rw-r-- root/root       311 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/tasks/
+-rw-rw-r-- root/root      1292 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/tasks/main.yml
+-rw-rw-r-- root/root       201 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       215 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/templates/
+-rw-rw-r-- root/root      2322 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/templates/config.js.j2
+-rw-rw-r-- root/root      2456 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/templates/kibana.conf.j2
+drwxrwxr-x root/root         0 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/tests/
+-rw-rw-r-- root/root        10 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/tests/inventory
+-rw-rw-r-- root/root       141 2016-01-05 06:02 ansible-role-virtualenv-kibana-master/tests/test.yml

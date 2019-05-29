@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-11-30 10:12 ansible-role-jenkins-node-master/
+-rw-rw-r-- root/root       408 2017-11-30 10:12 ansible-role-jenkins-node-master/.travis.yml
+-rw-rw-r-- root/root      1297 2017-11-30 10:12 ansible-role-jenkins-node-master/README.md
+drwxrwxr-x root/root         0 2017-11-30 10:12 ansible-role-jenkins-node-master/defaults/
+-rw-rw-r-- root/root       389 2017-11-30 10:12 ansible-role-jenkins-node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-30 10:12 ansible-role-jenkins-node-master/meta/
+-rw-rw-r-- root/root       314 2017-11-30 10:12 ansible-role-jenkins-node-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-30 10:12 ansible-role-jenkins-node-master/tasks/
+-rw-rw-r-- root/root      2150 2017-11-30 10:12 ansible-role-jenkins-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-30 10:12 ansible-role-jenkins-node-master/tests/
+-rw-rw-r-- root/root        10 2017-11-30 10:12 ansible-role-jenkins-node-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-11-30 10:12 ansible-role-jenkins-node-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-18 13:51 ansible-install-paws-master/
+-rw-rw-r-- root/root        43 2018-06-18 13:51 ansible-install-paws-master/.gitignore
+-rw-rw-r-- root/root       245 2018-06-18 13:51 ansible-install-paws-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-06-18 13:51 ansible-install-paws-master/LICENSE
+-rw-rw-r-- root/root       310 2018-06-18 13:51 ansible-install-paws-master/README.md
+drwxrwxr-x root/root         0 2018-06-18 13:51 ansible-install-paws-master/meta/
+-rw-rw-r-- root/root       325 2018-06-18 13:51 ansible-install-paws-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-18 13:51 ansible-install-paws-master/tasks/
+-rw-rw-r-- root/root       458 2018-06-18 13:51 ansible-install-paws-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-18 13:51 ansible-install-paws-master/tests/
+-rw-rw-r-- root/root       196 2018-06-18 13:51 ansible-install-paws-master/tests/Vagrantfile
+-rw-rw-r-- root/root        80 2018-06-18 13:51 ansible-install-paws-master/tests/ansible.cfg
+-rw-rw-r-- root/root        43 2018-06-18 13:51 ansible-install-paws-master/tests/inventory
+-rw-rw-r-- root/root       114 2018-06-18 13:51 ansible-install-paws-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-18 13:51 ansible-install-paws-master/vars/
+-rw-rw-r-- root/root       158 2018-06-18 13:51 ansible-install-paws-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-02-29 18:11 ansible-role-docker-media-converter-master/
+-rw-rw-r-- root/root      1639 2016-02-29 18:11 ansible-role-docker-media-converter-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-02-29 18:11 ansible-role-docker-media-converter-master/LICENSE.txt
+-rw-rw-r-- root/root      1979 2016-02-29 18:11 ansible-role-docker-media-converter-master/README.md
+drwxrwxr-x root/root         0 2016-02-29 18:11 ansible-role-docker-media-converter-master/defaults/
+-rw-rw-r-- root/root       269 2016-02-29 18:11 ansible-role-docker-media-converter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-29 18:11 ansible-role-docker-media-converter-master/handlers/
+-rw-rw-r-- root/root        47 2016-02-29 18:11 ansible-role-docker-media-converter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-29 18:11 ansible-role-docker-media-converter-master/meta/
+-rw-rw-r-- root/root       318 2016-02-29 18:11 ansible-role-docker-media-converter-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-29 18:11 ansible-role-docker-media-converter-master/tasks/
+-rw-rw-r-- root/root       433 2016-02-29 18:11 ansible-role-docker-media-converter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-29 18:11 ansible-role-docker-media-converter-master/tests/
+-rw-rw-r-- root/root         9 2016-02-29 18:11 ansible-role-docker-media-converter-master/tests/inventory
+-rw-rw-r-- root/root       134 2016-02-29 18:11 ansible-role-docker-media-converter-master/tests/test.yml

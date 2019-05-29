@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-08-25 12:06 ansible-role-hosts-master/
+-rw-rw-r-- root/root      1062 2016-08-25 12:06 ansible-role-hosts-master/LICENSE
+-rw-rw-r-- root/root       607 2016-08-25 12:06 ansible-role-hosts-master/README.md
+drwxrwxr-x root/root         0 2016-08-25 12:06 ansible-role-hosts-master/defaults/
+-rw-rw-r-- root/root        14 2016-08-25 12:06 ansible-role-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-25 12:06 ansible-role-hosts-master/meta/
+-rw-rw-r-- root/root      3521 2016-08-25 12:06 ansible-role-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-25 12:06 ansible-role-hosts-master/tasks/
+-rw-rw-r-- root/root       109 2016-08-25 12:06 ansible-role-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-25 12:06 ansible-role-hosts-master/templates/
+-rw-rw-r-- root/root       271 2016-08-25 12:06 ansible-role-hosts-master/templates/hosts.j2

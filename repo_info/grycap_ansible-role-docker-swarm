@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-29 05:00 ansible-role-docker-swarm-master/
+-rw-rw-r-- root/root       579 2017-09-29 05:00 ansible-role-docker-swarm-master/.travis.yml
+-rw-rw-r-- root/root      1315 2017-09-29 05:00 ansible-role-docker-swarm-master/README.md
+drwxrwxr-x root/root         0 2017-09-29 05:00 ansible-role-docker-swarm-master/defaults/
+-rw-rw-r-- root/root       340 2017-09-29 05:00 ansible-role-docker-swarm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-29 05:00 ansible-role-docker-swarm-master/handlers/
+-rw-rw-r-- root/root         4 2017-09-29 05:00 ansible-role-docker-swarm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-29 05:00 ansible-role-docker-swarm-master/meta/
+-rw-rw-r-- root/root       366 2017-09-29 05:00 ansible-role-docker-swarm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-29 05:00 ansible-role-docker-swarm-master/tasks/
+-rw-rw-r-- root/root       261 2017-09-29 05:00 ansible-role-docker-swarm-master/tasks/front.yml
+-rw-rw-r-- root/root       237 2017-09-29 05:00 ansible-role-docker-swarm-master/tasks/main.yml
+-rw-rw-r-- root/root       629 2017-09-29 05:00 ansible-role-docker-swarm-master/tasks/wn.yml
+drwxrwxr-x root/root         0 2017-09-29 05:00 ansible-role-docker-swarm-master/tests/
+-rw-rw-r-- root/root        36 2017-09-29 05:00 ansible-role-docker-swarm-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-09-29 05:00 ansible-role-docker-swarm-master/tests/test.yml
+-rw-rw-r-- root/root        52 2017-09-29 05:00 ansible-role-docker-swarm-master/tests/test_docker.yml

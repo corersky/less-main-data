@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-08 11:47 riemann-dash-master/
+-rw-rw-r-- root/root      1811 2017-01-08 11:47 riemann-dash-master/.travis.yml
+-rw-rw-r-- root/root       753 2017-01-08 11:47 riemann-dash-master/README.md
+drwxrwxr-x root/root         0 2017-01-08 11:47 riemann-dash-master/defaults/
+-rw-rw-r-- root/root        94 2017-01-08 11:47 riemann-dash-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-08 11:47 riemann-dash-master/handlers/
+-rw-rw-r-- root/root       138 2017-01-08 11:47 riemann-dash-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-08 11:47 riemann-dash-master/meta/
+-rw-rw-r-- root/root       327 2017-01-08 11:47 riemann-dash-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-08 11:47 riemann-dash-master/tasks/
+-rw-rw-r-- root/root       724 2017-01-08 11:47 riemann-dash-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-08 11:47 riemann-dash-master/templates/
+-rw-rw-r-- root/root        99 2017-01-08 11:47 riemann-dash-master/templates/dash.rb.j2
+-rw-rw-r-- root/root       229 2017-01-08 11:47 riemann-dash-master/templates/riemann-dash.service.j2
+drwxrwxr-x root/root         0 2017-01-08 11:47 riemann-dash-master/tests/
+-rw-rw-r-- root/root        37 2017-01-08 11:47 riemann-dash-master/tests/requirements.yml
+-rw-rw-r-- root/root       267 2017-01-08 11:47 riemann-dash-master/tests/test.yml

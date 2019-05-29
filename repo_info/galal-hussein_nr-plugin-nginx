@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-21 09:56 nr-plugin-nginx-master/
+-rw-rw-r-- root/root       343 2015-10-21 09:56 nr-plugin-nginx-master/README.md
+drwxrwxr-x root/root         0 2015-10-21 09:56 nr-plugin-nginx-master/defaults/
+-rw-rw-r-- root/root       109 2015-10-21 09:56 nr-plugin-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-21 09:56 nr-plugin-nginx-master/handlers/
+-rw-rw-r-- root/root        83 2015-10-21 09:56 nr-plugin-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-21 09:56 nr-plugin-nginx-master/meta/
+-rw-rw-r-- root/root       357 2015-10-21 09:56 nr-plugin-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-21 09:56 nr-plugin-nginx-master/tasks/
+-rw-rw-r-- root/root       379 2015-10-21 09:56 nr-plugin-nginx-master/tasks/debian.yml
+-rw-rw-r-- root/root       375 2015-10-21 09:56 nr-plugin-nginx-master/tasks/main.yml
+-rw-rw-r-- root/root       209 2015-10-21 09:56 nr-plugin-nginx-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2015-10-21 09:56 nr-plugin-nginx-master/templates/
+-rw-rw-r-- root/root       686 2015-10-21 09:56 nr-plugin-nginx-master/templates/nginx-nr-agent.ini.j2
+-rw-rw-r-- root/root       165 2015-10-21 09:56 nr-plugin-nginx-master/templates/nginx.repo

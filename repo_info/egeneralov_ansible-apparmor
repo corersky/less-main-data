@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-12-10 17:34 ansible-apparmor-master/
+-rw-rw-r-- root/root       265 2017-12-10 17:34 ansible-apparmor-master/README.md
+drwxrwxr-x root/root         0 2017-12-10 17:34 ansible-apparmor-master/defaults/
+-rw-rw-r-- root/root        46 2017-12-10 17:34 ansible-apparmor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-10 17:34 ansible-apparmor-master/files/
+-rw-rw-r-- root/root       785 2017-12-10 17:34 ansible-apparmor-master/files/auditd.conf
+drwxrwxr-x root/root         0 2017-12-10 17:34 ansible-apparmor-master/meta/
+-rw-rw-r-- root/root       317 2017-12-10 17:34 ansible-apparmor-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-10 17:34 ansible-apparmor-master/tasks/
+-rw-rw-r-- root/root      1234 2017-12-10 17:34 ansible-apparmor-master/tasks/debian-9.yml
+-rw-rw-r-- root/root       155 2017-12-10 17:34 ansible-apparmor-master/tasks/main.yml

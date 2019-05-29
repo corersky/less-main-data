@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-06 18:33 ansible-google-cloud-print-master/
+-rw-rw-r-- root/root      1581 2017-05-06 18:33 ansible-google-cloud-print-master/README.md
+drwxrwxr-x root/root         0 2017-05-06 18:33 ansible-google-cloud-print-master/handlers/
+-rw-rw-r-- root/root       136 2017-05-06 18:33 ansible-google-cloud-print-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-06 18:33 ansible-google-cloud-print-master/meta/
+-rw-rw-r-- root/root       407 2017-05-06 18:33 ansible-google-cloud-print-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-06 18:33 ansible-google-cloud-print-master/tasks/
+-rw-rw-r-- root/root      1137 2017-05-06 18:33 ansible-google-cloud-print-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-06 18:33 ansible-google-cloud-print-master/templates/
+-rw-rw-r-- root/root       861 2017-05-06 18:33 ansible-google-cloud-print-master/templates/systemd_service.j2
+drwxrwxr-x root/root         0 2017-05-06 18:33 ansible-google-cloud-print-master/vars/
+-rw-rw-r-- root/root        61 2017-05-06 18:33 ansible-google-cloud-print-master/vars/Debian.yml
+-rw-rw-r-- root/root        61 2017-05-06 18:33 ansible-google-cloud-print-master/vars/Ubuntu.yml

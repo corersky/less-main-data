@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-10-14 17:22 ansible-tlsdate-master/
+-rw-rw-r-- root/root      1407 2014-10-14 17:22 ansible-tlsdate-master/README.md
+drwxrwxr-x root/root         0 2014-10-14 17:22 ansible-tlsdate-master/defaults/
+-rw-rw-r-- root/root       115 2014-10-14 17:22 ansible-tlsdate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-14 17:22 ansible-tlsdate-master/meta/
+-rw-rw-r-- root/root       269 2014-10-14 17:22 ansible-tlsdate-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-14 17:22 ansible-tlsdate-master/playbooks/
+-rw-rw-r-- root/root       147 2014-10-14 17:22 ansible-tlsdate-master/playbooks/tlsdate-play.yml
+drwxrwxr-x root/root         0 2014-10-14 17:22 ansible-tlsdate-master/tasks/
+-rw-rw-r-- root/root       621 2014-10-14 17:22 ansible-tlsdate-master/tasks/main.yml

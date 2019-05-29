@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/
+drwxrwxr-x root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/.bundle/
+-rw-rw-r-- root/root        36 2014-12-19 05:49 azulinho-mysql-server-master/.bundle/config
+-rw-rw-r-- root/root        87 2014-12-19 05:49 azulinho-mysql-server-master/.gitignore
+-rw-rw-r-- root/root       196 2014-12-19 05:49 azulinho-mysql-server-master/README.md
+-rw-rw-r-- root/root      1173 2014-12-19 05:49 azulinho-mysql-server-master/Rakefile
+drwxrwxr-x root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/handlers/
+-rw-rw-r-- root/root        64 2014-12-19 05:49 azulinho-mysql-server-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/meta/
+-rw-rw-r-- root/root       178 2014-12-19 05:49 azulinho-mysql-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/tasks/
+-rw-rw-r-- root/root       190 2014-12-19 05:49 azulinho-mysql-server-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/
+drwxrwxr-x root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/.bundle/
+-rw-rw-r-- root/root        36 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/.bundle/config
+-rw-rw-r-- root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/Gemfile
+-rw-rw-r-- root/root        45 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/Gemfile.lock
+-rw-rw-r-- root/root      2195 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/Vagrantfile
+-rw-rw-r-- root/root       431 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/ansible.cfg
+-rw-rw-r-- root/root       120 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/main_spec.rb
+-rw-rw-r-- root/root       169 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/playbook.yml
+drwxrwxr-x root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/roles/
+lrwxrwxrwx root/root         0 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/roles/this-github-role -> ../../
+-rw-rw-r-- root/root       125 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/spec_helper.rb
+-rw-rw-r-- root/root       149 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/vagrant
+-rw-rw-r-- root/root       225 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/vagrant-playbook.yml
+-rw-rw-r-- root/root        12 2014-12-19 05:49 azulinho-mysql-server-master/vagrantbox/vagrant-vault

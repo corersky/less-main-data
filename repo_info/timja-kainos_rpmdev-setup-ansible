@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-12-14 10:56 rpmdev-setup-ansible-master/
+-rw-rw-r-- root/root       540 2016-12-14 10:56 rpmdev-setup-ansible-master/.travis.yml
+-rw-rw-r-- root/root      1067 2016-12-14 10:56 rpmdev-setup-ansible-master/LICENSE
+-rw-rw-r-- root/root       379 2016-12-14 10:56 rpmdev-setup-ansible-master/README.md
+drwxrwxr-x root/root         0 2016-12-14 10:56 rpmdev-setup-ansible-master/defaults/
+-rw-rw-r-- root/root        39 2016-12-14 10:56 rpmdev-setup-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-14 10:56 rpmdev-setup-ansible-master/handlers/
+-rw-rw-r-- root/root        39 2016-12-14 10:56 rpmdev-setup-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-14 10:56 rpmdev-setup-ansible-master/meta/
+-rw-rw-r-- root/root       376 2016-12-14 10:56 rpmdev-setup-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-14 10:56 rpmdev-setup-ansible-master/tasks/
+-rw-rw-r-- root/root       349 2016-12-14 10:56 rpmdev-setup-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-14 10:56 rpmdev-setup-ansible-master/tests/
+-rw-rw-r-- root/root         9 2016-12-14 10:56 rpmdev-setup-ansible-master/tests/inventory
+-rw-rw-r-- root/root        84 2016-12-14 10:56 rpmdev-setup-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-14 10:56 rpmdev-setup-ansible-master/vars/
+-rw-rw-r-- root/root        35 2016-12-14 10:56 rpmdev-setup-ansible-master/vars/main.yml

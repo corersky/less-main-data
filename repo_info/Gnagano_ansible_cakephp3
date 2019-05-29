@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-29 19:29 ansible_cakephp3-master/
+-rw-rw-r-- root/root        39 2019-01-29 19:29 ansible_cakephp3-master/.gitignore
+-rw-rw-r-- root/root      2339 2019-01-29 19:29 ansible_cakephp3-master/README.md
+drwxrwxr-x root/root         0 2019-01-29 19:29 ansible_cakephp3-master/defaults/
+-rw-rw-r-- root/root      1511 2019-01-29 19:29 ansible_cakephp3-master/defaults/main.yml.default
+drwxrwxr-x root/root         0 2019-01-29 19:29 ansible_cakephp3-master/meta/
+-rw-rw-r-- root/root       245 2019-01-29 19:29 ansible_cakephp3-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-29 19:29 ansible_cakephp3-master/tasks/
+-rw-rw-r-- root/root       115 2019-01-29 19:29 ansible_cakephp3-master/tasks/app.yml
+-rw-rw-r-- root/root       517 2019-01-29 19:29 ansible_cakephp3-master/tasks/install.yml
+-rw-rw-r-- root/root       519 2019-01-29 19:29 ansible_cakephp3-master/tasks/main.yml
+-rw-rw-r-- root/root      1381 2019-01-29 19:29 ansible_cakephp3-master/tasks/nginx_conf.yml
+-rw-rw-r-- root/root       320 2019-01-29 19:29 ansible_cakephp3-master/tasks/phpunit.yml
+drwxrwxr-x root/root         0 2019-01-29 19:29 ansible_cakephp3-master/templates/
+-rw-rw-r-- root/root     15959 2019-01-29 19:29 ansible_cakephp3-master/templates/app.php.j2

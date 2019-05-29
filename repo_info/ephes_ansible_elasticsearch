@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-05-08 03:23 ansible_elasticsearch-master/
+-rw-rw-r-- root/root      1086 2016-05-08 03:23 ansible_elasticsearch-master/LICENSE
+-rw-rw-r-- root/root        52 2016-05-08 03:23 ansible_elasticsearch-master/README.md
+-rw-rw-r-- root/root         6 2016-05-08 03:23 ansible_elasticsearch-master/VERSION
+drwxrwxr-x root/root         0 2016-05-08 03:23 ansible_elasticsearch-master/handlers/
+-rw-rw-r-- root/root       133 2016-05-08 03:23 ansible_elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-08 03:23 ansible_elasticsearch-master/meta/
+-rw-rw-r-- root/root       206 2016-05-08 03:23 ansible_elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-08 03:23 ansible_elasticsearch-master/tasks/
+-rw-rw-r-- root/root       650 2016-05-08 03:23 ansible_elasticsearch-master/tasks/elasticsearch.yml
+-rw-rw-r-- root/root        90 2016-05-08 03:23 ansible_elasticsearch-master/tasks/main.yml

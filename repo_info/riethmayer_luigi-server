@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-07-21 08:44 luigi-server-master/
+-rw-rw-r-- root/root      1016 2015-07-21 08:44 luigi-server-master/README.md
+drwxrwxr-x root/root         0 2015-07-21 08:44 luigi-server-master/defaults/
+-rw-rw-r-- root/root       378 2015-07-21 08:44 luigi-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-21 08:44 luigi-server-master/handlers/
+-rw-rw-r-- root/root        70 2015-07-21 08:44 luigi-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-07-21 08:44 luigi-server-master/meta/
+-rw-rw-r-- root/root       262 2015-07-21 08:44 luigi-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-21 08:44 luigi-server-master/tasks/
+-rw-rw-r-- root/root       113 2015-07-21 08:44 luigi-server-master/tasks/main.yml
+-rw-rw-r-- root/root       337 2015-07-21 08:44 luigi-server-master/tasks/manage.yml
+-rw-rw-r-- root/root       413 2015-07-21 08:44 luigi-server-master/tasks/settings.yml
+drwxrwxr-x root/root         0 2015-07-21 08:44 luigi-server-master/templates/
+-rw-rw-r-- root/root      7129 2015-07-21 08:44 luigi-server-master/templates/client.cfg.j2
+-rw-rw-r-- root/root      1831 2015-07-21 08:44 luigi-server-master/templates/luigi-server.init.j2
+drwxrwxr-x root/root         0 2015-07-21 08:44 luigi-server-master/vars/
+-rw-rw-r-- root/root         4 2015-07-21 08:44 luigi-server-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/
+-rw-rw-r-- root/root      1077 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/LICENSE
+-rw-rw-r-- root/root       532 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/README.md
+drwxrwxr-x root/root         0 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/defaults/
+-rw-rw-r-- root/root        49 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/handlers/
+-rw-rw-r-- root/root        49 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/meta/
+-rw-rw-r-- root/root      2069 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/tasks/
+-rw-rw-r-- root/root       209 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/tasks/Debian.yml
+-rw-rw-r-- root/root       135 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/tests/
+-rw-rw-r-- root/root        11 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/vars/
+-rw-rw-r-- root/root        45 2018-08-13 12:41 AnsibleRoleOsLinuxUpdate-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-10-02 15:56 ansible-fpm-master/
+-rw-rw-r-- root/root        37 2014-10-02 15:56 ansible-fpm-master/.gitignore
+-rw-rw-r-- root/root        29 2014-10-02 15:56 ansible-fpm-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2014-10-02 15:56 ansible-fpm-master/LICENSE
+-rw-rw-r-- root/root       205 2014-10-02 15:56 ansible-fpm-master/README.md
+drwxrwxr-x root/root         0 2014-10-02 15:56 ansible-fpm-master/defaults/
+-rw-rw-r-- root/root        25 2014-10-02 15:56 ansible-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-02 15:56 ansible-fpm-master/examples/
+-rw-rw-r-- root/root       545 2014-10-02 15:56 ansible-fpm-master/examples/Vagrantfile
+-rw-rw-r-- root/root        18 2014-10-02 15:56 ansible-fpm-master/examples/roles.txt
+drwxrwxr-x root/root         0 2014-10-02 15:56 ansible-fpm-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-10-02 15:56 ansible-fpm-master/examples/roles/azavea.fpm -> ../../
+-rw-rw-r-- root/root        55 2014-10-02 15:56 ansible-fpm-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-10-02 15:56 ansible-fpm-master/meta/
+-rw-rw-r-- root/root       324 2014-10-02 15:56 ansible-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-02 15:56 ansible-fpm-master/tasks/
+-rw-rw-r-- root/root       117 2014-10-02 15:56 ansible-fpm-master/tasks/main.yml

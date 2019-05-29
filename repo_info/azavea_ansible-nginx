@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2017-09-01 08:52 ansible-nginx-master/
+-rw-rw-r-- root/root         9 2017-09-01 08:52 ansible-nginx-master/.gitignore
+-rw-rw-r-- root/root       607 2017-09-01 08:52 ansible-nginx-master/CHANGELOG.md
+-rw-rw-r-- root/root     11342 2017-09-01 08:52 ansible-nginx-master/LICENSE
+-rw-rw-r-- root/root       335 2017-09-01 08:52 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2017-09-01 08:52 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root        61 2017-09-01 08:52 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-01 08:52 ansible-nginx-master/examples/
+-rw-rw-r-- root/root       339 2017-09-01 08:52 ansible-nginx-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2017-09-01 08:52 ansible-nginx-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-09-01 08:52 ansible-nginx-master/examples/roles/azavea.nginx -> ../../
+-rw-rw-r-- root/root        57 2017-09-01 08:52 ansible-nginx-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-09-01 08:52 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root        64 2017-09-01 08:52 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-01 08:52 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       231 2017-09-01 08:52 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-01 08:52 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root       863 2017-09-01 08:52 ansible-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-01 08:52 ansible-nginx-master/templates/
+-rw-rw-r-- root/root       326 2017-09-01 08:52 ansible-nginx-master/templates/logrotate_nginx.j2
+-rw-rw-r-- root/root       740 2017-09-01 08:52 ansible-nginx-master/templates/nginx.conf.j2

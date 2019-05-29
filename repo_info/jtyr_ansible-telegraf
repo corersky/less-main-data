@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-09 07:38 ansible-telegraf-master/
+-rw-rw-r-- root/root         0 2019-01-09 07:38 ansible-telegraf-master/.gitignore
+-rw-rw-r-- root/root      1080 2019-01-09 07:38 ansible-telegraf-master/LICENSE
+-rw-rw-r-- root/root     14598 2019-01-09 07:38 ansible-telegraf-master/README.md
+drwxrwxr-x root/root         0 2019-01-09 07:38 ansible-telegraf-master/defaults/
+-rw-rw-r-- root/root     11757 2019-01-09 07:38 ansible-telegraf-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 07:38 ansible-telegraf-master/handlers/
+-rw-rw-r-- root/root       563 2019-01-09 07:38 ansible-telegraf-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 07:38 ansible-telegraf-master/meta/
+-rw-rw-r-- root/root       348 2019-01-09 07:38 ansible-telegraf-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-09 07:38 ansible-telegraf-master/tasks/
+-rw-rw-r-- root/root      2512 2019-01-09 07:38 ansible-telegraf-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-01-09 07:38 ansible-telegraf-master/templates/
+-rw-rw-r-- root/root       108 2019-01-09 07:38 ansible-telegraf-master/templates/telegraf.conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-09 10:16 ansible-putty-master/
+-rw-rw-r-- root/root       539 2017-03-09 10:16 ansible-putty-master/.travis.yml
+-rw-rw-r-- root/root       414 2017-03-09 10:16 ansible-putty-master/README.md
+drwxrwxr-x root/root         0 2017-03-09 10:16 ansible-putty-master/defaults/
+-rw-rw-r-- root/root        41 2017-03-09 10:16 ansible-putty-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-09 10:16 ansible-putty-master/handlers/
+-rw-rw-r-- root/root        41 2017-03-09 10:16 ansible-putty-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-09 10:16 ansible-putty-master/meta/
+-rw-rw-r-- root/root       395 2017-03-09 10:16 ansible-putty-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-09 10:16 ansible-putty-master/tasks/
+-rw-rw-r-- root/root      1152 2017-03-09 10:16 ansible-putty-master/tasks/build.yml
+-rw-rw-r-- root/root       605 2017-03-09 10:16 ansible-putty-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-09 10:16 ansible-putty-master/tests/
+-rw-rw-r-- root/root         9 2017-03-09 10:16 ansible-putty-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-03-09 10:16 ansible-putty-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-09 10:16 ansible-putty-master/vars/
+-rw-rw-r-- root/root        37 2017-03-09 10:16 ansible-putty-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-05 17:49 ansible-role-debug-master/
+-rw-rw-r-- root/root      1115 2016-08-05 17:49 ansible-role-debug-master/.travis.yml
+-rw-rw-r-- root/root      1071 2016-08-05 17:49 ansible-role-debug-master/LICENSE
+-rw-rw-r-- root/root      4036 2016-08-05 17:49 ansible-role-debug-master/README.md
+drwxrwxr-x root/root         0 2016-08-05 17:49 ansible-role-debug-master/defaults/
+-rw-rw-r-- root/root       990 2016-08-05 17:49 ansible-role-debug-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-05 17:49 ansible-role-debug-master/meta/
+-rw-rw-r-- root/root      2442 2016-08-05 17:49 ansible-role-debug-master/meta/main.yml
+-rw-rw-r-- root/root       131 2016-08-05 17:49 ansible-role-debug-master/meta/requirements.yml
+drwxrwxr-x root/root         0 2016-08-05 17:49 ansible-role-debug-master/tests/
+-rw-rw-r-- root/root        10 2016-08-05 17:49 ansible-role-debug-master/tests/inventory
+-rw-rw-r-- root/root       300 2016-08-05 17:49 ansible-role-debug-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-26 12:37 ansible-role-drupal-solr-master/
+-rw-rw-r-- root/root       539 2017-02-26 12:37 ansible-role-drupal-solr-master/.travis.yml
+-rw-rw-r-- root/root       694 2017-02-26 12:37 ansible-role-drupal-solr-master/README.md
+drwxrwxr-x root/root         0 2017-02-26 12:37 ansible-role-drupal-solr-master/defaults/
+-rw-rw-r-- root/root       107 2017-02-26 12:37 ansible-role-drupal-solr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-26 12:37 ansible-role-drupal-solr-master/handlers/
+-rw-rw-r-- root/root        36 2017-02-26 12:37 ansible-role-drupal-solr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-26 12:37 ansible-role-drupal-solr-master/meta/
+-rw-rw-r-- root/root       340 2017-02-26 12:37 ansible-role-drupal-solr-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-26 12:37 ansible-role-drupal-solr-master/tasks/
+-rw-rw-r-- root/root      1599 2017-02-26 12:37 ansible-role-drupal-solr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-26 12:37 ansible-role-drupal-solr-master/tests/
+-rw-rw-r-- root/root         9 2017-02-26 12:37 ansible-role-drupal-solr-master/tests/inventory
+-rw-rw-r-- root/root        13 2017-02-26 12:37 ansible-role-drupal-solr-master/tests/test.retry
+-rw-rw-r-- root/root        69 2017-02-26 12:37 ansible-role-drupal-solr-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-26 12:37 ansible-role-drupal-solr-master/vars/
+-rw-rw-r-- root/root        32 2017-02-26 12:37 ansible-role-drupal-solr-master/vars/main.yml

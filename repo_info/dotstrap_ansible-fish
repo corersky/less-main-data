@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-12 17:14 ansible-fish-master/
+-rw-rw-r-- root/root       971 2017-01-12 17:14 ansible-fish-master/.travis.yml
+-rw-rw-r-- root/root      1079 2017-01-12 17:14 ansible-fish-master/LICENSE
+-rw-rw-r-- root/root      1028 2017-01-12 17:14 ansible-fish-master/README.md
+drwxrwxr-x root/root         0 2017-01-12 17:14 ansible-fish-master/defaults/
+-rw-rw-r-- root/root       275 2017-01-12 17:14 ansible-fish-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-12 17:14 ansible-fish-master/meta/
+-rw-rw-r-- root/root       326 2017-01-12 17:14 ansible-fish-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-12 17:14 ansible-fish-master/tasks/
+-rw-rw-r-- root/root       203 2017-01-12 17:14 ansible-fish-master/tasks/configure_default.yml
+-rw-rw-r-- root/root       113 2017-01-12 17:14 ansible-fish-master/tasks/configure_homebrew.yml
+-rw-rw-r-- root/root       368 2017-01-12 17:14 ansible-fish-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-12 17:14 ansible-fish-master/tests/
+-rw-rw-r-- root/root        10 2017-01-12 17:14 ansible-fish-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-01-12 17:14 ansible-fish-master/tests/test.yml

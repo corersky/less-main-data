@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/
+-rw-rw-r-- root/root      1068 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/LICENSE
+-rw-rw-r-- root/root      1290 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/README.md
+drwxrwxr-x root/root         0 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/defaults/
+-rwxrwxr-x root/root        31 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/meta/
+-rw-rw-r-- root/root       408 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/tasks/
+-rwxrwxr-x root/root      2522 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/templates/
+-rwxrwxr-x root/root       239 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/templates/create-db-user.xml.j2
+-rwxrwxr-x root/root       243 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/templates/create-db.xml.j2
+drwxrwxr-x root/root         0 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/vars/
+-rwxrwxr-x root/root       188 2018-02-01 08:52 ansible.role.create-mysqldb-and-user-using-plesk-api-master/vars/main.yml

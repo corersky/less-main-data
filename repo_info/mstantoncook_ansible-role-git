@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-02-03 22:59 ansible-role-git-master/
+-rw-rw-r-- root/root        12 2015-02-03 22:59 ansible-role-git-master/.gitignore
+-rw-rw-r-- root/root      1469 2015-02-03 22:59 ansible-role-git-master/.travis.yml
+-rw-rw-r-- root/root      1699 2015-02-03 22:59 ansible-role-git-master/README.md
+drwxrwxr-x root/root         0 2015-02-03 22:59 ansible-role-git-master/defaults/
+-rw-rw-r-- root/root       473 2015-02-03 22:59 ansible-role-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-03 22:59 ansible-role-git-master/meta/
+-rw-rw-r-- root/root       370 2015-02-03 22:59 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-03 22:59 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root      1229 2015-02-03 22:59 ansible-role-git-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root       582 2015-02-03 22:59 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-03 22:59 ansible-role-git-master/tests/
+-rw-rw-r-- root/root        35 2015-02-03 22:59 ansible-role-git-master/tests/inventory
+-rw-rw-r-- root/root       173 2015-02-03 22:59 ansible-role-git-master/tests/test-install-from-source.yml
+-rw-rw-r-- root/root       151 2015-02-03 22:59 ansible-role-git-master/tests/test-install-package.yml
+drwxrwxr-x root/root         0 2015-02-03 22:59 ansible-role-git-master/vars/
+-rw-rw-r-- root/root        43 2015-02-03 22:59 ansible-role-git-master/vars/main.yml

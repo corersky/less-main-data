@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-30 16:19 asterisk-billing-master/
+-rw-rw-r-- root/root        26 2018-09-30 16:19 asterisk-billing-master/.gitignore
+-rw-rw-r-- root/root      1979 2018-09-30 16:19 asterisk-billing-master/README.md
+drwxrwxr-x root/root         0 2018-09-30 16:19 asterisk-billing-master/defaults/
+-rw-rw-r-- root/root       472 2018-09-30 16:19 asterisk-billing-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 16:19 asterisk-billing-master/handlers/
+-rw-rw-r-- root/root        51 2018-09-30 16:19 asterisk-billing-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-30 16:19 asterisk-billing-master/meta/
+-rw-rw-r-- root/root       630 2018-09-30 16:19 asterisk-billing-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-30 16:19 asterisk-billing-master/tasks/
+-rw-rw-r-- root/root      4518 2018-09-30 16:19 asterisk-billing-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-30 16:19 asterisk-billing-master/tests/
+-rw-rw-r-- root/root        10 2018-09-30 16:19 asterisk-billing-master/tests/inventory
+-rw-rw-r-- root/root        93 2018-09-30 16:19 asterisk-billing-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-30 16:19 asterisk-billing-master/vars/
+-rw-rw-r-- root/root        47 2018-09-30 16:19 asterisk-billing-master/vars/main.yml

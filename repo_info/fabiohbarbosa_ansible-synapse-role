@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-06-18 08:43 ansible-synapse-role-master/
+-rw-rw-r-- root/root        72 2017-06-18 08:43 ansible-synapse-role-master/.gitignore
+-rw-rw-r-- root/root      2214 2017-06-18 08:43 ansible-synapse-role-master/.travis.yml
+-rw-rw-r-- root/root      1079 2017-06-18 08:43 ansible-synapse-role-master/LICENSE
+-rw-rw-r-- root/root      1272 2017-06-18 08:43 ansible-synapse-role-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 08:43 ansible-synapse-role-master/meta/
+-rw-rw-r-- root/root       341 2017-06-18 08:43 ansible-synapse-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 08:43 ansible-synapse-role-master/tasks/
+-rw-rw-r-- root/root      2438 2017-06-18 08:43 ansible-synapse-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-18 08:43 ansible-synapse-role-master/tests/
+-rw-rw-r-- root/root        46 2017-06-18 08:43 ansible-synapse-role-master/tests/inventory
+-rw-rw-r-- root/root        60 2017-06-18 08:43 ansible-synapse-role-master/tests/test.yml

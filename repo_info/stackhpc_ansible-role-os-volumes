@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-04 15:20 ansible-role-os-volumes-master/
+-rw-rw-r-- root/root       765 2018-09-04 15:20 ansible-role-os-volumes-master/.travis.yml
+-rw-rw-r-- root/root     10143 2018-09-04 15:20 ansible-role-os-volumes-master/LICENSE
+-rw-rw-r-- root/root      2646 2018-09-04 15:20 ansible-role-os-volumes-master/README.md
+drwxrwxr-x root/root         0 2018-09-04 15:20 ansible-role-os-volumes-master/defaults/
+-rw-rw-r-- root/root      1369 2018-09-04 15:20 ansible-role-os-volumes-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:20 ansible-role-os-volumes-master/meta/
+-rw-rw-r-- root/root       500 2018-09-04 15:20 ansible-role-os-volumes-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:20 ansible-role-os-volumes-master/tasks/
+-rw-rw-r-- root/root      3010 2018-09-04 15:20 ansible-role-os-volumes-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:20 ansible-role-os-volumes-master/tests/
+-rw-rw-r-- root/root        10 2018-09-04 15:20 ansible-role-os-volumes-master/tests/inventory
+-rw-rw-r-- root/root        89 2018-09-04 15:20 ansible-role-os-volumes-master/tests/test.yml

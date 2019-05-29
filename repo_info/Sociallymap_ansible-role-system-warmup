@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-23 08:08 ansible-role-system-warmup-master/
+-rw-rw-r-- root/root       143 2018-02-23 08:08 ansible-role-system-warmup-master/README.md
+drwxrwxr-x root/root         0 2018-02-23 08:08 ansible-role-system-warmup-master/files/
+-rw-rw-r-- root/root        46 2018-02-23 08:08 ansible-role-system-warmup-master/files/bash_aliases
+drwxrwxr-x root/root         0 2018-02-23 08:08 ansible-role-system-warmup-master/handlers/
+-rw-rw-r-- root/root        89 2018-02-23 08:08 ansible-role-system-warmup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-23 08:08 ansible-role-system-warmup-master/meta/
+-rw-rw-r-- root/root       238 2018-02-23 08:08 ansible-role-system-warmup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-23 08:08 ansible-role-system-warmup-master/tasks/
+-rw-rw-r-- root/root       584 2018-02-23 08:08 ansible-role-system-warmup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-23 08:08 ansible-role-system-warmup-master/tests/
+-rw-rw-r-- root/root        11 2018-02-23 08:08 ansible-role-system-warmup-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-02-23 08:08 ansible-role-system-warmup-master/tests/test.yml

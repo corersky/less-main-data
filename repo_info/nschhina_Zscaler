@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-27 14:20 Zscaler-master/
+-rw-rw-r-- root/root        22 2018-07-27 14:20 Zscaler-master/.gitignore
+-rw-rw-r-- root/root      1046 2018-07-27 14:20 Zscaler-master/LICENSE
+-rw-rw-r-- root/root        36 2018-07-27 14:20 Zscaler-master/README.md
+drwxrwxr-x root/root         0 2018-07-27 14:20 Zscaler-master/defaults/
+-rw-rw-r-- root/root       624 2018-07-27 14:20 Zscaler-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-27 14:20 Zscaler-master/handlers/
+-rw-rw-r-- root/root         4 2018-07-27 14:20 Zscaler-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-27 14:20 Zscaler-master/meta/
+-rw-rw-r-- root/root       364 2018-07-27 14:20 Zscaler-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-27 14:20 Zscaler-master/tasks/
+-rw-rw-r-- root/root       151 2018-07-27 14:20 Zscaler-master/tasks/main.yml
+-rw-rw-r-- root/root       928 2018-07-27 14:20 Zscaler-master/tasks/setup-Darwin.yml
+-rw-rw-r-- root/root       907 2018-07-27 14:20 Zscaler-master/tasks/setup-Windows.yml

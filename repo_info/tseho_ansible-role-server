@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-01 02:49 ansible-role-server-master/
+-rw-rw-r-- root/root      1071 2019-02-01 02:49 ansible-role-server-master/LICENSE
+-rw-rw-r-- root/root       145 2019-02-01 02:49 ansible-role-server-master/README.md
+drwxrwxr-x root/root         0 2019-02-01 02:49 ansible-role-server-master/defaults/
+-rw-rw-r-- root/root       528 2019-02-01 02:49 ansible-role-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:49 ansible-role-server-master/handlers/
+-rw-rw-r-- root/root        90 2019-02-01 02:49 ansible-role-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:49 ansible-role-server-master/meta/
+-rw-rw-r-- root/root       233 2019-02-01 02:49 ansible-role-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-01 02:49 ansible-role-server-master/tasks/
+-rw-rw-r-- root/root       898 2019-02-01 02:49 ansible-role-server-master/tasks/acl-item.yml
+-rw-rw-r-- root/root       204 2019-02-01 02:49 ansible-role-server-master/tasks/acl.yml
+-rw-rw-r-- root/root       762 2019-02-01 02:49 ansible-role-server-master/tasks/main.yml
+-rw-rw-r-- root/root       614 2019-02-01 02:49 ansible-role-server-master/tasks/php.yml
+drwxrwxr-x root/root         0 2019-02-01 02:49 ansible-role-server-master/templates/
+-rw-rw-r-- root/root        68 2019-02-01 02:49 ansible-role-server-master/templates/iptables-pre-up.j2
+-rw-rw-r-- root/root      1354 2019-02-01 02:49 ansible-role-server-master/templates/iptables.j2

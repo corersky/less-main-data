@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-23 16:05 openldap-ansible-role-master/
+-rw-rw-r-- root/root      1421 2018-07-23 16:05 openldap-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2018-07-23 16:05 openldap-ansible-role-master/meta/
+-rw-rw-r-- root/root      1357 2018-07-23 16:05 openldap-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-23 16:05 openldap-ansible-role-master/tasks/
+-rw-rw-r-- root/root       146 2018-07-23 16:05 openldap-ansible-role-master/tasks/Debian.yml
+-rw-rw-r-- root/root       229 2018-07-23 16:05 openldap-ansible-role-master/tasks/RedHat.yml
+-rw-rw-r-- root/root      2590 2018-07-23 16:05 openldap-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-23 16:05 openldap-ansible-role-master/templates/
+-rw-rw-r-- root/root       332 2018-07-23 16:05 openldap-ansible-role-master/templates/db.ldif
+drwxrwxr-x root/root         0 2018-07-23 16:05 openldap-ansible-role-master/vars/
+-rw-rw-r-- root/root        92 2018-07-23 16:05 openldap-ansible-role-master/vars/Debian-vars.yml
+-rw-rw-r-- root/root       115 2018-07-23 16:05 openldap-ansible-role-master/vars/RedHat-vars.yml

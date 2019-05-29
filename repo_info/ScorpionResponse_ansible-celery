@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-24 08:52 ansible-celery-master/
+-rw-rw-r-- root/root      2405 2017-04-24 08:52 ansible-celery-master/.travis.yml
+-rw-rw-r-- root/root       948 2017-04-24 08:52 ansible-celery-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 08:52 ansible-celery-master/defaults/
+-rw-rw-r-- root/root       169 2017-04-24 08:52 ansible-celery-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-24 08:52 ansible-celery-master/handlers/
+-rw-rw-r-- root/root       183 2017-04-24 08:52 ansible-celery-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-24 08:52 ansible-celery-master/meta/
+-rw-rw-r-- root/root       402 2017-04-24 08:52 ansible-celery-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 08:52 ansible-celery-master/tasks/
+-rw-rw-r-- root/root      1719 2017-04-24 08:52 ansible-celery-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 08:52 ansible-celery-master/templates/
+-rw-rw-r-- root/root       605 2017-04-24 08:52 ansible-celery-master/templates/supervisor_celerybeat.conf.j2
+-rw-rw-r-- root/root       622 2017-04-24 08:52 ansible-celery-master/templates/supervisor_celeryworker.conf.j2
+drwxrwxr-x root/root         0 2017-04-24 08:52 ansible-celery-master/tests/
+-rw-rw-r-- root/root        68 2017-04-24 08:52 ansible-celery-master/tests/requirements.yml
+-rw-rw-r-- root/root        48 2017-04-24 08:52 ansible-celery-master/tests/test.yml

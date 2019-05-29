@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-06 10:42 ansible-locale-master/
+-rw-rw-r-- root/root     35147 2017-07-06 10:42 ansible-locale-master/COPYING
+-rw-rw-r-- root/root      7651 2017-07-06 10:42 ansible-locale-master/COPYING.LESSER
+-rw-rw-r-- root/root      1290 2017-07-06 10:42 ansible-locale-master/README.md
+drwxrwxr-x root/root         0 2017-07-06 10:42 ansible-locale-master/defaults/
+-rw-rw-r-- root/root       399 2017-07-06 10:42 ansible-locale-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:42 ansible-locale-master/handlers/
+-rw-rw-r-- root/root        50 2017-07-06 10:42 ansible-locale-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:42 ansible-locale-master/meta/
+-rw-rw-r-- root/root       371 2017-07-06 10:42 ansible-locale-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:42 ansible-locale-master/tasks/
+-rw-rw-r-- root/root       257 2017-07-06 10:42 ansible-locale-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:42 ansible-locale-master/templates/
+-rw-rw-r-- root/root       584 2017-07-06 10:42 ansible-locale-master/templates/locale.gen.j2
+-rw-rw-r-- root/root      1314 2017-07-06 10:42 ansible-locale-master/templates/locale.j2

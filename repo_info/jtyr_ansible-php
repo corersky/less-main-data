@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-12 06:56 ansible-php-master/
+-rw-rw-r-- root/root         0 2018-07-12 06:56 ansible-php-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-07-12 06:56 ansible-php-master/LICENSE
+-rw-rw-r-- root/root      7020 2018-07-12 06:56 ansible-php-master/README.md
+drwxrwxr-x root/root         0 2018-07-12 06:56 ansible-php-master/defaults/
+-rw-rw-r-- root/root      5782 2018-07-12 06:56 ansible-php-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-07-12 06:56 ansible-php-master/meta/
+-rw-rw-r-- root/root       279 2018-07-12 06:56 ansible-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-12 06:56 ansible-php-master/tasks/
+-rw-rw-r-- root/root      1173 2018-07-12 06:56 ansible-php-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-07-12 06:56 ansible-php-master/templates/
+-rw-rw-r-- root/root        88 2018-07-12 06:56 ansible-php-master/templates/extension.ini.j2
+-rw-rw-r-- root/root        88 2018-07-12 06:56 ansible-php-master/templates/php.ini.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-04 14:30 ansible-docker-ce-master/
+-rw-rw-r-- root/root      1312 2019-02-04 14:30 ansible-docker-ce-master/README.md
+drwxrwxr-x root/root         0 2019-02-04 14:30 ansible-docker-ce-master/defaults/
+-rw-rw-r-- root/root        43 2019-02-04 14:30 ansible-docker-ce-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-04 14:30 ansible-docker-ce-master/handlers/
+-rw-rw-r-- root/root        43 2019-02-04 14:30 ansible-docker-ce-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-04 14:30 ansible-docker-ce-master/meta/
+-rw-rw-r-- root/root      1830 2019-02-04 14:30 ansible-docker-ce-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-04 14:30 ansible-docker-ce-master/tasks/
+-rw-rw-r-- root/root      1142 2019-02-04 14:30 ansible-docker-ce-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-04 14:30 ansible-docker-ce-master/tests/
+-rw-rw-r-- root/root        11 2019-02-04 14:30 ansible-docker-ce-master/tests/inventory
+-rw-rw-r-- root/root        77 2019-02-04 14:30 ansible-docker-ce-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-04 14:30 ansible-docker-ce-master/vars/
+-rw-rw-r-- root/root        39 2019-02-04 14:30 ansible-docker-ce-master/vars/main.yml

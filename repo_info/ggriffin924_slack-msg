@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-01 12:44 slack-msg-master/
+-rw-rw-r-- root/root       804 2018-10-01 12:44 slack-msg-master/README.md
+drwxrwxr-x root/root         0 2018-10-01 12:44 slack-msg-master/defaults/
+drwxrwxr-x root/root         0 2018-10-01 12:44 slack-msg-master/defaults/main/
+-rw-rw-r-- root/root      1165 2018-10-01 12:44 slack-msg-master/defaults/main/def.yml
+-rw-rw-r-- root/root       743 2018-10-01 12:44 slack-msg-master/defaults/main/vault.yml
+drwxrwxr-x root/root         0 2018-10-01 12:44 slack-msg-master/handlers/
+-rw-rw-r-- root/root        42 2018-10-01 12:44 slack-msg-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-01 12:44 slack-msg-master/meta/
+-rw-rw-r-- root/root       472 2018-10-01 12:44 slack-msg-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-01 12:44 slack-msg-master/tasks/
+-rw-rw-r-- root/root       523 2018-10-01 12:44 slack-msg-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-01 12:44 slack-msg-master/tests/
+-rw-rw-r-- root/root        11 2018-10-01 12:44 slack-msg-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-10-01 12:44 slack-msg-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-01 12:44 slack-msg-master/vars/
+-rw-rw-r-- root/root        38 2018-10-01 12:44 slack-msg-master/vars/main.yml

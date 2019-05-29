@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-22 11:29 ansible-role-current-user-master/
+-rw-rw-r-- root/root       914 2019-03-22 11:29 ansible-role-current-user-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-03-22 11:29 ansible-role-current-user-master/LICENSE
+-rw-rw-r-- root/root       818 2019-03-22 11:29 ansible-role-current-user-master/README.md
+drwxrwxr-x root/root         0 2019-03-22 11:29 ansible-role-current-user-master/defaults/
+-rw-rw-r-- root/root         4 2019-03-22 11:29 ansible-role-current-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-22 11:29 ansible-role-current-user-master/meta/
+-rw-rw-r-- root/root       374 2019-03-22 11:29 ansible-role-current-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-22 11:29 ansible-role-current-user-master/molecule/
+drwxrwxr-x root/root         0 2019-03-22 11:29 ansible-role-current-user-master/molecule/default/
+-rw-rw-r-- root/root       532 2019-03-22 11:29 ansible-role-current-user-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       214 2019-03-22 11:29 ansible-role-current-user-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-03-22 11:29 ansible-role-current-user-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-03-22 11:29 ansible-role-current-user-master/tasks/
+-rw-rw-r-- root/root       449 2019-03-22 11:29 ansible-role-current-user-master/tasks/main.yml

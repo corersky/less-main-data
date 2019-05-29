@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-13 13:38 ansible-drupal-task-master/
+-rw-rw-r-- root/root        19 2018-10-13 13:38 ansible-drupal-task-master/.gitignore
+-rw-rw-r-- root/root     35141 2018-10-13 13:38 ansible-drupal-task-master/LICENSE
+-rw-rw-r-- root/root      1310 2018-10-13 13:38 ansible-drupal-task-master/README.md
+drwxrwxr-x root/root         0 2018-10-13 13:38 ansible-drupal-task-master/defaults/
+-rw-rw-r-- root/root       517 2018-10-13 13:38 ansible-drupal-task-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-13 13:38 ansible-drupal-task-master/meta/
+-rw-rw-r-- root/root       382 2018-10-13 13:38 ansible-drupal-task-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-13 13:38 ansible-drupal-task-master/tasks/
+-rw-rw-r-- root/root       658 2018-10-13 13:38 ansible-drupal-task-master/tasks/instance.yml
+-rw-rw-r-- root/root       266 2018-10-13 13:38 ansible-drupal-task-master/tasks/main.yml
+-rw-rw-r-- root/root       451 2018-10-13 13:38 ansible-drupal-task-master/tasks/rollout_drupal7.yml
+-rw-rw-r-- root/root       967 2018-10-13 13:38 ansible-drupal-task-master/tasks/rollout_drupal8.yml
+-rw-rw-r-- root/root       346 2018-10-13 13:38 ansible-drupal-task-master/tasks/task_cron.yml
+-rw-rw-r-- root/root      3001 2018-10-13 13:38 ansible-drupal-task-master/tasks/task_rollout.yml
+-rw-rw-r-- root/root       381 2018-10-13 13:38 ansible-drupal-task-master/tasks/task_scheduler.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/
+-rw-rw-r-- root/root        58 2014-12-27 16:42 ansible-role-lider-ejabberd-master/README.md
+drwxrwxr-x root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/defaults/
+-rw-rw-r-- root/root       360 2014-12-27 16:42 ansible-role-lider-ejabberd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/files/
+-rw-rw-r-- root/root     13179 2014-12-27 16:42 ansible-role-lider-ejabberd-master/files/ejabberd.cfg
+drwxrwxr-x root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/handlers/
+-rw-rw-r-- root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/meta/
+-rw-rw-r-- root/root      2187 2014-12-27 16:42 ansible-role-lider-ejabberd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/tasks/
+-rw-rw-r-- root/root      2329 2014-12-27 16:42 ansible-role-lider-ejabberd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/templates/
+-rw-rw-r-- root/root     15891 2014-12-27 16:42 ansible-role-lider-ejabberd-master/templates/ejabberd.yml.tpl
+-rw-rw-r-- root/root      4722 2014-12-27 16:42 ansible-role-lider-ejabberd-master/templates/ejabberdctl.cfg.tpl
+drwxrwxr-x root/root         0 2014-12-27 16:42 ansible-role-lider-ejabberd-master/vars/
+-rw-rw-r-- root/root        45 2014-12-27 16:42 ansible-role-lider-ejabberd-master/vars/main.yml

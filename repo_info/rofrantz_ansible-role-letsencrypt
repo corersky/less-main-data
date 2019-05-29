@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2017-09-05 20:43 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root       178 2017-09-05 20:43 ansible-role-letsencrypt-master/.gitignore
+-rw-rw-r-- root/root      1235 2017-09-05 20:43 ansible-role-letsencrypt-master/.travis.yml
+-rw-rw-r-- root/root      1063 2017-09-05 20:43 ansible-role-letsencrypt-master/LICENSE
+-rw-rw-r-- root/root      1091 2017-09-05 20:43 ansible-role-letsencrypt-master/Makefile
+-rw-rw-r-- root/root      1590 2017-09-05 20:43 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2017-09-05 20:43 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root        82 2017-09-05 20:43 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-05 20:43 ansible-role-letsencrypt-master/handlers/
+-rw-rw-r-- root/root       103 2017-09-05 20:43 ansible-role-letsencrypt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-05 20:43 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root      3858 2017-09-05 20:43 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-05 20:43 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root       413 2017-09-05 20:43 ansible-role-letsencrypt-master/tasks/main.yml
+-rw-rw-r-- root/root       373 2017-09-05 20:43 ansible-role-letsencrypt-master/tasks/ubuntu_packages.yml
+drwxrwxr-x root/root         0 2017-09-05 20:43 ansible-role-letsencrypt-master/tests/
+drwxrwxr-x root/root         0 2017-09-05 20:43 ansible-role-letsencrypt-master/tests/vagrant/
+-rw-rw-r-- root/root      1570 2017-09-05 20:43 ansible-role-letsencrypt-master/tests/vagrant/Vagrantfile
+-rw-rw-r-- root/root        34 2017-09-05 20:43 ansible-role-letsencrypt-master/tests/vagrant/ansible.cfg
+-rw-rw-r-- root/root        59 2017-09-05 20:43 ansible-role-letsencrypt-master/tests/vagrant/integration_requirements.yml
+-rw-rw-r-- root/root         9 2017-09-05 20:43 ansible-role-letsencrypt-master/tests/vagrant/inventory
+lrwxrwxrwx root/root         0 2017-09-05 20:43 ansible-role-letsencrypt-master/tests/vagrant/rofrantz.letsencrypt -> ../..
+-rw-rw-r-- root/root       389 2017-09-05 20:43 ansible-role-letsencrypt-master/tests/vagrant/test.yml
+-rw-rw-r-- root/root       104 2017-09-05 20:43 ansible-role-letsencrypt-master/travis.cfg

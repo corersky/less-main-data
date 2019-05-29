@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-06 07:54 ovirt-ansible-dump-db-master/
+-rw-rw-r-- root/root        80 2018-08-06 07:54 ovirt-ansible-dump-db-master/.travis.yml
+-rw-rw-r-- root/root      1057 2018-08-06 07:54 ovirt-ansible-dump-db-master/README.md
+drwxrwxr-x root/root         0 2018-08-06 07:54 ovirt-ansible-dump-db-master/defaults/
+-rw-rw-r-- root/root       233 2018-08-06 07:54 ovirt-ansible-dump-db-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-06 07:54 ovirt-ansible-dump-db-master/meta/
+-rw-rw-r-- root/root       299 2018-08-06 07:54 ovirt-ansible-dump-db-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-06 07:54 ovirt-ansible-dump-db-master/tasks/
+-rw-rw-r-- root/root      1440 2018-08-06 07:54 ovirt-ansible-dump-db-master/tasks/get-db-facts.yml
+-rw-rw-r-- root/root      1440 2018-08-06 07:54 ovirt-ansible-dump-db-master/tasks/get_db_facts.yml
+-rw-rw-r-- root/root      2016 2018-08-06 07:54 ovirt-ansible-dump-db-master/tasks/main.yml
+-rw-rw-r-- root/root       763 2018-08-06 07:54 ovirt-ansible-dump-db-master/tasks/postgres-dump.yml
+-rw-rw-r-- root/root       757 2018-08-06 07:54 ovirt-ansible-dump-db-master/tasks/postgres95-dump.yml

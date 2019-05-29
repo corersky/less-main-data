@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-09-17 01:55 ansible-docker-master/
+-rw-rw-r-- root/root        31 2015-09-17 01:55 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2015-09-17 01:55 ansible-docker-master/defaults/
+-rw-rw-r-- root/root       114 2015-09-17 01:55 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-17 01:55 ansible-docker-master/meta/
+-rw-rw-r-- root/root       174 2015-09-17 01:55 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-17 01:55 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       283 2015-09-17 01:55 ansible-docker-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       285 2015-09-17 01:55 ansible-docker-master/tasks/daemon_config.yml
+-rw-rw-r-- root/root       464 2015-09-17 01:55 ansible-docker-master/tasks/install.yml
+-rw-rw-r-- root/root       300 2015-09-17 01:55 ansible-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       704 2015-09-17 01:55 ansible-docker-master/tasks/mount_partition.yml
+-rw-rw-r-- root/root       144 2015-09-17 01:55 ansible-docker-master/tasks/users.yml
+drwxrwxr-x root/root         0 2015-09-17 01:55 ansible-docker-master/vars/
+-rw-rw-r-- root/root        29 2015-09-17 01:55 ansible-docker-master/vars/btrfs.yml
+-rw-rw-r-- root/root        36 2015-09-17 01:55 ansible-docker-master/vars/devicemapper.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-04 16:49 selinux-master/
+-rw-rw-r-- root/root       660 2018-12-04 16:49 selinux-master/.travis.yml
+-rw-rw-r-- root/root      1347 2018-12-04 16:49 selinux-master/README.md
+drwxrwxr-x root/root         0 2018-12-04 16:49 selinux-master/defaults/
+-rw-rw-r-- root/root        74 2018-12-04 16:49 selinux-master/defaults/main.yml
+-rw-rw-r-- root/root         9 2018-12-04 16:49 selinux-master/inventory.yml
+drwxrwxr-x root/root         0 2018-12-04 16:49 selinux-master/meta/
+-rw-rw-r-- root/root       184 2018-12-04 16:49 selinux-master/meta/main.yml
+-rw-rw-r-- root/root        28 2018-12-04 16:49 selinux-master/requirements.yml
+-rw-rw-r-- root/root       141 2018-12-04 16:49 selinux-master/selinux.yml
+drwxrwxr-x root/root         0 2018-12-04 16:49 selinux-master/tasks/
+-rw-rw-r-- root/root       440 2018-12-04 16:49 selinux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-04 16:49 selinux-master/templates/
+-rw-rw-r-- root/root       113 2018-12-04 16:49 selinux-master/templates/selinux_config.j2
+drwxrwxr-x root/root         0 2018-12-04 16:49 selinux-master/tests/
+-rw-rw-r-- root/root         9 2018-12-04 16:49 selinux-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-12-04 16:49 selinux-master/tests/test.yml

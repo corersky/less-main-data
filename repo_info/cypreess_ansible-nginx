@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-25 03:08 ansible-nginx-master/
+-rw-rw-r-- root/root      1328 2018-05-25 03:08 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2018-05-25 03:08 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root        29 2018-05-25 03:08 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-25 03:08 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root       130 2018-05-25 03:08 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-25 03:08 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       198 2018-05-25 03:08 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-25 03:08 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root      1042 2018-05-25 03:08 ansible-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-25 03:08 ansible-nginx-master/templates/
+-rw-rw-r-- root/root        97 2018-05-25 03:08 ansible-nginx-master/templates/certbot-renew-all.sh
+drwxrwxr-x root/root         0 2018-05-25 03:08 ansible-nginx-master/tests/
+-rw-rw-r-- root/root        11 2018-05-25 03:08 ansible-nginx-master/tests/inventory
+-rw-rw-r-- root/root        63 2018-05-25 03:08 ansible-nginx-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-25 03:08 ansible-nginx-master/vars/
+-rw-rw-r-- root/root        25 2018-05-25 03:08 ansible-nginx-master/vars/main.yml

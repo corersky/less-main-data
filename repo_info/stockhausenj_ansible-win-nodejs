@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-04 14:44 ansible-nodejs-master/
+-rw-rw-r-- root/root      1131 2017-12-04 14:44 ansible-nodejs-master/README.md
+drwxrwxr-x root/root         0 2017-12-04 14:44 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root       275 2017-12-04 14:44 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-04 14:44 ansible-nodejs-master/handlers/
+-rw-rw-r-- root/root        34 2017-12-04 14:44 ansible-nodejs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-04 14:44 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       279 2017-12-04 14:44 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-04 14:44 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root       598 2017-12-04 14:44 ansible-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-04 14:44 ansible-nodejs-master/tests/
+-rw-rw-r-- root/root        11 2017-12-04 14:44 ansible-nodejs-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-12-04 14:44 ansible-nodejs-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-04 14:44 ansible-nodejs-master/vars/
+-rw-rw-r-- root/root        30 2017-12-04 14:44 ansible-nodejs-master/vars/main.yml

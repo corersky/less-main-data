@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-04 14:51 ansible-role-sqlmap-master/
+-rw-rw-r-- root/root       390 2018-07-04 14:51 ansible-role-sqlmap-master/.travis.yml
+-rw-rw-r-- root/root       406 2018-07-04 14:51 ansible-role-sqlmap-master/README.md
+-rw-rw-r-- root/root        28 2018-07-04 14:51 ansible-role-sqlmap-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-07-04 14:51 ansible-role-sqlmap-master/defaults/
+-rw-rw-r-- root/root        43 2018-07-04 14:51 ansible-role-sqlmap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-04 14:51 ansible-role-sqlmap-master/handlers/
+-rw-rw-r-- root/root        43 2018-07-04 14:51 ansible-role-sqlmap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-04 14:51 ansible-role-sqlmap-master/meta/
+-rw-rw-r-- root/root       327 2018-07-04 14:51 ansible-role-sqlmap-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 14:51 ansible-role-sqlmap-master/tasks/
+-rw-rw-r-- root/root       315 2018-07-04 14:51 ansible-role-sqlmap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-04 14:51 ansible-role-sqlmap-master/tests/
+-rw-rw-r-- root/root        11 2018-07-04 14:51 ansible-role-sqlmap-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-07-04 14:51 ansible-role-sqlmap-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-04 14:51 ansible-role-sqlmap-master/vars/
+-rw-rw-r-- root/root        32 2018-07-04 14:51 ansible-role-sqlmap-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-03 19:20 ansible-docker-master/
+-rw-rw-r-- root/root       563 2019-05-03 19:20 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2019-05-03 19:20 ansible-docker-master/defaults/
+-rw-rw-r-- root/root        78 2019-05-03 19:20 ansible-docker-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-05-03 19:20 ansible-docker-master/handlers/
+-rw-rw-r-- root/root       115 2019-05-03 19:20 ansible-docker-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-05-03 19:20 ansible-docker-master/meta/
+-rw-rw-r-- root/root       371 2019-05-03 19:20 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-03 19:20 ansible-docker-master/tasks/
+-rw-rw-r-- root/root      1019 2019-05-03 19:20 ansible-docker-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-05-03 19:20 ansible-docker-master/templates/
+-rw-rw-r-- root/root       222 2019-05-03 19:20 ansible-docker-master/templates/daemon.json.j2
+drwxrwxr-x root/root         0 2019-05-03 19:20 ansible-docker-master/vars/
+-rw-rw-r-- root/root        29 2019-05-03 19:20 ansible-docker-master/vars/Amazon.yaml
+-rw-rw-r-- root/root        29 2019-05-03 19:20 ansible-docker-master/vars/CentOS.yaml

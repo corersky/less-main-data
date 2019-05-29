@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-03 05:46 ansible-postgres-master/
+-rw-rw-r-- root/root      1328 2018-07-03 05:46 ansible-postgres-master/README.md
+drwxrwxr-x root/root         0 2018-07-03 05:46 ansible-postgres-master/defaults/
+-rw-rw-r-- root/root       104 2018-07-03 05:46 ansible-postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-03 05:46 ansible-postgres-master/handlers/
+-rw-rw-r-- root/root       170 2018-07-03 05:46 ansible-postgres-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-03 05:46 ansible-postgres-master/meta/
+-rw-rw-r-- root/root       197 2018-07-03 05:46 ansible-postgres-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-03 05:46 ansible-postgres-master/tasks/
+-rw-rw-r-- root/root      1127 2018-07-03 05:46 ansible-postgres-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-03 05:46 ansible-postgres-master/tests/
+-rw-rw-r-- root/root        11 2018-07-03 05:46 ansible-postgres-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-07-03 05:46 ansible-postgres-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-03 05:46 ansible-postgres-master/vars/
+-rw-rw-r-- root/root        31 2018-07-03 05:46 ansible-postgres-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-09 18:03 ansible-network-interfaces-master/
+-rw-rw-r-- root/root      1620 2018-12-09 18:03 ansible-network-interfaces-master/.gitignore
+-rw-rw-r-- root/root      1072 2018-12-09 18:03 ansible-network-interfaces-master/LICENSE.md
+-rw-rw-r-- root/root       502 2018-12-09 18:03 ansible-network-interfaces-master/README.md
+drwxrwxr-x root/root         0 2018-12-09 18:03 ansible-network-interfaces-master/defaults/
+-rw-rw-r-- root/root      1120 2018-12-09 18:03 ansible-network-interfaces-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-09 18:03 ansible-network-interfaces-master/handlers/
+-rw-rw-r-- root/root       158 2018-12-09 18:03 ansible-network-interfaces-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-09 18:03 ansible-network-interfaces-master/meta/
+-rw-rw-r-- root/root       290 2018-12-09 18:03 ansible-network-interfaces-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-09 18:03 ansible-network-interfaces-master/tasks/
+-rw-rw-r-- root/root      1126 2018-12-09 18:03 ansible-network-interfaces-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-09 18:03 ansible-network-interfaces-master/templates/
+-rw-rw-r-- root/root       770 2018-12-09 18:03 ansible-network-interfaces-master/templates/network_interfaces.j2

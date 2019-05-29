@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-15 11:32 ansible-shadowsocks-master/
+-rw-rw-r-- root/root         6 2018-09-15 11:32 ansible-shadowsocks-master/.gitignore
+-rw-rw-r-- root/root       778 2018-09-15 11:32 ansible-shadowsocks-master/README.md
+drwxrwxr-x root/root         0 2018-09-15 11:32 ansible-shadowsocks-master/defaults/
+-rw-rw-r-- root/root       146 2018-09-15 11:32 ansible-shadowsocks-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-15 11:32 ansible-shadowsocks-master/handlers/
+-rw-rw-r-- root/root        87 2018-09-15 11:32 ansible-shadowsocks-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-15 11:32 ansible-shadowsocks-master/meta/
+-rw-rw-r-- root/root       335 2018-09-15 11:32 ansible-shadowsocks-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-15 11:32 ansible-shadowsocks-master/tasks/
+-rw-rw-r-- root/root      1650 2018-09-15 11:32 ansible-shadowsocks-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-15 11:32 ansible-shadowsocks-master/templates/
+-rw-rw-r-- root/root       431 2018-09-15 11:32 ansible-shadowsocks-master/templates/config.json.j2
+-rw-rw-r-- root/root       564 2018-09-15 11:32 ansible-shadowsocks-master/templates/shadowsocks-init.j2
+drwxrwxr-x root/root         0 2018-09-15 11:32 ansible-shadowsocks-master/vars/
+-rw-rw-r-- root/root       220 2018-09-15 11:32 ansible-shadowsocks-master/vars/main.yml

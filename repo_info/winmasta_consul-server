@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-04 09:08 consul-server-master/
+-rw-rw-r-- root/root      1483 2018-02-04 09:08 consul-server-master/.travis.yml
+-rw-rw-r-- root/root      2916 2018-02-04 09:08 consul-server-master/README.md
+drwxrwxr-x root/root         0 2018-02-04 09:08 consul-server-master/defaults/
+-rw-rw-r-- root/root       114 2018-02-04 09:08 consul-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-04 09:08 consul-server-master/meta/
+-rw-rw-r-- root/root       352 2018-02-04 09:08 consul-server-master/meta/main.yml
+-rw-rw-r-- root/root        71 2018-02-04 09:08 consul-server-master/requirements.yml
+drwxrwxr-x root/root         0 2018-02-04 09:08 consul-server-master/tasks/
+-rw-rw-r-- root/root      1007 2018-02-04 09:08 consul-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-04 09:08 consul-server-master/templates/
+-rw-rw-r-- root/root       719 2018-02-04 09:08 consul-server-master/templates/ca.j2
+-rw-rw-r-- root/root       492 2018-02-04 09:08 consul-server-master/templates/consul.j2
+drwxrwxr-x root/root         0 2018-02-04 09:08 consul-server-master/tests/
+-rw-rw-r-- root/root        11 2018-02-04 09:08 consul-server-master/tests/inventory
+-rw-rw-r-- root/root       188 2018-02-04 09:08 consul-server-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-25 22:11 ansible-role-azure-cli-master/
+-rw-rw-r-- root/root        34 2018-07-25 22:11 ansible-role-azure-cli-master/.gitignore
+-rw-rw-r-- root/root       623 2018-07-25 22:11 ansible-role-azure-cli-master/.travis.yml
+-rw-rw-r-- root/root       514 2018-07-25 22:11 ansible-role-azure-cli-master/README.md
+drwxrwxr-x root/root         0 2018-07-25 22:11 ansible-role-azure-cli-master/defaults/
+-rw-rw-r-- root/root       345 2018-07-25 22:11 ansible-role-azure-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-25 22:11 ansible-role-azure-cli-master/meta/
+-rw-rw-r-- root/root       402 2018-07-25 22:11 ansible-role-azure-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-25 22:11 ansible-role-azure-cli-master/tasks/
+-rw-rw-r-- root/root       696 2018-07-25 22:11 ansible-role-azure-cli-master/tasks/Debian.yml
+-rw-rw-r-- root/root       145 2018-07-25 22:11 ansible-role-azure-cli-master/tasks/MacOSX.yml
+-rw-rw-r-- root/root       366 2018-07-25 22:11 ansible-role-azure-cli-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       421 2018-07-25 22:11 ansible-role-azure-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-25 22:11 ansible-role-azure-cli-master/tests/
+-rw-rw-r-- root/root       832 2018-07-25 22:11 ansible-role-azure-cli-master/tests/README.md
+-rw-rw-r-- root/root       189 2018-07-25 22:11 ansible-role-azure-cli-master/tests/test.yml

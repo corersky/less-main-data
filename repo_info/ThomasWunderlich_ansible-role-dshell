@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-02-05 22:34 ansible-role-dshell-master/
+-rw-rw-r-- root/root        10 2015-02-05 22:34 ansible-role-dshell-master/.gitignore
+-rw-rw-r-- root/root       834 2015-02-05 22:34 ansible-role-dshell-master/.travis.yml
+-rw-rw-r-- root/root       381 2015-02-05 22:34 ansible-role-dshell-master/README.md
+-rw-rw-r-- root/root       739 2015-02-05 22:34 ansible-role-dshell-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-02-05 22:34 ansible-role-dshell-master/meta/
+-rw-rw-r-- root/root       186 2015-02-05 22:34 ansible-role-dshell-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-05 22:34 ansible-role-dshell-master/tasks/
+-rw-rw-r-- root/root      1670 2015-02-05 22:34 ansible-role-dshell-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-05 22:34 ansible-role-dshell-master/tests/
+-rw-rw-r-- root/root        10 2015-02-05 22:34 ansible-role-dshell-master/tests/inventory
+-rw-rw-r-- root/root        88 2015-02-05 22:34 ansible-role-dshell-master/tests/test.yml

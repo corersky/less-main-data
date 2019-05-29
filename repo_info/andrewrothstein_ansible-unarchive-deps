@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-unarchive-deps-master/
+-rw-rw-r-- root/root        33 2019-05-15 17:38 ansible-unarchive-deps-master/.gitignore
+-rw-rw-r-- root/root       669 2019-05-15 17:38 ansible-unarchive-deps-master/.travis.yml
+-rw-rw-r-- root/root      1084 2019-05-15 17:38 ansible-unarchive-deps-master/LICENSE
+-rw-rw-r-- root/root       480 2019-05-15 17:38 ansible-unarchive-deps-master/README.md
+-rw-rw-r-- root/root       293 2019-05-15 17:38 ansible-unarchive-deps-master/dcb-os.yml
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-unarchive-deps-master/defaults/
+-rw-rw-r-- root/root        58 2019-05-15 17:38 ansible-unarchive-deps-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-unarchive-deps-master/meta/
+-rw-rw-r-- root/root       573 2019-05-15 17:38 ansible-unarchive-deps-master/meta/main.yml
+-rw-rw-r-- root/root        49 2019-05-15 17:38 ansible-unarchive-deps-master/requirements.txt
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-unarchive-deps-master/tasks/
+-rw-rw-r-- root/root       658 2019-05-15 17:38 ansible-unarchive-deps-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2019-05-15 17:38 ansible-unarchive-deps-master/test.yml
+drwxrwxr-x root/root         0 2019-05-15 17:38 ansible-unarchive-deps-master/vars/
+-rw-rw-r-- root/root        79 2019-05-15 17:38 ansible-unarchive-deps-master/vars/Darwin.yml
+-rw-rw-r-- root/root        36 2019-05-15 17:38 ansible-unarchive-deps-master/vars/Debian.yml

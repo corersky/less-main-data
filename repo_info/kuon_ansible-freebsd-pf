@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-18 06:45 ansible-freebsd-pf-master/
+-rw-rw-r-- root/root      1078 2017-08-18 06:45 ansible-freebsd-pf-master/LICENSE
+-rw-rw-r-- root/root      1551 2017-08-18 06:45 ansible-freebsd-pf-master/README.md
+drwxrwxr-x root/root         0 2017-08-18 06:45 ansible-freebsd-pf-master/defaults/
+-rw-rw-r-- root/root       119 2017-08-18 06:45 ansible-freebsd-pf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-18 06:45 ansible-freebsd-pf-master/handlers/
+-rw-rw-r-- root/root        35 2017-08-18 06:45 ansible-freebsd-pf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-18 06:45 ansible-freebsd-pf-master/meta/
+-rw-rw-r-- root/root       579 2017-08-18 06:45 ansible-freebsd-pf-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-18 06:45 ansible-freebsd-pf-master/tasks/
+-rw-rw-r-- root/root      1495 2017-08-18 06:45 ansible-freebsd-pf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-18 06:45 ansible-freebsd-pf-master/templates/
+-rw-rw-r-- root/root      3690 2017-08-18 06:45 ansible-freebsd-pf-master/templates/pf.conf.j2
+drwxrwxr-x root/root         0 2017-08-18 06:45 ansible-freebsd-pf-master/vars/
+-rw-rw-r-- root/root        31 2017-08-18 06:45 ansible-freebsd-pf-master/vars/main.yml

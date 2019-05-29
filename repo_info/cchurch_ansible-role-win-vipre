@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2017-07-05 15:33 ansible-role-win-vipre-master/
+-rw-rw-r-- root/root        89 2017-07-05 15:33 ansible-role-win-vipre-master/.bumpversion.cfg
+-rw-rw-r-- root/root         8 2017-07-05 15:33 ansible-role-win-vipre-master/.gitignore
+-rw-rw-r-- root/root       242 2017-07-05 15:33 ansible-role-win-vipre-master/.travis.yml
+-rw-rw-r-- root/root      6481 2017-07-05 15:33 ansible-role-win-vipre-master/README.md
+drwxrwxr-x root/root         0 2017-07-05 15:33 ansible-role-win-vipre-master/defaults/
+-rw-rw-r-- root/root      1194 2017-07-05 15:33 ansible-role-win-vipre-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-05 15:33 ansible-role-win-vipre-master/meta/
+-rw-rw-r-- root/root       380 2017-07-05 15:33 ansible-role-win-vipre-master/meta/main.yml
+-rw-rw-r-- root/root        64 2017-07-05 15:33 ansible-role-win-vipre-master/requirements.txt
+drwxrwxr-x root/root         0 2017-07-05 15:33 ansible-role-win-vipre-master/tasks/
+-rw-rw-r-- root/root      2951 2017-07-05 15:33 ansible-role-win-vipre-master/tasks/backup.yml
+-rw-rw-r-- root/root      1284 2017-07-05 15:33 ansible-role-win-vipre-master/tasks/check.yml
+-rw-rw-r-- root/root      1287 2017-07-05 15:33 ansible-role-win-vipre-master/tasks/install.yml
+-rw-rw-r-- root/root       497 2017-07-05 15:33 ansible-role-win-vipre-master/tasks/main.yml
+-rw-rw-r-- root/root      2131 2017-07-05 15:33 ansible-role-win-vipre-master/tasks/restore.yml
+-rw-rw-r-- root/root       493 2017-07-05 15:33 ansible-role-win-vipre-master/tasks/uninstall.yml
+drwxrwxr-x root/root         0 2017-07-05 15:33 ansible-role-win-vipre-master/templates/
+-rw-rw-r-- root/root        92 2017-07-05 15:33 ansible-role-win-vipre-master/templates/backup.ini.j2
+drwxrwxr-x root/root         0 2017-07-05 15:33 ansible-role-win-vipre-master/test/
+lrwxrwxrwx root/root         0 2017-07-05 15:33 ansible-role-win-vipre-master/test/cchurch.vipre -> ..
+-rw-rw-r-- root/root        92 2017-07-05 15:33 ansible-role-win-vipre-master/test/local
+-rw-rw-r-- root/root        86 2017-07-05 15:33 ansible-role-win-vipre-master/test/main.yml
+drwxrwxr-x root/root         0 2017-07-05 15:33 ansible-role-win-vipre-master/vars/
+-rw-rw-r-- root/root      2366 2017-07-05 15:33 ansible-role-win-vipre-master/vars/main.yml

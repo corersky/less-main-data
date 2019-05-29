@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-22 05:00 ansible-tests-master/
+-rw-rw-r-- root/root        71 2018-04-22 05:00 ansible-tests-master/.gitignore
+-rw-rw-r-- root/root       528 2018-04-22 05:00 ansible-tests-master/.travis.yml
+drwxrwxr-x root/root         0 2018-04-22 05:00 ansible-tests-master/.travis/
+-rwxrwxr-x root/root       607 2018-04-22 05:00 ansible-tests-master/.travis/generatetag.sh
+-rwxrwxr-x root/root      1966 2018-04-22 05:00 ansible-tests-master/.travis/notification.sh
+-rw-rw-r-- root/root       799 2018-04-22 05:00 ansible-tests-master/README.md
+drwxrwxr-x root/root         0 2018-04-22 05:00 ansible-tests-master/meta/
+-rw-rw-r-- root/root       271 2018-04-22 05:00 ansible-tests-master/meta/main.yml
+-rw-rw-r-- root/root       183 2018-04-22 05:00 ansible-tests-master/molecule.yml
+drwxrwxr-x root/root         0 2018-04-22 05:00 ansible-tests-master/tasks/
+-rw-rw-r-- root/root        85 2018-04-22 05:00 ansible-tests-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-22 05:00 ansible-tests-master/tests/
+-rw-rw-r-- root/root        46 2018-04-22 05:00 ansible-tests-master/tests/playbook.yml
+-rw-rw-r-- root/root       206 2018-04-22 05:00 ansible-tests-master/tests/test_default.py

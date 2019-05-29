@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-25 20:05 ansible-role-python-xpyb-master/
+-rw-rw-r-- root/root         3 2019-03-25 20:05 ansible-role-python-xpyb-master/.gitignore
+-rw-rw-r-- root/root      2817 2019-03-25 20:05 ansible-role-python-xpyb-master/.travis.yml
+-rw-rw-r-- root/root       540 2019-03-25 20:05 ansible-role-python-xpyb-master/README.md
+-rw-rw-r-- root/root       391 2019-03-25 20:05 ansible-role-python-xpyb-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-25 20:05 ansible-role-python-xpyb-master/meta/
+-rw-rw-r-- root/root      3513 2019-03-25 20:05 ansible-role-python-xpyb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 20:05 ansible-role-python-xpyb-master/tasks/
+-rw-rw-r-- root/root         4 2019-03-25 20:05 ansible-role-python-xpyb-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3550 2019-03-25 20:05 ansible-role-python-xpyb-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-25 20:05 ansible-role-python-xpyb-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       974 2019-03-25 20:05 ansible-role-python-xpyb-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       154 2019-03-25 20:05 ansible-role-python-xpyb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-25 20:05 ansible-role-python-xpyb-master/vars/
+-rw-rw-r-- root/root        33 2019-03-25 20:05 ansible-role-python-xpyb-master/vars/default.yml
+-rw-rw-r-- root/root         4 2019-03-25 20:05 ansible-role-python-xpyb-master/vars/main.yml

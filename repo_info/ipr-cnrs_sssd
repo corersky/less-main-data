@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/
+-rw-rw-r-- root/root      1569 2019-03-12 08:07 sssd-master/CHANGELOG.md
+-rw-rw-r-- root/root      4514 2019-03-12 08:07 sssd-master/README.md
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/defaults/
+-rw-rw-r-- root/root      2028 2019-03-12 08:07 sssd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/handlers/
+-rw-rw-r-- root/root       208 2019-03-12 08:07 sssd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/meta/
+-rw-rw-r-- root/root       415 2019-03-12 08:07 sssd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/tasks/
+-rw-rw-r-- root/root      2568 2019-03-12 08:07 sssd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/templates/
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/templates/etc/
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/templates/etc/sssd/
+-rw-rw-r-- root/root      1349 2019-03-12 08:07 sssd-master/templates/etc/sssd/sssd.conf.j2
+drwxrwxr-x root/root         0 2019-03-12 08:07 sssd-master/vars/
+-rw-rw-r-- root/root       181 2019-03-12 08:07 sssd-master/vars/debian.yml

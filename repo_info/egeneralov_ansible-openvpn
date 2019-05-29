@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-13 03:26 ansible-openvpn-master/
+-rw-rw-r-- root/root       905 2018-05-13 03:26 ansible-openvpn-master/README.md
+drwxrwxr-x root/root         0 2018-05-13 03:26 ansible-openvpn-master/defaults/
+-rw-rw-r-- root/root       151 2018-05-13 03:26 ansible-openvpn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-13 03:26 ansible-openvpn-master/meta/
+-rw-rw-r-- root/root       340 2018-05-13 03:26 ansible-openvpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-13 03:26 ansible-openvpn-master/tasks/
+-rw-rw-r-- root/root      1938 2018-05-13 03:26 ansible-openvpn-master/tasks/client.yml
+-rw-rw-r-- root/root      5529 2018-05-13 03:26 ansible-openvpn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-13 03:26 ansible-openvpn-master/templates/
+-rw-rw-r-- root/root       411 2018-05-13 03:26 ansible-openvpn-master/templates/tcp.client.ovpn.j2
+-rw-rw-r-- root/root       558 2018-05-13 03:26 ansible-openvpn-master/templates/tcp.server.conf.j2
+-rw-rw-r-- root/root       411 2018-05-13 03:26 ansible-openvpn-master/templates/udp.client.ovpn.j2
+-rw-rw-r-- root/root       582 2018-05-13 03:26 ansible-openvpn-master/templates/udp.server.conf.j2
+drwxrwxr-x root/root         0 2018-05-13 03:26 ansible-openvpn-master/tests/
+-rw-rw-r-- root/root        11 2018-05-13 03:26 ansible-openvpn-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-05-13 03:26 ansible-openvpn-master/tests/test.yml

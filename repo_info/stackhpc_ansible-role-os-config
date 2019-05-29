@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-04 15:21 ansible-role-os-config-master/
+-rw-rw-r-- root/root       645 2018-09-04 15:21 ansible-role-os-config-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-09-04 15:21 ansible-role-os-config-master/LICENSE
+-rw-rw-r-- root/root      1914 2018-09-04 15:21 ansible-role-os-config-master/README.md
+-rw-rw-r-- root/root        25 2018-09-04 15:21 ansible-role-os-config-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-09-04 15:21 ansible-role-os-config-master/defaults/
+-rw-rw-r-- root/root       393 2018-09-04 15:21 ansible-role-os-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:21 ansible-role-os-config-master/meta/
+-rw-rw-r-- root/root       510 2018-09-04 15:21 ansible-role-os-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:21 ansible-role-os-config-master/tasks/
+-rw-rw-r-- root/root       401 2018-09-04 15:21 ansible-role-os-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-04 15:21 ansible-role-os-config-master/tests/
+-rw-rw-r-- root/root        11 2018-09-04 15:21 ansible-role-os-config-master/tests/inventory
+-rw-rw-r-- root/root        88 2018-09-04 15:21 ansible-role-os-config-master/tests/test.yml

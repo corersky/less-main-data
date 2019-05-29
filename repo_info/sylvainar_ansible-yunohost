@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-11-21 11:43 ansible-yunohost-master/
+-rw-rw-r-- root/root     35141 2017-11-21 11:43 ansible-yunohost-master/LICENSE
+-rw-rw-r-- root/root      1419 2017-11-21 11:43 ansible-yunohost-master/README.md
+drwxrwxr-x root/root         0 2017-11-21 11:43 ansible-yunohost-master/default/
+-rw-rw-r-- root/root       243 2017-11-21 11:43 ansible-yunohost-master/default/main.yml
+drwxrwxr-x root/root         0 2017-11-21 11:43 ansible-yunohost-master/meta/
+-rw-rw-r-- root/root       261 2017-11-21 11:43 ansible-yunohost-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-21 11:43 ansible-yunohost-master/tasks/
+-rw-rw-r-- root/root       571 2017-11-21 11:43 ansible-yunohost-master/tasks/apps.yml
+-rw-rw-r-- root/root       491 2017-11-21 11:43 ansible-yunohost-master/tasks/domains.yml
+-rw-rw-r-- root/root      1099 2017-11-21 11:43 ansible-yunohost-master/tasks/main.yml
+-rw-rw-r-- root/root       590 2017-11-21 11:43 ansible-yunohost-master/tasks/users.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-05 16:31 ansible-install-nodejs-master/
+-rw-rw-r-- root/root       419 2019-04-05 16:31 ansible-install-nodejs-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 16:31 ansible-install-nodejs-master/defaults/
+-rw-rw-r-- root/root        46 2019-04-05 16:31 ansible-install-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-05 16:31 ansible-install-nodejs-master/handlers/
+-rw-rw-r-- root/root        46 2019-04-05 16:31 ansible-install-nodejs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-05 16:31 ansible-install-nodejs-master/meta/
+-rw-rw-r-- root/root       251 2019-04-05 16:31 ansible-install-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 16:31 ansible-install-nodejs-master/tasks/
+-rw-rw-r-- root/root       942 2019-04-05 16:31 ansible-install-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-05 16:31 ansible-install-nodejs-master/tests/
+-rw-rw-r-- root/root        11 2019-04-05 16:31 ansible-install-nodejs-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-04-05 16:31 ansible-install-nodejs-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-05 16:31 ansible-install-nodejs-master/vars/
+-rw-rw-r-- root/root        42 2019-04-05 16:31 ansible-install-nodejs-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-07 13:04 ansible-role-discord-master/
+drwxrwxr-x root/root         0 2018-11-07 13:04 ansible-role-discord-master/.circleci/
+-rw-rw-r-- root/root      2327 2018-11-07 13:04 ansible-role-discord-master/.circleci/config.yml
+-rw-rw-r-- root/root       747 2018-11-07 13:04 ansible-role-discord-master/.travis.yml
+-rw-rw-r-- root/root      1500 2018-11-07 13:04 ansible-role-discord-master/LICENSE
+-rw-rw-r-- root/root       812 2018-11-07 13:04 ansible-role-discord-master/README.md
+drwxrwxr-x root/root         0 2018-11-07 13:04 ansible-role-discord-master/defaults/
+-rw-rw-r-- root/root        89 2018-11-07 13:04 ansible-role-discord-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-07 13:04 ansible-role-discord-master/meta/
+-rw-rw-r-- root/root       401 2018-11-07 13:04 ansible-role-discord-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-07 13:04 ansible-role-discord-master/tasks/
+-rw-rw-r-- root/root       710 2018-11-07 13:04 ansible-role-discord-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-07 13:04 ansible-role-discord-master/tests/
+-rw-rw-r-- root/root        36 2018-11-07 13:04 ansible-role-discord-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-11-07 13:04 ansible-role-discord-master/tests/test.yml

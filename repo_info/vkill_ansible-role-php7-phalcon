@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-07 21:18 ansible-role-php7-phalcon-master/
+-rw-rw-r-- root/root        44 2016-07-07 21:18 ansible-role-php7-phalcon-master/.gitignore
+-rw-rw-r-- root/root       709 2016-07-07 21:18 ansible-role-php7-phalcon-master/.travis.yml
+-rw-rw-r-- root/root      1831 2016-07-07 21:18 ansible-role-php7-phalcon-master/README.md
+-rw-rw-r-- root/root       480 2016-07-07 21:18 ansible-role-php7-phalcon-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-07-07 21:18 ansible-role-php7-phalcon-master/defaults/
+-rw-rw-r-- root/root      1115 2016-07-07 21:18 ansible-role-php7-phalcon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-07 21:18 ansible-role-php7-phalcon-master/meta/
+-rw-rw-r-- root/root       277 2016-07-07 21:18 ansible-role-php7-phalcon-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-07 21:18 ansible-role-php7-phalcon-master/tasks/
+-rw-rw-r-- root/root      2060 2016-07-07 21:18 ansible-role-php7-phalcon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-07 21:18 ansible-role-php7-phalcon-master/templates/
+-rw-rw-r-- root/root        74 2016-07-07 21:18 ansible-role-php7-phalcon-master/templates/phalcon.ini.j2
+drwxrwxr-x root/root         0 2016-07-07 21:18 ansible-role-php7-phalcon-master/tests/
+-rw-rw-r-- root/root         9 2016-07-07 21:18 ansible-role-php7-phalcon-master/tests/inventory
+-rw-rw-r-- root/root       894 2016-07-07 21:18 ansible-role-php7-phalcon-master/tests/test.yml
+-rw-rw-r-- root/root       870 2016-07-07 21:18 ansible-role-php7-phalcon-master/vagrant_playbook.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-16 16:47 pg_compiler-master/
+-rw-rw-r-- root/root      1106 2019-01-16 16:47 pg_compiler-master/LICENSE
+-rw-rw-r-- root/root      2020 2019-01-16 16:47 pg_compiler-master/README.md
+drwxrwxr-x root/root         0 2019-01-16 16:47 pg_compiler-master/defaults/
+-rw-rw-r-- root/root       161 2019-01-16 16:47 pg_compiler-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-16 16:47 pg_compiler-master/files/
+drwxrwxr-x root/root         0 2019-01-16 16:47 pg_compiler-master/files/src/
+-rw-rw-r-- root/root       805 2019-01-16 16:47 pg_compiler-master/files/src/ioannis.mk
+drwxrwxr-x root/root         0 2019-01-16 16:47 pg_compiler-master/meta/
+-rw-rw-r-- root/root       460 2019-01-16 16:47 pg_compiler-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-16 16:47 pg_compiler-master/tasks/
+-rw-rw-r-- root/root      1800 2019-01-16 16:47 pg_compiler-master/tasks/Darwin.yml
+-rw-rw-r-- root/root       882 2019-01-16 16:47 pg_compiler-master/tasks/Debian.yml
+-rw-rw-r-- root/root      1324 2019-01-16 16:47 pg_compiler-master/tasks/FreeBSD.yml
+-rw-rw-r-- root/root      3699 2019-01-16 16:47 pg_compiler-master/tasks/compile.yml
+-rw-rw-r-- root/root      1368 2019-01-16 16:47 pg_compiler-master/tasks/github_repos.yml
+-rw-rw-r-- root/root       186 2019-01-16 16:47 pg_compiler-master/tasks/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-09 15:24 ansible-icingaclassic-cgi-master/
+-rw-rw-r-- root/root       315 2017-12-09 15:24 ansible-icingaclassic-cgi-master/README.md
+drwxrwxr-x root/root         0 2017-12-09 15:24 ansible-icingaclassic-cgi-master/defaults/
+-rw-rw-r-- root/root      1168 2017-12-09 15:24 ansible-icingaclassic-cgi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-09 15:24 ansible-icingaclassic-cgi-master/handlers/
+-rw-rw-r-- root/root       174 2017-12-09 15:24 ansible-icingaclassic-cgi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-09 15:24 ansible-icingaclassic-cgi-master/meta/
+-rw-rw-r-- root/root       267 2017-12-09 15:24 ansible-icingaclassic-cgi-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-09 15:24 ansible-icingaclassic-cgi-master/tasks/
+-rw-rw-r-- root/root       541 2017-12-09 15:24 ansible-icingaclassic-cgi-master/tasks/main.yml
+-rw-rw-r-- root/root      1065 2017-12-09 15:24 ansible-icingaclassic-cgi-master/tasks/setup-cgi-uwsgi.yml
+drwxrwxr-x root/root         0 2017-12-09 15:24 ansible-icingaclassic-cgi-master/templates/
+-rw-rw-r-- root/root      2446 2017-12-09 15:24 ansible-icingaclassic-cgi-master/templates/cgi.cfg.j2
+-rw-rw-r-- root/root       454 2017-12-09 15:24 ansible-icingaclassic-cgi-master/templates/icingaclassic-service.ini.j2
+-rw-rw-r-- root/root       688 2017-12-09 15:24 ansible-icingaclassic-cgi-master/templates/icingaclassic-uwsgi.ini.j2

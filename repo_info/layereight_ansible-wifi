@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-18 18:13 ansible-wifi-master/
+-rw-rw-r-- root/root      2149 2018-08-18 18:13 ansible-wifi-master/README.md
+-rw-rw-r-- root/root       236 2018-08-18 18:13 ansible-wifi-master/apb.yml
+drwxrwxr-x root/root         0 2018-08-18 18:13 ansible-wifi-master/defaults/
+-rw-rw-r-- root/root       185 2018-08-18 18:13 ansible-wifi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-18 18:13 ansible-wifi-master/handlers/
+-rw-rw-r-- root/root       206 2018-08-18 18:13 ansible-wifi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-18 18:13 ansible-wifi-master/meta/
+-rw-rw-r-- root/root       371 2018-08-18 18:13 ansible-wifi-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-18 18:13 ansible-wifi-master/tasks/
+-rw-rw-r-- root/root        45 2018-08-18 18:13 ansible-wifi-master/tasks/main.yml
+-rw-rw-r-- root/root       837 2018-08-18 18:13 ansible-wifi-master/tasks/wifi.yml
+drwxrwxr-x root/root         0 2018-08-18 18:13 ansible-wifi-master/templates/
+-rw-rw-r-- root/root       215 2018-08-18 18:13 ansible-wifi-master/templates/wpa_supplicant.conf.j2

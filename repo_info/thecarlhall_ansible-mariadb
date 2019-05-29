@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-01-18 19:10 ansible-mariadb-master/
+-rw-rw-r-- root/root     11325 2014-01-18 19:10 ansible-mariadb-master/LICENSE
+-rw-rw-r-- root/root       726 2014-01-18 19:10 ansible-mariadb-master/README.md
+drwxrwxr-x root/root         0 2014-01-18 19:10 ansible-mariadb-master/meta/
+-rw-rw-r-- root/root       303 2014-01-18 19:10 ansible-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-18 19:10 ansible-mariadb-master/tasks/
+-rw-rw-r-- root/root       475 2014-01-18 19:10 ansible-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-18 19:10 ansible-mariadb-master/vars/
+-rw-rw-r-- root/root       125 2014-01-18 19:10 ansible-mariadb-master/vars/debian.yml
+-rw-rw-r-- root/root       153 2014-01-18 19:10 ansible-mariadb-master/vars/ubuntu.yml

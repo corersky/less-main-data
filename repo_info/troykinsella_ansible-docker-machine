@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-04-23 23:16 ansible-docker-machine-master/
+-rw-rw-r-- root/root         6 2016-04-23 23:16 ansible-docker-machine-master/.gitignore
+-rw-rw-r-- root/root      1080 2016-04-23 23:16 ansible-docker-machine-master/LICENSE
+-rw-rw-r-- root/root      1094 2016-04-23 23:16 ansible-docker-machine-master/README.md
+drwxrwxr-x root/root         0 2016-04-23 23:16 ansible-docker-machine-master/defaults/
+-rw-rw-r-- root/root       430 2016-04-23 23:16 ansible-docker-machine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-23 23:16 ansible-docker-machine-master/meta/
+-rw-rw-r-- root/root       394 2016-04-23 23:16 ansible-docker-machine-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-23 23:16 ansible-docker-machine-master/tasks/
+-rw-rw-r-- root/root       333 2016-04-23 23:16 ansible-docker-machine-master/tasks/install.yml
+-rw-rw-r-- root/root        27 2016-04-23 23:16 ansible-docker-machine-master/tasks/main.yml

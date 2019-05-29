@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-09-18 18:55 ansible-newrelic-master/
+-rw-rw-r-- root/root      1066 2015-09-18 18:55 ansible-newrelic-master/LICENSE
+-rw-rw-r-- root/root      1200 2015-09-18 18:55 ansible-newrelic-master/README.md
+drwxrwxr-x root/root         0 2015-09-18 18:55 ansible-newrelic-master/defaults/
+-rw-rw-r-- root/root       252 2015-09-18 18:55 ansible-newrelic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-18 18:55 ansible-newrelic-master/meta/
+-rw-rw-r-- root/root       417 2015-09-18 18:55 ansible-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-18 18:55 ansible-newrelic-master/tasks/
+-rw-rw-r-- root/root      2323 2015-09-18 18:55 ansible-newrelic-master/tasks/configure.yml
+-rw-rw-r-- root/root      1051 2015-09-18 18:55 ansible-newrelic-master/tasks/install.yml
+-rw-rw-r-- root/root       145 2015-09-18 18:55 ansible-newrelic-master/tasks/main.yml
+-rw-rw-r-- root/root       173 2015-09-18 18:55 ansible-newrelic-master/tasks/services.yml

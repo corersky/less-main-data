@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-30 16:42 ansible-nginx-master/
+-rw-rw-r-- root/root        15 2016-11-30 16:42 ansible-nginx-master/.gitignore
+-rw-rw-r-- root/root        39 2016-11-30 16:42 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2016-11-30 16:42 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root      1709 2016-11-30 16:42 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-30 16:42 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root        60 2016-11-30 16:42 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-30 16:42 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       236 2016-11-30 16:42 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-30 16:42 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root       144 2016-11-30 16:42 ansible-nginx-master/tasks/create.yml
+-rw-rw-r-- root/root       321 2016-11-30 16:42 ansible-nginx-master/tasks/deploy.yml
+-rw-rw-r-- root/root        28 2016-11-30 16:42 ansible-nginx-master/tasks/main.yml
+-rw-rw-r-- root/root      1125 2016-11-30 16:42 ansible-nginx-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2016-11-30 16:42 ansible-nginx-master/templates/
+-rw-rw-r-- root/root      2190 2016-11-30 16:42 ansible-nginx-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root       212 2016-11-30 16:42 ansible-nginx-master/templates/proxy_pass.conf.j2

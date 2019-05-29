@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-13 18:28 ansible-role-unrealircd-master/
+-rw-rw-r-- root/root       779 2017-11-13 18:28 ansible-role-unrealircd-master/.travis.yml
+-rw-rw-r-- root/root      1312 2017-11-13 18:28 ansible-role-unrealircd-master/LICENSE
+-rw-rw-r-- root/root      1637 2017-11-13 18:28 ansible-role-unrealircd-master/README.md
+drwxrwxr-x root/root         0 2017-11-13 18:28 ansible-role-unrealircd-master/defaults/
+-rw-rw-r-- root/root       212 2017-11-13 18:28 ansible-role-unrealircd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-13 18:28 ansible-role-unrealircd-master/meta/
+-rw-rw-r-- root/root       267 2017-11-13 18:28 ansible-role-unrealircd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-13 18:28 ansible-role-unrealircd-master/tasks/
+-rw-rw-r-- root/root      1504 2017-11-13 18:28 ansible-role-unrealircd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-13 18:28 ansible-role-unrealircd-master/templates/
+-rw-rw-r-- root/root       840 2017-11-13 18:28 ansible-role-unrealircd-master/templates/config_settings.j2
+drwxrwxr-x root/root         0 2017-11-13 18:28 ansible-role-unrealircd-master/tests/
+-rw-rw-r-- root/root        11 2017-11-13 18:28 ansible-role-unrealircd-master/tests/inventory
+-rw-rw-r-- root/root       146 2017-11-13 18:28 ansible-role-unrealircd-master/tests/test.yml

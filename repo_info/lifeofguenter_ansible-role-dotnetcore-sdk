@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/
+-rw-rw-r-- root/root        10 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/.gitignore
+-rw-rw-r-- root/root       942 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/.travis.yml
+-rw-rw-r-- root/root      1084 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/LICENSE
+-rw-rw-r-- root/root       535 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/README.md
+drwxrwxr-x root/root         0 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/meta/
+-rw-rw-r-- root/root       362 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/tasks/
+-rw-rw-r-- root/root      1044 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/tasks/install.yml
+-rw-rw-r-- root/root        28 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/tests/
+-rw-rw-r-- root/root        10 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/tests/inventory
+-rw-rw-r-- root/root        87 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/vars/
+-rw-rw-r-- root/root        95 2017-10-12 05:26 ansible-role-dotnetcore-sdk-master/vars/main.yml

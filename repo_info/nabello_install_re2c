@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-26 17:39 install_re2c-master/
+-rw-rw-r-- root/root      1328 2018-11-26 17:39 install_re2c-master/README.md
+drwxrwxr-x root/root         0 2018-11-26 17:39 install_re2c-master/defaults/
+-rw-rw-r-- root/root       207 2018-11-26 17:39 install_re2c-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-26 17:39 install_re2c-master/handlers/
+-rw-rw-r-- root/root        36 2018-11-26 17:39 install_re2c-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-26 17:39 install_re2c-master/meta/
+-rw-rw-r-- root/root      1866 2018-11-26 17:39 install_re2c-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-26 17:39 install_re2c-master/tasks/
+drwxrwxr-x root/root         0 2018-11-26 17:39 install_re2c-master/tasks/Common/
+-rw-rw-r-- root/root       766 2018-11-26 17:39 install_re2c-master/tasks/Common/deploy_re2c.yml
+-rw-rw-r-- root/root       142 2018-11-26 17:39 install_re2c-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-26 17:39 install_re2c-master/tests/
+-rw-rw-r-- root/root        11 2018-11-26 17:39 install_re2c-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-11-26 17:39 install_re2c-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-26 17:39 install_re2c-master/vars/
+-rw-rw-r-- root/root        32 2018-11-26 17:39 install_re2c-master/vars/main.yml

@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2018-04-02 21:49 ansible-role-bind-master/
+-rw-rw-r-- root/root       663 2018-04-02 21:49 ansible-role-bind-master/.rubocop.yml
+-rw-rw-r-- root/root       204 2018-04-02 21:49 ansible-role-bind-master/.travis.yml
+-rw-rw-r-- root/root       115 2018-04-02 21:49 ansible-role-bind-master/Gemfile
+-rw-rw-r-- root/root     11357 2018-04-02 21:49 ansible-role-bind-master/LICENSE
+-rw-rw-r-- root/root      2017 2018-04-02 21:49 ansible-role-bind-master/README.md
+-rw-rw-r-- root/root       703 2018-04-02 21:49 ansible-role-bind-master/Rakefile
+drwxrwxr-x root/root         0 2018-04-02 21:49 ansible-role-bind-master/handlers/
+-rw-rw-r-- root/root       150 2018-04-02 21:49 ansible-role-bind-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-02 21:49 ansible-role-bind-master/meta/
+-rw-rw-r-- root/root       279 2018-04-02 21:49 ansible-role-bind-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-02 21:49 ansible-role-bind-master/spec/
+-rw-rw-r-- root/root       705 2018-04-02 21:49 ansible-role-bind-master/spec/bind.rb
+drwxrwxr-x root/root         0 2018-04-02 21:49 ansible-role-bind-master/tasks/
+-rw-rw-r-- root/root      2568 2018-04-02 21:49 ansible-role-bind-master/tasks/keys.yml
+-rw-rw-r-- root/root      1025 2018-04-02 21:49 ansible-role-bind-master/tasks/main.yml
+-rw-rw-r-- root/root       873 2018-04-02 21:49 ansible-role-bind-master/tasks/zone.yml
+drwxrwxr-x root/root         0 2018-04-02 21:49 ansible-role-bind-master/templates/
+-rw-rw-r-- root/root       930 2018-04-02 21:49 ansible-role-bind-master/templates/db.j2
+-rwxrwxr-x root/root       334 2018-04-02 21:49 ansible-role-bind-master/templates/dnssec.j2
+-rw-rw-r-- root/root       366 2018-04-02 21:49 ansible-role-bind-master/templates/named.conf.j2
+-rw-rw-r-- root/root       830 2018-04-02 21:49 ansible-role-bind-master/templates/named.conf.local.j2
+-rw-rw-r-- root/root       242 2018-04-02 21:49 ansible-role-bind-master/templates/named.conf.options.j2
+drwxrwxr-x root/root         0 2018-04-02 21:49 ansible-role-bind-master/tests/
+lrwxrwxrwx root/root         0 2018-04-02 21:49 ansible-role-bind-master/tests/bind -> ..
+-rw-rw-r-- root/root       887 2018-04-02 21:49 ansible-role-bind-master/tests/bind.yml
+-rw-rw-r-- root/root        10 2018-04-02 21:49 ansible-role-bind-master/tests/inventory

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-24 17:22 ansible-role-ssh-keys-master/
+-rw-rw-r-- root/root        58 2019-02-24 17:22 ansible-role-ssh-keys-master/.gitignore
+-rw-rw-r-- root/root       541 2019-02-24 17:22 ansible-role-ssh-keys-master/.travis.yml
+-rw-rw-r-- root/root      1258 2019-02-24 17:22 ansible-role-ssh-keys-master/README.md
+drwxrwxr-x root/root         0 2019-02-24 17:22 ansible-role-ssh-keys-master/meta/
+-rw-rw-r-- root/root       262 2019-02-24 17:22 ansible-role-ssh-keys-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-24 17:22 ansible-role-ssh-keys-master/tasks/
+-rw-rw-r-- root/root       405 2019-02-24 17:22 ansible-role-ssh-keys-master/tasks/install.yml
+-rw-rw-r-- root/root       254 2019-02-24 17:22 ansible-role-ssh-keys-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-24 17:22 ansible-role-ssh-keys-master/templates/
+-rw-rw-r-- root/root        22 2019-02-24 17:22 ansible-role-ssh-keys-master/templates/id.j2
+-rw-rw-r-- root/root        21 2019-02-24 17:22 ansible-role-ssh-keys-master/templates/id.pub.j2
+drwxrwxr-x root/root         0 2019-02-24 17:22 ansible-role-ssh-keys-master/tests/
+-rw-rw-r-- root/root        10 2019-02-24 17:22 ansible-role-ssh-keys-master/tests/inventory
+-rw-rw-r-- root/root       152 2019-02-24 17:22 ansible-role-ssh-keys-master/tests/test.yml

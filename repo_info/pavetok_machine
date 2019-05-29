@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-10-23 09:45 machine-master/
+-rw-rw-r-- root/root         8 2016-10-23 09:45 machine-master/.gitignore
+-rw-rw-r-- root/root       307 2016-10-23 09:45 machine-master/.travis.yml
+-rw-rw-r-- root/root       563 2016-10-23 09:45 machine-master/Makefile
+-rw-rw-r-- root/root       826 2016-10-23 09:45 machine-master/README.md
+-rw-rw-r-- root/root        34 2016-10-23 09:45 machine-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-10-23 09:45 machine-master/defaults/
+-rw-rw-r-- root/root       278 2016-10-23 09:45 machine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-23 09:45 machine-master/meta/
+-rw-rw-r-- root/root       950 2016-10-23 09:45 machine-master/meta/main.yml
+-rw-rw-r-- root/root        21 2016-10-23 09:45 machine-master/requirements.txt
+-rw-rw-r-- root/root       140 2016-10-23 09:45 machine-master/requirements.yml
+drwxrwxr-x root/root         0 2016-10-23 09:45 machine-master/tests/
+-rw-rw-r-- root/root        35 2016-10-23 09:45 machine-master/tests/inventory
+-rw-rw-r-- root/root       159 2016-10-23 09:45 machine-master/tests/machine.yml

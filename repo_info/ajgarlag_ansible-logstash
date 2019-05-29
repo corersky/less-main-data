@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-07-24 05:39 ansible-logstash-master/
+-rw-rw-r-- root/root      1122 2015-07-24 05:39 ansible-logstash-master/.travis.yml
+-rw-rw-r-- root/root      1093 2015-07-24 05:39 ansible-logstash-master/LICENSE
+-rw-rw-r-- root/root      1086 2015-07-24 05:39 ansible-logstash-master/README.md
+drwxrwxr-x root/root         0 2015-07-24 05:39 ansible-logstash-master/defaults/
+-rw-rw-r-- root/root       295 2015-07-24 05:39 ansible-logstash-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-24 05:39 ansible-logstash-master/handlers/
+-rw-rw-r-- root/root       118 2015-07-24 05:39 ansible-logstash-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-07-24 05:39 ansible-logstash-master/meta/
+-rw-rw-r-- root/root       322 2015-07-24 05:39 ansible-logstash-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-24 05:39 ansible-logstash-master/tasks/
+-rw-rw-r-- root/root      1982 2015-07-24 05:39 ansible-logstash-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-07-24 05:39 ansible-logstash-master/tests/
+-rw-rw-r-- root/root        10 2015-07-24 05:39 ansible-logstash-master/tests/inventory
+-rw-rw-r-- root/root       145 2015-07-24 05:39 ansible-logstash-master/tests/test.yml

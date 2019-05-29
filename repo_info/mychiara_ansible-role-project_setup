@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2015-11-21 05:32 ansible-role-project_setup-master/
+-rw-rw-r-- root/root      1880 2015-11-21 05:32 ansible-role-project_setup-master/README.md
+drwxrwxr-x root/root         0 2015-11-21 05:32 ansible-role-project_setup-master/meta/
+-rw-rw-r-- root/root       313 2015-11-21 05:32 ansible-role-project_setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-21 05:32 ansible-role-project_setup-master/tasks/
+-rw-rw-r-- root/root       216 2015-11-21 05:32 ansible-role-project_setup-master/tasks/folder.yml
+-rw-rw-r-- root/root       147 2015-11-21 05:32 ansible-role-project_setup-master/tasks/groups.yml
+-rw-rw-r-- root/root        67 2015-11-21 05:32 ansible-role-project_setup-master/tasks/main.yml
+-rw-rw-r-- root/root       157 2015-11-21 05:32 ansible-role-project_setup-master/tasks/user.yml

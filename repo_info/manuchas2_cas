@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-24 22:32 cas-master/
+-rw-rw-r-- root/root      1328 2019-04-24 22:32 cas-master/README.md
+drwxrwxr-x root/root         0 2019-04-24 22:32 cas-master/defaults/
+-rw-rw-r-- root/root        27 2019-04-24 22:32 cas-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-24 22:32 cas-master/handlers/
+-rw-rw-r-- root/root        27 2019-04-24 22:32 cas-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-24 22:32 cas-master/meta/
+-rw-rw-r-- root/root      1973 2019-04-24 22:32 cas-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-24 22:32 cas-master/tasks/
+-rw-rw-r-- root/root        24 2019-04-24 22:32 cas-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-24 22:32 cas-master/tests/
+-rw-rw-r-- root/root        11 2019-04-24 22:32 cas-master/tests/inventory
+-rw-rw-r-- root/root        61 2019-04-24 22:32 cas-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-24 22:32 cas-master/vars/
+-rw-rw-r-- root/root        23 2019-04-24 22:32 cas-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-03 10:21 ansible-role-vmwareepops-master/
+-rw-rw-r-- root/root        82 2019-01-03 10:21 ansible-role-vmwareepops-master/.gitignore
+-rw-rw-r-- root/root      2176 2019-01-03 10:21 ansible-role-vmwareepops-master/README.md
+drwxrwxr-x root/root         0 2019-01-03 10:21 ansible-role-vmwareepops-master/defaults/
+-rw-rw-r-- root/root      1586 2019-01-03 10:21 ansible-role-vmwareepops-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-03 10:21 ansible-role-vmwareepops-master/handlers/
+-rw-rw-r-- root/root        29 2019-01-03 10:21 ansible-role-vmwareepops-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-03 10:21 ansible-role-vmwareepops-master/meta/
+-rw-rw-r-- root/root      2083 2019-01-03 10:21 ansible-role-vmwareepops-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-03 10:21 ansible-role-vmwareepops-master/tasks/
+-rw-rw-r-- root/root       147 2019-01-03 10:21 ansible-role-vmwareepops-master/tasks/main.yml
+-rw-rw-r-- root/root      2066 2019-01-03 10:21 ansible-role-vmwareepops-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2019-01-03 10:21 ansible-role-vmwareepops-master/tests/
+-rw-rw-r-- root/root        11 2019-01-03 10:21 ansible-role-vmwareepops-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-01-03 10:21 ansible-role-vmwareepops-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-03 10:21 ansible-role-vmwareepops-master/vars/
+-rw-rw-r-- root/root        31 2019-01-03 10:21 ansible-role-vmwareepops-master/vars/main.yml

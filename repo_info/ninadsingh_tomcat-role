@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-17 00:12 tomcat-role-master/
+-rw-rw-r-- root/root        19 2017-11-17 00:12 tomcat-role-master/README.md
+drwxrwxr-x root/root         0 2017-11-17 00:12 tomcat-role-master/files/
+-rw-rw-r-- root/root      3055 2017-11-17 00:12 tomcat-role-master/files/tomcat-initscript.sh
+drwxrwxr-x root/root         0 2017-11-17 00:12 tomcat-role-master/handlers/
+-rw-rw-r-- root/root       133 2017-11-17 00:12 tomcat-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-17 00:12 tomcat-role-master/meta/
+-rw-rw-r-- root/root      1777 2017-11-17 00:12 tomcat-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-17 00:12 tomcat-role-master/tasks/
+-rw-rw-r-- root/root      1136 2017-11-17 00:12 tomcat-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-17 00:12 tomcat-role-master/templates/
+-rw-rw-r-- root/root       544 2017-11-17 00:12 tomcat-role-master/templates/iptables-save
+-rw-rw-r-- root/root      6491 2017-11-17 00:12 tomcat-role-master/templates/server.xml
+-rw-rw-r-- root/root      1661 2017-11-17 00:12 tomcat-role-master/templates/tomcat-users.xml
+drwxrwxr-x root/root         0 2017-11-17 00:12 tomcat-role-master/vars/
+-rw-rw-r-- root/root       196 2017-11-17 00:12 tomcat-role-master/vars/main.yml

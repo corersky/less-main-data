@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/
+-rw-rw-r-- root/root        66 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/.gitignore
+-rw-rw-r-- root/root      1507 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/LICENSE.mkd
+-rw-rw-r-- root/root      2972 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/README.md
+drwxrwxr-x root/root         0 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/defaults/
+-rw-rw-r-- root/root       863 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/meta/
+-rw-rw-r-- root/root       560 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/tasks/
+-rw-rw-r-- root/root       444 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/templates/
+-rw-rw-r-- root/root      2314 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       630 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       210 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/templates/secret.yml.j2
+-rw-rw-r-- root/root       238 2018-06-02 10:28 ansible-role-kubernetes-kanboard-master/templates/service.yml.j2

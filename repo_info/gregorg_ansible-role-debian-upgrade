@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-06-26 09:22 ansible-role-debian-upgrade-master/
+-rw-rw-r-- root/root      1072 2015-06-26 09:22 ansible-role-debian-upgrade-master/LICENSE
+-rw-rw-r-- root/root      1450 2015-06-26 09:22 ansible-role-debian-upgrade-master/README.md
+drwxrwxr-x root/root         0 2015-06-26 09:22 ansible-role-debian-upgrade-master/defaults/
+-rw-rw-r-- root/root        86 2015-06-26 09:22 ansible-role-debian-upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-26 09:22 ansible-role-debian-upgrade-master/handlers/
+-rw-rw-r-- root/root        92 2015-06-26 09:22 ansible-role-debian-upgrade-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-26 09:22 ansible-role-debian-upgrade-master/meta/
+-rw-rw-r-- root/root       251 2015-06-26 09:22 ansible-role-debian-upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-26 09:22 ansible-role-debian-upgrade-master/tasks/
+-rw-rw-r-- root/root      3591 2015-06-26 09:22 ansible-role-debian-upgrade-master/tasks/main.yml
+-rw-rw-r-- root/root       148 2015-06-26 09:22 ansible-role-debian-upgrade-master/tasks/squeeze_mid_upgrade.yml
+-rw-rw-r-- root/root       174 2015-06-26 09:22 ansible-role-debian-upgrade-master/tasks/squeeze_post_upgrade.yml
+-rw-rw-r-- root/root       305 2015-06-26 09:22 ansible-role-debian-upgrade-master/tasks/squeeze_pre_upgrade.yml
+-rw-rw-r-- root/root         0 2015-06-26 09:22 ansible-role-debian-upgrade-master/tasks/wheezy_mid_upgrade.yml
+drwxrwxr-x root/root         0 2015-06-26 09:22 ansible-role-debian-upgrade-master/vars/
+-rw-rw-r-- root/root        59 2015-06-26 09:22 ansible-role-debian-upgrade-master/vars/main.yml

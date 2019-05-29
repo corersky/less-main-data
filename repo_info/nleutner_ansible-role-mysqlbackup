@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-05-08 09:07 ansible-role-mysqlbackup-master/
+-rw-rw-r-- root/root         6 2015-05-08 09:07 ansible-role-mysqlbackup-master/.gitignore
+-rw-rw-r-- root/root      1250 2015-05-08 09:07 ansible-role-mysqlbackup-master/README.md
+drwxrwxr-x root/root         0 2015-05-08 09:07 ansible-role-mysqlbackup-master/defaults/
+-rw-rw-r-- root/root       956 2015-05-08 09:07 ansible-role-mysqlbackup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-08 09:07 ansible-role-mysqlbackup-master/meta/
+-rw-rw-r-- root/root       281 2015-05-08 09:07 ansible-role-mysqlbackup-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-08 09:07 ansible-role-mysqlbackup-master/tasks/
+-rw-rw-r-- root/root       177 2015-05-08 09:07 ansible-role-mysqlbackup-master/tasks/main.yml
+-rw-rw-r-- root/root       448 2015-05-08 09:07 ansible-role-mysqlbackup-master/tasks/mysqlbackup.yml
+-rw-rw-r-- root/root       726 2015-05-08 09:07 ansible-role-mysqlbackup-master/tasks/users.yml
+drwxrwxr-x root/root         0 2015-05-08 09:07 ansible-role-mysqlbackup-master/templates/
+-rw-rw-r-- root/root      1801 2015-05-08 09:07 ansible-role-mysqlbackup-master/templates/mysqlbackup.bash.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-20 20:01 ansible-role-php-fpm-master/
+-rw-rw-r-- root/root       116 2018-11-20 20:01 ansible-role-php-fpm-master/.gitmodules
+-rw-rw-r-- root/root       959 2018-11-20 20:01 ansible-role-php-fpm-master/.travis.yml
+-rw-rw-r-- root/root     11558 2018-11-20 20:01 ansible-role-php-fpm-master/LICENSE
+-rw-rw-r-- root/root      1484 2018-11-20 20:01 ansible-role-php-fpm-master/README.md
+drwxrwxr-x root/root         0 2018-11-20 20:01 ansible-role-php-fpm-master/defaults/
+-rw-rw-r-- root/root       374 2018-11-20 20:01 ansible-role-php-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-20 20:01 ansible-role-php-fpm-master/handlers/
+-rw-rw-r-- root/root       125 2018-11-20 20:01 ansible-role-php-fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-20 20:01 ansible-role-php-fpm-master/meta/
+-rw-rw-r-- root/root       263 2018-11-20 20:01 ansible-role-php-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-20 20:01 ansible-role-php-fpm-master/tasks/
+-rw-rw-r-- root/root      1567 2018-11-20 20:01 ansible-role-php-fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-20 20:01 ansible-role-php-fpm-master/templates/
+-rw-rw-r-- root/root       661 2018-11-20 20:01 ansible-role-php-fpm-master/templates/50-redis.ini
+-rw-rw-r-- root/root       429 2018-11-20 20:01 ansible-role-php-fpm-master/templates/wordpress.conf
+drwxrwxr-x root/root         0 2018-11-20 20:01 ansible-role-php-fpm-master/travis/

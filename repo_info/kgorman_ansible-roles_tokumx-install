@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-02-06 15:05 ansible-roles_tokumx-install-master/
+-rw-rw-r-- root/root      1603 2015-02-06 15:05 ansible-roles_tokumx-install-master/README.md
+drwxrwxr-x root/root         0 2015-02-06 15:05 ansible-roles_tokumx-install-master/defaults/
+-rw-rw-r-- root/root       674 2015-02-06 15:05 ansible-roles_tokumx-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-06 15:05 ansible-roles_tokumx-install-master/handlers/
+-rw-rw-r-- root/root        53 2015-02-06 15:05 ansible-roles_tokumx-install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-06 15:05 ansible-roles_tokumx-install-master/meta/
+-rw-rw-r-- root/root       416 2015-02-06 15:05 ansible-roles_tokumx-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-06 15:05 ansible-roles_tokumx-install-master/tasks/
+-rw-rw-r-- root/root      2936 2015-02-06 15:05 ansible-roles_tokumx-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-06 15:05 ansible-roles_tokumx-install-master/templates/
+-rw-rw-r-- root/root      1189 2015-02-06 15:05 ansible-roles_tokumx-install-master/templates/init_mongodb.j2
+-rw-rw-r-- root/root      2576 2015-02-06 15:05 ansible-roles_tokumx-install-master/templates/limits_conf.j2
+-rw-rw-r-- root/root       281 2015-02-06 15:05 ansible-roles_tokumx-install-master/templates/mongodb_conf.j2
+-rw-rw-r-- root/root        26 2015-02-06 15:05 ansible-roles_tokumx-install-master/templates/mongodb_keyfile.j2
+drwxrwxr-x root/root         0 2015-02-06 15:05 ansible-roles_tokumx-install-master/vars/
+-rw-rw-r-- root/root       640 2015-02-06 15:05 ansible-roles_tokumx-install-master/vars/main.yml

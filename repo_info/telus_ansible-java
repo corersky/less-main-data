@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-30 16:43 ansible-java-master/
+-rw-rw-r-- root/root      1073 2019-04-30 16:43 ansible-java-master/.travis.yml
+-rw-rw-r-- root/root       675 2019-04-30 16:43 ansible-java-master/README.md
+drwxrwxr-x root/root         0 2019-04-30 16:43 ansible-java-master/defaults/
+-rw-rw-r-- root/root        20 2019-04-30 16:43 ansible-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-30 16:43 ansible-java-master/meta/
+-rw-rw-r-- root/root       422 2019-04-30 16:43 ansible-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-30 16:43 ansible-java-master/tasks/
+-rw-rw-r-- root/root       165 2019-04-30 16:43 ansible-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-30 16:43 ansible-java-master/tests/
+-rw-rw-r-- root/root        10 2019-04-30 16:43 ansible-java-master/tests/inventory
+-rw-rw-r-- root/root       274 2019-04-30 16:43 ansible-java-master/tests/test-install.yml

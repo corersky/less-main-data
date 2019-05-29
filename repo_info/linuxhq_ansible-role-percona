@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-04 10:52 ansible-role-percona-master/
+-rw-rw-r-- root/root       317 2019-04-04 10:52 ansible-role-percona-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-04-04 10:52 ansible-role-percona-master/COPYING
+-rw-rw-r-- root/root      2307 2019-04-04 10:52 ansible-role-percona-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 10:52 ansible-role-percona-master/defaults/
+-rw-rw-r-- root/root       756 2019-04-04 10:52 ansible-role-percona-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:52 ansible-role-percona-master/meta/
+-rw-rw-r-- root/root       263 2019-04-04 10:52 ansible-role-percona-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:52 ansible-role-percona-master/tasks/
+-rw-rw-r-- root/root      1739 2019-04-04 10:52 ansible-role-percona-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:52 ansible-role-percona-master/templates/
+-rw-rw-r-- root/root      3053 2019-04-04 10:52 ansible-role-percona-master/templates/percona-release.repo.j2
+drwxrwxr-x root/root         0 2019-04-04 10:52 ansible-role-percona-master/tests/
+-rw-rw-r-- root/root        10 2019-04-04 10:52 ansible-role-percona-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-04-04 10:52 ansible-role-percona-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-05 08:56 ansible-user-master/
+-rw-rw-r-- root/root       541 2018-11-05 08:56 ansible-user-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-11-05 08:56 ansible-user-master/README.md
+drwxrwxr-x root/root         0 2018-11-05 08:56 ansible-user-master/defaults/
+-rw-rw-r-- root/root        68 2018-11-05 08:56 ansible-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-05 08:56 ansible-user-master/files/
+-rw-rw-r-- root/root      1544 2018-11-05 08:56 ansible-user-master/files/bash_profile
+-rw-rw-r-- root/root     49216 2018-11-05 08:56 ansible-user-master/files/git-completion.bash
+-rw-rw-r-- root/root       562 2018-11-05 08:56 ansible-user-master/files/gitconfig
+drwxrwxr-x root/root         0 2018-11-05 08:56 ansible-user-master/meta/
+-rw-rw-r-- root/root       307 2018-11-05 08:56 ansible-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-05 08:56 ansible-user-master/tasks/
+-rw-rw-r-- root/root       797 2018-11-05 08:56 ansible-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-05 08:56 ansible-user-master/tests/
+-rw-rw-r-- root/root         9 2018-11-05 08:56 ansible-user-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-11-05 08:56 ansible-user-master/tests/test.yml

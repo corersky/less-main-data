@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-28 21:15 ansible-logrotate-master/
+-rw-rw-r-- root/root      1081 2016-01-28 21:15 ansible-logrotate-master/LICENSE
+-rw-rw-r-- root/root      2108 2016-01-28 21:15 ansible-logrotate-master/README.md
+drwxrwxr-x root/root         0 2016-01-28 21:15 ansible-logrotate-master/defaults/
+-rw-rw-r-- root/root       769 2016-01-28 21:15 ansible-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-28 21:15 ansible-logrotate-master/meta/
+-rw-rw-r-- root/root       235 2016-01-28 21:15 ansible-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-28 21:15 ansible-logrotate-master/tasks/
+-rw-rw-r-- root/root       270 2016-01-28 21:15 ansible-logrotate-master/tasks/configure.yml
+-rw-rw-r-- root/root       112 2016-01-28 21:15 ansible-logrotate-master/tasks/install.yml
+-rw-rw-r-- root/root        52 2016-01-28 21:15 ansible-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-28 21:15 ansible-logrotate-master/templates/
+drwxrwxr-x root/root         0 2016-01-28 21:15 ansible-logrotate-master/templates/etc/
+drwxrwxr-x root/root         0 2016-01-28 21:15 ansible-logrotate-master/templates/etc/logrotate.d/
+-rw-rw-r-- root/root       932 2016-01-28 21:15 ansible-logrotate-master/templates/etc/logrotate.d/template

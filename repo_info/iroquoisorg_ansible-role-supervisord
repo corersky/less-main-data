@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-supervisord-master/
+-rwxrwxr-x root/root      1012 2018-11-29 08:27 ansible-role-supervisord-master/.travis.yml
+-rw-rw-r-- root/root       616 2018-11-29 08:27 ansible-role-supervisord-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-supervisord-master/defaults/
+-rwxrwxr-x root/root       269 2018-11-29 08:27 ansible-role-supervisord-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-supervisord-master/files/
+-rw-rw-r-- root/root        95 2018-11-29 08:27 ansible-role-supervisord-master/files/run_with_env.sh
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-supervisord-master/meta/
+-rw-rw-r-- root/root       290 2018-11-29 08:27 ansible-role-supervisord-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-supervisord-master/tasks/
+-rwxrwxr-x root/root       861 2018-11-29 08:27 ansible-role-supervisord-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-supervisord-master/templates/
+-rwxrwxr-x root/root      4700 2018-11-29 08:27 ansible-role-supervisord-master/templates/supervisor_initd
+-rwxrwxr-x root/root       893 2018-11-29 08:27 ansible-role-supervisord-master/templates/supervisord.conf
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-supervisord-master/tests/
+-rw-rw-r-- root/root        10 2018-11-29 08:27 ansible-role-supervisord-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-11-29 08:27 ansible-role-supervisord-master/tests/test.yml

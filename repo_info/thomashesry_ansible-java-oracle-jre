@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-05 04:25 ansible-java-oracle-jre-master/
+-rw-rw-r-- root/root        41 2018-07-05 04:25 ansible-java-oracle-jre-master/.gitignore
+-rw-rw-r-- root/root       782 2018-07-05 04:25 ansible-java-oracle-jre-master/.travis.yml
+-rw-rw-r-- root/root      1084 2018-07-05 04:25 ansible-java-oracle-jre-master/LICENSE
+-rw-rw-r-- root/root       482 2018-07-05 04:25 ansible-java-oracle-jre-master/README.md
+-rw-rw-r-- root/root      1114 2018-07-05 04:25 ansible-java-oracle-jre-master/circle.yml
+drwxrwxr-x root/root         0 2018-07-05 04:25 ansible-java-oracle-jre-master/defaults/
+-rw-rw-r-- root/root        42 2018-07-05 04:25 ansible-java-oracle-jre-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-05 04:25 ansible-java-oracle-jre-master/meta/
+-rw-rw-r-- root/root       542 2018-07-05 04:25 ansible-java-oracle-jre-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-05 04:25 ansible-java-oracle-jre-master/tasks/
+-rw-rw-r-- root/root       320 2018-07-05 04:25 ansible-java-oracle-jre-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-05 04:25 ansible-java-oracle-jre-master/templates/
+-rw-rw-r-- root/root        34 2018-07-05 04:25 ansible-java-oracle-jre-master/templates/oracle-jre.env.j2
+-rw-rw-r-- root/root        41 2018-07-05 04:25 ansible-java-oracle-jre-master/templates/oracle-jre.sh.j2
+-rw-rw-r-- root/root       169 2018-07-05 04:25 ansible-java-oracle-jre-master/test.yml

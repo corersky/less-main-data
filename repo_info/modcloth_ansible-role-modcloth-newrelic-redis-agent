@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/
+-rw-rw-r-- root/root       246 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/.travis.yml
+-rw-rw-r-- root/root      1490 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/README.md
+drwxrwxr-x root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/defaults/
+-rw-rw-r-- root/root       305 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/defaults/main.yml
+-rw-rw-r-- root/root       169 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/example.yml
+drwxrwxr-x root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/handlers/
+-rw-rw-r-- root/root        55 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/meta/
+-rw-rw-r-- root/root       332 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/meta/main.yml
+-rw-rw-r-- root/root        15 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/requirements.txt
+drwxrwxr-x root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/roles/
+lrwxrwxrwx root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/roles/modcloth.newrelic-redis-agent -> ../
+drwxrwxr-x root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/tasks/
+-rw-rw-r-- root/root      1784 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/templates/
+-rw-rw-r-- root/root       262 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/templates/newrelic_redis_agent.conf.j2
+-rw-rw-r-- root/root       430 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/templates/newrelic_redis_agent.yml.j2
+drwxrwxr-x root/root         0 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/vars/
+-rw-rw-r-- root/root        51 2014-10-27 12:48 ansible-role-modcloth-newrelic-redis-agent-master/vars/main.yml

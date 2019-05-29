@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-03-18 09:28 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root       118 2018-03-18 09:28 ansible-role-letsencrypt-master/.editorconfig
+-rw-rw-r-- root/root      5750 2018-03-18 09:28 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2018-03-18 09:28 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       220 2018-03-18 09:28 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-18 09:28 ansible-role-letsencrypt-master/handlers/
+-rw-rw-r-- root/root        91 2018-03-18 09:28 ansible-role-letsencrypt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-18 09:28 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root      2420 2018-03-18 09:28 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-18 09:28 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root      3731 2018-03-18 09:28 ansible-role-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-18 09:28 ansible-role-letsencrypt-master/templates/
+drwxrwxr-x root/root         0 2018-03-18 09:28 ansible-role-letsencrypt-master/templates/cron.d/
+-rw-rw-r-- root/root       689 2018-03-18 09:28 ansible-role-letsencrypt-master/templates/cron.d/letsencrypt.j2

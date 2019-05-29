@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-15 19:58 ansible-rabbitmq-master/
+-rwxrwxr-x root/root       863 2018-12-15 19:58 ansible-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2018-12-15 19:58 ansible-rabbitmq-master/defaults/
+-rwxrwxr-x root/root       261 2018-12-15 19:58 ansible-rabbitmq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-15 19:58 ansible-rabbitmq-master/handlers/
+-rwxrwxr-x root/root       141 2018-12-15 19:58 ansible-rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-15 19:58 ansible-rabbitmq-master/meta/
+-rwxrwxr-x root/root       310 2018-12-15 19:58 ansible-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-15 19:58 ansible-rabbitmq-master/tasks/
+-rwxrwxr-x root/root      3038 2018-12-15 19:58 ansible-rabbitmq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-15 19:58 ansible-rabbitmq-master/templates/
+-rwxrwxr-x root/root        20 2018-12-15 19:58 ansible-rabbitmq-master/templates/erlang.cookie.j2
+-rwxrwxr-x root/root     23388 2018-12-15 19:58 ansible-rabbitmq-master/templates/rabbit_conf.j2
+drwxrwxr-x root/root         0 2018-12-15 19:58 ansible-rabbitmq-master/test/
+drwxrwxr-x root/root         0 2018-12-15 19:58 ansible-rabbitmq-master/test/stress/
+-rwxrwxr-x root/root       550 2018-12-15 19:58 ansible-rabbitmq-master/test/stress/consumer.py
+-rwxrwxr-x root/root       453 2018-12-15 19:58 ansible-rabbitmq-master/test/stress/post.py

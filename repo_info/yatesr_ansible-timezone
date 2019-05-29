@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2017-09-24 19:27 ansible-timezone-master/
+-rw-rw-r-- root/root       381 2017-09-24 19:27 ansible-timezone-master/README.md
+drwxrwxr-x root/root         0 2017-09-24 19:27 ansible-timezone-master/defaults/
+-rw-rw-r-- root/root        37 2017-09-24 19:27 ansible-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-24 19:27 ansible-timezone-master/meta/
+-rw-rw-r-- root/root       426 2017-09-24 19:27 ansible-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-24 19:27 ansible-timezone-master/tasks/
+-rw-rw-r-- root/root        28 2017-09-24 19:27 ansible-timezone-master/tasks/main.yml
+-rw-rw-r-- root/root      1121 2017-09-24 19:27 ansible-timezone-master/tasks/timezone.yml
+drwxrwxr-x root/root         0 2017-09-24 19:27 ansible-timezone-master/templates/
+lrwxrwxrwx root/root         0 2017-09-24 19:27 ansible-timezone-master/templates/timezone-Arch Linux.j2 -> timezone-Archlinux.j2
+-rw-rw-r-- root/root        13 2017-09-24 19:27 ansible-timezone-master/templates/timezone-Archlinux.j2
+-rw-rw-r-- root/root        13 2017-09-24 19:27 ansible-timezone-master/templates/timezone-Debian.j2
+-rw-rw-r-- root/root        20 2017-09-24 19:27 ansible-timezone-master/templates/timezone-RedHat.j2
+drwxrwxr-x root/root         0 2017-09-24 19:27 ansible-timezone-master/vars/
+lrwxrwxrwx root/root         0 2017-09-24 19:27 ansible-timezone-master/vars/Arch Linux.yml -> Archlinux.yml
+-rw-rw-r-- root/root       173 2017-09-24 19:27 ansible-timezone-master/vars/Archlinux.yml
+-rw-rw-r-- root/root       170 2017-09-24 19:27 ansible-timezone-master/vars/Debian.yml
+-rw-rw-r-- root/root       177 2017-09-24 19:27 ansible-timezone-master/vars/RedHat.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-04-27 04:01 ansible-role-rhel-subscription-master/
+-rw-rw-r-- root/root       539 2016-04-27 04:01 ansible-role-rhel-subscription-master/.travis.yml
+-rw-rw-r-- root/root       893 2016-04-27 04:01 ansible-role-rhel-subscription-master/README.md
+drwxrwxr-x root/root         0 2016-04-27 04:01 ansible-role-rhel-subscription-master/meta/
+-rw-rw-r-- root/root       347 2016-04-27 04:01 ansible-role-rhel-subscription-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-27 04:01 ansible-role-rhel-subscription-master/tasks/
+-rw-rw-r-- root/root       215 2016-04-27 04:01 ansible-role-rhel-subscription-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-27 04:01 ansible-role-rhel-subscription-master/tests/
+-rw-rw-r-- root/root         9 2016-04-27 04:01 ansible-role-rhel-subscription-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-04-27 04:01 ansible-role-rhel-subscription-master/tests/test.yml

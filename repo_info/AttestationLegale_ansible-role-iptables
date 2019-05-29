@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-10 02:36 ansible-role-iptables-master/
+-rw-rw-r-- root/root      1140 2016-06-10 02:36 ansible-role-iptables-master/.travis.yml
+-rw-rw-r-- root/root      1459 2016-06-10 02:36 ansible-role-iptables-master/README.md
+drwxrwxr-x root/root         0 2016-06-10 02:36 ansible-role-iptables-master/defaults/
+-rw-rw-r-- root/root      1617 2016-06-10 02:36 ansible-role-iptables-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-10 02:36 ansible-role-iptables-master/handlers/
+-rw-rw-r-- root/root        86 2016-06-10 02:36 ansible-role-iptables-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-10 02:36 ansible-role-iptables-master/meta/
+-rw-rw-r-- root/root       385 2016-06-10 02:36 ansible-role-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-10 02:36 ansible-role-iptables-master/tasks/
+-rw-rw-r-- root/root       554 2016-06-10 02:36 ansible-role-iptables-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-10 02:36 ansible-role-iptables-master/templates/
+-rw-rw-r-- root/root      2780 2016-06-10 02:36 ansible-role-iptables-master/templates/iptables.conf.j2
+drwxrwxr-x root/root         0 2016-06-10 02:36 ansible-role-iptables-master/tests/
+-rw-rw-r-- root/root        10 2016-06-10 02:36 ansible-role-iptables-master/tests/inventory
+-rw-rw-r-- root/root       249 2016-06-10 02:36 ansible-role-iptables-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-01-25 08:07 ansible-role-base-master/
+-rw-rw-r-- root/root       791 2017-01-25 08:07 ansible-role-base-master/.travis.yml
+-rw-rw-r-- root/root      1054 2017-01-25 08:07 ansible-role-base-master/README.md
+drwxrwxr-x root/root         0 2017-01-25 08:07 ansible-role-base-master/defaults/
+-rw-rw-r-- root/root       457 2017-01-25 08:07 ansible-role-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-25 08:07 ansible-role-base-master/meta/
+-rw-rw-r-- root/root       331 2017-01-25 08:07 ansible-role-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-25 08:07 ansible-role-base-master/tasks/
+-rw-rw-r-- root/root      1096 2017-01-25 08:07 ansible-role-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-25 08:07 ansible-role-base-master/tests/
+-rw-rw-r-- root/root         9 2017-01-25 08:07 ansible-role-base-master/tests/inventory
+-rw-rw-r-- root/root       149 2017-01-25 08:07 ansible-role-base-master/tests/test.yml

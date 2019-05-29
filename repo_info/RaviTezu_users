@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-11 13:30 users-master/
+-rw-rw-r-- root/root      1074 2016-09-11 13:30 users-master/LICENSE
+-rw-rw-r-- root/root      1534 2016-09-11 13:30 users-master/README.md
+drwxrwxr-x root/root         0 2016-09-11 13:30 users-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-11 13:30 users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-11 13:30 users-master/handlers/
+-rw-rw-r-- root/root        30 2016-09-11 13:30 users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-11 13:30 users-master/meta/
+-rw-rw-r-- root/root       667 2016-09-11 13:30 users-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-11 13:30 users-master/tasks/
+-rw-rw-r-- root/root      1319 2016-09-11 13:30 users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-11 13:30 users-master/vars/
+-rw-rw-r-- root/root       219 2016-09-11 13:30 users-master/vars/groups_absent.yml
+-rw-rw-r-- root/root       381 2016-09-11 13:30 users-master/vars/groups_present.yml
+-rw-rw-r-- root/root        26 2016-09-11 13:30 users-master/vars/main.yml
+-rw-rw-r-- root/root       292 2016-09-11 13:30 users-master/vars/users_absent.yml
+-rw-rw-r-- root/root      1291 2016-09-11 13:30 users-master/vars/users_present.yml

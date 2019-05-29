@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2017-07-31 11:57 airflow-dags-container-master/
+-rw-rw-r-- root/root       541 2017-07-31 11:57 airflow-dags-container-master/README.md
+drwxrwxr-x root/root         0 2017-07-31 11:57 airflow-dags-container-master/defaults/
+-rw-rw-r-- root/root       158 2017-07-31 11:57 airflow-dags-container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-31 11:57 airflow-dags-container-master/meta/
+-rw-rw-r-- root/root        54 2017-07-31 11:57 airflow-dags-container-master/meta/container.yml
+-rw-rw-r-- root/root      3534 2017-07-31 11:57 airflow-dags-container-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-31 11:57 airflow-dags-container-master/tasks/
+-rw-rw-r-- root/root       681 2017-07-31 11:57 airflow-dags-container-master/tasks/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-20 12:54 ansible-mongodb-master/
+-rw-rw-r-- root/root         0 2017-03-20 12:54 ansible-mongodb-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-03-20 12:54 ansible-mongodb-master/LICENSE
+-rw-rw-r-- root/root     15745 2017-03-20 12:54 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2017-03-20 12:54 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root     13160 2017-03-20 12:54 ansible-mongodb-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-03-20 12:54 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root       203 2017-03-20 12:54 ansible-mongodb-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-03-20 12:54 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       274 2017-03-20 12:54 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-20 12:54 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root      1162 2017-03-20 12:54 ansible-mongodb-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-03-20 12:54 ansible-mongodb-master/templates/
+-rw-rw-r-- root/root       108 2017-03-20 12:54 ansible-mongodb-master/templates/mongod.conf.j2
+-rw-rw-r-- root/root       123 2017-03-20 12:54 ansible-mongodb-master/templates/mongod.sysconfig.j2

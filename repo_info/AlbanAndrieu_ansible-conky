@@ -1,0 +1,34 @@
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/
+-rw-rw-r-- root/root       549 2018-11-14 07:55 ansible-conky-master/.travis.yml
+-rw-rw-r-- root/root       296 2018-11-14 07:55 ansible-conky-master/.yamllint
+-rw-rw-r-- root/root     35148 2018-11-14 07:55 ansible-conky-master/LICENSE
+-rw-rw-r-- root/root      4439 2018-11-14 07:55 ansible-conky-master/README.md
+-rw-rw-r-- root/root       113 2018-11-14 07:55 ansible-conky-master/conky.yml
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/defaults/
+-rw-rw-r-- root/root      1315 2018-11-14 07:55 ansible-conky-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/files/
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/files/Green Apple Desktop/
+-rw-rw-r-- root/root      4566 2018-11-14 07:55 ansible-conky-master/files/Green Apple Desktop/conky_seamod
+-rw-rw-r-- root/root  20603204 2018-11-14 07:55 ansible-conky-master/files/default-themes-extra-1.tar.gz
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/handlers/
+-rw-rw-r-- root/root       163 2018-11-14 07:55 ansible-conky-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/meta/
+-rw-rw-r-- root/root       929 2018-11-14 07:55 ansible-conky-master/meta/ansigenome.yml
+-rw-rw-r-- root/root       370 2018-11-14 07:55 ansible-conky-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/molecule/
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/molecule/default/
+-rw-rw-r-- root/root       961 2018-11-14 07:55 ansible-conky-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       263 2018-11-14 07:55 ansible-conky-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       266 2018-11-14 07:55 ansible-conky-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        75 2018-11-14 07:55 ansible-conky-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/molecule/default/tests/
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/molecule/default/tests/__pycache__/
+-rw-rw-r-- root/root       712 2018-11-14 07:55 ansible-conky-master/molecule/default/tests/__pycache__/test_default.cpython-36.pyc
+-rw-rw-r-- root/root       313 2018-11-14 07:55 ansible-conky-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/tasks/
+-rw-rw-r-- root/root      6771 2018-11-14 07:55 ansible-conky-master/tasks/conky.yml
+-rw-rw-r-- root/root       137 2018-11-14 07:55 ansible-conky-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-14 07:55 ansible-conky-master/templates/
+-rw-rw-r-- root/root       556 2018-11-14 07:55 ansible-conky-master/templates/build.sh.j2
+-rw-rw-r-- root/root       131 2018-11-14 07:55 ansible-conky-master/templates/conky-startup.sh-Ubuntu.j2
+-rw-rw-r-- root/root       585 2018-11-14 07:55 ansible-conky-master/templates/conky.sh-Ubuntu.j2

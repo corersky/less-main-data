@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-07-26 22:11 ansible-role-github-users-master/
+-rw-rw-r-- root/root      1085 2014-07-26 22:11 ansible-role-github-users-master/LICENSE
+-rw-rw-r-- root/root       416 2014-07-26 22:11 ansible-role-github-users-master/README.md
+drwxrwxr-x root/root         0 2014-07-26 22:11 ansible-role-github-users-master/defaults/
+-rw-rw-r-- root/root        59 2014-07-26 22:11 ansible-role-github-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-26 22:11 ansible-role-github-users-master/handlers/
+-rw-rw-r-- root/root        98 2014-07-26 22:11 ansible-role-github-users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-07-26 22:11 ansible-role-github-users-master/meta/
+-rw-rw-r-- root/root       297 2014-07-26 22:11 ansible-role-github-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-26 22:11 ansible-role-github-users-master/tasks/
+-rw-rw-r-- root/root       466 2014-07-26 22:11 ansible-role-github-users-master/tasks/github.yml
+-rw-rw-r-- root/root       217 2014-07-26 22:11 ansible-role-github-users-master/tasks/main.yml
+-rw-rw-r-- root/root       133 2014-07-26 22:11 ansible-role-github-users-master/tasks/sshd.yml
+-rw-rw-r-- root/root       289 2014-07-26 22:11 ansible-role-github-users-master/tasks/sudoers.yml
+drwxrwxr-x root/root         0 2014-07-26 22:11 ansible-role-github-users-master/templates/
+-rw-rw-r-- root/root        44 2014-07-26 22:11 ansible-role-github-users-master/templates/sudoers.j2

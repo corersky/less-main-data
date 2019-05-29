@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-15 01:11 ansible-percona-master/
+-rw-rw-r-- root/root       539 2018-11-15 01:11 ansible-percona-master/.travis.yml
+-rw-rw-r-- root/root       256 2018-11-15 01:11 ansible-percona-master/README.md
+drwxrwxr-x root/root         0 2018-11-15 01:11 ansible-percona-master/handlers/
+-rw-rw-r-- root/root        32 2018-11-15 01:11 ansible-percona-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-15 01:11 ansible-percona-master/meta/
+-rw-rw-r-- root/root       327 2018-11-15 01:11 ansible-percona-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-15 01:11 ansible-percona-master/tasks/
+-rw-rw-r-- root/root       266 2018-11-15 01:11 ansible-percona-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-15 01:11 ansible-percona-master/tests/
+-rw-rw-r-- root/root         9 2018-11-15 01:11 ansible-percona-master/tests/inventory
+-rw-rw-r-- root/root        65 2018-11-15 01:11 ansible-percona-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-15 01:11 ansible-percona-master/vars/
+-rw-rw-r-- root/root        28 2018-11-15 01:11 ansible-percona-master/vars/main.yml

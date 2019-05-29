@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-07-25 04:24 ansible-rpmbuild-master/
+-rw-rw-r-- root/root         0 2018-07-25 04:24 ansible-rpmbuild-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-07-25 04:24 ansible-rpmbuild-master/LICENSE
+-rw-rw-r-- root/root      1791 2018-07-25 04:24 ansible-rpmbuild-master/README.md
+drwxrwxr-x root/root         0 2018-07-25 04:24 ansible-rpmbuild-master/defaults/
+-rw-rw-r-- root/root       857 2018-07-25 04:24 ansible-rpmbuild-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-07-25 04:24 ansible-rpmbuild-master/meta/
+-rw-rw-r-- root/root       247 2018-07-25 04:24 ansible-rpmbuild-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-25 04:24 ansible-rpmbuild-master/tasks/
+-rw-rw-r-- root/root       566 2018-07-25 04:24 ansible-rpmbuild-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-07-25 04:24 ansible-rpmbuild-master/templates/
+-rw-rw-r-- root/root        83 2018-07-25 04:24 ansible-rpmbuild-master/templates/rpmmacros.j2

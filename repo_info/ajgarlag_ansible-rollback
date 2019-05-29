@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-02 05:55 ansible-rollback-master/
+-rw-rw-r-- root/root       178 2015-06-02 05:55 ansible-rollback-master/CHANGELOG.md
+-rw-rw-r-- root/root      1154 2015-06-02 05:55 ansible-rollback-master/LICENSE
+-rw-rw-r-- root/root      1174 2015-06-02 05:55 ansible-rollback-master/README.md
+drwxrwxr-x root/root         0 2015-06-02 05:55 ansible-rollback-master/defaults/
+-rw-rw-r-- root/root       103 2015-06-02 05:55 ansible-rollback-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-02 05:55 ansible-rollback-master/meta/
+-rw-rw-r-- root/root       687 2015-06-02 05:55 ansible-rollback-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-02 05:55 ansible-rollback-master/tasks/
+-rw-rw-r-- root/root       172 2015-06-02 05:55 ansible-rollback-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       130 2015-06-02 05:55 ansible-rollback-master/tasks/empty.yml
+-rw-rw-r-- root/root      1030 2015-06-02 05:55 ansible-rollback-master/tasks/main.yml
+-rw-rw-r-- root/root       972 2015-06-02 05:55 ansible-rollback-master/tasks/setup.yml
+-rw-rw-r-- root/root       256 2015-06-02 05:55 ansible-rollback-master/tasks/symlink.yml

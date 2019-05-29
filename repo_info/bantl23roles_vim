@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-05-24 10:20 vim-master/
+-rw-rw-r-- root/root       831 2016-05-24 10:20 vim-master/.travis.yml
+-rw-rw-r-- root/root      1078 2016-05-24 10:20 vim-master/LICENSE
+-rw-rw-r-- root/root       767 2016-05-24 10:20 vim-master/README.md
+drwxrwxr-x root/root         0 2016-05-24 10:20 vim-master/defaults/
+-rw-rw-r-- root/root        24 2016-05-24 10:20 vim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-24 10:20 vim-master/files/
+-rw-rw-r-- root/root      1778 2016-05-24 10:20 vim-master/files/vimrc
+drwxrwxr-x root/root         0 2016-05-24 10:20 vim-master/meta/
+-rw-rw-r-- root/root      2363 2016-05-24 10:20 vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-24 10:20 vim-master/tasks/
+-rw-rw-r-- root/root      1444 2016-05-24 10:20 vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-24 10:20 vim-master/tests/
+-rw-rw-r-- root/root         9 2016-05-24 10:20 vim-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-05-24 10:20 vim-master/tests/test.yml

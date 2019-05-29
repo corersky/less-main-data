@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-03 10:22 ansible-git-pull-master/
+-rw-rw-r-- root/root     35141 2017-12-03 10:22 ansible-git-pull-master/LICENSE
+-rw-rw-r-- root/root       257 2017-12-03 10:22 ansible-git-pull-master/README.md
+drwxrwxr-x root/root         0 2017-12-03 10:22 ansible-git-pull-master/defaults/
+-rw-rw-r-- root/root        19 2017-12-03 10:22 ansible-git-pull-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-03 10:22 ansible-git-pull-master/handlers/
+-rw-rw-r-- root/root        32 2017-12-03 10:22 ansible-git-pull-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-03 10:22 ansible-git-pull-master/meta/
+-rw-rw-r-- root/root       242 2017-12-03 10:22 ansible-git-pull-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-03 10:22 ansible-git-pull-master/tasks/
+-rw-rw-r-- root/root       423 2017-12-03 10:22 ansible-git-pull-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-03 10:22 ansible-git-pull-master/tests/
+-rw-rw-r-- root/root        11 2017-12-03 10:22 ansible-git-pull-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-12-03 10:22 ansible-git-pull-master/tests/test.yml

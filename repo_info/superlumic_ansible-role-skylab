@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-09-29 11:56 ansible-role-skylab-master/
+-rw-rw-r-- root/root       468 2015-09-29 11:56 ansible-role-skylab-master/.travis.yml
+-rw-rw-r-- root/root       924 2015-09-29 11:56 ansible-role-skylab-master/README.md
+drwxrwxr-x root/root         0 2015-09-29 11:56 ansible-role-skylab-master/meta/
+-rw-rw-r-- root/root       537 2015-09-29 11:56 ansible-role-skylab-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-29 11:56 ansible-role-skylab-master/tasks/
+-rw-rw-r-- root/root      2475 2015-09-29 11:56 ansible-role-skylab-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-29 11:56 ansible-role-skylab-master/templates/
+-rw-rw-r-- root/root       884 2015-09-29 11:56 ansible-role-skylab-master/templates/apache.j2
+-rw-rw-r-- root/root       292 2015-09-29 11:56 ansible-role-skylab-master/templates/skylab.j2
+drwxrwxr-x root/root         0 2015-09-29 11:56 ansible-role-skylab-master/tests/
+-rw-rw-r-- root/root        10 2015-09-29 11:56 ansible-role-skylab-master/tests/inventory
+-rw-rw-r-- root/root       202 2015-09-29 11:56 ansible-role-skylab-master/tests/requirements.yml
+-rw-rw-r-- root/root        79 2015-09-29 11:56 ansible-role-skylab-master/tests/travis.yml

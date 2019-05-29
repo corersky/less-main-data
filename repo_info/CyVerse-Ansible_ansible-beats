@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-14 18:05 ansible-beats-master/
+-rw-rw-r-- root/root        20 2017-03-14 18:05 ansible-beats-master/.gitignore
+-rw-rw-r-- root/root      2405 2017-03-14 18:05 ansible-beats-master/.travis.yml
+-rw-rw-r-- root/root      1961 2017-03-14 18:05 ansible-beats-master/LICENSE.md
+-rw-rw-r-- root/root      3207 2017-03-14 18:05 ansible-beats-master/README.md
+drwxrwxr-x root/root         0 2017-03-14 18:05 ansible-beats-master/defaults/
+-rw-rw-r-- root/root       471 2017-03-14 18:05 ansible-beats-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-14 18:05 ansible-beats-master/meta/
+-rw-rw-r-- root/root       902 2017-03-14 18:05 ansible-beats-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-14 18:05 ansible-beats-master/tests/
+-rw-rw-r-- root/root     14385 2017-03-14 18:05 ansible-beats-master/tests/ansible.cfg
+-rw-rw-r-- root/root        35 2017-03-14 18:05 ansible-beats-master/tests/inventory
+-rw-rw-r-- root/root       113 2017-03-14 18:05 ansible-beats-master/tests/requirements.yml
+-rw-rw-r-- root/root      1452 2017-03-14 18:05 ansible-beats-master/tests/test-1.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-31 10:01 ansible-role-nginx-master/
+-rw-rw-r-- root/root         0 2017-03-31 10:01 ansible-role-nginx-master/.gitignore
+-rw-rw-r-- root/root      2674 2017-03-31 10:01 ansible-role-nginx-master/.travis.yml
+-rw-rw-r-- root/root      1061 2017-03-31 10:01 ansible-role-nginx-master/LICENSE.md
+-rw-rw-r-- root/root       188 2017-03-31 10:01 ansible-role-nginx-master/README.md
+drwxrwxr-x root/root         0 2017-03-31 10:01 ansible-role-nginx-master/defaults/
+-rw-rw-r-- root/root         4 2017-03-31 10:01 ansible-role-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-31 10:01 ansible-role-nginx-master/meta/
+-rw-rw-r-- root/root         1 2017-03-31 10:01 ansible-role-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-31 10:01 ansible-role-nginx-master/tasks/
+-rw-rw-r-- root/root         4 2017-03-31 10:01 ansible-role-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-31 10:01 ansible-role-nginx-master/tests/
+-rw-rw-r-- root/root       202 2017-03-31 10:01 ansible-role-nginx-master/tests/test.yml

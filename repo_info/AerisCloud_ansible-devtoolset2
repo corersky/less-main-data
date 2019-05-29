@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-06-20 01:46 ansible-devtoolset2-master/
+-rw-rw-r-- root/root      1074 2016-06-20 01:46 ansible-devtoolset2-master/LICENSE
+-rw-rw-r-- root/root       382 2016-06-20 01:46 ansible-devtoolset2-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 01:46 ansible-devtoolset2-master/defaults/
+-rw-rw-r-- root/root        25 2016-06-20 01:46 ansible-devtoolset2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:46 ansible-devtoolset2-master/files/
+drwxrwxr-x root/root         0 2016-06-20 01:46 ansible-devtoolset2-master/files/centos6/
+-rw-rw-r-- root/root       897 2016-06-20 01:46 ansible-devtoolset2-master/files/centos6/sudo
+drwxrwxr-x root/root         0 2016-06-20 01:46 ansible-devtoolset2-master/meta/
+-rw-rw-r-- root/root       410 2016-06-20 01:46 ansible-devtoolset2-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:46 ansible-devtoolset2-master/tasks/
+-rw-rw-r-- root/root      1340 2016-06-20 01:46 ansible-devtoolset2-master/tasks/centos.yml
+-rw-rw-r-- root/root       173 2016-06-20 01:46 ansible-devtoolset2-master/tasks/main.yml

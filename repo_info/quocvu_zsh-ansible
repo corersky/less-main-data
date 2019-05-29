@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-29 18:01 zsh-ansible-master/
+-rw-rw-r-- root/root       709 2018-07-29 18:01 zsh-ansible-master/.travis.yml
+-rw-rw-r-- root/root      1064 2018-07-29 18:01 zsh-ansible-master/LICENSE
+-rw-rw-r-- root/root       734 2018-07-29 18:01 zsh-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-07-29 18:01 zsh-ansible-master/defaults/
+-rw-rw-r-- root/root       321 2018-07-29 18:01 zsh-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-29 18:01 zsh-ansible-master/meta/
+-rw-rw-r-- root/root       929 2018-07-29 18:01 zsh-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-29 18:01 zsh-ansible-master/tasks/
+-rw-rw-r-- root/root      1135 2018-07-29 18:01 zsh-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-29 18:01 zsh-ansible-master/templates/
+-rw-rw-r-- root/root      2264 2018-07-29 18:01 zsh-ansible-master/templates/zshrc.j2
+drwxrwxr-x root/root         0 2018-07-29 18:01 zsh-ansible-master/tests/
+-rw-rw-r-- root/root        11 2018-07-29 18:01 zsh-ansible-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-07-29 18:01 zsh-ansible-master/tests/test.yml

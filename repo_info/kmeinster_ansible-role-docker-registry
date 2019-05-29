@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/
+-rw-rw-r-- root/root       672 2016-08-21 21:32 ansible-role-docker-registry-master/README.md
+drwxrwxr-x root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/defaults/
+-rw-rw-r-- root/root         4 2016-08-21 21:32 ansible-role-docker-registry-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/files/
+-rw-rw-r-- root/root       258 2016-08-21 21:32 ansible-role-docker-registry-master/files/local-registry.service.j2
+drwxrwxr-x root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/handlers/
+-rw-rw-r-- root/root        58 2016-08-21 21:32 ansible-role-docker-registry-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/meta/
+-rw-rw-r-- root/root       279 2016-08-21 21:32 ansible-role-docker-registry-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/tasks/
+-rw-rw-r-- root/root       768 2016-08-21 21:32 ansible-role-docker-registry-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/templates/
+-rw-rw-r-- root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2016-08-21 21:32 ansible-role-docker-registry-master/vars/
+-rw-rw-r-- root/root         4 2016-08-21 21:32 ansible-role-docker-registry-master/vars/main.yml

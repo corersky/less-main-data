@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/
+-rw-rw-r-- root/root       695 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/.travis.yml
+-rw-rw-r-- root/root     35141 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/LICENSE
+-rw-rw-r-- root/root      1457 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/README.md
+drwxrwxr-x root/root         0 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/defaults/
+-rw-rw-r-- root/root      1268 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/defaults/main.yml
+-rw-rw-r-- root/root       568 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/galaxy-yamllint.yaml
+drwxrwxr-x root/root         0 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/meta/
+-rw-rw-r-- root/root       327 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/tasks/
+-rw-rw-r-- root/root       875 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/tests/
+-rw-rw-r-- root/root        29 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/tests/ansible.cfg
+-rw-rw-r-- root/root        20 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/tests/inventory
+-rwxrwxr-x root/root        63 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/tests/run_tests.sh
+-rw-rw-r-- root/root       127 2019-01-29 06:28 ansible-role-install_root_ca_certs-master/tests/test.yml

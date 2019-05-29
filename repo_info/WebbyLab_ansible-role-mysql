@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-02-13 14:08 ansible-role-mysql-master/
+-rw-rw-r-- root/root       465 2016-02-13 14:08 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2016-02-13 14:08 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root        87 2016-02-13 14:08 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-13 14:08 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root       269 2016-02-13 14:08 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-13 14:08 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root       629 2016-02-13 14:08 ansible-role-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-13 14:08 ansible-role-mysql-master/templates/
+-rw-rw-r-- root/root       230 2016-02-13 14:08 ansible-role-mysql-master/templates/utf8.conf

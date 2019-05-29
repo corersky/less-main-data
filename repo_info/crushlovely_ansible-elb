@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-05-24 22:43 ansible-elb-master/
+-rw-rw-r-- root/root        43 2016-05-24 22:43 ansible-elb-master/.gitignore
+-rw-rw-r-- root/root      1097 2016-05-24 22:43 ansible-elb-master/LICENSE
+-rw-rw-r-- root/root      1089 2016-05-24 22:43 ansible-elb-master/README.md
+drwxrwxr-x root/root         0 2016-05-24 22:43 ansible-elb-master/defaults/
+-rw-rw-r-- root/root       118 2016-05-24 22:43 ansible-elb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-24 22:43 ansible-elb-master/meta/
+-rw-rw-r-- root/root       270 2016-05-24 22:43 ansible-elb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-24 22:43 ansible-elb-master/tasks/
+-rw-rw-r-- root/root      1492 2016-05-24 22:43 ansible-elb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-24 22:43 ansible-elb-master/templates/
+-rw-rw-r-- root/root       177 2016-05-24 22:43 ansible-elb-master/templates/aws_config.j2
+-rw-rw-r-- root/root       257 2016-05-24 22:43 ansible-elb-master/templates/create-elb-policy.json.j2
+-rw-rw-r-- root/root       538 2016-05-24 22:43 ansible-elb-master/templates/create-elb.json.j2
+-rw-rw-r-- root/root       158 2016-05-24 22:43 ansible-elb-master/templates/set-elb-policy.json.j2

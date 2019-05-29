@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-14 15:20 ansible-vim-master/
+-rw-rw-r-- root/root        40 2017-01-14 15:20 ansible-vim-master/.gitignore
+-rw-rw-r-- root/root       797 2017-01-14 15:20 ansible-vim-master/README.md
+drwxrwxr-x root/root         0 2017-01-14 15:20 ansible-vim-master/meta/
+-rw-rw-r-- root/root       334 2017-01-14 15:20 ansible-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-14 15:20 ansible-vim-master/tasks/
+-rw-rw-r-- root/root        57 2017-01-14 15:20 ansible-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-14 15:20 ansible-vim-master/tests/
+-rw-rw-r-- root/root       197 2017-01-14 15:20 ansible-vim-master/tests/Dockerfile_centos7
+-rw-rw-r-- root/root       197 2017-01-14 15:20 ansible-vim-master/tests/Dockerfile_debian7
+-rw-rw-r-- root/root       197 2017-01-14 15:20 ansible-vim-master/tests/Dockerfile_debian8
+-rw-rw-r-- root/root       201 2017-01-14 15:20 ansible-vim-master/tests/Dockerfile_ubuntu14
+-rw-rw-r-- root/root       201 2017-01-14 15:20 ansible-vim-master/tests/Dockerfile_ubuntu16
+-rw-rw-r-- root/root        50 2017-01-14 15:20 ansible-vim-master/tests/provision.yml

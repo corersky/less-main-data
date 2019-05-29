@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-15 03:35 ruby-jemalloc-master/
+-rw-rw-r-- root/root      1121 2019-04-15 03:35 ruby-jemalloc-master/README.md
+drwxrwxr-x root/root         0 2019-04-15 03:35 ruby-jemalloc-master/defaults/
+-rw-rw-r-- root/root       336 2019-04-15 03:35 ruby-jemalloc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-15 03:35 ruby-jemalloc-master/meta/
+-rw-rw-r-- root/root       244 2019-04-15 03:35 ruby-jemalloc-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-15 03:35 ruby-jemalloc-master/tasks/
+-rw-rw-r-- root/root       113 2019-04-15 03:35 ruby-jemalloc-master/tasks/bundler.yml
+-rw-rw-r-- root/root      1350 2019-04-15 03:35 ruby-jemalloc-master/tasks/jemalloc.yml
+-rw-rw-r-- root/root       183 2019-04-15 03:35 ruby-jemalloc-master/tasks/main.yml
+-rw-rw-r-- root/root       157 2019-04-15 03:35 ruby-jemalloc-master/tasks/permissions.yml
+-rw-rw-r-- root/root      1410 2019-04-15 03:35 ruby-jemalloc-master/tasks/ruby.yml

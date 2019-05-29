@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-06 04:05 ansible-php-role-master/
+-rw-rw-r-- root/root         6 2019-02-06 04:05 ansible-php-role-master/.gitignore
+-rw-rw-r-- root/root       293 2019-02-06 04:05 ansible-php-role-master/README.md
+drwxrwxr-x root/root         0 2019-02-06 04:05 ansible-php-role-master/defaults/
+-rw-rw-r-- root/root       164 2019-02-06 04:05 ansible-php-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-06 04:05 ansible-php-role-master/meta/
+-rw-rw-r-- root/root       271 2019-02-06 04:05 ansible-php-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-06 04:05 ansible-php-role-master/tasks/
+-rw-rw-r-- root/root      2743 2019-02-06 04:05 ansible-php-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-06 04:05 ansible-php-role-master/templates/
+-rw-rw-r-- root/root       538 2019-02-06 04:05 ansible-php-role-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root     69952 2019-02-06 04:05 ansible-php-role-master/templates/php.ini.j2
+-rw-rw-r-- root/root     16414 2019-02-06 04:05 ansible-php-role-master/templates/www.conf.j2

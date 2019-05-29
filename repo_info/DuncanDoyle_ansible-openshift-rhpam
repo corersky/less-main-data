@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-23 07:14 ansible-openshift-rhpam-master/
+-rw-rw-r-- root/root      1795 2019-05-23 07:14 ansible-openshift-rhpam-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 07:14 ansible-openshift-rhpam-master/defaults/
+-rw-rw-r-- root/root       285 2019-05-23 07:14 ansible-openshift-rhpam-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 07:14 ansible-openshift-rhpam-master/handlers/
+-rw-rw-r-- root/root        30 2019-05-23 07:14 ansible-openshift-rhpam-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-23 07:14 ansible-openshift-rhpam-master/meta/
+-rw-rw-r-- root/root       349 2019-05-23 07:14 ansible-openshift-rhpam-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 07:14 ansible-openshift-rhpam-master/tasks/
+-rw-rw-r-- root/root      3538 2019-05-23 07:14 ansible-openshift-rhpam-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 07:14 ansible-openshift-rhpam-master/tests/
+-rw-rw-r-- root/root        10 2019-05-23 07:14 ansible-openshift-rhpam-master/tests/inventory
+-rw-rw-r-- root/root        88 2019-05-23 07:14 ansible-openshift-rhpam-master/tests/role_provision.yml
+drwxrwxr-x root/root         0 2019-05-23 07:14 ansible-openshift-rhpam-master/vars/
+-rw-rw-r-- root/root        44 2019-05-23 07:14 ansible-openshift-rhpam-master/vars/main.yml

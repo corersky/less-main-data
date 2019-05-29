@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-06-18 09:59 ansible-role-drupal-console-master/
+-rw-rw-r-- root/root       984 2015-06-18 09:59 ansible-role-drupal-console-master/.travis.yml
+-rw-rw-r-- root/root      1422 2015-06-18 09:59 ansible-role-drupal-console-master/README.md
+drwxrwxr-x root/root         0 2015-06-18 09:59 ansible-role-drupal-console-master/defaults/
+-rw-rw-r-- root/root        81 2015-06-18 09:59 ansible-role-drupal-console-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-18 09:59 ansible-role-drupal-console-master/meta/
+-rw-rw-r-- root/root       681 2015-06-18 09:59 ansible-role-drupal-console-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-18 09:59 ansible-role-drupal-console-master/tasks/
+-rw-rw-r-- root/root       826 2015-06-18 09:59 ansible-role-drupal-console-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-18 09:59 ansible-role-drupal-console-master/tests/
+-rw-rw-r-- root/root        10 2015-06-18 09:59 ansible-role-drupal-console-master/tests/inventory
+-rw-rw-r-- root/root       215 2015-06-18 09:59 ansible-role-drupal-console-master/tests/test.yml

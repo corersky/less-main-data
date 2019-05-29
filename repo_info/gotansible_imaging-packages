@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-08 15:18 imaging-packages-master/
+-rw-rw-r-- root/root        75 2015-06-08 15:18 imaging-packages-master/.bumpversion.cfg
+-rw-rw-r-- root/root       624 2015-06-08 15:18 imaging-packages-master/.travis.yml
+-rw-rw-r-- root/root      1344 2015-06-08 15:18 imaging-packages-master/README.md
+-rw-rw-r-- root/root       370 2015-06-08 15:18 imaging-packages-master/Vagrantfile
+-rw-rw-r-- root/root        59 2015-06-08 15:18 imaging-packages-master/ansible.cfg
+-rwxrwxr-x root/root       775 2015-06-08 15:18 imaging-packages-master/bumpversion
+drwxrwxr-x root/root         0 2015-06-08 15:18 imaging-packages-master/defaults/
+-rw-rw-r-- root/root        39 2015-06-08 15:18 imaging-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-08 15:18 imaging-packages-master/meta/
+-rw-rw-r-- root/root      1403 2015-06-08 15:18 imaging-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-08 15:18 imaging-packages-master/tasks/
+-rw-rw-r-- root/root      1424 2015-06-08 15:18 imaging-packages-master/tasks/install_debian.yml
+-rw-rw-r-- root/root        97 2015-06-08 15:18 imaging-packages-master/tasks/main.yml
+-rw-rw-r-- root/root        68 2015-06-08 15:18 imaging-packages-master/test.yml

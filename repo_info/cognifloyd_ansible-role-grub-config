@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-19 01:53 ansible-role-grub-config-master/
+-rw-rw-r-- root/root       539 2017-01-19 01:53 ansible-role-grub-config-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-01-19 01:53 ansible-role-grub-config-master/LICENSE
+-rw-rw-r-- root/root       834 2017-01-19 01:53 ansible-role-grub-config-master/README.md
+drwxrwxr-x root/root         0 2017-01-19 01:53 ansible-role-grub-config-master/defaults/
+-rw-rw-r-- root/root       134 2017-01-19 01:53 ansible-role-grub-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-19 01:53 ansible-role-grub-config-master/handlers/
+-rw-rw-r-- root/root        95 2017-01-19 01:53 ansible-role-grub-config-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-19 01:53 ansible-role-grub-config-master/meta/
+-rw-rw-r-- root/root       292 2017-01-19 01:53 ansible-role-grub-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-19 01:53 ansible-role-grub-config-master/tasks/
+-rw-rw-r-- root/root       192 2017-01-19 01:53 ansible-role-grub-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-19 01:53 ansible-role-grub-config-master/tests/
+-rw-rw-r-- root/root         9 2017-01-19 01:53 ansible-role-grub-config-master/tests/inventory
+-rw-rw-r-- root/root        83 2017-01-19 01:53 ansible-role-grub-config-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-20 14:44 ansible-role-mlflow-azure-master/
+-rw-rw-r-- root/root       107 2018-06-20 14:44 ansible-role-mlflow-azure-master/.gitignore
+-rw-rw-r-- root/root       207 2018-06-20 14:44 ansible-role-mlflow-azure-master/.travis.yml
+-rw-rw-r-- root/root       299 2018-06-20 14:44 ansible-role-mlflow-azure-master/README.md
+-rw-rw-r-- root/root       167 2018-06-20 14:44 ansible-role-mlflow-azure-master/Vagrantfile
+-rw-rw-r-- root/root        29 2018-06-20 14:44 ansible-role-mlflow-azure-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-06-20 14:44 ansible-role-mlflow-azure-master/meta/
+-rw-rw-r-- root/root       326 2018-06-20 14:44 ansible-role-mlflow-azure-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-20 14:44 ansible-role-mlflow-azure-master/tasks/
+-rw-rw-r-- root/root        39 2018-06-20 14:44 ansible-role-mlflow-azure-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-20 14:44 ansible-role-mlflow-azure-master/tests/
+-rw-rw-r-- root/root        10 2018-06-20 14:44 ansible-role-mlflow-azure-master/tests/inventory
+-rw-rw-r-- root/root       107 2018-06-20 14:44 ansible-role-mlflow-azure-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-20 14:44 ansible-role-mlflow-azure-master/vars/
+-rw-rw-r-- root/root        67 2018-06-20 14:44 ansible-role-mlflow-azure-master/vars/main.yml

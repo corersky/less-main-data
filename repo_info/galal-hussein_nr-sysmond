@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-10-21 10:25 nr-sysmond-master/
+-rw-rw-r-- root/root       235 2015-10-21 10:25 nr-sysmond-master/README.md
+drwxrwxr-x root/root         0 2015-10-21 10:25 nr-sysmond-master/defaults/
+-rw-rw-r-- root/root        29 2015-10-21 10:25 nr-sysmond-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-21 10:25 nr-sysmond-master/handlers/
+-rw-rw-r-- root/root        80 2015-10-21 10:25 nr-sysmond-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-21 10:25 nr-sysmond-master/meta/
+-rw-rw-r-- root/root      1622 2015-10-21 10:25 nr-sysmond-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-21 10:25 nr-sysmond-master/tasks/
+-rw-rw-r-- root/root       337 2015-10-21 10:25 nr-sysmond-master/tasks/debian.yml
+-rw-rw-r-- root/root       357 2015-10-21 10:25 nr-sysmond-master/tasks/main.yml
+-rw-rw-r-- root/root       312 2015-10-21 10:25 nr-sysmond-master/tasks/redhat.yml

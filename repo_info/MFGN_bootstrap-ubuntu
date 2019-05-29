@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-29 10:01 bootstrap-ubuntu-master/
+-rw-rw-r-- root/root        56 2015-11-29 10:01 bootstrap-ubuntu-master/README.md
+drwxrwxr-x root/root         0 2015-11-29 10:01 bootstrap-ubuntu-master/defaults/
+-rw-rw-r-- root/root       140 2015-11-29 10:01 bootstrap-ubuntu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-29 10:01 bootstrap-ubuntu-master/handlers/
+-rw-rw-r-- root/root       154 2015-11-29 10:01 bootstrap-ubuntu-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-29 10:01 bootstrap-ubuntu-master/meta/
+-rw-rw-r-- root/root       280 2015-11-29 10:01 bootstrap-ubuntu-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-29 10:01 bootstrap-ubuntu-master/tasks/
+-rw-rw-r-- root/root       470 2015-11-29 10:01 bootstrap-ubuntu-master/tasks/locale.yml
+-rw-rw-r-- root/root       134 2015-11-29 10:01 bootstrap-ubuntu-master/tasks/main.yml
+-rw-rw-r-- root/root       406 2015-11-29 10:01 bootstrap-ubuntu-master/tasks/packages.yml
+-rw-rw-r-- root/root       868 2015-11-29 10:01 bootstrap-ubuntu-master/tasks/security.yml
+-rw-rw-r-- root/root       705 2015-11-29 10:01 bootstrap-ubuntu-master/tasks/users.yml
+drwxrwxr-x root/root         0 2015-11-29 10:01 bootstrap-ubuntu-master/templates/
+-rw-rw-r-- root/root        89 2015-11-29 10:01 bootstrap-ubuntu-master/templates/environment
+-rw-rw-r-- root/root        13 2015-11-29 10:01 bootstrap-ubuntu-master/templates/timezone

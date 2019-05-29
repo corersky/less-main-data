@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-28 04:40 win-zabbix-agent-master/
+-rw-rw-r-- root/root      2367 2019-01-28 04:40 win-zabbix-agent-master/README.md
+drwxrwxr-x root/root         0 2019-01-28 04:40 win-zabbix-agent-master/meta/
+-rw-rw-r-- root/root       340 2019-01-28 04:40 win-zabbix-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-28 04:40 win-zabbix-agent-master/tasks/
+-rw-rw-r-- root/root       725 2019-01-28 04:40 win-zabbix-agent-master/tasks/main.yml
+-rw-rw-r-- root/root      1330 2019-01-28 04:40 win-zabbix-agent-master/tasks/version3.yml
+-rw-rw-r-- root/root      1460 2019-01-28 04:40 win-zabbix-agent-master/tasks/version4.yml
+drwxrwxr-x root/root         0 2019-01-28 04:40 win-zabbix-agent-master/templates/
+-rw-rw-r-- root/root      9916 2019-01-28 04:40 win-zabbix-agent-master/templates/zabbix_agentd.win.conf.j2
+drwxrwxr-x root/root         0 2019-01-28 04:40 win-zabbix-agent-master/tests/
+-rw-rw-r-- root/root       158 2019-01-28 04:40 win-zabbix-agent-master/tests/inventory
+-rw-rw-r-- root/root       217 2019-01-28 04:40 win-zabbix-agent-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-28 04:40 win-zabbix-agent-master/vars/
+-rw-rw-r-- root/root       405 2019-01-28 04:40 win-zabbix-agent-master/vars/main.yml

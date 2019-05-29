@@ -1,0 +1,46 @@
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/
+-rw-rw-r-- root/root        96 2015-03-28 19:35 ansible-role-mariadb-master/.dockerignore
+-rw-rw-r-- root/root        57 2015-03-28 19:35 ansible-role-mariadb-master/.gitignore
+-rw-rw-r-- root/root       136 2015-03-28 19:35 ansible-role-mariadb-master/.rsync-filter
+-rw-rw-r-- root/root      1725 2015-03-28 19:35 ansible-role-mariadb-master/.travis.yml
+-rw-rw-r-- root/root        35 2015-03-28 19:35 ansible-role-mariadb-master/AUTHORS
+-rw-rw-r-- root/root       596 2015-03-28 19:35 ansible-role-mariadb-master/Dockerfile
+-rw-rw-r-- root/root     18025 2015-03-28 19:35 ansible-role-mariadb-master/LICENSE
+-rw-rw-r-- root/root      1487 2015-03-28 19:35 ansible-role-mariadb-master/README.md
+-rw-rw-r-- root/root      1714 2015-03-28 19:35 ansible-role-mariadb-master/Vagrantfile
+-rw-rw-r-- root/root       216 2015-03-28 19:35 ansible-role-mariadb-master/ansible.cfg
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/defaults/
+-rw-rw-r-- root/root       782 2015-03-28 19:35 ansible-role-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/group_vars/
+lrwxrwxrwx root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/group_vars/all.yml -> ../defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/inventories/
+-rw-rw-r-- root/root        35 2015-03-28 19:35 ansible-role-mariadb-master/inventories/local.ini
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/meta/
+-rw-rw-r-- root/root       291 2015-03-28 19:35 ansible-role-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/provisioning/
+-rw-rw-r-- root/root        74 2015-03-28 19:35 ansible-role-mariadb-master/provisioning/configure.yml
+-rw-rw-r-- root/root        63 2015-03-28 19:35 ansible-role-mariadb-master/provisioning/deploy.yml
+lrwxrwxrwx root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/provisioning/group_vars -> ../group_vars
+-rw-rw-r-- root/root        72 2015-03-28 19:35 ansible-role-mariadb-master/provisioning/install.yml
+lrwxrwxrwx root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/provisioning/roles -> ../roles
+lrwxrwxrwx root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/provisioning/templates -> ../templates
+-rw-rw-r-- root/root       366 2015-03-28 19:35 ansible-role-mariadb-master/provisioning/test.yml
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/roles/
+lrwxrwxrwx root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/roles/marklee77.mariadb -> ..
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/scripts/
+-rwxrwxr-x root/root       450 2015-03-28 19:35 ansible-role-mariadb-master/scripts/startmariadb.sh
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/tasks/
+-rw-rw-r-- root/root      1497 2015-03-28 19:35 ansible-role-mariadb-master/tasks/configure.yml
+-rw-rw-r-- root/root      2528 2015-03-28 19:35 ansible-role-mariadb-master/tasks/docker.yml
+-rw-rw-r-- root/root       882 2015-03-28 19:35 ansible-role-mariadb-master/tasks/install.yml
+-rw-rw-r-- root/root       220 2015-03-28 19:35 ansible-role-mariadb-master/tasks/main.yml
+-rw-rw-r-- root/root       181 2015-03-28 19:35 ansible-role-mariadb-master/tasks/prep.yml
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/templates/
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/templates/ansible_cache/
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/templates/ansible_cache/dockerbuild/
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/templates/ansible_cache/dockerbuild/mariadb/
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/templates/ansible_cache/dockerbuild/mariadb/provisioning/
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/templates/ansible_cache/dockerbuild/mariadb/provisioning/group_vars/
+-rw-rw-r-- root/root       229 2015-03-28 19:35 ansible-role-mariadb-master/templates/ansible_cache/dockerbuild/mariadb/provisioning/group_vars/all.yml
+drwxrwxr-x root/root         0 2015-03-28 19:35 ansible-role-mariadb-master/templates/root/
+-rw-rw-r-- root/root        62 2015-03-28 19:35 ansible-role-mariadb-master/templates/root/.my.cnf

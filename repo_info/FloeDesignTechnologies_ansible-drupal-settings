@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-08-20 12:43 ansible-drupal-settings-master/
+-rw-rw-r-- root/root     11325 2015-08-20 12:43 ansible-drupal-settings-master/LICENSE
+-rw-rw-r-- root/root      2696 2015-08-20 12:43 ansible-drupal-settings-master/README.md
+drwxrwxr-x root/root         0 2015-08-20 12:43 ansible-drupal-settings-master/defaults/
+-rw-rw-r-- root/root       890 2015-08-20 12:43 ansible-drupal-settings-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-20 12:43 ansible-drupal-settings-master/handlers/
+-rw-rw-r-- root/root        40 2015-08-20 12:43 ansible-drupal-settings-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-20 12:43 ansible-drupal-settings-master/meta/
+-rw-rw-r-- root/root       679 2015-08-20 12:43 ansible-drupal-settings-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-20 12:43 ansible-drupal-settings-master/tasks/
+-rw-rw-r-- root/root       614 2015-08-20 12:43 ansible-drupal-settings-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-20 12:43 ansible-drupal-settings-master/templates/
+-rw-rw-r-- root/root      5616 2015-08-20 12:43 ansible-drupal-settings-master/templates/settings.j2
+-rw-rw-r-- root/root       301 2015-08-20 12:43 ansible-drupal-settings-master/templates/sites.j2
+drwxrwxr-x root/root         0 2015-08-20 12:43 ansible-drupal-settings-master/vars/
+-rw-rw-r-- root/root        36 2015-08-20 12:43 ansible-drupal-settings-master/vars/main.yml

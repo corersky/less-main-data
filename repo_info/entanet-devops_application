@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-09 13:05 application-master/
+-rw-rw-r-- root/root       451 2019-05-09 13:05 application-master/README.md
+drwxrwxr-x root/root         0 2019-05-09 13:05 application-master/defaults/
+-rw-rw-r-- root/root       109 2019-05-09 13:05 application-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-09 13:05 application-master/meta/
+-rw-rw-r-- root/root       246 2019-05-09 13:05 application-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-09 13:05 application-master/tasks/
+-rw-rw-r-- root/root       677 2019-05-09 13:05 application-master/tasks/behat.yml
+-rw-rw-r-- root/root       451 2019-05-09 13:05 application-master/tasks/env.yml
+-rw-rw-r-- root/root      1545 2019-05-09 13:05 application-master/tasks/main.yml
+-rw-rw-r-- root/root       683 2019-05-09 13:05 application-master/tasks/testing.yml

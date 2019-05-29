@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-10 15:19 systemd-journald-master/
+-rw-rw-r-- root/root     22240 2017-08-10 15:19 systemd-journald-master/LICENSE
+-rw-rw-r-- root/root      1319 2017-08-10 15:19 systemd-journald-master/README.md
+drwxrwxr-x root/root         0 2017-08-10 15:19 systemd-journald-master/defaults/
+-rw-rw-r-- root/root        56 2017-08-10 15:19 systemd-journald-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-10 15:19 systemd-journald-master/handlers/
+-rw-rw-r-- root/root       104 2017-08-10 15:19 systemd-journald-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-10 15:19 systemd-journald-master/meta/
+-rw-rw-r-- root/root       470 2017-08-10 15:19 systemd-journald-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-10 15:19 systemd-journald-master/tasks/
+-rw-rw-r-- root/root       328 2017-08-10 15:19 systemd-journald-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-10 15:19 systemd-journald-master/templates/
+-rw-rw-r-- root/root       105 2017-08-10 15:19 systemd-journald-master/templates/journald.conf.j2

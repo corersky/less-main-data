@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-31 09:27 ansible-security-master/
+-rw-rw-r-- root/root       851 2018-05-31 09:27 ansible-security-master/.travis.yml
+-rw-rw-r-- root/root      4807 2018-05-31 09:27 ansible-security-master/README.md
+drwxrwxr-x root/root         0 2018-05-31 09:27 ansible-security-master/defaults/
+-rw-rw-r-- root/root       143 2018-05-31 09:27 ansible-security-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-31 09:27 ansible-security-master/handlers/
+-rw-rw-r-- root/root       183 2018-05-31 09:27 ansible-security-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-31 09:27 ansible-security-master/meta/
+-rw-rw-r-- root/root       285 2018-05-31 09:27 ansible-security-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-31 09:27 ansible-security-master/tasks/
+-rw-rw-r-- root/root      1458 2018-05-31 09:27 ansible-security-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-31 09:27 ansible-security-master/templates/
+-rw-rw-r-- root/root      2565 2018-05-31 09:27 ansible-security-master/templates/sshd_config.j2
+-rw-rw-r-- root/root      2210 2018-05-31 09:27 ansible-security-master/templates/ufw_config.j2
+drwxrwxr-x root/root         0 2018-05-31 09:27 ansible-security-master/tests/
+-rw-rw-r-- root/root         9 2018-05-31 09:27 ansible-security-master/tests/inventory
+-rw-rw-r-- root/root       121 2018-05-31 09:27 ansible-security-master/tests/test.yml

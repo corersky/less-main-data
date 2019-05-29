@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-16 17:35 ansible-role-jsmin-master/
+-rw-rw-r-- root/root       416 2017-12-16 17:35 ansible-role-jsmin-master/.travis.yml
+-rw-rw-r-- root/root      1076 2017-12-16 17:35 ansible-role-jsmin-master/LICENSE
+-rw-rw-r-- root/root      2228 2017-12-16 17:35 ansible-role-jsmin-master/README.md
+drwxrwxr-x root/root         0 2017-12-16 17:35 ansible-role-jsmin-master/defaults/
+-rw-rw-r-- root/root       536 2017-12-16 17:35 ansible-role-jsmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-16 17:35 ansible-role-jsmin-master/meta/
+-rw-rw-r-- root/root       331 2017-12-16 17:35 ansible-role-jsmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-16 17:35 ansible-role-jsmin-master/tasks/
+-rw-rw-r-- root/root      2646 2017-12-16 17:35 ansible-role-jsmin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-16 17:35 ansible-role-jsmin-master/tests/
+-rw-rw-r-- root/root       143 2017-12-16 17:35 ansible-role-jsmin-master/tests/setup-debian8.yml
+-rw-rw-r-- root/root       145 2017-12-16 17:35 ansible-role-jsmin-master/tests/setup-debian9.yml
+-rw-rw-r-- root/root       311 2017-12-16 17:35 ansible-role-jsmin-master/tests/setup-ubuntu.yml
+-rw-rw-r-- root/root       561 2017-12-16 17:35 ansible-role-jsmin-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-16 17:35 ansible-role-jsmin-master/vars/
+-rw-rw-r-- root/root       173 2017-12-16 17:35 ansible-role-jsmin-master/vars/debian.yml

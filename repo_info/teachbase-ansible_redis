@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-05-24 13:58 redis-master/
+-rw-rw-r-- root/root       663 2018-05-24 13:58 redis-master/README.md
+drwxrwxr-x root/root         0 2018-05-24 13:58 redis-master/defaults/
+-rw-rw-r-- root/root       244 2018-05-24 13:58 redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-24 13:58 redis-master/handlers/
+-rw-rw-r-- root/root       200 2018-05-24 13:58 redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-24 13:58 redis-master/meta/
+-rw-rw-r-- root/root       252 2018-05-24 13:58 redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 13:58 redis-master/tasks/
+-rw-rw-r-- root/root        31 2018-05-24 13:58 redis-master/tasks/main.yml
+-rw-rw-r-- root/root      1253 2018-05-24 13:58 redis-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2018-05-24 13:58 redis-master/templates/
+-rw-rw-r-- root/root       451 2018-05-24 13:58 redis-master/templates/redis-server.service
+-rw-rw-r-- root/root       153 2018-05-24 13:58 redis-master/templates/upstart_redis.conf

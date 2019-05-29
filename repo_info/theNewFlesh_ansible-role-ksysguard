@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-11-04 00:06 ansible-role-ksysguard-master/
+-rw-rw-r-- root/root       843 2017-11-04 00:06 ansible-role-ksysguard-master/.gitignore
+-rw-rw-r-- root/root       539 2017-11-04 00:06 ansible-role-ksysguard-master/.travis.yml
+-rw-rw-r-- root/root      1328 2017-11-04 00:06 ansible-role-ksysguard-master/README.md
+drwxrwxr-x root/root         0 2017-11-04 00:06 ansible-role-ksysguard-master/defaults/
+-rw-rw-r-- root/root        19 2017-11-04 00:06 ansible-role-ksysguard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-04 00:06 ansible-role-ksysguard-master/meta/
+-rw-rw-r-- root/root       300 2017-11-04 00:06 ansible-role-ksysguard-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-04 00:06 ansible-role-ksysguard-master/tasks/
+-rw-rw-r-- root/root       166 2017-11-04 00:06 ansible-role-ksysguard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-04 00:06 ansible-role-ksysguard-master/tests/
+-rw-rw-r-- root/root       257 2017-11-04 00:06 ansible-role-ksysguard-master/tests/ansible.cfg
+-rw-rw-r-- root/root       109 2017-11-04 00:06 ansible-role-ksysguard-master/tests/staging
+-rw-rw-r-- root/root       194 2017-11-04 00:06 ansible-role-ksysguard-master/tests/test.yml

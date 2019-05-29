@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-13 09:38 freebsd-consul-master/
+-rw-rw-r-- root/root      1313 2018-03-13 09:38 freebsd-consul-master/LICENSE
+-rw-rw-r-- root/root        16 2018-03-13 09:38 freebsd-consul-master/README.md
+drwxrwxr-x root/root         0 2018-03-13 09:38 freebsd-consul-master/handlers/
+-rw-rw-r-- root/root        76 2018-03-13 09:38 freebsd-consul-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-13 09:38 freebsd-consul-master/meta/
+-rw-rw-r-- root/root       328 2018-03-13 09:38 freebsd-consul-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-13 09:38 freebsd-consul-master/tasks/
+-rw-rw-r-- root/root       356 2018-03-13 09:38 freebsd-consul-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-13 09:38 freebsd-consul-master/templates/
+-rw-rw-r-- root/root       174 2018-03-13 09:38 freebsd-consul-master/templates/consul.j2
+drwxrwxr-x root/root         0 2018-03-13 09:38 freebsd-consul-master/vars/
+-rw-rw-r-- root/root        38 2018-03-13 09:38 freebsd-consul-master/vars/main.yml

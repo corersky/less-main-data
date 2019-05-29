@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-29 08:38 ansible-php_fpm-master/
+-rw-rw-r-- root/root     35147 2016-03-29 08:38 ansible-php_fpm-master/COPYING
+-rw-rw-r-- root/root      7651 2016-03-29 08:38 ansible-php_fpm-master/COPYING.LESSER
+-rw-rw-r-- root/root       861 2016-03-29 08:38 ansible-php_fpm-master/README.md
+drwxrwxr-x root/root         0 2016-03-29 08:38 ansible-php_fpm-master/defaults/
+-rw-rw-r-- root/root     21000 2016-03-29 08:38 ansible-php_fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-29 08:38 ansible-php_fpm-master/meta/
+-rw-rw-r-- root/root       308 2016-03-29 08:38 ansible-php_fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-29 08:38 ansible-php_fpm-master/tasks/
+-rw-rw-r-- root/root       965 2016-03-29 08:38 ansible-php_fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-29 08:38 ansible-php_fpm-master/templates/
+-rw-rw-r-- root/root      3859 2016-03-29 08:38 ansible-php_fpm-master/templates/php-fpm-pool.conf.j2
+-rw-rw-r-- root/root      1350 2016-03-29 08:38 ansible-php_fpm-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root     97066 2016-03-29 08:38 ansible-php_fpm-master/templates/php.ini.j2

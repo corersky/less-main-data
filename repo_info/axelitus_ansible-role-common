@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-11-09 10:26 ansible-role-common-master/
+-rw-rw-r-- root/root       317 2016-11-09 10:26 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2016-11-09 10:26 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       256 2016-11-09 10:26 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-09 10:26 ansible-role-common-master/tasks/
+drwxrwxr-x root/root         0 2016-11-09 10:26 ansible-role-common-master/tasks/Ubuntu/
+-rw-rw-r-- root/root       264 2016-11-09 10:26 ansible-role-common-master/tasks/Ubuntu/add_repos.yml
+-rw-rw-r-- root/root       305 2016-11-09 10:26 ansible-role-common-master/tasks/Ubuntu/install_tools.yml
+-rw-rw-r-- root/root       271 2016-11-09 10:26 ansible-role-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-09 10:26 ansible-role-common-master/vars/
+-rw-rw-r-- root/root       340 2016-11-09 10:26 ansible-role-common-master/vars/Debian.yml
+-rw-rw-r-- root/root        74 2016-11-09 10:26 ansible-role-common-master/vars/main.yml

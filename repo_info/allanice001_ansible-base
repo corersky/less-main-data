@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-10-14 04:05 ansible-base-master/
+-rwxrwxr-x root/root       439 2016-10-14 04:05 ansible-base-master/README.md
+drwxrwxr-x root/root         0 2016-10-14 04:05 ansible-base-master/files/
+-rwxrwxr-x root/root        84 2016-10-14 04:05 ansible-base-master/files/ubuntu-apt-deps.txt
+drwxrwxr-x root/root         0 2016-10-14 04:05 ansible-base-master/meta/
+-rwxrwxr-x root/root       417 2016-10-14 04:05 ansible-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-14 04:05 ansible-base-master/tasks/
+-rwxrwxr-x root/root       554 2016-10-14 04:05 ansible-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-14 04:05 ansible-base-master/vagrant/
+-rwxrwxr-x root/root       646 2016-10-14 04:05 ansible-base-master/vagrant/Vagrantfile
+-rwxrwxr-x root/root       249 2016-10-14 04:05 ansible-base-master/vagrant/ansible.cfg
+-rwxrwxr-x root/root        49 2016-10-14 04:05 ansible-base-master/vagrant/test-base-role.yml

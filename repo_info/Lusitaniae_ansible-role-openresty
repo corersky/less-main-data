@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-25 11:39 ansible-role-openresty-master/
+-rw-rw-r-- root/root       721 2017-12-25 11:39 ansible-role-openresty-master/.travis.yml
+-rw-rw-r-- root/root       820 2017-12-25 11:39 ansible-role-openresty-master/README.md
+drwxrwxr-x root/root         0 2017-12-25 11:39 ansible-role-openresty-master/defaults/
+-rw-rw-r-- root/root       291 2017-12-25 11:39 ansible-role-openresty-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-25 11:39 ansible-role-openresty-master/handlers/
+-rw-rw-r-- root/root       227 2017-12-25 11:39 ansible-role-openresty-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-25 11:39 ansible-role-openresty-master/meta/
+-rw-rw-r-- root/root       353 2017-12-25 11:39 ansible-role-openresty-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-25 11:39 ansible-role-openresty-master/tasks/
+-rw-rw-r-- root/root       160 2017-12-25 11:39 ansible-role-openresty-master/tasks/main.yml
+-rw-rw-r-- root/root       820 2017-12-25 11:39 ansible-role-openresty-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root      1744 2017-12-25 11:39 ansible-role-openresty-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2017-12-25 11:39 ansible-role-openresty-master/tests/
+-rw-rw-r-- root/root       570 2017-12-25 11:39 ansible-role-openresty-master/tests/test.yml

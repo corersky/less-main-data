@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-27 03:33 ansible-role-base-master/
+-rw-rw-r-- root/root      1439 2015-11-27 03:33 ansible-role-base-master/README.md
+drwxrwxr-x root/root         0 2015-11-27 03:33 ansible-role-base-master/defaults/
+-rw-rw-r-- root/root       583 2015-11-27 03:33 ansible-role-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-27 03:33 ansible-role-base-master/handlers/
+-rw-rw-r-- root/root        34 2015-11-27 03:33 ansible-role-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-27 03:33 ansible-role-base-master/meta/
+-rw-rw-r-- root/root       292 2015-11-27 03:33 ansible-role-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-27 03:33 ansible-role-base-master/tasks/
+-rw-rw-r-- root/root      1037 2015-11-27 03:33 ansible-role-base-master/tasks/debian.yml
+-rw-rw-r-- root/root        91 2015-11-27 03:33 ansible-role-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-27 03:33 ansible-role-base-master/vars/
+-rw-rw-r-- root/root        30 2015-11-27 03:33 ansible-role-base-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-12 20:55 ansible-roles-nginx-master/
+-rw-rw-r-- root/root       145 2018-06-12 20:55 ansible-roles-nginx-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-06-12 20:55 ansible-roles-nginx-master/LICENSE
+-rw-rw-r-- root/root      2442 2018-06-12 20:55 ansible-roles-nginx-master/README.md
+drwxrwxr-x root/root         0 2018-06-12 20:55 ansible-roles-nginx-master/defaults/
+-rw-rw-r-- root/root      1078 2018-06-12 20:55 ansible-roles-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-12 20:55 ansible-roles-nginx-master/handlers/
+-rw-rw-r-- root/root       159 2018-06-12 20:55 ansible-roles-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-12 20:55 ansible-roles-nginx-master/meta/
+-rw-rw-r-- root/root       258 2018-06-12 20:55 ansible-roles-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-12 20:55 ansible-roles-nginx-master/tasks/
+-rw-rw-r-- root/root      1165 2018-06-12 20:55 ansible-roles-nginx-master/tasks/build.yml
+-rw-rw-r-- root/root       767 2018-06-12 20:55 ansible-roles-nginx-master/tasks/deploy.yml
+-rw-rw-r-- root/root       157 2018-06-12 20:55 ansible-roles-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-12 20:55 ansible-roles-nginx-master/templates/
+-rw-rw-r-- root/root      3419 2018-06-12 20:55 ansible-roles-nginx-master/templates/wsgi-site-conf.j2

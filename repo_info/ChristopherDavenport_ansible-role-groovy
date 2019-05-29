@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-30 21:01 ansible-role-groovy-master/
+-rw-rw-r-- root/root         0 2017-03-30 21:01 ansible-role-groovy-master/.gitignore
+-rw-rw-r-- root/root      2797 2017-03-30 21:01 ansible-role-groovy-master/.travis.yml
+-rw-rw-r-- root/root      1061 2017-03-30 21:01 ansible-role-groovy-master/LICENSE.md
+-rw-rw-r-- root/root       191 2017-03-30 21:01 ansible-role-groovy-master/README.md
+drwxrwxr-x root/root         0 2017-03-30 21:01 ansible-role-groovy-master/defaults/
+-rw-rw-r-- root/root       378 2017-03-30 21:01 ansible-role-groovy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-30 21:01 ansible-role-groovy-master/meta/
+-rw-rw-r-- root/root       683 2017-03-30 21:01 ansible-role-groovy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-30 21:01 ansible-role-groovy-master/tasks/
+-rw-rw-r-- root/root       840 2017-03-30 21:01 ansible-role-groovy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-30 21:01 ansible-role-groovy-master/templates/
+-rw-rw-r-- root/root        92 2017-03-30 21:01 ansible-role-groovy-master/templates/groovy_home.sh.j2
+drwxrwxr-x root/root         0 2017-03-30 21:01 ansible-role-groovy-master/tests/
+-rw-rw-r-- root/root       431 2017-03-30 21:01 ansible-role-groovy-master/tests/test.yml

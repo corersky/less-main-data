@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-23 21:42 cloudweeb.repo_litespeed-master/
+-rw-rw-r-- root/root        28 2019-04-23 21:42 cloudweeb.repo_litespeed-master/.gitignore
+-rw-rw-r-- root/root       308 2019-04-23 21:42 cloudweeb.repo_litespeed-master/.travis.yml
+-rw-rw-r-- root/root       570 2019-04-23 21:42 cloudweeb.repo_litespeed-master/.yamllint
+-rw-rw-r-- root/root      1079 2019-04-23 21:42 cloudweeb.repo_litespeed-master/LICENSE
+-rw-rw-r-- root/root       520 2019-04-23 21:42 cloudweeb.repo_litespeed-master/README.md
+drwxrwxr-x root/root         0 2019-04-23 21:42 cloudweeb.repo_litespeed-master/meta/
+-rw-rw-r-- root/root       340 2019-04-23 21:42 cloudweeb.repo_litespeed-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-23 21:42 cloudweeb.repo_litespeed-master/molecule/
+drwxrwxr-x root/root         0 2019-04-23 21:42 cloudweeb.repo_litespeed-master/molecule/default/
+-rw-rw-r-- root/root       528 2019-04-23 21:42 cloudweeb.repo_litespeed-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        80 2019-04-23 21:42 cloudweeb.repo_litespeed-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-04-23 21:42 cloudweeb.repo_litespeed-master/molecule/default/tests/
+-rw-rw-r-- root/root       580 2019-04-23 21:42 cloudweeb.repo_litespeed-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2019-04-23 21:42 cloudweeb.repo_litespeed-master/tasks/
+-rw-rw-r-- root/root       889 2019-04-23 21:42 cloudweeb.repo_litespeed-master/tasks/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-package_update-master/
+-rw-rw-r-- root/root       783 2017-08-24 03:35 ansible-package_update-master/.travis.yml
+-rw-rw-r-- root/root      3219 2017-08-24 03:35 ansible-package_update-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root      1072 2017-08-24 03:35 ansible-package_update-master/LICENSE
+-rw-rw-r-- root/root       865 2017-08-24 03:35 ansible-package_update-master/README.md
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-package_update-master/defaults/
+-rw-rw-r-- root/root        47 2017-08-24 03:35 ansible-package_update-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-package_update-master/meta/
+-rw-rw-r-- root/root      3917 2017-08-24 03:35 ansible-package_update-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-package_update-master/tasks/
+-rw-rw-r-- root/root      1036 2017-08-24 03:35 ansible-package_update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-package_update-master/tests/
+-rw-rw-r-- root/root         9 2017-08-24 03:35 ansible-package_update-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-08-24 03:35 ansible-package_update-master/tests/test.yml

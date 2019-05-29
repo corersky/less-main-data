@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-04 14:41 ansible-homebrew-master/
+-rw-rw-r-- root/root       621 2015-06-04 14:41 ansible-homebrew-master/.travis.yml
+-rw-rw-r-- root/root      1082 2015-06-04 14:41 ansible-homebrew-master/LICENSE
+-rw-rw-r-- root/root      1389 2015-06-04 14:41 ansible-homebrew-master/README.md
+drwxrwxr-x root/root         0 2015-06-04 14:41 ansible-homebrew-master/defaults/
+-rw-rw-r-- root/root       364 2015-06-04 14:41 ansible-homebrew-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-04 14:41 ansible-homebrew-master/meta/
+-rw-rw-r-- root/root       503 2015-06-04 14:41 ansible-homebrew-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-04 14:41 ansible-homebrew-master/tasks/
+-rw-rw-r-- root/root       428 2015-06-04 14:41 ansible-homebrew-master/tasks/casks.yml
+-rw-rw-r-- root/root       754 2015-06-04 14:41 ansible-homebrew-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-04 14:41 ansible-homebrew-master/tests/
+-rw-rw-r-- root/root        10 2015-06-04 14:41 ansible-homebrew-master/tests/inventory
+-rw-rw-r-- root/root        75 2015-06-04 14:41 ansible-homebrew-master/tests/tests.yml

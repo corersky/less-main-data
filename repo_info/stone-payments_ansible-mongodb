@@ -1,0 +1,56 @@
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/
+-rw-rw-r-- root/root        43 2019-01-28 14:20 ansible-mongodb-master/.gitignore
+-rw-rw-r-- root/root       413 2019-01-28 14:20 ansible-mongodb-master/.travis.yml
+-rw-rw-r-- root/root        15 2019-01-28 14:20 ansible-mongodb-master/CODEOWNERS
+-rw-rw-r-- root/root      1080 2019-01-28 14:20 ansible-mongodb-master/LICENSE
+-rw-rw-r-- root/root      6005 2019-01-28 14:20 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root      2342 2019-01-28 14:20 ansible-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root       242 2019-01-28 14:20 ansible-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/library/
+-rw-rw-r-- root/root     15158 2019-01-28 14:20 ansible-mongodb-master/library/mongodb_replica_set.py
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       448 2019-01-28 14:20 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/default/
+-rw-rw-r-- root/root      1170 2019-01-28 14:20 ansible-mongodb-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       151 2019-01-28 14:20 ansible-mongodb-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2317 2019-01-28 14:20 ansible-mongodb-master/molecule/default/create.yml
+-rw-rw-r-- root/root       562 2019-01-28 14:20 ansible-mongodb-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       818 2019-01-28 14:20 ansible-mongodb-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        78 2019-01-28 14:20 ansible-mongodb-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root       185 2019-01-28 14:20 ansible-mongodb-master/molecule/default/prepare.yml
+-rw-rw-r-- root/root       213 2019-01-28 14:20 ansible-mongodb-master/molecule/default/requirements.yml
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2019-01-28 14:20 ansible-mongodb-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1021 2019-01-28 14:20 ansible-mongodb-master/molecule/default/tests/test_default.pyc
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/replica-set/
+lrwxrwxrwx root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/replica-set/Dockerfile.j2 -> ../default/Dockerfile.j2
+lrwxrwxrwx root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/replica-set/create.yml -> ../default/create.yml
+lrwxrwxrwx root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/replica-set/destroy.yml -> ../default/destroy.yml
+-rw-rw-r-- root/root       993 2019-01-28 14:20 ansible-mongodb-master/molecule/replica-set/molecule.yml
+-rw-rw-r-- root/root       379 2019-01-28 14:20 ansible-mongodb-master/molecule/replica-set/playbook.yml
+lrwxrwxrwx root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/replica-set/prepare.yml -> ../default/prepare.yml
+lrwxrwxrwx root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/replica-set/requirements.yml -> ../default/requirements.yml
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/molecule/security/
+-rw-rw-r-- root/root      1950 2019-01-28 14:20 ansible-mongodb-master/molecule/security/create.yml
+-rw-rw-r-- root/root       761 2019-01-28 14:20 ansible-mongodb-master/molecule/security/destroy.yml
+-rw-rw-r-- root/root       652 2019-01-28 14:20 ansible-mongodb-master/molecule/security/molecule.yml
+-rw-rw-r-- root/root       136 2019-01-28 14:20 ansible-mongodb-master/molecule/security/playbook.yml
+-rw-rw-r-- root/root       892 2019-01-28 14:20 ansible-mongodb-master/molecule/security/prepare.yml
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root       983 2019-01-28 14:20 ansible-mongodb-master/tasks/admin.yml
+-rw-rw-r-- root/root       773 2019-01-28 14:20 ansible-mongodb-master/tasks/configure.yml
+-rw-rw-r-- root/root      1032 2019-01-28 14:20 ansible-mongodb-master/tasks/firewall.yml
+-rw-rw-r-- root/root      1320 2019-01-28 14:20 ansible-mongodb-master/tasks/install.common.yml
+-rw-rw-r-- root/root      1276 2019-01-28 14:20 ansible-mongodb-master/tasks/install.deb.yml
+-rw-rw-r-- root/root      1476 2019-01-28 14:20 ansible-mongodb-master/tasks/install.rpm.yml
+-rw-rw-r-- root/root      1060 2019-01-28 14:20 ansible-mongodb-master/tasks/lsm.yml
+-rw-rw-r-- root/root      1625 2019-01-28 14:20 ansible-mongodb-master/tasks/main.yml
+-rw-rw-r-- root/root      1999 2019-01-28 14:20 ansible-mongodb-master/tasks/replica.yml
+-rw-rw-r-- root/root       302 2019-01-28 14:20 ansible-mongodb-master/tasks/safeMode.yml
+drwxrwxr-x root/root         0 2019-01-28 14:20 ansible-mongodb-master/templates/
+-rw-rw-r-- root/root      1309 2019-01-28 14:20 ansible-mongodb-master/templates/mongod.conf.j2
+-rw-rw-r-- root/root        26 2019-01-28 14:20 ansible-mongodb-master/templates/mongod.key.j2
+-rw-rw-r-- root/root       710 2019-01-28 14:20 ansible-mongodb-master/templates/mongod.service.j2

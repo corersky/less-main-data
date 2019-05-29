@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-30 10:19 trellis-nixstats-master/
+-rw-rw-r-- root/root      3232 2019-04-30 10:19 trellis-nixstats-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root      1074 2019-04-30 10:19 trellis-nixstats-master/LICENSE
+drwxrwxr-x root/root         0 2019-04-30 10:19 trellis-nixstats-master/defaults/
+-rw-rw-r-- root/root        91 2019-04-30 10:19 trellis-nixstats-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-30 10:19 trellis-nixstats-master/handlers/
+-rw-rw-r-- root/root        92 2019-04-30 10:19 trellis-nixstats-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-30 10:19 trellis-nixstats-master/meta/
+-rw-rw-r-- root/root       388 2019-04-30 10:19 trellis-nixstats-master/meta/main.yml
+-rw-rw-r-- root/root      2323 2019-04-30 10:19 trellis-nixstats-master/readme.md
+drwxrwxr-x root/root         0 2019-04-30 10:19 trellis-nixstats-master/tasks/
+-rw-rw-r-- root/root      2424 2019-04-30 10:19 trellis-nixstats-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-30 10:19 trellis-nixstats-master/templates/
+-rw-rw-r-- root/root       180 2019-04-30 10:19 trellis-nixstats-master/templates/nginx_status.conf.j2
+-rw-rw-r-- root/root      1147 2019-04-30 10:19 trellis-nixstats-master/templates/nixstats.ini.j2
+-rw-rw-r-- root/root        68 2019-04-30 10:19 trellis-nixstats-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root       332 2019-04-30 10:19 trellis-nixstats-master/templates/phpfpm_status.conf.j2

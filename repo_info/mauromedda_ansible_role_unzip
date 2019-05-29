@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-30 09:05 ansible_role_unzip-master/
+-rw-rw-r-- root/root       429 2017-09-30 09:05 ansible_role_unzip-master/.travis.yml
+-rw-rw-r-- root/root        50 2017-09-30 09:05 ansible_role_unzip-master/CHANGELOG.md
+-rw-rw-r-- root/root      1316 2017-09-30 09:05 ansible_role_unzip-master/LICENSE
+-rw-rw-r-- root/root       593 2017-09-30 09:05 ansible_role_unzip-master/README.md
+drwxrwxr-x root/root         0 2017-09-30 09:05 ansible_role_unzip-master/defaults/
+-rw-rw-r-- root/root       178 2017-09-30 09:05 ansible_role_unzip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-30 09:05 ansible_role_unzip-master/handlers/
+-rw-rw-r-- root/root        42 2017-09-30 09:05 ansible_role_unzip-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-30 09:05 ansible_role_unzip-master/meta/
+-rw-rw-r-- root/root       246 2017-09-30 09:05 ansible_role_unzip-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-30 09:05 ansible_role_unzip-master/tasks/
+-rw-rw-r-- root/root       181 2017-09-30 09:05 ansible_role_unzip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-30 09:05 ansible_role_unzip-master/tests/
+-rw-rw-r-- root/root        11 2017-09-30 09:05 ansible_role_unzip-master/tests/inventory
+-rw-rw-r-- root/root        90 2017-09-30 09:05 ansible_role_unzip-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-11-05 04:17 ansible-role-phpredis-master/
+-rw-rw-r-- root/root       306 2015-11-05 04:17 ansible-role-phpredis-master/README.md
+drwxrwxr-x root/root         0 2015-11-05 04:17 ansible-role-phpredis-master/defaults/
+-rw-rw-r-- root/root        30 2015-11-05 04:17 ansible-role-phpredis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-05 04:17 ansible-role-phpredis-master/files/
+-rw-rw-r-- root/root        18 2015-11-05 04:17 ansible-role-phpredis-master/files/phpredis.ini
+drwxrwxr-x root/root         0 2015-11-05 04:17 ansible-role-phpredis-master/handlers/
+-rw-rw-r-- root/root        63 2015-11-05 04:17 ansible-role-phpredis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-05 04:17 ansible-role-phpredis-master/meta/
+-rw-rw-r-- root/root       368 2015-11-05 04:17 ansible-role-phpredis-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-05 04:17 ansible-role-phpredis-master/tasks/
+-rw-rw-r-- root/root      1139 2015-11-05 04:17 ansible-role-phpredis-master/tasks/main.yml

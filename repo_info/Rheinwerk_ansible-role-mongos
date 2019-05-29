@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-mongos-master/
+-rw-rw-r-- root/root       695 2018-07-04 04:50 ansible-role-mongos-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-07-04 04:50 ansible-role-mongos-master/LICENSE
+-rw-rw-r-- root/root      1224 2018-07-04 04:50 ansible-role-mongos-master/README.md
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-mongos-master/defaults/
+-rw-rw-r-- root/root       467 2018-07-04 04:50 ansible-role-mongos-master/defaults/main.yml
+-rw-rw-r-- root/root       568 2018-07-04 04:50 ansible-role-mongos-master/galaxy-yamllint.yaml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-mongos-master/meta/
+-rw-rw-r-- root/root       274 2018-07-04 04:50 ansible-role-mongos-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-mongos-master/tasks/
+-rw-rw-r-- root/root       599 2018-07-04 04:50 ansible-role-mongos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-mongos-master/tests/
+-rw-rw-r-- root/root        29 2018-07-04 04:50 ansible-role-mongos-master/tests/ansible.cfg
+-rw-rw-r-- root/root        20 2018-07-04 04:50 ansible-role-mongos-master/tests/inventory
+-rwxrwxr-x root/root        63 2018-07-04 04:50 ansible-role-mongos-master/tests/run_tests.sh
+-rw-rw-r-- root/root       112 2018-07-04 04:50 ansible-role-mongos-master/tests/test.yml

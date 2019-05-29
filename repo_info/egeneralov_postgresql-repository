@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-30 07:22 postgresql-repository-master/
+-rw-rw-r-- root/root       491 2019-04-30 07:22 postgresql-repository-master/README.md
+drwxrwxr-x root/root         0 2019-04-30 07:22 postgresql-repository-master/defaults/
+-rw-rw-r-- root/root        56 2019-04-30 07:22 postgresql-repository-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-30 07:22 postgresql-repository-master/handlers/
+-rw-rw-r-- root/root        56 2019-04-30 07:22 postgresql-repository-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-30 07:22 postgresql-repository-master/meta/
+-rw-rw-r-- root/root       494 2019-04-30 07:22 postgresql-repository-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-30 07:22 postgresql-repository-master/tasks/
+-rw-rw-r-- root/root       648 2019-04-30 07:22 postgresql-repository-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-30 07:22 postgresql-repository-master/tests/
+-rw-rw-r-- root/root        11 2019-04-30 07:22 postgresql-repository-master/tests/inventory
+-rw-rw-r-- root/root        90 2019-04-30 07:22 postgresql-repository-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-30 07:22 postgresql-repository-master/vars/
+-rw-rw-r-- root/root        52 2019-04-30 07:22 postgresql-repository-master/vars/main.yml

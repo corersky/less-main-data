@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-27 04:36 ansible-require-local-command-role-master/
+-rw-rw-r-- root/root         8 2017-10-27 04:36 ansible-require-local-command-role-master/.gitignore
+-rw-rw-r-- root/root       717 2017-10-27 04:36 ansible-require-local-command-role-master/.travis.yml
+-rw-rw-r-- root/root      1320 2017-10-27 04:36 ansible-require-local-command-role-master/LICENSE
+-rw-rw-r-- root/root      1722 2017-10-27 04:36 ansible-require-local-command-role-master/README.md
+drwxrwxr-x root/root         0 2017-10-27 04:36 ansible-require-local-command-role-master/defaults/
+-rw-rw-r-- root/root        56 2017-10-27 04:36 ansible-require-local-command-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-27 04:36 ansible-require-local-command-role-master/meta/
+-rw-rw-r-- root/root       604 2017-10-27 04:36 ansible-require-local-command-role-master/meta/main.yml
+-rw-rw-r-- root/root        12 2017-10-27 04:36 ansible-require-local-command-role-master/requirements.txt
+drwxrwxr-x root/root         0 2017-10-27 04:36 ansible-require-local-command-role-master/tasks/
+-rw-rw-r-- root/root      1502 2017-10-27 04:36 ansible-require-local-command-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-27 04:36 ansible-require-local-command-role-master/tests/
+-rw-rw-r-- root/root        42 2017-10-27 04:36 ansible-require-local-command-role-master/tests/inventory
+-rw-rw-r-- root/root      1175 2017-10-27 04:36 ansible-require-local-command-role-master/tests/test.yml

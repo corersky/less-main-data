@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-semaphore-master/
+-rw-rw-r-- root/root        29 2018-07-04 04:50 ansible-role-semaphore-master/.gitignore
+-rw-rw-r-- root/root       977 2018-07-04 04:50 ansible-role-semaphore-master/.travis.yml
+-rw-rw-r-- root/root      2677 2018-07-04 04:50 ansible-role-semaphore-master/README.md
+-rw-rw-r-- root/root       427 2018-07-04 04:50 ansible-role-semaphore-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-semaphore-master/defaults/
+-rw-rw-r-- root/root      3447 2018-07-04 04:50 ansible-role-semaphore-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-semaphore-master/handlers/
+-rw-rw-r-- root/root       125 2018-07-04 04:50 ansible-role-semaphore-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-semaphore-master/meta/
+-rw-rw-r-- root/root       344 2018-07-04 04:50 ansible-role-semaphore-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-semaphore-master/tasks/
+-rw-rw-r-- root/root      3760 2018-07-04 04:50 ansible-role-semaphore-master/tasks/main.yml
+-rw-rw-r-- root/root      1799 2018-07-04 04:50 ansible-role-semaphore-master/tasks/setup-mysql.yml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-semaphore-master/templates/
+-rw-rw-r-- root/root       388 2018-07-04 04:50 ansible-role-semaphore-master/templates/systemd.service.j2
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-semaphore-master/tests/
+-rw-rw-r-- root/root        49 2018-07-04 04:50 ansible-role-semaphore-master/tests/role.yml
+lrwxrwxrwx root/root         0 2018-07-04 04:50 ansible-role-semaphore-master/tests/role_under_test -> ..
+-rw-rw-r-- root/root        98 2018-07-04 04:50 ansible-role-semaphore-master/tests/travis_extra_vars.json

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-02-04 03:27 paper_trail_role-master/
+-rw-rw-r-- root/root       328 2015-02-04 03:27 paper_trail_role-master/README.md
+drwxrwxr-x root/root         0 2015-02-04 03:27 paper_trail_role-master/defaults/
+-rw-rw-r-- root/root       715 2015-02-04 03:27 paper_trail_role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-04 03:27 paper_trail_role-master/handlers/
+-rw-rw-r-- root/root       206 2015-02-04 03:27 paper_trail_role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-04 03:27 paper_trail_role-master/meta/
+-rw-rw-r-- root/root       239 2015-02-04 03:27 paper_trail_role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-04 03:27 paper_trail_role-master/tasks/
+-rw-rw-r-- root/root      1371 2015-02-04 03:27 paper_trail_role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-04 03:27 paper_trail_role-master/templates/
+-rw-rw-r-- root/root       127 2015-02-04 03:27 paper_trail_role-master/templates/log_files.yml.j2
+-rw-rw-r-- root/root       122 2015-02-04 03:27 paper_trail_role-master/templates/remote_syslog_supervisor.conf.j2
+-rw-rw-r-- root/root       884 2015-02-04 03:27 paper_trail_role-master/templates/supervisor.conf.j2
+drwxrwxr-x root/root         0 2015-02-04 03:27 paper_trail_role-master/vars/
+-rw-rw-r-- root/root       716 2015-02-04 03:27 paper_trail_role-master/vars/main.yml

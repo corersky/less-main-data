@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-05 16:01 ansible-role-telegraf-master/
+-rw-rw-r-- root/root        32 2019-05-05 16:01 ansible-role-telegraf-master/.gitignore
+-rw-rw-r-- root/root       129 2019-05-05 16:01 ansible-role-telegraf-master/.travis.yml
+-rw-rw-r-- root/root       598 2019-05-05 16:01 ansible-role-telegraf-master/README.md
+drwxrwxr-x root/root         0 2019-05-05 16:01 ansible-role-telegraf-master/defaults/
+-rw-rw-r-- root/root       498 2019-05-05 16:01 ansible-role-telegraf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-05 16:01 ansible-role-telegraf-master/handlers/
+-rw-rw-r-- root/root       293 2019-05-05 16:01 ansible-role-telegraf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-05 16:01 ansible-role-telegraf-master/meta/
+-rw-rw-r-- root/root       346 2019-05-05 16:01 ansible-role-telegraf-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-05 16:01 ansible-role-telegraf-master/tasks/
+-rw-rw-r-- root/root       558 2019-05-05 16:01 ansible-role-telegraf-master/tasks/dependencies.yml
+-rw-rw-r-- root/root      1670 2019-05-05 16:01 ansible-role-telegraf-master/tasks/main.yml

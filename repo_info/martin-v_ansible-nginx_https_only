@@ -1,0 +1,29 @@
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/
+-rw-rw-r-- root/root         9 2017-10-28 09:36 ansible-nginx_https_only-master/.gitignore
+-rw-rw-r-- root/root      1134 2017-10-28 09:36 ansible-nginx_https_only-master/.travis.yml
+-rw-rw-r-- root/root      1076 2017-10-28 09:36 ansible-nginx_https_only-master/LICENSE
+-rw-rw-r-- root/root      7270 2017-10-28 09:36 ansible-nginx_https_only-master/README.md
+-rw-rw-r-- root/root       511 2017-10-28 09:36 ansible-nginx_https_only-master/Vagrantfile
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/defaults/
+-rw-rw-r-- root/root       912 2017-10-28 09:36 ansible-nginx_https_only-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/handlers/
+-rw-rw-r-- root/root        72 2017-10-28 09:36 ansible-nginx_https_only-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/meta/
+-rw-rw-r-- root/root      2200 2017-10-28 09:36 ansible-nginx_https_only-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/tasks/
+-rw-rw-r-- root/root      2287 2017-10-28 09:36 ansible-nginx_https_only-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/templates/
+-rw-rw-r-- root/root       504 2017-10-28 09:36 ansible-nginx_https_only-master/templates/http.conf.j2
+-rw-rw-r-- root/root       673 2017-10-28 09:36 ansible-nginx_https_only-master/templates/tls.conf.j2
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/tests/
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/tests/host_vars/
+-rw-rw-r-- root/root       611 2017-10-28 09:36 ansible-nginx_https_only-master/tests/host_vars/default.yml
+-rw-rw-r-- root/root       331 2017-10-28 09:36 ansible-nginx_https_only-master/tests/host_vars/httptest.yml
+lrwxrwxrwx root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/tests/host_vars/localhost.yml -> default.yml
+-rw-rw-r-- root/root         9 2017-10-28 09:36 ansible-nginx_https_only-master/tests/inventory
+lrwxrwxrwx root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/tests/martin-v.dehydrated -> ../../martin-v.dehydrated
+lrwxrwxrwx root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/tests/martin-v.nginx_https_only -> ..
+-rw-rw-r-- root/root         9 2017-10-28 09:36 ansible-nginx_https_only-master/tests/real_world_inventory
+drwxrwxr-x root/root         0 2017-10-28 09:36 ansible-nginx_https_only-master/tests/templates/
+-rw-rw-r-- root/root       513 2017-10-28 09:36 ansible-nginx_https_only-master/tests/templates/sslsite.conf.j2
+-rw-rw-r-- root/root       887 2017-10-28 09:36 ansible-nginx_https_only-master/tests/test.yml

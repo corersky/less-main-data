@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-02 14:30 php-master/
+-rw-rw-r-- root/root      1328 2018-04-02 14:30 php-master/README.md
+drwxrwxr-x root/root         0 2018-04-02 14:30 php-master/defaults/
+-rw-rw-r-- root/root        28 2018-04-02 14:30 php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:30 php-master/handlers/
+-rw-rw-r-- root/root        28 2018-04-02 14:30 php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:30 php-master/meta/
+-rw-rw-r-- root/root       432 2018-04-02 14:30 php-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:30 php-master/tasks/
+-rw-rw-r-- root/root       133 2018-04-02 14:30 php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-02 14:30 php-master/tests/
+-rw-rw-r-- root/root         9 2018-04-02 14:30 php-master/tests/inventory
+-rw-rw-r-- root/root        61 2018-04-02 14:30 php-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-02 14:30 php-master/vars/
+-rw-rw-r-- root/root        24 2018-04-02 14:30 php-master/vars/main.yml

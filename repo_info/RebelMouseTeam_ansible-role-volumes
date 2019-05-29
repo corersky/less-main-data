@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-01-29 02:54 ansible-role-volumes-master/
+-rw-rw-r-- root/root        52 2018-01-29 02:54 ansible-role-volumes-master/README.md
+drwxrwxr-x root/root         0 2018-01-29 02:54 ansible-role-volumes-master/defaults/
+-rw-rw-r-- root/root       117 2018-01-29 02:54 ansible-role-volumes-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-29 02:54 ansible-role-volumes-master/meta/
+-rw-rw-r-- root/root       238 2018-01-29 02:54 ansible-role-volumes-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-29 02:54 ansible-role-volumes-master/tasks/
+-rw-rw-r-- root/root       510 2018-01-29 02:54 ansible-role-volumes-master/tasks/lvm.yml
+-rw-rw-r-- root/root       468 2018-01-29 02:54 ansible-role-volumes-master/tasks/main.yml
+-rw-rw-r-- root/root      1554 2018-01-29 02:54 ansible-role-volumes-master/tasks/swapfile.yml

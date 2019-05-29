@@ -1,0 +1,8 @@
+drwxrwxr-x root/root         0 2016-07-02 09:17 ansible-xenserver-master/
+-rw-rw-r-- root/root        66 2016-07-02 09:17 ansible-xenserver-master/README.md
+drwxrwxr-x root/root         0 2016-07-02 09:17 ansible-xenserver-master/meta/
+-rw-rw-r-- root/root       296 2016-07-02 09:17 ansible-xenserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-02 09:17 ansible-xenserver-master/tasks/
+-rw-rw-r-- root/root        37 2016-07-02 09:17 ansible-xenserver-master/tasks/main.yml
+-rwxrwxr-x root/root      7469 2016-07-02 09:17 ansible-xenserver-master/tasks/update.yml
+-rwxrwxr-x root/root       247 2016-07-02 09:17 ansible-xenserver-master/tasks/xe-patch.yml

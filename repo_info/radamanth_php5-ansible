@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-05-07 07:01 php5-ansible-master/
+-rw-rw-r-- root/root     18047 2015-05-07 07:01 php5-ansible-master/LICENSE
+-rw-rw-r-- root/root       691 2015-05-07 07:01 php5-ansible-master/README.md
+drwxrwxr-x root/root         0 2015-05-07 07:01 php5-ansible-master/defaults/
+-rw-rw-r-- root/root       143 2015-05-07 07:01 php5-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-07 07:01 php5-ansible-master/handlers/
+-rw-rw-r-- root/root        37 2015-05-07 07:01 php5-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-07 07:01 php5-ansible-master/meta/
+-rw-rw-r-- root/root       401 2015-05-07 07:01 php5-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-07 07:01 php5-ansible-master/tasks/
+-rw-rw-r-- root/root       306 2015-05-07 07:01 php5-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-07 07:01 php5-ansible-master/templates/
+-rw-rw-r-- root/root     69969 2015-05-07 07:01 php5-ansible-master/templates/php.ini

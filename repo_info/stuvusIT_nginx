@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-05 21:52 nginx-master/
+-rw-rw-r-- root/root         8 2019-04-05 21:52 nginx-master/.gitignore
+-rw-rw-r-- root/root     20133 2019-04-05 21:52 nginx-master/LICENSE
+-rw-rw-r-- root/root     11820 2019-04-05 21:52 nginx-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 21:52 nginx-master/defaults/
+-rw-rw-r-- root/root      1137 2019-04-05 21:52 nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-05 21:52 nginx-master/meta/
+-rw-rw-r-- root/root       407 2019-04-05 21:52 nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 21:52 nginx-master/tasks/
+-rw-rw-r-- root/root      1505 2019-04-05 21:52 nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-05 21:52 nginx-master/templates/
+-rw-rw-r-- root/root      5067 2019-04-05 21:52 nginx-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root       129 2019-04-05 21:52 nginx-master/templates/pam_service_file.j2

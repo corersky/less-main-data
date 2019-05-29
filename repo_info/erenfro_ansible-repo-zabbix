@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-09-07 17:04 ansible-repo-zabbix-master/
+-rw-rw-r-- root/root      1659 2016-09-07 17:04 ansible-repo-zabbix-master/README.md
+drwxrwxr-x root/root         0 2016-09-07 17:04 ansible-repo-zabbix-master/meta/
+-rw-rw-r-- root/root       501 2016-09-07 17:04 ansible-repo-zabbix-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-07 17:04 ansible-repo-zabbix-master/tasks/
+-rw-rw-r-- root/root       420 2016-09-07 17:04 ansible-repo-zabbix-master/tasks/debian.yml
+-rw-rw-r-- root/root       340 2016-09-07 17:04 ansible-repo-zabbix-master/tasks/main.yml
+-rw-rw-r-- root/root       425 2016-09-07 17:04 ansible-repo-zabbix-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2016-09-07 17:04 ansible-repo-zabbix-master/vars/
+-rw-rw-r-- root/root       332 2016-09-07 17:04 ansible-repo-zabbix-master/vars/debian.yml
+-rw-rw-r-- root/root         0 2016-09-07 17:04 ansible-repo-zabbix-master/vars/default.yml
+-rw-rw-r-- root/root       207 2016-09-07 17:04 ansible-repo-zabbix-master/vars/redhat.yml

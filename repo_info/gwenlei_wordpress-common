@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-29 01:16 wordpress-common-master/
+-rw-rw-r-- root/root       539 2016-08-29 01:16 wordpress-common-master/.travis.yml
+-rw-rw-r-- root/root       381 2016-08-29 01:16 wordpress-common-master/README.md
+drwxrwxr-x root/root         0 2016-08-29 01:16 wordpress-common-master/defaults/
+-rw-rw-r-- root/root        27 2016-08-29 01:16 wordpress-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-29 01:16 wordpress-common-master/handlers/
+-rw-rw-r-- root/root        41 2016-08-29 01:16 wordpress-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-29 01:16 wordpress-common-master/meta/
+-rw-rw-r-- root/root       264 2016-08-29 01:16 wordpress-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-29 01:16 wordpress-common-master/tasks/
+-rw-rw-r-- root/root        93 2016-08-29 01:16 wordpress-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-29 01:16 wordpress-common-master/tests/
+-rw-rw-r-- root/root         9 2016-08-29 01:16 wordpress-common-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-08-29 01:16 wordpress-common-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-29 01:16 wordpress-common-master/vars/
+-rw-rw-r-- root/root        37 2016-08-29 01:16 wordpress-common-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-14 16:24 ansible-role-docker-host-master/
+-rw-rw-r-- root/root       539 2017-07-14 16:24 ansible-role-docker-host-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-07-14 16:24 ansible-role-docker-host-master/LICENSE
+-rw-rw-r-- root/root       674 2017-07-14 16:24 ansible-role-docker-host-master/README.md
+drwxrwxr-x root/root         0 2017-07-14 16:24 ansible-role-docker-host-master/meta/
+-rw-rw-r-- root/root      2907 2017-07-14 16:24 ansible-role-docker-host-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-14 16:24 ansible-role-docker-host-master/tasks/
+-rw-rw-r-- root/root       956 2017-07-14 16:24 ansible-role-docker-host-master/tasks/amazon.yml
+-rw-rw-r-- root/root      1761 2017-07-14 16:24 ansible-role-docker-host-master/tasks/centos.yml
+-rw-rw-r-- root/root       217 2017-07-14 16:24 ansible-role-docker-host-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-14 16:24 ansible-role-docker-host-master/tests/
+-rw-rw-r-- root/root         9 2017-07-14 16:24 ansible-role-docker-host-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-07-14 16:24 ansible-role-docker-host-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-14 16:24 ansible-role-docker-host-master/vars/
+-rw-rw-r-- root/root       226 2017-07-14 16:24 ansible-role-docker-host-master/vars/main.yml

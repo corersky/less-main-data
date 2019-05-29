@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-03-10 23:17 Papertail-remoteSyslog-master/
+-rw-rw-r-- root/root       908 2015-03-10 23:17 Papertail-remoteSyslog-master/.gitignore
+-rw-rw-r-- root/root       633 2015-03-10 23:17 Papertail-remoteSyslog-master/README.md
+drwxrwxr-x root/root         0 2015-03-10 23:17 Papertail-remoteSyslog-master/defaults/
+-rw-rw-r-- root/root       253 2015-03-10 23:17 Papertail-remoteSyslog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-10 23:17 Papertail-remoteSyslog-master/handlers/
+-rw-rw-r-- root/root        95 2015-03-10 23:17 Papertail-remoteSyslog-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-10 23:17 Papertail-remoteSyslog-master/meta/
+-rw-rw-r-- root/root       403 2015-03-10 23:17 Papertail-remoteSyslog-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-10 23:17 Papertail-remoteSyslog-master/tasks/
+-rw-rw-r-- root/root       939 2015-03-10 23:17 Papertail-remoteSyslog-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-10 23:17 Papertail-remoteSyslog-master/templates/
+-rw-rw-r-- root/root       169 2015-03-10 23:17 Papertail-remoteSyslog-master/templates/log_files.yml
+-rw-rw-r-- root/root       189 2015-03-10 23:17 Papertail-remoteSyslog-master/templates/log_files.yml.j2
+-rw-rw-r-- root/root       123 2015-03-10 23:17 Papertail-remoteSyslog-master/templates/supervisor.j2

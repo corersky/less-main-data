@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-04-13 15:48 ansible-role-galen-master/
+-rw-rw-r-- root/root       209 2015-04-13 15:48 ansible-role-galen-master/.editorconfig
+-rw-rw-r-- root/root      1102 2015-04-13 15:48 ansible-role-galen-master/LICENSE
+-rw-rw-r-- root/root       848 2015-04-13 15:48 ansible-role-galen-master/README.md
+drwxrwxr-x root/root         0 2015-04-13 15:48 ansible-role-galen-master/defaults/
+-rw-rw-r-- root/root       375 2015-04-13 15:48 ansible-role-galen-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-13 15:48 ansible-role-galen-master/handlers/
+-rw-rw-r-- root/root         5 2015-04-13 15:48 ansible-role-galen-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-13 15:48 ansible-role-galen-master/meta/
+-rw-rw-r-- root/root       247 2015-04-13 15:48 ansible-role-galen-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-13 15:48 ansible-role-galen-master/tasks/
+-rw-rw-r-- root/root       797 2015-04-13 15:48 ansible-role-galen-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-13 15:48 ansible-role-galen-master/tests/
+-rw-rw-r-- root/root        43 2015-04-13 15:48 ansible-role-galen-master/tests/.gitignore
+-rw-rw-r-- root/root       427 2015-04-13 15:48 ansible-role-galen-master/tests/Vagrantfile
+-rw-rw-r-- root/root        35 2015-04-13 15:48 ansible-role-galen-master/tests/hosts
+-rw-rw-r-- root/root        78 2015-04-13 15:48 ansible-role-galen-master/tests/playbook.yml

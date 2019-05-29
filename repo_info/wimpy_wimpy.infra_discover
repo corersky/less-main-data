@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-17 10:29 wimpy.infra_discover-master/
+-rw-rw-r-- root/root       539 2017-04-17 10:29 wimpy.infra_discover-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-04-17 10:29 wimpy.infra_discover-master/LICENSE
+-rw-rw-r-- root/root       423 2017-04-17 10:29 wimpy.infra_discover-master/README.md
+drwxrwxr-x root/root         0 2017-04-17 10:29 wimpy.infra_discover-master/defaults/
+-rw-rw-r-- root/root        73 2017-04-17 10:29 wimpy.infra_discover-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-17 10:29 wimpy.infra_discover-master/meta/
+-rw-rw-r-- root/root       729 2017-04-17 10:29 wimpy.infra_discover-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-17 10:29 wimpy.infra_discover-master/tasks/
+-rw-rw-r-- root/root       401 2017-04-17 10:29 wimpy.infra_discover-master/tasks/get_security_groups.yml
+-rw-rw-r-- root/root       247 2017-04-17 10:29 wimpy.infra_discover-master/tasks/get_subnets.yml
+-rw-rw-r-- root/root       241 2017-04-17 10:29 wimpy.infra_discover-master/tasks/get_vpc.yml
+-rw-rw-r-- root/root      3197 2017-04-17 10:29 wimpy.infra_discover-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-17 10:29 wimpy.infra_discover-master/tests/
+-rw-rw-r-- root/root         9 2017-04-17 10:29 wimpy.infra_discover-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-04-17 10:29 wimpy.infra_discover-master/tests/test.yml

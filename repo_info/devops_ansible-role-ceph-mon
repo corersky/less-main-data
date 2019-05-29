@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-23 03:08 ansible-role-ceph-mon-master/
+-rw-rw-r-- root/root      1321 2017-03-23 03:08 ansible-role-ceph-mon-master/README.md
+-rw-rw-r-- root/root        28 2017-03-23 03:08 ansible-role-ceph-mon-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-03-23 03:08 ansible-role-ceph-mon-master/defaults/
+-rw-rw-r-- root/root       861 2017-03-23 03:08 ansible-role-ceph-mon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-23 03:08 ansible-role-ceph-mon-master/handlers/
+-rw-rw-r-- root/root        46 2017-03-23 03:08 ansible-role-ceph-mon-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-23 03:08 ansible-role-ceph-mon-master/meta/
+-rw-rw-r-- root/root       231 2017-03-23 03:08 ansible-role-ceph-mon-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-23 03:08 ansible-role-ceph-mon-master/tasks/
+-rw-rw-r-- root/root      1823 2017-03-23 03:08 ansible-role-ceph-mon-master/tasks/main.yml
+-rw-rw-r-- root/root      1198 2017-03-23 03:08 ansible-role-ceph-mon-master/tasks/openstack.yml
+drwxrwxr-x root/root         0 2017-03-23 03:08 ansible-role-ceph-mon-master/vars/
+-rw-rw-r-- root/root        42 2017-03-23 03:08 ansible-role-ceph-mon-master/vars/main.yml

@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/
+-rw-rw-r-- root/root      1085 2017-01-08 22:50 ansible-role-rbenv-master/LICENSE
+-rw-rw-r-- root/root       415 2017-01-08 22:50 ansible-role-rbenv-master/README.md
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/defaults/
+-rw-rw-r-- root/root       313 2017-01-08 22:50 ansible-role-rbenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/examples/
+-rw-rw-r-- root/root        24 2017-01-08 22:50 ansible-role-rbenv-master/examples/.gitignore
+-rw-rw-r-- root/root      1908 2017-01-08 22:50 ansible-role-rbenv-master/examples/Vagrantfile
+-rw-rw-r-- root/root       106 2017-01-08 22:50 ansible-role-rbenv-master/examples/playbook.yml
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/examples/roles/znzj.ja_jp -> ../../../ansible-role-ja_jp
+lrwxrwxrwx root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/examples/roles/znzj.rbenv -> ../..
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/files/
+-rw-rw-r-- root/root        93 2017-01-08 22:50 ansible-role-rbenv-master/files/gemrc
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/handlers/
+-rw-rw-r-- root/root        43 2017-01-08 22:50 ansible-role-rbenv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/meta/
+-rw-rw-r-- root/root       354 2017-01-08 22:50 ansible-role-rbenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/tasks/
+-rw-rw-r-- root/root       116 2017-01-08 22:50 ansible-role-rbenv-master/tasks/main.yml
+-rw-rw-r-- root/root        90 2017-01-08 22:50 ansible-role-rbenv-master/tasks/packages.yml
+-rw-rw-r-- root/root      1315 2017-01-08 22:50 ansible-role-rbenv-master/tasks/rbenv.yml
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/templates/
+-rw-rw-r-- root/root       348 2017-01-08 22:50 ansible-role-rbenv-master/templates/rbenv.sh.j2
+drwxrwxr-x root/root         0 2017-01-08 22:50 ansible-role-rbenv-master/vars/
+-rw-rw-r-- root/root        39 2017-01-08 22:50 ansible-role-rbenv-master/vars/main.yml

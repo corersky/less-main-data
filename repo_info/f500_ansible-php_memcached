@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-03-25 17:12 ansible-php_memcached-master/
+-rw-rw-r-- root/root     35147 2014-03-25 17:12 ansible-php_memcached-master/COPYING
+-rw-rw-r-- root/root      7651 2014-03-25 17:12 ansible-php_memcached-master/COPYING.LESSER
+-rw-rw-r-- root/root      1390 2014-03-25 17:12 ansible-php_memcached-master/README.md
+drwxrwxr-x root/root         0 2014-03-25 17:12 ansible-php_memcached-master/defaults/
+-rw-rw-r-- root/root       713 2014-03-25 17:12 ansible-php_memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-03-25 17:12 ansible-php_memcached-master/files/
+-rw-rw-r-- root/root      1217 2014-03-25 17:12 ansible-php_memcached-master/files/pecl-memcached-installer.sh
+drwxrwxr-x root/root         0 2014-03-25 17:12 ansible-php_memcached-master/meta/
+-rw-rw-r-- root/root       358 2014-03-25 17:12 ansible-php_memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-03-25 17:12 ansible-php_memcached-master/tasks/
+-rw-rw-r-- root/root      1522 2014-03-25 17:12 ansible-php_memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-03-25 17:12 ansible-php_memcached-master/templates/
+-rw-rw-r-- root/root       358 2014-03-25 17:12 ansible-php_memcached-master/templates/igbinary.ini.j2
+-rw-rw-r-- root/root      1044 2014-03-25 17:12 ansible-php_memcached-master/templates/memcached.ini.j2

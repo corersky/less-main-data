@@ -1,0 +1,46 @@
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/
+-rw-rw-r-- root/root        23 2019-02-19 12:08 lnls-ans-role-epics-dev-master/.flake8
+-rw-rw-r-- root/root        66 2019-02-19 12:08 lnls-ans-role-epics-dev-master/.gitignore
+-rw-rw-r-- root/root       590 2019-02-19 12:08 lnls-ans-role-epics-dev-master/.travis.yml
+-rw-rw-r-- root/root       296 2019-02-19 12:08 lnls-ans-role-epics-dev-master/.yamllint
+-rw-rw-r-- root/root      1348 2019-02-19 12:08 lnls-ans-role-epics-dev-master/LICENSE
+-rw-rw-r-- root/root      3008 2019-02-19 12:08 lnls-ans-role-epics-dev-master/README.md
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/Vagrant/
+-rw-rw-r-- root/root       915 2019-02-19 12:08 lnls-ans-role-epics-dev-master/Vagrant/README.md
+-rw-rw-r-- root/root      1035 2019-02-19 12:08 lnls-ans-role-epics-dev-master/Vagrant/Vagrantfile
+-rw-rw-r-- root/root       317 2019-02-19 12:08 lnls-ans-role-epics-dev-master/Vagrant/hosts
+-rw-rw-r-- root/root      2181 2019-02-19 12:08 lnls-ans-role-epics-dev-master/Vagrant/setup.yml
+-rwxrwxr-x root/root       937 2019-02-19 12:08 lnls-ans-role-epics-dev-master/ci_build.sh
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/defaults/
+-rw-rw-r-- root/root       400 2019-02-19 12:08 lnls-ans-role-epics-dev-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/handlers/
+-rw-rw-r-- root/root         4 2019-02-19 12:08 lnls-ans-role-epics-dev-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/meta/
+-rw-rw-r-- root/root       371 2019-02-19 12:08 lnls-ans-role-epics-dev-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/
+-rw-rw-r-- root/root      1205 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       263 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/README.md
+-rw-rw-r-- root/root      2458 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/create.yml
+-rw-rw-r-- root/root       815 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root      1125 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        79 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/playbook.yml
+lrwxrwxrwx root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/tests/
+-rw-rw-r-- root/root       601 2019-02-19 12:08 lnls-ans-role-epics-dev-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root        66 2019-02-19 12:08 lnls-ans-role-epics-dev-master/requirements.yml
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/tasks/
+-rw-rw-r-- root/root       141 2019-02-19 12:08 lnls-ans-role-epics-dev-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root      1202 2019-02-19 12:08 lnls-ans-role-epics-dev-master/tasks/main.yml
+-rw-rw-r-- root/root       796 2019-02-19 12:08 lnls-ans-role-epics-dev-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/
+-rw-rw-r-- root/root       117 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Debian-jessie.yml
+-rw-rw-r-- root/root       117 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Debian-stretch.yml
+lrwxrwxrwx root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Ubuntu-artful.yml -> Ubuntu-xenial.yml
+-rw-rw-r-- root/root       102 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Ubuntu-trusty.yml
+lrwxrwxrwx root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Ubuntu-utopic.yml -> Ubuntu-trusty.yml
+lrwxrwxrwx root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Ubuntu-vivid.yml -> Ubuntu-trusty.yml
+lrwxrwxrwx root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Ubuntu-wily.yml -> Ubuntu-trusty.yml
+-rw-rw-r-- root/root       102 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Ubuntu-xenial.yml
+lrwxrwxrwx root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Ubuntu-yakkety.yml -> Ubuntu-xenial.yml
+lrwxrwxrwx root/root         0 2019-02-19 12:08 lnls-ans-role-epics-dev-master/vars/Ubuntu-zesty.yml -> Ubuntu-xenial.yml

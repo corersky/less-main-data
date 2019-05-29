@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-12-05 16:30 ansible-role-gitolite-master/
+-rw-rw-r-- root/root       282 2018-12-05 16:30 ansible-role-gitolite-master/.travis.yml
+-rw-rw-r-- root/root      1077 2018-12-05 16:30 ansible-role-gitolite-master/LICENSE
+-rw-rw-r-- root/root       601 2018-12-05 16:30 ansible-role-gitolite-master/README.md
+drwxrwxr-x root/root         0 2018-12-05 16:30 ansible-role-gitolite-master/defaults/
+-rw-rw-r-- root/root       142 2018-12-05 16:30 ansible-role-gitolite-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-05 16:30 ansible-role-gitolite-master/meta/
+-rw-rw-r-- root/root       321 2018-12-05 16:30 ansible-role-gitolite-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-05 16:30 ansible-role-gitolite-master/tasks/
+-rw-rw-r-- root/root      1331 2018-12-05 16:30 ansible-role-gitolite-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-05 16:30 ansible-role-gitolite-master/tests/
+-rw-rw-r-- root/root        36 2018-12-05 16:30 ansible-role-gitolite-master/tests/inventory
+-rw-rw-r-- root/root        93 2018-12-05 16:30 ansible-role-gitolite-master/tests/test.yml

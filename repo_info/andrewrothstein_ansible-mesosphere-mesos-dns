@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/
+-rw-rw-r-- root/root         4 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/.gitignore
+-rw-rw-r-- root/root      1084 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/README.md
+-rw-rw-r-- root/root       895 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/circle.yml
+drwxrwxr-x root/root         0 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/defaults/
+-rw-rw-r-- root/root       746 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/meta/
+-rw-rw-r-- root/root       365 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/tasks/
+-rw-rw-r-- root/root       976 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/templates/
+-rw-rw-r-- root/root      1318 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/templates/config.json.j2
+-rw-rw-r-- root/root       235 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/templates/mesos-dns.service.j2
+-rw-rw-r-- root/root        57 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/test.yml
+drwxrwxr-x root/root         0 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/vars/
+-rw-rw-r-- root/root       318 2016-11-23 22:25 ansible-mesosphere-mesos-dns-master/vars/main.yml

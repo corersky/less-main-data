@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-03-10 10:41 ansible-role-githook-for-jira-master/
+-rw-rw-r-- root/root       931 2016-03-10 10:41 ansible-role-githook-for-jira-master/.gitignore
+-rw-rw-r-- root/root      1491 2016-03-10 10:41 ansible-role-githook-for-jira-master/.travis.yml
+-rw-rw-r-- root/root       617 2016-03-10 10:41 ansible-role-githook-for-jira-master/README.md
+drwxrwxr-x root/root         0 2016-03-10 10:41 ansible-role-githook-for-jira-master/defaults/
+-rw-rw-r-- root/root       107 2016-03-10 10:41 ansible-role-githook-for-jira-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-10 10:41 ansible-role-githook-for-jira-master/files/
+-rw-rw-r-- root/root       121 2016-03-10 10:41 ansible-role-githook-for-jira-master/files/pre-push
+drwxrwxr-x root/root         0 2016-03-10 10:41 ansible-role-githook-for-jira-master/meta/
+-rw-rw-r-- root/root       385 2016-03-10 10:41 ansible-role-githook-for-jira-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-10 10:41 ansible-role-githook-for-jira-master/tasks/
+-rw-rw-r-- root/root       852 2016-03-10 10:41 ansible-role-githook-for-jira-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-10 10:41 ansible-role-githook-for-jira-master/tests/
+-rw-rw-r-- root/root      1129 2016-03-10 10:41 ansible-role-githook-for-jira-master/tests/Dockerfile.centos-7
+-rwxrwxr-x root/root       109 2016-03-10 10:41 ansible-role-githook-for-jira-master/tests/commit.sh
+-rw-rw-r-- root/root        10 2016-03-10 10:41 ansible-role-githook-for-jira-master/tests/inventory
+-rw-rw-r-- root/root      1244 2016-03-10 10:41 ansible-role-githook-for-jira-master/tests/test.yml

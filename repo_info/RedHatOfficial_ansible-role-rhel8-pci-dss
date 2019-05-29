@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/
+-rw-rw-r-- root/root      2242 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/defaults/
+-rw-rw-r-- root/root      4070 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/handlers/
+-rw-rw-r-- root/root        50 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/meta/
+-rw-rw-r-- root/root       543 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/tasks/
+-rw-rw-r-- root/root    311982 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/tests/
+-rw-rw-r-- root/root        11 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/tests/inventory
+-rw-rw-r-- root/root        84 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/vars/
+-rw-rw-r-- root/root       677 2019-05-16 12:13 ansible-role-rhel8-pci-dss-master/vars/main.yml

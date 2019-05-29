@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-10-29 08:32 ansible-create-sudo-user-master/
+-rw-rw-r-- root/root       695 2014-10-29 08:32 ansible-create-sudo-user-master/README.md
+drwxrwxr-x root/root         0 2014-10-29 08:32 ansible-create-sudo-user-master/defaults/
+-rw-rw-r-- root/root        16 2014-10-29 08:32 ansible-create-sudo-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-29 08:32 ansible-create-sudo-user-master/handlers/
+-rw-rw-r-- root/root        49 2014-10-29 08:32 ansible-create-sudo-user-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-29 08:32 ansible-create-sudo-user-master/meta/
+-rw-rw-r-- root/root       463 2014-10-29 08:32 ansible-create-sudo-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-29 08:32 ansible-create-sudo-user-master/tasks/
+-rw-rw-r-- root/root       510 2014-10-29 08:32 ansible-create-sudo-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-29 08:32 ansible-create-sudo-user-master/templates/
+-rw-rw-r-- root/root        33 2014-10-29 08:32 ansible-create-sudo-user-master/templates/sudo_user.j2
+drwxrwxr-x root/root         0 2014-10-29 08:32 ansible-create-sudo-user-master/vars/
+-rw-rw-r-- root/root        45 2014-10-29 08:32 ansible-create-sudo-user-master/vars/main.yml

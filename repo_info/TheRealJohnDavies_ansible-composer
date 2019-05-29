@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-15 13:59 ansible-composer-master/
+-rw-rw-r-- root/root       759 2018-04-15 13:59 ansible-composer-master/README.md
+drwxrwxr-x root/root         0 2018-04-15 13:59 ansible-composer-master/defaults/
+-rw-rw-r-- root/root       155 2018-04-15 13:59 ansible-composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-15 13:59 ansible-composer-master/handlers/
+-rw-rw-r-- root/root        32 2018-04-15 13:59 ansible-composer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-15 13:59 ansible-composer-master/meta/
+-rw-rw-r-- root/root       787 2018-04-15 13:59 ansible-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-15 13:59 ansible-composer-master/tasks/
+-rw-rw-r-- root/root       904 2018-04-15 13:59 ansible-composer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-15 13:59 ansible-composer-master/tests/
+-rw-rw-r-- root/root        11 2018-04-15 13:59 ansible-composer-master/tests/inventory
+-rw-rw-r-- root/root        47 2018-04-15 13:59 ansible-composer-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-15 13:59 ansible-composer-master/vars/
+-rw-rw-r-- root/root        28 2018-04-15 13:59 ansible-composer-master/vars/main.yml

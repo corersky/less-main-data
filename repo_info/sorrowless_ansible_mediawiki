@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-20 14:03 ansible_mediawiki-master/
+-rw-rw-r-- root/root     11357 2019-02-20 14:03 ansible_mediawiki-master/LICENSE
+-rw-rw-r-- root/root       644 2019-02-20 14:03 ansible_mediawiki-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 14:03 ansible_mediawiki-master/defaults/
+-rw-rw-r-- root/root       274 2019-02-20 14:03 ansible_mediawiki-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:03 ansible_mediawiki-master/handlers/
+-rw-rw-r-- root/root        74 2019-02-20 14:03 ansible_mediawiki-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:03 ansible_mediawiki-master/meta/
+-rw-rw-r-- root/root       424 2019-02-20 14:03 ansible_mediawiki-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:03 ansible_mediawiki-master/tasks/
+-rw-rw-r-- root/root      1293 2019-02-20 14:03 ansible_mediawiki-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:03 ansible_mediawiki-master/templates/
+drwxrwxr-x root/root         0 2019-02-20 14:03 ansible_mediawiki-master/templates/nginx/
+-rw-rw-r-- root/root      3583 2019-02-20 14:03 ansible_mediawiki-master/templates/nginx/mediawiki.conf
+drwxrwxr-x root/root         0 2019-02-20 14:03 ansible_mediawiki-master/tests/
+-rw-rw-r-- root/root        11 2019-02-20 14:03 ansible_mediawiki-master/tests/inventory
+-rw-rw-r-- root/root        67 2019-02-20 14:03 ansible_mediawiki-master/tests/test.yml

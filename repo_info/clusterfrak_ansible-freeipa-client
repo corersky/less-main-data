@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-24 13:00 ansible-freeipa-client-master/
+-rw-rw-r-- root/root       539 2019-04-24 13:00 ansible-freeipa-client-master/.travis.yml
+-rw-rw-r-- root/root      4159 2019-04-24 13:00 ansible-freeipa-client-master/README.md
+drwxrwxr-x root/root         0 2019-04-24 13:00 ansible-freeipa-client-master/defaults/
+-rw-rw-r-- root/root       500 2019-04-24 13:00 ansible-freeipa-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-24 13:00 ansible-freeipa-client-master/files/
+-rw-rw-r-- root/root        81 2019-04-24 13:00 ansible-freeipa-client-master/files/freeipa.yml
+drwxrwxr-x root/root         0 2019-04-24 13:00 ansible-freeipa-client-master/handlers/
+-rw-rw-r-- root/root        78 2019-04-24 13:00 ansible-freeipa-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-24 13:00 ansible-freeipa-client-master/meta/
+-rw-rw-r-- root/root       373 2019-04-24 13:00 ansible-freeipa-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-24 13:00 ansible-freeipa-client-master/tasks/
+-rw-rw-r-- root/root      8845 2019-04-24 13:00 ansible-freeipa-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-24 13:00 ansible-freeipa-client-master/vars/
+-rw-rw-r-- root/root         4 2019-04-24 13:00 ansible-freeipa-client-master/vars/main.yml

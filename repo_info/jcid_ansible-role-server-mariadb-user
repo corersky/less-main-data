@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-12-11 11:22 ansible-role-server-mariadb-user-master/
+-rw-rw-r-- root/root       540 2016-12-11 11:22 ansible-role-server-mariadb-user-master/.travis.yml
+-rw-rw-r-- root/root        87 2016-12-11 11:22 ansible-role-server-mariadb-user-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 11:22 ansible-role-server-mariadb-user-master/meta/
+-rw-rw-r-- root/root       220 2016-12-11 11:22 ansible-role-server-mariadb-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 11:22 ansible-role-server-mariadb-user-master/tasks/
+-rw-rw-r-- root/root       496 2016-12-11 11:22 ansible-role-server-mariadb-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 11:22 ansible-role-server-mariadb-user-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 11:22 ansible-role-server-mariadb-user-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-12-11 11:22 ansible-role-server-mariadb-user-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-07 13:22 ansible-role-nginx-oss-master/
+-rw-rw-r-- root/root       533 2017-08-07 13:22 ansible-role-nginx-oss-master/.travis.yml
+-rw-rw-r-- root/root      1316 2017-08-07 13:22 ansible-role-nginx-oss-master/LICENSE
+-rw-rw-r-- root/root      1477 2017-08-07 13:22 ansible-role-nginx-oss-master/README.md
+drwxrwxr-x root/root         0 2017-08-07 13:22 ansible-role-nginx-oss-master/handlers/
+-rw-rw-r-- root/root       107 2017-08-07 13:22 ansible-role-nginx-oss-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-07 13:22 ansible-role-nginx-oss-master/meta/
+-rw-rw-r-- root/root      4104 2017-08-07 13:22 ansible-role-nginx-oss-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-07 13:22 ansible-role-nginx-oss-master/tasks/
+-rw-rw-r-- root/root       345 2017-08-07 13:22 ansible-role-nginx-oss-master/tasks/main.yml
+-rw-rw-r-- root/root       449 2017-08-07 13:22 ansible-role-nginx-oss-master/tasks/pkg-debian.yml
+-rw-rw-r-- root/root       619 2017-08-07 13:22 ansible-role-nginx-oss-master/tasks/pkg-redhat.yml
+-rw-rw-r-- root/root       164 2017-08-07 13:22 ansible-role-nginx-oss-master/tasks/pkg-suse.yml
+drwxrwxr-x root/root         0 2017-08-07 13:22 ansible-role-nginx-oss-master/tests/
+-rw-rw-r-- root/root        10 2017-08-07 13:22 ansible-role-nginx-oss-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-08-07 13:22 ansible-role-nginx-oss-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-24 10:33 ansible-ssh-master/
+-rw-rw-r-- root/root         0 2019-01-24 10:33 ansible-ssh-master/.gitignore
+-rw-rw-r-- root/root      1080 2019-01-24 10:33 ansible-ssh-master/LICENSE
+-rw-rw-r-- root/root      3843 2019-01-24 10:33 ansible-ssh-master/README.md
+drwxrwxr-x root/root         0 2019-01-24 10:33 ansible-ssh-master/defaults/
+-rw-rw-r-- root/root      2778 2019-01-24 10:33 ansible-ssh-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-01-24 10:33 ansible-ssh-master/handlers/
+-rw-rw-r-- root/root       196 2019-01-24 10:33 ansible-ssh-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-01-24 10:33 ansible-ssh-master/meta/
+-rw-rw-r-- root/root       316 2019-01-24 10:33 ansible-ssh-master/meta/main.yaml
+drwxrwxr-x root/root         0 2019-01-24 10:33 ansible-ssh-master/tasks/
+-rw-rw-r-- root/root      1274 2019-01-24 10:33 ansible-ssh-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-01-24 10:33 ansible-ssh-master/templates/
+-rw-rw-r-- root/root        17 2019-01-24 10:33 ansible-ssh-master/templates/banner.j2
+-rw-rw-r-- root/root       245 2019-01-24 10:33 ansible-ssh-master/templates/ssh_config.j2
+-rw-rw-r-- root/root       110 2019-01-24 10:33 ansible-ssh-master/templates/sshd_config.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-11-23 22:26 ansible-waf-master/
+-rw-rw-r-- root/root         4 2016-11-23 22:26 ansible-waf-master/.gitignore
+-rw-rw-r-- root/root      1084 2016-11-23 22:26 ansible-waf-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-11-23 22:26 ansible-waf-master/README.md
+-rw-rw-r-- root/root       895 2016-11-23 22:26 ansible-waf-master/circle.yml
+drwxrwxr-x root/root         0 2016-11-23 22:26 ansible-waf-master/defaults/
+-rw-rw-r-- root/root        48 2016-11-23 22:26 ansible-waf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:26 ansible-waf-master/meta/
+-rw-rw-r-- root/root       347 2016-11-23 22:26 ansible-waf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:26 ansible-waf-master/tasks/
+-rw-rw-r-- root/root       272 2016-11-23 22:26 ansible-waf-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2016-11-23 22:26 ansible-waf-master/test.yml
+drwxrwxr-x root/root         0 2016-11-23 22:26 ansible-waf-master/vars/
+-rw-rw-r-- root/root        71 2016-11-23 22:26 ansible-waf-master/vars/main.yml

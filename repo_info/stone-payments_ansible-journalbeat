@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-12 20:36 ansible-journalbeat-master/
+-rw-rw-r-- root/root      1065 2017-08-12 20:36 ansible-journalbeat-master/LICENSE
+-rw-rw-r-- root/root      1575 2017-08-12 20:36 ansible-journalbeat-master/README.md
+drwxrwxr-x root/root         0 2017-08-12 20:36 ansible-journalbeat-master/defaults/
+-rw-rw-r-- root/root       786 2017-08-12 20:36 ansible-journalbeat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-12 20:36 ansible-journalbeat-master/handlers/
+-rw-rw-r-- root/root       104 2017-08-12 20:36 ansible-journalbeat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-12 20:36 ansible-journalbeat-master/meta/
+-rw-rw-r-- root/root       271 2017-08-12 20:36 ansible-journalbeat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-12 20:36 ansible-journalbeat-master/tasks/
+-rw-rw-r-- root/root       621 2017-08-12 20:36 ansible-journalbeat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-12 20:36 ansible-journalbeat-master/templates/
+-rw-rw-r-- root/root        90 2017-08-12 20:36 ansible-journalbeat-master/templates/journalbeat.yml.j2
+drwxrwxr-x root/root         0 2017-08-12 20:36 ansible-journalbeat-master/vars/
+-rw-rw-r-- root/root      1479 2017-08-12 20:36 ansible-journalbeat-master/vars/main.yml

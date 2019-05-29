@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-13 14:59 ansible-role-golang-master/
+-rw-rw-r-- root/root        34 2018-03-13 14:59 ansible-role-golang-master/.gitignore
+-rw-rw-r-- root/root       764 2018-03-13 14:59 ansible-role-golang-master/.travis.yml
+-rw-rw-r-- root/root       901 2018-03-13 14:59 ansible-role-golang-master/README.md
+drwxrwxr-x root/root         0 2018-03-13 14:59 ansible-role-golang-master/defaults/
+-rw-rw-r-- root/root       314 2018-03-13 14:59 ansible-role-golang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-13 14:59 ansible-role-golang-master/meta/
+-rw-rw-r-- root/root       444 2018-03-13 14:59 ansible-role-golang-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-13 14:59 ansible-role-golang-master/tasks/
+-rw-rw-r-- root/root       713 2018-03-13 14:59 ansible-role-golang-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-13 14:59 ansible-role-golang-master/tests/
+-rw-rw-r-- root/root       774 2018-03-13 14:59 ansible-role-golang-master/tests/README.md
+-rw-rw-r-- root/root       427 2018-03-13 14:59 ansible-role-golang-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-google-chrome-master/
+-rw-rw-r-- root/root       219 2019-03-21 23:29 ansible-google-chrome-master/.editorconfig
+-rw-rw-r-- root/root       492 2019-03-21 23:29 ansible-google-chrome-master/.gitattributes
+-rw-rw-r-- root/root       819 2019-03-21 23:29 ansible-google-chrome-master/.gitignore
+-rw-rw-r-- root/root       802 2019-03-21 23:29 ansible-google-chrome-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1073 2019-03-21 23:29 ansible-google-chrome-master/LICENSE
+-rw-rw-r-- root/root       629 2019-03-21 23:29 ansible-google-chrome-master/README.md
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-google-chrome-master/meta/
+-rw-rw-r-- root/root       596 2019-03-21 23:29 ansible-google-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-google-chrome-master/tasks/
+-rw-rw-r-- root/root       420 2019-03-21 23:29 ansible-google-chrome-master/tasks/debian.yml
+-rw-rw-r-- root/root       128 2019-03-21 23:29 ansible-google-chrome-master/tasks/main.yml
+-rw-rw-r-- root/root       646 2019-03-21 23:29 ansible-google-chrome-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2019-03-21 23:29 ansible-google-chrome-master/tests/
+-rw-rw-r-- root/root        11 2019-03-21 23:29 ansible-google-chrome-master/tests/inventory
+-rw-rw-r-- root/root        44 2019-03-21 23:29 ansible-google-chrome-master/tests/test.yml

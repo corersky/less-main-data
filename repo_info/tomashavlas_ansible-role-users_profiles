@@ -1,0 +1,42 @@
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/
+-rw-rw-r-- root/root       135 2016-07-13 06:15 ansible-role-users_profiles-master/.gitignore
+-rw-rw-r-- root/root       559 2016-07-13 06:15 ansible-role-users_profiles-master/.travis.yml
+-rw-rw-r-- root/root       315 2016-07-13 06:15 ansible-role-users_profiles-master/CHANGELOG.md
+-rw-rw-r-- root/root      1537 2016-07-13 06:15 ansible-role-users_profiles-master/COPYRIGHT
+-rw-rw-r-- root/root      5487 2016-07-13 06:15 ansible-role-users_profiles-master/README.md
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/defaults/
+-rw-rw-r-- root/root      3930 2016-07-13 06:15 ansible-role-users_profiles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/meta/
+-rw-rw-r-- root/root      1435 2016-07-13 06:15 ansible-role-users_profiles-master/meta/main.yml
+-rw-rw-r-- root/root       181 2016-07-13 06:15 ansible-role-users_profiles-master/meta/requirements.yml
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/
+-rw-rw-r-- root/root      1102 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/Makefile
+lrwxrwxrwx root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/ansible.cfg -> ../ansible.cfg
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/authorized_keys/
+-rw-rw-r-- root/root       701 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/authorized_keys/s1_user3
+-rw-rw-r-- root/root       394 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/authorized_keys/s1_user4
+-rw-rw-r-- root/root       394 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/authorized_keys/s1_user8
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/sudoers.d/
+-rw-rw-r-- root/root       118 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/sudoers.d/s1_user6
+-rw-rw-r-- root/root        71 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/sudoers.d/s1_user8
+-rw-rw-r-- root/root        71 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/acceptance/sudoers.d/s2_user1
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/public_keys/
+-rw-rw-r-- root/root       175 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/public_keys/id_ecdsa.pub
+-rw-rw-r-- root/root        97 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/public_keys/id_ed25519.pub
+-rw-rw-r-- root/root       394 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/public_keys/id_rsa.pub
+-rw-rw-r-- root/root       394 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/public_keys/id_rsa_second.pub
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/sudoers.d/
+-rw-rw-r-- root/root        29 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/sudoers.d/s1_user7
+-rw-rw-r-- root/root        29 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/files/sudoers.d/s1_user9
+lrwxrwxrwx root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/inventory -> ../inventory
+lrwxrwxrwx root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/roles -> ../roles/
+-rw-rw-r-- root/root     12955 2016-07-13 06:15 ansible-role-users_profiles-master/tests/01_basic/test.yml
+-rw-rw-r-- root/root        71 2016-07-13 06:15 ansible-role-users_profiles-master/tests/Makefile
+-rw-rw-r-- root/root       280 2016-07-13 06:15 ansible-role-users_profiles-master/tests/ansible.cfg
+-rw-rw-r-- root/root        35 2016-07-13 06:15 ansible-role-users_profiles-master/tests/inventory
+-rw-rw-r-- root/root       220 2016-07-13 06:15 ansible-role-users_profiles-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-07-13 06:15 ansible-role-users_profiles-master/tests/roles/tomashavlas.users_profiles -> ../../

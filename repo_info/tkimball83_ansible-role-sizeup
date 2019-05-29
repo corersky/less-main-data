@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-sizeup-master/
+-rw-rw-r-- root/root       331 2019-03-09 20:10 ansible-role-sizeup-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-03-09 20:10 ansible-role-sizeup-master/COPYING
+-rw-rw-r-- root/root      2675 2019-03-09 20:10 ansible-role-sizeup-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-sizeup-master/defaults/
+-rw-rw-r-- root/root       112 2019-03-09 20:10 ansible-role-sizeup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-sizeup-master/meta/
+-rw-rw-r-- root/root       275 2019-03-09 20:10 ansible-role-sizeup-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-sizeup-master/tasks/
+-rw-rw-r-- root/root       693 2019-03-09 20:10 ansible-role-sizeup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-sizeup-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 20:10 ansible-role-sizeup-master/tests/inventory
+-rw-rw-r-- root/root        82 2019-03-09 20:10 ansible-role-sizeup-master/tests/test.yml

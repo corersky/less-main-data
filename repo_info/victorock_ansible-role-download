@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2018-08-16 18:03 ansible-role-download-master/
+-rw-rw-r-- root/root        66 2018-08-16 18:03 ansible-role-download-master/.gitattributes
+-rw-rw-r-- root/root       496 2018-08-16 18:03 ansible-role-download-master/.travis.yml
+-rw-rw-r-- root/root     34500 2018-08-16 18:03 ansible-role-download-master/COPYING
+-rw-rw-r-- root/root      6261 2018-08-16 18:03 ansible-role-download-master/README.md
+drwxrwxr-x root/root         0 2018-08-16 18:03 ansible-role-download-master/defaults/
+-rw-rw-r-- root/root        90 2018-08-16 18:03 ansible-role-download-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-16 18:03 ansible-role-download-master/meta/
+-rw-rw-r-- root/root       435 2018-08-16 18:03 ansible-role-download-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-16 18:03 ansible-role-download-master/tasks/
+-rw-rw-r-- root/root       821 2018-08-16 18:03 ansible-role-download-master/tasks/asb.yml
+-rw-rw-r-- root/root       440 2018-08-16 18:03 ansible-role-download-master/tasks/curl.yml
+-rw-rw-r-- root/root       524 2018-08-16 18:03 ansible-role-download-master/tasks/gs.yml
+-rw-rw-r-- root/root        78 2018-08-16 18:03 ansible-role-download-master/tasks/main.yml
+-rw-rw-r-- root/root       661 2018-08-16 18:03 ansible-role-download-master/tasks/mvn.yml
+-rw-rw-r-- root/root      1014 2018-08-16 18:03 ansible-role-download-master/tasks/reqs.yml
+-rw-rw-r-- root/root       308 2018-08-16 18:03 ansible-role-download-master/tasks/run.yml
+-rw-rw-r-- root/root       653 2018-08-16 18:03 ansible-role-download-master/tasks/s3.yml
+drwxrwxr-x root/root         0 2018-08-16 18:03 ansible-role-download-master/tests/
+-rw-rw-r-- root/root       168 2018-08-16 18:03 ansible-role-download-master/tests/ansible.cfg
+drwxrwxr-x root/root         0 2018-08-16 18:03 ansible-role-download-master/tests/inventory/
+-rw-rw-r-- root/root        38 2018-08-16 18:03 ansible-role-download-master/tests/inventory/hosts
+drwxrwxr-x root/root         0 2018-08-16 18:03 ansible-role-download-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-08-16 18:03 ansible-role-download-master/tests/roles/test -> ../../
+-rw-rw-r-- root/root       523 2018-08-16 18:03 ansible-role-download-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-16 18:03 ansible-role-download-master/vars/
+-rw-rw-r-- root/root       481 2018-08-16 18:03 ansible-role-download-master/vars/main.yml

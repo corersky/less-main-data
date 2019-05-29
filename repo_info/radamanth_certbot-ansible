@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-08-15 09:59 certbot-ansible-master/
+-rw-rw-r-- root/root      1169 2017-08-15 09:59 certbot-ansible-master/README.md
+drwxrwxr-x root/root         0 2017-08-15 09:59 certbot-ansible-master/defaults/
+-rw-rw-r-- root/root       382 2017-08-15 09:59 certbot-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-15 09:59 certbot-ansible-master/meta/
+-rw-rw-r-- root/root       350 2017-08-15 09:59 certbot-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-15 09:59 certbot-ansible-master/tasks/
+-rw-rw-r-- root/root       892 2017-08-15 09:59 certbot-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-15 09:59 certbot-ansible-master/templates/
+-rw-rw-r-- root/root       295 2017-08-15 09:59 certbot-ansible-master/templates/createCertificates.sh
+-rw-rw-r-- root/root       140 2017-08-15 09:59 certbot-ansible-master/templates/updateCertificates.sh

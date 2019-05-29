@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-06-17 22:58 ansible-role-locale-master/
+-rw-rw-r-- root/root         9 2017-06-17 22:58 ansible-role-locale-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-17 22:58 ansible-role-locale-master/LICENSE
+-rw-rw-r-- root/root       263 2017-06-17 22:58 ansible-role-locale-master/README.md
+drwxrwxr-x root/root         0 2017-06-17 22:58 ansible-role-locale-master/defaults/
+-rw-rw-r-- root/root        33 2017-06-17 22:58 ansible-role-locale-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-17 22:58 ansible-role-locale-master/meta/
+-rw-rw-r-- root/root       267 2017-06-17 22:58 ansible-role-locale-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-17 22:58 ansible-role-locale-master/tasks/
+-rw-rw-r-- root/root       249 2017-06-17 22:58 ansible-role-locale-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-17 22:58 ansible-role-locale-master/templates/
+-rw-rw-r-- root/root        27 2017-06-17 22:58 ansible-role-locale-master/templates/locale.conf.j2

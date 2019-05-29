@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-05-24 05:26 ansible-rol-yarn-master/
+-rw-rw-r-- root/root       160 2018-05-24 05:26 ansible-rol-yarn-master/README.md
+drwxrwxr-x root/root         0 2018-05-24 05:26 ansible-rol-yarn-master/defaults/
+-rw-rw-r-- root/root         3 2018-05-24 05:26 ansible-rol-yarn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-24 05:26 ansible-rol-yarn-master/files/
+-rw-rw-r-- root/root       130 2018-05-24 05:26 ansible-rol-yarn-master/files/yarn.repo
+drwxrwxr-x root/root         0 2018-05-24 05:26 ansible-rol-yarn-master/meta/
+-rw-rw-r-- root/root       251 2018-05-24 05:26 ansible-rol-yarn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 05:26 ansible-rol-yarn-master/tasks/
+-rw-rw-r-- root/root       164 2018-05-24 05:26 ansible-rol-yarn-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       105 2018-05-24 05:26 ansible-rol-yarn-master/tasks/main.yml

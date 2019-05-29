@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-06 15:19 ansible-role-kafka-master/
+-rw-rw-r-- root/root         8 2019-04-06 15:19 ansible-role-kafka-master/.gitignore
+-rw-rw-r-- root/root       609 2019-04-06 15:19 ansible-role-kafka-master/README.md
+drwxrwxr-x root/root         0 2019-04-06 15:19 ansible-role-kafka-master/defaults/
+-rw-rw-r-- root/root       196 2019-04-06 15:19 ansible-role-kafka-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-06 15:19 ansible-role-kafka-master/meta/
+-rw-rw-r-- root/root       421 2019-04-06 15:19 ansible-role-kafka-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-06 15:19 ansible-role-kafka-master/tasks/
+-rw-rw-r-- root/root      3465 2019-04-06 15:19 ansible-role-kafka-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-06 15:19 ansible-role-kafka-master/templates/
+-rw-rw-r-- root/root       223 2019-04-06 15:19 ansible-role-kafka-master/templates/kafka.service
+-rw-rw-r-- root/root      6877 2019-04-06 15:19 ansible-role-kafka-master/templates/server.properties
+drwxrwxr-x root/root         0 2019-04-06 15:19 ansible-role-kafka-master/vars/
+-rw-rw-r-- root/root       193 2019-04-06 15:19 ansible-role-kafka-master/vars/main-2.0.0.yml
+-rw-rw-r-- root/root       193 2019-04-06 15:19 ansible-role-kafka-master/vars/main-2.1.1.yml
+-rw-rw-r-- root/root       193 2019-04-06 15:19 ansible-role-kafka-master/vars/main-2.2.0.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-22 09:18 gocollect-playbook-master/
+-rw-rw-r-- root/root     35120 2017-09-22 09:18 gocollect-playbook-master/LICENSE
+-rw-rw-r-- root/root      1371 2017-09-22 09:18 gocollect-playbook-master/README.md
+drwxrwxr-x root/root         0 2017-09-22 09:18 gocollect-playbook-master/defaults/
+-rw-rw-r-- root/root        86 2017-09-22 09:18 gocollect-playbook-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-22 09:18 gocollect-playbook-master/handlers/
+-rw-rw-r-- root/root       153 2017-09-22 09:18 gocollect-playbook-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-22 09:18 gocollect-playbook-master/meta/
+-rw-rw-r-- root/root       485 2017-09-22 09:18 gocollect-playbook-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-22 09:18 gocollect-playbook-master/tasks/
+-rw-rw-r-- root/root      1149 2017-09-22 09:18 gocollect-playbook-master/tasks/install_gocollect.yml
+-rw-rw-r-- root/root        92 2017-09-22 09:18 gocollect-playbook-master/tasks/main.yml
+-rw-rw-r-- root/root       527 2017-09-22 09:18 gocollect-playbook-master/tasks/metadata.yml
+drwxrwxr-x root/root         0 2017-09-22 09:18 gocollect-playbook-master/templates/
+drwxrwxr-x root/root         0 2017-09-22 09:18 gocollect-playbook-master/templates/core.meta/
+-rw-rw-r-- root/root       298 2017-09-22 09:18 gocollect-playbook-master/templates/core.meta/osso-backup.yaml
+-rw-rw-r-- root/root      2491 2017-09-22 09:18 gocollect-playbook-master/templates/gocollect.conf.j2

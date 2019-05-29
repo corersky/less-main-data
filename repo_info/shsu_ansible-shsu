@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-04-29 01:54 ansible-shsu-master/
+-rw-rw-r-- root/root      1057 2016-04-29 01:54 ansible-shsu-master/LICENSE
+-rw-rw-r-- root/root       543 2016-04-29 01:54 ansible-shsu-master/README.md
+drwxrwxr-x root/root         0 2016-04-29 01:54 ansible-shsu-master/defaults/
+-rw-rw-r-- root/root        22 2016-04-29 01:54 ansible-shsu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-29 01:54 ansible-shsu-master/files/
+-rw-rw-r-- root/root       154 2016-04-29 01:54 ansible-shsu-master/files/.gitconfig
+-rw-rw-r-- root/root       101 2016-04-29 01:54 ansible-shsu-master/files/ed25519.pub
+-rw-rw-r-- root/root       401 2016-04-29 01:54 ansible-shsu-master/files/rsa.pub
+drwxrwxr-x root/root         0 2016-04-29 01:54 ansible-shsu-master/meta/
+-rw-rw-r-- root/root       265 2016-04-29 01:54 ansible-shsu-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-29 01:54 ansible-shsu-master/tasks/
+-rw-rw-r-- root/root       452 2016-04-29 01:54 ansible-shsu-master/tasks/access.yml
+-rw-rw-r-- root/root        47 2016-04-29 01:54 ansible-shsu-master/tasks/main.yml
+-rw-rw-r-- root/root       279 2016-04-29 01:54 ansible-shsu-master/tasks/tools.yml
+drwxrwxr-x root/root         0 2016-04-29 01:54 ansible-shsu-master/templates/
+-rw-rw-r-- root/root        38 2016-04-29 01:54 ansible-shsu-master/templates/sudo.conf.j2

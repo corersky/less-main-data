@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-04 18:27 ansible-unzip-master/
+-rw-rw-r-- root/root       812 2017-10-04 18:27 ansible-unzip-master/.travis.yml
+-rw-rw-r-- root/root       529 2017-10-04 18:27 ansible-unzip-master/README.md
+drwxrwxr-x root/root         0 2017-10-04 18:27 ansible-unzip-master/defaults/
+-rw-rw-r-- root/root        64 2017-10-04 18:27 ansible-unzip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-04 18:27 ansible-unzip-master/meta/
+-rw-rw-r-- root/root       336 2017-10-04 18:27 ansible-unzip-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-04 18:27 ansible-unzip-master/tasks/
+-rw-rw-r-- root/root       396 2017-10-04 18:27 ansible-unzip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-04 18:27 ansible-unzip-master/tests/
+-rw-rw-r-- root/root        11 2017-10-04 18:27 ansible-unzip-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-10-04 18:27 ansible-unzip-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-04 18:27 ansible-unzip-master/vars/
+-rw-rw-r-- root/root        55 2017-10-04 18:27 ansible-unzip-master/vars/main.yml

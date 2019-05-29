@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-27 08:17 ansible-miniconda-role-master/
+-rw-rw-r-- root/root      1695 2018-02-27 08:17 ansible-miniconda-role-master/.travis.yml
+-rw-rw-r-- root/root      7048 2018-02-27 08:17 ansible-miniconda-role-master/LICENSE
+-rw-rw-r-- root/root      4056 2018-02-27 08:17 ansible-miniconda-role-master/README.md
+drwxrwxr-x root/root         0 2018-02-27 08:17 ansible-miniconda-role-master/defaults/
+-rw-rw-r-- root/root       576 2018-02-27 08:17 ansible-miniconda-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-27 08:17 ansible-miniconda-role-master/meta/
+-rw-rw-r-- root/root       392 2018-02-27 08:17 ansible-miniconda-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-27 08:17 ansible-miniconda-role-master/tasks/
+-rw-rw-r-- root/root       806 2018-02-27 08:17 ansible-miniconda-role-master/tasks/environment.yml
+-rw-rw-r-- root/root      1385 2018-02-27 08:17 ansible-miniconda-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-27 08:17 ansible-miniconda-role-master/tests/
+-rw-rw-r-- root/root       619 2018-02-27 08:17 ansible-miniconda-role-master/tests/no-gather-facts.yml
+-rwxrwxr-x root/root       258 2018-02-27 08:17 ansible-miniconda-role-master/tests/run-all.sh
+-rw-rw-r-- root/root       381 2018-02-27 08:17 ansible-miniconda-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-27 08:17 ansible-miniconda-role-master/vars/
+-rw-rw-r-- root/root       344 2018-02-27 08:17 ansible-miniconda-role-master/vars/main.yml

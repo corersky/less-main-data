@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-11-30 13:09 ansible-role-nvm-master/
+-rw-rw-r-- root/root      1118 2016-11-30 13:09 ansible-role-nvm-master/.travis.yml
+-rw-rw-r-- root/root       584 2016-11-30 13:09 ansible-role-nvm-master/README.md
+drwxrwxr-x root/root         0 2016-11-30 13:09 ansible-role-nvm-master/defaults/
+-rw-rw-r-- root/root       148 2016-11-30 13:09 ansible-role-nvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-30 13:09 ansible-role-nvm-master/meta/
+-rw-rw-r-- root/root       328 2016-11-30 13:09 ansible-role-nvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-30 13:09 ansible-role-nvm-master/tasks/
+-rw-rw-r-- root/root      1379 2016-11-30 13:09 ansible-role-nvm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-30 13:09 ansible-role-nvm-master/tests/
+-rw-rw-r-- root/root         9 2016-11-30 13:09 ansible-role-nvm-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-11-30 13:09 ansible-role-nvm-master/tests/test.yml

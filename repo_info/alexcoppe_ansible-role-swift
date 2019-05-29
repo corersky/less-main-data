@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-14 16:47 ansible-role-swift-master/
+-rw-rw-r-- root/root         6 2016-08-14 16:47 ansible-role-swift-master/.gitignore
+-rw-rw-r-- root/root       297 2016-08-14 16:47 ansible-role-swift-master/.travis.yml
+-rw-rw-r-- root/root       614 2016-08-14 16:47 ansible-role-swift-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 16:47 ansible-role-swift-master/defaults/
+-rw-rw-r-- root/root       473 2016-08-14 16:47 ansible-role-swift-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 16:47 ansible-role-swift-master/meta/
+-rw-rw-r-- root/root       238 2016-08-14 16:47 ansible-role-swift-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 16:47 ansible-role-swift-master/tasks/
+-rw-rw-r-- root/root      2233 2016-08-14 16:47 ansible-role-swift-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 16:47 ansible-role-swift-master/tasks/os_family/
+-rw-rw-r-- root/root       181 2016-08-14 16:47 ansible-role-swift-master/tasks/os_family/Debian.yml
+-rw-rw-r-- root/root       181 2016-08-14 16:47 ansible-role-swift-master/tasks/os_family/RedHat.yml
+drwxrwxr-x root/root         0 2016-08-14 16:47 ansible-role-swift-master/tests/
+-rw-rw-r-- root/root        10 2016-08-14 16:47 ansible-role-swift-master/tests/inventory
+-rw-rw-r-- root/root        96 2016-08-14 16:47 ansible-role-swift-master/tests/test.yml

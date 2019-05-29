@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-07 10:09 ansible-role-phabricator-master/
+-rw-rw-r-- root/root      1024 2017-03-07 10:09 ansible-role-phabricator-master/.travis.yml
+-rw-rw-r-- root/root      1513 2017-03-07 10:09 ansible-role-phabricator-master/LICENSE
+-rw-rw-r-- root/root       759 2017-03-07 10:09 ansible-role-phabricator-master/README.md
+drwxrwxr-x root/root         0 2017-03-07 10:09 ansible-role-phabricator-master/files/
+-rw-rw-r-- root/root       527 2017-03-07 10:09 ansible-role-phabricator-master/files/fpm-phab.conf
+-rw-rw-r-- root/root       934 2017-03-07 10:09 ansible-role-phabricator-master/files/nginx-phab.conf
+drwxrwxr-x root/root         0 2017-03-07 10:09 ansible-role-phabricator-master/handlers/
+-rw-rw-r-- root/root        76 2017-03-07 10:09 ansible-role-phabricator-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-07 10:09 ansible-role-phabricator-master/meta/
+-rw-rw-r-- root/root       321 2017-03-07 10:09 ansible-role-phabricator-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-07 10:09 ansible-role-phabricator-master/tasks/
+-rw-rw-r-- root/root      2096 2017-03-07 10:09 ansible-role-phabricator-master/tasks/RedHat.yml
+-rw-rw-r-- root/root        64 2017-03-07 10:09 ansible-role-phabricator-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-07 10:09 ansible-role-phabricator-master/tests/
+-rw-rw-r-- root/root        70 2017-03-07 10:09 ansible-role-phabricator-master/tests/test.yml

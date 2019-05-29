@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-18 08:59 ansible-role-prometheus-jmx-master/
+-rw-rw-r-- root/root       222 2017-08-18 08:59 ansible-role-prometheus-jmx-master/.travis.yml
+-rw-rw-r-- root/root       230 2017-08-18 08:59 ansible-role-prometheus-jmx-master/README.md
+drwxrwxr-x root/root         0 2017-08-18 08:59 ansible-role-prometheus-jmx-master/files/
+-rw-rw-r-- root/root        24 2017-08-18 08:59 ansible-role-prometheus-jmx-master/files/etc-prometheus-jmx-default-config.yml
+drwxrwxr-x root/root         0 2017-08-18 08:59 ansible-role-prometheus-jmx-master/meta/
+-rw-rw-r-- root/root       249 2017-08-18 08:59 ansible-role-prometheus-jmx-master/meta/main.yml
+-rw-rw-r-- root/root       373 2017-08-18 08:59 ansible-role-prometheus-jmx-master/molecule.yml
+-rw-rw-r-- root/root        66 2017-08-18 08:59 ansible-role-prometheus-jmx-master/playbook.yml
+drwxrwxr-x root/root         0 2017-08-18 08:59 ansible-role-prometheus-jmx-master/tasks/
+-rw-rw-r-- root/root       969 2017-08-18 08:59 ansible-role-prometheus-jmx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-18 08:59 ansible-role-prometheus-jmx-master/tests/
+drwxrwxr-x root/root         0 2017-08-18 08:59 ansible-role-prometheus-jmx-master/tests/__pycache__/
+-rw-rw-r-- root/root      1283 2017-08-18 08:59 ansible-role-prometheus-jmx-master/tests/__pycache__/test_default.cpython-27-PYTEST.pyc
+-rw-rw-r-- root/root      3046 2017-08-18 08:59 ansible-role-prometheus-jmx-master/tests/__pycache__/test_prometheus.cpython-27-PYTEST.pyc
+-rw-rw-r-- root/root      2389 2017-08-18 08:59 ansible-role-prometheus-jmx-master/tests/__pycache__/test_prometheus_node.cpython-27-PYTEST.pyc
+-rw-rw-r-- root/root       268 2017-08-18 08:59 ansible-role-prometheus-jmx-master/tests/test_default.py

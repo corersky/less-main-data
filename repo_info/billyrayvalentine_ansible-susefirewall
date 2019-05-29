@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-03 05:01 ansible-susefirewall-master/
+-rw-rw-r-- root/root      1118 2015-11-03 05:01 ansible-susefirewall-master/LICENSE
+-rw-rw-r-- root/root      1567 2015-11-03 05:01 ansible-susefirewall-master/README.md
+drwxrwxr-x root/root         0 2015-11-03 05:01 ansible-susefirewall-master/defaults/
+-rw-rw-r-- root/root        28 2015-11-03 05:01 ansible-susefirewall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-03 05:01 ansible-susefirewall-master/handlers/
+-rw-rw-r-- root/root        89 2015-11-03 05:01 ansible-susefirewall-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-03 05:01 ansible-susefirewall-master/meta/
+-rw-rw-r-- root/root       275 2015-11-03 05:01 ansible-susefirewall-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-03 05:01 ansible-susefirewall-master/tasks/
+-rw-rw-r-- root/root       479 2015-11-03 05:01 ansible-susefirewall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-03 05:01 ansible-susefirewall-master/templates/
+-rw-rw-r-- root/root       121 2015-11-03 05:01 ansible-susefirewall-master/templates/SuSEfirewall2.j2

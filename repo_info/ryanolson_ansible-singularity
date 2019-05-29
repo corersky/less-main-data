@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-11-02 22:06 ansible-singularity-master/
+-rw-rw-r-- root/root        11 2016-11-02 22:06 ansible-singularity-master/CONTRIBUTORS.txt
+-rw-rw-r-- root/root      1477 2016-11-02 22:06 ansible-singularity-master/LICENSE.rst
+-rw-rw-r-- root/root       311 2016-11-02 22:06 ansible-singularity-master/README.rst
+drwxrwxr-x root/root         0 2016-11-02 22:06 ansible-singularity-master/defaults/
+-rw-rw-r-- root/root       133 2016-11-02 22:06 ansible-singularity-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-02 22:06 ansible-singularity-master/meta/
+-rw-rw-r-- root/root       303 2016-11-02 22:06 ansible-singularity-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-02 22:06 ansible-singularity-master/tasks/
+-rw-rw-r-- root/root       738 2016-11-02 22:06 ansible-singularity-master/tasks/build-from-source.yml
+-rw-rw-r-- root/root       203 2016-11-02 22:06 ansible-singularity-master/tasks/main.yml

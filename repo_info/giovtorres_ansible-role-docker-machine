@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-17 10:48 ansible-role-docker-machine-master/
+-rw-rw-r-- root/root        70 2017-08-17 10:48 ansible-role-docker-machine-master/.gitignore
+-rw-rw-r-- root/root       325 2017-08-17 10:48 ansible-role-docker-machine-master/.travis.yml
+-rw-rw-r-- root/root       895 2017-08-17 10:48 ansible-role-docker-machine-master/README.md
+drwxrwxr-x root/root         0 2017-08-17 10:48 ansible-role-docker-machine-master/defaults/
+-rw-rw-r-- root/root        79 2017-08-17 10:48 ansible-role-docker-machine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-17 10:48 ansible-role-docker-machine-master/meta/
+-rw-rw-r-- root/root       431 2017-08-17 10:48 ansible-role-docker-machine-master/meta/main.yml
+-rw-rw-r-- root/root       558 2017-08-17 10:48 ansible-role-docker-machine-master/molecule.yml
+-rw-rw-r-- root/root        93 2017-08-17 10:48 ansible-role-docker-machine-master/playbook.yml
+drwxrwxr-x root/root         0 2017-08-17 10:48 ansible-role-docker-machine-master/tasks/
+-rw-rw-r-- root/root      1024 2017-08-17 10:48 ansible-role-docker-machine-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-17 10:48 ansible-role-docker-machine-master/tests/
+-rw-rw-r-- root/root        11 2017-08-17 10:48 ansible-role-docker-machine-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-08-17 10:48 ansible-role-docker-machine-master/tests/test.yml
+-rw-rw-r-- root/root       755 2017-08-17 10:48 ansible-role-docker-machine-master/tests/test_default.py

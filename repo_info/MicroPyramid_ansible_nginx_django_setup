@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-02-14 00:47 ansible_nginx_django_setup-master/
+-rw-rw-r-- root/root       831 2017-02-14 00:47 ansible_nginx_django_setup-master/README.rst
+drwxrwxr-x root/root         0 2017-02-14 00:47 ansible_nginx_django_setup-master/defaults/
+-rw-rw-r-- root/root        43 2017-02-14 00:47 ansible_nginx_django_setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:47 ansible_nginx_django_setup-master/handlers/
+-rw-rw-r-- root/root        43 2017-02-14 00:47 ansible_nginx_django_setup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:47 ansible_nginx_django_setup-master/meta/
+-rw-rw-r-- root/root       318 2017-02-14 00:47 ansible_nginx_django_setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:47 ansible_nginx_django_setup-master/tasks/
+-rw-rw-r-- root/root       783 2017-02-14 00:47 ansible_nginx_django_setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:47 ansible_nginx_django_setup-master/templates/
+-rw-rw-r-- root/root       856 2017-02-14 00:47 ansible_nginx_django_setup-master/templates/nginx.j2
+drwxrwxr-x root/root         0 2017-02-14 00:47 ansible_nginx_django_setup-master/vars/
+-rw-rw-r-- root/root       267 2017-02-14 00:47 ansible_nginx_django_setup-master/vars/main.yml

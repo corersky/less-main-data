@@ -1,0 +1,35 @@
+drwxrwxr-x root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/
+-rw-rw-r-- root/root        88 2019-05-15 03:14 ovirt-ansible-image-template-master/.gitignore
+-rw-rw-r-- root/root       437 2019-05-15 03:14 ovirt-ansible-image-template-master/.travis.yml
+-rw-rw-r-- root/root       119 2019-05-15 03:14 ovirt-ansible-image-template-master/.yamllint
+-rw-rw-r-- root/root     10759 2019-05-15 03:14 ovirt-ansible-image-template-master/LICENSE
+-rw-rw-r-- root/root      6569 2019-05-15 03:14 ovirt-ansible-image-template-master/README.md
+-rw-rw-r-- root/root       108 2019-05-15 03:14 ovirt-ansible-image-template-master/automation.yaml
+drwxrwxr-x root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/automation/
+-rw-rw-r-- root/root       308 2019-05-15 03:14 ovirt-ansible-image-template-master/automation/README.md
+lrwxrwxrwx root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/automation/build-artifacts-manual.req -> build-artifacts.req
+-rwxrwxr-x root/root       705 2019-05-15 03:14 ovirt-ansible-image-template-master/automation/build-artifacts-manual.sh
+-rw-rw-r-- root/root        22 2019-05-15 03:14 ovirt-ansible-image-template-master/automation/build-artifacts.packages
+-rwxrwxr-x root/root       658 2019-05-15 03:14 ovirt-ansible-image-template-master/automation/build-artifacts.sh
+-rw-rw-r-- root/root        22 2019-05-15 03:14 ovirt-ansible-image-template-master/automation/check-patch.packages
+-rwxrwxr-x root/root       572 2019-05-15 03:14 ovirt-ansible-image-template-master/automation/check-patch.sh
+-rwxrwxr-x root/root      1805 2019-05-15 03:14 ovirt-ansible-image-template-master/build.sh
+drwxrwxr-x root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/defaults/
+-rw-rw-r-- root/root       382 2019-05-15 03:14 ovirt-ansible-image-template-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/examples/
+lrwxrwxrwx root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/examples/ovirt.image-template -> ../
+-rw-rw-r-- root/root       635 2019-05-15 03:14 ovirt-ansible-image-template-master/examples/ovirt_image_template.yml
+-rw-rw-r-- root/root       363 2019-05-15 03:14 ovirt-ansible-image-template-master/examples/passwords.yml
+drwxrwxr-x root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/filter_plugins/
+-rw-rw-r-- root/root      2780 2019-05-15 03:14 ovirt-ansible-image-template-master/filter_plugins/ovirtvmip.py
+drwxrwxr-x root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/meta/
+-rw-rw-r-- root/root       345 2019-05-15 03:14 ovirt-ansible-image-template-master/meta/main.yml
+-rw-rw-r-- root/root      3255 2019-05-15 03:14 ovirt-ansible-image-template-master/ovirt-ansible-image-template.spec.in
+drwxrwxr-x root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/tasks/
+-rw-rw-r-- root/root       261 2019-05-15 03:14 ovirt-ansible-image-template-master/tasks/empty.yml
+-rw-rw-r-- root/root      2289 2019-05-15 03:14 ovirt-ansible-image-template-master/tasks/glance_image.yml
+-rw-rw-r-- root/root       279 2019-05-15 03:14 ovirt-ansible-image-template-master/tasks/main.yml
+-rw-rw-r-- root/root      7763 2019-05-15 03:14 ovirt-ansible-image-template-master/tasks/qcow2_image.yml
+-rw-rw-r-- root/root       191 2019-05-15 03:14 ovirt-ansible-image-template-master/tox.ini
+drwxrwxr-x root/root         0 2019-05-15 03:14 ovirt-ansible-image-template-master/vars/
+-rw-rw-r-- root/root        87 2019-05-15 03:14 ovirt-ansible-image-template-master/vars/main.yml

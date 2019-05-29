@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-21 15:09 ansible-elasticsearch-master/
+-rw-rw-r-- root/root         6 2018-09-21 15:09 ansible-elasticsearch-master/.gitignore
+-rw-rw-r-- root/root       541 2018-09-21 15:09 ansible-elasticsearch-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-09-21 15:09 ansible-elasticsearch-master/LICENSE
+-rw-rw-r-- root/root       464 2018-09-21 15:09 ansible-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2018-09-21 15:09 ansible-elasticsearch-master/defaults/
+-rw-rw-r-- root/root      1077 2018-09-21 15:09 ansible-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-21 15:09 ansible-elasticsearch-master/meta/
+-rw-rw-r-- root/root       380 2018-09-21 15:09 ansible-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-21 15:09 ansible-elasticsearch-master/tasks/
+-rw-rw-r-- root/root      1583 2018-09-21 15:09 ansible-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-21 15:09 ansible-elasticsearch-master/tests/
+-rw-rw-r-- root/root         9 2018-09-21 15:09 ansible-elasticsearch-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-09-21 15:09 ansible-elasticsearch-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-21 15:09 ansible-elasticsearch-master/vars/
+-rw-rw-r-- root/root      1313 2018-09-21 15:09 ansible-elasticsearch-master/vars/main.yml

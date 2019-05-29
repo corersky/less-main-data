@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-12 23:23 syslog-ng-role-master/
+-rw-rw-r-- root/root       618 2017-11-12 23:23 syslog-ng-role-master/README.md
+drwxrwxr-x root/root         0 2017-11-12 23:23 syslog-ng-role-master/defaults/
+-rw-rw-r-- root/root      6148 2017-11-12 23:23 syslog-ng-role-master/defaults/.DS_Store
+-rw-rw-r-- root/root       810 2017-11-12 23:23 syslog-ng-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-12 23:23 syslog-ng-role-master/handlers/
+-rw-rw-r-- root/root       234 2017-11-12 23:23 syslog-ng-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-12 23:23 syslog-ng-role-master/meta/
+-rw-rw-r-- root/root       272 2017-11-12 23:23 syslog-ng-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-12 23:23 syslog-ng-role-master/tasks/
+-rw-rw-r-- root/root       294 2017-11-12 23:23 syslog-ng-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-12 23:23 syslog-ng-role-master/templates/
+-rw-rw-r-- root/root      6148 2017-11-12 23:23 syslog-ng-role-master/templates/.DS_Store
+-rw-rw-r-- root/root       700 2017-11-12 23:23 syslog-ng-role-master/templates/server.j2
+drwxrwxr-x root/root         0 2017-11-12 23:23 syslog-ng-role-master/vars/
+-rw-rw-r-- root/root        29 2017-11-12 23:23 syslog-ng-role-master/vars/main.yml

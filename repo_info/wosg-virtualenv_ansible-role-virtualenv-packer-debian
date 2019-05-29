@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/
+-rw-rw-r-- root/root        80 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/README.md
+drwxrwxr-x root/root         0 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/files/
+-rw-rw-r-- root/root        89 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/files/refresh-apt.conf
+drwxrwxr-x root/root         0 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/meta/
+-rw-rw-r-- root/root       352 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/tasks/
+-rw-rw-r-- root/root      2101 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/tasks/main.yml
+-rw-rw-r-- root/root       637 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/tasks/virtualbox.yml
+-rw-rw-r-- root/root       937 2016-01-03 01:38 ansible-role-virtualenv-packer-debian-master/tasks/vmware.yml

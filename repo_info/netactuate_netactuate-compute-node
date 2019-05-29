@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-03-20 15:16 netactuate-compute-node-master/
+-rw-rw-r-- root/root        12 2018-03-20 15:16 netactuate-compute-node-master/.gitignore
+-rw-rw-r-- root/root      1514 2018-03-20 15:16 netactuate-compute-node-master/README.md
+drwxrwxr-x root/root         0 2018-03-20 15:16 netactuate-compute-node-master/library/
+-rwxrwxr-x root/root     20706 2018-03-20 15:16 netactuate-compute-node-master/library/na_compute_node.py
+drwxrwxr-x root/root         0 2018-03-20 15:16 netactuate-compute-node-master/meta/
+-rw-rw-r-- root/root       387 2018-03-20 15:16 netactuate-compute-node-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-20 15:16 netactuate-compute-node-master/tasks/
+-rw-rw-r-- root/root       414 2018-03-20 15:16 netactuate-compute-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-20 15:16 netactuate-compute-node-master/tests/
+-rw-rw-r-- root/root        11 2018-03-20 15:16 netactuate-compute-node-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-03-20 15:16 netactuate-compute-node-master/tests/test.yml

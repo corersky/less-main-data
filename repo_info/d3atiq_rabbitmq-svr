@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-24 12:14 rabbitmq-svr-master/
+-rw-rw-r-- root/root      1071 2018-10-24 12:14 rabbitmq-svr-master/LICENSE
+-rw-rw-r-- root/root      1101 2018-10-24 12:14 rabbitmq-svr-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 12:14 rabbitmq-svr-master/defaults/
+-rw-rw-r-- root/root        37 2018-10-24 12:14 rabbitmq-svr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:14 rabbitmq-svr-master/handlers/
+-rw-rw-r-- root/root        37 2018-10-24 12:14 rabbitmq-svr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:14 rabbitmq-svr-master/meta/
+-rw-rw-r-- root/root       248 2018-10-24 12:14 rabbitmq-svr-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:14 rabbitmq-svr-master/tasks/
+-rw-rw-r-- root/root       605 2018-10-24 12:14 rabbitmq-svr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:14 rabbitmq-svr-master/tests/
+-rw-rw-r-- root/root        11 2018-10-24 12:14 rabbitmq-svr-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-10-24 12:14 rabbitmq-svr-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 12:14 rabbitmq-svr-master/vars/
+-rw-rw-r-- root/root        33 2018-10-24 12:14 rabbitmq-svr-master/vars/main.yml

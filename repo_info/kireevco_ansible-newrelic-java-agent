@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-13 21:20 ansible-newrelic-java-agent-master/
+-rw-rw-r-- root/root       466 2017-03-13 21:20 ansible-newrelic-java-agent-master/README.md
+drwxrwxr-x root/root         0 2017-03-13 21:20 ansible-newrelic-java-agent-master/defaults/
+-rw-rw-r-- root/root       770 2017-03-13 21:20 ansible-newrelic-java-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-13 21:20 ansible-newrelic-java-agent-master/handlers/
+-rw-rw-r-- root/root       185 2017-03-13 21:20 ansible-newrelic-java-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-13 21:20 ansible-newrelic-java-agent-master/meta/
+-rw-rw-r-- root/root       417 2017-03-13 21:20 ansible-newrelic-java-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-13 21:20 ansible-newrelic-java-agent-master/tasks/
+-rw-rw-r-- root/root      2058 2017-03-13 21:20 ansible-newrelic-java-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-13 21:20 ansible-newrelic-java-agent-master/templates/
+-rw-rw-r-- root/root     11330 2017-03-13 21:20 ansible-newrelic-java-agent-master/templates/newrelic.yml.j2

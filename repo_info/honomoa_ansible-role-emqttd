@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-10-01 10:18 ansible-role-emqttd-master/
+-rw-rw-r-- root/root         7 2018-10-01 10:18 ansible-role-emqttd-master/.gitignore
+-rw-rw-r-- root/root      1421 2018-10-01 10:18 ansible-role-emqttd-master/README.md
+drwxrwxr-x root/root         0 2018-10-01 10:18 ansible-role-emqttd-master/defaults/
+-rw-rw-r-- root/root       237 2018-10-01 10:18 ansible-role-emqttd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-01 10:18 ansible-role-emqttd-master/meta/
+-rw-rw-r-- root/root       358 2018-10-01 10:18 ansible-role-emqttd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-01 10:18 ansible-role-emqttd-master/tasks/
+-rw-rw-r-- root/root        95 2018-10-01 10:18 ansible-role-emqttd-master/tasks/main.yml
+-rw-rw-r-- root/root       834 2018-10-01 10:18 ansible-role-emqttd-master/tasks/provision.yml
+drwxrwxr-x root/root         0 2018-10-01 10:18 ansible-role-emqttd-master/templates/
+-rw-rw-r-- root/root       344 2018-10-01 10:18 ansible-role-emqttd-master/templates/emqttd.service.j2

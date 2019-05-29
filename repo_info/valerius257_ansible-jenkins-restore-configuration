@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/
+-rw-rw-r-- root/root      1756 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/README.md
+drwxrwxr-x root/root         0 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/defaults/
+-rw-rw-r-- root/root       631 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/handlers/
+-rw-rw-r-- root/root       219 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/meta/
+-rw-rw-r-- root/root       203 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/tasks/
+-rw-rw-r-- root/root       464 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/templates/
+-rw-rw-r-- root/root      1311 2018-05-28 08:03 ansible-jenkins-restore-configuration-master/templates/configure_scmsync.groovy.j2

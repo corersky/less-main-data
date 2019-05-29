@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-06 04:03 ansible-certbot-master/
+-rw-rw-r-- root/root       217 2017-01-06 04:03 ansible-certbot-master/.gitignore
+-rw-rw-r-- root/root      1078 2017-01-06 04:03 ansible-certbot-master/LICENSE
+-rw-rw-r-- root/root      1539 2017-01-06 04:03 ansible-certbot-master/README.md
+drwxrwxr-x root/root         0 2017-01-06 04:03 ansible-certbot-master/defaults/
+-rw-rw-r-- root/root       366 2017-01-06 04:03 ansible-certbot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-06 04:03 ansible-certbot-master/handlers/
+-rw-rw-r-- root/root        40 2017-01-06 04:03 ansible-certbot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-06 04:03 ansible-certbot-master/meta/
+-rw-rw-r-- root/root      3300 2017-01-06 04:03 ansible-certbot-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-06 04:03 ansible-certbot-master/tasks/
+-rw-rw-r-- root/root       696 2017-01-06 04:03 ansible-certbot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-06 04:03 ansible-certbot-master/templates/
+-rw-rw-r-- root/root        59 2017-01-06 04:03 ansible-certbot-master/templates/init.sh
+-rw-rw-r-- root/root       231 2017-01-06 04:03 ansible-certbot-master/templates/renew.sh
+drwxrwxr-x root/root         0 2017-01-06 04:03 ansible-certbot-master/vars/
+-rw-rw-r-- root/root       796 2017-01-06 04:03 ansible-certbot-master/vars/main.yml

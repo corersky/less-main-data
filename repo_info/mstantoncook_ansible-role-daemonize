@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-09-14 14:48 ansible-role-daemonize-master/
+-rw-rw-r-- root/root       830 2015-09-14 14:48 ansible-role-daemonize-master/.travis.yml
+-rw-rw-r-- root/root      1216 2015-09-14 14:48 ansible-role-daemonize-master/README.md
+drwxrwxr-x root/root         0 2015-09-14 14:48 ansible-role-daemonize-master/defaults/
+-rw-rw-r-- root/root        78 2015-09-14 14:48 ansible-role-daemonize-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-14 14:48 ansible-role-daemonize-master/meta/
+-rw-rw-r-- root/root       462 2015-09-14 14:48 ansible-role-daemonize-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-14 14:48 ansible-role-daemonize-master/tasks/
+-rw-rw-r-- root/root       884 2015-09-14 14:48 ansible-role-daemonize-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-14 14:48 ansible-role-daemonize-master/tests/
+-rw-rw-r-- root/root        10 2015-09-14 14:48 ansible-role-daemonize-master/tests/inventory
+-rw-rw-r-- root/root        81 2015-09-14 14:48 ansible-role-daemonize-master/tests/test.yml

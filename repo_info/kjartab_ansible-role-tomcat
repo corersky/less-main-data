@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-02-25 12:08 ansible-role-tomcat-master/
+-rw-rw-r-- root/root       539 2017-02-25 12:08 ansible-role-tomcat-master/.travis.yml
+-rw-rw-r-- root/root      1353 2017-02-25 12:08 ansible-role-tomcat-master/README.md
+drwxrwxr-x root/root         0 2017-02-25 12:08 ansible-role-tomcat-master/defaults/
+-rw-rw-r-- root/root        62 2017-02-25 12:08 ansible-role-tomcat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-25 12:08 ansible-role-tomcat-master/handlers/
+-rw-rw-r-- root/root        31 2017-02-25 12:08 ansible-role-tomcat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-25 12:08 ansible-role-tomcat-master/meta/
+-rw-rw-r-- root/root       288 2017-02-25 12:08 ansible-role-tomcat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-25 12:08 ansible-role-tomcat-master/tasks/
+-rw-rw-r-- root/root       280 2017-02-25 12:08 ansible-role-tomcat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-25 12:08 ansible-role-tomcat-master/tests/
+-rw-rw-r-- root/root         9 2017-02-25 12:08 ansible-role-tomcat-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-02-25 12:08 ansible-role-tomcat-master/tests/test.yml

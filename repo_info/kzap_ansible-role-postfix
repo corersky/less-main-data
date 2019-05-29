@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-15 06:19 ansible-role-postfix-master/
+-rw-rw-r-- root/root        80 2017-05-15 06:19 ansible-role-postfix-master/CHANGELOG.md
+-rw-rw-r-- root/root      1328 2017-05-15 06:19 ansible-role-postfix-master/README.md
+drwxrwxr-x root/root         0 2017-05-15 06:19 ansible-role-postfix-master/defaults/
+-rw-rw-r-- root/root        44 2017-05-15 06:19 ansible-role-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-15 06:19 ansible-role-postfix-master/handlers/
+-rw-rw-r-- root/root        44 2017-05-15 06:19 ansible-role-postfix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-15 06:19 ansible-role-postfix-master/meta/
+-rw-rw-r-- root/root      1777 2017-05-15 06:19 ansible-role-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-15 06:19 ansible-role-postfix-master/tasks/
+-rw-rw-r-- root/root        41 2017-05-15 06:19 ansible-role-postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-15 06:19 ansible-role-postfix-master/tests/
+-rw-rw-r-- root/root        11 2017-05-15 06:19 ansible-role-postfix-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-05-15 06:19 ansible-role-postfix-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-15 06:19 ansible-role-postfix-master/vars/
+-rw-rw-r-- root/root        40 2017-05-15 06:19 ansible-role-postfix-master/vars/main.yml

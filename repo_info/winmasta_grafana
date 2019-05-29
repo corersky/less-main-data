@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-04 08:11 grafana-master/
+-rw-rw-r-- root/root       947 2018-02-04 08:11 grafana-master/.travis.yml
+-rw-rw-r-- root/root      2157 2018-02-04 08:11 grafana-master/README.md
+drwxrwxr-x root/root         0 2018-02-04 08:11 grafana-master/defaults/
+-rw-rw-r-- root/root        53 2018-02-04 08:11 grafana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-04 08:11 grafana-master/handlers/
+-rw-rw-r-- root/root        74 2018-02-04 08:11 grafana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-04 08:11 grafana-master/meta/
+-rw-rw-r-- root/root       335 2018-02-04 08:11 grafana-master/meta/main.yml
+-rw-rw-r-- root/root        52 2018-02-04 08:11 grafana-master/requirements.yml
+drwxrwxr-x root/root         0 2018-02-04 08:11 grafana-master/tasks/
+-rw-rw-r-- root/root       470 2018-02-04 08:11 grafana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-04 08:11 grafana-master/tests/
+-rw-rw-r-- root/root        11 2018-02-04 08:11 grafana-master/tests/inventory
+-rw-rw-r-- root/root       131 2018-02-04 08:11 grafana-master/tests/test.yml

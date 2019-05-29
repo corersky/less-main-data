@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-08-15 23:55 lin-ansible-master/
+-rw-rw-r-- root/root        26 2018-08-15 23:55 lin-ansible-master/.gitignore
+-rw-rw-r-- root/root       496 2018-08-15 23:55 lin-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-08-15 23:55 lin-ansible-master/defaults/
+-rw-rw-r-- root/root        46 2018-08-15 23:55 lin-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-15 23:55 lin-ansible-master/meta/
+-rw-rw-r-- root/root       354 2018-08-15 23:55 lin-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-15 23:55 lin-ansible-master/tasks/
+-rw-rw-r-- root/root       429 2018-08-15 23:55 lin-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-15 23:55 lin-ansible-master/tests/
+-rw-rw-r-- root/root        11 2018-08-15 23:55 lin-ansible-master/tests/inventory
+-rw-rw-r-- root/root        84 2018-08-15 23:55 lin-ansible-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-04 11:20 ansible-docker-server-master/
+-rw-rw-r-- root/root       236 2018-03-04 11:20 ansible-docker-server-master/README.md
+drwxrwxr-x root/root         0 2018-03-04 11:20 ansible-docker-server-master/defaults/
+-rw-rw-r-- root/root        37 2018-03-04 11:20 ansible-docker-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-04 11:20 ansible-docker-server-master/handlers/
+-rw-rw-r-- root/root        37 2018-03-04 11:20 ansible-docker-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-04 11:20 ansible-docker-server-master/meta/
+-rw-rw-r-- root/root       253 2018-03-04 11:20 ansible-docker-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-04 11:20 ansible-docker-server-master/tasks/
+-rw-rw-r-- root/root       348 2018-03-04 11:20 ansible-docker-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-04 11:20 ansible-docker-server-master/tests/
+-rw-rw-r-- root/root        11 2018-03-04 11:20 ansible-docker-server-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-03-04 11:20 ansible-docker-server-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-04 11:20 ansible-docker-server-master/vars/
+-rw-rw-r-- root/root        33 2018-03-04 11:20 ansible-docker-server-master/vars/main.yml

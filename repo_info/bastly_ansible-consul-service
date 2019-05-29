@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-04-08 17:11 ansible-consul-service-master/
+-rw-rw-r-- root/root      1328 2015-04-08 17:11 ansible-consul-service-master/README.md
+drwxrwxr-x root/root         0 2015-04-08 17:11 ansible-consul-service-master/defaults/
+-rw-rw-r-- root/root        47 2015-04-08 17:11 ansible-consul-service-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-08 17:11 ansible-consul-service-master/handlers/
+-rw-rw-r-- root/root        47 2015-04-08 17:11 ansible-consul-service-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-08 17:11 ansible-consul-service-master/meta/
+-rw-rw-r-- root/root       187 2015-04-08 17:11 ansible-consul-service-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-08 17:11 ansible-consul-service-master/tasks/
+-rw-rw-r-- root/root       222 2015-04-08 17:11 ansible-consul-service-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-08 17:11 ansible-consul-service-master/templates/
+-rw-rw-r-- root/root       248 2015-04-08 17:11 ansible-consul-service-master/templates/service.json.j2
+drwxrwxr-x root/root         0 2015-04-08 17:11 ansible-consul-service-master/vars/
+-rw-rw-r-- root/root        43 2015-04-08 17:11 ansible-consul-service-master/vars/main.yml

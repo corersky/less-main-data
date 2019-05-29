@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-22 12:09 ansible-role-gudhi-master/
+-rw-rw-r-- root/root        28 2019-03-22 12:09 ansible-role-gudhi-master/.gitignore
+-rw-rw-r-- root/root       908 2019-03-22 12:09 ansible-role-gudhi-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-03-22 12:09 ansible-role-gudhi-master/LICENSE
+-rw-rw-r-- root/root       631 2019-03-22 12:09 ansible-role-gudhi-master/README.md
+drwxrwxr-x root/root         0 2019-03-22 12:09 ansible-role-gudhi-master/defaults/
+-rw-rw-r-- root/root       452 2019-03-22 12:09 ansible-role-gudhi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-22 12:09 ansible-role-gudhi-master/meta/
+-rw-rw-r-- root/root       347 2019-03-22 12:09 ansible-role-gudhi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-22 12:09 ansible-role-gudhi-master/molecule/
+drwxrwxr-x root/root         0 2019-03-22 12:09 ansible-role-gudhi-master/molecule/default/
+-rw-rw-r-- root/root       625 2019-03-22 12:09 ansible-role-gudhi-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       207 2019-03-22 12:09 ansible-role-gudhi-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        54 2019-03-22 12:09 ansible-role-gudhi-master/molecule/default/requirements.yml
+-rw-rw-r-- root/root        75 2019-03-22 12:09 ansible-role-gudhi-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-03-22 12:09 ansible-role-gudhi-master/tasks/
+-rw-rw-r-- root/root      1744 2019-03-22 12:09 ansible-role-gudhi-master/tasks/main.yml

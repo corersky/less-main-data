@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-17 02:57 gitlab-master/
+-rw-rw-r-- root/root       395 2019-01-17 02:57 gitlab-master/README.md
+drwxrwxr-x root/root         0 2019-01-17 02:57 gitlab-master/defaults/
+-rw-rw-r-- root/root       183 2019-01-17 02:57 gitlab-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-17 02:57 gitlab-master/handlers/
+-rw-rw-r-- root/root        30 2019-01-17 02:57 gitlab-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-17 02:57 gitlab-master/meta/
+-rw-rw-r-- root/root      1973 2019-01-17 02:57 gitlab-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-17 02:57 gitlab-master/tasks/
+-rw-rw-r-- root/root       472 2019-01-17 02:57 gitlab-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-17 02:57 gitlab-master/templates/
+-rw-rw-r-- root/root       533 2019-01-17 02:57 gitlab-master/templates/docker-compose.yaml.j2
+drwxrwxr-x root/root         0 2019-01-17 02:57 gitlab-master/tests/
+-rw-rw-r-- root/root        11 2019-01-17 02:57 gitlab-master/tests/inventory
+-rw-rw-r-- root/root        64 2019-01-17 02:57 gitlab-master/tests/test.yml

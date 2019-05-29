@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-18 09:48 ansible-role-indigo-repo-master/
+-rw-rw-r-- root/root        17 2017-09-18 09:48 ansible-role-indigo-repo-master/.gitignore
+-rw-rw-r-- root/root       604 2017-09-18 09:48 ansible-role-indigo-repo-master/.travis.yml
+-rw-rw-r-- root/root       571 2017-09-18 09:48 ansible-role-indigo-repo-master/README.md
+drwxrwxr-x root/root         0 2017-09-18 09:48 ansible-role-indigo-repo-master/defaults/
+-rw-rw-r-- root/root       137 2017-09-18 09:48 ansible-role-indigo-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-18 09:48 ansible-role-indigo-repo-master/meta/
+-rw-rw-r-- root/root       348 2017-09-18 09:48 ansible-role-indigo-repo-master/meta/main.yml
+-rw-rw-r-- root/root        29 2017-09-18 09:48 ansible-role-indigo-repo-master/requirements.yml
+drwxrwxr-x root/root         0 2017-09-18 09:48 ansible-role-indigo-repo-master/tasks/
+-rw-rw-r-- root/root      2673 2017-09-18 09:48 ansible-role-indigo-repo-master/tasks/CentOS7.yml
+-rw-rw-r-- root/root       956 2017-09-18 09:48 ansible-role-indigo-repo-master/tasks/Ubuntu14+16.yml
+-rw-rw-r-- root/root      1233 2017-09-18 09:48 ansible-role-indigo-repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-18 09:48 ansible-role-indigo-repo-master/tests/
+-rw-rw-r-- root/root         9 2017-09-18 09:48 ansible-role-indigo-repo-master/tests/inventory
+-rw-rw-r-- root/root        83 2017-09-18 09:48 ansible-role-indigo-repo-master/tests/test.yml

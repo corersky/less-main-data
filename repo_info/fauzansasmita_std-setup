@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-05-31 05:35 std-setup-master/
+-rw-rw-r-- root/root       111 2016-05-31 05:35 std-setup-master/README.md
+drwxrwxr-x root/root         0 2016-05-31 05:35 std-setup-master/defaults/
+-rw-rw-r-- root/root        34 2016-05-31 05:35 std-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-31 05:35 std-setup-master/handlers/
+-rw-rw-r-- root/root        34 2016-05-31 05:35 std-setup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-31 05:35 std-setup-master/meta/
+-rw-rw-r-- root/root      3241 2016-05-31 05:35 std-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-31 05:35 std-setup-master/tasks/
+-rw-rw-r-- root/root        31 2016-05-31 05:35 std-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-31 05:35 std-setup-master/tests/
+-rw-rw-r-- root/root         9 2016-05-31 05:35 std-setup-master/tests/inventory
+-rw-rw-r-- root/root        67 2016-05-31 05:35 std-setup-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-05-31 05:35 std-setup-master/vars/
+-rw-rw-r-- root/root        30 2016-05-31 05:35 std-setup-master/vars/main.yml

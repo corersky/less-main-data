@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-10 14:17 ansible-systemd-cifs-mount-master/
+-rw-rw-r-- root/root       631 2017-03-10 14:17 ansible-systemd-cifs-mount-master/.travis.yml
+-rw-rw-r-- root/root      1116 2017-03-10 14:17 ansible-systemd-cifs-mount-master/README.md
+drwxrwxr-x root/root         0 2017-03-10 14:17 ansible-systemd-cifs-mount-master/handler/
+-rw-rw-r-- root/root       101 2017-03-10 14:17 ansible-systemd-cifs-mount-master/handler/main.yml
+drwxrwxr-x root/root         0 2017-03-10 14:17 ansible-systemd-cifs-mount-master/meta/
+-rw-rw-r-- root/root       351 2017-03-10 14:17 ansible-systemd-cifs-mount-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-10 14:17 ansible-systemd-cifs-mount-master/tasks/
+-rw-rw-r-- root/root       840 2017-03-10 14:17 ansible-systemd-cifs-mount-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-10 14:17 ansible-systemd-cifs-mount-master/templates/
+-rw-rw-r-- root/root       166 2017-03-10 14:17 ansible-systemd-cifs-mount-master/templates/systemd_automount.j2
+-rw-rw-r-- root/root       241 2017-03-10 14:17 ansible-systemd-cifs-mount-master/templates/systemd_mount.j2
+drwxrwxr-x root/root         0 2017-03-10 14:17 ansible-systemd-cifs-mount-master/tests/
+-rw-rw-r-- root/root         9 2017-03-10 14:17 ansible-systemd-cifs-mount-master/tests/inventory
+-rw-rw-r-- root/root        84 2017-03-10 14:17 ansible-systemd-cifs-mount-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-03-15 10:50 ansible-manage-ssh-keys-master/
+-rw-rw-r-- root/root      1290 2016-03-15 10:50 ansible-manage-ssh-keys-master/README.md
+drwxrwxr-x root/root         0 2016-03-15 10:50 ansible-manage-ssh-keys-master/defaults/
+-rw-rw-r-- root/root       526 2016-03-15 10:50 ansible-manage-ssh-keys-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-15 10:50 ansible-manage-ssh-keys-master/handlers/
+-rw-rw-r-- root/root        48 2016-03-15 10:50 ansible-manage-ssh-keys-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-15 10:50 ansible-manage-ssh-keys-master/meta/
+-rw-rw-r-- root/root      2474 2016-03-15 10:50 ansible-manage-ssh-keys-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-15 10:50 ansible-manage-ssh-keys-master/tasks/
+-rw-rw-r-- root/root       193 2016-03-15 10:50 ansible-manage-ssh-keys-master/tasks/main.yml
+-rw-rw-r-- root/root       241 2016-03-15 10:50 ansible-manage-ssh-keys-master/tasks/manage_ssh_keys.yml
+drwxrwxr-x root/root         0 2016-03-15 10:50 ansible-manage-ssh-keys-master/vars/
+-rw-rw-r-- root/root        44 2016-03-15 10:50 ansible-manage-ssh-keys-master/vars/main.yml

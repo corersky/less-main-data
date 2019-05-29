@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-28 06:49 ansible-systemd-java-service-master/
+-rw-rw-r-- root/root         7 2018-06-28 06:49 ansible-systemd-java-service-master/.gitignore
+-rw-rw-r-- root/root       240 2018-06-28 06:49 ansible-systemd-java-service-master/.travis.yml
+-rw-rw-r-- root/root      1360 2018-06-28 06:49 ansible-systemd-java-service-master/README.md
+drwxrwxr-x root/root         0 2018-06-28 06:49 ansible-systemd-java-service-master/defaults/
+-rw-rw-r-- root/root       167 2018-06-28 06:49 ansible-systemd-java-service-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-28 06:49 ansible-systemd-java-service-master/meta/
+-rw-rw-r-- root/root       315 2018-06-28 06:49 ansible-systemd-java-service-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-28 06:49 ansible-systemd-java-service-master/tasks/
+-rw-rw-r-- root/root      1053 2018-06-28 06:49 ansible-systemd-java-service-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-28 06:49 ansible-systemd-java-service-master/test/
+-rw-rw-r-- root/root        55 2018-06-28 06:49 ansible-systemd-java-service-master/test/test.rb
+-rw-rw-r-- root/root       416 2018-06-28 06:49 ansible-systemd-java-service-master/test/test.yml
+drwxrwxr-x root/root         0 2018-06-28 06:49 ansible-systemd-java-service-master/vars/
+-rw-rw-r-- root/root        26 2018-06-28 06:49 ansible-systemd-java-service-master/vars/main.yml

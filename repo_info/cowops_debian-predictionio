@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-predictionio-master/
+-rw-rw-r-- root/root       815 2019-05-07 09:22 debian-predictionio-master/README.md
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-predictionio-master/defaults/
+-rw-rw-r-- root/root        35 2019-05-07 09:22 debian-predictionio-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-predictionio-master/handlers/
+-rw-rw-r-- root/root       252 2019-05-07 09:22 debian-predictionio-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-predictionio-master/meta/
+-rw-rw-r-- root/root       296 2019-05-07 09:22 debian-predictionio-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-predictionio-master/tasks/
+-rw-rw-r-- root/root      1208 2019-05-07 09:22 debian-predictionio-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-predictionio-master/templates/
+-rwxrwxr-x root/root      2061 2019-05-07 09:22 debian-predictionio-master/templates/predictionio.j2

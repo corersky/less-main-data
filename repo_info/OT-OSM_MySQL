@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-03 04:23 MySQL-master/
+-rw-rw-r-- root/root       984 2019-02-03 04:23 MySQL-master/README.md
+drwxrwxr-x root/root         0 2019-02-03 04:23 MySQL-master/defaults/
+-rw-rw-r-- root/root       154 2019-02-03 04:23 MySQL-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-03 04:23 MySQL-master/handlers/
+-rw-rw-r-- root/root       127 2019-02-03 04:23 MySQL-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-03 04:23 MySQL-master/meta/
+-rw-rw-r-- root/root       547 2019-02-03 04:23 MySQL-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-03 04:23 MySQL-master/tasks/
+-rw-rw-r-- root/root       416 2019-02-03 04:23 MySQL-master/tasks/debian.yml
+-rw-rw-r-- root/root       261 2019-02-03 04:23 MySQL-master/tasks/main.yml
+-rw-rw-r-- root/root       991 2019-02-03 04:23 MySQL-master/tasks/mysql_secure_installation.yml
+-rw-rw-r-- root/root       606 2019-02-03 04:23 MySQL-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2019-02-03 04:23 MySQL-master/templates/
+-rw-rw-r-- root/root        54 2019-02-03 04:23 MySQL-master/templates/my.cnf.j2

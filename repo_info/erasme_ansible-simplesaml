@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-08-11 07:42 ansible-simplesaml-master/
+-rw-rw-r-- root/root         7 2015-08-11 07:42 ansible-simplesaml-master/.gitignore
+-rw-rw-r-- root/root       474 2015-08-11 07:42 ansible-simplesaml-master/.travis.yml
+-rw-rw-r-- root/root      1751 2015-08-11 07:42 ansible-simplesaml-master/README.md
+drwxrwxr-x root/root         0 2015-08-11 07:42 ansible-simplesaml-master/defaults/
+-rw-rw-r-- root/root       319 2015-08-11 07:42 ansible-simplesaml-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-11 07:42 ansible-simplesaml-master/meta/
+-rw-rw-r-- root/root       324 2015-08-11 07:42 ansible-simplesaml-master/meta/main.yml
+-rw-rw-r-- root/root        76 2015-08-11 07:42 ansible-simplesaml-master/requirements.yml
+drwxrwxr-x root/root         0 2015-08-11 07:42 ansible-simplesaml-master/tasks/
+-rw-rw-r-- root/root       162 2015-08-11 07:42 ansible-simplesaml-master/tasks/check_vars.yml
+-rw-rw-r-- root/root       100 2015-08-11 07:42 ansible-simplesaml-master/tasks/main.yml
+-rw-rw-r-- root/root       527 2015-08-11 07:42 ansible-simplesaml-master/tasks/simplesaml.yml

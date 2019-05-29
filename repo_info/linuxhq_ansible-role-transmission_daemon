@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-21 18:47 ansible-role-transmission_daemon-master/
+-rw-rw-r-- root/root       371 2019-01-21 18:47 ansible-role-transmission_daemon-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-21 18:47 ansible-role-transmission_daemon-master/COPYING
+-rw-rw-r-- root/root      5528 2019-01-21 18:47 ansible-role-transmission_daemon-master/README.md
+drwxrwxr-x root/root         0 2019-01-21 18:47 ansible-role-transmission_daemon-master/defaults/
+-rw-rw-r-- root/root      2014 2019-01-21 18:47 ansible-role-transmission_daemon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-21 18:47 ansible-role-transmission_daemon-master/handlers/
+-rw-rw-r-- root/root       140 2019-01-21 18:47 ansible-role-transmission_daemon-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-21 18:47 ansible-role-transmission_daemon-master/meta/
+-rw-rw-r-- root/root       355 2019-01-21 18:47 ansible-role-transmission_daemon-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-21 18:47 ansible-role-transmission_daemon-master/tasks/
+-rw-rw-r-- root/root      4239 2019-01-21 18:47 ansible-role-transmission_daemon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-21 18:47 ansible-role-transmission_daemon-master/templates/
+-rw-rw-r-- root/root      4371 2019-01-21 18:47 ansible-role-transmission_daemon-master/templates/settings.json.j2
+drwxrwxr-x root/root         0 2019-01-21 18:47 ansible-role-transmission_daemon-master/tests/
+-rw-rw-r-- root/root        10 2019-01-21 18:47 ansible-role-transmission_daemon-master/tests/inventory
+-rw-rw-r-- root/root        95 2019-01-21 18:47 ansible-role-transmission_daemon-master/tests/test.yml

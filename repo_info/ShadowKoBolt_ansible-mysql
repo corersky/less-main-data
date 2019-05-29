@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-03-17 11:19 ansible-mysql-master/
+-rw-rw-r-- root/root       453 2014-03-17 11:19 ansible-mysql-master/README.md
+drwxrwxr-x root/root         0 2014-03-17 11:19 ansible-mysql-master/defaults/
+-rw-rw-r-- root/root        30 2014-03-17 11:19 ansible-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-03-17 11:19 ansible-mysql-master/handlers/
+-rw-rw-r-- root/root        30 2014-03-17 11:19 ansible-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-03-17 11:19 ansible-mysql-master/meta/
+-rw-rw-r-- root/root      2122 2014-03-17 11:19 ansible-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-03-17 11:19 ansible-mysql-master/tasks/
+-rw-rw-r-- root/root       525 2014-03-17 11:19 ansible-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-03-17 11:19 ansible-mysql-master/vars/
+-rw-rw-r-- root/root        26 2014-03-17 11:19 ansible-mysql-master/vars/main.yml

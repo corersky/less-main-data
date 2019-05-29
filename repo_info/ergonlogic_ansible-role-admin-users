@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-07 10:15 ansible-role-admin-users-master/
+-rw-rw-r-- root/root        26 2019-05-07 10:15 ansible-role-admin-users-master/.gitignore
+-rw-rw-r-- root/root      1550 2019-05-07 10:15 ansible-role-admin-users-master/README.md
+drwxrwxr-x root/root         0 2019-05-07 10:15 ansible-role-admin-users-master/defaults/
+-rw-rw-r-- root/root        38 2019-05-07 10:15 ansible-role-admin-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-07 10:15 ansible-role-admin-users-master/files/
+-rw-rw-r-- root/root        88 2019-05-07 10:15 ansible-role-admin-users-master/files/sudoers.ansible
+drwxrwxr-x root/root         0 2019-05-07 10:15 ansible-role-admin-users-master/meta/
+-rw-rw-r-- root/root       328 2019-05-07 10:15 ansible-role-admin-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-07 10:15 ansible-role-admin-users-master/tasks/
+-rw-rw-r-- root/root       998 2019-05-07 10:15 ansible-role-admin-users-master/tasks/check.yml
+-rw-rw-r-- root/root       345 2019-05-07 10:15 ansible-role-admin-users-master/tasks/main.yml
+-rw-rw-r-- root/root       883 2019-05-07 10:15 ansible-role-admin-users-master/tasks/users.yml

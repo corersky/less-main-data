@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2018-03-07 03:12 ansible-role-seal-master/
+-rw-rw-r-- root/root        37 2018-03-07 03:12 ansible-role-seal-master/.gitignore
+-rw-rw-r-- root/root       685 2018-03-07 03:12 ansible-role-seal-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-03-07 03:12 ansible-role-seal-master/LICENSE
+-rw-rw-r-- root/root      1497 2018-03-07 03:12 ansible-role-seal-master/README.md
+drwxrwxr-x root/root         0 2018-03-07 03:12 ansible-role-seal-master/defaults/
+-rw-rw-r-- root/root        85 2018-03-07 03:12 ansible-role-seal-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-07 03:12 ansible-role-seal-master/meta/
+-rw-rw-r-- root/root       377 2018-03-07 03:12 ansible-role-seal-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-07 03:12 ansible-role-seal-master/tasks/
+-rw-rw-r-- root/root      3438 2018-03-07 03:12 ansible-role-seal-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-07 03:12 ansible-role-seal-master/tests/
+-rw-rw-r-- root/root        84 2018-03-07 03:12 ansible-role-seal-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-03-07 03:12 ansible-role-seal-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-03-07 03:12 ansible-role-seal-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-03-07 03:12 ansible-role-seal-master/tests/roles/seal -> ../../
+-rw-rw-r-- root/root       831 2018-03-07 03:12 ansible-role-seal-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-07 03:12 ansible-role-seal-master/vars/
+-rw-rw-r-- root/root        52 2018-03-07 03:12 ansible-role-seal-master/vars/RedHat6.yml
+-rw-rw-r-- root/root        43 2018-03-07 03:12 ansible-role-seal-master/vars/defaults.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-19 18:45 ansible-role-ansible-master/
+-rw-rw-r-- root/root      1079 2016-09-19 18:45 ansible-role-ansible-master/LICENSE
+-rw-rw-r-- root/root       398 2016-09-19 18:45 ansible-role-ansible-master/README.md
+drwxrwxr-x root/root         0 2016-09-19 18:45 ansible-role-ansible-master/defaults/
+-rw-rw-r-- root/root        72 2016-09-19 18:45 ansible-role-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-19 18:45 ansible-role-ansible-master/files/
+-rwxrwxr-x root/root       150 2016-09-19 18:45 ansible-role-ansible-master/files/ansible_update.sh
+drwxrwxr-x root/root         0 2016-09-19 18:45 ansible-role-ansible-master/meta/
+-rw-rw-r-- root/root      2073 2016-09-19 18:45 ansible-role-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-19 18:45 ansible-role-ansible-master/tasks/
+-rw-rw-r-- root/root       921 2016-09-19 18:45 ansible-role-ansible-master/tasks/RedHat.yml
+-rw-rw-r-- root/root      1142 2016-09-19 18:45 ansible-role-ansible-master/tasks/Ubuntu-14.yml
+-rw-rw-r-- root/root      1142 2016-09-19 18:45 ansible-role-ansible-master/tasks/Ubuntu-16.yml
+-rw-rw-r-- root/root       405 2016-09-19 18:45 ansible-role-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-19 18:45 ansible-role-ansible-master/templates/
+-rw-rw-r-- root/root        76 2016-09-19 18:45 ansible-role-ansible-master/templates/ansible-env-setup.j2
+-rw-rw-r-- root/root     10720 2016-09-19 18:45 ansible-role-ansible-master/templates/ansible.cfg.j2

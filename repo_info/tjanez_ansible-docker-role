@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-14 09:41 ansible-docker-role-master/
+-rw-rw-r-- root/root       107 2018-09-14 09:41 ansible-docker-role-master/.gitignore
+-rw-rw-r-- root/root     35147 2018-09-14 09:41 ansible-docker-role-master/LICENSE
+-rw-rw-r-- root/root      8637 2018-09-14 09:41 ansible-docker-role-master/README.rst
+drwxrwxr-x root/root         0 2018-09-14 09:41 ansible-docker-role-master/defaults/
+-rw-rw-r-- root/root       121 2018-09-14 09:41 ansible-docker-role-master/defaults/main.yml
+-rw-rw-r-- root/root        78 2018-09-14 09:41 ansible-docker-role-master/doc8.ini
+drwxrwxr-x root/root         0 2018-09-14 09:41 ansible-docker-role-master/meta/
+-rw-rw-r-- root/root       352 2018-09-14 09:41 ansible-docker-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-14 09:41 ansible-docker-role-master/tasks/
+-rw-rw-r-- root/root      3168 2018-09-14 09:41 ansible-docker-role-master/tasks/main.yml
+-rw-rw-r-- root/root      1610 2018-09-14 09:41 ansible-docker-role-master/tasks/sanity_checks.yml
+drwxrwxr-x root/root         0 2018-09-14 09:41 ansible-docker-role-master/templates/
+-rw-rw-r-- root/root       112 2018-09-14 09:41 ansible-docker-role-master/templates/etc-profile.d-docker.sh
+-rw-rw-r-- root/root       462 2018-09-14 09:41 ansible-docker-role-master/templates/etc-sudoers.d-docker
+-rw-rw-r-- root/root       734 2018-09-14 09:41 ansible-docker-role-master/templates/etc-sysconfig-docker-storage-setup.j2

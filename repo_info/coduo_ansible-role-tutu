@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-07-24 12:47 ansible-role-tutu-master/
+-rw-rw-r-- root/root       644 2014-07-24 12:47 ansible-role-tutu-master/.travis.yml
+-rw-rw-r-- root/root       518 2014-07-24 12:47 ansible-role-tutu-master/README.md
+drwxrwxr-x root/root         0 2014-07-24 12:47 ansible-role-tutu-master/defaults/
+-rw-rw-r-- root/root       158 2014-07-24 12:47 ansible-role-tutu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-24 12:47 ansible-role-tutu-master/meta/
+-rw-rw-r-- root/root       298 2014-07-24 12:47 ansible-role-tutu-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-24 12:47 ansible-role-tutu-master/tasks/
+-rw-rw-r-- root/root       659 2014-07-24 12:47 ansible-role-tutu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-07-24 12:47 ansible-role-tutu-master/templates/
+-rw-rw-r-- root/root       233 2014-07-24 12:47 ansible-role-tutu-master/templates/config.yml.js2
+drwxrwxr-x root/root         0 2014-07-24 12:47 ansible-role-tutu-master/tests/
+-rw-rw-r-- root/root        10 2014-07-24 12:47 ansible-role-tutu-master/tests/inventory
+-rw-rw-r-- root/root        70 2014-07-24 12:47 ansible-role-tutu-master/tests/test.yml

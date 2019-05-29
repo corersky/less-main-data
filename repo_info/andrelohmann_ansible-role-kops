@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-30 06:56 ansible-role-kops-master/
+-rw-rw-r-- root/root        27 2019-01-30 06:56 ansible-role-kops-master/.gitignore
+-rw-rw-r-- root/root       689 2019-01-30 06:56 ansible-role-kops-master/.travis.yml
+-rw-rw-r-- root/root       499 2019-01-30 06:56 ansible-role-kops-master/README.md
+drwxrwxr-x root/root         0 2019-01-30 06:56 ansible-role-kops-master/defaults/
+-rw-rw-r-- root/root        29 2019-01-30 06:56 ansible-role-kops-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-30 06:56 ansible-role-kops-master/meta/
+-rw-rw-r-- root/root       269 2019-01-30 06:56 ansible-role-kops-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-30 06:56 ansible-role-kops-master/tasks/
+-rw-rw-r-- root/root       180 2019-01-30 06:56 ansible-role-kops-master/tasks/download.yml
+-rw-rw-r-- root/root       436 2019-01-30 06:56 ansible-role-kops-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-30 06:56 ansible-role-kops-master/tests/
+-rw-rw-r-- root/root        10 2019-01-30 06:56 ansible-role-kops-master/tests/inventory
+-rw-rw-r-- root/root        96 2019-01-30 06:56 ansible-role-kops-master/tests/test.yml

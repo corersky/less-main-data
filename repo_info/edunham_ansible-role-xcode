@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-08 13:42 ansible-role-xcode-master/
+-rw-rw-r-- root/root         7 2016-03-08 13:42 ansible-role-xcode-master/.gitignore
+-rw-rw-r-- root/root       239 2016-03-08 13:42 ansible-role-xcode-master/.travis.yml
+-rw-rw-r-- root/root      1076 2016-03-08 13:42 ansible-role-xcode-master/LICENSE
+-rw-rw-r-- root/root       915 2016-03-08 13:42 ansible-role-xcode-master/README.md
+drwxrwxr-x root/root         0 2016-03-08 13:42 ansible-role-xcode-master/defaults/
+-rw-rw-r-- root/root        64 2016-03-08 13:42 ansible-role-xcode-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-03-08 13:42 ansible-role-xcode-master/meta/
+-rw-rw-r-- root/root       172 2016-03-08 13:42 ansible-role-xcode-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 13:42 ansible-role-xcode-master/tasks/
+-rw-rw-r-- root/root        62 2016-03-08 13:42 ansible-role-xcode-master/tasks/main.yaml
+-rw-rw-r-- root/root       771 2016-03-08 13:42 ansible-role-xcode-master/tasks/osx.yaml
+drwxrwxr-x root/root         0 2016-03-08 13:42 ansible-role-xcode-master/tests/
+-rw-rw-r-- root/root        10 2016-03-08 13:42 ansible-role-xcode-master/tests/inventory
+-rw-rw-r-- root/root        59 2016-03-08 13:42 ansible-role-xcode-master/tests/site.yaml

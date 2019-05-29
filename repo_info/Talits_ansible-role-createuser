@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-04 07:32 ansible-role-createuser-master/
+-rwxrwxr-x root/root       566 2018-01-04 07:32 ansible-role-createuser-master/README.md
+drwxrwxr-x root/root         0 2018-01-04 07:32 ansible-role-createuser-master/defaults/
+-rwxrwxr-x root/root       244 2018-01-04 07:32 ansible-role-createuser-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-04 07:32 ansible-role-createuser-master/handlers/
+-rwxrwxr-x root/root        40 2018-01-04 07:32 ansible-role-createuser-master/handlers/main.yml
+-rwxrwxr-x root/root        19 2018-01-04 07:32 ansible-role-createuser-master/hosts
+drwxrwxr-x root/root         0 2018-01-04 07:32 ansible-role-createuser-master/meta/
+-rwxrwxr-x root/root       258 2018-01-04 07:32 ansible-role-createuser-master/meta/main.yml
+-rw-rw-r-- root/root        65 2018-01-04 07:32 ansible-role-createuser-master/playbook.yml
+drwxrwxr-x root/root         0 2018-01-04 07:32 ansible-role-createuser-master/tasks/
+-rwxrwxr-x root/root      1097 2018-01-04 07:32 ansible-role-createuser-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-04 07:32 ansible-role-createuser-master/tests/
+-rwxrwxr-x root/root        11 2018-01-04 07:32 ansible-role-createuser-master/tests/inventory
+-rwxrwxr-x root/root        74 2018-01-04 07:32 ansible-role-createuser-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-04 07:32 ansible-role-createuser-master/vars/
+-rwxrwxr-x root/root        36 2018-01-04 07:32 ansible-role-createuser-master/vars/main.yml

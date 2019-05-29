@@ -1,0 +1,8 @@
+drwxrwxr-x root/root         0 2018-07-11 17:36 ansible-role-gather_server_facts-master/
+-rw-rw-r-- root/root      1072 2018-07-11 17:36 ansible-role-gather_server_facts-master/LICENSE
+-rw-rw-r-- root/root       303 2018-07-11 17:36 ansible-role-gather_server_facts-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 17:36 ansible-role-gather_server_facts-master/meta/
+-rw-rw-r-- root/root       305 2018-07-11 17:36 ansible-role-gather_server_facts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-11 17:36 ansible-role-gather_server_facts-master/tasks/
+-rw-rw-r-- root/root       712 2018-07-11 17:36 ansible-role-gather_server_facts-master/tasks/gather_server_facts.yml
+-rw-rw-r-- root/root       182 2018-07-11 17:36 ansible-role-gather_server_facts-master/tasks/main.yml

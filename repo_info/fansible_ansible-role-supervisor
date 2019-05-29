@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/
+-rw-rw-r-- root/root       971 2015-12-10 04:15 ansible-role-supervisor-master/README.md
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/defaults/
+-rw-rw-r-- root/root       367 2015-12-10 04:15 ansible-role-supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/handlers/
+-rw-rw-r-- root/root       763 2015-12-10 04:15 ansible-role-supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/meta/
+-rw-rw-r-- root/root       261 2015-12-10 04:15 ansible-role-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/tasks/
+-rw-rw-r-- root/root      1030 2015-12-10 04:15 ansible-role-supervisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/templates/
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/templates/etc/
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/templates/etc/supervisor/
+drwxrwxr-x root/root         0 2015-12-10 04:15 ansible-role-supervisor-master/templates/etc/supervisor/conf.d/
+-rw-rw-r-- root/root       456 2015-12-10 04:15 ansible-role-supervisor-master/templates/etc/supervisor/conf.d/myconf.conf

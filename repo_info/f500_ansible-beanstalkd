@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-04 07:07 ansible-beanstalkd-master/
+-rw-rw-r-- root/root     35147 2018-09-04 07:07 ansible-beanstalkd-master/COPYING
+-rw-rw-r-- root/root      7651 2018-09-04 07:07 ansible-beanstalkd-master/COPYING.LESSER
+-rw-rw-r-- root/root       828 2018-09-04 07:07 ansible-beanstalkd-master/README.md
+drwxrwxr-x root/root         0 2018-09-04 07:07 ansible-beanstalkd-master/defaults/
+-rw-rw-r-- root/root       224 2018-09-04 07:07 ansible-beanstalkd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-04 07:07 ansible-beanstalkd-master/handlers/
+-rw-rw-r-- root/root        75 2018-09-04 07:07 ansible-beanstalkd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-04 07:07 ansible-beanstalkd-master/meta/
+-rw-rw-r-- root/root       279 2018-09-04 07:07 ansible-beanstalkd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-04 07:07 ansible-beanstalkd-master/tasks/
+-rw-rw-r-- root/root      2166 2018-09-04 07:07 ansible-beanstalkd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-04 07:07 ansible-beanstalkd-master/templates/
+-rw-rw-r-- root/root       505 2018-09-04 07:07 ansible-beanstalkd-master/templates/beanstalkd
+-rw-rw-r-- root/root      8542 2018-09-04 07:07 ansible-beanstalkd-master/templates/beanstalkd.initd

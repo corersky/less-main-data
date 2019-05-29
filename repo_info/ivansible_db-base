@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-30 18:05 db-base-master/
+-rw-rw-r-- root/root        26 2018-09-30 18:05 db-base-master/.gitignore
+-rw-rw-r-- root/root       736 2018-09-30 18:05 db-base-master/README.md
+drwxrwxr-x root/root         0 2018-09-30 18:05 db-base-master/defaults/
+-rw-rw-r-- root/root       274 2018-09-30 18:05 db-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:05 db-base-master/handlers/
+-rw-rw-r-- root/root        75 2018-09-30 18:05 db-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:05 db-base-master/meta/
+-rw-rw-r-- root/root       369 2018-09-30 18:05 db-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:05 db-base-master/tasks/
+-rw-rw-r-- root/root        72 2018-09-30 18:05 db-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:05 db-base-master/tests/
+-rw-rw-r-- root/root        10 2018-09-30 18:05 db-base-master/tests/inventory
+-rw-rw-r-- root/root        84 2018-09-30 18:05 db-base-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-30 18:05 db-base-master/vars/
+-rw-rw-r-- root/root        38 2018-09-30 18:05 db-base-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-motd-master/
+-rw-rw-r-- root/root         0 2018-06-06 10:30 ansible-motd-master/.gitignore
+-rw-rw-r-- root/root      1080 2018-06-06 10:30 ansible-motd-master/LICENSE
+-rw-rw-r-- root/root      2026 2018-06-06 10:30 ansible-motd-master/README.md
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-motd-master/defaults/
+-rw-rw-r-- root/root      1285 2018-06-06 10:30 ansible-motd-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-motd-master/meta/
+-rw-rw-r-- root/root       284 2018-06-06 10:30 ansible-motd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-motd-master/tasks/
+-rw-rw-r-- root/root       105 2018-06-06 10:30 ansible-motd-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-06-06 10:30 ansible-motd-master/templates/
+-rw-rw-r-- root/root       461 2018-06-06 10:30 ansible-motd-master/templates/motd.j2

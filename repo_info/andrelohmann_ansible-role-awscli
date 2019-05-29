@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-16 01:43 ansible-role-awscli-master/
+-rw-rw-r-- root/root        27 2019-05-16 01:43 ansible-role-awscli-master/.gitignore
+-rw-rw-r-- root/root       717 2019-05-16 01:43 ansible-role-awscli-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 01:43 ansible-role-awscli-master/LICENSE
+-rw-rw-r-- root/root       652 2019-05-16 01:43 ansible-role-awscli-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 01:43 ansible-role-awscli-master/meta/
+-rw-rw-r-- root/root       293 2019-05-16 01:43 ansible-role-awscli-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 01:43 ansible-role-awscli-master/tasks/
+-rw-rw-r-- root/root       603 2019-05-16 01:43 ansible-role-awscli-master/tasks/main.yml
+-rw-rw-r-- root/root       740 2019-05-16 01:43 ansible-role-awscli-master/tasks/user.yml
+drwxrwxr-x root/root         0 2019-05-16 01:43 ansible-role-awscli-master/templates/
+-rw-rw-r-- root/root       114 2019-05-16 01:43 ansible-role-awscli-master/templates/aws.config.j2
+-rw-rw-r-- root/root       160 2019-05-16 01:43 ansible-role-awscli-master/templates/aws.credentials.j2
+drwxrwxr-x root/root         0 2019-05-16 01:43 ansible-role-awscli-master/tests/
+-rw-rw-r-- root/root        10 2019-05-16 01:43 ansible-role-awscli-master/tests/inventory
+-rw-rw-r-- root/root        98 2019-05-16 01:43 ansible-role-awscli-master/tests/test.yml

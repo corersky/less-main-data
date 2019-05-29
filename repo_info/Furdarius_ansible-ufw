@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-04-16 03:41 ansible-ufw-master/
+-rw-rw-r-- root/root        10 2017-04-16 03:41 ansible-ufw-master/.gitignore
+-rw-rw-r-- root/root       765 2017-04-16 03:41 ansible-ufw-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-04-16 03:41 ansible-ufw-master/LICENSE
+-rw-rw-r-- root/root       646 2017-04-16 03:41 ansible-ufw-master/README.md
+drwxrwxr-x root/root         0 2017-04-16 03:41 ansible-ufw-master/defaults/
+-rw-rw-r-- root/root       102 2017-04-16 03:41 ansible-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-16 03:41 ansible-ufw-master/meta/
+-rw-rw-r-- root/root       297 2017-04-16 03:41 ansible-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-16 03:41 ansible-ufw-master/tasks/
+-rw-rw-r-- root/root       254 2017-04-16 03:41 ansible-ufw-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-16 03:41 ansible-ufw-master/tests/
+-rw-rw-r-- root/root        86 2017-04-16 03:41 ansible-ufw-master/tests/role.yml

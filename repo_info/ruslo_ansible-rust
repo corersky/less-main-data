@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-09 05:49 ansible-rust-master/
+-rw-rw-r-- root/root       651 2018-02-09 05:49 ansible-rust-master/.travis.yml
+-rw-rw-r-- root/root      1297 2018-02-09 05:49 ansible-rust-master/LICENSE
+-rw-rw-r-- root/root      3787 2018-02-09 05:49 ansible-rust-master/README.rst
+-rw-rw-r-- root/root        26 2018-02-09 05:49 ansible-rust-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-02-09 05:49 ansible-rust-master/defaults/
+-rw-rw-r-- root/root      2584 2018-02-09 05:49 ansible-rust-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-09 05:49 ansible-rust-master/meta/
+-rw-rw-r-- root/root       517 2018-02-09 05:49 ansible-rust-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-09 05:49 ansible-rust-master/tasks/
+-rw-rw-r-- root/root      1967 2018-02-09 05:49 ansible-rust-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-09 05:49 ansible-rust-master/tests/
+-rw-rw-r-- root/root        10 2018-02-09 05:49 ansible-rust-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-02-09 05:49 ansible-rust-master/tests/test.yml

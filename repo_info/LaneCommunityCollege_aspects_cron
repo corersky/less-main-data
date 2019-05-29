@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_cron-master/
+-rw-rw-r-- root/root       405 2018-09-06 15:58 aspects_cron-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1087 2018-09-06 15:58 aspects_cron-master/LICENSE
+-rw-rw-r-- root/root      1480 2018-09-06 15:58 aspects_cron-master/README.md
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_cron-master/defaults/
+-rw-rw-r-- root/root      2343 2018-09-06 15:58 aspects_cron-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_cron-master/meta/
+-rw-rw-r-- root/root       567 2018-09-06 15:58 aspects_cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_cron-master/tasks/
+-rw-rw-r-- root/root      1506 2018-09-06 15:58 aspects_cron-master/tasks/init.yml
+-rw-rw-r-- root/root       103 2018-09-06 15:58 aspects_cron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_cron-master/templates/
+-rw-rw-r-- root/root      1390 2018-09-06 15:58 aspects_cron-master/templates/anacrontab.j2
+-rw-rw-r-- root/root      2005 2018-09-06 15:58 aspects_cron-master/templates/crontab.j2

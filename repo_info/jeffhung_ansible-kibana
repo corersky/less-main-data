@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-08-13 23:56 ansible-kibana-master/
+-rw-rw-r-- root/root       273 2016-08-13 23:56 ansible-kibana-master/README.md
+drwxrwxr-x root/root         0 2016-08-13 23:56 ansible-kibana-master/defaults/
+-rw-rw-r-- root/root        26 2016-08-13 23:56 ansible-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-13 23:56 ansible-kibana-master/handlers/
+-rw-rw-r-- root/root        81 2016-08-13 23:56 ansible-kibana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-13 23:56 ansible-kibana-master/meta/
+-rw-rw-r-- root/root       294 2016-08-13 23:56 ansible-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-13 23:56 ansible-kibana-master/tasks/
+-rw-rw-r-- root/root      1738 2016-08-13 23:56 ansible-kibana-master/tasks/install.yml
+-rw-rw-r-- root/root        68 2016-08-13 23:56 ansible-kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-13 23:56 ansible-kibana-master/templates/
+-rw-rw-r-- root/root       238 2016-08-13 23:56 ansible-kibana-master/templates/kibana.repo.j2

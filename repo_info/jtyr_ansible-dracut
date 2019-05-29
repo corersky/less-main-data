@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-12 05:12 ansible-dracut-master/
+-rw-rw-r-- root/root         0 2017-05-12 05:12 ansible-dracut-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-12 05:12 ansible-dracut-master/LICENSE
+-rw-rw-r-- root/root      2788 2017-05-12 05:12 ansible-dracut-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 05:12 ansible-dracut-master/defaults/
+-rw-rw-r-- root/root       762 2017-05-12 05:12 ansible-dracut-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:12 ansible-dracut-master/handlers/
+-rw-rw-r-- root/root       123 2017-05-12 05:12 ansible-dracut-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:12 ansible-dracut-master/meta/
+-rw-rw-r-- root/root       272 2017-05-12 05:12 ansible-dracut-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 05:12 ansible-dracut-master/tasks/
+-rw-rw-r-- root/root      1480 2017-05-12 05:12 ansible-dracut-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:12 ansible-dracut-master/templates/
+-rw-rw-r-- root/root        74 2017-05-12 05:12 ansible-dracut-master/templates/dracut.conf.d.j2
+-rw-rw-r-- root/root        77 2017-05-12 05:12 ansible-dracut-master/templates/dracut.conf.j2

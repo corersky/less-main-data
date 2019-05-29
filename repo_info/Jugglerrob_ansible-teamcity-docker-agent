@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-13 12:27 ansible-teamcity-docker-agent-master/
+-rw-rw-r-- root/root        19 2018-01-13 12:27 ansible-teamcity-docker-agent-master/.gitignore
+-rw-rw-r-- root/root      1210 2018-01-13 12:27 ansible-teamcity-docker-agent-master/LICENSE
+-rw-rw-r-- root/root      1430 2018-01-13 12:27 ansible-teamcity-docker-agent-master/README.md
+drwxrwxr-x root/root         0 2018-01-13 12:27 ansible-teamcity-docker-agent-master/defaults/
+-rw-rw-r-- root/root       483 2018-01-13 12:27 ansible-teamcity-docker-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-13 12:27 ansible-teamcity-docker-agent-master/meta/
+-rw-rw-r-- root/root       321 2018-01-13 12:27 ansible-teamcity-docker-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-13 12:27 ansible-teamcity-docker-agent-master/tasks/
+-rw-rw-r-- root/root       873 2018-01-13 12:27 ansible-teamcity-docker-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-13 12:27 ansible-teamcity-docker-agent-master/test/
+-rw-rw-r-- root/root       307 2018-01-13 12:27 ansible-teamcity-docker-agent-master/test/inventory.yml
+-rw-rw-r-- root/root      1143 2018-01-13 12:27 ansible-teamcity-docker-agent-master/test/main.yml
+-rw-rw-r-- root/root       159 2018-01-13 12:27 ansible-teamcity-docker-agent-master/test/requirements.yml
+drwxrwxr-x root/root         0 2018-01-13 12:27 ansible-teamcity-docker-agent-master/test/roles/
+lrwxrwxrwx root/root         0 2018-01-13 12:27 ansible-teamcity-docker-agent-master/test/roles/teamcity-docker-agent -> ../..

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-04-26 20:28 ansible-role-ansible-master/
+-rw-rw-r-- root/root        22 2018-04-26 20:28 ansible-role-ansible-master/.gitignore
+-rw-rw-r-- root/root       768 2018-04-26 20:28 ansible-role-ansible-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-04-26 20:28 ansible-role-ansible-master/LICENSE
+-rw-rw-r-- root/root       762 2018-04-26 20:28 ansible-role-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-04-26 20:28 ansible-role-ansible-master/meta/
+-rw-rw-r-- root/root       489 2018-04-26 20:28 ansible-role-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-26 20:28 ansible-role-ansible-master/tasks/
+-rw-rw-r-- root/root       364 2018-04-26 20:28 ansible-role-ansible-master/tasks/main.yml
+-rw-rw-r-- root/root       446 2018-04-26 20:28 ansible-role-ansible-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root        67 2018-04-26 20:28 ansible-role-ansible-master/tasks/setup-Fedora.yml
+-rw-rw-r-- root/root        79 2018-04-26 20:28 ansible-role-ansible-master/tasks/setup-RedHat.yml
+-rw-rw-r-- root/root       215 2018-04-26 20:28 ansible-role-ansible-master/tasks/setup-Ubuntu.yml
+drwxrwxr-x root/root         0 2018-04-26 20:28 ansible-role-ansible-master/tests/
+-rw-rw-r-- root/root       632 2018-04-26 20:28 ansible-role-ansible-master/tests/README.md
+-rw-rw-r-- root/root        49 2018-04-26 20:28 ansible-role-ansible-master/tests/test.yml

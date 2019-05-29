@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-05-04 14:00 ansible-postfix-master/
+-rw-rw-r-- root/root        41 2014-05-04 14:00 ansible-postfix-master/.gitignore
+-rw-rw-r-- root/root      1089 2014-05-04 14:00 ansible-postfix-master/LICENSE
+-rw-rw-r-- root/root      1099 2014-05-04 14:00 ansible-postfix-master/README.md
+drwxrwxr-x root/root         0 2014-05-04 14:00 ansible-postfix-master/defaults/
+-rw-rw-r-- root/root       456 2014-05-04 14:00 ansible-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-05-04 14:00 ansible-postfix-master/handlers/
+-rw-rw-r-- root/root       166 2014-05-04 14:00 ansible-postfix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-04 14:00 ansible-postfix-master/meta/
+-rw-rw-r-- root/root       270 2014-05-04 14:00 ansible-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-04 14:00 ansible-postfix-master/tasks/
+-rw-rw-r-- root/root      1020 2014-05-04 14:00 ansible-postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-04 14:00 ansible-postfix-master/templates/
+-rw-rw-r-- root/root      1641 2014-05-04 14:00 ansible-postfix-master/templates/main.cf.j2
+-rw-rw-r-- root/root      4237 2014-05-04 14:00 ansible-postfix-master/templates/master.cf.j2
+-rw-rw-r-- root/root       173 2014-05-04 14:00 ansible-postfix-master/templates/sasl_passwd.j2
+-rw-rw-r-- root/root       227 2014-05-04 14:00 ansible-postfix-master/test.yml

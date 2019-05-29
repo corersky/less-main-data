@@ -1,0 +1,112 @@
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/
+-rw-rw-r-- root/root        18 2019-05-08 15:30 Ansible-Workstation-master/.gitignore
+-rw-rw-r-- root/root      1022 2019-05-08 15:30 Ansible-Workstation-master/.travis.yml
+-rw-rw-r-- root/root      3050 2019-05-08 15:30 Ansible-Workstation-master/Vagrantfile
+-rw-rw-r-- root/root       752 2019-05-08 15:30 Ansible-Workstation-master/deploy.yml
+-rwxrwxr-x root/root      1292 2019-05-08 15:30 Ansible-Workstation-master/fedoraSetup.sh
+-rw-rw-r-- root/root       159 2019-05-08 15:30 Ansible-Workstation-master/hosts
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/library/
+-rw-rw-r-- root/root      7742 2019-05-08 15:30 Ansible-Workstation-master/library/gsetting
+-rw-rw-r-- root/root      1325 2019-05-08 15:30 Ansible-Workstation-master/library/gsettings
+-rw-rw-r-- root/root      2690 2019-05-08 15:30 Ansible-Workstation-master/library/shell_extension
+-rw-rw-r-- root/root        35 2019-05-08 15:30 Ansible-Workstation-master/localHosts
+-rw-rw-r-- root/root        34 2019-05-08 15:30 Ansible-Workstation-master/package.json
+-rw-rw-r-- root/root       716 2019-05-08 15:30 Ansible-Workstation-master/readme.md
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/files/
+-rw-rw-r-- root/root       259 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/files/CentOS.virtualbox.repo
+-rw-rw-r-- root/root       241 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/files/Fedora.virtualbox.repo
+-rw-rw-r-- root/root        95 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/files/fixVirtualBox.sh
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/tasks/
+-rw-rw-r-- root/root       205 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/tasks/Debian_packages.yml
+-rw-rw-r-- root/root       108 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/tasks/Debian_system.yml
+-rw-rw-r-- root/root       328 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/tasks/RedHat_packages.yml
+-rw-rw-r-- root/root       760 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/tasks/RedHat_system.yml
+-rw-rw-r-- root/root        36 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/tasks/all_system.yml
+-rw-rw-r-- root/root       656 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/vars/
+-rw-rw-r-- root/root        43 2019-05-08 15:30 Ansible-Workstation-master/roles/VirtualBox/vars/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/Windows Ansible/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/Windows Ansible/tasks/
+-rw-rw-r-- root/root         8 2019-05-08 15:30 Ansible-Workstation-master/roles/Windows Ansible/tasks/.gitignore
+-rw-rw-r-- root/root       731 2019-05-08 15:30 Ansible-Workstation-master/roles/Windows Ansible/tasks/main.yml
+-rw-rw-r-- root/root       183 2019-05-08 15:30 Ansible-Workstation-master/roles/Windows Ansible/tasks/packages.yml
+-rw-rw-r-- root/root         4 2019-05-08 15:30 Ansible-Workstation-master/roles/Windows Ansible/tasks/system.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/arduino/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/arduino/tasks/
+-rw-rw-r-- root/root       571 2019-05-08 15:30 Ansible-Workstation-master/roles/arduino/tasks/groups.yml
+-rw-rw-r-- root/root       511 2019-05-08 15:30 Ansible-Workstation-master/roles/arduino/tasks/main.yml
+-rw-rw-r-- root/root       575 2019-05-08 15:30 Ansible-Workstation-master/roles/arduino/tasks/permissions.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/arduino/vars/
+-rw-rw-r-- root/root        76 2019-05-08 15:30 Ansible-Workstation-master/roles/arduino/vars/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/handlers/
+-rw-rw-r-- root/root        57 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/tasks/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/tasks/Fedora/
+-rw-rw-r-- root/root       521 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/tasks/Fedora/packages.yml
+-rw-rw-r-- root/root      1409 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/tasks/Fedora/system.yml
+-rw-rw-r-- root/root      1197 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/vars/
+-rw-rw-r-- root/root       777 2019-05-08 15:30 Ansible-Workstation-master/roles/developer/vars/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/
+-rw-rw-r-- root/root      1328 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/README.md
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/defaults/
+-rw-rw-r-- root/root       214 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/handlers/
+-rw-rw-r-- root/root       187 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/meta/
+-rw-rw-r-- root/root      1777 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/tasks/
+-rw-rw-r-- root/root      2021 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/tests/
+-rw-rw-r-- root/root        11 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/tests/inventory
+-rw-rw-r-- root/root        74 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/vars/
+-rw-rw-r-- root/root        36 2019-05-08 15:30 Ansible-Workstation-master/roles/docker-syncthing/vars/main.yml
+-rw-rw-r-- root/root       251 2019-05-08 15:30 Ansible-Workstation-master/roles/requirements.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/vs-code/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/vs-code/tasks/
+-rw-rw-r-- root/root       534 2019-05-08 15:30 Ansible-Workstation-master/roles/vs-code/tasks/Debian.yml
+-rw-rw-r-- root/root       719 2019-05-08 15:30 Ansible-Workstation-master/roles/vs-code/tasks/RedHat.yml
+-rw-rw-r-- root/root       595 2019-05-08 15:30 Ansible-Workstation-master/roles/vs-code/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/vs-code/vars/
+-rw-rw-r-- root/root       674 2019-05-08 15:30 Ansible-Workstation-master/roles/vs-code/vars/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/
+-rw-rw-r-- root/root        34 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/tasks/
+-rw-rw-r-- root/root       378 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/tasks/Debian_packages.yml
+-rw-rw-r-- root/root        34 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/tasks/RedHat.yml
+-rw-rw-r-- root/root       136 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/tasks/RedHat_packages.yml
+-rw-rw-r-- root/root         4 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/tasks/all_system.yml
+-rw-rw-r-- root/root       450 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/tasks/main.yml
+-rw-rw-r-- root/root       409 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/tasks/permissions.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/vars/
+-rw-rw-r-- root/root        26 2019-05-08 15:30 Ansible-Workstation-master/roles/🔑 yubikey/vars/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/files/
+-rw-rw-r-- root/root      4938 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/files/settings.sh
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/handlers/
+-rw-rw-r-- root/root       628 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/Fedora/
+-rw-rw-r-- root/root       624 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/Fedora/configuration.yml
+-rw-rw-r-- root/root      1416 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/Fedora/flatpak.yml
+-rw-rw-r-- root/root      1671 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/Fedora/packages.yml
+-rw-rw-r-- root/root      3120 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/Fedora/repos.yml
+-rw-rw-r-- root/root       910 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/Fedora/services.yml
+-rw-rw-r-- root/root       306 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/Fedora/system.yml
+-rw-rw-r-- root/root      4023 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/templates/
+-rw-rw-r-- root/root       173 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/templates/jail.local.j2
+-rw-rw-r-- root/root      3900 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/vars/
+-rw-rw-r-- root/root      4840 2019-05-08 15:30 Ansible-Workstation-master/roles/🔵 base/vars/main.yml
+-rw-rw-r-- root/root       884 2019-05-08 15:30 Ansible-Workstation-master/setupEnvironment.sh
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/tests/
+-rwxrwxr-x root/root       344 2019-05-08 15:30 Ansible-Workstation-master/tests/test-in-docker.sh
+drwxrwxr-x root/root         0 2019-05-08 15:30 Ansible-Workstation-master/vars/
+-rw-rw-r-- root/root       715 2019-05-08 15:30 Ansible-Workstation-master/vars/main.yml
+-rw-rw-r-- root/root     22581 2019-05-08 15:30 Ansible-Workstation-master/vars/vault.yml
+-rw-rw-r-- root/root       518 2019-05-08 15:30 Ansible-Workstation-master/vars/zsh.yml

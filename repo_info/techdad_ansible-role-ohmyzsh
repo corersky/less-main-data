@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-12 02:42 ansible-role-ohmyzsh-master/
+-rw-rw-r-- root/root        25 2018-07-12 02:42 ansible-role-ohmyzsh-master/.gitattributes
+-rw-rw-r-- root/root        10 2018-07-12 02:42 ansible-role-ohmyzsh-master/.gitignore
+-rw-rw-r-- root/root       107 2018-07-12 02:42 ansible-role-ohmyzsh-master/.gitmodules
+-rw-rw-r-- root/root      2496 2018-07-12 02:42 ansible-role-ohmyzsh-master/README.md
+drwxrwxr-x root/root         0 2018-07-12 02:42 ansible-role-ohmyzsh-master/defaults/
+-rw-rw-r-- root/root       221 2018-07-12 02:42 ansible-role-ohmyzsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-12 02:42 ansible-role-ohmyzsh-master/files/
+-rw-rw-r-- root/root       648 2018-07-12 02:42 ansible-role-ohmyzsh-master/files/custom-flazz2.zsh-theme
+drwxrwxr-x root/root         0 2018-07-12 02:42 ansible-role-ohmyzsh-master/files/oh-my-zsh/
+drwxrwxr-x root/root         0 2018-07-12 02:42 ansible-role-ohmyzsh-master/meta/
+-rw-rw-r-- root/root       494 2018-07-12 02:42 ansible-role-ohmyzsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-12 02:42 ansible-role-ohmyzsh-master/tasks/
+-rw-rw-r-- root/root      2318 2018-07-12 02:42 ansible-role-ohmyzsh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-12 02:42 ansible-role-ohmyzsh-master/templates/
+-rw-rw-r-- root/root      2754 2018-07-12 02:42 ansible-role-ohmyzsh-master/templates/zshrc.j2

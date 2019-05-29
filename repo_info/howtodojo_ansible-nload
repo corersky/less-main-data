@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 19:16 ansible-nload-master/
+-rw-rw-r-- root/root       812 2016-09-05 19:16 ansible-nload-master/.travis.yml
+-rw-rw-r-- root/root       471 2016-09-05 19:16 ansible-nload-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 19:16 ansible-nload-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 19:16 ansible-nload-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:16 ansible-nload-master/meta/
+-rw-rw-r-- root/root       308 2016-09-05 19:16 ansible-nload-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:16 ansible-nload-master/tasks/
+-rw-rw-r-- root/root       381 2016-09-05 19:16 ansible-nload-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:16 ansible-nload-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 19:16 ansible-nload-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-09-05 19:16 ansible-nload-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 19:16 ansible-nload-master/vars/
+-rw-rw-r-- root/root        60 2016-09-05 19:16 ansible-nload-master/vars/main.yml

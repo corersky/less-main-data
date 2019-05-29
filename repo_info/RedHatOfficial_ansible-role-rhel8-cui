@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-16 12:26 ansible-role-rhel8-cui-master/
+-rw-rw-r-- root/root      3050 2019-05-16 12:26 ansible-role-rhel8-cui-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 12:26 ansible-role-rhel8-cui-master/defaults/
+-rw-rw-r-- root/root      4962 2019-05-16 12:26 ansible-role-rhel8-cui-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 12:26 ansible-role-rhel8-cui-master/handlers/
+-rw-rw-r-- root/root        46 2019-05-16 12:26 ansible-role-rhel8-cui-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-16 12:26 ansible-role-rhel8-cui-master/meta/
+-rw-rw-r-- root/root       575 2019-05-16 12:26 ansible-role-rhel8-cui-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 12:26 ansible-role-rhel8-cui-master/tasks/
+-rw-rw-r-- root/root    368748 2019-05-16 12:26 ansible-role-rhel8-cui-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 12:26 ansible-role-rhel8-cui-master/tests/
+-rw-rw-r-- root/root        11 2019-05-16 12:26 ansible-role-rhel8-cui-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-05-16 12:26 ansible-role-rhel8-cui-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-16 12:26 ansible-role-rhel8-cui-master/vars/
+-rw-rw-r-- root/root      1591 2019-05-16 12:26 ansible-role-rhel8-cui-master/vars/main.yml

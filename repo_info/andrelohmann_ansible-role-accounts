@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-08 14:17 ansible-role-accounts-master/
+-rw-rw-r-- root/root        28 2018-10-08 14:17 ansible-role-accounts-master/.gitignore
+-rw-rw-r-- root/root       991 2018-10-08 14:17 ansible-role-accounts-master/.travis.yml
+-rw-rw-r-- root/root      1414 2018-10-08 14:17 ansible-role-accounts-master/README.md
+drwxrwxr-x root/root         0 2018-10-08 14:17 ansible-role-accounts-master/defaults/
+-rw-rw-r-- root/root        51 2018-10-08 14:17 ansible-role-accounts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:17 ansible-role-accounts-master/handlers/
+-rw-rw-r-- root/root        76 2018-10-08 14:17 ansible-role-accounts-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:17 ansible-role-accounts-master/meta/
+-rw-rw-r-- root/root       370 2018-10-08 14:17 ansible-role-accounts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:17 ansible-role-accounts-master/tasks/
+-rw-rw-r-- root/root      2243 2018-10-08 14:17 ansible-role-accounts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-08 14:17 ansible-role-accounts-master/tests/
+-rw-rw-r-- root/root         9 2018-10-08 14:17 ansible-role-accounts-master/tests/inventory
+-rw-rw-r-- root/root       549 2018-10-08 14:17 ansible-role-accounts-master/tests/test.yml

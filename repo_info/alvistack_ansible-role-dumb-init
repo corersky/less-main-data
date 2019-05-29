@@ -1,0 +1,54 @@
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/
+-rw-rw-r-- root/root        38 2019-05-20 04:38 ansible-role-dumb-init-master/.gitignore
+-rw-rw-r-- root/root      1074 2019-05-20 04:38 ansible-role-dumb-init-master/.travis.lxd.yml
+-rw-rw-r-- root/root      1249 2019-05-20 04:38 ansible-role-dumb-init-master/.travis.yml
+-rw-rw-r-- root/root       296 2019-05-20 04:38 ansible-role-dumb-init-master/.yamllint
+-rw-rw-r-- root/root      1367 2019-05-20 04:38 ansible-role-dumb-init-master/CHANGELOG.md
+-rw-rw-r-- root/root     11357 2019-05-20 04:38 ansible-role-dumb-init-master/LICENSE
+-rw-rw-r-- root/root      1284 2019-05-20 04:38 ansible-role-dumb-init-master/README.md
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/defaults/
+-rw-rw-r-- root/root       915 2019-05-20 04:38 ansible-role-dumb-init-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/handlers/
+-rw-rw-r-- root/root       609 2019-05-20 04:38 ansible-role-dumb-init-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/meta/
+-rw-rw-r-- root/root      1072 2019-05-20 04:38 ansible-role-dumb-init-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/centos-7/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/centos-7/group_vars/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/centos-7/group_vars/all/
+lrwxrwxrwx root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/centos-7/group_vars/all/main.yml -> ../../../../defaults/main.yml
+-rw-rw-r-- root/root      1210 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/centos-7/molecule.yml
+-rw-rw-r-- root/root       845 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/centos-7/playbook.yml
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/centos-7/tests/
+-rw-rw-r-- root/root       313 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/centos-7/tests/test_default.py
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/suse-15/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/suse-15/group_vars/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/suse-15/group_vars/all/
+lrwxrwxrwx root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/suse-15/group_vars/all/main.yml -> ../../../../defaults/main.yml
+-rw-rw-r-- root/root      1214 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/suse-15/molecule.yml
+-rw-rw-r-- root/root       845 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/suse-15/playbook.yml
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/suse-15/tests/
+-rw-rw-r-- root/root       313 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/suse-15/tests/test_default.py
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-16.04/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-16.04/group_vars/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-16.04/group_vars/all/
+lrwxrwxrwx root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-16.04/group_vars/all/main.yml -> ../../../../defaults/main.yml
+-rw-rw-r-- root/root      1219 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-16.04/molecule.yml
+-rw-rw-r-- root/root       845 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-16.04/playbook.yml
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-16.04/tests/
+-rw-rw-r-- root/root       313 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-16.04/tests/test_default.py
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-18.04/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-18.04/group_vars/
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-18.04/group_vars/all/
+lrwxrwxrwx root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-18.04/group_vars/all/main.yml -> ../../../../defaults/main.yml
+-rw-rw-r-- root/root      1219 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-18.04/molecule.yml
+-rw-rw-r-- root/root       845 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-18.04/playbook.yml
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-18.04/tests/
+-rw-rw-r-- root/root       313 2019-05-20 04:38 ansible-role-dumb-init-master/molecule/ubuntu-18.04/tests/test_default.py
+-rw-rw-r-- root/root       738 2019-05-20 04:38 ansible-role-dumb-init-master/requirements.txt
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/scripts/
+-rwxrwxr-x root/root       903 2019-05-20 04:38 ansible-role-dumb-init-master/scripts/run-tests.sh
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/tasks/
+-rw-rw-r-- root/root      2732 2019-05-20 04:38 ansible-role-dumb-init-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-20 04:38 ansible-role-dumb-init-master/vars/
+-rw-rw-r-- root/root       609 2019-05-20 04:38 ansible-role-dumb-init-master/vars/main.yml

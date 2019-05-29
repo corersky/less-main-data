@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-05-22 10:54 ansible-role-mkdocs-master/
+-rw-rw-r-- root/root       197 2015-05-22 10:54 ansible-role-mkdocs-master/.editorconfig
+-rw-rw-r-- root/root        12 2015-05-22 10:54 ansible-role-mkdocs-master/.gitattributes
+-rw-rw-r-- root/root        40 2015-05-22 10:54 ansible-role-mkdocs-master/.gitignore
+-rw-rw-r-- root/root       466 2015-05-22 10:54 ansible-role-mkdocs-master/.travis.yml
+-rw-rw-r-- root/root      1050 2015-05-22 10:54 ansible-role-mkdocs-master/LICENSE
+-rw-rw-r-- root/root       835 2015-05-22 10:54 ansible-role-mkdocs-master/README.md
+drwxrwxr-x root/root         0 2015-05-22 10:54 ansible-role-mkdocs-master/defaults/
+-rw-rw-r-- root/root        30 2015-05-22 10:54 ansible-role-mkdocs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-22 10:54 ansible-role-mkdocs-master/meta/
+-rw-rw-r-- root/root       255 2015-05-22 10:54 ansible-role-mkdocs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-22 10:54 ansible-role-mkdocs-master/tasks/
+-rw-rw-r-- root/root       341 2015-05-22 10:54 ansible-role-mkdocs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-22 10:54 ansible-role-mkdocs-master/tests/
+-rw-rw-r-- root/root        83 2015-05-22 10:54 ansible-role-mkdocs-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2015-05-22 10:54 ansible-role-mkdocs-master/tests/inventory
+-rw-rw-r-- root/root        50 2015-05-22 10:54 ansible-role-mkdocs-master/tests/playbook.yml

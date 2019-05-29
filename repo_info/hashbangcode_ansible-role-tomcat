@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-22 06:26 ansible-role-tomcat-master/
+-rw-rw-r-- root/root       475 2016-02-22 06:26 ansible-role-tomcat-master/README.md
+drwxrwxr-x root/root         0 2016-02-22 06:26 ansible-role-tomcat-master/defaults/
+-rw-rw-r-- root/root         4 2016-02-22 06:26 ansible-role-tomcat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-22 06:26 ansible-role-tomcat-master/files/
+-rw-rw-r-- root/root       859 2016-02-22 06:26 ansible-role-tomcat-master/files/log4j.properties
+-rw-rw-r-- root/root      6632 2016-02-22 06:26 ansible-role-tomcat-master/files/server.xml
+-rw-rw-r-- root/root      1700 2016-02-22 06:26 ansible-role-tomcat-master/files/tomcat-users.xml
+drwxrwxr-x root/root         0 2016-02-22 06:26 ansible-role-tomcat-master/handlers/
+-rwxrwxr-x root/root        25 2016-02-22 06:26 ansible-role-tomcat-master/handlers/main.yml
+-rw-rw-r-- root/root        83 2016-02-22 06:26 ansible-role-tomcat-master/handlers/tomcat.yml
+drwxrwxr-x root/root         0 2016-02-22 06:26 ansible-role-tomcat-master/meta/
+-rw-rw-r-- root/root       335 2016-02-22 06:26 ansible-role-tomcat-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-22 06:26 ansible-role-tomcat-master/tasks/
+-rwxrwxr-x root/root      2745 2016-02-22 06:26 ansible-role-tomcat-master/tasks/debian_tomcat.yml
+-rwxrwxr-x root/root       139 2016-02-22 06:26 ansible-role-tomcat-master/tasks/main.yml
+-rwxrwxr-x root/root      2750 2016-02-22 06:26 ansible-role-tomcat-master/tasks/redhat_tomcat.yml

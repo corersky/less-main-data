@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-09 21:23 ansible-role-irssi-master/
+-rw-rw-r-- root/root       331 2019-03-09 21:23 ansible-role-irssi-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-03-09 21:23 ansible-role-irssi-master/COPYING
+-rw-rw-r-- root/root      3056 2019-03-09 21:23 ansible-role-irssi-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 21:23 ansible-role-irssi-master/defaults/
+-rw-rw-r-- root/root       745 2019-03-09 21:23 ansible-role-irssi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:23 ansible-role-irssi-master/meta/
+-rw-rw-r-- root/root       440 2019-03-09 21:23 ansible-role-irssi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:23 ansible-role-irssi-master/tasks/
+-rw-rw-r-- root/root      2185 2019-03-09 21:23 ansible-role-irssi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:23 ansible-role-irssi-master/templates/
+-rw-rw-r-- root/root      3281 2019-03-09 21:23 ansible-role-irssi-master/templates/config.j2
+-rw-rw-r-- root/root        28 2019-03-09 21:23 ansible-role-irssi-master/templates/scripts.j2
+drwxrwxr-x root/root         0 2019-03-09 21:23 ansible-role-irssi-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 21:23 ansible-role-irssi-master/tests/inventory
+-rw-rw-r-- root/root        81 2019-03-09 21:23 ansible-role-irssi-master/tests/test.yml

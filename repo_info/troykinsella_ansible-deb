@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-deb-master/
+-rw-rw-r-- root/root         6 2016-06-11 18:45 ansible-deb-master/.gitignore
+-rw-rw-r-- root/root       541 2016-06-11 18:45 ansible-deb-master/.travis.yml
+-rw-rw-r-- root/root      1080 2016-06-11 18:45 ansible-deb-master/LICENSE
+-rw-rw-r-- root/root       493 2016-06-11 18:45 ansible-deb-master/README.md
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-deb-master/defaults/
+-rw-rw-r-- root/root        39 2016-06-11 18:45 ansible-deb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-deb-master/meta/
+-rw-rw-r-- root/root       301 2016-06-11 18:45 ansible-deb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-deb-master/tasks/
+-rw-rw-r-- root/root       446 2016-06-11 18:45 ansible-deb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-11 18:45 ansible-deb-master/tests/
+-rw-rw-r-- root/root         9 2016-06-11 18:45 ansible-deb-master/tests/inventory
+-rw-rw-r-- root/root        88 2016-06-11 18:45 ansible-deb-master/tests/test.yml

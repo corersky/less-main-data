@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/
+-rw-rw-r-- root/root      2325 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/README.md
+drwxrwxr-x root/root         0 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/defaults/
+-rw-rw-r-- root/root       470 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/handlers/
+-rw-rw-r-- root/root        48 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/meta/
+-rw-rw-r-- root/root       251 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/tasks/
+-rw-rw-r-- root/root      5722 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/tasks/main.yml
+-rw-rw-r-- root/root       592 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/tasks/s3cmd.yml
+drwxrwxr-x root/root         0 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/templates/
+-rw-rw-r-- root/root      1875 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/templates/s3cfg.j2
+drwxrwxr-x root/root         0 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/vars/
+-rw-rw-r-- root/root        44 2016-06-08 11:05 ansible-role-restore-sqldump-from-s3-master/vars/main.yml

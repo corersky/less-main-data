@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-04-19 14:09 ansible-role-supervisor-master/
+-rw-rw-r-- root/root      1072 2014-04-19 14:09 ansible-role-supervisor-master/LICENSE
+-rw-rw-r-- root/root       389 2014-04-19 14:09 ansible-role-supervisor-master/README.md
+drwxrwxr-x root/root         0 2014-04-19 14:09 ansible-role-supervisor-master/defaults/
+-rw-rw-r-- root/root       198 2014-04-19 14:09 ansible-role-supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-04-19 14:09 ansible-role-supervisor-master/handlers/
+-rw-rw-r-- root/root       136 2014-04-19 14:09 ansible-role-supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-04-19 14:09 ansible-role-supervisor-master/meta/
+-rw-rw-r-- root/root       414 2014-04-19 14:09 ansible-role-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-19 14:09 ansible-role-supervisor-master/tasks/
+-rw-rw-r-- root/root       658 2014-04-19 14:09 ansible-role-supervisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-04-19 14:09 ansible-role-supervisor-master/templates/
+-rw-rw-r-- root/root       374 2014-04-19 14:09 ansible-role-supervisor-master/templates/task.conf.j2

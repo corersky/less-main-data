@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:33 ansible-roles-os-user-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/defaults/
+-rw-rw-r-- root/root       123 2018-11-19 12:33 ansible-roles-os-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/handlers/
+-rw-rw-r-- root/root        45 2018-11-19 12:33 ansible-roles-os-user-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/meta/
+-rw-rw-r-- root/root       283 2018-11-19 12:33 ansible-roles-os-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/tasks/
+lrwxrwxrwx root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/tasks/amzn.yml -> amzn2.yml
+-rw-rw-r-- root/root       904 2018-11-19 12:33 ansible-roles-os-user-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/tasks/el6.yml -> amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       468 2018-11-19 12:33 ansible-roles-os-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:33 ansible-roles-os-user-master/vars/
+-rw-rw-r-- root/root        41 2018-11-19 12:33 ansible-roles-os-user-master/vars/main.yml

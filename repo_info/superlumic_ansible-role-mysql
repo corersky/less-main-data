@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-04-25 12:48 ansible-role-mysql-master/
+-rw-rw-r-- root/root       468 2016-04-25 12:48 ansible-role-mysql-master/.travis.yml
+-rw-rw-r-- root/root       531 2016-04-25 12:48 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2016-04-25 12:48 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root        74 2016-04-25 12:48 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-25 12:48 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root       397 2016-04-25 12:48 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-25 12:48 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root       698 2016-04-25 12:48 ansible-role-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-25 12:48 ansible-role-mysql-master/tests/
+-rw-rw-r-- root/root        10 2016-04-25 12:48 ansible-role-mysql-master/tests/inventory
+-rw-rw-r-- root/root        40 2016-04-25 12:48 ansible-role-mysql-master/tests/requirements.yml
+-rw-rw-r-- root/root        78 2016-04-25 12:48 ansible-role-mysql-master/tests/travis.yml

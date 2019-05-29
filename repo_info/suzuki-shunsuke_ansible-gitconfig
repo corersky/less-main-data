@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-08 03:23 ansible-gitconfig-master/
+-rw-rw-r-- root/root        42 2018-01-08 03:23 ansible-gitconfig-master/.gitignore
+-rw-rw-r-- root/root       317 2018-01-08 03:23 ansible-gitconfig-master/.travis.yml
+-rw-rw-r-- root/root      1072 2018-01-08 03:23 ansible-gitconfig-master/LICENSE
+-rw-rw-r-- root/root      1267 2018-01-08 03:23 ansible-gitconfig-master/README.md
+drwxrwxr-x root/root         0 2018-01-08 03:23 ansible-gitconfig-master/defaults/
+-rw-rw-r-- root/root        84 2018-01-08 03:23 ansible-gitconfig-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-08 03:23 ansible-gitconfig-master/meta/
+-rw-rw-r-- root/root       317 2018-01-08 03:23 ansible-gitconfig-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-08 03:23 ansible-gitconfig-master/tasks/
+-rw-rw-r-- root/root       446 2018-01-08 03:23 ansible-gitconfig-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-08 03:23 ansible-gitconfig-master/tests/
+-rw-rw-r-- root/root       276 2018-01-08 03:23 ansible-gitconfig-master/tests/Vagrantfile
+-rw-rw-r-- root/root        40 2018-01-08 03:23 ansible-gitconfig-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2018-01-08 03:23 ansible-gitconfig-master/tests/localhost
+-rw-rw-r-- root/root       764 2018-01-08 03:23 ansible-gitconfig-master/tests/test.yml

@@ -1,0 +1,55 @@
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/
+-rw-rw-r-- root/root       702 2017-09-13 10:25 ansible-eos-route-control-master/.gitignore
+-rw-rw-r-- root/root      2421 2017-09-13 10:25 ansible-eos-route-control-master/Jenkinsfile
+-rw-rw-r-- root/root      1495 2017-09-13 10:25 ansible-eos-route-control-master/LICENSE
+-rw-rw-r-- root/root       774 2017-09-13 10:25 ansible-eos-route-control-master/Makefile
+-rw-rw-r-- root/root     12457 2017-09-13 10:25 ansible-eos-route-control-master/README.md
+-rw-rw-r-- root/root         6 2017-09-13 10:25 ansible-eos-route-control-master/VERSION
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/defaults/
+-rw-rw-r-- root/root       320 2017-09-13 10:25 ansible-eos-route-control-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/files/
+-rw-rw-r-- root/root        28 2017-09-13 10:25 ansible-eos-route-control-master/files/README.md
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/filter_plugins/
+-rw-rw-r-- root/root      3772 2017-09-13 10:25 ansible-eos-route-control-master/filter_plugins/config_block.py
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/handlers/
+-rw-rw-r-- root/root      2047 2017-09-13 10:25 ansible-eos-route-control-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/meta/
+-rw-rw-r-- root/root      1874 2017-09-13 10:25 ansible-eos-route-control-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/tasks/
+-rw-rw-r-- root/root      1541 2017-09-13 10:25 ansible-eos-route-control-master/tasks/main.yml
+-rw-rw-r-- root/root      1604 2017-09-13 10:25 ansible-eos-route-control-master/tasks/resources2.1.yml
+-rw-rw-r-- root/root      1580 2017-09-13 10:25 ansible-eos-route-control-master/tasks/resources2.2.yml
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/templates/
+-rw-rw-r-- root/root        32 2017-09-13 10:25 ansible-eos-route-control-master/templates/README.md
+-rw-rw-r-- root/root      1713 2017-09-13 10:25 ansible-eos-route-control-master/templates/ipv4_static_routes.j2
+-rw-rw-r-- root/root      7177 2017-09-13 10:25 ansible-eos-route-control-master/templates/routemaps.j2
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/
+-rw-rw-r-- root/root       661 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/.gitignore
+-rw-rw-r-- root/root      1494 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/LICENSE
+-rw-rw-r-- root/root     23038 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/README.md
+-rw-rw-r-- root/root      2493 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/eos_module.yml
+-rw-rw-r-- root/root       226 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/eos_role.yml
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/group_vars/
+-rw-rw-r-- root/root       160 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/group_vars/all.yml
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-acl -> ../../../../ansible-eos-acl
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-bgp -> ../../../../ansible-eos-bgp
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-bridging -> ../../../../ansible-eos-bridging
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-interfaces -> ../../../../ansible-eos-interfaces
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-ipv4 -> ../../../../ansible-eos-ipv4
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-mlag -> ../../../../ansible-eos-mlag
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-route-control -> ../../../../ansible-eos-route-control
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-system -> ../../../../ansible-eos-route-system
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-virtual-router -> ../../../../ansible-eos-virtual-router
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/roles/arista.eos-vxlan -> ../../../../ansible-eos-vxlan
+-rw-rw-r-- root/root     30868 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/test_module.py
+lrwxrwxrwx root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/testcases -> ../testcases
+-rwxrwxr-x root/root      1392 2017-09-13 10:25 ansible-eos-route-control-master/test/arista-ansible-role-test/update_arista_roles.sh
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/fixtures/
+-rw-rw-r-- root/root        96 2017-09-13 10:25 ansible-eos-route-control-master/test/fixtures/hosts
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/test/testcases/
+-rw-rw-r-- root/root      5566 2017-09-13 10:25 ansible-eos-route-control-master/test/testcases/ipv4_static_routes.yml
+-rw-rw-r-- root/root     10821 2017-09-13 10:25 ansible-eos-route-control-master/test/testcases/routemaps.yml
+drwxrwxr-x root/root         0 2017-09-13 10:25 ansible-eos-route-control-master/vars/
+-rw-rw-r-- root/root        16 2017-09-13 10:25 ansible-eos-route-control-master/vars/main.yml

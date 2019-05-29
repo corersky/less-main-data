@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-01-28 20:43 ansible-role-nodejs-master/
+-rw-rw-r-- root/root      1131 2018-01-28 20:43 ansible-role-nodejs-master/README.md
+drwxrwxr-x root/root         0 2018-01-28 20:43 ansible-role-nodejs-master/defaults/
+-rw-rw-r-- root/root       261 2018-01-28 20:43 ansible-role-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-28 20:43 ansible-role-nodejs-master/files/
+-rw-rw-r-- root/root       557 2018-01-28 20:43 ansible-role-nodejs-master/files/package.json
+-rw-rw-r-- root/root       204 2018-01-28 20:43 ansible-role-nodejs-master/files/server.js
+drwxrwxr-x root/root         0 2018-01-28 20:43 ansible-role-nodejs-master/meta/
+-rw-rw-r-- root/root       500 2018-01-28 20:43 ansible-role-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-28 20:43 ansible-role-nodejs-master/tasks/
+-rw-rw-r-- root/root      2289 2018-01-28 20:43 ansible-role-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-28 20:43 ansible-role-nodejs-master/templates/
+-rw-rw-r-- root/root      3318 2018-01-28 20:43 ansible-role-nodejs-master/templates/forever-node.j2
+-rw-rw-r-- root/root        74 2018-01-28 20:43 ansible-role-nodejs-master/templates/npmrc.j2

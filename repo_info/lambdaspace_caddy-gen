@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-15 11:07 caddy-gen-master/
+-rw-rw-r-- root/root        57 2018-08-15 11:07 caddy-gen-master/.gitignore
+-rw-rw-r-- root/root      1069 2018-08-15 11:07 caddy-gen-master/LICENSE
+-rw-rw-r-- root/root      1142 2018-08-15 11:07 caddy-gen-master/README.md
+drwxrwxr-x root/root         0 2018-08-15 11:07 caddy-gen-master/defaults/
+-rw-rw-r-- root/root       203 2018-08-15 11:07 caddy-gen-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-15 11:07 caddy-gen-master/handlers/
+-rw-rw-r-- root/root        33 2018-08-15 11:07 caddy-gen-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-15 11:07 caddy-gen-master/meta/
+-rw-rw-r-- root/root       284 2018-08-15 11:07 caddy-gen-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-15 11:07 caddy-gen-master/tasks/
+-rw-rw-r-- root/root       583 2018-08-15 11:07 caddy-gen-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-15 11:07 caddy-gen-master/tests/
+-rw-rw-r-- root/root        11 2018-08-15 11:07 caddy-gen-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-08-15 11:07 caddy-gen-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-15 11:07 caddy-gen-master/vars/
+-rw-rw-r-- root/root        29 2018-08-15 11:07 caddy-gen-master/vars/main.yml

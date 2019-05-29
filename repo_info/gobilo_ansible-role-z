@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-11-03 06:57 ansible-role-z-master/
+-rw-rw-r-- root/root       968 2015-11-03 06:57 ansible-role-z-master/.travis.yml
+-rw-rw-r-- root/root       705 2015-11-03 06:57 ansible-role-z-master/README.md
+drwxrwxr-x root/root         0 2015-11-03 06:57 ansible-role-z-master/meta/
+-rw-rw-r-- root/root      2354 2015-11-03 06:57 ansible-role-z-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-03 06:57 ansible-role-z-master/tasks/
+-rw-rw-r-- root/root       403 2015-11-03 06:57 ansible-role-z-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-03 06:57 ansible-role-z-master/tests/
+-rw-rw-r-- root/root        10 2015-11-03 06:57 ansible-role-z-master/tests/inventory
+-rw-rw-r-- root/root        73 2015-11-03 06:57 ansible-role-z-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-19 13:36 ansible-bind9-master/
+-rw-rw-r-- root/root      1067 2019-01-19 13:36 ansible-bind9-master/LICENSE
+-rw-rw-r-- root/root       239 2019-01-19 13:36 ansible-bind9-master/README.md
+drwxrwxr-x root/root         0 2019-01-19 13:36 ansible-bind9-master/defaults/
+-rw-rw-r-- root/root       621 2019-01-19 13:36 ansible-bind9-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-19 13:36 ansible-bind9-master/handlers/
+-rw-rw-r-- root/root        73 2019-01-19 13:36 ansible-bind9-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-19 13:36 ansible-bind9-master/meta/
+-rw-rw-r-- root/root       284 2019-01-19 13:36 ansible-bind9-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-19 13:36 ansible-bind9-master/tasks/
+-rw-rw-r-- root/root       278 2019-01-19 13:36 ansible-bind9-master/tasks/bind_install.yml
+-rw-rw-r-- root/root       526 2019-01-19 13:36 ansible-bind9-master/tasks/bind_post.yml
+-rw-rw-r-- root/root         4 2019-01-19 13:36 ansible-bind9-master/tasks/bind_pre.yml
+-rw-rw-r-- root/root       925 2019-01-19 13:36 ansible-bind9-master/tasks/bind_search_config.yml
+-rw-rw-r-- root/root       344 2019-01-19 13:36 ansible-bind9-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-19 13:36 ansible-bind9-master/vars/
+-rw-rw-r-- root/root        29 2019-01-19 13:36 ansible-bind9-master/vars/Debian.yml

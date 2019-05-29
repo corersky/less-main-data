@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-02-20 21:35 ansible-role-base-master/
+-rw-rw-r-- root/root       130 2019-02-20 21:35 ansible-role-base-master/.editorconfig
+-rw-rw-r-- root/root      1084 2019-02-20 21:35 ansible-role-base-master/LICENSE
+-rw-rw-r-- root/root       163 2019-02-20 21:35 ansible-role-base-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 21:35 ansible-role-base-master/meta/
+-rw-rw-r-- root/root       304 2019-02-20 21:35 ansible-role-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 21:35 ansible-role-base-master/tasks/
+-rw-rw-r-- root/root        90 2019-02-20 21:35 ansible-role-base-master/tasks/main.yml
+-rw-rw-r-- root/root       271 2019-02-20 21:35 ansible-role-base-master/tasks/monitor.yml
+-rw-rw-r-- root/root       253 2019-02-20 21:35 ansible-role-base-master/tasks/utils.yml

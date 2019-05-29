@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-16 10:16 pulp-rpm-prerequisites-master/
+-rw-rw-r-- root/root       919 2019-04-16 10:16 pulp-rpm-prerequisites-master/README.md
+drwxrwxr-x root/root         0 2019-04-16 10:16 pulp-rpm-prerequisites-master/defaults/
+-rw-rw-r-- root/root        91 2019-04-16 10:16 pulp-rpm-prerequisites-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-16 10:16 pulp-rpm-prerequisites-master/handlers/
+-rw-rw-r-- root/root        46 2019-04-16 10:16 pulp-rpm-prerequisites-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-16 10:16 pulp-rpm-prerequisites-master/meta/
+-rw-rw-r-- root/root      1143 2019-04-16 10:16 pulp-rpm-prerequisites-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-16 10:16 pulp-rpm-prerequisites-master/tasks/
+-rw-rw-r-- root/root       289 2019-04-16 10:16 pulp-rpm-prerequisites-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-16 10:16 pulp-rpm-prerequisites-master/tests/
+-rw-rw-r-- root/root        11 2019-04-16 10:16 pulp-rpm-prerequisites-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-04-16 10:16 pulp-rpm-prerequisites-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-16 10:16 pulp-rpm-prerequisites-master/vars/
+-rw-rw-r-- root/root       375 2019-04-16 10:16 pulp-rpm-prerequisites-master/vars/CentOS.yml
+-rw-rw-r-- root/root       301 2019-04-16 10:16 pulp-rpm-prerequisites-master/vars/Fedora.yml
+-rw-rw-r-- root/root        42 2019-04-16 10:16 pulp-rpm-prerequisites-master/vars/main.yml

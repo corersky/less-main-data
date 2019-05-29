@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-19 11:49 targetcli-modules-master/
+-rw-rw-r-- root/root     35147 2018-11-19 11:49 targetcli-modules-master/LICENSE
+-rw-rw-r-- root/root       383 2018-11-19 11:49 targetcli-modules-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 11:49 targetcli-modules-master/library/
+-rw-rw-r-- root/root      3562 2018-11-19 11:49 targetcli-modules-master/library/targetcli_backstore.py
+-rw-rw-r-- root/root      2739 2018-11-19 11:49 targetcli-modules-master/library/targetcli_iscsi.py
+-rw-rw-r-- root/root      3089 2018-11-19 11:49 targetcli-modules-master/library/targetcli_iscsi_acl.py
+-rw-rw-r-- root/root      3967 2018-11-19 11:49 targetcli-modules-master/library/targetcli_iscsi_auth.py
+-rw-rw-r-- root/root      4560 2018-11-19 11:49 targetcli-modules-master/library/targetcli_iscsi_lun.py
+-rw-rw-r-- root/root      3466 2018-11-19 11:49 targetcli-modules-master/library/targetcli_iscsi_portal.py
+drwxrwxr-x root/root         0 2018-11-19 11:49 targetcli-modules-master/meta/
+-rw-rw-r-- root/root       382 2018-11-19 11:49 targetcli-modules-master/meta/main.yml

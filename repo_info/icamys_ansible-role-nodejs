@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-nodejs-master/
+-rw-rw-r-- root/root      2267 2016-09-25 15:50 ansible-role-nodejs-master/.travis.yml
+-rw-rw-r-- root/root      2001 2016-09-25 15:50 ansible-role-nodejs-master/README.md
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-nodejs-master/defaults/
+-rw-rw-r-- root/root       797 2016-09-25 15:50 ansible-role-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-nodejs-master/meta/
+-rw-rw-r-- root/root       459 2016-09-25 15:50 ansible-role-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-nodejs-master/tasks/
+-rw-rw-r-- root/root      1572 2016-09-25 15:50 ansible-role-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       860 2016-09-25 15:50 ansible-role-nodejs-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       843 2016-09-25 15:50 ansible-role-nodejs-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-nodejs-master/templates/
+-rw-rw-r-- root/root       164 2016-09-25 15:50 ansible-role-nodejs-master/templates/npm.sh.j2
+drwxrwxr-x root/root         0 2016-09-25 15:50 ansible-role-nodejs-master/tests/
+-rw-rw-r-- root/root       425 2016-09-25 15:50 ansible-role-nodejs-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/
+-rw-rw-r-- root/root         0 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/LICENSE
+-rw-rw-r-- root/root      8556 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/README.md
+drwxrwxr-x root/root         0 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/defaults/
+-rw-rw-r-- root/root      1432 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/meta/
+-rw-rw-r-- root/root       348 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/meta/main.yaml
+drwxrwxr-x root/root         0 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/tasks/
+-rw-rw-r-- root/root       253 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/tasks/main.yaml
+-rw-rw-r-- root/root      6066 2018-07-27 16:32 ansible-vmware_vm_provisioning-master/tasks/vm.yaml

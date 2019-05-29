@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-20 03:18 ansible-role-skype-master/
+-rw-rw-r-- root/root      1417 2017-10-20 03:18 ansible-role-skype-master/.travis.yml
+-rw-rw-r-- root/root       932 2017-10-20 03:18 ansible-role-skype-master/README.md
+drwxrwxr-x root/root         0 2017-10-20 03:18 ansible-role-skype-master/defaults/
+-rw-rw-r-- root/root        56 2017-10-20 03:18 ansible-role-skype-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-20 03:18 ansible-role-skype-master/handlers/
+-rw-rw-r-- root/root        73 2017-10-20 03:18 ansible-role-skype-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-20 03:18 ansible-role-skype-master/meta/
+-rw-rw-r-- root/root       323 2017-10-20 03:18 ansible-role-skype-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-20 03:18 ansible-role-skype-master/tasks/
+-rw-rw-r-- root/root       496 2017-10-20 03:18 ansible-role-skype-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-20 03:18 ansible-role-skype-master/tests/
+-rw-rw-r-- root/root        10 2017-10-20 03:18 ansible-role-skype-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-10-20 03:18 ansible-role-skype-master/tests/test.yml

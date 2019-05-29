@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-02-05 08:08 ansible-role-sensu-client-master/
+-rw-rw-r-- root/root       578 2014-02-05 08:08 ansible-role-sensu-client-master/README.md
+drwxrwxr-x root/root         0 2014-02-05 08:08 ansible-role-sensu-client-master/defaults/
+-rw-rw-r-- root/root       641 2014-02-05 08:08 ansible-role-sensu-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-02-05 08:08 ansible-role-sensu-client-master/handlers/
+-rw-rw-r-- root/root        86 2014-02-05 08:08 ansible-role-sensu-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-02-05 08:08 ansible-role-sensu-client-master/meta/
+-rw-rw-r-- root/root       258 2014-02-05 08:08 ansible-role-sensu-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-02-05 08:08 ansible-role-sensu-client-master/tasks/
+-rw-rw-r-- root/root      2392 2014-02-05 08:08 ansible-role-sensu-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-02-05 08:08 ansible-role-sensu-client-master/templates/
+-rw-rw-r-- root/root       181 2014-02-05 08:08 ansible-role-sensu-client-master/templates/client.json.j2
+-rw-rw-r-- root/root       192 2014-02-05 08:08 ansible-role-sensu-client-master/templates/rabbitmq.json.j2
+-rw-rw-r-- root/root       286 2014-02-05 08:08 ansible-role-sensu-client-master/templates/sensu-default.j2
+-rw-rw-r-- root/root       229 2014-02-05 08:08 ansible-role-sensu-client-master/templates/sensu-sudoers.j2
+-rw-rw-r-- root/root       986 2014-02-05 08:08 ansible-role-sensu-client-master/templates/sensu-upstart.conf.j2

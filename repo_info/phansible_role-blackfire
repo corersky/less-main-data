@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-08 19:15 role-blackfire-master/
+-rw-rw-r-- root/root        37 2018-03-08 19:15 role-blackfire-master/.gitignore
+-rw-rw-r-- root/root       867 2018-03-08 19:15 role-blackfire-master/.travis.yml
+-rw-rw-r-- root/root      1100 2018-03-08 19:15 role-blackfire-master/LICENSE
+-rw-rw-r-- root/root       941 2018-03-08 19:15 role-blackfire-master/README.md
+drwxrwxr-x root/root         0 2018-03-08 19:15 role-blackfire-master/defaults/
+-rw-rw-r-- root/root        55 2018-03-08 19:15 role-blackfire-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-08 19:15 role-blackfire-master/handlers/
+-rw-rw-r-- root/root        96 2018-03-08 19:15 role-blackfire-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-08 19:15 role-blackfire-master/meta/
+-rw-rw-r-- root/root       351 2018-03-08 19:15 role-blackfire-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-08 19:15 role-blackfire-master/tasks/
+-rw-rw-r-- root/root       730 2018-03-08 19:15 role-blackfire-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-08 19:15 role-blackfire-master/tests/
+-rw-rw-r-- root/root        10 2018-03-08 19:15 role-blackfire-master/tests/inventory
+-rw-rw-r-- root/root        93 2018-03-08 19:15 role-blackfire-master/tests/test.yml

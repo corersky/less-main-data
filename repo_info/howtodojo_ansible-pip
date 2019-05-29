@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-04 17:41 ansible-pip-master/
+-rw-rw-r-- root/root       812 2017-10-04 17:41 ansible-pip-master/.travis.yml
+-rw-rw-r-- root/root       493 2017-10-04 17:41 ansible-pip-master/README.md
+drwxrwxr-x root/root         0 2017-10-04 17:41 ansible-pip-master/defaults/
+-rw-rw-r-- root/root        62 2017-10-04 17:41 ansible-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:41 ansible-pip-master/meta/
+-rw-rw-r-- root/root       337 2017-10-04 17:41 ansible-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:41 ansible-pip-master/tasks/
+-rw-rw-r-- root/root       372 2017-10-04 17:41 ansible-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:41 ansible-pip-master/tests/
+-rw-rw-r-- root/root        11 2017-10-04 17:41 ansible-pip-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-10-04 17:41 ansible-pip-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-04 17:41 ansible-pip-master/vars/
+-rw-rw-r-- root/root        56 2017-10-04 17:41 ansible-pip-master/vars/main.yml

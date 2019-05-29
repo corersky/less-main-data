@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-05-31 11:41 ansible-iceweasel-addon-master/
+-rw-rw-r-- root/root      1855 2016-05-31 11:41 ansible-iceweasel-addon-master/README.md
+drwxrwxr-x root/root         0 2016-05-31 11:41 ansible-iceweasel-addon-master/library/
+-rw-rw-r-- root/root      5862 2016-05-31 11:41 ansible-iceweasel-addon-master/library/iceweasel_addon
+drwxrwxr-x root/root         0 2016-05-31 11:41 ansible-iceweasel-addon-master/meta/
+-rw-rw-r-- root/root       286 2016-05-31 11:41 ansible-iceweasel-addon-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-31 11:41 ansible-iceweasel-addon-master/tests/
+-rw-rw-r-- root/root      3728 2016-05-31 11:41 ansible-iceweasel-addon-master/tests/container-test.bats
+-rw-rw-r-- root/root        32 2016-05-31 11:41 ansible-iceweasel-addon-master/tests/hosts
+-rw-rw-r-- root/root        86 2016-05-31 11:41 ansible-iceweasel-addon-master/tests/local-test.bats

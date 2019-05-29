@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-31 07:08 ansible-role-filebeat-master/
+-rw-rw-r-- root/root       282 2017-03-31 07:08 ansible-role-filebeat-master/.editorconfig
+-rw-rw-r-- root/root      1082 2017-03-31 07:08 ansible-role-filebeat-master/.travis.yml
+-rw-rw-r-- root/root      1082 2017-03-31 07:08 ansible-role-filebeat-master/LICENSE.md
+-rw-rw-r-- root/root      1492 2017-03-31 07:08 ansible-role-filebeat-master/README.md
+drwxrwxr-x root/root         0 2017-03-31 07:08 ansible-role-filebeat-master/defaults/
+-rw-rw-r-- root/root       362 2017-03-31 07:08 ansible-role-filebeat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-31 07:08 ansible-role-filebeat-master/handlers/
+-rw-rw-r-- root/root        80 2017-03-31 07:08 ansible-role-filebeat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-31 07:08 ansible-role-filebeat-master/meta/
+-rw-rw-r-- root/root       275 2017-03-31 07:08 ansible-role-filebeat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-31 07:08 ansible-role-filebeat-master/tasks/
+-rw-rw-r-- root/root       828 2017-03-31 07:08 ansible-role-filebeat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-31 07:08 ansible-role-filebeat-master/templates/
+-rw-rw-r-- root/root       443 2017-03-31 07:08 ansible-role-filebeat-master/templates/filebeat.yml.j2
+drwxrwxr-x root/root         0 2017-03-31 07:08 ansible-role-filebeat-master/tests/
+-rw-rw-r-- root/root       173 2017-03-31 07:08 ansible-role-filebeat-master/tests/test.yml

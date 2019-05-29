@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-10 08:51 ansible-role-motd-master/
+-rw-rw-r-- root/root        57 2019-02-10 08:51 ansible-role-motd-master/.gitignore
+-rw-rw-r-- root/root       397 2019-02-10 08:51 ansible-role-motd-master/README.md
+drwxrwxr-x root/root         0 2019-02-10 08:51 ansible-role-motd-master/defaults/
+-rw-rw-r-- root/root       149 2019-02-10 08:51 ansible-role-motd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-10 08:51 ansible-role-motd-master/files/
+drwxrwxr-x root/root         0 2019-02-10 08:51 ansible-role-motd-master/files/system-info/
+-rw-rw-r-- root/root        27 2019-02-10 08:51 ansible-role-motd-master/files/system-info/requirements.txt
+-rw-rw-r-- root/root      2243 2019-02-10 08:51 ansible-role-motd-master/files/system-info/system-info.py
+-rw-rw-r-- root/root        63 2019-02-10 08:51 ansible-role-motd-master/files/system-info/system-info.sh
+drwxrwxr-x root/root         0 2019-02-10 08:51 ansible-role-motd-master/meta/
+-rw-rw-r-- root/root       305 2019-02-10 08:51 ansible-role-motd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-10 08:51 ansible-role-motd-master/tasks/
+-rw-rw-r-- root/root       535 2019-02-10 08:51 ansible-role-motd-master/tasks/main.yml
+-rw-rw-r-- root/root      1247 2019-02-10 08:51 ansible-role-motd-master/tasks/system-info.yml

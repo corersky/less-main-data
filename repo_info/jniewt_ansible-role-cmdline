@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/
+-rw-rw-r-- root/root     21667 2018-05-18 12:37 ansible-role-cmdline-master/.gitignore
+-rw-rw-r-- root/root       476 2018-05-18 12:37 ansible-role-cmdline-master/.travis.yml
+-rw-rw-r-- root/root      1609 2018-05-18 12:37 ansible-role-cmdline-master/README.md
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/defaults/
+-rw-rw-r-- root/root       398 2018-05-18 12:37 ansible-role-cmdline-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/handlers/
+-rw-rw-r-- root/root        38 2018-05-18 12:37 ansible-role-cmdline-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/meta/
+-rw-rw-r-- root/root       460 2018-05-18 12:37 ansible-role-cmdline-master/meta/main.yml
+-rw-rw-r-- root/root        30 2018-05-18 12:37 ansible-role-cmdline-master/requirements.yml
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/tasks/
+-rw-rw-r-- root/root       399 2018-05-18 12:37 ansible-role-cmdline-master/tasks/ansible-debian.yml
+-rw-rw-r-- root/root       231 2018-05-18 12:37 ansible-role-cmdline-master/tasks/ansible-ubuntu.yml
+-rw-rw-r-- root/root       314 2018-05-18 12:37 ansible-role-cmdline-master/tasks/ansible.yml
+-rw-rw-r-- root/root      1501 2018-05-18 12:37 ansible-role-cmdline-master/tasks/main.yml
+-rw-rw-r-- root/root       184 2018-05-18 12:37 ansible-role-cmdline-master/tasks/vim.yml
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/tests/
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/tests/files/
+-rw-rw-r-- root/root    157280 2018-05-18 12:37 ansible-role-cmdline-master/tests/files/systemctl.py
+-rw-rw-r-- root/root        11 2018-05-18 12:37 ansible-role-cmdline-master/tests/inventory
+-rw-rw-r-- root/root        43 2018-05-18 12:37 ansible-role-cmdline-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/tests/roles/cmdline -> ../..
+-rw-rw-r-- root/root      1693 2018-05-18 12:37 ansible-role-cmdline-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-18 12:37 ansible-role-cmdline-master/vars/
+-rw-rw-r-- root/root        74 2018-05-18 12:37 ansible-role-cmdline-master/vars/main.yml

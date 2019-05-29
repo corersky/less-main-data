@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-04 05:30 ansible-memcached-master/
+-rw-rw-r-- root/root     35147 2018-09-04 05:30 ansible-memcached-master/COPYING
+-rw-rw-r-- root/root      7651 2018-09-04 05:30 ansible-memcached-master/COPYING.LESSER
+-rw-rw-r-- root/root      1250 2018-09-04 05:30 ansible-memcached-master/README.md
+drwxrwxr-x root/root         0 2018-09-04 05:30 ansible-memcached-master/defaults/
+-rw-rw-r-- root/root       454 2018-09-04 05:30 ansible-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-04 05:30 ansible-memcached-master/files/
+-rw-rw-r-- root/root      3483 2018-09-04 05:30 ansible-memcached-master/files/memcached
+drwxrwxr-x root/root         0 2018-09-04 05:30 ansible-memcached-master/handlers/
+-rw-rw-r-- root/root       114 2018-09-04 05:30 ansible-memcached-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-04 05:30 ansible-memcached-master/meta/
+-rw-rw-r-- root/root       299 2018-09-04 05:30 ansible-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-04 05:30 ansible-memcached-master/tasks/
+-rw-rw-r-- root/root       792 2018-09-04 05:30 ansible-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-04 05:30 ansible-memcached-master/templates/
+-rw-rw-r-- root/root      1857 2018-09-04 05:30 ansible-memcached-master/templates/memcached.conf.j2
+-rw-rw-r-- root/root       439 2018-09-04 05:30 ansible-memcached-master/templates/memcached_servers.conf.j2

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-10-01 16:24 ansible-system-limits-master/
+-rw-rw-r-- root/root      2281 2015-10-01 16:24 ansible-system-limits-master/README.md
+drwxrwxr-x root/root         0 2015-10-01 16:24 ansible-system-limits-master/defaults/
+-rw-rw-r-- root/root       506 2015-10-01 16:24 ansible-system-limits-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-01 16:24 ansible-system-limits-master/meta/
+-rw-rw-r-- root/root       261 2015-10-01 16:24 ansible-system-limits-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-01 16:24 ansible-system-limits-master/tasks/
+-rw-rw-r-- root/root      1000 2015-10-01 16:24 ansible-system-limits-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-01 16:24 ansible-system-limits-master/templates/
+-rw-rw-r-- root/root       191 2015-10-01 16:24 ansible-system-limits-master/templates/limits.conf
+-rw-rw-r-- root/root       189 2015-10-01 16:24 ansible-system-limits-master/templates/sysctl.conf

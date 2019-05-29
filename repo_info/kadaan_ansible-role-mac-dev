@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-13 14:45 ansible-role-mac-dev-master/
+-rw-rw-r-- root/root        10 2019-03-13 14:45 ansible-role-mac-dev-master/.gitignore
+-rw-rw-r-- root/root      1474 2019-03-13 14:45 ansible-role-mac-dev-master/.travis.yml
+-rw-rw-r-- root/root      3636 2019-03-13 14:45 ansible-role-mac-dev-master/README.md
+drwxrwxr-x root/root         0 2019-03-13 14:45 ansible-role-mac-dev-master/defaults/
+-rw-rw-r-- root/root       417 2019-03-13 14:45 ansible-role-mac-dev-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-13 14:45 ansible-role-mac-dev-master/meta/
+-rw-rw-r-- root/root       410 2019-03-13 14:45 ansible-role-mac-dev-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-13 14:45 ansible-role-mac-dev-master/tasks/
+-rw-rw-r-- root/root       420 2019-03-13 14:45 ansible-role-mac-dev-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-13 14:45 ansible-role-mac-dev-master/tests/
+-rw-rw-r-- root/root         9 2019-03-13 14:45 ansible-role-mac-dev-master/tests/inventory
+-rw-rw-r-- root/root       155 2019-03-13 14:45 ansible-role-mac-dev-master/tests/requirements.yml
+-rw-rw-r-- root/root        79 2019-03-13 14:45 ansible-role-mac-dev-master/tests/test.yml

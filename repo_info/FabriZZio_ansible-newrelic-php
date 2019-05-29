@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-07-20 14:10 ansible-newrelic-php-master/
+-rw-rw-r-- root/root      1336 2014-07-20 14:10 ansible-newrelic-php-master/README.md
+drwxrwxr-x root/root         0 2014-07-20 14:10 ansible-newrelic-php-master/defaults/
+-rw-rw-r-- root/root        47 2014-07-20 14:10 ansible-newrelic-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-20 14:10 ansible-newrelic-php-master/handlers/
+-rw-rw-r-- root/root       338 2014-07-20 14:10 ansible-newrelic-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-07-20 14:10 ansible-newrelic-php-master/meta/
+-rw-rw-r-- root/root      2069 2014-07-20 14:10 ansible-newrelic-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-20 14:10 ansible-newrelic-php-master/tasks/
+-rw-rw-r-- root/root       253 2014-07-20 14:10 ansible-newrelic-php-master/tasks/debian.yml
+-rw-rw-r-- root/root       184 2014-07-20 14:10 ansible-newrelic-php-master/tasks/default.yml
+-rw-rw-r-- root/root       716 2014-07-20 14:10 ansible-newrelic-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-07-20 14:10 ansible-newrelic-php-master/templates/
+-rw-rw-r-- root/root     21387 2014-07-20 14:10 ansible-newrelic-php-master/templates/newrelic.ini.j2
+drwxrwxr-x root/root         0 2014-07-20 14:10 ansible-newrelic-php-master/vars/
+-rw-rw-r-- root/root        43 2014-07-20 14:10 ansible-newrelic-php-master/vars/main.yml

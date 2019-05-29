@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-23 16:37 ansible-role-wlan_ap-master/
+-rw-rw-r-- root/root        93 2019-03-23 16:37 ansible-role-wlan_ap-master/.travis.yml
+-rw-rw-r-- root/root     35141 2019-03-23 16:37 ansible-role-wlan_ap-master/LICENSE
+-rw-rw-r-- root/root      1625 2019-03-23 16:37 ansible-role-wlan_ap-master/README.md
+drwxrwxr-x root/root         0 2019-03-23 16:37 ansible-role-wlan_ap-master/defaults/
+-rw-rw-r-- root/root        32 2019-03-23 16:37 ansible-role-wlan_ap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-23 16:37 ansible-role-wlan_ap-master/handlers/
+-rw-rw-r-- root/root        32 2019-03-23 16:37 ansible-role-wlan_ap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-23 16:37 ansible-role-wlan_ap-master/meta/
+-rw-rw-r-- root/root      2621 2019-03-23 16:37 ansible-role-wlan_ap-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-23 16:37 ansible-role-wlan_ap-master/tasks/
+-rw-rw-r-- root/root      2874 2019-03-23 16:37 ansible-role-wlan_ap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-23 16:37 ansible-role-wlan_ap-master/templates/
+-rw-rw-r-- root/root       155 2019-03-23 16:37 ansible-role-wlan_ap-master/templates/dnsmasq-wlan_ap.j2
+drwxrwxr-x root/root         0 2019-03-23 16:37 ansible-role-wlan_ap-master/vars/
+-rw-rw-r-- root/root       148 2019-03-23 16:37 ansible-role-wlan_ap-master/vars/main.yml

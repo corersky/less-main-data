@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-11-18 14:16 iscsi-target-master/
+-rw-rw-r-- root/root     35147 2018-11-18 14:16 iscsi-target-master/LICENSE
+-rw-rw-r-- root/root      6932 2018-11-18 14:16 iscsi-target-master/README.md
+drwxrwxr-x root/root         0 2018-11-18 14:16 iscsi-target-master/defaults/
+-rw-rw-r-- root/root       117 2018-11-18 14:16 iscsi-target-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-18 14:16 iscsi-target-master/handlers/
+-rw-rw-r-- root/root        77 2018-11-18 14:16 iscsi-target-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-18 14:16 iscsi-target-master/meta/
+-rw-rw-r-- root/root       448 2018-11-18 14:16 iscsi-target-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-18 14:16 iscsi-target-master/tasks/
+-rw-rw-r-- root/root      2878 2018-11-18 14:16 iscsi-target-master/tasks/configure-target.yml
+-rw-rw-r-- root/root       589 2018-11-18 14:16 iscsi-target-master/tasks/install.yml
+-rw-rw-r-- root/root       152 2018-11-18 14:16 iscsi-target-master/tasks/main.yml

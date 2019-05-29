@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-14 06:11 ansible-buildnode-master/
+-rw-rw-r-- root/root       723 2015-06-14 06:11 ansible-buildnode-master/.gitignore
+-rw-rw-r-- root/root      1083 2015-06-14 06:11 ansible-buildnode-master/LICENSE
+-rw-rw-r-- root/root      1386 2015-06-14 06:11 ansible-buildnode-master/README.md
+drwxrwxr-x root/root         0 2015-06-14 06:11 ansible-buildnode-master/defaults/
+-rw-rw-r-- root/root       186 2015-06-14 06:11 ansible-buildnode-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-14 06:11 ansible-buildnode-master/meta/
+-rw-rw-r-- root/root       301 2015-06-14 06:11 ansible-buildnode-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-14 06:11 ansible-buildnode-master/tasks/
+-rw-rw-r-- root/root       263 2015-06-14 06:11 ansible-buildnode-master/tasks/apt.yml
+-rw-rw-r-- root/root       186 2015-06-14 06:11 ansible-buildnode-master/tasks/apt_postgresql.yml
+-rw-rw-r-- root/root       871 2015-06-14 06:11 ansible-buildnode-master/tasks/apt_python.yml
+-rw-rw-r-- root/root       374 2015-06-14 06:11 ansible-buildnode-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-14 06:11 ansible-buildnode-master/vars/
+-rw-rw-r-- root/root       346 2015-06-14 06:11 ansible-buildnode-master/vars/main.yml

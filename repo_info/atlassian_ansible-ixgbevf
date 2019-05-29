@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-18 22:16 ansible-ixgbevf-master/
+-rw-rw-r-- root/root        20 2016-08-18 22:16 ansible-ixgbevf-master/.gitignore
+-rw-rw-r-- root/root       540 2016-08-18 22:16 ansible-ixgbevf-master/.travis.yml
+-rw-rw-r-- root/root       560 2016-08-18 22:16 ansible-ixgbevf-master/LICENSE.txt
+-rw-rw-r-- root/root      2932 2016-08-18 22:16 ansible-ixgbevf-master/README.md
+drwxrwxr-x root/root         0 2016-08-18 22:16 ansible-ixgbevf-master/defaults/
+-rw-rw-r-- root/root        93 2016-08-18 22:16 ansible-ixgbevf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-18 22:16 ansible-ixgbevf-master/meta/
+-rw-rw-r-- root/root       354 2016-08-18 22:16 ansible-ixgbevf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-18 22:16 ansible-ixgbevf-master/tasks/
+-rw-rw-r-- root/root      1291 2016-08-18 22:16 ansible-ixgbevf-master/tasks/install.yml
+-rw-rw-r-- root/root       593 2016-08-18 22:16 ansible-ixgbevf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-18 22:16 ansible-ixgbevf-master/templates/
+-rw-rw-r-- root/root       284 2016-08-18 22:16 ansible-ixgbevf-master/templates/dkms.conf
+drwxrwxr-x root/root         0 2016-08-18 22:16 ansible-ixgbevf-master/tests/
+-rw-rw-r-- root/root         9 2016-08-18 22:16 ansible-ixgbevf-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-08-18 22:16 ansible-ixgbevf-master/tests/test.yml

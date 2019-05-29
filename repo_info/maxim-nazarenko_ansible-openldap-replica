@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-04-19 10:34 ansible-openldap-replica-master/
+-rw-rw-r-- root/root       332 2016-04-19 10:34 ansible-openldap-replica-master/README.md
+drwxrwxr-x root/root         0 2016-04-19 10:34 ansible-openldap-replica-master/defaults/
+-rw-rw-r-- root/root       407 2016-04-19 10:34 ansible-openldap-replica-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-19 10:34 ansible-openldap-replica-master/meta/
+-rw-rw-r-- root/root       264 2016-04-19 10:34 ansible-openldap-replica-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-19 10:34 ansible-openldap-replica-master/tasks/
+-rw-rw-r-- root/root      1866 2016-04-19 10:34 ansible-openldap-replica-master/tasks/_master.yml
+-rw-rw-r-- root/root       418 2016-04-19 10:34 ansible-openldap-replica-master/tasks/_slave-readonly.yml
+-rw-rw-r-- root/root       221 2016-04-19 10:34 ansible-openldap-replica-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-19 10:34 ansible-openldap-replica-master/templates/
+drwxrwxr-x root/root         0 2016-04-19 10:34 ansible-openldap-replica-master/templates/overlays/
+-rw-rw-r-- root/root       131 2016-04-19 10:34 ansible-openldap-replica-master/templates/overlays/syncprov.enable.ldif.j2
+-rw-rw-r-- root/root       469 2016-04-19 10:34 ansible-openldap-replica-master/templates/replication-slave-readonly.ldif.j2
+-rw-rw-r-- root/root       185 2016-04-19 10:34 ansible-openldap-replica-master/templates/syncprov.setup.ldif.j2

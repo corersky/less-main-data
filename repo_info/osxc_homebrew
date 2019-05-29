@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-01-24 23:43 homebrew-master/
+-rw-rw-r-- root/root       450 2015-01-24 23:43 homebrew-master/.travis.yml
+-rw-rw-r-- root/root      1070 2015-01-24 23:43 homebrew-master/LICENSE
+-rw-rw-r-- root/root      1113 2015-01-24 23:43 homebrew-master/README.md
+drwxrwxr-x root/root         0 2015-01-24 23:43 homebrew-master/defaults/
+-rw-rw-r-- root/root       192 2015-01-24 23:43 homebrew-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-24 23:43 homebrew-master/meta/
+-rw-rw-r-- root/root       310 2015-01-24 23:43 homebrew-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-24 23:43 homebrew-master/tasks/
+-rw-rw-r-- root/root       661 2015-01-24 23:43 homebrew-master/tasks/cask.yml
+-rw-rw-r-- root/root      1159 2015-01-24 23:43 homebrew-master/tasks/clone.yml
+-rw-rw-r-- root/root       274 2015-01-24 23:43 homebrew-master/tasks/main.yml
+-rw-rw-r-- root/root       227 2015-01-24 23:43 homebrew-master/tasks/script.yml
+-rw-rw-r-- root/root       180 2015-01-24 23:43 homebrew-master/test.yml
+-rw-rw-r-- root/root       182 2015-01-24 23:43 homebrew-master/test_vars.yml

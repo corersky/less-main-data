@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-16 22:13 ansible-role-github-users-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:13 ansible-role-github-users-master/.gitignore
+-rw-rw-r-- root/root       560 2019-05-16 22:13 ansible-role-github-users-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:13 ansible-role-github-users-master/LICENSE
+-rw-rw-r-- root/root      3166 2019-05-16 22:13 ansible-role-github-users-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:13 ansible-role-github-users-master/defaults/
+-rw-rw-r-- root/root       454 2019-05-16 22:13 ansible-role-github-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:13 ansible-role-github-users-master/meta/
+-rw-rw-r-- root/root       823 2019-05-16 22:13 ansible-role-github-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:13 ansible-role-github-users-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:13 ansible-role-github-users-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:13 ansible-role-github-users-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       988 2019-05-16 22:13 ansible-role-github-users-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:13 ansible-role-github-users-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:13 ansible-role-github-users-master/tasks/
+-rw-rw-r-- root/root       789 2019-05-16 22:13 ansible-role-github-users-master/tasks/main.yml

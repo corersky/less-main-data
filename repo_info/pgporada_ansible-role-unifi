@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-23 22:58 ansible-role-unifi-master/
+-rw-rw-r-- root/root     35141 2019-03-23 22:58 ansible-role-unifi-master/LICENSE
+-rw-rw-r-- root/root       559 2019-03-23 22:58 ansible-role-unifi-master/README.md
+drwxrwxr-x root/root         0 2019-03-23 22:58 ansible-role-unifi-master/defaults/
+-rw-rw-r-- root/root      1561 2019-03-23 22:58 ansible-role-unifi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-23 22:58 ansible-role-unifi-master/handlers/
+-rw-rw-r-- root/root       118 2019-03-23 22:58 ansible-role-unifi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-23 22:58 ansible-role-unifi-master/meta/
+-rw-rw-r-- root/root       267 2019-03-23 22:58 ansible-role-unifi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-23 22:58 ansible-role-unifi-master/tasks/
+-rw-rw-r-- root/root      1476 2019-03-23 22:58 ansible-role-unifi-master/tasks/configure.yml
+-rw-rw-r-- root/root      2501 2019-03-23 22:58 ansible-role-unifi-master/tasks/install.yml
+-rw-rw-r-- root/root        56 2019-03-23 22:58 ansible-role-unifi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-23 22:58 ansible-role-unifi-master/templates/
+-rw-rw-r-- root/root       494 2019-03-23 22:58 ansible-role-unifi-master/templates/unifi-installer.sh.j2

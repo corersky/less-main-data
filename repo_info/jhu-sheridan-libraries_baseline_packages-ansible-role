@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-01 15:14 baseline_packages-ansible-role-master/
+-rw-rw-r-- root/root         7 2017-06-01 15:14 baseline_packages-ansible-role-master/.gitignore
+-rw-rw-r-- root/root       843 2017-06-01 15:14 baseline_packages-ansible-role-master/.travis.yml
+-rw-rw-r-- root/root       552 2017-06-01 15:14 baseline_packages-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-06-01 15:14 baseline_packages-ansible-role-master/defaults/
+-rw-rw-r-- root/root        88 2017-06-01 15:14 baseline_packages-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-01 15:14 baseline_packages-ansible-role-master/handlers/
+-rw-rw-r-- root/root        54 2017-06-01 15:14 baseline_packages-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-01 15:14 baseline_packages-ansible-role-master/meta/
+-rw-rw-r-- root/root      1233 2017-06-01 15:14 baseline_packages-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-01 15:14 baseline_packages-ansible-role-master/tasks/
+-rw-rw-r-- root/root       337 2017-06-01 15:14 baseline_packages-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-01 15:14 baseline_packages-ansible-role-master/tests/
+-rw-rw-r-- root/root        11 2017-06-01 15:14 baseline_packages-ansible-role-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-06-01 15:14 baseline_packages-ansible-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-01 15:14 baseline_packages-ansible-role-master/vars/
+-rw-rw-r-- root/root        50 2017-06-01 15:14 baseline_packages-ansible-role-master/vars/main.yml

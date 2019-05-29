@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2017-06-14 15:20 ansible-docker-master/
+-rw-rw-r-- root/root        27 2017-06-14 15:20 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root      1054 2017-06-14 15:20 ansible-docker-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-06-14 15:20 ansible-docker-master/LICENSE
+-rw-rw-r-- root/root       417 2017-06-14 15:20 ansible-docker-master/README.md
+drwxrwxr-x root/root         0 2017-06-14 15:20 ansible-docker-master/defaults/
+-rw-rw-r-- root/root       173 2017-06-14 15:20 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-14 15:20 ansible-docker-master/examples/
+-rw-rw-r-- root/root       666 2017-06-14 15:20 ansible-docker-master/examples/Vagrantfile
+-rw-rw-r-- root/root        50 2017-06-14 15:20 ansible-docker-master/examples/roles.yml
+drwxrwxr-x root/root         0 2017-06-14 15:20 ansible-docker-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-06-14 15:20 ansible-docker-master/examples/roles/azavea.docker -> ../../
+-rw-rw-r-- root/root       338 2017-06-14 15:20 ansible-docker-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-06-14 15:20 ansible-docker-master/handlers/
+-rw-rw-r-- root/root        66 2017-06-14 15:20 ansible-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-14 15:20 ansible-docker-master/meta/
+-rw-rw-r-- root/root       280 2017-06-14 15:20 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-14 15:20 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       490 2017-06-14 15:20 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-14 15:20 ansible-docker-master/templates/
+-rw-rw-r-- root/root       646 2017-06-14 15:20 ansible-docker-master/templates/docker.j2

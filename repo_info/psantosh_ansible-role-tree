@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-28 09:36 ansible-role-tree-master/
+-rw-rw-r-- root/root       557 2019-04-28 09:36 ansible-role-tree-master/README.md
+drwxrwxr-x root/root         0 2019-04-28 09:36 ansible-role-tree-master/defaults/
+-rw-rw-r-- root/root        37 2019-04-28 09:36 ansible-role-tree-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-28 09:36 ansible-role-tree-master/handlers/
+-rw-rw-r-- root/root        37 2019-04-28 09:36 ansible-role-tree-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-28 09:36 ansible-role-tree-master/meta/
+-rw-rw-r-- root/root       418 2019-04-28 09:36 ansible-role-tree-master/meta/main.yml
+-rw-rw-r-- root/root        44 2019-04-28 09:36 ansible-role-tree-master/requirements.txt
+drwxrwxr-x root/root         0 2019-04-28 09:36 ansible-role-tree-master/tasks/
+-rw-rw-r-- root/root        69 2019-04-28 09:36 ansible-role-tree-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-28 09:36 ansible-role-tree-master/tests/
+-rw-rw-r-- root/root        11 2019-04-28 09:36 ansible-role-tree-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-04-28 09:36 ansible-role-tree-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-28 09:36 ansible-role-tree-master/vars/
+-rw-rw-r-- root/root        33 2019-04-28 09:36 ansible-role-tree-master/vars/main.yml

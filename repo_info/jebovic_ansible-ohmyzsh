@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-26 14:11 ansible-ohmyzsh-master/
+-rw-rw-r-- root/root      2091 2019-02-26 14:11 ansible-ohmyzsh-master/.travis.yml
+-rw-rw-r-- root/root      1075 2019-02-26 14:11 ansible-ohmyzsh-master/LICENSE
+-rw-rw-r-- root/root      1677 2019-02-26 14:11 ansible-ohmyzsh-master/README.md
+drwxrwxr-x root/root         0 2019-02-26 14:11 ansible-ohmyzsh-master/defaults/
+-rw-rw-r-- root/root       313 2019-02-26 14:11 ansible-ohmyzsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-26 14:11 ansible-ohmyzsh-master/meta/
+-rw-rw-r-- root/root       406 2019-02-26 14:11 ansible-ohmyzsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-26 14:11 ansible-ohmyzsh-master/tasks/
+-rw-rw-r-- root/root      1275 2019-02-26 14:11 ansible-ohmyzsh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-26 14:11 ansible-ohmyzsh-master/templates/
+-rw-rw-r-- root/root      2733 2019-02-26 14:11 ansible-ohmyzsh-master/templates/zshrc.j2
+drwxrwxr-x root/root         0 2019-02-26 14:11 ansible-ohmyzsh-master/tests/
+-rw-rw-r-- root/root         9 2019-02-26 14:11 ansible-ohmyzsh-master/tests/inventory
+-rw-rw-r-- root/root       162 2019-02-26 14:11 ansible-ohmyzsh-master/tests/test.yml

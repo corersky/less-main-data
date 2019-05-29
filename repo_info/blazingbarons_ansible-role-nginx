@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-21 06:04 ansible-role-nginx-master/
+-rw-rw-r-- root/root        10 2017-04-21 06:04 ansible-role-nginx-master/.gitignore
+-rw-rw-r-- root/root       539 2017-04-21 06:04 ansible-role-nginx-master/.travis.yml
+-rw-rw-r-- root/root     10242 2017-04-21 06:04 ansible-role-nginx-master/LICENSE
+-rw-rw-r-- root/root       273 2017-04-21 06:04 ansible-role-nginx-master/README.md
+drwxrwxr-x root/root         0 2017-04-21 06:04 ansible-role-nginx-master/meta/
+-rw-rw-r-- root/root       400 2017-04-21 06:04 ansible-role-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-21 06:04 ansible-role-nginx-master/tasks/
+-rw-rw-r-- root/root       221 2017-04-21 06:04 ansible-role-nginx-master/tasks/main.yml
+-rw-rw-r-- root/root        88 2017-04-21 06:04 ansible-role-nginx-master/tasks/setup-debian.yml
+-rw-rw-r-- root/root        88 2017-04-21 06:04 ansible-role-nginx-master/tasks/setup-redhat.yml
+drwxrwxr-x root/root         0 2017-04-21 06:04 ansible-role-nginx-master/tests/
+-rw-rw-r-- root/root         9 2017-04-21 06:04 ansible-role-nginx-master/tests/inventory
+-rw-rw-r-- root/root        63 2017-04-21 06:04 ansible-role-nginx-master/tests/test.yml

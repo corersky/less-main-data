@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-15 06:40 os-users-groups-master/
+-rw-rw-r-- root/root        12 2019-05-15 06:40 os-users-groups-master/.gitignore
+-rw-rw-r-- root/root      1068 2019-05-15 06:40 os-users-groups-master/LICENSE
+-rw-rw-r-- root/root      4391 2019-05-15 06:40 os-users-groups-master/README.md
+drwxrwxr-x root/root         0 2019-05-15 06:40 os-users-groups-master/defaults/
+-rw-rw-r-- root/root      1677 2019-05-15 06:40 os-users-groups-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 06:40 os-users-groups-master/meta/
+-rw-rw-r-- root/root       402 2019-05-15 06:40 os-users-groups-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-15 06:40 os-users-groups-master/tasks/
+-rw-rw-r-- root/root       662 2019-05-15 06:40 os-users-groups-master/tasks/authorized_key.yml
+-rw-rw-r-- root/root      1188 2019-05-15 06:40 os-users-groups-master/tasks/group.yml
+-rw-rw-r-- root/root       380 2019-05-15 06:40 os-users-groups-master/tasks/main.yml
+-rw-rw-r-- root/root      4655 2019-05-15 06:40 os-users-groups-master/tasks/user.yml
+drwxrwxr-x root/root         0 2019-05-15 06:40 os-users-groups-master/tests/
+-rw-rw-r-- root/root        11 2019-05-15 06:40 os-users-groups-master/tests/inventory
+-rw-rw-r-- root/root        81 2019-05-15 06:40 os-users-groups-master/tests/test.yml

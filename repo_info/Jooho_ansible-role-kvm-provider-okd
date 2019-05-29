@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/
+-rw-rw-r-- root/root      1509 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/LICENSE
+-rw-rw-r-- root/root      1214 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/README.md
+drwxrwxr-x root/root         0 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/defaults/
+-rw-rw-r-- root/root       126 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/files/
+-rw-rw-r-- root/root       317 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/files/okd_br1.xml
+drwxrwxr-x root/root         0 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/meta/
+-rw-rw-r-- root/root      2006 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/tasks/
+-rw-rw-r-- root/root       718 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/tasks/install.yml
+-rw-rw-r-- root/root       517 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/tasks/main.yml
+-rw-rw-r-- root/root      1289 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/tasks/network.yml
+-rw-rw-r-- root/root      1501 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/tasks/storage.yml
+drwxrwxr-x root/root         0 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/templates/
+-rw-rw-r-- root/root       305 2019-01-29 16:01 ansible-role-kvm-provider-okd-master/templates/public-storage.xml.j2

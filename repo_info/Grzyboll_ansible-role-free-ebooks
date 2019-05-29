@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/
+-rw-rw-r-- root/root      1362 2017-09-04 08:54 ansible-role-free-ebooks-master/.travis.yml
+-rw-rw-r-- root/root      1665 2017-09-04 08:54 ansible-role-free-ebooks-master/README.md
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/defaults/
+-rw-rw-r-- root/root        44 2017-09-04 08:54 ansible-role-free-ebooks-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/handlers/
+-rw-rw-r-- root/root        44 2017-09-04 08:54 ansible-role-free-ebooks-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/meta/
+-rw-rw-r-- root/root       317 2017-09-04 08:54 ansible-role-free-ebooks-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/tasks/
+-rw-rw-r-- root/root      1210 2017-09-04 08:54 ansible-role-free-ebooks-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/templates/
+-rw-rw-r-- root/root      1387 2017-09-04 08:54 ansible-role-free-ebooks-master/templates/mva.microsoft.com.j2
+-rw-rw-r-- root/root      1269 2017-09-04 08:54 ansible-role-free-ebooks-master/templates/www.packtpub.com.j2
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/tests/
+-rw-rw-r-- root/root        16 2017-09-04 08:54 ansible-role-free-ebooks-master/tests/inventory
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/tests/roles/ansible-role-free-ebooks -> ../../../ansible-role-free-ebooks/
+-rw-rw-r-- root/root        68 2017-09-04 08:54 ansible-role-free-ebooks-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-04 08:54 ansible-role-free-ebooks-master/vars/
+-rw-rw-r-- root/root      1037 2017-09-04 08:54 ansible-role-free-ebooks-master/vars/main.yml

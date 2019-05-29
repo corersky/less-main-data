@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-27 03:20 ansible-common-centos7-master/
+-rw-rw-r-- root/root       618 2019-05-27 03:20 ansible-common-centos7-master/README.md
+drwxrwxr-x root/root         0 2019-05-27 03:20 ansible-common-centos7-master/defaults/
+-rw-rw-r-- root/root       170 2019-05-27 03:20 ansible-common-centos7-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-27 03:20 ansible-common-centos7-master/files/
+-rw-rw-r-- root/root       175 2019-05-27 03:20 ansible-common-centos7-master/files/history.sh
+-rw-rw-r-- root/root       231 2019-05-27 03:20 ansible-common-centos7-master/files/sysstat
+drwxrwxr-x root/root         0 2019-05-27 03:20 ansible-common-centos7-master/meta/
+-rw-rw-r-- root/root       224 2019-05-27 03:20 ansible-common-centos7-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-27 03:20 ansible-common-centos7-master/tasks/
+-rw-rw-r-- root/root      1129 2019-05-27 03:20 ansible-common-centos7-master/tasks/main.yml

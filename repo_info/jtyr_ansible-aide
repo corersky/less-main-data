@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-12 05:19 ansible-aide-master/
+-rw-rw-r-- root/root         0 2017-05-12 05:19 ansible-aide-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-12 05:19 ansible-aide-master/LICENSE
+-rw-rw-r-- root/root      7707 2017-05-12 05:19 ansible-aide-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 05:19 ansible-aide-master/defaults/
+-rw-rw-r-- root/root      6456 2017-05-12 05:19 ansible-aide-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:19 ansible-aide-master/meta/
+-rw-rw-r-- root/root       257 2017-05-12 05:19 ansible-aide-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 05:19 ansible-aide-master/tasks/
+-rw-rw-r-- root/root      1935 2017-05-12 05:19 ansible-aide-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:19 ansible-aide-master/templates/
+-rw-rw-r-- root/root       298 2017-05-12 05:19 ansible-aide-master/templates/aide.conf.j2

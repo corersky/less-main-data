@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/
+-rw-rw-r-- root/root       812 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/.travis.yml
+-rw-rw-r-- root/root      1724 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/README.md
+drwxrwxr-x root/root         0 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/defaults/
+-rw-rw-r-- root/root       113 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/defaults/main.yml
+-rw-rw-r-- root/root      1680 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/github-ansible-repo-deploy-key.enc
+drwxrwxr-x root/root         0 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/meta/
+-rw-rw-r-- root/root       389 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/tasks/
+-rwxrwxr-x root/root      2748 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/tests/
+-rw-rw-r-- root/root        17 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/tests/inventory
+-rw-rw-r-- root/root       315 2018-03-24 00:07 ansible-role-clone-and-upload-git-repository-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-07 18:03 mongodb-ansible-role-master/
+-rw-rw-r-- root/root       855 2017-12-07 18:03 mongodb-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-12-07 18:03 mongodb-ansible-role-master/defaults/
+-rw-rw-r-- root/root        23 2017-12-07 18:03 mongodb-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:03 mongodb-ansible-role-master/files/
+-rw-rw-r-- root/root        94 2017-12-07 18:03 mongodb-ansible-role-master/files/mongodb-org-3.4.list
+drwxrwxr-x root/root         0 2017-12-07 18:03 mongodb-ansible-role-master/handlers/
+-rw-rw-r-- root/root       235 2017-12-07 18:03 mongodb-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:03 mongodb-ansible-role-master/meta/
+-rw-rw-r-- root/root       296 2017-12-07 18:03 mongodb-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:03 mongodb-ansible-role-master/tasks/
+-rw-rw-r-- root/root       624 2017-12-07 18:03 mongodb-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:03 mongodb-ansible-role-master/templates/
+-rw-rw-r-- root/root       579 2017-12-07 18:03 mongodb-ansible-role-master/templates/mongod.conf

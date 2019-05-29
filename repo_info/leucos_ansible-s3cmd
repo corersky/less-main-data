@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2016-07-09 02:45 ansible-s3cmd-master/
+-rw-rw-r-- root/root       503 2016-07-09 02:45 ansible-s3cmd-master/README.md
+drwxrwxr-x root/root         0 2016-07-09 02:45 ansible-s3cmd-master/meta/
+-rwxrwxr-x root/root       284 2016-07-09 02:45 ansible-s3cmd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-09 02:45 ansible-s3cmd-master/tasks/
+-rw-rw-r-- root/root       227 2016-07-09 02:45 ansible-s3cmd-master/tasks/main.yml
+-rw-rw-r-- root/root       264 2016-07-09 02:45 ansible-s3cmd-master/tasks/s3cmd.yml
+drwxrwxr-x root/root         0 2016-07-09 02:45 ansible-s3cmd-master/templates/
+-rw-rw-r-- root/root      1709 2016-07-09 02:45 ansible-s3cmd-master/templates/s3cfg.j2

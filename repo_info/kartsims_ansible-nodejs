@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-02-17 03:43 ansible-nodejs-master/
+-rw-rw-r-- root/root      1770 2016-02-17 03:43 ansible-nodejs-master/README.md
+drwxrwxr-x root/root         0 2016-02-17 03:43 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root       556 2016-02-17 03:43 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-17 03:43 ansible-nodejs-master/files/
+-rw-rw-r-- root/root      4704 2016-02-17 03:43 ansible-nodejs-master/files/setup_4.x
+drwxrwxr-x root/root         0 2016-02-17 03:43 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       405 2016-02-17 03:43 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-17 03:43 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root       476 2016-02-17 03:43 ansible-nodejs-master/tasks/install_node.yml
+-rw-rw-r-- root/root      1292 2016-02-17 03:43 ansible-nodejs-master/tasks/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-04-29 03:17 ruby-rbenv-role-master/
+-rw-rw-r-- root/root       925 2015-04-29 03:17 ruby-rbenv-role-master/README.md
+drwxrwxr-x root/root         0 2015-04-29 03:17 ruby-rbenv-role-master/defaults/
+-rw-rw-r-- root/root       171 2015-04-29 03:17 ruby-rbenv-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-29 03:17 ruby-rbenv-role-master/files/
+-rw-rw-r-- root/root       190 2015-04-29 03:17 ruby-rbenv-role-master/files/install-ruby.sh
+-rw-rw-r-- root/root       415 2015-04-29 03:17 ruby-rbenv-role-master/files/rbenv-profile.sh
+-rw-rw-r-- root/root        61 2015-04-29 03:17 ruby-rbenv-role-master/files/rbenv-sudoers
+drwxrwxr-x root/root         0 2015-04-29 03:17 ruby-rbenv-role-master/meta/
+-rw-rw-r-- root/root       194 2015-04-29 03:17 ruby-rbenv-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-29 03:17 ruby-rbenv-role-master/tasks/
+-rw-rw-r-- root/root      1847 2015-04-29 03:17 ruby-rbenv-role-master/tasks/main.yml

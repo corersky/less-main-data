@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-02 05:01 myimportrepo-master/
+-rw-rw-r-- root/root      1328 2019-05-02 05:01 myimportrepo-master/README.md
+drwxrwxr-x root/root         0 2019-05-02 05:01 myimportrepo-master/defaults/
+-rw-rw-r-- root/root        33 2019-05-02 05:01 myimportrepo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-02 05:01 myimportrepo-master/handlers/
+-rw-rw-r-- root/root        33 2019-05-02 05:01 myimportrepo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-02 05:01 myimportrepo-master/meta/
+-rw-rw-r-- root/root      1973 2019-05-02 05:01 myimportrepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-02 05:01 myimportrepo-master/tasks/
+-rw-rw-r-- root/root        30 2019-05-02 05:01 myimportrepo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-02 05:01 myimportrepo-master/tests/
+-rw-rw-r-- root/root        11 2019-05-02 05:01 myimportrepo-master/tests/inventory
+-rw-rw-r-- root/root        67 2019-05-02 05:01 myimportrepo-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-02 05:01 myimportrepo-master/vars/
+-rw-rw-r-- root/root        29 2019-05-02 05:01 myimportrepo-master/vars/main.yml

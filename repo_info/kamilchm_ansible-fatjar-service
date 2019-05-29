@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-08-07 12:51 ansible-fatjar-service-master/
+-rw-rw-r-- root/root        21 2014-08-07 12:51 ansible-fatjar-service-master/.gitignore
+-rw-rw-r-- root/root       713 2014-08-07 12:51 ansible-fatjar-service-master/README.md
+-rw-rw-r-- root/root       423 2014-08-07 12:51 ansible-fatjar-service-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-08-07 12:51 ansible-fatjar-service-master/handlers/
+-rw-rw-r-- root/root        86 2014-08-07 12:51 ansible-fatjar-service-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-08-07 12:51 ansible-fatjar-service-master/meta/
+-rw-rw-r-- root/root       287 2014-08-07 12:51 ansible-fatjar-service-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-07 12:51 ansible-fatjar-service-master/tasks/
+-rw-rw-r-- root/root       957 2014-08-07 12:51 ansible-fatjar-service-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-07 12:51 ansible-fatjar-service-master/templates/
+-rw-rw-r-- root/root       554 2014-08-07 12:51 ansible-fatjar-service-master/templates/supervisor.conf.j2
+-rw-rw-r-- root/root       129 2014-08-07 12:51 ansible-fatjar-service-master/test.yml
+drwxrwxr-x root/root         0 2014-08-07 12:51 ansible-fatjar-service-master/vars/
+-rw-rw-r-- root/root       215 2014-08-07 12:51 ansible-fatjar-service-master/vars/main.yml

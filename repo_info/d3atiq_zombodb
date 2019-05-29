@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-19 20:14 zombodb-master/
+-rw-rw-r-- root/root      1071 2018-08-19 20:14 zombodb-master/LICENSE
+-rw-rw-r-- root/root      1372 2018-08-19 20:14 zombodb-master/README.md
+drwxrwxr-x root/root         0 2018-08-19 20:14 zombodb-master/defaults/
+-rw-rw-r-- root/root        31 2018-08-19 20:14 zombodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-19 20:14 zombodb-master/handlers/
+-rw-rw-r-- root/root        31 2018-08-19 20:14 zombodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-19 20:14 zombodb-master/meta/
+-rw-rw-r-- root/root       245 2018-08-19 20:14 zombodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-19 20:14 zombodb-master/tasks/
+-rw-rw-r-- root/root       356 2018-08-19 20:14 zombodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-19 20:14 zombodb-master/tests/
+-rw-rw-r-- root/root        11 2018-08-19 20:14 zombodb-master/tests/inventory
+-rw-rw-r-- root/root        65 2018-08-19 20:14 zombodb-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-19 20:14 zombodb-master/vars/
+-rw-rw-r-- root/root        27 2018-08-19 20:14 zombodb-master/vars/main.yml

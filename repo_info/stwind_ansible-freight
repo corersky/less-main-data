@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-02-03 06:32 ansible-freight-master/
+-rw-rw-r-- root/root       522 2014-02-03 06:32 ansible-freight-master/README.md
+drwxrwxr-x root/root         0 2014-02-03 06:32 ansible-freight-master/defaults/
+-rw-rw-r-- root/root        97 2014-02-03 06:32 ansible-freight-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-02-03 06:32 ansible-freight-master/handlers/
+-rw-rw-r-- root/root        32 2014-02-03 06:32 ansible-freight-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-02-03 06:32 ansible-freight-master/meta/
+-rw-rw-r-- root/root       418 2014-02-03 06:32 ansible-freight-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-02-03 06:32 ansible-freight-master/tasks/
+-rw-rw-r-- root/root       430 2014-02-03 06:32 ansible-freight-master/tasks/freight.yml
+-rw-rw-r-- root/root       716 2014-02-03 06:32 ansible-freight-master/tasks/gpg.yml
+-rw-rw-r-- root/root       141 2014-02-03 06:32 ansible-freight-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-02-03 06:32 ansible-freight-master/templates/
+-rw-rw-r-- root/root       751 2014-02-03 06:32 ansible-freight-master/templates/freight.conf.j2
+drwxrwxr-x root/root         0 2014-02-03 06:32 ansible-freight-master/vars/
+-rw-rw-r-- root/root        39 2014-02-03 06:32 ansible-freight-master/vars/main.yml

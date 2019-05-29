@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-20 20:24 ansible-role-pam-master/
+-rw-rw-r-- root/root       331 2019-01-20 20:24 ansible-role-pam-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 20:24 ansible-role-pam-master/COPYING
+-rw-rw-r-- root/root      2806 2019-01-20 20:24 ansible-role-pam-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 20:24 ansible-role-pam-master/defaults/
+-rw-rw-r-- root/root       305 2019-01-20 20:24 ansible-role-pam-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 20:24 ansible-role-pam-master/meta/
+-rw-rw-r-- root/root       291 2019-01-20 20:24 ansible-role-pam-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 20:24 ansible-role-pam-master/tasks/
+-rw-rw-r-- root/root      1919 2019-01-20 20:24 ansible-role-pam-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 20:24 ansible-role-pam-master/templates/
+-rw-rw-r-- root/root       586 2019-01-20 20:24 ansible-role-pam-master/templates/pwquality.conf.j2
+drwxrwxr-x root/root         0 2019-01-20 20:24 ansible-role-pam-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 20:24 ansible-role-pam-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-01-20 20:24 ansible-role-pam-master/tests/test.yml

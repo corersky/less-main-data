@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-01 00:37 ansible-grafana-master/
+-rw-rw-r-- root/root      1066 2016-03-01 00:37 ansible-grafana-master/LICENSE
+-rw-rw-r-- root/root       729 2016-03-01 00:37 ansible-grafana-master/README.md
+drwxrwxr-x root/root         0 2016-03-01 00:37 ansible-grafana-master/handlers/
+-rw-rw-r-- root/root       111 2016-03-01 00:37 ansible-grafana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-01 00:37 ansible-grafana-master/meta/
+-rw-rw-r-- root/root       287 2016-03-01 00:37 ansible-grafana-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-01 00:37 ansible-grafana-master/tasks/
+-rw-rw-r-- root/root       187 2016-03-01 00:37 ansible-grafana-master/tasks/configure.yml
+-rw-rw-r-- root/root       349 2016-03-01 00:37 ansible-grafana-master/tasks/install.yml
+-rw-rw-r-- root/root        52 2016-03-01 00:37 ansible-grafana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-01 00:37 ansible-grafana-master/templates/
+drwxrwxr-x root/root         0 2016-03-01 00:37 ansible-grafana-master/templates/etc/
+drwxrwxr-x root/root         0 2016-03-01 00:37 ansible-grafana-master/templates/etc/grafana/
+-rw-rw-r-- root/root      6673 2016-03-01 00:37 ansible-grafana-master/templates/etc/grafana/grafana.ini

@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2014-11-02 16:43 ansible-nginx-master/
+-rw-rw-r-- root/root         9 2014-11-02 16:43 ansible-nginx-master/.gitignore
+-rw-rw-r-- root/root        93 2014-11-02 16:43 ansible-nginx-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2014-11-02 16:43 ansible-nginx-master/LICENSE
+-rw-rw-r-- root/root       485 2014-11-02 16:43 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2014-11-02 16:43 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root       160 2014-11-02 16:43 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-02 16:43 ansible-nginx-master/examples/
+-rw-rw-r-- root/root       338 2014-11-02 16:43 ansible-nginx-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-11-02 16:43 ansible-nginx-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-11-02 16:43 ansible-nginx-master/examples/roles/hectcastro.nginx -> ../../
+-rw-rw-r-- root/root       338 2014-11-02 16:43 ansible-nginx-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-11-02 16:43 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root        64 2014-11-02 16:43 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-02 16:43 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       243 2014-11-02 16:43 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-02 16:43 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root       762 2014-11-02 16:43 ansible-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-02 16:43 ansible-nginx-master/templates/
+-rw-rw-r-- root/root       696 2014-11-02 16:43 ansible-nginx-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root       595 2014-11-02 16:43 ansible-nginx-master/templates/site.conf.j2

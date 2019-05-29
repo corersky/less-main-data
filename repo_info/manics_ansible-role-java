@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-09 15:26 ansible-role-java-master/
+-rw-rw-r-- root/root         4 2017-06-09 15:26 ansible-role-java-master/.gitignore
+-rw-rw-r-- root/root       222 2017-06-09 15:26 ansible-role-java-master/.travis.yml
+-rw-rw-r-- root/root       473 2017-06-09 15:26 ansible-role-java-master/README.md
+drwxrwxr-x root/root         0 2017-06-09 15:26 ansible-role-java-master/defaults/
+-rw-rw-r-- root/root       162 2017-06-09 15:26 ansible-role-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-09 15:26 ansible-role-java-master/meta/
+-rw-rw-r-- root/root       279 2017-06-09 15:26 ansible-role-java-master/meta/main.yml
+-rw-rw-r-- root/root       522 2017-06-09 15:26 ansible-role-java-master/molecule.yml
+-rw-rw-r-- root/root        56 2017-06-09 15:26 ansible-role-java-master/playbook.yml
+drwxrwxr-x root/root         0 2017-06-09 15:26 ansible-role-java-master/tasks/
+-rw-rw-r-- root/root       383 2017-06-09 15:26 ansible-role-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-09 15:26 ansible-role-java-master/tests/
+-rw-rw-r-- root/root       613 2017-06-09 15:26 ansible-role-java-master/tests/test_default.py

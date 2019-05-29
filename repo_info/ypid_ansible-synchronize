@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-06 13:58 ansible-synchronize-master/
+-rw-rw-r-- root/root       917 2019-05-06 13:58 ansible-synchronize-master/.travis.yml
+-rw-rw-r-- root/root     34520 2019-05-06 13:58 ansible-synchronize-master/LICENSE
+-rw-rw-r-- root/root      2563 2019-05-06 13:58 ansible-synchronize-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 13:58 ansible-synchronize-master/defaults/
+-rw-rw-r-- root/root       460 2019-05-06 13:58 ansible-synchronize-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 13:58 ansible-synchronize-master/meta/
+-rw-rw-r-- root/root      1009 2019-05-06 13:58 ansible-synchronize-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 13:58 ansible-synchronize-master/tasks/
+-rw-rw-r-- root/root      2174 2019-05-06 13:58 ansible-synchronize-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 13:58 ansible-synchronize-master/tests/
+-rw-rw-r-- root/root        10 2019-05-06 13:58 ansible-synchronize-master/tests/inventory
+-rw-rw-r-- root/root       286 2019-05-06 13:58 ansible-synchronize-master/tests/test.yml

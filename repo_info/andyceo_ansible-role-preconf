@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-13 07:37 ansible-role-preconf-master/
+-rw-rw-r-- root/root        32 2019-05-13 07:37 ansible-role-preconf-master/.gitignore
+-rw-rw-r-- root/root       163 2019-05-13 07:37 ansible-role-preconf-master/.travis.yml
+-rw-rw-r-- root/root      1637 2019-05-13 07:37 ansible-role-preconf-master/README.md
+drwxrwxr-x root/root         0 2019-05-13 07:37 ansible-role-preconf-master/defaults/
+drwxrwxr-x root/root         0 2019-05-13 07:37 ansible-role-preconf-master/defaults/main/
+-rw-rw-r-- root/root      1301 2019-05-13 07:37 ansible-role-preconf-master/defaults/main/apt_keys.yaml
+-rw-rw-r-- root/root      3023 2019-05-13 07:37 ansible-role-preconf-master/defaults/main/apt_repositories.yml
+-rw-rw-r-- root/root      2811 2019-05-13 07:37 ansible-role-preconf-master/defaults/main/main.yml
+drwxrwxr-x root/root         0 2019-05-13 07:37 ansible-role-preconf-master/handlers/
+-rw-rw-r-- root/root        77 2019-05-13 07:37 ansible-role-preconf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-13 07:37 ansible-role-preconf-master/meta/
+-rw-rw-r-- root/root       268 2019-05-13 07:37 ansible-role-preconf-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-13 07:37 ansible-role-preconf-master/tasks/
+-rw-rw-r-- root/root      4451 2019-05-13 07:37 ansible-role-preconf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-13 07:37 ansible-role-preconf-master/templates/
+-rw-rw-r-- root/root       336 2019-05-13 07:37 ansible-role-preconf-master/templates/hosts.j2

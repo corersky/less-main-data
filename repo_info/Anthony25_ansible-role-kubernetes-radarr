@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/
+-rw-rw-r-- root/root        66 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/.gitignore
+-rw-rw-r-- root/root      1507 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/LICENSE.mkd
+-rw-rw-r-- root/root      3743 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/README.md
+drwxrwxr-x root/root         0 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/defaults/
+-rw-rw-r-- root/root       831 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/meta/
+-rw-rw-r-- root/root       556 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/tasks/
+-rw-rw-r-- root/root       390 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/templates/
+-rw-rw-r-- root/root      2783 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       614 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       230 2018-03-11 17:23 ansible-role-kubernetes-radarr-master/templates/service.yml.j2

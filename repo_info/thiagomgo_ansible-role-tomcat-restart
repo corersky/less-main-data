@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-19 15:10 ansible-role-tomcat-restart-master/
+-rw-rw-r-- root/root       476 2016-08-19 15:10 ansible-role-tomcat-restart-master/.gitignore
+-rw-rw-r-- root/root      1770 2016-08-19 15:10 ansible-role-tomcat-restart-master/.travis.yml
+-rw-rw-r-- root/root      1296 2016-08-19 15:10 ansible-role-tomcat-restart-master/LICENSE.md
+-rw-rw-r-- root/root       994 2016-08-19 15:10 ansible-role-tomcat-restart-master/README.md
+drwxrwxr-x root/root         0 2016-08-19 15:10 ansible-role-tomcat-restart-master/defaults/
+-rw-rw-r-- root/root        95 2016-08-19 15:10 ansible-role-tomcat-restart-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-19 15:10 ansible-role-tomcat-restart-master/meta/
+-rw-rw-r-- root/root       321 2016-08-19 15:10 ansible-role-tomcat-restart-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-19 15:10 ansible-role-tomcat-restart-master/tasks/
+-rw-rw-r-- root/root       134 2016-08-19 15:10 ansible-role-tomcat-restart-master/tasks/main.yml
+-rw-rw-r-- root/root       209 2016-08-19 15:10 ansible-role-tomcat-restart-master/tasks/start-services.yml
+-rw-rw-r-- root/root       533 2016-08-19 15:10 ansible-role-tomcat-restart-master/tasks/stop-services.yml
+drwxrwxr-x root/root         0 2016-08-19 15:10 ansible-role-tomcat-restart-master/tests/
+-rw-rw-r-- root/root      1252 2016-08-19 15:10 ansible-role-tomcat-restart-master/tests/test.yml

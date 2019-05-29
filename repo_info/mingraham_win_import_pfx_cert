@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-08 13:46 win_import_pfx_cert-master/
+-rw-rw-r-- root/root      1117 2015-12-08 13:46 win_import_pfx_cert-master/README.md
+drwxrwxr-x root/root         0 2015-12-08 13:46 win_import_pfx_cert-master/defaults/
+-rw-rw-r-- root/root         4 2015-12-08 13:46 win_import_pfx_cert-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-08 13:46 win_import_pfx_cert-master/files/
+drwxrwxr-x root/root         0 2015-12-08 13:46 win_import_pfx_cert-master/files/module/
+-rw-rw-r-- root/root      2535 2015-12-08 13:46 win_import_pfx_cert-master/files/module/win_import_pfx_cert.ps1
+-rw-rw-r-- root/root      2064 2015-12-08 13:46 win_import_pfx_cert-master/files/module/win_import_pfx_cert.py
+drwxrwxr-x root/root         0 2015-12-08 13:46 win_import_pfx_cert-master/handlers/
+-rw-rw-r-- root/root         4 2015-12-08 13:46 win_import_pfx_cert-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-08 13:46 win_import_pfx_cert-master/meta/
+-rw-rw-r-- root/root       399 2015-12-08 13:46 win_import_pfx_cert-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-08 13:46 win_import_pfx_cert-master/tasks/
+-rw-rw-r-- root/root       497 2015-12-08 13:46 win_import_pfx_cert-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-08 13:46 win_import_pfx_cert-master/vars/
+-rw-rw-r-- root/root        20 2015-12-08 13:46 win_import_pfx_cert-master/vars/main.yml

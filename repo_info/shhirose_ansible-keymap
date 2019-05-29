@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-30 23:20 ansible-keymap-master/
+-rw-rw-r-- root/root      1263 2018-08-30 23:20 ansible-keymap-master/README.md
+drwxrwxr-x root/root         0 2018-08-30 23:20 ansible-keymap-master/defaults/
+-rw-rw-r-- root/root       135 2018-08-30 23:20 ansible-keymap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-30 23:20 ansible-keymap-master/meta/
+-rw-rw-r-- root/root       318 2018-08-30 23:20 ansible-keymap-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-30 23:20 ansible-keymap-master/tasks/
+-rw-rw-r-- root/root      1559 2018-08-30 23:20 ansible-keymap-master/tasks/RedHat.yml
+-rw-rw-r-- root/root        51 2018-08-30 23:20 ansible-keymap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-30 23:20 ansible-keymap-master/tests/
+-rw-rw-r-- root/root        11 2018-08-30 23:20 ansible-keymap-master/tests/inventory
+-rw-rw-r-- root/root       184 2018-08-30 23:20 ansible-keymap-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-30 23:20 ansible-keymap-master/vars/
+-rw-rw-r-- root/root        59 2018-08-30 23:20 ansible-keymap-master/vars/main.yml

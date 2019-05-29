@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-13 21:00 ansible-jjb-master/
+-rw-rw-r-- root/root         0 2017-05-13 21:00 ansible-jjb-master/.gitignore
+-rw-rw-r-- root/root      1088 2017-05-13 21:00 ansible-jjb-master/LICENSE
+-rw-rw-r-- root/root      4990 2017-05-13 21:00 ansible-jjb-master/README.md
+drwxrwxr-x root/root         0 2017-05-13 21:00 ansible-jjb-master/defaults/
+-rw-rw-r-- root/root      3032 2017-05-13 21:00 ansible-jjb-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-13 21:00 ansible-jjb-master/meta/
+-rw-rw-r-- root/root       279 2017-05-13 21:00 ansible-jjb-master/meta/main.yaml
+drwxrwxr-x root/root         0 2017-05-13 21:00 ansible-jjb-master/tasks/
+-rw-rw-r-- root/root       938 2017-05-13 21:00 ansible-jjb-master/tasks/main.yaml
+-rw-rw-r-- root/root      1617 2017-05-13 21:00 ansible-jjb-master/tasks/project.yaml
+drwxrwxr-x root/root         0 2017-05-13 21:00 ansible-jjb-master/templates/
+-rw-rw-r-- root/root        63 2017-05-13 21:00 ansible-jjb-master/templates/jjb.cfg.j2

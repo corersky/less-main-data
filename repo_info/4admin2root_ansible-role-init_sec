@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-15 10:03 ansible-role-init_sec-master/
+-rw-rw-r-- root/root      1328 2017-10-15 10:03 ansible-role-init_sec-master/README.md
+drwxrwxr-x root/root         0 2017-10-15 10:03 ansible-role-init_sec-master/defaults/
+-rw-rw-r-- root/root        32 2017-10-15 10:03 ansible-role-init_sec-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-15 10:03 ansible-role-init_sec-master/handlers/
+-rw-rw-r-- root/root        32 2017-10-15 10:03 ansible-role-init_sec-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-15 10:03 ansible-role-init_sec-master/meta/
+-rw-rw-r-- root/root      1777 2017-10-15 10:03 ansible-role-init_sec-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-15 10:03 ansible-role-init_sec-master/tasks/
+-rw-rw-r-- root/root        29 2017-10-15 10:03 ansible-role-init_sec-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-15 10:03 ansible-role-init_sec-master/tests/
+-rw-rw-r-- root/root        11 2017-10-15 10:03 ansible-role-init_sec-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-10-15 10:03 ansible-role-init_sec-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-15 10:03 ansible-role-init_sec-master/vars/
+-rw-rw-r-- root/root        28 2017-10-15 10:03 ansible-role-init_sec-master/vars/main.yml

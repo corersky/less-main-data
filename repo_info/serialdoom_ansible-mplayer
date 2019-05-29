@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-28 11:54 ansible-mplayer-master/
+-rw-rw-r-- root/root        13 2016-05-28 11:54 ansible-mplayer-master/.gitignore
+-rw-rw-r-- root/root       525 2016-05-28 11:54 ansible-mplayer-master/README.md
+drwxrwxr-x root/root         0 2016-05-28 11:54 ansible-mplayer-master/defaults/
+-rw-rw-r-- root/root       147 2016-05-28 11:54 ansible-mplayer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-28 11:54 ansible-mplayer-master/handlers/
+-rw-rw-r-- root/root        42 2016-05-28 11:54 ansible-mplayer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-28 11:54 ansible-mplayer-master/meta/
+-rw-rw-r-- root/root      2798 2016-05-28 11:54 ansible-mplayer-master/meta/main.yml
+-rw-rw-r-- root/root        46 2016-05-28 11:54 ansible-mplayer-master/mplayer.yml
+drwxrwxr-x root/root         0 2016-05-28 11:54 ansible-mplayer-master/tasks/
+-rw-rw-r-- root/root      1206 2016-05-28 11:54 ansible-mplayer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-28 11:54 ansible-mplayer-master/vars/
+-rw-rw-r-- root/root       312 2016-05-28 11:54 ansible-mplayer-master/vars/main.yml

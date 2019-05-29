@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-11-03 03:50 ansible-mariadb-master/
+-rw-rw-r-- root/root        20 2015-11-03 03:50 ansible-mariadb-master/.gitignore
+-rw-rw-r-- root/root     35122 2015-11-03 03:50 ansible-mariadb-master/LICENSE
+-rw-rw-r-- root/root       705 2015-11-03 03:50 ansible-mariadb-master/README.md
+drwxrwxr-x root/root         0 2015-11-03 03:50 ansible-mariadb-master/defaults/
+-rw-rw-r-- root/root       277 2015-11-03 03:50 ansible-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-03 03:50 ansible-mariadb-master/meta/
+-rw-rw-r-- root/root       269 2015-11-03 03:50 ansible-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-03 03:50 ansible-mariadb-master/tasks/
+-rw-rw-r-- root/root       956 2015-11-03 03:50 ansible-mariadb-master/tasks/initial_config.yml
+-rw-rw-r-- root/root       669 2015-11-03 03:50 ansible-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-03 03:50 ansible-mariadb-master/templates/
+-rw-rw-r-- root/root       200 2015-11-03 03:50 ansible-mariadb-master/templates/ansible.cnf.j2
+-rw-rw-r-- root/root        56 2015-11-03 03:50 ansible-mariadb-master/templates/my.cnf.j2
+drwxrwxr-x root/root         0 2015-11-03 03:50 ansible-mariadb-master/vars/
+-rw-rw-r-- root/root       129 2015-11-03 03:50 ansible-mariadb-master/vars/root_password.yml

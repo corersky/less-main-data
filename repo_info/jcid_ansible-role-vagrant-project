@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-project-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-vagrant-project-master/.travis.yml
+-rw-rw-r-- root/root        83 2016-12-11 10:56 ansible-role-vagrant-project-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-project-master/files/
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-project-master/files/keys/
+-rw-rw-r-- root/root      1679 2016-12-11 10:56 ansible-role-vagrant-project-master/files/keys/id_rsa
+-rw-rw-r-- root/root       399 2016-12-11 10:56 ansible-role-vagrant-project-master/files/keys/id_rsa.pub
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-project-master/meta/
+-rw-rw-r-- root/root       216 2016-12-11 10:56 ansible-role-vagrant-project-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-project-master/tasks/
+-rw-rw-r-- root/root      1369 2016-12-11 10:56 ansible-role-vagrant-project-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-project-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-vagrant-project-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-12-11 10:56 ansible-role-vagrant-project-master/tests/test.yml

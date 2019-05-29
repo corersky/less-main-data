@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-18 14:08 ansible-role-certbot-master/
+-rw-rw-r-- root/root       539 2016-07-18 14:08 ansible-role-certbot-master/.travis.yml
+-rw-rw-r-- root/root      1315 2016-07-18 14:08 ansible-role-certbot-master/README.md
+drwxrwxr-x root/root         0 2016-07-18 14:08 ansible-role-certbot-master/defaults/
+-rw-rw-r-- root/root       216 2016-07-18 14:08 ansible-role-certbot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-18 14:08 ansible-role-certbot-master/handlers/
+-rw-rw-r-- root/root        45 2016-07-18 14:08 ansible-role-certbot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-18 14:08 ansible-role-certbot-master/meta/
+-rw-rw-r-- root/root       724 2016-07-18 14:08 ansible-role-certbot-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-18 14:08 ansible-role-certbot-master/tasks/
+-rw-rw-r-- root/root       979 2016-07-18 14:08 ansible-role-certbot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-18 14:08 ansible-role-certbot-master/tests/
+-rw-rw-r-- root/root         9 2016-07-18 14:08 ansible-role-certbot-master/tests/inventory
+-rw-rw-r-- root/root        97 2016-07-18 14:08 ansible-role-certbot-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-18 14:08 ansible-role-certbot-master/vars/
+-rw-rw-r-- root/root        43 2016-07-18 14:08 ansible-role-certbot-master/vars/main.yml

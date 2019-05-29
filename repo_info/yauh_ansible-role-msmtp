@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-08-06 11:41 ansible-role-msmtp-master/
+-rw-rw-r-- root/root      1286 2015-08-06 11:41 ansible-role-msmtp-master/README.md
+drwxrwxr-x root/root         0 2015-08-06 11:41 ansible-role-msmtp-master/defaults/
+-rw-rw-r-- root/root       322 2015-08-06 11:41 ansible-role-msmtp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-06 11:41 ansible-role-msmtp-master/handlers/
+-rw-rw-r-- root/root        35 2015-08-06 11:41 ansible-role-msmtp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-06 11:41 ansible-role-msmtp-master/meta/
+-rw-rw-r-- root/root       297 2015-08-06 11:41 ansible-role-msmtp-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-06 11:41 ansible-role-msmtp-master/tasks/
+-rw-rw-r-- root/root       777 2015-08-06 11:41 ansible-role-msmtp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-06 11:41 ansible-role-msmtp-master/templates/
+-rw-rw-r-- root/root        63 2015-08-06 11:41 ansible-role-msmtp-master/templates/msmtp_aliases.j2
+-rw-rw-r-- root/root       339 2015-08-06 11:41 ansible-role-msmtp-master/templates/msmtprc.j2
+drwxrwxr-x root/root         0 2015-08-06 11:41 ansible-role-msmtp-master/vars/
+-rw-rw-r-- root/root        31 2015-08-06 11:41 ansible-role-msmtp-master/vars/main.yml

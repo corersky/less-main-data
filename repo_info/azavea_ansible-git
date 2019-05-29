@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-09-08 10:52 ansible-git-master/
+-rw-rw-r-- root/root         9 2014-09-08 10:52 ansible-git-master/.gitignore
+-rw-rw-r-- root/root        29 2014-09-08 10:52 ansible-git-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2014-09-08 10:52 ansible-git-master/LICENSE
+-rw-rw-r-- root/root       116 2014-09-08 10:52 ansible-git-master/README.md
+drwxrwxr-x root/root         0 2014-09-08 10:52 ansible-git-master/examples/
+-rw-rw-r-- root/root       278 2014-09-08 10:52 ansible-git-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-09-08 10:52 ansible-git-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-09-08 10:52 ansible-git-master/examples/roles/azavea.git -> ../../
+-rw-rw-r-- root/root        55 2014-09-08 10:52 ansible-git-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-09-08 10:52 ansible-git-master/meta/
+-rw-rw-r-- root/root       264 2014-09-08 10:52 ansible-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-08 10:52 ansible-git-master/tasks/
+-rw-rw-r-- root/root        55 2014-09-08 10:52 ansible-git-master/tasks/main.yml
+-rw-rw-r-- root/root         7 2014-09-08 10:52 ansible-git-master/version.txt

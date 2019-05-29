@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-09-09 13:18 redis-master/
+-rw-rw-r-- root/root      1328 2015-09-09 13:18 redis-master/README.md
+drwxrwxr-x root/root         0 2015-09-09 13:18 redis-master/defaults/
+-rw-rw-r-- root/root       712 2015-09-09 13:18 redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-09 13:18 redis-master/files/
+-rw-rw-r-- root/root      1340 2015-09-09 13:18 redis-master/files/RPM-GPG-KEY-remi
+-rw-rw-r-- root/root      2298 2015-09-09 13:18 redis-master/files/remi.repo
+drwxrwxr-x root/root         0 2015-09-09 13:18 redis-master/handlers/
+-rw-rw-r-- root/root       113 2015-09-09 13:18 redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-09 13:18 redis-master/meta/
+-rw-rw-r-- root/root       211 2015-09-09 13:18 redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-09 13:18 redis-master/tasks/
+-rw-rw-r-- root/root      1127 2015-09-09 13:18 redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-09 13:18 redis-master/templates/
+-rw-rw-r-- root/root     34785 2015-09-09 13:18 redis-master/templates/redis.conf.j2
+drwxrwxr-x root/root         0 2015-09-09 13:18 redis-master/vars/
+-rw-rw-r-- root/root       150 2015-09-09 13:18 redis-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-20 20:04 ansible-role-openssh-server-master/
+-rw-rw-r-- root/root       539 2017-05-20 20:04 ansible-role-openssh-server-master/.travis.yml
+-rw-rw-r-- root/root       558 2017-05-20 20:04 ansible-role-openssh-server-master/README.md
+drwxrwxr-x root/root         0 2017-05-20 20:04 ansible-role-openssh-server-master/defaults/
+-rw-rw-r-- root/root       139 2017-05-20 20:04 ansible-role-openssh-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-20 20:04 ansible-role-openssh-server-master/handlers/
+-rw-rw-r-- root/root        62 2017-05-20 20:04 ansible-role-openssh-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-20 20:04 ansible-role-openssh-server-master/meta/
+-rw-rw-r-- root/root       227 2017-05-20 20:04 ansible-role-openssh-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-20 20:04 ansible-role-openssh-server-master/tasks/
+-rw-rw-r-- root/root       302 2017-05-20 20:04 ansible-role-openssh-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-20 20:04 ansible-role-openssh-server-master/templates/
+-rw-rw-r-- root/root      3988 2017-05-20 20:04 ansible-role-openssh-server-master/templates/sshd_config.rhel-6.j2
+-rw-rw-r-- root/root      4471 2017-05-20 20:04 ansible-role-openssh-server-master/templates/sshd_config.rhel-7.j2
+drwxrwxr-x root/root         0 2017-05-20 20:04 ansible-role-openssh-server-master/tests/
+-rw-rw-r-- root/root         9 2017-05-20 20:04 ansible-role-openssh-server-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-05-20 20:04 ansible-role-openssh-server-master/tests/test.yml

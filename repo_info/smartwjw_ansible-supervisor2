@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2015-05-07 21:37 ansible-supervisor2-master/
+-rw-rw-r-- root/root         9 2015-05-07 21:37 ansible-supervisor2-master/.gitignore
+-rw-rw-r-- root/root      1078 2015-05-07 21:37 ansible-supervisor2-master/LICENSE
+-rw-rw-r-- root/root       994 2015-05-07 21:37 ansible-supervisor2-master/README.md
+drwxrwxr-x root/root         0 2015-05-07 21:37 ansible-supervisor2-master/handlers/
+-rw-rw-r-- root/root        89 2015-05-07 21:37 ansible-supervisor2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-07 21:37 ansible-supervisor2-master/meta/
+-rw-rw-r-- root/root       344 2015-05-07 21:37 ansible-supervisor2-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-07 21:37 ansible-supervisor2-master/tasks/
+-rw-rw-r-- root/root       985 2015-05-07 21:37 ansible-supervisor2-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2015-05-07 21:37 ansible-supervisor2-master/templates/
+-rw-rw-r-- root/root      4107 2015-05-07 21:37 ansible-supervisor2-master/templates/init-script.j2
+-rw-rw-r-- root/root       211 2015-05-07 21:37 ansible-supervisor2-master/templates/supervisor-http.ini.j2
+-rw-rw-r-- root/root       442 2015-05-07 21:37 ansible-supervisor2-master/templates/supervisord.conf.j2
+drwxrwxr-x root/root         0 2015-05-07 21:37 ansible-supervisor2-master/test/
+-rw-rw-r-- root/root       337 2015-05-07 21:37 ansible-supervisor2-master/test/Vagrantfile
+-rw-rw-r-- root/root        73 2015-05-07 21:37 ansible-supervisor2-master/test/playbook.yml
+drwxrwxr-x root/root         0 2015-05-07 21:37 ansible-supervisor2-master/test/roles/
+lrwxrwxrwx root/root         0 2015-05-07 21:37 ansible-supervisor2-master/test/roles/ansible-supervisor -> ../../
+drwxrwxr-x root/root         0 2015-05-07 21:37 ansible-supervisor2-master/vars/
+-rw-rw-r-- root/root       341 2015-05-07 21:37 ansible-supervisor2-master/vars/main.yaml

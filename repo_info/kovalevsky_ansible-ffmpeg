@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-08-16 08:07 ansible-ffmpeg-master/
+-rw-rw-r-- root/root        96 2015-08-16 08:07 ansible-ffmpeg-master/.gitignore
+-rw-rw-r-- root/root       854 2015-08-16 08:07 ansible-ffmpeg-master/.travis.yml
+-rw-rw-r-- root/root      1359 2015-08-16 08:07 ansible-ffmpeg-master/README.md
+drwxrwxr-x root/root         0 2015-08-16 08:07 ansible-ffmpeg-master/defaults/
+-rw-rw-r-- root/root       586 2015-08-16 08:07 ansible-ffmpeg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-16 08:07 ansible-ffmpeg-master/meta/
+-rw-rw-r-- root/root       263 2015-08-16 08:07 ansible-ffmpeg-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-16 08:07 ansible-ffmpeg-master/tasks/
+-rw-rw-r-- root/root      5134 2015-08-16 08:07 ansible-ffmpeg-master/tasks/install.yml
+-rw-rw-r-- root/root       229 2015-08-16 08:07 ansible-ffmpeg-master/tasks/main.yml
+-rw-rw-r-- root/root       612 2015-08-16 08:07 ansible-ffmpeg-master/tasks/uninstall.yml
+-rw-rw-r-- root/root        71 2015-08-16 08:07 ansible-ffmpeg-master/tasks/update.yml
+drwxrwxr-x root/root         0 2015-08-16 08:07 ansible-ffmpeg-master/tests/
+-rw-rw-r-- root/root         9 2015-08-16 08:07 ansible-ffmpeg-master/tests/inventory
+-rw-rw-r-- root/root        85 2015-08-16 08:07 ansible-ffmpeg-master/tests/test.yml

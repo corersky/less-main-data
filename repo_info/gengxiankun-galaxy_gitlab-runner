@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-17 02:43 gitlab-runner-master/
+-rw-rw-r-- root/root       413 2019-01-17 02:43 gitlab-runner-master/README.md
+drwxrwxr-x root/root         0 2019-01-17 02:43 gitlab-runner-master/defaults/
+-rw-rw-r-- root/root        37 2019-01-17 02:43 gitlab-runner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-17 02:43 gitlab-runner-master/handlers/
+-rw-rw-r-- root/root        37 2019-01-17 02:43 gitlab-runner-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-17 02:43 gitlab-runner-master/meta/
+-rw-rw-r-- root/root      1973 2019-01-17 02:43 gitlab-runner-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-17 02:43 gitlab-runner-master/tasks/
+-rw-rw-r-- root/root      1167 2019-01-17 02:43 gitlab-runner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-17 02:43 gitlab-runner-master/templates/
+-rw-rw-r-- root/root       255 2019-01-17 02:43 gitlab-runner-master/templates/docker-compose.yaml.j2
+drwxrwxr-x root/root         0 2019-01-17 02:43 gitlab-runner-master/tests/
+-rw-rw-r-- root/root        11 2019-01-17 02:43 gitlab-runner-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-01-17 02:43 gitlab-runner-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-17 02:43 gitlab-runner-master/vars/
+-rw-rw-r-- root/root       246 2019-01-17 02:43 gitlab-runner-master/vars/1.x.yml

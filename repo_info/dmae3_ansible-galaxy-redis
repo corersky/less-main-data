@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-19 01:12 ansible-galaxy-redis-master/
+-rw-rw-r-- root/root       845 2017-10-19 01:12 ansible-galaxy-redis-master/README.md
+drwxrwxr-x root/root         0 2017-10-19 01:12 ansible-galaxy-redis-master/defaults/
+-rw-rw-r-- root/root       257 2017-10-19 01:12 ansible-galaxy-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:12 ansible-galaxy-redis-master/handlers/
+-rw-rw-r-- root/root        94 2017-10-19 01:12 ansible-galaxy-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:12 ansible-galaxy-redis-master/meta/
+-rw-rw-r-- root/root       225 2017-10-19 01:12 ansible-galaxy-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:12 ansible-galaxy-redis-master/tasks/
+-rw-rw-r-- root/root       450 2017-10-19 01:12 ansible-galaxy-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:12 ansible-galaxy-redis-master/templates/
+-rw-rw-r-- root/root      1350 2017-10-19 01:12 ansible-galaxy-redis-master/templates/redis.conf.j2
+drwxrwxr-x root/root         0 2017-10-19 01:12 ansible-galaxy-redis-master/tests/
+-rw-rw-r-- root/root        65 2017-10-19 01:12 ansible-galaxy-redis-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-10-13 01:49 ansible-tor-mon-master/
+-rw-rw-r-- root/root     35147 2018-10-13 01:49 ansible-tor-mon-master/LICENSE
+-rw-rw-r-- root/root       791 2018-10-13 01:49 ansible-tor-mon-master/README.md
+drwxrwxr-x root/root         0 2018-10-13 01:49 ansible-tor-mon-master/defaults/
+-rw-rw-r-- root/root       284 2018-10-13 01:49 ansible-tor-mon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-13 01:49 ansible-tor-mon-master/meta/
+-rw-rw-r-- root/root       369 2018-10-13 01:49 ansible-tor-mon-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-13 01:49 ansible-tor-mon-master/tasks/
+-rw-rw-r-- root/root       568 2018-10-13 01:49 ansible-tor-mon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-13 01:49 ansible-tor-mon-master/templates/
+-rw-rw-r-- root/root       181 2018-10-13 01:49 ansible-tor-mon-master/templates/theonionbox.cfg.j2
+-rw-rw-r-- root/root       615 2018-10-13 01:49 ansible-tor-mon-master/templates/theonionbox.service.j2

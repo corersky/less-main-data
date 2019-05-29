@@ -1,0 +1,8 @@
+drwxrwxr-x root/root         0 2017-02-12 20:30 ansible-role-repo-epel-master/
+-rw-rw-r-- root/root       592 2017-02-12 20:30 ansible-role-repo-epel-master/.yamllint
+-rw-rw-r-- root/root       509 2017-02-12 20:30 ansible-role-repo-epel-master/README.md
+drwxrwxr-x root/root         0 2017-02-12 20:30 ansible-role-repo-epel-master/meta/
+-rw-rw-r-- root/root       407 2017-02-12 20:30 ansible-role-repo-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-12 20:30 ansible-role-repo-epel-master/tasks/
+-rw-rw-r-- root/root       271 2017-02-12 20:30 ansible-role-repo-epel-master/tasks/install_RedHat.yml
+-rw-rw-r-- root/root        76 2017-02-12 20:30 ansible-role-repo-epel-master/tasks/main.yml

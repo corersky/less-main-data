@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-07-19 07:53 ansible-role-user-master/
+-rw-rw-r-- root/root      1032 2016-07-19 07:53 ansible-role-user-master/.travis.yml
+-rw-rw-r-- root/root      1071 2016-07-19 07:53 ansible-role-user-master/LICENSE
+-rw-rw-r-- root/root      5046 2016-07-19 07:53 ansible-role-user-master/README.md
+drwxrwxr-x root/root         0 2016-07-19 07:53 ansible-role-user-master/defaults/
+-rw-rw-r-- root/root       646 2016-07-19 07:53 ansible-role-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:53 ansible-role-user-master/meta/
+-rw-rw-r-- root/root       367 2016-07-19 07:53 ansible-role-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:53 ansible-role-user-master/tasks/
+-rw-rw-r-- root/root      1614 2016-07-19 07:53 ansible-role-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:53 ansible-role-user-master/tests/
+-rw-rw-r-- root/root        10 2016-07-19 07:53 ansible-role-user-master/tests/inventory
+-rw-rw-r-- root/root       120 2016-07-19 07:53 ansible-role-user-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-03-13 08:01 xen-setup-master/
+-rw-rw-r-- root/root     20133 2019-03-13 08:01 xen-setup-master/LICENSE
+-rw-rw-r-- root/root      1306 2019-03-13 08:01 xen-setup-master/README.md
+drwxrwxr-x root/root         0 2019-03-13 08:01 xen-setup-master/defaults/
+-rw-rw-r-- root/root        82 2019-03-13 08:01 xen-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-13 08:01 xen-setup-master/meta/
+-rw-rw-r-- root/root       447 2019-03-13 08:01 xen-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-13 08:01 xen-setup-master/tasks/
+-rw-rw-r-- root/root       648 2019-03-13 08:01 xen-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-13 08:01 xen-setup-master/templates/
+-rw-rw-r-- root/root       200 2019-03-13 08:01 xen-setup-master/templates/xen.cfg.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2013-12-20 17:33 ansible-play2-master/
+-rw-rw-r-- root/root        10 2013-12-20 17:33 ansible-play2-master/.gitignore
+-rw-rw-r-- root/root        96 2013-12-20 17:33 ansible-play2-master/README.md
+drwxrwxr-x root/root         0 2013-12-20 17:33 ansible-play2-master/defaults/
+-rw-rw-r-- root/root        30 2013-12-20 17:33 ansible-play2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2013-12-20 17:33 ansible-play2-master/files/
+-rw-rw-r-- root/root        27 2013-12-20 17:33 ansible-play2-master/files/main.yml
+drwxrwxr-x root/root         0 2013-12-20 17:33 ansible-play2-master/handlers/
+-rw-rw-r-- root/root        30 2013-12-20 17:33 ansible-play2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2013-12-20 17:33 ansible-play2-master/meta/
+-rw-rw-r-- root/root       305 2013-12-20 17:33 ansible-play2-master/meta/main.yml
+drwxrwxr-x root/root         0 2013-12-20 17:33 ansible-play2-master/tasks/
+-rw-rw-r-- root/root       731 2013-12-20 17:33 ansible-play2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2013-12-20 17:33 ansible-play2-master/templates/
+-rw-rw-r-- root/root       982 2013-12-20 17:33 ansible-play2-master/templates/play.init.d.j2
+drwxrwxr-x root/root         0 2013-12-20 17:33 ansible-play2-master/vars/
+-rw-rw-r-- root/root       136 2013-12-20 17:33 ansible-play2-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-16 09:20 ansible-role-iptables-master/
+-rw-rw-r-- root/root       482 2017-03-16 09:20 ansible-role-iptables-master/.travis.yml
+-rw-rw-r-- root/root     18047 2017-03-16 09:20 ansible-role-iptables-master/LICENSE
+-rw-rw-r-- root/root      1629 2017-03-16 09:20 ansible-role-iptables-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 09:20 ansible-role-iptables-master/defaults/
+-rw-rw-r-- root/root       219 2017-03-16 09:20 ansible-role-iptables-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-16 09:20 ansible-role-iptables-master/meta/
+-rw-rw-r-- root/root       271 2017-03-16 09:20 ansible-role-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 09:20 ansible-role-iptables-master/tasks/
+-rw-rw-r-- root/root       978 2017-03-16 09:20 ansible-role-iptables-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-16 09:20 ansible-role-iptables-master/tests/
+-rw-rw-r-- root/root        29 2017-03-16 09:20 ansible-role-iptables-master/tests/ansible.cfg
+-rw-rw-r-- root/root         9 2017-03-16 09:20 ansible-role-iptables-master/tests/inventory
+-rwxrwxr-x root/root        56 2017-03-16 09:20 ansible-role-iptables-master/tests/run_tests.sh
+-rw-rw-r-- root/root      1000 2017-03-16 09:20 ansible-role-iptables-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-04-27 13:08 ansible-role-digitalocean-master/
+-rw-rw-r-- root/root       539 2016-04-27 13:08 ansible-role-digitalocean-master/.travis.yml
+-rw-rw-r-- root/root      1319 2016-04-27 13:08 ansible-role-digitalocean-master/LICENSE
+-rw-rw-r-- root/root      1859 2016-04-27 13:08 ansible-role-digitalocean-master/README.md
+drwxrwxr-x root/root         0 2016-04-27 13:08 ansible-role-digitalocean-master/defaults/
+-rw-rw-r-- root/root       245 2016-04-27 13:08 ansible-role-digitalocean-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-27 13:08 ansible-role-digitalocean-master/meta/
+-rw-rw-r-- root/root      1479 2016-04-27 13:08 ansible-role-digitalocean-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-27 13:08 ansible-role-digitalocean-master/tasks/
+-rw-rw-r-- root/root       558 2016-04-27 13:08 ansible-role-digitalocean-master/tasks/dependencies.yml
+-rw-rw-r-- root/root       194 2016-04-27 13:08 ansible-role-digitalocean-master/tasks/domain.yml
+-rw-rw-r-- root/root       510 2016-04-27 13:08 ansible-role-digitalocean-master/tasks/droplets.yml
+-rw-rw-r-- root/root       399 2016-04-27 13:08 ansible-role-digitalocean-master/tasks/main.yml
+-rw-rw-r-- root/root       222 2016-04-27 13:08 ansible-role-digitalocean-master/tasks/ssh.yml
+drwxrwxr-x root/root         0 2016-04-27 13:08 ansible-role-digitalocean-master/tests/
+-rw-rw-r-- root/root         9 2016-04-27 13:08 ansible-role-digitalocean-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-04-27 13:08 ansible-role-digitalocean-master/tests/test.yml

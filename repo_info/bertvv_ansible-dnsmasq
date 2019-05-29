@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-16 14:39 ansible-dnsmasq-master/
+-rw-rw-r-- root/root       235 2018-08-16 14:39 ansible-dnsmasq-master/.gitignore
+-rw-rw-r-- root/root      1807 2018-08-16 14:39 ansible-dnsmasq-master/.travis.yml
+-rw-rw-r-- root/root      2773 2018-08-16 14:39 ansible-dnsmasq-master/CHANGELOG.md
+-rw-rw-r-- root/root      1334 2018-08-16 14:39 ansible-dnsmasq-master/LICENSE.md
+-rw-rw-r-- root/root      8059 2018-08-16 14:39 ansible-dnsmasq-master/README.md
+drwxrwxr-x root/root         0 2018-08-16 14:39 ansible-dnsmasq-master/defaults/
+-rw-rw-r-- root/root       149 2018-08-16 14:39 ansible-dnsmasq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-16 14:39 ansible-dnsmasq-master/handlers/
+-rw-rw-r-- root/root       189 2018-08-16 14:39 ansible-dnsmasq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-16 14:39 ansible-dnsmasq-master/meta/
+-rw-rw-r-- root/root       464 2018-08-16 14:39 ansible-dnsmasq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-16 14:39 ansible-dnsmasq-master/tasks/
+-rw-rw-r-- root/root       431 2018-08-16 14:39 ansible-dnsmasq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-16 14:39 ansible-dnsmasq-master/templates/
+-rw-rw-r-- root/root      1902 2018-08-16 14:39 ansible-dnsmasq-master/templates/etc_dnsmasq.conf.j2

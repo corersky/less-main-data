@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-05-06 08:26 ansible-coreos-cloudinit-master/
+-rw-rw-r-- root/root      1088 2015-05-06 08:26 ansible-coreos-cloudinit-master/LICENSE.md
+-rw-rw-r-- root/root      2459 2015-05-06 08:26 ansible-coreos-cloudinit-master/README.md
+drwxrwxr-x root/root         0 2015-05-06 08:26 ansible-coreos-cloudinit-master/meta/
+-rw-rw-r-- root/root       239 2015-05-06 08:26 ansible-coreos-cloudinit-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-06 08:26 ansible-coreos-cloudinit-master/tasks/
+-rw-rw-r-- root/root       425 2015-05-06 08:26 ansible-coreos-cloudinit-master/tasks/cloudinit.yml
+-rw-rw-r-- root/root        86 2015-05-06 08:26 ansible-coreos-cloudinit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-06 08:26 ansible-coreos-cloudinit-master/templates/
+-rw-rw-r-- root/root      1194 2015-05-06 08:26 ansible-coreos-cloudinit-master/templates/cloud_config.j2

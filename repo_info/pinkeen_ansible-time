@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-08-28 07:31 ansible-time-master/
+-rw-rw-r-- root/root       168 2017-08-28 07:31 ansible-time-master/README.md
+drwxrwxr-x root/root         0 2017-08-28 07:31 ansible-time-master/defaults/
+-rw-rw-r-- root/root         0 2017-08-28 07:31 ansible-time-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-28 07:31 ansible-time-master/handlers/
+-rw-rw-r-- root/root        57 2017-08-28 07:31 ansible-time-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-28 07:31 ansible-time-master/meta/
+-rw-rw-r-- root/root       262 2017-08-28 07:31 ansible-time-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-28 07:31 ansible-time-master/tasks/
+-rw-rw-r-- root/root       326 2017-08-28 07:31 ansible-time-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-28 07:31 ansible-time-master/templates/
+-rw-rw-r-- root/root      2082 2017-08-28 07:31 ansible-time-master/templates/ntp.conf.j2

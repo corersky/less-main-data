@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-02-04 16:07 ansible-pihole-master/
+-rw-rw-r-- root/root      1073 2017-02-04 16:07 ansible-pihole-master/LICENSE
+-rw-rw-r-- root/root        96 2017-02-04 16:07 ansible-pihole-master/README.md
+drwxrwxr-x root/root         0 2017-02-04 16:07 ansible-pihole-master/defaults/
+-rw-rw-r-- root/root         4 2017-02-04 16:07 ansible-pihole-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-04 16:07 ansible-pihole-master/meta/
+-rw-rw-r-- root/root       268 2017-02-04 16:07 ansible-pihole-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-04 16:07 ansible-pihole-master/tasks/
+-rw-rw-r-- root/root       864 2017-02-04 16:07 ansible-pihole-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-04 16:07 ansible-pihole-master/templates/
+-rw-rw-r-- root/root     43866 2017-02-04 16:07 ansible-pihole-master/templates/basic-install.sh

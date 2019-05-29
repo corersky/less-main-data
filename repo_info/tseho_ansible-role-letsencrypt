@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-29 17:18 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root      1071 2018-11-29 17:18 ansible-role-letsencrypt-master/LICENSE
+-rw-rw-r-- root/root       704 2018-11-29 17:18 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 17:18 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       310 2018-11-29 17:18 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 17:18 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root       249 2018-11-29 17:18 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 17:18 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root      1626 2018-11-29 17:18 ansible-role-letsencrypt-master/tasks/main.yml
+-rw-rw-r-- root/root       218 2018-11-29 17:18 ansible-role-letsencrypt-master/tasks/nginx-cleanup.yml
+-rw-rw-r-- root/root       443 2018-11-29 17:18 ansible-role-letsencrypt-master/tasks/nginx-install.yml
+-rw-rw-r-- root/root       621 2018-11-29 17:18 ansible-role-letsencrypt-master/tasks/status.yml
+drwxrwxr-x root/root         0 2018-11-29 17:18 ansible-role-letsencrypt-master/templates/
+-rw-rw-r-- root/root       374 2018-11-29 17:18 ansible-role-letsencrypt-master/templates/nginx.conf.j2

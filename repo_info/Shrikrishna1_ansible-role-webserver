@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-29 03:01 ansible-role-webserver-master/
+-rw-rw-r-- root/root       521 2018-03-29 03:01 ansible-role-webserver-master/README.md
+drwxrwxr-x root/root         0 2018-03-29 03:01 ansible-role-webserver-master/defaults/
+-rw-rw-r-- root/root        33 2018-03-29 03:01 ansible-role-webserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-29 03:01 ansible-role-webserver-master/handlers/
+-rw-rw-r-- root/root        33 2018-03-29 03:01 ansible-role-webserver-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-29 03:01 ansible-role-webserver-master/meta/
+-rw-rw-r-- root/root      1763 2018-03-29 03:01 ansible-role-webserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-29 03:01 ansible-role-webserver-master/tasks/
+-rw-rw-r-- root/root       117 2018-03-29 03:01 ansible-role-webserver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-29 03:01 ansible-role-webserver-master/tests/
+-rw-rw-r-- root/root        11 2018-03-29 03:01 ansible-role-webserver-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-03-29 03:01 ansible-role-webserver-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-29 03:01 ansible-role-webserver-master/vars/
+-rw-rw-r-- root/root        29 2018-03-29 03:01 ansible-role-webserver-master/vars/main.yml

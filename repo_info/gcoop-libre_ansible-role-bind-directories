@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-12 17:43 ansible-role-bind-directories-master/
+-rw-rw-r-- root/root       539 2017-10-12 17:43 ansible-role-bind-directories-master/.travis.yml
+-rw-rw-r-- root/root     18092 2017-10-12 17:43 ansible-role-bind-directories-master/LICENSE
+-rw-rw-r-- root/root      2667 2017-10-12 17:43 ansible-role-bind-directories-master/README.md
+drwxrwxr-x root/root         0 2017-10-12 17:43 ansible-role-bind-directories-master/defaults/
+-rw-rw-r-- root/root       337 2017-10-12 17:43 ansible-role-bind-directories-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-12 17:43 ansible-role-bind-directories-master/meta/
+-rw-rw-r-- root/root       683 2017-10-12 17:43 ansible-role-bind-directories-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-12 17:43 ansible-role-bind-directories-master/tasks/
+-rw-rw-r-- root/root      2768 2017-10-12 17:43 ansible-role-bind-directories-master/tasks/directory.yml
+-rw-rw-r-- root/root       670 2017-10-12 17:43 ansible-role-bind-directories-master/tasks/main.yml
+-rw-rw-r-- root/root      2076 2017-10-12 17:43 ansible-role-bind-directories-master/tasks/services-list.yml
+-rw-rw-r-- root/root        99 2017-10-12 17:43 ansible-role-bind-directories-master/tasks/services-start.yml
+-rw-rw-r-- root/root        98 2017-10-12 17:43 ansible-role-bind-directories-master/tasks/services-stop.yml
+drwxrwxr-x root/root         0 2017-10-12 17:43 ansible-role-bind-directories-master/tests/
+-rw-rw-r-- root/root         9 2017-10-12 17:43 ansible-role-bind-directories-master/tests/inventory
+-rw-rw-r-- root/root       364 2017-10-12 17:43 ansible-role-bind-directories-master/tests/test.yml

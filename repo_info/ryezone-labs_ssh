@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-21 14:56 ssh-master/
+-rw-rw-r-- root/root       675 2019-05-21 14:56 ssh-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 14:56 ssh-master/defaults/
+-rw-rw-r-- root/root       260 2019-05-21 14:56 ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 14:56 ssh-master/handlers/
+-rw-rw-r-- root/root       108 2019-05-21 14:56 ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-21 14:56 ssh-master/meta/
+-rw-rw-r-- root/root      1955 2019-05-21 14:56 ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 14:56 ssh-master/tasks/
+-rw-rw-r-- root/root       891 2019-05-21 14:56 ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 14:56 ssh-master/templates/
+-rw-rw-r-- root/root      3456 2019-05-21 14:56 ssh-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2019-05-21 14:56 ssh-master/tests/
+-rw-rw-r-- root/root        11 2019-05-21 14:56 ssh-master/tests/inventory
+-rw-rw-r-- root/root        61 2019-05-21 14:56 ssh-master/tests/test.yml

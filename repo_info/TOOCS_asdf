@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-02 10:14 asdf-master/
+-rw-rw-r-- root/root       139 2019-04-02 10:14 asdf-master/.travis.yml
+-rw-rw-r-- root/root      1074 2019-04-02 10:14 asdf-master/LICENSE.md
+-rw-rw-r-- root/root      7194 2019-04-02 10:14 asdf-master/README.md
+drwxrwxr-x root/root         0 2019-04-02 10:14 asdf-master/defaults/
+-rw-rw-r-- root/root        72 2019-04-02 10:14 asdf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-02 10:14 asdf-master/meta/
+-rw-rw-r-- root/root       329 2019-04-02 10:14 asdf-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-02 10:14 asdf-master/tasks/
+-rw-rw-r-- root/root      1439 2019-04-02 10:14 asdf-master/tasks/install-language-elixir.yml
+-rw-rw-r-- root/root      1844 2019-04-02 10:14 asdf-master/tasks/install-language-erlang.yml
+-rw-rw-r-- root/root      3389 2019-04-02 10:14 asdf-master/tasks/install-language-python.yml
+-rw-rw-r-- root/root       611 2019-04-02 10:14 asdf-master/tasks/install-language.yml
+-rw-rw-r-- root/root      1399 2019-04-02 10:14 asdf-master/tasks/main.yml
+-rw-rw-r-- root/root       557 2019-04-02 10:14 asdf-master/tasks/setup-shell.yml

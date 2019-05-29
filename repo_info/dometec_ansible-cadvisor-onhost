@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-09 08:34 ansible-cadvisor-onhost-master/
+-rw-rw-r-- root/root        14 2017-03-09 08:34 ansible-cadvisor-onhost-master/.dockerignore
+-rw-rw-r-- root/root        24 2017-03-09 08:34 ansible-cadvisor-onhost-master/.gitignore
+-rw-rw-r-- root/root      1065 2017-03-09 08:34 ansible-cadvisor-onhost-master/LICENSE
+-rw-rw-r-- root/root        60 2017-03-09 08:34 ansible-cadvisor-onhost-master/README.md
+drwxrwxr-x root/root         0 2017-03-09 08:34 ansible-cadvisor-onhost-master/defaults/
+-rw-rw-r-- root/root       349 2017-03-09 08:34 ansible-cadvisor-onhost-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-09 08:34 ansible-cadvisor-onhost-master/handlers/
+-rw-rw-r-- root/root       112 2017-03-09 08:34 ansible-cadvisor-onhost-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-09 08:34 ansible-cadvisor-onhost-master/meta/
+-rw-rw-r-- root/root       495 2017-03-09 08:34 ansible-cadvisor-onhost-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-09 08:34 ansible-cadvisor-onhost-master/tasks/
+-rw-rw-r-- root/root      1132 2017-03-09 08:34 ansible-cadvisor-onhost-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-09 08:34 ansible-cadvisor-onhost-master/templates/
+-rw-rw-r-- root/root       363 2017-03-09 08:34 ansible-cadvisor-onhost-master/templates/cadvisor.service.j2

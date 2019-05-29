@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-07-28 16:07 ansible-role-kernel-master/
+-rw-rw-r-- root/root      1514 2018-07-28 16:07 ansible-role-kernel-master/LICENSE
+-rw-rw-r-- root/root        40 2018-07-28 16:07 ansible-role-kernel-master/README.md
+drwxrwxr-x root/root         0 2018-07-28 16:07 ansible-role-kernel-master/defaults/
+-rw-rw-r-- root/root        31 2018-07-28 16:07 ansible-role-kernel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:07 ansible-role-kernel-master/meta/
+-rw-rw-r-- root/root       423 2018-07-28 16:07 ansible-role-kernel-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:07 ansible-role-kernel-master/tasks/
+-rw-rw-r-- root/root       931 2018-07-28 16:07 ansible-role-kernel-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2018-07-28 16:07 ansible-role-kernel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:07 ansible-role-kernel-master/vars/
+-rw-rw-r-- root/root        65 2018-07-28 16:07 ansible-role-kernel-master/vars/main.yml

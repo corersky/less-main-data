@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-02-07 00:20 ansible-redis-master/
+-rw-rw-r-- root/root        57 2015-02-07 00:20 ansible-redis-master/.gitignore
+-rw-rw-r-- root/root      1328 2015-02-07 00:20 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2015-02-07 00:20 ansible-redis-master/defaults/
+-rw-rw-r-- root/root        38 2015-02-07 00:20 ansible-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-07 00:20 ansible-redis-master/handlers/
+-rw-rw-r-- root/root        77 2015-02-07 00:20 ansible-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-07 00:20 ansible-redis-master/meta/
+-rw-rw-r-- root/root       222 2015-02-07 00:20 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-07 00:20 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       174 2015-02-07 00:20 ansible-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-07 00:20 ansible-redis-master/vars/
+-rw-rw-r-- root/root        34 2015-02-07 00:20 ansible-redis-master/vars/main.yml

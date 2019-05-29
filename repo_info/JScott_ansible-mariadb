@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-07-20 11:00 ansible-mariadb-master/
+-rw-rw-r-- root/root      1081 2015-07-20 11:00 ansible-mariadb-master/LICENSE
+-rw-rw-r-- root/root      1788 2015-07-20 11:00 ansible-mariadb-master/README.md
+drwxrwxr-x root/root         0 2015-07-20 11:00 ansible-mariadb-master/defaults/
+-rw-rw-r-- root/root       621 2015-07-20 11:00 ansible-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-20 11:00 ansible-mariadb-master/handlers/
+-rw-rw-r-- root/root       109 2015-07-20 11:00 ansible-mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-07-20 11:00 ansible-mariadb-master/meta/
+-rw-rw-r-- root/root       790 2015-07-20 11:00 ansible-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-20 11:00 ansible-mariadb-master/tasks/
+-rw-rw-r-- root/root       591 2015-07-20 11:00 ansible-mariadb-master/tasks/backup.yml
+-rw-rw-r-- root/root       155 2015-07-20 11:00 ansible-mariadb-master/tasks/cleanup.yml
+-rw-rw-r-- root/root      1387 2015-07-20 11:00 ansible-mariadb-master/tasks/configure.yml
+-rw-rw-r-- root/root      1160 2015-07-20 11:00 ansible-mariadb-master/tasks/install.yml
+-rw-rw-r-- root/root      1408 2015-07-20 11:00 ansible-mariadb-master/tasks/logging.yml
+-rw-rw-r-- root/root       206 2015-07-20 11:00 ansible-mariadb-master/tasks/main.yml

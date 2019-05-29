@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-16 09:08 ansible-nohugepages-master/
+-rw-rw-r-- root/root      1065 2017-10-16 09:08 ansible-nohugepages-master/LICENSE
+-rw-rw-r-- root/root       921 2017-10-16 09:08 ansible-nohugepages-master/README.md
+drwxrwxr-x root/root         0 2017-10-16 09:08 ansible-nohugepages-master/defaults/
+-rw-rw-r-- root/root       141 2017-10-16 09:08 ansible-nohugepages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-16 09:08 ansible-nohugepages-master/files/
+-rw-rw-r-- root/root       159 2017-10-16 09:08 ansible-nohugepages-master/files/nohugepages.service
+-rwxrwxr-x root/root       340 2017-10-16 09:08 ansible-nohugepages-master/files/nohugepages.sh
+drwxrwxr-x root/root         0 2017-10-16 09:08 ansible-nohugepages-master/handlers/
+-rw-rw-r-- root/root       174 2017-10-16 09:08 ansible-nohugepages-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-16 09:08 ansible-nohugepages-master/meta/
+-rw-rw-r-- root/root       350 2017-10-16 09:08 ansible-nohugepages-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-16 09:08 ansible-nohugepages-master/tasks/
+-rw-rw-r-- root/root       539 2017-10-16 09:08 ansible-nohugepages-master/tasks/main.yml

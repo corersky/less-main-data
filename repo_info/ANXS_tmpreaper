@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-13 01:29 tmpreaper-master/
+-rw-rw-r-- root/root        83 2017-07-13 01:29 tmpreaper-master/.gitignore
+-rw-rw-r-- root/root       546 2017-07-13 01:29 tmpreaper-master/.travis.yml
+-rw-rw-r-- root/root      1079 2017-07-13 01:29 tmpreaper-master/LICENSE
+-rw-rw-r-- root/root       924 2017-07-13 01:29 tmpreaper-master/README.md
+-rw-rw-r-- root/root       444 2017-07-13 01:29 tmpreaper-master/Vagrantfile
+drwxrwxr-x root/root         0 2017-07-13 01:29 tmpreaper-master/defaults/
+-rw-rw-r-- root/root       281 2017-07-13 01:29 tmpreaper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-13 01:29 tmpreaper-master/meta/
+-rw-rw-r-- root/root       327 2017-07-13 01:29 tmpreaper-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-13 01:29 tmpreaper-master/tasks/
+-rw-rw-r-- root/root       312 2017-07-13 01:29 tmpreaper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-13 01:29 tmpreaper-master/templates/
+-rw-rw-r-- root/root      1778 2017-07-13 01:29 tmpreaper-master/templates/etc_tmpreaper.conf.j2
+-rw-rw-r-- root/root       190 2017-07-13 01:29 tmpreaper-master/test.yml
+-rw-rw-r-- root/root        69 2017-07-13 01:29 tmpreaper-master/vagrant-inventory

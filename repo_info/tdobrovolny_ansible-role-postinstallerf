@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-10 15:41 ansible-role-postinstallerf-master/
+-rw-rw-r-- root/root        21 2016-08-10 15:41 ansible-role-postinstallerf-master/.gitignore
+-rw-rw-r-- root/root       547 2016-08-10 15:41 ansible-role-postinstallerf-master/.travis.yml
+-rw-rw-r-- root/root      1414 2016-08-10 15:41 ansible-role-postinstallerf-master/README.md
+drwxrwxr-x root/root         0 2016-08-10 15:41 ansible-role-postinstallerf-master/meta/
+-rw-rw-r-- root/root      2596 2016-08-10 15:41 ansible-role-postinstallerf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-10 15:41 ansible-role-postinstallerf-master/tasks/
+-rw-rw-r-- root/root      3658 2016-08-10 15:41 ansible-role-postinstallerf-master/tasks/Fedora.yml
+-rw-rw-r-- root/root       501 2016-08-10 15:41 ansible-role-postinstallerf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-10 15:41 ansible-role-postinstallerf-master/tests/
+-rw-rw-r-- root/root         9 2016-08-10 15:41 ansible-role-postinstallerf-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-08-10 15:41 ansible-role-postinstallerf-master/tests/test.yml
+-rw-rw-r-- root/root        86 2016-08-10 15:41 ansible-role-postinstallerf-master/tests/test_travis.yml
+drwxrwxr-x root/root         0 2016-08-10 15:41 ansible-role-postinstallerf-master/vars/
+-rw-rw-r-- root/root       133 2016-08-10 15:41 ansible-role-postinstallerf-master/vars/main.yml

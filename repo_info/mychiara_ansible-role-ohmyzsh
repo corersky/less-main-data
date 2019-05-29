@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-16 05:58 ansible-role-ohmyzsh-master/
+-rw-rw-r-- root/root      1878 2016-03-16 05:58 ansible-role-ohmyzsh-master/README.md
+drwxrwxr-x root/root         0 2016-03-16 05:58 ansible-role-ohmyzsh-master/defaults/
+-rw-rw-r-- root/root       193 2016-03-16 05:58 ansible-role-ohmyzsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-16 05:58 ansible-role-ohmyzsh-master/meta/
+-rw-rw-r-- root/root       372 2016-03-16 05:58 ansible-role-ohmyzsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-16 05:58 ansible-role-ohmyzsh-master/tasks/
+-rw-rw-r-- root/root       193 2016-03-16 05:58 ansible-role-ohmyzsh-master/tasks/install.yml
+-rw-rw-r-- root/root        77 2016-03-16 05:58 ansible-role-ohmyzsh-master/tasks/main.yml
+-rw-rw-r-- root/root       569 2016-03-16 05:58 ansible-role-ohmyzsh-master/tasks/requirements.yml
+-rw-rw-r-- root/root       465 2016-03-16 05:58 ansible-role-ohmyzsh-master/tasks/users.yml
+drwxrwxr-x root/root         0 2016-03-16 05:58 ansible-role-ohmyzsh-master/templates/
+drwxrwxr-x root/root         0 2016-03-16 05:58 ansible-role-ohmyzsh-master/templates/users/
+-rw-rw-r-- root/root      2340 2016-03-16 05:58 ansible-role-ohmyzsh-master/templates/users/_macros.j2
+-rw-rw-r-- root/root      4512 2016-03-16 05:58 ansible-role-ohmyzsh-master/templates/users/base.j2

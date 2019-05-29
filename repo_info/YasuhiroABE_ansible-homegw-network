@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-08 22:25 ansible-homegw-network-master/
+-rw-rw-r-- root/root         3 2017-11-08 22:25 ansible-homegw-network-master/.gitignore
+-rw-rw-r-- root/root       575 2017-11-08 22:25 ansible-homegw-network-master/LICENSE
+-rw-rw-r-- root/root      2563 2017-11-08 22:25 ansible-homegw-network-master/README.md
+drwxrwxr-x root/root         0 2017-11-08 22:25 ansible-homegw-network-master/defaults/
+-rw-rw-r-- root/root       749 2017-11-08 22:25 ansible-homegw-network-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-08 22:25 ansible-homegw-network-master/meta/
+-rw-rw-r-- root/root      1226 2017-11-08 22:25 ansible-homegw-network-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-08 22:25 ansible-homegw-network-master/tasks/
+-rw-rw-r-- root/root      3169 2017-11-08 22:25 ansible-homegw-network-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-08 22:25 ansible-homegw-network-master/templates/
+-rw-rw-r-- root/root       160 2017-11-08 22:25 ansible-homegw-network-master/templates/etc.resolv.conf.j2
+drwxrwxr-x root/root         0 2017-11-08 22:25 ansible-homegw-network-master/tests/
+-rw-rw-r-- root/root        11 2017-11-08 22:25 ansible-homegw-network-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-11-08 22:25 ansible-homegw-network-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-08 22:25 ansible-homegw-network-master/vars/
+-rw-rw-r-- root/root        34 2017-11-08 22:25 ansible-homegw-network-master/vars/main.yml

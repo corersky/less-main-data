@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-10-01 23:03 ansible-role-config-epel-repo-master/
+-rw-rw-r-- root/root       539 2017-10-01 23:03 ansible-role-config-epel-repo-master/.travis.yml
+-rw-rw-r-- root/root       811 2017-10-01 23:03 ansible-role-config-epel-repo-master/README.md
+drwxrwxr-x root/root         0 2017-10-01 23:03 ansible-role-config-epel-repo-master/defaults/
+-rw-rw-r-- root/root         4 2017-10-01 23:03 ansible-role-config-epel-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-01 23:03 ansible-role-config-epel-repo-master/handlers/
+-rw-rw-r-- root/root        53 2017-10-01 23:03 ansible-role-config-epel-repo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-01 23:03 ansible-role-config-epel-repo-master/meta/
+-rw-rw-r-- root/root       314 2017-10-01 23:03 ansible-role-config-epel-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-01 23:03 ansible-role-config-epel-repo-master/tasks/
+-rw-rw-r-- root/root       114 2017-10-01 23:03 ansible-role-config-epel-repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-01 23:03 ansible-role-config-epel-repo-master/tests/
+-rw-rw-r-- root/root        11 2017-10-01 23:03 ansible-role-config-epel-repo-master/tests/inventory
+-rw-rw-r-- root/root        87 2017-10-01 23:03 ansible-role-config-epel-repo-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-01 23:03 ansible-role-config-epel-repo-master/vars/
+-rw-rw-r-- root/root        49 2017-10-01 23:03 ansible-role-config-epel-repo-master/vars/main.yml

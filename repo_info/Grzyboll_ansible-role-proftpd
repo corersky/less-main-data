@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/
+-rw-rw-r-- root/root      2072 2017-09-03 13:21 ansible-role-proftpd-master/README.md
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/defaults/
+-rw-rw-r-- root/root       666 2017-09-03 13:21 ansible-role-proftpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/files/
+-rw-rw-r-- root/root    142656 2017-09-03 13:21 ansible-role-proftpd-master/files/mod_tls.so
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/handlers/
+-rw-rw-r-- root/root       202 2017-09-03 13:21 ansible-role-proftpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/meta/
+-rw-rw-r-- root/root       432 2017-09-03 13:21 ansible-role-proftpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/tasks/
+-rw-rw-r-- root/root        79 2017-09-03 13:21 ansible-role-proftpd-master/tasks/main.yml
+-rw-rw-r-- root/root      2084 2017-09-03 13:21 ansible-role-proftpd-master/tasks/proftpd.yml
+-rw-rw-r-- root/root      1304 2017-09-03 13:21 ansible-role-proftpd-master/tasks/sql.yml
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/templates/
+-rw-rw-r-- root/root      1499 2017-09-03 13:21 ansible-role-proftpd-master/templates/modules.conf.j2
+-rw-rw-r-- root/root      9042 2017-09-03 13:21 ansible-role-proftpd-master/templates/proftpd.conf.j2
+-rw-rw-r-- root/root      2702 2017-09-03 13:21 ansible-role-proftpd-master/templates/sql.conf.j2
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/tests/
+-rw-rw-r-- root/root        24 2017-09-03 13:21 ansible-role-proftpd-master/tests/inventory
+-rw-rw-r-- root/root        97 2017-09-03 13:21 ansible-role-proftpd-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/tests/roles/ansible-role-proftpd -> ../../../ansible-role-proftpd/
+-rw-rw-r-- root/root        11 2017-09-03 13:21 ansible-role-proftpd-master/tests/test.retry
+-rw-rw-r-- root/root        85 2017-09-03 13:21 ansible-role-proftpd-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-03 13:21 ansible-role-proftpd-master/vars/
+-rw-rw-r-- root/root        40 2017-09-03 13:21 ansible-role-proftpd-master/vars/main.yml

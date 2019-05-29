@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-15 03:17 dump-vars-master/
+-rw-rw-r-- root/root       483 2017-12-15 03:17 dump-vars-master/README.md
+drwxrwxr-x root/root         0 2017-12-15 03:17 dump-vars-master/defaults/
+-rw-rw-r-- root/root        59 2017-12-15 03:17 dump-vars-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-15 03:17 dump-vars-master/meta/
+-rw-rw-r-- root/root       503 2017-12-15 03:17 dump-vars-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-15 03:17 dump-vars-master/tasks/
+-rw-rw-r-- root/root       279 2017-12-15 03:17 dump-vars-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-15 03:17 dump-vars-master/templates/
+-rw-rw-r-- root/root       137 2017-12-15 03:17 dump-vars-master/templates/dump_vars.json.j2
+-rw-rw-r-- root/root       147 2017-12-15 03:17 dump-vars-master/templates/dump_vars.yml.j2
+drwxrwxr-x root/root         0 2017-12-15 03:17 dump-vars-master/tests/
+-rw-rw-r-- root/root        11 2017-12-15 03:17 dump-vars-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-12-15 03:17 dump-vars-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-15 03:17 dump-vars-master/vars/
+-rw-rw-r-- root/root        74 2017-12-15 03:17 dump-vars-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-16 15:11 setup-nfs-server-master/
+-rw-rw-r-- root/root     35147 2019-04-16 15:11 setup-nfs-server-master/LICENSE
+-rw-rw-r-- root/root      1328 2019-04-16 15:11 setup-nfs-server-master/README.md
+drwxrwxr-x root/root         0 2019-04-16 15:11 setup-nfs-server-master/defaults/
+-rw-rw-r-- root/root        84 2019-04-16 15:11 setup-nfs-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-16 15:11 setup-nfs-server-master/handlers/
+-rw-rw-r-- root/root        40 2019-04-16 15:11 setup-nfs-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-16 15:11 setup-nfs-server-master/meta/
+-rw-rw-r-- root/root       361 2019-04-16 15:11 setup-nfs-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-16 15:11 setup-nfs-server-master/tasks/
+-rw-rw-r-- root/root      1231 2019-04-16 15:11 setup-nfs-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-16 15:11 setup-nfs-server-master/tests/
+-rw-rw-r-- root/root        11 2019-04-16 15:11 setup-nfs-server-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-04-16 15:11 setup-nfs-server-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-16 15:11 setup-nfs-server-master/vars/
+-rw-rw-r-- root/root        36 2019-04-16 15:11 setup-nfs-server-master/vars/main.yml

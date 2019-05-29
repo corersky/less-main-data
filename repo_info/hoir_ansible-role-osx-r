@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-22 16:53 ansible-role-osx-r-master/
+-rw-rw-r-- root/root       242 2016-06-22 16:53 ansible-role-osx-r-master/.gitignore
+-rw-rw-r-- root/root       166 2016-06-22 16:53 ansible-role-osx-r-master/.travis.yml
+-rw-rw-r-- root/root       798 2016-06-22 16:53 ansible-role-osx-r-master/README.md
+-rw-rw-r-- root/root        57 2016-06-22 16:53 ansible-role-osx-r-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-06-22 16:53 ansible-role-osx-r-master/defaults/
+-rw-rw-r-- root/root       164 2016-06-22 16:53 ansible-role-osx-r-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-22 16:53 ansible-role-osx-r-master/handlers/
+-rw-rw-r-- root/root        30 2016-06-22 16:53 ansible-role-osx-r-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-22 16:53 ansible-role-osx-r-master/meta/
+-rw-rw-r-- root/root       262 2016-06-22 16:53 ansible-role-osx-r-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-22 16:53 ansible-role-osx-r-master/tasks/
+-rw-rw-r-- root/root      1449 2016-06-22 16:53 ansible-role-osx-r-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-22 16:53 ansible-role-osx-r-master/tests/
+-rw-rw-r-- root/root        37 2016-06-22 16:53 ansible-role-osx-r-master/tests/inventory
+-rw-rw-r-- root/root        43 2016-06-22 16:53 ansible-role-osx-r-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-09-04 07:16 ansible-role-lxd-networks-master/
+-rw-rw-r-- root/root         0 2017-09-04 07:16 ansible-role-lxd-networks-master/.gitignore
+-rw-rw-r-- root/root      2526 2017-09-04 07:16 ansible-role-lxd-networks-master/README.md
+drwxrwxr-x root/root         0 2017-09-04 07:16 ansible-role-lxd-networks-master/defaults/
+-rw-rw-r-- root/root        52 2017-09-04 07:16 ansible-role-lxd-networks-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-04 07:16 ansible-role-lxd-networks-master/meta/
+-rw-rw-r-- root/root       313 2017-09-04 07:16 ansible-role-lxd-networks-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-04 07:16 ansible-role-lxd-networks-master/tasks/
+-rw-rw-r-- root/root       851 2017-09-04 07:16 ansible-role-lxd-networks-master/tasks/local.yml
+-rw-rw-r-- root/root      1932 2017-09-04 07:16 ansible-role-lxd-networks-master/tasks/main.yml
+-rw-rw-r-- root/root      1469 2017-09-04 07:16 ansible-role-lxd-networks-master/tasks/vlan.yml
+-rw-rw-r-- root/root      2044 2017-09-04 07:16 ansible-role-lxd-networks-master/tasks/vxlan.yml
+drwxrwxr-x root/root         0 2017-09-04 07:16 ansible-role-lxd-networks-master/templates/
+-rw-rw-r-- root/root        27 2017-09-04 07:16 ansible-role-lxd-networks-master/templates/netconfig.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-11-10 12:51 ansible-import_pgp_public_keys-master/
+-rw-rw-r-- root/root       917 2015-11-10 12:51 ansible-import_pgp_public_keys-master/.travis.yml
+-rw-rw-r-- root/root     34520 2015-11-10 12:51 ansible-import_pgp_public_keys-master/LICENSE
+-rw-rw-r-- root/root      2201 2015-11-10 12:51 ansible-import_pgp_public_keys-master/README.md
+drwxrwxr-x root/root         0 2015-11-10 12:51 ansible-import_pgp_public_keys-master/defaults/
+-rw-rw-r-- root/root       223 2015-11-10 12:51 ansible-import_pgp_public_keys-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-10 12:51 ansible-import_pgp_public_keys-master/meta/
+-rw-rw-r-- root/root       511 2015-11-10 12:51 ansible-import_pgp_public_keys-master/meta/ansigenome.yml
+-rw-rw-r-- root/root       407 2015-11-10 12:51 ansible-import_pgp_public_keys-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-10 12:51 ansible-import_pgp_public_keys-master/tasks/
+-rw-rw-r-- root/root       971 2015-11-10 12:51 ansible-import_pgp_public_keys-master/tasks/import_pgp_key_list.yml
+-rw-rw-r-- root/root       214 2015-11-10 12:51 ansible-import_pgp_public_keys-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-10 12:51 ansible-import_pgp_public_keys-master/tests/
+-rw-rw-r-- root/root        10 2015-11-10 12:51 ansible-import_pgp_public_keys-master/tests/inventory
+-rw-rw-r-- root/root        91 2015-11-10 12:51 ansible-import_pgp_public_keys-master/tests/test.yml

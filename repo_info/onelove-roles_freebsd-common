@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-09 05:43 freebsd-common-master/
+-rw-rw-r-- root/root      1317 2019-05-09 05:43 freebsd-common-master/LICENSE
+-rw-rw-r-- root/root        16 2019-05-09 05:43 freebsd-common-master/README.md
+drwxrwxr-x root/root         0 2019-05-09 05:43 freebsd-common-master/meta/
+-rw-rw-r-- root/root       794 2019-05-09 05:43 freebsd-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-09 05:43 freebsd-common-master/tasks/
+-rw-rw-r-- root/root       784 2019-05-09 05:43 freebsd-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-09 05:43 freebsd-common-master/templates/
+-rw-rw-r-- root/root      1107 2019-05-09 05:43 freebsd-common-master/templates/cshrc.j2
+-rw-rw-r-- root/root       173 2019-05-09 05:43 freebsd-common-master/templates/login_conf.j2
+-rw-rw-r-- root/root        23 2019-05-09 05:43 freebsd-common-master/templates/sendmail.j2
+drwxrwxr-x root/root         0 2019-05-09 05:43 freebsd-common-master/vars/
+-rw-rw-r-- root/root        43 2019-05-09 05:43 freebsd-common-master/vars/main.yml

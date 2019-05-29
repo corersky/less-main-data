@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-12-20 17:11 ansible-role-pypy-master/
+-rw-rw-r-- root/root       644 2015-12-20 17:11 ansible-role-pypy-master/README.md
+drwxrwxr-x root/root         0 2015-12-20 17:11 ansible-role-pypy-master/defaults/
+-rw-rw-r-- root/root        36 2015-12-20 17:11 ansible-role-pypy-master/defaults/main.yml
+-rw-rw-r-- root/root        43 2015-12-20 17:11 ansible-role-pypy-master/devel
+drwxrwxr-x root/root         0 2015-12-20 17:11 ansible-role-pypy-master/handlers/
+-rw-rw-r-- root/root        29 2015-12-20 17:11 ansible-role-pypy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-20 17:11 ansible-role-pypy-master/meta/
+-rw-rw-r-- root/root       212 2015-12-20 17:11 ansible-role-pypy-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-20 17:11 ansible-role-pypy-master/tasks/
+-rw-rw-r-- root/root       488 2015-12-20 17:11 ansible-role-pypy-master/tasks/main.yml
+-rw-rw-r-- root/root        36 2015-12-20 17:11 ansible-role-pypy-master/test.yml
+drwxrwxr-x root/root         0 2015-12-20 17:11 ansible-role-pypy-master/vars/
+-rw-rw-r-- root/root        25 2015-12-20 17:11 ansible-role-pypy-master/vars/main.yml

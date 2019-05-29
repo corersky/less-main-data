@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-13 16:03 ansible-win-users-master/
+-rw-rw-r-- root/root       539 2019-05-13 16:03 ansible-win-users-master/.travis.yml
+-rw-rw-r-- root/root      1328 2019-05-13 16:03 ansible-win-users-master/README.md
+drwxrwxr-x root/root         0 2019-05-13 16:03 ansible-win-users-master/defaults/
+-rw-rw-r-- root/root        62 2019-05-13 16:03 ansible-win-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-13 16:03 ansible-win-users-master/handlers/
+-rw-rw-r-- root/root        62 2019-05-13 16:03 ansible-win-users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-13 16:03 ansible-win-users-master/meta/
+-rw-rw-r-- root/root      1632 2019-05-13 16:03 ansible-win-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-13 16:03 ansible-win-users-master/tasks/
+-rw-rw-r-- root/root        59 2019-05-13 16:03 ansible-win-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-13 16:03 ansible-win-users-master/tests/
+-rw-rw-r-- root/root        11 2019-05-13 16:03 ansible-win-users-master/tests/inventory
+-rw-rw-r-- root/root        96 2019-05-13 16:03 ansible-win-users-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-13 16:03 ansible-win-users-master/vars/
+-rw-rw-r-- root/root        58 2019-05-13 16:03 ansible-win-users-master/vars/main.yml

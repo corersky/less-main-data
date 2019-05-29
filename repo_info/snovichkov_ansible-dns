@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-09 17:27 ansible-dns-master/
+-rw-rw-r-- root/root        17 2016-10-09 17:27 ansible-dns-master/.gitignore
+-rw-rw-r-- root/root       539 2016-10-09 17:27 ansible-dns-master/.travis.yml
+-rw-rw-r-- root/root      1483 2016-10-09 17:27 ansible-dns-master/LICENSE
+-rw-rw-r-- root/root       826 2016-10-09 17:27 ansible-dns-master/README.md
+drwxrwxr-x root/root         0 2016-10-09 17:27 ansible-dns-master/defaults/
+-rw-rw-r-- root/root       196 2016-10-09 17:27 ansible-dns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-09 17:27 ansible-dns-master/meta/
+-rw-rw-r-- root/root       316 2016-10-09 17:27 ansible-dns-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-09 17:27 ansible-dns-master/tasks/
+-rw-rw-r-- root/root       262 2016-10-09 17:27 ansible-dns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-09 17:27 ansible-dns-master/templates/
+-rw-rw-r-- root/root       539 2016-10-09 17:27 ansible-dns-master/templates/resolv.conf.j2
+drwxrwxr-x root/root         0 2016-10-09 17:27 ansible-dns-master/tests/
+-rw-rw-r-- root/root        10 2016-10-09 17:27 ansible-dns-master/tests/inventory
+-rw-rw-r-- root/root       435 2016-10-09 17:27 ansible-dns-master/tests/test.yml

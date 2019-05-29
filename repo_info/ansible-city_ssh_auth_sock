@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2016-04-04 17:15 ssh_auth_sock-master/
+-rw-rw-r-- root/root       148 2016-04-04 17:15 ssh_auth_sock-master/.editorconfig
+-rw-rw-r-- root/root        37 2016-04-04 17:15 ssh_auth_sock-master/.gitignore
+-rw-rw-r-- root/root      1282 2016-04-04 17:15 ssh_auth_sock-master/.travis.yml
+-rw-rw-r-- root/root      1087 2016-04-04 17:15 ssh_auth_sock-master/LICENSE
+-rw-rw-r-- root/root      1310 2016-04-04 17:15 ssh_auth_sock-master/Makefile
+-rw-rw-r-- root/root      1122 2016-04-04 17:15 ssh_auth_sock-master/README.md
+drwxrwxr-x root/root         0 2016-04-04 17:15 ssh_auth_sock-master/defaults/
+-rw-rw-r-- root/root        35 2016-04-04 17:15 ssh_auth_sock-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-04 17:15 ssh_auth_sock-master/meta/
+-rw-rw-r-- root/root       320 2016-04-04 17:15 ssh_auth_sock-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-04 17:15 ssh_auth_sock-master/tasks/
+-rw-rw-r-- root/root       630 2016-04-04 17:15 ssh_auth_sock-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-04 17:15 ssh_auth_sock-master/tests/
+-rw-rw-r-- root/root        67 2016-04-04 17:15 ssh_auth_sock-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2016-04-04 17:15 ssh_auth_sock-master/tests/inventory
+-rw-rw-r-- root/root        58 2016-04-04 17:15 ssh_auth_sock-master/tests/local_requirements.yml
+-rw-rw-r-- root/root      1048 2016-04-04 17:15 ssh_auth_sock-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-04-04 17:15 ssh_auth_sock-master/tests/vagrant/
+-rw-rw-r-- root/root       990 2016-04-04 17:15 ssh_auth_sock-master/tests/vagrant/Vagrantfile
+lrwxrwxrwx root/root         0 2016-04-04 17:15 ssh_auth_sock-master/tests/vagrant/ansible.cfg -> ../ansible.cfg

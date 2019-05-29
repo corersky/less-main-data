@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-05-13 20:55 ansible-role-hdhomerun-master/
+-rw-rw-r-- root/root       370 2015-05-13 20:55 ansible-role-hdhomerun-master/CHANGELOG.md
+-rw-rw-r-- root/root       609 2015-05-13 20:55 ansible-role-hdhomerun-master/README.md
+drwxrwxr-x root/root         0 2015-05-13 20:55 ansible-role-hdhomerun-master/defaults/
+-rw-rw-r-- root/root       107 2015-05-13 20:55 ansible-role-hdhomerun-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-13 20:55 ansible-role-hdhomerun-master/meta/
+-rw-rw-r-- root/root       274 2015-05-13 20:55 ansible-role-hdhomerun-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-13 20:55 ansible-role-hdhomerun-master/tasks/
+-rw-rw-r-- root/root       495 2015-05-13 20:55 ansible-role-hdhomerun-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-13 20:55 ansible-role-hdhomerun-master/tests/
+-rw-rw-r-- root/root         9 2015-05-13 20:55 ansible-role-hdhomerun-master/tests/inventory
+-rw-rw-r-- root/root        98 2015-05-13 20:55 ansible-role-hdhomerun-master/tests/test.yml

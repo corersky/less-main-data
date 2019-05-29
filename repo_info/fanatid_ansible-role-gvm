@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-30 09:05 ansible-role-gvm-master/
+-rw-rw-r-- root/root       457 2017-01-30 09:05 ansible-role-gvm-master/.travis.yml
+-rw-rw-r-- root/root      1096 2017-01-30 09:05 ansible-role-gvm-master/LICENSE
+-rw-rw-r-- root/root       745 2017-01-30 09:05 ansible-role-gvm-master/README.md
+drwxrwxr-x root/root         0 2017-01-30 09:05 ansible-role-gvm-master/defaults/
+-rw-rw-r-- root/root        78 2017-01-30 09:05 ansible-role-gvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-30 09:05 ansible-role-gvm-master/meta/
+-rw-rw-r-- root/root       221 2017-01-30 09:05 ansible-role-gvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-30 09:05 ansible-role-gvm-master/tasks/
+-rw-rw-r-- root/root      1632 2017-01-30 09:05 ansible-role-gvm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-30 09:05 ansible-role-gvm-master/tests/
+-rw-rw-r-- root/root        57 2017-01-30 09:05 ansible-role-gvm-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2017-01-30 09:05 ansible-role-gvm-master/tests/inventory-local
+-rw-rw-r-- root/root       161 2017-01-30 09:05 ansible-role-gvm-master/tests/test.yml

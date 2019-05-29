@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-09-30 13:12 ansible_role_ansible-container-master/
+-rw-rw-r-- root/root       429 2017-09-30 13:12 ansible_role_ansible-container-master/.travis.yml
+-rw-rw-r-- root/root       969 2017-09-30 13:12 ansible_role_ansible-container-master/README.md
+drwxrwxr-x root/root         0 2017-09-30 13:12 ansible_role_ansible-container-master/defaults/
+-rw-rw-r-- root/root        87 2017-09-30 13:12 ansible_role_ansible-container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-30 13:12 ansible_role_ansible-container-master/meta/
+-rw-rw-r-- root/root       303 2017-09-30 13:12 ansible_role_ansible-container-master/meta/main.yml
+-rw-rw-r-- root/root        35 2017-09-30 13:12 ansible_role_ansible-container-master/requirements.yml
+drwxrwxr-x root/root         0 2017-09-30 13:12 ansible_role_ansible-container-master/tasks/
+-rw-rw-r-- root/root       450 2017-09-30 13:12 ansible_role_ansible-container-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-30 13:12 ansible_role_ansible-container-master/tests/
+-rw-rw-r-- root/root        11 2017-09-30 13:12 ansible_role_ansible-container-master/tests/inventory
+-rw-rw-r-- root/root       144 2017-09-30 13:12 ansible_role_ansible-container-master/tests/test.yml

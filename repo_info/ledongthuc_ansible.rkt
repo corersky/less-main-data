@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-15 09:24 ansible.rkt-master/
+-rw-rw-r-- root/root       539 2016-08-15 09:24 ansible.rkt-master/.travis.yml
+-rw-rw-r-- root/root      1074 2016-08-15 09:24 ansible.rkt-master/LICENSE
+-rw-rw-r-- root/root       639 2016-08-15 09:24 ansible.rkt-master/README.md
+drwxrwxr-x root/root         0 2016-08-15 09:24 ansible.rkt-master/defaults/
+-rw-rw-r-- root/root        25 2016-08-15 09:24 ansible.rkt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-15 09:24 ansible.rkt-master/handlers/
+-rw-rw-r-- root/root         4 2016-08-15 09:24 ansible.rkt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-15 09:24 ansible.rkt-master/meta/
+-rw-rw-r-- root/root       469 2016-08-15 09:24 ansible.rkt-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-15 09:24 ansible.rkt-master/tasks/
+-rw-rw-r-- root/root       290 2016-08-15 09:24 ansible.rkt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-15 09:24 ansible.rkt-master/tests/
+-rw-rw-r-- root/root         9 2016-08-15 09:24 ansible.rkt-master/tests/inventory
+-rw-rw-r-- root/root        49 2016-08-15 09:24 ansible.rkt-master/tests/test.yml

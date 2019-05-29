@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-21 09:40 ansible-role-usacloud-master/
+-rw-rw-r-- root/root       427 2017-11-21 09:40 ansible-role-usacloud-master/.gitignore
+-rw-rw-r-- root/root       157 2017-11-21 09:40 ansible-role-usacloud-master/.rubocop.yml
+-rw-rw-r-- root/root        90 2017-11-21 09:40 ansible-role-usacloud-master/Gemfile
+-rw-rw-r-- root/root      1061 2017-11-21 09:40 ansible-role-usacloud-master/LICENSE
+-rw-rw-r-- root/root       188 2017-11-21 09:40 ansible-role-usacloud-master/README.md
+drwxrwxr-x root/root         0 2017-11-21 09:40 ansible-role-usacloud-master/meta/
+-rw-rw-r-- root/root       368 2017-11-21 09:40 ansible-role-usacloud-master/meta/main.yml
+-rw-rw-r-- root/root       570 2017-11-21 09:40 ansible-role-usacloud-master/molecule.yml
+-rw-rw-r-- root/root        47 2017-11-21 09:40 ansible-role-usacloud-master/playbook.yml
+drwxrwxr-x root/root         0 2017-11-21 09:40 ansible-role-usacloud-master/spec/
+-rw-rw-r-- root/root       344 2017-11-21 09:40 ansible-role-usacloud-master/spec/default_spec.rb
+-rw-rw-r-- root/root       468 2017-11-21 09:40 ansible-role-usacloud-master/spec/spec_helper.rb
+drwxrwxr-x root/root         0 2017-11-21 09:40 ansible-role-usacloud-master/tasks/
+-rw-rw-r-- root/root      1236 2017-11-21 09:40 ansible-role-usacloud-master/tasks/main.yml

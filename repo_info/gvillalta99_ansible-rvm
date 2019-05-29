@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-05-13 14:48 ansible-rvm-master/
+-rw-rw-r-- root/root        44 2015-05-13 14:48 ansible-rvm-master/.gitignore
+-rw-rw-r-- root/root      1449 2015-05-13 14:48 ansible-rvm-master/.travis.yml
+-rw-rw-r-- root/root      1105 2015-05-13 14:48 ansible-rvm-master/LICENSE
+-rw-rw-r-- root/root       627 2015-05-13 14:48 ansible-rvm-master/README.md
+drwxrwxr-x root/root         0 2015-05-13 14:48 ansible-rvm-master/defaults/
+-rw-rw-r-- root/root       843 2015-05-13 14:48 ansible-rvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-13 14:48 ansible-rvm-master/meta/
+-rw-rw-r-- root/root       374 2015-05-13 14:48 ansible-rvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-13 14:48 ansible-rvm-master/tasks/
+-rw-rw-r-- root/root        49 2015-05-13 14:48 ansible-rvm-master/tasks/main.yml
+-rw-rw-r-- root/root      1990 2015-05-13 14:48 ansible-rvm-master/tasks/rubies.yml
+-rw-rw-r-- root/root      1618 2015-05-13 14:48 ansible-rvm-master/tasks/rvm.yml
+drwxrwxr-x root/root         0 2015-05-13 14:48 ansible-rvm-master/tests/
+-rw-rw-r-- root/root         9 2015-05-13 14:48 ansible-rvm-master/tests/inventory
+-rw-rw-r-- root/root       256 2015-05-13 14:48 ansible-rvm-master/tests/test.yml

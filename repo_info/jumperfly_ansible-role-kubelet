@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-17 15:41 ansible-role-kubelet-master/
+-rw-rw-r-- root/root       106 2018-12-17 15:41 ansible-role-kubelet-master/.gitignore
+-rw-rw-r-- root/root      1145 2018-12-17 15:41 ansible-role-kubelet-master/README.md
+-rw-rw-r-- root/root       771 2018-12-17 15:41 ansible-role-kubelet-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-12-17 15:41 ansible-role-kubelet-master/defaults/
+-rw-rw-r-- root/root       544 2018-12-17 15:41 ansible-role-kubelet-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 15:41 ansible-role-kubelet-master/meta/
+-rw-rw-r-- root/root       322 2018-12-17 15:41 ansible-role-kubelet-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 15:41 ansible-role-kubelet-master/tasks/
+-rw-rw-r-- root/root       893 2018-12-17 15:41 ansible-role-kubelet-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-17 15:41 ansible-role-kubelet-master/templates/
+-rw-rw-r-- root/root        67 2018-12-17 15:41 ansible-role-kubelet-master/templates/kubelet-override.conf.j2
+drwxrwxr-x root/root         0 2018-12-17 15:41 ansible-role-kubelet-master/tests/
+-rw-rw-r-- root/root        42 2018-12-17 15:41 ansible-role-kubelet-master/tests/requirements.yml
+-rw-rw-r-- root/root        58 2018-12-17 15:41 ansible-role-kubelet-master/tests/test.yml

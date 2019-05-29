@@ -1,0 +1,72 @@
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/
+-rw-rw-r-- root/root       125 2016-07-13 07:18 ansible-role-sudo-master/.gitignore
+-rw-rw-r-- root/root       559 2016-07-13 07:18 ansible-role-sudo-master/.travis.yml
+-rw-rw-r-- root/root      1352 2016-07-13 07:18 ansible-role-sudo-master/CHANGELOG.md
+-rw-rw-r-- root/root      1537 2016-07-13 07:18 ansible-role-sudo-master/COPYRIGHT
+-rw-rw-r-- root/root      5842 2016-07-13 07:18 ansible-role-sudo-master/README.md
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/defaults/
+-rw-rw-r-- root/root      4168 2016-07-13 07:18 ansible-role-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/meta/
+-rw-rw-r-- root/root       510 2016-07-13 07:18 ansible-role-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tasks/
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tasks/configure/
+-rw-rw-r-- root/root      1202 2016-07-13 07:18 ansible-role-sudo-master/tasks/configure/main.yml
+-rw-rw-r-- root/root       662 2016-07-13 07:18 ansible-role-sudo-master/tasks/configure/purge_unmanaged_specs.yml
+-rw-rw-r-- root/root      1108 2016-07-13 07:18 ansible-role-sudo-master/tasks/configure/rename_unmanaged_specs.yml
+-rw-rw-r-- root/root       273 2016-07-13 07:18 ansible-role-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tasks/setup/
+-rw-rw-r-- root/root       472 2016-07-13 07:18 ansible-role-sudo-master/tasks/setup/main.yml
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tasks/setup/os/
+-rw-rw-r-- root/root       231 2016-07-13 07:18 ansible-role-sudo-master/tasks/setup/os/Debian.yml
+-rw-rw-r-- root/root       345 2016-07-13 07:18 ansible-role-sudo-master/tasks/setup/os/RedHat.yml
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/templates/
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/templates/etc/
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/templates/etc/sudoers.d/
+-rw-rw-r-- root/root      5231 2016-07-13 07:18 ansible-role-sudo-master/templates/etc/sudoers.d/specs.j2
+-rw-rw-r-- root/root      1882 2016-07-13 07:18 ansible-role-sudo-master/templates/etc/sudoers.j2
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/
+-rw-rw-r-- root/root      1082 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/Makefile
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/ansible.cfg -> ../ansible.cfg
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/acceptance/
+-rw-rw-r-- root/root        66 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/acceptance/s1_defaults_not_disabled
+-rw-rw-r-- root/root       601 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/acceptance/s1_defaults_standalone
+-rw-rw-r-- root/root       251 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/acceptance/s1_specs_and_defaults
+-rw-rw-r-- root/root        63 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/acceptance/s1_specs_example_playbook
+-rw-rw-r-- root/root       169 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/acceptance/s1_specs_multivalue
+-rw-rw-r-- root/root       168 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/acceptance/s1_specs_simple
+-rw-rw-r-- root/root      1063 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/acceptance/s1_sudoers
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/sudoers.d/
+-rw-rw-r-- root/root        38 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/files/sudoers.d/sample_specs
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/inventory -> ../inventory
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/roles -> ../roles/
+-rw-rw-r-- root/root     11501 2016-07-13 07:18 ansible-role-sudo-master/tests/01_basic/test.yml
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/
+-rw-rw-r-- root/root      1082 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/Makefile
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/ansible.cfg -> ../ansible.cfg
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/files/
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/files/sudoers.d/
+-rw-rw-r-- root/root        38 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/files/sudoers.d/sample_specs
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/inventory -> ../inventory
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/roles -> ../roles/
+-rw-rw-r-- root/root      2088 2016-07-13 07:18 ansible-role-sudo-master/tests/02_purge_unmanaged_specs/test.yml
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/
+-rw-rw-r-- root/root      1083 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/Makefile
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/ansible.cfg -> ../ansible.cfg
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/files/
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/files/sudoers.d/
+-rw-rw-r-- root/root        38 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/files/sudoers.d/sample_specs
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/inventory -> ../inventory
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/roles -> ../roles/
+-rw-rw-r-- root/root      3094 2016-07-13 07:18 ansible-role-sudo-master/tests/03_rename_unmanaged_specs/test.yml
+-rw-rw-r-- root/root       248 2016-07-13 07:18 ansible-role-sudo-master/tests/Makefile
+-rw-rw-r-- root/root       280 2016-07-13 07:18 ansible-role-sudo-master/tests/ansible.cfg
+-rw-rw-r-- root/root        35 2016-07-13 07:18 ansible-role-sudo-master/tests/inventory
+-rw-rw-r-- root/root        43 2016-07-13 07:18 ansible-role-sudo-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-07-13 07:18 ansible-role-sudo-master/tests/roles/tomashavlas.sudo -> ../../
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/vars/
+drwxrwxr-x root/root         0 2016-07-13 07:18 ansible-role-sudo-master/vars/os/
+-rw-rw-r-- root/root       171 2016-07-13 07:18 ansible-role-sudo-master/vars/os/Debian.yml
+-rw-rw-r-- root/root       171 2016-07-13 07:18 ansible-role-sudo-master/vars/os/RedHat.yml

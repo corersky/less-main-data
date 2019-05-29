@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-29 06:29 ansible-role-ansible-master/
+-rw-rw-r-- root/root       695 2019-01-29 06:29 ansible-role-ansible-master/.travis.yml
+-rw-rw-r-- root/root     35141 2019-01-29 06:29 ansible-role-ansible-master/LICENSE
+-rw-rw-r-- root/root       872 2019-01-29 06:29 ansible-role-ansible-master/README.md
+-rw-rw-r-- root/root       568 2019-01-29 06:29 ansible-role-ansible-master/galaxy-yamllint.yaml
+drwxrwxr-x root/root         0 2019-01-29 06:29 ansible-role-ansible-master/meta/
+-rw-rw-r-- root/root       276 2019-01-29 06:29 ansible-role-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-29 06:29 ansible-role-ansible-master/tasks/
+-rw-rw-r-- root/root       382 2019-01-29 06:29 ansible-role-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-29 06:29 ansible-role-ansible-master/tests/
+-rw-rw-r-- root/root        29 2019-01-29 06:29 ansible-role-ansible-master/tests/ansible.cfg
+-rw-rw-r-- root/root        20 2019-01-29 06:29 ansible-role-ansible-master/tests/inventory
+-rwxrwxr-x root/root        63 2019-01-29 06:29 ansible-role-ansible-master/tests/run_tests.sh
+-rw-rw-r-- root/root       113 2019-01-29 06:29 ansible-role-ansible-master/tests/test.yml

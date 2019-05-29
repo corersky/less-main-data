@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-08 17:59 ansible-role-cockpit-master/
+-rw-rw-r-- root/root       539 2017-01-08 17:59 ansible-role-cockpit-master/.travis.yml
+-rw-rw-r-- root/root       307 2017-01-08 17:59 ansible-role-cockpit-master/README.md
+drwxrwxr-x root/root         0 2017-01-08 17:59 ansible-role-cockpit-master/defaults/
+-rw-rw-r-- root/root        45 2017-01-08 17:59 ansible-role-cockpit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-08 17:59 ansible-role-cockpit-master/handlers/
+-rw-rw-r-- root/root        45 2017-01-08 17:59 ansible-role-cockpit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-08 17:59 ansible-role-cockpit-master/meta/
+-rw-rw-r-- root/root       330 2017-01-08 17:59 ansible-role-cockpit-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-08 17:59 ansible-role-cockpit-master/tasks/
+-rw-rw-r-- root/root       494 2017-01-08 17:59 ansible-role-cockpit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-08 17:59 ansible-role-cockpit-master/tests/
+-rw-rw-r-- root/root         9 2017-01-08 17:59 ansible-role-cockpit-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-01-08 17:59 ansible-role-cockpit-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-08 17:59 ansible-role-cockpit-master/vars/
+-rw-rw-r-- root/root        41 2017-01-08 17:59 ansible-role-cockpit-master/vars/main.yml

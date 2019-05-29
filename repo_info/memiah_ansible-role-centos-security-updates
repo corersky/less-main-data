@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-21 10:29 ansible-role-centos-security-updates-master/
+-rw-rw-r-- root/root         6 2019-05-21 10:29 ansible-role-centos-security-updates-master/.gitignore
+-rw-rw-r-- root/root       624 2019-05-21 10:29 ansible-role-centos-security-updates-master/.travis.yml
+-rw-rw-r-- root/root      1966 2019-05-21 10:29 ansible-role-centos-security-updates-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 10:29 ansible-role-centos-security-updates-master/defaults/
+-rw-rw-r-- root/root       418 2019-05-21 10:29 ansible-role-centos-security-updates-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 10:29 ansible-role-centos-security-updates-master/meta/
+-rw-rw-r-- root/root       382 2019-05-21 10:29 ansible-role-centos-security-updates-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 10:29 ansible-role-centos-security-updates-master/tasks/
+-rw-rw-r-- root/root       784 2019-05-21 10:29 ansible-role-centos-security-updates-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 10:29 ansible-role-centos-security-updates-master/tests/
+-rw-rw-r-- root/root         9 2019-05-21 10:29 ansible-role-centos-security-updates-master/tests/inventory
+-rw-rw-r-- root/root        95 2019-05-21 10:29 ansible-role-centos-security-updates-master/tests/test.yml

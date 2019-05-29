@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-06-07 05:45 ansible-debian-symfony2-master/
+-rw-rw-r-- root/root        83 2016-06-07 05:45 ansible-debian-symfony2-master/README.md
+drwxrwxr-x root/root         0 2016-06-07 05:45 ansible-debian-symfony2-master/defaults/
+-rw-rw-r-- root/root        63 2016-06-07 05:45 ansible-debian-symfony2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-07 05:45 ansible-debian-symfony2-master/files/
+-rw-rw-r-- root/root       345 2016-06-07 05:45 ansible-debian-symfony2-master/files/.gitignore
+drwxrwxr-x root/root         0 2016-06-07 05:45 ansible-debian-symfony2-master/handlers/
+-rw-rw-r-- root/root       122 2016-06-07 05:45 ansible-debian-symfony2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-07 05:45 ansible-debian-symfony2-master/meta/
+-rw-rw-r-- root/root       353 2016-06-07 05:45 ansible-debian-symfony2-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-07 05:45 ansible-debian-symfony2-master/tasks/
+-rw-rw-r-- root/root      1054 2016-06-07 05:45 ansible-debian-symfony2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-07 05:45 ansible-debian-symfony2-master/templates/
+-rw-rw-r-- root/root      1203 2016-06-07 05:45 ansible-debian-symfony2-master/templates/default.j2

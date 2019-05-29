@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-05 03:36 ansible-role-s3-deployment-master/
+-rw-rw-r-- root/root      1235 2018-07-05 03:36 ansible-role-s3-deployment-master/README.md
+drwxrwxr-x root/root         0 2018-07-05 03:36 ansible-role-s3-deployment-master/defaults/
+-rw-rw-r-- root/root       261 2018-07-05 03:36 ansible-role-s3-deployment-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-05 03:36 ansible-role-s3-deployment-master/handlers/
+-rw-rw-r-- root/root        51 2018-07-05 03:36 ansible-role-s3-deployment-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-05 03:36 ansible-role-s3-deployment-master/meta/
+-rw-rw-r-- root/root      1785 2018-07-05 03:36 ansible-role-s3-deployment-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-05 03:36 ansible-role-s3-deployment-master/tasks/
+-rw-rw-r-- root/root        52 2018-07-05 03:36 ansible-role-s3-deployment-master/tasks/main.yml
+-rw-rw-r-- root/root       262 2018-07-05 03:36 ansible-role-s3-deployment-master/tasks/preparation.yml
+-rw-rw-r-- root/root       669 2018-07-05 03:36 ansible-role-s3-deployment-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2018-07-05 03:36 ansible-role-s3-deployment-master/tests/
+-rw-rw-r-- root/root        11 2018-07-05 03:36 ansible-role-s3-deployment-master/tests/inventory
+-rw-rw-r-- root/root        85 2018-07-05 03:36 ansible-role-s3-deployment-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-05 03:36 ansible-role-s3-deployment-master/vars/
+-rw-rw-r-- root/root        47 2018-07-05 03:36 ansible-role-s3-deployment-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-07 21:19 ansible-vim-master/
+-rw-rw-r-- root/root        11 2017-02-07 21:19 ansible-vim-master/CONTRIBUTORS.txt
+-rw-rw-r-- root/root      1469 2017-02-07 21:19 ansible-vim-master/LICENSE.rst
+-rw-rw-r-- root/root       288 2017-02-07 21:19 ansible-vim-master/README.rst
+-rwxrwxr-x root/root       764 2017-02-07 21:19 ansible-vim-master/bootstrap.sh
+drwxrwxr-x root/root         0 2017-02-07 21:19 ansible-vim-master/files/
+-rw-rw-r-- root/root      8104 2017-02-07 21:19 ansible-vim-master/files/vimrc
+drwxrwxr-x root/root         0 2017-02-07 21:19 ansible-vim-master/handlers/
+-rw-rw-r-- root/root       203 2017-02-07 21:19 ansible-vim-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-07 21:19 ansible-vim-master/meta/
+-rw-rw-r-- root/root       308 2017-02-07 21:19 ansible-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-07 21:19 ansible-vim-master/tasks/
+-rw-rw-r-- root/root       128 2017-02-07 21:19 ansible-vim-master/tasks/macos.yml
+-rw-rw-r-- root/root      1412 2017-02-07 21:19 ansible-vim-master/tasks/main.yml
+-rw-rw-r-- root/root       263 2017-02-07 21:19 ansible-vim-master/tasks/ubuntu.yml

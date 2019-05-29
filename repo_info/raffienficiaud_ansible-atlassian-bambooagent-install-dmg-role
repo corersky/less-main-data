@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/
+-rw-rw-r-- root/root      2752 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/defaults/
+-rw-rw-r-- root/root        70 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/handlers/
+-rw-rw-r-- root/root        70 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/meta/
+-rw-rw-r-- root/root      1346 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/tasks/
+-rw-rw-r-- root/root       217 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/tasks/check_vars.yml
+-rw-rw-r-- root/root      2734 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/tests/
+-rw-rw-r-- root/root        11 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/tests/inventory
+-rw-rw-r-- root/root       104 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/vars/
+-rw-rw-r-- root/root        66 2019-05-17 05:52 ansible-atlassian-bambooagent-install-dmg-role-master/vars/main.yml

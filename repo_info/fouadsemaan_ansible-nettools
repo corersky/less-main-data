@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-03-10 12:49 ansible-nettools-master/
+-rw-rw-r-- root/root         3 2017-03-10 12:49 ansible-nettools-master/.gitignore
+-rw-rw-r-- root/root      1084 2017-03-10 12:49 ansible-nettools-master/LICENSE
+-rw-rw-r-- root/root      1328 2017-03-10 12:49 ansible-nettools-master/README.md
+drwxrwxr-x root/root         0 2017-03-10 12:49 ansible-nettools-master/meta/
+-rw-rw-r-- root/root       416 2017-03-10 12:49 ansible-nettools-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-10 12:49 ansible-nettools-master/tasks/
+-rw-rw-r-- root/root       557 2017-03-10 12:49 ansible-nettools-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-10 12:49 ansible-nettools-master/vars/
+-rw-rw-r-- root/root        37 2017-03-10 12:49 ansible-nettools-master/vars/Debian.yml
+-rw-rw-r-- root/root        38 2017-03-10 12:49 ansible-nettools-master/vars/RedHat.yml

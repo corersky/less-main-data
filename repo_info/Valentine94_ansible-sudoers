@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-27 08:35 ansible-sudoers-master/
+-rw-rw-r-- root/root         6 2015-11-27 08:35 ansible-sudoers-master/.gitignore
+-rw-rw-r-- root/root       907 2015-11-27 08:35 ansible-sudoers-master/.travis.yml
+-rw-rw-r-- root/root     18047 2015-11-27 08:35 ansible-sudoers-master/LICENSE
+-rw-rw-r-- root/root       548 2015-11-27 08:35 ansible-sudoers-master/README.md
+drwxrwxr-x root/root         0 2015-11-27 08:35 ansible-sudoers-master/meta/
+-rw-rw-r-- root/root       321 2015-11-27 08:35 ansible-sudoers-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-27 08:35 ansible-sudoers-master/tasks/
+-rw-rw-r-- root/root       296 2015-11-27 08:35 ansible-sudoers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-27 08:35 ansible-sudoers-master/tests/
+-rw-rw-r-- root/root        10 2015-11-27 08:35 ansible-sudoers-master/tests/inventory
+-rw-rw-r-- root/root       168 2015-11-27 08:35 ansible-sudoers-master/tests/test.sh
+-rw-rw-r-- root/root        74 2015-11-27 08:35 ansible-sudoers-master/tests/test.yml

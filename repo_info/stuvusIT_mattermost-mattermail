@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-26 13:42 mattermost-mattermail-master/
+-rw-rw-r-- root/root     20133 2018-09-26 13:42 mattermost-mattermail-master/LICENSE
+-rw-rw-r-- root/root      9199 2018-09-26 13:42 mattermost-mattermail-master/README.md
+drwxrwxr-x root/root         0 2018-09-26 13:42 mattermost-mattermail-master/defaults/
+-rw-rw-r-- root/root       175 2018-09-26 13:42 mattermost-mattermail-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-26 13:42 mattermost-mattermail-master/handlers/
+-rw-rw-r-- root/root       205 2018-09-26 13:42 mattermost-mattermail-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-26 13:42 mattermost-mattermail-master/meta/
+-rw-rw-r-- root/root       417 2018-09-26 13:42 mattermost-mattermail-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-26 13:42 mattermost-mattermail-master/tasks/
+-rw-rw-r-- root/root      1460 2018-09-26 13:42 mattermost-mattermail-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-26 13:42 mattermost-mattermail-master/templates/
+-rw-rw-r-- root/root        50 2018-09-26 13:42 mattermost-mattermail-master/templates/config.json.j2
+-rw-rw-r-- root/root       326 2018-09-26 13:42 mattermost-mattermail-master/templates/mattermost-mattermail.service.j2

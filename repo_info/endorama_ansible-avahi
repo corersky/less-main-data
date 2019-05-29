@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-03 04:19 ansible-avahi-master/
+-rw-rw-r-- root/root      1066 2017-04-03 04:19 ansible-avahi-master/README.md
+drwxrwxr-x root/root         0 2017-04-03 04:19 ansible-avahi-master/defaults/
+-rw-rw-r-- root/root       109 2017-04-03 04:19 ansible-avahi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-03 04:19 ansible-avahi-master/handlers/
+-rw-rw-r-- root/root        97 2017-04-03 04:19 ansible-avahi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-03 04:19 ansible-avahi-master/meta/
+-rw-rw-r-- root/root       814 2017-04-03 04:19 ansible-avahi-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-03 04:19 ansible-avahi-master/tasks/
+-rw-rw-r-- root/root       479 2017-04-03 04:19 ansible-avahi-master/tasks/avahi.yml
+-rw-rw-r-- root/root        44 2017-04-03 04:19 ansible-avahi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-03 04:19 ansible-avahi-master/templates/
+-rw-rw-r-- root/root      1713 2017-04-03 04:19 ansible-avahi-master/templates/avahi-daemon.conf.j2
+drwxrwxr-x root/root         0 2017-04-03 04:19 ansible-avahi-master/tests/
+-rw-rw-r-- root/root         9 2017-04-03 04:19 ansible-avahi-master/tests/inventory
+-rw-rw-r-- root/root        63 2017-04-03 04:19 ansible-avahi-master/tests/test.yml

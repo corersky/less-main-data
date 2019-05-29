@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-12-31 00:20 ansible-dome9-master/
+-rw-rw-r-- root/root       675 2014-12-31 00:20 ansible-dome9-master/.gitignore
+-rw-rw-r-- root/root     11325 2014-12-31 00:20 ansible-dome9-master/LICENSE
+-rw-rw-r-- root/root       973 2014-12-31 00:20 ansible-dome9-master/README.md
+drwxrwxr-x root/root         0 2014-12-31 00:20 ansible-dome9-master/defaults/
+-rw-rw-r-- root/root       216 2014-12-31 00:20 ansible-dome9-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-31 00:20 ansible-dome9-master/handlers/
+-rw-rw-r-- root/root        70 2014-12-31 00:20 ansible-dome9-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-31 00:20 ansible-dome9-master/meta/
+-rw-rw-r-- root/root       518 2014-12-31 00:20 ansible-dome9-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-31 00:20 ansible-dome9-master/tasks/
+-rw-rw-r-- root/root       724 2014-12-31 00:20 ansible-dome9-master/tasks/debian.yml
+-rw-rw-r-- root/root       184 2014-12-31 00:20 ansible-dome9-master/tasks/default.yml
+-rw-rw-r-- root/root       697 2014-12-31 00:20 ansible-dome9-master/tasks/dome9.yml
+-rw-rw-r-- root/root        64 2014-12-31 00:20 ansible-dome9-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2014-12-31 00:20 ansible-dome9-master/test.yml

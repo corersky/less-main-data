@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-windows-master/
+-rw-rw-r-- root/root       161 2019-03-14 08:21 ansible-role-golem-dev-windows-master/README.md
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-windows-master/defaults/
+-rw-rw-r-- root/root      1496 2019-03-14 08:21 ansible-role-golem-dev-windows-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-windows-master/handlers/
+-rw-rw-r-- root/root        41 2019-03-14 08:21 ansible-role-golem-dev-windows-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-windows-master/meta/
+-rw-rw-r-- root/root       457 2019-03-14 08:21 ansible-role-golem-dev-windows-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-windows-master/tasks/
+-rw-rw-r-- root/root      2279 2019-03-14 08:21 ansible-role-golem-dev-windows-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-windows-master/tests/
+-rw-rw-r-- root/root        11 2019-03-14 08:21 ansible-role-golem-dev-windows-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-03-14 08:21 ansible-role-golem-dev-windows-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-14 08:21 ansible-role-golem-dev-windows-master/vars/
+-rw-rw-r-- root/root        37 2019-03-14 08:21 ansible-role-golem-dev-windows-master/vars/main.yml

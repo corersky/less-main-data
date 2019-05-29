@@ -1,0 +1,28 @@
+drwxrwxr-x root/root         0 2019-02-10 11:43 ansible.virtio-master/
+-rw-rw-r-- root/root       356 2019-02-10 11:43 ansible.virtio-master/.gitlab-ci.yml
+-rw-rw-r-- root/root       850 2019-02-10 11:43 ansible.virtio-master/.travis.yml
+-rw-rw-r-- root/root      1077 2019-02-10 11:43 ansible.virtio-master/LICENSE
+-rw-rw-r-- root/root      1068 2019-02-10 11:43 ansible.virtio-master/README.md
+drwxrwxr-x root/root         0 2019-02-10 11:43 ansible.virtio-master/defaults/
+-rw-rw-r-- root/root       488 2019-02-10 11:43 ansible.virtio-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-10 11:43 ansible.virtio-master/handlers/
+-rw-rw-r-- root/root       462 2019-02-10 11:43 ansible.virtio-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-10 11:43 ansible.virtio-master/meta/
+-rw-rw-r-- root/root       379 2019-02-10 11:43 ansible.virtio-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-10 11:43 ansible.virtio-master/tasks/
+-rw-rw-r-- root/root      6034 2019-02-10 11:43 ansible.virtio-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-10 11:43 ansible.virtio-master/vars/
+-rw-rw-r-- root/root        69 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows 10 Enterprise Evaluation.yml
+-rw-rw-r-- root/root        69 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows 10 Enterprise.yml
+-rw-rw-r-- root/root        69 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows 10 Pro.yml
+-rw-rw-r-- root/root        69 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows 10.yml
+-rw-rw-r-- root/root        72 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2012 R2 Standard Evaluation.yml
+-rw-rw-r-- root/root        72 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2012 R2 Standard.yml
+-rw-rw-r-- root/root        70 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2016 Essentials.yml
+-rw-rw-r-- root/root        70 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2016 Standard Evaluation.yml
+-rw-rw-r-- root/root        70 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2016 Standard.yml
+-rw-rw-r-- root/root        70 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2019 Datacenter Evaluation.yml
+-rw-rw-r-- root/root        70 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2019 Datacenter.yml
+-rw-rw-r-- root/root        70 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2019 Standard Evaluation.yml
+-rw-rw-r-- root/root        70 2019-02-10 11:43 ansible.virtio-master/vars/Microsoft Windows Server 2019 Standard.yml
+-rw-rw-r-- root/root        39 2019-02-10 11:43 ansible.virtio-master/vars/defaults.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/
+-rw-rw-r-- root/root         5 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/.gitignore
+-rw-rw-r-- root/root      1835 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/CHANGELOG.md
+-rw-rw-r-- root/root      5636 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/README.md
+drwxrwxr-x root/root         0 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/defaults/
+-rw-rw-r-- root/root       910 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/handlers/
+-rw-rw-r-- root/root       142 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/meta/
+-rw-rw-r-- root/root       355 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/tasks/
+-rw-rw-r-- root/root      6056 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/tasks/main.yml
+-rw-rw-r-- root/root       851 2018-11-12 19:28 ansible-role-lets-encrypt-route-53-master/tasks/virtualenv.yml

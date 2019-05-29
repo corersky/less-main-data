@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-11-12 21:54 ansible-newrelic-master/
+-rw-rw-r-- root/root      1078 2015-11-12 21:54 ansible-newrelic-master/LICENSE
+-rw-rw-r-- root/root       544 2015-11-12 21:54 ansible-newrelic-master/README.md
+drwxrwxr-x root/root         0 2015-11-12 21:54 ansible-newrelic-master/defaults/
+-rw-rw-r-- root/root        87 2015-11-12 21:54 ansible-newrelic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-12 21:54 ansible-newrelic-master/handlers/
+-rw-rw-r-- root/root        97 2015-11-12 21:54 ansible-newrelic-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-12 21:54 ansible-newrelic-master/meta/
+-rw-rw-r-- root/root       451 2015-11-12 21:54 ansible-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-12 21:54 ansible-newrelic-master/tasks/
+-rw-rw-r-- root/root         4 2015-11-12 21:54 ansible-newrelic-master/tasks/agent_php.yml
+-rw-rw-r-- root/root       237 2015-11-12 21:54 ansible-newrelic-master/tasks/main.yml
+-rw-rw-r-- root/root       346 2015-11-12 21:54 ansible-newrelic-master/tasks/repository.yml
+-rw-rw-r-- root/root       381 2015-11-12 21:54 ansible-newrelic-master/tasks/sysmond.yml

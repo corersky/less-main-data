@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-09 13:43 ansible-i2p-master/
+-rw-rw-r-- root/root      1425 2019-02-09 13:43 ansible-i2p-master/README.md
+drwxrwxr-x root/root         0 2019-02-09 13:43 ansible-i2p-master/defaults/
+-rw-rw-r-- root/root       163 2019-02-09 13:43 ansible-i2p-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-09 13:43 ansible-i2p-master/handlers/
+-rw-rw-r-- root/root        40 2019-02-09 13:43 ansible-i2p-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-09 13:43 ansible-i2p-master/meta/
+-rw-rw-r-- root/root       511 2019-02-09 13:43 ansible-i2p-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-09 13:43 ansible-i2p-master/tasks/
+-rw-rw-r-- root/root      1042 2019-02-09 13:43 ansible-i2p-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-09 13:43 ansible-i2p-master/templates/
+-rw-rw-r-- root/root       179 2019-02-09 13:43 ansible-i2p-master/templates/i2p-router.service.j2
+drwxrwxr-x root/root         0 2019-02-09 13:43 ansible-i2p-master/tests/
+-rw-rw-r-- root/root        11 2019-02-09 13:43 ansible-i2p-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-02-09 13:43 ansible-i2p-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-09 13:43 ansible-i2p-master/vars/
+-rw-rw-r-- root/root        36 2019-02-09 13:43 ansible-i2p-master/vars/main.yml

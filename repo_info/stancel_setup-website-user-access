@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-01 19:14 setup-website-user-access-master/
+-rw-rw-r-- root/root        63 2018-11-01 19:14 setup-website-user-access-master/.gitignore
+-rw-rw-r-- root/root      1487 2018-11-01 19:14 setup-website-user-access-master/README.md
+drwxrwxr-x root/root         0 2018-11-01 19:14 setup-website-user-access-master/defaults/
+-rw-rw-r-- root/root       185 2018-11-01 19:14 setup-website-user-access-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-01 19:14 setup-website-user-access-master/handlers/
+-rw-rw-r-- root/root       139 2018-11-01 19:14 setup-website-user-access-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-01 19:14 setup-website-user-access-master/meta/
+-rw-rw-r-- root/root       492 2018-11-01 19:14 setup-website-user-access-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-01 19:14 setup-website-user-access-master/tasks/
+-rw-rw-r-- root/root       775 2018-11-01 19:14 setup-website-user-access-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-01 19:14 setup-website-user-access-master/tests/
+-rw-rw-r-- root/root        11 2018-11-01 19:14 setup-website-user-access-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-11-01 19:14 setup-website-user-access-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-01 19:14 setup-website-user-access-master/vars/
+-rw-rw-r-- root/root       382 2018-11-01 19:14 setup-website-user-access-master/vars/main.yml

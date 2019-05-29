@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-04-30 11:42 ansible-timesync-master/
+-rw-rw-r-- root/root        19 2018-04-30 11:42 ansible-timesync-master/.gitignore
+-rw-rw-r-- root/root     35141 2018-04-30 11:42 ansible-timesync-master/LICENSE
+-rw-rw-r-- root/root       285 2018-04-30 11:42 ansible-timesync-master/README.md
+drwxrwxr-x root/root         0 2018-04-30 11:42 ansible-timesync-master/defaults/
+-rw-rw-r-- root/root       103 2018-04-30 11:42 ansible-timesync-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-30 11:42 ansible-timesync-master/meta/
+-rw-rw-r-- root/root       324 2018-04-30 11:42 ansible-timesync-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-30 11:42 ansible-timesync-master/tasks/
+-rw-rw-r-- root/root        92 2018-04-30 11:42 ansible-timesync-master/tasks/main.yml
+-rw-rw-r-- root/root       137 2018-04-30 11:42 ansible-timesync-master/tasks/setup.yml
+-rw-rw-r-- root/root        81 2018-04-30 11:42 ansible-timesync-master/tasks/sync.yml
+drwxrwxr-x root/root         0 2018-04-30 11:42 ansible-timesync-master/tests/
+-rw-rw-r-- root/root        75 2018-04-30 11:42 ansible-timesync-master/tests/test.yml

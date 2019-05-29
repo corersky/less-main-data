@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-08-09 08:01 ansible-role-ecs-cli-master/
+-rw-rw-r-- root/root       156 2017-08-09 08:01 ansible-role-ecs-cli-master/README.md
+drwxrwxr-x root/root         0 2017-08-09 08:01 ansible-role-ecs-cli-master/defaults/
+-rw-rw-r-- root/root        80 2017-08-09 08:01 ansible-role-ecs-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-09 08:01 ansible-role-ecs-cli-master/meta/
+-rw-rw-r-- root/root       182 2017-08-09 08:01 ansible-role-ecs-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-09 08:01 ansible-role-ecs-cli-master/tasks/
+-rw-rw-r-- root/root       197 2017-08-09 08:01 ansible-role-ecs-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-09 08:01 ansible-role-ecs-cli-master/templates/
+-rw-rw-r-- root/root       385 2017-08-09 08:01 ansible-role-ecs-cli-master/templates/config.j2

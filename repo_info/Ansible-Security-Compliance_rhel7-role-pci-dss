@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-pci-dss-master/
+-rw-rw-r-- root/root      2064 2018-12-11 10:13 rhel7-role-pci-dss-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-pci-dss-master/defaults/
+-rw-rw-r-- root/root      2590 2018-12-11 10:13 rhel7-role-pci-dss-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-pci-dss-master/handlers/
+-rw-rw-r-- root/root        42 2018-12-11 10:13 rhel7-role-pci-dss-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-pci-dss-master/meta/
+-rw-rw-r-- root/root       537 2018-12-11 10:13 rhel7-role-pci-dss-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-pci-dss-master/tasks/
+-rw-rw-r-- root/root     95873 2018-12-11 10:13 rhel7-role-pci-dss-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-pci-dss-master/tests/
+-rw-rw-r-- root/root        11 2018-12-11 10:13 rhel7-role-pci-dss-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-12-11 10:13 rhel7-role-pci-dss-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-pci-dss-master/vars/
+-rw-rw-r-- root/root       673 2018-12-11 10:13 rhel7-role-pci-dss-master/vars/main.yml

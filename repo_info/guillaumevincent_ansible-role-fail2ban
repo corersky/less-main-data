@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-fail2ban-master/
+-rw-rw-r-- root/root       680 2017-10-08 11:47 ansible-role-fail2ban-master/.travis.yml
+-rw-rw-r-- root/root       161 2017-10-08 11:47 ansible-role-fail2ban-master/README.md
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-fail2ban-master/handlers/
+-rw-rw-r-- root/root        79 2017-10-08 11:47 ansible-role-fail2ban-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-fail2ban-master/meta/
+-rw-rw-r-- root/root       339 2017-10-08 11:47 ansible-role-fail2ban-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-fail2ban-master/tasks/
+-rw-rw-r-- root/root       319 2017-10-08 11:47 ansible-role-fail2ban-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-fail2ban-master/tests/
+-rw-rw-r-- root/root         9 2017-10-08 11:47 ansible-role-fail2ban-master/tests/inventory
+-rw-rw-r-- root/root       123 2017-10-08 11:47 ansible-role-fail2ban-master/tests/test.yml

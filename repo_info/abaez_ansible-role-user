@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-19 17:46 ansible-role-user-master/
+-rw-rw-r-- root/root        49 2017-11-19 17:46 ansible-role-user-master/.hgtags
+-rw-rw-r-- root/root       539 2017-11-19 17:46 ansible-role-user-master/.travis.yml
+-rw-rw-r-- root/root      1319 2017-11-19 17:46 ansible-role-user-master/LICENSE
+-rw-rw-r-- root/root      2876 2017-11-19 17:46 ansible-role-user-master/README.md
+drwxrwxr-x root/root         0 2017-11-19 17:46 ansible-role-user-master/defaults/
+-rw-rw-r-- root/root       100 2017-11-19 17:46 ansible-role-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-19 17:46 ansible-role-user-master/files/
+-rw-rw-r-- root/root         0 2017-11-19 17:46 ansible-role-user-master/files/serve.pub
+drwxrwxr-x root/root         0 2017-11-19 17:46 ansible-role-user-master/meta/
+-rw-rw-r-- root/root      1589 2017-11-19 17:46 ansible-role-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-19 17:46 ansible-role-user-master/tasks/
+-rw-rw-r-- root/root       568 2017-11-19 17:46 ansible-role-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-19 17:46 ansible-role-user-master/tests/
+-rw-rw-r-- root/root         9 2017-11-19 17:46 ansible-role-user-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-11-19 17:46 ansible-role-user-master/tests/test.yml

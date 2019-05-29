@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-20 03:32 ansible-zookeeper-master/
+-rw-rw-r-- root/root       540 2018-06-20 03:32 ansible-zookeeper-master/.travis.yml
+-rw-rw-r-- root/root      1062 2018-06-20 03:32 ansible-zookeeper-master/LICENSE
+-rw-rw-r-- root/root       243 2018-06-20 03:32 ansible-zookeeper-master/README.md
+drwxrwxr-x root/root         0 2018-06-20 03:32 ansible-zookeeper-master/defaults/
+-rw-rw-r-- root/root       363 2018-06-20 03:32 ansible-zookeeper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-20 03:32 ansible-zookeeper-master/handlers/
+-rw-rw-r-- root/root        82 2018-06-20 03:32 ansible-zookeeper-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-20 03:32 ansible-zookeeper-master/meta/
+-rw-rw-r-- root/root       294 2018-06-20 03:32 ansible-zookeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-20 03:32 ansible-zookeeper-master/tasks/
+-rw-rw-r-- root/root       141 2018-06-20 03:32 ansible-zookeeper-master/tasks/main.yml
+-rw-rw-r-- root/root       151 2018-06-20 03:32 ansible-zookeeper-master/tasks/zookeeper_install.yml
+-rw-rw-r-- root/root       291 2018-06-20 03:32 ansible-zookeeper-master/tasks/zookeeper_post.yml
+drwxrwxr-x root/root         0 2018-06-20 03:32 ansible-zookeeper-master/templates/
+-rw-rw-r-- root/root       119 2018-06-20 03:32 ansible-zookeeper-master/templates/myid.j2
+-rw-rw-r-- root/root      2317 2018-06-20 03:32 ansible-zookeeper-master/templates/zoo.cfg.j2

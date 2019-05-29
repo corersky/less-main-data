@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-sonarr-master/
+-rw-rw-r-- root/root         9 2017-06-17 23:59 ansible-role-sonarr-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-17 23:59 ansible-role-sonarr-master/LICENSE
+-rw-rw-r-- root/root       346 2017-06-17 23:59 ansible-role-sonarr-master/README.md
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-sonarr-master/defaults/
+-rw-rw-r-- root/root       343 2017-06-17 23:59 ansible-role-sonarr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-sonarr-master/handlers/
+-rw-rw-r-- root/root        68 2017-06-17 23:59 ansible-role-sonarr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-sonarr-master/meta/
+-rw-rw-r-- root/root       303 2017-06-17 23:59 ansible-role-sonarr-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-sonarr-master/tasks/
+-rw-rw-r-- root/root       979 2017-06-17 23:59 ansible-role-sonarr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-sonarr-master/templates/
+-rw-rw-r-- root/root       597 2017-06-17 23:59 ansible-role-sonarr-master/templates/config.xml.j2

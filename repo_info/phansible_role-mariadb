@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-23 08:26 role-mariadb-master/
+-rw-rw-r-- root/root        37 2018-10-23 08:26 role-mariadb-master/.gitignore
+-rw-rw-r-- root/root      1053 2018-10-23 08:26 role-mariadb-master/.travis.yml
+-rw-rw-r-- root/root      1100 2018-10-23 08:26 role-mariadb-master/LICENSE
+-rw-rw-r-- root/root       928 2018-10-23 08:26 role-mariadb-master/README.md
+drwxrwxr-x root/root         0 2018-10-23 08:26 role-mariadb-master/defaults/
+-rw-rw-r-- root/root       114 2018-10-23 08:26 role-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-23 08:26 role-mariadb-master/meta/
+-rw-rw-r-- root/root       348 2018-10-23 08:26 role-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-23 08:26 role-mariadb-master/tasks/
+-rw-rw-r-- root/root      1935 2018-10-23 08:26 role-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-23 08:26 role-mariadb-master/tests/
+-rw-rw-r-- root/root        10 2018-10-23 08:26 role-mariadb-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-10-23 08:26 role-mariadb-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-19 14:49 ansible-role-im-client-master/
+-rw-rw-r-- root/root       539 2016-10-19 14:49 ansible-role-im-client-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-10-19 14:49 ansible-role-im-client-master/LICENSE
+-rw-rw-r-- root/root      1092 2016-10-19 14:49 ansible-role-im-client-master/README.md
+drwxrwxr-x root/root         0 2016-10-19 14:49 ansible-role-im-client-master/defaults/
+-rw-rw-r-- root/root       290 2016-10-19 14:49 ansible-role-im-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-19 14:49 ansible-role-im-client-master/meta/
+-rw-rw-r-- root/root       273 2016-10-19 14:49 ansible-role-im-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-19 14:49 ansible-role-im-client-master/tasks/
+-rw-rw-r-- root/root       488 2016-10-19 14:49 ansible-role-im-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-19 14:49 ansible-role-im-client-master/templates/
+-rw-rw-r-- root/root       182 2016-10-19 14:49 ansible-role-im-client-master/templates/auth.dat.j2
+-rw-rw-r-- root/root       140 2016-10-19 14:49 ansible-role-im-client-master/templates/im_client.cfg.j2
+drwxrwxr-x root/root         0 2016-10-19 14:49 ansible-role-im-client-master/tests/
+-rw-rw-r-- root/root        35 2016-10-19 14:49 ansible-role-im-client-master/tests/inventory
+-rw-rw-r-- root/root        58 2016-10-19 14:49 ansible-role-im-client-master/tests/test.yml

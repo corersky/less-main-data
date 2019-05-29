@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/
+-rw-rw-r-- root/root       145 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/.gitignore
+-rw-rw-r-- root/root       475 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/LICENSE.txt
+-rw-rw-r-- root/root      1024 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/README.md
+drwxrwxr-x root/root         0 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/lookup_plugins/
+-rw-rw-r-- root/root      1570 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/lookup_plugins/ini_sections.py
+drwxrwxr-x root/root         0 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/meta/
+-rw-rw-r-- root/root       233 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/tests/
+-rw-rw-r-- root/root         9 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/tests/inventory
+-rw-rw-r-- root/root        89 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/tests/test.ini
+-rw-rw-r-- root/root       411 2018-04-16 09:23 ansible-role-lookup_ini_sections-master/tests/test.yml

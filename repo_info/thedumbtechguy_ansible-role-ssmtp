@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-12 08:44 ansible-role-ssmtp-master/
+-rw-rw-r-- root/root      2229 2017-05-12 08:44 ansible-role-ssmtp-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 08:44 ansible-role-ssmtp-master/defaults/
+-rw-rw-r-- root/root       219 2017-05-12 08:44 ansible-role-ssmtp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:44 ansible-role-ssmtp-master/meta/
+-rw-rw-r-- root/root       348 2017-05-12 08:44 ansible-role-ssmtp-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:44 ansible-role-ssmtp-master/tasks/
+-rw-rw-r-- root/root        45 2017-05-12 08:44 ansible-role-ssmtp-master/tasks/main.yml
+-rw-rw-r-- root/root       516 2017-05-12 08:44 ansible-role-ssmtp-master/tasks/ssmtp.yml
+drwxrwxr-x root/root         0 2017-05-12 08:44 ansible-role-ssmtp-master/templates/
+-rw-rw-r-- root/root       372 2017-05-12 08:44 ansible-role-ssmtp-master/templates/revaliases.j2
+-rw-rw-r-- root/root       930 2017-05-12 08:44 ansible-role-ssmtp-master/templates/ssmtp.conf.j2

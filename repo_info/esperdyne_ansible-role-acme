@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-12 21:46 ansible-role-acme-master/
+-rw-rw-r-- root/root       539 2016-10-12 21:46 ansible-role-acme-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-10-12 21:46 ansible-role-acme-master/README.md
+drwxrwxr-x root/root         0 2016-10-12 21:46 ansible-role-acme-master/defaults/
+-rw-rw-r-- root/root        29 2016-10-12 21:46 ansible-role-acme-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-12 21:46 ansible-role-acme-master/handlers/
+-rw-rw-r-- root/root        29 2016-10-12 21:46 ansible-role-acme-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-12 21:46 ansible-role-acme-master/meta/
+-rw-rw-r-- root/root      3736 2016-10-12 21:46 ansible-role-acme-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-12 21:46 ansible-role-acme-master/tasks/
+-rw-rw-r-- root/root        26 2016-10-12 21:46 ansible-role-acme-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-12 21:46 ansible-role-acme-master/tests/
+-rw-rw-r-- root/root         9 2016-10-12 21:46 ansible-role-acme-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-10-12 21:46 ansible-role-acme-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-12 21:46 ansible-role-acme-master/vars/
+-rw-rw-r-- root/root        25 2016-10-12 21:46 ansible-role-acme-master/vars/main.yml

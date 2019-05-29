@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-25 01:55 ansible-role-php_mcrypt-master/
+-rw-rw-r-- root/root        29 2019-01-25 01:55 ansible-role-php_mcrypt-master/.gitignore
+-rw-rw-r-- root/root      1085 2019-01-25 01:55 ansible-role-php_mcrypt-master/LICENSE
+-rw-rw-r-- root/root       819 2019-01-25 01:55 ansible-role-php_mcrypt-master/README.md
+drwxrwxr-x root/root         0 2019-01-25 01:55 ansible-role-php_mcrypt-master/defaults/
+-rw-rw-r-- root/root        90 2019-01-25 01:55 ansible-role-php_mcrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-25 01:55 ansible-role-php_mcrypt-master/meta/
+-rw-rw-r-- root/root       438 2019-01-25 01:55 ansible-role-php_mcrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-25 01:55 ansible-role-php_mcrypt-master/tasks/
+-rw-rw-r-- root/root       317 2019-01-25 01:55 ansible-role-php_mcrypt-master/tasks/configure.yml
+-rw-rw-r-- root/root      1362 2019-01-25 01:55 ansible-role-php_mcrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-25 01:55 ansible-role-php_mcrypt-master/templates/
+-rw-rw-r-- root/root        20 2019-01-25 01:55 ansible-role-php_mcrypt-master/templates/mcrypt.ini.j2
+drwxrwxr-x root/root         0 2019-01-25 01:55 ansible-role-php_mcrypt-master/vars/
+-rw-rw-r-- root/root       525 2019-01-25 01:55 ansible-role-php_mcrypt-master/vars/Debian.yml
+-rw-rw-r-- root/root       623 2019-01-25 01:55 ansible-role-php_mcrypt-master/vars/RedHat.yml

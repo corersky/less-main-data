@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-26 09:38 adeya-vmware-tools-master/
+-rw-rw-r-- root/root       928 2015-10-26 09:38 adeya-vmware-tools-master/README.md
+-rw-rw-r-- root/root        51 2015-10-26 09:38 adeya-vmware-tools-master/adeya-vmware-tools.yml
+drwxrwxr-x root/root         0 2015-10-26 09:38 adeya-vmware-tools-master/defaults/
+-rw-rw-r-- root/root       568 2015-10-26 09:38 adeya-vmware-tools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-26 09:38 adeya-vmware-tools-master/handlers/
+-rw-rw-r-- root/root       341 2015-10-26 09:38 adeya-vmware-tools-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-26 09:38 adeya-vmware-tools-master/meta/
+-rw-rw-r-- root/root       274 2015-10-26 09:38 adeya-vmware-tools-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-26 09:38 adeya-vmware-tools-master/tasks/
+-rw-rw-r-- root/root      2208 2015-10-26 09:38 adeya-vmware-tools-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-26 09:38 adeya-vmware-tools-master/templates/
+-rw-rw-r-- root/root       339 2015-10-26 09:38 adeya-vmware-tools-master/templates/vmware-tools.repo.j2
+drwxrwxr-x root/root         0 2015-10-26 09:38 adeya-vmware-tools-master/vars/
+-rw-rw-r-- root/root        39 2015-10-26 09:38 adeya-vmware-tools-master/vars/main.yml

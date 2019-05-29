@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-06-26 08:49 ansible-phantomjs-master/
+-rw-rw-r-- root/root       315 2015-06-26 08:49 ansible-phantomjs-master/.gitignore
+-rw-rw-r-- root/root      1084 2015-06-26 08:49 ansible-phantomjs-master/LICENSE
+-rw-rw-r-- root/root       464 2015-06-26 08:49 ansible-phantomjs-master/README.md
+drwxrwxr-x root/root         0 2015-06-26 08:49 ansible-phantomjs-master/defaults/
+-rw-rw-r-- root/root       536 2015-06-26 08:49 ansible-phantomjs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-26 08:49 ansible-phantomjs-master/library/
+-rw-rw-r-- root/root      1455 2015-06-26 08:49 ansible-phantomjs-master/library/phantomjs_facts
+drwxrwxr-x root/root         0 2015-06-26 08:49 ansible-phantomjs-master/meta/
+-rw-rw-r-- root/root       265 2015-06-26 08:49 ansible-phantomjs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-26 08:49 ansible-phantomjs-master/tasks/
+-rw-rw-r-- root/root       758 2015-06-26 08:49 ansible-phantomjs-master/tasks/main.yml

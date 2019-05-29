@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2018-08-20 17:38 ansible-role-docker-engine-master/
+-rw-rw-r-- root/root       274 2018-08-20 17:38 ansible-role-docker-engine-master/.travis.yml
+-rw-rw-r-- root/root       348 2018-08-20 17:38 ansible-role-docker-engine-master/CHANGELOG.md
+-rw-rw-r-- root/root       494 2018-08-20 17:38 ansible-role-docker-engine-master/Jenkinsfile
+-rw-rw-r-- root/root      1066 2018-08-20 17:38 ansible-role-docker-engine-master/LICENSE.md
+-rw-rw-r-- root/root       200 2018-08-20 17:38 ansible-role-docker-engine-master/Makefile
+-rw-rw-r-- root/root       694 2018-08-20 17:38 ansible-role-docker-engine-master/README.md
+drwxrwxr-x root/root         0 2018-08-20 17:38 ansible-role-docker-engine-master/defaults/
+-rw-rw-r-- root/root        76 2018-08-20 17:38 ansible-role-docker-engine-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-20 17:38 ansible-role-docker-engine-master/meta/
+-rw-rw-r-- root/root       398 2018-08-20 17:38 ansible-role-docker-engine-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-20 17:38 ansible-role-docker-engine-master/tasks/
+-rw-rw-r-- root/root       964 2018-08-20 17:38 ansible-role-docker-engine-master/tasks/install-centos.yml
+-rw-rw-r-- root/root       734 2018-08-20 17:38 ansible-role-docker-engine-master/tasks/install-debian.yml
+-rw-rw-r-- root/root       913 2018-08-20 17:38 ansible-role-docker-engine-master/tasks/install-fedora.yml
+-rw-rw-r-- root/root       691 2018-08-20 17:38 ansible-role-docker-engine-master/tasks/install-ubuntu.yml
+-rw-rw-r-- root/root       839 2018-08-20 17:38 ansible-role-docker-engine-master/tasks/main.yml
+-rw-rw-r-- root/root       353 2018-08-20 17:38 ansible-role-docker-engine-master/tasks/purge-apt.yml
+drwxrwxr-x root/root         0 2018-08-20 17:38 ansible-role-docker-engine-master/tests/
+-rw-rw-r-- root/root        35 2018-08-20 17:38 ansible-role-docker-engine-master/tests/inventory
+-rw-rw-r-- root/root       341 2018-08-20 17:38 ansible-role-docker-engine-master/tests/main.yml
+drwxrwxr-x root/root         0 2018-08-20 17:38 ansible-role-docker-engine-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-08-20 17:38 ansible-role-docker-engine-master/tests/roles/pauvos.docker_engine -> ../../

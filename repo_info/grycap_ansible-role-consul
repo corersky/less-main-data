@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-01 05:52 ansible-role-consul-master/
+-rw-rw-r-- root/root      1254 2018-02-01 05:52 ansible-role-consul-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-02-01 05:52 ansible-role-consul-master/LICENSE
+-rw-rw-r-- root/root        56 2018-02-01 05:52 ansible-role-consul-master/README.md
+drwxrwxr-x root/root         0 2018-02-01 05:52 ansible-role-consul-master/defaults/
+-rw-rw-r-- root/root       153 2018-02-01 05:52 ansible-role-consul-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-01 05:52 ansible-role-consul-master/meta/
+-rw-rw-r-- root/root       277 2018-02-01 05:52 ansible-role-consul-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-01 05:52 ansible-role-consul-master/tasks/
+-rw-rw-r-- root/root       665 2018-02-01 05:52 ansible-role-consul-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-01 05:52 ansible-role-consul-master/tests/
+-rw-rw-r-- root/root        36 2018-02-01 05:52 ansible-role-consul-master/tests/inventory
+-rw-rw-r-- root/root        54 2018-02-01 05:52 ansible-role-consul-master/tests/test.yml

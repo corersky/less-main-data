@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/
+-rw-rw-r-- root/root      1008 2016-12-15 10:34 ansible-role-user-master/.gitignore
+-rw-rw-r-- root/root       123 2016-12-15 10:34 ansible-role-user-master/.gitmodules
+-rw-rw-r-- root/root      1355 2016-12-15 10:34 ansible-role-user-master/.travis.yml
+-rw-rw-r-- root/root      1029 2016-12-15 10:34 ansible-role-user-master/README.md
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/defaults/
+-rw-rw-r-- root/root        39 2016-12-15 10:34 ansible-role-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/handlers/
+-rw-rw-r-- root/root        42 2016-12-15 10:34 ansible-role-user-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/meta/
+-rw-rw-r-- root/root       585 2016-12-15 10:34 ansible-role-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/tasks/
+-rw-rw-r-- root/root      1568 2016-12-15 10:34 ansible-role-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/tests/
+-rw-rw-r-- root/root       404 2016-12-15 10:34 ansible-role-user-master/tests/docker_containers.yml
+-rw-rw-r-- root/root       312 2016-12-15 10:34 ansible-role-user-master/tests/inventory
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-12-15 10:34 ansible-role-user-master/tests/roles/ansible-role-user -> ../../
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/tests/roles/docker/
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/tests/roles/user-test/
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/tests/roles/user-test/tasks/
+-rw-rw-r-- root/root      2025 2016-12-15 10:34 ansible-role-user-master/tests/roles/user-test/tasks/main.yml
+-rw-rw-r-- root/root      1617 2016-12-15 10:34 ansible-role-user-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-15 10:34 ansible-role-user-master/vars/
+-rw-rw-r-- root/root        38 2016-12-15 10:34 ansible-role-user-master/vars/main.yml

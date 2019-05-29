@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-01-15 12:05 ansible-chruby-master/
+-rw-rw-r-- root/root       549 2015-01-15 12:05 ansible-chruby-master/README.md
+drwxrwxr-x root/root         0 2015-01-15 12:05 ansible-chruby-master/defaults/
+-rw-rw-r-- root/root        26 2015-01-15 12:05 ansible-chruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-15 12:05 ansible-chruby-master/files/
+-rw-rw-r-- root/root       144 2015-01-15 12:05 ansible-chruby-master/files/chruby.sh
+drwxrwxr-x root/root         0 2015-01-15 12:05 ansible-chruby-master/meta/
+-rw-rw-r-- root/root       224 2015-01-15 12:05 ansible-chruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-15 12:05 ansible-chruby-master/tasks/
+-rw-rw-r-- root/root      1034 2015-01-15 12:05 ansible-chruby-master/tasks/main.yml

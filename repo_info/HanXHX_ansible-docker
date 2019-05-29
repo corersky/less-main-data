@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-03-19 05:56 ansible-docker-master/
+-rw-rw-r-- root/root        24 2018-03-19 05:56 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root      1040 2018-03-19 05:56 ansible-docker-master/.travis.yml
+-rw-rw-r-- root/root      1065 2018-03-19 05:56 ansible-docker-master/LICENSE
+-rw-rw-r-- root/root       799 2018-03-19 05:56 ansible-docker-master/README.md
+-rw-rw-r-- root/root      1244 2018-03-19 05:56 ansible-docker-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-03-19 05:56 ansible-docker-master/defaults/
+-rw-rw-r-- root/root        26 2018-03-19 05:56 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-19 05:56 ansible-docker-master/meta/
+-rw-rw-r-- root/root       276 2018-03-19 05:56 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-19 05:56 ansible-docker-master/tasks/
+-rw-rw-r-- root/root       848 2018-03-19 05:56 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-19 05:56 ansible-docker-master/tests/
+-rw-rw-r-- root/root       845 2018-03-19 05:56 ansible-docker-master/tests/test.yml

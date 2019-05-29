@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-01 15:19 ansible-operator-sdk-master/
+-rw-rw-r-- root/root      1052 2019-04-01 15:19 ansible-operator-sdk-master/README.md
+drwxrwxr-x root/root         0 2019-04-01 15:19 ansible-operator-sdk-master/defaults/
+-rw-rw-r-- root/root       430 2019-04-01 15:19 ansible-operator-sdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-01 15:19 ansible-operator-sdk-master/handlers/
+-rw-rw-r-- root/root        36 2019-04-01 15:19 ansible-operator-sdk-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-01 15:19 ansible-operator-sdk-master/meta/
+-rw-rw-r-- root/root       208 2019-04-01 15:19 ansible-operator-sdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-01 15:19 ansible-operator-sdk-master/tasks/
+-rw-rw-r-- root/root       599 2019-04-01 15:19 ansible-operator-sdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-01 15:19 ansible-operator-sdk-master/tests/
+-rw-rw-r-- root/root        11 2019-04-01 15:19 ansible-operator-sdk-master/tests/inventory
+-rw-rw-r-- root/root        70 2019-04-01 15:19 ansible-operator-sdk-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-01 15:19 ansible-operator-sdk-master/vars/
+-rw-rw-r-- root/root        32 2019-04-01 15:19 ansible-operator-sdk-master/vars/main.yml

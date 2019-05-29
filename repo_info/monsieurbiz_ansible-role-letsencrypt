@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-02 05:51 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root       539 2017-03-02 05:51 ansible-role-letsencrypt-master/.travis.yml
+-rw-rw-r-- root/root      1079 2017-03-02 05:51 ansible-role-letsencrypt-master/LICENSE
+-rw-rw-r-- root/root       394 2017-03-02 05:51 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2017-03-02 05:51 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       590 2017-03-02 05:51 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-02 05:51 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root       461 2017-03-02 05:51 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-02 05:51 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root      1336 2017-03-02 05:51 ansible-role-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-02 05:51 ansible-role-letsencrypt-master/tests/
+drwxrwxr-x root/root         0 2017-03-02 05:51 ansible-role-letsencrypt-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-03-02 05:51 ansible-role-letsencrypt-master/tests/roles/monsieurbiz.letsencrypt -> ../../

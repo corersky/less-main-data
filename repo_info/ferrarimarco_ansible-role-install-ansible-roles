@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-03-25 10:47 ansible-role-install-ansible-roles-master/
+-rw-rw-r-- root/root      1729 2016-03-25 10:47 ansible-role-install-ansible-roles-master/.travis.yml
+-rw-rw-r-- root/root     11324 2016-03-25 10:47 ansible-role-install-ansible-roles-master/LICENSE
+-rw-rw-r-- root/root       865 2016-03-25 10:47 ansible-role-install-ansible-roles-master/README.md
+drwxrwxr-x root/root         0 2016-03-25 10:47 ansible-role-install-ansible-roles-master/meta/
+-rw-rw-r-- root/root       276 2016-03-25 10:47 ansible-role-install-ansible-roles-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-25 10:47 ansible-role-install-ansible-roles-master/tasks/
+-rw-rw-r-- root/root       581 2016-03-25 10:47 ansible-role-install-ansible-roles-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-25 10:47 ansible-role-install-ansible-roles-master/tests/
+-rw-rw-r-- root/root       318 2016-03-25 10:47 ansible-role-install-ansible-roles-master/tests/Dockerfile.ubuntu-14.04.4
+-rw-rw-r-- root/root       316 2016-03-25 10:47 ansible-role-install-ansible-roles-master/tests/Dockerfile.ubuntu-15.10
+-rw-rw-r-- root/root       140 2016-03-25 10:47 ansible-role-install-ansible-roles-master/tests/test.yml

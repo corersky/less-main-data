@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-08 02:07 ansible-role-coreos-pypy-master/
+-rw-rw-r-- root/root       235 2018-03-08 02:07 ansible-role-coreos-pypy-master/.editorconfig
+-rw-rw-r-- root/root      1064 2018-03-08 02:07 ansible-role-coreos-pypy-master/LICENSE
+-rw-rw-r-- root/root        57 2018-03-08 02:07 ansible-role-coreos-pypy-master/README.md
+drwxrwxr-x root/root         0 2018-03-08 02:07 ansible-role-coreos-pypy-master/defaults/
+-rw-rw-r-- root/root       358 2018-03-08 02:07 ansible-role-coreos-pypy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-08 02:07 ansible-role-coreos-pypy-master/files/
+-rw-rw-r-- root/root      1835 2018-03-08 02:07 ansible-role-coreos-pypy-master/files/coreos-pypy-generate.sh
+-rw-rw-r-- root/root   1595408 2018-03-08 02:07 ansible-role-coreos-pypy-master/files/get-pip.py
+drwxrwxr-x root/root         0 2018-03-08 02:07 ansible-role-coreos-pypy-master/meta/
+-rw-rw-r-- root/root       245 2018-03-08 02:07 ansible-role-coreos-pypy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-08 02:07 ansible-role-coreos-pypy-master/tasks/
+-rw-rw-r-- root/root      1314 2018-03-08 02:07 ansible-role-coreos-pypy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-08 02:07 ansible-role-coreos-pypy-master/tests/
+-rw-rw-r-- root/root       211 2018-03-08 02:07 ansible-role-coreos-pypy-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-18 08:46 ansible-pritunl-master/
+-rw-rw-r-- root/root       514 2018-02-18 08:46 ansible-pritunl-master/README.md
+drwxrwxr-x root/root         0 2018-02-18 08:46 ansible-pritunl-master/defaults/
+-rw-rw-r-- root/root        39 2018-02-18 08:46 ansible-pritunl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-18 08:46 ansible-pritunl-master/handlers/
+-rw-rw-r-- root/root       305 2018-02-18 08:46 ansible-pritunl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-18 08:46 ansible-pritunl-master/meta/
+-rw-rw-r-- root/root       541 2018-02-18 08:46 ansible-pritunl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-18 08:46 ansible-pritunl-master/tasks/
+-rw-rw-r-- root/root       872 2018-02-18 08:46 ansible-pritunl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-18 08:46 ansible-pritunl-master/tests/
+-rw-rw-r-- root/root        11 2018-02-18 08:46 ansible-pritunl-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-02-18 08:46 ansible-pritunl-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-18 08:46 ansible-pritunl-master/vars/
+-rw-rw-r-- root/root        35 2018-02-18 08:46 ansible-pritunl-master/vars/main.yml

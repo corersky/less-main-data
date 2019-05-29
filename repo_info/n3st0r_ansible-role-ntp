@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-11-08 08:18 ansible-role-ntp-master/
+-rw-rw-r-- root/root       920 2016-11-08 08:18 ansible-role-ntp-master/.travis.yml
+drwxrwxr-x root/root         0 2016-11-08 08:18 ansible-role-ntp-master/defaults/
+-rw-rw-r-- root/root       583 2016-11-08 08:18 ansible-role-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-08 08:18 ansible-role-ntp-master/handlers/
+-rw-rw-r-- root/root       116 2016-11-08 08:18 ansible-role-ntp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-08 08:18 ansible-role-ntp-master/meta/
+-rw-rw-r-- root/root       250 2016-11-08 08:18 ansible-role-ntp-master/meta/main.yml
+-rw-rw-r-- root/root      1955 2016-11-08 08:18 ansible-role-ntp-master/readme.md
+drwxrwxr-x root/root         0 2016-11-08 08:18 ansible-role-ntp-master/tasks/
+-rw-rw-r-- root/root       363 2016-11-08 08:18 ansible-role-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-08 08:18 ansible-role-ntp-master/templates/
+-rw-rw-r-- root/root       271 2016-11-08 08:18 ansible-role-ntp-master/templates/ntp.conf.j2
+drwxrwxr-x root/root         0 2016-11-08 08:18 ansible-role-ntp-master/tests/
+-rw-rw-r-- root/root        10 2016-11-08 08:18 ansible-role-ntp-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-11-08 08:18 ansible-role-ntp-master/tests/role.yml

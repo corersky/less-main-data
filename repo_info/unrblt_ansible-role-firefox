@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2016-07-31 16:08 ansible-role-firefox-master/
+-rw-rw-r-- root/root      2421 2016-07-31 16:08 ansible-role-firefox-master/README.md
+drwxrwxr-x root/root         0 2016-07-31 16:08 ansible-role-firefox-master/defaults/
+-rw-rw-r-- root/root       472 2016-07-31 16:08 ansible-role-firefox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-31 16:08 ansible-role-firefox-master/library/
+-rw-rw-r-- root/root      4643 2016-07-31 16:08 ansible-role-firefox-master/library/firefox_addon.py
+-rw-rw-r-- root/root      3747 2016-07-31 16:08 ansible-role-firefox-master/library/firefox_profile.py
+drwxrwxr-x root/root         0 2016-07-31 16:08 ansible-role-firefox-master/meta/
+-rw-rw-r-- root/root       301 2016-07-31 16:08 ansible-role-firefox-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-31 16:08 ansible-role-firefox-master/tasks/
+-rw-rw-r-- root/root       815 2016-07-31 16:08 ansible-role-firefox-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-31 16:08 ansible-role-firefox-master/templates/
+-rw-rw-r-- root/root       225 2016-07-31 16:08 ansible-role-firefox-master/templates/user.js.j2
+drwxrwxr-x root/root         0 2016-07-31 16:08 ansible-role-firefox-master/tests/
+-rw-rw-r-- root/root        10 2016-07-31 16:08 ansible-role-firefox-master/tests/inventory
+drwxrwxr-x root/root         0 2016-07-31 16:08 ansible-role-firefox-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-07-31 16:08 ansible-role-firefox-master/tests/roles/firefox -> ../../../firefox
+-rw-rw-r-- root/root       438 2016-07-31 16:08 ansible-role-firefox-master/tests/test.yml

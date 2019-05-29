@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-30 18:12 lin-base-master/
+-rw-rw-r-- root/root        80 2018-09-30 18:12 lin-base-master/.gitignore
+-rw-rw-r-- root/root       691 2018-09-30 18:12 lin-base-master/README.md
+drwxrwxr-x root/root         0 2018-09-30 18:12 lin-base-master/defaults/
+-rw-rw-r-- root/root       257 2018-09-30 18:12 lin-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:12 lin-base-master/handlers/
+-rw-rw-r-- root/root       685 2018-09-30 18:12 lin-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:12 lin-base-master/meta/
+-rw-rw-r-- root/root       359 2018-09-30 18:12 lin-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:12 lin-base-master/tasks/
+-rw-rw-r-- root/root        33 2018-09-30 18:12 lin-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:12 lin-base-master/tests/
+-rw-rw-r-- root/root        11 2018-09-30 18:12 lin-base-master/tests/inventory
+-rw-rw-r-- root/root        66 2018-09-30 18:12 lin-base-master/tests/test.yml

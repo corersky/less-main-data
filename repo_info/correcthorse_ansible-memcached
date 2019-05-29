@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-21 12:24 ansible-memcached-master/
+-rw-rw-r-- root/root      1080 2017-03-21 12:24 ansible-memcached-master/LICENSE
+-rw-rw-r-- root/root      1423 2017-03-21 12:24 ansible-memcached-master/README.md
+drwxrwxr-x root/root         0 2017-03-21 12:24 ansible-memcached-master/defaults/
+-rw-rw-r-- root/root       212 2017-03-21 12:24 ansible-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-21 12:24 ansible-memcached-master/handlers/
+-rw-rw-r-- root/root       281 2017-03-21 12:24 ansible-memcached-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-21 12:24 ansible-memcached-master/meta/
+-rw-rw-r-- root/root       233 2017-03-21 12:24 ansible-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-21 12:24 ansible-memcached-master/tasks/
+-rw-rw-r-- root/root      2168 2017-03-21 12:24 ansible-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-21 12:24 ansible-memcached-master/templates/
+-rw-rw-r-- root/root       287 2017-03-21 12:24 ansible-memcached-master/templates/memcached.service.j2
+-rw-rw-r-- root/root       531 2017-03-21 12:24 ansible-memcached-master/templates/sysconfig.j2
+drwxrwxr-x root/root         0 2017-03-21 12:24 ansible-memcached-master/vars/
+-rw-rw-r-- root/root        30 2017-03-21 12:24 ansible-memcached-master/vars/main.yml

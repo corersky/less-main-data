@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/
+-rw-rw-r-- root/root         0 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/README.md
+drwxrwxr-x root/root         0 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/defaults/
+-rw-rw-r-- root/root       134 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/meta/
+-rw-rw-r-- root/root       341 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/tasks/
+-rw-rw-r-- root/root      1327 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/templates/
+-rw-rw-r-- root/root       235 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/templates/adminer.conf.j2
+drwxrwxr-x root/root         0 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/tests/
+-rw-rw-r-- root/root        10 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/tests/inventory
+-rw-rw-r-- root/root       160 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/tests/test-apache.yml
+-rw-rw-r-- root/root       175 2015-12-27 16:17 ansible-role-virtualenv-adminer-master/tests/test-standalone.yml

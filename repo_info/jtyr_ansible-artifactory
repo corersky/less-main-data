@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-19 06:30 ansible-artifactory-master/
+-rw-rw-r-- root/root         0 2017-04-19 06:30 ansible-artifactory-master/.gitignore
+-rw-rw-r-- root/root      1088 2017-04-19 06:30 ansible-artifactory-master/LICENSE
+-rw-rw-r-- root/root      4653 2017-04-19 06:30 ansible-artifactory-master/README.md
+drwxrwxr-x root/root         0 2017-04-19 06:30 ansible-artifactory-master/defaults/
+-rw-rw-r-- root/root      3025 2017-04-19 06:30 ansible-artifactory-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-04-19 06:30 ansible-artifactory-master/handlers/
+-rw-rw-r-- root/root       214 2017-04-19 06:30 ansible-artifactory-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-04-19 06:30 ansible-artifactory-master/meta/
+-rw-rw-r-- root/root       282 2017-04-19 06:30 ansible-artifactory-master/meta/main.yaml
+drwxrwxr-x root/root         0 2017-04-19 06:30 ansible-artifactory-master/tasks/
+-rw-rw-r-- root/root      3496 2017-04-19 06:30 ansible-artifactory-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-04-19 06:30 ansible-artifactory-master/templates/
+-rw-rw-r-- root/root        72 2017-04-19 06:30 ansible-artifactory-master/templates/db.properties.j2

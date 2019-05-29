@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-28 02:13 ansible_bash_easy_github_settings-master/
+-rw-rw-r-- root/root        90 2018-11-28 02:13 ansible_bash_easy_github_settings-master/.gitignore
+-rw-rw-r-- root/root      1422 2018-11-28 02:13 ansible_bash_easy_github_settings-master/README.md
+drwxrwxr-x root/root         0 2018-11-28 02:13 ansible_bash_easy_github_settings-master/defaults/
+-rw-rw-r-- root/root       490 2018-11-28 02:13 ansible_bash_easy_github_settings-master/defaults/main.yml.default
+drwxrwxr-x root/root         0 2018-11-28 02:13 ansible_bash_easy_github_settings-master/files/
+-rw-rw-r-- root/root         0 2018-11-28 02:13 ansible_bash_easy_github_settings-master/files/.gitkeep
+drwxrwxr-x root/root         0 2018-11-28 02:13 ansible_bash_easy_github_settings-master/meta/
+-rw-rw-r-- root/root       353 2018-11-28 02:13 ansible_bash_easy_github_settings-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-28 02:13 ansible_bash_easy_github_settings-master/tasks/
+-rw-rw-r-- root/root       441 2018-11-28 02:13 ansible_bash_easy_github_settings-master/tasks/github_api.yml
+-rw-rw-r-- root/root       636 2018-11-28 02:13 ansible_bash_easy_github_settings-master/tasks/github_easy_shell.yml
+-rw-rw-r-- root/root        94 2018-11-28 02:13 ansible_bash_easy_github_settings-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-28 02:13 ansible_bash_easy_github_settings-master/templates/
+-rw-rw-r-- root/root       180 2018-11-28 02:13 ansible_bash_easy_github_settings-master/templates/settings.conf.j2

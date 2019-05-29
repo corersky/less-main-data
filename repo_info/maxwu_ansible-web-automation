@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-10 11:40 ansible-web-automation-master/
+-rw-rw-r-- root/root      1421 2017-04-10 11:40 ansible-web-automation-master/.travis.yml
+-rw-rw-r-- root/root      1236 2017-04-10 11:40 ansible-web-automation-master/README.md
+drwxrwxr-x root/root         0 2017-04-10 11:40 ansible-web-automation-master/defaults/
+-rw-rw-r-- root/root       207 2017-04-10 11:40 ansible-web-automation-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-10 11:40 ansible-web-automation-master/handlers/
+-rw-rw-r-- root/root        39 2017-04-10 11:40 ansible-web-automation-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-10 11:40 ansible-web-automation-master/meta/
+-rw-rw-r-- root/root      2179 2017-04-10 11:40 ansible-web-automation-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-10 11:40 ansible-web-automation-master/tasks/
+-rw-rw-r-- root/root        36 2017-04-10 11:40 ansible-web-automation-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-10 11:40 ansible-web-automation-master/tests/
+-rw-rw-r-- root/root         9 2017-04-10 11:40 ansible-web-automation-master/tests/inventory
+-rw-rw-r-- root/root       247 2017-04-10 11:40 ansible-web-automation-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-10 11:40 ansible-web-automation-master/vars/
+-rw-rw-r-- root/root        35 2017-04-10 11:40 ansible-web-automation-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-04-14 19:47 ansible-role-cloudstack-management-master/
+-rwxrwxr-x root/root      2527 2016-04-14 19:47 ansible-role-cloudstack-management-master/README.md
+-rwxrwxr-x root/root        28 2016-04-14 19:47 ansible-role-cloudstack-management-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-04-14 19:47 ansible-role-cloudstack-management-master/defaults/
+-rwxrwxr-x root/root       775 2016-04-14 19:47 ansible-role-cloudstack-management-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:47 ansible-role-cloudstack-management-master/handlers/
+-rwxrwxr-x root/root        59 2016-04-14 19:47 ansible-role-cloudstack-management-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:47 ansible-role-cloudstack-management-master/meta/
+-rwxrwxr-x root/root       258 2016-04-14 19:47 ansible-role-cloudstack-management-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:47 ansible-role-cloudstack-management-master/tasks/
+-rwxrwxr-x root/root       730 2016-04-14 19:47 ansible-role-cloudstack-management-master/tasks/main.yml
+-rwxrwxr-x root/root       418 2016-04-14 19:47 ansible-role-cloudstack-management-master/tasks/master_setup.yml
+-rwxrwxr-x root/root       362 2016-04-14 19:47 ansible-role-cloudstack-management-master/tasks/node_setup.yml
+-rwxrwxr-x root/root      1431 2016-04-14 19:47 ansible-role-cloudstack-management-master/tasks/secondary_storage.yml
+-rwxrwxr-x root/root      1221 2016-04-14 19:47 ansible-role-cloudstack-management-master/test.yml
+drwxrwxr-x root/root         0 2016-04-14 19:47 ansible-role-cloudstack-management-master/vars/
+-rwxrwxr-x root/root        55 2016-04-14 19:47 ansible-role-cloudstack-management-master/vars/main.yml

@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/
+-rw-rw-r-- root/root         2 2017-03-02 09:01 ansible-tor-browser-bundle-master/.gitignore
+-rw-rw-r-- root/root       555 2017-03-02 09:01 ansible-tor-browser-bundle-master/.travis.yml
+-rw-rw-r-- root/root       808 2017-03-02 09:01 ansible-tor-browser-bundle-master/README.md
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/defaults/
+-rw-rw-r-- root/root       200 2017-03-02 09:01 ansible-tor-browser-bundle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/handlers/
+-rw-rw-r-- root/root        43 2017-03-02 09:01 ansible-tor-browser-bundle-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/meta/
+-rw-rw-r-- root/root       197 2017-03-02 09:01 ansible-tor-browser-bundle-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/tasks/
+-rw-rw-r-- root/root       592 2017-03-02 09:01 ansible-tor-browser-bundle-master/tasks/download_tbb.yml
+-rw-rw-r-- root/root       715 2017-03-02 09:01 ansible-tor-browser-bundle-master/tasks/extract_tbb.yml
+-rw-rw-r-- root/root       157 2017-03-02 09:01 ansible-tor-browser-bundle-master/tasks/install_apt_dependencies.yml
+-rw-rw-r-- root/root       195 2017-03-02 09:01 ansible-tor-browser-bundle-master/tasks/main.yml
+-rw-rw-r-- root/root       450 2017-03-02 09:01 ansible-tor-browser-bundle-master/tasks/verify_tbb.yml
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/tests/
+-rw-rw-r-- root/root         9 2017-03-02 09:01 ansible-tor-browser-bundle-master/tests/inventory
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/tests/roles/tor-browser-bundle -> ../..
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/tests/tasks/
+-rw-rw-r-- root/root       279 2017-03-02 09:01 ansible-tor-browser-bundle-master/tests/tasks/main.yml
+-rw-rw-r-- root/root       107 2017-03-02 09:01 ansible-tor-browser-bundle-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-02 09:01 ansible-tor-browser-bundle-master/vars/
+-rw-rw-r-- root/root       804 2017-03-02 09:01 ansible-tor-browser-bundle-master/vars/main.yml

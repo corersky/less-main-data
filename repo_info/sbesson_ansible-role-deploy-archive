@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-11 10:23 ansible-role-deploy-archive-master/
+-rw-rw-r-- root/root       222 2018-07-11 10:23 ansible-role-deploy-archive-master/.travis.yml
+-rw-rw-r-- root/root      1197 2018-07-11 10:23 ansible-role-deploy-archive-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 10:23 ansible-role-deploy-archive-master/defaults/
+-rw-rw-r-- root/root       690 2018-07-11 10:23 ansible-role-deploy-archive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-11 10:23 ansible-role-deploy-archive-master/meta/
+-rw-rw-r-- root/root       298 2018-07-11 10:23 ansible-role-deploy-archive-master/meta/main.yml
+-rw-rw-r-- root/root       452 2018-07-11 10:23 ansible-role-deploy-archive-master/molecule.yml
+-rw-rw-r-- root/root      1024 2018-07-11 10:23 ansible-role-deploy-archive-master/playbook.yml
+drwxrwxr-x root/root         0 2018-07-11 10:23 ansible-role-deploy-archive-master/tasks/
+-rw-rw-r-- root/root      1134 2018-07-11 10:23 ansible-role-deploy-archive-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-11 10:23 ansible-role-deploy-archive-master/tests/
+-rw-rw-r-- root/root       804 2018-07-11 10:23 ansible-role-deploy-archive-master/tests/test_default.py

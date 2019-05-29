@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-16 22:22 ansible-role-pimpmylog-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:22 ansible-role-pimpmylog-master/.gitignore
+-rw-rw-r-- root/root       526 2019-05-16 22:22 ansible-role-pimpmylog-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:22 ansible-role-pimpmylog-master/LICENSE
+-rw-rw-r-- root/root      2059 2019-05-16 22:22 ansible-role-pimpmylog-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:22 ansible-role-pimpmylog-master/defaults/
+-rw-rw-r-- root/root       161 2019-05-16 22:22 ansible-role-pimpmylog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:22 ansible-role-pimpmylog-master/meta/
+-rw-rw-r-- root/root       446 2019-05-16 22:22 ansible-role-pimpmylog-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:22 ansible-role-pimpmylog-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:22 ansible-role-pimpmylog-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:22 ansible-role-pimpmylog-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       697 2019-05-16 22:22 ansible-role-pimpmylog-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        76 2019-05-16 22:22 ansible-role-pimpmylog-master/molecule/default/requirements.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:22 ansible-role-pimpmylog-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:22 ansible-role-pimpmylog-master/tasks/
+-rw-rw-r-- root/root       353 2019-05-16 22:22 ansible-role-pimpmylog-master/tasks/main.yml

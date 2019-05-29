@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-27 19:00 ansible-role-ruby-master/
+-rw-rw-r-- root/root        10 2017-03-27 19:00 ansible-role-ruby-master/.gitignore
+-rw-rw-r-- root/root      1474 2017-03-27 19:00 ansible-role-ruby-master/.travis.yml
+-rw-rw-r-- root/root       724 2017-03-27 19:00 ansible-role-ruby-master/README.md
+drwxrwxr-x root/root         0 2017-03-27 19:00 ansible-role-ruby-master/defaults/
+-rw-rw-r-- root/root        43 2017-03-27 19:00 ansible-role-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-27 19:00 ansible-role-ruby-master/meta/
+-rw-rw-r-- root/root       315 2017-03-27 19:00 ansible-role-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-27 19:00 ansible-role-ruby-master/tasks/
+-rw-rw-r-- root/root       868 2017-03-27 19:00 ansible-role-ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-27 19:00 ansible-role-ruby-master/tests/
+-rw-rw-r-- root/root         9 2017-03-27 19:00 ansible-role-ruby-master/tests/inventory
+-rw-rw-r-- root/root        28 2017-03-27 19:00 ansible-role-ruby-master/tests/requirements.yml
+-rw-rw-r-- root/root        76 2017-03-27 19:00 ansible-role-ruby-master/tests/test.yml

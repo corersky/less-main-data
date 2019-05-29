@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-04-07 16:49 sardpost.elasticsearch-master/
+-rw-rw-r-- root/root     35141 2016-04-07 16:49 sardpost.elasticsearch-master/LICENSE
+-rw-rw-r-- root/root       708 2016-04-07 16:49 sardpost.elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2016-04-07 16:49 sardpost.elasticsearch-master/defaults/
+-rw-rw-r-- root/root        47 2016-04-07 16:49 sardpost.elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-07 16:49 sardpost.elasticsearch-master/handlers/
+-rw-rw-r-- root/root        47 2016-04-07 16:49 sardpost.elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-07 16:49 sardpost.elasticsearch-master/meta/
+-rw-rw-r-- root/root       302 2016-04-07 16:49 sardpost.elasticsearch-master/meta/main.yml
+-rw-rw-r-- root/root        40 2016-04-07 16:49 sardpost.elasticsearch-master/requirements.yml
+drwxrwxr-x root/root         0 2016-04-07 16:49 sardpost.elasticsearch-master/tasks/
+-rw-rw-r-- root/root      1460 2016-04-07 16:49 sardpost.elasticsearch-master/tasks/EL.yml
+-rw-rw-r-- root/root       184 2016-04-07 16:49 sardpost.elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-07 16:49 sardpost.elasticsearch-master/templates/
+-rw-rw-r-- root/root       202 2016-04-07 16:49 sardpost.elasticsearch-master/templates/elasticsearch.repo.j2
+drwxrwxr-x root/root         0 2016-04-07 16:49 sardpost.elasticsearch-master/vars/
+-rw-rw-r-- root/root        43 2016-04-07 16:49 sardpost.elasticsearch-master/vars/main.yml

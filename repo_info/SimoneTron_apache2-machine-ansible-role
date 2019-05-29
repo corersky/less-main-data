@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-30 05:46 apache2-machine-ansible-role-master/
+-rw-rw-r-- root/root      1328 2019-01-30 05:46 apache2-machine-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2019-01-30 05:46 apache2-machine-ansible-role-master/defaults/
+-rw-rw-r-- root/root        31 2019-01-30 05:46 apache2-machine-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:46 apache2-machine-ansible-role-master/handlers/
+-rw-rw-r-- root/root       111 2019-01-30 05:46 apache2-machine-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:46 apache2-machine-ansible-role-master/meta/
+-rw-rw-r-- root/root      1973 2019-01-30 05:46 apache2-machine-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:46 apache2-machine-ansible-role-master/tasks/
+-rw-rw-r-- root/root       424 2019-01-30 05:46 apache2-machine-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:46 apache2-machine-ansible-role-master/tests/
+-rw-rw-r-- root/root        11 2019-01-30 05:46 apache2-machine-ansible-role-master/tests/inventory
+-rw-rw-r-- root/root        65 2019-01-30 05:46 apache2-machine-ansible-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-30 05:46 apache2-machine-ansible-role-master/vars/
+-rw-rw-r-- root/root        27 2019-01-30 05:46 apache2-machine-ansible-role-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-23 13:40 ansible-nvidia-docker-master/
+-rw-rw-r-- root/root         8 2018-09-23 13:40 ansible-nvidia-docker-master/.gitignore
+-rw-rw-r-- root/root      1080 2018-09-23 13:40 ansible-nvidia-docker-master/LICENSE
+-rw-rw-r-- root/root       469 2018-09-23 13:40 ansible-nvidia-docker-master/README.md
+drwxrwxr-x root/root         0 2018-09-23 13:40 ansible-nvidia-docker-master/defaults/
+-rw-rw-r-- root/root        29 2018-09-23 13:40 ansible-nvidia-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-23 13:40 ansible-nvidia-docker-master/handlers/
+-rw-rw-r-- root/root        76 2018-09-23 13:40 ansible-nvidia-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-23 13:40 ansible-nvidia-docker-master/meta/
+-rw-rw-r-- root/root       267 2018-09-23 13:40 ansible-nvidia-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-23 13:40 ansible-nvidia-docker-master/tasks/
+-rw-rw-r-- root/root       448 2018-09-23 13:40 ansible-nvidia-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-23 13:40 ansible-nvidia-docker-master/tests/
+-rw-rw-r-- root/root         7 2018-09-23 13:40 ansible-nvidia-docker-master/tests/inventory
+-rw-rw-r-- root/root        60 2018-09-23 13:40 ansible-nvidia-docker-master/tests/requirements.yml
+-rw-rw-r-- root/root       615 2018-09-23 13:40 ansible-nvidia-docker-master/tests/test.yml

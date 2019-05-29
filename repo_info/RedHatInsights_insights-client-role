@@ -1,0 +1,32 @@
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/
+-rw-rw-r-- root/root       296 2019-04-23 14:27 insights-client-role-master/.yamllint
+-rw-rw-r-- root/root     10175 2019-04-23 14:27 insights-client-role-master/LICENSE
+-rw-rw-r-- root/root      5487 2019-04-23 14:27 insights-client-role-master/README.md
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/action_plugins/
+-rw-rw-r-- root/root      1375 2019-04-23 14:27 insights-client-role-master/action_plugins/insights_config.py
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/examples/
+-rw-rw-r-- root/root        71 2019-04-23 14:27 insights-client-role-master/examples/example-insights-client-playbook.yml
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/files/
+-rwxrwxr-x root/root       989 2019-04-23 14:27 insights-client-role-master/files/insights.fact
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/library/
+-rw-rw-r-- root/root      2587 2019-04-23 14:27 insights-client-role-master/library/insights_config.py
+-rw-rw-r-- root/root      5133 2019-04-23 14:27 insights-client-role-master/library/insights_register.py
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/meta/
+-rw-rw-r-- root/root       313 2019-04-23 14:27 insights-client-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/molecule/
+-rw-rw-r-- root/root      2470 2019-04-23 14:27 insights-client-role-master/molecule/README.md
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/molecule/default/
+-rw-rw-r-- root/root       232 2019-04-23 14:27 insights-client-role-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2289 2019-04-23 14:27 insights-client-role-master/molecule/default/create.yml
+-rw-rw-r-- root/root      1101 2019-04-23 14:27 insights-client-role-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       399 2019-04-23 14:27 insights-client-role-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       287 2019-04-23 14:27 insights-client-role-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root       631 2019-04-23 14:27 insights-client-role-master/molecule/default/prepare.yml
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/molecule/default/tests/
+-rw-rw-r-- root/root       531 2019-04-23 14:27 insights-client-role-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/tasks/
+-rw-rw-r-- root/root      1774 2019-04-23 14:27 insights-client-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/tests/
+lrwxrwxrwx root/root         0 2019-04-23 14:27 insights-client-role-master/tests/example-insights-client-playbook.yml -> ../examples/example-insights-client-playbook.yml
+drwxrwxr-x root/root         0 2019-04-23 14:27 insights-client-role-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-04-23 14:27 insights-client-role-master/tests/roles/RedHatInsights.insights-client -> ../..

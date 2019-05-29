@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-26 12:42 ansible-zeromq-master/
+-rw-rw-r-- root/root        30 2016-04-26 12:42 ansible-zeromq-master/.gitignore
+-rw-rw-r-- root/root       281 2016-04-26 12:42 ansible-zeromq-master/.travis.yml
+-rw-rw-r-- root/root      1197 2016-04-26 12:42 ansible-zeromq-master/LICENSE
+-rw-rw-r-- root/root       112 2016-04-26 12:42 ansible-zeromq-master/README.md
+drwxrwxr-x root/root         0 2016-04-26 12:42 ansible-zeromq-master/defaults/
+-rw-rw-r-- root/root       135 2016-04-26 12:42 ansible-zeromq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-26 12:42 ansible-zeromq-master/meta/
+-rw-rw-r-- root/root        60 2016-04-26 12:42 ansible-zeromq-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       330 2016-04-26 12:42 ansible-zeromq-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-26 12:42 ansible-zeromq-master/tasks/
+-rw-rw-r-- root/root       637 2016-04-26 12:42 ansible-zeromq-master/tasks/main.yml
+-rw-rw-r-- root/root       257 2016-04-26 12:42 ansible-zeromq-master/test_role.yml
+drwxrwxr-x root/root         0 2016-04-26 12:42 ansible-zeromq-master/vagrant/
+-rw-rw-r-- root/root       473 2016-04-26 12:42 ansible-zeromq-master/vagrant/Vagrantfile
+-rw-rw-r-- root/root        38 2016-04-26 12:42 ansible-zeromq-master/vagrant/inventory

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-09-07 08:07 sonarqube-master/
+-rw-rw-r-- root/root      1167 2018-09-07 08:07 sonarqube-master/README.md
+drwxrwxr-x root/root         0 2018-09-07 08:07 sonarqube-master/defaults/
+-rw-rw-r-- root/root        97 2018-09-07 08:07 sonarqube-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-07 08:07 sonarqube-master/meta/
+-rw-rw-r-- root/root       284 2018-09-07 08:07 sonarqube-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-07 08:07 sonarqube-master/tasks/
+-rw-rw-r-- root/root       517 2018-09-07 08:07 sonarqube-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-07 08:07 sonarqube-master/templates/
+-rw-rw-r-- root/root       121 2018-09-07 08:07 sonarqube-master/templates/sonar.properties
+-rw-rw-r-- root/root       284 2018-09-07 08:07 sonarqube-master/templates/sonar.service

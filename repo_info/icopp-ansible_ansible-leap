@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-leap-master/
+-rw-rw-r-- root/root       672 2016-09-16 13:23 ansible-leap-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-16 13:23 ansible-leap-master/LICENSE
+-rw-rw-r-- root/root       590 2016-09-16 13:23 ansible-leap-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-leap-master/defaults/
+-rw-rw-r-- root/root        36 2016-09-16 13:23 ansible-leap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-leap-master/meta/
+-rw-rw-r-- root/root       461 2016-09-16 13:23 ansible-leap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-leap-master/tasks/
+-rw-rw-r-- root/root       407 2016-09-16 13:23 ansible-leap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-leap-master/tests/
+-rw-rw-r-- root/root         9 2016-09-16 13:23 ansible-leap-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-09-16 13:23 ansible-leap-master/tests/test.yml

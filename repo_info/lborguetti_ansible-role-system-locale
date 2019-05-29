@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-03-22 09:57 ansible-role-system-locale-master/
+-rw-rw-r-- root/root       452 2015-03-22 09:57 ansible-role-system-locale-master/.travis.yml
+-rw-rw-r-- root/root     18027 2015-03-22 09:57 ansible-role-system-locale-master/LICENSE
+-rw-rw-r-- root/root      1003 2015-03-22 09:57 ansible-role-system-locale-master/README.md
+drwxrwxr-x root/root         0 2015-03-22 09:57 ansible-role-system-locale-master/defaults/
+-rw-rw-r-- root/root        83 2015-03-22 09:57 ansible-role-system-locale-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-22 09:57 ansible-role-system-locale-master/meta/
+-rw-rw-r-- root/root       248 2015-03-22 09:57 ansible-role-system-locale-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-22 09:57 ansible-role-system-locale-master/tasks/
+-rw-rw-r-- root/root       226 2015-03-22 09:57 ansible-role-system-locale-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-22 09:57 ansible-role-system-locale-master/tests/
+-rw-rw-r-- root/root        10 2015-03-22 09:57 ansible-role-system-locale-master/tests/inventory
+-rw-rw-r-- root/root        85 2015-03-22 09:57 ansible-role-system-locale-master/tests/test.yml

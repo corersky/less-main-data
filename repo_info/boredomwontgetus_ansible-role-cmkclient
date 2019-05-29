@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2018-06-04 05:16 ansible-role-cmkclient-master/
+-rw-rw-r-- root/root       540 2018-06-04 05:16 ansible-role-cmkclient-master/.travis.yml
+-rw-rw-r-- root/root      4331 2018-06-04 05:16 ansible-role-cmkclient-master/README.md
+drwxrwxr-x root/root         0 2018-06-04 05:16 ansible-role-cmkclient-master/defaults/
+-rw-rw-r-- root/root       748 2018-06-04 05:16 ansible-role-cmkclient-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-04 05:16 ansible-role-cmkclient-master/meta/
+-rw-rw-r-- root/root       450 2018-06-04 05:16 ansible-role-cmkclient-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/
+-rw-rw-r-- root/root       614 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/add_host_key.yml
+-rw-rw-r-- root/root      3044 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/add_host_to_cmk.yml
+-rw-rw-r-- root/root       521 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/create_user.yml
+-rw-rw-r-- root/root      1918 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/install_pkg.yml
+-rw-rw-r-- root/root       611 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/install_plugins.yml
+-rw-rw-r-- root/root       475 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/main.yml
+-rw-rw-r-- root/root       397 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/pwexpire.yml
+-rw-rw-r-- root/root      2027 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/remove_host_from_cmk.yml
+-rw-rw-r-- root/root       205 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/ssh_pubkey.yml
+-rw-rw-r-- root/root       446 2018-06-04 05:16 ansible-role-cmkclient-master/tasks/sudo.yml
+drwxrwxr-x root/root         0 2018-06-04 05:16 ansible-role-cmkclient-master/tests/
+-rw-rw-r-- root/root        11 2018-06-04 05:16 ansible-role-cmkclient-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-06-04 05:16 ansible-role-cmkclient-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-04 05:16 ansible-role-cmkclient-master/vars/
+-rw-rw-r-- root/root       352 2018-06-04 05:16 ansible-role-cmkclient-master/vars/apt.yml
+-rw-rw-r-- root/root       332 2018-06-04 05:16 ansible-role-cmkclient-master/vars/dnf.yml
+lrwxrwxrwx root/root         0 2018-06-04 05:16 ansible-role-cmkclient-master/vars/yum.yml -> dnf.yml

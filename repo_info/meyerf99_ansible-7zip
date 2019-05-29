@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-29 09:00 ansible-7zip-master/
+-rw-rw-r-- root/root       752 2017-05-29 09:00 ansible-7zip-master/README.md
+drwxrwxr-x root/root         0 2017-05-29 09:00 ansible-7zip-master/defaults/
+-rw-rw-r-- root/root        52 2017-05-29 09:00 ansible-7zip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-29 09:00 ansible-7zip-master/handlers/
+-rw-rw-r-- root/root        28 2017-05-29 09:00 ansible-7zip-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-29 09:00 ansible-7zip-master/meta/
+-rw-rw-r-- root/root       261 2017-05-29 09:00 ansible-7zip-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-29 09:00 ansible-7zip-master/tasks/
+-rw-rw-r-- root/root       935 2017-05-29 09:00 ansible-7zip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-29 09:00 ansible-7zip-master/tests/
+-rw-rw-r-- root/root        11 2017-05-29 09:00 ansible-7zip-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-05-29 09:00 ansible-7zip-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-29 09:00 ansible-7zip-master/vars/
+-rw-rw-r-- root/root        24 2017-05-29 09:00 ansible-7zip-master/vars/main.yml

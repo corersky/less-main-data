@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-01 06:46 ansible-role-virt_guest-master/
+-rw-rw-r-- root/root     11357 2018-09-01 06:46 ansible-role-virt_guest-master/LICENSE
+-rw-rw-r-- root/root      1086 2018-09-01 06:46 ansible-role-virt_guest-master/README.md
+drwxrwxr-x root/root         0 2018-09-01 06:46 ansible-role-virt_guest-master/defaults/
+-rw-rw-r-- root/root       476 2018-09-01 06:46 ansible-role-virt_guest-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-01 06:46 ansible-role-virt_guest-master/library/
+-rw-rw-r-- root/root      3985 2018-09-01 06:46 ansible-role-virt_guest-master/library/qemu_img
+drwxrwxr-x root/root         0 2018-09-01 06:46 ansible-role-virt_guest-master/meta/
+-rw-rw-r-- root/root       349 2018-09-01 06:46 ansible-role-virt_guest-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-01 06:46 ansible-role-virt_guest-master/tasks/
+-rw-rw-r-- root/root       852 2018-09-01 06:46 ansible-role-virt_guest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-01 06:46 ansible-role-virt_guest-master/templates/
+-rw-rw-r-- root/root      1448 2018-09-01 06:46 ansible-role-virt_guest-master/templates/guest.xml.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-07-01 12:14 ansible-localcloud-redis-master/
+-rw-rw-r-- root/root       516 2016-07-01 12:14 ansible-localcloud-redis-master/README.md
+drwxrwxr-x root/root         0 2016-07-01 12:14 ansible-localcloud-redis-master/defaults/
+-rw-rw-r-- root/root        80 2016-07-01 12:14 ansible-localcloud-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-01 12:14 ansible-localcloud-redis-master/handlers/
+-rw-rw-r-- root/root       109 2016-07-01 12:14 ansible-localcloud-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-01 12:14 ansible-localcloud-redis-master/meta/
+-rw-rw-r-- root/root       282 2016-07-01 12:14 ansible-localcloud-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-01 12:14 ansible-localcloud-redis-master/tasks/
+-rw-rw-r-- root/root       299 2016-07-01 12:14 ansible-localcloud-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-01 12:14 ansible-localcloud-redis-master/templates/
+-rw-rw-r-- root/root     30191 2016-07-01 12:14 ansible-localcloud-redis-master/templates/redis.conf
+-rw-rw-r-- root/root      5662 2016-07-01 12:14 ansible-localcloud-redis-master/templates/sentinel.conf

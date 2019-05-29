@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-ospp-master/
+-rw-rw-r-- root/root      3513 2018-12-11 10:13 rhel7-role-ospp-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-ospp-master/defaults/
+-rw-rw-r-- root/root        39 2018-12-11 10:13 rhel7-role-ospp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-ospp-master/handlers/
+-rw-rw-r-- root/root        39 2018-12-11 10:13 rhel7-role-ospp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-ospp-master/meta/
+-rw-rw-r-- root/root       526 2018-12-11 10:13 rhel7-role-ospp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-ospp-master/tasks/
+-rw-rw-r-- root/root    331369 2018-12-11 10:13 rhel7-role-ospp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-ospp-master/tests/
+-rw-rw-r-- root/root        11 2018-12-11 10:13 rhel7-role-ospp-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-12-11 10:13 rhel7-role-ospp-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-11 10:13 rhel7-role-ospp-master/vars/
+-rw-rw-r-- root/root      5571 2018-12-11 10:13 rhel7-role-ospp-master/vars/main.yml

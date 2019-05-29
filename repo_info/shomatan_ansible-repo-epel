@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-03-25 19:28 ansible-repo-epel-master/
+-rw-rw-r-- root/root      1314 2017-03-25 19:28 ansible-repo-epel-master/.travis.yml
+-rw-rw-r-- root/root       483 2017-03-25 19:28 ansible-repo-epel-master/README.md
+drwxrwxr-x root/root         0 2017-03-25 19:28 ansible-repo-epel-master/meta/
+-rw-rw-r-- root/root       258 2017-03-25 19:28 ansible-repo-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-25 19:28 ansible-repo-epel-master/tasks/
+-rw-rw-r-- root/root        83 2017-03-25 19:28 ansible-repo-epel-master/tasks/main.yml
+-rw-rw-r-- root/root       280 2017-03-25 19:28 ansible-repo-epel-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2017-03-25 19:28 ansible-repo-epel-master/tests/
+-rw-rw-r-- root/root        35 2017-03-25 19:28 ansible-repo-epel-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-03-25 19:28 ansible-repo-epel-master/tests/test.yml

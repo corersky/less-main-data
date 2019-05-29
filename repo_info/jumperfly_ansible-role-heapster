@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-11-11 08:53 ansible-role-heapster-master/
+-rw-rw-r-- root/root       106 2018-11-11 08:53 ansible-role-heapster-master/.gitignore
+drwxrwxr-x root/root         0 2018-11-11 08:53 ansible-role-heapster-master/defaults/
+-rw-rw-r-- root/root       143 2018-11-11 08:53 ansible-role-heapster-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 08:53 ansible-role-heapster-master/meta/
+-rw-rw-r-- root/root       197 2018-11-11 08:53 ansible-role-heapster-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 08:53 ansible-role-heapster-master/tasks/
+-rw-rw-r-- root/root       478 2018-11-11 08:53 ansible-role-heapster-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 08:53 ansible-role-heapster-master/templates/
+-rw-rw-r-- root/root      1056 2018-11-11 08:53 ansible-role-heapster-master/templates/heapster.yml.j2

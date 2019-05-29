@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-12 08:37 ansible-role-jetty-master/
+-rw-rw-r-- root/root       318 2019-03-12 08:37 ansible-role-jetty-master/.travis.yml
+-rw-rw-r-- root/root      2965 2019-03-12 08:37 ansible-role-jetty-master/CONTRIBUTING.md
+-rw-rw-r-- root/root      1072 2019-03-12 08:37 ansible-role-jetty-master/LICENSE
+-rw-rw-r-- root/root      2747 2019-03-12 08:37 ansible-role-jetty-master/README.md
+drwxrwxr-x root/root         0 2019-03-12 08:37 ansible-role-jetty-master/defaults/
+-rw-rw-r-- root/root      1214 2019-03-12 08:37 ansible-role-jetty-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-12 08:37 ansible-role-jetty-master/meta/
+-rw-rw-r-- root/root       281 2019-03-12 08:37 ansible-role-jetty-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-12 08:37 ansible-role-jetty-master/tasks/
+-rw-rw-r-- root/root       690 2019-03-12 08:37 ansible-role-jetty-master/tasks/cleanup.yml
+-rw-rw-r-- root/root        75 2019-03-12 08:37 ansible-role-jetty-master/tasks/main.yml
+-rw-rw-r-- root/root       410 2019-03-12 08:37 ansible-role-jetty-master/tasks/setup.yml
+-rw-rw-r-- root/root       387 2019-03-12 08:37 ansible-role-jetty-master/tasks/user.yml
+drwxrwxr-x root/root         0 2019-03-12 08:37 ansible-role-jetty-master/tests/
+-rw-rw-r-- root/root        10 2019-03-12 08:37 ansible-role-jetty-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-03-12 08:37 ansible-role-jetty-master/tests/test.yml

@@ -1,0 +1,33 @@
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/
+-rw-rw-r-- root/root       127 2019-04-18 21:08 ansible-role-ubuntu-installer-master/.flake8
+-rw-rw-r-- root/root        82 2019-04-18 21:08 ansible-role-ubuntu-installer-master/.gitignore
+-rw-rw-r-- root/root       255 2019-04-18 21:08 ansible-role-ubuntu-installer-master/.travis.yml
+-rw-rw-r-- root/root       171 2019-04-18 21:08 ansible-role-ubuntu-installer-master/.yamllint
+-rw-rw-r-- root/root      1053 2019-04-18 21:08 ansible-role-ubuntu-installer-master/LICENSE
+-rw-rw-r-- root/root      2169 2019-04-18 21:08 ansible-role-ubuntu-installer-master/README.md
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/defaults/
+-rw-rw-r-- root/root      1016 2019-04-18 21:08 ansible-role-ubuntu-installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/meta/
+-rw-rw-r-- root/root       466 2019-04-18 21:08 ansible-role-ubuntu-installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/
+-rw-rw-r-- root/root       887 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       316 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        72 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        67 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/prepare.yml
+lrwxrwxrwx root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/roles/
+lrwxrwxrwx root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/molecule/default/roles/ubuntu-installer -> ../../../
+-rw-rw-r-- root/root        60 2019-04-18 21:08 ansible-role-ubuntu-installer-master/requirements.txt
+-rw-rw-r-- root/root        30 2019-04-18 21:08 ansible-role-ubuntu-installer-master/requirements.yml
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/tasks/
+-rw-rw-r-- root/root      5813 2019-04-18 21:08 ansible-role-ubuntu-installer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/templates/
+-rw-rw-r-- root/root       413 2019-04-18 21:08 ansible-role-ubuntu-installer-master/templates/isolinux.txt.j2
+-rw-rw-r-- root/root      7279 2019-04-18 21:08 ansible-role-ubuntu-installer-master/templates/ubuntu.seed.j2
+drwxrwxr-x root/root         0 2019-04-18 21:08 ansible-role-ubuntu-installer-master/vars/
+-rw-rw-r-- root/root        77 2019-04-18 21:08 ansible-role-ubuntu-installer-master/vars/Archlinux.yml
+-rw-rw-r-- root/root       106 2019-04-18 21:08 ansible-role-ubuntu-installer-master/vars/Debian.yml

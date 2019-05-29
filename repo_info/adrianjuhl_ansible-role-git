@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-05 07:24 ansible-role-git-master/
+-rw-rw-r-- root/root         0 2018-04-05 07:24 ansible-role-git-master/.gitignore
+-rw-rw-r-- root/root      1068 2018-04-05 07:24 ansible-role-git-master/LICENSE
+-rwxrwxr-x root/root       361 2018-04-05 07:24 ansible-role-git-master/README.md
+drwxrwxr-x root/root         0 2018-04-05 07:24 ansible-role-git-master/defaults/
+-rwxrwxr-x root/root        40 2018-04-05 07:24 ansible-role-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-05 07:24 ansible-role-git-master/handlers/
+-rwxrwxr-x root/root        40 2018-04-05 07:24 ansible-role-git-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-05 07:24 ansible-role-git-master/meta/
+-rwxrwxr-x root/root       391 2018-04-05 07:24 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-05 07:24 ansible-role-git-master/tasks/
+-rwxrwxr-x root/root       134 2018-04-05 07:24 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-05 07:24 ansible-role-git-master/tests/
+-rwxrwxr-x root/root        11 2018-04-05 07:24 ansible-role-git-master/tests/inventory
+-rwxrwxr-x root/root        74 2018-04-05 07:24 ansible-role-git-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-05 07:24 ansible-role-git-master/vars/
+-rwxrwxr-x root/root        36 2018-04-05 07:24 ansible-role-git-master/vars/main.yml

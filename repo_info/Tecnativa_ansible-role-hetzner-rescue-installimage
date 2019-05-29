@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/
+-rw-rw-r-- root/root       147 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/.editorconfig
+-rw-rw-r-- root/root         9 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/.gitignore
+-rw-rw-r-- root/root        76 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/.travis.yml
+-rw-rw-r-- root/root     11357 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/LICENSE
+-rw-rw-r-- root/root      2374 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/README.md
+drwxrwxr-x root/root         0 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/defaults/
+-rw-rw-r-- root/root      1340 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/meta/
+-rw-rw-r-- root/root       312 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/tasks/
+-rw-rw-r-- root/root       469 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/templates/
+-rw-rw-r-- root/root       713 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/templates/autosetup.j2
+-rw-rw-r-- root/root       177 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/templates/mkfs.sh.j2
+drwxrwxr-x root/root         0 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/vars/
+-rw-rw-r-- root/root       150 2019-03-27 04:27 ansible-role-hetzner-rescue-installimage-master/vars/main.yml

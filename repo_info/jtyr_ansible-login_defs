@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-07-08 11:44 ansible-login_defs-master/
+-rw-rw-r-- root/root         0 2016-07-08 11:44 ansible-login_defs-master/.gitignore
+-rw-rw-r-- root/root      1075 2016-07-08 11:44 ansible-login_defs-master/LICENSE
+-rw-rw-r-- root/root      3042 2016-07-08 11:44 ansible-login_defs-master/README.md
+drwxrwxr-x root/root         0 2016-07-08 11:44 ansible-login_defs-master/defaults/
+-rw-rw-r-- root/root      1608 2016-07-08 11:44 ansible-login_defs-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-07-08 11:44 ansible-login_defs-master/meta/
+-rw-rw-r-- root/root       322 2016-07-08 11:44 ansible-login_defs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-08 11:44 ansible-login_defs-master/tasks/
+-rw-rw-r-- root/root       141 2016-07-08 11:44 ansible-login_defs-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-07-08 11:44 ansible-login_defs-master/templates/
+-rw-rw-r-- root/root       103 2016-07-08 11:44 ansible-login_defs-master/templates/login.defs.j2

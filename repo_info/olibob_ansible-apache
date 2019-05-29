@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-05-13 09:45 ansible-apache-master/
+-rw-rw-r-- root/root       188 2015-05-13 09:45 ansible-apache-master/README.md
+drwxrwxr-x root/root         0 2015-05-13 09:45 ansible-apache-master/defaults/
+-rw-rw-r-- root/root        48 2015-05-13 09:45 ansible-apache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-13 09:45 ansible-apache-master/handlers/
+-rw-rw-r-- root/root        31 2015-05-13 09:45 ansible-apache-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-13 09:45 ansible-apache-master/meta/
+-rw-rw-r-- root/root      2249 2015-05-13 09:45 ansible-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-13 09:45 ansible-apache-master/tasks/
+-rw-rw-r-- root/root       258 2015-05-13 09:45 ansible-apache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-13 09:45 ansible-apache-master/vars/
+-rw-rw-r-- root/root        27 2015-05-13 09:45 ansible-apache-master/vars/main.yml

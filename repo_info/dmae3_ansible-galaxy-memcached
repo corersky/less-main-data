@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-memcached-master/
+-rw-rw-r-- root/root       659 2017-10-19 01:49 ansible-galaxy-memcached-master/README.md
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-memcached-master/defaults/
+-rw-rw-r-- root/root       145 2017-10-19 01:49 ansible-galaxy-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-memcached-master/handlers/
+-rw-rw-r-- root/root       102 2017-10-19 01:49 ansible-galaxy-memcached-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-memcached-master/meta/
+-rw-rw-r-- root/root       233 2017-10-19 01:49 ansible-galaxy-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-memcached-master/tasks/
+-rw-rw-r-- root/root       515 2017-10-19 01:49 ansible-galaxy-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-memcached-master/templates/
+-rw-rw-r-- root/root       162 2017-10-19 01:49 ansible-galaxy-memcached-master/templates/memcached.j2
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-memcached-master/tests/
+-rw-rw-r-- root/root        69 2017-10-19 01:49 ansible-galaxy-memcached-master/tests/test.yml

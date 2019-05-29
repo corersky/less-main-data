@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-23 02:40 ansible-sonarqube-scanner-master/
+-rw-rw-r-- root/root      1328 2018-10-23 02:40 ansible-sonarqube-scanner-master/README.md
+drwxrwxr-x root/root         0 2018-10-23 02:40 ansible-sonarqube-scanner-master/defaults/
+-rw-rw-r-- root/root       286 2018-10-23 02:40 ansible-sonarqube-scanner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-23 02:40 ansible-sonarqube-scanner-master/meta/
+-rw-rw-r-- root/root      5393 2018-10-23 02:40 ansible-sonarqube-scanner-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-23 02:40 ansible-sonarqube-scanner-master/tasks/
+-rw-rw-r-- root/root      1280 2018-10-23 02:40 ansible-sonarqube-scanner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-23 02:40 ansible-sonarqube-scanner-master/tests/
+-rw-rw-r-- root/root         9 2018-10-23 02:40 ansible-sonarqube-scanner-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-10-23 02:40 ansible-sonarqube-scanner-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-23 02:40 ansible-sonarqube-scanner-master/vars/
+-rw-rw-r-- root/root        46 2018-10-23 02:40 ansible-sonarqube-scanner-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-31 04:23 ansible-php7_fpm-master/
+-rw-rw-r-- root/root     35147 2017-05-31 04:23 ansible-php7_fpm-master/COPYING
+-rw-rw-r-- root/root      7651 2017-05-31 04:23 ansible-php7_fpm-master/COPYING.LESSER
+-rw-rw-r-- root/root      1118 2017-05-31 04:23 ansible-php7_fpm-master/README.md
+drwxrwxr-x root/root         0 2017-05-31 04:23 ansible-php7_fpm-master/defaults/
+-rw-rw-r-- root/root     19427 2017-05-31 04:23 ansible-php7_fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-31 04:23 ansible-php7_fpm-master/meta/
+-rw-rw-r-- root/root       313 2017-05-31 04:23 ansible-php7_fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-31 04:23 ansible-php7_fpm-master/tasks/
+-rw-rw-r-- root/root       930 2017-05-31 04:23 ansible-php7_fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-31 04:23 ansible-php7_fpm-master/templates/
+-rw-rw-r-- root/root      3958 2017-05-31 04:23 ansible-php7_fpm-master/templates/php-fpm-pool.conf.j2
+-rw-rw-r-- root/root      1462 2017-05-31 04:23 ansible-php7_fpm-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root     88620 2017-05-31 04:23 ansible-php7_fpm-master/templates/php.ini.j2

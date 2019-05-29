@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-11 13:54 ansible-aws-cli-master/
+-rw-rw-r-- root/root        92 2016-11-11 13:54 ansible-aws-cli-master/.gitignore
+-rw-rw-r-- root/root        29 2016-11-11 13:54 ansible-aws-cli-master/CHANGELOG.md
+-rw-rw-r-- root/root     11357 2016-11-11 13:54 ansible-aws-cli-master/LICENSE
+-rw-rw-r-- root/root       279 2016-11-11 13:54 ansible-aws-cli-master/README.md
+drwxrwxr-x root/root         0 2016-11-11 13:54 ansible-aws-cli-master/defaults/
+-rw-rw-r-- root/root        31 2016-11-11 13:54 ansible-aws-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-11 13:54 ansible-aws-cli-master/examples/
+-rw-rw-r-- root/root       348 2016-11-11 13:54 ansible-aws-cli-master/examples/Vagrantfile
+-rw-rw-r-- root/root        35 2016-11-11 13:54 ansible-aws-cli-master/examples/roles.yml
+drwxrwxr-x root/root         0 2016-11-11 13:54 ansible-aws-cli-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-11-11 13:54 ansible-aws-cli-master/examples/roles/azavea.aws-cli -> ../..
+-rw-rw-r-- root/root       146 2016-11-11 13:54 ansible-aws-cli-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-11-11 13:54 ansible-aws-cli-master/meta/
+-rw-rw-r-- root/root       293 2016-11-11 13:54 ansible-aws-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-11 13:54 ansible-aws-cli-master/tasks/
+-rw-rw-r-- root/root        99 2016-11-11 13:54 ansible-aws-cli-master/tasks/main.yml

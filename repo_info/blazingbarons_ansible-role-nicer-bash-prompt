@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/
+-rw-rw-r-- root/root        10 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/.gitignore
+-rw-rw-r-- root/root       539 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/.travis.yml
+-rw-rw-r-- root/root     10242 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/LICENSE
+-rw-rw-r-- root/root       309 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/README.md
+drwxrwxr-x root/root         0 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/meta/
+-rw-rw-r-- root/root       490 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/tasks/
+-rw-rw-r-- root/root       146 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/templates/
+-rw-rw-r-- root/root      4966 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/templates/nicer-bash-prompt.sh.j2
+drwxrwxr-x root/root         0 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/tests/
+-rw-rw-r-- root/root         9 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/tests/inventory
+-rw-rw-r-- root/root        63 2017-06-05 02:41 ansible-role-nicer-bash-prompt-master/tests/test.yml

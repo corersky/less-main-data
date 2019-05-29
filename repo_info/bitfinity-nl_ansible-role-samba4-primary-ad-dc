@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/
+-rw-rw-r-- root/root      1066 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/LICENSE
+-rw-rw-r-- root/root       807 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/README.md
+drwxrwxr-x root/root         0 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/defaults/
+-rw-rw-r-- root/root       374 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/meta/
+-rw-rw-r-- root/root       345 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/tasks/
+-rw-rw-r-- root/root       518 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/tasks/main.yml
+-rw-rw-r-- root/root      3254 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/tasks/ubuntu-1604-amd64.yml
+-rw-rw-r-- root/root      3513 2018-06-07 03:32 ansible-role-samba4-primary-ad-dc-master/tasks/ubuntu-1804-amd64.yml

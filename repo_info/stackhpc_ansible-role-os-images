@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-23 06:14 ansible-role-os-images-master/
+-rw-rw-r-- root/root         6 2019-05-23 06:14 ansible-role-os-images-master/.gitignore
+-rw-rw-r-- root/root       833 2019-05-23 06:14 ansible-role-os-images-master/.travis.yml
+-rw-rw-r-- root/root     10143 2019-05-23 06:14 ansible-role-os-images-master/LICENSE
+-rw-rw-r-- root/root      4654 2019-05-23 06:14 ansible-role-os-images-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 06:14 ansible-role-os-images-master/defaults/
+-rw-rw-r-- root/root      2050 2019-05-23 06:14 ansible-role-os-images-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:14 ansible-role-os-images-master/meta/
+-rw-rw-r-- root/root       605 2019-05-23 06:14 ansible-role-os-images-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:14 ansible-role-os-images-master/tasks/
+-rw-rw-r-- root/root      8277 2019-05-23 06:14 ansible-role-os-images-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:14 ansible-role-os-images-master/tests/
+-rw-rw-r-- root/root        86 2019-05-23 06:14 ansible-role-os-images-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-05-23 06:14 ansible-role-os-images-master/tests/test.yml

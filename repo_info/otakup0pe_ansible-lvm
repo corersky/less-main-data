@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-11-11 23:04 ansible-lvm-master/
+-rw-rw-r-- root/root      1066 2018-11-11 23:04 ansible-lvm-master/LICENSE
+-rw-rw-r-- root/root      2140 2018-11-11 23:04 ansible-lvm-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 23:04 ansible-lvm-master/defaults/
+-rw-rw-r-- root/root       224 2018-11-11 23:04 ansible-lvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 23:04 ansible-lvm-master/meta/
+-rw-rw-r-- root/root       184 2018-11-11 23:04 ansible-lvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 23:04 ansible-lvm-master/tasks/
+-rw-rw-r-- root/root      3059 2018-11-11 23:04 ansible-lvm-master/tasks/encfs.yml
+-rw-rw-r-- root/root       216 2018-11-11 23:04 ansible-lvm-master/tasks/main.yml
+-rw-rw-r-- root/root      1522 2018-11-11 23:04 ansible-lvm-master/tasks/plain.yml

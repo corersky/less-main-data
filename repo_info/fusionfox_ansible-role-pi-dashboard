@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-22 10:49 ansible-role-pi-dashboard-master/
+-rw-rw-r-- root/root       140 2017-03-22 10:49 ansible-role-pi-dashboard-master/.gitignore
+-rw-rw-r-- root/root       343 2017-03-22 10:49 ansible-role-pi-dashboard-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-03-22 10:49 ansible-role-pi-dashboard-master/LICENSE
+-rw-rw-r-- root/root      1206 2017-03-22 10:49 ansible-role-pi-dashboard-master/README.md
+drwxrwxr-x root/root         0 2017-03-22 10:49 ansible-role-pi-dashboard-master/meta/
+-rw-rw-r-- root/root      3998 2017-03-22 10:49 ansible-role-pi-dashboard-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-22 10:49 ansible-role-pi-dashboard-master/tasks/
+-rw-rw-r-- root/root      1140 2017-03-22 10:49 ansible-role-pi-dashboard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-22 10:49 ansible-role-pi-dashboard-master/templates/
+-rw-rw-r-- root/root       303 2017-03-22 10:49 ansible-role-pi-dashboard-master/templates/autostart.j2
+drwxrwxr-x root/root         0 2017-03-22 10:49 ansible-role-pi-dashboard-master/tests/
+-rw-rw-r-- root/root        10 2017-03-22 10:49 ansible-role-pi-dashboard-master/tests/hosts
+-rw-rw-r-- root/root        67 2017-03-22 10:49 ansible-role-pi-dashboard-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-11-01 05:54 ansible-role-jenkins-jobs-master/
+-rw-rw-r-- root/root      4068 2018-11-01 05:54 ansible-role-jenkins-jobs-master/.travis.yml
+-rw-rw-r-- root/root      1078 2018-11-01 05:54 ansible-role-jenkins-jobs-master/LICENSE
+-rw-rw-r-- root/root      3205 2018-11-01 05:54 ansible-role-jenkins-jobs-master/README.md
+drwxrwxr-x root/root         0 2018-11-01 05:54 ansible-role-jenkins-jobs-master/defaults/
+-rw-rw-r-- root/root       231 2018-11-01 05:54 ansible-role-jenkins-jobs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-01 05:54 ansible-role-jenkins-jobs-master/meta/
+-rw-rw-r-- root/root       827 2018-11-01 05:54 ansible-role-jenkins-jobs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-01 05:54 ansible-role-jenkins-jobs-master/tasks/
+-rw-rw-r-- root/root      3681 2018-11-01 05:54 ansible-role-jenkins-jobs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-01 05:54 ansible-role-jenkins-jobs-master/tests/
+-rw-rw-r-- root/root        11 2018-11-01 05:54 ansible-role-jenkins-jobs-master/tests/inventory
+-rw-rw-r-- root/root      1252 2018-11-01 05:54 ansible-role-jenkins-jobs-master/tests/playbook.yml

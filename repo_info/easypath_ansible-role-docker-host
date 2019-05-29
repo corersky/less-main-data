@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-17 08:06 ansible-role-docker-host-master/
+-rw-rw-r-- root/root      2269 2018-08-17 08:06 ansible-role-docker-host-master/README.md
+drwxrwxr-x root/root         0 2018-08-17 08:06 ansible-role-docker-host-master/defaults/
+-rw-rw-r-- root/root       569 2018-08-17 08:06 ansible-role-docker-host-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-17 08:06 ansible-role-docker-host-master/meta/
+-rw-rw-r-- root/root      1724 2018-08-17 08:06 ansible-role-docker-host-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-17 08:06 ansible-role-docker-host-master/tasks/
+-rw-rw-r-- root/root      2188 2018-08-17 08:06 ansible-role-docker-host-master/tasks/dockerd-tls.yaml
+-rw-rw-r-- root/root       861 2018-08-17 08:06 ansible-role-docker-host-master/tasks/enable-namespaces.yaml
+-rw-rw-r-- root/root      1328 2018-08-17 08:06 ansible-role-docker-host-master/tasks/firewall-rules.yaml
+-rw-rw-r-- root/root      1776 2018-08-17 08:06 ansible-role-docker-host-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-17 08:06 ansible-role-docker-host-master/templates/
+-rw-rw-r-- root/root       816 2018-08-17 08:06 ansible-role-docker-host-master/templates/override.conf.j2

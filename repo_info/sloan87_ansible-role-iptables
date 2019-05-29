@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-01-31 08:43 ansible-role-iptables-master/
+-rw-rw-r-- root/root      1071 2018-01-31 08:43 ansible-role-iptables-master/LICENSE
+-rw-rw-r-- root/root      3870 2018-01-31 08:43 ansible-role-iptables-master/README.md
+drwxrwxr-x root/root         0 2018-01-31 08:43 ansible-role-iptables-master/defaults/
+-rw-rw-r-- root/root       298 2018-01-31 08:43 ansible-role-iptables-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-31 08:43 ansible-role-iptables-master/meta/
+-rw-rw-r-- root/root       374 2018-01-31 08:43 ansible-role-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-31 08:43 ansible-role-iptables-master/tasks/
+-rw-rw-r-- root/root       789 2018-01-31 08:43 ansible-role-iptables-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-31 08:43 ansible-role-iptables-master/templates/
+-rw-rw-r-- root/root      3423 2018-01-31 08:43 ansible-role-iptables-master/templates/iptables.j2

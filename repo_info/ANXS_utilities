@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-16 01:19 utilities-master/
+-rw-rw-r-- root/root        83 2019-01-16 01:19 utilities-master/.gitignore
+-rw-rw-r-- root/root       709 2019-01-16 01:19 utilities-master/.travis.yml
+-rw-rw-r-- root/root      1079 2019-01-16 01:19 utilities-master/LICENSE
+-rw-rw-r-- root/root      3017 2019-01-16 01:19 utilities-master/README.md
+-rw-rw-r-- root/root       444 2019-01-16 01:19 utilities-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-01-16 01:19 utilities-master/defaults/
+-rw-rw-r-- root/root       345 2019-01-16 01:19 utilities-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-16 01:19 utilities-master/meta/
+-rw-rw-r-- root/root       268 2019-01-16 01:19 utilities-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-16 01:19 utilities-master/tasks/
+-rw-rw-r-- root/root      1016 2019-01-16 01:19 utilities-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2019-01-16 01:19 utilities-master/test.yml
+-rw-rw-r-- root/root        69 2019-01-16 01:19 utilities-master/vagrant-inventory
+drwxrwxr-x root/root         0 2019-01-16 01:19 utilities-master/vars/
+-rw-rw-r-- root/root       173 2019-01-16 01:19 utilities-master/vars/Debian.yml

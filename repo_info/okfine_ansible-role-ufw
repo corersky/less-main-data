@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-10-22 13:18 ansible-role-ufw-master/
+-rw-rw-r-- root/root         9 2015-10-22 13:18 ansible-role-ufw-master/.gitignore
+-rw-rw-r-- root/root       539 2015-10-22 13:18 ansible-role-ufw-master/.travis.yml
+-rw-rw-r-- root/root      1073 2015-10-22 13:18 ansible-role-ufw-master/LICENSE
+-rw-rw-r-- root/root       779 2015-10-22 13:18 ansible-role-ufw-master/README.md
+-rw-rw-r-- root/root       308 2015-10-22 13:18 ansible-role-ufw-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-10-22 13:18 ansible-role-ufw-master/defaults/
+-rw-rw-r-- root/root        52 2015-10-22 13:18 ansible-role-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-22 13:18 ansible-role-ufw-master/meta/
+-rw-rw-r-- root/root       279 2015-10-22 13:18 ansible-role-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-22 13:18 ansible-role-ufw-master/tasks/
+-rw-rw-r-- root/root       492 2015-10-22 13:18 ansible-role-ufw-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2015-10-22 13:18 ansible-role-ufw-master/test.yml

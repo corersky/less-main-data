@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-25 13:59 ansible-locale-master/
+-rw-rw-r-- root/root       539 2017-01-25 13:59 ansible-locale-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-01-25 13:59 ansible-locale-master/LICENSE
+-rw-rw-r-- root/root       773 2017-01-25 13:59 ansible-locale-master/README.md
+drwxrwxr-x root/root         0 2017-01-25 13:59 ansible-locale-master/defaults/
+-rw-rw-r-- root/root        41 2017-01-25 13:59 ansible-locale-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-25 13:59 ansible-locale-master/handlers/
+-rw-rw-r-- root/root        39 2017-01-25 13:59 ansible-locale-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-25 13:59 ansible-locale-master/meta/
+-rw-rw-r-- root/root       307 2017-01-25 13:59 ansible-locale-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-25 13:59 ansible-locale-master/tasks/
+-rw-rw-r-- root/root       234 2017-01-25 13:59 ansible-locale-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-25 13:59 ansible-locale-master/tests/
+-rw-rw-r-- root/root         9 2017-01-25 13:59 ansible-locale-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-01-25 13:59 ansible-locale-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-25 13:59 ansible-locale-master/vars/
+-rw-rw-r-- root/root        35 2017-01-25 13:59 ansible-locale-master/vars/main.yml

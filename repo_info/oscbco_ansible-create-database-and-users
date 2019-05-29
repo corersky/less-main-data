@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-27 00:39 ansible-create-database-and-users-master/
+-rw-rw-r-- root/root       773 2019-05-27 00:39 ansible-create-database-and-users-master/README.md
+drwxrwxr-x root/root         0 2019-05-27 00:39 ansible-create-database-and-users-master/defaults/
+-rw-rw-r-- root/root        57 2019-05-27 00:39 ansible-create-database-and-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-27 00:39 ansible-create-database-and-users-master/handlers/
+-rw-rw-r-- root/root        57 2019-05-27 00:39 ansible-create-database-and-users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-27 00:39 ansible-create-database-and-users-master/meta/
+-rw-rw-r-- root/root       314 2019-05-27 00:39 ansible-create-database-and-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-27 00:39 ansible-create-database-and-users-master/tasks/
+-rw-rw-r-- root/root      1757 2019-05-27 00:39 ansible-create-database-and-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-27 00:39 ansible-create-database-and-users-master/tests/
+-rw-rw-r-- root/root        11 2019-05-27 00:39 ansible-create-database-and-users-master/tests/inventory
+-rw-rw-r-- root/root        91 2019-05-27 00:39 ansible-create-database-and-users-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-27 00:39 ansible-create-database-and-users-master/vars/
+-rw-rw-r-- root/root         0 2019-05-27 00:39 ansible-create-database-and-users-master/vars/main.yml

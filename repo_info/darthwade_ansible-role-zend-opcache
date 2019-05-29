@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-11-14 13:25 ansible-role-zend-opcache-master/
+-rw-rw-r-- root/root        35 2014-11-14 13:25 ansible-role-zend-opcache-master/.gitignore
+-rw-rw-r-- root/root      1111 2014-11-14 13:25 ansible-role-zend-opcache-master/.travis.yml
+-rw-rw-r-- root/root      1111 2014-11-14 13:25 ansible-role-zend-opcache-master/LICENSE
+-rw-rw-r-- root/root      2279 2014-11-14 13:25 ansible-role-zend-opcache-master/README.md
+-rw-rw-r-- root/root       303 2014-11-14 13:25 ansible-role-zend-opcache-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-11-14 13:25 ansible-role-zend-opcache-master/defaults/
+-rw-rw-r-- root/root       229 2014-11-14 13:25 ansible-role-zend-opcache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-14 13:25 ansible-role-zend-opcache-master/meta/
+-rw-rw-r-- root/root       707 2014-11-14 13:25 ansible-role-zend-opcache-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-14 13:25 ansible-role-zend-opcache-master/tasks/
+-rw-rw-r-- root/root       416 2014-11-14 13:25 ansible-role-zend-opcache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-14 13:25 ansible-role-zend-opcache-master/templates/
+-rw-rw-r-- root/root       429 2014-11-14 13:25 ansible-role-zend-opcache-master/templates/opcache.ini.j2
+drwxrwxr-x root/root         0 2014-11-14 13:25 ansible-role-zend-opcache-master/tests/
+-rw-rw-r-- root/root         9 2014-11-14 13:25 ansible-role-zend-opcache-master/tests/inventory
+-rw-rw-r-- root/root        54 2014-11-14 13:25 ansible-role-zend-opcache-master/tests/test.yml

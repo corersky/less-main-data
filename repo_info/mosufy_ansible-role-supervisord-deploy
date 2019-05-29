@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-10 05:01 ansible-role-supervisord-deploy-master/
+-rw-rw-r-- root/root         5 2016-12-10 05:01 ansible-role-supervisord-deploy-master/.gitignore
+-rw-rw-r-- root/root       539 2016-12-10 05:01 ansible-role-supervisord-deploy-master/.travis.yml
+-rw-rw-r-- root/root       731 2016-12-10 05:01 ansible-role-supervisord-deploy-master/README.md
+drwxrwxr-x root/root         0 2016-12-10 05:01 ansible-role-supervisord-deploy-master/defaults/
+-rw-rw-r-- root/root       104 2016-12-10 05:01 ansible-role-supervisord-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-10 05:01 ansible-role-supervisord-deploy-master/handlers/
+-rw-rw-r-- root/root       131 2016-12-10 05:01 ansible-role-supervisord-deploy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-10 05:01 ansible-role-supervisord-deploy-master/meta/
+-rw-rw-r-- root/root       217 2016-12-10 05:01 ansible-role-supervisord-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-10 05:01 ansible-role-supervisord-deploy-master/tasks/
+-rw-rw-r-- root/root       914 2016-12-10 05:01 ansible-role-supervisord-deploy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-10 05:01 ansible-role-supervisord-deploy-master/tests/
+-rw-rw-r-- root/root         9 2016-12-10 05:01 ansible-role-supervisord-deploy-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-12-10 05:01 ansible-role-supervisord-deploy-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/
+-rw-rw-r-- root/root         4 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/.gitignore
+-rw-rw-r-- root/root       540 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/.travis.yml
+-rw-rw-r-- root/root       656 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/meta/
+-rw-rw-r-- root/root       296 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/tasks/
+-rw-rw-r-- root/root       524 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/tests/
+-rw-rw-r-- root/root        10 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/tests/inventory
+-rw-rw-r-- root/root        98 2017-04-24 02:04 ansible-role-openstack-idr-keypairs-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-16 04:31 ansible-logrotate-master/
+-rw-rw-r-- root/root        26 2018-02-16 04:31 ansible-logrotate-master/.gitignore
+-rw-rw-r-- root/root       421 2018-02-16 04:31 ansible-logrotate-master/.travis.yml
+-rw-rw-r-- root/root      1483 2018-02-16 04:31 ansible-logrotate-master/LICENSE
+-rw-rw-r-- root/root      2641 2018-02-16 04:31 ansible-logrotate-master/README.md
+drwxrwxr-x root/root         0 2018-02-16 04:31 ansible-logrotate-master/defaults/
+-rw-rw-r-- root/root        62 2018-02-16 04:31 ansible-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-16 04:31 ansible-logrotate-master/meta/
+-rw-rw-r-- root/root       293 2018-02-16 04:31 ansible-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-16 04:31 ansible-logrotate-master/tasks/
+-rw-rw-r-- root/root       398 2018-02-16 04:31 ansible-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-16 04:31 ansible-logrotate-master/templates/
+-rw-rw-r-- root/root       443 2018-02-16 04:31 ansible-logrotate-master/templates/logrotate.d.j2
+drwxrwxr-x root/root         0 2018-02-16 04:31 ansible-logrotate-master/tests/
+-rw-rw-r-- root/root       642 2018-02-16 04:31 ansible-logrotate-master/tests/Vagrantfile
+-rw-rw-r-- root/root        10 2018-02-16 04:31 ansible-logrotate-master/tests/inventory
+-rw-rw-r-- root/root       703 2018-02-16 04:31 ansible-logrotate-master/tests/test.yml

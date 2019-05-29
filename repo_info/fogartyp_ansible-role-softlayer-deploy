@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-25 14:11 ansible-role-softlayer-deploy-master/
+-rw-rw-r-- root/root       539 2016-03-25 14:11 ansible-role-softlayer-deploy-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-03-25 14:11 ansible-role-softlayer-deploy-master/README.md
+drwxrwxr-x root/root         0 2016-03-25 14:11 ansible-role-softlayer-deploy-master/defaults/
+-rw-rw-r-- root/root        54 2016-03-25 14:11 ansible-role-softlayer-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-25 14:11 ansible-role-softlayer-deploy-master/handlers/
+-rw-rw-r-- root/root        54 2016-03-25 14:11 ansible-role-softlayer-deploy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-25 14:11 ansible-role-softlayer-deploy-master/meta/
+-rw-rw-r-- root/root       371 2016-03-25 14:11 ansible-role-softlayer-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-25 14:11 ansible-role-softlayer-deploy-master/tasks/
+-rw-rw-r-- root/root       441 2016-03-25 14:11 ansible-role-softlayer-deploy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-25 14:11 ansible-role-softlayer-deploy-master/tests/
+-rw-rw-r-- root/root         9 2016-03-25 14:11 ansible-role-softlayer-deploy-master/tests/inventory
+-rw-rw-r-- root/root        87 2016-03-25 14:11 ansible-role-softlayer-deploy-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-25 14:11 ansible-role-softlayer-deploy-master/vars/
+-rw-rw-r-- root/root        50 2016-03-25 14:11 ansible-role-softlayer-deploy-master/vars/main.yml

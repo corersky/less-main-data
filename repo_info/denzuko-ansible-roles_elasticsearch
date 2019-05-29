@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-24 13:51 elasticsearch-master/
+-rw-rw-r-- root/root      1203 2018-05-24 13:51 elasticsearch-master/.gitignore
+-rw-rw-r-- root/root       622 2018-05-24 13:51 elasticsearch-master/.travis.yml
+-rw-rw-r-- root/root      1549 2018-05-24 13:51 elasticsearch-master/LICENSE
+-rw-rw-r-- root/root      1015 2018-05-24 13:51 elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2018-05-24 13:51 elasticsearch-master/files/
+-rw-rw-r-- root/root       226 2018-05-24 13:51 elasticsearch-master/files/elasticsearch.repo
+-rw-rw-r-- root/root        24 2018-05-24 13:51 elasticsearch-master/files/elasticsearch.yml
+drwxrwxr-x root/root         0 2018-05-24 13:51 elasticsearch-master/meta/
+-rw-rw-r-- root/root       403 2018-05-24 13:51 elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 13:51 elasticsearch-master/tasks/
+-rw-rw-r-- root/root      1111 2018-05-24 13:51 elasticsearch-master/tasks/main.yml
+-rw-rw-r-- root/root       427 2018-05-24 13:51 elasticsearch-master/tasks/rpm.yml
+drwxrwxr-x root/root         0 2018-05-24 13:51 elasticsearch-master/tests/
+-rw-rw-r-- root/root        10 2018-05-24 13:51 elasticsearch-master/tests/inventory.ini
+-rw-rw-r-- root/root        57 2018-05-24 13:51 elasticsearch-master/tests/requirements.yml
+-rw-rw-r-- root/root        75 2018-05-24 13:51 elasticsearch-master/tests/test.yml

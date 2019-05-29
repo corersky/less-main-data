@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-07-27 07:04 ansible-newrelic-servers-master/
+-rw-rw-r-- root/root       540 2016-07-27 07:04 ansible-newrelic-servers-master/.travis.yml
+-rw-rw-r-- root/root      1080 2016-07-27 07:04 ansible-newrelic-servers-master/LICENSE
+-rw-rw-r-- root/root      1141 2016-07-27 07:04 ansible-newrelic-servers-master/README.md
+drwxrwxr-x root/root         0 2016-07-27 07:04 ansible-newrelic-servers-master/defaults/
+-rw-rw-r-- root/root       300 2016-07-27 07:04 ansible-newrelic-servers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-27 07:04 ansible-newrelic-servers-master/handlers/
+-rw-rw-r-- root/root        96 2016-07-27 07:04 ansible-newrelic-servers-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-27 07:04 ansible-newrelic-servers-master/meta/
+-rw-rw-r-- root/root      3577 2016-07-27 07:04 ansible-newrelic-servers-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-27 07:04 ansible-newrelic-servers-master/tasks/
+-rw-rw-r-- root/root       630 2016-07-27 07:04 ansible-newrelic-servers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-27 07:04 ansible-newrelic-servers-master/tests/
+-rw-rw-r-- root/root         9 2016-07-27 07:04 ansible-newrelic-servers-master/tests/inventory
+-rw-rw-r-- root/root        82 2016-07-27 07:04 ansible-newrelic-servers-master/tests/test.yml

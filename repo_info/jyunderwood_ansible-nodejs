@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-05-28 15:29 ansible-nodejs-master/
+-rw-rw-r-- root/root      1356 2015-05-28 15:29 ansible-nodejs-master/README.md
+drwxrwxr-x root/root         0 2015-05-28 15:29 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root       300 2015-05-28 15:29 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-28 15:29 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       241 2015-05-28 15:29 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-28 15:29 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root       452 2015-05-28 15:29 ansible-nodejs-master/tasks/install.yml
+-rw-rw-r-- root/root        66 2015-05-28 15:29 ansible-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       117 2015-05-28 15:29 ansible-nodejs-master/tasks/nodejs.yml
+-rw-rw-r-- root/root       193 2015-05-28 15:29 ansible-nodejs-master/tasks/prereqs.deb.yml
+-rw-rw-r-- root/root       316 2015-05-28 15:29 ansible-nodejs-master/tasks/symlinks.yml
+drwxrwxr-x root/root         0 2015-05-28 15:29 ansible-nodejs-master/templates/
+-rw-rw-r-- root/root       203 2015-05-28 15:29 ansible-nodejs-master/templates/install-nodejs.j2

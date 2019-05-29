@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/
+-rw-rw-r-- root/root       868 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/.travis.yml
+-rw-rw-r-- root/root       102 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/README.md
+drwxrwxr-x root/root         0 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/defaults/
+-rw-rw-r-- root/root         4 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/meta/
+-rw-rw-r-- root/root       321 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/tasks/
+-rw-rw-r-- root/root       349 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/tests/
+-rw-rw-r-- root/root        10 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/tests/inventory
+-rw-rw-r-- root/root        90 2016-01-02 12:09 ansible-role-virtualenv-postfix-master/tests/test.yml

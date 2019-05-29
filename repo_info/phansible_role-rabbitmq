@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-03-08 18:36 role-rabbitmq-master/
+-rw-rw-r-- root/root        37 2018-03-08 18:36 role-rabbitmq-master/.gitignore
+-rw-rw-r-- root/root       857 2018-03-08 18:36 role-rabbitmq-master/.travis.yml
+-rw-rw-r-- root/root      1100 2018-03-08 18:36 role-rabbitmq-master/LICENSE
+-rw-rw-r-- root/root       939 2018-03-08 18:36 role-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2018-03-08 18:36 role-rabbitmq-master/defaults/
+-rw-rw-r-- root/root        98 2018-03-08 18:36 role-rabbitmq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-08 18:36 role-rabbitmq-master/meta/
+-rw-rw-r-- root/root       325 2018-03-08 18:36 role-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-08 18:36 role-rabbitmq-master/tasks/
+-rw-rw-r-- root/root       925 2018-03-08 18:36 role-rabbitmq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-08 18:36 role-rabbitmq-master/tests/
+-rw-rw-r-- root/root        10 2018-03-08 18:36 role-rabbitmq-master/tests/inventory
+-rw-rw-r-- root/root        86 2018-03-08 18:36 role-rabbitmq-master/tests/test.yml

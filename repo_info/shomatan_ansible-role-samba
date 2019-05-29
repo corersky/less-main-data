@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-17 20:31 ansible-role-samba-master/
+-rw-rw-r-- root/root       539 2017-04-17 20:31 ansible-role-samba-master/.travis.yml
+-rw-rw-r-- root/root       365 2017-04-17 20:31 ansible-role-samba-master/README.md
+drwxrwxr-x root/root         0 2017-04-17 20:31 ansible-role-samba-master/defaults/
+-rw-rw-r-- root/root       138 2017-04-17 20:31 ansible-role-samba-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-17 20:31 ansible-role-samba-master/handlers/
+-rw-rw-r-- root/root       195 2017-04-17 20:31 ansible-role-samba-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-17 20:31 ansible-role-samba-master/meta/
+-rw-rw-r-- root/root       217 2017-04-17 20:31 ansible-role-samba-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-17 20:31 ansible-role-samba-master/tasks/
+-rw-rw-r-- root/root       482 2017-04-17 20:31 ansible-role-samba-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-17 20:31 ansible-role-samba-master/templates/
+-rw-rw-r-- root/root     12237 2017-04-17 20:31 ansible-role-samba-master/templates/smb.conf.j2
+drwxrwxr-x root/root         0 2017-04-17 20:31 ansible-role-samba-master/tests/
+-rw-rw-r-- root/root         9 2017-04-17 20:31 ansible-role-samba-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-04-17 20:31 ansible-role-samba-master/tests/test.yml

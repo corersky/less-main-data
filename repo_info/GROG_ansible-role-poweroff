@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-07-19 07:27 ansible-role-poweroff-master/
+-rw-rw-r-- root/root       551 2016-07-19 07:27 ansible-role-poweroff-master/.travis.yml
+-rw-rw-r-- root/root      1071 2016-07-19 07:27 ansible-role-poweroff-master/LICENSE
+-rw-rw-r-- root/root      2378 2016-07-19 07:27 ansible-role-poweroff-master/README.md
+drwxrwxr-x root/root         0 2016-07-19 07:27 ansible-role-poweroff-master/defaults/
+-rw-rw-r-- root/root       331 2016-07-19 07:27 ansible-role-poweroff-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:27 ansible-role-poweroff-master/meta/
+-rw-rw-r-- root/root       397 2016-07-19 07:27 ansible-role-poweroff-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:27 ansible-role-poweroff-master/tasks/
+-rw-rw-r-- root/root       490 2016-07-19 07:27 ansible-role-poweroff-master/tasks/main.yml
+-rw-rw-r-- root/root       370 2016-07-19 07:27 ansible-role-poweroff-master/tasks/poweroff.yml
+drwxrwxr-x root/root         0 2016-07-19 07:27 ansible-role-poweroff-master/tests/
+-rw-rw-r-- root/root        10 2016-07-19 07:27 ansible-role-poweroff-master/tests/inventory
+-rw-rw-r-- root/root        80 2016-07-19 07:27 ansible-role-poweroff-master/tests/test.yml

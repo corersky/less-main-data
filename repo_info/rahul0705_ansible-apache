@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-12 14:48 ansible-apache-master/
+-rw-rw-r-- root/root       826 2017-11-12 14:48 ansible-apache-master/.travis.yml
+-rw-rw-r-- root/root      1328 2017-11-12 14:48 ansible-apache-master/README.md
+drwxrwxr-x root/root         0 2017-11-12 14:48 ansible-apache-master/defaults/
+-rw-rw-r-- root/root        61 2017-11-12 14:48 ansible-apache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-12 14:48 ansible-apache-master/handlers/
+-rw-rw-r-- root/root       127 2017-11-12 14:48 ansible-apache-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-12 14:48 ansible-apache-master/meta/
+-rw-rw-r-- root/root       269 2017-11-12 14:48 ansible-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-12 14:48 ansible-apache-master/tasks/
+-rw-rw-r-- root/root      1318 2017-11-12 14:48 ansible-apache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-12 14:48 ansible-apache-master/tests/
+-rw-rw-r-- root/root        10 2017-11-12 14:48 ansible-apache-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-11-12 14:48 ansible-apache-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-12 14:48 ansible-apache-master/vars/
+-rw-rw-r-- root/root       129 2017-11-12 14:48 ansible-apache-master/vars/Ubuntu-16.04.yml
+-rw-rw-r-- root/root       131 2017-11-12 14:48 ansible-apache-master/vars/Ubuntu.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/
+-rw-rw-r-- root/root      1705 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/Jenkinsfile
+-rw-rw-r-- root/root      1406 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/README.md
+drwxrwxr-x root/root         0 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/defaults/
+-rw-rw-r-- root/root       451 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/meta/
+-rw-rw-r-- root/root      2060 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/tasks/
+-rw-rw-r-- root/root       143 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/tasks/main.yml
+-rw-rw-r-- root/root       381 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/tasks/start_container.yml
+drwxrwxr-x root/root         0 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/vars/
+-rw-rw-r-- root/root       122 2019-03-29 15:20 ansible-role-stripe-charge-processor-master/vars/main.yml

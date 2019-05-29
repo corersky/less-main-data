@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-09-05 09:54 ansible-role-autossh-master/
+-rw-rw-r-- root/root      1077 2017-09-05 09:54 ansible-role-autossh-master/LICENSE
+-rw-rw-r-- root/root      1123 2017-09-05 09:54 ansible-role-autossh-master/README.md
+drwxrwxr-x root/root         0 2017-09-05 09:54 ansible-role-autossh-master/defaults/
+-rw-rw-r-- root/root       279 2017-09-05 09:54 ansible-role-autossh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-05 09:54 ansible-role-autossh-master/meta/
+-rw-rw-r-- root/root       268 2017-09-05 09:54 ansible-role-autossh-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-05 09:54 ansible-role-autossh-master/tasks/
+-rw-rw-r-- root/root       451 2017-09-05 09:54 ansible-role-autossh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-05 09:54 ansible-role-autossh-master/templates/
+-rw-rw-r-- root/root       442 2017-09-05 09:54 ansible-role-autossh-master/templates/autossh-template.service

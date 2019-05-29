@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-27 08:20 ansible-zabbix-agent-centos-master/
+-rw-rw-r-- root/root        27 2017-07-27 08:20 ansible-zabbix-agent-centos-master/.gitignore
+-rw-rw-r-- root/root      1072 2017-07-27 08:20 ansible-zabbix-agent-centos-master/LICENSE
+-rw-rw-r-- root/root       489 2017-07-27 08:20 ansible-zabbix-agent-centos-master/README.md
+drwxrwxr-x root/root         0 2017-07-27 08:20 ansible-zabbix-agent-centos-master/meta/
+-rw-rw-r-- root/root       247 2017-07-27 08:20 ansible-zabbix-agent-centos-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-27 08:20 ansible-zabbix-agent-centos-master/tasks/
+-rw-rw-r-- root/root       496 2017-07-27 08:20 ansible-zabbix-agent-centos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-27 08:20 ansible-zabbix-agent-centos-master/tests/
+-rw-rw-r-- root/root       274 2017-07-27 08:20 ansible-zabbix-agent-centos-master/tests/Vagrantfile
+-rw-rw-r-- root/root       124 2017-07-27 08:20 ansible-zabbix-agent-centos-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2017-07-27 08:20 ansible-zabbix-agent-centos-master/tests/localhost
+-rw-rw-r-- root/root       117 2017-07-27 08:20 ansible-zabbix-agent-centos-master/tests/test.yml

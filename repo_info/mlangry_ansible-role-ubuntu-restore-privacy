@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/
+-rw-rw-r-- root/root      1064 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/LICENSE
+-rw-rw-r-- root/root      1354 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/README.md
+drwxrwxr-x root/root         0 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/defaults/
+-rw-rw-r-- root/root       450 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/meta/
+-rw-rw-r-- root/root       991 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/tasks/
+-rw-rw-r-- root/root       103 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/tasks/before1310.yml
+-rw-rw-r-- root/root       396 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/tasks/checkCanonicalSchema.yml
+-rw-rw-r-- root/root       446 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/tasks/disabledRemoteSearch.yml
+-rw-rw-r-- root/root      1045 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/tasks/main.yml
+-rw-rw-r-- root/root       741 2016-08-30 11:11 ansible-role-ubuntu-restore-privacy-master/tasks/since1310.yml

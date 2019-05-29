@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-14 17:27 ansible-apache-ondrej-master/
+-rw-rw-r-- root/root       831 2017-11-14 17:27 ansible-apache-ondrej-master/README.md
+drwxrwxr-x root/root         0 2017-11-14 17:27 ansible-apache-ondrej-master/defaults/
+-rw-rw-r-- root/root       115 2017-11-14 17:27 ansible-apache-ondrej-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-14 17:27 ansible-apache-ondrej-master/handlers/
+-rw-rw-r-- root/root       115 2017-11-14 17:27 ansible-apache-ondrej-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-14 17:27 ansible-apache-ondrej-master/meta/
+-rw-rw-r-- root/root       376 2017-11-14 17:27 ansible-apache-ondrej-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-14 17:27 ansible-apache-ondrej-master/tasks/
+-rw-rw-r-- root/root       323 2017-11-14 17:27 ansible-apache-ondrej-master/tasks/main.yml
+-rw-rw-r-- root/root       438 2017-11-14 17:27 ansible-apache-ondrej-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2017-11-14 17:27 ansible-apache-ondrej-master/tests/
+-rw-rw-r-- root/root       153 2017-11-14 17:27 ansible-apache-ondrej-master/tests/docker-compose.yml
+-rw-rw-r-- root/root        56 2017-11-14 17:27 ansible-apache-ondrej-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-11-14 17:27 ansible-apache-ondrej-master/tests/test.yml

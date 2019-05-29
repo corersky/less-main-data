@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-21 15:46 ansible-postfix-aws-master/
+-rw-rw-r-- root/root     35147 2019-01-21 15:46 ansible-postfix-aws-master/COPYING
+-rw-rw-r-- root/root      8647 2019-01-21 15:46 ansible-postfix-aws-master/README.rst
+drwxrwxr-x root/root         0 2019-01-21 15:46 ansible-postfix-aws-master/defaults/
+-rw-rw-r-- root/root       266 2019-01-21 15:46 ansible-postfix-aws-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-21 15:46 ansible-postfix-aws-master/handlers/
+-rw-rw-r-- root/root        69 2019-01-21 15:46 ansible-postfix-aws-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-21 15:46 ansible-postfix-aws-master/meta/
+-rw-rw-r-- root/root       254 2019-01-21 15:46 ansible-postfix-aws-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-21 15:46 ansible-postfix-aws-master/tasks/
+-rw-rw-r-- root/root      2594 2019-01-21 15:46 ansible-postfix-aws-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-21 15:46 ansible-postfix-aws-master/templates/
+drwxrwxr-x root/root         0 2019-01-21 15:46 ansible-postfix-aws-master/templates/etc/
+drwxrwxr-x root/root         0 2019-01-21 15:46 ansible-postfix-aws-master/templates/etc/postfix/
+-rw-rw-r-- root/root       259 2019-01-21 15:46 ansible-postfix-aws-master/templates/etc/postfix/sender_canonical.j2

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-02 14:22 ansible-role-mediainfo-master/
+-rw-rw-r-- root/root      2696 2016-05-02 14:22 ansible-role-mediainfo-master/.gitignore
+-rw-rw-r-- root/root       539 2016-05-02 14:22 ansible-role-mediainfo-master/.travis.yml
+-rw-rw-r-- root/root      1149 2016-05-02 14:22 ansible-role-mediainfo-master/README.md
+drwxrwxr-x root/root         0 2016-05-02 14:22 ansible-role-mediainfo-master/meta/
+-rw-rw-r-- root/root       313 2016-05-02 14:22 ansible-role-mediainfo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-02 14:22 ansible-role-mediainfo-master/tasks/
+-rw-rw-r-- root/root       588 2016-05-02 14:22 ansible-role-mediainfo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-02 14:22 ansible-role-mediainfo-master/tests/
+-rw-rw-r-- root/root       402 2016-05-02 14:22 ansible-role-mediainfo-master/tests/Dockerfile
+-rw-rw-r-- root/root        58 2016-05-02 14:22 ansible-role-mediainfo-master/tests/install_roles.yml
+-rw-rw-r-- root/root        74 2016-05-02 14:22 ansible-role-mediainfo-master/tests/playbook.yml

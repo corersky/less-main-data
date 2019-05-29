@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-04-10 10:42 ansible-role-saxs-master/
+-rw-rw-r-- root/root     11357 2017-04-10 10:42 ansible-role-saxs-master/LICENSE
+-rw-rw-r-- root/root      1531 2017-04-10 10:42 ansible-role-saxs-master/README.md
+drwxrwxr-x root/root         0 2017-04-10 10:42 ansible-role-saxs-master/files/
+-rw-rw-r-- root/root      1717 2017-04-10 10:42 ansible-role-saxs-master/files/create.sh
+-rw-rw-r-- root/root        73 2017-04-10 10:42 ansible-role-saxs-master/files/run.sh
+-rw-rw-r-- root/root    358393 2017-04-10 10:42 ansible-role-saxs-master/files/saxs-portal.tar.gz
+-rw-rw-r-- root/root      4442 2017-04-10 10:42 ansible-role-saxs-master/files/saxs-server.tar.gz
+drwxrwxr-x root/root         0 2017-04-10 10:42 ansible-role-saxs-master/meta/
+-rw-rw-r-- root/root       223 2017-04-10 10:42 ansible-role-saxs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-10 10:42 ansible-role-saxs-master/tasks/
+-rw-rw-r-- root/root       947 2017-04-10 10:42 ansible-role-saxs-master/tasks/main.yml

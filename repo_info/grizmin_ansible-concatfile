@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-11-17 15:52 ansible-concatfile-master/
+-rw-rw-r-- root/root      1085 2015-11-17 15:52 ansible-concatfile-master/LICENSE
+-rw-rw-r-- root/root       581 2015-11-17 15:52 ansible-concatfile-master/README.md
+drwxrwxr-x root/root         0 2015-11-17 15:52 ansible-concatfile-master/action_plugins/
+-rw-rw-r-- root/root      2143 2015-11-17 15:52 ansible-concatfile-master/action_plugins/concatfile.py
+drwxrwxr-x root/root         0 2015-11-17 15:52 ansible-concatfile-master/defaults/
+-rw-rw-r-- root/root         4 2015-11-17 15:52 ansible-concatfile-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-17 15:52 ansible-concatfile-master/files/
+-rw-rw-r-- root/root        68 2015-11-17 15:52 ansible-concatfile-master/files/afile.txt
+drwxrwxr-x root/root         0 2015-11-17 15:52 ansible-concatfile-master/library/
+-rw-rw-r-- root/root      7448 2015-11-17 15:52 ansible-concatfile-master/library/concatfile.py
+drwxrwxr-x root/root         0 2015-11-17 15:52 ansible-concatfile-master/meta/
+-rw-rw-r-- root/root      2470 2015-11-17 15:52 ansible-concatfile-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-17 15:52 ansible-concatfile-master/tasks/
+-rw-rw-r-- root/root       115 2015-11-17 15:52 ansible-concatfile-master/tasks/main.yml

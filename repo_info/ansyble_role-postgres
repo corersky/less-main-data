@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-27 01:18 role-postgres-master/
+-rw-rw-r-- root/root        91 2017-09-27 01:18 role-postgres-master/.gitignore
+-rw-rw-r-- root/root       735 2017-09-27 01:18 role-postgres-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-09-27 01:18 role-postgres-master/LICENSE
+-rw-rw-r-- root/root      1344 2017-09-27 01:18 role-postgres-master/README.md
+drwxrwxr-x root/root         0 2017-09-27 01:18 role-postgres-master/defaults/
+-rw-rw-r-- root/root        69 2017-09-27 01:18 role-postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-27 01:18 role-postgres-master/meta/
+-rw-rw-r-- root/root       359 2017-09-27 01:18 role-postgres-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-27 01:18 role-postgres-master/tasks/
+-rw-rw-r-- root/root       544 2017-09-27 01:18 role-postgres-master/tasks/config.yml
+-rw-rw-r-- root/root        67 2017-09-27 01:18 role-postgres-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-27 01:18 role-postgres-master/tests/
+-rw-rw-r-- root/root        77 2017-09-27 01:18 role-postgres-master/tests/playbook.yml
+-rw-rw-r-- root/root       328 2017-09-27 01:18 role-postgres-master/tests/vars.yml

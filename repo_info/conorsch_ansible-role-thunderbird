@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-03-30 14:12 ansible-role-thunderbird-master/
+-rw-rw-r-- root/root      1248 2016-03-30 14:12 ansible-role-thunderbird-master/README.md
+drwxrwxr-x root/root         0 2016-03-30 14:12 ansible-role-thunderbird-master/defaults/
+-rw-rw-r-- root/root       914 2016-03-30 14:12 ansible-role-thunderbird-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-30 14:12 ansible-role-thunderbird-master/meta/
+-rw-rw-r-- root/root       537 2016-03-30 14:12 ansible-role-thunderbird-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-30 14:12 ansible-role-thunderbird-master/tasks/
+-rw-rw-r-- root/root       232 2016-03-30 14:12 ansible-role-thunderbird-master/tasks/install_from_ppa.yml
+-rw-rw-r-- root/root       802 2016-03-30 14:12 ansible-role-thunderbird-master/tasks/install_from_tarball.yml
+-rw-rw-r-- root/root       185 2016-03-30 14:12 ansible-role-thunderbird-master/tasks/main.yml

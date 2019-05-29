@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-11-28 03:00 ansible-role-docker-master/
+-rw-rw-r-- root/root       370 2018-11-28 03:00 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2018-11-28 03:00 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       213 2018-11-28 03:00 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-28 03:00 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root       207 2018-11-28 03:00 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-28 03:00 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       342 2018-11-28 03:00 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-28 03:00 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       688 2018-11-28 03:00 ansible-role-docker-master/tasks/configure.yml
+-rw-rw-r-- root/root      1178 2018-11-28 03:00 ansible-role-docker-master/tasks/install.yml
+-rw-rw-r-- root/root        82 2018-11-28 03:00 ansible-role-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       316 2018-11-28 03:00 ansible-role-docker-master/tasks/pre.yml

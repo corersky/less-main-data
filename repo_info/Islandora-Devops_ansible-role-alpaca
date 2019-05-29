@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-01 11:25 ansible-role-alpaca-master/
+-rw-rw-r-- root/root      1586 2019-05-01 11:25 ansible-role-alpaca-master/README.md
+drwxrwxr-x root/root         0 2019-05-01 11:25 ansible-role-alpaca-master/defaults/
+-rw-rw-r-- root/root      2507 2019-05-01 11:25 ansible-role-alpaca-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-01 11:25 ansible-role-alpaca-master/meta/
+-rw-rw-r-- root/root       401 2019-05-01 11:25 ansible-role-alpaca-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-01 11:25 ansible-role-alpaca-master/tasks/
+-rw-rw-r-- root/root      1195 2019-05-01 11:25 ansible-role-alpaca-master/tasks/compile.yml
+-rw-rw-r-- root/root       353 2019-05-01 11:25 ansible-role-alpaca-master/tasks/config.yml
+-rw-rw-r-- root/root       253 2019-05-01 11:25 ansible-role-alpaca-master/tasks/deploy.yml
+-rw-rw-r-- root/root       225 2019-05-01 11:25 ansible-role-alpaca-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-01 11:25 ansible-role-alpaca-master/templates/
+-rw-rw-r-- root/root       102 2019-05-01 11:25 ansible-role-alpaca-master/templates/alpaca.cfg.j2
+-rw-rw-r-- root/root      1552 2019-05-01 11:25 ansible-role-alpaca-master/templates/blueprint.xml.j2
+-rw-rw-r-- root/root       323 2019-05-01 11:25 ansible-role-alpaca-master/templates/maven.xml.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-16 03:33 ansible-docker-manage-master/
+-rw-rw-r-- root/root      2160 2017-03-16 03:33 ansible-docker-manage-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 03:33 ansible-docker-manage-master/defaults/
+-rw-rw-r-- root/root        88 2017-03-16 03:33 ansible-docker-manage-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-16 03:33 ansible-docker-manage-master/handlers/
+-rw-rw-r-- root/root        46 2017-03-16 03:33 ansible-docker-manage-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-16 03:33 ansible-docker-manage-master/meta/
+-rw-rw-r-- root/root       370 2017-03-16 03:33 ansible-docker-manage-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 03:33 ansible-docker-manage-master/tasks/
+-rw-rw-r-- root/root      7686 2017-03-16 03:33 ansible-docker-manage-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-16 03:33 ansible-docker-manage-master/tests/
+-rw-rw-r-- root/root         9 2017-03-16 03:33 ansible-docker-manage-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-03-16 03:33 ansible-docker-manage-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-16 03:33 ansible-docker-manage-master/vars/
+-rw-rw-r-- root/root        42 2017-03-16 03:33 ansible-docker-manage-master/vars/main.yml

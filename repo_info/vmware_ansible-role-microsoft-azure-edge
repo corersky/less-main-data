@@ -1,0 +1,39 @@
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/
+-rw-rw-r-- root/root        23 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/.atom-build.yml
+-rw-rw-r-- root/root        94 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/.gitignore
+-rw-rw-r-- root/root      1037 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/.travis.yml
+-rw-rw-r-- root/root       331 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/.yamllint
+-rw-rw-r-- root/root       532 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/Dockerfile
+-rw-rw-r-- root/root      1303 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/LICENSE
+-rw-rw-r-- root/root       451 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/NOTICE
+-rw-rw-r-- root/root      2231 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/README.md
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/defaults/
+-rw-rw-r-- root/root       238 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/defaults/main.yml
+-rw-rw-r-- root/root       467 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/extra_vars.yml.sample
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/handlers/
+-rw-rw-r-- root/root        47 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/meta/
+-rw-rw-r-- root/root       420 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/default/
+-rw-rw-r-- root/root      1020 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       151 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       777 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        79 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/default/playbook.yml
+lrwxrwxrwx root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root        66 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/requirements.txt
+-rw-rw-r-- root/root        28 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/requirements.yml
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tasks/
+-rw-rw-r-- root/root      1056 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tasks/Debian.yml
+-rw-rw-r-- root/root      2807 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tasks/azure-edge.yml
+-rw-rw-r-- root/root       167 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tests/
+-rw-rw-r-- root/root        36 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tests/inventory
+lrwxrwxrwx root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tests/requirements.yml -> ../requirements.yml
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tests/roles/azure-edge -> ../..
+-rw-rw-r-- root/root        50 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/vars/
+-rw-rw-r-- root/root        43 2018-11-09 14:39 ansible-role-microsoft-azure-edge-master/vars/main.yml

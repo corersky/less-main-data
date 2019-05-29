@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-24 20:45 ansible-role-repo-mysql-community-master/
+-rw-rw-r-- root/root       214 2019-03-24 20:45 ansible-role-repo-mysql-community-master/.editorconfig
+-rw-rw-r-- root/root        75 2019-03-24 20:45 ansible-role-repo-mysql-community-master/.gitattributes
+-rw-rw-r-- root/root      1133 2019-03-24 20:45 ansible-role-repo-mysql-community-master/LICENSE.md
+-rw-rw-r-- root/root       476 2019-03-24 20:45 ansible-role-repo-mysql-community-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 20:45 ansible-role-repo-mysql-community-master/defaults/
+-rw-rw-r-- root/root        40 2019-03-24 20:45 ansible-role-repo-mysql-community-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-24 20:45 ansible-role-repo-mysql-community-master/meta/
+-rw-rw-r-- root/root       403 2019-03-24 20:45 ansible-role-repo-mysql-community-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 20:45 ansible-role-repo-mysql-community-master/tasks/
+-rw-rw-r-- root/root       357 2019-03-24 20:45 ansible-role-repo-mysql-community-master/tasks/enable_57.yml
+-rw-rw-r-- root/root       357 2019-03-24 20:45 ansible-role-repo-mysql-community-master/tasks/enable_80.yml
+-rw-rw-r-- root/root       456 2019-03-24 20:45 ansible-role-repo-mysql-community-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 20:45 ansible-role-repo-mysql-community-master/vars/
+-rw-rw-r-- root/root       269 2019-03-24 20:45 ansible-role-repo-mysql-community-master/vars/main.yml

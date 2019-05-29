@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-11-04 00:08 ansible-role-hardinfo-master/
+-rw-rw-r-- root/root       843 2017-11-04 00:08 ansible-role-hardinfo-master/.gitignore
+-rw-rw-r-- root/root       539 2017-11-04 00:08 ansible-role-hardinfo-master/.travis.yml
+-rw-rw-r-- root/root      1328 2017-11-04 00:08 ansible-role-hardinfo-master/README.md
+drwxrwxr-x root/root         0 2017-11-04 00:08 ansible-role-hardinfo-master/defaults/
+-rw-rw-r-- root/root        19 2017-11-04 00:08 ansible-role-hardinfo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-04 00:08 ansible-role-hardinfo-master/meta/
+-rw-rw-r-- root/root       302 2017-11-04 00:08 ansible-role-hardinfo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-04 00:08 ansible-role-hardinfo-master/tasks/
+-rw-rw-r-- root/root       164 2017-11-04 00:08 ansible-role-hardinfo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-04 00:08 ansible-role-hardinfo-master/tests/
+-rw-rw-r-- root/root       257 2017-11-04 00:08 ansible-role-hardinfo-master/tests/ansible.cfg
+-rw-rw-r-- root/root       109 2017-11-04 00:08 ansible-role-hardinfo-master/tests/staging
+-rw-rw-r-- root/root       194 2017-11-04 00:08 ansible-role-hardinfo-master/tests/test.yml

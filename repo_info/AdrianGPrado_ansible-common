@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-13 13:02 ansible-common-master/
+-rw-rw-r-- root/root      1328 2016-06-13 13:02 ansible-common-master/README.md
+drwxrwxr-x root/root         0 2016-06-13 13:02 ansible-common-master/defaults/
+-rw-rw-r-- root/root       398 2016-06-13 13:02 ansible-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-13 13:02 ansible-common-master/meta/
+-rw-rw-r-- root/root       399 2016-06-13 13:02 ansible-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-13 13:02 ansible-common-master/tasks/
+-rw-rw-r-- root/root       788 2016-06-13 13:02 ansible-common-master/tasks/install_pip.yml
+-rw-rw-r-- root/root       748 2016-06-13 13:02 ansible-common-master/tasks/install_python.yml
+-rw-rw-r-- root/root       520 2016-06-13 13:02 ansible-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-13 13:02 ansible-common-master/tests/
+-rw-rw-r-- root/root         9 2016-06-13 13:02 ansible-common-master/tests/inventory
+-rw-rw-r-- root/root        64 2016-06-13 13:02 ansible-common-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-06-13 13:02 ansible-common-master/vars/
+-rw-rw-r-- root/root       318 2016-06-13 13:02 ansible-common-master/vars/RedHat_vars.yml

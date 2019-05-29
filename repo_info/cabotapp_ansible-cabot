@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-13 07:13 ansible-cabot-master/
+-rw-rw-r-- root/root      1065 2017-06-13 07:13 ansible-cabot-master/LICENSE
+-rw-rw-r-- root/root       793 2017-06-13 07:13 ansible-cabot-master/README.md
+drwxrwxr-x root/root         0 2017-06-13 07:13 ansible-cabot-master/defaults/
+-rw-rw-r-- root/root       354 2017-06-13 07:13 ansible-cabot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-13 07:13 ansible-cabot-master/handlers/
+-rw-rw-r-- root/root        87 2017-06-13 07:13 ansible-cabot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-13 07:13 ansible-cabot-master/meta/
+-rw-rw-r-- root/root       283 2017-06-13 07:13 ansible-cabot-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-13 07:13 ansible-cabot-master/tasks/
+-rw-rw-r-- root/root      1588 2017-06-13 07:13 ansible-cabot-master/tasks/main.yml
+-rw-rw-r-- root/root       573 2017-06-13 07:13 ansible-cabot-master/tasks/postgres.yml
+drwxrwxr-x root/root         0 2017-06-13 07:13 ansible-cabot-master/templates/
+-rw-rw-r-- root/root       252 2017-06-13 07:13 ansible-cabot-master/templates/cabot-beat.systemd.j2
+-rw-rw-r-- root/root       278 2017-06-13 07:13 ansible-cabot-master/templates/cabot-worker.systemd.j2
+-rw-rw-r-- root/root       436 2017-06-13 07:13 ansible-cabot-master/templates/cabot.systemd.j2

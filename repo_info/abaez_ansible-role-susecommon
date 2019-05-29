@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-19 16:53 ansible-role-susecommon-master/
+-rw-rw-r-- root/root       539 2017-11-19 16:53 ansible-role-susecommon-master/.travis.yml
+-rw-rw-r-- root/root      1319 2017-11-19 16:53 ansible-role-susecommon-master/LICENSE
+-rw-rw-r-- root/root       929 2017-11-19 16:53 ansible-role-susecommon-master/README.md
+drwxrwxr-x root/root         0 2017-11-19 16:53 ansible-role-susecommon-master/defaults/
+-rw-rw-r-- root/root        73 2017-11-19 16:53 ansible-role-susecommon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-19 16:53 ansible-role-susecommon-master/meta/
+-rw-rw-r-- root/root      1332 2017-11-19 16:53 ansible-role-susecommon-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-19 16:53 ansible-role-susecommon-master/tasks/
+-rw-rw-r-- root/root       119 2017-11-19 16:53 ansible-role-susecommon-master/tasks/main.yml
+-rw-rw-r-- root/root       238 2017-11-19 16:53 ansible-role-susecommon-master/tasks/pkg.yml
+-rw-rw-r-- root/root      1881 2017-11-19 16:53 ansible-role-susecommon-master/tasks/repos.yml
+-rw-rw-r-- root/root       461 2017-11-19 16:53 ansible-role-susecommon-master/tasks/version.yml
+drwxrwxr-x root/root         0 2017-11-19 16:53 ansible-role-susecommon-master/tests/
+-rw-rw-r-- root/root         9 2017-11-19 16:53 ansible-role-susecommon-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-11-19 16:53 ansible-role-susecommon-master/tests/test.yml

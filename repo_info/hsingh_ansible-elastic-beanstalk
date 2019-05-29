@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-12-12 13:01 ansible-elastic-beanstalk-master/
+-rw-rw-r-- root/root        63 2017-12-12 13:01 ansible-elastic-beanstalk-master/.gitignore
+-rw-rw-r-- root/root      1243 2017-12-12 13:01 ansible-elastic-beanstalk-master/CHANGELOG.md
+-rw-rw-r-- root/root      1074 2017-12-12 13:01 ansible-elastic-beanstalk-master/LICENSE
+-rw-rw-r-- root/root      1896 2017-12-12 13:01 ansible-elastic-beanstalk-master/README.md
+drwxrwxr-x root/root         0 2017-12-12 13:01 ansible-elastic-beanstalk-master/library/
+-rw-rw-r-- root/root      6327 2017-12-12 13:01 ansible-elastic-beanstalk-master/library/elasticbeanstalk_app.py
+-rw-rw-r-- root/root     15795 2017-12-12 13:01 ansible-elastic-beanstalk-master/library/elasticbeanstalk_env.py
+-rw-rw-r-- root/root      9309 2017-12-12 13:01 ansible-elastic-beanstalk-master/library/elasticbeanstalk_version.py
+drwxrwxr-x root/root         0 2017-12-12 13:01 ansible-elastic-beanstalk-master/meta/
+-rw-rw-r-- root/root       304 2017-12-12 13:01 ansible-elastic-beanstalk-master/meta/main.yml

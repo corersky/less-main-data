@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-03 06:38 ansible-selenium-master/
+-rwxrwxr-x root/root       270 2017-03-03 06:38 ansible-selenium-master/.gitignore
+-rwxrwxr-x root/root       366 2017-03-03 06:38 ansible-selenium-master/README.md
+drwxrwxr-x root/root         0 2017-03-03 06:38 ansible-selenium-master/defaults/
+-rwxrwxr-x root/root       369 2017-03-03 06:38 ansible-selenium-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-03 06:38 ansible-selenium-master/handlers/
+-rwxrwxr-x root/root       112 2017-03-03 06:38 ansible-selenium-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-03 06:38 ansible-selenium-master/meta/
+-rwxrwxr-x root/root       290 2017-03-03 06:38 ansible-selenium-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-03 06:38 ansible-selenium-master/tasks/
+-rwxrwxr-x root/root      2913 2017-03-03 06:38 ansible-selenium-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-03 06:38 ansible-selenium-master/templates/
+-rwxrwxr-x root/root      2085 2017-03-03 06:38 ansible-selenium-master/templates/selenium-init.j2
+-rw-rw-r-- root/root      2031 2017-03-03 06:38 ansible-selenium-master/templates/xvfb-init.j2

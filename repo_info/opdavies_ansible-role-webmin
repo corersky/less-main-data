@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-04 08:13 ansible-role-webmin-master/
+-rw-rw-r-- root/root        23 2015-06-04 08:13 ansible-role-webmin-master/README.md
+drwxrwxr-x root/root         0 2015-06-04 08:13 ansible-role-webmin-master/defaults/
+-rw-rw-r-- root/root       104 2015-06-04 08:13 ansible-role-webmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-04 08:13 ansible-role-webmin-master/handlers/
+-rw-rw-r-- root/root        77 2015-06-04 08:13 ansible-role-webmin-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-04 08:13 ansible-role-webmin-master/meta/
+-rw-rw-r-- root/root       306 2015-06-04 08:13 ansible-role-webmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-04 08:13 ansible-role-webmin-master/tasks/
+-rw-rw-r-- root/root       381 2015-06-04 08:13 ansible-role-webmin-master/tasks/install-debian.yml
+-rw-rw-r-- root/root       244 2015-06-04 08:13 ansible-role-webmin-master/tasks/install-redhat.yml
+-rw-rw-r-- root/root       401 2015-06-04 08:13 ansible-role-webmin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-04 08:13 ansible-role-webmin-master/templates/
+-rw-rw-r-- root/root       768 2015-06-04 08:13 ansible-role-webmin-master/templates/Debian-miniserv.conf.j2
+-rw-rw-r-- root/root       766 2015-06-04 08:13 ansible-role-webmin-master/templates/RedHat-miniserv.conf.j2

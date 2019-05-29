@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/
+-rw-rw-r-- root/root       145 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/meta/
+-rw-rw-r-- root/root       358 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/tasks/debian/
+-rw-rw-r-- root/root       124 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       220 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/tasks/redhat/
+-rw-rw-r-- root/root       124 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/vars/
+-rw-rw-r-- root/root        33 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/vars/Debian.yml
+-rw-rw-r-- root/root        35 2015-10-19 09:43 ansible-role-librabbitmq-devel-master/vars/RedHat.yml

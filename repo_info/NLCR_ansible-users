@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-04-19 16:34 ansible-users-master/
+-rw-rw-r-- root/root      1328 2018-04-19 16:34 ansible-users-master/README.md
+drwxrwxr-x root/root         0 2018-04-19 16:34 ansible-users-master/defaults/
+-rw-rw-r-- root/root        50 2018-04-19 16:34 ansible-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-19 16:34 ansible-users-master/meta/
+-rw-rw-r-- root/root      1786 2018-04-19 16:34 ansible-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-19 16:34 ansible-users-master/tasks/
+-rw-rw-r-- root/root       286 2018-04-19 16:34 ansible-users-master/tasks/groups.yml
+-rw-rw-r-- root/root        75 2018-04-19 16:34 ansible-users-master/tasks/main.yml
+-rw-rw-r-- root/root      1615 2018-04-19 16:34 ansible-users-master/tasks/users.yml

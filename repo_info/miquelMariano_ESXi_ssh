@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-28 08:15 ESXi_ssh-master/
+-rw-rw-r-- root/root       539 2017-06-28 08:15 ESXi_ssh-master/.travis.yml
+-rw-rw-r-- root/root      1342 2017-06-28 08:15 ESXi_ssh-master/README.md
+drwxrwxr-x root/root         0 2017-06-28 08:15 ESXi_ssh-master/defaults/
+-rw-rw-r-- root/root        33 2017-06-28 08:15 ESXi_ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:15 ESXi_ssh-master/handlers/
+-rw-rw-r-- root/root        33 2017-06-28 08:15 ESXi_ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:15 ESXi_ssh-master/meta/
+-rw-rw-r-- root/root       361 2017-06-28 08:15 ESXi_ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:15 ESXi_ssh-master/tasks/
+-rw-rw-r-- root/root     12288 2017-06-28 08:15 ESXi_ssh-master/tasks/.main.yml.swp
+-rw-rw-r-- root/root       276 2017-06-28 08:15 ESXi_ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-28 08:15 ESXi_ssh-master/tests/
+-rw-rw-r-- root/root         9 2017-06-28 08:15 ESXi_ssh-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-06-28 08:15 ESXi_ssh-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-28 08:15 ESXi_ssh-master/vars/
+-rw-rw-r-- root/root        29 2017-06-28 08:15 ESXi_ssh-master/vars/main.yml

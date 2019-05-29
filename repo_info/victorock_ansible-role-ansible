@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-05 09:44 ansible-role-ansible-master/
+-rw-rw-r-- root/root        66 2018-07-05 09:44 ansible-role-ansible-master/.gitattributes
+-rw-rw-r-- root/root       496 2018-07-05 09:44 ansible-role-ansible-master/.travis.yml
+-rw-rw-r-- root/root     34500 2018-07-05 09:44 ansible-role-ansible-master/COPYING
+-rw-rw-r-- root/root      1357 2018-07-05 09:44 ansible-role-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-07-05 09:44 ansible-role-ansible-master/defaults/
+-rw-rw-r-- root/root       106 2018-07-05 09:44 ansible-role-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-05 09:44 ansible-role-ansible-master/meta/
+-rw-rw-r-- root/root       325 2018-07-05 09:44 ansible-role-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-05 09:44 ansible-role-ansible-master/tasks/
+-rw-rw-r-- root/root        74 2018-07-05 09:44 ansible-role-ansible-master/tasks/main.yml
+-rw-rw-r-- root/root       982 2018-07-05 09:44 ansible-role-ansible-master/tasks/run.yml
+drwxrwxr-x root/root         0 2018-07-05 09:44 ansible-role-ansible-master/tests/
+-rw-rw-r-- root/root        29 2018-07-05 09:44 ansible-role-ansible-master/tests/requirements.yml
+-rw-rw-r-- root/root        75 2018-07-05 09:44 ansible-role-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-05 09:44 ansible-role-ansible-master/vars/
+-rw-rw-r-- root/root      1307 2018-07-05 09:44 ansible-role-ansible-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-11-30 19:51 ansible-firewall-master/
+-rw-rw-r-- root/root       539 2017-11-30 19:51 ansible-firewall-master/.travis.yml
+-rw-rw-r-- root/root       890 2017-11-30 19:51 ansible-firewall-master/README.md
+drwxrwxr-x root/root         0 2017-11-30 19:51 ansible-firewall-master/handlers/
+-rw-rw-r-- root/root        81 2017-11-30 19:51 ansible-firewall-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-30 19:51 ansible-firewall-master/meta/
+-rw-rw-r-- root/root      3939 2017-11-30 19:51 ansible-firewall-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-30 19:51 ansible-firewall-master/tasks/
+-rw-rw-r-- root/root       973 2017-11-30 19:51 ansible-firewall-master/tasks/firewall-RedHat.yml
+-rw-rw-r-- root/root         4 2017-11-30 19:51 ansible-firewall-master/tasks/firewall-Suse.yml
+-rw-rw-r-- root/root        91 2017-11-30 19:51 ansible-firewall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-30 19:51 ansible-firewall-master/tests/
+-rw-rw-r-- root/root         9 2017-11-30 19:51 ansible-firewall-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-11-30 19:51 ansible-firewall-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-19 04:56 ansible-mediawiki-restoredb-master/
+-rw-rw-r-- root/root         3 2018-09-19 04:56 ansible-mediawiki-restoredb-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-09-19 04:56 ansible-mediawiki-restoredb-master/LICENSE
+-rw-rw-r-- root/root      2313 2018-09-19 04:56 ansible-mediawiki-restoredb-master/README.md
+drwxrwxr-x root/root         0 2018-09-19 04:56 ansible-mediawiki-restoredb-master/defaults/
+-rw-rw-r-- root/root       828 2018-09-19 04:56 ansible-mediawiki-restoredb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-19 04:56 ansible-mediawiki-restoredb-master/meta/
+-rw-rw-r-- root/root       401 2018-09-19 04:56 ansible-mediawiki-restoredb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-19 04:56 ansible-mediawiki-restoredb-master/tasks/
+-rw-rw-r-- root/root      2876 2018-09-19 04:56 ansible-mediawiki-restoredb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-19 04:56 ansible-mediawiki-restoredb-master/templates/
+-rw-rw-r-- root/root         0 2018-09-19 04:56 ansible-mediawiki-restoredb-master/templates/LocalSettings.php.j2
+drwxrwxr-x root/root         0 2018-09-19 04:56 ansible-mediawiki-restoredb-master/vars/
+-rw-rw-r-- root/root       491 2018-09-19 04:56 ansible-mediawiki-restoredb-master/vars/main.yml

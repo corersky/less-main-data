@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2016-10-18 08:11 ansible-mercurial-master/
+-rw-rw-r-- root/root        65 2016-10-18 08:11 ansible-mercurial-master/.gitignore
+-rw-rw-r-- root/root       154 2016-10-18 08:11 ansible-mercurial-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-10-18 08:11 ansible-mercurial-master/LICENSE
+-rw-rw-r-- root/root       183 2016-10-18 08:11 ansible-mercurial-master/README.md
+drwxrwxr-x root/root         0 2016-10-18 08:11 ansible-mercurial-master/defaults/
+-rw-rw-r-- root/root        24 2016-10-18 08:11 ansible-mercurial-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-18 08:11 ansible-mercurial-master/examples/
+-rw-rw-r-- root/root       581 2016-10-18 08:11 ansible-mercurial-master/examples/Vagrantfile
+-rw-rw-r-- root/root        79 2016-10-18 08:11 ansible-mercurial-master/examples/roles.yml
+drwxrwxr-x root/root         0 2016-10-18 08:11 ansible-mercurial-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-10-18 08:11 ansible-mercurial-master/examples/roles/azavea.mercurial -> ../../
+-rw-rw-r-- root/root        61 2016-10-18 08:11 ansible-mercurial-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-10-18 08:11 ansible-mercurial-master/meta/
+-rw-rw-r-- root/root       346 2016-10-18 08:11 ansible-mercurial-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-18 08:11 ansible-mercurial-master/tasks/
+-rw-rw-r-- root/root       100 2016-10-18 08:11 ansible-mercurial-master/tasks/main.yml
+-rw-rw-r-- root/root         7 2016-10-18 08:11 ansible-mercurial-master/version.txt

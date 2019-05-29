@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-19 19:42 ansible-rundeck-master/
+-rw-rw-r-- root/root       539 2016-03-19 19:42 ansible-rundeck-master/.travis.yml
+-rw-rw-r-- root/root       370 2016-03-19 19:42 ansible-rundeck-master/README.md
+drwxrwxr-x root/root         0 2016-03-19 19:42 ansible-rundeck-master/defaults/
+-rw-rw-r-- root/root        40 2016-03-19 19:42 ansible-rundeck-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-19 19:42 ansible-rundeck-master/handlers/
+-rw-rw-r-- root/root        40 2016-03-19 19:42 ansible-rundeck-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-19 19:42 ansible-rundeck-master/meta/
+-rw-rw-r-- root/root      3014 2016-03-19 19:42 ansible-rundeck-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-19 19:42 ansible-rundeck-master/tasks/
+-rw-rw-r-- root/root       353 2016-03-19 19:42 ansible-rundeck-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-19 19:42 ansible-rundeck-master/tests/
+-rw-rw-r-- root/root         8 2016-03-19 19:42 ansible-rundeck-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-03-19 19:42 ansible-rundeck-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-19 19:42 ansible-rundeck-master/vars/
+-rw-rw-r-- root/root        36 2016-03-19 19:42 ansible-rundeck-master/vars/main.yml

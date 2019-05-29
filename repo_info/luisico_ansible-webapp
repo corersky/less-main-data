@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-08 16:36 ansible-webapp-master/
+-rw-rw-r-- root/root         8 2019-03-08 16:36 ansible-webapp-master/.gitignore
+-rw-rw-r-- root/root      1098 2019-03-08 16:36 ansible-webapp-master/LICENSE
+-rw-rw-r-- root/root      1204 2019-03-08 16:36 ansible-webapp-master/README.md
+-rw-rw-r-- root/root         6 2019-03-08 16:36 ansible-webapp-master/VERSION
+drwxrwxr-x root/root         0 2019-03-08 16:36 ansible-webapp-master/defaults/
+-rw-rw-r-- root/root       957 2019-03-08 16:36 ansible-webapp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-08 16:36 ansible-webapp-master/handlers/
+-rw-rw-r-- root/root       123 2019-03-08 16:36 ansible-webapp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-08 16:36 ansible-webapp-master/meta/
+-rw-rw-r-- root/root       268 2019-03-08 16:36 ansible-webapp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-08 16:36 ansible-webapp-master/tasks/
+-rw-rw-r-- root/root       416 2019-03-08 16:36 ansible-webapp-master/tasks/buildpack.yml
+-rw-rw-r-- root/root      3764 2019-03-08 16:36 ansible-webapp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-08 16:36 ansible-webapp-master/templates/
+-rw-rw-r-- root/root       168 2019-03-08 16:36 ansible-webapp-master/templates/env.j2
+-rw-rw-r-- root/root       384 2019-03-08 16:36 ansible-webapp-master/templates/systemd.service.j2

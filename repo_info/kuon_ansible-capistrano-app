@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-11-03 09:10 ansible-capistrano-app-master/
+-rw-rw-r-- root/root       785 2015-11-03 09:10 ansible-capistrano-app-master/README.md
+drwxrwxr-x root/root         0 2015-11-03 09:10 ansible-capistrano-app-master/defaults/
+-rw-rw-r-- root/root        90 2015-11-03 09:10 ansible-capistrano-app-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-03 09:10 ansible-capistrano-app-master/handlers/
+-rw-rw-r-- root/root        35 2015-11-03 09:10 ansible-capistrano-app-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-03 09:10 ansible-capistrano-app-master/meta/
+-rw-rw-r-- root/root       213 2015-11-03 09:10 ansible-capistrano-app-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-03 09:10 ansible-capistrano-app-master/tasks/
+-rw-rw-r-- root/root       870 2015-11-03 09:10 ansible-capistrano-app-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-03 09:10 ansible-capistrano-app-master/templates/
+-rw-rw-r-- root/root       529 2015-11-03 09:10 ansible-capistrano-app-master/templates/capistrano-app.service.j2
+drwxrwxr-x root/root         0 2015-11-03 09:10 ansible-capistrano-app-master/vars/
+-rw-rw-r-- root/root        31 2015-11-03 09:10 ansible-capistrano-app-master/vars/main.yml

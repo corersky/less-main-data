@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-12-09 06:10 ansible-role-gsutil-master/
+-rw-rw-r-- root/root       424 2016-12-09 06:10 ansible-role-gsutil-master/.travis.yml
+-rw-rw-r-- root/root       877 2016-12-09 06:10 ansible-role-gsutil-master/README.md
+drwxrwxr-x root/root         0 2016-12-09 06:10 ansible-role-gsutil-master/defaults/
+-rw-rw-r-- root/root        51 2016-12-09 06:10 ansible-role-gsutil-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-09 06:10 ansible-role-gsutil-master/files/
+-rw-rw-r-- root/root     10991 2016-12-09 06:10 ansible-role-gsutil-master/files/boto
+drwxrwxr-x root/root         0 2016-12-09 06:10 ansible-role-gsutil-master/meta/
+-rw-rw-r-- root/root      1621 2016-12-09 06:10 ansible-role-gsutil-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-09 06:10 ansible-role-gsutil-master/tasks/
+-rw-rw-r-- root/root      1885 2016-12-09 06:10 ansible-role-gsutil-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-09 06:10 ansible-role-gsutil-master/tests/
+-rw-rw-r-- root/root        17 2016-12-09 06:10 ansible-role-gsutil-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-12-09 06:10 ansible-role-gsutil-master/tests/test.yml

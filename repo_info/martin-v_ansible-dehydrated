@@ -1,0 +1,30 @@
+drwxrwxr-x root/root         0 2018-09-11 18:17 ansible-dehydrated-master/
+-rw-rw-r-- root/root         9 2018-09-11 18:17 ansible-dehydrated-master/.gitignore
+-rw-rw-r-- root/root       943 2018-09-11 18:17 ansible-dehydrated-master/.travis.yml
+-rw-rw-r-- root/root      1076 2018-09-11 18:17 ansible-dehydrated-master/LICENSE
+-rw-rw-r-- root/root      6236 2018-09-11 18:17 ansible-dehydrated-master/README.md
+-rw-rw-r-- root/root       508 2018-09-11 18:17 ansible-dehydrated-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-09-11 18:17 ansible-dehydrated-master/defaults/
+-rw-rw-r-- root/root      2898 2018-09-11 18:17 ansible-dehydrated-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-11 18:17 ansible-dehydrated-master/meta/
+-rw-rw-r-- root/root      2090 2018-09-11 18:17 ansible-dehydrated-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-11 18:17 ansible-dehydrated-master/tasks/
+-rw-rw-r-- root/root       308 2018-09-11 18:17 ansible-dehydrated-master/tasks/clone_repo.yml
+-rw-rw-r-- root/root      1189 2018-09-11 18:17 ansible-dehydrated-master/tasks/configure.yml
+-rw-rw-r-- root/root      2317 2018-09-11 18:17 ansible-dehydrated-master/tasks/cron_with_deploy_scripts.yml
+-rw-rw-r-- root/root       150 2018-09-11 18:17 ansible-dehydrated-master/tasks/main.yml
+-rw-rw-r-- root/root       135 2018-09-11 18:17 ansible-dehydrated-master/tasks/packages.yml
+-rw-rw-r-- root/root       984 2018-09-11 18:17 ansible-dehydrated-master/tasks/user_and_dirs.yml
+drwxrwxr-x root/root         0 2018-09-11 18:17 ansible-dehydrated-master/templates/
+-rw-rw-r-- root/root      1802 2018-09-11 18:17 ansible-dehydrated-master/templates/cron_dehydrated.j2
+-rw-rw-r-- root/root       123 2018-09-11 18:17 ansible-dehydrated-master/templates/dehydrated-weekly.service
+-rw-rw-r-- root/root       149 2018-09-11 18:17 ansible-dehydrated-master/templates/dehydrated-weekly.timer
+-rw-rw-r-- root/root       475 2018-09-11 18:17 ansible-dehydrated-master/templates/deploy_cert.sh.j2
+-rw-rw-r-- root/root      6224 2018-09-11 18:17 ansible-dehydrated-master/templates/hook.sh.j2
+drwxrwxr-x root/root         0 2018-09-11 18:17 ansible-dehydrated-master/tests/
+drwxrwxr-x root/root         0 2018-09-11 18:17 ansible-dehydrated-master/tests/host_vars/
+-rw-rw-r-- root/root       873 2018-09-11 18:17 ansible-dehydrated-master/tests/host_vars/default.yml
+lrwxrwxrwx root/root         0 2018-09-11 18:17 ansible-dehydrated-master/tests/host_vars/localhost.yml -> default.yml
+-rw-rw-r-- root/root         9 2018-09-11 18:17 ansible-dehydrated-master/tests/inventory
+lrwxrwxrwx root/root         0 2018-09-11 18:17 ansible-dehydrated-master/tests/martin-v.dehydrated -> ..
+-rw-rw-r-- root/root       373 2018-09-11 18:17 ansible-dehydrated-master/tests/test.yml

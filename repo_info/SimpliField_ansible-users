@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-08-11 03:19 ansible-users-master/
+-rw-rw-r-- root/root      1013 2016-08-11 03:19 ansible-users-master/.travis.yml
+-rw-rw-r-- root/root       683 2016-08-11 03:19 ansible-users-master/README.md
+drwxrwxr-x root/root         0 2016-08-11 03:19 ansible-users-master/meta/
+-rw-rw-r-- root/root       288 2016-08-11 03:19 ansible-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-11 03:19 ansible-users-master/tasks/
+-rw-rw-r-- root/root       300 2016-08-11 03:19 ansible-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-11 03:19 ansible-users-master/tests/
+-rw-rw-r-- root/root         9 2016-08-11 03:19 ansible-users-master/tests/inventory
+-rw-rw-r-- root/root       264 2016-08-11 03:19 ansible-users-master/tests/test.yml

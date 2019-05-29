@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2019-03-30 06:17 ansible-docker-master/
+-rw-rw-r-- root/root       140 2019-03-30 06:17 ansible-docker-master/.editorconfig
+-rw-rw-r-- root/root         0 2019-03-30 06:17 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root       290 2019-03-30 06:17 ansible-docker-master/.travis.yml
+-rw-rw-r-- root/root      1073 2019-03-30 06:17 ansible-docker-master/LICENSE
+-rw-rw-r-- root/root       639 2019-03-30 06:17 ansible-docker-master/README.md
+-rw-rw-r-- root/root       218 2019-03-30 06:17 ansible-docker-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-03-30 06:17 ansible-docker-master/defaults/
+-rw-rw-r-- root/root        45 2019-03-30 06:17 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-30 06:17 ansible-docker-master/handlers/
+-rw-rw-r-- root/root       120 2019-03-30 06:17 ansible-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-30 06:17 ansible-docker-master/meta/
+-rw-rw-r-- root/root       210 2019-03-30 06:17 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-30 06:17 ansible-docker-master/tasks/
+-rw-rw-r-- root/root      1046 2019-03-30 06:17 ansible-docker-master/tasks/debian.yml
+-rw-rw-r-- root/root        96 2019-03-30 06:17 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-30 06:17 ansible-docker-master/templates/
+-rw-rw-r-- root/root        90 2019-03-30 06:17 ansible-docker-master/templates/daemon.json.j2
+drwxrwxr-x root/root         0 2019-03-30 06:17 ansible-docker-master/tests/
+-rw-rw-r-- root/root         9 2019-03-30 06:17 ansible-docker-master/tests/inventory
+drwxrwxr-x root/root         0 2019-03-30 06:17 ansible-docker-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-03-30 06:17 ansible-docker-master/tests/roles/ansible-docker -> ../../
+-rw-rw-r-- root/root        74 2019-03-30 06:17 ansible-docker-master/tests/test.yml

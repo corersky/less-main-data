@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-09-19 23:16 ansible-role-dumpall-master/
+-rw-rw-r-- root/root     35147 2017-09-19 23:16 ansible-role-dumpall-master/COPYING
+-rw-rw-r-- root/root      7651 2017-09-19 23:16 ansible-role-dumpall-master/COPYING.LESSER
+-rw-rw-r-- root/root      2495 2017-09-19 23:16 ansible-role-dumpall-master/README.md
+drwxrwxr-x root/root         0 2017-09-19 23:16 ansible-role-dumpall-master/defaults/
+-rw-rw-r-- root/root       623 2017-09-19 23:16 ansible-role-dumpall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-19 23:16 ansible-role-dumpall-master/meta/
+-rw-rw-r-- root/root       835 2017-09-19 23:16 ansible-role-dumpall-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-19 23:16 ansible-role-dumpall-master/tasks/
+-rw-rw-r-- root/root       677 2017-09-19 23:16 ansible-role-dumpall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-19 23:16 ansible-role-dumpall-master/templates/
+-rw-rw-r-- root/root       565 2017-09-19 23:16 ansible-role-dumpall-master/templates/dumpall.j2

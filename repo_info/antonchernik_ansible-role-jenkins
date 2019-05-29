@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-25 06:36 ansible-role-jenkins-master/
+-rw-rw-r-- root/root         5 2018-02-25 06:36 ansible-role-jenkins-master/.gitignore
+-rw-rw-r-- root/root      1062 2018-02-25 06:36 ansible-role-jenkins-master/LICENSE
+-rw-rw-r-- root/root       784 2018-02-25 06:36 ansible-role-jenkins-master/README.md
+drwxrwxr-x root/root         0 2018-02-25 06:36 ansible-role-jenkins-master/defaults/
+-rw-rw-r-- root/root        30 2018-02-25 06:36 ansible-role-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-25 06:36 ansible-role-jenkins-master/meta/
+-rw-rw-r-- root/root       311 2018-02-25 06:36 ansible-role-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-25 06:36 ansible-role-jenkins-master/tasks/
+-rw-rw-r-- root/root       754 2018-02-25 06:36 ansible-role-jenkins-master/tasks/debian.yml
+-rw-rw-r-- root/root       219 2018-02-25 06:36 ansible-role-jenkins-master/tasks/main.yml
+-rw-rw-r-- root/root       754 2018-02-25 06:36 ansible-role-jenkins-master/tasks/ubuntu-xenial.yml
+drwxrwxr-x root/root         0 2018-02-25 06:36 ansible-role-jenkins-master/templates/
+drwxrwxr-x root/root         0 2018-02-25 06:36 ansible-role-jenkins-master/templates/etc/
+drwxrwxr-x root/root         0 2018-02-25 06:36 ansible-role-jenkins-master/templates/etc/default/
+-rw-rw-r-- root/root      2692 2018-02-25 06:36 ansible-role-jenkins-master/templates/etc/default/jenkins.j2

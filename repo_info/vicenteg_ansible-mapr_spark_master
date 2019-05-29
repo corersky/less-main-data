@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-07-03 20:50 ansible-mapr_spark_master-master/
+-rw-rw-r-- root/root       761 2016-07-03 20:50 ansible-mapr_spark_master-master/README.md
+drwxrwxr-x root/root         0 2016-07-03 20:50 ansible-mapr_spark_master-master/defaults/
+-rw-rw-r-- root/root       267 2016-07-03 20:50 ansible-mapr_spark_master-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-03 20:50 ansible-mapr_spark_master-master/handlers/
+-rw-rw-r-- root/root       173 2016-07-03 20:50 ansible-mapr_spark_master-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-03 20:50 ansible-mapr_spark_master-master/meta/
+-rw-rw-r-- root/root      2102 2016-07-03 20:50 ansible-mapr_spark_master-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-03 20:50 ansible-mapr_spark_master-master/tasks/
+-rw-rw-r-- root/root      1396 2016-07-03 20:50 ansible-mapr_spark_master-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-03 20:50 ansible-mapr_spark_master-master/templates/
+-rw-rw-r-- root/root        88 2016-07-03 20:50 ansible-mapr_spark_master-master/templates/slaves.j2
+drwxrwxr-x root/root         0 2016-07-03 20:50 ansible-mapr_spark_master-master/vars/
+-rw-rw-r-- root/root        32 2016-07-03 20:50 ansible-mapr_spark_master-master/vars/main.yml

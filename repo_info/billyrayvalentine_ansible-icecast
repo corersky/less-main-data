@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-04 06:01 ansible-icecast-master/
+-rw-rw-r-- root/root      1077 2016-11-04 06:01 ansible-icecast-master/LICENSE
+-rw-rw-r-- root/root      5341 2016-11-04 06:01 ansible-icecast-master/README.md
+drwxrwxr-x root/root         0 2016-11-04 06:01 ansible-icecast-master/defaults/
+-rw-rw-r-- root/root       710 2016-11-04 06:01 ansible-icecast-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-04 06:01 ansible-icecast-master/files/
+-rw-rw-r-- root/root      7249 2016-11-04 06:01 ansible-icecast-master/files/icecast.xml.dist
+drwxrwxr-x root/root         0 2016-11-04 06:01 ansible-icecast-master/handlers/
+-rw-rw-r-- root/root       123 2016-11-04 06:01 ansible-icecast-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-04 06:01 ansible-icecast-master/meta/
+-rw-rw-r-- root/root       320 2016-11-04 06:01 ansible-icecast-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-04 06:01 ansible-icecast-master/tasks/
+-rw-rw-r-- root/root       390 2016-11-04 06:01 ansible-icecast-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-04 06:01 ansible-icecast-master/templates/
+-rw-rw-r-- root/root      4474 2016-11-04 06:01 ansible-icecast-master/templates/icecast.xml.j2
+drwxrwxr-x root/root         0 2016-11-04 06:01 ansible-icecast-master/vars/
+-rw-rw-r-- root/root        36 2016-11-04 06:01 ansible-icecast-master/vars/main.yml

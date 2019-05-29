@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2016-11-01 04:08 yum-update-master/
+-rw-rw-r-- root/root       246 2016-11-01 04:08 yum-update-master/README.md
+drwxrwxr-x root/root         0 2016-11-01 04:08 yum-update-master/handlers/
+-rw-rw-r-- root/root       432 2016-11-01 04:08 yum-update-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-01 04:08 yum-update-master/meta/
+-rw-rw-r-- root/root       231 2016-11-01 04:08 yum-update-master/meta/main.yml
+-rw-rw-r-- root/root      2102 2016-11-01 04:08 yum-update-master/meta/main.yml.sample
+drwxrwxr-x root/root         0 2016-11-01 04:08 yum-update-master/tasks/
+-rw-rw-r-- root/root       309 2016-11-01 04:08 yum-update-master/tasks/main.yml

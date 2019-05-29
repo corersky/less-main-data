@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-09 22:42 ansible-role-resolv-master/
+-rw-rw-r-- root/root      1083 2019-05-09 22:42 ansible-role-resolv-master/LICENSE
+-rw-rw-r-- root/root      1645 2019-05-09 22:42 ansible-role-resolv-master/README.md
+drwxrwxr-x root/root         0 2019-05-09 22:42 ansible-role-resolv-master/defaults/
+-rw-rw-r-- root/root       128 2019-05-09 22:42 ansible-role-resolv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-09 22:42 ansible-role-resolv-master/meta/
+-rw-rw-r-- root/root        59 2019-05-09 22:42 ansible-role-resolv-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root      3308 2019-05-09 22:42 ansible-role-resolv-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-09 22:42 ansible-role-resolv-master/tasks/
+-rw-rw-r-- root/root       135 2019-05-09 22:42 ansible-role-resolv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-09 22:42 ansible-role-resolv-master/templates/
+-rw-rw-r-- root/root       447 2019-05-09 22:42 ansible-role-resolv-master/templates/resolv.conf.j2

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-16 03:04 ansible-role-debian-backports-master/
+-rw-rw-r-- root/root      1526 2019-05-16 03:04 ansible-role-debian-backports-master/README.md
+-rw-rw-r-- root/root      1210 2019-05-16 03:04 ansible-role-debian-backports-master/UNLICENSE
+drwxrwxr-x root/root         0 2019-05-16 03:04 ansible-role-debian-backports-master/meta/
+-rw-rw-r-- root/root      1382 2019-05-16 03:04 ansible-role-debian-backports-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 03:04 ansible-role-debian-backports-master/tasks/
+-rw-rw-r-- root/root       234 2019-05-16 03:04 ansible-role-debian-backports-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 03:04 ansible-role-debian-backports-master/vars/
+-rw-rw-r-- root/root       132 2019-05-16 03:04 ansible-role-debian-backports-master/vars/Debian.yml
+-rw-rw-r-- root/root       149 2019-05-16 03:04 ansible-role-debian-backports-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        63 2019-05-16 03:04 ansible-role-debian-backports-master/vars/main.yml

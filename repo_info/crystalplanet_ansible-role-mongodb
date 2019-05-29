@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-03-23 14:44 ansible-role-mongodb-master/
+-rw-rw-r-- root/root      1089 2015-03-23 14:44 ansible-role-mongodb-master/LICENSE
+-rw-rw-r-- root/root       270 2015-03-23 14:44 ansible-role-mongodb-master/README.md
+drwxrwxr-x root/root         0 2015-03-23 14:44 ansible-role-mongodb-master/defaults/
+-rw-rw-r-- root/root       245 2015-03-23 14:44 ansible-role-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-23 14:44 ansible-role-mongodb-master/files/
+-rw-rw-r-- root/root       142 2015-03-23 14:44 ansible-role-mongodb-master/files/mongodb.repo
+drwxrwxr-x root/root         0 2015-03-23 14:44 ansible-role-mongodb-master/handlers/
+-rw-rw-r-- root/root        65 2015-03-23 14:44 ansible-role-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-23 14:44 ansible-role-mongodb-master/meta/
+-rw-rw-r-- root/root       273 2015-03-23 14:44 ansible-role-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-23 14:44 ansible-role-mongodb-master/tasks/
+-rw-rw-r-- root/root      1028 2015-03-23 14:44 ansible-role-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-23 14:44 ansible-role-mongodb-master/templates/
+-rw-rw-r-- root/root       264 2015-03-23 14:44 ansible-role-mongodb-master/templates/mongod.conf.j2

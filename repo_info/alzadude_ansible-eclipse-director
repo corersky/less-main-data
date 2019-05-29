@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-17 12:01 ansible-eclipse-director-master/
+-rw-rw-r-- root/root       108 2016-09-17 12:01 ansible-eclipse-director-master/.gitmodules
+-rw-rw-r-- root/root       429 2016-09-17 12:01 ansible-eclipse-director-master/.travis.yml
+-rw-rw-r-- root/root      2336 2016-09-17 12:01 ansible-eclipse-director-master/README.md
+drwxrwxr-x root/root         0 2016-09-17 12:01 ansible-eclipse-director-master/library/
+-rw-rw-r-- root/root      2594 2016-09-17 12:01 ansible-eclipse-director-master/library/eclipse_director
+drwxrwxr-x root/root         0 2016-09-17 12:01 ansible-eclipse-director-master/meta/
+-rw-rw-r-- root/root       338 2016-09-17 12:01 ansible-eclipse-director-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-17 12:01 ansible-eclipse-director-master/tests/
+drwxrwxr-x root/root         0 2016-09-17 12:01 ansible-eclipse-director-master/tests/bats-ansible/
+-rw-rw-r-- root/root      3879 2016-09-17 12:01 ansible-eclipse-director-master/tests/eclipse-director-container.bats
+-rw-rw-r-- root/root       108 2016-09-17 12:01 ansible-eclipse-director-master/tests/eclipse-director.bats
+-rw-rw-r-- root/root       110 2016-09-17 12:01 ansible-eclipse-director-master/tests/eclipse.sh

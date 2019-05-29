@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/
+-rw-rw-r-- root/root        13 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/.gitignore
+-rw-rw-r-- root/root       942 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/.travis.yml
+-rw-rw-r-- root/root     35142 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/LICENSE
+-rw-rw-r-- root/root      2041 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/README.md
+drwxrwxr-x root/root         0 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/defaults/
+-rw-rw-r-- root/root       271 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/meta/
+-rw-rw-r-- root/root       544 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/tasks/
+-rw-rw-r-- root/root      7162 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/tests/
+-rw-rw-r-- root/root        10 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/tests/inventory
+-rw-rw-r-- root/root        96 2017-01-19 10:42 ansible-role-virtualbox-desktop-guest-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-12-04 15:16 ansible-role-php-master/
+-rw-rw-r-- root/root       225 2014-12-04 15:16 ansible-role-php-master/README.md
+drwxrwxr-x root/root         0 2014-12-04 15:16 ansible-role-php-master/defaults/
+-rw-rw-r-- root/root       101 2014-12-04 15:16 ansible-role-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-04 15:16 ansible-role-php-master/files/
+-rw-rw-r-- root/root     68427 2014-12-04 15:16 ansible-role-php-master/files/php.ini
+-rw-rw-r-- root/root       275 2014-12-04 15:16 ansible-role-php-master/files/www.conf
+drwxrwxr-x root/root         0 2014-12-04 15:16 ansible-role-php-master/handlers/
+-rw-rw-r-- root/root       130 2014-12-04 15:16 ansible-role-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-04 15:16 ansible-role-php-master/meta/
+-rw-rw-r-- root/root       288 2014-12-04 15:16 ansible-role-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-04 15:16 ansible-role-php-master/tasks/
+-rw-rw-r-- root/root      1738 2014-12-04 15:16 ansible-role-php-master/tasks/main.yml

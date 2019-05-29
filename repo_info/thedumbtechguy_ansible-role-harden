@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-04-27 13:32 ansible-role-harden-master/
+-rw-rw-r-- root/root      2581 2017-04-27 13:32 ansible-role-harden-master/README.md
+drwxrwxr-x root/root         0 2017-04-27 13:32 ansible-role-harden-master/defaults/
+-rw-rw-r-- root/root       352 2017-04-27 13:32 ansible-role-harden-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-27 13:32 ansible-role-harden-master/handlers/
+-rw-rw-r-- root/root        84 2017-04-27 13:32 ansible-role-harden-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-27 13:32 ansible-role-harden-master/meta/
+-rw-rw-r-- root/root       396 2017-04-27 13:32 ansible-role-harden-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-27 13:32 ansible-role-harden-master/tasks/
+-rw-rw-r-- root/root       632 2017-04-27 13:32 ansible-role-harden-master/tasks/firewall.yml
+-rw-rw-r-- root/root       182 2017-04-27 13:32 ansible-role-harden-master/tasks/main.yml
+-rw-rw-r-- root/root      2444 2017-04-27 13:32 ansible-role-harden-master/tasks/ssh.yml
+-rw-rw-r-- root/root       732 2017-04-27 13:32 ansible-role-harden-master/tasks/tcp_wrapper.yml

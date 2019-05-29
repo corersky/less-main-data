@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-21 16:56 ansible-role-prep_rke-master/
+-rw-rw-r-- root/root         7 2018-08-21 16:56 ansible-role-prep_rke-master/.gitignore
+-rw-rw-r-- root/root      1072 2018-08-21 16:56 ansible-role-prep_rke-master/LICENSE
+-rw-rw-r-- root/root       719 2018-08-21 16:56 ansible-role-prep_rke-master/README.md
+drwxrwxr-x root/root         0 2018-08-21 16:56 ansible-role-prep_rke-master/defaults/
+-rw-rw-r-- root/root       186 2018-08-21 16:56 ansible-role-prep_rke-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-21 16:56 ansible-role-prep_rke-master/meta/
+-rw-rw-r-- root/root       400 2018-08-21 16:56 ansible-role-prep_rke-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-21 16:56 ansible-role-prep_rke-master/tasks/
+-rw-rw-r-- root/root       734 2018-08-21 16:56 ansible-role-prep_rke-master/tasks/add_authorized_key.yml
+-rw-rw-r-- root/root       243 2018-08-21 16:56 ansible-role-prep_rke-master/tasks/ansible_deps.yml
+-rw-rw-r-- root/root      1508 2018-08-21 16:56 ansible-role-prep_rke-master/tasks/docker_install.yml
+-rw-rw-r-- root/root       194 2018-08-21 16:56 ansible-role-prep_rke-master/tasks/main.yml

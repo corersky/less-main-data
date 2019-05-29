@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-01-12 08:12 ansible-role-python-pydata-master/
+-rw-rw-r-- root/root         4 2017-01-12 08:12 ansible-role-python-pydata-master/.gitignore
+-rw-rw-r-- root/root       540 2017-01-12 08:12 ansible-role-python-pydata-master/.travis.yml
+-rw-rw-r-- root/root       196 2017-01-12 08:12 ansible-role-python-pydata-master/README.md
+drwxrwxr-x root/root         0 2017-01-12 08:12 ansible-role-python-pydata-master/meta/
+-rw-rw-r-- root/root       276 2017-01-12 08:12 ansible-role-python-pydata-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-12 08:12 ansible-role-python-pydata-master/tasks/
+-rw-rw-r-- root/root       431 2017-01-12 08:12 ansible-role-python-pydata-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-12 08:12 ansible-role-python-pydata-master/tests/
+-rw-rw-r-- root/root        10 2017-01-12 08:12 ansible-role-python-pydata-master/tests/inventory
+-rw-rw-r-- root/root        83 2017-01-12 08:12 ansible-role-python-pydata-master/tests/test.yml

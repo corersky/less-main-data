@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-02 20:35 ansible-role-motd-master/
+-rw-rw-r-- root/root       594 2019-05-02 20:35 ansible-role-motd-master/README.md
+drwxrwxr-x root/root         0 2019-05-02 20:35 ansible-role-motd-master/defaults/
+-rw-rw-r-- root/root        28 2019-05-02 20:35 ansible-role-motd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-02 20:35 ansible-role-motd-master/handlers/
+-rw-rw-r-- root/root        28 2019-05-02 20:35 ansible-role-motd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-02 20:35 ansible-role-motd-master/meta/
+-rw-rw-r-- root/root      2011 2019-05-02 20:35 ansible-role-motd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-02 20:35 ansible-role-motd-master/tasks/
+-rw-rw-r-- root/root       256 2019-05-02 20:35 ansible-role-motd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-02 20:35 ansible-role-motd-master/templates/
+-rw-rw-r-- root/root       184 2019-05-02 20:35 ansible-role-motd-master/templates/motd.j2
+drwxrwxr-x root/root         0 2019-05-02 20:35 ansible-role-motd-master/tests/
+-rw-rw-r-- root/root        11 2019-05-02 20:35 ansible-role-motd-master/tests/inventory
+-rw-rw-r-- root/root        62 2019-05-02 20:35 ansible-role-motd-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-02 20:35 ansible-role-motd-master/vars/
+-rw-rw-r-- root/root        24 2019-05-02 20:35 ansible-role-motd-master/vars/main.yml

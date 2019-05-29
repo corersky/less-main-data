@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-22 12:44 centos7-wordpress-master/
+-rw-rw-r-- root/root      1102 2016-03-22 12:44 centos7-wordpress-master/README.md
+drwxrwxr-x root/root         0 2016-03-22 12:44 centos7-wordpress-master/handlers/
+-rw-rw-r-- root/root       149 2016-03-22 12:44 centos7-wordpress-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-22 12:44 centos7-wordpress-master/meta/
+-rw-rw-r-- root/root       265 2016-03-22 12:44 centos7-wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-22 12:44 centos7-wordpress-master/tasks/
+-rw-rw-r-- root/root      1722 2016-03-22 12:44 centos7-wordpress-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-22 12:44 centos7-wordpress-master/templates/
+-rw-rw-r-- root/root       861 2016-03-22 12:44 centos7-wordpress-master/templates/nginx-wordpress.conf.j2
+-rw-rw-r-- root/root      4258 2016-03-22 12:44 centos7-wordpress-master/templates/wp-config.php.j2
+drwxrwxr-x root/root         0 2016-03-22 12:44 centos7-wordpress-master/tests/
+-rw-rw-r-- root/root         9 2016-03-22 12:44 centos7-wordpress-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-03-22 12:44 centos7-wordpress-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-22 12:44 centos7-wordpress-master/vars/
+-rw-rw-r-- root/root       318 2016-03-22 12:44 centos7-wordpress-master/vars/main.yml

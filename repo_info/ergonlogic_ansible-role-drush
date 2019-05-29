@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2016-04-28 17:29 ansible-role-drush-master/
+-rw-rw-r-- root/root        82 2016-04-28 17:29 ansible-role-drush-master/.gitignore
+-rw-rw-r-- root/root        75 2016-04-28 17:29 ansible-role-drush-master/.gitmodules
+drwxrwxr-x root/root         0 2016-04-28 17:29 ansible-role-drush-master/.mk/
+-rw-rw-r-- root/root       573 2016-04-28 17:29 ansible-role-drush-master/.travis.yml
+-rw-rw-r-- root/root       320 2016-04-28 17:29 ansible-role-drush-master/Makefile
+-rw-rw-r-- root/root      2293 2016-04-28 17:29 ansible-role-drush-master/README.md
+-rw-rw-r-- root/root       668 2016-04-28 17:29 ansible-role-drush-master/Vagrantfile
+lrwxrwxrwx root/root         0 2016-04-28 17:29 ansible-role-drush-master/d -> tests/bootstrap
+drwxrwxr-x root/root         0 2016-04-28 17:29 ansible-role-drush-master/defaults/
+-rw-rw-r-- root/root       382 2016-04-28 17:29 ansible-role-drush-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-28 17:29 ansible-role-drush-master/meta/
+-rw-rw-r-- root/root       760 2016-04-28 17:29 ansible-role-drush-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-28 17:29 ansible-role-drush-master/tasks/
+-rw-rw-r-- root/root      1282 2016-04-28 17:29 ansible-role-drush-master/tasks/composer.yml
+-rw-rw-r-- root/root       197 2016-04-28 17:29 ansible-role-drush-master/tasks/main.yml
+-rw-rw-r-- root/root       337 2016-04-28 17:29 ansible-role-drush-master/tasks/phar.yml
+drwxrwxr-x root/root         0 2016-04-28 17:29 ansible-role-drush-master/tests/
+-rw-rw-r-- root/root       348 2016-04-28 17:29 ansible-role-drush-master/tests/bootstrap
+-rw-rw-r-- root/root        10 2016-04-28 17:29 ansible-role-drush-master/tests/inventory
+drwxrwxr-x root/root         0 2016-04-28 17:29 ansible-role-drush-master/tests/playbooks/
+-rw-rw-r-- root/root       272 2016-04-28 17:29 ansible-role-drush-master/tests/playbooks/composer.yml
+-rw-rw-r-- root/root        10 2016-04-28 17:29 ansible-role-drush-master/tests/playbooks/phar.retry
+-rw-rw-r-- root/root       188 2016-04-28 17:29 ansible-role-drush-master/tests/playbooks/phar.yml
+drwxrwxr-x root/root         0 2016-04-28 17:29 ansible-role-drush-master/tests/roles/
+-rw-rw-r-- root/root        82 2016-04-28 17:29 ansible-role-drush-master/tests/roles/composer_requirements.yml
+-rw-rw-r-- root/root        29 2016-04-28 17:29 ansible-role-drush-master/tests/roles/phar_requirements.yml

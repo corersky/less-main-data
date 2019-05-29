@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-03 11:43 masscan-master/
+-rw-rw-r-- root/root       564 2017-02-03 11:43 masscan-master/README.md
+drwxrwxr-x root/root         0 2017-02-03 11:43 masscan-master/defaults/
+-rw-rw-r-- root/root        32 2017-02-03 11:43 masscan-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-03 11:43 masscan-master/handlers/
+-rw-rw-r-- root/root        32 2017-02-03 11:43 masscan-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-03 11:43 masscan-master/meta/
+-rw-rw-r-- root/root       382 2017-02-03 11:43 masscan-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-03 11:43 masscan-master/tasks/
+-rw-rw-r-- root/root       459 2017-02-03 11:43 masscan-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-03 11:43 masscan-master/tests/
+-rw-rw-r-- root/root         9 2017-02-03 11:43 masscan-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-02-03 11:43 masscan-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-03 11:43 masscan-master/vars/
+-rw-rw-r-- root/root        28 2017-02-03 11:43 masscan-master/vars/main.yml

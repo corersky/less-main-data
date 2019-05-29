@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-07-06 06:29 ansible-heka-master/
+-rw-rw-r-- root/root      2085 2014-07-06 06:29 ansible-heka-master/README.md
+drwxrwxr-x root/root         0 2014-07-06 06:29 ansible-heka-master/defaults/
+-rw-rw-r-- root/root      1878 2014-07-06 06:29 ansible-heka-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-06 06:29 ansible-heka-master/handlers/
+-rw-rw-r-- root/root       179 2014-07-06 06:29 ansible-heka-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-07-06 06:29 ansible-heka-master/meta/
+-rw-rw-r-- root/root      1760 2014-07-06 06:29 ansible-heka-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-06 06:29 ansible-heka-master/tasks/
+-rw-rw-r-- root/root       463 2014-07-06 06:29 ansible-heka-master/tasks/debian.yml
+-rw-rw-r-- root/root       624 2014-07-06 06:29 ansible-heka-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-07-06 06:29 ansible-heka-master/templates/
+-rw-rw-r-- root/root       636 2014-07-06 06:29 ansible-heka-master/templates/hekad.toml.j2
+-rw-rw-r-- root/root       646 2014-07-06 06:29 ansible-heka-master/templates/hekad_dashboard.toml.j2
+-rw-rw-r-- root/root      1067 2014-07-06 06:29 ansible-heka-master/templates/hekad_service.j2

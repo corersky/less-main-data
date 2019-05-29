@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-02-20 06:10 ansible-openwisp2-iptables-master/
+-rw-rw-r-- root/root      1491 2017-02-20 06:10 ansible-openwisp2-iptables-master/LICENSE
+-rw-rw-r-- root/root       906 2017-02-20 06:10 ansible-openwisp2-iptables-master/README.md
+drwxrwxr-x root/root         0 2017-02-20 06:10 ansible-openwisp2-iptables-master/defaults/
+-rw-rw-r-- root/root       189 2017-02-20 06:10 ansible-openwisp2-iptables-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-20 06:10 ansible-openwisp2-iptables-master/handlers/
+-rw-rw-r-- root/root       142 2017-02-20 06:10 ansible-openwisp2-iptables-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-20 06:10 ansible-openwisp2-iptables-master/meta/
+-rw-rw-r-- root/root       309 2017-02-20 06:10 ansible-openwisp2-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-20 06:10 ansible-openwisp2-iptables-master/tasks/
+-rw-rw-r-- root/root       601 2017-02-20 06:10 ansible-openwisp2-iptables-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-20 06:10 ansible-openwisp2-iptables-master/templates/
+-rw-rw-r-- root/root      1820 2017-02-20 06:10 ansible-openwisp2-iptables-master/templates/firewall.sh

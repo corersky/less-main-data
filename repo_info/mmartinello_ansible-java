@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-19 14:01 ansible-java-master/
+-rw-rw-r-- root/root       105 2019-03-19 14:01 ansible-java-master/.gitignore
+-rw-rw-r-- root/root       296 2019-03-19 14:01 ansible-java-master/.yamllint
+-rw-rw-r-- root/root      1322 2019-03-19 14:01 ansible-java-master/LICENSE
+-rw-rw-r-- root/root       642 2019-03-19 14:01 ansible-java-master/README.md
+drwxrwxr-x root/root         0 2019-03-19 14:01 ansible-java-master/meta/
+-rw-rw-r-- root/root       290 2019-03-19 14:01 ansible-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-19 14:01 ansible-java-master/molecule/
+drwxrwxr-x root/root         0 2019-03-19 14:01 ansible-java-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-03-19 14:01 ansible-java-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       263 2019-03-19 14:01 ansible-java-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       265 2019-03-19 14:01 ansible-java-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        68 2019-03-19 14:01 ansible-java-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-03-19 14:01 ansible-java-master/molecule/default/tests/
+-rw-rw-r-- root/root      1178 2019-03-19 14:01 ansible-java-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2019-03-19 14:01 ansible-java-master/tasks/
+-rw-rw-r-- root/root       814 2019-03-19 14:01 ansible-java-master/tasks/main.yml

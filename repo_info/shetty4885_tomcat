@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-17 00:45 tomcat-master/
+-rw-rw-r-- root/root         8 2017-11-17 00:45 tomcat-master/README.md
+drwxrwxr-x root/root         0 2017-11-17 00:45 tomcat-master/files/
+-rw-rw-r-- root/root      3055 2017-11-17 00:45 tomcat-master/files/tomcat-initscript.sh
+drwxrwxr-x root/root         0 2017-11-17 00:45 tomcat-master/handlers/
+-rw-rw-r-- root/root       133 2017-11-17 00:45 tomcat-master/handlers/main.yml
+-rw-rw-r-- root/root      1810 2017-11-17 00:45 tomcat-master/main.yml
+drwxrwxr-x root/root         0 2017-11-17 00:45 tomcat-master/meta/
+-rw-rw-r-- root/root      1810 2017-11-17 00:45 tomcat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-17 00:45 tomcat-master/tasks/
+-rw-rw-r-- root/root      1921 2017-11-17 00:45 tomcat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-17 00:45 tomcat-master/templates/
+-rw-rw-r-- root/root       544 2017-11-17 00:45 tomcat-master/templates/iptables-save
+-rw-rw-r-- root/root      6491 2017-11-17 00:45 tomcat-master/templates/server.xml
+-rw-rw-r-- root/root      1661 2017-11-17 00:45 tomcat-master/templates/tomcat-users.xml
+drwxrwxr-x root/root         0 2017-11-17 00:45 tomcat-master/vars/
+-rw-rw-r-- root/root       196 2017-11-17 00:45 tomcat-master/vars/main.yml

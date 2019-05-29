@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-09 05:03 do-droplet-master/
+-rw-rw-r-- root/root       539 2017-04-09 05:03 do-droplet-master/.travis.yml
+-rw-rw-r-- root/root      1060 2017-04-09 05:03 do-droplet-master/LICENSE
+-rw-rw-r-- root/root      1328 2017-04-09 05:03 do-droplet-master/README.md
+drwxrwxr-x root/root         0 2017-04-09 05:03 do-droplet-master/defaults/
+-rw-rw-r-- root/root        35 2017-04-09 05:03 do-droplet-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-09 05:03 do-droplet-master/handlers/
+-rw-rw-r-- root/root        35 2017-04-09 05:03 do-droplet-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-09 05:03 do-droplet-master/meta/
+-rw-rw-r-- root/root      3900 2017-04-09 05:03 do-droplet-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-09 05:03 do-droplet-master/tasks/
+-rw-rw-r-- root/root        32 2017-04-09 05:03 do-droplet-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-09 05:03 do-droplet-master/tests/
+-rw-rw-r-- root/root         9 2017-04-09 05:03 do-droplet-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-04-09 05:03 do-droplet-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-09 05:03 do-droplet-master/vars/
+-rw-rw-r-- root/root        31 2017-04-09 05:03 do-droplet-master/vars/main.yml

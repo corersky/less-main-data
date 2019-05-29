@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-awscli-master/
+-rw-rw-r-- root/root       695 2018-07-04 04:50 ansible-role-awscli-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-07-04 04:50 ansible-role-awscli-master/LICENSE
+-rw-rw-r-- root/root       699 2018-07-04 04:50 ansible-role-awscli-master/README.md
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-awscli-master/defaults/
+-rw-rw-r-- root/root        57 2018-07-04 04:50 ansible-role-awscli-master/defaults/main.yml
+-rw-rw-r-- root/root       568 2018-07-04 04:50 ansible-role-awscli-master/galaxy-yamllint.yaml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-awscli-master/meta/
+-rw-rw-r-- root/root       502 2018-07-04 04:50 ansible-role-awscli-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-awscli-master/tasks/
+-rw-rw-r-- root/root       183 2018-07-04 04:50 ansible-role-awscli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-04 04:50 ansible-role-awscli-master/tests/
+-rw-rw-r-- root/root        29 2018-07-04 04:50 ansible-role-awscli-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2018-07-04 04:50 ansible-role-awscli-master/tests/inventory
+-rwxrwxr-x root/root        56 2018-07-04 04:50 ansible-role-awscli-master/tests/run_tests.sh
+-rw-rw-r-- root/root        78 2018-07-04 04:50 ansible-role-awscli-master/tests/test.yml

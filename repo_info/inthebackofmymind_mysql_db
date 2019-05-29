@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-09 16:01 mysql_db-master/
+-rw-rw-r-- root/root       387 2017-09-09 16:01 mysql_db-master/README.md
+drwxrwxr-x root/root         0 2017-09-09 16:01 mysql_db-master/defaults/
+-rw-rw-r-- root/root        32 2017-09-09 16:01 mysql_db-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-09 16:01 mysql_db-master/handlers/
+-rw-rw-r-- root/root        32 2017-09-09 16:01 mysql_db-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-09 16:01 mysql_db-master/meta/
+-rw-rw-r-- root/root       239 2017-09-09 16:01 mysql_db-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-09 16:01 mysql_db-master/tasks/
+-rw-rw-r-- root/root       460 2017-09-09 16:01 mysql_db-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-09 16:01 mysql_db-master/tests/
+-rw-rw-r-- root/root        11 2017-09-09 16:01 mysql_db-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-09-09 16:01 mysql_db-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-09 16:01 mysql_db-master/vars/
+-rw-rw-r-- root/root        28 2017-09-09 16:01 mysql_db-master/vars/main.yml

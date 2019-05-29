@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-14 15:56 reboot-master/
+-rw-rw-r-- root/root        25 2017-12-14 15:56 reboot-master/.gitignore
+-rw-rw-r-- root/root       540 2017-12-14 15:56 reboot-master/.travis.yml
+-rw-rw-r-- root/root      1073 2017-12-14 15:56 reboot-master/LICENSE
+-rw-rw-r-- root/root       729 2017-12-14 15:56 reboot-master/README.md
+drwxrwxr-x root/root         0 2017-12-14 15:56 reboot-master/defaults/
+-rw-rw-r-- root/root       131 2017-12-14 15:56 reboot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-14 15:56 reboot-master/meta/
+-rw-rw-r-- root/root       452 2017-12-14 15:56 reboot-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-14 15:56 reboot-master/tasks/
+-rw-rw-r-- root/root       407 2017-12-14 15:56 reboot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-14 15:56 reboot-master/tests/
+-rw-rw-r-- root/root        11 2017-12-14 15:56 reboot-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-12-14 15:56 reboot-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-14 15:56 reboot-master/vars/
+-rw-rw-r-- root/root        37 2017-12-14 15:56 reboot-master/vars/main.yml

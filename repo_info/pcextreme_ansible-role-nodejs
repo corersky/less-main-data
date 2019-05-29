@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-08-03 06:20 ansible-role-nodejs-master/
+-rw-rw-r-- root/root        12 2016-08-03 06:20 ansible-role-nodejs-master/.gitattributes
+-rw-rw-r-- root/root        10 2016-08-03 06:20 ansible-role-nodejs-master/.gitignore
+-rw-rw-r-- root/root      1104 2016-08-03 06:20 ansible-role-nodejs-master/LICENSE
+-rw-rw-r-- root/root       448 2016-08-03 06:20 ansible-role-nodejs-master/README.md
+drwxrwxr-x root/root         0 2016-08-03 06:20 ansible-role-nodejs-master/meta/
+-rw-rw-r-- root/root       390 2016-08-03 06:20 ansible-role-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-03 06:20 ansible-role-nodejs-master/tasks/
+-rw-rw-r-- root/root       125 2016-08-03 06:20 ansible-role-nodejs-master/tasks/centos.yml
+-rw-rw-r-- root/root       223 2016-08-03 06:20 ansible-role-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       531 2016-08-03 06:20 ansible-role-nodejs-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2016-08-03 06:20 ansible-role-nodejs-master/templates/
+-rw-rw-r-- root/root       208 2016-08-03 06:20 ansible-role-nodejs-master/templates/nodejs_ubuntu.list.j2

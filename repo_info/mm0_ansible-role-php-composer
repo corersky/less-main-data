@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-php-composer-master/
+-rw-rw-r-- root/root       684 2016-12-14 00:40 ansible-role-php-composer-master/.travis.yml
+-rw-rw-r-- root/root       822 2016-12-14 00:40 ansible-role-php-composer-master/README.md
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-php-composer-master/defaults/
+-rw-rw-r-- root/root        56 2016-12-14 00:40 ansible-role-php-composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-php-composer-master/handlers/
+-rw-rw-r-- root/root        30 2016-12-14 00:40 ansible-role-php-composer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-php-composer-master/meta/
+-rw-rw-r-- root/root      3636 2016-12-14 00:40 ansible-role-php-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-php-composer-master/tasks/
+-rwxrwxr-x root/root       347 2016-12-14 00:40 ansible-role-php-composer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-php-composer-master/tests/
+-rw-rw-r-- root/root        17 2016-12-14 00:40 ansible-role-php-composer-master/tests/inventory
+-rw-rw-r-- root/root       189 2016-12-14 00:40 ansible-role-php-composer-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-php-composer-master/vars/
+-rwxrwxr-x root/root         4 2016-12-14 00:40 ansible-role-php-composer-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-16 09:42 ansible-role-docker-plex-master/
+-rw-rw-r-- root/root      1639 2016-02-16 09:42 ansible-role-docker-plex-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-02-16 09:42 ansible-role-docker-plex-master/LICENSE.txt
+-rw-rw-r-- root/root      3479 2016-02-16 09:42 ansible-role-docker-plex-master/README.md
+-rw-rw-r-- root/root       753 2016-02-16 09:42 ansible-role-docker-plex-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-02-16 09:42 ansible-role-docker-plex-master/defaults/
+-rw-rw-r-- root/root       612 2016-02-16 09:42 ansible-role-docker-plex-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-16 09:42 ansible-role-docker-plex-master/meta/
+-rw-rw-r-- root/root       297 2016-02-16 09:42 ansible-role-docker-plex-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-16 09:42 ansible-role-docker-plex-master/tasks/
+-rw-rw-r-- root/root       820 2016-02-16 09:42 ansible-role-docker-plex-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-16 09:42 ansible-role-docker-plex-master/tests/
+-rw-rw-r-- root/root       123 2016-02-16 09:42 ansible-role-docker-plex-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-17 19:05 ansible-role-sesam-backup-master/
+-rw-rw-r-- root/root        22 2018-07-17 19:05 ansible-role-sesam-backup-master/.gitignore
+-rw-rw-r-- root/root       722 2018-07-17 19:05 ansible-role-sesam-backup-master/.travis.yml
+-rw-rw-r-- root/root      1078 2018-07-17 19:05 ansible-role-sesam-backup-master/LICENSE
+-rw-rw-r-- root/root       725 2018-07-17 19:05 ansible-role-sesam-backup-master/README.md
+drwxrwxr-x root/root         0 2018-07-17 19:05 ansible-role-sesam-backup-master/defaults/
+-rw-rw-r-- root/root       208 2018-07-17 19:05 ansible-role-sesam-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-17 19:05 ansible-role-sesam-backup-master/meta/
+-rw-rw-r-- root/root       275 2018-07-17 19:05 ansible-role-sesam-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-17 19:05 ansible-role-sesam-backup-master/tasks/
+-rw-rw-r-- root/root       266 2018-07-17 19:05 ansible-role-sesam-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-17 19:05 ansible-role-sesam-backup-master/tests/
+-rw-rw-r-- root/root       632 2018-07-17 19:05 ansible-role-sesam-backup-master/tests/README.md
+-rw-rw-r-- root/root        49 2018-07-17 19:05 ansible-role-sesam-backup-master/tests/test.yml

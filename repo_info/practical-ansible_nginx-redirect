@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-21 12:10 nginx-redirect-master/
+drwxrwxr-x root/root         0 2019-04-21 12:10 nginx-redirect-master/.circleci/
+-rw-rw-r-- root/root       911 2019-04-21 12:10 nginx-redirect-master/.circleci/config.yml
+-rw-rw-r-- root/root      1338 2019-04-21 12:10 nginx-redirect-master/README.md
+drwxrwxr-x root/root         0 2019-04-21 12:10 nginx-redirect-master/defaults/
+-rw-rw-r-- root/root       196 2019-04-21 12:10 nginx-redirect-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-21 12:10 nginx-redirect-master/handlers/
+-rw-rw-r-- root/root        87 2019-04-21 12:10 nginx-redirect-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-21 12:10 nginx-redirect-master/meta/
+-rw-rw-r-- root/root       307 2019-04-21 12:10 nginx-redirect-master/meta/main.yml
+-rw-rw-r-- root/root        46 2019-04-21 12:10 nginx-redirect-master/requirements.txt
+-rw-rw-r-- root/root        57 2019-04-21 12:10 nginx-redirect-master/requirements.yml
+drwxrwxr-x root/root         0 2019-04-21 12:10 nginx-redirect-master/tasks/
+-rw-rw-r-- root/root      1569 2019-04-21 12:10 nginx-redirect-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-21 12:10 nginx-redirect-master/templates/
+-rw-rw-r-- root/root       601 2019-04-21 12:10 nginx-redirect-master/templates/nginx-ssl.conf
+-rw-rw-r-- root/root       358 2019-04-21 12:10 nginx-redirect-master/templates/nginx.conf

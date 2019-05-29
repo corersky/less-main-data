@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/
+-rw-rw-r-- root/root      1146 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/.gitignore
+-rw-rw-r-- root/root       540 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/.travis.yml
+-rw-rw-r-- root/root      1347 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/README.md
+drwxrwxr-x root/root         0 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/defaults/
+-rw-rw-r-- root/root       264 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/handlers/
+-rw-rw-r-- root/root       176 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/meta/
+-rw-rw-r-- root/root      1577 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/tasks/
+-rw-rw-r-- root/root       629 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/tests/
+-rw-rw-r-- root/root        10 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/tests/inventory
+-rw-rw-r-- root/root        64 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/vars/
+-rw-rw-r-- root/root        28 2016-07-07 12:56 ansible-cloudmesh-mongodb-master/vars/main.yml

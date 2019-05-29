@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-php-fpm-master/
+-rw-rw-r-- root/root       614 2019-05-07 09:22 debian-php-fpm-master/README.md
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-php-fpm-master/defaults/
+-rw-rw-r-- root/root       204 2019-05-07 09:22 debian-php-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-php-fpm-master/handlers/
+-rw-rw-r-- root/root        88 2019-05-07 09:22 debian-php-fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-php-fpm-master/meta/
+-rw-rw-r-- root/root       267 2019-05-07 09:22 debian-php-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-php-fpm-master/tasks/
+-rw-rw-r-- root/root      1816 2019-05-07 09:22 debian-php-fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-07 09:22 debian-php-fpm-master/templates/
+-rw-rw-r-- root/root     68994 2019-05-07 09:22 debian-php-fpm-master/templates/php.cli.ini.j2
+-rw-rw-r-- root/root     69337 2019-05-07 09:22 debian-php-fpm-master/templates/php.ini.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-05 12:15 kpm-install-master/
+-rw-rw-r-- root/root       540 2017-01-05 12:15 kpm-install-master/.travis.yml
+-rw-rw-r-- root/root      1105 2017-01-05 12:15 kpm-install-master/README.md
+drwxrwxr-x root/root         0 2017-01-05 12:15 kpm-install-master/defaults/
+-rw-rw-r-- root/root        36 2017-01-05 12:15 kpm-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-05 12:15 kpm-install-master/handlers/
+-rw-rw-r-- root/root        36 2017-01-05 12:15 kpm-install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-05 12:15 kpm-install-master/meta/
+-rw-rw-r-- root/root      3953 2017-01-05 12:15 kpm-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-05 12:15 kpm-install-master/tasks/
+-rw-rw-r-- root/root      2194 2017-01-05 12:15 kpm-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-05 12:15 kpm-install-master/tests/
+-rw-rw-r-- root/root        60 2017-01-05 12:15 kpm-install-master/tests/inventory
+-rw-rw-r-- root/root         8 2017-01-05 12:15 kpm-install-master/tests/test.retry
+-rw-rw-r-- root/root       123 2017-01-05 12:15 kpm-install-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-05 12:15 kpm-install-master/vars/
+-rw-rw-r-- root/root       129 2017-01-05 12:15 kpm-install-master/vars/main.yml

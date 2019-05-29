@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-08-10 07:26 mysql-ansible-master/
+-rw-rw-r-- root/root     18047 2015-08-10 07:26 mysql-ansible-master/LICENSE
+-rw-rw-r-- root/root       962 2015-08-10 07:26 mysql-ansible-master/README.md
+drwxrwxr-x root/root         0 2015-08-10 07:26 mysql-ansible-master/defaults/
+-rw-rw-r-- root/root        92 2015-08-10 07:26 mysql-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-10 07:26 mysql-ansible-master/files/
+-rw-rw-r-- root/root      3554 2015-08-10 07:26 mysql-ansible-master/files/my.cnf
+drwxrwxr-x root/root         0 2015-08-10 07:26 mysql-ansible-master/meta/
+-rw-rw-r-- root/root       338 2015-08-10 07:26 mysql-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-10 07:26 mysql-ansible-master/tasks/
+-rw-rw-r-- root/root      1427 2015-08-10 07:26 mysql-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-10 07:26 mysql-ansible-master/templates/
+-rw-rw-r-- root/root        52 2015-08-10 07:26 mysql-ansible-master/templates/.my.cnf

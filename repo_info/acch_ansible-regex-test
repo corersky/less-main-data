@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-27 09:10 ansible-regex-test-master/
+-rw-rw-r-- root/root         9 2019-03-27 09:10 ansible-regex-test-master/.gitignore
+-rw-rw-r-- root/root       105 2019-03-27 09:10 ansible-regex-test-master/.travis.yml
+-rw-rw-r-- root/root      1813 2019-03-27 09:10 ansible-regex-test-master/CONTRIBUTING.md
+-rw-rw-r-- root/root      1069 2019-03-27 09:10 ansible-regex-test-master/LICENSE
+-rw-rw-r-- root/root      4784 2019-03-27 09:10 ansible-regex-test-master/README.md
+drwxrwxr-x root/root         0 2019-03-27 09:10 ansible-regex-test-master/files/
+-rw-rw-r-- root/root         0 2019-03-27 09:10 ansible-regex-test-master/files/.gitkeep
+drwxrwxr-x root/root         0 2019-03-27 09:10 ansible-regex-test-master/meta/
+-rw-rw-r-- root/root       340 2019-03-27 09:10 ansible-regex-test-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-27 09:10 ansible-regex-test-master/scripts/
+-rwxrwxr-x root/root       614 2019-03-27 09:10 ansible-regex-test-master/scripts/regex-test.sh
+drwxrwxr-x root/root         0 2019-03-27 09:10 ansible-regex-test-master/tasks/
+-rw-rw-r-- root/root      1051 2019-03-27 09:10 ansible-regex-test-master/tasks/main.yml

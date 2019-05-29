@@ -1,0 +1,96 @@
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/
+-rw-rw-r-- root/root       100 2018-07-12 17:54 AAROC.certificates-master/.gitignore
+-rw-rw-r-- root/root      1007 2018-07-12 17:54 AAROC.certificates-master/.travis.yml
+-rw-rw-r-- root/root       101 2018-07-12 17:54 AAROC.certificates-master/.yamllint
+-rw-rw-r-- root/root      3216 2018-07-12 17:54 AAROC.certificates-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root       703 2018-07-12 17:54 AAROC.certificates-master/CONTRIBUTING.md
+-rw-rw-r-- root/root     11351 2018-07-12 17:54 AAROC.certificates-master/LICENSE
+-rw-rw-r-- root/root      2291 2018-07-12 17:54 AAROC.certificates-master/README.md
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/defaults/
+-rw-rw-r-- root/root       183 2018-07-12 17:54 AAROC.certificates-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/0759aedc.0 -> SAGrid-eScience.0
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/0759aedc.crl_url -> SAGrid-eScience.crl_url
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/0759aedc.r0 -> SAGrid-eScience.r0
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/0759aedc.signing_policy -> SAGrid-eScience.signing_policy
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/16b5ebeb.0 -> AAROC.0
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/16b5ebeb.crl_url -> AAROC.crl_url
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/16b5ebeb.r0 -> AAROC.r0
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/16b5ebeb.signing_policy -> AAROC.signing_policy
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/760fd687.0 -> SAGrid-eScience.0
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/760fd687.crl_url -> SAGrid-eScience.crl_url
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/760fd687.r0 -> SAGrid-eScience.r0
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/760fd687.signing_policy -> SAGrid-eScience.signing_policy
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/8c65b6c6.0 -> AAROC.0
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/8c65b6c6.crl_url -> AAROC.crl_url
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/8c65b6c6.r0 -> AAROC.r0
+lrwxrwxrwx root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/8c65b6c6.signing_policy -> AAROC.signing_policy
+-rw-rw-r-- root/root      1285 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/AAROC.0
+-rw-rw-r-- root/root        34 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/AAROC.crl_url
+-rw-rw-r-- root/root      1789 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/AAROC.r0
+-rw-rw-r-- root/root       152 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/AAROC.signing_policy
+-rw-rw-r-- root/root      1082 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/SAGrid-eScience.0
+-rw-rw-r-- root/root        41 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/SAGrid-eScience.crl_url
+-rw-rw-r-- root/root      1443 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/SAGrid-eScience.r0
+-rw-rw-r-- root/root       206 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/certificates/SAGrid-eScience.signing_policy
+-rw-rw-r-- root/root      2021 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-argus.c4.csir.co.za
+-rw-rw-r-- root/root      1294 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-ce01-node001.c4.csir.co.za
+-rw-rw-r-- root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-ce01-node002.c4.csir.co.za
+-rw-rw-r-- root/root      1424 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-dirac.c4.csir.co.za
+-rw-rw-r-- root/root      1281 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-fts.c4.csir.co.za
+-rw-rw-r-- root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-localhost.localdomain
+-rw-rw-r-- root/root      2025 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-nagios
+-rw-rw-r-- root/root      2025 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-nagios.c4.csir.co.za
+-rw-rw-r-- root/root      1553 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-nagios.magrid.ma
+-rw-rw-r-- root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-site-bdii.c4.csir.co.za
+-rw-rw-r-- root/root      1241 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-voms-stage.c4.csir.co.za
+-rw-rw-r-- root/root      2017 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-wms
+-rw-rw-r-- root/root      1237 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-wms-dev.c4.csir.co.za
+-rw-rw-r-- root/root      2017 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/hostcert.pem-wms.c4.csir.co.za
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/dteam/
+-rw-rw-r-- root/root       128 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/dteam/voms.hellasgrid.gr.lsc
+-rw-rw-r-- root/root       129 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/dteam/voms2.hellasgrid.gr.lsc
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/ops/
+-rw-rw-r-- root/root       103 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/ops/lcg-voms.cern.ch.lsc
+-rw-rw-r-- root/root        99 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/ops/voms.cern.ch.lsc
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/sagrid.ac.za/
+-rw-rw-r-- root/root        97 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/sagrid.ac.za/voms.sagrid.ac.za.lsc
+-rw-rw-r-- root/root      1753 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/sagrid.ac.za/voms.sagrid.ac.za.pem
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/sagrid/
+-rw-rw-r-- root/root        97 2018-07-12 17:54 AAROC.certificates-master/files/etc/grid-security/vomsdir/sagrid/voms.sagrid.ac.za.lsc
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/handlers/
+-rw-rw-r-- root/root        43 2018-07-12 17:54 AAROC.certificates-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/meta/
+-rw-rw-r-- root/root       462 2018-07-12 17:54 AAROC.certificates-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/molecule/
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/molecule/default/
+-rw-rw-r-- root/root       755 2018-07-12 17:54 AAROC.certificates-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2018-07-12 17:54 AAROC.certificates-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2012 2018-07-12 17:54 AAROC.certificates-master/molecule/default/create.yml
+-rw-rw-r-- root/root       515 2018-07-12 17:54 AAROC.certificates-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       303 2018-07-12 17:54 AAROC.certificates-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       102 2018-07-12 17:54 AAROC.certificates-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/molecule/default/tests/
+-rw-rw-r-- root/root       742 2018-07-12 17:54 AAROC.certificates-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1021 2018-07-12 17:54 AAROC.certificates-master/molecule/default/tests/test_default.pyc
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/
+-rw-rw-r-- root/root      2869 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/create.yml
+-rw-rw-r-- root/root      1037 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/destroy.yml
+-rw-rw-r-- root/root       485 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/keypair.yml
+-rw-rw-r-- root/root       294 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/molecule.yml
+-rw-rw-r-- root/root       377 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/playbook.yml
+-rw-rw-r-- root/root       646 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/security_groups.yml
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/tests/
+-rw-rw-r-- root/root       313 2018-07-12 17:54 AAROC.certificates-master/molecule/unict-openstack/tests/test_default.py
+-rw-rw-r-- root/root       111 2018-07-12 17:54 AAROC.certificates-master/setup.cfg
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/tasks/
+-rw-rw-r-- root/root      2237 2018-07-12 17:54 AAROC.certificates-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/tests/
+-rw-rw-r-- root/root        36 2018-07-12 17:54 AAROC.certificates-master/tests/inventory
+-rw-rw-r-- root/root        99 2018-07-12 17:54 AAROC.certificates-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-12 17:54 AAROC.certificates-master/vars/
+-rw-rw-r-- root/root        39 2018-07-12 17:54 AAROC.certificates-master/vars/main.yml

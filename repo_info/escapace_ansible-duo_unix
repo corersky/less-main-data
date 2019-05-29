@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/
+-rw-rw-r-- root/root        76 2018-10-17 07:29 ansible-duo_unix-master/.gitignore
+-rw-rw-r-- root/root     11317 2018-10-17 07:29 ansible-duo_unix-master/LICENSE
+-rw-rw-r-- root/root       320 2018-10-17 07:29 ansible-duo_unix-master/README.md
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/defaults/
+-rw-rw-r-- root/root      1993 2018-10-17 07:29 ansible-duo_unix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/handlers/
+-rw-rw-r-- root/root        64 2018-10-17 07:29 ansible-duo_unix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/meta/
+-rw-rw-r-- root/root       278 2018-10-17 07:29 ansible-duo_unix-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/tasks/
+-rw-rw-r-- root/root      1421 2018-10-17 07:29 ansible-duo_unix-master/tasks/duo_unix.yml
+-rw-rw-r-- root/root        73 2018-10-17 07:29 ansible-duo_unix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/templates/
+-rw-rw-r-- root/root       128 2018-10-17 07:29 ansible-duo_unix-master/templates/duosecurity.repo.j2
+-rw-rw-r-- root/root       338 2018-10-17 07:29 ansible-duo_unix-master/templates/pam_duo.conf.j2
+-rw-rw-r-- root/root      1014 2018-10-17 07:29 ansible-duo_unix-master/templates/sshd.j2
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/tests/
+-rw-rw-r-- root/root        53 2018-10-17 07:29 ansible-duo_unix-master/tests/inventory
+-rw-rw-r-- root/root        58 2018-10-17 07:29 ansible-duo_unix-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-17 07:29 ansible-duo_unix-master/tests/roles/escapace.duo_unix -> ../../
+-rw-rw-r-- root/root       207 2018-10-17 07:29 ansible-duo_unix-master/tests/teardown.yml
+-rw-rw-r-- root/root       415 2018-10-17 07:29 ansible-duo_unix-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-17 07:29 ansible-duo_unix-master/vars/
+-rw-rw-r-- root/root        90 2018-10-17 07:29 ansible-duo_unix-master/vars/main.yml

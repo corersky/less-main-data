@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-25 03:10 ansible-role-hosts-master/
+-rw-rw-r-- root/root      1654 2018-07-25 03:10 ansible-role-hosts-master/README.md
+drwxrwxr-x root/root         0 2018-07-25 03:10 ansible-role-hosts-master/defaults/
+-rw-rw-r-- root/root       520 2018-07-25 03:10 ansible-role-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-25 03:10 ansible-role-hosts-master/meta/
+-rw-rw-r-- root/root       848 2018-07-25 03:10 ansible-role-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-25 03:10 ansible-role-hosts-master/tasks/
+-rw-rw-r-- root/root       418 2018-07-25 03:10 ansible-role-hosts-master/tasks/hostname.yml
+-rw-rw-r-- root/root       580 2018-07-25 03:10 ansible-role-hosts-master/tasks/hosts.yml
+-rw-rw-r-- root/root       198 2018-07-25 03:10 ansible-role-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-25 03:10 ansible-role-hosts-master/templates/
+-rw-rw-r-- root/root        31 2018-07-25 03:10 ansible-role-hosts-master/templates/hostname.j2
+-rw-rw-r-- root/root       358 2018-07-25 03:10 ansible-role-hosts-master/templates/hosts.j2
+drwxrwxr-x root/root         0 2018-07-25 03:10 ansible-role-hosts-master/vars/
+-rw-rw-r-- root/root        28 2018-07-25 03:10 ansible-role-hosts-master/vars/FreeBSD.yml

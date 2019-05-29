@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-08 07:52 ansible-role-analysis-tools-master/
+-rw-rw-r-- root/root         4 2017-06-08 07:52 ansible-role-analysis-tools-master/.gitignore
+-rw-rw-r-- root/root       222 2017-06-08 07:52 ansible-role-analysis-tools-master/.travis.yml
+-rw-rw-r-- root/root       263 2017-06-08 07:52 ansible-role-analysis-tools-master/README.md
+drwxrwxr-x root/root         0 2017-06-08 07:52 ansible-role-analysis-tools-master/meta/
+-rw-rw-r-- root/root       320 2017-06-08 07:52 ansible-role-analysis-tools-master/meta/main.yml
+-rw-rw-r-- root/root       231 2017-06-08 07:52 ansible-role-analysis-tools-master/molecule.yml
+-rw-rw-r-- root/root        66 2017-06-08 07:52 ansible-role-analysis-tools-master/playbook.yml
+drwxrwxr-x root/root         0 2017-06-08 07:52 ansible-role-analysis-tools-master/tasks/
+-rw-rw-r-- root/root       176 2017-06-08 07:52 ansible-role-analysis-tools-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-08 07:52 ansible-role-analysis-tools-master/tests/
+-rw-rw-r-- root/root        10 2017-06-08 07:52 ansible-role-analysis-tools-master/tests/inventory
+-rw-rw-r-- root/root        31 2017-06-08 07:52 ansible-role-analysis-tools-master/tests/requirements.yml
+-rw-rw-r-- root/root        90 2017-06-08 07:52 ansible-role-analysis-tools-master/tests/test.yml
+-rw-rw-r-- root/root       229 2017-06-08 07:52 ansible-role-analysis-tools-master/tests/test_default.py

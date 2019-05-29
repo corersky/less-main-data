@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-16 08:59 cluster_prepare-master/
+-rw-rw-r-- root/root      1064 2019-04-16 08:59 cluster_prepare-master/LICENSE
+-rw-rw-r-- root/root       442 2019-04-16 08:59 cluster_prepare-master/README.md
+drwxrwxr-x root/root         0 2019-04-16 08:59 cluster_prepare-master/handlers/
+-rw-rw-r-- root/root        53 2019-04-16 08:59 cluster_prepare-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-16 08:59 cluster_prepare-master/meta/
+-rw-rw-r-- root/root       281 2019-04-16 08:59 cluster_prepare-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-16 08:59 cluster_prepare-master/tasks/
+-rw-rw-r-- root/root       314 2019-04-16 08:59 cluster_prepare-master/tasks/cgroup.yml
+-rw-rw-r-- root/root       172 2019-04-16 08:59 cluster_prepare-master/tasks/disable-swap.yml
+-rw-rw-r-- root/root       171 2019-04-16 08:59 cluster_prepare-master/tasks/main.yml
+-rw-rw-r-- root/root       318 2019-04-16 08:59 cluster_prepare-master/tasks/promisc.yml
+drwxrwxr-x root/root         0 2019-04-16 08:59 cluster_prepare-master/templates/
+-rw-rw-r-- root/root       254 2019-04-16 08:59 cluster_prepare-master/templates/promisc.service.j2

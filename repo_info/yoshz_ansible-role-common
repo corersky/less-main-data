@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-16 04:18 ansible-role-common-master/
+-rw-rw-r-- root/root       559 2018-02-16 04:18 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2018-02-16 04:18 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root       152 2018-02-16 04:18 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-16 04:18 ansible-role-common-master/handlers/
+-rw-rw-r-- root/root       149 2018-02-16 04:18 ansible-role-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-16 04:18 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       348 2018-02-16 04:18 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-16 04:18 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root       235 2018-02-16 04:18 ansible-role-common-master/tasks/configure.yml
+-rw-rw-r-- root/root       205 2018-02-16 04:18 ansible-role-common-master/tasks/main.yml
+-rw-rw-r-- root/root      1095 2018-02-16 04:18 ansible-role-common-master/tasks/security.yml
+-rw-rw-r-- root/root       577 2018-02-16 04:18 ansible-role-common-master/tasks/software.yml
+-rw-rw-r-- root/root      1230 2018-02-16 04:18 ansible-role-common-master/tasks/swap.yml

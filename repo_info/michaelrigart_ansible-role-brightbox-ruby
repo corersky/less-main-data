@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-04 09:53 ansible-role-brightbox-ruby-master/
+-rw-rw-r-- root/root        11 2017-02-04 09:53 ansible-role-brightbox-ruby-master/.gitignore
+-rw-rw-r-- root/root     35120 2017-02-04 09:53 ansible-role-brightbox-ruby-master/LICENSE
+-rw-rw-r-- root/root      1513 2017-02-04 09:53 ansible-role-brightbox-ruby-master/README.md
+drwxrwxr-x root/root         0 2017-02-04 09:53 ansible-role-brightbox-ruby-master/defaults/
+-rw-rw-r-- root/root       208 2017-02-04 09:53 ansible-role-brightbox-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-04 09:53 ansible-role-brightbox-ruby-master/meta/
+-rw-rw-r-- root/root       346 2017-02-04 09:53 ansible-role-brightbox-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-04 09:53 ansible-role-brightbox-ruby-master/tasks/
+-rw-rw-r-- root/root      1059 2017-02-04 09:53 ansible-role-brightbox-ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-04 09:53 ansible-role-brightbox-ruby-master/tests/
+-rw-rw-r-- root/root        10 2017-02-04 09:53 ansible-role-brightbox-ruby-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-02-04 09:53 ansible-role-brightbox-ruby-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-04 09:53 ansible-role-brightbox-ruby-master/vars/
+-rw-rw-r-- root/root        52 2017-02-04 09:53 ansible-role-brightbox-ruby-master/vars/main.yml

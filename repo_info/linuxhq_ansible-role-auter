@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-01 12:26 ansible-role-auter-master/
+-rw-rw-r-- root/root       317 2018-07-01 12:26 ansible-role-auter-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-07-01 12:26 ansible-role-auter-master/COPYING
+-rw-rw-r-- root/root      2840 2018-07-01 12:26 ansible-role-auter-master/README.md
+drwxrwxr-x root/root         0 2018-07-01 12:26 ansible-role-auter-master/defaults/
+-rw-rw-r-- root/root       501 2018-07-01 12:26 ansible-role-auter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-01 12:26 ansible-role-auter-master/meta/
+-rw-rw-r-- root/root       296 2018-07-01 12:26 ansible-role-auter-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-01 12:26 ansible-role-auter-master/tasks/
+-rw-rw-r-- root/root      3434 2018-07-01 12:26 ansible-role-auter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-01 12:26 ansible-role-auter-master/templates/
+-rw-rw-r-- root/root       571 2018-07-01 12:26 ansible-role-auter-master/templates/auter.conf.j2
+-rw-rw-r-- root/root        28 2018-07-01 12:26 ansible-role-auter-master/templates/auter_scripts.j2
+drwxrwxr-x root/root         0 2018-07-01 12:26 ansible-role-auter-master/tests/
+-rw-rw-r-- root/root        10 2018-07-01 12:26 ansible-role-auter-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-07-01 12:26 ansible-role-auter-master/tests/test.yml

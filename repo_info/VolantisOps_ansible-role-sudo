@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-18 21:36 ansible-role-sudo-master/
+-rw-rw-r-- root/root         9 2017-06-18 21:36 ansible-role-sudo-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-18 21:36 ansible-role-sudo-master/LICENSE
+-rw-rw-r-- root/root       304 2017-06-18 21:36 ansible-role-sudo-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 21:36 ansible-role-sudo-master/defaults/
+-rw-rw-r-- root/root       128 2017-06-18 21:36 ansible-role-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-18 21:36 ansible-role-sudo-master/meta/
+-rw-rw-r-- root/root       306 2017-06-18 21:36 ansible-role-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 21:36 ansible-role-sudo-master/tasks/
+-rw-rw-r-- root/root       412 2017-06-18 21:36 ansible-role-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-18 21:36 ansible-role-sudo-master/templates/
+-rw-rw-r-- root/root       308 2017-06-18 21:36 ansible-role-sudo-master/templates/sudoers.j2
+-rw-rw-r-- root/root        69 2017-06-18 21:36 ansible-role-sudo-master/templates/sudoers_group.j2

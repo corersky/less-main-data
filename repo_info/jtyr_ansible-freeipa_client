@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-04-09 20:12 ansible-freeipa_client-master/
+-rw-rw-r-- root/root         0 2018-04-09 20:12 ansible-freeipa_client-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-04-09 20:12 ansible-freeipa_client-master/LICENSE
+-rw-rw-r-- root/root      3111 2018-04-09 20:12 ansible-freeipa_client-master/README.md
+drwxrwxr-x root/root         0 2018-04-09 20:12 ansible-freeipa_client-master/defaults/
+-rw-rw-r-- root/root      2185 2018-04-09 20:12 ansible-freeipa_client-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-04-09 20:12 ansible-freeipa_client-master/files/
+-rw-rw-r-- root/root       155 2018-04-09 20:12 ansible-freeipa_client-master/files/mkhomedir
+drwxrwxr-x root/root         0 2018-04-09 20:12 ansible-freeipa_client-master/library/
+-rw-rw-r-- root/root      2949 2018-04-09 20:12 ansible-freeipa_client-master/library/ipa_client_check.py
+drwxrwxr-x root/root         0 2018-04-09 20:12 ansible-freeipa_client-master/meta/
+-rw-rw-r-- root/root       337 2018-04-09 20:12 ansible-freeipa_client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-09 20:12 ansible-freeipa_client-master/tasks/
+-rw-rw-r-- root/root      2051 2018-04-09 20:12 ansible-freeipa_client-master/tasks/main.yaml

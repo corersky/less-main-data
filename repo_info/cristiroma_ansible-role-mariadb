@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-22 10:55 ansible-role-mariadb-master/
+-rw-rw-r-- root/root       539 2017-02-22 10:55 ansible-role-mariadb-master/.travis.yml
+-rw-rw-r-- root/root       788 2017-02-22 10:55 ansible-role-mariadb-master/README.md
+drwxrwxr-x root/root         0 2017-02-22 10:55 ansible-role-mariadb-master/defaults/
+-rw-rw-r-- root/root      2461 2017-02-22 10:55 ansible-role-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-22 10:55 ansible-role-mariadb-master/handlers/
+-rw-rw-r-- root/root        75 2017-02-22 10:55 ansible-role-mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-22 10:55 ansible-role-mariadb-master/meta/
+-rw-rw-r-- root/root       273 2017-02-22 10:55 ansible-role-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-22 10:55 ansible-role-mariadb-master/tasks/
+-rw-rw-r-- root/root      2093 2017-02-22 10:55 ansible-role-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-22 10:55 ansible-role-mariadb-master/tests/
+-rw-rw-r-- root/root         9 2017-02-22 10:55 ansible-role-mariadb-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-02-22 10:55 ansible-role-mariadb-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-22 10:55 ansible-role-mariadb-master/vars/
+-rw-rw-r-- root/root        41 2017-02-22 10:55 ansible-role-mariadb-master/vars/main.yml

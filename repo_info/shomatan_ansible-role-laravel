@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-28 00:20 ansible-role-laravel-master/
+-rw-rw-r-- root/root       539 2017-03-28 00:20 ansible-role-laravel-master/.travis.yml
+-rw-rw-r-- root/root       515 2017-03-28 00:20 ansible-role-laravel-master/README.md
+drwxrwxr-x root/root         0 2017-03-28 00:20 ansible-role-laravel-master/defaults/
+-rw-rw-r-- root/root        21 2017-03-28 00:20 ansible-role-laravel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-28 00:20 ansible-role-laravel-master/meta/
+-rw-rw-r-- root/root       257 2017-03-28 00:20 ansible-role-laravel-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-28 00:20 ansible-role-laravel-master/tasks/
+-rw-rw-r-- root/root       339 2017-03-28 00:20 ansible-role-laravel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-28 00:20 ansible-role-laravel-master/tests/
+-rw-rw-r-- root/root         9 2017-03-28 00:20 ansible-role-laravel-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-03-28 00:20 ansible-role-laravel-master/tests/test.yml

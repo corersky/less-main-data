@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-04-27 10:53 Stouts.ruby-master/
+-rw-rw-r-- root/root        89 2015-04-27 10:53 Stouts.ruby-master/.bumpversion.cfg
+-rw-rw-r-- root/root       737 2015-04-27 10:53 Stouts.ruby-master/.travis.yml
+-rw-rw-r-- root/root      1073 2015-04-27 10:53 Stouts.ruby-master/LICENSE
+-rw-rw-r-- root/root       315 2015-04-27 10:53 Stouts.ruby-master/Makefile
+-rw-rw-r-- root/root      1556 2015-04-27 10:53 Stouts.ruby-master/README.md
+drwxrwxr-x root/root         0 2015-04-27 10:53 Stouts.ruby-master/defaults/
+-rw-rw-r-- root/root       848 2015-04-27 10:53 Stouts.ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-27 10:53 Stouts.ruby-master/meta/
+-rw-rw-r-- root/root       222 2015-04-27 10:53 Stouts.ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-27 10:53 Stouts.ruby-master/tasks/
+-rw-rw-r-- root/root        91 2015-04-27 10:53 Stouts.ruby-master/tasks/install.deb.yml
+-rw-rw-r-- root/root        61 2015-04-27 10:53 Stouts.ruby-master/tasks/main.yml
+-rw-rw-r-- root/root       804 2015-04-27 10:53 Stouts.ruby-master/tasks/ruby.yml
+-rw-rw-r-- root/root       108 2015-04-27 10:53 Stouts.ruby-master/test.yml

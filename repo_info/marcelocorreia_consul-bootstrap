@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-10 08:57 consul-bootstrap-master/
+-rw-rw-r-- root/root        24 2018-08-10 08:57 consul-bootstrap-master/.gitignore
+-rw-rw-r-- root/root       611 2018-08-10 08:57 consul-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2018-08-10 08:57 consul-bootstrap-master/defaults/
+-rw-rw-r-- root/root       600 2018-08-10 08:57 consul-bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:57 consul-bootstrap-master/files/
+-rw-rw-r-- root/root        60 2018-08-10 08:57 consul-bootstrap-master/files/10-consul
+-rw-rw-r-- root/root       704 2018-08-10 08:57 consul-bootstrap-master/files/consul.service
+-rw-rw-r-- root/root       301 2018-08-10 08:57 consul-bootstrap-master/files/nginx-consul
+drwxrwxr-x root/root         0 2018-08-10 08:57 consul-bootstrap-master/meta/
+-rw-rw-r-- root/root       252 2018-08-10 08:57 consul-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-10 08:57 consul-bootstrap-master/tasks/
+-rw-rw-r-- root/root       939 2018-08-10 08:57 consul-bootstrap-master/tasks/main.yml
+-rw-rw-r-- root/root         6 2018-08-10 08:57 consul-bootstrap-master/version

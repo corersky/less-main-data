@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-14 15:16 ansible-servicenow-cmdb-master/
+-rw-rw-r-- root/root      1328 2018-12-14 15:16 ansible-servicenow-cmdb-master/README.md
+drwxrwxr-x root/root         0 2018-12-14 15:16 ansible-servicenow-cmdb-master/defaults/
+-rw-rw-r-- root/root        47 2018-12-14 15:16 ansible-servicenow-cmdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-14 15:16 ansible-servicenow-cmdb-master/handlers/
+-rw-rw-r-- root/root        47 2018-12-14 15:16 ansible-servicenow-cmdb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-14 15:16 ansible-servicenow-cmdb-master/meta/
+-rw-rw-r-- root/root      1973 2018-12-14 15:16 ansible-servicenow-cmdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-14 15:16 ansible-servicenow-cmdb-master/tasks/
+-rw-rw-r-- root/root       314 2018-12-14 15:16 ansible-servicenow-cmdb-master/tasks/main.yml
+-rw-rw-r-- root/root      1117 2018-12-14 15:16 ansible-servicenow-cmdb-master/tasks/snow-populate-ios.yml
+drwxrwxr-x root/root         0 2018-12-14 15:16 ansible-servicenow-cmdb-master/tests/
+-rw-rw-r-- root/root        11 2018-12-14 15:16 ansible-servicenow-cmdb-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-12-14 15:16 ansible-servicenow-cmdb-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-14 15:16 ansible-servicenow-cmdb-master/vars/
+-rw-rw-r-- root/root       207 2018-12-14 15:16 ansible-servicenow-cmdb-master/vars/main.yml
+-rw-rw-r-- root/root       808 2018-12-14 15:16 ansible-servicenow-cmdb-master/vars/servicenow-credentials.yml

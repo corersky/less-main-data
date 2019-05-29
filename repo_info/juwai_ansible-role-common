@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/.github/
+-rw-rw-r-- root/root       405 2019-01-15 19:46 ansible-role-common-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root      1052 2019-01-15 19:46 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root       243 2019-01-15 19:46 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/handlers/
+-rw-rw-r-- root/root        31 2019-01-15 19:46 ansible-role-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       343 2019-01-15 19:46 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root        89 2019-01-15 19:46 ansible-role-common-master/tasks/locale.yml
+-rw-rw-r-- root/root       105 2019-01-15 19:46 ansible-role-common-master/tasks/main.yml
+-rw-rw-r-- root/root       269 2019-01-15 19:46 ansible-role-common-master/tasks/repo.yml
+-rw-rw-r-- root/root       819 2019-01-15 19:46 ansible-role-common-master/tasks/system_packages.yml
+-rw-rw-r-- root/root       455 2019-01-15 19:46 ansible-role-common-master/tasks/timezone.yml
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/templates/
+-rw-rw-r-- root/root        54 2019-01-15 19:46 ansible-role-common-master/templates/i18n
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/tests/
+-rw-rw-r-- root/root        20 2019-01-15 19:46 ansible-role-common-master/tests/.gitignore
+-rw-rw-r-- root/root       650 2019-01-15 19:46 ansible-role-common-master/tests/Vagrantfile
+-rw-rw-r-- root/root        10 2019-01-15 19:46 ansible-role-common-master/tests/inventory
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-01-15 19:46 ansible-role-common-master/tests/roles/common -> ../..
+-rw-rw-r-- root/root        80 2019-01-15 19:46 ansible-role-common-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-15 19:46 ansible-role-common-master/vars/
+-rw-rw-r-- root/root       143 2019-01-15 19:46 ansible-role-common-master/vars/packages.yml

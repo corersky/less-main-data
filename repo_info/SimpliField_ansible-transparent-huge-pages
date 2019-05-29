@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-07-17 00:41 ansible-transparent-huge-pages-master/
+-rw-rw-r-- root/root      1192 2017-07-17 00:41 ansible-transparent-huge-pages-master/.travis.yml
+-rw-rw-r-- root/root       735 2017-07-17 00:41 ansible-transparent-huge-pages-master/README.md
+drwxrwxr-x root/root         0 2017-07-17 00:41 ansible-transparent-huge-pages-master/files/
+-rw-rw-r-- root/root      1145 2017-07-17 00:41 ansible-transparent-huge-pages-master/files/disable-transparent-hugepages
+drwxrwxr-x root/root         0 2017-07-17 00:41 ansible-transparent-huge-pages-master/meta/
+-rw-rw-r-- root/root       333 2017-07-17 00:41 ansible-transparent-huge-pages-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-17 00:41 ansible-transparent-huge-pages-master/tasks/
+-rw-rw-r-- root/root       365 2017-07-17 00:41 ansible-transparent-huge-pages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-17 00:41 ansible-transparent-huge-pages-master/tests/
+-rw-rw-r-- root/root         9 2017-07-17 00:41 ansible-transparent-huge-pages-master/tests/inventory
+-rw-rw-r-- root/root        88 2017-07-17 00:41 ansible-transparent-huge-pages-master/tests/test.yml

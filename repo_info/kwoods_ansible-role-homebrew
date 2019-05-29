@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-09 21:12 ansible-role-homebrew-master/
+-rw-rw-r-- root/root      1468 2017-05-09 21:12 ansible-role-homebrew-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-05-09 21:12 ansible-role-homebrew-master/LICENSE
+-rw-rw-r-- root/root      3112 2017-05-09 21:12 ansible-role-homebrew-master/README.md
+drwxrwxr-x root/root         0 2017-05-09 21:12 ansible-role-homebrew-master/defaults/
+-rw-rw-r-- root/root       477 2017-05-09 21:12 ansible-role-homebrew-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-09 21:12 ansible-role-homebrew-master/meta/
+-rw-rw-r-- root/root       361 2017-05-09 21:12 ansible-role-homebrew-master/meta/main.yml
+-rw-rw-r-- root/root        47 2017-05-09 21:12 ansible-role-homebrew-master/requirements.yml
+drwxrwxr-x root/root         0 2017-05-09 21:12 ansible-role-homebrew-master/tasks/
+-rw-rw-r-- root/root      2860 2017-05-09 21:12 ansible-role-homebrew-master/tasks/main.yml
+-rw-rw-r-- root/root        80 2017-05-09 21:12 ansible-role-homebrew-master/tasks/playbook.yml
+drwxrwxr-x root/root         0 2017-05-09 21:12 ansible-role-homebrew-master/tests/
+drwxrwxr-x root/root         0 2017-05-09 21:12 ansible-role-homebrew-master/tests/local-testing/
+-rw-rw-r-- root/root       764 2017-05-09 21:12 ansible-role-homebrew-master/tests/local-testing/README.md
+-rw-rw-r-- root/root        56 2017-05-09 21:12 ansible-role-homebrew-master/tests/local-testing/playbook.yml
+-rw-rw-r-- root/root       103 2017-05-09 21:12 ansible-role-homebrew-master/tests/test.yml

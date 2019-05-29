@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-03-12 04:34 ansible-role-rsyslog-master/
+-rw-rw-r-- root/root       539 2018-03-12 04:34 ansible-role-rsyslog-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-03-12 04:34 ansible-role-rsyslog-master/README.md
+drwxrwxr-x root/root         0 2018-03-12 04:34 ansible-role-rsyslog-master/defaults/
+-rw-rw-r-- root/root       436 2018-03-12 04:34 ansible-role-rsyslog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-12 04:34 ansible-role-rsyslog-master/handlers/
+-rw-rw-r-- root/root       129 2018-03-12 04:34 ansible-role-rsyslog-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-12 04:34 ansible-role-rsyslog-master/meta/
+-rw-rw-r-- root/root       230 2018-03-12 04:34 ansible-role-rsyslog-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-12 04:34 ansible-role-rsyslog-master/tasks/
+-rw-rw-r-- root/root      1306 2018-03-12 04:34 ansible-role-rsyslog-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-12 04:34 ansible-role-rsyslog-master/templates/
+-rw-rw-r-- root/root       775 2018-03-12 04:34 ansible-role-rsyslog-master/templates/default-configuration.conf.j2
+-rw-rw-r-- root/root       974 2018-03-12 04:34 ansible-role-rsyslog-master/templates/default-rules.conf.j2
+-rw-rw-r-- root/root        71 2018-03-12 04:34 ansible-role-rsyslog-master/templates/rsyslog.conf.j2
+drwxrwxr-x root/root         0 2018-03-12 04:34 ansible-role-rsyslog-master/vars/
+-rw-rw-r-- root/root        42 2018-03-12 04:34 ansible-role-rsyslog-master/vars/main.yml

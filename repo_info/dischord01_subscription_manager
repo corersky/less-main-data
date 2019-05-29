@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-22 13:23 subscription_manager-master/
+drwxrwxr-x root/root         0 2017-12-22 13:23 subscription_manager-master/defaults/
+-rw-rw-r-- root/root        73 2017-12-22 13:23 subscription_manager-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:23 subscription_manager-master/handlers/
+-rw-rw-r-- root/root       136 2017-12-22 13:23 subscription_manager-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:23 subscription_manager-master/meta/
+-rw-rw-r-- root/root       408 2017-12-22 13:23 subscription_manager-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-22 13:23 subscription_manager-master/tasks/
+-rw-rw-r-- root/root       409 2017-12-22 13:23 subscription_manager-master/tasks/cloud_access.yml
+-rw-rw-r-- root/root       206 2017-12-22 13:23 subscription_manager-master/tasks/main.yml
+-rw-rw-r-- root/root      2843 2017-12-22 13:23 subscription_manager-master/tasks/subscribe.yml
+drwxrwxr-x root/root         0 2017-12-22 13:23 subscription_manager-master/templates/
+-rw-rw-r-- root/root        62 2017-12-22 13:23 subscription_manager-master/templates/example.j2
+drwxrwxr-x root/root         0 2017-12-22 13:23 subscription_manager-master/vars/
+-rw-rw-r-- root/root        65 2017-12-22 13:23 subscription_manager-master/vars/main.yml

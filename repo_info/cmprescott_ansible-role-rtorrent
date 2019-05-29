@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-12-06 17:39 ansible-role-rtorrent-master/
+-rw-rw-r-- root/root       345 2016-12-06 17:39 ansible-role-rtorrent-master/.travis.yml
+-rw-rw-r-- root/root      3437 2016-12-06 17:39 ansible-role-rtorrent-master/README.md
+drwxrwxr-x root/root         0 2016-12-06 17:39 ansible-role-rtorrent-master/defaults/
+-rw-rw-r-- root/root      2503 2016-12-06 17:39 ansible-role-rtorrent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-06 17:39 ansible-role-rtorrent-master/meta/
+-rw-rw-r-- root/root       417 2016-12-06 17:39 ansible-role-rtorrent-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-06 17:39 ansible-role-rtorrent-master/tasks/
+-rw-rw-r-- root/root      1092 2016-12-06 17:39 ansible-role-rtorrent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-06 17:39 ansible-role-rtorrent-master/templates/
+-rw-rw-r-- root/root      7150 2016-12-06 17:39 ansible-role-rtorrent-master/templates/rtorrent.rc.j2
+drwxrwxr-x root/root         0 2016-12-06 17:39 ansible-role-rtorrent-master/tests/
+-rw-rw-r-- root/root        34 2016-12-06 17:39 ansible-role-rtorrent-master/tests/inventory
+-rw-rw-r-- root/root        40 2016-12-06 17:39 ansible-role-rtorrent-master/tests/test.yml

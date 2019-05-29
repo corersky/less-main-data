@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-21 16:48 ansible-role-gromacs-master/
+-rw-rw-r-- root/root       539 2017-03-21 16:48 ansible-role-gromacs-master/.travis.yml
+-rw-rw-r-- root/root     35141 2017-03-21 16:48 ansible-role-gromacs-master/LICENSE
+-rw-rw-r-- root/root       804 2017-03-21 16:48 ansible-role-gromacs-master/README.md
+drwxrwxr-x root/root         0 2017-03-21 16:48 ansible-role-gromacs-master/defaults/
+-rw-rw-r-- root/root       298 2017-03-21 16:48 ansible-role-gromacs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-21 16:48 ansible-role-gromacs-master/dockers/
+-rw-rw-r-- root/root       756 2017-03-21 16:48 ansible-role-gromacs-master/dockers/Dockerfile
+drwxrwxr-x root/root         0 2017-03-21 16:48 ansible-role-gromacs-master/meta/
+-rw-rw-r-- root/root       285 2017-03-21 16:48 ansible-role-gromacs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-21 16:48 ansible-role-gromacs-master/tasks/
+-rw-rw-r-- root/root      2023 2017-03-21 16:48 ansible-role-gromacs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-21 16:48 ansible-role-gromacs-master/tests/
+-rw-rw-r-- root/root        59 2017-03-21 16:48 ansible-role-gromacs-master/tests/gromacs.yml
+-rw-rw-r-- root/root         9 2017-03-21 16:48 ansible-role-gromacs-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-03-21 16:48 ansible-role-gromacs-master/tests/test.yml

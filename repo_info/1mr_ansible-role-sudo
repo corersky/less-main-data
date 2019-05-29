@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-24 06:03 ansible-role-sudo-master/
+-rw-rw-r-- root/root       672 2019-03-24 06:03 ansible-role-sudo-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 06:03 ansible-role-sudo-master/defaults/
+-rw-rw-r-- root/root         4 2019-03-24 06:03 ansible-role-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-24 06:03 ansible-role-sudo-master/files/
+-rw-rw-r-- root/root       685 2019-03-24 06:03 ansible-role-sudo-master/files/sudoers
+drwxrwxr-x root/root         0 2019-03-24 06:03 ansible-role-sudo-master/meta/
+-rw-rw-r-- root/root       245 2019-03-24 06:03 ansible-role-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 06:03 ansible-role-sudo-master/tasks/
+-rw-rw-r-- root/root       982 2019-03-24 06:03 ansible-role-sudo-master/tasks/configure.yml
+-rw-rw-r-- root/root       102 2019-03-24 06:03 ansible-role-sudo-master/tasks/install.yml
+-rw-rw-r-- root/root       149 2019-03-24 06:03 ansible-role-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 06:03 ansible-role-sudo-master/templates/
+-rw-rw-r-- root/root       221 2019-03-24 06:03 ansible-role-sudo-master/templates/sudo.j2

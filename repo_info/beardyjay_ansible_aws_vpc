@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-27 05:51 ansible_aws_vpc-master/
+-rw-rw-r-- root/root      1437 2018-03-27 05:51 ansible_aws_vpc-master/README.md
+drwxrwxr-x root/root         0 2018-03-27 05:51 ansible_aws_vpc-master/defaults/
+-rw-rw-r-- root/root        74 2018-03-27 05:51 ansible_aws_vpc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-27 05:51 ansible_aws_vpc-master/meta/
+-rw-rw-r-- root/root       284 2018-03-27 05:51 ansible_aws_vpc-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-27 05:51 ansible_aws_vpc-master/tasks/
+-rw-rw-r-- root/root       649 2018-03-27 05:51 ansible_aws_vpc-master/tasks/create_nat_gateway.yml
+-rw-rw-r-- root/root      1142 2018-03-27 05:51 ansible_aws_vpc-master/tasks/create_routes.yml
+-rw-rw-r-- root/root       319 2018-03-27 05:51 ansible_aws_vpc-master/tasks/create_subnets.yml
+-rw-rw-r-- root/root       444 2018-03-27 05:51 ansible_aws_vpc-master/tasks/create_vpc.yml
+-rw-rw-r-- root/root       320 2018-03-27 05:51 ansible_aws_vpc-master/tasks/main.yml
+-rw-rw-r-- root/root       587 2018-03-27 05:51 ansible_aws_vpc-master/tasks/pre_tasks.yml

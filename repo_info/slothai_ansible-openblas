@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-04-18 07:30 ansible-openblas-master/
+-rw-rw-r-- root/root        89 2017-04-18 07:30 ansible-openblas-master/.bumpversion.cfg
+-rw-rw-r-- root/root        31 2017-04-18 07:30 ansible-openblas-master/.gitignore
+-rw-rw-r-- root/root       773 2017-04-18 07:30 ansible-openblas-master/.travis.yml
+-rw-rw-r-- root/root      1070 2017-04-18 07:30 ansible-openblas-master/LICENSE
+-rw-rw-r-- root/root       381 2017-04-18 07:30 ansible-openblas-master/Makefile
+-rw-rw-r-- root/root      1096 2017-04-18 07:30 ansible-openblas-master/README.md
+-rw-rw-r-- root/root       698 2017-04-18 07:30 ansible-openblas-master/Vagrantfile
+drwxrwxr-x root/root         0 2017-04-18 07:30 ansible-openblas-master/defaults/
+-rw-rw-r-- root/root       207 2017-04-18 07:30 ansible-openblas-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-18 07:30 ansible-openblas-master/meta/
+-rw-rw-r-- root/root       263 2017-04-18 07:30 ansible-openblas-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-18 07:30 ansible-openblas-master/tasks/
+-rw-rw-r-- root/root       893 2017-04-18 07:30 ansible-openblas-master/tasks/main.yml
+-rw-rw-r-- root/root       108 2017-04-18 07:30 ansible-openblas-master/test.yml

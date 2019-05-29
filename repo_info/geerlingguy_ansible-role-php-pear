@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-16 22:21 ansible-role-php-pear-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:21 ansible-role-php-pear-master/.gitignore
+-rw-rw-r-- root/root       525 2019-05-16 22:21 ansible-role-php-pear-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:21 ansible-role-php-pear-master/LICENSE
+-rw-rw-r-- root/root      1543 2019-05-16 22:21 ansible-role-php-pear-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:21 ansible-role-php-pear-master/defaults/
+-rw-rw-r-- root/root        84 2019-05-16 22:21 ansible-role-php-pear-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:21 ansible-role-php-pear-master/meta/
+-rw-rw-r-- root/root       791 2019-05-16 22:21 ansible-role-php-pear-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:21 ansible-role-php-pear-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:21 ansible-role-php-pear-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:21 ansible-role-php-pear-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       313 2019-05-16 22:21 ansible-role-php-pear-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        56 2019-05-16 22:21 ansible-role-php-pear-master/molecule/default/requirements.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:21 ansible-role-php-pear-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:21 ansible-role-php-pear-master/tasks/
+-rw-rw-r-- root/root       681 2019-05-16 22:21 ansible-role-php-pear-master/tasks/main.yml

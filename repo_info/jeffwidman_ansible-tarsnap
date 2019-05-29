@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-09-28 15:51 ansible-tarsnap-master/
+-rw-rw-r-- root/root       815 2015-09-28 15:51 ansible-tarsnap-master/.gitignore
+-rw-rw-r-- root/root      1079 2015-09-28 15:51 ansible-tarsnap-master/LICENSE
+-rw-rw-r-- root/root      2612 2015-09-28 15:51 ansible-tarsnap-master/README.md
+drwxrwxr-x root/root         0 2015-09-28 15:51 ansible-tarsnap-master/defaults/
+-rw-rw-r-- root/root       925 2015-09-28 15:51 ansible-tarsnap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-28 15:51 ansible-tarsnap-master/meta/
+-rw-rw-r-- root/root       459 2015-09-28 15:51 ansible-tarsnap-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-28 15:51 ansible-tarsnap-master/tasks/
+-rw-rw-r-- root/root      4818 2015-09-28 15:51 ansible-tarsnap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-28 15:51 ansible-tarsnap-master/templates/
+-rwxrwxr-x root/root       140 2015-09-28 15:51 ansible-tarsnap-master/templates/etc_logrotate_tarsnap.j2
+-rw-rw-r-- root/root      1215 2015-09-28 15:51 ansible-tarsnap-master/templates/tarsnapper_jobs.yml.j2.example
+-rw-rw-r-- root/root      1085 2015-09-28 15:51 ansible-tarsnap-master/templates/tarsnapper_wrapper.sh.j2
+-rw-rw-r-- root/root      1525 2015-09-28 15:51 ansible-tarsnap-master/templates/tarsnaprc.j2

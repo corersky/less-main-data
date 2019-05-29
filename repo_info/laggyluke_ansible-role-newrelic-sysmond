@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/
+-rw-rw-r-- root/root        21 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/.gitignore
+-rw-rw-r-- root/root       420 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/README.md
+drwxrwxr-x root/root         0 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/defaults/
+-rw-rw-r-- root/root        53 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/handlers/
+-rw-rw-r-- root/root       102 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/meta/
+-rw-rw-r-- root/root       244 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/tasks/
+-rw-rw-r-- root/root       675 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/templates/
+-rw-rw-r-- root/root       101 2015-09-01 15:13 ansible-role-newrelic-sysmond-master/templates/nrsysmond.cfg.j2

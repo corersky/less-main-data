@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-05-31 02:57 ansible-roles-certbot-master/
+-rw-rw-r-- root/root       145 2018-05-31 02:57 ansible-roles-certbot-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-05-31 02:57 ansible-roles-certbot-master/LICENSE
+-rw-rw-r-- root/root       636 2018-05-31 02:57 ansible-roles-certbot-master/README.md
+drwxrwxr-x root/root         0 2018-05-31 02:57 ansible-roles-certbot-master/defaults/
+-rw-rw-r-- root/root       167 2018-05-31 02:57 ansible-roles-certbot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-31 02:57 ansible-roles-certbot-master/meta/
+-rw-rw-r-- root/root       280 2018-05-31 02:57 ansible-roles-certbot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-31 02:57 ansible-roles-certbot-master/tasks/
+-rw-rw-r-- root/root      1117 2018-05-31 02:57 ansible-roles-certbot-master/tasks/build.yml
+-rw-rw-r-- root/root        70 2018-05-31 02:57 ansible-roles-certbot-master/tasks/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-15 22:32 new-vultr-master/
+-rw-rw-r-- root/root        26 2018-08-15 22:32 new-vultr-master/.gitignore
+-rw-rw-r-- root/root      1511 2018-08-15 22:32 new-vultr-master/README.md
+drwxrwxr-x root/root         0 2018-08-15 22:32 new-vultr-master/defaults/
+-rw-rw-r-- root/root       675 2018-08-15 22:32 new-vultr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-15 22:32 new-vultr-master/handlers/
+-rw-rw-r-- root/root        44 2018-08-15 22:32 new-vultr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-15 22:32 new-vultr-master/meta/
+-rw-rw-r-- root/root       340 2018-08-15 22:32 new-vultr-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-15 22:32 new-vultr-master/tasks/
+-rw-rw-r-- root/root      4002 2018-08-15 22:32 new-vultr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-15 22:32 new-vultr-master/tests/
+-rw-rw-r-- root/root        11 2018-08-15 22:32 new-vultr-master/tests/inventory
+-rw-rw-r-- root/root        86 2018-08-15 22:32 new-vultr-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-15 22:32 new-vultr-master/vars/
+-rw-rw-r-- root/root        40 2018-08-15 22:32 new-vultr-master/vars/main.yml

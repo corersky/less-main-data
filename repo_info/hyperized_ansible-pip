@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-pip-master/
+-rw-rw-r-- root/root      2291 2017-05-02 03:13 ansible-pip-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1056 2017-05-02 03:13 ansible-pip-master/LICENSE
+-rw-rw-r-- root/root       637 2017-05-02 03:13 ansible-pip-master/README.md
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-pip-master/defaults/
+-rw-rw-r-- root/root        42 2017-05-02 03:13 ansible-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-pip-master/meta/
+-rw-rw-r-- root/root       251 2017-05-02 03:13 ansible-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-pip-master/tasks/
+-rw-rw-r-- root/root       681 2017-05-02 03:13 ansible-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-02 03:13 ansible-pip-master/tests/
+-rw-rw-r-- root/root       228 2017-05-02 03:13 ansible-pip-master/tests/python27.yml
+-rw-rw-r-- root/root       181 2017-05-02 03:13 ansible-pip-master/tests/python3.yml

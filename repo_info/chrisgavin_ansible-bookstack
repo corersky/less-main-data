@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-08 15:56 ansible-bookstack-master/
+-rw-rw-r-- root/root       237 2017-12-08 15:56 ansible-bookstack-master/.travis.yml
+-rw-rw-r-- root/root       562 2017-12-08 15:56 ansible-bookstack-master/README.md
+drwxrwxr-x root/root         0 2017-12-08 15:56 ansible-bookstack-master/defaults/
+-rw-rw-r-- root/root       296 2017-12-08 15:56 ansible-bookstack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-08 15:56 ansible-bookstack-master/meta/
+-rw-rw-r-- root/root      1015 2017-12-08 15:56 ansible-bookstack-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-08 15:56 ansible-bookstack-master/tasks/
+-rw-rw-r-- root/root       886 2017-12-08 15:56 ansible-bookstack-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-08 15:56 ansible-bookstack-master/templates/
+-rw-rw-r-- root/root      1626 2017-12-08 15:56 ansible-bookstack-master/templates/env.env
+drwxrwxr-x root/root         0 2017-12-08 15:56 ansible-bookstack-master/tests/
+-rw-rw-r-- root/root       170 2017-12-08 15:56 ansible-bookstack-master/tests/test.yml

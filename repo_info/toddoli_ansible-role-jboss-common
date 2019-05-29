@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-31 15:55 ansible-role-jboss-common-master/
+-rw-rw-r-- root/root       271 2017-01-31 15:55 ansible-role-jboss-common-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-01-31 15:55 ansible-role-jboss-common-master/LICENSE
+-rw-rw-r-- root/root       543 2017-01-31 15:55 ansible-role-jboss-common-master/README.md
+drwxrwxr-x root/root         0 2017-01-31 15:55 ansible-role-jboss-common-master/defaults/
+-rw-rw-r-- root/root        49 2017-01-31 15:55 ansible-role-jboss-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-31 15:55 ansible-role-jboss-common-master/meta/
+-rw-rw-r-- root/root       308 2017-01-31 15:55 ansible-role-jboss-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-31 15:55 ansible-role-jboss-common-master/tasks/
+-rw-rw-r-- root/root      2418 2017-01-31 15:55 ansible-role-jboss-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-31 15:55 ansible-role-jboss-common-master/tests/
+-rw-rw-r-- root/root       109 2017-01-31 15:55 ansible-role-jboss-common-master/tests/inventory
+drwxrwxr-x root/root         0 2017-01-31 15:55 ansible-role-jboss-common-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-01-31 15:55 ansible-role-jboss-common-master/tests/roles/jboss_common -> ../../../ansible-role-jboss-common/
+-rw-rw-r-- root/root        82 2017-01-31 15:55 ansible-role-jboss-common-master/tests/syntax-check.yml

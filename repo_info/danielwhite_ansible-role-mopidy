@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-04 08:18 ansible-role-mopidy-master/
+-rw-rw-r-- root/root      1284 2016-11-04 08:18 ansible-role-mopidy-master/.travis.yml
+-rw-rw-r-- root/root      1395 2016-11-04 08:18 ansible-role-mopidy-master/README.md
+drwxrwxr-x root/root         0 2016-11-04 08:18 ansible-role-mopidy-master/defaults/
+-rw-rw-r-- root/root       226 2016-11-04 08:18 ansible-role-mopidy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-04 08:18 ansible-role-mopidy-master/handlers/
+-rw-rw-r-- root/root        77 2016-11-04 08:18 ansible-role-mopidy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-04 08:18 ansible-role-mopidy-master/meta/
+-rw-rw-r-- root/root       303 2016-11-04 08:18 ansible-role-mopidy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-04 08:18 ansible-role-mopidy-master/tasks/
+-rw-rw-r-- root/root       596 2016-11-04 08:18 ansible-role-mopidy-master/tasks/main.yml
+-rw-rw-r-- root/root       615 2016-11-04 08:18 ansible-role-mopidy-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2016-11-04 08:18 ansible-role-mopidy-master/tests/
+-rw-rw-r-- root/root       396 2016-11-04 08:18 ansible-role-mopidy-master/tests/Dockerfile.ubuntu-14.04
+-rw-rw-r-- root/root       169 2016-11-04 08:18 ansible-role-mopidy-master/tests/test.yml

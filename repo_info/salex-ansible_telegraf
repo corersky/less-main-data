@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-06 10:46 telegraf-master/
+-rw-rw-r-- root/root       730 2017-07-06 10:46 telegraf-master/README.md
+drwxrwxr-x root/root         0 2017-07-06 10:46 telegraf-master/defaults/
+-rw-rw-r-- root/root        93 2017-07-06 10:46 telegraf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:46 telegraf-master/handlers/
+-rw-rw-r-- root/root        70 2017-07-06 10:46 telegraf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:46 telegraf-master/meta/
+-rw-rw-r-- root/root       235 2017-07-06 10:46 telegraf-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:46 telegraf-master/tasks/
+-rw-rw-r-- root/root       496 2017-07-06 10:46 telegraf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:46 telegraf-master/tests/
+-rw-rw-r-- root/root        11 2017-07-06 10:46 telegraf-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-07-06 10:46 telegraf-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-06 10:46 telegraf-master/vars/
+-rw-rw-r-- root/root        36 2017-07-06 10:46 telegraf-master/vars/main.yml

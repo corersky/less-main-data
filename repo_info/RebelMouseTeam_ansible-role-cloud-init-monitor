@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/
+-rw-rw-r-- root/root        51 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/README.md
+drwxrwxr-x root/root         0 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/defaults/
+-rw-rw-r-- root/root        83 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/meta/
+-rw-rw-r-- root/root       250 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/tasks/
+-rw-rw-r-- root/root       402 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/tasks/main.yml
+-rw-rw-r-- root/root       666 2017-12-03 23:13 ansible-role-cloud-init-monitor-master/tasks/status_success.yml

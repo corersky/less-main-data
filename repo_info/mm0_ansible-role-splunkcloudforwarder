@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/
+-rw-rw-r-- root/root      1070 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/LICENSE
+-rw-rw-r-- root/root        88 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/README.md
+drwxrwxr-x root/root         0 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/defaults/
+-rw-rw-r-- root/root       353 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/files/
+-rw-rw-r-- root/root  22442962 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/files/splunkforwarder-7.1.1-8f0ead9ec3db-linux-2.6-amd64.deb
+drwxrwxr-x root/root         0 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/handlers/
+-rw-rw-r-- root/root       264 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/meta/
+-rw-rw-r-- root/root       295 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/tasks/
+drwxrwxr-x root/root         0 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/tasks/copyinstall/
+-rw-rw-r-- root/root       627 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/tasks/copyinstall/heavy.yml
+-rw-rw-r-- root/root       372 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/tasks/copyinstall/universal.yml
+-rw-rw-r-- root/root       778 2018-06-03 04:24 ansible-role-splunkcloudforwarder-master/tasks/main.yml

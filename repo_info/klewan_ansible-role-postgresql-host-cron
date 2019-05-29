@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/
+-rw-rw-r-- root/root     35149 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/LICENSE
+-rw-rw-r-- root/root      2875 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/defaults/
+-rw-rw-r-- root/root      1408 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/meta/
+-rw-rw-r-- root/root       290 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/tasks/
+-rw-rw-r-- root/root      1965 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/templates/
+-rw-rw-r-- root/root      2477 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/templates/pg_backup_dump.ksh.j2
+-rw-rw-r-- root/root      1426 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/templates/vacuum_analyze.sh.j2
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/vars/
+-rw-rw-r-- root/root       149 2019-01-11 17:29 ansible-role-postgresql-host-cron-master/vars/main.yml

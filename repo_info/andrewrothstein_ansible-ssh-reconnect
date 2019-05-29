@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-09 22:48 ansible-ssh-reconnect-master/
+-rw-rw-r-- root/root      1061 2016-02-09 22:48 ansible-ssh-reconnect-master/LICENSE.md
+-rw-rw-r-- root/root      1198 2016-02-09 22:48 ansible-ssh-reconnect-master/README.md
+drwxrwxr-x root/root         0 2016-02-09 22:48 ansible-ssh-reconnect-master/action_plugins/
+-rw-rw-r-- root/root      1938 2016-02-09 22:48 ansible-ssh-reconnect-master/action_plugins/ssh-reconnect.py
+drwxrwxr-x root/root         0 2016-02-09 22:48 ansible-ssh-reconnect-master/handlers/
+-rw-rw-r-- root/root       120 2016-02-09 22:48 ansible-ssh-reconnect-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-09 22:48 ansible-ssh-reconnect-master/library/
+-rw-rw-r-- root/root        23 2016-02-09 22:48 ansible-ssh-reconnect-master/library/ssh-reconnect
+drwxrwxr-x root/root         0 2016-02-09 22:48 ansible-ssh-reconnect-master/meta/
+-rw-rw-r-- root/root       302 2016-02-09 22:48 ansible-ssh-reconnect-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-09 22:48 ansible-ssh-reconnect-master/tasks/
+-rw-rw-r-- root/root       205 2016-02-09 22:48 ansible-ssh-reconnect-master/tasks/main.yml

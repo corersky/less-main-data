@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-21 14:33 ansible-role-schema-registry-master/
+-rw-rw-r-- root/root       539 2017-04-21 14:33 ansible-role-schema-registry-master/.travis.yml
+-rw-rw-r-- root/root      1510 2017-04-21 14:33 ansible-role-schema-registry-master/LICENSE
+-rw-rw-r-- root/root      1584 2017-04-21 14:33 ansible-role-schema-registry-master/README.md
+drwxrwxr-x root/root         0 2017-04-21 14:33 ansible-role-schema-registry-master/defaults/
+-rw-rw-r-- root/root       255 2017-04-21 14:33 ansible-role-schema-registry-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-21 14:33 ansible-role-schema-registry-master/handlers/
+-rw-rw-r-- root/root        53 2017-04-21 14:33 ansible-role-schema-registry-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-21 14:33 ansible-role-schema-registry-master/meta/
+-rw-rw-r-- root/root      3528 2017-04-21 14:33 ansible-role-schema-registry-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-21 14:33 ansible-role-schema-registry-master/tasks/
+-rw-rw-r-- root/root       753 2017-04-21 14:33 ansible-role-schema-registry-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-21 14:33 ansible-role-schema-registry-master/tests/
+-rw-rw-r-- root/root         9 2017-04-21 14:33 ansible-role-schema-registry-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-04-21 14:33 ansible-role-schema-registry-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-21 14:33 ansible-role-schema-registry-master/vars/
+-rw-rw-r-- root/root        49 2017-04-21 14:33 ansible-role-schema-registry-master/vars/main.yml

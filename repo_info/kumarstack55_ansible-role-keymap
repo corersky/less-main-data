@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-13 12:14 ansible-role-keymap-master/
+-rw-rw-r-- root/root         8 2018-10-13 12:14 ansible-role-keymap-master/.gitignore
+-rw-rw-r-- root/root      1069 2018-10-13 12:14 ansible-role-keymap-master/LICENSE
+-rw-rw-r-- root/root       491 2018-10-13 12:14 ansible-role-keymap-master/README.md
+drwxrwxr-x root/root         0 2018-10-13 12:14 ansible-role-keymap-master/defaults/
+-rw-rw-r-- root/root        25 2018-10-13 12:14 ansible-role-keymap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-13 12:14 ansible-role-keymap-master/meta/
+-rw-rw-r-- root/root       199 2018-10-13 12:14 ansible-role-keymap-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-13 12:14 ansible-role-keymap-master/tasks/
+-rw-rw-r-- root/root       333 2018-10-13 12:14 ansible-role-keymap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-13 12:14 ansible-role-keymap-master/tests/
+-rw-rw-r-- root/root        11 2018-10-13 12:14 ansible-role-keymap-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-10-13 12:14 ansible-role-keymap-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-13 12:14 ansible-role-keymap-master/vars/
+-rw-rw-r-- root/root        39 2018-10-13 12:14 ansible-role-keymap-master/vars/main.yml

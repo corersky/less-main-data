@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_director-master/
+-rw-rw-r-- root/root         0 2017-03-05 20:50 ansible-bacula_director-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-03-05 20:50 ansible-bacula_director-master/LICENSE
+-rw-rw-r-- root/root     18294 2017-03-05 20:50 ansible-bacula_director-master/README.md
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_director-master/defaults/
+-rw-rw-r-- root/root     12048 2017-03-05 20:50 ansible-bacula_director-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_director-master/handlers/
+-rw-rw-r-- root/root       231 2017-03-05 20:50 ansible-bacula_director-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_director-master/meta/
+-rw-rw-r-- root/root       258 2017-03-05 20:50 ansible-bacula_director-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_director-master/tasks/
+-rw-rw-r-- root/root      5398 2017-03-05 20:50 ansible-bacula_director-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-03-05 20:50 ansible-bacula_director-master/templates/
+-rw-rw-r-- root/root      1595 2017-03-05 20:50 ansible-bacula_director-master/templates/bacula-dir.conf.j2
+-rw-rw-r-- root/root       106 2017-03-05 20:50 ansible-bacula_director-master/templates/bacula-dir.sysconfig.j2

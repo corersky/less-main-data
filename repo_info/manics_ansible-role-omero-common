@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-18 05:46 ansible-role-omero-common-master/
+-rw-rw-r-- root/root        20 2017-05-18 05:46 ansible-role-omero-common-master/.gitignore
+-rw-rw-r-- root/root       222 2017-05-18 05:46 ansible-role-omero-common-master/.travis.yml
+-rw-rw-r-- root/root       650 2017-05-18 05:46 ansible-role-omero-common-master/README.md
+drwxrwxr-x root/root         0 2017-05-18 05:46 ansible-role-omero-common-master/defaults/
+-rw-rw-r-- root/root        66 2017-05-18 05:46 ansible-role-omero-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-18 05:46 ansible-role-omero-common-master/handlers/
+-rw-rw-r-- root/root       497 2017-05-18 05:46 ansible-role-omero-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-18 05:46 ansible-role-omero-common-master/meta/
+-rw-rw-r-- root/root       291 2017-05-18 05:46 ansible-role-omero-common-master/meta/main.yml
+-rw-rw-r-- root/root      1079 2017-05-18 05:46 ansible-role-omero-common-master/molecule.yml
+-rw-rw-r-- root/root       232 2017-05-18 05:46 ansible-role-omero-common-master/playbook.yml
+drwxrwxr-x root/root         0 2017-05-18 05:46 ansible-role-omero-common-master/tasks/
+-rw-rw-r-- root/root       176 2017-05-18 05:46 ansible-role-omero-common-master/tasks/main.yml

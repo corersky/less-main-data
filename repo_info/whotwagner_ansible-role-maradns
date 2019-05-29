@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-19 14:29 ansible-role-maradns-master/
+-rw-rw-r-- root/root     18020 2017-08-19 14:29 ansible-role-maradns-master/LICENSE
+-rw-rw-r-- root/root      2836 2017-08-19 14:29 ansible-role-maradns-master/README.md
+drwxrwxr-x root/root         0 2017-08-19 14:29 ansible-role-maradns-master/defaults/
+-rw-rw-r-- root/root       334 2017-08-19 14:29 ansible-role-maradns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-19 14:29 ansible-role-maradns-master/handlers/
+-rw-rw-r-- root/root        74 2017-08-19 14:29 ansible-role-maradns-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-19 14:29 ansible-role-maradns-master/meta/
+-rw-rw-r-- root/root       334 2017-08-19 14:29 ansible-role-maradns-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-19 14:29 ansible-role-maradns-master/tasks/
+-rw-rw-r-- root/root        78 2017-08-19 14:29 ansible-role-maradns-master/tasks/Debian.yml
+-rw-rw-r-- root/root       615 2017-08-19 14:29 ansible-role-maradns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-19 14:29 ansible-role-maradns-master/templates/
+-rw-rw-r-- root/root     11001 2017-08-19 14:29 ansible-role-maradns-master/templates/mararc.j2
+-rw-rw-r-- root/root      1618 2017-08-19 14:29 ansible-role-maradns-master/templates/zonefile.j2

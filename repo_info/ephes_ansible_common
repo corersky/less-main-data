@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-10-27 09:21 ansible_common-master/
+-rw-rw-r-- root/root      1086 2015-10-27 09:21 ansible_common-master/LICENSE
+-rw-rw-r-- root/root        62 2015-10-27 09:21 ansible_common-master/README.md
+-rw-rw-r-- root/root         6 2015-10-27 09:21 ansible_common-master/VERSION
+drwxrwxr-x root/root         0 2015-10-27 09:21 ansible_common-master/meta/
+-rw-rw-r-- root/root       206 2015-10-27 09:21 ansible_common-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-27 09:21 ansible_common-master/tasks/
+-rw-rw-r-- root/root       552 2015-10-27 09:21 ansible_common-master/tasks/apt.yml
+-rw-rw-r-- root/root       109 2015-10-27 09:21 ansible_common-master/tasks/main.yml
+-rw-rw-r-- root/root       922 2015-10-27 09:21 ansible_common-master/tasks/users.yml

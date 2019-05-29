@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/
+-rw-rw-r-- root/root       277 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/README.md
+drwxrwxr-x root/root         0 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/defaults/
+-rw-rw-r-- root/root       360 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/handlers/
+-rw-rw-r-- root/root        86 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/meta/
+-rw-rw-r-- root/root      1956 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/tasks/
+-rw-rw-r-- root/root       939 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/templates/
+-rw-rw-r-- root/root      2472 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/templates/site.nginx.conf
+-rw-rw-r-- root/root       116 2015-06-12 19:47 ansible-role-nginx-reverse-proxy-master/templates/site_cert.pem

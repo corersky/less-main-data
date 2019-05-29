@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-20 03:29 ansible-role-docker-login-master/
+-rw-rw-r-- root/root        25 2017-12-20 03:29 ansible-role-docker-login-master/.gitattributes
+-rw-rw-r-- root/root         5 2017-12-20 03:29 ansible-role-docker-login-master/.gitignore
+-rw-rw-r-- root/root       539 2017-12-20 03:29 ansible-role-docker-login-master/.travis.yml
+-rw-rw-r-- root/root       348 2017-12-20 03:29 ansible-role-docker-login-master/CHANGELOG.md
+-rw-rw-r-- root/root      1080 2017-12-20 03:29 ansible-role-docker-login-master/LICENSE
+-rw-rw-r-- root/root       726 2017-12-20 03:29 ansible-role-docker-login-master/README.md
+-rw-rw-r-- root/root         5 2017-12-20 03:29 ansible-role-docker-login-master/VERSION
+drwxrwxr-x root/root         0 2017-12-20 03:29 ansible-role-docker-login-master/defaults/
+-rw-rw-r-- root/root       108 2017-12-20 03:29 ansible-role-docker-login-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:29 ansible-role-docker-login-master/meta/
+-rw-rw-r-- root/root       234 2017-12-20 03:29 ansible-role-docker-login-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:29 ansible-role-docker-login-master/tasks/
+-rw-rw-r-- root/root       327 2017-12-20 03:29 ansible-role-docker-login-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:29 ansible-role-docker-login-master/tests/
+-rw-rw-r-- root/root         9 2017-12-20 03:29 ansible-role-docker-login-master/tests/inventory
+-rw-rw-r-- root/root        89 2017-12-20 03:29 ansible-role-docker-login-master/tests/test.yml

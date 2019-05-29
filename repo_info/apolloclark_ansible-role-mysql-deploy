@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-deploy-master/
+-rw-rw-r-- root/root        13 2018-09-27 16:16 ansible-role-mysql-deploy-master/.gitignore
+-rw-rw-r-- root/root       509 2018-09-27 16:16 ansible-role-mysql-deploy-master/README.md
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-deploy-master/defaults/
+-rw-rw-r-- root/root       109 2018-09-27 16:16 ansible-role-mysql-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-deploy-master/meta/
+-rw-rw-r-- root/root       339 2018-09-27 16:16 ansible-role-mysql-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-deploy-master/tasks/
+-rw-rw-r-- root/root       459 2018-09-27 16:16 ansible-role-mysql-deploy-master/tasks/main.yml

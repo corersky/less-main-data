@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-28 21:53 vm-facts-master/
+-rw-rw-r-- root/root       856 2018-10-28 21:53 vm-facts-master/.gitignore
+-rw-rw-r-- root/root     20133 2018-10-28 21:53 vm-facts-master/LICENSE
+-rw-rw-r-- root/root     21371 2018-10-28 21:53 vm-facts-master/README.md
+drwxrwxr-x root/root         0 2018-10-28 21:53 vm-facts-master/meta/
+-rw-rw-r-- root/root       497 2018-10-28 21:53 vm-facts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-28 21:53 vm-facts-master/scripts/
+-rwxrwxr-x root/root      3425 2018-10-28 21:53 vm-facts-master/scripts/hypervisor-facts.py
+-rwxrwxr-x root/root      9916 2018-10-28 21:53 vm-facts-master/scripts/storage-facts.py
+drwxrwxr-x root/root         0 2018-10-28 21:53 vm-facts-master/tasks/
+-rw-rw-r-- root/root      1335 2018-10-28 21:53 vm-facts-master/tasks/hypervisor-facts.yml
+-rw-rw-r-- root/root       338 2018-10-28 21:53 vm-facts-master/tasks/main.yml
+-rw-rw-r-- root/root      1520 2018-10-28 21:53 vm-facts-master/tasks/storage-facts.yml

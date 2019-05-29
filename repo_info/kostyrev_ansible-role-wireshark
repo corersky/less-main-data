@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-08 06:09 ansible-role-wireshark-master/
+-rw-rw-r-- root/root      1275 2016-12-08 06:09 ansible-role-wireshark-master/README.md
+-rw-rw-r-- root/root        27 2016-12-08 06:09 ansible-role-wireshark-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-12-08 06:09 ansible-role-wireshark-master/defaults/
+-rw-rw-r-- root/root        79 2016-12-08 06:09 ansible-role-wireshark-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-08 06:09 ansible-role-wireshark-master/handlers/
+-rw-rw-r-- root/root        34 2016-12-08 06:09 ansible-role-wireshark-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-08 06:09 ansible-role-wireshark-master/meta/
+-rw-rw-r-- root/root       222 2016-12-08 06:09 ansible-role-wireshark-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-08 06:09 ansible-role-wireshark-master/tasks/
+-rw-rw-r-- root/root       227 2016-12-08 06:09 ansible-role-wireshark-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-08 06:09 ansible-role-wireshark-master/tests/
+-rw-rw-r-- root/root        10 2016-12-08 06:09 ansible-role-wireshark-master/tests/inventory
+-rw-rw-r-- root/root        95 2016-12-08 06:09 ansible-role-wireshark-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-08 06:09 ansible-role-wireshark-master/vars/
+-rw-rw-r-- root/root        30 2016-12-08 06:09 ansible-role-wireshark-master/vars/main.yml

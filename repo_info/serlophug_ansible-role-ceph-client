@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-01-10 06:28 ansible-role-ceph-client-master/
+-rw-rw-r-- root/root       539 2018-01-10 06:28 ansible-role-ceph-client-master/.travis.yml
+-rw-rw-r-- root/root     11347 2018-01-10 06:28 ansible-role-ceph-client-master/LICENSE
+-rw-rw-r-- root/root       449 2018-01-10 06:28 ansible-role-ceph-client-master/README.md
+drwxrwxr-x root/root         0 2018-01-10 06:28 ansible-role-ceph-client-master/defaults/
+-rw-rw-r-- root/root      1069 2018-01-10 06:28 ansible-role-ceph-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-10 06:28 ansible-role-ceph-client-master/meta/
+-rw-rw-r-- root/root       277 2018-01-10 06:28 ansible-role-ceph-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-10 06:28 ansible-role-ceph-client-master/tasks/
+-rw-rw-r-- root/root      2981 2018-01-10 06:28 ansible-role-ceph-client-master/tasks/create_users_keys.yml
+-rw-rw-r-- root/root       165 2018-01-10 06:28 ansible-role-ceph-client-master/tasks/main.yml
+-rw-rw-r-- root/root       781 2018-01-10 06:28 ansible-role-ceph-client-master/tasks/pre_requisite.yml

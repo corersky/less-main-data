@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2018-12-09 15:25 ansible-role-nodered-master/
+-rw-rw-r-- root/root        31 2018-12-09 15:25 ansible-role-nodered-master/.gitignore
+-rw-rw-r-- root/root       519 2018-12-09 15:25 ansible-role-nodered-master/.travis.yml
+-rw-rw-r-- root/root       296 2018-12-09 15:25 ansible-role-nodered-master/.yamllint
+-rw-rw-r-- root/root       517 2018-12-09 15:25 ansible-role-nodered-master/README.md
+drwxrwxr-x root/root         0 2018-12-09 15:25 ansible-role-nodered-master/files/
+-rw-rw-r-- root/root       918 2018-12-09 15:25 ansible-role-nodered-master/files/Node-RED.service
+-rw-rw-r-- root/root       918 2018-12-09 15:25 ansible-role-nodered-master/files/nodered.service
+drwxrwxr-x root/root         0 2018-12-09 15:25 ansible-role-nodered-master/handlers/
+-rw-rw-r-- root/root       193 2018-12-09 15:25 ansible-role-nodered-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-09 15:25 ansible-role-nodered-master/meta/
+-rw-rw-r-- root/root       326 2018-12-09 15:25 ansible-role-nodered-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-09 15:25 ansible-role-nodered-master/molecule/
+drwxrwxr-x root/root         0 2018-12-09 15:25 ansible-role-nodered-master/molecule/default/
+-rw-rw-r-- root/root       961 2018-12-09 15:25 ansible-role-nodered-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       263 2018-12-09 15:25 ansible-role-nodered-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       466 2018-12-09 15:25 ansible-role-nodered-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        74 2018-12-09 15:25 ansible-role-nodered-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2018-12-09 15:25 ansible-role-nodered-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2018-12-09 15:25 ansible-role-nodered-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1129 2018-12-09 15:25 ansible-role-nodered-master/molecule/default/tests/test_default.pyc
+drwxrwxr-x root/root         0 2018-12-09 15:25 ansible-role-nodered-master/tasks/
+-rw-rw-r-- root/root      1125 2018-12-09 15:25 ansible-role-nodered-master/tasks/centOS.yml
+-rw-rw-r-- root/root       955 2018-12-09 15:25 ansible-role-nodered-master/tasks/debian.yml
+-rw-rw-r-- root/root       295 2018-12-09 15:25 ansible-role-nodered-master/tasks/main 2.yml
+-rw-rw-r-- root/root       155 2018-12-09 15:25 ansible-role-nodered-master/tasks/main.yml

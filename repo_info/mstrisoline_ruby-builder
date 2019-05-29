@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-08 03:27 ruby-builder-master/
+-rw-rw-r-- root/root      1078 2015-06-08 03:27 ruby-builder-master/LICENSE
+-rw-rw-r-- root/root      2589 2015-06-08 03:27 ruby-builder-master/README.md
+drwxrwxr-x root/root         0 2015-06-08 03:27 ruby-builder-master/defaults/
+-rw-rw-r-- root/root       175 2015-06-08 03:27 ruby-builder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-08 03:27 ruby-builder-master/meta/
+-rw-rw-r-- root/root       444 2015-06-08 03:27 ruby-builder-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-08 03:27 ruby-builder-master/tasks/
+-rw-rw-r-- root/root       371 2015-06-08 03:27 ruby-builder-master/tasks/debian.yml
+-rw-rw-r-- root/root      1375 2015-06-08 03:27 ruby-builder-master/tasks/main.yml
+-rw-rw-r-- root/root       228 2015-06-08 03:27 ruby-builder-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2015-06-08 03:27 ruby-builder-master/templates/
+-rw-rw-r-- root/root        43 2015-06-08 03:27 ruby-builder-master/templates/environment.j2
+drwxrwxr-x root/root         0 2015-06-08 03:27 ruby-builder-master/vars/
+-rw-rw-r-- root/root       308 2015-06-08 03:27 ruby-builder-master/vars/main.yml

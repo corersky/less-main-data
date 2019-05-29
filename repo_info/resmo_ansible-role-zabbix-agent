@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-08-25 07:19 ansible-role-zabbix-agent-master/
+-rw-rw-r-- root/root       396 2014-08-25 07:19 ansible-role-zabbix-agent-master/.travis.yml
+-rw-rw-r-- root/root       642 2014-08-25 07:19 ansible-role-zabbix-agent-master/README.md
+-rw-rw-r-- root/root        28 2014-08-25 07:19 ansible-role-zabbix-agent-master/ansible.cfg
+drwxrwxr-x root/root         0 2014-08-25 07:19 ansible-role-zabbix-agent-master/defaults/
+-rw-rw-r-- root/root       608 2014-08-25 07:19 ansible-role-zabbix-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-25 07:19 ansible-role-zabbix-agent-master/handlers/
+-rw-rw-r-- root/root        78 2014-08-25 07:19 ansible-role-zabbix-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-08-25 07:19 ansible-role-zabbix-agent-master/meta/
+-rw-rw-r-- root/root       409 2014-08-25 07:19 ansible-role-zabbix-agent-master/meta/main.yml
+-rw-rw-r-- root/root        80 2014-08-25 07:19 ansible-role-zabbix-agent-master/role.yml
+drwxrwxr-x root/root         0 2014-08-25 07:19 ansible-role-zabbix-agent-master/tasks/
+-rw-rw-r-- root/root      1004 2014-08-25 07:19 ansible-role-zabbix-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-25 07:19 ansible-role-zabbix-agent-master/templates/
+-rw-rw-r-- root/root      7781 2014-08-25 07:19 ansible-role-zabbix-agent-master/templates/zabbix_agentd.conf.j2
+drwxrwxr-x root/root         0 2014-08-25 07:19 ansible-role-zabbix-agent-master/vars/
+-rw-rw-r-- root/root         4 2014-08-25 07:19 ansible-role-zabbix-agent-master/vars/main.yml

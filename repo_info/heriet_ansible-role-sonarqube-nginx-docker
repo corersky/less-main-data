@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/
+-rw-rw-r-- root/root     11358 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/LICENSE
+-rw-rw-r-- root/root       662 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/README.md
+drwxrwxr-x root/root         0 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/defaults/
+-rw-rw-r-- root/root       326 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/meta/
+-rw-rw-r-- root/root       333 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/tasks/
+-rw-rw-r-- root/root       545 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/templates/
+-rw-rw-r-- root/root      1468 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/templates/docker-compose.yml
+-rw-rw-r-- root/root       350 2018-06-15 05:27 ansible-role-sonarqube-nginx-docker-master/templates/nginx-default.conf

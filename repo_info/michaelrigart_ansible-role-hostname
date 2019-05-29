@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-12-30 11:39 ansible-role-hostname-master/
+-rw-rw-r-- root/root        11 2016-12-30 11:39 ansible-role-hostname-master/.gitignore
+-rw-rw-r-- root/root     35120 2016-12-30 11:39 ansible-role-hostname-master/LICENSE
+-rw-rw-r-- root/root       664 2016-12-30 11:39 ansible-role-hostname-master/README.md
+drwxrwxr-x root/root         0 2016-12-30 11:39 ansible-role-hostname-master/meta/
+-rw-rw-r-- root/root       488 2016-12-30 11:39 ansible-role-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:39 ansible-role-hostname-master/tasks/
+-rw-rw-r-- root/root       141 2016-12-30 11:39 ansible-role-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:39 ansible-role-hostname-master/tests/
+-rw-rw-r-- root/root        10 2016-12-30 11:39 ansible-role-hostname-master/tests/inventory
+-rw-rw-r-- root/root        80 2016-12-30 11:39 ansible-role-hostname-master/tests/test.yml

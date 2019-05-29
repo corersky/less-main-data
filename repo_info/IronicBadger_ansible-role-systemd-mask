@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-03-02 04:42 ansible-role-systemd-mask-master/
+-rw-rw-r-- root/root       122 2018-03-02 04:42 ansible-role-systemd-mask-master/README.md
+drwxrwxr-x root/root         0 2018-03-02 04:42 ansible-role-systemd-mask-master/defaults/
+-rw-rw-r-- root/root        52 2018-03-02 04:42 ansible-role-systemd-mask-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-02 04:42 ansible-role-systemd-mask-master/meta/
+-rw-rw-r-- root/root       394 2018-03-02 04:42 ansible-role-systemd-mask-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-02 04:42 ansible-role-systemd-mask-master/tasks/
+-rw-rw-r-- root/root        30 2018-03-02 04:42 ansible-role-systemd-mask-master/tasks/main.yml
+-rw-rw-r-- root/root       156 2018-03-02 04:42 ansible-role-systemd-mask-master/tasks/mask.yml

@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2015-02-24 10:41 ansible-pptpd-master/
+-rw-rw-r-- root/root        52 2015-02-24 10:41 ansible-pptpd-master/.gitignore
+-rw-rw-r-- root/root        80 2015-02-24 10:41 ansible-pptpd-master/CHANGELOG.md
+-rw-rw-r-- root/root       730 2015-02-24 10:41 ansible-pptpd-master/README.md
+drwxrwxr-x root/root         0 2015-02-24 10:41 ansible-pptpd-master/defaults/
+-rw-rw-r-- root/root       280 2015-02-24 10:41 ansible-pptpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-24 10:41 ansible-pptpd-master/examples/
+-rw-rw-r-- root/root       761 2015-02-24 10:41 ansible-pptpd-master/examples/Vagrantfile
+-rw-rw-r-- root/root        33 2015-02-24 10:41 ansible-pptpd-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-02-24 10:41 ansible-pptpd-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-02-24 10:41 ansible-pptpd-master/examples/roles/azavea.pptpd -> ../../
+-rw-rw-r-- root/root        57 2015-02-24 10:41 ansible-pptpd-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-02-24 10:41 ansible-pptpd-master/handlers/
+-rw-rw-r-- root/root        64 2015-02-24 10:41 ansible-pptpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-24 10:41 ansible-pptpd-master/meta/
+-rw-rw-r-- root/root       301 2015-02-24 10:41 ansible-pptpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-24 10:41 ansible-pptpd-master/tasks/
+-rw-rw-r-- root/root       916 2015-02-24 10:41 ansible-pptpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-24 10:41 ansible-pptpd-master/templates/
+-rw-rw-r-- root/root       194 2015-02-24 10:41 ansible-pptpd-master/templates/chap-secrets.j2
+-rw-rw-r-- root/root      4121 2015-02-24 10:41 ansible-pptpd-master/templates/pptpd-options.j2
+-rw-rw-r-- root/root      2883 2015-02-24 10:41 ansible-pptpd-master/templates/pptpd.conf.j2

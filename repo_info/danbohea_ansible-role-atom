@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-11 14:00 ansible-role-atom-master/
+-rw-rw-r-- root/root      1095 2018-11-11 14:00 ansible-role-atom-master/.travis.yml
+-rw-rw-r-- root/root      1290 2018-11-11 14:00 ansible-role-atom-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 14:00 ansible-role-atom-master/defaults/
+-rw-rw-r-- root/root       403 2018-11-11 14:00 ansible-role-atom-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 14:00 ansible-role-atom-master/meta/
+-rw-rw-r-- root/root       322 2018-11-11 14:00 ansible-role-atom-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 14:00 ansible-role-atom-master/tasks/
+-rw-rw-r-- root/root       732 2018-11-11 14:00 ansible-role-atom-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 14:00 ansible-role-atom-master/tests/
+-rw-rw-r-- root/root        10 2018-11-11 14:00 ansible-role-atom-master/tests/inventory
+-rw-rw-r-- root/root       173 2018-11-11 14:00 ansible-role-atom-master/tests/test.yml

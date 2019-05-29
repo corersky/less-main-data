@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-06-23 09:38 ansible-nginx-unicorn-master/
+-rw-rw-r-- root/root      1086 2015-06-23 09:38 ansible-nginx-unicorn-master/LICENSE
+-rw-rw-r-- root/root      2803 2015-06-23 09:38 ansible-nginx-unicorn-master/README.md
+drwxrwxr-x root/root         0 2015-06-23 09:38 ansible-nginx-unicorn-master/defaults/
+-rw-rw-r-- root/root        53 2015-06-23 09:38 ansible-nginx-unicorn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-23 09:38 ansible-nginx-unicorn-master/handlers/
+-rw-rw-r-- root/root        74 2015-06-23 09:38 ansible-nginx-unicorn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-23 09:38 ansible-nginx-unicorn-master/meta/
+-rw-rw-r-- root/root       373 2015-06-23 09:38 ansible-nginx-unicorn-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-23 09:38 ansible-nginx-unicorn-master/tasks/
+-rw-rw-r-- root/root       823 2015-06-23 09:38 ansible-nginx-unicorn-master/tasks/debian.yml
+-rw-rw-r-- root/root       126 2015-06-23 09:38 ansible-nginx-unicorn-master/tasks/main.yml
+-rw-rw-r-- root/root       264 2015-06-23 09:38 ansible-nginx-unicorn-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2015-06-23 09:38 ansible-nginx-unicorn-master/templates/
+-rw-rw-r-- root/root      3587 2015-06-23 09:38 ansible-nginx-unicorn-master/templates/nginx-site.j2
+-rw-rw-r-- root/root      1644 2015-06-23 09:38 ansible-nginx-unicorn-master/templates/nginx.conf.j2

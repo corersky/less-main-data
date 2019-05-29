@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-07-25 20:47 antigen_zsh.ansible_role-master/
+-rw-rw-r-- root/root      1056 2015-07-25 20:47 antigen_zsh.ansible_role-master/LICENSE
+-rw-rw-r-- root/root      1567 2015-07-25 20:47 antigen_zsh.ansible_role-master/README.md
+drwxrwxr-x root/root         0 2015-07-25 20:47 antigen_zsh.ansible_role-master/defaults/
+-rw-rw-r-- root/root       474 2015-07-25 20:47 antigen_zsh.ansible_role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-25 20:47 antigen_zsh.ansible_role-master/meta/
+-rw-rw-r-- root/root       219 2015-07-25 20:47 antigen_zsh.ansible_role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-25 20:47 antigen_zsh.ansible_role-master/tasks/
+-rw-rw-r-- root/root       389 2015-07-25 20:47 antigen_zsh.ansible_role-master/tasks/install.yml
+-rw-rw-r-- root/root       360 2015-07-25 20:47 antigen_zsh.ansible_role-master/tasks/main.yml
+-rw-rw-r-- root/root       906 2015-07-25 20:47 antigen_zsh.ansible_role-master/tasks/settings.yml
+drwxrwxr-x root/root         0 2015-07-25 20:47 antigen_zsh.ansible_role-master/templates/
+drwxrwxr-x root/root         0 2015-07-25 20:47 antigen_zsh.ansible_role-master/templates/home/
+-rw-rw-r-- root/root       135 2015-07-25 20:47 antigen_zsh.ansible_role-master/templates/home/zsh_aliases.j2
+-rw-rw-r-- root/root       194 2015-07-25 20:47 antigen_zsh.ansible_role-master/templates/home/zshenv.j2
+-rw-rw-r-- root/root       500 2015-07-25 20:47 antigen_zsh.ansible_role-master/templates/home/zshrc.j2
+-rw-rw-r-- root/root       394 2015-07-25 20:47 antigen_zsh.ansible_role-master/templates/home/zshrc_local.j2

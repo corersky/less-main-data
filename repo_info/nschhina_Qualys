@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-27 16:06 Qualys-master/
+-rw-rw-r-- root/root        22 2018-07-27 16:06 Qualys-master/.gitignore
+-rw-rw-r-- root/root      1076 2018-07-27 16:06 Qualys-master/LICENSE
+-rw-rw-r-- root/root        21 2018-07-27 16:06 Qualys-master/README.md
+drwxrwxr-x root/root         0 2018-07-27 16:06 Qualys-master/defaults/
+-rw-rw-r-- root/root       259 2018-07-27 16:06 Qualys-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-27 16:06 Qualys-master/handlers/
+-rw-rw-r-- root/root        50 2018-07-27 16:06 Qualys-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-27 16:06 Qualys-master/meta/
+-rw-rw-r-- root/root       380 2018-07-27 16:06 Qualys-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-27 16:06 Qualys-master/tasks/
+-rw-rw-r-- root/root       151 2018-07-27 16:06 Qualys-master/tasks/main.yml
+-rw-rw-r-- root/root       863 2018-07-27 16:06 Qualys-master/tasks/setup-Darwin.yml
+-rw-rw-r-- root/root       670 2018-07-27 16:06 Qualys-master/tasks/setup-Windows.yml

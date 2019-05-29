@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-09 13:43 ansible-role-apache-solr-master/
+-rw-rw-r-- root/root      1078 2016-03-09 13:43 ansible-role-apache-solr-master/LICENSE
+-rw-rw-r-- root/root      1257 2016-03-09 13:43 ansible-role-apache-solr-master/README.md
+drwxrwxr-x root/root         0 2016-03-09 13:43 ansible-role-apache-solr-master/defaults/
+-rw-rw-r-- root/root       180 2016-03-09 13:43 ansible-role-apache-solr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-09 13:43 ansible-role-apache-solr-master/handlers/
+-rw-rw-r-- root/root        70 2016-03-09 13:43 ansible-role-apache-solr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-09 13:43 ansible-role-apache-solr-master/meta/
+-rw-rw-r-- root/root      1569 2016-03-09 13:43 ansible-role-apache-solr-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-09 13:43 ansible-role-apache-solr-master/tasks/
+-rw-rw-r-- root/root      1331 2016-03-09 13:43 ansible-role-apache-solr-master/tasks/Debian.yml
+-rw-rw-r-- root/root       741 2016-03-09 13:43 ansible-role-apache-solr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-09 13:43 ansible-role-apache-solr-master/templates/
+drwxrwxr-x root/root         0 2016-03-09 13:43 ansible-role-apache-solr-master/templates/Debian/
+-rw-rw-r-- root/root      5120 2016-03-09 13:43 ansible-role-apache-solr-master/templates/Debian/solr.in.sh.j2
+-rw-rw-r-- root/root      1002 2016-03-09 13:43 ansible-role-apache-solr-master/templates/log4j.properties.j2

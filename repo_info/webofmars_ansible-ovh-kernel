@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-11 05:18 ansible-ovh-kernel-master/
+-rw-rw-r-- root/root        24 2017-09-11 05:18 ansible-ovh-kernel-master/.gitignore
+-rw-rw-r-- root/root       539 2017-09-11 05:18 ansible-ovh-kernel-master/.travis.yml
+-rw-rw-r-- root/root       834 2017-09-11 05:18 ansible-ovh-kernel-master/README.md
+drwxrwxr-x root/root         0 2017-09-11 05:18 ansible-ovh-kernel-master/defaults/
+-rw-rw-r-- root/root       396 2017-09-11 05:18 ansible-ovh-kernel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-11 05:18 ansible-ovh-kernel-master/handlers/
+-rw-rw-r-- root/root        35 2017-09-11 05:18 ansible-ovh-kernel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-11 05:18 ansible-ovh-kernel-master/meta/
+-rw-rw-r-- root/root      4034 2017-09-11 05:18 ansible-ovh-kernel-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-11 05:18 ansible-ovh-kernel-master/tasks/
+-rw-rw-r-- root/root      1180 2017-09-11 05:18 ansible-ovh-kernel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-11 05:18 ansible-ovh-kernel-master/tests/
+-rw-rw-r-- root/root         9 2017-09-11 05:18 ansible-ovh-kernel-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-09-11 05:18 ansible-ovh-kernel-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-11 05:18 ansible-ovh-kernel-master/vars/
+-rw-rw-r-- root/root       500 2017-09-11 05:18 ansible-ovh-kernel-master/vars/main.yml

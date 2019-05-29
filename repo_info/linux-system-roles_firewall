@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-11 09:09 firewall-master/
+-rw-rw-r-- root/root     18092 2018-07-11 09:09 firewall-master/COPYING
+-rw-rw-r-- root/root      5392 2018-07-11 09:09 firewall-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 09:09 firewall-master/defaults/
+-rw-rw-r-- root/root        55 2018-07-11 09:09 firewall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-11 09:09 firewall-master/library/
+-rwxrwxr-x root/root     23127 2018-07-11 09:09 firewall-master/library/firewall_lib.py
+drwxrwxr-x root/root         0 2018-07-11 09:09 firewall-master/meta/
+-rw-rw-r-- root/root       346 2018-07-11 09:09 firewall-master/meta/main.yml
+-rwxrwxr-x root/root       374 2018-07-11 09:09 firewall-master/semaphore
+drwxrwxr-x root/root         0 2018-07-11 09:09 firewall-master/tasks/
+-rw-rw-r-- root/root       400 2018-07-11 09:09 firewall-master/tasks/firewalld.yml
+-rw-rw-r-- root/root      1001 2018-07-11 09:09 firewall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-11 09:09 firewall-master/tests/
+drwxrwxr-x root/root         0 2018-07-11 09:09 firewall-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-07-11 09:09 firewall-master/tests/roles/firewall -> ../..
+-rw-rw-r-- root/root        98 2018-07-11 09:09 firewall-master/tests/tests_default.yml

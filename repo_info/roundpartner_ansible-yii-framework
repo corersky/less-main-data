@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-11 13:20 ansible-yii-framework-master/
+-rw-rw-r-- root/root       217 2018-11-11 13:20 ansible-yii-framework-master/.editorconfig
+-rw-rw-r-- root/root         9 2018-11-11 13:20 ansible-yii-framework-master/.gitignore
+-rw-rw-r-- root/root      1265 2018-11-11 13:20 ansible-yii-framework-master/.travis.yml
+-rw-rw-r-- root/root       404 2018-11-11 13:20 ansible-yii-framework-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 13:20 ansible-yii-framework-master/defaults/
+-rw-rw-r-- root/root       132 2018-11-11 13:20 ansible-yii-framework-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 13:20 ansible-yii-framework-master/meta/
+-rw-rw-r-- root/root      3982 2018-11-11 13:20 ansible-yii-framework-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 13:20 ansible-yii-framework-master/tasks/
+-rw-rw-r-- root/root       361 2018-11-11 13:20 ansible-yii-framework-master/tasks/install.yml
+-rw-rw-r-- root/root       371 2018-11-11 13:20 ansible-yii-framework-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 13:20 ansible-yii-framework-master/tests/
+-rw-rw-r-- root/root        10 2018-11-11 13:20 ansible-yii-framework-master/tests/inventory
+-rw-rw-r-- root/root       139 2018-11-11 13:20 ansible-yii-framework-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-25 14:56 ansible-role-docker-php-master/
+-rw-rw-r-- root/root         7 2017-01-25 14:56 ansible-role-docker-php-master/.gitignore
+-rw-rw-r-- root/root       986 2017-01-25 14:56 ansible-role-docker-php-master/.travis.yml
+-rw-rw-r-- root/root      1079 2017-01-25 14:56 ansible-role-docker-php-master/LICENSE.txt
+-rw-rw-r-- root/root       406 2017-01-25 14:56 ansible-role-docker-php-master/README.md
+drwxrwxr-x root/root         0 2017-01-25 14:56 ansible-role-docker-php-master/defaults/
+-rw-rw-r-- root/root       129 2017-01-25 14:56 ansible-role-docker-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-25 14:56 ansible-role-docker-php-master/handlers/
+-rw-rw-r-- root/root       713 2017-01-25 14:56 ansible-role-docker-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-25 14:56 ansible-role-docker-php-master/meta/
+-rw-rw-r-- root/root       324 2017-01-25 14:56 ansible-role-docker-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-25 14:56 ansible-role-docker-php-master/tasks/
+-rw-rw-r-- root/root       380 2017-01-25 14:56 ansible-role-docker-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-25 14:56 ansible-role-docker-php-master/tests/
+-rw-rw-r-- root/root        89 2017-01-25 14:56 ansible-role-docker-php-master/tests/role.yml
+-rw-rw-r-- root/root        83 2017-01-25 14:56 ansible-role-docker-php-master/tests/test-local-inventory
+-rw-rw-r-- root/root        97 2017-01-25 14:56 ansible-role-docker-php-master/tests/test-local.yml

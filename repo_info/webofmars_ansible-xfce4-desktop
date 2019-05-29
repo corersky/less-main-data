@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-13 05:30 ansible-xfce4-desktop-master/
+-rw-rw-r-- root/root       925 2017-02-13 05:30 ansible-xfce4-desktop-master/.travis.yml
+-rw-rw-r-- root/root     35141 2017-02-13 05:30 ansible-xfce4-desktop-master/LICENSE
+-rw-rw-r-- root/root      1138 2017-02-13 05:30 ansible-xfce4-desktop-master/README.md
+drwxrwxr-x root/root         0 2017-02-13 05:30 ansible-xfce4-desktop-master/defaults/
+-rw-rw-r-- root/root         4 2017-02-13 05:30 ansible-xfce4-desktop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-13 05:30 ansible-xfce4-desktop-master/meta/
+-rw-rw-r-- root/root      1550 2017-02-13 05:30 ansible-xfce4-desktop-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-13 05:30 ansible-xfce4-desktop-master/tasks/
+-rw-rw-r-- root/root       634 2017-02-13 05:30 ansible-xfce4-desktop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-13 05:30 ansible-xfce4-desktop-master/tests/
+-rw-rw-r-- root/root         9 2017-02-13 05:30 ansible-xfce4-desktop-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-02-13 05:30 ansible-xfce4-desktop-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-13 05:30 ansible-xfce4-desktop-master/vars/
+-rw-rw-r-- root/root       165 2017-02-13 05:30 ansible-xfce4-desktop-master/vars/Debian.yml
+-rw-rw-r-- root/root       162 2017-02-13 05:30 ansible-xfce4-desktop-master/vars/Ubuntu.yml

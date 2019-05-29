@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-02 08:13 ansible-erlang-master/
+-rw-rw-r-- root/root        18 2018-11-02 08:13 ansible-erlang-master/.gitignore
+-rw-rw-r-- root/root       983 2018-11-02 08:13 ansible-erlang-master/.travis.yml
+-rw-rw-r-- root/root      1070 2018-11-02 08:13 ansible-erlang-master/LICENSE
+-rw-rw-r-- root/root      1037 2018-11-02 08:13 ansible-erlang-master/README.md
+-rw-rw-r-- root/root      1071 2018-11-02 08:13 ansible-erlang-master/Vagrantfile
+-rw-rw-r-- root/root        81 2018-11-02 08:13 ansible-erlang-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-11-02 08:13 ansible-erlang-master/defaults/
+-rw-rw-r-- root/root       361 2018-11-02 08:13 ansible-erlang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-02 08:13 ansible-erlang-master/meta/
+-rw-rw-r-- root/root       250 2018-11-02 08:13 ansible-erlang-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-02 08:13 ansible-erlang-master/tasks/
+-rw-rw-r-- root/root      1267 2018-11-02 08:13 ansible-erlang-master/tasks/install.yml
+-rw-rw-r-- root/root        59 2018-11-02 08:13 ansible-erlang-master/tasks/main.yml
+-rw-rw-r-- root/root        89 2018-11-02 08:13 ansible-erlang-master/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-09 21:35 ansible-role-hermes-master/
+-rw-rw-r-- root/root       331 2019-03-09 21:35 ansible-role-hermes-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-03-09 21:35 ansible-role-hermes-master/COPYING
+-rw-rw-r-- root/root      2775 2019-03-09 21:35 ansible-role-hermes-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 21:35 ansible-role-hermes-master/defaults/
+-rw-rw-r-- root/root       106 2019-03-09 21:35 ansible-role-hermes-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:35 ansible-role-hermes-master/meta/
+-rw-rw-r-- root/root       263 2019-03-09 21:35 ansible-role-hermes-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:35 ansible-role-hermes-master/tasks/
+-rw-rw-r-- root/root       693 2019-03-09 21:35 ansible-role-hermes-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 21:35 ansible-role-hermes-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 21:35 ansible-role-hermes-master/tests/inventory
+-rw-rw-r-- root/root        82 2019-03-09 21:35 ansible-role-hermes-master/tests/test.yml

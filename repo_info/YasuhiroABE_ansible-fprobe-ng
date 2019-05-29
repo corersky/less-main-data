@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-01 17:02 ansible-fprobe-ng-master/
+-rw-rw-r-- root/root         3 2017-10-01 17:02 ansible-fprobe-ng-master/.gitignore
+-rw-rw-r-- root/root       572 2017-10-01 17:02 ansible-fprobe-ng-master/LICENSE
+-rw-rw-r-- root/root      1165 2017-10-01 17:02 ansible-fprobe-ng-master/README.md
+drwxrwxr-x root/root         0 2017-10-01 17:02 ansible-fprobe-ng-master/defaults/
+-rw-rw-r-- root/root       180 2017-10-01 17:02 ansible-fprobe-ng-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-01 17:02 ansible-fprobe-ng-master/handlers/
+-rw-rw-r-- root/root       401 2017-10-01 17:02 ansible-fprobe-ng-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-01 17:02 ansible-fprobe-ng-master/meta/
+-rw-rw-r-- root/root      1223 2017-10-01 17:02 ansible-fprobe-ng-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-01 17:02 ansible-fprobe-ng-master/tasks/
+-rw-rw-r-- root/root      1356 2017-10-01 17:02 ansible-fprobe-ng-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-01 17:02 ansible-fprobe-ng-master/tests/
+-rw-rw-r-- root/root        11 2017-10-01 17:02 ansible-fprobe-ng-master/tests/inventory
+-rw-rw-r-- root/root        87 2017-10-01 17:02 ansible-fprobe-ng-master/tests/test.yml

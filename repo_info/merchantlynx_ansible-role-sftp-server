@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-18 09:00 ansible-role-sftp-server-master/
+-rw-rw-r-- root/root       451 2019-03-18 09:00 ansible-role-sftp-server-master/README.md
+drwxrwxr-x root/root         0 2019-03-18 09:00 ansible-role-sftp-server-master/defaults/
+-rw-rw-r-- root/root       163 2019-03-18 09:00 ansible-role-sftp-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-18 09:00 ansible-role-sftp-server-master/handlers/
+-rw-rw-r-- root/root       105 2019-03-18 09:00 ansible-role-sftp-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-18 09:00 ansible-role-sftp-server-master/meta/
+-rw-rw-r-- root/root       405 2019-03-18 09:00 ansible-role-sftp-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-18 09:00 ansible-role-sftp-server-master/tasks/
+-rw-rw-r-- root/root      3263 2019-03-18 09:00 ansible-role-sftp-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-18 09:00 ansible-role-sftp-server-master/tests/
+-rw-rw-r-- root/root        11 2019-03-18 09:00 ansible-role-sftp-server-master/tests/inventory
+-rw-rw-r-- root/root        69 2019-03-18 09:00 ansible-role-sftp-server-master/tests/test.yml

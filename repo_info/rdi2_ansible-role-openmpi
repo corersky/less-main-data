@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/
+-rw-rw-r-- root/root        28 2015-12-09 20:30 ansible-role-openmpi-master/.gitignore
+-rw-rw-r-- root/root       642 2015-12-09 20:30 ansible-role-openmpi-master/README.md
+drwxrwxr-x root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/defaults/
+-rw-rw-r-- root/root       213 2015-12-09 20:30 ansible-role-openmpi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/examples/
+-rw-rw-r-- root/root       279 2015-12-09 20:30 ansible-role-openmpi-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/examples/roles/rdi2sys.openmpi -> ../../
+-rw-rw-r-- root/root        60 2015-12-09 20:30 ansible-role-openmpi-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/handlers/
+-rw-rw-r-- root/root        32 2015-12-09 20:30 ansible-role-openmpi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/meta/
+-rw-rw-r-- root/root      2373 2015-12-09 20:30 ansible-role-openmpi-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/tasks/
+-rw-rw-r-- root/root       757 2015-12-09 20:30 ansible-role-openmpi-master/tasks/install.yml
+-rw-rw-r-- root/root       382 2015-12-09 20:30 ansible-role-openmpi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-09 20:30 ansible-role-openmpi-master/vars/
+-rw-rw-r-- root/root        28 2015-12-09 20:30 ansible-role-openmpi-master/vars/main.yml

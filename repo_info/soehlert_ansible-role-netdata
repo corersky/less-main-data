@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-11-17 22:07 ansible-role-netdata-master/
+-rw-rw-r-- root/root      2308 2016-11-17 22:07 ansible-role-netdata-master/.travis.yml
+-rw-rw-r-- root/root       672 2016-11-17 22:07 ansible-role-netdata-master/README.md
+drwxrwxr-x root/root         0 2016-11-17 22:07 ansible-role-netdata-master/defaults/
+-rw-rw-r-- root/root        32 2016-11-17 22:07 ansible-role-netdata-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-17 22:07 ansible-role-netdata-master/handlers/
+-rw-rw-r-- root/root        82 2016-11-17 22:07 ansible-role-netdata-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-17 22:07 ansible-role-netdata-master/meta/
+-rw-rw-r-- root/root       680 2016-11-17 22:07 ansible-role-netdata-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-17 22:07 ansible-role-netdata-master/tasks/
+-rw-rw-r-- root/root      1577 2016-11-17 22:07 ansible-role-netdata-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-17 22:07 ansible-role-netdata-master/tests/
+-rw-rw-r-- root/root        10 2016-11-17 22:07 ansible-role-netdata-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-11-17 22:07 ansible-role-netdata-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-17 22:07 ansible-role-netdata-master/vars/
+-rw-rw-r-- root/root        28 2016-11-17 22:07 ansible-role-netdata-master/vars/main.yml

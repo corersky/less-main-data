@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-26 09:53 ansible-mailpile-master/
+-rw-rw-r-- root/root        31 2015-06-26 09:53 ansible-mailpile-master/.gitignore
+-rw-rw-r-- root/root      1075 2015-06-26 09:53 ansible-mailpile-master/LICENSE
+-rw-rw-r-- root/root      1318 2015-06-26 09:53 ansible-mailpile-master/README.md
+-rw-rw-r-- root/root       273 2015-06-26 09:53 ansible-mailpile-master/Vagrantfile
+-rw-rw-r-- root/root        43 2015-06-26 09:53 ansible-mailpile-master/ansible.cfg
+drwxrwxr-x root/root         0 2015-06-26 09:53 ansible-mailpile-master/defaults/
+-rw-rw-r-- root/root       334 2015-06-26 09:53 ansible-mailpile-master/defaults/main.yml
+-rw-rw-r-- root/root       115 2015-06-26 09:53 ansible-mailpile-master/mailpile.yml
+drwxrwxr-x root/root         0 2015-06-26 09:53 ansible-mailpile-master/meta/
+-rw-rw-r-- root/root      2000 2015-06-26 09:53 ansible-mailpile-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-26 09:53 ansible-mailpile-master/tasks/
+-rw-rw-r-- root/root       797 2015-06-26 09:53 ansible-mailpile-master/tasks/dependencies.yml
+-rw-rw-r-- root/root        53 2015-06-26 09:53 ansible-mailpile-master/tasks/main.yml
+-rw-rw-r-- root/root       794 2015-06-26 09:53 ansible-mailpile-master/tasks/setup.yml

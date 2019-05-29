@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/
+-rw-rw-r-- root/root      1018 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/.travis.yml
+-rw-rw-r-- root/root       117 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/defaults/
+-rw-rw-r-- root/root       145 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/handlers/
+-rw-rw-r-- root/root        67 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/meta/
+-rw-rw-r-- root/root       338 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/tasks/
+-rw-rw-r-- root/root       565 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/templates/
+-rw-rw-r-- root/root      6737 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/templates/server.xml.j2
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/tests/inventory
+-rw-rw-r-- root/root       197 2016-01-26 08:15 ansible-role-openapphack-tomcat6-master/tests/test.yml

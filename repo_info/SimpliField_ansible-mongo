@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-03 03:55 ansible-mongo-master/
+-rw-rw-r-- root/root       530 2019-04-03 03:55 ansible-mongo-master/.travis.yml
+-rw-rw-r-- root/root      1428 2019-04-03 03:55 ansible-mongo-master/Makefile
+-rw-rw-r-- root/root       905 2019-04-03 03:55 ansible-mongo-master/README.md
+drwxrwxr-x root/root         0 2019-04-03 03:55 ansible-mongo-master/defaults/
+-rw-rw-r-- root/root       198 2019-04-03 03:55 ansible-mongo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-03 03:55 ansible-mongo-master/handlers/
+-rw-rw-r-- root/root       188 2019-04-03 03:55 ansible-mongo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-03 03:55 ansible-mongo-master/meta/
+-rw-rw-r-- root/root       400 2019-04-03 03:55 ansible-mongo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-03 03:55 ansible-mongo-master/tasks/
+-rw-rw-r-- root/root      3097 2019-04-03 03:55 ansible-mongo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-03 03:55 ansible-mongo-master/templates/
+-rw-rw-r-- root/root       398 2019-04-03 03:55 ansible-mongo-master/templates/mongod.conf.j2
+drwxrwxr-x root/root         0 2019-04-03 03:55 ansible-mongo-master/tests/
+-rw-rw-r-- root/root         9 2019-04-03 03:55 ansible-mongo-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-04-03 03:55 ansible-mongo-master/tests/test.yml

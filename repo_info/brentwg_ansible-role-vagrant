@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-10 23:54 ansible-role-vagrant-master/
+-rw-rw-r-- root/root        34 2018-03-10 23:54 ansible-role-vagrant-master/.gitignore
+-rw-rw-r-- root/root       637 2018-03-10 23:54 ansible-role-vagrant-master/.travis.yml
+-rw-rw-r-- root/root       875 2018-03-10 23:54 ansible-role-vagrant-master/README.md
+drwxrwxr-x root/root         0 2018-03-10 23:54 ansible-role-vagrant-master/defaults/
+-rw-rw-r-- root/root       108 2018-03-10 23:54 ansible-role-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-10 23:54 ansible-role-vagrant-master/meta/
+-rw-rw-r-- root/root       448 2018-03-10 23:54 ansible-role-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-10 23:54 ansible-role-vagrant-master/tasks/
+-rw-rw-r-- root/root       183 2018-03-10 23:54 ansible-role-vagrant-master/tasks/CentOS.yml
+-rw-rw-r-- root/root       183 2018-03-10 23:54 ansible-role-vagrant-master/tasks/Fedora.yml
+-rw-rw-r-- root/root       167 2018-03-10 23:54 ansible-role-vagrant-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       301 2018-03-10 23:54 ansible-role-vagrant-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-10 23:54 ansible-role-vagrant-master/tests/
+-rw-rw-r-- root/root       632 2018-03-10 23:54 ansible-role-vagrant-master/tests/README.md
+-rw-rw-r-- root/root       525 2018-03-10 23:54 ansible-role-vagrant-master/tests/test.yml

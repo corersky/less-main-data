@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-28 16:41 ansible-role-openssh-server-master/
+-rw-rw-r-- root/root      1514 2018-07-28 16:41 ansible-role-openssh-server-master/LICENSE
+-rw-rw-r-- root/root        61 2018-07-28 16:41 ansible-role-openssh-server-master/README.md
+drwxrwxr-x root/root         0 2018-07-28 16:41 ansible-role-openssh-server-master/defaults/
+-rw-rw-r-- root/root        50 2018-07-28 16:41 ansible-role-openssh-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:41 ansible-role-openssh-server-master/files/
+-rw-rw-r-- root/root        82 2018-07-28 16:41 ansible-role-openssh-server-master/files/rc.local
+drwxrwxr-x root/root         0 2018-07-28 16:41 ansible-role-openssh-server-master/meta/
+-rw-rw-r-- root/root       438 2018-07-28 16:41 ansible-role-openssh-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:41 ansible-role-openssh-server-master/tasks/
+-rw-rw-r-- root/root      1305 2018-07-28 16:41 ansible-role-openssh-server-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2018-07-28 16:41 ansible-role-openssh-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:41 ansible-role-openssh-server-master/templates/
+-rw-rw-r-- root/root      1272 2018-07-28 16:41 ansible-role-openssh-server-master/templates/sshd_config.j2

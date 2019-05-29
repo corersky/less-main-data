@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-24 17:16 ansible-consul-alerts-master/
+-rw-rw-r-- root/root      1065 2017-04-24 17:16 ansible-consul-alerts-master/LICENSE
+-rw-rw-r-- root/root        95 2017-04-24 17:16 ansible-consul-alerts-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 17:16 ansible-consul-alerts-master/defaults/
+-rw-rw-r-- root/root       161 2017-04-24 17:16 ansible-consul-alerts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-24 17:16 ansible-consul-alerts-master/handlers/
+-rw-rw-r-- root/root       164 2017-04-24 17:16 ansible-consul-alerts-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-24 17:16 ansible-consul-alerts-master/meta/
+-rw-rw-r-- root/root       298 2017-04-24 17:16 ansible-consul-alerts-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 17:16 ansible-consul-alerts-master/tasks/
+-rw-rw-r-- root/root      1107 2017-04-24 17:16 ansible-consul-alerts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 17:16 ansible-consul-alerts-master/templates/
+-rw-rw-r-- root/root       144 2017-04-24 17:16 ansible-consul-alerts-master/templates/consul-alerts.j2
+-rw-rw-r-- root/root       567 2017-04-24 17:16 ansible-consul-alerts-master/templates/consul-alerts.service.j2
+drwxrwxr-x root/root         0 2017-04-24 17:16 ansible-consul-alerts-master/vars/
+-rw-rw-r-- root/root        57 2017-04-24 17:16 ansible-consul-alerts-master/vars/main.yml

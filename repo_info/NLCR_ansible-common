@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-29 09:43 ansible-common-master/
+-rw-rw-r-- root/root         6 2017-08-29 09:43 ansible-common-master/.gitignore
+-rw-rw-r-- root/root       539 2017-08-29 09:43 ansible-common-master/.travis.yml
+-rw-rw-r-- root/root      1121 2017-08-29 09:43 ansible-common-master/README.md
+drwxrwxr-x root/root         0 2017-08-29 09:43 ansible-common-master/defaults/
+-rw-rw-r-- root/root       291 2017-08-29 09:43 ansible-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-29 09:43 ansible-common-master/handlers/
+-rw-rw-r-- root/root       135 2017-08-29 09:43 ansible-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-29 09:43 ansible-common-master/meta/
+-rw-rw-r-- root/root      3540 2017-08-29 09:43 ansible-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-29 09:43 ansible-common-master/tasks/
+-rw-rw-r-- root/root       356 2017-08-29 09:43 ansible-common-master/tasks/common-tasks.yml
+-rw-rw-r-- root/root       215 2017-08-29 09:43 ansible-common-master/tasks/main.yml
+-rw-rw-r-- root/root       477 2017-08-29 09:43 ansible-common-master/tasks/ntp-RedHat.yml
+-rw-rw-r-- root/root       425 2017-08-29 09:43 ansible-common-master/tasks/ntp-Suse.yml
+-rw-rw-r-- root/root       517 2017-08-29 09:43 ansible-common-master/tasks/provision-RedHat.yml
+-rw-rw-r-- root/root       244 2017-08-29 09:43 ansible-common-master/tasks/provision-Suse.yml

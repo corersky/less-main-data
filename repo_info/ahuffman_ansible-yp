@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-07 11:55 ansible-yp-master/
+-rw-rw-r-- root/root      1083 2019-01-07 11:55 ansible-yp-master/LICENSE
+-rw-rw-r-- root/root      1472 2019-01-07 11:55 ansible-yp-master/README.md
+drwxrwxr-x root/root         0 2019-01-07 11:55 ansible-yp-master/defaults/
+-rw-rw-r-- root/root       149 2019-01-07 11:55 ansible-yp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-07 11:55 ansible-yp-master/handlers/
+-rw-rw-r-- root/root       157 2019-01-07 11:55 ansible-yp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-07 11:55 ansible-yp-master/meta/
+-rw-rw-r-- root/root      3320 2019-01-07 11:55 ansible-yp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-07 11:55 ansible-yp-master/tasks/
+-rw-rw-r-- root/root       443 2019-01-07 11:55 ansible-yp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-07 11:55 ansible-yp-master/templates/
+-rw-rw-r-- root/root      1029 2019-01-07 11:55 ansible-yp-master/templates/yp.conf.j2
+drwxrwxr-x root/root         0 2019-01-07 11:55 ansible-yp-master/vars/
+-rw-rw-r-- root/root        48 2019-01-07 11:55 ansible-yp-master/vars/main.yml

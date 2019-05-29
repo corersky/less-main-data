@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-11-21 13:12 ansible-role-modcloth-barman-master/
+-rw-rw-r-- root/root       879 2014-11-21 13:12 ansible-role-modcloth-barman-master/README.md
+drwxrwxr-x root/root         0 2014-11-21 13:12 ansible-role-modcloth-barman-master/defaults/
+-rw-rw-r-- root/root      1475 2014-11-21 13:12 ansible-role-modcloth-barman-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-21 13:12 ansible-role-modcloth-barman-master/handlers/
+-rw-rw-r-- root/root        40 2014-11-21 13:12 ansible-role-modcloth-barman-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-21 13:12 ansible-role-modcloth-barman-master/meta/
+-rw-rw-r-- root/root       296 2014-11-21 13:12 ansible-role-modcloth-barman-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-21 13:12 ansible-role-modcloth-barman-master/tasks/
+-rw-rw-r-- root/root      2565 2014-11-21 13:12 ansible-role-modcloth-barman-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-21 13:12 ansible-role-modcloth-barman-master/templates/
+-rw-rw-r-- root/root       764 2014-11-21 13:12 ansible-role-modcloth-barman-master/templates/barman.conf.j2
+-rw-rw-r-- root/root       316 2014-11-21 13:12 ansible-role-modcloth-barman-master/templates/ssh_config.j2
+drwxrwxr-x root/root         0 2014-11-21 13:12 ansible-role-modcloth-barman-master/vars/
+-rw-rw-r-- root/root        36 2014-11-21 13:12 ansible-role-modcloth-barman-master/vars/main.yml

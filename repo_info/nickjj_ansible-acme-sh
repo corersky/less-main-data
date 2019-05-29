@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-29 18:06 ansible-acme-sh-master/
+-rw-rw-r-- root/root        62 2018-09-29 18:06 ansible-acme-sh-master/.gitignore
+-rw-rw-r-- root/root       344 2018-09-29 18:06 ansible-acme-sh-master/.travis.yml
+-rwxrwxr-x root/root        76 2018-09-29 18:06 ansible-acme-sh-master/CHANGES.md
+-rw-rw-r-- root/root      1106 2018-09-29 18:06 ansible-acme-sh-master/LICENSE
+-rw-rw-r-- root/root     16800 2018-09-29 18:06 ansible-acme-sh-master/README.md
+drwxrwxr-x root/root         0 2018-09-29 18:06 ansible-acme-sh-master/defaults/
+-rw-rw-r-- root/root      1008 2018-09-29 18:06 ansible-acme-sh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-29 18:06 ansible-acme-sh-master/meta/
+-rw-rw-r-- root/root       522 2018-09-29 18:06 ansible-acme-sh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-29 18:06 ansible-acme-sh-master/tasks/
+-rw-rw-r-- root/root      8990 2018-09-29 18:06 ansible-acme-sh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-29 18:06 ansible-acme-sh-master/tests/
+-rw-rw-r-- root/root       838 2018-09-29 18:06 ansible-acme-sh-master/tests/test.yml

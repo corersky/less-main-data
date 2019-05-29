@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-23 18:56 ansible-role-osquery-master/
+-rw-rw-r-- root/root         8 2019-03-23 18:56 ansible-role-osquery-master/.gitignore
+-rw-rw-r-- root/root      1926 2019-03-23 18:56 ansible-role-osquery-master/README.md
+drwxrwxr-x root/root         0 2019-03-23 18:56 ansible-role-osquery-master/defaults/
+-rw-rw-r-- root/root       668 2019-03-23 18:56 ansible-role-osquery-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-23 18:56 ansible-role-osquery-master/handlers/
+-rw-rw-r-- root/root       102 2019-03-23 18:56 ansible-role-osquery-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-23 18:56 ansible-role-osquery-master/meta/
+-rw-rw-r-- root/root       447 2019-03-23 18:56 ansible-role-osquery-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-23 18:56 ansible-role-osquery-master/tasks/
+-rw-rw-r-- root/root      1273 2019-03-23 18:56 ansible-role-osquery-master/tasks/main.yml
+-rw-rw-r-- root/root       909 2019-03-23 18:56 ansible-role-osquery-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       969 2019-03-23 18:56 ansible-role-osquery-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2019-03-23 18:56 ansible-role-osquery-master/templates/
+-rw-rw-r-- root/root      4163 2019-03-23 18:56 ansible-role-osquery-master/templates/osquery.conf.json
+-rw-rw-r-- root/root       252 2019-03-23 18:56 ansible-role-osquery-master/templates/sysctl.conf.j2

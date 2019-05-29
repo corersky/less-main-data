@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-14 01:01 ansible-role-jetty-master/
+-rw-rw-r-- root/root      1530 2019-05-14 01:01 ansible-role-jetty-master/.travis.yml
+-rw-rw-r-- root/root       805 2019-05-14 01:01 ansible-role-jetty-master/README.md
+drwxrwxr-x root/root         0 2019-05-14 01:01 ansible-role-jetty-master/defaults/
+-rw-rw-r-- root/root       247 2019-05-14 01:01 ansible-role-jetty-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-14 01:01 ansible-role-jetty-master/meta/
+-rw-rw-r-- root/root       306 2019-05-14 01:01 ansible-role-jetty-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-14 01:01 ansible-role-jetty-master/tasks/
+-rw-rw-r-- root/root       796 2019-05-14 01:01 ansible-role-jetty-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-14 01:01 ansible-role-jetty-master/tests/
+-rw-rw-r-- root/root      1024 2019-05-14 01:01 ansible-role-jetty-master/tests/dockerfile.centos
+-rw-rw-r-- root/root       247 2019-05-14 01:01 ansible-role-jetty-master/tests/dockerfile.debian
+-rw-rw-r-- root/root         9 2019-05-14 01:01 ansible-role-jetty-master/tests/inventory
+-rw-rw-r-- root/root        59 2019-05-14 01:01 ansible-role-jetty-master/tests/test.yml

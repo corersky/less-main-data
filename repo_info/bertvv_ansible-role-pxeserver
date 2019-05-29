@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/
+-rw-rw-r-- root/root       254 2018-06-27 07:18 ansible-role-pxeserver-master/.gitignore
+-rw-rw-r-- root/root       410 2018-06-27 07:18 ansible-role-pxeserver-master/CHANGELOG.md
+-rw-rw-r-- root/root      1340 2018-06-27 07:18 ansible-role-pxeserver-master/LICENSE.md
+-rw-rw-r-- root/root      3542 2018-06-27 07:18 ansible-role-pxeserver-master/README.md
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/defaults/
+-rw-rw-r-- root/root       215 2018-06-27 07:18 ansible-role-pxeserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/handlers/
+-rw-rw-r-- root/root       107 2018-06-27 07:18 ansible-role-pxeserver-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/meta/
+-rw-rw-r-- root/root       309 2018-06-27 07:18 ansible-role-pxeserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/tasks/
+-rw-rw-r-- root/root      3019 2018-06-27 07:18 ansible-role-pxeserver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/templates/
+-rw-rw-r-- root/root       377 2018-06-27 07:18 ansible-role-pxeserver-master/templates/etc_dhcp_dhcpd-pxelinux.conf.j2
+-rw-rw-r-- root/root       159 2018-06-27 07:18 ansible-role-pxeserver-master/templates/etc_exports
+-rw-rw-r-- root/root       288 2018-06-27 07:18 ansible-role-pxeserver-master/templates/etc_httpd_conf.d_pxeboot.conf
+-rw-rw-r-- root/root       719 2018-06-27 07:18 ansible-role-pxeserver-master/templates/pxelinux.cfg_default
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/tests/
+-rw-rw-r-- root/root       448 2018-06-27 07:18 ansible-role-pxeserver-master/tests/Vagrantfile
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/tests/roles/pxeserver -> ../..
+-rw-rw-r-- root/root       484 2018-06-27 07:18 ansible-role-pxeserver-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-27 07:18 ansible-role-pxeserver-master/vars/
+-rw-rw-r-- root/root       272 2018-06-27 07:18 ansible-role-pxeserver-master/vars/CentOS.yml

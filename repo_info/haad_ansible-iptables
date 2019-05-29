@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-18 10:19 ansible-iptables-master/
+-rw-rw-r-- root/root      1343 2016-08-18 10:19 ansible-iptables-master/README.md
+drwxrwxr-x root/root         0 2016-08-18 10:19 ansible-iptables-master/defaults/
+-rw-rw-r-- root/root         0 2016-08-18 10:19 ansible-iptables-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-18 10:19 ansible-iptables-master/handlers/
+-rw-rw-r-- root/root       124 2016-08-18 10:19 ansible-iptables-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-18 10:19 ansible-iptables-master/meta/
+-rw-rw-r-- root/root       306 2016-08-18 10:19 ansible-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-18 10:19 ansible-iptables-master/tasks/
+-rw-rw-r-- root/root       748 2016-08-18 10:19 ansible-iptables-master/tasks/centos.yml
+-rw-rw-r-- root/root       126 2016-08-18 10:19 ansible-iptables-master/tasks/main.yml
+-rw-rw-r-- root/root       563 2016-08-18 10:19 ansible-iptables-master/tasks/ubuntu.yml

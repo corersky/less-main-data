@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-05-05 15:15 role-jenkins-master/
+-rw-rw-r-- root/root      1329 2014-05-05 15:15 role-jenkins-master/README.md
+drwxrwxr-x root/root         0 2014-05-05 15:15 role-jenkins-master/defaults/
+-rw-rw-r-- root/root        92 2014-05-05 15:15 role-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-05-05 15:15 role-jenkins-master/files/
+-rw-rw-r-- root/root      7060 2014-05-05 15:15 role-jenkins-master/files/jenkins-ci.org.key
+drwxrwxr-x root/root         0 2014-05-05 15:15 role-jenkins-master/handlers/
+-rw-rw-r-- root/root       216 2014-05-05 15:15 role-jenkins-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-05 15:15 role-jenkins-master/meta/
+-rw-rw-r-- root/root       507 2014-05-05 15:15 role-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-05 15:15 role-jenkins-master/tasks/
+-rw-rw-r-- root/root      1951 2014-05-05 15:15 role-jenkins-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-05 15:15 role-jenkins-master/templates/
+-rw-rw-r-- root/root       135 2014-05-05 15:15 role-jenkins-master/templates/jenkins.repo
+drwxrwxr-x root/root         0 2014-05-05 15:15 role-jenkins-master/vars/
+-rw-rw-r-- root/root        28 2014-05-05 15:15 role-jenkins-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-02 13:26 ansible-baseline-master/
+-rw-rw-r-- root/root       539 2018-02-02 13:26 ansible-baseline-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-02-02 13:26 ansible-baseline-master/README.md
+drwxrwxr-x root/root         0 2018-02-02 13:26 ansible-baseline-master/defaults/
+-rw-rw-r-- root/root       237 2018-02-02 13:26 ansible-baseline-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-02 13:26 ansible-baseline-master/files/
+-rw-rw-r-- root/root       411 2018-02-02 13:26 ansible-baseline-master/files/ntp.conf
+drwxrwxr-x root/root         0 2018-02-02 13:26 ansible-baseline-master/meta/
+-rw-rw-r-- root/root       510 2018-02-02 13:26 ansible-baseline-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-02 13:26 ansible-baseline-master/tasks/
+-rw-rw-r-- root/root      3010 2018-02-02 13:26 ansible-baseline-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-02 13:26 ansible-baseline-master/tests/
+-rw-rw-r-- root/root         9 2018-02-02 13:26 ansible-baseline-master/tests/inventory
+-rw-rw-r-- root/root       153 2018-02-02 13:26 ansible-baseline-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-02 13:26 ansible-baseline-master/vars/
+-rw-rw-r-- root/root       112 2018-02-02 13:26 ansible-baseline-master/vars/main.yml

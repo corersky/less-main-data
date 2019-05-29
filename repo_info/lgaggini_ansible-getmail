@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-29 05:31 ansible-getmail-master/
+-rw-rw-r-- root/root     35147 2018-09-29 05:31 ansible-getmail-master/LICENSE
+-rw-rw-r-- root/root       935 2018-09-29 05:31 ansible-getmail-master/README.md
+drwxrwxr-x root/root         0 2018-09-29 05:31 ansible-getmail-master/defaults/
+-rw-rw-r-- root/root       484 2018-09-29 05:31 ansible-getmail-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-29 05:31 ansible-getmail-master/meta/
+-rw-rw-r-- root/root       353 2018-09-29 05:31 ansible-getmail-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-29 05:31 ansible-getmail-master/tasks/
+-rw-rw-r-- root/root      1285 2018-09-29 05:31 ansible-getmail-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-29 05:31 ansible-getmail-master/templates/
+-rw-rw-r-- root/root       272 2018-09-29 05:31 ansible-getmail-master/templates/getmail.service.j2
+-rw-rw-r-- root/root       227 2018-09-29 05:31 ansible-getmail-master/templates/getmail.timer.j2
+-rw-rw-r-- root/root       478 2018-09-29 05:31 ansible-getmail-master/templates/getmailrc.j2

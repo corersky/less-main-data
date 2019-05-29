@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-16 22:24 ansible-role-repo-puias-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:24 ansible-role-repo-puias-master/.gitignore
+-rw-rw-r-- root/root       524 2019-05-16 22:24 ansible-role-repo-puias-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:24 ansible-role-repo-puias-master/LICENSE
+-rw-rw-r-- root/root       589 2019-05-16 22:24 ansible-role-repo-puias-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:24 ansible-role-repo-puias-master/files/
+-rw-rw-r-- root/root       314 2019-05-16 22:24 ansible-role-repo-puias-master/files/PUIAS_6_computational.repo
+drwxrwxr-x root/root         0 2019-05-16 22:24 ansible-role-repo-puias-master/meta/
+-rw-rw-r-- root/root       374 2019-05-16 22:24 ansible-role-repo-puias-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:24 ansible-role-repo-puias-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:24 ansible-role-repo-puias-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:24 ansible-role-repo-puias-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        94 2019-05-16 22:24 ansible-role-repo-puias-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:24 ansible-role-repo-puias-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:24 ansible-role-repo-puias-master/tasks/
+-rw-rw-r-- root/root       338 2019-05-16 22:24 ansible-role-repo-puias-master/tasks/main.yml

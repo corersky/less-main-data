@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-06-21 06:30 ansible-apache2-master/
+-rw-rw-r-- root/root         9 2016-06-21 06:30 ansible-apache2-master/.gitignore
+-rw-rw-r-- root/root       421 2016-06-21 06:30 ansible-apache2-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-06-21 06:30 ansible-apache2-master/LICENSE
+-rw-rw-r-- root/root       450 2016-06-21 06:30 ansible-apache2-master/README.md
+drwxrwxr-x root/root         0 2016-06-21 06:30 ansible-apache2-master/defaults/
+-rw-rw-r-- root/root       101 2016-06-21 06:30 ansible-apache2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-21 06:30 ansible-apache2-master/examples/
+-rw-rw-r-- root/root       339 2016-06-21 06:30 ansible-apache2-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-06-21 06:30 ansible-apache2-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-06-21 06:30 ansible-apache2-master/examples/roles/azavea.apache2 -> ../../
+-rw-rw-r-- root/root       131 2016-06-21 06:30 ansible-apache2-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-06-21 06:30 ansible-apache2-master/handlers/
+-rw-rw-r-- root/root        67 2016-06-21 06:30 ansible-apache2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-21 06:30 ansible-apache2-master/meta/
+-rw-rw-r-- root/root       274 2016-06-21 06:30 ansible-apache2-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-21 06:30 ansible-apache2-master/tasks/
+-rw-rw-r-- root/root       671 2016-06-21 06:30 ansible-apache2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-21 06:30 ansible-apache2-master/templates/
+-rw-rw-r-- root/root       371 2016-06-21 06:30 ansible-apache2-master/templates/ports.conf.j2

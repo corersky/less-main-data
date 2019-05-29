@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-15 10:11 ansible-dhparam-master/
+-rw-rw-r-- root/root      1081 2019-02-15 10:11 ansible-dhparam-master/LICENSE
+-rw-rw-r-- root/root      1331 2019-02-15 10:11 ansible-dhparam-master/README.md
+drwxrwxr-x root/root         0 2019-02-15 10:11 ansible-dhparam-master/defaults/
+-rw-rw-r-- root/root       226 2019-02-15 10:11 ansible-dhparam-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-15 10:11 ansible-dhparam-master/meta/
+-rw-rw-r-- root/root       520 2019-02-15 10:11 ansible-dhparam-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-15 10:11 ansible-dhparam-master/tasks/
+-rw-rw-r-- root/root       393 2019-02-15 10:11 ansible-dhparam-master/tasks/cron.yml
+-rw-rw-r-- root/root       139 2019-02-15 10:11 ansible-dhparam-master/tasks/install.debian.yml
+-rw-rw-r-- root/root        90 2019-02-15 10:11 ansible-dhparam-master/tasks/install.freebsd.yml
+-rw-rw-r-- root/root       200 2019-02-15 10:11 ansible-dhparam-master/tasks/install.yml
+-rw-rw-r-- root/root       738 2019-02-15 10:11 ansible-dhparam-master/tasks/main.yml

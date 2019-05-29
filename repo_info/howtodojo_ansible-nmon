@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 18:54 ansible-nmon-master/
+-rw-rw-r-- root/root       812 2016-09-05 18:54 ansible-nmon-master/.travis.yml
+-rw-rw-r-- root/root       466 2016-09-05 18:54 ansible-nmon-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 18:54 ansible-nmon-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 18:54 ansible-nmon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:54 ansible-nmon-master/meta/
+-rw-rw-r-- root/root       306 2016-09-05 18:54 ansible-nmon-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:54 ansible-nmon-master/tasks/
+-rw-rw-r-- root/root       377 2016-09-05 18:54 ansible-nmon-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:54 ansible-nmon-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 18:54 ansible-nmon-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-09-05 18:54 ansible-nmon-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 18:54 ansible-nmon-master/vars/
+-rw-rw-r-- root/root        57 2016-09-05 18:54 ansible-nmon-master/vars/main.yml

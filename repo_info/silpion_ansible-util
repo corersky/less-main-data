@@ -1,0 +1,58 @@
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/.github/
+-rw-rw-r-- root/root       229 2017-05-15 05:35 ansible-util-master/.github/PULL_REQUEST_TEMPLATE.txt
+-rw-rw-r-- root/root       313 2017-05-15 05:35 ansible-util-master/.gitignore
+-rw-rw-r-- root/root        31 2017-05-15 05:35 ansible-util-master/.rspec
+-rw-rw-r-- root/root       405 2017-05-15 05:35 ansible-util-master/.travis.yml
+-rw-rw-r-- root/root      4102 2017-05-15 05:35 ansible-util-master/CHANGELOG.md
+-rw-rw-r-- root/root        59 2017-05-15 05:35 ansible-util-master/Gemfile
+-rw-rw-r-- root/root     11323 2017-05-15 05:35 ansible-util-master/LICENSE
+-rw-rw-r-- root/root     12539 2017-05-15 05:35 ansible-util-master/README.md
+-rw-rw-r-- root/root       934 2017-05-15 05:35 ansible-util-master/Rakefile
+-rw-rw-r-- root/root         4 2017-05-15 05:35 ansible-util-master/VERSION
+-rw-rw-r-- root/root      2807 2017-05-15 05:35 ansible-util-master/Vagrantfile
+-rw-rw-r-- root/root        98 2017-05-15 05:35 ansible-util-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/defaults/
+-rw-rw-r-- root/root      3062 2017-05-15 05:35 ansible-util-master/defaults/main.yml
+-rw-rw-r-- root/root       807 2017-05-15 05:35 ansible-util-master/envvars-vagrant-centos-7
+-rw-rw-r-- root/root       901 2017-05-15 05:35 ansible-util-master/envvars-vagrant.sample
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/meta/
+-rw-rw-r-- root/root       531 2017-05-15 05:35 ansible-util-master/meta/main.yml
+-rw-rw-r-- root/root        70 2017-05-15 05:35 ansible-util-master/requirements.yml
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/scripts/
+-rwxrwxr-x root/root      4296 2017-05-15 05:35 ansible-util-master/scripts/release.sh
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/spec/
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/spec/default/
+-rw-rw-r-- root/root      2636 2017-05-15 05:35 ansible-util-master/spec/default/util_spec.rb
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/spec/lib/
+-rw-rw-r-- root/root       586 2017-05-15 05:35 ansible-util-master/spec/lib/vagrant.rb
+-rw-rw-r-- root/root       278 2017-05-15 05:35 ansible-util-master/spec/spec_helper.rb
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/tasks/
+-rw-rw-r-- root/root      4723 2017-05-15 05:35 ansible-util-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/templates/
+-rw-rw-r-- root/root      1095 2017-05-15 05:35 ansible-util-master/templates/facts.j2
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/tests/
+-rw-rw-r-- root/root         9 2017-05-15 05:35 ansible-util-master/tests/hosts
+-rw-rw-r-- root/root       631 2017-05-15 05:35 ansible-util-master/tests/playbook.yml
+-rw-rw-r-- root/root        70 2017-05-15 05:35 ansible-util-master/tests/requirements.yml
+-rw-rw-r-- root/root       864 2017-05-15 05:35 ansible-util-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/vars/
+-rw-rw-r-- root/root       194 2017-05-15 05:35 ansible-util-master/vars/Archlinux.yml
+lrwxrwxrwx root/root         0 2017-05-15 05:35 ansible-util-master/vars/CentOS-5.yml -> CentOS-6.yml
+-rw-rw-r-- root/root        39 2017-05-15 05:35 ansible-util-master/vars/CentOS-6.yml
+-rw-rw-r-- root/root       342 2017-05-15 05:35 ansible-util-master/vars/CentOS.yml
+lrwxrwxrwx root/root         0 2017-05-15 05:35 ansible-util-master/vars/Debian-5.yml -> Debian-7.yml
+lrwxrwxrwx root/root         0 2017-05-15 05:35 ansible-util-master/vars/Debian-6.yml -> Debian-7.yml
+-rw-rw-r-- root/root        39 2017-05-15 05:35 ansible-util-master/vars/Debian-7.yml
+-rw-rw-r-- root/root       251 2017-05-15 05:35 ansible-util-master/vars/Debian.yml
+-rw-rw-r-- root/root        39 2017-05-15 05:35 ansible-util-master/vars/RedHat-6.yml
+-rw-rw-r-- root/root       342 2017-05-15 05:35 ansible-util-master/vars/RedHat.yml
+lrwxrwxrwx root/root         0 2017-05-15 05:35 ansible-util-master/vars/Ubuntu-12.yml -> Ubuntu-14.yml
+lrwxrwxrwx root/root         0 2017-05-15 05:35 ansible-util-master/vars/Ubuntu-13.yml -> Ubuntu-14.yml
+-rw-rw-r-- root/root        38 2017-05-15 05:35 ansible-util-master/vars/Ubuntu-14.yml
+-rw-rw-r-- root/root       251 2017-05-15 05:35 ansible-util-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root       295 2017-05-15 05:35 ansible-util-master/vars/main.yml
+drwxrwxr-x root/root         0 2017-05-15 05:35 ansible-util-master/vars/service/
+-rw-rw-r-- root/root        91 2017-05-15 05:35 ansible-util-master/vars/service/systemd.yml
+-rw-rw-r-- root/root        83 2017-05-15 05:35 ansible-util-master/vars/service/sysvinit.yml
+-rw-rw-r-- root/root        81 2017-05-15 05:35 ansible-util-master/vars/service/upstart.yml

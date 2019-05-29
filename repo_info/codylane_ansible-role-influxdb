@@ -1,0 +1,54 @@
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/.github/
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/.github/ISSUE_TEMPLATE/
+-rw-rw-r-- root/root       799 2018-07-28 10:22 ansible-role-influxdb-master/.github/ISSUE_TEMPLATE/bug_report.md
+-rw-rw-r-- root/root       560 2018-07-28 10:22 ansible-role-influxdb-master/.github/ISSUE_TEMPLATE/feature_request.md
+-rw-rw-r-- root/root       156 2018-07-28 10:22 ansible-role-influxdb-master/.gitignore
+-rw-rw-r-- root/root       260 2018-07-28 10:22 ansible-role-influxdb-master/.travis.yml
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/.travis/
+-rwxrwxr-x root/root       544 2018-07-28 10:22 ansible-role-influxdb-master/.travis/init
+-rw-rw-r-- root/root       296 2018-07-28 10:22 ansible-role-influxdb-master/.yamllint
+-rw-rw-r-- root/root       485 2018-07-28 10:22 ansible-role-influxdb-master/Jenkinsfile
+-rw-rw-r-- root/root      1072 2018-07-28 10:22 ansible-role-influxdb-master/LICENSE
+-rw-rw-r-- root/root      3132 2018-07-28 10:22 ansible-role-influxdb-master/README.md
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/defaults/
+-rw-rw-r-- root/root      4230 2018-07-28 10:22 ansible-role-influxdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/filter_plugins/
+-rw-rw-r-- root/root      1658 2018-07-28 10:22 ansible-role-influxdb-master/filter_plugins/influxdb.py
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/handlers/
+-rw-rw-r-- root/root        97 2018-07-28 10:22 ansible-role-influxdb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/meta/
+-rw-rw-r-- root/root       287 2018-07-28 10:22 ansible-role-influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/default/
+-rw-rw-r-- root/root      1765 2018-07-28 10:22 ansible-role-influxdb-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       369 2018-07-28 10:22 ansible-role-influxdb-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       634 2018-07-28 10:22 ansible-role-influxdb-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        73 2018-07-28 10:22 ansible-role-influxdb-master/molecule/default/playbook.yml
+lrwxrwxrwx root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/default/roles -> ../roles
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/default/tests/
+-rw-rw-r-- root/root      8048 2018-07-28 10:22 ansible-role-influxdb-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/codylane.influxdb/
+lrwxrwxrwx root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/codylane.influxdb/defaults -> ../../../defaults
+lrwxrwxrwx root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/codylane.influxdb/filter_plugins -> ../../../filter_plugins
+lrwxrwxrwx root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/codylane.influxdb/handlers -> ../../../handlers
+lrwxrwxrwx root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/codylane.influxdb/meta -> ../../../meta
+lrwxrwxrwx root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/codylane.influxdb/tasks -> ../../../tasks
+lrwxrwxrwx root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/codylane.influxdb/templates -> ../../../templates
+lrwxrwxrwx root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/molecule/roles/codylane.influxdb/vars -> ../../../vars
+-rw-rw-r-- root/root        29 2018-07-28 10:22 ansible-role-influxdb-master/requirements.txt
+-rw-rw-r-- root/root       400 2018-07-28 10:22 ansible-role-influxdb-master/setup.cfg
+-rw-rw-r-- root/root      3946 2018-07-28 10:22 ansible-role-influxdb-master/tasks.py
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/tasks/
+-rw-rw-r-- root/root      1940 2018-07-28 10:22 ansible-role-influxdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/templates/
+-rw-rw-r-- root/root      3858 2018-07-28 10:22 ansible-role-influxdb-master/templates/influxdb.conf.j2
+-rw-rw-r-- root/root        57 2018-07-28 10:22 ansible-role-influxdb-master/test-requirements.txt
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/tests/
+-rw-rw-r-- root/root       395 2018-07-28 10:22 ansible-role-influxdb-master/tests/ansible.cfg
+-rw-rw-r-- root/root        43 2018-07-28 10:22 ansible-role-influxdb-master/tests/inventory
+-rw-rw-r-- root/root        93 2018-07-28 10:22 ansible-role-influxdb-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-28 10:22 ansible-role-influxdb-master/vars/
+-rw-rw-r-- root/root        62 2018-07-28 10:22 ansible-role-influxdb-master/vars/RedHat.yml
+-rw-rw-r-- root/root         4 2018-07-28 10:22 ansible-role-influxdb-master/vars/main.yml

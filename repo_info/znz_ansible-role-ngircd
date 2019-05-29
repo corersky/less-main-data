@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-07-27 05:19 ansible-role-ngircd-master/
+-rw-rw-r-- root/root      1440 2014-07-27 05:19 ansible-role-ngircd-master/README.md
+drwxrwxr-x root/root         0 2014-07-27 05:19 ansible-role-ngircd-master/defaults/
+-rw-rw-r-- root/root       633 2014-07-27 05:19 ansible-role-ngircd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-27 05:19 ansible-role-ngircd-master/handlers/
+-rw-rw-r-- root/root        66 2014-07-27 05:19 ansible-role-ngircd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-07-27 05:19 ansible-role-ngircd-master/meta/
+-rw-rw-r-- root/root       372 2014-07-27 05:19 ansible-role-ngircd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-27 05:19 ansible-role-ngircd-master/tasks/
+-rw-rw-r-- root/root      1444 2014-07-27 05:19 ansible-role-ngircd-master/tasks/config.yml
+-rw-rw-r-- root/root       170 2014-07-27 05:19 ansible-role-ngircd-master/tasks/main.yml
+-rw-rw-r-- root/root        44 2014-07-27 05:19 ansible-role-ngircd-master/tasks/packages.yml
+-rw-rw-r-- root/root        66 2014-07-27 05:19 ansible-role-ngircd-master/tasks/ufw.yml
+drwxrwxr-x root/root         0 2014-07-27 05:19 ansible-role-ngircd-master/templates/
+-rw-rw-r-- root/root     15200 2014-07-27 05:19 ansible-role-ngircd-master/templates/ngircd.conf.j2
+drwxrwxr-x root/root         0 2014-07-27 05:19 ansible-role-ngircd-master/vars/
+-rw-rw-r-- root/root        32 2014-07-27 05:19 ansible-role-ngircd-master/vars/main.yml

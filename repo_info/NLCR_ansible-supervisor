@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-19 12:30 ansible-supervisor-master/
+-rw-rw-r-- root/root       539 2017-04-19 12:30 ansible-supervisor-master/.travis.yml
+-rw-rw-r-- root/root      1039 2017-04-19 12:30 ansible-supervisor-master/README.md
+drwxrwxr-x root/root         0 2017-04-19 12:30 ansible-supervisor-master/defaults/
+-rw-rw-r-- root/root        26 2017-04-19 12:30 ansible-supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-19 12:30 ansible-supervisor-master/handlers/
+-rw-rw-r-- root/root       202 2017-04-19 12:30 ansible-supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-19 12:30 ansible-supervisor-master/meta/
+-rw-rw-r-- root/root      3540 2017-04-19 12:30 ansible-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-19 12:30 ansible-supervisor-master/tasks/
+-rw-rw-r-- root/root       327 2017-04-19 12:30 ansible-supervisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-19 12:30 ansible-supervisor-master/templates/
+-rw-rw-r-- root/root      8717 2017-04-19 12:30 ansible-supervisor-master/templates/supervisord.conf.j2
+drwxrwxr-x root/root         0 2017-04-19 12:30 ansible-supervisor-master/tests/
+-rw-rw-r-- root/root         9 2017-04-19 12:30 ansible-supervisor-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-04-19 12:30 ansible-supervisor-master/tests/test.yml

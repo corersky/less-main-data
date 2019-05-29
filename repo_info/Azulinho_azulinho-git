@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2015-01-01 17:29 azulinho-git-master/
+drwxrwxr-x root/root         0 2015-01-01 17:29 azulinho-git-master/.bundle/
+-rw-rw-r-- root/root        36 2015-01-01 17:29 azulinho-git-master/.bundle/config
+-rw-rw-r-- root/root       141 2015-01-01 17:29 azulinho-git-master/.gitignore
+-rw-rw-r-- root/root       198 2015-01-01 17:29 azulinho-git-master/README.md
+-rw-rw-r-- root/root      1231 2015-01-01 17:29 azulinho-git-master/Rakefile
+drwxrwxr-x root/root         0 2015-01-01 17:29 azulinho-git-master/meta/
+-rw-rw-r-- root/root       212 2015-01-01 17:29 azulinho-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-01 17:29 azulinho-git-master/tasks/
+-rw-rw-r-- root/root       267 2015-01-01 17:29 azulinho-git-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2015-01-01 17:29 azulinho-git-master/vagrantbox/
+drwxrwxr-x root/root         0 2015-01-01 17:29 azulinho-git-master/vagrantbox/.bundle/
+-rw-rw-r-- root/root        36 2015-01-01 17:29 azulinho-git-master/vagrantbox/.bundle/config
+-rw-rw-r-- root/root         0 2015-01-01 17:29 azulinho-git-master/vagrantbox/Gemfile
+-rw-rw-r-- root/root        45 2015-01-01 17:29 azulinho-git-master/vagrantbox/Gemfile.lock
+-rw-rw-r-- root/root      2191 2015-01-01 17:29 azulinho-git-master/vagrantbox/Vagrantfile
+-rw-rw-r-- root/root       431 2015-01-01 17:29 azulinho-git-master/vagrantbox/ansible.cfg
+-rw-rw-r-- root/root       152 2015-01-01 17:29 azulinho-git-master/vagrantbox/git.yml
+-rw-rw-r-- root/root        93 2015-01-01 17:29 azulinho-git-master/vagrantbox/main_spec.rb
+drwxrwxr-x root/root         0 2015-01-01 17:29 azulinho-git-master/vagrantbox/roles/
+lrwxrwxrwx root/root         0 2015-01-01 17:29 azulinho-git-master/vagrantbox/roles/git -> ../../
+-rw-rw-r-- root/root       125 2015-01-01 17:29 azulinho-git-master/vagrantbox/spec_helper.rb
+-rw-rw-r-- root/root       138 2015-01-01 17:29 azulinho-git-master/vagrantbox/vagrant
+-rw-rw-r-- root/root       220 2015-01-01 17:29 azulinho-git-master/vagrantbox/vagrant-git.yml
+-rw-rw-r-- root/root        12 2015-01-01 17:29 azulinho-git-master/vagrantbox/vagrant-vault

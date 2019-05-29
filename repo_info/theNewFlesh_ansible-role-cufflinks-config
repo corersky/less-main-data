@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-06 20:05 ansible-role-cufflinks-config-master/
+-rw-rw-r-- root/root       843 2016-06-06 20:05 ansible-role-cufflinks-config-master/.gitignore
+-rw-rw-r-- root/root       539 2016-06-06 20:05 ansible-role-cufflinks-config-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-06-06 20:05 ansible-role-cufflinks-config-master/README.md
+drwxrwxr-x root/root         0 2016-06-06 20:05 ansible-role-cufflinks-config-master/defaults/
+-rw-rw-r-- root/root       314 2016-06-06 20:05 ansible-role-cufflinks-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-06 20:05 ansible-role-cufflinks-config-master/meta/
+-rw-rw-r-- root/root       319 2016-06-06 20:05 ansible-role-cufflinks-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-06 20:05 ansible-role-cufflinks-config-master/tasks/
+-rw-rw-r-- root/root       458 2016-06-06 20:05 ansible-role-cufflinks-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-06 20:05 ansible-role-cufflinks-config-master/templates/
+-rw-rw-r-- root/root       455 2016-06-06 20:05 ansible-role-cufflinks-config-master/templates/config.j2
+drwxrwxr-x root/root         0 2016-06-06 20:05 ansible-role-cufflinks-config-master/tests/
+-rw-rw-r-- root/root       255 2016-06-06 20:05 ansible-role-cufflinks-config-master/tests/ansible.cfg
+-rw-rw-r-- root/root       543 2016-06-06 20:05 ansible-role-cufflinks-config-master/tests/staging
+-rw-rw-r-- root/root        40 2016-06-06 20:05 ansible-role-cufflinks-config-master/tests/test.yml

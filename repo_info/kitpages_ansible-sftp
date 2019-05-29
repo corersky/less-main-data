@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-02 13:51 ansible-sftp-master/
+-rw-rw-r-- root/root        52 2015-06-02 13:51 ansible-sftp-master/.gitignore
+-rw-rw-r-- root/root      1080 2015-06-02 13:51 ansible-sftp-master/LICENSE
+-rw-rw-r-- root/root      2217 2015-06-02 13:51 ansible-sftp-master/README.md
+drwxrwxr-x root/root         0 2015-06-02 13:51 ansible-sftp-master/defaults/
+-rw-rw-r-- root/root        79 2015-06-02 13:51 ansible-sftp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-02 13:51 ansible-sftp-master/handlers/
+-rw-rw-r-- root/root        86 2015-06-02 13:51 ansible-sftp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-02 13:51 ansible-sftp-master/meta/
+-rw-rw-r-- root/root       260 2015-06-02 13:51 ansible-sftp-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-02 13:51 ansible-sftp-master/tasks/
+-rw-rw-r-- root/root      2347 2015-06-02 13:51 ansible-sftp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-02 13:51 ansible-sftp-master/templates/
+-rw-rw-r-- root/root       224 2015-06-02 13:51 ansible-sftp-master/templates/sshd_config.j2
+-rw-rw-r-- root/root       158 2015-06-02 13:51 ansible-sftp-master/test.yml

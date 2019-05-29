@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-30 10:38 ansible-role-os-flavors-master/
+-rw-rw-r-- root/root         6 2019-01-30 10:38 ansible-role-os-flavors-master/.gitignore
+-rw-rw-r-- root/root       806 2019-01-30 10:38 ansible-role-os-flavors-master/.travis.yml
+-rw-rw-r-- root/root     10143 2019-01-30 10:38 ansible-role-os-flavors-master/LICENSE
+-rw-rw-r-- root/root      1804 2019-01-30 10:38 ansible-role-os-flavors-master/README.md
+drwxrwxr-x root/root         0 2019-01-30 10:38 ansible-role-os-flavors-master/defaults/
+-rw-rw-r-- root/root       611 2019-01-30 10:38 ansible-role-os-flavors-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-30 10:38 ansible-role-os-flavors-master/meta/
+-rw-rw-r-- root/root       399 2019-01-30 10:38 ansible-role-os-flavors-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-30 10:38 ansible-role-os-flavors-master/tasks/
+-rw-rw-r-- root/root      1152 2019-01-30 10:38 ansible-role-os-flavors-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-30 10:38 ansible-role-os-flavors-master/tests/
+-rw-rw-r-- root/root        86 2019-01-30 10:38 ansible-role-os-flavors-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-01-30 10:38 ansible-role-os-flavors-master/tests/test.yml

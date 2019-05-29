@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-11-25 20:36 ansible-role-oauth2_proxy-master/
+-rw-rw-r-- root/root       536 2015-11-25 20:36 ansible-role-oauth2_proxy-master/README.md
+drwxrwxr-x root/root         0 2015-11-25 20:36 ansible-role-oauth2_proxy-master/defaults/
+-rw-rw-r-- root/root        73 2015-11-25 20:36 ansible-role-oauth2_proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-25 20:36 ansible-role-oauth2_proxy-master/files/
+-rw-rw-r-- root/root   2402810 2015-11-25 20:36 ansible-role-oauth2_proxy-master/files/oauth2_proxy-2.0.1.zip
+drwxrwxr-x root/root         0 2015-11-25 20:36 ansible-role-oauth2_proxy-master/handlers/
+-rw-rw-r-- root/root        80 2015-11-25 20:36 ansible-role-oauth2_proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-25 20:36 ansible-role-oauth2_proxy-master/meta/
+-rw-rw-r-- root/root       262 2015-11-25 20:36 ansible-role-oauth2_proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-25 20:36 ansible-role-oauth2_proxy-master/tasks/
+-rw-rw-r-- root/root       620 2015-11-25 20:36 ansible-role-oauth2_proxy-master/tasks/main.yml
+-rw-rw-r-- root/root       210 2015-11-25 20:36 ansible-role-oauth2_proxy-master/tasks/supervisor.yml
+drwxrwxr-x root/root         0 2015-11-25 20:36 ansible-role-oauth2_proxy-master/templates/
+drwxrwxr-x root/root         0 2015-11-25 20:36 ansible-role-oauth2_proxy-master/templates/supervisor/
+-rw-rw-r-- root/root       394 2015-11-25 20:36 ansible-role-oauth2_proxy-master/templates/supervisor/oauth2_proxy.conf

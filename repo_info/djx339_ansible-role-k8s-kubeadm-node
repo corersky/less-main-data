@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/
+-rw-rw-r-- root/root       635 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/README.md
+drwxrwxr-x root/root         0 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/defaults/
+-rw-rw-r-- root/root        40 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/handlers/
+-rw-rw-r-- root/root        40 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/meta/
+-rw-rw-r-- root/root      1074 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/tasks/
+-rw-rw-r-- root/root       702 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/tests/
+-rw-rw-r-- root/root        11 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/vars/
+-rw-rw-r-- root/root        36 2018-01-18 03:27 ansible-role-k8s-kubeadm-node-master/vars/main.yml

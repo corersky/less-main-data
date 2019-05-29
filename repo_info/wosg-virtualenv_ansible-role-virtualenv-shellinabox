@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/
+-rw-rw-r-- root/root       868 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/.travis.yml
+-rw-rw-r-- root/root        76 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/README.md
+drwxrwxr-x root/root         0 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/defaults/
+-rw-rw-r-- root/root        29 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/handlers/
+-rw-rw-r-- root/root        76 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/meta/
+-rw-rw-r-- root/root       316 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/tasks/
+-rw-rw-r-- root/root       331 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/templates/
+-rw-rw-r-- root/root       584 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/templates/shellinabox.j2
+drwxrwxr-x root/root         0 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/test/
+-rw-rw-r-- root/root        10 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/test/inventory
+-rw-rw-r-- root/root        94 2016-01-02 12:50 ansible-role-virtualenv-shellinabox-master/test/test.yml

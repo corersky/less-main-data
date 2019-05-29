@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-21 06:00 ansible-nodejs-master/
+-rwxrwxr-x root/root        42 2016-01-21 06:00 ansible-nodejs-master/.gitignore
+-rwxrwxr-x root/root      1082 2016-01-21 06:00 ansible-nodejs-master/README.md
+drwxrwxr-x root/root         0 2016-01-21 06:00 ansible-nodejs-master/defaults/
+-rwxrwxr-x root/root       484 2016-01-21 06:00 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-21 06:00 ansible-nodejs-master/handlers/
+-rwxrwxr-x root/root         4 2016-01-21 06:00 ansible-nodejs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-21 06:00 ansible-nodejs-master/meta/
+-rwxrwxr-x root/root       309 2016-01-21 06:00 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-21 06:00 ansible-nodejs-master/tasks/
+-rwxrwxr-x root/root      2110 2016-01-21 06:00 ansible-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-21 06:00 ansible-nodejs-master/test/
+-rwxrwxr-x root/root       302 2016-01-21 06:00 ansible-nodejs-master/test/Vagrantfile
+-rwxrwxr-x root/root       164 2016-01-21 06:00 ansible-nodejs-master/test/playbook.yml
+-rwxrwxr-x root/root       111 2016-01-21 06:00 ansible-nodejs-master/test/run-test.sh
+drwxrwxr-x root/root         0 2016-01-21 06:00 ansible-nodejs-master/vars/
+-rwxrwxr-x root/root         4 2016-01-21 06:00 ansible-nodejs-master/vars/main.yml

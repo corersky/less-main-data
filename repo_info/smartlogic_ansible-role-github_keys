@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-24 21:46 ansible-role-github_keys-master/
+-rw-rw-r-- root/root      1243 2018-05-24 21:46 ansible-role-github_keys-master/.travis.yml
+-rw-rw-r-- root/root      1055 2018-05-24 21:46 ansible-role-github_keys-master/LICENSE
+-rw-rw-r-- root/root      1151 2018-05-24 21:46 ansible-role-github_keys-master/README.md
+-rw-rw-r-- root/root      3011 2018-05-24 21:46 ansible-role-github_keys-master/Vagrantfile
+-rw-rw-r-- root/root        45 2018-05-24 21:46 ansible-role-github_keys-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-05-24 21:46 ansible-role-github_keys-master/defaults/
+-rw-rw-r-- root/root       236 2018-05-24 21:46 ansible-role-github_keys-master/defaults/main.yml
+-rw-rw-r-- root/root       159 2018-05-24 21:46 ansible-role-github_keys-master/hosts
+drwxrwxr-x root/root         0 2018-05-24 21:46 ansible-role-github_keys-master/meta/
+-rw-rw-r-- root/root       282 2018-05-24 21:46 ansible-role-github_keys-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 21:46 ansible-role-github_keys-master/tasks/
+-rw-rw-r-- root/root      2169 2018-05-24 21:46 ansible-role-github_keys-master/tasks/main.yml
+-rw-rw-r-- root/root      1814 2018-05-24 21:46 ansible-role-github_keys-master/tasks/org_keys.yml
+-rw-rw-r-- root/root       380 2018-05-24 21:46 ansible-role-github_keys-master/tasks/user_keys.yml
+drwxrwxr-x root/root         0 2018-05-24 21:46 ansible-role-github_keys-master/tests/
+-rw-rw-r-- root/root       334 2018-05-24 21:46 ansible-role-github_keys-master/tests/test.yml

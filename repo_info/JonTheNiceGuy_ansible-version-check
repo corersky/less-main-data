@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-07-02 06:42 ansible-version-check-master/
+-rw-rw-r-- root/root      1210 2018-07-02 06:42 ansible-version-check-master/LICENSE
+-rw-rw-r-- root/root       889 2018-07-02 06:42 ansible-version-check-master/README.md
+drwxrwxr-x root/root         0 2018-07-02 06:42 ansible-version-check-master/defaults/
+-rw-rw-r-- root/root       103 2018-07-02 06:42 ansible-version-check-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-02 06:42 ansible-version-check-master/meta/
+-rw-rw-r-- root/root       366 2018-07-02 06:42 ansible-version-check-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-02 06:42 ansible-version-check-master/tasks/
+-rw-rw-r-- root/root      1015 2018-07-02 06:42 ansible-version-check-master/tasks/debug.yml
+-rw-rw-r-- root/root       311 2018-07-02 06:42 ansible-version-check-master/tasks/fix_legacy_terminology.yml
+-rw-rw-r-- root/root       986 2018-07-02 06:42 ansible-version-check-master/tasks/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-11 01:20 ansible-reboot-handler-role-master/
+-rw-rw-r-- root/root         8 2017-04-11 01:20 ansible-reboot-handler-role-master/.gitignore
+-rw-rw-r-- root/root       734 2017-04-11 01:20 ansible-reboot-handler-role-master/.travis.yml
+-rw-rw-r-- root/root      1320 2017-04-11 01:20 ansible-reboot-handler-role-master/LICENSE
+-rw-rw-r-- root/root      1810 2017-04-11 01:20 ansible-reboot-handler-role-master/README.md
+drwxrwxr-x root/root         0 2017-04-11 01:20 ansible-reboot-handler-role-master/defaults/
+-rw-rw-r-- root/root        43 2017-04-11 01:20 ansible-reboot-handler-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-11 01:20 ansible-reboot-handler-role-master/handlers/
+-rw-rw-r-- root/root      6092 2017-04-11 01:20 ansible-reboot-handler-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-11 01:20 ansible-reboot-handler-role-master/meta/
+-rw-rw-r-- root/root       576 2017-04-11 01:20 ansible-reboot-handler-role-master/meta/main.yml
+-rw-rw-r-- root/root       794 2017-04-11 01:20 ansible-reboot-handler-role-master/molecule.yml
+-rw-rw-r-- root/root      1383 2017-04-11 01:20 ansible-reboot-handler-role-master/playbook.yml
+-rw-rw-r-- root/root        25 2017-04-11 01:20 ansible-reboot-handler-role-master/requirements.txt
+-rw-rw-r-- root/root       138 2017-04-11 01:20 ansible-reboot-handler-role-master/requirements.yml
+drwxrwxr-x root/root         0 2017-04-11 01:20 ansible-reboot-handler-role-master/tests/
+-rw-rw-r-- root/root       201 2017-04-11 01:20 ansible-reboot-handler-role-master/tests/test_default.py

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/
+-rw-rw-r-- root/root       451 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/README.md
+drwxrwxr-x root/root         0 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/defaults/
+-rw-rw-r-- root/root        39 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/handlers/
+-rw-rw-r-- root/root        39 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/meta/
+-rw-rw-r-- root/root      1088 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/tasks/
+-rw-rw-r-- root/root       375 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/tests/
+-rw-rw-r-- root/root        11 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/vars/
+-rw-rw-r-- root/root        35 2018-01-18 03:30 ansible-role-k8s-kubelet-gpu-master/vars/main.yml

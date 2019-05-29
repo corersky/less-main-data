@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-04-18 14:04 ansible-python-master/
+-rw-rw-r-- root/root        47 2016-04-18 14:04 ansible-python-master/.gitignore
+-rw-rw-r-- root/root      1079 2016-04-18 14:04 ansible-python-master/LICENSE
+-rw-rw-r-- root/root      2894 2016-04-18 14:04 ansible-python-master/README.md
+-rw-rw-r-- root/root       335 2016-04-18 14:04 ansible-python-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-04-18 14:04 ansible-python-master/defaults/
+-rw-rw-r-- root/root      1176 2016-04-18 14:04 ansible-python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-18 14:04 ansible-python-master/meta/
+-rw-rw-r-- root/root       622 2016-04-18 14:04 ansible-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-18 14:04 ansible-python-master/tasks/
+-rw-rw-r-- root/root      1288 2016-04-18 14:04 ansible-python-master/tasks/main.yml
+-rw-rw-r-- root/root       866 2016-04-18 14:04 ansible-python-master/tasks/packaging_tools.yml
+-rw-rw-r-- root/root       670 2016-04-18 14:04 ansible-python-master/tasks/python.yml
+-rw-rw-r-- root/root       432 2016-04-18 14:04 ansible-python-master/tasks/readline.yml
+-rw-rw-r-- root/root       120 2016-04-18 14:04 ansible-python-master/test.yml
+drwxrwxr-x root/root         0 2016-04-18 14:04 ansible-python-master/vars/
+-rw-rw-r-- root/root      1470 2016-04-18 14:04 ansible-python-master/vars/main.yml

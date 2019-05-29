@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-18 09:13 vmware-guest-master/
+-rw-rw-r-- root/root       539 2019-01-18 09:13 vmware-guest-master/.travis.yml
+-rw-rw-r-- root/root      1016 2019-01-18 09:13 vmware-guest-master/README.md
+drwxrwxr-x root/root         0 2019-01-18 09:13 vmware-guest-master/defaults/
+-rw-rw-r-- root/root       375 2019-01-18 09:13 vmware-guest-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-18 09:13 vmware-guest-master/handlers/
+-rw-rw-r-- root/root        37 2019-01-18 09:13 vmware-guest-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-18 09:13 vmware-guest-master/meta/
+-rw-rw-r-- root/root      4500 2019-01-18 09:13 vmware-guest-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-18 09:13 vmware-guest-master/tasks/
+-rw-rw-r-- root/root       828 2019-01-18 09:13 vmware-guest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-18 09:13 vmware-guest-master/tests/
+-rw-rw-r-- root/root         9 2019-01-18 09:13 vmware-guest-master/tests/inventory
+-rw-rw-r-- root/root        70 2019-01-18 09:13 vmware-guest-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-18 09:13 vmware-guest-master/vars/
+-rw-rw-r-- root/root        33 2019-01-18 09:13 vmware-guest-master/vars/main.yml

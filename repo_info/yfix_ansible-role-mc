@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-10-15 05:42 ansible-role-mc-master/
+-rw-rw-r-- root/root       367 2015-10-15 05:42 ansible-role-mc-master/README.md
+drwxrwxr-x root/root         0 2015-10-15 05:42 ansible-role-mc-master/defaults/
+-rw-rw-r-- root/root        49 2015-10-15 05:42 ansible-role-mc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-15 05:42 ansible-role-mc-master/meta/
+-rw-rw-r-- root/root       299 2015-10-15 05:42 ansible-role-mc-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-15 05:42 ansible-role-mc-master/tasks/
+-rw-rw-r-- root/root       448 2015-10-15 05:42 ansible-role-mc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-15 05:42 ansible-role-mc-master/templates/
+-rw-rw-r-- root/root      3446 2015-10-15 05:42 ansible-role-mc-master/templates/mc.ini.j2

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-05-31 08:10 ansible-secure-ssh-master/
+-rw-rw-r-- root/root      2060 2018-05-31 08:10 ansible-secure-ssh-master/README.md
+drwxrwxr-x root/root         0 2018-05-31 08:10 ansible-secure-ssh-master/defaults/
+-rw-rw-r-- root/root       110 2018-05-31 08:10 ansible-secure-ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-31 08:10 ansible-secure-ssh-master/handlers/
+-rw-rw-r-- root/root        68 2018-05-31 08:10 ansible-secure-ssh-master/handlers/main.yml
+-rw-rw-r-- root/root        18 2018-05-31 08:10 ansible-secure-ssh-master/hosts.example
+drwxrwxr-x root/root         0 2018-05-31 08:10 ansible-secure-ssh-master/meta/
+-rw-rw-r-- root/root       338 2018-05-31 08:10 ansible-secure-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-31 08:10 ansible-secure-ssh-master/tasks/
+-rw-rw-r-- root/root       898 2018-05-31 08:10 ansible-secure-ssh-master/tasks/main.yml
+-rw-rw-r-- root/root        88 2018-05-31 08:10 ansible-secure-ssh-master/test.yml

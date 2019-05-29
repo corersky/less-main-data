@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-24 15:54 ansible-role-ssl-certs-master/
+-rw-rw-r-- root/root       510 2018-10-24 15:54 ansible-role-ssl-certs-master/.travis.yml
+-rw-rw-r-- root/root      1297 2018-10-24 15:54 ansible-role-ssl-certs-master/LICENSE
+-rw-rw-r-- root/root      2721 2018-10-24 15:54 ansible-role-ssl-certs-master/README.md
+-rw-rw-r-- root/root        28 2018-10-24 15:54 ansible-role-ssl-certs-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-10-24 15:54 ansible-role-ssl-certs-master/defaults/
+-rw-rw-r-- root/root      1496 2018-10-24 15:54 ansible-role-ssl-certs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 15:54 ansible-role-ssl-certs-master/meta/
+-rw-rw-r-- root/root      1623 2018-10-24 15:54 ansible-role-ssl-certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 15:54 ansible-role-ssl-certs-master/tasks/
+-rw-rw-r-- root/root      1666 2018-10-24 15:54 ansible-role-ssl-certs-master/tasks/generate.yml
+-rw-rw-r-- root/root      3321 2018-10-24 15:54 ansible-role-ssl-certs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 15:54 ansible-role-ssl-certs-master/templates/
+-rw-rw-r-- root/root      1233 2018-10-24 15:54 ansible-role-ssl-certs-master/templates/sslcert.conf.j2
+-rw-rw-r-- root/root        78 2018-10-24 15:54 ansible-role-ssl-certs-master/test.yml

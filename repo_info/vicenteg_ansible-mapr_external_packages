@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_external_packages-master/
+-rw-rw-r-- root/root       356 2016-09-08 13:15 ansible-mapr_external_packages-master/README.md
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_external_packages-master/defaults/
+-rw-rw-r-- root/root        47 2016-09-08 13:15 ansible-mapr_external_packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_external_packages-master/files/
+-rw-rw-r-- root/root       957 2016-09-08 13:15 ansible-mapr_external_packages-master/files/epel.repo
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_external_packages-master/handlers/
+-rw-rw-r-- root/root        47 2016-09-08 13:15 ansible-mapr_external_packages-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_external_packages-master/meta/
+-rw-rw-r-- root/root      2158 2016-09-08 13:15 ansible-mapr_external_packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_external_packages-master/tasks/
+-rw-rw-r-- root/root       931 2016-09-08 13:15 ansible-mapr_external_packages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 ansible-mapr_external_packages-master/vars/
+-rw-rw-r-- root/root        43 2016-09-08 13:15 ansible-mapr_external_packages-master/vars/main.yml

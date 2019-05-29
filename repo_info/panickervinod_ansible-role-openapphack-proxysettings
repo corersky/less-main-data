@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/
+-rw-rw-r-- root/root      1709 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/.travis.yml
+-rw-rw-r-- root/root        60 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/defaults/
+-rw-rw-r-- root/root       435 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/meta/
+-rw-rw-r-- root/root       308 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/tasks/
+-rw-rw-r-- root/root       468 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/templates/
+-rw-rw-r-- root/root       370 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/templates/80proxy.j2
+-rw-rw-r-- root/root       610 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/templates/environment.j2
+-rw-rw-r-- root/root       454 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/templates/proxy.j2
+-rw-rw-r-- root/root       666 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/templates/proxy.sh.j2
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/tests/inventory
+-rw-rw-r-- root/root       392 2016-01-26 08:15 ansible-role-openapphack-proxysettings-master/tests/test.yml

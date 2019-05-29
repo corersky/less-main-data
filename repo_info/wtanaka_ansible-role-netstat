@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-18 09:20 ansible-role-netstat-master/
+-rw-rw-r-- root/root      1428 2019-05-18 09:20 ansible-role-netstat-master/.ciconfiggen.config
+drwxrwxr-x root/root         0 2019-05-18 09:20 ansible-role-netstat-master/.circleci/
+-rw-rw-r-- root/root     33595 2019-05-18 09:20 ansible-role-netstat-master/.circleci/config.yml
+-rw-rw-r-- root/root        53 2019-05-18 09:20 ansible-role-netstat-master/.gitignore
+-rw-rw-r-- root/root      2311 2019-05-18 09:20 ansible-role-netstat-master/.travis.yml
+-rw-rw-r-- root/root       964 2019-05-18 09:20 ansible-role-netstat-master/README.md
+drwxrwxr-x root/root         0 2019-05-18 09:20 ansible-role-netstat-master/meta/
+-rw-rw-r-- root/root      3548 2019-05-18 09:20 ansible-role-netstat-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-18 09:20 ansible-role-netstat-master/tasks/
+-rw-rw-r-- root/root      3550 2019-05-18 09:20 ansible-role-netstat-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-05-18 09:20 ansible-role-netstat-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       974 2019-05-18 09:20 ansible-role-netstat-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root        93 2019-05-18 09:20 ansible-role-netstat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-18 09:20 ansible-role-netstat-master/vars/
+-rw-rw-r-- root/root        31 2019-05-18 09:20 ansible-role-netstat-master/vars/default.yml

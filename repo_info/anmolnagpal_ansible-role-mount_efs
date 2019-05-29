@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-31 18:27 ansible-role-mount_efs-master/
+-rw-rw-r-- root/root     11357 2019-03-31 18:27 ansible-role-mount_efs-master/LICENSE
+-rw-rw-r-- root/root       573 2019-03-31 18:27 ansible-role-mount_efs-master/README.md
+drwxrwxr-x root/root         0 2019-03-31 18:27 ansible-role-mount_efs-master/defaults/
+-rw-rw-r-- root/root        73 2019-03-31 18:27 ansible-role-mount_efs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-31 18:27 ansible-role-mount_efs-master/handlers/
+-rw-rw-r-- root/root       292 2019-03-31 18:27 ansible-role-mount_efs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-31 18:27 ansible-role-mount_efs-master/meta/
+-rw-rw-r-- root/root       430 2019-03-31 18:27 ansible-role-mount_efs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 18:27 ansible-role-mount_efs-master/tasks/
+-rw-rw-r-- root/root       384 2019-03-31 18:27 ansible-role-mount_efs-master/tasks/efs.yml
+-rw-rw-r-- root/root       101 2019-03-31 18:27 ansible-role-mount_efs-master/tasks/main.yml
+-rw-rw-r-- root/root       243 2019-03-31 18:27 ansible-role-mount_efs-master/tasks/pre.yml
+drwxrwxr-x root/root         0 2019-03-31 18:27 ansible-role-mount_efs-master/tests/
+-rw-rw-r-- root/root        10 2019-03-31 18:27 ansible-role-mount_efs-master/tests/inventory
+-rw-rw-r-- root/root        77 2019-03-31 18:27 ansible-role-mount_efs-master/tests/test.yml

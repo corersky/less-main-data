@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-20 08:25 ansible-java-master/
+-rw-rw-r-- root/root       527 2019-02-20 08:25 ansible-java-master/.drone.yml
+-rw-rw-r-- root/root        30 2019-02-20 08:25 ansible-java-master/.gitignore
+-rw-rw-r-- root/root       796 2019-02-20 08:25 ansible-java-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 08:25 ansible-java-master/defaults/
+-rw-rw-r-- root/root       117 2019-02-20 08:25 ansible-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-20 08:25 ansible-java-master/meta/
+-rw-rw-r-- root/root       253 2019-02-20 08:25 ansible-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 08:25 ansible-java-master/tasks/
+-rw-rw-r-- root/root       885 2019-02-20 08:25 ansible-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-20 08:25 ansible-java-master/tests/
+-rw-rw-r-- root/root        11 2019-02-20 08:25 ansible-java-master/tests/inventory
+-rw-rw-r-- root/root        70 2019-02-20 08:25 ansible-java-master/tests/test.yml

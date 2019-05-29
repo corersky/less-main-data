@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-19 17:14 ansile-role-influxdb-master/
+-rw-rw-r-- root/root       754 2017-02-19 17:14 ansile-role-influxdb-master/README.md
+drwxrwxr-x root/root         0 2017-02-19 17:14 ansile-role-influxdb-master/defaults/
+-rw-rw-r-- root/root      2727 2017-02-19 17:14 ansile-role-influxdb-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-02-19 17:14 ansile-role-influxdb-master/handlers/
+-rw-rw-r-- root/root        76 2017-02-19 17:14 ansile-role-influxdb-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-02-19 17:14 ansile-role-influxdb-master/meta/
+-rw-rw-r-- root/root       367 2017-02-19 17:14 ansile-role-influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-19 17:14 ansile-role-influxdb-master/tasks/
+-rw-rw-r-- root/root      2028 2017-02-19 17:14 ansile-role-influxdb-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-02-19 17:14 ansile-role-influxdb-master/templates/
+-rw-rw-r-- root/root     14781 2017-02-19 17:14 ansile-role-influxdb-master/templates/influxdb.conf.j2
+drwxrwxr-x root/root         0 2017-02-19 17:14 ansile-role-influxdb-master/tests/
+-rw-rw-r-- root/root         9 2017-02-19 17:14 ansile-role-influxdb-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-02-19 17:14 ansile-role-influxdb-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-19 17:14 ansile-role-influxdb-master/vars/
+-rw-rw-r-- root/root        30 2017-02-19 17:14 ansile-role-influxdb-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-10 13:19 ansible-role-packer-master/
+-rw-rw-r-- root/root      1259 2016-12-10 13:19 ansible-role-packer-master/.travis.yml
+-rw-rw-r-- root/root       835 2016-12-10 13:19 ansible-role-packer-master/README.md
+-rw-rw-r-- root/root       335 2016-12-10 13:19 ansible-role-packer-master/ansible-role-packer.iml
+drwxrwxr-x root/root         0 2016-12-10 13:19 ansible-role-packer-master/defaults/
+-rw-rw-r-- root/root       169 2016-12-10 13:19 ansible-role-packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-10 13:19 ansible-role-packer-master/meta/
+-rw-rw-r-- root/root       339 2016-12-10 13:19 ansible-role-packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-10 13:19 ansible-role-packer-master/tasks/
+-rw-rw-r-- root/root      1026 2016-12-10 13:19 ansible-role-packer-master/tasks/debian.yml
+-rw-rw-r-- root/root       115 2016-12-10 13:19 ansible-role-packer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-10 13:19 ansible-role-packer-master/tests/
+-rw-rw-r-- root/root         9 2016-12-10 13:19 ansible-role-packer-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-12-10 13:19 ansible-role-packer-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-10 13:19 ansible-role-packer-master/vars/
+-rw-rw-r-- root/root        27 2016-12-10 13:19 ansible-role-packer-master/vars/main.yml

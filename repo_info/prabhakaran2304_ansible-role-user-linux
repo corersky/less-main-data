@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-25 13:20 ansible-role-user-linux-master/
+-rw-rw-r-- root/root       979 2019-05-25 13:20 ansible-role-user-linux-master/.travis.yml
+-rw-rw-r-- root/root     35149 2019-05-25 13:20 ansible-role-user-linux-master/LICENSE
+-rw-rw-r-- root/root      4312 2019-05-25 13:20 ansible-role-user-linux-master/README.md
+drwxrwxr-x root/root         0 2019-05-25 13:20 ansible-role-user-linux-master/defaults/
+-rw-rw-r-- root/root       646 2019-05-25 13:20 ansible-role-user-linux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-25 13:20 ansible-role-user-linux-master/meta/
+-rw-rw-r-- root/root       263 2019-05-25 13:20 ansible-role-user-linux-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-25 13:20 ansible-role-user-linux-master/tasks/
+-rw-rw-r-- root/root      1614 2019-05-25 13:20 ansible-role-user-linux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-25 13:20 ansible-role-user-linux-master/tests/
+-rw-rw-r-- root/root        10 2019-05-25 13:20 ansible-role-user-linux-master/tests/inventory
+-rw-rw-r-- root/root       140 2019-05-25 13:20 ansible-role-user-linux-master/tests/test.yml

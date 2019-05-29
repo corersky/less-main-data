@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/
+-rw-rw-r-- root/root         6 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/.gitignore
+-rw-rw-r-- root/root       617 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/.travis.yml
+-rw-rw-r-- root/root      4855 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/README.md
+drwxrwxr-x root/root         0 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/defaults/
+-rw-rw-r-- root/root       695 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/meta/
+-rw-rw-r-- root/root       678 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/tasks/
+-rw-rw-r-- root/root       404 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/tasks/gpg.yml
+-rw-rw-r-- root/root      2486 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/tasks/main.yml
+-rw-rw-r-- root/root      2190 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/tasks/restore.yml
+drwxrwxr-x root/root         0 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/tests/
+-rw-rw-r-- root/root         9 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/tests/inventory
+-rw-rw-r-- root/root       108 2016-08-16 07:12 ansible-role-mysql-s3-restore-master/tests/test.yml

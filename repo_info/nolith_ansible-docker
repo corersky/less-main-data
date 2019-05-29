@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2016-07-28 02:32 ansible-docker-master/
+-rw-rw-r-- root/root        19 2016-07-28 02:32 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root       394 2016-07-28 02:32 ansible-docker-master/.travis.yml
+-rw-rw-r-- root/root      1082 2016-07-28 02:32 ansible-docker-master/LICENSE
+-rw-rw-r-- root/root       857 2016-07-28 02:32 ansible-docker-master/README.md
+-rw-rw-r-- root/root       844 2016-07-28 02:32 ansible-docker-master/Vagrantfile
+-rw-rw-r-- root/root        34 2016-07-28 02:32 ansible-docker-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-07-28 02:32 ansible-docker-master/defaults/
+-rw-rw-r-- root/root        98 2016-07-28 02:32 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-28 02:32 ansible-docker-master/meta/
+-rw-rw-r-- root/root       278 2016-07-28 02:32 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-28 02:32 ansible-docker-master/tasks/
+-rw-rw-r-- root/root      1623 2016-07-28 02:32 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-28 02:32 ansible-docker-master/templates/
+-rw-rw-r-- root/root        64 2016-07-28 02:32 ansible-docker-master/templates/docker.cfg
+drwxrwxr-x root/root         0 2016-07-28 02:32 ansible-docker-master/tests/
+-rw-rw-r-- root/root       219 2016-07-28 02:32 ansible-docker-master/tests/build_container.yml
+-rw-rw-r-- root/root         9 2016-07-28 02:32 ansible-docker-master/tests/inventory
+drwxrwxr-x root/root         0 2016-07-28 02:32 ansible-docker-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-07-28 02:32 ansible-docker-master/tests/roles/nolith.docker -> ../../
+drwxrwxr-x root/root         0 2016-07-28 02:32 ansible-docker-master/tests/utils/
+-rwxrwxr-x root/root       914 2016-07-28 02:32 ansible-docker-master/tests/utils/run_test.sh
+-rw-rw-r-- root/root       359 2016-07-28 02:32 ansible-docker-master/tests/vagrant.yml

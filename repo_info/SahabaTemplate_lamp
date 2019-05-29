@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-29 00:19 lamp-master/
+-rw-rw-r-- root/root       539 2018-03-29 00:19 lamp-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-03-29 00:19 lamp-master/README.md
+drwxrwxr-x root/root         0 2018-03-29 00:19 lamp-master/defaults/
+-rw-rw-r-- root/root        29 2018-03-29 00:19 lamp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-29 00:19 lamp-master/handlers/
+-rw-rw-r-- root/root        29 2018-03-29 00:19 lamp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-29 00:19 lamp-master/meta/
+-rw-rw-r-- root/root      4368 2018-03-29 00:19 lamp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-29 00:19 lamp-master/tasks/
+-rw-rw-r-- root/root       149 2018-03-29 00:19 lamp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-29 00:19 lamp-master/tests/
+-rw-rw-r-- root/root         9 2018-03-29 00:19 lamp-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-03-29 00:19 lamp-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-29 00:19 lamp-master/vars/
+-rw-rw-r-- root/root        25 2018-03-29 00:19 lamp-master/vars/main.yml

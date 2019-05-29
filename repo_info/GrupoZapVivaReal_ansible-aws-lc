@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-10-27 17:14 ansible-aws-lc-master/
+-rw-rw-r-- root/root      3930 2016-10-27 17:14 ansible-aws-lc-master/README.md
+-rw-rw-r-- root/root       464 2016-10-27 17:14 ansible-aws-lc-master/circle.yml
+drwxrwxr-x root/root         0 2016-10-27 17:14 ansible-aws-lc-master/defaults/
+-rw-rw-r-- root/root        31 2016-10-27 17:14 ansible-aws-lc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-27 17:14 ansible-aws-lc-master/handlers/
+-rw-rw-r-- root/root        31 2016-10-27 17:14 ansible-aws-lc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-27 17:14 ansible-aws-lc-master/meta/
+-rw-rw-r-- root/root       393 2016-10-27 17:14 ansible-aws-lc-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-27 17:14 ansible-aws-lc-master/tasks/
+-rw-rw-r-- root/root       929 2016-10-27 17:14 ansible-aws-lc-master/tasks/create.yaml
+-rw-rw-r-- root/root       128 2016-10-27 17:14 ansible-aws-lc-master/tasks/destroy.yaml
+-rw-rw-r-- root/root       386 2016-10-27 17:14 ansible-aws-lc-master/tasks/find-ami.yaml
+-rw-rw-r-- root/root       543 2016-10-27 17:14 ansible-aws-lc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-27 17:14 ansible-aws-lc-master/tests/
+-rw-rw-r-- root/root         9 2016-10-27 17:14 ansible-aws-lc-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-10-27 17:14 ansible-aws-lc-master/tests/test.yml

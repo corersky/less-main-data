@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-01 04:27 ansible-role-os-container-clusters-master/
+-rw-rw-r-- root/root         6 2019-02-01 04:27 ansible-role-os-container-clusters-master/.gitignore
+-rw-rw-r-- root/root       817 2019-02-01 04:27 ansible-role-os-container-clusters-master/.travis.yml
+-rw-rw-r-- root/root     10143 2019-02-01 04:27 ansible-role-os-container-clusters-master/LICENSE
+-rw-rw-r-- root/root      1847 2019-02-01 04:27 ansible-role-os-container-clusters-master/README.md
+drwxrwxr-x root/root         0 2019-02-01 04:27 ansible-role-os-container-clusters-master/defaults/
+-rw-rw-r-- root/root       386 2019-02-01 04:27 ansible-role-os-container-clusters-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-01 04:27 ansible-role-os-container-clusters-master/meta/
+-rw-rw-r-- root/root       430 2019-02-01 04:27 ansible-role-os-container-clusters-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-01 04:27 ansible-role-os-container-clusters-master/tasks/
+-rw-rw-r-- root/root      1326 2019-02-01 04:27 ansible-role-os-container-clusters-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-01 04:27 ansible-role-os-container-clusters-master/tests/
+-rw-rw-r-- root/root        86 2019-02-01 04:27 ansible-role-os-container-clusters-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-02-01 04:27 ansible-role-os-container-clusters-master/tests/test.yml

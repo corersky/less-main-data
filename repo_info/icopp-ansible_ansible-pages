@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-pages-master/
+-rw-rw-r-- root/root       672 2016-09-16 13:23 ansible-pages-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-16 13:23 ansible-pages-master/LICENSE
+-rw-rw-r-- root/root       231 2016-09-16 13:23 ansible-pages-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-pages-master/meta/
+-rw-rw-r-- root/root       304 2016-09-16 13:23 ansible-pages-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-pages-master/tasks/
+-rw-rw-r-- root/root       229 2016-09-16 13:23 ansible-pages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:23 ansible-pages-master/tests/
+-rw-rw-r-- root/root         9 2016-09-16 13:23 ansible-pages-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-09-16 13:23 ansible-pages-master/tests/test.yml

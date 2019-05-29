@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-16 22:25 ansible-role-repo-remi-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:25 ansible-role-repo-remi-master/.gitignore
+-rw-rw-r-- root/root       523 2019-05-16 22:25 ansible-role-repo-remi-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:25 ansible-role-repo-remi-master/LICENSE
+-rw-rw-r-- root/root      1069 2019-05-16 22:25 ansible-role-repo-remi-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:25 ansible-role-repo-remi-master/defaults/
+-rw-rw-r-- root/root       182 2019-05-16 22:25 ansible-role-repo-remi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:25 ansible-role-repo-remi-master/meta/
+-rw-rw-r-- root/root       368 2019-05-16 22:25 ansible-role-repo-remi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:25 ansible-role-repo-remi-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:25 ansible-role-repo-remi-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:25 ansible-role-repo-remi-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        93 2019-05-16 22:25 ansible-role-repo-remi-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:25 ansible-role-repo-remi-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:25 ansible-role-repo-remi-master/tasks/
+-rw-rw-r-- root/root       188 2019-05-16 22:25 ansible-role-repo-remi-master/tasks/main.yml

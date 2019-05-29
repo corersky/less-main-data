@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-20 19:42 ansible-role-rpmforge-master/
+-rw-rw-r-- root/root       331 2019-01-20 19:42 ansible-role-rpmforge-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 19:42 ansible-role-rpmforge-master/COPYING
+-rw-rw-r-- root/root      2431 2019-01-20 19:42 ansible-role-rpmforge-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 19:42 ansible-role-rpmforge-master/defaults/
+-rw-rw-r-- root/root       767 2019-01-20 19:42 ansible-role-rpmforge-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 19:42 ansible-role-rpmforge-master/meta/
+-rw-rw-r-- root/root       270 2019-01-20 19:42 ansible-role-rpmforge-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 19:42 ansible-role-rpmforge-master/tasks/
+-rw-rw-r-- root/root      2344 2019-01-20 19:42 ansible-role-rpmforge-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 19:42 ansible-role-rpmforge-master/templates/
+-rw-rw-r-- root/root      1578 2019-01-20 19:42 ansible-role-rpmforge-master/templates/rpmforge.repo.j2
+drwxrwxr-x root/root         0 2019-01-20 19:42 ansible-role-rpmforge-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 19:42 ansible-role-rpmforge-master/tests/inventory
+-rw-rw-r-- root/root        84 2019-01-20 19:42 ansible-role-rpmforge-master/tests/test.yml

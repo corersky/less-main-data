@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-18 17:36 ansible-role-fail2ban-master/
+-rw-rw-r-- root/root       336 2016-02-18 17:36 ansible-role-fail2ban-master/.travis.yml
+-rw-rw-r-- root/root       503 2016-02-18 17:36 ansible-role-fail2ban-master/README.md
+drwxrwxr-x root/root         0 2016-02-18 17:36 ansible-role-fail2ban-master/defaults/
+-rw-rw-r-- root/root       492 2016-02-18 17:36 ansible-role-fail2ban-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-18 17:36 ansible-role-fail2ban-master/handlers/
+-rw-rw-r-- root/root        77 2016-02-18 17:36 ansible-role-fail2ban-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-18 17:36 ansible-role-fail2ban-master/meta/
+-rw-rw-r-- root/root       332 2016-02-18 17:36 ansible-role-fail2ban-master/meta/main.yml
+-rw-rw-r-- root/root       189 2016-02-18 17:36 ansible-role-fail2ban-master/role.yml
+drwxrwxr-x root/root         0 2016-02-18 17:36 ansible-role-fail2ban-master/tasks/
+-rw-rw-r-- root/root       606 2016-02-18 17:36 ansible-role-fail2ban-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-18 17:36 ansible-role-fail2ban-master/templates/
+-rw-rw-r-- root/root       748 2016-02-18 17:36 ansible-role-fail2ban-master/templates/jail.local.j2
+drwxrwxr-x root/root         0 2016-02-18 17:36 ansible-role-fail2ban-master/vars/
+-rw-rw-r-- root/root        42 2016-02-18 17:36 ansible-role-fail2ban-master/vars/main.yml

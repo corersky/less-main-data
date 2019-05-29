@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/.github/
+-rw-rw-r-- root/root       405 2018-07-25 00:17 ansible-role-php-zerorpc-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root      1470 2018-07-25 00:17 ansible-role-php-zerorpc-master/README.md
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/defaults/
+-rw-rw-r-- root/root       440 2018-07-25 00:17 ansible-role-php-zerorpc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/files/
+-rw-rw-r-- root/root        22 2018-07-25 00:17 ansible-role-php-zerorpc-master/files/opcache-zerorpc.blacklist
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/handlers/
+-rw-rw-r-- root/root       120 2018-07-25 00:17 ansible-role-php-zerorpc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/meta/
+-rw-rw-r-- root/root       330 2018-07-25 00:17 ansible-role-php-zerorpc-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/tasks/
+-rw-rw-r-- root/root      2225 2018-07-25 00:17 ansible-role-php-zerorpc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/templates/
+-rw-rw-r-- root/root        95 2018-07-25 00:17 ansible-role-php-zerorpc-master/templates/package.ini.j2
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/tests/
+-rw-rw-r-- root/root        20 2018-07-25 00:17 ansible-role-php-zerorpc-master/tests/.gitignore
+-rw-rw-r-- root/root       488 2018-07-25 00:17 ansible-role-php-zerorpc-master/tests/Vagrantfile
+-rw-rw-r-- root/root        10 2018-07-25 00:17 ansible-role-php-zerorpc-master/tests/inventory
+-rw-rw-r-- root/root        47 2018-07-25 00:17 ansible-role-php-zerorpc-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-07-25 00:17 ansible-role-php-zerorpc-master/tests/roles/php-zerorpc -> ../..
+-rw-rw-r-- root/root       193 2018-07-25 00:17 ansible-role-php-zerorpc-master/tests/test.yml

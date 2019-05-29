@@ -1,0 +1,35 @@
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/
+-rw-rw-r-- root/root       127 2018-10-29 17:04 ansible-role-rhel-installer-master/.flake8
+-rw-rw-r-- root/root        82 2018-10-29 17:04 ansible-role-rhel-installer-master/.gitignore
+-rw-rw-r-- root/root       231 2018-10-29 17:04 ansible-role-rhel-installer-master/.travis.yml
+-rw-rw-r-- root/root       171 2018-10-29 17:04 ansible-role-rhel-installer-master/.yamllint
+-rw-rw-r-- root/root      1085 2018-10-29 17:04 ansible-role-rhel-installer-master/LICENSE
+-rw-rw-r-- root/root       847 2018-10-29 17:04 ansible-role-rhel-installer-master/README.md
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/defaults/
+-rw-rw-r-- root/root      1019 2018-10-29 17:04 ansible-role-rhel-installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/handlers/
+-rw-rw-r-- root/root       171 2018-10-29 17:04 ansible-role-rhel-installer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/meta/
+-rw-rw-r-- root/root       501 2018-10-29 17:04 ansible-role-rhel-installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/
+-rw-rw-r-- root/root       887 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       327 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       188 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        67 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/prepare.yml
+lrwxrwxrwx root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/roles/
+lrwxrwxrwx root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/molecule/default/roles/centos-installer -> ../../../
+-rw-rw-r-- root/root        64 2018-10-29 17:04 ansible-role-rhel-installer-master/requirements.txt
+-rw-rw-r-- root/root        30 2018-10-29 17:04 ansible-role-rhel-installer-master/requirements.yml
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/tasks/
+-rw-rw-r-- root/root      4958 2018-10-29 17:04 ansible-role-rhel-installer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/templates/
+-rw-rw-r-- root/root       133 2018-10-29 17:04 ansible-role-rhel-installer-master/templates/isolinux.cfg.j2
+-rw-rw-r-- root/root      1360 2018-10-29 17:04 ansible-role-rhel-installer-master/templates/kickstart.rhel.j2
+drwxrwxr-x root/root         0 2018-10-29 17:04 ansible-role-rhel-installer-master/vars/
+-rw-rw-r-- root/root        77 2018-10-29 17:04 ansible-role-rhel-installer-master/vars/Archlinux.yml
+-rw-rw-r-- root/root       133 2018-10-29 17:04 ansible-role-rhel-installer-master/vars/Ubuntu.yml

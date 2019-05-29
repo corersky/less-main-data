@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-03-17 10:02 ansible-role-system-monitor-agent-master/
+-rw-rw-r-- root/root         4 2017-03-17 10:02 ansible-role-system-monitor-agent-master/.gitignore
+-rw-rw-r-- root/root       540 2017-03-17 10:02 ansible-role-system-monitor-agent-master/.travis.yml
+-rw-rw-r-- root/root       509 2017-03-17 10:02 ansible-role-system-monitor-agent-master/README.md
+drwxrwxr-x root/root         0 2017-03-17 10:02 ansible-role-system-monitor-agent-master/meta/
+-rw-rw-r-- root/root       264 2017-03-17 10:02 ansible-role-system-monitor-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-17 10:02 ansible-role-system-monitor-agent-master/tasks/
+-rw-rw-r-- root/root       439 2017-03-17 10:02 ansible-role-system-monitor-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-17 10:02 ansible-role-system-monitor-agent-master/tests/
+-rw-rw-r-- root/root        10 2017-03-17 10:02 ansible-role-system-monitor-agent-master/tests/inventory
+-rw-rw-r-- root/root        96 2017-03-17 10:02 ansible-role-system-monitor-agent-master/tests/test.yml

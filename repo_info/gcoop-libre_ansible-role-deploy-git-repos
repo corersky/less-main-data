@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-11-30 14:15 ansible-role-deploy-git-repos-master/
+-rw-rw-r-- root/root       539 2016-11-30 14:15 ansible-role-deploy-git-repos-master/.travis.yml
+-rw-rw-r-- root/root     18092 2016-11-30 14:15 ansible-role-deploy-git-repos-master/LICENSE
+-rw-rw-r-- root/root      2210 2016-11-30 14:15 ansible-role-deploy-git-repos-master/README.md
+drwxrwxr-x root/root         0 2016-11-30 14:15 ansible-role-deploy-git-repos-master/defaults/
+-rw-rw-r-- root/root       495 2016-11-30 14:15 ansible-role-deploy-git-repos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-30 14:15 ansible-role-deploy-git-repos-master/meta/
+-rw-rw-r-- root/root       684 2016-11-30 14:15 ansible-role-deploy-git-repos-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-30 14:15 ansible-role-deploy-git-repos-master/tasks/
+-rw-rw-r-- root/root      1959 2016-11-30 14:15 ansible-role-deploy-git-repos-master/tasks/deploy-git-repo.yml
+-rw-rw-r-- root/root       157 2016-11-30 14:15 ansible-role-deploy-git-repos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-30 14:15 ansible-role-deploy-git-repos-master/tests/
+-rw-rw-r-- root/root         9 2016-11-30 14:15 ansible-role-deploy-git-repos-master/tests/inventory
+-rw-rw-r-- root/root       282 2016-11-30 14:15 ansible-role-deploy-git-repos-master/tests/test.yml

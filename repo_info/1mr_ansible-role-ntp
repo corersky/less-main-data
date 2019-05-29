@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-03-24 05:19 ansible-role-ntp-master/
+-rw-rw-r-- root/root       571 2019-03-24 05:19 ansible-role-ntp-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 05:19 ansible-role-ntp-master/defaults/
+-rw-rw-r-- root/root        82 2019-03-24 05:19 ansible-role-ntp-master/defaults/main,yml
+drwxrwxr-x root/root         0 2019-03-24 05:19 ansible-role-ntp-master/meta/
+-rw-rw-r-- root/root       247 2019-03-24 05:19 ansible-role-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:19 ansible-role-ntp-master/tasks/
+-rw-rw-r-- root/root       158 2019-03-24 05:19 ansible-role-ntp-master/tasks/configure.yml
+-rw-rw-r-- root/root       286 2019-03-24 05:19 ansible-role-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:19 ansible-role-ntp-master/templates/
+-rw-rw-r-- root/root       574 2019-03-24 05:19 ansible-role-ntp-master/templates/ntp.conf.j2

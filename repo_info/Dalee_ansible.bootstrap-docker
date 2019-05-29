@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-03-28 06:20 ansible.bootstrap-docker-master/
+-rw-rw-r-- root/root       163 2017-03-28 06:20 ansible.bootstrap-docker-master/README.md
+drwxrwxr-x root/root         0 2017-03-28 06:20 ansible.bootstrap-docker-master/meta/
+-rw-rw-r-- root/root       244 2017-03-28 06:20 ansible.bootstrap-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-28 06:20 ansible.bootstrap-docker-master/tasks/
+-rw-rw-r-- root/root        68 2017-03-28 06:20 ansible.bootstrap-docker-master/tasks/main.yml
+-rw-rw-r-- root/root      1008 2017-03-28 06:20 ansible.bootstrap-docker-master/tasks/nginx.yml
+-rw-rw-r-- root/root       174 2017-03-28 06:20 ansible.bootstrap-docker-master/tasks/timezone.yml
+-rw-rw-r-- root/root       173 2017-03-28 06:20 ansible.bootstrap-docker-master/tasks/tools.yml
+drwxrwxr-x root/root         0 2017-03-28 06:20 ansible.bootstrap-docker-master/templates/
+-rw-rw-r-- root/root       407 2017-03-28 06:20 ansible.bootstrap-docker-master/templates/nginx.conf.j2

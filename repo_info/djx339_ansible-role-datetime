@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-21 21:18 ansible-role-datetime-master/
+-rw-rw-r-- root/root       539 2017-05-21 21:18 ansible-role-datetime-master/.travis.yml
+-rw-rw-r-- root/root       530 2017-05-21 21:18 ansible-role-datetime-master/README.md
+drwxrwxr-x root/root         0 2017-05-21 21:18 ansible-role-datetime-master/defaults/
+-rw-rw-r-- root/root       355 2017-05-21 21:18 ansible-role-datetime-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-21 21:18 ansible-role-datetime-master/handlers/
+-rw-rw-r-- root/root        33 2017-05-21 21:18 ansible-role-datetime-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-21 21:18 ansible-role-datetime-master/meta/
+-rw-rw-r-- root/root       531 2017-05-21 21:18 ansible-role-datetime-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-21 21:18 ansible-role-datetime-master/tasks/
+-rw-rw-r-- root/root       797 2017-05-21 21:18 ansible-role-datetime-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-21 21:18 ansible-role-datetime-master/tests/
+-rw-rw-r-- root/root         9 2017-05-21 21:18 ansible-role-datetime-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-05-21 21:18 ansible-role-datetime-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-21 21:18 ansible-role-datetime-master/vars/
+-rw-rw-r-- root/root        29 2017-05-21 21:18 ansible-role-datetime-master/vars/main.yml

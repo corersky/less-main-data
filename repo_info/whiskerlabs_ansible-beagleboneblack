@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-12-31 17:15 ansible-beagleboneblack-master/
+-rw-rw-r-- root/root      1079 2015-12-31 17:15 ansible-beagleboneblack-master/LICENSE
+-rw-rw-r-- root/root      1302 2015-12-31 17:15 ansible-beagleboneblack-master/README.md
+drwxrwxr-x root/root         0 2015-12-31 17:15 ansible-beagleboneblack-master/defaults/
+-rw-rw-r-- root/root       365 2015-12-31 17:15 ansible-beagleboneblack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-31 17:15 ansible-beagleboneblack-master/files/
+-rwxrwxr-x root/root       378 2015-12-31 17:15 ansible-beagleboneblack-master/files/led_aging.sh
+drwxrwxr-x root/root         0 2015-12-31 17:15 ansible-beagleboneblack-master/meta/
+-rw-rw-r-- root/root       493 2015-12-31 17:15 ansible-beagleboneblack-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-31 17:15 ansible-beagleboneblack-master/tasks/
+-rw-rw-r-- root/root       542 2015-12-31 17:15 ansible-beagleboneblack-master/tasks/main.yml

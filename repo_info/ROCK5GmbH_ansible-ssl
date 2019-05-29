@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-07-14 09:45 ansible-ssl-master/
+-rw-rw-r-- root/root       443 2017-07-14 09:45 ansible-ssl-master/README.md
+drwxrwxr-x root/root         0 2017-07-14 09:45 ansible-ssl-master/defaults/
+-rw-rw-r-- root/root       273 2017-07-14 09:45 ansible-ssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:45 ansible-ssl-master/meta/
+-rw-rw-r-- root/root       361 2017-07-14 09:45 ansible-ssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:45 ansible-ssl-master/tasks/
+-rw-rw-r-- root/root       826 2017-07-14 09:45 ansible-ssl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-14 09:45 ansible-ssl-master/templates/
+-rw-rw-r-- root/root       121 2017-07-14 09:45 ansible-ssl-master/templates/dh_params

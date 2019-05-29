@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-02 05:42 role-docker-install-master/
+-rw-rw-r-- root/root        25 2017-10-02 05:42 role-docker-install-master/README.md
+drwxrwxr-x root/root         0 2017-10-02 05:42 role-docker-install-master/defaults/
+-rw-rw-r-- root/root         5 2017-10-02 05:42 role-docker-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-02 05:42 role-docker-install-master/files/
+-rwxrwxr-x root/root     13255 2017-10-02 05:42 role-docker-install-master/files/get_docker_com.sh
+drwxrwxr-x root/root         0 2017-10-02 05:42 role-docker-install-master/meta/
+-rw-rw-r-- root/root       218 2017-10-02 05:42 role-docker-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-02 05:42 role-docker-install-master/tasks/
+-rw-rw-r-- root/root       667 2017-10-02 05:42 role-docker-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-02 05:42 role-docker-install-master/templates/
+-rw-rw-r-- root/root         0 2017-10-02 05:42 role-docker-install-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2017-10-02 05:42 role-docker-install-master/vars/
+-rw-rw-r-- root/root         5 2017-10-02 05:42 role-docker-install-master/vars/main.yml

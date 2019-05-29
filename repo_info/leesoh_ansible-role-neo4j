@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-10-03 12:34 ansible-role-neo4j-master/
+-rw-rw-r-- root/root       546 2018-10-03 12:34 ansible-role-neo4j-master/.travis.yml
+-rw-rw-r-- root/root       534 2018-10-03 12:34 ansible-role-neo4j-master/README.md
+-rw-rw-r-- root/root        28 2018-10-03 12:34 ansible-role-neo4j-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-10-03 12:34 ansible-role-neo4j-master/meta/
+-rw-rw-r-- root/root       221 2018-10-03 12:34 ansible-role-neo4j-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-03 12:34 ansible-role-neo4j-master/tasks/
+-rw-rw-r-- root/root       565 2018-10-03 12:34 ansible-role-neo4j-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-03 12:34 ansible-role-neo4j-master/tests/
+-rw-rw-r-- root/root        11 2018-10-03 12:34 ansible-role-neo4j-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-10-03 12:34 ansible-role-neo4j-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/
+-rw-rw-r-- root/root         6 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/.gitignore
+-rw-rw-r-- root/root      1080 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/LICENSE
+-rw-rw-r-- root/root      5674 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/README.md
+drwxrwxr-x root/root         0 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/defaults/
+-rw-rw-r-- root/root       284 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/handlers/
+-rw-rw-r-- root/root       162 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/meta/
+-rw-rw-r-- root/root       571 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/tasks/
+-rw-rw-r-- root/root      3204 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/templates/
+-rw-rw-r-- root/root       525 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/templates/vassal.ini.j2
+drwxrwxr-x root/root         0 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/tests/
+-rw-rw-r-- root/root         9 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/tests/inventory
+-rw-rw-r-- root/root       171 2018-03-14 20:26 ansible-role-uwsgi-vassal-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-03 09:08 tomcat-master/
+-rw-rw-r-- root/root      1328 2017-02-03 09:08 tomcat-master/README.md
+drwxrwxr-x root/root         0 2017-02-03 09:08 tomcat-master/defaults/
+-rw-rw-r-- root/root       255 2017-02-03 09:08 tomcat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-03 09:08 tomcat-master/handlers/
+-rw-rw-r-- root/root       197 2017-02-03 09:08 tomcat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-03 09:08 tomcat-master/meta/
+-rw-rw-r-- root/root       202 2017-02-03 09:08 tomcat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-03 09:08 tomcat-master/tasks/
+-rw-rw-r-- root/root      2589 2017-02-03 09:08 tomcat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-03 09:08 tomcat-master/templates/
+-rw-rw-r-- root/root      2954 2017-02-03 09:08 tomcat-master/templates/init_file.j2
+-rw-rw-r-- root/root        73 2017-02-03 09:08 tomcat-master/templates/maven.sh.j2
+-rw-rw-r-- root/root      6618 2017-02-03 09:08 tomcat-master/templates/server.j2
+-rw-rw-r-- root/root        49 2017-02-03 09:08 tomcat-master/templates/setenv.sh.j2
+-rw-rw-r-- root/root      1389 2017-02-03 09:08 tomcat-master/templates/tomcat-users.j2

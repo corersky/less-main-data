@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-31 10:00 ansible-role-wireshark-master/
+drwxrwxr-x root/root         0 2019-03-31 10:00 ansible-role-wireshark-master/.circleci/
+-rw-rw-r-- root/root       706 2019-03-31 10:00 ansible-role-wireshark-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-03-31 10:00 ansible-role-wireshark-master/.gitignore
+-rw-rw-r-- root/root      2123 2019-03-31 10:00 ansible-role-wireshark-master/.travis.yml
+-rw-rw-r-- root/root       524 2019-03-31 10:00 ansible-role-wireshark-master/README.md
+drwxrwxr-x root/root         0 2019-03-31 10:00 ansible-role-wireshark-master/meta/
+-rw-rw-r-- root/root      3524 2019-03-31 10:00 ansible-role-wireshark-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 10:00 ansible-role-wireshark-master/tasks/
+-rw-rw-r-- root/root      3170 2019-03-31 10:00 ansible-role-wireshark-master/tasks/compat.yml
+-rw-rw-r-- root/root       316 2019-03-31 10:00 ansible-role-wireshark-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       864 2019-03-31 10:00 ansible-role-wireshark-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       362 2019-03-31 10:00 ansible-role-wireshark-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 10:00 ansible-role-wireshark-master/vars/
+-rw-rw-r-- root/root        31 2019-03-31 10:00 ansible-role-wireshark-master/vars/default.yml
+-rw-rw-r-- root/root         4 2019-03-31 10:00 ansible-role-wireshark-master/vars/main.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-09-18 10:40 ansible-gpg-master/
+-rw-rw-r-- root/root       277 2017-09-18 10:40 ansible-gpg-master/.travis.yml
+-rw-rw-r-- root/root      1414 2017-09-18 10:40 ansible-gpg-master/Makefile
+-rw-rw-r-- root/root       285 2017-09-18 10:40 ansible-gpg-master/README.md
+drwxrwxr-x root/root         0 2017-09-18 10:40 ansible-gpg-master/meta/
+-rw-rw-r-- root/root       284 2017-09-18 10:40 ansible-gpg-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-18 10:40 ansible-gpg-master/tasks/
+-rw-rw-r-- root/root         4 2017-09-18 10:40 ansible-gpg-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-18 10:40 ansible-gpg-master/tests/
+-rw-rw-r-- root/root        11 2017-09-18 10:40 ansible-gpg-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-09-18 10:40 ansible-gpg-master/tests/test.yml

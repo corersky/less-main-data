@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-09 13:05 ansible-role-tmux-master/
+-rw-rw-r-- root/root        22 2017-10-09 13:05 ansible-role-tmux-master/.gitignore
+-rw-rw-r-- root/root       618 2017-10-09 13:05 ansible-role-tmux-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-10-09 13:05 ansible-role-tmux-master/LICENSE
+-rw-rw-r-- root/root       409 2017-10-09 13:05 ansible-role-tmux-master/README.md
+drwxrwxr-x root/root         0 2017-10-09 13:05 ansible-role-tmux-master/defaults/
+-rw-rw-r-- root/root         4 2017-10-09 13:05 ansible-role-tmux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-09 13:05 ansible-role-tmux-master/meta/
+-rw-rw-r-- root/root       383 2017-10-09 13:05 ansible-role-tmux-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-09 13:05 ansible-role-tmux-master/tasks/
+-rw-rw-r-- root/root        70 2017-10-09 13:05 ansible-role-tmux-master/tasks/main.yml
+-rw-rw-r-- root/root       536 2017-10-09 13:05 ansible-role-tmux-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2017-10-09 13:05 ansible-role-tmux-master/tests/
+-rw-rw-r-- root/root       632 2017-10-09 13:05 ansible-role-tmux-master/tests/README.md
+-rw-rw-r-- root/root       263 2017-10-09 13:05 ansible-role-tmux-master/tests/test.yml

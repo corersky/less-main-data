@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-26 06:27 ansible-ntpdate-master/
+-rw-rw-r-- root/root       387 2017-06-26 06:27 ansible-ntpdate-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1072 2017-06-26 06:27 ansible-ntpdate-master/LICENSE
+-rw-rw-r-- root/root      1083 2017-06-26 06:27 ansible-ntpdate-master/README.md
+drwxrwxr-x root/root         0 2017-06-26 06:27 ansible-ntpdate-master/defaults/
+-rw-rw-r-- root/root       189 2017-06-26 06:27 ansible-ntpdate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-26 06:27 ansible-ntpdate-master/handlers/
+-rw-rw-r-- root/root       336 2017-06-26 06:27 ansible-ntpdate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-26 06:27 ansible-ntpdate-master/meta/
+-rw-rw-r-- root/root      3248 2017-06-26 06:27 ansible-ntpdate-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-26 06:27 ansible-ntpdate-master/tasks/
+-rw-rw-r-- root/root       831 2017-06-26 06:27 ansible-ntpdate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-26 06:27 ansible-ntpdate-master/tests/
+-rw-rw-r-- root/root         9 2017-06-26 06:27 ansible-ntpdate-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-06-26 06:27 ansible-ntpdate-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-31 09:35 ansible-role-data-disks-master/
+-rw-rw-r-- root/root       123 2018-08-31 09:35 ansible-role-data-disks-master/.gitignore
+-rw-rw-r-- root/root      1067 2018-08-31 09:35 ansible-role-data-disks-master/LICENSE
+-rw-rw-r-- root/root      1361 2018-08-31 09:35 ansible-role-data-disks-master/README.md
+drwxrwxr-x root/root         0 2018-08-31 09:35 ansible-role-data-disks-master/meta/
+-rw-rw-r-- root/root       311 2018-08-31 09:35 ansible-role-data-disks-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-31 09:35 ansible-role-data-disks-master/tasks/
+-rw-rw-r-- root/root      2018 2018-08-31 09:35 ansible-role-data-disks-master/tasks/lvm.yml
+-rw-rw-r-- root/root       177 2018-08-31 09:35 ansible-role-data-disks-master/tasks/main.yml
+-rw-rw-r-- root/root       308 2018-08-31 09:35 ansible-role-data-disks-master/tasks/mdadm.yml
+-rw-rw-r-- root/root      1387 2018-08-31 09:35 ansible-role-data-disks-master/tasks/standard.yml
+drwxrwxr-x root/root         0 2018-08-31 09:35 ansible-role-data-disks-master/templates/
+-rw-rw-r-- root/root       254 2018-08-31 09:35 ansible-role-data-disks-master/templates/mount-unit-lvm.j2
+-rw-rw-r-- root/root       252 2018-08-31 09:35 ansible-role-data-disks-master/templates/mount-unit.j2

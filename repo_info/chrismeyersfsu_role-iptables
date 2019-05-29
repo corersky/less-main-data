@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/
+-rw-rw-r-- root/root      1311 2016-10-11 05:30 role-iptables-master/.travis.yml
+-rw-rw-r-- root/root       187 2016-10-11 05:30 role-iptables-master/README.md
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/defaults/
+-rw-rw-r-- root/root       142 2016-10-11 05:30 role-iptables-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/handlers/
+-rw-rw-r-- root/root        95 2016-10-11 05:30 role-iptables-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/meta/
+-rw-rw-r-- root/root       470 2016-10-11 05:30 role-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/tasks/
+-rw-rw-r-- root/root       602 2016-10-11 05:30 role-iptables-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/templates/
+-rw-rw-r-- root/root       848 2016-10-11 05:30 role-iptables-master/templates/iptables.j2
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/test/
+-rw-rw-r-- root/root        35 2016-10-11 05:30 role-iptables-master/test/inventory
+-rw-rw-r-- root/root       497 2016-10-11 05:30 role-iptables-master/test/main.yml
+-rw-rw-r-- root/root        64 2016-10-11 05:30 role-iptables-master/test/requirements.yml
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/test/roles/
+lrwxrwxrwx root/root         0 2016-10-11 05:30 role-iptables-master/test/roles/iptables -> ../../../role-iptables
+drwxrwxr-x root/root         0 2016-10-11 05:30 role-iptables-master/vars/
+-rw-rw-r-- root/root        62 2016-10-11 05:30 role-iptables-master/vars/RedHat-6.yml
+-rw-rw-r-- root/root        88 2016-10-11 05:30 role-iptables-master/vars/RedHat-7.yml

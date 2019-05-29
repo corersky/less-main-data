@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-22 11:30 ansible-supervisord-eventlistener-master/
+-rw-rw-r-- root/root        57 2019-05-22 11:30 ansible-supervisord-eventlistener-master/.gitignore
+-rw-rw-r-- root/root       743 2019-05-22 11:30 ansible-supervisord-eventlistener-master/.travis.yml
+-rw-rw-r-- root/root      1078 2019-05-22 11:30 ansible-supervisord-eventlistener-master/LICENSE
+-rw-rw-r-- root/root       700 2019-05-22 11:30 ansible-supervisord-eventlistener-master/README.md
+-rw-rw-r-- root/root      1054 2019-05-22 11:30 ansible-supervisord-eventlistener-master/circle.yml
+drwxrwxr-x root/root         0 2019-05-22 11:30 ansible-supervisord-eventlistener-master/defaults/
+-rw-rw-r-- root/root      2084 2019-05-22 11:30 ansible-supervisord-eventlistener-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-22 11:30 ansible-supervisord-eventlistener-master/meta/
+-rw-rw-r-- root/root       568 2019-05-22 11:30 ansible-supervisord-eventlistener-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-22 11:30 ansible-supervisord-eventlistener-master/tasks/
+-rw-rw-r-- root/root       344 2019-05-22 11:30 ansible-supervisord-eventlistener-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-22 11:30 ansible-supervisord-eventlistener-master/templates/
+-rw-rw-r-- root/root      1434 2019-05-22 11:30 ansible-supervisord-eventlistener-master/templates/simple-eventlistener.conf.j2
+-rw-rw-r-- root/root      6612 2019-05-22 11:30 ansible-supervisord-eventlistener-master/test.yml

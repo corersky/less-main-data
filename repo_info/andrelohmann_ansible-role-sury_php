@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-07-24 03:06 ansible-role-sury_php-master/
+-rw-rw-r-- root/root        28 2018-07-24 03:06 ansible-role-sury_php-master/.gitignore
+-rw-rw-r-- root/root      1027 2018-07-24 03:06 ansible-role-sury_php-master/.travis.yml
+-rw-rw-r-- root/root       551 2018-07-24 03:06 ansible-role-sury_php-master/README.md
+drwxrwxr-x root/root         0 2018-07-24 03:06 ansible-role-sury_php-master/meta/
+-rw-rw-r-- root/root       312 2018-07-24 03:06 ansible-role-sury_php-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-24 03:06 ansible-role-sury_php-master/tasks/
+-rw-rw-r-- root/root       127 2018-07-24 03:06 ansible-role-sury_php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-24 03:06 ansible-role-sury_php-master/tests/
+-rw-rw-r-- root/root         9 2018-07-24 03:06 ansible-role-sury_php-master/tests/inventory
+-rw-rw-r-- root/root       100 2018-07-24 03:06 ansible-role-sury_php-master/tests/test.yml

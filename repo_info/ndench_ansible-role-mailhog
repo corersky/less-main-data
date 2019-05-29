@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-04 02:27 ansible-role-mailhog-master/
+-rw-rw-r-- root/root       894 2017-11-04 02:27 ansible-role-mailhog-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-11-04 02:27 ansible-role-mailhog-master/LICENSE
+-rw-rw-r-- root/root       931 2017-11-04 02:27 ansible-role-mailhog-master/README.md
+drwxrwxr-x root/root         0 2017-11-04 02:27 ansible-role-mailhog-master/defaults/
+-rw-rw-r-- root/root        39 2017-11-04 02:27 ansible-role-mailhog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-04 02:27 ansible-role-mailhog-master/files/
+-rw-rw-r-- root/root       203 2017-11-04 02:27 ansible-role-mailhog-master/files/mailhog.service
+drwxrwxr-x root/root         0 2017-11-04 02:27 ansible-role-mailhog-master/meta/
+-rw-rw-r-- root/root       303 2017-11-04 02:27 ansible-role-mailhog-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-04 02:27 ansible-role-mailhog-master/tasks/
+-rw-rw-r-- root/root       515 2017-11-04 02:27 ansible-role-mailhog-master/tasks/install.yml
+-rw-rw-r-- root/root        87 2017-11-04 02:27 ansible-role-mailhog-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-04 02:27 ansible-role-mailhog-master/tests/
+-rw-rw-r-- root/root        11 2017-11-04 02:27 ansible-role-mailhog-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-11-04 02:27 ansible-role-mailhog-master/tests/test.yml

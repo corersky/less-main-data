@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-04 16:28 ansible-todoist-master/
+-rw-rw-r-- root/root       258 2019-01-04 16:28 ansible-todoist-master/.editorconfig
+-rw-rw-r-- root/root      1207 2019-01-04 16:28 ansible-todoist-master/.gitignore
+-rw-rw-r-- root/root      1271 2019-01-04 16:28 ansible-todoist-master/.travis.yml
+-rw-rw-r-- root/root      2140 2019-01-04 16:28 ansible-todoist-master/README.md
+-rw-rw-r-- root/root        56 2019-01-04 16:28 ansible-todoist-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-01-04 16:28 ansible-todoist-master/library/
+-rw-rw-r-- root/root      3765 2019-01-04 16:28 ansible-todoist-master/library/todo.py
+drwxrwxr-x root/root         0 2019-01-04 16:28 ansible-todoist-master/meta/
+-rw-rw-r-- root/root      1241 2019-01-04 16:28 ansible-todoist-master/meta/main.yml
+-rw-rw-r-- root/root       402 2019-01-04 16:28 ansible-todoist-master/playbook.yml
+drwxrwxr-x root/root         0 2019-01-04 16:28 ansible-todoist-master/tests/
+-rw-rw-r-- root/root        96 2019-01-04 16:28 ansible-todoist-master/tests/ansible.cfg
+-rw-rw-r-- root/root       110 2019-01-04 16:28 ansible-todoist-master/tests/inventory
+-rw-rw-r-- root/root      1148 2019-01-04 16:28 ansible-todoist-master/tests/test.yml

@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2015-05-11 09:36 ansible-zookeeper-master/
+-rw-rw-r-- root/root        37 2015-05-11 09:36 ansible-zookeeper-master/.gitignore
+-rw-rw-r-- root/root       409 2015-05-11 09:36 ansible-zookeeper-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-05-11 09:36 ansible-zookeeper-master/LICENSE
+-rw-rw-r-- root/root      1141 2015-05-11 09:36 ansible-zookeeper-master/README.md
+drwxrwxr-x root/root         0 2015-05-11 09:36 ansible-zookeeper-master/defaults/
+-rw-rw-r-- root/root       432 2015-05-11 09:36 ansible-zookeeper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-11 09:36 ansible-zookeeper-master/examples/
+-rw-rw-r-- root/root       668 2015-05-11 09:36 ansible-zookeeper-master/examples/Vagrantfile
+-rw-rw-r-- root/root        18 2015-05-11 09:36 ansible-zookeeper-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-05-11 09:36 ansible-zookeeper-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-05-11 09:36 ansible-zookeeper-master/examples/roles/azavea.zookeeper -> ../../
+-rw-rw-r-- root/root       133 2015-05-11 09:36 ansible-zookeeper-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-05-11 09:36 ansible-zookeeper-master/handlers/
+-rw-rw-r-- root/root        79 2015-05-11 09:36 ansible-zookeeper-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-11 09:36 ansible-zookeeper-master/meta/
+-rw-rw-r-- root/root       313 2015-05-11 09:36 ansible-zookeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-11 09:36 ansible-zookeeper-master/tasks/
+-rw-rw-r-- root/root      1428 2015-05-11 09:36 ansible-zookeeper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-11 09:36 ansible-zookeeper-master/templates/
+-rw-rw-r-- root/root       164 2015-05-11 09:36 ansible-zookeeper-master/templates/cdh5.j2
+-rw-rw-r-- root/root      1427 2015-05-11 09:36 ansible-zookeeper-master/templates/zoo.cfg.j2

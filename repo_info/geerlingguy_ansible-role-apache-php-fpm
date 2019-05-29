@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-16 17:56 ansible-role-apache-php-fpm-master/
+-rw-rw-r-- root/root        28 2019-05-16 17:56 ansible-role-apache-php-fpm-master/.gitignore
+-rw-rw-r-- root/root       531 2019-05-16 17:56 ansible-role-apache-php-fpm-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 17:56 ansible-role-apache-php-fpm-master/LICENSE
+-rw-rw-r-- root/root      2081 2019-05-16 17:56 ansible-role-apache-php-fpm-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 17:56 ansible-role-apache-php-fpm-master/meta/
+-rw-rw-r-- root/root       543 2019-05-16 17:56 ansible-role-apache-php-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 17:56 ansible-role-apache-php-fpm-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 17:56 ansible-role-apache-php-fpm-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 17:56 ansible-role-apache-php-fpm-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       691 2019-05-16 17:56 ansible-role-apache-php-fpm-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        82 2019-05-16 17:56 ansible-role-apache-php-fpm-master/molecule/default/requirements.yml
+-rw-rw-r-- root/root        75 2019-05-16 17:56 ansible-role-apache-php-fpm-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 17:56 ansible-role-apache-php-fpm-master/tasks/
+-rw-rw-r-- root/root       340 2019-05-16 17:56 ansible-role-apache-php-fpm-master/tasks/main.yml

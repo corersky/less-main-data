@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-06 10:11 ansible-role-prometheus-node-master/
+-rw-rw-r-- root/root       222 2017-06-06 10:11 ansible-role-prometheus-node-master/.travis.yml
+-rw-rw-r-- root/root       446 2017-06-06 10:11 ansible-role-prometheus-node-master/README.md
+drwxrwxr-x root/root         0 2017-06-06 10:11 ansible-role-prometheus-node-master/handlers/
+-rw-rw-r-- root/root       236 2017-06-06 10:11 ansible-role-prometheus-node-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-06 10:11 ansible-role-prometheus-node-master/meta/
+-rw-rw-r-- root/root       248 2017-06-06 10:11 ansible-role-prometheus-node-master/meta/main.yml
+-rw-rw-r-- root/root       409 2017-06-06 10:11 ansible-role-prometheus-node-master/molecule.yml
+-rw-rw-r-- root/root       124 2017-06-06 10:11 ansible-role-prometheus-node-master/playbook.yml
+drwxrwxr-x root/root         0 2017-06-06 10:11 ansible-role-prometheus-node-master/tasks/
+-rw-rw-r-- root/root      1511 2017-06-06 10:11 ansible-role-prometheus-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-06 10:11 ansible-role-prometheus-node-master/templates/
+-rw-rw-r-- root/root       150 2017-06-06 10:11 ansible-role-prometheus-node-master/templates/systemd-system-prometheus-node-exporter-service.j2
+drwxrwxr-x root/root         0 2017-06-06 10:11 ansible-role-prometheus-node-master/tests/
+-rw-rw-r-- root/root       480 2017-06-06 10:11 ansible-role-prometheus-node-master/tests/test_default.py

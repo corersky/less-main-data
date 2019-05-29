@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-05 05:17 ansible-role-marathon-lb-master/
+-rw-rw-r-- root/root       539 2017-04-05 05:17 ansible-role-marathon-lb-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-04-05 05:17 ansible-role-marathon-lb-master/LICENSE
+-rw-rw-r-- root/root      1328 2017-04-05 05:17 ansible-role-marathon-lb-master/README.md
+drwxrwxr-x root/root         0 2017-04-05 05:17 ansible-role-marathon-lb-master/defaults/
+-rw-rw-r-- root/root       234 2017-04-05 05:17 ansible-role-marathon-lb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-05 05:17 ansible-role-marathon-lb-master/handlers/
+-rw-rw-r-- root/root        36 2017-04-05 05:17 ansible-role-marathon-lb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-05 05:17 ansible-role-marathon-lb-master/meta/
+-rw-rw-r-- root/root       312 2017-04-05 05:17 ansible-role-marathon-lb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-05 05:17 ansible-role-marathon-lb-master/tasks/
+-rw-rw-r-- root/root       745 2017-04-05 05:17 ansible-role-marathon-lb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-05 05:17 ansible-role-marathon-lb-master/tests/
+-rw-rw-r-- root/root         9 2017-04-05 05:17 ansible-role-marathon-lb-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-04-05 05:17 ansible-role-marathon-lb-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-05 05:17 ansible-role-marathon-lb-master/vars/
+-rw-rw-r-- root/root        32 2017-04-05 05:17 ansible-role-marathon-lb-master/vars/main.yml

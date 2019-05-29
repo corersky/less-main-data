@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-10-26 19:21 ansible-daemontools-master/
+-rw-rw-r-- root/root         9 2014-10-26 19:21 ansible-daemontools-master/.gitignore
+-rw-rw-r-- root/root        29 2014-10-26 19:21 ansible-daemontools-master/CHANGELOG.md
+-rw-rw-r-- root/root       234 2014-10-26 19:21 ansible-daemontools-master/README.md
+drwxrwxr-x root/root         0 2014-10-26 19:21 ansible-daemontools-master/defaults/
+-rw-rw-r-- root/root        43 2014-10-26 19:21 ansible-daemontools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-26 19:21 ansible-daemontools-master/examples/
+-rw-rw-r-- root/root       278 2014-10-26 19:21 ansible-daemontools-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-10-26 19:21 ansible-daemontools-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-10-26 19:21 ansible-daemontools-master/examples/roles/azavea.daemontools -> ../../
+-rw-rw-r-- root/root        63 2014-10-26 19:21 ansible-daemontools-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-10-26 19:21 ansible-daemontools-master/meta/
+-rw-rw-r-- root/root       267 2014-10-26 19:21 ansible-daemontools-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-26 19:21 ansible-daemontools-master/tasks/
+-rw-rw-r-- root/root        95 2014-10-26 19:21 ansible-daemontools-master/tasks/main.yml

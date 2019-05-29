@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-03-23 07:56 nodejs-master/
+-rw-rw-r-- root/root      2201 2016-03-23 07:56 nodejs-master/.travis.yml
+-rw-rw-r-- root/root      1908 2016-03-23 07:56 nodejs-master/README.md
+drwxrwxr-x root/root         0 2016-03-23 07:56 nodejs-master/defaults/
+-rw-rw-r-- root/root       517 2016-03-23 07:56 nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-23 07:56 nodejs-master/meta/
+-rw-rw-r-- root/root       444 2016-03-23 07:56 nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-23 07:56 nodejs-master/tasks/
+-rw-rw-r-- root/root      1103 2016-03-23 07:56 nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       828 2016-03-23 07:56 nodejs-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       704 2016-03-23 07:56 nodejs-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2016-03-23 07:56 nodejs-master/tests/
+-rw-rw-r-- root/root       380 2016-03-23 07:56 nodejs-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1027 2016-03-23 07:56 nodejs-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root       343 2016-03-23 07:56 nodejs-master/tests/Dockerfile.ubuntu-12.04
+-rw-rw-r-- root/root       316 2016-03-23 07:56 nodejs-master/tests/Dockerfile.ubuntu-14.04
+-rw-rw-r-- root/root       596 2016-03-23 07:56 nodejs-master/tests/test.yml

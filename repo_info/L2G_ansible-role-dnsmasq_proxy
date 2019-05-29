@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/
+-rw-rw-r-- root/root       214 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/CHANGELOG.md
+-rw-rw-r-- root/root     18523 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/LICENSE.txt
+-rw-rw-r-- root/root      3453 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/README.md
+drwxrwxr-x root/root         0 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/defaults/
+-rw-rw-r-- root/root       425 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/handlers/
+-rw-rw-r-- root/root        68 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/meta/
+-rw-rw-r-- root/root      2004 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/tasks/
+-rw-rw-r-- root/root       493 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/tasks/config.yml
+-rw-rw-r-- root/root       254 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/tasks/install.yml
+-rw-rw-r-- root/root        49 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/templates/
+-rw-rw-r-- root/root      3324 2015-03-09 16:59 ansible-role-dnsmasq_proxy-master/templates/dnsmasq.conf.j2

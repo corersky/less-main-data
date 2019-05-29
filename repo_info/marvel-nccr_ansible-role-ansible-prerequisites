@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/
+-rw-rw-r-- root/root       932 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/LICENSE
+-rw-rw-r-- root/root       755 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/README.md
+drwxrwxr-x root/root         0 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/defaults/
+-rw-rw-r-- root/root         4 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/meta/
+-rw-rw-r-- root/root       355 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/molecule/
+drwxrwxr-x root/root         0 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/molecule/default/
+-rw-rw-r-- root/root       764 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       266 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/tasks/
+-rw-rw-r-- root/root       362 2019-03-25 16:03 ansible-role-ansible-prerequisites-master/tasks/main.yml

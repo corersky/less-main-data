@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-01-22 04:07 mongodb-ansible-master/
+-rw-rw-r-- root/root       445 2014-01-22 04:07 mongodb-ansible-master/README.md
+drwxrwxr-x root/root         0 2014-01-22 04:07 mongodb-ansible-master/group_vars/
+-rw-rw-r-- root/root       293 2014-01-22 04:07 mongodb-ansible-master/group_vars/all
+drwxrwxr-x root/root         0 2014-01-22 04:07 mongodb-ansible-master/roles/
+drwxrwxr-x root/root         0 2014-01-22 04:07 mongodb-ansible-master/roles/mongodb/
+drwxrwxr-x root/root         0 2014-01-22 04:07 mongodb-ansible-master/roles/mongodb/handlers/
+-rw-rw-r-- root/root       122 2014-01-22 04:07 mongodb-ansible-master/roles/mongodb/handlers/main.yml
+drwxrwxr-x root/root         0 2014-01-22 04:07 mongodb-ansible-master/roles/mongodb/tasks/
+-rw-rw-r-- root/root       378 2014-01-22 04:07 mongodb-ansible-master/roles/mongodb/tasks/main.yml
+-rw-rw-r-- root/root       148 2014-01-22 04:07 mongodb-ansible-master/site.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-23 13:36 ansible-role-docker-master/
+-rw-rw-r-- root/root        20 2019-05-23 13:36 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root      1067 2019-05-23 13:36 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root        92 2019-05-23 13:36 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 13:36 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        30 2019-05-23 13:36 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 13:36 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       411 2019-05-23 13:36 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 13:36 ansible-role-docker-master/tasks/
+drwxrwxr-x root/root         0 2019-05-23 13:36 ansible-role-docker-master/tasks/docker-compose/
+-rw-rw-r-- root/root       902 2019-05-23 13:36 ansible-role-docker-master/tasks/docker-compose/main.yml
+drwxrwxr-x root/root         0 2019-05-23 13:36 ansible-role-docker-master/tasks/docker/
+-rw-rw-r-- root/root       404 2019-05-23 13:36 ansible-role-docker-master/tasks/docker/centos.yml
+-rw-rw-r-- root/root       677 2019-05-23 13:36 ansible-role-docker-master/tasks/docker/debian.yml
+-rw-rw-r-- root/root       673 2019-05-23 13:36 ansible-role-docker-master/tasks/docker/main.yml
+-rw-rw-r-- root/root       586 2019-05-23 13:36 ansible-role-docker-master/tasks/docker/ubuntu.yml
+-rw-rw-r-- root/root       139 2019-05-23 13:36 ansible-role-docker-master/tasks/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-12 03:45 ansible-role-weave-master/
+-rw-rw-r-- root/root     11357 2019-03-12 03:45 ansible-role-weave-master/LICENSE
+-rw-rw-r-- root/root        55 2019-03-12 03:45 ansible-role-weave-master/README.md
+drwxrwxr-x root/root         0 2019-03-12 03:45 ansible-role-weave-master/defaults/
+-rw-rw-r-- root/root       128 2019-03-12 03:45 ansible-role-weave-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-12 03:45 ansible-role-weave-master/files/
+-rw-rw-r-- root/root     51483 2019-03-12 03:45 ansible-role-weave-master/files/weave
+-rw-rw-r-- root/root       108 2019-03-12 03:45 ansible-role-weave-master/files/weave-env.sh
+drwxrwxr-x root/root         0 2019-03-12 03:45 ansible-role-weave-master/meta/
+-rw-rw-r-- root/root       279 2019-03-12 03:45 ansible-role-weave-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-12 03:45 ansible-role-weave-master/tasks/
+-rw-rw-r-- root/root       160 2019-03-12 03:45 ansible-role-weave-master/tasks/front.yml
+-rw-rw-r-- root/root       308 2019-03-12 03:45 ansible-role-weave-master/tasks/main.yml
+-rw-rw-r-- root/root       171 2019-03-12 03:45 ansible-role-weave-master/tasks/wn.yml

@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-08-09 11:56 ufw-role-master/
+-rw-rw-r-- root/root        17 2016-08-09 11:56 ufw-role-master/.gitignore
+-rw-rw-r-- root/root      1272 2016-08-09 11:56 ufw-role-master/.travis.yml
+-rw-rw-r-- root/root      1558 2016-08-09 11:56 ufw-role-master/README.md
+drwxrwxr-x root/root         0 2016-08-09 11:56 ufw-role-master/defaults/
+-rw-rw-r-- root/root       501 2016-08-09 11:56 ufw-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-09 11:56 ufw-role-master/handlers/
+-rw-rw-r-- root/root        83 2016-08-09 11:56 ufw-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-09 11:56 ufw-role-master/meta/
+-rw-rw-r-- root/root      3536 2016-08-09 11:56 ufw-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-09 11:56 ufw-role-master/tasks/
+-rw-rw-r-- root/root      2704 2016-08-09 11:56 ufw-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-09 11:56 ufw-role-master/tests/
+-rw-rw-r-- root/root        34 2016-08-09 11:56 ufw-role-master/tests/inventory
+-rw-rw-r-- root/root        63 2016-08-09 11:56 ufw-role-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-08-09 11:56 ufw-role-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-08-09 11:56 ufw-role-master/tests/roles/ufw-role -> ../../../ufw-role
+-rw-rw-r-- root/root       873 2016-08-09 11:56 ufw-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-09 11:56 ufw-role-master/vars/
+-rw-rw-r-- root/root        38 2016-08-09 11:56 ufw-role-master/vars/main.yml

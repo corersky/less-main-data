@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-05-21 12:12 ansible-role-php-ext-master/
+-rw-rw-r-- root/root       197 2015-05-21 12:12 ansible-role-php-ext-master/.editorconfig
+-rw-rw-r-- root/root        12 2015-05-21 12:12 ansible-role-php-ext-master/.gitattributes
+-rw-rw-r-- root/root        40 2015-05-21 12:12 ansible-role-php-ext-master/.gitignore
+-rw-rw-r-- root/root       466 2015-05-21 12:12 ansible-role-php-ext-master/.travis.yml
+-rw-rw-r-- root/root      1050 2015-05-21 12:12 ansible-role-php-ext-master/LICENSE
+-rw-rw-r-- root/root      1632 2015-05-21 12:12 ansible-role-php-ext-master/README.md
+drwxrwxr-x root/root         0 2015-05-21 12:12 ansible-role-php-ext-master/defaults/
+-rw-rw-r-- root/root       647 2015-05-21 12:12 ansible-role-php-ext-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:12 ansible-role-php-ext-master/meta/
+-rw-rw-r-- root/root       266 2015-05-21 12:12 ansible-role-php-ext-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:12 ansible-role-php-ext-master/tasks/
+-rw-rw-r-- root/root       559 2015-05-21 12:12 ansible-role-php-ext-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:12 ansible-role-php-ext-master/tests/
+-rw-rw-r-- root/root        83 2015-05-21 12:12 ansible-role-php-ext-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2015-05-21 12:12 ansible-role-php-ext-master/tests/inventory
+-rw-rw-r-- root/root        51 2015-05-21 12:12 ansible-role-php-ext-master/tests/playbook.yml

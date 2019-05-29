@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-01 08:17 osx-bootstrap-user-master/
+-rw-rw-r-- root/root        26 2018-05-01 08:17 osx-bootstrap-user-master/.gitignore
+-rw-rw-r-- root/root       627 2018-05-01 08:17 osx-bootstrap-user-master/.travis.yml
+-rw-rw-r-- root/root      1074 2018-05-01 08:17 osx-bootstrap-user-master/LICENSE
+-rw-rw-r-- root/root      2235 2018-05-01 08:17 osx-bootstrap-user-master/README.md
+drwxrwxr-x root/root         0 2018-05-01 08:17 osx-bootstrap-user-master/defaults/
+-rw-rw-r-- root/root       584 2018-05-01 08:17 osx-bootstrap-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-01 08:17 osx-bootstrap-user-master/meta/
+-rw-rw-r-- root/root       312 2018-05-01 08:17 osx-bootstrap-user-master/meta/main.yml
+-rw-rw-r-- root/root        40 2018-05-01 08:17 osx-bootstrap-user-master/requirements.yml
+drwxrwxr-x root/root         0 2018-05-01 08:17 osx-bootstrap-user-master/tasks/
+-rw-rw-r-- root/root       803 2018-05-01 08:17 osx-bootstrap-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-01 08:17 osx-bootstrap-user-master/templates/
+-rw-rw-r-- root/root      2583 2018-05-01 08:17 osx-bootstrap-user-master/templates/zshrc.j2
+drwxrwxr-x root/root         0 2018-05-01 08:17 osx-bootstrap-user-master/tests/
+-rw-rw-r-- root/root        11 2018-05-01 08:17 osx-bootstrap-user-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-05-01 08:17 osx-bootstrap-user-master/tests/test.yml

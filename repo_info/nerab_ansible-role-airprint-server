@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-19 14:25 ansible-role-airprint-server-master/
+-rw-rw-r-- root/root        61 2017-06-19 14:25 ansible-role-airprint-server-master/README.md
+drwxrwxr-x root/root         0 2017-06-19 14:25 ansible-role-airprint-server-master/files/
+-rw-rw-r-- root/root      4519 2017-06-19 14:25 ansible-role-airprint-server-master/files/cupsd.conf
+drwxrwxr-x root/root         0 2017-06-19 14:25 ansible-role-airprint-server-master/handlers/
+-rw-rw-r-- root/root        87 2017-06-19 14:25 ansible-role-airprint-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-19 14:25 ansible-role-airprint-server-master/meta/
+-rw-rw-r-- root/root       216 2017-06-19 14:25 ansible-role-airprint-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-19 14:25 ansible-role-airprint-server-master/tasks/
+-rw-rw-r-- root/root       598 2017-06-19 14:25 ansible-role-airprint-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-19 14:25 ansible-role-airprint-server-master/tests/
+-rw-rw-r-- root/root        11 2017-06-19 14:25 ansible-role-airprint-server-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-06-19 14:25 ansible-role-airprint-server-master/tests/test.yml

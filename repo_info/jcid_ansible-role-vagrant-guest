@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-guest-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-vagrant-guest-master/.travis.yml
+-rw-rw-r-- root/root        81 2016-12-11 10:56 ansible-role-vagrant-guest-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-guest-master/handlers/
+-rw-rw-r-- root/root       163 2016-12-11 10:56 ansible-role-vagrant-guest-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-guest-master/meta/
+-rw-rw-r-- root/root       214 2016-12-11 10:56 ansible-role-vagrant-guest-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-guest-master/tasks/
+-rw-rw-r-- root/root       522 2016-12-11 10:56 ansible-role-vagrant-guest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-vagrant-guest-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-vagrant-guest-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-12-11 10:56 ansible-role-vagrant-guest-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_yum_cron-master/
+-rw-rw-r-- root/root       409 2018-09-06 15:58 aspects_yum_cron-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1092 2018-09-06 15:58 aspects_yum_cron-master/LICENSE
+-rw-rw-r-- root/root      1174 2018-09-06 15:58 aspects_yum_cron-master/README.md
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_yum_cron-master/defaults/
+-rw-rw-r-- root/root       453 2018-09-06 15:58 aspects_yum_cron-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_yum_cron-master/handlers/
+-rw-rw-r-- root/root       515 2018-09-06 15:58 aspects_yum_cron-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_yum_cron-master/meta/
+-rw-rw-r-- root/root       446 2018-09-06 15:58 aspects_yum_cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_yum_cron-master/tasks/
+-rw-rw-r-- root/root       261 2018-09-06 15:58 aspects_yum_cron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-06 15:58 aspects_yum_cron-master/templates/
+-rw-rw-r-- root/root      2788 2018-09-06 15:58 aspects_yum_cron-master/templates/etc-sysconfig-yum-cron.j2

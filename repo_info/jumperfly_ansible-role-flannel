@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-20 04:41 ansible-role-flannel-master/
+-rw-rw-r-- root/root        95 2019-01-20 04:41 ansible-role-flannel-master/.gitignore
+-rw-rw-r-- root/root      1110 2019-01-20 04:41 ansible-role-flannel-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 04:41 ansible-role-flannel-master/defaults/
+-rw-rw-r-- root/root       313 2019-01-20 04:41 ansible-role-flannel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 04:41 ansible-role-flannel-master/handlers/
+-rw-rw-r-- root/root       235 2019-01-20 04:41 ansible-role-flannel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-20 04:41 ansible-role-flannel-master/meta/
+-rw-rw-r-- root/root       216 2019-01-20 04:41 ansible-role-flannel-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 04:41 ansible-role-flannel-master/tasks/
+-rw-rw-r-- root/root      4319 2019-01-20 04:41 ansible-role-flannel-master/tasks/k8s.yml
+-rw-rw-r-- root/root      1123 2019-01-20 04:41 ansible-role-flannel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 04:41 ansible-role-flannel-master/vars/
+-rw-rw-r-- root/root       288 2019-01-20 04:41 ansible-role-flannel-master/vars/main.yml

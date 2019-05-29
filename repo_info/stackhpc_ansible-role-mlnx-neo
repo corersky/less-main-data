@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2018-04-23 10:09 ansible-role-mlnx-neo-master/
+-rw-rw-r-- root/root      1157 2018-04-23 10:09 ansible-role-mlnx-neo-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-04-23 10:09 ansible-role-mlnx-neo-master/LICENSE
+-rw-rw-r-- root/root      2330 2018-04-23 10:09 ansible-role-mlnx-neo-master/README.md
+drwxrwxr-x root/root         0 2018-04-23 10:09 ansible-role-mlnx-neo-master/defaults/
+-rw-rw-r-- root/root      2381 2018-04-23 10:09 ansible-role-mlnx-neo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-23 10:09 ansible-role-mlnx-neo-master/meta/
+-rw-rw-r-- root/root       320 2018-04-23 10:09 ansible-role-mlnx-neo-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/
+-rw-rw-r-- root/root       808 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/build.yml
+-rw-rw-r-- root/root       462 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/config.yml
+-rw-rw-r-- root/root        47 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/deploy.yml
+-rw-rw-r-- root/root       844 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/destroy.yml
+-rw-rw-r-- root/root       197 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/main.yml
+-rw-rw-r-- root/root       258 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/pull.yml
+lrwxrwxrwx root/root         0 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/reconfigure.yml -> deploy.yml
+-rw-rw-r-- root/root       947 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/start.yml
+-rw-rw-r-- root/root        46 2018-04-23 10:09 ansible-role-mlnx-neo-master/tasks/upgrade.yml

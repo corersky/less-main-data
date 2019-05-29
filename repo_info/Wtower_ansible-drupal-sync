@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-11 09:51 ansible-drupal-sync-master/
+-rw-rw-r-- root/root       151 2016-02-11 09:51 ansible-drupal-sync-master/.gitignore
+-rw-rw-r-- root/root         0 2016-02-11 09:51 ansible-drupal-sync-master/CHANGELOG
+-rw-rw-r-- root/root       144 2016-02-11 09:51 ansible-drupal-sync-master/CONTRIBUTING.rst
+-rw-rw-r-- root/root      1563 2016-02-11 09:51 ansible-drupal-sync-master/LICENSE
+-rw-rw-r-- root/root       626 2016-02-11 09:51 ansible-drupal-sync-master/README.md
+drwxrwxr-x root/root         0 2016-02-11 09:51 ansible-drupal-sync-master/examples/
+-rw-rw-r-- root/root       749 2016-02-11 09:51 ansible-drupal-sync-master/examples/drupal_back_sync.yml
+-rw-rw-r-- root/root       185 2016-02-11 09:51 ansible-drupal-sync-master/examples/drupal_sites.yml
+drwxrwxr-x root/root         0 2016-02-11 09:51 ansible-drupal-sync-master/meta/
+-rw-rw-r-- root/root       446 2016-02-11 09:51 ansible-drupal-sync-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-11 09:51 ansible-drupal-sync-master/tasks/
+-rw-rw-r-- root/root       544 2016-02-11 09:51 ansible-drupal-sync-master/tasks/main.yml

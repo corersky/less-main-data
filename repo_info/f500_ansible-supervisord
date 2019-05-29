@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-17 05:12 ansible-supervisord-master/
+-rw-rw-r-- root/root     35147 2019-04-17 05:12 ansible-supervisord-master/COPYING
+-rw-rw-r-- root/root      7651 2019-04-17 05:12 ansible-supervisord-master/COPYING.LESSER
+-rw-rw-r-- root/root       988 2019-04-17 05:12 ansible-supervisord-master/README.md
+drwxrwxr-x root/root         0 2019-04-17 05:12 ansible-supervisord-master/defaults/
+-rw-rw-r-- root/root       615 2019-04-17 05:12 ansible-supervisord-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-17 05:12 ansible-supervisord-master/files/
+-rw-rw-r-- root/root       784 2019-04-17 05:12 ansible-supervisord-master/files/supervisor-fatals-listener.py
+-rw-rw-r-- root/root       140 2019-04-17 05:12 ansible-supervisord-master/files/supervisor.event.listeners.conf
+drwxrwxr-x root/root         0 2019-04-17 05:12 ansible-supervisord-master/handlers/
+-rw-rw-r-- root/root       181 2019-04-17 05:12 ansible-supervisord-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-17 05:12 ansible-supervisord-master/meta/
+-rw-rw-r-- root/root       295 2019-04-17 05:12 ansible-supervisord-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-17 05:12 ansible-supervisord-master/tasks/
+-rw-rw-r-- root/root       928 2019-04-17 05:12 ansible-supervisord-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-17 05:12 ansible-supervisord-master/templates/
+-rw-rw-r-- root/root      1314 2019-04-17 05:12 ansible-supervisord-master/templates/supervisord.conf.j2

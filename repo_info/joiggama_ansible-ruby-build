@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2015-12-21 21:08 ansible-ruby-build-master/
+-rw-rw-r-- root/root       807 2015-12-21 21:08 ansible-ruby-build-master/.travis.yml
+-rw-rw-r-- root/root      1310 2015-12-21 21:08 ansible-ruby-build-master/README.md
+drwxrwxr-x root/root         0 2015-12-21 21:08 ansible-ruby-build-master/defaults/
+-rw-rw-r-- root/root       190 2015-12-21 21:08 ansible-ruby-build-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:08 ansible-ruby-build-master/handlers/
+-rw-rw-r-- root/root         4 2015-12-21 21:08 ansible-ruby-build-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:08 ansible-ruby-build-master/meta/
+-rw-rw-r-- root/root       291 2015-12-21 21:08 ansible-ruby-build-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:08 ansible-ruby-build-master/tasks/
+-rw-rw-r-- root/root       567 2015-12-21 21:08 ansible-ruby-build-master/tasks/dependencies.yml
+-rw-rw-r-- root/root      1135 2015-12-21 21:08 ansible-ruby-build-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:08 ansible-ruby-build-master/test/
+-rw-rw-r-- root/root       271 2015-12-21 21:08 ansible-ruby-build-master/test/Vagrantfile.example
+lrwxrwxrwx root/root         0 2015-12-21 21:08 ansible-ruby-build-master/test/ansible-ruby-build -> ../
+-rw-rw-r-- root/root        26 2015-12-21 21:08 ansible-ruby-build-master/test/ansible.cfg.example
+-rw-rw-r-- root/root        10 2015-12-21 21:08 ansible-ruby-build-master/test/inventory
+-rw-rw-r-- root/root        83 2015-12-21 21:08 ansible-ruby-build-master/test/travis.yml
+-rw-rw-r-- root/root        72 2015-12-21 21:08 ansible-ruby-build-master/test/vagrant.yml
+drwxrwxr-x root/root         0 2015-12-21 21:08 ansible-ruby-build-master/vars/
+-rw-rw-r-- root/root         4 2015-12-21 21:08 ansible-ruby-build-master/vars/main.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-06-20 01:52 ansible-p7zip-master/
+-rw-rw-r-- root/root      1074 2016-06-20 01:52 ansible-p7zip-master/LICENSE
+-rw-rw-r-- root/root       103 2016-06-20 01:52 ansible-p7zip-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 01:52 ansible-p7zip-master/meta/
+-rw-rw-r-- root/root       487 2016-06-20 01:52 ansible-p7zip-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:52 ansible-p7zip-master/tasks/
+-rw-rw-r-- root/root       159 2016-06-20 01:52 ansible-p7zip-master/tasks/centos.yml
+-rw-rw-r-- root/root       144 2016-06-20 01:52 ansible-p7zip-master/tasks/debian.yml
+-rw-rw-r-- root/root       127 2016-06-20 01:52 ansible-p7zip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:52 ansible-p7zip-master/tests/
+-rw-rw-r-- root/root       249 2016-06-20 01:52 ansible-p7zip-master/tests/main.yml

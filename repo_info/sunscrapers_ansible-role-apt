@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-20 04:25 ansible-role-apt-master/
+-rw-rw-r-- root/root        15 2016-10-20 04:25 ansible-role-apt-master/.gitignore
+-rw-rw-r-- root/root       486 2016-10-20 04:25 ansible-role-apt-master/.travis.yml
+-rw-rw-r-- root/root      1078 2016-10-20 04:25 ansible-role-apt-master/LICENSE
+-rw-rw-r-- root/root       907 2016-10-20 04:25 ansible-role-apt-master/README.md
+-rw-rw-r-- root/root       442 2016-10-20 04:25 ansible-role-apt-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-10-20 04:25 ansible-role-apt-master/defaults/
+-rw-rw-r-- root/root        88 2016-10-20 04:25 ansible-role-apt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-20 04:25 ansible-role-apt-master/meta/
+-rw-rw-r-- root/root       294 2016-10-20 04:25 ansible-role-apt-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-20 04:25 ansible-role-apt-master/tasks/
+-rw-rw-r-- root/root       545 2016-10-20 04:25 ansible-role-apt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-20 04:25 ansible-role-apt-master/templates/
+-rw-rw-r-- root/root        80 2016-10-20 04:25 ansible-role-apt-master/templates/auto-upgrades.j2
+-rw-rw-r-- root/root       149 2016-10-20 04:25 ansible-role-apt-master/test.yml
+-rw-rw-r-- root/root        14 2016-10-20 04:25 ansible-role-apt-master/vagrant-inventory

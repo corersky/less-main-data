@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-04 15:19 ansible-role-packer-centos-master/
+-rw-rw-r-- root/root       480 2016-06-04 15:19 ansible-role-packer-centos-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-06-04 15:19 ansible-role-packer-centos-master/LICENSE
+-rw-rw-r-- root/root      1717 2016-06-04 15:19 ansible-role-packer-centos-master/README.md
+drwxrwxr-x root/root         0 2016-06-04 15:19 ansible-role-packer-centos-master/meta/
+-rw-rw-r-- root/root       294 2016-06-04 15:19 ansible-role-packer-centos-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-04 15:19 ansible-role-packer-centos-master/tasks/
+-rw-rw-r-- root/root      2158 2016-06-04 15:19 ansible-role-packer-centos-master/tasks/main.yml
+-rw-rw-r-- root/root       720 2016-06-04 15:19 ansible-role-packer-centos-master/tasks/virtualbox.yml
+drwxrwxr-x root/root         0 2016-06-04 15:19 ansible-role-packer-centos-master/tests/
+-rw-rw-r-- root/root        10 2016-06-04 15:19 ansible-role-packer-centos-master/tests/inventory
+-rw-rw-r-- root/root        86 2016-06-04 15:19 ansible-role-packer-centos-master/tests/test.yml

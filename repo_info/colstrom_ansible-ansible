@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-09-28 12:22 ansible-ansible-master/
+-rw-rw-r-- root/root      1081 2015-09-28 12:22 ansible-ansible-master/LICENSE
+-rw-rw-r-- root/root       956 2015-09-28 12:22 ansible-ansible-master/README.md
+drwxrwxr-x root/root         0 2015-09-28 12:22 ansible-ansible-master/defaults/
+-rw-rw-r-- root/root       111 2015-09-28 12:22 ansible-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-28 12:22 ansible-ansible-master/meta/
+-rw-rw-r-- root/root       412 2015-09-28 12:22 ansible-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-28 12:22 ansible-ansible-master/tasks/
+-rw-rw-r-- root/root       414 2015-09-28 12:22 ansible-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-28 12:22 ansible-ansible-master/templates/
+drwxrwxr-x root/root         0 2015-09-28 12:22 ansible-ansible-master/templates/etc/
+drwxrwxr-x root/root         0 2015-09-28 12:22 ansible-ansible-master/templates/etc/ansible/
+-rw-rw-r-- root/root       256 2015-09-28 12:22 ansible-ansible-master/templates/etc/ansible/ansible.cfg
+-rw-rw-r-- root/root        18 2015-09-28 12:22 ansible-ansible-master/templates/etc/ansible/hosts

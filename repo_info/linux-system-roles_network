@@ -1,0 +1,77 @@
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/
+-rw-rw-r-- root/root       183 2019-05-06 10:07 network-master/.gitignore
+-rw-rw-r-- root/root       439 2019-05-06 10:07 network-master/.travis.yml
+-rw-rw-r-- root/root      1510 2019-05-06 10:07 network-master/LICENSE
+-rw-rw-r-- root/root     22491 2019-05-06 10:07 network-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/defaults/
+-rw-rw-r-- root/root      3784 2019-05-06 10:07 network-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/examples/
+-rw-rw-r-- root/root       857 2019-05-06 10:07 network-master/examples/bond-with-vlan.yml
+-rw-rw-r-- root/root       826 2019-05-06 10:07 network-master/examples/bridge-with-vlan.yml
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/examples/down-profile.yml -> ../tests/down-profile.yml
+-rw-rw-r-- root/root       436 2019-05-06 10:07 network-master/examples/eth-simple-auto.yml
+-rw-rw-r-- root/root       662 2019-05-06 10:07 network-master/examples/eth-with-vlan.yml
+-rw-rw-r-- root/root       532 2019-05-06 10:07 network-master/examples/infiniband.yml
+-rw-rw-r-- root/root       356 2019-05-06 10:07 network-master/examples/inventory
+-rw-rw-r-- root/root       576 2019-05-06 10:07 network-master/examples/macvlan.yml
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/examples/remove-profile.yml -> ../tests/remove-profile.yml
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/examples/roles -> ../tests/roles/
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/library/
+-rw-rw-r-- root/root     79623 2019-05-06 10:07 network-master/library/network_connections.py
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/meta/
+-rw-rw-r-- root/root       506 2019-05-06 10:07 network-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/module_utils/
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/module_utils/network_lsr/
+-rw-rw-r-- root/root       125 2019-05-06 10:07 network-master/module_utils/network_lsr/__init__.py
+-rw-rw-r-- root/root     42382 2019-05-06 10:07 network-master/module_utils/network_lsr/argument_validator.py
+-rw-rw-r-- root/root      8784 2019-05-06 10:07 network-master/module_utils/network_lsr/utils.py
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/molecule/
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-05-06 10:07 network-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       665 2019-05-06 10:07 network-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       201 2019-05-06 10:07 network-master/molecule/default/yamllint.yml
+-rw-rw-r-- root/root     16812 2019-05-06 10:07 network-master/pylintrc
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/tasks/
+-rw-rw-r-- root/root      1623 2019-05-06 10:07 network-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/tests/
+-rw-rw-r-- root/root        20 2019-05-06 10:07 network-master/tests/.gitignore
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/tests/ansible_module_network_connections.py -> roles/linux-system-roles.network/library/network_connections.py
+-rwxrwxr-x root/root       344 2019-05-06 10:07 network-master/tests/covstats
+-rw-rw-r-- root/root       213 2019-05-06 10:07 network-master/tests/down-profile.yml
+-rwxrwxr-x root/root      3039 2019-05-06 10:07 network-master/tests/ensure_non_running_provider.py
+-rwxrwxr-x root/root      1713 2019-05-06 10:07 network-master/tests/get-coverage.sh
+-rw-rw-r-- root/root      1898 2019-05-06 10:07 network-master/tests/get-coverage.yml
+-rwxrwxr-x root/root       929 2019-05-06 10:07 network-master/tests/get-total-coverage.sh
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/tests/helpers/
+-rwxrwxr-x root/root       112 2019-05-06 10:07 network-master/tests/helpers/ethtool
+-rwxrwxr-x root/root       740 2019-05-06 10:07 network-master/tests/merge-coverage.sh
+-rw-rw-r-- root/root       224 2019-05-06 10:07 network-master/tests/remove-profile.yml
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/tests/roles/
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/tests/roles/linux-system-roles.network/
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/tests/roles/linux-system-roles.network/defaults -> ../../../defaults/
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/tests/roles/linux-system-roles.network/library -> ../../../library/
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/tests/roles/linux-system-roles.network/meta -> ../../../meta/
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/tests/roles/linux-system-roles.network/module_utils -> ../../../module_utils/
+lrwxrwxrwx root/root         0 2019-05-06 10:07 network-master/tests/roles/linux-system-roles.network/tasks -> ../../../tasks/
+-rw-rw-r-- root/root       136 2019-05-06 10:07 network-master/tests/run-tasks.yml
+drwxrwxr-x root/root         0 2019-05-06 10:07 network-master/tests/tasks/
+-rw-rw-r-- root/root       221 2019-05-06 10:07 network-master/tests/tasks/assert-device_absent.yml
+-rw-rw-r-- root/root       226 2019-05-06 10:07 network-master/tests/tasks/assert-device_present.yml
+-rw-rw-r-- root/root       230 2019-05-06 10:07 network-master/tests/tasks/assert-profile_absent.yml
+-rw-rw-r-- root/root       231 2019-05-06 10:07 network-master/tests/tasks/assert-profile_present.yml
+-rw-rw-r-- root/root       529 2019-05-06 10:07 network-master/tests/tasks/create-and-remove-interface.yml
+-rw-rw-r-- root/root       204 2019-05-06 10:07 network-master/tests/tasks/get-current_interfaces.yml
+-rw-rw-r-- root/root       241 2019-05-06 10:07 network-master/tests/tasks/get-interface_stat.yml
+-rw-rw-r-- root/root       763 2019-05-06 10:07 network-master/tests/tasks/get-profile_stat.yml
+-rw-rw-r-- root/root      1623 2019-05-06 10:07 network-master/tests/tasks/manage-test-interface.yml
+-rw-rw-r-- root/root       147 2019-05-06 10:07 network-master/tests/tasks/show-interfaces.yml
+-rwxrwxr-x root/root     81213 2019-05-06 10:07 network-master/tests/test_network_connections.py
+-rw-rw-r-- root/root      1262 2019-05-06 10:07 network-master/tests/tests_bridge.yml
+-rw-rw-r-- root/root       602 2019-05-06 10:07 network-master/tests/tests_bridge_other_provider.yml
+-rw-rw-r-- root/root       155 2019-05-06 10:07 network-master/tests/tests_default.yml
+-rw-rw-r-- root/root       604 2019-05-06 10:07 network-master/tests/tests_default_other_provider.yml
+-rw-rw-r-- root/root      1455 2019-05-06 10:07 network-master/tests/tests_ethernet.yml
+-rw-rw-r-- root/root       606 2019-05-06 10:07 network-master/tests/tests_ethernet_other_provider.yml
+-rw-rw-r-- root/root       931 2019-05-06 10:07 network-master/tests/tests_helpers-and-asserts.yml
+-rw-rw-r-- root/root      2534 2019-05-06 10:07 network-master/tests/tests_unit.yml
+-rw-rw-r-- root/root      3961 2019-05-06 10:07 network-master/tox.ini

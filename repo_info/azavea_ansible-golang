@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-03-16 07:19 ansible-golang-master/
+-rw-rw-r-- root/root       105 2016-03-16 07:19 ansible-golang-master/.gitignore
+-rw-rw-r-- root/root       336 2016-03-16 07:19 ansible-golang-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-03-16 07:19 ansible-golang-master/LICENSE
+-rw-rw-r-- root/root       312 2016-03-16 07:19 ansible-golang-master/README.md
+drwxrwxr-x root/root         0 2016-03-16 07:19 ansible-golang-master/defaults/
+-rw-rw-r-- root/root       104 2016-03-16 07:19 ansible-golang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-16 07:19 ansible-golang-master/examples/
+-rw-rw-r-- root/root       733 2016-03-16 07:19 ansible-golang-master/examples/Vagrantfile
+-rw-rw-r-- root/root       126 2016-03-16 07:19 ansible-golang-master/examples/roles.yml
+drwxrwxr-x root/root         0 2016-03-16 07:19 ansible-golang-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-03-16 07:19 ansible-golang-master/examples/roles/azavea.golang -> ../../
+-rw-rw-r-- root/root       130 2016-03-16 07:19 ansible-golang-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-03-16 07:19 ansible-golang-master/meta/
+-rw-rw-r-- root/root       384 2016-03-16 07:19 ansible-golang-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-16 07:19 ansible-golang-master/tasks/
+-rw-rw-r-- root/root       771 2016-03-16 07:19 ansible-golang-master/tasks/main.yml

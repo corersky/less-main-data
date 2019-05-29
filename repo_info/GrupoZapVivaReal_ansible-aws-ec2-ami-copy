@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/
+-rw-rw-r-- root/root      1937 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/README.md
+drwxrwxr-x root/root         0 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/meta/
+-rw-rw-r-- root/root       361 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/tasks/
+-rw-rw-r-- root/root       761 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/tests/
+-rw-rw-r-- root/root         9 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/tests/inventory
+-rw-rw-r-- root/root        82 2016-03-29 13:50 ansible-aws-ec2-ami-copy-master/tests/test.yml

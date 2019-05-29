@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-03-01 17:06 ansibleWeblogic-master/
+-rw-rw-r-- root/root       514 2015-03-01 17:06 ansibleWeblogic-master/README.md
+drwxrwxr-x root/root         0 2015-03-01 17:06 ansibleWeblogic-master/defaults/
+-rw-rw-r-- root/root      1914 2015-03-01 17:06 ansibleWeblogic-master/defaults/createDomain.yml
+-rw-rw-r-- root/root      4373 2015-03-01 17:06 ansibleWeblogic-master/defaults/installWeblogic.yml
+-rw-rw-r-- root/root       176 2015-03-01 17:06 ansibleWeblogic-master/defaults/master.yml
+-rw-rw-r-- root/root      1785 2015-03-01 17:06 ansibleWeblogic-master/defaults/oraclePre.yml
+drwxrwxr-x root/root         0 2015-03-01 17:06 ansibleWeblogic-master/files/
+-rw-rw-r-- root/root      1725 2015-03-01 17:06 ansibleWeblogic-master/files/etc_init.d_weblogic
+-rw-rw-r-- root/root       209 2015-03-01 17:06 ansibleWeblogic-master/files/etc_profile.d_java.sh
+-rw-rw-r-- root/root       875 2015-03-01 17:06 ansibleWeblogic-master/files/silent.xml
+-rw-rw-r-- root/root      1745 2015-03-01 17:06 ansibleWeblogic-master/files/silentWeblogic.sh
+-rw-rw-r-- root/root       387 2015-03-01 17:06 ansibleWeblogic-master/files/silentconf.xml
+-rw-rw-r-- root/root       359 2015-03-01 17:06 ansibleWeblogic-master/files/silentconf.xml_TEMPLATE
+drwxrwxr-x root/root         0 2015-03-01 17:06 ansibleWeblogic-master/meta/
+-rw-rw-r-- root/root       302 2015-03-01 17:06 ansibleWeblogic-master/meta/main.yml

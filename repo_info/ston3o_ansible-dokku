@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-10-03 04:27 ansible-dokku-master/
+-rw-rw-r-- root/root     35141 2017-10-03 04:27 ansible-dokku-master/LICENSE
+-rw-rw-r-- root/root       386 2017-10-03 04:27 ansible-dokku-master/README.md
+drwxrwxr-x root/root         0 2017-10-03 04:27 ansible-dokku-master/handlers/
+-rw-rw-r-- root/root        63 2017-10-03 04:27 ansible-dokku-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-03 04:27 ansible-dokku-master/meta/
+-rw-rw-r-- root/root       290 2017-10-03 04:27 ansible-dokku-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-03 04:27 ansible-dokku-master/tasks/
+-rw-rw-r-- root/root       701 2017-10-03 04:27 ansible-dokku-master/tasks/docker.yml
+-rw-rw-r-- root/root      1063 2017-10-03 04:27 ansible-dokku-master/tasks/main.yml

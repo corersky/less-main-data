@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-06 10:58 ansible-role-repo-pgdg-master/
+-rw-rw-r-- root/root      1373 2017-07-06 10:58 ansible-role-repo-pgdg-master/README.md
+drwxrwxr-x root/root         0 2017-07-06 10:58 ansible-role-repo-pgdg-master/defaults/
+-rw-rw-r-- root/root      1121 2017-07-06 10:58 ansible-role-repo-pgdg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:58 ansible-role-repo-pgdg-master/handlers/
+-rw-rw-r-- root/root        48 2017-07-06 10:58 ansible-role-repo-pgdg-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:58 ansible-role-repo-pgdg-master/meta/
+-rw-rw-r-- root/root      1801 2017-07-06 10:58 ansible-role-repo-pgdg-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:58 ansible-role-repo-pgdg-master/tasks/
+-rw-rw-r-- root/root       911 2017-07-06 10:58 ansible-role-repo-pgdg-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-06 10:58 ansible-role-repo-pgdg-master/tests/
+-rw-rw-r-- root/root        11 2017-07-06 10:58 ansible-role-repo-pgdg-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-07-06 10:58 ansible-role-repo-pgdg-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-06 10:58 ansible-role-repo-pgdg-master/vars/
+-rw-rw-r-- root/root        44 2017-07-06 10:58 ansible-role-repo-pgdg-master/vars/main.yml
+-rw-rw-r-- root/root       831 2017-07-06 10:58 ansible-role-repo-pgdg-master/vars/repo-international.yml
+-rw-rw-r-- root/root       683 2017-07-06 10:58 ansible-role-repo-pgdg-master/vars/repo-vagrant.yml

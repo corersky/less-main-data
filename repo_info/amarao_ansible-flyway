@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-17 07:09 ansible-flyway-master/
+-rw-rw-r-- root/root      2695 2018-12-17 07:09 ansible-flyway-master/README.md
+drwxrwxr-x root/root         0 2018-12-17 07:09 ansible-flyway-master/defaults/
+-rw-rw-r-- root/root       479 2018-12-17 07:09 ansible-flyway-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:09 ansible-flyway-master/handlers/
+-rw-rw-r-- root/root         4 2018-12-17 07:09 ansible-flyway-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:09 ansible-flyway-master/meta/
+-rw-rw-r-- root/root       383 2018-12-17 07:09 ansible-flyway-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:09 ansible-flyway-master/tasks/
+-rw-rw-r-- root/root      1217 2018-12-17 07:09 ansible-flyway-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:09 ansible-flyway-master/templates/
+-rw-rw-r-- root/root       983 2018-12-17 07:09 ansible-flyway-master/templates/flyway.conf.j2
+drwxrwxr-x root/root         0 2018-12-17 07:09 ansible-flyway-master/vars/
+-rw-rw-r-- root/root       156 2018-12-17 07:09 ansible-flyway-master/vars/main.yml

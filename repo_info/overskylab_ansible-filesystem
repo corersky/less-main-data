@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-24 04:25 ansible-filesystem-master/
+-rw-rw-r-- root/root      1056 2019-01-24 04:25 ansible-filesystem-master/LICENSE
+-rw-rw-r-- root/root       234 2019-01-24 04:25 ansible-filesystem-master/README.md
+drwxrwxr-x root/root         0 2019-01-24 04:25 ansible-filesystem-master/defaults/
+-rw-rw-r-- root/root       216 2019-01-24 04:25 ansible-filesystem-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:25 ansible-filesystem-master/handlers/
+-rw-rw-r-- root/root         4 2019-01-24 04:25 ansible-filesystem-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:25 ansible-filesystem-master/meta/
+-rw-rw-r-- root/root       288 2019-01-24 04:25 ansible-filesystem-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:25 ansible-filesystem-master/tasks/
+-rw-rw-r-- root/root       235 2019-01-24 04:25 ansible-filesystem-master/tasks/filesystem_install.yml
+-rw-rw-r-- root/root         4 2019-01-24 04:25 ansible-filesystem-master/tasks/filesystem_post.yml
+-rw-rw-r-- root/root         4 2019-01-24 04:25 ansible-filesystem-master/tasks/filesystem_pre.yml
+-rw-rw-r-- root/root       266 2019-01-24 04:25 ansible-filesystem-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:25 ansible-filesystem-master/vars/
+-rw-rw-r-- root/root         4 2019-01-24 04:25 ansible-filesystem-master/vars/default.yml

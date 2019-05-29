@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-04-21 11:04 ansible-redis-master/
+-rw-rw-r-- root/root      1305 2017-04-21 11:04 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2017-04-21 11:04 ansible-redis-master/handlers/
+-rw-rw-r-- root/root        70 2017-04-21 11:04 ansible-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-21 11:04 ansible-redis-master/meta/
+-rw-rw-r-- root/root      1789 2017-04-21 11:04 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-21 11:04 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       256 2017-04-21 11:04 ansible-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-21 11:04 ansible-redis-master/tests/
+-rw-rw-r-- root/root        11 2017-04-21 11:04 ansible-redis-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-04-21 11:04 ansible-redis-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-12 13:56 ansible-role-caddy-git-master/
+-rw-rw-r-- root/root       603 2019-03-12 13:56 ansible-role-caddy-git-master/README.md
+drwxrwxr-x root/root         0 2019-03-12 13:56 ansible-role-caddy-git-master/defaults/
+-rw-rw-r-- root/root       318 2019-03-12 13:56 ansible-role-caddy-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-12 13:56 ansible-role-caddy-git-master/handlers/
+-rw-rw-r-- root/root       189 2019-03-12 13:56 ansible-role-caddy-git-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-12 13:56 ansible-role-caddy-git-master/meta/
+-rw-rw-r-- root/root       315 2019-03-12 13:56 ansible-role-caddy-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-12 13:56 ansible-role-caddy-git-master/tasks/
+-rw-rw-r-- root/root      1911 2019-03-12 13:56 ansible-role-caddy-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-12 13:56 ansible-role-caddy-git-master/templates/
+-rw-rw-r-- root/root      2133 2019-03-12 13:56 ansible-role-caddy-git-master/templates/caddy.service.j2

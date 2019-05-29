@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-07 18:39 ansible-role-sysctl-master/
+-rw-rw-r-- root/root      1514 2017-12-07 18:39 ansible-role-sysctl-master/LICENSE
+-rw-rw-r-- root/root        56 2017-12-07 18:39 ansible-role-sysctl-master/README.md
+drwxrwxr-x root/root         0 2017-12-07 18:39 ansible-role-sysctl-master/defaults/
+-rw-rw-r-- root/root        31 2017-12-07 18:39 ansible-role-sysctl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:39 ansible-role-sysctl-master/meta/
+-rw-rw-r-- root/root       265 2017-12-07 18:39 ansible-role-sysctl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:39 ansible-role-sysctl-master/tasks/
+-rw-rw-r-- root/root       145 2017-12-07 18:39 ansible-role-sysctl-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2017-12-07 18:39 ansible-role-sysctl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-07 18:39 ansible-role-sysctl-master/templates/
+-rw-rw-r-- root/root      1458 2017-12-07 18:39 ansible-role-sysctl-master/templates/sysctl.conf.j2

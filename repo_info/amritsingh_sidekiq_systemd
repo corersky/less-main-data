@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-05-17 08:44 sidekiq_systemd-master/
+-rw-rw-r-- root/root      1506 2018-05-17 08:44 sidekiq_systemd-master/README.md
+drwxrwxr-x root/root         0 2018-05-17 08:44 sidekiq_systemd-master/defaults/
+-rw-rw-r-- root/root       133 2018-05-17 08:44 sidekiq_systemd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-17 08:44 sidekiq_systemd-master/meta/
+-rw-rw-r-- root/root       350 2018-05-17 08:44 sidekiq_systemd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-17 08:44 sidekiq_systemd-master/tasks/
+-rw-rw-r-- root/root      1819 2018-05-17 08:44 sidekiq_systemd-master/tasks/main.yml
+-rw-rw-r-- root/root       414 2018-05-17 08:44 sidekiq_systemd-master/tasks/read_vars_from_remote_file.yml
+drwxrwxr-x root/root         0 2018-05-17 08:44 sidekiq_systemd-master/templates/
+-rw-rw-r-- root/root       424 2018-05-17 08:44 sidekiq_systemd-master/templates/systemd.service.j2

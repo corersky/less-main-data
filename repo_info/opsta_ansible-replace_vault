@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-10 07:22 ansible-replace_vault-master/
+-rw-rw-r-- root/root       540 2016-09-10 07:22 ansible-replace_vault-master/.travis.yml
+-rw-rw-r-- root/root      1062 2016-09-10 07:22 ansible-replace_vault-master/LICENSE
+-rw-rw-r-- root/root         0 2016-09-10 07:22 ansible-replace_vault-master/README.md
+drwxrwxr-x root/root         0 2016-09-10 07:22 ansible-replace_vault-master/defaults/
+-rw-rw-r-- root/root       139 2016-09-10 07:22 ansible-replace_vault-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-10 07:22 ansible-replace_vault-master/meta/
+-rw-rw-r-- root/root       275 2016-09-10 07:22 ansible-replace_vault-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-10 07:22 ansible-replace_vault-master/tasks/
+-rw-rw-r-- root/root       629 2016-09-10 07:22 ansible-replace_vault-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-10 07:22 ansible-replace_vault-master/tests/
+-rw-rw-r-- root/root         9 2016-09-10 07:22 ansible-replace_vault-master/tests/inventory
+-rw-rw-r-- root/root        80 2016-09-10 07:22 ansible-replace_vault-master/tests/test.yml

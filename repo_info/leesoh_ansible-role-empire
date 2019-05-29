@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-13 12:54 ansible-role-empire-master/
+-rw-rw-r-- root/root       433 2017-12-13 12:54 ansible-role-empire-master/.travis.yml
+-rw-rw-r-- root/root       456 2017-12-13 12:54 ansible-role-empire-master/README.md
+-rw-rw-r-- root/root        28 2017-12-13 12:54 ansible-role-empire-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-12-13 12:54 ansible-role-empire-master/defaults/
+-rw-rw-r-- root/root        43 2017-12-13 12:54 ansible-role-empire-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-13 12:54 ansible-role-empire-master/handlers/
+-rw-rw-r-- root/root        43 2017-12-13 12:54 ansible-role-empire-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-13 12:54 ansible-role-empire-master/meta/
+-rw-rw-r-- root/root       328 2017-12-13 12:54 ansible-role-empire-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-13 12:54 ansible-role-empire-master/tasks/
+-rw-rw-r-- root/root       534 2017-12-13 12:54 ansible-role-empire-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-13 12:54 ansible-role-empire-master/tests/
+-rw-rw-r-- root/root        11 2017-12-13 12:54 ansible-role-empire-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-12-13 12:54 ansible-role-empire-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-13 12:54 ansible-role-empire-master/vars/
+-rw-rw-r-- root/root        32 2017-12-13 12:54 ansible-role-empire-master/vars/main.yml

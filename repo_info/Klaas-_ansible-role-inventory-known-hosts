@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/
+-rw-rw-r-- root/root        22 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/.gitignore
+-rw-rw-r-- root/root       487 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/.travis.yml
+-rw-rw-r-- root/root     35148 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/COPYING
+-rw-rw-r-- root/root       918 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/README.md
+drwxrwxr-x root/root         0 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/defaults/
+-rw-rw-r-- root/root       104 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/meta/
+-rw-rw-r-- root/root       619 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/tasks/
+-rw-rw-r-- root/root       230 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/tests/
+-rw-rw-r-- root/root        22 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-08-13 13:11 ansible-role-inventory-known-hosts-master/tests/test.yml

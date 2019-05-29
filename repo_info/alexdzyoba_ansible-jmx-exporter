@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-12 14:48 ansible-jmx-exporter-master/
+-rw-rw-r-- root/root      1073 2018-05-12 14:48 ansible-jmx-exporter-master/LICENSE
+-rw-rw-r-- root/root      1003 2018-05-12 14:48 ansible-jmx-exporter-master/README.md
+drwxrwxr-x root/root         0 2018-05-12 14:48 ansible-jmx-exporter-master/defaults/
+-rw-rw-r-- root/root       546 2018-05-12 14:48 ansible-jmx-exporter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-12 14:48 ansible-jmx-exporter-master/files/
+drwxrwxr-x root/root         0 2018-05-12 14:48 ansible-jmx-exporter-master/files/kafka/
+-rw-rw-r-- root/root      2824 2018-05-12 14:48 ansible-jmx-exporter-master/files/kafka/kafka.yml
+drwxrwxr-x root/root         0 2018-05-12 14:48 ansible-jmx-exporter-master/files/zookeeper/
+-rw-rw-r-- root/root       703 2018-05-12 14:48 ansible-jmx-exporter-master/files/zookeeper/zookeeper.yml
+drwxrwxr-x root/root         0 2018-05-12 14:48 ansible-jmx-exporter-master/meta/
+-rw-rw-r-- root/root       313 2018-05-12 14:48 ansible-jmx-exporter-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-12 14:48 ansible-jmx-exporter-master/tasks/
+-rw-rw-r-- root/root       275 2018-05-12 14:48 ansible-jmx-exporter-master/tasks/config.yml
+-rw-rw-r-- root/root      1170 2018-05-12 14:48 ansible-jmx-exporter-master/tasks/install.yml
+-rw-rw-r-- root/root       131 2018-05-12 14:48 ansible-jmx-exporter-master/tasks/main.yml

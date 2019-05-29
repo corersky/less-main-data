@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-03 10:09 ansible-role-glusterfs-master/
+-rw-rw-r-- root/root        34 2017-03-03 10:09 ansible-role-glusterfs-master/.gitignore
+-rw-rw-r-- root/root      1720 2017-03-03 10:09 ansible-role-glusterfs-master/README.md
+drwxrwxr-x root/root         0 2017-03-03 10:09 ansible-role-glusterfs-master/defaults/
+-rw-rw-r-- root/root       100 2017-03-03 10:09 ansible-role-glusterfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-03 10:09 ansible-role-glusterfs-master/meta/
+-rw-rw-r-- root/root       489 2017-03-03 10:09 ansible-role-glusterfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-03 10:09 ansible-role-glusterfs-master/tasks/
+-rw-rw-r-- root/root      2447 2017-03-03 10:09 ansible-role-glusterfs-master/tasks/configure-glusterfs.yml
+-rw-rw-r-- root/root       317 2017-03-03 10:09 ansible-role-glusterfs-master/tasks/main.yml
+-rw-rw-r-- root/root       632 2017-03-03 10:09 ansible-role-glusterfs-master/tasks/setup-debian.yml
+-rw-rw-r-- root/root       272 2017-03-03 10:09 ansible-role-glusterfs-master/tasks/setup-redhat.yml
+drwxrwxr-x root/root         0 2017-03-03 10:09 ansible-role-glusterfs-master/vars/
+-rw-rw-r-- root/root        39 2017-03-03 10:09 ansible-role-glusterfs-master/vars/debian.yml
+-rw-rw-r-- root/root        31 2017-03-03 10:09 ansible-role-glusterfs-master/vars/redhat.yml

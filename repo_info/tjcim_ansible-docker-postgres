@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-docker-postgres-master/
+-rw-rw-r-- root/root      1607 2017-11-14 15:14 ansible-docker-postgres-master/README.md
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-docker-postgres-master/defaults/
+-rw-rw-r-- root/root        47 2017-11-14 15:14 ansible-docker-postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-docker-postgres-master/handlers/
+-rw-rw-r-- root/root        47 2017-11-14 15:14 ansible-docker-postgres-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-docker-postgres-master/meta/
+-rw-rw-r-- root/root       317 2017-11-14 15:14 ansible-docker-postgres-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-docker-postgres-master/tasks/
+-rw-rw-r-- root/root      4730 2017-11-14 15:14 ansible-docker-postgres-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-docker-postgres-master/tests/
+-rw-rw-r-- root/root        11 2017-11-14 15:14 ansible-docker-postgres-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-11-14 15:14 ansible-docker-postgres-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-14 15:14 ansible-docker-postgres-master/vars/
+-rw-rw-r-- root/root        44 2017-11-14 15:14 ansible-docker-postgres-master/vars/main.yml

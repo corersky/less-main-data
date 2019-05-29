@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-15 13:21 ansible-logstash-packages-master/
+-rw-rw-r-- root/root       646 2016-11-15 13:21 ansible-logstash-packages-master/.travis.yml
+-rw-rw-r-- root/root      1078 2016-11-15 13:21 ansible-logstash-packages-master/LICENSE
+-rw-rw-r-- root/root       500 2016-11-15 13:21 ansible-logstash-packages-master/README.md
+drwxrwxr-x root/root         0 2016-11-15 13:21 ansible-logstash-packages-master/meta/
+-rw-rw-r-- root/root       586 2016-11-15 13:21 ansible-logstash-packages-master/meta/main.yml
+-rw-rw-r-- root/root        26 2016-11-15 13:21 ansible-logstash-packages-master/requirements.yml
+drwxrwxr-x root/root         0 2016-11-15 13:21 ansible-logstash-packages-master/tasks/
+-rw-rw-r-- root/root       607 2016-11-15 13:21 ansible-logstash-packages-master/tasks/debian.yml
+-rw-rw-r-- root/root       113 2016-11-15 13:21 ansible-logstash-packages-master/tasks/logstash.yml
+-rw-rw-r-- root/root       258 2016-11-15 13:21 ansible-logstash-packages-master/tasks/main.yml
+-rw-rw-r-- root/root       570 2016-11-15 13:21 ansible-logstash-packages-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2016-11-15 13:21 ansible-logstash-packages-master/tests/
+-rw-rw-r-- root/root         9 2016-11-15 13:21 ansible-logstash-packages-master/tests/inventory
+-rw-rw-r-- root/root        83 2016-11-15 13:21 ansible-logstash-packages-master/tests/test.yml

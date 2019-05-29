@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/
+-rw-rw-r-- root/root         4 2018-11-27 03:02 ansible-role-java-master/.gitignore
+-rw-rw-r-- root/root       274 2018-11-27 03:02 ansible-role-java-master/.travis.yml
+-rw-rw-r-- root/root       738 2018-11-27 03:02 ansible-role-java-master/README.md
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/defaults/
+-rw-rw-r-- root/root       162 2018-11-27 03:02 ansible-role-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/meta/
+-rw-rw-r-- root/root       335 2018-11-27 03:02 ansible-role-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/molecule/
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/molecule/centos/
+lrwxrwxrwx root/root         0 2018-11-27 03:02 ansible-role-java-master/molecule/centos/Dockerfile.j2 -> ../resources/Dockerfile.j2
+-rw-rw-r-- root/root       466 2018-11-27 03:02 ansible-role-java-master/molecule/centos/molecule.yml
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/molecule/resources/
+-rw-rw-r-- root/root       961 2018-11-27 03:02 ansible-role-java-master/molecule/resources/Dockerfile.j2
+-rw-rw-r-- root/root        73 2018-11-27 03:02 ansible-role-java-master/molecule/resources/playbook.yml
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/molecule/resources/tests/
+-rw-rw-r-- root/root       766 2018-11-27 03:02 ansible-role-java-master/molecule/resources/tests/test_default.py
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/molecule/ubuntu/
+lrwxrwxrwx root/root         0 2018-11-27 03:02 ansible-role-java-master/molecule/ubuntu/Dockerfile.j2 -> ../resources/Dockerfile.j2
+-rw-rw-r-- root/root       474 2018-11-27 03:02 ansible-role-java-master/molecule/ubuntu/molecule.yml
+drwxrwxr-x root/root         0 2018-11-27 03:02 ansible-role-java-master/tasks/
+-rw-rw-r-- root/root       938 2018-11-27 03:02 ansible-role-java-master/tasks/main.yml

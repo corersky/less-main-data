@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-12 19:30 ansible-role_alvao-master/
+-rw-rw-r-- root/root      1078 2019-03-12 19:30 ansible-role_alvao-master/LICENSE
+-rw-rw-r-- root/root      1044 2019-03-12 19:30 ansible-role_alvao-master/README.md
+drwxrwxr-x root/root         0 2019-03-12 19:30 ansible-role_alvao-master/filter_plugins/
+-rw-rw-r-- root/root      1048 2019-03-12 19:30 ansible-role_alvao-master/filter_plugins/filters.py
+drwxrwxr-x root/root         0 2019-03-12 19:30 ansible-role_alvao-master/library/
+-rw-rw-r-- root/root      3825 2019-03-12 19:30 ansible-role_alvao-master/library/alvao_auth.py
+-rw-rw-r-- root/root      2148 2019-03-12 19:30 ansible-role_alvao-master/library/alvao_facts.py
+-rw-rw-r-- root/root      2344 2019-03-12 19:30 ansible-role_alvao-master/library/alvao_update.py
+drwxrwxr-x root/root         0 2019-03-12 19:30 ansible-role_alvao-master/meta/
+-rw-rw-r-- root/root       402 2019-03-12 19:30 ansible-role_alvao-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-12 19:30 ansible-role_alvao-master/module_utils/
+-rw-rw-r-- root/root      3704 2019-03-12 19:30 ansible-role_alvao-master/module_utils/alvao.py

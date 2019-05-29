@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-04 16:43 ansible-copy-local-pub-key-master/
+-rw-rw-r-- root/root     35149 2019-03-04 16:43 ansible-copy-local-pub-key-master/LICENSE
+-rw-rw-r-- root/root       504 2019-03-04 16:43 ansible-copy-local-pub-key-master/README.md
+drwxrwxr-x root/root         0 2019-03-04 16:43 ansible-copy-local-pub-key-master/defaults/
+-rw-rw-r-- root/root        49 2019-03-04 16:43 ansible-copy-local-pub-key-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-04 16:43 ansible-copy-local-pub-key-master/handlers/
+-rw-rw-r-- root/root        49 2019-03-04 16:43 ansible-copy-local-pub-key-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-04 16:43 ansible-copy-local-pub-key-master/meta/
+-rw-rw-r-- root/root       323 2019-03-04 16:43 ansible-copy-local-pub-key-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-04 16:43 ansible-copy-local-pub-key-master/tasks/
+-rw-rw-r-- root/root       428 2019-03-04 16:43 ansible-copy-local-pub-key-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-04 16:43 ansible-copy-local-pub-key-master/tests/
+-rw-rw-r-- root/root        11 2019-03-04 16:43 ansible-copy-local-pub-key-master/tests/inventory
+-rw-rw-r-- root/root        86 2019-03-04 16:43 ansible-copy-local-pub-key-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-04 16:43 ansible-copy-local-pub-key-master/vars/
+-rw-rw-r-- root/root        45 2019-03-04 16:43 ansible-copy-local-pub-key-master/vars/main.yml

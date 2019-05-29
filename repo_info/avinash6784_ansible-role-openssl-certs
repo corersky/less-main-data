@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-13 10:16 ansible-role-openssl-certs-master/
+-rw-rw-r-- root/root      1074 2017-12-13 10:16 ansible-role-openssl-certs-master/LICENSE
+-rw-rw-r-- root/root      2143 2017-12-13 10:16 ansible-role-openssl-certs-master/README.md
+-rw-rw-r-- root/root        28 2017-12-13 10:16 ansible-role-openssl-certs-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-12-13 10:16 ansible-role-openssl-certs-master/defaults/
+-rw-rw-r-- root/root      1220 2017-12-13 10:16 ansible-role-openssl-certs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-13 10:16 ansible-role-openssl-certs-master/meta/
+-rw-rw-r-- root/root       330 2017-12-13 10:16 ansible-role-openssl-certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-13 10:16 ansible-role-openssl-certs-master/tasks/
+-rw-rw-r-- root/root      1231 2017-12-13 10:16 ansible-role-openssl-certs-master/tasks/generate.yml
+-rw-rw-r-- root/root      3076 2017-12-13 10:16 ansible-role-openssl-certs-master/tasks/main.yml
+-rw-rw-r-- root/root        81 2017-12-13 10:16 ansible-role-openssl-certs-master/test.yml
+drwxrwxr-x root/root         0 2017-12-13 10:16 ansible-role-openssl-certs-master/vars/
+-rw-rw-r-- root/root        29 2017-12-13 10:16 ansible-role-openssl-certs-master/vars/main.yml

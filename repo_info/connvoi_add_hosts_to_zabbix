@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-07-14 03:38 add_hosts_to_zabbix-master/
+-rw-rw-r-- root/root       539 2016-07-14 03:38 add_hosts_to_zabbix-master/.travis.yml
+-rw-rw-r-- root/root      1288 2016-07-14 03:38 add_hosts_to_zabbix-master/README.md
+drwxrwxr-x root/root         0 2016-07-14 03:38 add_hosts_to_zabbix-master/defaults/
+-rw-rw-r-- root/root       640 2016-07-14 03:38 add_hosts_to_zabbix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-14 03:38 add_hosts_to_zabbix-master/meta/
+-rw-rw-r-- root/root      3558 2016-07-14 03:38 add_hosts_to_zabbix-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-14 03:38 add_hosts_to_zabbix-master/tasks/
+-rw-rw-r-- root/root       142 2016-07-14 03:38 add_hosts_to_zabbix-master/tasks/add_hosts.yml
+-rw-rw-r-- root/root       288 2016-07-14 03:38 add_hosts_to_zabbix-master/tasks/create_groups.yml
+-rw-rw-r-- root/root       674 2016-07-14 03:38 add_hosts_to_zabbix-master/tasks/create_interface.yml
+-rw-rw-r-- root/root       505 2016-07-14 03:38 add_hosts_to_zabbix-master/tasks/create_screen.yml
+-rw-rw-r-- root/root       127 2016-07-14 03:38 add_hosts_to_zabbix-master/tasks/main.yml

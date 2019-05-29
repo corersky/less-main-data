@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/
+-rw-rw-r-- root/root       983 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/.travis.yml
+-rw-rw-r-- root/root       147 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/README.md
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/defaults/
+-rw-rw-r-- root/root       116 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/meta/
+-rw-rw-r-- root/root       320 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/tasks/
+-rw-rw-r-- root/root      1064 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/tests/
+-rw-rw-r-- root/root        10 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/tests/inventory
+-rw-rw-r-- root/root       272 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/tests/test-self-update.yml
+-rw-rw-r-- root/root       225 2016-01-04 11:27 ansible-role-virtualenv-drupal-console-master/tests/test.yml

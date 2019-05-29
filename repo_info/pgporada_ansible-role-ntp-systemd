@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-14 08:34 ansible-role-ntp-systemd-master/
+-rw-rw-r-- root/root       635 2016-08-14 08:34 ansible-role-ntp-systemd-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 08:34 ansible-role-ntp-systemd-master/defaults/
+-rw-rw-r-- root/root       355 2016-08-14 08:34 ansible-role-ntp-systemd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 08:34 ansible-role-ntp-systemd-master/handlers/
+-rw-rw-r-- root/root        98 2016-08-14 08:34 ansible-role-ntp-systemd-master/handlers/main.yml
+-rw-rw-r-- root/root        29 2016-08-14 08:34 ansible-role-ntp-systemd-master/inventory
+drwxrwxr-x root/root         0 2016-08-14 08:34 ansible-role-ntp-systemd-master/meta/
+-rw-rw-r-- root/root       370 2016-08-14 08:34 ansible-role-ntp-systemd-master/meta/main.yml
+-rw-rw-r-- root/root        83 2016-08-14 08:34 ansible-role-ntp-systemd-master/playbook.yml
+drwxrwxr-x root/root         0 2016-08-14 08:34 ansible-role-ntp-systemd-master/tasks/
+-rw-rw-r-- root/root       858 2016-08-14 08:34 ansible-role-ntp-systemd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 08:34 ansible-role-ntp-systemd-master/templates/
+-rw-rw-r-- root/root       216 2016-08-14 08:34 ansible-role-ntp-systemd-master/templates/timesyncd.conf.j2
+drwxrwxr-x root/root         0 2016-08-14 08:34 ansible-role-ntp-systemd-master/vars/
+-rw-rw-r-- root/root        42 2016-08-14 08:34 ansible-role-ntp-systemd-master/vars/Debian.yml
+-rw-rw-r-- root/root        43 2016-08-14 08:34 ansible-role-ntp-systemd-master/vars/RedHat-7.yml

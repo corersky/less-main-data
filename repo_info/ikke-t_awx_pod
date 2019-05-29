@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-29 16:34 awx_pod-master/
+-rw-rw-r-- root/root      1315 2019-03-29 16:34 awx_pod-master/README.md
+drwxrwxr-x root/root         0 2019-03-29 16:34 awx_pod-master/defaults/
+-rw-rw-r-- root/root       453 2019-03-29 16:34 awx_pod-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-29 16:34 awx_pod-master/handlers/
+-rw-rw-r-- root/root        27 2019-03-29 16:34 awx_pod-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-29 16:34 awx_pod-master/meta/
+-rw-rw-r-- root/root       262 2019-03-29 16:34 awx_pod-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-29 16:34 awx_pod-master/tasks/
+-rw-rw-r-- root/root      1259 2019-03-29 16:34 awx_pod-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-29 16:34 awx_pod-master/templates/
+-rw-rw-r-- root/root      4292 2019-03-29 16:34 awx_pod-master/templates/awx.yml.j2
+drwxrwxr-x root/root         0 2019-03-29 16:34 awx_pod-master/tests/
+-rw-rw-r-- root/root        11 2019-03-29 16:34 awx_pod-master/tests/inventory
+-rw-rw-r-- root/root       409 2019-03-29 16:34 awx_pod-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-29 16:34 awx_pod-master/vars/
+-rw-rw-r-- root/root       610 2019-03-29 16:34 awx_pod-master/vars/main.yml

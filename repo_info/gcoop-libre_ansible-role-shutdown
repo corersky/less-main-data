@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-22 16:04 ansible-role-shutdown-master/
+-rw-rw-r-- root/root     18092 2017-10-22 16:04 ansible-role-shutdown-master/LICENSE
+-rw-rw-r-- root/root      1309 2017-10-22 16:04 ansible-role-shutdown-master/README.md
+drwxrwxr-x root/root         0 2017-10-22 16:04 ansible-role-shutdown-master/defaults/
+-rw-rw-r-- root/root       131 2017-10-22 16:04 ansible-role-shutdown-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-22 16:04 ansible-role-shutdown-master/meta/
+-rw-rw-r-- root/root       344 2017-10-22 16:04 ansible-role-shutdown-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-22 16:04 ansible-role-shutdown-master/tasks/
+-rw-rw-r-- root/root       207 2017-10-22 16:04 ansible-role-shutdown-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-22 16:04 ansible-role-shutdown-master/tests/
+-rw-rw-r-- root/root        11 2017-10-22 16:04 ansible-role-shutdown-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-10-22 16:04 ansible-role-shutdown-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-22 16:04 ansible-role-shutdown-master/vars/
+-rw-rw-r-- root/root       326 2017-10-22 16:04 ansible-role-shutdown-master/vars/main.yml

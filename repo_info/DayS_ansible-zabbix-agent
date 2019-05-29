@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-13 16:06 ansible-zabbix-agent-master/
+-rw-rw-r-- root/root       445 2017-10-13 16:06 ansible-zabbix-agent-master/README.md
+drwxrwxr-x root/root         0 2017-10-13 16:06 ansible-zabbix-agent-master/defaults/
+-rw-rw-r-- root/root      1244 2017-10-13 16:06 ansible-zabbix-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-13 16:06 ansible-zabbix-agent-master/meta/
+-rw-rw-r-- root/root       264 2017-10-13 16:06 ansible-zabbix-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-13 16:06 ansible-zabbix-agent-master/tasks/
+-rw-rw-r-- root/root       172 2017-10-13 16:06 ansible-zabbix-agent-master/tasks/configure.yml
+-rw-rw-r-- root/root        86 2017-10-13 16:06 ansible-zabbix-agent-master/tasks/install.debian.yml
+-rw-rw-r-- root/root       231 2017-10-13 16:06 ansible-zabbix-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-13 16:06 ansible-zabbix-agent-master/templates/
+drwxrwxr-x root/root         0 2017-10-13 16:06 ansible-zabbix-agent-master/templates/etc/
+drwxrwxr-x root/root         0 2017-10-13 16:06 ansible-zabbix-agent-master/templates/etc/zabbix/
+-rw-rw-r-- root/root     11640 2017-10-13 16:06 ansible-zabbix-agent-master/templates/etc/zabbix/zabbix_agentd.conf

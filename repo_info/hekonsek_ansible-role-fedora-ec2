@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-12 10:30 ansible-role-fedora-ec2-master/
+-rw-rw-r-- root/root        14 2017-12-12 10:30 ansible-role-fedora-ec2-master/.gitignore
+-rw-rw-r-- root/root      1709 2017-12-12 10:30 ansible-role-fedora-ec2-master/README.md
+drwxrwxr-x root/root         0 2017-12-12 10:30 ansible-role-fedora-ec2-master/defaults/
+-rw-rw-r-- root/root       180 2017-12-12 10:30 ansible-role-fedora-ec2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-12 10:30 ansible-role-fedora-ec2-master/library/
+-rw-rw-r-- root/root       853 2017-12-12 10:30 ansible-role-fedora-ec2-master/library/resolve_fedora_ami.py
+drwxrwxr-x root/root         0 2017-12-12 10:30 ansible-role-fedora-ec2-master/meta/
+-rw-rw-r-- root/root       289 2017-12-12 10:30 ansible-role-fedora-ec2-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-12 10:30 ansible-role-fedora-ec2-master/tasks/
+-rw-rw-r-- root/root      2926 2017-12-12 10:30 ansible-role-fedora-ec2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-12 10:30 ansible-role-fedora-ec2-master/tests/
+-rw-rw-r-- root/root        99 2017-12-12 10:30 ansible-role-fedora-ec2-master/tests/test.yml

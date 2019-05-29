@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-09-03 19:33 ansible-role-docker-remap-master/
+-rw-rw-r-- root/root         6 2016-09-03 19:33 ansible-role-docker-remap-master/.gitignore
+-rw-rw-r-- root/root      2969 2016-09-03 19:33 ansible-role-docker-remap-master/README.md
+drwxrwxr-x root/root         0 2016-09-03 19:33 ansible-role-docker-remap-master/defaults/
+-rw-rw-r-- root/root       740 2016-09-03 19:33 ansible-role-docker-remap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-03 19:33 ansible-role-docker-remap-master/handlers/
+-rw-rw-r-- root/root        95 2016-09-03 19:33 ansible-role-docker-remap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-03 19:33 ansible-role-docker-remap-master/meta/
+-rw-rw-r-- root/root       423 2016-09-03 19:33 ansible-role-docker-remap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-03 19:33 ansible-role-docker-remap-master/tasks/
+-rw-rw-r-- root/root      1578 2016-09-03 19:33 ansible-role-docker-remap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-03 19:33 ansible-role-docker-remap-master/templates/
+-rw-rw-r-- root/root        68 2016-09-03 19:33 ansible-role-docker-remap-master/templates/daemon.j2
+drwxrwxr-x root/root         0 2016-09-03 19:33 ansible-role-docker-remap-master/tests/
+-rw-rw-r-- root/root        34 2016-09-03 19:33 ansible-role-docker-remap-master/tests/inventory
+-rw-rw-r-- root/root        83 2016-09-03 19:33 ansible-role-docker-remap-master/tests/test.yml

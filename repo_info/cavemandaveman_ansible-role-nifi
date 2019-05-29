@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-06 11:48 ansible-role-nifi-master/
+-rw-rw-r-- root/root     35147 2019-05-06 11:48 ansible-role-nifi-master/LICENSE
+-rw-rw-r-- root/root      8969 2019-05-06 11:48 ansible-role-nifi-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 11:48 ansible-role-nifi-master/defaults/
+-rw-rw-r-- root/root      2755 2019-05-06 11:48 ansible-role-nifi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 11:48 ansible-role-nifi-master/meta/
+-rw-rw-r-- root/root       349 2019-05-06 11:48 ansible-role-nifi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 11:48 ansible-role-nifi-master/tasks/
+-rw-rw-r-- root/root      2512 2019-05-06 11:48 ansible-role-nifi-master/tasks/customize.yml
+-rw-rw-r-- root/root       846 2019-05-06 11:48 ansible-role-nifi-master/tasks/install.yml
+-rw-rw-r-- root/root       199 2019-05-06 11:48 ansible-role-nifi-master/tasks/main.yml
+-rw-rw-r-- root/root       587 2019-05-06 11:48 ansible-role-nifi-master/tasks/prepare.yml
+-rw-rw-r-- root/root       248 2019-05-06 11:48 ansible-role-nifi-master/tasks/run.yml
+-rw-rw-r-- root/root       784 2019-05-06 11:48 ansible-role-nifi-master/tasks/zookeeper.yml
+drwxrwxr-x root/root         0 2019-05-06 11:48 ansible-role-nifi-master/templates/
+-rw-rw-r-- root/root       279 2019-05-06 11:48 ansible-role-nifi-master/templates/nifi.service.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-03-08 19:31 ansible-cloudfront-master/
+-rw-rw-r-- root/root        43 2016-03-08 19:31 ansible-cloudfront-master/.gitignore
+-rw-rw-r-- root/root      1096 2016-03-08 19:31 ansible-cloudfront-master/LICENSE
+-rw-rw-r-- root/root      1032 2016-03-08 19:31 ansible-cloudfront-master/README.md
+drwxrwxr-x root/root         0 2016-03-08 19:31 ansible-cloudfront-master/defaults/
+-rw-rw-r-- root/root       237 2016-03-08 19:31 ansible-cloudfront-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 19:31 ansible-cloudfront-master/meta/
+-rw-rw-r-- root/root       317 2016-03-08 19:31 ansible-cloudfront-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 19:31 ansible-cloudfront-master/tasks/
+-rw-rw-r-- root/root       844 2016-03-08 19:31 ansible-cloudfront-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 19:31 ansible-cloudfront-master/templates/
+-rw-rw-r-- root/root       177 2016-03-08 19:31 ansible-cloudfront-master/templates/aws_config.j2
+-rw-rw-r-- root/root      1449 2016-03-08 19:31 ansible-cloudfront-master/templates/create-distro.json.j2

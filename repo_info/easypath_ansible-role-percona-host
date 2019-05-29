@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-04-20 07:10 ansible-role-percona-host-master/
+-rw-rw-r-- root/root      1180 2018-04-20 07:10 ansible-role-percona-host-master/README.md
+drwxrwxr-x root/root         0 2018-04-20 07:10 ansible-role-percona-host-master/defaults/
+-rw-rw-r-- root/root       414 2018-04-20 07:10 ansible-role-percona-host-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-20 07:10 ansible-role-percona-host-master/meta/
+-rw-rw-r-- root/root      1759 2018-04-20 07:10 ansible-role-percona-host-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-20 07:10 ansible-role-percona-host-master/tasks/
+-rw-rw-r-- root/root       693 2018-04-20 07:10 ansible-role-percona-host-master/tasks/firewall-rules.yaml
+-rw-rw-r-- root/root      1560 2018-04-20 07:10 ansible-role-percona-host-master/tasks/main.yml
+-rw-rw-r-- root/root      1107 2018-04-20 07:10 ansible-role-percona-host-master/tasks/percona-tls.yaml
+drwxrwxr-x root/root         0 2018-04-20 07:10 ansible-role-percona-host-master/templates/
+-rw-rw-r-- root/root       942 2018-04-20 07:10 ansible-role-percona-host-master/templates/wsrep.cnf.j2

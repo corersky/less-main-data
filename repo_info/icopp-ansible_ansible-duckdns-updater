@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-21 13:34 ansible-duckdns-updater-master/
+-rw-rw-r-- root/root       672 2016-09-21 13:34 ansible-duckdns-updater-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-21 13:34 ansible-duckdns-updater-master/LICENSE
+-rw-rw-r-- root/root       505 2016-09-21 13:34 ansible-duckdns-updater-master/README.md
+drwxrwxr-x root/root         0 2016-09-21 13:34 ansible-duckdns-updater-master/defaults/
+-rw-rw-r-- root/root        44 2016-09-21 13:34 ansible-duckdns-updater-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-21 13:34 ansible-duckdns-updater-master/meta/
+-rw-rw-r-- root/root       381 2016-09-21 13:34 ansible-duckdns-updater-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-21 13:34 ansible-duckdns-updater-master/tasks/
+-rw-rw-r-- root/root       593 2016-09-21 13:34 ansible-duckdns-updater-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-21 13:34 ansible-duckdns-updater-master/templates/
+-rw-rw-r-- root/root        61 2016-09-21 13:34 ansible-duckdns-updater-master/templates/duckdns.conf.j2
+drwxrwxr-x root/root         0 2016-09-21 13:34 ansible-duckdns-updater-master/tests/
+-rw-rw-r-- root/root         9 2016-09-21 13:34 ansible-duckdns-updater-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-09-21 13:34 ansible-duckdns-updater-master/tests/test.yml

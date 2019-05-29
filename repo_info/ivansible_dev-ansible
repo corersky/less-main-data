@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-03 12:50 dev-ansible-master/
+-rw-rw-r-- root/root        26 2019-05-03 12:50 dev-ansible-master/.gitignore
+-rw-rw-r-- root/root      1212 2019-05-03 12:50 dev-ansible-master/README.md
+drwxrwxr-x root/root         0 2019-05-03 12:50 dev-ansible-master/defaults/
+-rw-rw-r-- root/root       447 2019-05-03 12:50 dev-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-03 12:50 dev-ansible-master/files/
+-rw-rw-r-- root/root       108 2019-05-03 12:50 dev-ansible-master/files/requirements.txt
+drwxrwxr-x root/root         0 2019-05-03 12:50 dev-ansible-master/meta/
+-rw-rw-r-- root/root       360 2019-05-03 12:50 dev-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-03 12:50 dev-ansible-master/tasks/
+-rw-rw-r-- root/root      2090 2019-05-03 12:50 dev-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-03 12:50 dev-ansible-master/tests/
+-rw-rw-r-- root/root        11 2019-05-03 12:50 dev-ansible-master/tests/inventory
+-rw-rw-r-- root/root        88 2019-05-03 12:50 dev-ansible-master/tests/test.yml

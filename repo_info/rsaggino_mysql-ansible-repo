@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-30 05:50 mysql-ansible-repo-master/
+-rw-rw-r-- root/root      1319 2019-01-30 05:50 mysql-ansible-repo-master/README.md
+drwxrwxr-x root/root         0 2019-01-30 05:50 mysql-ansible-repo-master/defaults/
+-rw-rw-r-- root/root        29 2019-01-30 05:50 mysql-ansible-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:50 mysql-ansible-repo-master/handlers/
+-rw-rw-r-- root/root       105 2019-01-30 05:50 mysql-ansible-repo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:50 mysql-ansible-repo-master/meta/
+-rw-rw-r-- root/root      1973 2019-01-30 05:50 mysql-ansible-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:50 mysql-ansible-repo-master/tasks/
+-rw-rw-r-- root/root       667 2019-01-30 05:50 mysql-ansible-repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:50 mysql-ansible-repo-master/tests/
+-rw-rw-r-- root/root        11 2019-01-30 05:50 mysql-ansible-repo-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-01-30 05:50 mysql-ansible-repo-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-30 05:50 mysql-ansible-repo-master/vars/
+-rw-rw-r-- root/root        25 2019-01-30 05:50 mysql-ansible-repo-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/defaults/
+-rw-rw-r-- root/root       324 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/handlers/
+-rw-rw-r-- root/root       104 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/meta/
+-rw-rw-r-- root/root       336 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/tasks/
+-rw-rw-r-- root/root       695 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       236 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/templates/
+-rw-rw-r-- root/root       140 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/templates/my.cnf.j2
+-rw-rw-r-- root/root      1138 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/templates/zabbix_agentd.conf.j2
+drwxrwxr-x root/root         0 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/vars/
+-rw-rw-r-- root/root        48 2018-11-19 12:57 ansible-roles-zabbix40-agent-master/vars/main.yml

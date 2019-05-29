@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-24 03:20 ansible-mysql-role-redhat6-master/
+-rw-rw-r-- root/root      1168 2019-02-24 03:20 ansible-mysql-role-redhat6-master/README.md
+drwxrwxr-x root/root         0 2019-02-24 03:20 ansible-mysql-role-redhat6-master/defaults/
+-rw-rw-r-- root/root        33 2019-02-24 03:20 ansible-mysql-role-redhat6-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-24 03:20 ansible-mysql-role-redhat6-master/handlers/
+-rw-rw-r-- root/root        33 2019-02-24 03:20 ansible-mysql-role-redhat6-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-24 03:20 ansible-mysql-role-redhat6-master/meta/
+-rw-rw-r-- root/root      1963 2019-02-24 03:20 ansible-mysql-role-redhat6-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-24 03:20 ansible-mysql-role-redhat6-master/tasks/
+-rw-rw-r-- root/root       477 2019-02-24 03:20 ansible-mysql-role-redhat6-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-24 03:20 ansible-mysql-role-redhat6-master/tests/
+-rw-rw-r-- root/root        11 2019-02-24 03:20 ansible-mysql-role-redhat6-master/tests/inventory
+-rw-rw-r-- root/root        67 2019-02-24 03:20 ansible-mysql-role-redhat6-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-24 03:20 ansible-mysql-role-redhat6-master/vars/
+-rw-rw-r-- root/root        29 2019-02-24 03:20 ansible-mysql-role-redhat6-master/vars/main.yml

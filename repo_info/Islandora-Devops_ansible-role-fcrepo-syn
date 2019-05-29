@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-18 08:40 ansible-role-fcrepo-syn-master/
+-rw-rw-r-- root/root      1036 2018-12-18 08:40 ansible-role-fcrepo-syn-master/README.md
+drwxrwxr-x root/root         0 2018-12-18 08:40 ansible-role-fcrepo-syn-master/defaults/
+-rw-rw-r-- root/root       581 2018-12-18 08:40 ansible-role-fcrepo-syn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-18 08:40 ansible-role-fcrepo-syn-master/files/
+-rw-rw-r-- root/root      1972 2018-12-18 08:40 ansible-role-fcrepo-syn-master/files/web.xml
+drwxrwxr-x root/root         0 2018-12-18 08:40 ansible-role-fcrepo-syn-master/meta/
+-rw-rw-r-- root/root       462 2018-12-18 08:40 ansible-role-fcrepo-syn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-18 08:40 ansible-role-fcrepo-syn-master/tasks/
+-rw-rw-r-- root/root       629 2018-12-18 08:40 ansible-role-fcrepo-syn-master/tasks/config.yml
+-rw-rw-r-- root/root       715 2018-12-18 08:40 ansible-role-fcrepo-syn-master/tasks/install.yml
+-rw-rw-r-- root/root       150 2018-12-18 08:40 ansible-role-fcrepo-syn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-18 08:40 ansible-role-fcrepo-syn-master/templates/
+-rw-rw-r-- root/root       254 2018-12-18 08:40 ansible-role-fcrepo-syn-master/templates/context.xml
+-rw-rw-r-- root/root      1043 2018-12-18 08:40 ansible-role-fcrepo-syn-master/templates/syn-settings.xml

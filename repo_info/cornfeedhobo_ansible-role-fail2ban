@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-28 14:52 ansible-role-fail2ban-master/
+-rw-rw-r-- root/root      1069 2018-11-28 14:52 ansible-role-fail2ban-master/LICENSE
+-rw-rw-r-- root/root      1049 2018-11-28 14:52 ansible-role-fail2ban-master/README.md
+drwxrwxr-x root/root         0 2018-11-28 14:52 ansible-role-fail2ban-master/defaults/
+-rw-rw-r-- root/root       347 2018-11-28 14:52 ansible-role-fail2ban-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-28 14:52 ansible-role-fail2ban-master/handlers/
+-rw-rw-r-- root/root       167 2018-11-28 14:52 ansible-role-fail2ban-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-28 14:52 ansible-role-fail2ban-master/meta/
+-rw-rw-r-- root/root       475 2018-11-28 14:52 ansible-role-fail2ban-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-28 14:52 ansible-role-fail2ban-master/tasks/
+-rw-rw-r-- root/root      1126 2018-11-28 14:52 ansible-role-fail2ban-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-28 14:52 ansible-role-fail2ban-master/templates/
+-rw-rw-r-- root/root        66 2018-11-28 14:52 ansible-role-fail2ban-master/templates/jails.conf.j2
+drwxrwxr-x root/root         0 2018-11-28 14:52 ansible-role-fail2ban-master/vars/
+-rw-rw-r-- root/root        76 2018-11-28 14:52 ansible-role-fail2ban-master/vars/RedHat-7.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-04-08 06:37 ansible-nsswitch-master/
+-rw-rw-r-- root/root         0 2016-04-08 06:37 ansible-nsswitch-master/.gitignore
+-rw-rw-r-- root/root      1080 2016-04-08 06:37 ansible-nsswitch-master/LICENSE
+-rw-rw-r-- root/root      5483 2016-04-08 06:37 ansible-nsswitch-master/README.md
+drwxrwxr-x root/root         0 2016-04-08 06:37 ansible-nsswitch-master/defaults/
+-rw-rw-r-- root/root      4270 2016-04-08 06:37 ansible-nsswitch-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-04-08 06:37 ansible-nsswitch-master/meta/
+-rw-rw-r-- root/root       243 2016-04-08 06:37 ansible-nsswitch-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-08 06:37 ansible-nsswitch-master/tasks/
+-rw-rw-r-- root/root       148 2016-04-08 06:37 ansible-nsswitch-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-04-08 06:37 ansible-nsswitch-master/templates/
+-rw-rw-r-- root/root       195 2016-04-08 06:37 ansible-nsswitch-master/templates/nsswitch.conf.j2

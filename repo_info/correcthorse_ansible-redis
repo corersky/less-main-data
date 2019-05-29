@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-08 13:43 ansible-redis-master/
+-rw-rw-r-- root/root      1080 2016-02-08 13:43 ansible-redis-master/LICENSE
+-rw-rw-r-- root/root       742 2016-02-08 13:43 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2016-02-08 13:43 ansible-redis-master/defaults/
+-rw-rw-r-- root/root        74 2016-02-08 13:43 ansible-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-08 13:43 ansible-redis-master/handlers/
+-rw-rw-r-- root/root        64 2016-02-08 13:43 ansible-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-08 13:43 ansible-redis-master/meta/
+-rw-rw-r-- root/root       255 2016-02-08 13:43 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-08 13:43 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       997 2016-02-08 13:43 ansible-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-08 13:43 ansible-redis-master/templates/
+-rw-rw-r-- root/root      6250 2016-02-08 13:43 ansible-redis-master/templates/redis-sentinel.conf.j2
+-rw-rw-r-- root/root     21181 2016-02-08 13:43 ansible-redis-master/templates/redis.conf.RedHat6.j2
+-rw-rw-r-- root/root     32838 2016-02-08 13:43 ansible-redis-master/templates/redis.conf.j2
+drwxrwxr-x root/root         0 2016-02-08 13:43 ansible-redis-master/vars/
+-rw-rw-r-- root/root        26 2016-02-08 13:43 ansible-redis-master/vars/main.yml

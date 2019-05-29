@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-06 10:40 ansible-pm2service-master/
+-rw-rw-r-- root/root       201 2017-12-06 10:40 ansible-pm2service-master/.travis.yml
+-rw-rw-r-- root/root       247 2017-12-06 10:40 ansible-pm2service-master/README.md
+-rw-rw-r-- root/root       651 2017-12-06 10:40 ansible-pm2service-master/Vagrantfile
+-rw-rw-r-- root/root       516 2017-12-06 10:40 ansible-pm2service-master/app.js
+drwxrwxr-x root/root         0 2017-12-06 10:40 ansible-pm2service-master/library/
+-rw-rw-r-- root/root      6408 2017-12-06 10:40 ansible-pm2service-master/library/pm2service.js
+drwxrwxr-x root/root         0 2017-12-06 10:40 ansible-pm2service-master/meta/
+-rw-rw-r-- root/root       136 2017-12-06 10:40 ansible-pm2service-master/meta/main.yml
+-rw-rw-r-- root/root         8 2017-12-06 10:40 ansible-pm2service-master/requirements.txt
+-rw-rw-r-- root/root       363 2017-12-06 10:40 ansible-pm2service-master/server.js
+-rw-rw-r-- root/root       161 2017-12-06 10:40 ansible-pm2service-master/test-play.yml
+drwxrwxr-x root/root         0 2017-12-06 10:40 ansible-pm2service-master/tests/
+-rw-rw-r-- root/root      4549 2017-12-06 10:40 ansible-pm2service-master/tests/do_test.py
+-rw-rw-r-- root/root      1584 2017-12-06 10:40 ansible-pm2service-master/tests/tests.yml

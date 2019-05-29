@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-10 22:28 ansible-repo-webtatic-master/
+-rw-rw-r-- root/root       695 2019-03-10 22:28 ansible-repo-webtatic-master/.travis.yml
+-rw-rw-r-- root/root       774 2019-03-10 22:28 ansible-repo-webtatic-master/README.md
+drwxrwxr-x root/root         0 2019-03-10 22:28 ansible-repo-webtatic-master/defaults/
+-rw-rw-r-- root/root       142 2019-03-10 22:28 ansible-repo-webtatic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-10 22:28 ansible-repo-webtatic-master/meta/
+-rw-rw-r-- root/root       275 2019-03-10 22:28 ansible-repo-webtatic-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-10 22:28 ansible-repo-webtatic-master/tasks/
+-rw-rw-r-- root/root       159 2019-03-10 22:28 ansible-repo-webtatic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-10 22:28 ansible-repo-webtatic-master/tests/
+-rw-rw-r-- root/root      1121 2019-03-10 22:28 ansible-repo-webtatic-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root        44 2019-03-10 22:28 ansible-repo-webtatic-master/tests/requirements.yml
+-rw-rw-r-- root/root        49 2019-03-10 22:28 ansible-repo-webtatic-master/tests/test.yml

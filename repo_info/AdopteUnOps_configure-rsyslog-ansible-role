@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-24 08:45 configure-rsyslog-ansible-role-master/
+-rw-rw-r-- root/root      1160 2017-10-24 08:45 configure-rsyslog-ansible-role-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-10-24 08:45 configure-rsyslog-ansible-role-master/LICENSE
+-rw-rw-r-- root/root       196 2017-10-24 08:45 configure-rsyslog-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-10-24 08:45 configure-rsyslog-ansible-role-master/files/
+-rw-rw-r-- root/root       372 2017-10-24 08:45 configure-rsyslog-ansible-role-master/files/logrotate.cron.conf
+-rw-rw-r-- root/root       680 2017-10-24 08:45 configure-rsyslog-ansible-role-master/files/rsyslog.logrotate.conf
+drwxrwxr-x root/root         0 2017-10-24 08:45 configure-rsyslog-ansible-role-master/meta/
+-rw-rw-r-- root/root       201 2017-10-24 08:45 configure-rsyslog-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-24 08:45 configure-rsyslog-ansible-role-master/tasks/
+-rw-rw-r-- root/root       243 2017-10-24 08:45 configure-rsyslog-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-24 08:45 configure-rsyslog-ansible-role-master/tests/
+-rw-rw-r-- root/root        11 2017-10-24 08:45 configure-rsyslog-ansible-role-master/tests/inventory
+-rw-rw-r-- root/root        89 2017-10-24 08:45 configure-rsyslog-ansible-role-master/tests/test.yml

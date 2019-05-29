@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-01-19 21:48 ansible-drush-master/
+-rw-rw-r-- root/root     11325 2015-01-19 21:48 ansible-drush-master/LICENSE
+-rw-rw-r-- root/root      2304 2015-01-19 21:48 ansible-drush-master/README.md
+drwxrwxr-x root/root         0 2015-01-19 21:48 ansible-drush-master/defaults/
+-rw-rw-r-- root/root       329 2015-01-19 21:48 ansible-drush-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-19 21:48 ansible-drush-master/meta/
+-rw-rw-r-- root/root       305 2015-01-19 21:48 ansible-drush-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-19 21:48 ansible-drush-master/tasks/
+-rw-rw-r-- root/root       538 2015-01-19 21:48 ansible-drush-master/tasks/composer_install.yml
+-rw-rw-r-- root/root       568 2015-01-19 21:48 ansible-drush-master/tasks/git_install.yml
+-rw-rw-r-- root/root       566 2015-01-19 21:48 ansible-drush-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-19 21:48 ansible-drush-master/templates/
+-rw-rw-r-- root/root       680 2015-01-19 21:48 ansible-drush-master/templates/drushrc.j2

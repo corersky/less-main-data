@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/
+-rw-rw-r-- root/root        15 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/.gitattributes
+-rw-rw-r-- root/root       539 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/.travis.yml
+-rw-rw-r-- root/root       954 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/README.md
+drwxrwxr-x root/root         0 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/defaults/
+-rw-rw-r-- root/root        44 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/handlers/
+-rw-rw-r-- root/root        44 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/meta/
+-rw-rw-r-- root/root       349 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/tasks/
+-rw-rw-r-- root/root       942 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/tests/
+-rw-rw-r-- root/root         9 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/tests/inventory
+-rw-rw-r-- root/root        98 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/vars/
+-rw-rw-r-- root/root        40 2016-10-04 04:40 ansible-role-ubuntu-xenial-master/vars/main.yml

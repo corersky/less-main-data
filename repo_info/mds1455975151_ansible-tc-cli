@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-02 08:39 ansible-tc-cli-master/
+-rw-rw-r-- root/root       995 2019-04-02 08:39 ansible-tc-cli-master/README.md
+drwxrwxr-x root/root         0 2019-04-02 08:39 ansible-tc-cli-master/defaults/
+-rw-rw-r-- root/root       151 2019-04-02 08:39 ansible-tc-cli-master/defaults/main.yml
+-rw-rw-r-- root/root       158 2019-04-02 08:39 ansible-tc-cli-master/example.yml
+drwxrwxr-x root/root         0 2019-04-02 08:39 ansible-tc-cli-master/meta/
+-rw-rw-r-- root/root       355 2019-04-02 08:39 ansible-tc-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-02 08:39 ansible-tc-cli-master/tasks/
+-rw-rw-r-- root/root       809 2019-04-02 08:39 ansible-tc-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-02 08:39 ansible-tc-cli-master/templates/
+-rw-rw-r-- root/root       129 2019-04-02 08:39 ansible-tc-cli-master/templates/.tcshrc
+-rw-rw-r-- root/root      1546 2019-04-02 08:39 ansible-tc-cli-master/templates/default.configure
+-rw-rw-r-- root/root        94 2019-04-02 08:39 ansible-tc-cli-master/templates/default.credential

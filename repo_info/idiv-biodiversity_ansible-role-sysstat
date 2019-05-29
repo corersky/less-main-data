@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-10 04:15 ansible-role-sysstat-master/
+-rw-rw-r-- root/root      1115 2019-04-10 04:15 ansible-role-sysstat-master/LICENSE
+-rw-rw-r-- root/root      1947 2019-04-10 04:15 ansible-role-sysstat-master/README.md
+drwxrwxr-x root/root         0 2019-04-10 04:15 ansible-role-sysstat-master/defaults/
+-rw-rw-r-- root/root       162 2019-04-10 04:15 ansible-role-sysstat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-10 04:15 ansible-role-sysstat-master/meta/
+-rw-rw-r-- root/root       341 2019-04-10 04:15 ansible-role-sysstat-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-10 04:15 ansible-role-sysstat-master/tasks/
+-rw-rw-r-- root/root       804 2019-04-10 04:15 ansible-role-sysstat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-10 04:15 ansible-role-sysstat-master/templates/
+-rw-rw-r-- root/root       601 2019-04-10 04:15 ansible-role-sysstat-master/templates/sysstat-conf-redhat-6.j2
+-rw-rw-r-- root/root       601 2019-04-10 04:15 ansible-role-sysstat-master/templates/sysstat-conf-redhat-7.j2
+-rw-rw-r-- root/root       421 2019-04-10 04:15 ansible-role-sysstat-master/templates/sysstat-cron.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-24 16:42 ansible-open_vm_tools-master/
+-rw-rw-r-- root/root      1298 2018-09-24 16:42 ansible-open_vm_tools-master/LICENSE
+-rw-rw-r-- root/root       665 2018-09-24 16:42 ansible-open_vm_tools-master/README.md
+drwxrwxr-x root/root         0 2018-09-24 16:42 ansible-open_vm_tools-master/defaults/
+-rw-rw-r-- root/root        38 2018-09-24 16:42 ansible-open_vm_tools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:42 ansible-open_vm_tools-master/handlers/
+-rw-rw-r-- root/root        38 2018-09-24 16:42 ansible-open_vm_tools-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:42 ansible-open_vm_tools-master/meta/
+-rw-rw-r-- root/root      2222 2018-09-24 16:42 ansible-open_vm_tools-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:42 ansible-open_vm_tools-master/tasks/
+-rw-rw-r-- root/root        53 2018-09-24 16:42 ansible-open_vm_tools-master/tasks/CentOS.yml
+-rw-rw-r-- root/root       206 2018-09-24 16:42 ansible-open_vm_tools-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       327 2018-09-24 16:42 ansible-open_vm_tools-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:42 ansible-open_vm_tools-master/vars/
+-rw-rw-r-- root/root        52 2018-09-24 16:42 ansible-open_vm_tools-master/vars/CentOS.yml
+-rw-rw-r-- root/root        95 2018-09-24 16:42 ansible-open_vm_tools-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        34 2018-09-24 16:42 ansible-open_vm_tools-master/vars/main.yml

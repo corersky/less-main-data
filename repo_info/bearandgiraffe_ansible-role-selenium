@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-16 12:51 ansible-role-selenium-master/
+-rw-rw-r-- root/root       539 2017-03-16 12:51 ansible-role-selenium-master/.travis.yml
+-rw-rw-r-- root/root      1210 2017-03-16 12:51 ansible-role-selenium-master/LICENSE
+-rw-rw-r-- root/root       584 2017-03-16 12:51 ansible-role-selenium-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 12:51 ansible-role-selenium-master/defaults/
+-rw-rw-r-- root/root       142 2017-03-16 12:51 ansible-role-selenium-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-16 12:51 ansible-role-selenium-master/handlers/
+-rw-rw-r-- root/root        46 2017-03-16 12:51 ansible-role-selenium-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-16 12:51 ansible-role-selenium-master/meta/
+-rw-rw-r-- root/root       332 2017-03-16 12:51 ansible-role-selenium-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 12:51 ansible-role-selenium-master/tasks/
+-rw-rw-r-- root/root      1472 2017-03-16 12:51 ansible-role-selenium-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-16 12:51 ansible-role-selenium-master/tests/
+-rw-rw-r-- root/root         9 2017-03-16 12:51 ansible-role-selenium-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-03-16 12:51 ansible-role-selenium-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-16 12:51 ansible-role-selenium-master/vars/
+-rw-rw-r-- root/root        42 2017-03-16 12:51 ansible-role-selenium-master/vars/main.yml

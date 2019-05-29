@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/
+-rw-rw-r-- root/root         8 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/.gitignore
+-rw-rw-r-- root/root       148 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/.travis.yml
+-rw-rw-r-- root/root      1839 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/README.md
+drwxrwxr-x root/root         0 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/defaults/
+-rw-rw-r-- root/root        97 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/meta/
+-rw-rw-r-- root/root       310 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/tasks/
+-rw-rw-r-- root/root       737 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/tests/
+-rw-rw-r-- root/root         9 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/tests/inventory
+-rw-rw-r-- root/root        69 2019-01-15 10:14 ansible-workshop-deployment-tracker-master/tests/test.yml

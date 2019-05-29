@@ -1,0 +1,33 @@
+drwxrwxr-x root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/
+-rw-rw-r-- root/root        28 2019-05-21 12:06 ansible-role-virtio-win-master/.gitignore
+-rw-rw-r-- root/root       790 2019-05-21 12:06 ansible-role-virtio-win-master/.travis.yml
+-rw-rw-r-- root/root      1079 2019-05-21 12:06 ansible-role-virtio-win-master/LICENSE
+-rw-rw-r-- root/root      2660 2019-05-21 12:06 ansible-role-virtio-win-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/defaults/
+-rw-rw-r-- root/root       472 2019-05-21 12:06 ansible-role-virtio-win-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/meta/
+-rw-rw-r-- root/root      1728 2019-05-21 12:06 ansible-role-virtio-win-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/
+drwxrwxr-x root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/
+-rw-rw-r-- root/root      1020 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       151 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      3460 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/create.yml
+-rw-rw-r-- root/root      1033 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       635 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        79 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        67 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/prepare.yml
+drwxrwxr-x root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1784 2019-05-21 12:06 ansible-role-virtio-win-master/molecule/default/yaml-lint.yml
+-rwxrwxr-x root/root       166 2019-05-21 12:06 ansible-role-virtio-win-master/molecule_tests.sh
+drwxrwxr-x root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/tasks/
+-rw-rw-r-- root/root       346 2019-05-21 12:06 ansible-role-virtio-win-master/tasks/main.yml
+-rw-rw-r-- root/root      1537 2019-05-21 12:06 ansible-role-virtio-win-master/tasks/vdagent-win.yml
+-rw-rw-r-- root/root      5111 2019-05-21 12:06 ansible-role-virtio-win-master/tasks/virtio-win.yml
+drwxrwxr-x root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/vars/
+-rw-rw-r-- root/root        33 2019-05-21 12:06 ansible-role-virtio-win-master/vars/Microsoft Windows 10 Enterprise Evaluation.yml
+-rw-rw-r-- root/root        36 2019-05-21 12:06 ansible-role-virtio-win-master/vars/Microsoft Windows Server 2012 R2 Standard Evaluation.yml
+lrwxrwxrwx root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/vars/Microsoft Windows Server 2016 Datacenter Evaluation.yml -> Microsoft Windows Server 2016 Standard Evaluation.yml
+-rw-rw-r-- root/root        34 2019-05-21 12:06 ansible-role-virtio-win-master/vars/Microsoft Windows Server 2016 Standard Evaluation.yml
+lrwxrwxrwx root/root         0 2019-05-21 12:06 ansible-role-virtio-win-master/vars/Microsoft Windows Server 2019 Datacenter Evaluation.yml -> Microsoft Windows Server 2019 Standard Evaluation.yml
+-rw-rw-r-- root/root        34 2019-05-21 12:06 ansible-role-virtio-win-master/vars/Microsoft Windows Server 2019 Standard Evaluation.yml

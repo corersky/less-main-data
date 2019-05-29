@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-01-21 03:41 ansible-role-ossec-webui-master/
+-rw-rw-r-- root/root       476 2018-01-21 03:41 ansible-role-ossec-webui-master/README.md
+drwxrwxr-x root/root         0 2018-01-21 03:41 ansible-role-ossec-webui-master/defaults/
+-rw-rw-r-- root/root       159 2018-01-21 03:41 ansible-role-ossec-webui-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-21 03:41 ansible-role-ossec-webui-master/files/
+-rw-rw-r-- root/root       119 2018-01-21 03:41 ansible-role-ossec-webui-master/files/.htaccess
+-rw-rw-r-- root/root        69 2018-01-21 03:41 ansible-role-ossec-webui-master/files/cassia.conf
+-rw-rw-r-- root/root       237 2018-01-21 03:41 ansible-role-ossec-webui-master/files/ossec-wui.te
+drwxrwxr-x root/root         0 2018-01-21 03:41 ansible-role-ossec-webui-master/handlers/
+-rw-rw-r-- root/root       283 2018-01-21 03:41 ansible-role-ossec-webui-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-21 03:41 ansible-role-ossec-webui-master/meta/
+-rw-rw-r-- root/root       237 2018-01-21 03:41 ansible-role-ossec-webui-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-21 03:41 ansible-role-ossec-webui-master/tasks/
+-rw-rw-r-- root/root      2988 2018-01-21 03:41 ansible-role-ossec-webui-master/tasks/main.yml

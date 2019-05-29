@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-02 19:32 Kube-Deploy-Ansible-master/
+-rw-rw-r-- root/root      1538 2016-07-02 19:32 Kube-Deploy-Ansible-master/README.md
+drwxrwxr-x root/root         0 2016-07-02 19:32 Kube-Deploy-Ansible-master/defaults/
+-rw-rw-r-- root/root        36 2016-07-02 19:32 Kube-Deploy-Ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-02 19:32 Kube-Deploy-Ansible-master/handlers/
+-rw-rw-r-- root/root        36 2016-07-02 19:32 Kube-Deploy-Ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-02 19:32 Kube-Deploy-Ansible-master/meta/
+-rw-rw-r-- root/root      3244 2016-07-02 19:32 Kube-Deploy-Ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-02 19:32 Kube-Deploy-Ansible-master/tasks/
+-rw-rw-r-- root/root       921 2016-07-02 19:32 Kube-Deploy-Ansible-master/tasks/docker.yml
+-rw-rw-r-- root/root       449 2016-07-02 19:32 Kube-Deploy-Ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-02 19:32 Kube-Deploy-Ansible-master/tests/
+-rw-rw-r-- root/root         9 2016-07-02 19:32 Kube-Deploy-Ansible-master/tests/inventory
+-rw-rw-r-- root/root        69 2016-07-02 19:32 Kube-Deploy-Ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-02 19:32 Kube-Deploy-Ansible-master/vars/
+-rw-rw-r-- root/root       180 2016-07-02 19:32 Kube-Deploy-Ansible-master/vars/main.yml

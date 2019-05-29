@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-05-30 05:09 ansible-nagios-nrpe-master/
+-rw-rw-r-- root/root       287 2014-05-30 05:09 ansible-nagios-nrpe-master/README.md
+drwxrwxr-x root/root         0 2014-05-30 05:09 ansible-nagios-nrpe-master/handlers/
+-rw-rw-r-- root/root        46 2014-05-30 05:09 ansible-nagios-nrpe-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-30 05:09 ansible-nagios-nrpe-master/meta/
+-rw-rw-r-- root/root      1947 2014-05-30 05:09 ansible-nagios-nrpe-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-30 05:09 ansible-nagios-nrpe-master/tasks/
+-rw-rw-r-- root/root       472 2014-05-30 05:09 ansible-nagios-nrpe-master/tasks/CentOS.yml
+-rw-rw-r-- root/root       318 2014-05-30 05:09 ansible-nagios-nrpe-master/tasks/Debian.yml
+-rw-rw-r-- root/root       179 2014-05-30 05:09 ansible-nagios-nrpe-master/tasks/Fedora.yml
+-rw-rw-r-- root/root       186 2014-05-30 05:09 ansible-nagios-nrpe-master/tasks/Suse.yml
+-rw-rw-r-- root/root       321 2014-05-30 05:09 ansible-nagios-nrpe-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       716 2014-05-30 05:09 ansible-nagios-nrpe-master/tasks/main.yml
+-rw-rw-r-- root/root        68 2014-05-30 05:09 ansible-nagios-nrpe-master/test.yml
+drwxrwxr-x root/root         0 2014-05-30 05:09 ansible-nagios-nrpe-master/vars/
+-rw-rw-r-- root/root       152 2014-05-30 05:09 ansible-nagios-nrpe-master/vars/main.yml

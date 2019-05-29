@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-20 09:07 ovirt_iso_uploader-master/
+-rw-rw-r-- root/root        23 2016-05-20 09:07 ovirt_iso_uploader-master/.gitignore
+-rw-rw-r-- root/root      1020 2016-05-20 09:07 ovirt_iso_uploader-master/README.md
+drwxrwxr-x root/root         0 2016-05-20 09:07 ovirt_iso_uploader-master/defaults/
+-rw-rw-r-- root/root       245 2016-05-20 09:07 ovirt_iso_uploader-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-20 09:07 ovirt_iso_uploader-master/meta/
+-rw-rw-r-- root/root       288 2016-05-20 09:07 ovirt_iso_uploader-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-20 09:07 ovirt_iso_uploader-master/tasks/
+-rw-rw-r-- root/root        34 2016-05-20 09:07 ovirt_iso_uploader-master/tasks/main.yml
+-rw-rw-r-- root/root       842 2016-05-20 09:07 ovirt_iso_uploader-master/tasks/ovirt-iso_uploader.yml
+drwxrwxr-x root/root         0 2016-05-20 09:07 ovirt_iso_uploader-master/templates/
+-rw-rw-r-- root/root       300 2016-05-20 09:07 ovirt_iso_uploader-master/templates/isouploader.conf

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-02-19 09:51 ansible-role-system-limits-master/
+-rw-rw-r-- root/root       334 2014-02-19 09:51 ansible-role-system-limits-master/README.md
+drwxrwxr-x root/root         0 2014-02-19 09:51 ansible-role-system-limits-master/defaults/
+-rw-rw-r-- root/root       342 2014-02-19 09:51 ansible-role-system-limits-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-02-19 09:51 ansible-role-system-limits-master/meta/
+-rw-rw-r-- root/root       219 2014-02-19 09:51 ansible-role-system-limits-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-02-19 09:51 ansible-role-system-limits-master/tasks/
+-rw-rw-r-- root/root       312 2014-02-19 09:51 ansible-role-system-limits-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-02-19 09:51 ansible-role-system-limits-master/templates/
+-rw-rw-r-- root/root        65 2014-02-19 09:51 ansible-role-system-limits-master/templates/ulimits.conf.j2

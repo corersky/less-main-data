@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-29 13:53 secure_mysql-master/
+-rw-rw-r-- root/root      1328 2018-01-29 13:53 secure_mysql-master/README.md
+drwxrwxr-x root/root         0 2018-01-29 13:53 secure_mysql-master/defaults/
+-rw-rw-r-- root/root       104 2018-01-29 13:53 secure_mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-29 13:53 secure_mysql-master/handlers/
+-rw-rw-r-- root/root        36 2018-01-29 13:53 secure_mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-29 13:53 secure_mysql-master/meta/
+-rw-rw-r-- root/root      1914 2018-01-29 13:53 secure_mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-29 13:53 secure_mysql-master/tasks/
+-rw-rw-r-- root/root      1541 2018-01-29 13:53 secure_mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-29 13:53 secure_mysql-master/templates/
+-rw-rw-r-- root/root        98 2018-01-29 13:53 secure_mysql-master/templates/my.cnf.j2
+drwxrwxr-x root/root         0 2018-01-29 13:53 secure_mysql-master/tests/
+-rw-rw-r-- root/root        11 2018-01-29 13:53 secure_mysql-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-01-29 13:53 secure_mysql-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-29 13:53 secure_mysql-master/vars/
+-rw-rw-r-- root/root         3 2018-01-29 13:53 secure_mysql-master/vars/main.yml

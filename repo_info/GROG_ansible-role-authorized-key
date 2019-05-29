@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-08 08:28 ansible-role-authorized-key-master/
+-rw-rw-r-- root/root       982 2017-08-08 08:28 ansible-role-authorized-key-master/.travis.yml
+-rw-rw-r-- root/root      1071 2017-08-08 08:28 ansible-role-authorized-key-master/LICENSE
+-rw-rw-r-- root/root      4249 2017-08-08 08:28 ansible-role-authorized-key-master/README.md
+drwxrwxr-x root/root         0 2017-08-08 08:28 ansible-role-authorized-key-master/defaults/
+-rw-rw-r-- root/root       480 2017-08-08 08:28 ansible-role-authorized-key-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-08 08:28 ansible-role-authorized-key-master/meta/
+-rw-rw-r-- root/root       399 2017-08-08 08:28 ansible-role-authorized-key-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-08 08:28 ansible-role-authorized-key-master/tasks/
+-rw-rw-r-- root/root       589 2017-08-08 08:28 ansible-role-authorized-key-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-08 08:28 ansible-role-authorized-key-master/tests/
+-rw-rw-r-- root/root        10 2017-08-08 08:28 ansible-role-authorized-key-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-08-08 08:28 ansible-role-authorized-key-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-08-08 08:28 ansible-role-authorized-key-master/vars/
+-rw-rw-r-- root/root       113 2017-08-08 08:28 ansible-role-authorized-key-master/vars/main.yml

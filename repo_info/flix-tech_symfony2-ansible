@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-19 13:00 symfony2-ansible-master/
+-rw-rw-r-- root/root       975 2016-10-19 13:00 symfony2-ansible-master/README.md
+drwxrwxr-x root/root         0 2016-10-19 13:00 symfony2-ansible-master/defaults/
+-rw-rw-r-- root/root       769 2016-10-19 13:00 symfony2-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-19 13:00 symfony2-ansible-master/hooks/
+-rw-rw-r-- root/root         4 2016-10-19 13:00 symfony2-ansible-master/hooks/symfony_post_deploy_hook.yml
+-rw-rw-r-- root/root         4 2016-10-19 13:00 symfony2-ansible-master/hooks/symfony_post_finish_hook.yml
+-rw-rw-r-- root/root         4 2016-10-19 13:00 symfony2-ansible-master/hooks/symfony_post_install_hook.yml
+-rw-rw-r-- root/root         4 2016-10-19 13:00 symfony2-ansible-master/hooks/symfony_pre_install_hook.yml
+drwxrwxr-x root/root         0 2016-10-19 13:00 symfony2-ansible-master/meta/
+-rw-rw-r-- root/root       206 2016-10-19 13:00 symfony2-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-19 13:00 symfony2-ansible-master/tasks/
+-rw-rw-r-- root/root      1537 2016-10-19 13:00 symfony2-ansible-master/tasks/10-install.yml
+-rw-rw-r-- root/root      1474 2016-10-19 13:00 symfony2-ansible-master/tasks/20-deploy.yml
+-rw-rw-r-- root/root       308 2016-10-19 13:00 symfony2-ansible-master/tasks/30-finish.yml
+-rw-rw-r-- root/root       306 2016-10-19 13:00 symfony2-ansible-master/tasks/main.yml

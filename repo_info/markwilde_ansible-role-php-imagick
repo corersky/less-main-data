@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-19 10:05 ansible-role-php-imagick-master/
+-rw-rw-r-- root/root       136 2015-10-19 10:05 ansible-role-php-imagick-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 10:05 ansible-role-php-imagick-master/defaults/
+-rw-rw-r-- root/root        77 2015-10-19 10:05 ansible-role-php-imagick-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:05 ansible-role-php-imagick-master/meta/
+-rw-rw-r-- root/root       362 2015-10-19 10:05 ansible-role-php-imagick-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:05 ansible-role-php-imagick-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 10:05 ansible-role-php-imagick-master/tasks/debian/
+-rw-rw-r-- root/root       341 2015-10-19 10:05 ansible-role-php-imagick-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       352 2015-10-19 10:05 ansible-role-php-imagick-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:05 ansible-role-php-imagick-master/tasks/redhat/
+-rw-rw-r-- root/root        96 2015-10-19 10:05 ansible-role-php-imagick-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:05 ansible-role-php-imagick-master/templates/
+-rw-rw-r-- root/root       121 2015-10-19 10:05 ansible-role-php-imagick-master/templates/imagick.ini.j2
+drwxrwxr-x root/root         0 2015-10-19 10:05 ansible-role-php-imagick-master/vars/
+-rw-rw-r-- root/root        64 2015-10-19 10:05 ansible-role-php-imagick-master/vars/Debian.yml
+-rw-rw-r-- root/root        68 2015-10-19 10:05 ansible-role-php-imagick-master/vars/RedHat.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-01-31 10:40 debian-telegraf-master/
+-rw-rw-r-- root/root       638 2017-01-31 10:40 debian-telegraf-master/README.md
+drwxrwxr-x root/root         0 2017-01-31 10:40 debian-telegraf-master/defaults/
+-rw-rw-r-- root/root        81 2017-01-31 10:40 debian-telegraf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-31 10:40 debian-telegraf-master/handlers/
+-rw-rw-r-- root/root       171 2017-01-31 10:40 debian-telegraf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-31 10:40 debian-telegraf-master/meta/
+-rw-rw-r-- root/root       322 2017-01-31 10:40 debian-telegraf-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-31 10:40 debian-telegraf-master/tasks/
+-rw-rw-r-- root/root       650 2017-01-31 10:40 debian-telegraf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-31 10:40 debian-telegraf-master/templates/
+-rw-rw-r-- root/root     71506 2017-01-31 10:40 debian-telegraf-master/templates/telegraf.conf.j2

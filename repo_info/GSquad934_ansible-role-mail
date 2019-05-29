@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-06 12:48 ansible-role-mail-master/
+-rw-rw-r-- root/root       149 2018-08-06 12:48 ansible-role-mail-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-08-06 12:48 ansible-role-mail-master/LICENSE.md
+-rw-rw-r-- root/root      1245 2018-08-06 12:48 ansible-role-mail-master/README.md
+drwxrwxr-x root/root         0 2018-08-06 12:48 ansible-role-mail-master/defaults/
+-rw-rw-r-- root/root       183 2018-08-06 12:48 ansible-role-mail-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-06 12:48 ansible-role-mail-master/handlers/
+-rw-rw-r-- root/root       151 2018-08-06 12:48 ansible-role-mail-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-06 12:48 ansible-role-mail-master/meta/
+-rw-rw-r-- root/root       325 2018-08-06 12:48 ansible-role-mail-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-06 12:48 ansible-role-mail-master/tasks/
+-rw-rw-r-- root/root        67 2018-08-06 12:48 ansible-role-mail-master/tasks/main.yml
+-rw-rw-r-- root/root      2578 2018-08-06 12:48 ansible-role-mail-master/tasks/postfix.yml

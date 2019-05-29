@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-22 12:23 smartd-master/
+-rw-rw-r-- root/root     20133 2019-04-22 12:23 smartd-master/LICENSE
+-rw-rw-r-- root/root      9341 2019-04-22 12:23 smartd-master/README.md
+drwxrwxr-x root/root         0 2019-04-22 12:23 smartd-master/defaults/
+-rw-rw-r-- root/root       899 2019-04-22 12:23 smartd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-22 12:23 smartd-master/handlers/
+-rw-rw-r-- root/root       105 2019-04-22 12:23 smartd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-22 12:23 smartd-master/meta/
+-rw-rw-r-- root/root       691 2019-04-22 12:23 smartd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-22 12:23 smartd-master/tasks/
+-rw-rw-r-- root/root       622 2019-04-22 12:23 smartd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-22 12:23 smartd-master/templates/
+-rw-rw-r-- root/root      3520 2019-04-22 12:23 smartd-master/templates/smartd.conf.j2
+drwxrwxr-x root/root         0 2019-04-22 12:23 smartd-master/vars/
+-rw-rw-r-- root/root       144 2019-04-22 12:23 smartd-master/vars/main.yml

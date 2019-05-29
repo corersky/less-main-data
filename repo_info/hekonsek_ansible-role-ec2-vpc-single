@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/
+-rw-rw-r-- root/root        14 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/.gitignore
+-rw-rw-r-- root/root      1132 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/README.md
+drwxrwxr-x root/root         0 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/defaults/
+-rw-rw-r-- root/root        17 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/meta/
+-rw-rw-r-- root/root       297 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/tasks/
+-rw-rw-r-- root/root       997 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/tests/
+-rw-rw-r-- root/root       116 2018-02-13 03:37 ansible-role-ec2-vpc-single-master/tests/test.yml

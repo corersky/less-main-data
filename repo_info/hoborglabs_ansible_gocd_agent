@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-16 11:12 ansible_gocd_agent-master/
+-rw-rw-r-- root/root       807 2015-06-16 11:12 ansible_gocd_agent-master/README.md
+drwxrwxr-x root/root         0 2015-06-16 11:12 ansible_gocd_agent-master/defaults/
+-rw-rw-r-- root/root       217 2015-06-16 11:12 ansible_gocd_agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-16 11:12 ansible_gocd_agent-master/handlers/
+-rw-rw-r-- root/root       262 2015-06-16 11:12 ansible_gocd_agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-16 11:12 ansible_gocd_agent-master/meta/
+-rw-rw-r-- root/root       258 2015-06-16 11:12 ansible_gocd_agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-16 11:12 ansible_gocd_agent-master/tasks/
+-rw-rw-r-- root/root       478 2015-06-16 11:12 ansible_gocd_agent-master/tasks/configure.yml
+-rw-rw-r-- root/root       369 2015-06-16 11:12 ansible_gocd_agent-master/tasks/install.yml
+-rw-rw-r-- root/root       376 2015-06-16 11:12 ansible_gocd_agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-16 11:12 ansible_gocd_agent-master/templates/
+-rw-rw-r-- root/root       508 2015-06-16 11:12 ansible_gocd_agent-master/templates/defaults.j2

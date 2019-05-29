@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-05-09 11:21 ansible-nagios-config-master/
+-rw-rw-r-- root/root        11 2014-05-09 11:21 ansible-nagios-config-master/.gitignore
+-rw-rw-r-- root/root       731 2014-05-09 11:21 ansible-nagios-config-master/LICENSE.txt
+-rw-rw-r-- root/root      2347 2014-05-09 11:21 ansible-nagios-config-master/README.md
+drwxrwxr-x root/root         0 2014-05-09 11:21 ansible-nagios-config-master/handlers/
+-rw-rw-r-- root/root        75 2014-05-09 11:21 ansible-nagios-config-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-09 11:21 ansible-nagios-config-master/meta/
+-rw-rw-r-- root/root       272 2014-05-09 11:21 ansible-nagios-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-09 11:21 ansible-nagios-config-master/tasks/
+-rw-rw-r-- root/root      1922 2014-05-09 11:21 ansible-nagios-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-09 11:21 ansible-nagios-config-master/templates/
+-rw-rw-r-- root/root       138 2014-05-09 11:21 ansible-nagios-config-master/templates/commands.cfg
+-rw-rw-r-- root/root       247 2014-05-09 11:21 ansible-nagios-config-master/templates/hostgroups.cfg
+-rw-rw-r-- root/root      1894 2014-05-09 11:21 ansible-nagios-config-master/templates/hosts.cfg
+-rw-rw-r-- root/root       268 2014-05-09 11:21 ansible-nagios-config-master/templates/services.cfg

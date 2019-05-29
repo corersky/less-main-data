@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-11 18:01 elasticsearch-master/
+-rw-rw-r-- root/root      1203 2018-09-11 18:01 elasticsearch-master/.gitignore
+-rw-rw-r-- root/root      1079 2018-09-11 18:01 elasticsearch-master/LICENSE
+-rw-rw-r-- root/root        75 2018-09-11 18:01 elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2018-09-11 18:01 elasticsearch-master/defaults/
+-rw-rw-r-- root/root       842 2018-09-11 18:01 elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-11 18:01 elasticsearch-master/meta/
+-rw-rw-r-- root/root       460 2018-09-11 18:01 elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-11 18:01 elasticsearch-master/tasks/
+-rw-rw-r-- root/root      2378 2018-09-11 18:01 elasticsearch-master/tasks/main.yml
+-rw-rw-r-- root/root       392 2018-09-11 18:01 elasticsearch-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       370 2018-09-11 18:01 elasticsearch-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2018-09-11 18:01 elasticsearch-master/templates/
+-rw-rw-r-- root/root      3906 2018-09-11 18:01 elasticsearch-master/templates/elasticsearch.yml.j2
+drwxrwxr-x root/root         0 2018-09-11 18:01 elasticsearch-master/vars/
+-rw-rw-r-- root/root       460 2018-09-11 18:01 elasticsearch-master/vars/Debian.yml
+-rw-rw-r-- root/root       460 2018-09-11 18:01 elasticsearch-master/vars/RedHat.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-09-09 12:07 ansible-role-ruby-master/
+-rw-rw-r-- root/root        10 2015-09-09 12:07 ansible-role-ruby-master/.gitignore
+-rw-rw-r-- root/root        20 2015-09-09 12:07 ansible-role-ruby-master/README.md
+drwxrwxr-x root/root         0 2015-09-09 12:07 ansible-role-ruby-master/defaults/
+-rw-rw-r-- root/root       292 2015-09-09 12:07 ansible-role-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-09 12:07 ansible-role-ruby-master/meta/
+-rw-rw-r-- root/root       272 2015-09-09 12:07 ansible-role-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-09 12:07 ansible-role-ruby-master/tasks/
+-rw-rw-r-- root/root       938 2015-09-09 12:07 ansible-role-ruby-master/tasks/install-version.yml
+-rw-rw-r-- root/root       406 2015-09-09 12:07 ansible-role-ruby-master/tasks/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-24 11:54 oracle-java10-master/
+-rw-rw-r-- root/root      1071 2018-10-24 11:54 oracle-java10-master/LICENSE
+-rw-rw-r-- root/root      1391 2018-10-24 11:54 oracle-java10-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 11:54 oracle-java10-master/defaults/
+-rw-rw-r-- root/root        59 2018-10-24 11:54 oracle-java10-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 11:54 oracle-java10-master/handlers/
+-rw-rw-r-- root/root        38 2018-10-24 11:54 oracle-java10-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 11:54 oracle-java10-master/meta/
+-rw-rw-r-- root/root       257 2018-10-24 11:54 oracle-java10-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 11:54 oracle-java10-master/tasks/
+-rw-rw-r-- root/root       844 2018-10-24 11:54 oracle-java10-master/tasks/apt.yml
+-rw-rw-r-- root/root        61 2018-10-24 11:54 oracle-java10-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 11:54 oracle-java10-master/tests/
+-rw-rw-r-- root/root        11 2018-10-24 11:54 oracle-java10-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-10-24 11:54 oracle-java10-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 11:54 oracle-java10-master/vars/
+-rw-rw-r-- root/root        34 2018-10-24 11:54 oracle-java10-master/vars/main.yml

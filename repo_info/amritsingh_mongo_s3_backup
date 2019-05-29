@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-09-20 02:13 mongo_s3_backup-master/
+-rw-rw-r-- root/root      1068 2017-09-20 02:13 mongo_s3_backup-master/LICENSE
+-rw-rw-r-- root/root      1279 2017-09-20 02:13 mongo_s3_backup-master/README.md
+drwxrwxr-x root/root         0 2017-09-20 02:13 mongo_s3_backup-master/defaults/
+-rw-rw-r-- root/root       159 2017-09-20 02:13 mongo_s3_backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-20 02:13 mongo_s3_backup-master/meta/
+-rw-rw-r-- root/root       352 2017-09-20 02:13 mongo_s3_backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-20 02:13 mongo_s3_backup-master/tasks/
+-rw-rw-r-- root/root       535 2017-09-20 02:13 mongo_s3_backup-master/tasks/cron_setup.yml
+-rw-rw-r-- root/root       320 2017-09-20 02:13 mongo_s3_backup-master/tasks/main.yml
+-rw-rw-r-- root/root       573 2017-09-20 02:13 mongo_s3_backup-master/tasks/prereq.yml
+drwxrwxr-x root/root         0 2017-09-20 02:13 mongo_s3_backup-master/templates/
+-rw-rw-r-- root/root      1910 2017-09-20 02:13 mongo_s3_backup-master/templates/mongodb_backup.py.j2
+-rw-rw-r-- root/root      2275 2017-09-20 02:13 mongo_s3_backup-master/templates/mongodb_backup.sh.j2

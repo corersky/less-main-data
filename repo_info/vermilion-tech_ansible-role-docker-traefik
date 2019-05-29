@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-04 07:51 ansible-role-docker-traefik-master/
+-rw-rw-r-- root/root         8 2019-04-04 07:51 ansible-role-docker-traefik-master/.gitignore
+-rw-rw-r-- root/root      1793 2019-04-04 07:51 ansible-role-docker-traefik-master/Jenkinsfile
+-rw-rw-r-- root/root       836 2019-04-04 07:51 ansible-role-docker-traefik-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 07:51 ansible-role-docker-traefik-master/defaults/
+-rw-rw-r-- root/root       237 2019-04-04 07:51 ansible-role-docker-traefik-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 07:51 ansible-role-docker-traefik-master/meta/
+-rw-rw-r-- root/root      1970 2019-04-04 07:51 ansible-role-docker-traefik-master/meta/main.yml
+-rw-rw-r-- root/root       115 2019-04-04 07:51 ansible-role-docker-traefik-master/playbook.yml
+drwxrwxr-x root/root         0 2019-04-04 07:51 ansible-role-docker-traefik-master/tasks/
+-rw-rw-r-- root/root      1023 2019-04-04 07:51 ansible-role-docker-traefik-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 07:51 ansible-role-docker-traefik-master/templates/
+-rw-rw-r-- root/root       956 2019-04-04 07:51 ansible-role-docker-traefik-master/templates/traefik.toml.j2
+drwxrwxr-x root/root         0 2019-04-04 07:51 ansible-role-docker-traefik-master/vars/
+-rw-rw-r-- root/root        22 2019-04-04 07:51 ansible-role-docker-traefik-master/vars/main.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-08-12 06:31 ansible-ntp-master/
+-rw-rw-r-- root/root      1060 2016-08-12 06:31 ansible-ntp-master/.travis.yml
+-rw-rw-r-- root/root       602 2016-08-12 06:31 ansible-ntp-master/README.md
+drwxrwxr-x root/root         0 2016-08-12 06:31 ansible-ntp-master/meta/
+-rw-rw-r-- root/root       358 2016-08-12 06:31 ansible-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-12 06:31 ansible-ntp-master/tasks/
+-rw-rw-r-- root/root         4 2016-08-12 06:31 ansible-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-12 06:31 ansible-ntp-master/tests/
+-rw-rw-r-- root/root         9 2016-08-12 06:31 ansible-ntp-master/tests/inventory
+-rw-rw-r-- root/root        69 2016-08-12 06:31 ansible-ntp-master/tests/test.yml

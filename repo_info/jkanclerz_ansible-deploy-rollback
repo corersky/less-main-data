@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-09-17 06:37 ansible-deploy-rollback-master/
+-rw-rw-r-- root/root        26 2016-09-17 06:37 ansible-deploy-rollback-master/README.md
+drwxrwxr-x root/root         0 2016-09-17 06:37 ansible-deploy-rollback-master/defaults/
+-rw-rw-r-- root/root         3 2016-09-17 06:37 ansible-deploy-rollback-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-17 06:37 ansible-deploy-rollback-master/meta/
+-rw-rw-r-- root/root        60 2016-09-17 06:37 ansible-deploy-rollback-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       271 2016-09-17 06:37 ansible-deploy-rollback-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-17 06:37 ansible-deploy-rollback-master/tasks/
+-rw-rw-r-- root/root        60 2016-09-17 06:37 ansible-deploy-rollback-master/tasks/main.yml
+-rw-rw-r-- root/root      1813 2016-09-17 06:37 ansible-deploy-rollback-master/tasks/register_variables.yml
+-rw-rw-r-- root/root       453 2016-09-17 06:37 ansible-deploy-rollback-master/tasks/symlink.yml

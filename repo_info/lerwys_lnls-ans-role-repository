@@ -1,0 +1,53 @@
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/
+-rw-rw-r-- root/root        23 2019-02-13 19:31 lnls-ans-role-repository-master/.flake8
+-rw-rw-r-- root/root        66 2019-02-13 19:31 lnls-ans-role-repository-master/.gitignore
+-rw-rw-r-- root/root       590 2019-02-13 19:31 lnls-ans-role-repository-master/.travis.yml
+-rw-rw-r-- root/root       296 2019-02-13 19:31 lnls-ans-role-repository-master/.yamllint
+-rw-rw-r-- root/root      1348 2019-02-13 19:31 lnls-ans-role-repository-master/LICENSE
+-rw-rw-r-- root/root      2378 2019-02-13 19:31 lnls-ans-role-repository-master/README.md
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/Vagrant/
+-rw-rw-r-- root/root       915 2019-02-13 19:31 lnls-ans-role-repository-master/Vagrant/README.md
+-rw-rw-r-- root/root       910 2019-02-13 19:31 lnls-ans-role-repository-master/Vagrant/Vagrantfile
+-rw-rw-r-- root/root       275 2019-02-13 19:31 lnls-ans-role-repository-master/Vagrant/hosts
+-rw-rw-r-- root/root      2181 2019-02-13 19:31 lnls-ans-role-repository-master/Vagrant/setup.yml
+-rwxrwxr-x root/root       937 2019-02-13 19:31 lnls-ans-role-repository-master/ci_build.sh
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/defaults/
+-rw-rw-r-- root/root      1258 2019-02-13 19:31 lnls-ans-role-repository-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/handlers/
+-rw-rw-r-- root/root       273 2019-02-13 19:31 lnls-ans-role-repository-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/meta/
+-rw-rw-r-- root/root       334 2019-02-13 19:31 lnls-ans-role-repository-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/
+-rw-rw-r-- root/root      1205 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       263 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/README.md
+-rw-rw-r-- root/root      2458 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/create.yml
+-rw-rw-r-- root/root       815 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root      1138 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        80 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/tests/
+-rw-rw-r-- root/root       440 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/tests/test_debian_jessie_based.py
+-rw-rw-r-- root/root       449 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/tests/test_debian_stretch_based.py
+-rw-rw-r-- root/root       375 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root       862 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/tests/test_ubuntu_trusty_based.py
+-rw-rw-r-- root/root       844 2019-02-13 19:31 lnls-ans-role-repository-master/molecule/default/tests/test_ubuntu_xenial_based.py
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/tasks/
+-rw-rw-r-- root/root       307 2019-02-13 19:31 lnls-ans-role-repository-master/tasks/apt-pinning-configure.yml
+-rw-rw-r-- root/root       153 2019-02-13 19:31 lnls-ans-role-repository-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root       984 2019-02-13 19:31 lnls-ans-role-repository-master/tasks/main.yml
+-rw-rw-r-- root/root      1409 2019-02-13 19:31 lnls-ans-role-repository-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/templates/
+-rw-rw-r-- root/root       194 2019-02-13 19:31 lnls-ans-role-repository-master/templates/epicsdeb-repo-pref.j2
+-rw-rw-r-- root/root       373 2019-02-13 19:31 lnls-ans-role-repository-master/templates/jessie-repo-pref.j2
+-rw-rw-r-- root/root       370 2019-02-13 19:31 lnls-ans-role-repository-master/templates/stretch-repo-pref.j2
+drwxrwxr-x root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/vars/
+-rw-rw-r-- root/root       638 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Debian-jessie.yml
+-rw-rw-r-- root/root       656 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Debian-stretch.yml
+lrwxrwxrwx root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Ubuntu-artful.yml -> Ubuntu-xenial.yml
+-rw-rw-r-- root/root      1959 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Ubuntu-trusty.yml
+lrwxrwxrwx root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Ubuntu-utopic.yml -> Ubuntu-trusty.yml
+lrwxrwxrwx root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Ubuntu-vivid.yml -> Ubuntu-trusty.yml
+lrwxrwxrwx root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Ubuntu-wily.yml -> Ubuntu-trusty.yml
+-rw-rw-r-- root/root      2182 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Ubuntu-xenial.yml
+lrwxrwxrwx root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Ubuntu-yakkety.yml -> Ubuntu-xenial.yml
+lrwxrwxrwx root/root         0 2019-02-13 19:31 lnls-ans-role-repository-master/vars/Ubuntu-zesty.yml -> Ubuntu-xenial.yml

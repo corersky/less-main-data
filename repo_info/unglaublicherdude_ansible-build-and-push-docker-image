@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-12-11 07:29 ansible-build-and-push-docker-image-master/
+-rw-rw-r-- root/root      4651 2018-12-11 07:29 ansible-build-and-push-docker-image-master/Readme.md
+drwxrwxr-x root/root         0 2018-12-11 07:29 ansible-build-and-push-docker-image-master/defaults/
+-rw-rw-r-- root/root       514 2018-12-11 07:29 ansible-build-and-push-docker-image-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 07:29 ansible-build-and-push-docker-image-master/meta/
+-rw-rw-r-- root/root       357 2018-12-11 07:29 ansible-build-and-push-docker-image-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 07:29 ansible-build-and-push-docker-image-master/tasks/
+-rw-rw-r-- root/root       350 2018-12-11 07:29 ansible-build-and-push-docker-image-master/tasks/check-dependencies.yml
+-rw-rw-r-- root/root       912 2018-12-11 07:29 ansible-build-and-push-docker-image-master/tasks/image-build.yml
+-rw-rw-r-- root/root      1076 2018-12-11 07:29 ansible-build-and-push-docker-image-master/tasks/image-push.yml
+-rw-rw-r-- root/root      2386 2018-12-11 07:29 ansible-build-and-push-docker-image-master/tasks/image-tag.yml
+-rw-rw-r-- root/root      2645 2018-12-11 07:29 ansible-build-and-push-docker-image-master/tasks/image-transfer.yml
+-rw-rw-r-- root/root       759 2018-12-11 07:29 ansible-build-and-push-docker-image-master/tasks/main.yml

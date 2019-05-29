@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-11 02:16 ansible-role-ucarp-master/
+-rw-rw-r-- root/root       750 2017-07-11 02:16 ansible-role-ucarp-master/README.md
+drwxrwxr-x root/root         0 2017-07-11 02:16 ansible-role-ucarp-master/defaults/
+-rw-rw-r-- root/root      1128 2017-07-11 02:16 ansible-role-ucarp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-11 02:16 ansible-role-ucarp-master/files/
+-rw-rw-r-- root/root       162 2017-07-11 02:16 ansible-role-ucarp-master/files/vip-multi-down
+-rw-rw-r-- root/root       104 2017-07-11 02:16 ansible-role-ucarp-master/files/vip-multi-up
+drwxrwxr-x root/root         0 2017-07-11 02:16 ansible-role-ucarp-master/handlers/
+-rw-rw-r-- root/root        85 2017-07-11 02:16 ansible-role-ucarp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-11 02:16 ansible-role-ucarp-master/meta/
+-rw-rw-r-- root/root       338 2017-07-11 02:16 ansible-role-ucarp-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-11 02:16 ansible-role-ucarp-master/tasks/
+-rw-rw-r-- root/root      1844 2017-07-11 02:16 ansible-role-ucarp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-11 02:16 ansible-role-ucarp-master/templates/
+-rw-rw-r-- root/root       162 2017-07-11 02:16 ansible-role-ucarp-master/templates/if-down.sh.j2
+-rw-rw-r-- root/root      1495 2017-07-11 02:16 ansible-role-ucarp-master/templates/if-up.sh.j2
+-rw-rw-r-- root/root       339 2017-07-11 02:16 ansible-role-ucarp-master/templates/interfaces.j2

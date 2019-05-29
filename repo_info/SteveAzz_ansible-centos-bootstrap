@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-17 13:36 ansible-centos-bootstrap-master/
+-rw-rw-r-- root/root      1071 2017-07-17 13:36 ansible-centos-bootstrap-master/LICENCE
+-rw-rw-r-- root/root      1024 2017-07-17 13:36 ansible-centos-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2017-07-17 13:36 ansible-centos-bootstrap-master/defaults/
+-rw-rw-r-- root/root       294 2017-07-17 13:36 ansible-centos-bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-17 13:36 ansible-centos-bootstrap-master/handlers/
+-rw-rw-r-- root/root       215 2017-07-17 13:36 ansible-centos-bootstrap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-17 13:36 ansible-centos-bootstrap-master/meta/
+-rw-rw-r-- root/root       246 2017-07-17 13:36 ansible-centos-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-17 13:36 ansible-centos-bootstrap-master/tasks/
+-rw-rw-r-- root/root        73 2017-07-17 13:36 ansible-centos-bootstrap-master/tasks/main.yml
+-rw-rw-r-- root/root       618 2017-07-17 13:36 ansible-centos-bootstrap-master/tasks/packages.yml
+-rw-rw-r-- root/root       850 2017-07-17 13:36 ansible-centos-bootstrap-master/tasks/security.yml
+-rw-rw-r-- root/root       137 2017-07-17 13:36 ansible-centos-bootstrap-master/tasks/time.yml
+-rw-rw-r-- root/root       383 2017-07-17 13:36 ansible-centos-bootstrap-master/tasks/users.yml
+drwxrwxr-x root/root         0 2017-07-17 13:36 ansible-centos-bootstrap-master/templates/
+-rw-rw-r-- root/root      4378 2017-07-17 13:36 ansible-centos-bootstrap-master/templates/sshd_config

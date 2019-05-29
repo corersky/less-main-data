@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-20 09:53 ansible-role-omsagent-master/
+-rw-rw-r-- root/root       256 2019-01-20 09:53 ansible-role-omsagent-master/.gitignore
+-rw-rw-r-- root/root      1335 2019-01-20 09:53 ansible-role-omsagent-master/LICENSE.md
+-rw-rw-r-- root/root      1784 2019-01-20 09:53 ansible-role-omsagent-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 09:53 ansible-role-omsagent-master/defaults/
+-rw-rw-r-- root/root       375 2019-01-20 09:53 ansible-role-omsagent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 09:53 ansible-role-omsagent-master/handlers/
+-rw-rw-r-- root/root        46 2019-01-20 09:53 ansible-role-omsagent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-20 09:53 ansible-role-omsagent-master/meta/
+-rw-rw-r-- root/root       246 2019-01-20 09:53 ansible-role-omsagent-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 09:53 ansible-role-omsagent-master/tasks/
+-rw-rw-r-- root/root      1317 2019-01-20 09:53 ansible-role-omsagent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 09:53 ansible-role-omsagent-master/tests/
+-rw-rw-r-- root/root        11 2019-01-20 09:53 ansible-role-omsagent-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-01-20 09:53 ansible-role-omsagent-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-20 09:53 ansible-role-omsagent-master/vars/
+-rw-rw-r-- root/root        43 2019-01-20 09:53 ansible-role-omsagent-master/vars/main.yml

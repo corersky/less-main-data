@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-03-28 11:54 ansible-psql-master/
+-rw-rw-r-- root/root       689 2015-03-28 11:54 ansible-psql-master/.travis.yml
+-rw-rw-r-- root/root      1082 2015-03-28 11:54 ansible-psql-master/LICENSE
+-rw-rw-r-- root/root       796 2015-03-28 11:54 ansible-psql-master/README.md
+drwxrwxr-x root/root         0 2015-03-28 11:54 ansible-psql-master/meta/
+-rw-rw-r-- root/root       513 2015-03-28 11:54 ansible-psql-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-28 11:54 ansible-psql-master/tasks/
+drwxrwxr-x root/root         0 2015-03-28 11:54 ansible-psql-master/tasks/debian/
+-rw-rw-r-- root/root       112 2015-03-28 11:54 ansible-psql-master/tasks/debian/psql.yml
+-rw-rw-r-- root/root        24 2015-03-28 11:54 ansible-psql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-28 11:54 ansible-psql-master/tasks/osx/
+-rw-rw-r-- root/root        62 2015-03-28 11:54 ansible-psql-master/tasks/osx/psql.yml
+-rw-rw-r-- root/root       132 2015-03-28 11:54 ansible-psql-master/tasks/psql.yml
+drwxrwxr-x root/root         0 2015-03-28 11:54 ansible-psql-master/tests/
+-rw-rw-r-- root/root        10 2015-03-28 11:54 ansible-psql-master/tests/inventory
+-rw-rw-r-- root/root        77 2015-03-28 11:54 ansible-psql-master/tests/tests.yml

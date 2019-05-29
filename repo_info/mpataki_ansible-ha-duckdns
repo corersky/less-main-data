@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-31 18:02 ansible-ha-duckdns-master/
+-rw-rw-r-- root/root       554 2019-03-31 18:02 ansible-ha-duckdns-master/.travis.yml
+-rw-rw-r-- root/root      1323 2019-03-31 18:02 ansible-ha-duckdns-master/README.md
+drwxrwxr-x root/root         0 2019-03-31 18:02 ansible-ha-duckdns-master/defaults/
+-rw-rw-r-- root/root        42 2019-03-31 18:02 ansible-ha-duckdns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-31 18:02 ansible-ha-duckdns-master/handlers/
+-rw-rw-r-- root/root        42 2019-03-31 18:02 ansible-ha-duckdns-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-31 18:02 ansible-ha-duckdns-master/meta/
+-rw-rw-r-- root/root       288 2019-03-31 18:02 ansible-ha-duckdns-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 18:02 ansible-ha-duckdns-master/tasks/
+-rw-rw-r-- root/root       447 2019-03-31 18:02 ansible-ha-duckdns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 18:02 ansible-ha-duckdns-master/tests/
+-rw-rw-r-- root/root        11 2019-03-31 18:02 ansible-ha-duckdns-master/tests/inventory
+-rw-rw-r-- root/root        76 2019-03-31 18:02 ansible-ha-duckdns-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-31 18:02 ansible-ha-duckdns-master/vars/
+-rw-rw-r-- root/root        38 2019-03-31 18:02 ansible-ha-duckdns-master/vars/main.yml

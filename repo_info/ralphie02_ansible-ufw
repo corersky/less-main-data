@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-21 07:34 ansible-ufw-master/
+-rw-rw-r-- root/root      1272 2017-12-21 07:34 ansible-ufw-master/.travis.yml
+-rw-rw-r-- root/root      1070 2017-12-21 07:34 ansible-ufw-master/LICENSE
+-rw-rw-r-- root/root      1363 2017-12-21 07:34 ansible-ufw-master/README.md
+drwxrwxr-x root/root         0 2017-12-21 07:34 ansible-ufw-master/defaults/
+-rw-rw-r-- root/root       105 2017-12-21 07:34 ansible-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-21 07:34 ansible-ufw-master/tasks/
+-rw-rw-r-- root/root       354 2017-12-21 07:34 ansible-ufw-master/tasks/create.yml
+-rw-rw-r-- root/root       406 2017-12-21 07:34 ansible-ufw-master/tasks/main.yml
+-rw-rw-r-- root/root       121 2017-12-21 07:34 ansible-ufw-master/tasks/rule.yml
+drwxrwxr-x root/root         0 2017-12-21 07:34 ansible-ufw-master/tests/
+drwxrwxr-x root/root         0 2017-12-21 07:34 ansible-ufw-master/tests/defaults/
+-rw-rw-r-- root/root       105 2017-12-21 07:34 ansible-ufw-master/tests/defaults/main.yml
+-rw-rw-r-- root/root        77 2017-12-21 07:34 ansible-ufw-master/tests/defaults/port_22.yml
+-rw-rw-r-- root/root        83 2017-12-21 07:34 ansible-ufw-master/tests/defaults/port_3000.yml
+-rw-rw-r-- root/root       571 2017-12-21 07:34 ansible-ufw-master/tests/test.yml

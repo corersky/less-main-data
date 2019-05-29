@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-24 12:24 elasticsearch-svr-master/
+-rw-rw-r-- root/root      1071 2018-10-24 12:24 elasticsearch-svr-master/LICENSE
+-rw-rw-r-- root/root      1388 2018-10-24 12:24 elasticsearch-svr-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 12:24 elasticsearch-svr-master/defaults/
+-rw-rw-r-- root/root        42 2018-10-24 12:24 elasticsearch-svr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:24 elasticsearch-svr-master/handlers/
+-rw-rw-r-- root/root        42 2018-10-24 12:24 elasticsearch-svr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:24 elasticsearch-svr-master/meta/
+-rw-rw-r-- root/root       245 2018-10-24 12:24 elasticsearch-svr-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:24 elasticsearch-svr-master/tasks/
+-rw-rw-r-- root/root       564 2018-10-24 12:24 elasticsearch-svr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:24 elasticsearch-svr-master/tests/
+-rw-rw-r-- root/root        11 2018-10-24 12:24 elasticsearch-svr-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-10-24 12:24 elasticsearch-svr-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 12:24 elasticsearch-svr-master/vars/
+-rw-rw-r-- root/root        38 2018-10-24 12:24 elasticsearch-svr-master/vars/main.yml

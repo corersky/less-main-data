@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/
+-rw-rw-r-- root/root        37 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/README.md
+drwxrwxr-x root/root         0 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/meta/
+-rw-rw-r-- root/root       269 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/tasks/
+-rw-rw-r-- root/root       467 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/tasks/cache.yml
+-rw-rw-r-- root/root       211 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/tasks/clear_controllers.yml
+-rw-rw-r-- root/root       401 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/tasks/custom_commands.yml
+-rw-rw-r-- root/root       611 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/tasks/doctrine_schema_update.yml
+-rw-rw-r-- root/root       233 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/tasks/dump_assets.yml
+-rw-rw-r-- root/root      1814 2017-03-17 08:21 ansible-deploy-project-php-symfony-master/tasks/main.yml

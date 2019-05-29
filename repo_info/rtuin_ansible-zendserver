@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-04-15 01:18 ansible-zendserver-master/
+-rw-rw-r-- root/root      1079 2014-04-15 01:18 ansible-zendserver-master/LICENSE
+-rw-rw-r-- root/root      1193 2014-04-15 01:18 ansible-zendserver-master/README.md
+drwxrwxr-x root/root         0 2014-04-15 01:18 ansible-zendserver-master/defaults/
+-rw-rw-r-- root/root        63 2014-04-15 01:18 ansible-zendserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-04-15 01:18 ansible-zendserver-master/handlers/
+-rw-rw-r-- root/root        76 2014-04-15 01:18 ansible-zendserver-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-04-15 01:18 ansible-zendserver-master/meta/
+-rw-rw-r-- root/root      1879 2014-04-15 01:18 ansible-zendserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-15 01:18 ansible-zendserver-master/tasks/
+-rw-rw-r-- root/root       930 2014-04-15 01:18 ansible-zendserver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-04-15 01:18 ansible-zendserver-master/templates/
+-rw-rw-r-- root/root        38 2014-04-15 01:18 ansible-zendserver-master/templates/zend-server.sh

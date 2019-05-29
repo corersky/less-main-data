@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-05 07:28 ansible-role-aws_account_match-master/
+-rw-rw-r-- root/root      1492 2019-05-05 07:28 ansible-role-aws_account_match-master/.travis.yml
+-rw-rw-r-- root/root      1064 2019-05-05 07:28 ansible-role-aws_account_match-master/LICENSE.md
+-rw-rw-r-- root/root      3644 2019-05-05 07:28 ansible-role-aws_account_match-master/README.md
+drwxrwxr-x root/root         0 2019-05-05 07:28 ansible-role-aws_account_match-master/defaults/
+-rw-rw-r-- root/root       277 2019-05-05 07:28 ansible-role-aws_account_match-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-05 07:28 ansible-role-aws_account_match-master/meta/
+-rw-rw-r-- root/root       645 2019-05-05 07:28 ansible-role-aws_account_match-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-05 07:28 ansible-role-aws_account_match-master/tasks/
+-rw-rw-r-- root/root      2578 2019-05-05 07:28 ansible-role-aws_account_match-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-05 07:28 ansible-role-aws_account_match-master/tests/
+-rw-rw-r-- root/root        10 2019-05-05 07:28 ansible-role-aws_account_match-master/tests/inventory
+-rw-rw-r-- root/root       853 2019-05-05 07:28 ansible-role-aws_account_match-master/tests/play_fail.yml
+-rw-rw-r-- root/root       847 2019-05-05 07:28 ansible-role-aws_account_match-master/tests/play_ok.yml

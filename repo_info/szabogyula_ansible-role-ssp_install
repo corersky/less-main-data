@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-12 14:17 ansible-role-ssp_install-master/
+-rw-rw-r-- root/root      1017 2018-11-12 14:17 ansible-role-ssp_install-master/README.md
+drwxrwxr-x root/root         0 2018-11-12 14:17 ansible-role-ssp_install-master/defaults/
+-rw-rw-r-- root/root       363 2018-11-12 14:17 ansible-role-ssp_install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-12 14:17 ansible-role-ssp_install-master/handlers/
+-rw-rw-r-- root/root        77 2018-11-12 14:17 ansible-role-ssp_install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-12 14:17 ansible-role-ssp_install-master/meta/
+-rw-rw-r-- root/root       277 2018-11-12 14:17 ansible-role-ssp_install-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-12 14:17 ansible-role-ssp_install-master/tasks/
+-rw-rw-r-- root/root       731 2018-11-12 14:17 ansible-role-ssp_install-master/tasks/install_ssp.yml
+-rw-rw-r-- root/root       324 2018-11-12 14:17 ansible-role-ssp_install-master/tasks/install_ssp_certs.yml
+-rw-rw-r-- root/root      2319 2018-11-12 14:17 ansible-role-ssp_install-master/tasks/main.yml
+-rw-rw-r-- root/root      1849 2018-11-12 14:17 ansible-role-ssp_install-master/tasks/setup_ssp_cron.yml
+drwxrwxr-x root/root         0 2018-11-12 14:17 ansible-role-ssp_install-master/templates/
+-rw-rw-r-- root/root       243 2018-11-12 14:17 ansible-role-ssp_install-master/templates/module_cron.php.j2

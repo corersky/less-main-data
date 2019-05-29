@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-07-26 15:14 ansible-miscvars-master/
+-rw-rw-r-- root/root         6 2016-07-26 15:14 ansible-miscvars-master/.gitignore
+-rw-rw-r-- root/root       539 2016-07-26 15:14 ansible-miscvars-master/.travis.yml
+-rw-rw-r-- root/root      1950 2016-07-26 15:14 ansible-miscvars-master/LICENSE
+-rw-rw-r-- root/root       777 2016-07-26 15:14 ansible-miscvars-master/README.md
+drwxrwxr-x root/root         0 2016-07-26 15:14 ansible-miscvars-master/meta/
+-rw-rw-r-- root/root       355 2016-07-26 15:14 ansible-miscvars-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-26 15:14 ansible-miscvars-master/tests/
+-rw-rw-r-- root/root         9 2016-07-26 15:14 ansible-miscvars-master/tests/inventory
+-rw-rw-r-- root/root       131 2016-07-26 15:14 ansible-miscvars-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-26 15:14 ansible-miscvars-master/vars/
+-rw-rw-r-- root/root       363 2016-07-26 15:14 ansible-miscvars-master/vars/main.yml

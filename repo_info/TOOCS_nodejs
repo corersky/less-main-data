@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-01-09 09:02 nodejs-master/
+-rw-rw-r-- root/root       139 2019-01-09 09:02 nodejs-master/.travis.yml
+-rw-rw-r-- root/root      1074 2019-01-09 09:02 nodejs-master/LICENSE.md
+-rw-rw-r-- root/root      4532 2019-01-09 09:02 nodejs-master/README.md
+drwxrwxr-x root/root         0 2019-01-09 09:02 nodejs-master/defaults/
+-rw-rw-r-- root/root       169 2019-01-09 09:02 nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-09 09:02 nodejs-master/meta/
+-rw-rw-r-- root/root       399 2019-01-09 09:02 nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-09 09:02 nodejs-master/tasks/
+-rw-rw-r-- root/root      1743 2019-01-09 09:02 nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       276 2019-01-09 09:02 nodejs-master/tasks/set-node-path-fact.yml

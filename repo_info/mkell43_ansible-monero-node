@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-23 12:29 ansible-monero-node-master/
+-rw-rw-r-- root/root         8 2018-08-23 12:29 ansible-monero-node-master/.gitignore
+-rw-rw-r-- root/root      1156 2018-08-23 12:29 ansible-monero-node-master/README.md
+drwxrwxr-x root/root         0 2018-08-23 12:29 ansible-monero-node-master/defaults/
+-rw-rw-r-- root/root       122 2018-08-23 12:29 ansible-monero-node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-23 12:29 ansible-monero-node-master/handlers/
+-rw-rw-r-- root/root       102 2018-08-23 12:29 ansible-monero-node-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-23 12:29 ansible-monero-node-master/meta/
+-rw-rw-r-- root/root       208 2018-08-23 12:29 ansible-monero-node-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-23 12:29 ansible-monero-node-master/tasks/
+-rw-rw-r-- root/root       881 2018-08-23 12:29 ansible-monero-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-23 12:29 ansible-monero-node-master/templates/
+-rw-rw-r-- root/root       445 2018-08-23 12:29 ansible-monero-node-master/templates/monerod.service.j2
+drwxrwxr-x root/root         0 2018-08-23 12:29 ansible-monero-node-master/vars/
+-rw-rw-r-- root/root        40 2018-08-23 12:29 ansible-monero-node-master/vars/main.yml

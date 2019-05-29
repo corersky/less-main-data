@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-02-17 15:52 ansible-automysqlbackup-role-master/
+-rw-rw-r-- root/root       433 2019-02-17 15:52 ansible-automysqlbackup-role-master/.travis.yml
+-rw-rw-r-- root/root      1444 2019-02-17 15:52 ansible-automysqlbackup-role-master/README.md
+drwxrwxr-x root/root         0 2019-02-17 15:52 ansible-automysqlbackup-role-master/defaults/
+-rw-rw-r-- root/root      1239 2019-02-17 15:52 ansible-automysqlbackup-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-17 15:52 ansible-automysqlbackup-role-master/meta/
+-rw-rw-r-- root/root       354 2019-02-17 15:52 ansible-automysqlbackup-role-master/meta/main.yml
+-rw-rw-r-- root/root       125 2019-02-17 15:52 ansible-automysqlbackup-role-master/role.yml
+drwxrwxr-x root/root         0 2019-02-17 15:52 ansible-automysqlbackup-role-master/tasks/
+-rw-rw-r-- root/root      1123 2019-02-17 15:52 ansible-automysqlbackup-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-17 15:52 ansible-automysqlbackup-role-master/templates/
+-rw-rw-r-- root/root      3427 2019-02-17 15:52 ansible-automysqlbackup-role-master/templates/automysqlbackup.j2

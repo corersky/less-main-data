@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-09-05 08:34 ansible-databricks-master/
+-rw-rw-r-- root/root      1203 2018-09-05 08:34 ansible-databricks-master/.gitignore
+-rw-rw-r-- root/root         0 2018-09-05 08:34 ansible-databricks-master/CHANGES.md
+-rw-rw-r-- root/root     11357 2018-09-05 08:34 ansible-databricks-master/LICENSE
+-rw-rw-r-- root/root      4155 2018-09-05 08:34 ansible-databricks-master/README.md
+drwxrwxr-x root/root         0 2018-09-05 08:34 ansible-databricks-master/defaults/
+-rw-rw-r-- root/root        58 2018-09-05 08:34 ansible-databricks-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-05 08:34 ansible-databricks-master/meta/
+-rw-rw-r-- root/root       392 2018-09-05 08:34 ansible-databricks-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-05 08:34 ansible-databricks-master/tasks/
+-rw-rw-r-- root/root       786 2018-09-05 08:34 ansible-databricks-master/tasks/install_cli.yml
+-rw-rw-r-- root/root      3835 2018-09-05 08:34 ansible-databricks-master/tasks/main.yml

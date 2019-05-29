@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-12-10 01:08 ansible-role-kernel-devel-master/
+-rw-rw-r-- root/root         5 2016-12-10 01:08 ansible-role-kernel-devel-master/.gitignore
+-rw-rw-r-- root/root       539 2016-12-10 01:08 ansible-role-kernel-devel-master/.travis.yml
+-rw-rw-r-- root/root       534 2016-12-10 01:08 ansible-role-kernel-devel-master/README.md
+drwxrwxr-x root/root         0 2016-12-10 01:08 ansible-role-kernel-devel-master/handlers/
+-rw-rw-r-- root/root       125 2016-12-10 01:08 ansible-role-kernel-devel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-10 01:08 ansible-role-kernel-devel-master/meta/
+-rw-rw-r-- root/root       214 2016-12-10 01:08 ansible-role-kernel-devel-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-10 01:08 ansible-role-kernel-devel-master/tasks/
+-rw-rw-r-- root/root       243 2016-12-10 01:08 ansible-role-kernel-devel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-10 01:08 ansible-role-kernel-devel-master/tests/
+-rw-rw-r-- root/root         9 2016-12-10 01:08 ansible-role-kernel-devel-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-12-10 01:08 ansible-role-kernel-devel-master/tests/test.yml

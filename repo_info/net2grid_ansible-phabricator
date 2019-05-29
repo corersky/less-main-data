@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-10-06 09:01 ansible-phabricator-master/
+-rw-rw-r-- root/root         7 2017-10-06 09:01 ansible-phabricator-master/.gitignore
+-rw-rw-r-- root/root      1065 2017-10-06 09:01 ansible-phabricator-master/LICENSE
+-rw-rw-r-- root/root        21 2017-10-06 09:01 ansible-phabricator-master/README.md
+drwxrwxr-x root/root         0 2017-10-06 09:01 ansible-phabricator-master/defaults/
+-rw-rw-r-- root/root        45 2017-10-06 09:01 ansible-phabricator-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-06 09:01 ansible-phabricator-master/meta/
+-rw-rw-r-- root/root       305 2017-10-06 09:01 ansible-phabricator-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-06 09:01 ansible-phabricator-master/tasks/
+-rw-rw-r-- root/root      1036 2017-10-06 09:01 ansible-phabricator-master/tasks/main.yml

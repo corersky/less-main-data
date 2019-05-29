@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-07-05 15:53 ansible-ncbi-blast-master/
+-rw-rw-r-- root/root      1945 2017-07-05 15:53 ansible-ncbi-blast-master/LICENSE.txt
+-rw-rw-r-- root/root       802 2017-07-05 15:53 ansible-ncbi-blast-master/README.md
+drwxrwxr-x root/root         0 2017-07-05 15:53 ansible-ncbi-blast-master/defaults/
+-rw-rw-r-- root/root       218 2017-07-05 15:53 ansible-ncbi-blast-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-05 15:53 ansible-ncbi-blast-master/meta/
+-rw-rw-r-- root/root       355 2017-07-05 15:53 ansible-ncbi-blast-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-05 15:53 ansible-ncbi-blast-master/tasks/
+-rw-rw-r-- root/root      2059 2017-07-05 15:53 ansible-ncbi-blast-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-05 15:53 ansible-ncbi-blast-master/vars/
+-rw-rw-r-- root/root        67 2017-07-05 15:53 ansible-ncbi-blast-master/vars/CentOS.yml
+-rw-rw-r-- root/root       650 2017-07-05 15:53 ansible-ncbi-blast-master/vars/Ubuntu.yml

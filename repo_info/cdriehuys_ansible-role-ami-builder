@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-11 00:02 ansible-role-ami-builder-master/
+-rw-rw-r-- root/root        65 2017-08-11 00:02 ansible-role-ami-builder-master/.bumpversion.cfg
+-rw-rw-r-- root/root        59 2017-08-11 00:02 ansible-role-ami-builder-master/.gitignore
+-rw-rw-r-- root/root      1073 2017-08-11 00:02 ansible-role-ami-builder-master/LICENSE
+-rw-rw-r-- root/root      2298 2017-08-11 00:02 ansible-role-ami-builder-master/README.md
+drwxrwxr-x root/root         0 2017-08-11 00:02 ansible-role-ami-builder-master/defaults/
+-rw-rw-r-- root/root       535 2017-08-11 00:02 ansible-role-ami-builder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-11 00:02 ansible-role-ami-builder-master/meta/
+-rw-rw-r-- root/root       268 2017-08-11 00:02 ansible-role-ami-builder-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-11 00:02 ansible-role-ami-builder-master/tasks/
+-rw-rw-r-- root/root      1928 2017-08-11 00:02 ansible-role-ami-builder-master/tasks/create-builder.yml
+-rw-rw-r-- root/root      1293 2017-08-11 00:02 ansible-role-ami-builder-master/tasks/finalize-ami.yml
+-rw-rw-r-- root/root       196 2017-08-11 00:02 ansible-role-ami-builder-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-11 00:02 ansible-role-ami-builder-master/test/
+-rw-rw-r-- root/root        10 2017-08-11 00:02 ansible-role-ami-builder-master/test/test.retry
+-rw-rw-r-- root/root       886 2017-08-11 00:02 ansible-role-ami-builder-master/test/test.yml

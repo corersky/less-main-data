@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-04-16 20:49 ansible-jdk-master/
+-rwxrwxr-x root/root        31 2015-04-16 20:49 ansible-jdk-master/.gitignore
+-rwxrwxr-x root/root      1158 2015-04-16 20:49 ansible-jdk-master/README.md
+drwxrwxr-x root/root         0 2015-04-16 20:49 ansible-jdk-master/defaults/
+-rwxrwxr-x root/root       245 2015-04-16 20:49 ansible-jdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-16 20:49 ansible-jdk-master/handlers/
+-rwxrwxr-x root/root         4 2015-04-16 20:49 ansible-jdk-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-16 20:49 ansible-jdk-master/meta/
+-rwxrwxr-x root/root       303 2015-04-16 20:49 ansible-jdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-16 20:49 ansible-jdk-master/tasks/
+-rwxrwxr-x root/root      1476 2015-04-16 20:49 ansible-jdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-16 20:49 ansible-jdk-master/test/
+-rwxrwxr-x root/root       435 2015-04-16 20:49 ansible-jdk-master/test/Vagrantfile
+-rwxrwxr-x root/root        51 2015-04-16 20:49 ansible-jdk-master/test/playbook.yml
+-rwxrwxr-x root/root       108 2015-04-16 20:49 ansible-jdk-master/test/run-test.sh
+drwxrwxr-x root/root         0 2015-04-16 20:49 ansible-jdk-master/vars/
+-rwxrwxr-x root/root         4 2015-04-16 20:49 ansible-jdk-master/vars/main.yml

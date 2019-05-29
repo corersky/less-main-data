@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-20 01:12 ansible-role-essentials-master/
+-rw-rw-r-- root/root      1081 2018-09-20 01:12 ansible-role-essentials-master/LICENSE.txt
+-rw-rw-r-- root/root       864 2018-09-20 01:12 ansible-role-essentials-master/README.md
+drwxrwxr-x root/root         0 2018-09-20 01:12 ansible-role-essentials-master/defaults/
+-rw-rw-r-- root/root       366 2018-09-20 01:12 ansible-role-essentials-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-20 01:12 ansible-role-essentials-master/handlers/
+-rw-rw-r-- root/root        47 2018-09-20 01:12 ansible-role-essentials-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-20 01:12 ansible-role-essentials-master/meta/
+-rw-rw-r-- root/root      1883 2018-09-20 01:12 ansible-role-essentials-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-20 01:12 ansible-role-essentials-master/tasks/
+-rw-rw-r-- root/root       795 2018-09-20 01:12 ansible-role-essentials-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-20 01:12 ansible-role-essentials-master/tests/
+-rw-rw-r-- root/root        11 2018-09-20 01:12 ansible-role-essentials-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-09-20 01:12 ansible-role-essentials-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-20 01:12 ansible-role-essentials-master/vars/
+-rw-rw-r-- root/root        43 2018-09-20 01:12 ansible-role-essentials-master/vars/main.yml

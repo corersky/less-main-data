@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-22 12:25 ansible-role-i-pi-master/
+-rw-rw-r-- root/root       898 2019-03-22 12:25 ansible-role-i-pi-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-03-22 12:25 ansible-role-i-pi-master/LICENSE
+-rw-rw-r-- root/root       616 2019-03-22 12:25 ansible-role-i-pi-master/README.md
+drwxrwxr-x root/root         0 2019-03-22 12:25 ansible-role-i-pi-master/defaults/
+-rw-rw-r-- root/root       115 2019-03-22 12:25 ansible-role-i-pi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-22 12:25 ansible-role-i-pi-master/meta/
+-rw-rw-r-- root/root       355 2019-03-22 12:25 ansible-role-i-pi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-22 12:25 ansible-role-i-pi-master/molecule/
+drwxrwxr-x root/root         0 2019-03-22 12:25 ansible-role-i-pi-master/molecule/default/
+-rw-rw-r-- root/root       625 2019-03-22 12:25 ansible-role-i-pi-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       206 2019-03-22 12:25 ansible-role-i-pi-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        54 2019-03-22 12:25 ansible-role-i-pi-master/molecule/default/requirements.yml
+-rw-rw-r-- root/root        75 2019-03-22 12:25 ansible-role-i-pi-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-03-22 12:25 ansible-role-i-pi-master/tasks/
+-rw-rw-r-- root/root       731 2019-03-22 12:25 ansible-role-i-pi-master/tasks/main.yml

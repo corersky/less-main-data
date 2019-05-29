@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-01-24 03:15 ansible-homegw-example01-master/
+-rw-rw-r-- root/root         3 2018-01-24 03:15 ansible-homegw-example01-master/.gitignore
+-rw-rw-r-- root/root      3387 2018-01-24 03:15 ansible-homegw-example01-master/README.md
+drwxrwxr-x root/root         0 2018-01-24 03:15 ansible-homegw-example01-master/defaults/
+-rw-rw-r-- root/root      1061 2018-01-24 03:15 ansible-homegw-example01-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-24 03:15 ansible-homegw-example01-master/meta/
+-rw-rw-r-- root/root      1286 2018-01-24 03:15 ansible-homegw-example01-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-24 03:15 ansible-homegw-example01-master/tasks/
+-rw-rw-r-- root/root      2704 2018-01-24 03:15 ansible-homegw-example01-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-24 03:15 ansible-homegw-example01-master/tests/
+-rw-rw-r-- root/root        11 2018-01-24 03:15 ansible-homegw-example01-master/tests/inventory
+-rw-rw-r-- root/root        86 2018-01-24 03:15 ansible-homegw-example01-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-24 03:15 ansible-homegw-example01-master/vars/
+-rw-rw-r-- root/root         4 2018-01-24 03:15 ansible-homegw-example01-master/vars/main.yml

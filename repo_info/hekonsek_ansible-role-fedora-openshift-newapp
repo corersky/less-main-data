@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/
+-rw-rw-r-- root/root        13 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/.gitignore
+-rw-rw-r-- root/root      1076 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/README.md
+drwxrwxr-x root/root         0 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/defaults/
+-rw-rw-r-- root/root        63 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/meta/
+-rw-rw-r-- root/root       337 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/tasks/
+-rw-rw-r-- root/root       814 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/tests/
+-rw-rw-r-- root/root        91 2017-08-24 06:57 ansible-role-fedora-openshift-newapp-master/tests/test.yml

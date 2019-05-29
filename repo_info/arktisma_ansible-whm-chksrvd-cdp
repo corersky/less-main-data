@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/
+-rw-rw-r-- root/root        90 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/README.md
+drwxrwxr-x root/root         0 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/defaults/
+-rw-rw-r-- root/root        40 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/files/
+-rw-rw-r-- root/root        64 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/files/cdp-agent
+drwxrwxr-x root/root         0 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/handlers/
+-rw-rw-r-- root/root        40 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/meta/
+-rw-rw-r-- root/root       290 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/tasks/
+-rw-rw-r-- root/root       604 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/vars/
+-rw-rw-r-- root/root        36 2015-06-10 01:26 ansible-whm-chksrvd-cdp-master/vars/main.yml

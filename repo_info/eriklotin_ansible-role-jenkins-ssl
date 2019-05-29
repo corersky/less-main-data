@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-ssl-master/
+-rw-rw-r-- root/root         5 2019-02-10 07:34 ansible-role-jenkins-ssl-master/.gitignore
+-rw-rw-r-- root/root      1067 2019-02-10 07:34 ansible-role-jenkins-ssl-master/LICENSE
+-rw-rw-r-- root/root      1199 2019-02-10 07:34 ansible-role-jenkins-ssl-master/README.md
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-ssl-master/defaults/
+-rw-rw-r-- root/root        53 2019-02-10 07:34 ansible-role-jenkins-ssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-ssl-master/files/
+-rw-rw-r-- root/root       160 2019-02-10 07:34 ansible-role-jenkins-ssl-master/files/add-docker-group.sh
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-ssl-master/handlers/
+-rw-rw-r-- root/root       765 2019-02-10 07:34 ansible-role-jenkins-ssl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-ssl-master/meta/
+-rw-rw-r-- root/root       528 2019-02-10 07:34 ansible-role-jenkins-ssl-master/meta/main.yml
+-rw-rw-r-- root/root        26 2019-02-10 07:34 ansible-role-jenkins-ssl-master/requirements.yml
+drwxrwxr-x root/root         0 2019-02-10 07:34 ansible-role-jenkins-ssl-master/tasks/
+-rw-rw-r-- root/root      1548 2019-02-10 07:34 ansible-role-jenkins-ssl-master/tasks/main.yml

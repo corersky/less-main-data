@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-11 19:32 ansible-role-taskwarrior-master/
+-rw-rw-r-- root/root       539 2017-03-11 19:32 ansible-role-taskwarrior-master/.travis.yml
+-rw-rw-r-- root/root      1348 2017-03-11 19:32 ansible-role-taskwarrior-master/README.md
+drwxrwxr-x root/root         0 2017-03-11 19:32 ansible-role-taskwarrior-master/defaults/
+-rw-rw-r-- root/root       120 2017-03-11 19:32 ansible-role-taskwarrior-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-11 19:32 ansible-role-taskwarrior-master/handlers/
+-rw-rw-r-- root/root        40 2017-03-11 19:32 ansible-role-taskwarrior-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-11 19:32 ansible-role-taskwarrior-master/meta/
+-rw-rw-r-- root/root       280 2017-03-11 19:32 ansible-role-taskwarrior-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-11 19:32 ansible-role-taskwarrior-master/tasks/
+-rw-rw-r-- root/root       783 2017-03-11 19:32 ansible-role-taskwarrior-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-11 19:32 ansible-role-taskwarrior-master/tests/
+-rw-rw-r-- root/root         9 2017-03-11 19:32 ansible-role-taskwarrior-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-03-11 19:32 ansible-role-taskwarrior-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-11 19:32 ansible-role-taskwarrior-master/vars/
+-rw-rw-r-- root/root        36 2017-03-11 19:32 ansible-role-taskwarrior-master/vars/main.yml

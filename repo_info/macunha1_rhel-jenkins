@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-30 18:30 rhel-jenkins-master/
+drwxrwxr-x root/root         0 2018-09-30 18:30 rhel-jenkins-master/.circleci/
+-rw-rw-r-- root/root       563 2018-09-30 18:30 rhel-jenkins-master/.circleci/config.yml
+-rw-rw-r-- root/root        27 2018-09-30 18:30 rhel-jenkins-master/.gitignore
+-rw-rw-r-- root/root      1070 2018-09-30 18:30 rhel-jenkins-master/LICENSE
+-rw-rw-r-- root/root      2127 2018-09-30 18:30 rhel-jenkins-master/README.md
+drwxrwxr-x root/root         0 2018-09-30 18:30 rhel-jenkins-master/defaults/
+-rw-rw-r-- root/root       695 2018-09-30 18:30 rhel-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 18:30 rhel-jenkins-master/meta/
+-rw-rw-r-- root/root       382 2018-09-30 18:30 rhel-jenkins-master/meta/main.yml
+-rw-rw-r-- root/root        34 2018-09-30 18:30 rhel-jenkins-master/requirements.yml
+-rwxrwxr-x root/root       919 2018-09-30 18:30 rhel-jenkins-master/runtests.sh
+drwxrwxr-x root/root         0 2018-09-30 18:30 rhel-jenkins-master/tasks/
+-rw-rw-r-- root/root       792 2018-09-30 18:30 rhel-jenkins-master/tasks/config.yml
+-rw-rw-r-- root/root       232 2018-09-30 18:30 rhel-jenkins-master/tasks/main.yml
+-rw-rw-r-- root/root       360 2018-09-30 18:30 rhel-jenkins-master/tasks/repo.redhat.yml
+-rw-rw-r-- root/root       213 2018-09-30 18:30 rhel-jenkins-master/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-02-01 00:57 ansible-swarm-master/
+-rw-rw-r-- root/root       539 2017-02-01 00:57 ansible-swarm-master/.travis.yml
+-rw-rw-r-- root/root      1514 2017-02-01 00:57 ansible-swarm-master/README.md
+drwxrwxr-x root/root         0 2017-02-01 00:57 ansible-swarm-master/defaults/
+-rw-rw-r-- root/root       689 2017-02-01 00:57 ansible-swarm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-01 00:57 ansible-swarm-master/library/
+-rw-rw-r-- root/root      9621 2017-02-01 00:57 ansible-swarm-master/library/swarm.py
+drwxrwxr-x root/root         0 2017-02-01 00:57 ansible-swarm-master/meta/
+-rw-rw-r-- root/root       332 2017-02-01 00:57 ansible-swarm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-01 00:57 ansible-swarm-master/tasks/
+-rw-rw-r-- root/root      1074 2017-02-01 00:57 ansible-swarm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-01 00:57 ansible-swarm-master/tests/
+-rw-rw-r-- root/root         9 2017-02-01 00:57 ansible-swarm-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-02-01 00:57 ansible-swarm-master/tests/test.yml

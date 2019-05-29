@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-09 06:01 ansible-role-directory-master/
+-rw-rw-r-- root/root       615 2016-12-09 06:01 ansible-role-directory-master/.travis.yml
+-rw-rw-r-- root/root      1110 2016-12-09 06:01 ansible-role-directory-master/README.md
+drwxrwxr-x root/root         0 2016-12-09 06:01 ansible-role-directory-master/defaults/
+-rw-rw-r-- root/root        69 2016-12-09 06:01 ansible-role-directory-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-09 06:01 ansible-role-directory-master/handlers/
+-rw-rw-r-- root/root        30 2016-12-09 06:01 ansible-role-directory-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-09 06:01 ansible-role-directory-master/meta/
+-rw-rw-r-- root/root       324 2016-12-09 06:01 ansible-role-directory-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-09 06:01 ansible-role-directory-master/tasks/
+-rw-rw-r-- root/root       153 2016-12-09 06:01 ansible-role-directory-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-09 06:01 ansible-role-directory-master/tests/
+-rw-rw-r-- root/root        17 2016-12-09 06:01 ansible-role-directory-master/tests/inventory
+-rw-rw-r-- root/root       166 2016-12-09 06:01 ansible-role-directory-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-09 06:01 ansible-role-directory-master/vars/
+-rw-rw-r-- root/root        26 2016-12-09 06:01 ansible-role-directory-master/vars/main.yml

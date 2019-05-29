@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-install-master/
+-rw-rw-r-- root/root        58 2018-05-14 03:52 ansible-bower-install-master/.gitignore
+-rw-rw-r-- root/root      1073 2018-05-14 03:52 ansible-bower-install-master/LICENSE
+-rw-rw-r-- root/root       778 2018-05-14 03:52 ansible-bower-install-master/README.md
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-install-master/defaults/
+-rw-rw-r-- root/root        44 2018-05-14 03:52 ansible-bower-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-install-master/meta/
+-rw-rw-r-- root/root       413 2018-05-14 03:52 ansible-bower-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-install-master/tasks/
+-rw-rw-r-- root/root       132 2018-05-14 03:52 ansible-bower-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-install-master/tests/
+-rw-rw-r-- root/root        30 2018-05-14 03:52 ansible-bower-install-master/tests/bower.json
+-rw-rw-r-- root/root        10 2018-05-14 03:52 ansible-bower-install-master/tests/inventory
+-rw-rw-r-- root/root       160 2018-05-14 03:52 ansible-bower-install-master/tests/main.yml
+-rw-rw-r-- root/root        72 2018-05-14 03:52 ansible-bower-install-master/tests/package.json

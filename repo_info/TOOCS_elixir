@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-13 10:44 elixir-master/
+-rw-rw-r-- root/root       141 2019-01-13 10:44 elixir-master/.travis.yml
+-rw-rw-r-- root/root      1074 2019-01-13 10:44 elixir-master/LICENSE.md
+-rw-rw-r-- root/root      3996 2019-01-13 10:44 elixir-master/README.md
+drwxrwxr-x root/root         0 2019-01-13 10:44 elixir-master/defaults/
+-rw-rw-r-- root/root       197 2019-01-13 10:44 elixir-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-13 10:44 elixir-master/meta/
+-rw-rw-r-- root/root       687 2019-01-13 10:44 elixir-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-13 10:44 elixir-master/tasks/
+-rw-rw-r-- root/root       209 2019-01-13 10:44 elixir-master/tasks/install-asdf.yml
+-rw-rw-r-- root/root       326 2019-01-13 10:44 elixir-master/tasks/install-native.yml
+drwxrwxr-x root/root         0 2019-01-13 10:44 elixir-master/tasks/install-native/
+-rw-rw-r-- root/root       165 2019-01-13 10:44 elixir-master/tasks/install-native/osx.yml
+-rw-rw-r-- root/root       899 2019-01-13 10:44 elixir-master/tasks/install-native/ubuntu.yml
+-rw-rw-r-- root/root       691 2019-01-13 10:44 elixir-master/tasks/main.yml

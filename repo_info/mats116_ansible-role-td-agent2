@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-11-25 20:53 ansible-role-td-agent2-master/
+-rw-rw-r-- root/root       508 2015-11-25 20:53 ansible-role-td-agent2-master/README.md
+drwxrwxr-x root/root         0 2015-11-25 20:53 ansible-role-td-agent2-master/defaults/
+-rw-rw-r-- root/root        88 2015-11-25 20:53 ansible-role-td-agent2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-25 20:53 ansible-role-td-agent2-master/handlers/
+-rw-rw-r-- root/root        76 2015-11-25 20:53 ansible-role-td-agent2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-25 20:53 ansible-role-td-agent2-master/meta/
+-rw-rw-r-- root/root       235 2015-11-25 20:53 ansible-role-td-agent2-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-25 20:53 ansible-role-td-agent2-master/tasks/
+-rw-rw-r-- root/root      1007 2015-11-25 20:53 ansible-role-td-agent2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-25 20:53 ansible-role-td-agent2-master/templates/
+-rw-rw-r-- root/root        69 2015-11-25 20:53 ansible-role-td-agent2-master/templates/sysconfig
+-rw-rw-r-- root/root       113 2015-11-25 20:53 ansible-role-td-agent2-master/templates/td-agent.conf

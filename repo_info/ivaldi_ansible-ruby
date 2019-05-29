@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-03-25 10:00 ansible-ruby-master/
+-rw-rw-r-- root/root      1290 2019-03-25 10:00 ansible-ruby-master/LICENSE
+-rw-rw-r-- root/root      1021 2019-03-25 10:00 ansible-ruby-master/README.md
+drwxrwxr-x root/root         0 2019-03-25 10:00 ansible-ruby-master/defaults/
+-rw-rw-r-- root/root       290 2019-03-25 10:00 ansible-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-25 10:00 ansible-ruby-master/meta/
+-rw-rw-r-- root/root       523 2019-03-25 10:00 ansible-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 10:00 ansible-ruby-master/tasks/
+-rw-rw-r-- root/root       694 2019-03-25 10:00 ansible-ruby-master/tasks/from_package.yml
+-rw-rw-r-- root/root      3920 2019-03-25 10:00 ansible-ruby-master/tasks/from_source.yml
+-rw-rw-r-- root/root       140 2019-03-25 10:00 ansible-ruby-master/tasks/main.yml

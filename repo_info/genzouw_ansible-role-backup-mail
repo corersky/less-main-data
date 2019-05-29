@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-01-26 10:13 ansible-role-backup-mail-master/
+-rw-rw-r-- root/root       184 2015-01-26 10:13 ansible-role-backup-mail-master/README.md
+-rw-rw-r-- root/root       636 2015-01-26 10:13 ansible-role-backup-mail-master/ansible.cfg
+drwxrwxr-x root/root         0 2015-01-26 10:13 ansible-role-backup-mail-master/defaults/
+-rw-rw-r-- root/root       241 2015-01-26 10:13 ansible-role-backup-mail-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-26 10:13 ansible-role-backup-mail-master/files/
+-rw-rw-r-- root/root       789 2015-01-26 10:13 ansible-role-backup-mail-master/files/backup_mail.php
+-rw-rw-r-- root/root        45 2015-01-26 10:13 ansible-role-backup-mail-master/hosts
+drwxrwxr-x root/root         0 2015-01-26 10:13 ansible-role-backup-mail-master/meta/
+-rw-rw-r-- root/root       261 2015-01-26 10:13 ansible-role-backup-mail-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-26 10:13 ansible-role-backup-mail-master/tasks/
+-rw-rw-r-- root/root       566 2015-01-26 10:13 ansible-role-backup-mail-master/tasks/main.yml

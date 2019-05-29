@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-ffmpeg-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-server-ffmpeg-master/.travis.yml
+-rw-rw-r-- root/root        81 2016-12-11 10:56 ansible-role-server-ffmpeg-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-ffmpeg-master/defaults/
+-rw-rw-r-- root/root       155 2016-12-11 10:56 ansible-role-server-ffmpeg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-ffmpeg-master/meta/
+-rw-rw-r-- root/root       214 2016-12-11 10:56 ansible-role-server-ffmpeg-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-ffmpeg-master/tasks/
+-rw-rw-r-- root/root      5849 2016-12-11 10:56 ansible-role-server-ffmpeg-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-ffmpeg-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-server-ffmpeg-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-12-11 10:56 ansible-role-server-ffmpeg-master/tests/test.yml

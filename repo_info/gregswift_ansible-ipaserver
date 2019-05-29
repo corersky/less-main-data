@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-10-16 15:49 ansible-ipaserver-master/
+-rw-rw-r-- root/root      1990 2018-10-16 15:49 ansible-ipaserver-master/README.md
+drwxrwxr-x root/root         0 2018-10-16 15:49 ansible-ipaserver-master/defaults/
+-rw-rw-r-- root/root       507 2018-10-16 15:49 ansible-ipaserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-16 15:49 ansible-ipaserver-master/handlers/
+-rw-rw-r-- root/root        62 2018-10-16 15:49 ansible-ipaserver-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-16 15:49 ansible-ipaserver-master/meta/
+-rw-rw-r-- root/root       271 2018-10-16 15:49 ansible-ipaserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-16 15:49 ansible-ipaserver-master/tasks/
+-rw-rw-r-- root/root       832 2018-10-16 15:49 ansible-ipaserver-master/tasks/firewalld.yml
+-rw-rw-r-- root/root      1976 2018-10-16 15:49 ansible-ipaserver-master/tasks/main.yml

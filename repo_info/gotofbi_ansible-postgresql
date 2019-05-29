@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-09-28 17:15 ansible-postgresql-master/
+-rw-rw-r-- root/root      1066 2015-09-28 17:15 ansible-postgresql-master/LICENSE
+-rw-rw-r-- root/root      1497 2015-09-28 17:15 ansible-postgresql-master/README.md
+drwxrwxr-x root/root         0 2015-09-28 17:15 ansible-postgresql-master/defaults/
+-rw-rw-r-- root/root       528 2015-09-28 17:15 ansible-postgresql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-28 17:15 ansible-postgresql-master/handlers/
+-rw-rw-r-- root/root       115 2015-09-28 17:15 ansible-postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-28 17:15 ansible-postgresql-master/meta/
+-rw-rw-r-- root/root      1048 2015-09-28 17:15 ansible-postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-28 17:15 ansible-postgresql-master/tasks/
+-rw-rw-r-- root/root       658 2015-09-28 17:15 ansible-postgresql-master/tasks/backup.yml
+-rw-rw-r-- root/root      1370 2015-09-28 17:15 ansible-postgresql-master/tasks/configure.yml
+-rw-rw-r-- root/root      1491 2015-09-28 17:15 ansible-postgresql-master/tasks/install.yml
+-rw-rw-r-- root/root       137 2015-09-28 17:15 ansible-postgresql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-28 17:15 ansible-postgresql-master/vars/
+-rw-rw-r-- root/root        30 2015-09-28 17:15 ansible-postgresql-master/vars/main.yml

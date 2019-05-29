@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-12-14 10:16 ansible-role-moodle-master/
+-rw-rw-r-- root/root      3221 2018-12-14 10:16 ansible-role-moodle-master/README.md
+drwxrwxr-x root/root         0 2018-12-14 10:16 ansible-role-moodle-master/defaults/
+-rw-rw-r-- root/root        31 2018-12-14 10:16 ansible-role-moodle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-14 10:16 ansible-role-moodle-master/meta/
+-rw-rw-r-- root/root       290 2018-12-14 10:16 ansible-role-moodle-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-14 10:16 ansible-role-moodle-master/tasks/
+-rw-rw-r-- root/root       489 2018-12-14 10:16 ansible-role-moodle-master/tasks/configure.yml
+-rw-rw-r-- root/root      2744 2018-12-14 10:16 ansible-role-moodle-master/tasks/install.yml
+-rw-rw-r-- root/root       161 2018-12-14 10:16 ansible-role-moodle-master/tasks/main.yml
+-rw-rw-r-- root/root       919 2018-12-14 10:16 ansible-role-moodle-master/tasks/variables.yml
+drwxrwxr-x root/root         0 2018-12-14 10:16 ansible-role-moodle-master/vars/
+-rw-rw-r-- root/root       273 2018-12-14 10:16 ansible-role-moodle-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-kops-master/
+-rw-rw-r-- root/root       475 2017-09-04 08:50 ansible-role-kops-master/README.md
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-kops-master/defaults/
+-rw-rw-r-- root/root       314 2017-09-04 08:50 ansible-role-kops-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-kops-master/handlers/
+-rw-rw-r-- root/root        36 2017-09-04 08:50 ansible-role-kops-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-kops-master/meta/
+-rw-rw-r-- root/root       244 2017-09-04 08:50 ansible-role-kops-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-kops-master/tasks/
+-rw-rw-r-- root/root       397 2017-09-04 08:50 ansible-role-kops-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-kops-master/tests/
+-rw-rw-r-- root/root        11 2017-09-04 08:50 ansible-role-kops-master/tests/inventory
+-rw-rw-r-- root/root        70 2017-09-04 08:50 ansible-role-kops-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-04 08:50 ansible-role-kops-master/vars/
+-rw-rw-r-- root/root        32 2017-09-04 08:50 ansible-role-kops-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-05 15:45 ansible-pbuilder-role-master/
+-rw-rw-r-- root/root      1288 2016-09-05 15:45 ansible-pbuilder-role-master/.travis.yml
+-rw-rw-r-- root/root      7048 2016-09-05 15:45 ansible-pbuilder-role-master/LICENSE
+-rw-rw-r-- root/root      2496 2016-09-05 15:45 ansible-pbuilder-role-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 15:45 ansible-pbuilder-role-master/defaults/
+-rw-rw-r-- root/root       175 2016-09-05 15:45 ansible-pbuilder-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 15:45 ansible-pbuilder-role-master/meta/
+-rw-rw-r-- root/root       333 2016-09-05 15:45 ansible-pbuilder-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 15:45 ansible-pbuilder-role-master/tasks/
+-rw-rw-r-- root/root      1918 2016-09-05 15:45 ansible-pbuilder-role-master/tasks/debian.yml
+-rw-rw-r-- root/root        64 2016-09-05 15:45 ansible-pbuilder-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 15:45 ansible-pbuilder-role-master/templates/
+-rw-rw-r-- root/root      1248 2016-09-05 15:45 ansible-pbuilder-role-master/templates/pbuilderrc
+drwxrwxr-x root/root         0 2016-09-05 15:45 ansible-pbuilder-role-master/tests/
+-rw-rw-r-- root/root       251 2016-09-05 15:45 ansible-pbuilder-role-master/tests/test.yml

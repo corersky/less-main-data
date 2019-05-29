@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-20 08:41 ansible_docker-master/
+-rw-rw-r-- root/root        26 2017-05-20 08:41 ansible_docker-master/.gitignore
+-rw-rw-r-- root/root       695 2017-05-20 08:41 ansible_docker-master/README.md
+drwxrwxr-x root/root         0 2017-05-20 08:41 ansible_docker-master/defaults/
+-rw-rw-r-- root/root       246 2017-05-20 08:41 ansible_docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-20 08:41 ansible_docker-master/meta/
+-rw-rw-r-- root/root       315 2017-05-20 08:41 ansible_docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-20 08:41 ansible_docker-master/tasks/
+-rw-rw-r-- root/root      1521 2017-05-20 08:41 ansible_docker-master/tasks/docker.yml
+-rw-rw-r-- root/root       696 2017-05-20 08:41 ansible_docker-master/tasks/docker_baseline.yml
+-rw-rw-r-- root/root       306 2017-05-20 08:41 ansible_docker-master/tasks/docker_compose.yml
+-rw-rw-r-- root/root       331 2017-05-20 08:41 ansible_docker-master/tasks/main.yml
+-rw-rw-r-- root/root       623 2017-05-20 08:41 ansible_docker-master/tasks/weave.yml

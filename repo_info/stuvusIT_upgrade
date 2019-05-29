@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-15 05:26 upgrade-master/
+-rw-rw-r-- root/root      1026 2019-03-15 05:26 upgrade-master/.gitignore
+-rw-rw-r-- root/root     20133 2019-03-15 05:26 upgrade-master/LICENSE
+-rw-rw-r-- root/root      1740 2019-03-15 05:26 upgrade-master/README.md
+drwxrwxr-x root/root         0 2019-03-15 05:26 upgrade-master/defaults/
+-rw-rw-r-- root/root       132 2019-03-15 05:26 upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-15 05:26 upgrade-master/handlers/
+-rw-rw-r-- root/root        83 2019-03-15 05:26 upgrade-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-15 05:26 upgrade-master/meta/
+-rw-rw-r-- root/root       441 2019-03-15 05:26 upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-15 05:26 upgrade-master/tasks/
+-rw-rw-r-- root/root       194 2019-03-15 05:26 upgrade-master/tasks/main.yml
+-rw-rw-r-- root/root      1980 2019-03-15 05:26 upgrade-master/tasks/upgrade_debian.yml
+-rw-rw-r-- root/root       392 2019-03-15 05:26 upgrade-master/tasks/upgrade_gem.yml
+-rw-rw-r-- root/root       240 2019-03-15 05:26 upgrade-master/tasks/upgrade_npm.yml

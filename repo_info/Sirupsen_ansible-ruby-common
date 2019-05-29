@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-02-12 20:13 ansible-ruby-common-master/
+-rw-rw-r-- root/root      4276 2014-02-12 20:13 ansible-ruby-common-master/README.md
+drwxrwxr-x root/root         0 2014-02-12 20:13 ansible-ruby-common-master/defaults/
+-rw-rw-r-- root/root       118 2014-02-12 20:13 ansible-ruby-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-02-12 20:13 ansible-ruby-common-master/meta/
+-rw-rw-r-- root/root       366 2014-02-12 20:13 ansible-ruby-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-02-12 20:13 ansible-ruby-common-master/tasks/
+-rw-rw-r-- root/root      1570 2014-02-12 20:13 ansible-ruby-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-02-12 20:13 ansible-ruby-common-master/templates/
+-rw-rw-r-- root/root       196 2014-02-12 20:13 ansible-ruby-common-master/templates/install-ruby.j2
+-rw-rw-r-- root/root       102 2014-02-12 20:13 ansible-ruby-common-master/templates/rake-env.j2
+-rw-rw-r-- root/root       202 2014-02-12 20:13 ansible-ruby-common-master/templates/ruby-gc-wrapper.j2
+drwxrwxr-x root/root         0 2014-02-12 20:13 ansible-ruby-common-master/vars/
+-rw-rw-r-- root/root       227 2014-02-12 20:13 ansible-ruby-common-master/vars/main.yml

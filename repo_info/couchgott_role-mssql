@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-10 03:48 role-mssql-master/
+-rw-rw-r-- root/root      1061 2018-08-10 03:48 role-mssql-master/LICENSE
+-rw-rw-r-- root/root      2474 2018-08-10 03:48 role-mssql-master/README.md
+drwxrwxr-x root/root         0 2018-08-10 03:48 role-mssql-master/defaults/
+-rw-rw-r-- root/root      1408 2018-08-10 03:48 role-mssql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-10 03:48 role-mssql-master/meta/
+-rw-rw-r-- root/root       273 2018-08-10 03:48 role-mssql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-10 03:48 role-mssql-master/tasks/
+-rw-rw-r-- root/root       373 2018-08-10 03:48 role-mssql-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       272 2018-08-10 03:48 role-mssql-master/tasks/databases.yml
+-rw-rw-r-- root/root      2038 2018-08-10 03:48 role-mssql-master/tasks/install.yml
+-rw-rw-r-- root/root       604 2018-08-10 03:48 role-mssql-master/tasks/main.yml
+-rw-rw-r-- root/root       315 2018-08-10 03:48 role-mssql-master/tasks/mgmtstudio.yml
+-rw-rw-r-- root/root      3339 2018-08-10 03:48 role-mssql-master/tasks/permissions.yml
+-rw-rw-r-- root/root      1132 2018-08-10 03:48 role-mssql-master/tasks/prerequisites.yml

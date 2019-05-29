@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-13 10:42 certificate-deploy-master/
+-rw-rw-r-- root/root     35142 2018-02-13 10:42 certificate-deploy-master/LICENSE
+-rw-rw-r-- root/root      5381 2018-02-13 10:42 certificate-deploy-master/README.md
+drwxrwxr-x root/root         0 2018-02-13 10:42 certificate-deploy-master/defaults/
+-rw-rw-r-- root/root      1296 2018-02-13 10:42 certificate-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-13 10:42 certificate-deploy-master/handlers/
+-rw-rw-r-- root/root       235 2018-02-13 10:42 certificate-deploy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-13 10:42 certificate-deploy-master/meta/
+-rw-rw-r-- root/root       413 2018-02-13 10:42 certificate-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-13 10:42 certificate-deploy-master/tasks/
+-rw-rw-r-- root/root      7915 2018-02-13 10:42 certificate-deploy-master/tasks/letsencrypt.yml
+-rw-rw-r-- root/root      1651 2018-02-13 10:42 certificate-deploy-master/tasks/main.yml
+-rw-rw-r-- root/root      1047 2018-02-13 10:42 certificate-deploy-master/tasks/modcheck.yml
+drwxrwxr-x root/root         0 2018-02-13 10:42 certificate-deploy-master/templates/
+-rw-rw-r-- root/root       408 2018-02-13 10:42 certificate-deploy-master/templates/config_san.txt

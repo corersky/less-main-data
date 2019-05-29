@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-12 12:58 perl-master/
+-rw-rw-r-- root/root        83 2018-09-12 12:58 perl-master/.gitignore
+-rw-rw-r-- root/root       622 2018-09-12 12:58 perl-master/.travis.yml
+-rw-rw-r-- root/root      1079 2018-09-12 12:58 perl-master/LICENSE
+-rw-rw-r-- root/root       845 2018-09-12 12:58 perl-master/README.md
+-rw-rw-r-- root/root       444 2018-09-12 12:58 perl-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-09-12 12:58 perl-master/defaults/
+-rw-rw-r-- root/root       270 2018-09-12 12:58 perl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-12 12:58 perl-master/meta/
+-rw-rw-r-- root/root       318 2018-09-12 12:58 perl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-12 12:58 perl-master/tasks/
+-rw-rw-r-- root/root       806 2018-09-12 12:58 perl-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2018-09-12 12:58 perl-master/test.yml
+-rw-rw-r-- root/root        69 2018-09-12 12:58 perl-master/vagrant-inventory
+drwxrwxr-x root/root         0 2018-09-12 12:58 perl-master/vars/
+-rw-rw-r-- root/root        70 2018-09-12 12:58 perl-master/vars/Debian.yml
+-rw-rw-r-- root/root        69 2018-09-12 12:58 perl-master/vars/RedHat.yml

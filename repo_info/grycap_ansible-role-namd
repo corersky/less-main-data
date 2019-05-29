@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-04 03:13 ansible-role-namd-master/
+-rw-rw-r-- root/root      1148 2017-05-04 03:13 ansible-role-namd-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-05-04 03:13 ansible-role-namd-master/LICENSE
+-rw-rw-r-- root/root      1064 2017-05-04 03:13 ansible-role-namd-master/README.md
+drwxrwxr-x root/root         0 2017-05-04 03:13 ansible-role-namd-master/defaults/
+-rw-rw-r-- root/root        47 2017-05-04 03:13 ansible-role-namd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-04 03:13 ansible-role-namd-master/meta/
+-rw-rw-r-- root/root       287 2017-05-04 03:13 ansible-role-namd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-04 03:13 ansible-role-namd-master/tasks/
+-rw-rw-r-- root/root       251 2017-05-04 03:13 ansible-role-namd-master/tasks/Debian.yaml
+-rw-rw-r-- root/root       780 2017-05-04 03:13 ansible-role-namd-master/tasks/RedHat.yaml
+-rw-rw-r-- root/root      5172 2017-05-04 03:13 ansible-role-namd-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-04 03:13 ansible-role-namd-master/tests/
+-rw-rw-r-- root/root        36 2017-05-04 03:13 ansible-role-namd-master/tests/inventory
+-rw-rw-r-- root/root        54 2017-05-04 03:13 ansible-role-namd-master/tests/test.yml

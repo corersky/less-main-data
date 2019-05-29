@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-10-04 10:53 ansible-apt-sources-master/
+-rw-rw-r-- root/root       664 2018-10-04 10:53 ansible-apt-sources-master/README.md
+drwxrwxr-x root/root         0 2018-10-04 10:53 ansible-apt-sources-master/defaults/
+-rw-rw-r-- root/root       148 2018-10-04 10:53 ansible-apt-sources-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-04 10:53 ansible-apt-sources-master/meta/
+-rw-rw-r-- root/root       257 2018-10-04 10:53 ansible-apt-sources-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-04 10:53 ansible-apt-sources-master/tasks/
+-rw-rw-r-- root/root       302 2018-10-04 10:53 ansible-apt-sources-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-04 10:53 ansible-apt-sources-master/templates/
+-rw-rw-r-- root/root       695 2018-10-04 10:53 ansible-apt-sources-master/templates/sources.list

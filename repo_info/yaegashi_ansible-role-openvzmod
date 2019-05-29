@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-05-25 16:59 ansible-role-openvzmod-master/
+-rw-rw-r-- root/root     12193 2015-05-25 16:59 ansible-role-openvzmod-master/README.md
+drwxrwxr-x root/root         0 2015-05-25 16:59 ansible-role-openvzmod-master/library/
+-rw-rw-r-- root/root     15123 2015-05-25 16:59 ansible-role-openvzmod-master/library/openvz.py
+-rw-rw-r-- root/root      1637 2015-05-25 16:59 ansible-role-openvzmod-master/library/openvz_exec.py
+drwxrwxr-x root/root         0 2015-05-25 16:59 ansible-role-openvzmod-master/meta/
+-rw-rw-r-- root/root       191 2015-05-25 16:59 ansible-role-openvzmod-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-25 16:59 ansible-role-openvzmod-master/tests/
+-rw-rw-r-- root/root        36 2015-05-25 16:59 ansible-role-openvzmod-master/tests/hosts
+-rw-rw-r-- root/root       434 2015-05-25 16:59 ansible-role-openvzmod-master/tests/openvz.yml
+-rw-rw-r-- root/root       240 2015-05-25 16:59 ansible-role-openvzmod-master/tests/openvz_exec.yml
+drwxrwxr-x root/root         0 2015-05-25 16:59 ansible-role-openvzmod-master/tests/roles/
+lrwxrwxrwx root/root         0 2015-05-25 16:59 ansible-role-openvzmod-master/tests/roles/yaegashi.openvzmod -> ../..

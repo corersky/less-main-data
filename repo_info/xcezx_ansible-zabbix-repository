@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-09-30 06:39 ansible-zabbix-repository-master/
+-rw-rw-r-- root/root       168 2014-09-30 06:39 ansible-zabbix-repository-master/.travis.yml
+-rw-rw-r-- root/root       388 2014-09-30 06:39 ansible-zabbix-repository-master/README.md
+drwxrwxr-x root/root         0 2014-09-30 06:39 ansible-zabbix-repository-master/defaults/
+-rw-rw-r-- root/root       110 2014-09-30 06:39 ansible-zabbix-repository-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-30 06:39 ansible-zabbix-repository-master/meta/
+-rw-rw-r-- root/root       216 2014-09-30 06:39 ansible-zabbix-repository-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-30 06:39 ansible-zabbix-repository-master/tasks/
+-rw-rw-r-- root/root       110 2014-09-30 06:39 ansible-zabbix-repository-master/tasks/main.yml
+-rw-rw-r-- root/root        90 2014-09-30 06:39 ansible-zabbix-repository-master/test.yml

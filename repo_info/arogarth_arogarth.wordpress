@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-23 04:06 arogarth.wordpress-master/
+-rw-rw-r-- root/root     18046 2016-06-23 04:06 arogarth.wordpress-master/LICENSE
+-rw-rw-r-- root/root      1051 2016-06-23 04:06 arogarth.wordpress-master/README.md
+drwxrwxr-x root/root         0 2016-06-23 04:06 arogarth.wordpress-master/defaults/
+-rw-rw-r-- root/root       233 2016-06-23 04:06 arogarth.wordpress-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-23 04:06 arogarth.wordpress-master/handlers/
+-rw-rw-r-- root/root        67 2016-06-23 04:06 arogarth.wordpress-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-23 04:06 arogarth.wordpress-master/meta/
+-rw-rw-r-- root/root       345 2016-06-23 04:06 arogarth.wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-23 04:06 arogarth.wordpress-master/tasks/
+-rw-rw-r-- root/root       146 2016-06-23 04:06 arogarth.wordpress-master/tasks/basics.yml
+-rw-rw-r-- root/root       112 2016-06-23 04:06 arogarth.wordpress-master/tasks/main.yml
+-rw-rw-r-- root/root       300 2016-06-23 04:06 arogarth.wordpress-master/tasks/webserver.yml
+-rw-rw-r-- root/root      1731 2016-06-23 04:06 arogarth.wordpress-master/tasks/wordpress.yml
+drwxrwxr-x root/root         0 2016-06-23 04:06 arogarth.wordpress-master/templates/
+-rw-rw-r-- root/root       235 2016-06-23 04:06 arogarth.wordpress-master/templates/apache2.conf
+-rw-rw-r-- root/root       413 2016-06-23 04:06 arogarth.wordpress-master/templates/wp-config.php

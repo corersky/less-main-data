@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-03 17:14 ansible-role-java-master/
+-rw-rw-r-- root/root      1203 2019-03-03 17:14 ansible-role-java-master/.gitignore
+-rw-rw-r-- root/root     11357 2019-03-03 17:14 ansible-role-java-master/LICENSE
+-rw-rw-r-- root/root       105 2019-03-03 17:14 ansible-role-java-master/README.md
+drwxrwxr-x root/root         0 2019-03-03 17:14 ansible-role-java-master/defaults/
+-rw-rw-r-- root/root       100 2019-03-03 17:14 ansible-role-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-03 17:14 ansible-role-java-master/meta/
+-rw-rw-r-- root/root      1952 2019-03-03 17:14 ansible-role-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-03 17:14 ansible-role-java-master/tasks/
+-rw-rw-r-- root/root      1211 2019-03-03 17:14 ansible-role-java-master/tasks/Debian.yml
+-rw-rw-r-- root/root       276 2019-03-03 17:14 ansible-role-java-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       607 2019-03-03 17:14 ansible-role-java-master/tasks/Windows.yml
+-rw-rw-r-- root/root      1350 2019-03-03 17:14 ansible-role-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-03 17:14 ansible-role-java-master/vars/
+-rw-rw-r-- root/root       132 2019-03-03 17:14 ansible-role-java-master/vars/main.yml

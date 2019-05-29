@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-10 17:52 ansible-filebeat-centos-master/
+-rw-rw-r-- root/root        27 2017-06-10 17:52 ansible-filebeat-centos-master/.gitignore
+-rw-rw-r-- root/root      1072 2017-06-10 17:52 ansible-filebeat-centos-master/LICENSE
+-rw-rw-r-- root/root       789 2017-06-10 17:52 ansible-filebeat-centos-master/README.md
+drwxrwxr-x root/root         0 2017-06-10 17:52 ansible-filebeat-centos-master/files/
+-rw-rw-r-- root/root       214 2017-06-10 17:52 ansible-filebeat-centos-master/files/elastic.repo
+drwxrwxr-x root/root         0 2017-06-10 17:52 ansible-filebeat-centos-master/meta/
+-rw-rw-r-- root/root       243 2017-06-10 17:52 ansible-filebeat-centos-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-10 17:52 ansible-filebeat-centos-master/tasks/
+-rw-rw-r-- root/root      1174 2017-06-10 17:52 ansible-filebeat-centos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-10 17:52 ansible-filebeat-centos-master/tests/
+-rw-rw-r-- root/root       274 2017-06-10 17:52 ansible-filebeat-centos-master/tests/Vagrantfile
+-rw-rw-r-- root/root       124 2017-06-10 17:52 ansible-filebeat-centos-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2017-06-10 17:52 ansible-filebeat-centos-master/tests/localhost
+-rw-rw-r-- root/root       146 2017-06-10 17:52 ansible-filebeat-centos-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-10 17:52 ansible-filebeat-centos-master/vars/
+-rw-rw-r-- root/root       115 2017-06-10 17:52 ansible-filebeat-centos-master/vars/main.yml

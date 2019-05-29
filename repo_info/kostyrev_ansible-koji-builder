@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-24 12:34 ansible-koji-builder-master/
+-rw-rw-r-- root/root      2218 2016-07-24 12:34 ansible-koji-builder-master/README.md
+drwxrwxr-x root/root         0 2016-07-24 12:34 ansible-koji-builder-master/defaults/
+-rw-rw-r-- root/root      1190 2016-07-24 12:34 ansible-koji-builder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-24 12:34 ansible-koji-builder-master/handlers/
+-rw-rw-r-- root/root        98 2016-07-24 12:34 ansible-koji-builder-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-24 12:34 ansible-koji-builder-master/meta/
+-rw-rw-r-- root/root       285 2016-07-24 12:34 ansible-koji-builder-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-24 12:34 ansible-koji-builder-master/tasks/
+-rw-rw-r-- root/root       186 2016-07-24 12:34 ansible-koji-builder-master/tasks/check_certificates.yml
+-rw-rw-r-- root/root      1021 2016-07-24 12:34 ansible-koji-builder-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-24 12:34 ansible-koji-builder-master/templates/
+-rw-rw-r-- root/root     60143 2016-07-24 12:34 ansible-koji-builder-master/templates/createrepo.patch.j2
+-rw-rw-r-- root/root      2755 2016-07-24 12:34 ansible-koji-builder-master/templates/kojid.conf.j2
+drwxrwxr-x root/root         0 2016-07-24 12:34 ansible-koji-builder-master/vars/
+-rw-rw-r-- root/root        33 2016-07-24 12:34 ansible-koji-builder-master/vars/main.yml

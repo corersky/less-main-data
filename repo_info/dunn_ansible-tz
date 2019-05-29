@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-04-22 21:40 ansible-tz-master/
+-rw-rw-r-- root/root       372 2017-04-22 21:40 ansible-tz-master/.travis.yml
+-rw-rw-r-- root/root       334 2017-04-22 21:40 ansible-tz-master/README.md
+drwxrwxr-x root/root         0 2017-04-22 21:40 ansible-tz-master/defaults/
+-rw-rw-r-- root/root        18 2017-04-22 21:40 ansible-tz-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-22 21:40 ansible-tz-master/meta/
+-rw-rw-r-- root/root       213 2017-04-22 21:40 ansible-tz-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-22 21:40 ansible-tz-master/tasks/
+-rw-rw-r-- root/root       265 2017-04-22 21:40 ansible-tz-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-22 21:40 ansible-tz-master/tests/
+-rw-rw-r-- root/root         9 2017-04-22 21:40 ansible-tz-master/tests/inventory
+-rw-rw-r-- root/root        60 2017-04-22 21:40 ansible-tz-master/tests/test.yml

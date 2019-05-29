@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-18 17:44 ansible-veradev-master/
+-rw-rw-r-- root/root      1088 2017-11-18 17:44 ansible-veradev-master/LICENSE
+-rw-rw-r-- root/root      1012 2017-11-18 17:44 ansible-veradev-master/README.md
+drwxrwxr-x root/root         0 2017-11-18 17:44 ansible-veradev-master/defaults/
+-rw-rw-r-- root/root        82 2017-11-18 17:44 ansible-veradev-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-18 17:44 ansible-veradev-master/files/
+-rwxrwxr-x root/root       150 2017-11-18 17:44 ansible-veradev-master/files/vera-log.sh
+-rwxrwxr-x root/root      1204 2017-11-18 17:44 ansible-veradev-master/files/vera-reload.sh
+drwxrwxr-x root/root         0 2017-11-18 17:44 ansible-veradev-master/meta/
+-rw-rw-r-- root/root       234 2017-11-18 17:44 ansible-veradev-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-18 17:44 ansible-veradev-master/tasks/
+-rw-rw-r-- root/root      1005 2017-11-18 17:44 ansible-veradev-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-18 17:44 ansible-veradev-master/templates/
+-rw-rw-r-- root/root       282 2017-11-18 17:44 ansible-veradev-master/templates/veradev-profile
+drwxrwxr-x root/root         0 2017-11-18 17:44 ansible-veradev-master/vars/
+-rw-rw-r-- root/root        42 2017-11-18 17:44 ansible-veradev-master/vars/main.yml

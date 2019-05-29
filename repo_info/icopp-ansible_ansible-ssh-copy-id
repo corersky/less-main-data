@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-09-06 21:24 ansible-ssh-copy-id-master/
+-rw-rw-r-- root/root       672 2016-09-06 21:24 ansible-ssh-copy-id-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-06 21:24 ansible-ssh-copy-id-master/LICENSE
+-rw-rw-r-- root/root       260 2016-09-06 21:24 ansible-ssh-copy-id-master/README.md
+drwxrwxr-x root/root         0 2016-09-06 21:24 ansible-ssh-copy-id-master/meta/
+-rw-rw-r-- root/root       315 2016-09-06 21:24 ansible-ssh-copy-id-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-06 21:24 ansible-ssh-copy-id-master/tasks/
+-rw-rw-r-- root/root       152 2016-09-06 21:24 ansible-ssh-copy-id-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-06 21:24 ansible-ssh-copy-id-master/tests/
+-rw-rw-r-- root/root         9 2016-09-06 21:24 ansible-ssh-copy-id-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-09-06 21:24 ansible-ssh-copy-id-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-05-06 23:24 ansible-mysql-master/
+-rw-rw-r-- root/root      1312 2014-05-06 23:24 ansible-mysql-master/README.md
+drwxrwxr-x root/root         0 2014-05-06 23:24 ansible-mysql-master/meta/
+-rw-rw-r-- root/root       301 2014-05-06 23:24 ansible-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-06 23:24 ansible-mysql-master/tasks/
+-rw-rw-r-- root/root         0 2014-05-06 23:24 ansible-mysql-master/tasks/backup.yml
+-rw-rw-r-- root/root      1141 2014-05-06 23:24 ansible-mysql-master/tasks/config.yml
+-rw-rw-r-- root/root       272 2014-05-06 23:24 ansible-mysql-master/tasks/install.yml
+-rw-rw-r-- root/root        50 2014-05-06 23:24 ansible-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-06 23:24 ansible-mysql-master/templates/
+drwxrwxr-x root/root         0 2014-05-06 23:24 ansible-mysql-master/templates/root/
+-rw-rw-r-- root/root        55 2014-05-06 23:24 ansible-mysql-master/templates/root/.my.cnf.j2
+drwxrwxr-x root/root         0 2014-05-06 23:24 ansible-mysql-master/vars/
+-rw-rw-r-- root/root        99 2014-05-06 23:24 ansible-mysql-master/vars/main.yml

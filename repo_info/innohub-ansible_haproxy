@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-19 11:27 haproxy-master/
+-rw-rw-r-- root/root         9 2016-07-19 11:27 haproxy-master/.gitignore
+-rw-rw-r-- root/root      5331 2016-07-19 11:27 haproxy-master/README.md
+-rw-rw-r-- root/root      3319 2016-07-19 11:27 haproxy-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-07-19 11:27 haproxy-master/defaults/
+-rw-rw-r-- root/root      2031 2016-07-19 11:27 haproxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-19 11:27 haproxy-master/handlers/
+-rw-rw-r-- root/root       192 2016-07-19 11:27 haproxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-19 11:27 haproxy-master/meta/
+-rw-rw-r-- root/root        60 2016-07-19 11:27 haproxy-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       260 2016-07-19 11:27 haproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-19 11:27 haproxy-master/tasks/
+-rw-rw-r-- root/root      1121 2016-07-19 11:27 haproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-19 11:27 haproxy-master/templates/
+-rw-rw-r-- root/root      3885 2016-07-19 11:27 haproxy-master/templates/haproxy.cfg
+-rw-rw-r-- root/root        22 2016-07-19 11:27 haproxy-master/templates/ssl.pem
+-rw-rw-r-- root/root       135 2016-07-19 11:27 haproxy-master/test.yml

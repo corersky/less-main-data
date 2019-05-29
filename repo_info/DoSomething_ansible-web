@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-06-05 11:48 ansible-web-master/
+-rw-rw-r-- root/root      1993 2015-06-05 11:48 ansible-web-master/README.md
+drwxrwxr-x root/root         0 2015-06-05 11:48 ansible-web-master/defaults/
+-rw-rw-r-- root/root       308 2015-06-05 11:48 ansible-web-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-05 11:48 ansible-web-master/handlers/
+-rw-rw-r-- root/root       525 2015-06-05 11:48 ansible-web-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-05 11:48 ansible-web-master/meta/
+-rw-rw-r-- root/root       280 2015-06-05 11:48 ansible-web-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-05 11:48 ansible-web-master/tasks/
+-rw-rw-r-- root/root       108 2015-06-05 11:48 ansible-web-master/tasks/main.yml
+-rw-rw-r-- root/root       428 2015-06-05 11:48 ansible-web-master/tasks/php-composer.yml
+-rw-rw-r-- root/root      1394 2015-06-05 11:48 ansible-web-master/tasks/php-thirdparty.yml
+-rw-rw-r-- root/root       785 2015-06-05 11:48 ansible-web-master/tasks/php.yml
+-rw-rw-r-- root/root       215 2015-06-05 11:48 ansible-web-master/tasks/web-server.yml
+drwxrwxr-x root/root         0 2015-06-05 11:48 ansible-web-master/vars/
+-rw-rw-r-- root/root       235 2015-06-05 11:48 ansible-web-master/vars/main.yml

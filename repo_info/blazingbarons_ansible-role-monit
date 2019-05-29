@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-21 06:03 ansible-role-monit-master/
+-rw-rw-r-- root/root        10 2017-04-21 06:03 ansible-role-monit-master/.gitignore
+-rw-rw-r-- root/root       539 2017-04-21 06:03 ansible-role-monit-master/.travis.yml
+-rw-rw-r-- root/root     10242 2017-04-21 06:03 ansible-role-monit-master/LICENSE
+-rw-rw-r-- root/root       273 2017-04-21 06:03 ansible-role-monit-master/README.md
+drwxrwxr-x root/root         0 2017-04-21 06:03 ansible-role-monit-master/meta/
+-rw-rw-r-- root/root       331 2017-04-21 06:03 ansible-role-monit-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-21 06:03 ansible-role-monit-master/tasks/
+-rw-rw-r-- root/root       315 2017-04-21 06:03 ansible-role-monit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-21 06:03 ansible-role-monit-master/templates/
+-rw-rw-r-- root/root     11354 2017-04-21 06:03 ansible-role-monit-master/templates/monitrc.j2
+drwxrwxr-x root/root         0 2017-04-21 06:03 ansible-role-monit-master/tests/
+-rw-rw-r-- root/root         9 2017-04-21 06:03 ansible-role-monit-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-04-21 06:03 ansible-role-monit-master/tests/test.yml

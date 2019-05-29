@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-09 14:33 etckeeper-actions-master/
+-rw-rw-r-- root/root        13 2018-12-09 14:33 etckeeper-actions-master/.gitignore
+-rw-rw-r-- root/root       412 2018-12-09 14:33 etckeeper-actions-master/CHANGELOG.md
+-rw-rw-r-- root/root     35149 2018-12-09 14:33 etckeeper-actions-master/LICENSE.txt
+-rw-rw-r-- root/root      4067 2018-12-09 14:33 etckeeper-actions-master/README.md
+drwxrwxr-x root/root         0 2018-12-09 14:33 etckeeper-actions-master/action_plugins/
+-rw-rw-r-- root/root      1810 2018-12-09 14:33 etckeeper-actions-master/action_plugins/etckeeper-post-task.py
+-rw-rw-r-- root/root      1821 2018-12-09 14:33 etckeeper-actions-master/action_plugins/etckeeper-pre-task.py
+drwxrwxr-x root/root         0 2018-12-09 14:33 etckeeper-actions-master/library/
+-rw-rw-r-- root/root         0 2018-12-09 14:33 etckeeper-actions-master/library/etckeeper-post-task.py
+-rw-rw-r-- root/root         0 2018-12-09 14:33 etckeeper-actions-master/library/etckeeper-pre-task.py
+drwxrwxr-x root/root         0 2018-12-09 14:33 etckeeper-actions-master/meta/
+-rw-rw-r-- root/root       444 2018-12-09 14:33 etckeeper-actions-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-09 14:33 etckeeper-actions-master/tests/
+-rw-rw-r-- root/root       801 2018-12-09 14:33 etckeeper-actions-master/tests/test.yaml

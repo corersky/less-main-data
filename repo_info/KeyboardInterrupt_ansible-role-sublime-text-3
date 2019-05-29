@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-19 17:09 ansible-role-sublime-text-3-master/
+-rw-rw-r-- root/root       539 2017-12-19 17:09 ansible-role-sublime-text-3-master/.travis.yml
+-rw-rw-r-- root/root       833 2017-12-19 17:09 ansible-role-sublime-text-3-master/README.md
+drwxrwxr-x root/root         0 2017-12-19 17:09 ansible-role-sublime-text-3-master/defaults/
+-rw-rw-r-- root/root       187 2017-12-19 17:09 ansible-role-sublime-text-3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-19 17:09 ansible-role-sublime-text-3-master/meta/
+-rw-rw-r-- root/root       246 2017-12-19 17:09 ansible-role-sublime-text-3-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-19 17:09 ansible-role-sublime-text-3-master/tasks/
+-rw-rw-r-- root/root       721 2017-12-19 17:09 ansible-role-sublime-text-3-master/tasks/install_linux_centos.yml
+-rw-rw-r-- root/root       648 2017-12-19 17:09 ansible-role-sublime-text-3-master/tasks/install_linux_debian.yml
+-rw-rw-r-- root/root       273 2017-12-19 17:09 ansible-role-sublime-text-3-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-19 17:09 ansible-role-sublime-text-3-master/tests/
+-rw-rw-r-- root/root         9 2017-12-19 17:09 ansible-role-sublime-text-3-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-12-19 17:09 ansible-role-sublime-text-3-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-19 17:09 ansible-role-sublime-text-3-master/vars/
+-rw-rw-r-- root/root        35 2017-12-19 17:09 ansible-role-sublime-text-3-master/vars/main.yml

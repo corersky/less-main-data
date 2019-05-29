@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-08 10:08 clamav-master/
+-rw-rw-r-- root/root     22240 2017-10-08 10:08 clamav-master/LICENSE
+-rw-rw-r-- root/root       806 2017-10-08 10:08 clamav-master/README.md
+drwxrwxr-x root/root         0 2017-10-08 10:08 clamav-master/defaults/
+-rw-rw-r-- root/root        57 2017-10-08 10:08 clamav-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-08 10:08 clamav-master/handlers/
+-rw-rw-r-- root/root       125 2017-10-08 10:08 clamav-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-08 10:08 clamav-master/meta/
+-rw-rw-r-- root/root       488 2017-10-08 10:08 clamav-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-08 10:08 clamav-master/tasks/
+-rw-rw-r-- root/root      1525 2017-10-08 10:08 clamav-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-08 10:08 clamav-master/templates/
+-rw-rw-r-- root/root       293 2017-10-08 10:08 clamav-master/templates/clamd.conf.j2
+-rw-rw-r-- root/root       369 2017-10-08 10:08 clamav-master/templates/clamd.service.j2
+-rw-rw-r-- root/root       240 2017-10-08 10:08 clamav-master/templates/freshclam.conf.j2
+-rw-rw-r-- root/root       357 2017-10-08 10:08 clamav-master/templates/freshclamd.service.j2
+-rw-rw-r-- root/root        33 2017-10-08 10:08 clamav-master/templates/tmpfiles.conf.j2

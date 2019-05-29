@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-03 03:58 ansible-gerrit-master/
+-rw-rw-r-- root/root         0 2017-05-03 03:58 ansible-gerrit-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-03 03:58 ansible-gerrit-master/LICENSE
+-rw-rw-r-- root/root     10474 2017-05-03 03:58 ansible-gerrit-master/README.md
+drwxrwxr-x root/root         0 2017-05-03 03:58 ansible-gerrit-master/defaults/
+-rw-rw-r-- root/root      7830 2017-05-03 03:58 ansible-gerrit-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-03 03:58 ansible-gerrit-master/handlers/
+-rw-rw-r-- root/root       195 2017-05-03 03:58 ansible-gerrit-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-03 03:58 ansible-gerrit-master/meta/
+-rw-rw-r-- root/root       256 2017-05-03 03:58 ansible-gerrit-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-03 03:58 ansible-gerrit-master/tasks/
+-rw-rw-r-- root/root      7918 2017-05-03 03:58 ansible-gerrit-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-03 03:58 ansible-gerrit-master/templates/
+-rw-rw-r-- root/root        96 2017-05-03 03:58 ansible-gerrit-master/templates/gerrit.config.j2
+-rw-rw-r-- root/root        85 2017-05-03 03:58 ansible-gerrit-master/templates/gerritcodereview.j2
+-rw-rw-r-- root/root        96 2017-05-03 03:58 ansible-gerrit-master/templates/secure.config.j2

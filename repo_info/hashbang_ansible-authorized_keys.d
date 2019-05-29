@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-11-17 13:04 ansible-authorized_keys.d-master/
+-rw-rw-r-- root/root       187 2017-11-17 13:04 ansible-authorized_keys.d-master/.travis.yml
+-rw-rw-r-- root/root      1480 2017-11-17 13:04 ansible-authorized_keys.d-master/README.md
+drwxrwxr-x root/root         0 2017-11-17 13:04 ansible-authorized_keys.d-master/defaults/
+-rw-rw-r-- root/root        14 2017-11-17 13:04 ansible-authorized_keys.d-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-17 13:04 ansible-authorized_keys.d-master/handlers/
+-rw-rw-r-- root/root        92 2017-11-17 13:04 ansible-authorized_keys.d-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-17 13:04 ansible-authorized_keys.d-master/meta/
+-rw-rw-r-- root/root       311 2017-11-17 13:04 ansible-authorized_keys.d-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-17 13:04 ansible-authorized_keys.d-master/tasks/
+-rw-rw-r-- root/root       815 2017-11-17 13:04 ansible-authorized_keys.d-master/tasks/main.yml

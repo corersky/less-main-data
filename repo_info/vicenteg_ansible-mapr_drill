@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-10-01 21:53 ansible-mapr_drill-master/
+-rw-rw-r-- root/root       383 2016-10-01 21:53 ansible-mapr_drill-master/README.md
+drwxrwxr-x root/root         0 2016-10-01 21:53 ansible-mapr_drill-master/defaults/
+-rw-rw-r-- root/root       179 2016-10-01 21:53 ansible-mapr_drill-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-01 21:53 ansible-mapr_drill-master/handlers/
+-rw-rw-r-- root/root       496 2016-10-01 21:53 ansible-mapr_drill-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-01 21:53 ansible-mapr_drill-master/meta/
+-rw-rw-r-- root/root      2053 2016-10-01 21:53 ansible-mapr_drill-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-01 21:53 ansible-mapr_drill-master/tasks/
+-rw-rw-r-- root/root      4133 2016-10-01 21:53 ansible-mapr_drill-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-01 21:53 ansible-mapr_drill-master/templates/
+-rw-rw-r-- root/root       483 2016-10-01 21:53 ansible-mapr_drill-master/templates/hive-storage-plugin.json.j2
+drwxrwxr-x root/root         0 2016-10-01 21:53 ansible-mapr_drill-master/vars/
+-rw-rw-r-- root/root        31 2016-10-01 21:53 ansible-mapr_drill-master/vars/main.yml

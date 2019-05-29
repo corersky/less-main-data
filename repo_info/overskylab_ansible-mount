@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-10 04:19 ansible-mount-master/
+-rw-rw-r-- root/root      1056 2019-01-10 04:19 ansible-mount-master/LICENSE
+-rw-rw-r-- root/root       235 2019-01-10 04:19 ansible-mount-master/README.md
+drwxrwxr-x root/root         0 2019-01-10 04:19 ansible-mount-master/defaults/
+-rw-rw-r-- root/root       343 2019-01-10 04:19 ansible-mount-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-10 04:19 ansible-mount-master/handlers/
+-rw-rw-r-- root/root         4 2019-01-10 04:19 ansible-mount-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-10 04:19 ansible-mount-master/meta/
+-rw-rw-r-- root/root       281 2019-01-10 04:19 ansible-mount-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-10 04:19 ansible-mount-master/tasks/
+-rw-rw-r-- root/root       253 2019-01-10 04:19 ansible-mount-master/tasks/main.yml
+-rw-rw-r-- root/root       330 2019-01-10 04:19 ansible-mount-master/tasks/mount_install.yml
+-rw-rw-r-- root/root       247 2019-01-10 04:19 ansible-mount-master/tasks/mount_post.yml
+-rw-rw-r-- root/root         4 2019-01-10 04:19 ansible-mount-master/tasks/mount_pre.yml
+drwxrwxr-x root/root         0 2019-01-10 04:19 ansible-mount-master/vars/
+-rw-rw-r-- root/root         4 2019-01-10 04:19 ansible-mount-master/vars/default.yml

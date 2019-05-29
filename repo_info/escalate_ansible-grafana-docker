@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-grafana-docker-master/
+-rw-rw-r-- root/root      1070 2018-01-18 06:02 ansible-grafana-docker-master/LICENSE
+-rw-rw-r-- root/root       873 2018-01-18 06:02 ansible-grafana-docker-master/README.md
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-grafana-docker-master/defaults/
+-rw-rw-r-- root/root       633 2018-01-18 06:02 ansible-grafana-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-grafana-docker-master/handlers/
+-rw-rw-r-- root/root       159 2018-01-18 06:02 ansible-grafana-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-grafana-docker-master/meta/
+-rw-rw-r-- root/root       425 2018-01-18 06:02 ansible-grafana-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-grafana-docker-master/tasks/
+-rw-rw-r-- root/root      3830 2018-01-18 06:02 ansible-grafana-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-grafana-docker-master/templates/
+-rw-rw-r-- root/root       686 2018-01-18 06:02 ansible-grafana-docker-master/templates/docker.grafana.service.j2
+-rw-rw-r-- root/root       128 2018-01-18 06:02 ansible-grafana-docker-master/templates/grafana.env.j2
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-grafana-docker-master/vars/
+-rw-rw-r-- root/root        52 2018-01-18 06:02 ansible-grafana-docker-master/vars/armv7.yml

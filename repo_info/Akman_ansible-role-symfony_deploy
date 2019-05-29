@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-16 06:53 ansible-role-symfony_deploy-master/
+-rw-rw-r-- root/root        29 2018-09-16 06:53 ansible-role-symfony_deploy-master/.gitignore
+-rw-rw-r-- root/root      1085 2018-09-16 06:53 ansible-role-symfony_deploy-master/LICENSE
+-rw-rw-r-- root/root       824 2018-09-16 06:53 ansible-role-symfony_deploy-master/README.md
+drwxrwxr-x root/root         0 2018-09-16 06:53 ansible-role-symfony_deploy-master/defaults/
+-rw-rw-r-- root/root       144 2018-09-16 06:53 ansible-role-symfony_deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-16 06:53 ansible-role-symfony_deploy-master/meta/
+-rw-rw-r-- root/root       377 2018-09-16 06:53 ansible-role-symfony_deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-16 06:53 ansible-role-symfony_deploy-master/tasks/
+-rw-rw-r-- root/root       489 2018-09-16 06:53 ansible-role-symfony_deploy-master/tasks/folders.yml
+-rw-rw-r-- root/root       137 2018-09-16 06:53 ansible-role-symfony_deploy-master/tasks/main.yml
+-rw-rw-r-- root/root       518 2018-09-16 06:53 ansible-role-symfony_deploy-master/tasks/permissions.yml
+-rw-rw-r-- root/root       634 2018-09-16 06:53 ansible-role-symfony_deploy-master/tasks/setup.yml
+-rw-rw-r-- root/root       191 2018-09-16 06:53 ansible-role-symfony_deploy-master/tasks/symlinks.yml

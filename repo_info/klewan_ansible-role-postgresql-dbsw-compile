@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/
+-rw-rw-r-- root/root     35149 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/LICENSE
+-rw-rw-r-- root/root      3952 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/defaults/
+-rw-rw-r-- root/root      1598 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/meta/
+-rw-rw-r-- root/root       286 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/tasks/
+-rw-rw-r-- root/root      4965 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/templates/
+-rw-rw-r-- root/root       997 2019-01-11 17:29 ansible-role-postgresql-dbsw-compile-master/templates/compile_from_source.sh.j2

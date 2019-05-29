@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2019-04-25 02:42 ansible-role-nested-virtualization-master/
+-rw-rw-r-- root/root        37 2019-04-25 02:42 ansible-role-nested-virtualization-master/.gitignore
+-rw-rw-r-- root/root       809 2019-04-25 02:42 ansible-role-nested-virtualization-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-04-25 02:42 ansible-role-nested-virtualization-master/LICENSE
+-rw-rw-r-- root/root       739 2019-04-25 02:42 ansible-role-nested-virtualization-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 02:42 ansible-role-nested-virtualization-master/defaults/
+-rw-rw-r-- root/root        43 2019-04-25 02:42 ansible-role-nested-virtualization-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 02:42 ansible-role-nested-virtualization-master/meta/
+-rw-rw-r-- root/root       309 2019-04-25 02:42 ansible-role-nested-virtualization-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 02:42 ansible-role-nested-virtualization-master/tasks/
+-rw-rw-r-- root/root      2510 2019-04-25 02:42 ansible-role-nested-virtualization-master/tasks/main.yml
+-rw-rw-r-- root/root       296 2019-04-25 02:42 ansible-role-nested-virtualization-master/tasks/reload-module.yml
+drwxrwxr-x root/root         0 2019-04-25 02:42 ansible-role-nested-virtualization-master/tests/
+-rw-rw-r-- root/root        84 2019-04-25 02:42 ansible-role-nested-virtualization-master/tests/inventory
+-rw-rw-r-- root/root        18 2019-04-25 02:42 ansible-role-nested-virtualization-master/tests/requirements.txt
+-rw-rw-r-- root/root        68 2019-04-25 02:42 ansible-role-nested-virtualization-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2019-04-25 02:42 ansible-role-nested-virtualization-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-04-25 02:42 ansible-role-nested-virtualization-master/tests/roles/nested-virtualization -> ../../
+-rw-rw-r-- root/root       848 2019-04-25 02:42 ansible-role-nested-virtualization-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-25 02:42 ansible-role-nested-virtualization-master/vars/
+-rw-rw-r-- root/root       112 2019-04-25 02:42 ansible-role-nested-virtualization-master/vars/main.yml

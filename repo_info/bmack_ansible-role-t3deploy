@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-01-15 04:51 ansible-role-t3deploy-master/
+-rw-rw-r-- root/root       539 2016-01-15 04:51 ansible-role-t3deploy-master/.travis.yml
+-rw-rw-r-- root/root      1072 2016-01-15 04:51 ansible-role-t3deploy-master/LICENSE
+-rw-rw-r-- root/root      3705 2016-01-15 04:51 ansible-role-t3deploy-master/README.md
+drwxrwxr-x root/root         0 2016-01-15 04:51 ansible-role-t3deploy-master/defaults/
+-rw-rw-r-- root/root      1597 2016-01-15 04:51 ansible-role-t3deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-15 04:51 ansible-role-t3deploy-master/meta/
+-rw-rw-r-- root/root       672 2016-01-15 04:51 ansible-role-t3deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-15 04:51 ansible-role-t3deploy-master/tasks/
+-rw-rw-r-- root/root      2938 2016-01-15 04:51 ansible-role-t3deploy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-15 04:51 ansible-role-t3deploy-master/tests/
+-rw-rw-r-- root/root         9 2016-01-15 04:51 ansible-role-t3deploy-master/tests/inventory
+-rw-rw-r-- root/root        59 2016-01-15 04:51 ansible-role-t3deploy-master/tests/test.yml

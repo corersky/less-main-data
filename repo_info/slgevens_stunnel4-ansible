@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-05 05:37 ansible-stunnel4-master/
+-rw-rw-r-- root/root         2 2017-01-05 05:37 ansible-stunnel4-master/.gitignore
+-rw-rw-r-- root/root      1071 2017-01-05 05:37 ansible-stunnel4-master/LICENSE
+-rw-rw-r-- root/root       691 2017-01-05 05:37 ansible-stunnel4-master/README.rst
+drwxrwxr-x root/root         0 2017-01-05 05:37 ansible-stunnel4-master/defaults/
+-rw-rw-r-- root/root       171 2017-01-05 05:37 ansible-stunnel4-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-05 05:37 ansible-stunnel4-master/handlers/
+-rw-rw-r-- root/root       134 2017-01-05 05:37 ansible-stunnel4-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-05 05:37 ansible-stunnel4-master/meta/
+-rw-rw-r-- root/root       339 2017-01-05 05:37 ansible-stunnel4-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-05 05:37 ansible-stunnel4-master/tasks/
+-rw-rw-r-- root/root       521 2017-01-05 05:37 ansible-stunnel4-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-05 05:37 ansible-stunnel4-master/templates/
+-rw-rw-r-- root/root      1427 2017-01-05 05:37 ansible-stunnel4-master/templates/stunnel4.conf.j2

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-01-30 02:56 ansible-role-docker-master/
+-rw-rw-r-- root/root       289 2019-01-30 02:56 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2019-01-30 02:56 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       243 2019-01-30 02:56 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-30 02:56 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        76 2019-01-30 02:56 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-30 02:56 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       274 2019-01-30 02:56 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-30 02:56 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       345 2019-01-30 02:56 ansible-role-docker-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       315 2019-01-30 02:56 ansible-role-docker-master/tasks/main.yml

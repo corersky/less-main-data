@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-25 10:35 ansible-role-docker-master/
+-rw-rw-r-- root/root      1078 2019-03-25 10:35 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       457 2019-03-25 10:35 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2019-03-25 10:35 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       212 2019-03-25 10:35 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-25 10:35 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       542 2019-03-25 10:35 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 10:35 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       371 2019-03-25 10:35 ansible-role-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       164 2019-03-25 10:35 ansible-role-docker-master/tasks/user.yml
+drwxrwxr-x root/root         0 2019-03-25 10:35 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root        97 2019-03-25 10:35 ansible-role-docker-master/templates/daemon.json
+-rw-rw-r-- root/root     13075 2019-03-25 10:35 ansible-role-docker-master/templates/get_docker.sh
+drwxrwxr-x root/root         0 2019-03-25 10:35 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root        10 2019-03-25 10:35 ansible-role-docker-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-03-25 10:35 ansible-role-docker-master/tests/main.yml

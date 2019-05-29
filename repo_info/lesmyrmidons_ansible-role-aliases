@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-26 10:18 ansible-role-aliases-master/
+-rw-rw-r-- root/root      1698 2019-04-26 10:18 ansible-role-aliases-master/.travis.yml
+-rw-rw-r-- root/root      1081 2019-04-26 10:18 ansible-role-aliases-master/LICENSE
+-rw-rw-r-- root/root       636 2019-04-26 10:18 ansible-role-aliases-master/README.md
+drwxrwxr-x root/root         0 2019-04-26 10:18 ansible-role-aliases-master/defaults/
+-rw-rw-r-- root/root        63 2019-04-26 10:18 ansible-role-aliases-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-26 10:18 ansible-role-aliases-master/meta/
+-rw-rw-r-- root/root       339 2019-04-26 10:18 ansible-role-aliases-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-26 10:18 ansible-role-aliases-master/tasks/
+-rw-rw-r-- root/root       702 2019-04-26 10:18 ansible-role-aliases-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-26 10:18 ansible-role-aliases-master/tests/
+-rw-rw-r-- root/root       380 2019-04-26 10:18 ansible-role-aliases-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1027 2019-04-26 10:18 ansible-role-aliases-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root       343 2019-04-26 10:18 ansible-role-aliases-master/tests/Dockerfile.ubuntu-12.04
+-rw-rw-r-- root/root       316 2019-04-26 10:18 ansible-role-aliases-master/tests/Dockerfile.ubuntu-14.04
+-rw-rw-r-- root/root        10 2019-04-26 10:18 ansible-role-aliases-master/tests/inventory
+-rw-rw-r-- root/root        86 2019-04-26 10:18 ansible-role-aliases-master/tests/test.yml

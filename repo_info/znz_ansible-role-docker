@@ -1,0 +1,36 @@
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/
+-rw-rw-r-- root/root      1085 2017-06-15 00:09 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       688 2017-06-15 00:09 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       148 2017-06-15 00:09 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/
+-rw-rw-r-- root/root        24 2017-06-15 00:09 ansible-role-docker-master/examples/.gitignore
+-rw-rw-r-- root/root        31 2017-06-15 00:09 ansible-role-docker-master/examples/.rspec
+-rw-rw-r-- root/root       685 2017-06-15 00:09 ansible-role-docker-master/examples/Rakefile
+-rw-rw-r-- root/root      1696 2017-06-15 00:09 ansible-role-docker-master/examples/Vagrantfile
+-rw-rw-r-- root/root       184 2017-06-15 00:09 ansible-role-docker-master/examples/playbook.yml
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/roles/znz.docker -> ../..
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/spec/
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/spec/default/
+-rw-rw-r-- root/root        93 2017-06-15 00:09 ansible-role-docker-master/examples/spec/default/docker_spec.rb
+lrwxrwxrwx root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/spec/jessie64 -> default
+-rw-rw-r-- root/root       829 2017-06-15 00:09 ansible-role-docker-master/examples/spec/spec_helper.rb
+lrwxrwxrwx root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/spec/stretch64 -> default
+lrwxrwxrwx root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/spec/trusty64 -> default
+lrwxrwxrwx root/root         0 2017-06-15 00:09 ansible-role-docker-master/examples/spec/xenial64 -> default
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/files/
+-rw-rw-r-- root/root      3880 2017-06-15 00:09 ansible-role-docker-master/files/docker.asc
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        63 2017-06-15 00:09 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       315 2017-06-15 00:09 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       429 2017-06-15 00:09 ansible-role-docker-master/tasks/docker-ce.yml
+-rw-rw-r-- root/root       363 2017-06-15 00:09 ansible-role-docker-master/tasks/docker-engine.yml
+-rw-rw-r-- root/root      1024 2017-06-15 00:09 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root        67 2017-06-15 00:09 ansible-role-docker-master/templates/daemon.json.j2
+drwxrwxr-x root/root         0 2017-06-15 00:09 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root        10 2017-06-15 00:09 ansible-role-docker-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-06-15 00:09 ansible-role-docker-master/tests/test.yml

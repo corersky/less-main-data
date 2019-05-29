@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-04-18 07:53 ansible-passenger-master/
+-rw-rw-r-- root/root       738 2016-04-18 07:53 ansible-passenger-master/README.md
+drwxrwxr-x root/root         0 2016-04-18 07:53 ansible-passenger-master/defaults/
+-rw-rw-r-- root/root       228 2016-04-18 07:53 ansible-passenger-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-18 07:53 ansible-passenger-master/handlers/
+-rw-rw-r-- root/root        72 2016-04-18 07:53 ansible-passenger-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-18 07:53 ansible-passenger-master/meta/
+-rw-rw-r-- root/root       435 2016-04-18 07:53 ansible-passenger-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-18 07:53 ansible-passenger-master/tasks/
+-rw-rw-r-- root/root       992 2016-04-18 07:53 ansible-passenger-master/tasks/main.yml
+-rw-rw-r-- root/root       467 2016-04-18 07:53 ansible-passenger-master/tasks/repository.yml
+drwxrwxr-x root/root         0 2016-04-18 07:53 ansible-passenger-master/templates/
+-rw-rw-r-- root/root       213 2016-04-18 07:53 ansible-passenger-master/templates/passenger.conf.j2
+-rw-rw-r-- root/root        49 2016-04-18 07:53 ansible-passenger-master/templates/passenger.load.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-07 00:24 ansible-role-odbc-master/
+-rw-rw-r-- root/root      1409 2017-03-07 00:24 ansible-role-odbc-master/README.md
+drwxrwxr-x root/root         0 2017-03-07 00:24 ansible-role-odbc-master/defaults/
+-rw-rw-r-- root/root       291 2017-03-07 00:24 ansible-role-odbc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-07 00:24 ansible-role-odbc-master/files/
+-rw-rw-r-- root/root         0 2017-03-07 00:24 ansible-role-odbc-master/files/.gitkeep
+drwxrwxr-x root/root         0 2017-03-07 00:24 ansible-role-odbc-master/handlers/
+-rw-rw-r-- root/root        38 2017-03-07 00:24 ansible-role-odbc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-07 00:24 ansible-role-odbc-master/meta/
+-rw-rw-r-- root/root       241 2017-03-07 00:24 ansible-role-odbc-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-07 00:24 ansible-role-odbc-master/tasks/
+-rw-rw-r-- root/root       354 2017-03-07 00:24 ansible-role-odbc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-07 00:24 ansible-role-odbc-master/templates/
+-rw-rw-r-- root/root       797 2017-03-07 00:24 ansible-role-odbc-master/templates/etc_odbc.j2
+drwxrwxr-x root/root         0 2017-03-07 00:24 ansible-role-odbc-master/vars/
+-rw-rw-r-- root/root        58 2017-03-07 00:24 ansible-role-odbc-master/vars/main.yml

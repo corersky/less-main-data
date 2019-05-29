@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-11-15 09:49 ansible-role-phpmyadmin-master/
+-rw-rw-r-- root/root       453 2015-11-15 09:49 ansible-role-phpmyadmin-master/README.md
+drwxrwxr-x root/root         0 2015-11-15 09:49 ansible-role-phpmyadmin-master/defaults/
+-rw-rw-r-- root/root        80 2015-11-15 09:49 ansible-role-phpmyadmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-15 09:49 ansible-role-phpmyadmin-master/meta/
+-rw-rw-r-- root/root       408 2015-11-15 09:49 ansible-role-phpmyadmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-15 09:49 ansible-role-phpmyadmin-master/tasks/
+-rw-rw-r-- root/root       878 2015-11-15 09:49 ansible-role-phpmyadmin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-15 09:49 ansible-role-phpmyadmin-master/templates/
+-rw-rw-r-- root/root       905 2015-11-15 09:49 ansible-role-phpmyadmin-master/templates/debconf.j2

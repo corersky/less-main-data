@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-31 10:26 backupninja-role-master/
+-rw-rw-r-- root/root       856 2019-01-31 10:26 backupninja-role-master/99-report.sh.j2
+-rw-rw-r-- root/root        27 2019-01-31 10:26 backupninja-role-master/README.md
+drwxrwxr-x root/root         0 2019-01-31 10:26 backupninja-role-master/defaults/
+-rw-rw-r-- root/root      2542 2019-01-31 10:26 backupninja-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:26 backupninja-role-master/meta/
+-rw-rw-r-- root/root       249 2019-01-31 10:26 backupninja-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:26 backupninja-role-master/tasks/
+-rw-rw-r-- root/root        86 2019-01-31 10:26 backupninja-role-master/tasks/Centos-install.yml
+-rw-rw-r-- root/root        86 2019-01-31 10:26 backupninja-role-master/tasks/Ubuntu-install.yml
+-rw-rw-r-- root/root      1841 2019-01-31 10:26 backupninja-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:26 backupninja-role-master/templates/
+-rw-rw-r-- root/root       345 2019-01-31 10:26 backupninja-role-master/templates/20.mysql.j2
+-rw-rw-r-- root/root       620 2019-01-31 10:26 backupninja-role-master/templates/90.rdiff.j2
+-rw-rw-r-- root/root      1679 2019-01-31 10:26 backupninja-role-master/templates/backup_rsa
+-rw-rw-r-- root/root      2479 2019-01-31 10:26 backupninja-role-master/templates/backupninja.conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-07 12:59 ansible-role-docker-master/
+-rw-rw-r-- root/root      1072 2018-01-07 12:59 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       592 2018-01-07 12:59 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2018-01-07 12:59 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        45 2018-01-07 12:59 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-07 12:59 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        44 2018-01-07 12:59 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-07 12:59 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       225 2018-01-07 12:59 ansible-role-docker-master/meta/main.yml
+-rw-rw-r-- root/root       211 2018-01-07 12:59 ansible-role-docker-master/molecule.yml
+drwxrwxr-x root/root         0 2018-01-07 12:59 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       650 2018-01-07 12:59 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-07 12:59 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root        67 2018-01-07 12:59 ansible-role-docker-master/tests/test.yml
+-rw-rw-r-- root/root       329 2018-01-07 12:59 ansible-role-docker-master/tests/test_role.py
+drwxrwxr-x root/root         0 2018-01-07 12:59 ansible-role-docker-master/vars/
+-rw-rw-r-- root/root       116 2018-01-07 12:59 ansible-role-docker-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-01-16 16:54 ansible-flowdoh-master/
+-rw-rw-r-- root/root      2010 2015-01-16 16:54 ansible-flowdoh-master/README.md
+drwxrwxr-x root/root         0 2015-01-16 16:54 ansible-flowdoh-master/defaults/
+-rw-rw-r-- root/root       456 2015-01-16 16:54 ansible-flowdoh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-16 16:54 ansible-flowdoh-master/handlers/
+-rw-rw-r-- root/root        32 2015-01-16 16:54 ansible-flowdoh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-01-16 16:54 ansible-flowdoh-master/meta/
+-rw-rw-r-- root/root      2165 2015-01-16 16:54 ansible-flowdoh-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-16 16:54 ansible-flowdoh-master/tasks/
+-rw-rw-r-- root/root      1525 2015-01-16 16:54 ansible-flowdoh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-16 16:54 ansible-flowdoh-master/templates/
+-rw-rw-r-- root/root      1841 2015-01-16 16:54 ansible-flowdoh-master/templates/flowdoh.conf.j2
+drwxrwxr-x root/root         0 2015-01-16 16:54 ansible-flowdoh-master/vars/
+-rw-rw-r-- root/root        28 2015-01-16 16:54 ansible-flowdoh-master/vars/main.yml

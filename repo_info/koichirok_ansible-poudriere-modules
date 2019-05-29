@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-20 19:41 ansible-poudriere-modules-master/
+-rw-rw-r-- root/root      1241 2019-01-20 19:41 ansible-poudriere-modules-master/.gitignore
+-rw-rw-r-- root/root     34523 2019-01-20 19:41 ansible-poudriere-modules-master/LICENSE
+-rw-rw-r-- root/root       520 2019-01-20 19:41 ansible-poudriere-modules-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 19:41 ansible-poudriere-modules-master/library/
+-rw-rw-r-- root/root      8630 2019-01-20 19:41 ansible-poudriere-modules-master/library/poudriere_jail.py
+-rw-rw-r-- root/root      5200 2019-01-20 19:41 ansible-poudriere-modules-master/library/poudriere_ports.py
+-rw-rw-r-- root/root      3188 2019-01-20 19:41 ansible-poudriere-modules-master/library/poudriere_testport.py
+drwxrwxr-x root/root         0 2019-01-20 19:41 ansible-poudriere-modules-master/meta/
+-rw-rw-r-- root/root       300 2019-01-20 19:41 ansible-poudriere-modules-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 19:41 ansible-poudriere-modules-master/module_utils/
+-rw-rw-r-- root/root      2709 2019-01-20 19:41 ansible-poudriere-modules-master/module_utils/poudriere.py
+drwxrwxr-x root/root         0 2019-01-20 19:41 ansible-poudriere-modules-master/tests/
+-rw-rw-r-- root/root        52 2019-01-20 19:41 ansible-poudriere-modules-master/tests/ansible.cfg
+-rw-rw-r-- root/root       109 2019-01-20 19:41 ansible-poudriere-modules-master/tests/test.yml
+-rwxrwxr-x root/root       150 2019-01-20 19:41 ansible-poudriere-modules-master/tests/tests.sh

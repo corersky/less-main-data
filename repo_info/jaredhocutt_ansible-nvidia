@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-nvidia-master/
+-rw-rw-r-- root/root       195 2018-08-01 21:37 ansible-nvidia-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-nvidia-master/defaults/
+-rw-rw-r-- root/root        30 2018-08-01 21:37 ansible-nvidia-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-nvidia-master/handlers/
+-rw-rw-r-- root/root        30 2018-08-01 21:37 ansible-nvidia-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-nvidia-master/meta/
+-rw-rw-r-- root/root       194 2018-08-01 21:37 ansible-nvidia-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-nvidia-master/tasks/
+-rw-rw-r-- root/root       789 2018-08-01 21:37 ansible-nvidia-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-nvidia-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:37 ansible-nvidia-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-08-01 21:37 ansible-nvidia-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:37 ansible-nvidia-master/vars/
+-rw-rw-r-- root/root        26 2018-08-01 21:37 ansible-nvidia-master/vars/main.yml

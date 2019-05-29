@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-08-27 20:11 ansible-nodejs-master/
+-rw-rw-r-- root/root        43 2015-08-27 20:11 ansible-nodejs-master/.gitignore
+-rw-rw-r-- root/root      1096 2015-08-27 20:11 ansible-nodejs-master/LICENSE
+-rw-rw-r-- root/root      1451 2015-08-27 20:11 ansible-nodejs-master/README.md
+-rw-rw-r-- root/root      1189 2015-08-27 20:11 ansible-nodejs-master/circle.yml
+drwxrwxr-x root/root         0 2015-08-27 20:11 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root        80 2015-08-27 20:11 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-27 20:11 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       316 2015-08-27 20:11 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-27 20:11 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root      1771 2015-08-27 20:11 ansible-nodejs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-27 20:11 ansible-nodejs-master/tests/
+-rw-rw-r-- root/root         9 2015-08-27 20:11 ansible-nodejs-master/tests/inventory
+-rw-rw-r-- root/root        94 2015-08-27 20:11 ansible-nodejs-master/tests/test.yml

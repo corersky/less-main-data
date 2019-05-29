@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-18 16:21 nextcloud-containerized-master/
+-rw-rw-r-- root/root         6 2018-07-18 16:21 nextcloud-containerized-master/.gitignore
+-rw-rw-r-- root/root     35147 2018-07-18 16:21 nextcloud-containerized-master/LICENSE
+-rw-rw-r-- root/root       800 2018-07-18 16:21 nextcloud-containerized-master/README.md
+drwxrwxr-x root/root         0 2018-07-18 16:21 nextcloud-containerized-master/defaults/
+-rw-rw-r-- root/root       622 2018-07-18 16:21 nextcloud-containerized-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-18 16:21 nextcloud-containerized-master/meta/
+-rw-rw-r-- root/root       289 2018-07-18 16:21 nextcloud-containerized-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-18 16:21 nextcloud-containerized-master/tasks/
+-rw-rw-r-- root/root      1537 2018-07-18 16:21 nextcloud-containerized-master/tasks/containers.yml
+-rw-rw-r-- root/root       207 2018-07-18 16:21 nextcloud-containerized-master/tasks/files.yml
+-rw-rw-r-- root/root        98 2018-07-18 16:21 nextcloud-containerized-master/tasks/main.yml
+-rw-rw-r-- root/root       227 2018-07-18 16:21 nextcloud-containerized-master/tasks/volumes.yml
+drwxrwxr-x root/root         0 2018-07-18 16:21 nextcloud-containerized-master/templates/
+-rw-rw-r-- root/root      3461 2018-07-18 16:21 nextcloud-containerized-master/templates/nginx.conf.j2

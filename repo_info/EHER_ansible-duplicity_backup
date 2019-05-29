@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-01-17 18:38 ansible-duplicity_backup-master/
+-rw-rw-r-- root/root      2374 2016-01-17 18:38 ansible-duplicity_backup-master/README.md
+drwxrwxr-x root/root         0 2016-01-17 18:38 ansible-duplicity_backup-master/meta/
+-rw-rw-r-- root/root       334 2016-01-17 18:38 ansible-duplicity_backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-17 18:38 ansible-duplicity_backup-master/tasks/
+-rw-rw-r-- root/root       965 2016-01-17 18:38 ansible-duplicity_backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-17 18:38 ansible-duplicity_backup-master/templates/
+-rw-rw-r-- root/root      1179 2016-01-17 18:38 ansible-duplicity_backup-master/templates/dot-s3cfg.j2
+-rw-rw-r-- root/root      5614 2016-01-17 18:38 ansible-duplicity_backup-master/templates/duplicity-backup.conf.j2
+drwxrwxr-x root/root         0 2016-01-17 18:38 ansible-duplicity_backup-master/vars/
+-rw-rw-r-- root/root       104 2016-01-17 18:38 ansible-duplicity_backup-master/vars/main.yml

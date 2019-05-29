@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-08 07:03 ansible-role-pritunl-master/
+-rw-rw-r-- root/root       539 2017-04-08 07:03 ansible-role-pritunl-master/.travis.yml
+-rw-rw-r-- root/root       355 2017-04-08 07:03 ansible-role-pritunl-master/README.md
+drwxrwxr-x root/root         0 2017-04-08 07:03 ansible-role-pritunl-master/defaults/
+-rw-rw-r-- root/root       121 2017-04-08 07:03 ansible-role-pritunl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-08 07:03 ansible-role-pritunl-master/handlers/
+-rw-rw-r-- root/root       107 2017-04-08 07:03 ansible-role-pritunl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-08 07:03 ansible-role-pritunl-master/meta/
+-rw-rw-r-- root/root       318 2017-04-08 07:03 ansible-role-pritunl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-08 07:03 ansible-role-pritunl-master/tasks/
+-rw-rw-r-- root/root       725 2017-04-08 07:03 ansible-role-pritunl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-08 07:03 ansible-role-pritunl-master/templates/
+-rw-rw-r-- root/root       339 2017-04-08 07:03 ansible-role-pritunl-master/templates/pritunl.conf.j2
+drwxrwxr-x root/root         0 2017-04-08 07:03 ansible-role-pritunl-master/tests/
+-rw-rw-r-- root/root         9 2017-04-08 07:03 ansible-role-pritunl-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-04-08 07:03 ansible-role-pritunl-master/tests/test.yml

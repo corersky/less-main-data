@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-09-21 10:07 ansible-role-php5-master/
+-rw-rw-r-- root/root         7 2018-09-21 10:07 ansible-role-php5-master/.gitignore
+-rw-rw-r-- root/root       928 2018-09-21 10:07 ansible-role-php5-master/README.md
+drwxrwxr-x root/root         0 2018-09-21 10:07 ansible-role-php5-master/defaults/
+-rw-rw-r-- root/root       280 2018-09-21 10:07 ansible-role-php5-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-21 10:07 ansible-role-php5-master/handlers/
+-rw-rw-r-- root/root        85 2018-09-21 10:07 ansible-role-php5-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-21 10:07 ansible-role-php5-master/meta/
+-rw-rw-r-- root/root       388 2018-09-21 10:07 ansible-role-php5-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-21 10:07 ansible-role-php5-master/tasks/
+-rw-rw-r-- root/root        93 2018-09-21 10:07 ansible-role-php5-master/tasks/main.yml
+-rw-rw-r-- root/root      1677 2018-09-21 10:07 ansible-role-php5-master/tasks/provision.yml

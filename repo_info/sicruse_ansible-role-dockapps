@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-21 14:46 ansible-role-dockapps-master/
+-rw-rw-r-- root/root       539 2017-02-21 14:46 ansible-role-dockapps-master/.travis.yml
+-rw-rw-r-- root/root      2737 2017-02-21 14:46 ansible-role-dockapps-master/README.md
+drwxrwxr-x root/root         0 2017-02-21 14:46 ansible-role-dockapps-master/defaults/
+-rw-rw-r-- root/root        33 2017-02-21 14:46 ansible-role-dockapps-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-21 14:46 ansible-role-dockapps-master/handlers/
+-rw-rw-r-- root/root        33 2017-02-21 14:46 ansible-role-dockapps-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-21 14:46 ansible-role-dockapps-master/meta/
+-rw-rw-r-- root/root      3995 2017-02-21 14:46 ansible-role-dockapps-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-21 14:46 ansible-role-dockapps-master/tasks/
+-rw-rw-r-- root/root      1226 2017-02-21 14:46 ansible-role-dockapps-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-21 14:46 ansible-role-dockapps-master/tests/
+-rw-rw-r-- root/root         9 2017-02-21 14:46 ansible-role-dockapps-master/tests/inventory
+-rw-rw-r-- root/root       214 2017-02-21 14:46 ansible-role-dockapps-master/tests/test.yml
+-rw-rw-r-- root/root       747 2017-02-21 14:46 ansible-role-dockapps-master/tests/test_vars.yml

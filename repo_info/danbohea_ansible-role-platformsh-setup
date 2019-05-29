@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-16 07:24 ansible-role-platformsh-setup-master/
+-rw-rw-r-- root/root       508 2018-03-16 07:24 ansible-role-platformsh-setup-master/.travis.yml
+-rw-rw-r-- root/root      2416 2018-03-16 07:24 ansible-role-platformsh-setup-master/README.md
+drwxrwxr-x root/root         0 2018-03-16 07:24 ansible-role-platformsh-setup-master/defaults/
+-rw-rw-r-- root/root      1203 2018-03-16 07:24 ansible-role-platformsh-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-16 07:24 ansible-role-platformsh-setup-master/meta/
+-rw-rw-r-- root/root       684 2018-03-16 07:24 ansible-role-platformsh-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-16 07:24 ansible-role-platformsh-setup-master/tasks/
+-rw-rw-r-- root/root      2540 2018-03-16 07:24 ansible-role-platformsh-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-16 07:24 ansible-role-platformsh-setup-master/templates/
+-rw-rw-r-- root/root       174 2018-03-16 07:24 ansible-role-platformsh-setup-master/templates/config.yaml
+-rw-rw-r-- root/root        23 2018-03-16 07:24 ansible-role-platformsh-setup-master/templates/token
+drwxrwxr-x root/root         0 2018-03-16 07:24 ansible-role-platformsh-setup-master/tests/
+-rw-rw-r-- root/root        10 2018-03-16 07:24 ansible-role-platformsh-setup-master/tests/inventory
+-rw-rw-r-- root/root        88 2018-03-16 07:24 ansible-role-platformsh-setup-master/tests/test.yml

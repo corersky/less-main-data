@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-20 18:55 ansible-role-lux-master/
+-rw-rw-r-- root/root       331 2019-01-20 18:55 ansible-role-lux-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 18:55 ansible-role-lux-master/COPYING
+-rw-rw-r-- root/root      1808 2019-01-20 18:55 ansible-role-lux-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 18:55 ansible-role-lux-master/defaults/
+-rw-rw-r-- root/root       236 2019-01-20 18:55 ansible-role-lux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:55 ansible-role-lux-master/meta/
+-rw-rw-r-- root/root       273 2019-01-20 18:55 ansible-role-lux-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:55 ansible-role-lux-master/tasks/
+-rw-rw-r-- root/root      2566 2019-01-20 18:55 ansible-role-lux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:55 ansible-role-lux-master/templates/
+-rw-rw-r-- root/root       324 2019-01-20 18:55 ansible-role-lux-master/templates/frank.repo.j2
+-rw-rw-r-- root/root       209 2019-01-20 18:55 ansible-role-lux-master/templates/lux.repo.j2
+drwxrwxr-x root/root         0 2019-01-20 18:55 ansible-role-lux-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 18:55 ansible-role-lux-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-01-20 18:55 ansible-role-lux-master/tests/test.yml

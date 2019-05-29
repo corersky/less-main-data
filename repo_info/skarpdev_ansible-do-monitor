@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-28 15:24 ansible-do-monitor-master/
+-rw-rw-r-- root/root      1066 2017-04-28 15:24 ansible-do-monitor-master/LICENSE
+-rw-rw-r-- root/root       562 2017-04-28 15:24 ansible-do-monitor-master/README.md
+drwxrwxr-x root/root         0 2017-04-28 15:24 ansible-do-monitor-master/defaults/
+-rw-rw-r-- root/root        42 2017-04-28 15:24 ansible-do-monitor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-28 15:24 ansible-do-monitor-master/handlers/
+-rw-rw-r-- root/root        42 2017-04-28 15:24 ansible-do-monitor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-28 15:24 ansible-do-monitor-master/meta/
+-rw-rw-r-- root/root       542 2017-04-28 15:24 ansible-do-monitor-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-28 15:24 ansible-do-monitor-master/tasks/
+-rw-rw-r-- root/root       433 2017-04-28 15:24 ansible-do-monitor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-28 15:24 ansible-do-monitor-master/tests/
+-rw-rw-r-- root/root        11 2017-04-28 15:24 ansible-do-monitor-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-04-28 15:24 ansible-do-monitor-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-28 15:24 ansible-do-monitor-master/vars/
+-rw-rw-r-- root/root        38 2017-04-28 15:24 ansible-do-monitor-master/vars/main.yml

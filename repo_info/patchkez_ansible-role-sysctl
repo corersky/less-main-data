@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-02 04:20 ansible-role-sysctl-master/
+-rw-rw-r-- root/root      1540 2018-04-02 04:20 ansible-role-sysctl-master/.travis.yml
+-rw-rw-r-- root/root      1327 2018-04-02 04:20 ansible-role-sysctl-master/README.md
+drwxrwxr-x root/root         0 2018-04-02 04:20 ansible-role-sysctl-master/defaults/
+-rw-rw-r-- root/root      2186 2018-04-02 04:20 ansible-role-sysctl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-02 04:20 ansible-role-sysctl-master/meta/
+-rw-rw-r-- root/root       293 2018-04-02 04:20 ansible-role-sysctl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-02 04:20 ansible-role-sysctl-master/tasks/
+-rw-rw-r-- root/root       989 2018-04-02 04:20 ansible-role-sysctl-master/tasks/configure.yml
+-rw-rw-r-- root/root       409 2018-04-02 04:20 ansible-role-sysctl-master/tasks/main.yml
+-rw-rw-r-- root/root       455 2018-04-02 04:20 ansible-role-sysctl-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2018-04-02 04:20 ansible-role-sysctl-master/tests/
+-rw-rw-r-- root/root        10 2018-04-02 04:20 ansible-role-sysctl-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-04-02 04:20 ansible-role-sysctl-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-02 04:20 ansible-role-sysctl-master/travis/
+-rw-rw-r-- root/root       923 2018-04-02 04:20 ansible-role-sysctl-master/travis/Dockerfile.centos-7
+-rw-rw-r-- root/root       395 2018-04-02 04:20 ansible-role-sysctl-master/travis/Dockerfile.ubuntu-xenial

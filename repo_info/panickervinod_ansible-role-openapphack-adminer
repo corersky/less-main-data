@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-adminer-master/
+-rw-rw-r-- root/root       960 2016-01-26 08:13 ansible-role-openapphack-adminer-master/.travis.yml
+-rw-rw-r-- root/root        54 2016-01-26 08:13 ansible-role-openapphack-adminer-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-adminer-master/defaults/
+-rw-rw-r-- root/root       134 2016-01-26 08:13 ansible-role-openapphack-adminer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-adminer-master/meta/
+-rw-rw-r-- root/root       342 2016-01-26 08:13 ansible-role-openapphack-adminer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-adminer-master/tasks/
+-rw-rw-r-- root/root      1327 2016-01-26 08:13 ansible-role-openapphack-adminer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-adminer-master/templates/
+-rw-rw-r-- root/root       235 2016-01-26 08:13 ansible-role-openapphack-adminer-master/templates/adminer.conf.j2
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-adminer-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:13 ansible-role-openapphack-adminer-master/tests/inventory
+-rw-rw-r-- root/root       162 2016-01-26 08:13 ansible-role-openapphack-adminer-master/tests/test-apache.yml
+-rw-rw-r-- root/root       176 2016-01-26 08:13 ansible-role-openapphack-adminer-master/tests/test-standalone.yml

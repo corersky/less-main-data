@@ -1,0 +1,41 @@
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/
+-rw-rw-r-- root/root       127 2019-05-03 01:18 ansible-role-docker-master/.flake8
+-rw-rw-r-- root/root        79 2019-05-03 01:18 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root       209 2019-05-03 01:18 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root       171 2019-05-03 01:18 ansible-role-docker-master/.yamllint
+-rw-rw-r-- root/root      1053 2019-05-03 01:18 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root      1176 2019-05-03 01:18 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       422 2019-05-03 01:18 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root       228 2019-05-03 01:18 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       441 2019-05-03 01:18 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/molecule/
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/molecule/default/
+-rw-rw-r-- root/root      2118 2019-05-03 01:18 ansible-role-docker-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2019-05-03 01:18 ansible-role-docker-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2019-05-03 01:18 ansible-role-docker-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2019-05-03 01:18 ansible-role-docker-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       698 2019-05-03 01:18 ansible-role-docker-master/molecule/default/molecule.yml
+lrwxrwxrwx root/root         0 2019-05-03 01:18 ansible-role-docker-master/molecule/default/nephelaiio.docker -> ../../
+-rw-rw-r-- root/root        73 2019-05-03 01:18 ansible-role-docker-master/molecule/default/playbook.yml
+lrwxrwxrwx root/root         0 2019-05-03 01:18 ansible-role-docker-master/molecule/default/requirements.yml -> ../../requirements.yml
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/molecule/default/roles/
+lrwxrwxrwx root/root         0 2019-05-03 01:18 ansible-role-docker-master/molecule/default/roles/nephelaiio.docker -> ../../../
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/molecule/default/tests/
+-rw-rw-r-- root/root       455 2019-05-03 01:18 ansible-role-docker-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1021 2019-05-03 01:18 ansible-role-docker-master/molecule/default/tests/test_default.pyc
+-rw-rw-r-- root/root        44 2019-05-03 01:18 ansible-role-docker-master/requirements.txt
+-rw-rw-r-- root/root        26 2019-05-03 01:18 ansible-role-docker-master/requirements.yml
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/roles/
+lrwxrwxrwx root/root         0 2019-05-03 01:18 ansible-role-docker-master/roles/docker -> .././
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root      3023 2019-05-03 01:18 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root        28 2019-05-03 01:18 ansible-role-docker-master/templates/mountflags.conf.j2
+drwxrwxr-x root/root         0 2019-05-03 01:18 ansible-role-docker-master/vars/
+-rw-rw-r-- root/root       117 2019-05-03 01:18 ansible-role-docker-master/vars/Archlinux.yml
+-rw-rw-r-- root/root       423 2019-05-03 01:18 ansible-role-docker-master/vars/Debian.yml
+-rw-rw-r-- root/root       244 2019-05-03 01:18 ansible-role-docker-master/vars/RedHat.yml
+-rw-rw-r-- root/root       467 2019-05-03 01:18 ansible-role-docker-master/vars/Ubuntu.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-25 02:39 generic_motd-master/
+-rw-rw-r-- root/root       555 2019-03-25 02:39 generic_motd-master/.travis.yml
+-rw-rw-r-- root/root     35141 2019-03-25 02:39 generic_motd-master/LICENSE
+-rw-rw-r-- root/root      1651 2019-03-25 02:39 generic_motd-master/README.md
+drwxrwxr-x root/root         0 2019-03-25 02:39 generic_motd-master/defaults/
+-rw-rw-r-- root/root       194 2019-03-25 02:39 generic_motd-master/defaults/main.yml
+-rw-rw-r-- root/root       773 2019-03-25 02:39 generic_motd-master/main.yml
+drwxrwxr-x root/root         0 2019-03-25 02:39 generic_motd-master/meta/
+-rw-rw-r-- root/root       901 2019-03-25 02:39 generic_motd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 02:39 generic_motd-master/tasks/
+-rw-rw-r-- root/root       438 2019-03-25 02:39 generic_motd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-25 02:39 generic_motd-master/templates/
+-rw-rw-r-- root/root       643 2019-03-25 02:39 generic_motd-master/templates/motd.j2
+drwxrwxr-x root/root         0 2019-03-25 02:39 generic_motd-master/vars/
+-rw-rw-r-- root/root        69 2019-03-25 02:39 generic_motd-master/vars/linux.yml
+-rw-rw-r-- root/root        70 2019-03-25 02:39 generic_motd-master/vars/macos.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-01 04:21 ansible-role-exim4-master/
+-rw-rw-r-- root/root      1071 2018-02-01 04:21 ansible-role-exim4-master/LICENSE
+-rw-rw-r-- root/root       890 2018-02-01 04:21 ansible-role-exim4-master/README.md
+drwxrwxr-x root/root         0 2018-02-01 04:21 ansible-role-exim4-master/defaults/
+-rw-rw-r-- root/root       466 2018-02-01 04:21 ansible-role-exim4-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-01 04:21 ansible-role-exim4-master/handlers/
+-rw-rw-r-- root/root        69 2018-02-01 04:21 ansible-role-exim4-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-01 04:21 ansible-role-exim4-master/meta/
+-rw-rw-r-- root/root       340 2018-02-01 04:21 ansible-role-exim4-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-01 04:21 ansible-role-exim4-master/tasks/
+-rw-rw-r-- root/root       453 2018-02-01 04:21 ansible-role-exim4-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-01 04:21 ansible-role-exim4-master/templates/
+-rw-rw-r-- root/root      1358 2018-02-01 04:21 ansible-role-exim4-master/templates/update-exim4.conf.conf.j2
+drwxrwxr-x root/root         0 2018-02-01 04:21 ansible-role-exim4-master/vars/
+-rw-rw-r-- root/root        28 2018-02-01 04:21 ansible-role-exim4-master/vars/Debian.yml

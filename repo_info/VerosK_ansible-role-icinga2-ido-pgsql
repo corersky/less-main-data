@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/
+-rw-rw-r-- root/root       701 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/README.md
+drwxrwxr-x root/root         0 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/defaults/
+-rw-rw-r-- root/root       387 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/handlers/
+-rw-rw-r-- root/root        73 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/meta/
+-rw-rw-r-- root/root       299 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/tasks/
+-rw-rw-r-- root/root       630 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/tasks/main.yml
+-rw-rw-r-- root/root       873 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/tasks/setup-database.yml
+drwxrwxr-x root/root         0 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/templates/
+-rw-rw-r-- root/root       502 2018-08-26 16:00 ansible-role-icinga2-ido-pgsql-master/templates/ido_pgsql.conf.j2

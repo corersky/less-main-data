@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-11-01 07:49 ansible-role-deploy-environment-master/
+-rw-rw-r-- root/root       486 2018-11-01 07:49 ansible-role-deploy-environment-master/README.md
+drwxrwxr-x root/root         0 2018-11-01 07:49 ansible-role-deploy-environment-master/defaults/
+-rw-rw-r-- root/root        33 2018-11-01 07:49 ansible-role-deploy-environment-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-01 07:49 ansible-role-deploy-environment-master/meta/
+-rw-rw-r-- root/root       256 2018-11-01 07:49 ansible-role-deploy-environment-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-01 07:49 ansible-role-deploy-environment-master/tasks/
+-rw-rw-r-- root/root       286 2018-11-01 07:49 ansible-role-deploy-environment-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-01 07:49 ansible-role-deploy-environment-master/templates/
+-rw-rw-r-- root/root       500 2018-11-01 07:49 ansible-role-deploy-environment-master/templates/envrc.j2

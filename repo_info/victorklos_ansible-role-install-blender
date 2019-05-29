@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-01-24 12:45 ansible-role-install-blender-master/
+-rw-rw-r-- root/root       539 2018-01-24 12:45 ansible-role-install-blender-master/.travis.yml
+-rw-rw-r-- root/root      1078 2018-01-24 12:45 ansible-role-install-blender-master/LICENCE
+-rw-rw-r-- root/root       445 2018-01-24 12:45 ansible-role-install-blender-master/README.md
+drwxrwxr-x root/root         0 2018-01-24 12:45 ansible-role-install-blender-master/meta/
+-rw-rw-r-- root/root       385 2018-01-24 12:45 ansible-role-install-blender-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-24 12:45 ansible-role-install-blender-master/tasks/
+-rw-rw-r-- root/root      1073 2018-01-24 12:45 ansible-role-install-blender-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-24 12:45 ansible-role-install-blender-master/tests/
+-rw-rw-r-- root/root         9 2018-01-24 12:45 ansible-role-install-blender-master/tests/inventory
+-rw-rw-r-- root/root       166 2018-01-24 12:45 ansible-role-install-blender-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-24 12:45 ansible-role-install-blender-master/vars/
+-rw-rw-r-- root/root       135 2018-01-24 12:45 ansible-role-install-blender-master/vars/main.yml

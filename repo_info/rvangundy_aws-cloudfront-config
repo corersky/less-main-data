@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-02-18 15:41 aws-cloudfront-config-master/
+-rw-rw-r-- root/root         0 2015-02-18 15:41 aws-cloudfront-config-master/.gitignore
+-rw-rw-r-- root/root       311 2015-02-18 15:41 aws-cloudfront-config-master/README.md
+drwxrwxr-x root/root         0 2015-02-18 15:41 aws-cloudfront-config-master/defaults/
+-rw-rw-r-- root/root        20 2015-02-18 15:41 aws-cloudfront-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-18 15:41 aws-cloudfront-config-master/library/
+-rw-rw-r-- root/root      9062 2015-02-18 15:41 aws-cloudfront-config-master/library/cloudfront_config
+drwxrwxr-x root/root         0 2015-02-18 15:41 aws-cloudfront-config-master/meta/
+-rw-rw-r-- root/root       179 2015-02-18 15:41 aws-cloudfront-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-18 15:41 aws-cloudfront-config-master/tests/
+-rw-rw-r-- root/root        17 2015-02-18 15:41 aws-cloudfront-config-master/tests/inventory
+-rw-rw-r-- root/root       228 2015-02-18 15:41 aws-cloudfront-config-master/tests/playbook.yml
+-rw-rw-r-- root/root      1808 2015-02-18 15:41 aws-cloudfront-config-master/tests/sample_config.json

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-10-12 14:18 ansible-role-postfix-master/
+-rw-rw-r-- root/root       868 2015-10-12 14:18 ansible-role-postfix-master/.travis.yml
+-rw-rw-r-- root/root       495 2015-10-12 14:18 ansible-role-postfix-master/README.md
+drwxrwxr-x root/root         0 2015-10-12 14:18 ansible-role-postfix-master/defaults/
+-rw-rw-r-- root/root         4 2015-10-12 14:18 ansible-role-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-12 14:18 ansible-role-postfix-master/meta/
+-rw-rw-r-- root/root       374 2015-10-12 14:18 ansible-role-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-12 14:18 ansible-role-postfix-master/tasks/
+-rw-rw-r-- root/root       349 2015-10-12 14:18 ansible-role-postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-12 14:18 ansible-role-postfix-master/tests/
+-rw-rw-r-- root/root        10 2015-10-12 14:18 ansible-role-postfix-master/tests/inventory
+-rw-rw-r-- root/root        79 2015-10-12 14:18 ansible-role-postfix-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-24 13:42 ansible_python_deps-master/
+-rw-rw-r-- root/root        17 2016-02-24 13:42 ansible_python_deps-master/.gitignore
+-rw-rw-r-- root/root       597 2016-02-24 13:42 ansible_python_deps-master/.travis.yml
+-rw-rw-r-- root/root      1082 2016-02-24 13:42 ansible_python_deps-master/LICENSE
+-rw-rw-r-- root/root      1385 2016-02-24 13:42 ansible_python_deps-master/README.md
+drwxrwxr-x root/root         0 2016-02-24 13:42 ansible_python_deps-master/meta/
+-rw-rw-r-- root/root       436 2016-02-24 13:42 ansible_python_deps-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-24 13:42 ansible_python_deps-master/tasks/
+-rw-rw-r-- root/root       798 2016-02-24 13:42 ansible_python_deps-master/tasks/main.yml
+-rw-rw-r-- root/root       307 2016-02-24 13:42 ansible_python_deps-master/test.yml
+-rw-rw-r-- root/root         5 2016-02-24 13:42 ansible_python_deps-master/test_requirements.txt
+drwxrwxr-x root/root         0 2016-02-24 13:42 ansible_python_deps-master/vars/
+-rw-rw-r-- root/root       214 2016-02-24 13:42 ansible_python_deps-master/vars/main.yml

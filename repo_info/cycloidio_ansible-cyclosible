@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-04 05:23 ansible-cyclosible-master/
+-rw-rw-r-- root/root      1328 2015-11-04 05:23 ansible-cyclosible-master/README.md
+drwxrwxr-x root/root         0 2015-11-04 05:23 ansible-cyclosible-master/defaults/
+-rw-rw-r-- root/root       882 2015-11-04 05:23 ansible-cyclosible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-04 05:23 ansible-cyclosible-master/handlers/
+-rw-rw-r-- root/root        35 2015-11-04 05:23 ansible-cyclosible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-04 05:23 ansible-cyclosible-master/meta/
+-rw-rw-r-- root/root       286 2015-11-04 05:23 ansible-cyclosible-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-04 05:23 ansible-cyclosible-master/tasks/
+-rw-rw-r-- root/root       720 2015-11-04 05:23 ansible-cyclosible-master/tasks/configure.yml
+-rw-rw-r-- root/root       103 2015-11-04 05:23 ansible-cyclosible-master/tasks/main.yml
+-rw-rw-r-- root/root       358 2015-11-04 05:23 ansible-cyclosible-master/tasks/setup.yml
+-rw-rw-r-- root/root       888 2015-11-04 05:23 ansible-cyclosible-master/tasks/virtualenv.yml
+drwxrwxr-x root/root         0 2015-11-04 05:23 ansible-cyclosible-master/templates/
+-rw-rw-r-- root/root        95 2015-11-04 05:23 ansible-cyclosible-master/templates/settings.py.j2
+drwxrwxr-x root/root         0 2015-11-04 05:23 ansible-cyclosible-master/vars/
+-rw-rw-r-- root/root        31 2015-11-04 05:23 ansible-cyclosible-master/vars/main.yml

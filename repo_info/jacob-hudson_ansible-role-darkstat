@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-09 09:03 ansible-role-darkstat-master/
+-rw-rw-r-- root/root       644 2017-04-09 09:03 ansible-role-darkstat-master/.travis.yml
+-rw-rw-r-- root/root      1470 2017-04-09 09:03 ansible-role-darkstat-master/README.md
+drwxrwxr-x root/root         0 2017-04-09 09:03 ansible-role-darkstat-master/defaults/
+-rw-rw-r-- root/root        33 2017-04-09 09:03 ansible-role-darkstat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-09 09:03 ansible-role-darkstat-master/handlers/
+-rw-rw-r-- root/root        33 2017-04-09 09:03 ansible-role-darkstat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-09 09:03 ansible-role-darkstat-master/meta/
+-rw-rw-r-- root/root      3894 2017-04-09 09:03 ansible-role-darkstat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-09 09:03 ansible-role-darkstat-master/tasks/
+-rw-rw-r-- root/root       117 2017-04-09 09:03 ansible-role-darkstat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-09 09:03 ansible-role-darkstat-master/tests/
+-rw-rw-r-- root/root         9 2017-04-09 09:03 ansible-role-darkstat-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-04-09 09:03 ansible-role-darkstat-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-09 09:03 ansible-role-darkstat-master/vars/
+-rw-rw-r-- root/root        29 2017-04-09 09:03 ansible-role-darkstat-master/vars/main.yml

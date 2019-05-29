@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-04 14:40 ansible-role-google-chrome-master/
+-rw-rw-r-- root/root      1064 2018-11-04 14:40 ansible-role-google-chrome-master/LICENSE
+-rw-rw-r-- root/root      3198 2018-11-04 14:40 ansible-role-google-chrome-master/README.md
+drwxrwxr-x root/root         0 2018-11-04 14:40 ansible-role-google-chrome-master/defaults/
+-rw-rw-r-- root/root       172 2018-11-04 14:40 ansible-role-google-chrome-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-04 14:40 ansible-role-google-chrome-master/meta/
+-rw-rw-r-- root/root       291 2018-11-04 14:40 ansible-role-google-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-04 14:40 ansible-role-google-chrome-master/tasks/
+-rw-rw-r-- root/root       742 2018-11-04 14:40 ansible-role-google-chrome-master/tasks/main.yml
+-rw-rw-r-- root/root      1516 2018-11-04 14:40 ansible-role-google-chrome-master/tasks/preferences.yml
+drwxrwxr-x root/root         0 2018-11-04 14:40 ansible-role-google-chrome-master/vars/
+-rw-rw-r-- root/root        80 2018-11-04 14:40 ansible-role-google-chrome-master/vars/main.yml

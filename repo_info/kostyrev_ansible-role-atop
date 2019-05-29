@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-30 10:55 ansible-role-atop-master/
+-rw-rw-r-- root/root      1319 2015-12-30 10:55 ansible-role-atop-master/LICENSE
+-rw-rw-r-- root/root      1328 2015-12-30 10:55 ansible-role-atop-master/README.md
+drwxrwxr-x root/root         0 2015-12-30 10:55 ansible-role-atop-master/defaults/
+-rw-rw-r-- root/root        55 2015-12-30 10:55 ansible-role-atop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-30 10:55 ansible-role-atop-master/handlers/
+-rw-rw-r-- root/root        40 2015-12-30 10:55 ansible-role-atop-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-30 10:55 ansible-role-atop-master/meta/
+-rw-rw-r-- root/root       249 2015-12-30 10:55 ansible-role-atop-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-30 10:55 ansible-role-atop-master/tasks/
+-rw-rw-r-- root/root       117 2015-12-30 10:55 ansible-role-atop-master/tasks/main.yml
+-rw-rw-r-- root/root       205 2015-12-30 10:55 ansible-role-atop-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2015-12-30 10:55 ansible-role-atop-master/templates/
+-rw-rw-r-- root/root       308 2015-12-30 10:55 ansible-role-atop-master/templates/logrotate-atop.j2
+drwxrwxr-x root/root         0 2015-12-30 10:55 ansible-role-atop-master/vars/
+-rw-rw-r-- root/root        36 2015-12-30 10:55 ansible-role-atop-master/vars/main.yml

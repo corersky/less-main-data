@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-04-11 07:12 ansible-role-timezone-master/
+-rw-rw-r-- root/root       641 2015-04-11 07:12 ansible-role-timezone-master/.gitignore
+-rw-rw-r-- root/root      1080 2015-04-11 07:12 ansible-role-timezone-master/LICENSE
+-rw-rw-r-- root/root       752 2015-04-11 07:12 ansible-role-timezone-master/README.md
+drwxrwxr-x root/root         0 2015-04-11 07:12 ansible-role-timezone-master/defaults/
+-rw-rw-r-- root/root       375 2015-04-11 07:12 ansible-role-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-11 07:12 ansible-role-timezone-master/handlers/
+-rw-rw-r-- root/root       131 2015-04-11 07:12 ansible-role-timezone-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-11 07:12 ansible-role-timezone-master/meta/
+-rw-rw-r-- root/root       382 2015-04-11 07:12 ansible-role-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-11 07:12 ansible-role-timezone-master/tasks/
+-rw-rw-r-- root/root       404 2015-04-11 07:12 ansible-role-timezone-master/tasks/configure.yml
+-rw-rw-r-- root/root        86 2015-04-11 07:12 ansible-role-timezone-master/tasks/main.yml
+-rw-rw-r-- root/root       601 2015-04-11 07:12 ansible-role-timezone-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2015-04-11 07:12 ansible-role-timezone-master/vars/
+-rw-rw-r-- root/root        70 2015-04-11 07:12 ansible-role-timezone-master/vars/main.yml

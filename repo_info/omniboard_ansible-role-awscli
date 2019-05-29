@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-08 14:58 ansible-role-awscli-master/
+-rw-rw-r-- root/root       591 2017-02-08 14:58 ansible-role-awscli-master/.travis.yml
+-rw-rw-r-- root/root     35141 2017-02-08 14:58 ansible-role-awscli-master/LICENSE
+-rw-rw-r-- root/root       699 2017-02-08 14:58 ansible-role-awscli-master/README.md
+drwxrwxr-x root/root         0 2017-02-08 14:58 ansible-role-awscli-master/defaults/
+-rw-rw-r-- root/root        58 2017-02-08 14:58 ansible-role-awscli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-08 14:58 ansible-role-awscli-master/meta/
+-rw-rw-r-- root/root       503 2017-02-08 14:58 ansible-role-awscli-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-08 14:58 ansible-role-awscli-master/tasks/
+-rw-rw-r-- root/root       139 2017-02-08 14:58 ansible-role-awscli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-08 14:58 ansible-role-awscli-master/tests/
+-rw-rw-r-- root/root        29 2017-02-08 14:58 ansible-role-awscli-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2017-02-08 14:58 ansible-role-awscli-master/tests/inventory
+-rwxrwxr-x root/root        56 2017-02-08 14:58 ansible-role-awscli-master/tests/run_tests.sh
+-rw-rw-r-- root/root        78 2017-02-08 14:58 ansible-role-awscli-master/tests/test.yml

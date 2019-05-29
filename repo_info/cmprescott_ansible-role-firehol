@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-03-21 15:16 ansible-role-firehol-master/
+-rw-rw-r-- root/root      1562 2016-03-21 15:16 ansible-role-firehol-master/README.md
+drwxrwxr-x root/root         0 2016-03-21 15:16 ansible-role-firehol-master/defaults/
+-rw-rw-r-- root/root       190 2016-03-21 15:16 ansible-role-firehol-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-21 15:16 ansible-role-firehol-master/handlers/
+-rw-rw-r-- root/root       120 2016-03-21 15:16 ansible-role-firehol-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-21 15:16 ansible-role-firehol-master/meta/
+-rw-rw-r-- root/root      1318 2016-03-21 15:16 ansible-role-firehol-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-21 15:16 ansible-role-firehol-master/tasks/
+-rw-rw-r-- root/root       498 2016-03-21 15:16 ansible-role-firehol-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-21 15:16 ansible-role-firehol-master/templates/
+-rw-rw-r-- root/root       717 2016-03-21 15:16 ansible-role-firehol-master/templates/firehol.conf.j2
+drwxrwxr-x root/root         0 2016-03-21 15:16 ansible-role-firehol-master/tests/
+-rw-rw-r-- root/root         9 2016-03-21 15:16 ansible-role-firehol-master/tests/inventory
+-rw-rw-r-- root/root        56 2016-03-21 15:16 ansible-role-firehol-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-21 15:16 ansible-role-firehol-master/vars/
+-rw-rw-r-- root/root        61 2016-03-21 15:16 ansible-role-firehol-master/vars/main.yml

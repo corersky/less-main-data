@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/
+-rw-rw-r-- root/root       875 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/.travis.yml
+-rw-rw-r-- root/root       900 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/README.md
+drwxrwxr-x root/root         0 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/defaults/
+-rw-rw-r-- root/root       176 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/meta/
+-rw-rw-r-- root/root       274 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/tasks/
+-rw-rw-r-- root/root       434 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/templates/
+-rw-rw-r-- root/root       536 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/templates/newrelic.ini.j2
+drwxrwxr-x root/root         0 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/tests/
+-rw-rw-r-- root/root      1121 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root        53 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/tests/requirements.yml
+-rw-rw-r-- root/root        49 2019-04-24 22:34 ansible-role-newrelic-phpagent-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-06 22:25 deb-install-master/
+-rw-rw-r-- root/root       771 2019-01-06 22:25 deb-install-master/README.md
+drwxrwxr-x root/root         0 2019-01-06 22:25 deb-install-master/defaults/
+-rw-rw-r-- root/root        35 2019-01-06 22:25 deb-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-06 22:25 deb-install-master/handlers/
+-rw-rw-r-- root/root        35 2019-01-06 22:25 deb-install-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-06 22:25 deb-install-master/meta/
+-rw-rw-r-- root/root      4092 2019-01-06 22:25 deb-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-06 22:25 deb-install-master/tasks/
+-rw-rw-r-- root/root       904 2019-01-06 22:25 deb-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-06 22:25 deb-install-master/tests/
+-rw-rw-r-- root/root        11 2019-01-06 22:25 deb-install-master/tests/inventory
+-rw-rw-r-- root/root        69 2019-01-06 22:25 deb-install-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-06 22:25 deb-install-master/vars/
+-rw-rw-r-- root/root        31 2019-01-06 22:25 deb-install-master/vars/main.yml

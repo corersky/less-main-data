@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-07 09:52 ansible-ipv6-disable-master/
+-rw-rw-r-- root/root       728 2018-06-07 09:52 ansible-ipv6-disable-master/.travis.yml
+-rw-rw-r-- root/root       384 2018-06-07 09:52 ansible-ipv6-disable-master/README.md
+drwxrwxr-x root/root         0 2018-06-07 09:52 ansible-ipv6-disable-master/handlers/
+-rw-rw-r-- root/root        44 2018-06-07 09:52 ansible-ipv6-disable-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-07 09:52 ansible-ipv6-disable-master/meta/
+-rw-rw-r-- root/root       327 2018-06-07 09:52 ansible-ipv6-disable-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-07 09:52 ansible-ipv6-disable-master/tasks/
+-rw-rw-r-- root/root       160 2018-06-07 09:52 ansible-ipv6-disable-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-07 09:52 ansible-ipv6-disable-master/templates/
+-rw-rw-r-- root/root       108 2018-06-07 09:52 ansible-ipv6-disable-master/templates/disableipv6.conf.template
+drwxrwxr-x root/root         0 2018-06-07 09:52 ansible-ipv6-disable-master/tests/
+-rw-rw-r-- root/root         9 2018-06-07 09:52 ansible-ipv6-disable-master/tests/inventory
+-rw-rw-r-- root/root        10 2018-06-07 09:52 ansible-ipv6-disable-master/tests/test.retry
+-rw-rw-r-- root/root        78 2018-06-07 09:52 ansible-ipv6-disable-master/tests/test.yml

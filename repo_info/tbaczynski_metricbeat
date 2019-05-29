@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-12 08:54 metricbeat-master/
+-rw-rw-r-- root/root       228 2019-04-12 08:54 metricbeat-master/.gitlab-ci.yml
+-rw-rw-r-- root/root       305 2019-04-12 08:54 metricbeat-master/.yamllint.yml
+-rw-rw-r-- root/root       815 2019-04-12 08:54 metricbeat-master/README.md
+drwxrwxr-x root/root         0 2019-04-12 08:54 metricbeat-master/defaults/
+-rw-rw-r-- root/root       615 2019-04-12 08:54 metricbeat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-12 08:54 metricbeat-master/handlers/
+-rw-rw-r-- root/root       220 2019-04-12 08:54 metricbeat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-12 08:54 metricbeat-master/meta/
+-rw-rw-r-- root/root       273 2019-04-12 08:54 metricbeat-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-12 08:54 metricbeat-master/tasks/
+-rw-rw-r-- root/root      1678 2019-04-12 08:54 metricbeat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-12 08:54 metricbeat-master/templates/
+-rw-rw-r-- root/root      6373 2019-04-12 08:54 metricbeat-master/templates/metricbeat.yml.j2
+-rw-rw-r-- root/root       186 2019-04-12 08:54 metricbeat-master/templates/pinning.j2

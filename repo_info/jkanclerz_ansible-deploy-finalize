@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-29 03:25 ansible-deploy-finalize-master/
+-rw-rw-r-- root/root        26 2017-03-29 03:25 ansible-deploy-finalize-master/README.md
+drwxrwxr-x root/root         0 2017-03-29 03:25 ansible-deploy-finalize-master/defaults/
+-rw-rw-r-- root/root        53 2017-03-29 03:25 ansible-deploy-finalize-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-29 03:25 ansible-deploy-finalize-master/meta/
+-rw-rw-r-- root/root       411 2017-03-29 03:25 ansible-deploy-finalize-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/
+-rw-rw-r-- root/root       109 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/cleanup.yml
+-rw-rw-r-- root/root       371 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/create_symlink.yml
+-rw-rw-r-- root/root       946 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/ensure_writables.yml
+-rw-rw-r-- root/root       319 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/main.yml
+-rw-rw-r-- root/root       210 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/remove_previous.yml
+-rw-rw-r-- root/root       354 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/services.yml
+drwxrwxr-x root/root         0 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/writables/
+-rw-rw-r-- root/root       718 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/writables/acl.yml
+-rw-rw-r-- root/root       764 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/writables/chmod.yml
+-rw-rw-r-- root/root       773 2017-03-29 03:25 ansible-deploy-finalize-master/tasks/writables/chmoda.yml

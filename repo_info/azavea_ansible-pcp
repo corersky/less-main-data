@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-03 14:44 ansible-pcp-master/
+-rw-rw-r-- root/root         9 2017-05-03 14:44 ansible-pcp-master/.gitignore
+-rw-rw-r-- root/root        96 2017-05-03 14:44 ansible-pcp-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-05-03 14:44 ansible-pcp-master/LICENSE
+-rw-rw-r-- root/root       218 2017-05-03 14:44 ansible-pcp-master/README.md
+drwxrwxr-x root/root         0 2017-05-03 14:44 ansible-pcp-master/defaults/
+-rw-rw-r-- root/root        26 2017-05-03 14:44 ansible-pcp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-03 14:44 ansible-pcp-master/examples/
+-rw-rw-r-- root/root       343 2017-05-03 14:44 ansible-pcp-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2017-05-03 14:44 ansible-pcp-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-05-03 14:44 ansible-pcp-master/examples/roles/azavea.pcp -> ../../
+-rw-rw-r-- root/root       127 2017-05-03 14:44 ansible-pcp-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-05-03 14:44 ansible-pcp-master/meta/
+-rw-rw-r-- root/root       291 2017-05-03 14:44 ansible-pcp-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-03 14:44 ansible-pcp-master/tasks/
+-rw-rw-r-- root/root       483 2017-05-03 14:44 ansible-pcp-master/tasks/main.yml

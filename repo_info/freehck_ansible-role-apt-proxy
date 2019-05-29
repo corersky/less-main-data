@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-06-15 04:43 ansible-role-apt-proxy-master/
+-rw-rw-r-- root/root         3 2018-06-15 04:43 ansible-role-apt-proxy-master/.gitignore
+-rw-rw-r-- root/root       455 2018-06-15 04:43 ansible-role-apt-proxy-master/README.md
+drwxrwxr-x root/root         0 2018-06-15 04:43 ansible-role-apt-proxy-master/defaults/
+-rw-rw-r-- root/root       128 2018-06-15 04:43 ansible-role-apt-proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-15 04:43 ansible-role-apt-proxy-master/meta/
+-rw-rw-r-- root/root       268 2018-06-15 04:43 ansible-role-apt-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-15 04:43 ansible-role-apt-proxy-master/tasks/
+-rw-rw-r-- root/root       691 2018-06-15 04:43 ansible-role-apt-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-15 04:43 ansible-role-apt-proxy-master/templates/
+-rw-rw-r-- root/root        37 2018-06-15 04:43 ansible-role-apt-proxy-master/templates/apt-proxy-config

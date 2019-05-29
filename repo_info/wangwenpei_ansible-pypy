@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-03 08:08 ansible-pypy-master/
+-rw-rw-r-- root/root      1325 2018-06-03 08:08 ansible-pypy-master/.gitignore
+-rw-rw-r-- root/root       377 2018-06-03 08:08 ansible-pypy-master/.travis.yml
+-rw-rw-r-- root/root     35148 2018-06-03 08:08 ansible-pypy-master/LICENSE
+-rw-rw-r-- root/root      1121 2018-06-03 08:08 ansible-pypy-master/README.md
+drwxrwxr-x root/root         0 2018-06-03 08:08 ansible-pypy-master/defaults/
+-rw-rw-r-- root/root       410 2018-06-03 08:08 ansible-pypy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-03 08:08 ansible-pypy-master/files/
+-rw-rw-r-- root/root       670 2018-06-03 08:08 ansible-pypy-master/files/bootstrap.sh
+-rw-rw-r-- root/root   1641282 2018-06-03 08:08 ansible-pypy-master/files/get-pip.py
+drwxrwxr-x root/root         0 2018-06-03 08:08 ansible-pypy-master/meta/
+-rw-rw-r-- root/root       349 2018-06-03 08:08 ansible-pypy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-03 08:08 ansible-pypy-master/tasks/
+-rw-rw-r-- root/root      2913 2018-06-03 08:08 ansible-pypy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-03 08:08 ansible-pypy-master/tests/
+-rw-rw-r-- root/root        11 2018-06-03 08:08 ansible-pypy-master/tests/inventory
+-rw-rw-r-- root/root       174 2018-06-03 08:08 ansible-pypy-master/tests/test.yml

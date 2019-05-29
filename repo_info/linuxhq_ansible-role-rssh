@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-14 18:12 ansible-role-rssh-master/
+-rw-rw-r-- root/root       371 2019-05-14 18:12 ansible-role-rssh-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-05-14 18:12 ansible-role-rssh-master/COPYING
+-rw-rw-r-- root/root      2058 2019-05-14 18:12 ansible-role-rssh-master/README.md
+drwxrwxr-x root/root         0 2019-05-14 18:12 ansible-role-rssh-master/defaults/
+-rw-rw-r-- root/root       178 2019-05-14 18:12 ansible-role-rssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-14 18:12 ansible-role-rssh-master/meta/
+-rw-rw-r-- root/root       405 2019-05-14 18:12 ansible-role-rssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-14 18:12 ansible-role-rssh-master/tasks/
+-rw-rw-r-- root/root      2433 2019-05-14 18:12 ansible-role-rssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-14 18:12 ansible-role-rssh-master/templates/
+-rw-rw-r-- root/root       751 2019-05-14 18:12 ansible-role-rssh-master/templates/rssh.conf.j2
+drwxrwxr-x root/root         0 2019-05-14 18:12 ansible-role-rssh-master/tests/
+-rw-rw-r-- root/root        10 2019-05-14 18:12 ansible-role-rssh-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-05-14 18:12 ansible-role-rssh-master/tests/test.yml

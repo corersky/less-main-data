@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-09 01:47 ansible-role-mysql-master/
+-rw-rw-r-- root/root       539 2016-01-09 01:47 ansible-role-mysql-master/.travis.yml
+-rw-rw-r-- root/root      1060 2016-01-09 01:47 ansible-role-mysql-master/MIT-LICENSE
+-rw-rw-r-- root/root       343 2016-01-09 01:47 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2016-01-09 01:47 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root        43 2016-01-09 01:47 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-09 01:47 ansible-role-mysql-master/handlers/
+-rw-rw-r-- root/root        43 2016-01-09 01:47 ansible-role-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-09 01:47 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root       237 2016-01-09 01:47 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-09 01:47 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root       140 2016-01-09 01:47 ansible-role-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-09 01:47 ansible-role-mysql-master/tests/
+-rw-rw-r-- root/root         9 2016-01-09 01:47 ansible-role-mysql-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-01-09 01:47 ansible-role-mysql-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-01-09 01:47 ansible-role-mysql-master/vars/
+-rw-rw-r-- root/root        39 2016-01-09 01:47 ansible-role-mysql-master/vars/main.yml

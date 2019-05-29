@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-09-04 08:35 ansible-firewalld-master/
+-rw-rw-r-- root/root       579 2015-09-04 08:35 ansible-firewalld-master/README.md
+drwxrwxr-x root/root         0 2015-09-04 08:35 ansible-firewalld-master/defaults/
+-rw-rw-r-- root/root       128 2015-09-04 08:35 ansible-firewalld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-04 08:35 ansible-firewalld-master/handlers/
+-rw-rw-r-- root/root        37 2015-09-04 08:35 ansible-firewalld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-04 08:35 ansible-firewalld-master/meta/
+-rw-rw-r-- root/root       191 2015-09-04 08:35 ansible-firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-04 08:35 ansible-firewalld-master/tasks/
+-rw-rw-r-- root/root       500 2015-09-04 08:35 ansible-firewalld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-04 08:35 ansible-firewalld-master/templates/
+-rw-rw-r-- root/root       119 2015-09-04 08:35 ansible-firewalld-master/templates/nginx.repo.j2
+drwxrwxr-x root/root         0 2015-09-04 08:35 ansible-firewalld-master/vars/
+-rw-rw-r-- root/root        33 2015-09-04 08:35 ansible-firewalld-master/vars/main.yml

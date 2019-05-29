@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-02-24 04:15 ansible-static-requirements-bigdata-master/
+-rw-rw-r-- root/root      1328 2016-02-24 04:15 ansible-static-requirements-bigdata-master/README.md
+drwxrwxr-x root/root         0 2016-02-24 04:15 ansible-static-requirements-bigdata-master/defaults/
+-rw-rw-r-- root/root        87 2016-02-24 04:15 ansible-static-requirements-bigdata-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-24 04:15 ansible-static-requirements-bigdata-master/handlers/
+-rw-rw-r-- root/root        32 2016-02-24 04:15 ansible-static-requirements-bigdata-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-24 04:15 ansible-static-requirements-bigdata-master/meta/
+-rw-rw-r-- root/root      3117 2016-02-24 04:15 ansible-static-requirements-bigdata-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-24 04:15 ansible-static-requirements-bigdata-master/tasks/
+-rw-rw-r-- root/root        88 2016-02-24 04:15 ansible-static-requirements-bigdata-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-24 04:15 ansible-static-requirements-bigdata-master/tests/
+-rw-rw-r-- root/root         9 2016-02-24 04:15 ansible-static-requirements-bigdata-master/tests/inventory
+-rw-rw-r-- root/root        84 2016-02-24 04:15 ansible-static-requirements-bigdata-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-02-24 04:15 ansible-static-requirements-bigdata-master/vars/
+-rw-rw-r-- root/root        28 2016-02-24 04:15 ansible-static-requirements-bigdata-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-16 08:31 ansible-deploy-notifications-master/
+-rw-rw-r-- root/root         7 2017-06-16 08:31 ansible-deploy-notifications-master/.gitignore
+-rw-rw-r-- root/root       602 2017-06-16 08:31 ansible-deploy-notifications-master/.travis.yml
+-rw-rw-r-- root/root      1072 2017-06-16 08:31 ansible-deploy-notifications-master/LICENSE
+-rw-rw-r-- root/root      1853 2017-06-16 08:31 ansible-deploy-notifications-master/README.md
+drwxrwxr-x root/root         0 2017-06-16 08:31 ansible-deploy-notifications-master/defaults/
+-rw-rw-r-- root/root       673 2017-06-16 08:31 ansible-deploy-notifications-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-16 08:31 ansible-deploy-notifications-master/meta/
+-rw-rw-r-- root/root      3948 2017-06-16 08:31 ansible-deploy-notifications-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-16 08:31 ansible-deploy-notifications-master/tasks/
+-rw-rw-r-- root/root      1110 2017-06-16 08:31 ansible-deploy-notifications-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-16 08:31 ansible-deploy-notifications-master/tests/
+-rw-rw-r-- root/root         9 2017-06-16 08:31 ansible-deploy-notifications-master/tests/inventory
+-rw-rw-r-- root/root       150 2017-06-16 08:31 ansible-deploy-notifications-master/tests/test.yml

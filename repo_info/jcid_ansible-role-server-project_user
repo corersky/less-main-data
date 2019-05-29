@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-project_user-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-server-project_user-master/.travis.yml
+-rw-rw-r-- root/root        87 2016-12-11 10:56 ansible-role-server-project_user-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-project_user-master/files/
+-rw-rw-r-- root/root       189 2016-12-11 10:56 ansible-role-server-project_user-master/files/known_hosts
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-project_user-master/meta/
+-rw-rw-r-- root/root       220 2016-12-11 10:56 ansible-role-server-project_user-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-project_user-master/tasks/
+-rw-rw-r-- root/root      2732 2016-12-11 10:56 ansible-role-server-project_user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-project_user-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-server-project_user-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-12-11 10:56 ansible-role-server-project_user-master/tests/test.yml

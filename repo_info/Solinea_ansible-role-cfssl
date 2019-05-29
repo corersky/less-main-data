@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-07 14:07 ansible-role-cfssl-master/
+-rw-rw-r-- root/root      1404 2017-07-07 14:07 ansible-role-cfssl-master/.gitignore
+-rw-rw-r-- root/root       243 2017-07-07 14:07 ansible-role-cfssl-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-07-07 14:07 ansible-role-cfssl-master/LICENSE
+-rw-rw-r-- root/root       618 2017-07-07 14:07 ansible-role-cfssl-master/README.md
+drwxrwxr-x root/root         0 2017-07-07 14:07 ansible-role-cfssl-master/meta/
+-rw-rw-r-- root/root       292 2017-07-07 14:07 ansible-role-cfssl-master/meta/main.yml
+-rw-rw-r-- root/root       209 2017-07-07 14:07 ansible-role-cfssl-master/molecule.yml
+-rw-rw-r-- root/root        57 2017-07-07 14:07 ansible-role-cfssl-master/playbook.yml
+drwxrwxr-x root/root         0 2017-07-07 14:07 ansible-role-cfssl-master/tasks/
+-rw-rw-r-- root/root       637 2017-07-07 14:07 ansible-role-cfssl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-07 14:07 ansible-role-cfssl-master/tests/
+-rw-rw-r-- root/root       289 2017-07-07 14:07 ansible-role-cfssl-master/tests/test_default.py

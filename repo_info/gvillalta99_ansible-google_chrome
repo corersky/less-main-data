@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-05-11 19:59 ansible-google_chrome-master/
+-rw-rw-r-- root/root       827 2015-05-11 19:59 ansible-google_chrome-master/README.md
+drwxrwxr-x root/root         0 2015-05-11 19:59 ansible-google_chrome-master/defaults/
+-rw-rw-r-- root/root       152 2015-05-11 19:59 ansible-google_chrome-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-11 19:59 ansible-google_chrome-master/meta/
+-rw-rw-r-- root/root       279 2015-05-11 19:59 ansible-google_chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-11 19:59 ansible-google_chrome-master/tasks/
+-rw-rw-r-- root/root       248 2015-05-11 19:59 ansible-google_chrome-master/tasks/Debian.yml
+-rw-rw-r-- root/root       269 2015-05-11 19:59 ansible-google_chrome-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       689 2015-05-11 19:59 ansible-google_chrome-master/tasks/main.yml

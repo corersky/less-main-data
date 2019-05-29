@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-07 03:32 ansible-role-calico-master/
+-rw-rw-r-- root/root     11357 2016-06-07 03:32 ansible-role-calico-master/LICENSE
+-rw-rw-r-- root/root       790 2016-06-07 03:32 ansible-role-calico-master/README.md
+drwxrwxr-x root/root         0 2016-06-07 03:32 ansible-role-calico-master/defaults/
+-rw-rw-r-- root/root      1154 2016-06-07 03:32 ansible-role-calico-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-07 03:32 ansible-role-calico-master/meta/
+-rw-rw-r-- root/root       312 2016-06-07 03:32 ansible-role-calico-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-07 03:32 ansible-role-calico-master/tasks/
+-rw-rw-r-- root/root       666 2016-06-07 03:32 ansible-role-calico-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-07 03:32 ansible-role-calico-master/tests/
+-rw-rw-r-- root/root         9 2016-06-07 03:32 ansible-role-calico-master/tests/inventory
+-rw-rw-r-- root/root        80 2016-06-07 03:32 ansible-role-calico-master/tests/test.yml

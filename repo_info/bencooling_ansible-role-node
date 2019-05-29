@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-10-30 00:42 ansible-role-node-master/
+-rw-rw-r-- root/root         8 2015-10-30 00:42 ansible-role-node-master/.gitignore
+-rw-rw-r-- root/root       736 2015-10-30 00:42 ansible-role-node-master/README.md
+drwxrwxr-x root/root         0 2015-10-30 00:42 ansible-role-node-master/defaults/
+-rw-rw-r-- root/root        30 2015-10-30 00:42 ansible-role-node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-30 00:42 ansible-role-node-master/handlers/
+-rw-rw-r-- root/root        29 2015-10-30 00:42 ansible-role-node-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-30 00:42 ansible-role-node-master/meta/
+-rw-rw-r-- root/root       391 2015-10-30 00:42 ansible-role-node-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-30 00:42 ansible-role-node-master/tasks/
+-rw-rw-r-- root/root       400 2015-10-30 00:42 ansible-role-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-30 00:42 ansible-role-node-master/vars/
+-rw-rw-r-- root/root        25 2015-10-30 00:42 ansible-role-node-master/vars/main.yml

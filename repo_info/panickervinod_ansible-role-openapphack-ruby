@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-ruby-master/
+-rw-rw-r-- root/root      1405 2016-01-26 08:15 ansible-role-openapphack-ruby-master/.travis.yml
+-rw-rw-r-- root/root       120 2016-01-26 08:15 ansible-role-openapphack-ruby-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-ruby-master/defaults/
+-rw-rw-r-- root/root       385 2016-01-26 08:15 ansible-role-openapphack-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-ruby-master/meta/
+-rw-rw-r-- root/root       340 2016-01-26 08:15 ansible-role-openapphack-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-ruby-master/tasks/
+-rw-rw-r-- root/root      1124 2016-01-26 08:15 ansible-role-openapphack-ruby-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root       653 2016-01-26 08:15 ansible-role-openapphack-ruby-master/tasks/main.yml
+-rw-rw-r-- root/root       427 2016-01-26 08:15 ansible-role-openapphack-ruby-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-ruby-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:15 ansible-role-openapphack-ruby-master/tests/inventory
+-rw-rw-r-- root/root       236 2016-01-26 08:15 ansible-role-openapphack-ruby-master/tests/test-install-from-source.yml
+-rw-rw-r-- root/root        76 2016-01-26 08:15 ansible-role-openapphack-ruby-master/tests/test-install-package.yml

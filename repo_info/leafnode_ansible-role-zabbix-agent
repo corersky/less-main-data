@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-zabbix-agent-master/
+-rwxrwxr-x root/root      1012 2018-11-29 08:27 ansible-role-zabbix-agent-master/.travis.yml
+-rw-rw-r-- root/root      1413 2018-11-29 08:27 ansible-role-zabbix-agent-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-zabbix-agent-master/defaults/
+-rw-rw-r-- root/root      1061 2018-11-29 08:27 ansible-role-zabbix-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-zabbix-agent-master/handlers/
+-rw-rw-r-- root/root       118 2018-11-29 08:27 ansible-role-zabbix-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-zabbix-agent-master/meta/
+-rw-rw-r-- root/root       292 2018-11-29 08:27 ansible-role-zabbix-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-zabbix-agent-master/tasks/
+-rw-rw-r-- root/root      1731 2018-11-29 08:27 ansible-role-zabbix-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-zabbix-agent-master/templates/
+-rw-rw-r-- root/root      7835 2018-11-29 08:27 ansible-role-zabbix-agent-master/templates/zabbix_agentd.conf.j2
+drwxrwxr-x root/root         0 2018-11-29 08:27 ansible-role-zabbix-agent-master/tests/
+-rw-rw-r-- root/root        10 2018-11-29 08:27 ansible-role-zabbix-agent-master/tests/inventory
+-rw-rw-r-- root/root       166 2018-11-29 08:27 ansible-role-zabbix-agent-master/tests/test.yml

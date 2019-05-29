@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-22 22:24 piDAK-master/
+-rw-rw-r-- root/root      2269 2018-04-22 22:24 piDAK-master/README.md
+drwxrwxr-x root/root         0 2018-04-22 22:24 piDAK-master/defaults/
+-rw-rw-r-- root/root        29 2018-04-22 22:24 piDAK-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-22 22:24 piDAK-master/files/
+-rw-rw-r-- root/root       504 2018-04-22 22:24 piDAK-master/files/wpa_supplicant_example.conf
+drwxrwxr-x root/root         0 2018-04-22 22:24 piDAK-master/handlers/
+-rw-rw-r-- root/root        29 2018-04-22 22:24 piDAK-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-22 22:24 piDAK-master/meta/
+-rw-rw-r-- root/root       435 2018-04-22 22:24 piDAK-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-22 22:24 piDAK-master/tasks/
+-rw-rw-r-- root/root        26 2018-04-22 22:24 piDAK-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-22 22:24 piDAK-master/tests/
+-rw-rw-r-- root/root        11 2018-04-22 22:24 piDAK-master/tests/inventory
+-rw-rw-r-- root/root        63 2018-04-22 22:24 piDAK-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-22 22:24 piDAK-master/vars/
+-rw-rw-r-- root/root        25 2018-04-22 22:24 piDAK-master/vars/main.yml

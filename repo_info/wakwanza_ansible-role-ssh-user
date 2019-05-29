@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-03-27 11:18 ansible-role-ssh-user-master/
+-rw-rw-r-- root/root      1241 2015-03-27 11:18 ansible-role-ssh-user-master/README.md
+drwxrwxr-x root/root         0 2015-03-27 11:18 ansible-role-ssh-user-master/defaults/
+-rw-rw-r-- root/root        33 2015-03-27 11:18 ansible-role-ssh-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-27 11:18 ansible-role-ssh-user-master/files/
+-rw-rw-r-- root/root         0 2015-03-27 11:18 ansible-role-ssh-user-master/files/id_rsa
+drwxrwxr-x root/root         0 2015-03-27 11:18 ansible-role-ssh-user-master/handlers/
+-rw-rw-r-- root/root        33 2015-03-27 11:18 ansible-role-ssh-user-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-27 11:18 ansible-role-ssh-user-master/meta/
+-rw-rw-r-- root/root      2117 2015-03-27 11:18 ansible-role-ssh-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-27 11:18 ansible-role-ssh-user-master/tasks/
+-rw-rw-r-- root/root       839 2015-03-27 11:18 ansible-role-ssh-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-27 11:18 ansible-role-ssh-user-master/vars/
+-rw-rw-r-- root/root       123 2015-03-27 11:18 ansible-role-ssh-user-master/vars/main.yml

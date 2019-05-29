@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-08 21:20 ansible-mysql-master/
+-rw-rw-r-- root/root      1346 2017-06-08 21:20 ansible-mysql-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-06-08 21:20 ansible-mysql-master/LICENSE
+-rw-rw-r-- root/root      2383 2017-06-08 21:20 ansible-mysql-master/README.md
+drwxrwxr-x root/root         0 2017-06-08 21:20 ansible-mysql-master/defaults/
+-rw-rw-r-- root/root        84 2017-06-08 21:20 ansible-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-08 21:20 ansible-mysql-master/meta/
+-rw-rw-r-- root/root       240 2017-06-08 21:20 ansible-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-08 21:20 ansible-mysql-master/tasks/
+-rw-rw-r-- root/root      1012 2017-06-08 21:20 ansible-mysql-master/tasks/main.yml
+-rw-rw-r-- root/root       559 2017-06-08 21:20 ansible-mysql-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2017-06-08 21:20 ansible-mysql-master/templates/
+-rw-rw-r-- root/root        81 2017-06-08 21:20 ansible-mysql-master/templates/my.cnf.j2
+drwxrwxr-x root/root         0 2017-06-08 21:20 ansible-mysql-master/tests/
+-rw-rw-r-- root/root       751 2017-06-08 21:20 ansible-mysql-master/tests/README.MD
+-rw-rw-r-- root/root        97 2017-06-08 21:20 ansible-mysql-master/tests/test.yml

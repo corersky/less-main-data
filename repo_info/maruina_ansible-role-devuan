@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-16 09:08 ansible-role-devuan-master/
+-rw-rw-r-- root/root      1540 2016-04-16 09:08 ansible-role-devuan-master/.gitignore
+-rw-rw-r-- root/root       494 2016-04-16 09:08 ansible-role-devuan-master/.travis.yml
+-rw-rw-r-- root/root       458 2016-04-16 09:08 ansible-role-devuan-master/README.md
+drwxrwxr-x root/root         0 2016-04-16 09:08 ansible-role-devuan-master/files/
+-rw-rw-r-- root/root        75 2016-04-16 09:08 ansible-role-devuan-master/files/01lean
+drwxrwxr-x root/root         0 2016-04-16 09:08 ansible-role-devuan-master/meta/
+-rw-rw-r-- root/root       258 2016-04-16 09:08 ansible-role-devuan-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-16 09:08 ansible-role-devuan-master/tasks/
+-rw-rw-r-- root/root       731 2016-04-16 09:08 ansible-role-devuan-master/tasks/configure.yml
+-rw-rw-r-- root/root      1124 2016-04-16 09:08 ansible-role-devuan-master/tasks/install.yml
+-rw-rw-r-- root/root        80 2016-04-16 09:08 ansible-role-devuan-master/tasks/main.yml
+-rw-rw-r-- root/root        83 2016-04-16 09:08 ansible-role-devuan-master/tasks/requirements.yml
+drwxrwxr-x root/root         0 2016-04-16 09:08 ansible-role-devuan-master/tests/
+-rw-rw-r-- root/root         9 2016-04-16 09:08 ansible-role-devuan-master/tests/inventory
+-rw-rw-r-- root/root        97 2016-04-16 09:08 ansible-role-devuan-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-07-28 08:15 ansible-role-http2-master/
+-rw-rw-r-- root/root        13 2015-07-28 08:15 ansible-role-http2-master/.gitignore
+-rw-rw-r-- root/root      1428 2015-07-28 08:15 ansible-role-http2-master/.travis.yml
+-rw-rw-r-- root/root     35142 2015-07-28 08:15 ansible-role-http2-master/LICENSE
+-rw-rw-r-- root/root      1793 2015-07-28 08:15 ansible-role-http2-master/README.md
+drwxrwxr-x root/root         0 2015-07-28 08:15 ansible-role-http2-master/meta/
+-rw-rw-r-- root/root      1893 2015-07-28 08:15 ansible-role-http2-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-28 08:15 ansible-role-http2-master/tasks/
+-rw-rw-r-- root/root      3525 2015-07-28 08:15 ansible-role-http2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-07-28 08:15 ansible-role-http2-master/tests/
+-rw-rw-r-- root/root        10 2015-07-28 08:15 ansible-role-http2-master/tests/inventory
+-rw-rw-r-- root/root        77 2015-07-28 08:15 ansible-role-http2-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-05-25 05:33 ansible-redis-master/
+-rw-rw-r-- root/root         0 2016-05-25 05:33 ansible-redis-master/.gitignore
+-rw-rw-r-- root/root      1080 2016-05-25 05:33 ansible-redis-master/LICENSE
+-rw-rw-r-- root/root     13375 2016-05-25 05:33 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2016-05-25 05:33 ansible-redis-master/defaults/
+-rw-rw-r-- root/root     11748 2016-05-25 05:33 ansible-redis-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-05-25 05:33 ansible-redis-master/handlers/
+-rw-rw-r-- root/root        75 2016-05-25 05:33 ansible-redis-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2016-05-25 05:33 ansible-redis-master/meta/
+-rw-rw-r-- root/root       266 2016-05-25 05:33 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-25 05:33 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       659 2016-05-25 05:33 ansible-redis-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-05-25 05:33 ansible-redis-master/templates/
+-rw-rw-r-- root/root       105 2016-05-25 05:33 ansible-redis-master/templates/redis.conf.j2
+-rw-rw-r-- root/root       121 2016-05-25 05:33 ansible-redis-master/templates/redis_sysconfig.j2

@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/
+-rw-rw-r-- root/root        64 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/.bumpversion.cfg
+-rw-rw-r-- root/root       539 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/.travis.yml
+-rw-rw-r-- root/root      1513 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/LICENSE
+-rw-rw-r-- root/root       548 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/README.md
+drwxrwxr-x root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/meta/
+-rw-rw-r-- root/root      1401 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/
+drwxrwxr-x root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/centos/
+-rw-rw-r-- root/root       469 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/centos/requirements_centos_7.yml
+drwxrwxr-x root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/debian/
+-rw-rw-r-- root/root       430 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/debian/requirements_debian_8.yml
+drwxrwxr-x root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/fedora/
+-rw-rw-r-- root/root       498 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/fedora/requirements_fedora_25.yml
+-rw-rw-r-- root/root       965 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/redhat/
+lrwxrwxrwx root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/redhat/requirements_redhat_7.yml -> ../centos/requirements_centos_7.yml
+drwxrwxr-x root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/ubuntu/
+lrwxrwxrwx root/root         0 2017-04-01 11:30 ansible-role-bootstrap-requirements-master/tasks/ubuntu/requirements_ubuntu_16.yml -> ../debian/requirements_debian_8.yml

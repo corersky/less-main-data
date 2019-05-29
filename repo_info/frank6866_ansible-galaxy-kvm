@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-03 06:07 ansible-galaxy-kvm-master/
+-rw-rw-r-- root/root        54 2017-05-03 06:07 ansible-galaxy-kvm-master/.gitignore
+-rw-rw-r-- root/root       539 2017-05-03 06:07 ansible-galaxy-kvm-master/.travis.yml
+-rw-rw-r-- root/root       197 2017-05-03 06:07 ansible-galaxy-kvm-master/README.md
+drwxrwxr-x root/root         0 2017-05-03 06:07 ansible-galaxy-kvm-master/defaults/
+-rw-rw-r-- root/root        28 2017-05-03 06:07 ansible-galaxy-kvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-03 06:07 ansible-galaxy-kvm-master/meta/
+-rw-rw-r-- root/root      3903 2017-05-03 06:07 ansible-galaxy-kvm-master/meta/main.yml
+-rwxrwxr-x root/root        90 2017-05-03 06:07 ansible-galaxy-kvm-master/start.sh
+drwxrwxr-x root/root         0 2017-05-03 06:07 ansible-galaxy-kvm-master/tasks/
+-rw-rw-r-- root/root       484 2017-05-03 06:07 ansible-galaxy-kvm-master/tasks/centos.yml
+-rw-rw-r-- root/root       658 2017-05-03 06:07 ansible-galaxy-kvm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-03 06:07 ansible-galaxy-kvm-master/tests/
+-rw-rw-r-- root/root         9 2017-05-03 06:07 ansible-galaxy-kvm-master/tests/inventory
+-rw-rw-r-- root/root        39 2017-05-03 06:07 ansible-galaxy-kvm-master/tests/test.yml

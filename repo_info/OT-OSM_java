@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-10 11:21 java-master/
+-rw-rw-r-- root/root       400 2018-10-10 11:21 java-master/README.md
+drwxrwxr-x root/root         0 2018-10-10 11:21 java-master/defaults/
+-rw-rw-r-- root/root         5 2018-10-10 11:21 java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-10 11:21 java-master/meta/
+-rw-rw-r-- root/root       175 2018-10-10 11:21 java-master/meta/main.yml
+-rw-rw-r-- root/root        68 2018-10-10 11:21 java-master/site.yml
+drwxrwxr-x root/root         0 2018-10-10 11:21 java-master/tasks/
+-rw-rw-r-- root/root       744 2018-10-10 11:21 java-master/tasks/install-debian.yml
+-rw-rw-r-- root/root       449 2018-10-10 11:21 java-master/tasks/install-redhat.yml
+-rw-rw-r-- root/root       229 2018-10-10 11:21 java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-10 11:21 java-master/vars/
+-rw-rw-r-- root/root        98 2018-10-10 11:21 java-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-08 16:45 ansible-devpi-master/
+drwxrwxr-x root/root         0 2019-03-08 16:45 ansible-devpi-master/defaults/
+-rw-rw-r-- root/root       261 2019-03-08 16:45 ansible-devpi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-08 16:45 ansible-devpi-master/handlers/
+-rw-rw-r-- root/root        88 2019-03-08 16:45 ansible-devpi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-08 16:45 ansible-devpi-master/meta/
+-rw-rw-r-- root/root       266 2019-03-08 16:45 ansible-devpi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-08 16:45 ansible-devpi-master/tasks/
+-rw-rw-r-- root/root       678 2019-03-08 16:45 ansible-devpi-master/tasks/install_common.yml
+-rw-rw-r-- root/root      1393 2019-03-08 16:45 ansible-devpi-master/tasks/install_server.yml
+-rw-rw-r-- root/root       221 2019-03-08 16:45 ansible-devpi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-08 16:45 ansible-devpi-master/templates/
+-rw-rw-r-- root/root       491 2019-03-08 16:45 ansible-devpi-master/templates/devpi-server.service.j2
+-rw-rw-r-- root/root       226 2019-03-08 16:45 ansible-devpi-master/templates/devpi-web.service.j2
+drwxrwxr-x root/root         0 2019-03-08 16:45 ansible-devpi-master/vars/
+-rw-rw-r-- root/root         4 2019-03-08 16:45 ansible-devpi-master/vars/main.yml

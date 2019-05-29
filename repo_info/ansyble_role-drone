@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-27 01:16 role-drone-master/
+-rw-rw-r-- root/root        91 2017-09-27 01:16 role-drone-master/.gitignore
+-rw-rw-r-- root/root       735 2017-09-27 01:16 role-drone-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-09-27 01:16 role-drone-master/LICENSE
+-rw-rw-r-- root/root       806 2017-09-27 01:16 role-drone-master/README.md
+drwxrwxr-x root/root         0 2017-09-27 01:16 role-drone-master/defaults/
+-rw-rw-r-- root/root        82 2017-09-27 01:16 role-drone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-27 01:16 role-drone-master/meta/
+-rw-rw-r-- root/root       328 2017-09-27 01:16 role-drone-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-27 01:16 role-drone-master/tasks/
+-rw-rw-r-- root/root       154 2017-09-27 01:16 role-drone-master/tasks/client.yml
+-rw-rw-r-- root/root      1193 2017-09-27 01:16 role-drone-master/tasks/containers.yml
+-rw-rw-r-- root/root       127 2017-09-27 01:16 role-drone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-27 01:16 role-drone-master/tests/
+-rw-rw-r-- root/root        74 2017-09-27 01:16 role-drone-master/tests/playbook.yml
+-rw-rw-r-- root/root       162 2017-09-27 01:16 role-drone-master/tests/vars.yml

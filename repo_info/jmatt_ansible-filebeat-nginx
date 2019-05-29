@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-02-15 17:04 ansible-filebeat-nginx-master/
+-rw-rw-r-- root/root       647 2017-02-15 17:04 ansible-filebeat-nginx-master/.travis.yml
+-rw-rw-r-- root/root      1068 2017-02-15 17:04 ansible-filebeat-nginx-master/LICENSE
+-rw-rw-r-- root/root      1204 2017-02-15 17:04 ansible-filebeat-nginx-master/README.md
+drwxrwxr-x root/root         0 2017-02-15 17:04 ansible-filebeat-nginx-master/meta/
+-rw-rw-r-- root/root       486 2017-02-15 17:04 ansible-filebeat-nginx-master/meta/main.yml
+-rw-rw-r-- root/root        19 2017-02-15 17:04 ansible-filebeat-nginx-master/requirements.yml
+drwxrwxr-x root/root         0 2017-02-15 17:04 ansible-filebeat-nginx-master/tests/
+-rw-rw-r-- root/root         9 2017-02-15 17:04 ansible-filebeat-nginx-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-02-15 17:04 ansible-filebeat-nginx-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-16 03:00 ansible-role-nginx-master/
+-rw-rw-r-- root/root      1328 2018-03-16 03:00 ansible-role-nginx-master/README.md
+drwxrwxr-x root/root         0 2018-03-16 03:00 ansible-role-nginx-master/defaults/
+-rw-rw-r-- root/root       120 2018-03-16 03:00 ansible-role-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-16 03:00 ansible-role-nginx-master/handlers/
+-rw-rw-r-- root/root       164 2018-03-16 03:00 ansible-role-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-16 03:00 ansible-role-nginx-master/meta/
+-rw-rw-r-- root/root       259 2018-03-16 03:00 ansible-role-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-16 03:00 ansible-role-nginx-master/tasks/
+-rw-rw-r-- root/root       754 2018-03-16 03:00 ansible-role-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-16 03:00 ansible-role-nginx-master/templates/
+-rw-rw-r-- root/root       120 2018-03-16 03:00 ansible-role-nginx-master/templates/default.j2
+-rw-rw-r-- root/root       813 2018-03-16 03:00 ansible-role-nginx-master/templates/django.j2

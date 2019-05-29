@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/
+-rw-rw-r-- root/root        71 2018-10-17 06:37 ansible-ssh-master/.gitignore
+-rw-rw-r-- root/root     11317 2018-10-17 06:37 ansible-ssh-master/LICENSE
+-rw-rw-r-- root/root       320 2018-10-17 06:37 ansible-ssh-master/README.md
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/defaults/
+-rw-rw-r-- root/root        54 2018-10-17 06:37 ansible-ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/handlers/
+-rw-rw-r-- root/root        64 2018-10-17 06:37 ansible-ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/meta/
+-rw-rw-r-- root/root       356 2018-10-17 06:37 ansible-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/tasks/
+-rw-rw-r-- root/root        68 2018-10-17 06:37 ansible-ssh-master/tasks/main.yml
+-rw-rw-r-- root/root      1313 2018-10-17 06:37 ansible-ssh-master/tasks/ssh.yml
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/templates/
+-rw-rw-r-- root/root        93 2018-10-17 06:37 ansible-ssh-master/templates/1002-ssh.conf.j2
+-rw-rw-r-- root/root       134 2018-10-17 06:37 ansible-ssh-master/templates/1004-mosh.conf.j2
+-rw-rw-r-- root/root       959 2018-10-17 06:37 ansible-ssh-master/templates/ssh_config.j2
+-rw-rw-r-- root/root      1391 2018-10-17 06:37 ansible-ssh-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/tests/
+-rw-rw-r-- root/root        53 2018-10-17 06:37 ansible-ssh-master/tests/inventory
+-rw-rw-r-- root/root       162 2018-10-17 06:37 ansible-ssh-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-17 06:37 ansible-ssh-master/tests/roles/escapace.ssh -> ../../
+-rw-rw-r-- root/root       207 2018-10-17 06:37 ansible-ssh-master/tests/teardown.yml
+-rw-rw-r-- root/root       275 2018-10-17 06:37 ansible-ssh-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-17 06:37 ansible-ssh-master/vars/
+-rw-rw-r-- root/root        29 2018-10-17 06:37 ansible-ssh-master/vars/main.yml

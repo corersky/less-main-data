@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-10-11 12:30 ansible-mailcatcher-master/
+-rw-rw-r-- root/root       769 2016-10-11 12:30 ansible-mailcatcher-master/README.md
+drwxrwxr-x root/root         0 2016-10-11 12:30 ansible-mailcatcher-master/defaults/
+-rwxrwxr-x root/root        66 2016-10-11 12:30 ansible-mailcatcher-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-11 12:30 ansible-mailcatcher-master/meta/
+-rw-rw-r-- root/root       402 2016-10-11 12:30 ansible-mailcatcher-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-11 12:30 ansible-mailcatcher-master/tasks/
+-rw-rw-r-- root/root        55 2016-10-11 12:30 ansible-mailcatcher-master/tasks/main.yml
+-rw-rw-r-- root/root       972 2016-10-11 12:30 ansible-mailcatcher-master/tasks/trusty.yml
+-rw-rw-r-- root/root       962 2016-10-11 12:30 ansible-mailcatcher-master/tasks/xenial.yml
+drwxrwxr-x root/root         0 2016-10-11 12:30 ansible-mailcatcher-master/templates/
+-rwxrwxr-x root/root        96 2016-10-11 12:30 ansible-mailcatcher-master/templates/mailcatcher_php.j2
+-rwxrwxr-x root/root      4582 2016-10-11 12:30 ansible-mailcatcher-master/templates/mailcatcher_service.j2

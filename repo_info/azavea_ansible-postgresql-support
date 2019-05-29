@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-12 16:19 ansible-postgresql-support-master/
+-rw-rw-r-- root/root        74 2018-07-12 16:19 ansible-postgresql-support-master/.gitignore
+-rw-rw-r-- root/root       673 2018-07-12 16:19 ansible-postgresql-support-master/CHANGELOG.md
+-rw-rw-r-- root/root     11342 2018-07-12 16:19 ansible-postgresql-support-master/LICENSE
+-rw-rw-r-- root/root       625 2018-07-12 16:19 ansible-postgresql-support-master/README.md
+drwxrwxr-x root/root         0 2018-07-12 16:19 ansible-postgresql-support-master/defaults/
+-rw-rw-r-- root/root       146 2018-07-12 16:19 ansible-postgresql-support-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-12 16:19 ansible-postgresql-support-master/examples/
+-rw-rw-r-- root/root       630 2018-07-12 16:19 ansible-postgresql-support-master/examples/Vagrantfile
+-rw-rw-r-- root/root        73 2018-07-12 16:19 ansible-postgresql-support-master/examples/roles.yml
+drwxrwxr-x root/root         0 2018-07-12 16:19 ansible-postgresql-support-master/examples/roles/
+lrwxrwxrwx root/root         0 2018-07-12 16:19 ansible-postgresql-support-master/examples/roles/azavea.postgresql-support -> ../../
+-rw-rw-r-- root/root       142 2018-07-12 16:19 ansible-postgresql-support-master/examples/site.yml
+drwxrwxr-x root/root         0 2018-07-12 16:19 ansible-postgresql-support-master/meta/
+-rw-rw-r-- root/root       404 2018-07-12 16:19 ansible-postgresql-support-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-12 16:19 ansible-postgresql-support-master/tasks/
+-rw-rw-r-- root/root       684 2018-07-12 16:19 ansible-postgresql-support-master/tasks/main.yml

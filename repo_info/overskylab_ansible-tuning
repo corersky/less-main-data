@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-19 14:06 ansible-tuning-master/
+-rw-rw-r-- root/root      1051 2019-01-19 14:06 ansible-tuning-master/LICENSE
+-rw-rw-r-- root/root      3692 2019-01-19 14:06 ansible-tuning-master/README.md
+drwxrwxr-x root/root         0 2019-01-19 14:06 ansible-tuning-master/defaults/
+-rw-rw-r-- root/root      2441 2019-01-19 14:06 ansible-tuning-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-19 14:06 ansible-tuning-master/handlers/
+-rw-rw-r-- root/root         3 2019-01-19 14:06 ansible-tuning-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-19 14:06 ansible-tuning-master/meta/
+-rw-rw-r-- root/root       273 2019-01-19 14:06 ansible-tuning-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-19 14:06 ansible-tuning-master/tasks/
+-rw-rw-r-- root/root        59 2019-01-19 14:06 ansible-tuning-master/tasks/main.yml
+-rw-rw-r-- root/root      1069 2019-01-19 14:06 ansible-tuning-master/tasks/reboot.yml
+-rw-rw-r-- root/root      1226 2019-01-19 14:06 ansible-tuning-master/tasks/tuning.yml
+drwxrwxr-x root/root         0 2019-01-19 14:06 ansible-tuning-master/tests/
+-rw-rw-r-- root/root         9 2019-01-19 14:06 ansible-tuning-master/tests/inventory
+-rw-rw-r-- root/root        82 2019-01-19 14:06 ansible-tuning-master/tests/test.yml

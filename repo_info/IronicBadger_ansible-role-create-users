@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2019-04-19 13:07 ansible-role-create-users-master/
+-rw-rw-r-- root/root       235 2019-04-19 13:07 ansible-role-create-users-master/README.md
+drwxrwxr-x root/root         0 2019-04-19 13:07 ansible-role-create-users-master/defaults/
+-rw-rw-r-- root/root       116 2019-04-19 13:07 ansible-role-create-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-19 13:07 ansible-role-create-users-master/meta/
+-rw-rw-r-- root/root       285 2019-04-19 13:07 ansible-role-create-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-19 13:07 ansible-role-create-users-master/tasks/
+-rw-rw-r-- root/root       890 2019-04-19 13:07 ansible-role-create-users-master/tasks/create-users.yml
+-rw-rw-r-- root/root        53 2019-04-19 13:07 ansible-role-create-users-master/tasks/main.yml

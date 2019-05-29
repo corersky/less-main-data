@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-05-24 10:54 ansible-role-apt-http-proxy-master/
+-rw-rw-r-- root/root        25 2018-05-24 10:54 ansible-role-apt-http-proxy-master/.gitignore
+-rw-rw-r-- root/root       375 2018-05-24 10:54 ansible-role-apt-http-proxy-master/.travis.yml
+-rw-rw-r-- root/root      1060 2018-05-24 10:54 ansible-role-apt-http-proxy-master/LICENSE
+-rw-rw-r-- root/root       591 2018-05-24 10:54 ansible-role-apt-http-proxy-master/README.md
+drwxrwxr-x root/root         0 2018-05-24 10:54 ansible-role-apt-http-proxy-master/meta/
+-rw-rw-r-- root/root       256 2018-05-24 10:54 ansible-role-apt-http-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 10:54 ansible-role-apt-http-proxy-master/tasks/
+-rw-rw-r-- root/root       169 2018-05-24 10:54 ansible-role-apt-http-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-24 10:54 ansible-role-apt-http-proxy-master/templates/
+-rw-rw-r-- root/root       248 2018-05-24 10:54 ansible-role-apt-http-proxy-master/templates/01proxy.j2
+drwxrwxr-x root/root         0 2018-05-24 10:54 ansible-role-apt-http-proxy-master/tests/
+-rw-rw-r-- root/root         0 2018-05-24 10:54 ansible-role-apt-http-proxy-master/tests/inventory
+-rw-rw-r-- root/root       171 2018-05-24 10:54 ansible-role-apt-http-proxy-master/tests/test.yml

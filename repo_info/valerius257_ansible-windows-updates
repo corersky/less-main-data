@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-06-12 02:22 ansible-windows-updates-master/
+-rw-rw-r-- root/root      1300 2018-06-12 02:22 ansible-windows-updates-master/README.md
+drwxrwxr-x root/root         0 2018-06-12 02:22 ansible-windows-updates-master/defaults/
+-rw-rw-r-- root/root       569 2018-06-12 02:22 ansible-windows-updates-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-12 02:22 ansible-windows-updates-master/handlers/
+-rw-rw-r-- root/root       123 2018-06-12 02:22 ansible-windows-updates-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-12 02:22 ansible-windows-updates-master/meta/
+-rw-rw-r-- root/root       244 2018-06-12 02:22 ansible-windows-updates-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-12 02:22 ansible-windows-updates-master/tasks/
+-rw-rw-r-- root/root       127 2018-06-12 02:22 ansible-windows-updates-master/tasks/main.yml
+-rw-rw-r-- root/root       610 2018-06-12 02:22 ansible-windows-updates-master/tasks/win_hotfixes.yml
+-rw-rw-r-- root/root      1084 2018-06-12 02:22 ansible-windows-updates-master/tasks/win_updates.yml

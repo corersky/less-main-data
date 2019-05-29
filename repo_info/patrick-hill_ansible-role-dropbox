@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-28 14:07 ansible-role-dropbox-master/
+-rw-rw-r-- root/root         6 2017-05-28 14:07 ansible-role-dropbox-master/.gitignore
+-rw-rw-r-- root/root      1298 2017-05-28 14:07 ansible-role-dropbox-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-05-28 14:07 ansible-role-dropbox-master/LICENSE
+-rw-rw-r-- root/root      1175 2017-05-28 14:07 ansible-role-dropbox-master/README.md
+drwxrwxr-x root/root         0 2017-05-28 14:07 ansible-role-dropbox-master/defaults/
+-rw-rw-r-- root/root       109 2017-05-28 14:07 ansible-role-dropbox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-28 14:07 ansible-role-dropbox-master/meta/
+-rw-rw-r-- root/root       389 2017-05-28 14:07 ansible-role-dropbox-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-28 14:07 ansible-role-dropbox-master/tasks/
+-rw-rw-r-- root/root      2904 2017-05-28 14:07 ansible-role-dropbox-master/tasks/debian.yml
+-rw-rw-r-- root/root       154 2017-05-28 14:07 ansible-role-dropbox-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-28 14:07 ansible-role-dropbox-master/tests/
+-rw-rw-r-- root/root         9 2017-05-28 14:07 ansible-role-dropbox-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-05-28 14:07 ansible-role-dropbox-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-28 14:07 ansible-role-dropbox-master/vars/
+-rw-rw-r-- root/root       220 2017-05-28 14:07 ansible-role-dropbox-master/vars/main.yml

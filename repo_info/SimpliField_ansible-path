@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-11-10 06:23 ansible-path-master/
+-rw-rw-r-- root/root       986 2016-11-10 06:23 ansible-path-master/.travis.yml
+-rw-rw-r-- root/root       724 2016-11-10 06:23 ansible-path-master/README.md
+drwxrwxr-x root/root         0 2016-11-10 06:23 ansible-path-master/meta/
+-rw-rw-r-- root/root       295 2016-11-10 06:23 ansible-path-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-10 06:23 ansible-path-master/tasks/
+-rw-rw-r-- root/root       237 2016-11-10 06:23 ansible-path-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-10 06:23 ansible-path-master/tests/
+-rw-rw-r-- root/root         9 2016-11-10 06:23 ansible-path-master/tests/inventory
+-rw-rw-r-- root/root        98 2016-11-10 06:23 ansible-path-master/tests/test.yml

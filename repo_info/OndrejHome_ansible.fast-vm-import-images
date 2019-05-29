@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-18 02:55 ansible.fast-vm-import-images-master/
+-rw-rw-r-- root/root     35147 2019-05-18 02:55 ansible.fast-vm-import-images-master/LICENSE
+-rw-rw-r-- root/root      2205 2019-05-18 02:55 ansible.fast-vm-import-images-master/README.md
+drwxrwxr-x root/root         0 2019-05-18 02:55 ansible.fast-vm-import-images-master/defaults/
+-rw-rw-r-- root/root       649 2019-05-18 02:55 ansible.fast-vm-import-images-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-18 02:55 ansible.fast-vm-import-images-master/meta/
+-rw-rw-r-- root/root       257 2019-05-18 02:55 ansible.fast-vm-import-images-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/
+-rw-rw-r-- root/root      8842 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/centos6.yml
+-rw-rw-r-- root/root      5687 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/centos7.yml
+-rw-rw-r-- root/root      2451 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/debian.yml
+-rw-rw-r-- root/root      2093 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/fedora.yml
+-rw-rw-r-- root/root      1681 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/main.yml
+-rw-rw-r-- root/root     10019 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/rhel5.yml
+-rw-rw-r-- root/root     10920 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/rhel6.yml
+-rw-rw-r-- root/root      5813 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/rhel7.yml
+-rw-rw-r-- root/root      1321 2019-05-18 02:55 ansible.fast-vm-import-images-master/tasks/rhel8.yml

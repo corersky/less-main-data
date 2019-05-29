@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/
+-rw-rw-r-- root/root        66 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/.gitignore
+-rw-rw-r-- root/root      1507 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/LICENSE.mkd
+-rw-rw-r-- root/root      3204 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/defaults/
+-rw-rw-r-- root/root      1083 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/meta/
+-rw-rw-r-- root/root       558 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/tasks/
+-rw-rw-r-- root/root       563 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/templates/
+-rw-rw-r-- root/root      4769 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/templates/configmap.yml.j2
+-rw-rw-r-- root/root      3801 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/templates/cronjob.yml.j2
+-rw-rw-r-- root/root      3231 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       622 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       208 2019-05-06 20:48 ansible-role-kubernetes-ampache-master/templates/service.yml.j2

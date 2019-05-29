@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2015-05-05 04:14 ansible-buildpack-deps-scm-master/
+-rw-rw-r-- root/root      1077 2015-05-05 04:14 ansible-buildpack-deps-scm-master/README.md
+drwxrwxr-x root/root         0 2015-05-05 04:14 ansible-buildpack-deps-scm-master/meta/
+-rw-rw-r-- root/root      1575 2015-05-05 04:14 ansible-buildpack-deps-scm-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-05 04:14 ansible-buildpack-deps-scm-master/tasks/
+-rw-rw-r-- root/root       156 2015-05-05 04:14 ansible-buildpack-deps-scm-master/tasks/main.yml
+-rw-rw-r-- root/root       260 2015-05-05 04:14 ansible-buildpack-deps-scm-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2015-05-05 04:14 ansible-buildpack-deps-scm-master/vars/
+-rw-rw-r-- root/root       117 2015-05-05 04:14 ansible-buildpack-deps-scm-master/vars/Debian.yml

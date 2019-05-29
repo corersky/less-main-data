@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-01-10 06:19 ansible-role-kernel-config-master/
+-rw-rw-r-- root/root        28 2018-01-10 06:19 ansible-role-kernel-config-master/README.md
+drwxrwxr-x root/root         0 2018-01-10 06:19 ansible-role-kernel-config-master/meta/
+-rw-rw-r-- root/root       265 2018-01-10 06:19 ansible-role-kernel-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-10 06:19 ansible-role-kernel-config-master/tasks/
+-rw-rw-r-- root/root      1113 2018-01-10 06:19 ansible-role-kernel-config-master/tasks/kernel.yml
+-rw-rw-r-- root/root       131 2018-01-10 06:19 ansible-role-kernel-config-master/tasks/main.yml
+-rw-rw-r-- root/root       619 2018-01-10 06:19 ansible-role-kernel-config-master/tasks/memory.yml
+-rw-rw-r-- root/root      2976 2018-01-10 06:19 ansible-role-kernel-config-master/tasks/network.yml
+-rw-rw-r-- root/root      4632 2018-01-10 06:19 ansible-role-kernel-config-master/tasks/network_security.yml
+-rw-rw-r-- root/root       754 2018-01-10 06:19 ansible-role-kernel-config-master/tasks/security.yml

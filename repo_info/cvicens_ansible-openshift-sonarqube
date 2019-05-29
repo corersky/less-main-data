@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-15 06:59 ansible-openshift-sonarqube-master/
+-rw-rw-r-- root/root         8 2018-10-15 06:59 ansible-openshift-sonarqube-master/.gitignore
+-rw-rw-r-- root/root       148 2018-10-15 06:59 ansible-openshift-sonarqube-master/.travis.yml
+-rw-rw-r-- root/root      2558 2018-10-15 06:59 ansible-openshift-sonarqube-master/README.md
+drwxrwxr-x root/root         0 2018-10-15 06:59 ansible-openshift-sonarqube-master/defaults/
+-rw-rw-r-- root/root       455 2018-10-15 06:59 ansible-openshift-sonarqube-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-15 06:59 ansible-openshift-sonarqube-master/meta/
+-rw-rw-r-- root/root       318 2018-10-15 06:59 ansible-openshift-sonarqube-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-15 06:59 ansible-openshift-sonarqube-master/tasks/
+-rw-rw-r-- root/root      3416 2018-10-15 06:59 ansible-openshift-sonarqube-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-15 06:59 ansible-openshift-sonarqube-master/tests/
+-rw-rw-r-- root/root       288 2018-10-15 06:59 ansible-openshift-sonarqube-master/tests/README.md
+-rw-rw-r-- root/root         9 2018-10-15 06:59 ansible-openshift-sonarqube-master/tests/inventory
+-rw-rw-r-- root/root        61 2018-10-15 06:59 ansible-openshift-sonarqube-master/tests/test.yml

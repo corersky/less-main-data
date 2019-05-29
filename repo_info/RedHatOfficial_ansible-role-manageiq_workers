@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-03 16:36 ansible-role-manageiq_workers-master/
+-rw-rw-r-- root/root        14 2019-02-03 16:36 ansible-role-manageiq_workers-master/.gitignore
+-rw-rw-r-- root/root     11357 2019-02-03 16:36 ansible-role-manageiq_workers-master/LICENSE
+-rw-rw-r-- root/root      5721 2019-02-03 16:36 ansible-role-manageiq_workers-master/README.md
+drwxrwxr-x root/root         0 2019-02-03 16:36 ansible-role-manageiq_workers-master/defaults/
+-rw-rw-r-- root/root      1736 2019-02-03 16:36 ansible-role-manageiq_workers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-03 16:36 ansible-role-manageiq_workers-master/library/
+-rw-rw-r-- root/root      7015 2019-02-03 16:36 ansible-role-manageiq_workers-master/library/manageiq_config.py
+drwxrwxr-x root/root         0 2019-02-03 16:36 ansible-role-manageiq_workers-master/meta/
+-rw-rw-r-- root/root       493 2019-02-03 16:36 ansible-role-manageiq_workers-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-03 16:36 ansible-role-manageiq_workers-master/tasks/
+-rw-rw-r-- root/root      3262 2019-02-03 16:36 ansible-role-manageiq_workers-master/tasks/configure-combined.yml
+-rw-rw-r-- root/root      6507 2019-02-03 16:36 ansible-role-manageiq_workers-master/tasks/configure-seperate.yml
+-rw-rw-r-- root/root       563 2019-02-03 16:36 ansible-role-manageiq_workers-master/tasks/main.yml
+-rw-rw-r-- root/root      6134 2019-02-03 16:36 ansible-role-manageiq_workers-master/tasks/validate.yml
+drwxrwxr-x root/root         0 2019-02-03 16:36 ansible-role-manageiq_workers-master/vars/
+-rw-rw-r-- root/root      2103 2019-02-03 16:36 ansible-role-manageiq_workers-master/vars/main.yml

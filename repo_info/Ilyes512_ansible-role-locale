@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-09 16:45 ansible-role-locale-master/
+-rw-rw-r-- root/root      1024 2016-08-09 16:45 ansible-role-locale-master/.travis.yml
+-rw-rw-r-- root/root       591 2016-08-09 16:45 ansible-role-locale-master/README.md
+drwxrwxr-x root/root         0 2016-08-09 16:45 ansible-role-locale-master/defaults/
+-rw-rw-r-- root/root      2136 2016-08-09 16:45 ansible-role-locale-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-09 16:45 ansible-role-locale-master/meta/
+-rw-rw-r-- root/root       333 2016-08-09 16:45 ansible-role-locale-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-09 16:45 ansible-role-locale-master/tasks/
+-rw-rw-r-- root/root       477 2016-08-09 16:45 ansible-role-locale-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-09 16:45 ansible-role-locale-master/templates/
+-rw-rw-r-- root/root       581 2016-08-09 16:45 ansible-role-locale-master/templates/locale.j2
+drwxrwxr-x root/root         0 2016-08-09 16:45 ansible-role-locale-master/tests/
+-rw-rw-r-- root/root         9 2016-08-09 16:45 ansible-role-locale-master/tests/inventory
+-rw-rw-r-- root/root       116 2016-08-09 16:45 ansible-role-locale-master/tests/test.yml

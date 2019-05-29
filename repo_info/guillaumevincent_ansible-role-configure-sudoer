@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-configure-sudoer-master/
+-rw-rw-r-- root/root       680 2017-10-08 11:47 ansible-role-configure-sudoer-master/.travis.yml
+-rw-rw-r-- root/root       361 2017-10-08 11:47 ansible-role-configure-sudoer-master/README.md
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-configure-sudoer-master/meta/
+-rw-rw-r-- root/root       351 2017-10-08 11:47 ansible-role-configure-sudoer-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-configure-sudoer-master/tasks/
+-rw-rw-r-- root/root       758 2017-10-08 11:47 ansible-role-configure-sudoer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-configure-sudoer-master/templates/
+-rw-rw-r-- root/root        60 2017-10-08 11:47 ansible-role-configure-sudoer-master/templates/sudoers.d.j2
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-configure-sudoer-master/tests/
+-rw-rw-r-- root/root         9 2017-10-08 11:47 ansible-role-configure-sudoer-master/tests/inventory
+-rw-rw-r-- root/root       932 2017-10-08 11:47 ansible-role-configure-sudoer-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-08 11:47 ansible-role-configure-sudoer-master/vars/
+-rw-rw-r-- root/root        60 2017-10-08 11:47 ansible-role-configure-sudoer-master/vars/main.yml

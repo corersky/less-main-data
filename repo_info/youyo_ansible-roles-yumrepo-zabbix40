@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/defaults/
+-rw-rw-r-- root/root        54 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/handlers/
+-rw-rw-r-- root/root        54 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/meta/
+-rw-rw-r-- root/root       303 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/tasks/
+-rw-rw-r-- root/root       152 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/tasks/amzn.yml
+-rw-rw-r-- root/root       152 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/tasks/el6.yml -> amzn.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       468 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/vars/
+-rw-rw-r-- root/root        50 2018-11-19 12:56 ansible-roles-yumrepo-zabbix40-master/vars/main.yml

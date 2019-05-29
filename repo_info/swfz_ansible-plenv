@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-09 04:50 ansible-plenv-master/
+-rw-rw-r-- root/root      1275 2017-02-09 04:50 ansible-plenv-master/README.md
+drwxrwxr-x root/root         0 2017-02-09 04:50 ansible-plenv-master/defaults/
+-rw-rw-r-- root/root        30 2017-02-09 04:50 ansible-plenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-09 04:50 ansible-plenv-master/handlers/
+-rw-rw-r-- root/root        30 2017-02-09 04:50 ansible-plenv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-09 04:50 ansible-plenv-master/meta/
+-rw-rw-r-- root/root       225 2017-02-09 04:50 ansible-plenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-09 04:50 ansible-plenv-master/tasks/
+-rw-rw-r-- root/root       134 2017-02-09 04:50 ansible-plenv-master/tasks/centos.yml
+-rw-rw-r-- root/root      2013 2017-02-09 04:50 ansible-plenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-09 04:50 ansible-plenv-master/templates/
+-rw-rw-r-- root/root       233 2017-02-09 04:50 ansible-plenv-master/templates/env.j2
+-rw-rw-r-- root/root       132 2017-02-09 04:50 ansible-plenv-master/templates/plenv.sh.j2
+drwxrwxr-x root/root         0 2017-02-09 04:50 ansible-plenv-master/vars/
+-rw-rw-r-- root/root       432 2017-02-09 04:50 ansible-plenv-master/vars/main.yml

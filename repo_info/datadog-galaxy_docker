@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-31 07:32 docker-master/
+-rw-rw-r-- root/root       293 2016-08-31 07:32 docker-master/README.md
+drwxrwxr-x root/root         0 2016-08-31 07:32 docker-master/files/
+-rw-rw-r-- root/root       156 2016-08-31 07:32 docker-master/files/docker.repo
+drwxrwxr-x root/root         0 2016-08-31 07:32 docker-master/handlers/
+-rw-rw-r-- root/root       125 2016-08-31 07:32 docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-31 07:32 docker-master/meta/
+-rw-rw-r-- root/root       222 2016-08-31 07:32 docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-31 07:32 docker-master/tasks/
+-rw-rw-r-- root/root       226 2016-08-31 07:32 docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-31 07:32 docker-master/tests/
+-rw-rw-r-- root/root         9 2016-08-31 07:32 docker-master/tests/inventory
+-rw-rw-r-- root/root        63 2016-08-31 07:32 docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-31 07:32 docker-master/vars/
+-rw-rw-r-- root/root        27 2016-08-31 07:32 docker-master/vars/main.yml

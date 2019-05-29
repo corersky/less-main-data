@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-09-21 08:11 ansible-role-pam_limits-master/
+-rw-rw-r-- root/root         7 2018-09-21 08:11 ansible-role-pam_limits-master/.gitignore
+-rw-rw-r-- root/root       504 2018-09-21 08:11 ansible-role-pam_limits-master/README.md
+drwxrwxr-x root/root         0 2018-09-21 08:11 ansible-role-pam_limits-master/defaults/
+-rw-rw-r-- root/root        88 2018-09-21 08:11 ansible-role-pam_limits-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-21 08:11 ansible-role-pam_limits-master/meta/
+-rw-rw-r-- root/root       306 2018-09-21 08:11 ansible-role-pam_limits-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-21 08:11 ansible-role-pam_limits-master/tasks/
+-rw-rw-r-- root/root        99 2018-09-21 08:11 ansible-role-pam_limits-master/tasks/main.yml
+-rw-rw-r-- root/root       208 2018-09-21 08:11 ansible-role-pam_limits-master/tasks/provision.yml

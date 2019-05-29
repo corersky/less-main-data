@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-01-20 11:26 ansible-control-sudoers-master/
+-rw-rw-r-- root/root      3404 2017-01-20 11:26 ansible-control-sudoers-master/.travis.yml
+-rw-rw-r-- root/root      1798 2017-01-20 11:26 ansible-control-sudoers-master/README.md
+-rw-rw-r-- root/root      1961 2017-01-20 11:26 ansible-control-sudoers-master/license.md
+drwxrwxr-x root/root         0 2017-01-20 11:26 ansible-control-sudoers-master/meta/
+-rw-rw-r-- root/root       351 2017-01-20 11:26 ansible-control-sudoers-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-20 11:26 ansible-control-sudoers-master/tasks/
+-rw-rw-r-- root/root      1261 2017-01-20 11:26 ansible-control-sudoers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-20 11:26 ansible-control-sudoers-master/tests/
+-rw-rw-r-- root/root         9 2017-01-20 11:26 ansible-control-sudoers-master/tests/inventory
+-rw-rw-r-- root/root        70 2017-01-20 11:26 ansible-control-sudoers-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-20 11:26 ansible-control-sudoers-master/vars/
+-rw-rw-r-- root/root        44 2017-01-20 11:26 ansible-control-sudoers-master/vars/main.yml

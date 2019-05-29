@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-10 09:34 ansible-gitlab-master/
+-rw-rw-r-- root/root         8 2017-07-10 09:34 ansible-gitlab-master/.gitignore
+-rw-rw-r-- root/root      1098 2017-07-10 09:34 ansible-gitlab-master/LICENSE
+-rw-rw-r-- root/root      2627 2017-07-10 09:34 ansible-gitlab-master/README.md
+-rw-rw-r-- root/root         6 2017-07-10 09:34 ansible-gitlab-master/VERSION
+drwxrwxr-x root/root         0 2017-07-10 09:34 ansible-gitlab-master/defaults/
+-rw-rw-r-- root/root      1908 2017-07-10 09:34 ansible-gitlab-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-10 09:34 ansible-gitlab-master/handlers/
+-rw-rw-r-- root/root        61 2017-07-10 09:34 ansible-gitlab-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-10 09:34 ansible-gitlab-master/meta/
+-rw-rw-r-- root/root       320 2017-07-10 09:34 ansible-gitlab-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-10 09:34 ansible-gitlab-master/tasks/
+-rw-rw-r-- root/root      2109 2017-07-10 09:34 ansible-gitlab-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-10 09:34 ansible-gitlab-master/templates/
+-rw-rw-r-- root/root     10407 2017-07-10 09:34 ansible-gitlab-master/templates/gitlab.rb.j2

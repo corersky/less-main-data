@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-24 08:38 mysql-master/
+-rw-rw-r-- root/root      1336 2019-05-24 08:38 mysql-master/LICENSE
+-rw-rw-r-- root/root      1073 2019-05-24 08:38 mysql-master/README.md
+drwxrwxr-x root/root         0 2019-05-24 08:38 mysql-master/defaults/
+-rw-rw-r-- root/root       220 2019-05-24 08:38 mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-24 08:38 mysql-master/meta/
+-rw-rw-r-- root/root      1973 2019-05-24 08:38 mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-24 08:38 mysql-master/tasks/
+-rw-rw-r-- root/root       640 2019-05-24 08:38 mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-24 08:38 mysql-master/templates/
+-rw-rw-r-- root/root       525 2019-05-24 08:38 mysql-master/templates/docker-compose.yaml.j2

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-sqlite-master/
+-rw-rw-r-- root/root        37 2018-03-07 18:12 role-sqlite-master/.gitignore
+-rw-rw-r-- root/root       844 2018-03-07 18:12 role-sqlite-master/.travis.yml
+-rw-rw-r-- root/root      1100 2018-03-07 18:12 role-sqlite-master/LICENSE
+-rw-rw-r-- root/root       925 2018-03-07 18:12 role-sqlite-master/README.md
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-sqlite-master/meta/
+-rw-rw-r-- root/root       347 2018-03-07 18:12 role-sqlite-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-sqlite-master/tasks/
+-rw-rw-r-- root/root       124 2018-03-07 18:12 role-sqlite-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:12 role-sqlite-master/tests/
+-rw-rw-r-- root/root        10 2018-03-07 18:12 role-sqlite-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-03-07 18:12 role-sqlite-master/tests/test.yml

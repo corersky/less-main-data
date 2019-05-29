@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-02 11:17 ansible-user-management-master/
+-rw-rw-r-- root/root        20 2018-01-02 11:17 ansible-user-management-master/.gitignore
+-rw-rw-r-- root/root      2823 2018-01-02 11:17 ansible-user-management-master/.travis.yml
+-rw-rw-r-- root/root      1079 2018-01-02 11:17 ansible-user-management-master/LICENSE.md
+-rw-rw-r-- root/root      3415 2018-01-02 11:17 ansible-user-management-master/README.md
+drwxrwxr-x root/root         0 2018-01-02 11:17 ansible-user-management-master/defaults/
+-rw-rw-r-- root/root       760 2018-01-02 11:17 ansible-user-management-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-02 11:17 ansible-user-management-master/meta/
+-rw-rw-r-- root/root       493 2018-01-02 11:17 ansible-user-management-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-02 11:17 ansible-user-management-master/tasks/
+-rw-rw-r-- root/root       400 2018-01-02 11:17 ansible-user-management-master/tasks/add_users.yaml
+-rw-rw-r-- root/root       188 2018-01-02 11:17 ansible-user-management-master/tasks/delete_users.yaml
+-rw-rw-r-- root/root        71 2018-01-02 11:17 ansible-user-management-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-01-02 11:17 ansible-user-management-master/tests/
+-rw-rw-r-- root/root        38 2018-01-02 11:17 ansible-user-management-master/tests/inventory
+-rw-rw-r-- root/root      1164 2018-01-02 11:17 ansible-user-management-master/tests/multikey.yml
+-rw-rw-r-- root/root        74 2018-01-02 11:17 ansible-user-management-master/tests/test.yml

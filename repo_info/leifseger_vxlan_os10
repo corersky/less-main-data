@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-17 07:30 vxlan_os10-master/
+-rw-rw-r-- root/root         1 2018-12-17 07:30 vxlan_os10-master/LICENSE
+-rw-rw-r-- root/root      1207 2018-12-17 07:30 vxlan_os10-master/README.md
+drwxrwxr-x root/root         0 2018-12-17 07:30 vxlan_os10-master/defaults/
+-rw-rw-r-- root/root         1 2018-12-17 07:30 vxlan_os10-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:30 vxlan_os10-master/handler/
+-rw-rw-r-- root/root         1 2018-12-17 07:30 vxlan_os10-master/handler/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:30 vxlan_os10-master/meta/
+-rw-rw-r-- root/root       235 2018-12-17 07:30 vxlan_os10-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:30 vxlan_os10-master/metadata/
+-rw-rw-r-- root/root       236 2018-12-17 07:30 vxlan_os10-master/metadata/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:30 vxlan_os10-master/tasks/
+-rw-rw-r-- root/root       617 2018-12-17 07:30 vxlan_os10-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-17 07:30 vxlan_os10-master/templates/
+-rw-rw-r-- root/root      3725 2018-12-17 07:30 vxlan_os10-master/templates/vxlan.j2
+drwxrwxr-x root/root         0 2018-12-17 07:30 vxlan_os10-master/vars/
+-rw-rw-r-- root/root         1 2018-12-17 07:30 vxlan_os10-master/vars/main.yml

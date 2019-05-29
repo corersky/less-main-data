@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-03-28 17:02 ansible-role-blog-ghost-master/
+-rw-rw-r-- root/root       539 2016-03-28 17:02 ansible-role-blog-ghost-master/.travis.yml
+-rw-rw-r-- root/root      1083 2016-03-28 17:02 ansible-role-blog-ghost-master/LICENSE
+-rw-rw-r-- root/root      1060 2016-03-28 17:02 ansible-role-blog-ghost-master/README.md
+drwxrwxr-x root/root         0 2016-03-28 17:02 ansible-role-blog-ghost-master/defaults/
+-rw-rw-r-- root/root       537 2016-03-28 17:02 ansible-role-blog-ghost-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-28 17:02 ansible-role-blog-ghost-master/handlers/
+-rw-rw-r-- root/root       125 2016-03-28 17:02 ansible-role-blog-ghost-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-28 17:02 ansible-role-blog-ghost-master/meta/
+-rw-rw-r-- root/root       886 2016-03-28 17:02 ansible-role-blog-ghost-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-28 17:02 ansible-role-blog-ghost-master/tasks/
+-rw-rw-r-- root/root       532 2016-03-28 17:02 ansible-role-blog-ghost-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-28 17:02 ansible-role-blog-ghost-master/tests/
+-rw-rw-r-- root/root         9 2016-03-28 17:02 ansible-role-blog-ghost-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-03-28 17:02 ansible-role-blog-ghost-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-28 17:02 ansible-role-blog-ghost-master/vars/
+-rw-rw-r-- root/root        31 2016-03-28 17:02 ansible-role-blog-ghost-master/vars/main.yml

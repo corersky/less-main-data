@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-09-27 06:12 ansible-role-vim-master/
+-rw-rw-r-- root/root       396 2015-09-27 06:12 ansible-role-vim-master/.travis.yml
+-rw-rw-r-- root/root       418 2015-09-27 06:12 ansible-role-vim-master/README.md
+drwxrwxr-x root/root         0 2015-09-27 06:12 ansible-role-vim-master/meta/
+-rw-rw-r-- root/root       345 2015-09-27 06:12 ansible-role-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-27 06:12 ansible-role-vim-master/tasks/
+-rw-rw-r-- root/root       148 2015-09-27 06:12 ansible-role-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-27 06:12 ansible-role-vim-master/tests/
+-rw-rw-r-- root/root        10 2015-09-27 06:12 ansible-role-vim-master/tests/inventory
+-rw-rw-r-- root/root        76 2015-09-27 06:12 ansible-role-vim-master/tests/travis.yml

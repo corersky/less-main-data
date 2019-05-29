@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-09 15:27 aspects_firewalld-master/
+-rw-rw-r-- root/root       546 2019-01-09 15:27 aspects_firewalld-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1086 2019-01-09 15:27 aspects_firewalld-master/LICENSE
+-rw-rw-r-- root/root      3633 2019-01-09 15:27 aspects_firewalld-master/README.md
+drwxrwxr-x root/root         0 2019-01-09 15:27 aspects_firewalld-master/defaults/
+-rw-rw-r-- root/root       306 2019-01-09 15:27 aspects_firewalld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-09 15:27 aspects_firewalld-master/handlers/
+-rw-rw-r-- root/root       478 2019-01-09 15:27 aspects_firewalld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-09 15:27 aspects_firewalld-master/meta/
+-rw-rw-r-- root/root       555 2019-01-09 15:27 aspects_firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-09 15:27 aspects_firewalld-master/tasks/
+-rw-rw-r-- root/root       134 2019-01-09 15:27 aspects_firewalld-master/tasks/main.yml
+-rw-rw-r-- root/root       627 2019-01-09 15:27 aspects_firewalld-master/tasks/tasks.yml
+drwxrwxr-x root/root         0 2019-01-09 15:27 aspects_firewalld-master/templates/
+-rw-rw-r-- root/root      3867 2019-01-09 15:27 aspects_firewalld-master/templates/etc-firewalld-zones-zone.xml.j2

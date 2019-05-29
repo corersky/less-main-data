@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-05-03 12:12 ansible-celery-master/
+-rw-rw-r-- root/root       629 2016-05-03 12:12 ansible-celery-master/README.md
+drwxrwxr-x root/root         0 2016-05-03 12:12 ansible-celery-master/defaults/
+-rw-rw-r-- root/root       255 2016-05-03 12:12 ansible-celery-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-03 12:12 ansible-celery-master/handlers/
+-rw-rw-r-- root/root         0 2016-05-03 12:12 ansible-celery-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-03 12:12 ansible-celery-master/meta/
+-rw-rw-r-- root/root       248 2016-05-03 12:12 ansible-celery-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-03 12:12 ansible-celery-master/tasks/
+-rw-rw-r-- root/root      1081 2016-05-03 12:12 ansible-celery-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-03 12:12 ansible-celery-master/templates/
+-rw-rw-r-- root/root     10290 2016-05-03 12:12 ansible-celery-master/templates/celery-init.j2
+-rw-rw-r-- root/root       228 2016-05-03 12:12 ansible-celery-master/templates/celery-logrotate.j2

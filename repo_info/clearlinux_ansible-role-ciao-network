@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-network-master/
+-rw-rw-r-- root/root     10174 2016-10-20 15:08 ansible-role-ciao-network-master/LICENSE
+-rw-rw-r-- root/root       835 2016-10-20 15:08 ansible-role-ciao-network-master/README.md
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-network-master/handlers/
+-rw-rw-r-- root/root       684 2016-10-20 15:08 ansible-role-ciao-network-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-network-master/meta/
+-rw-rw-r-- root/root       423 2016-10-20 15:08 ansible-role-ciao-network-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-network-master/tasks/
+-rw-rw-r-- root/root      1083 2016-10-20 15:08 ansible-role-ciao-network-master/tasks/images.yml
+-rw-rw-r-- root/root      1037 2016-10-20 15:08 ansible-role-ciao-network-master/tasks/install.yml
+-rw-rw-r-- root/root       671 2016-10-20 15:08 ansible-role-ciao-network-master/tasks/main.yml
+-rw-rw-r-- root/root       921 2016-10-20 15:08 ansible-role-ciao-network-master/tasks/startservices.yml
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-network-master/templates/
+-rw-rw-r-- root/root       400 2016-10-20 15:08 ansible-role-ciao-network-master/templates/ciao-network.service.j2

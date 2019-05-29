@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-03-21 05:59 ansible-role-logentries-master/
+-rw-rw-r-- root/root      1096 2018-03-21 05:59 ansible-role-logentries-master/README.md
+drwxrwxr-x root/root         0 2018-03-21 05:59 ansible-role-logentries-master/defaults/
+-rw-rw-r-- root/root        34 2018-03-21 05:59 ansible-role-logentries-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-21 05:59 ansible-role-logentries-master/files/
+-rw-rw-r-- root/root       957 2018-03-21 05:59 ansible-role-logentries-master/files/logentries.conf
+drwxrwxr-x root/root         0 2018-03-21 05:59 ansible-role-logentries-master/handlers/
+-rw-rw-r-- root/root        34 2018-03-21 05:59 ansible-role-logentries-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-21 05:59 ansible-role-logentries-master/meta/
+-rw-rw-r-- root/root      1579 2018-03-21 05:59 ansible-role-logentries-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-21 05:59 ansible-role-logentries-master/tasks/
+-rw-rw-r-- root/root       499 2018-03-21 05:59 ansible-role-logentries-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-21 05:59 ansible-role-logentries-master/tests/
+-rw-rw-r-- root/root        11 2018-03-21 05:59 ansible-role-logentries-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-03-21 05:59 ansible-role-logentries-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-21 05:59 ansible-role-logentries-master/vars/
+-rw-rw-r-- root/root        30 2018-03-21 05:59 ansible-role-logentries-master/vars/main.yml

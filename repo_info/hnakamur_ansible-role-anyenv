@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-09-08 19:44 ansible-role-anyenv-master/
+-rw-rw-r-- root/root      1384 2014-09-08 19:44 ansible-role-anyenv-master/README.md
+drwxrwxr-x root/root         0 2014-09-08 19:44 ansible-role-anyenv-master/defaults/
+-rw-rw-r-- root/root       341 2014-09-08 19:44 ansible-role-anyenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-08 19:44 ansible-role-anyenv-master/meta/
+-rw-rw-r-- root/root       256 2014-09-08 19:44 ansible-role-anyenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-08 19:44 ansible-role-anyenv-master/tasks/
+-rw-rw-r-- root/root       967 2014-09-08 19:44 ansible-role-anyenv-master/tasks/env-version.yml
+-rw-rw-r-- root/root       547 2014-09-08 19:44 ansible-role-anyenv-master/tasks/main.yml
+-rw-rw-r-- root/root       526 2014-09-08 19:44 ansible-role-anyenv-master/tasks/ndenv-version.yml
+-rw-rw-r-- root/root       584 2014-09-08 19:44 ansible-role-anyenv-master/tasks/rbenv-version.yml
+drwxrwxr-x root/root         0 2014-09-08 19:44 ansible-role-anyenv-master/templates/
+-rw-rw-r-- root/root       132 2014-09-08 19:44 ansible-role-anyenv-master/templates/anyenv.rc.j2

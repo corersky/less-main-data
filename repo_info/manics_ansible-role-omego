@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-20 10:58 ansible-role-omego-master/
+-rw-rw-r-- root/root        20 2017-03-20 10:58 ansible-role-omego-master/.gitignore
+-rw-rw-r-- root/root       219 2017-03-20 10:58 ansible-role-omego-master/.travis.yml
+-rw-rw-r-- root/root       274 2017-03-20 10:58 ansible-role-omego-master/README.md
+drwxrwxr-x root/root         0 2017-03-20 10:58 ansible-role-omego-master/meta/
+-rw-rw-r-- root/root       374 2017-03-20 10:58 ansible-role-omego-master/meta/main.yml
+-rw-rw-r-- root/root       427 2017-03-20 10:58 ansible-role-omego-master/molecule.yml
+-rw-rw-r-- root/root        57 2017-03-20 10:58 ansible-role-omego-master/playbook.yml
+drwxrwxr-x root/root         0 2017-03-20 10:58 ansible-role-omego-master/tasks/
+-rw-rw-r-- root/root       371 2017-03-20 10:58 ansible-role-omego-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-20 10:58 ansible-role-omego-master/tests/
+-rw-rw-r-- root/root        35 2017-03-20 10:58 ansible-role-omego-master/tests/requirements.yml
+-rw-rw-r-- root/root       303 2017-03-20 10:58 ansible-role-omego-master/tests/test_default.py

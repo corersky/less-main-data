@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-22 17:08 jboss-ansible-role-master/
+-rw-rw-r-- root/root       704 2017-09-22 17:08 jboss-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-09-22 17:08 jboss-ansible-role-master/files/
+-rw-rw-r-- root/root      3740 2017-09-22 17:08 jboss-ansible-role-master/files/jboss-as-standalone.sh
+drwxrwxr-x root/root         0 2017-09-22 17:08 jboss-ansible-role-master/handlers/
+-rw-rw-r-- root/root       131 2017-09-22 17:08 jboss-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-22 17:08 jboss-ansible-role-master/meta/
+-rw-rw-r-- root/root      1355 2017-09-22 17:08 jboss-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-22 17:08 jboss-ansible-role-master/tasks/
+-rw-rw-r-- root/root      2212 2017-09-22 17:08 jboss-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-22 17:08 jboss-ansible-role-master/templates/
+-rw-rw-r-- root/root       544 2017-09-22 17:08 jboss-ansible-role-master/templates/iptables-save
+-rw-rw-r-- root/root       389 2017-09-22 17:08 jboss-ansible-role-master/templates/jboss-as-standalone.service
+-rw-rw-r-- root/root      3740 2017-09-22 17:08 jboss-ansible-role-master/templates/jboss-as-standalone.sh
+-rw-rw-r-- root/root     15424 2017-09-22 17:08 jboss-ansible-role-master/templates/standalone.xml

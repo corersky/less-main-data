@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-11-28 23:21 ansible-role-ufw-master/
+-rw-rw-r-- root/root         0 2014-11-28 23:21 ansible-role-ufw-master/.gitignore
+-rw-rw-r-- root/root      1055 2014-11-28 23:21 ansible-role-ufw-master/LICENSE.md
+-rw-rw-r-- root/root       524 2014-11-28 23:21 ansible-role-ufw-master/README.md
+drwxrwxr-x root/root         0 2014-11-28 23:21 ansible-role-ufw-master/defaults/
+-rw-rw-r-- root/root       302 2014-11-28 23:21 ansible-role-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-28 23:21 ansible-role-ufw-master/meta/
+-rw-rw-r-- root/root       288 2014-11-28 23:21 ansible-role-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-28 23:21 ansible-role-ufw-master/tasks/
+-rw-rw-r-- root/root       777 2014-11-28 23:21 ansible-role-ufw-master/tasks/app_profile.yml
+-rw-rw-r-- root/root       322 2014-11-28 23:21 ansible-role-ufw-master/tasks/main.yml
+-rw-rw-r-- root/root       547 2014-11-28 23:21 ansible-role-ufw-master/tasks/ssh.yml

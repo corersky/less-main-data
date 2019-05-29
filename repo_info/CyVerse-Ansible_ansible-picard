@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-26 13:34 ansible-picard-master/
+-rw-rw-r-- root/root      1945 2017-07-26 13:34 ansible-picard-master/LICENSE.txt
+-rw-rw-r-- root/root       587 2017-07-26 13:34 ansible-picard-master/README.md
+drwxrwxr-x root/root         0 2017-07-26 13:34 ansible-picard-master/defaults/
+-rw-rw-r-- root/root        23 2017-07-26 13:34 ansible-picard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:34 ansible-picard-master/meta/
+-rw-rw-r-- root/root       327 2017-07-26 13:34 ansible-picard-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:34 ansible-picard-master/tasks/
+-rw-rw-r-- root/root       684 2017-07-26 13:34 ansible-picard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:34 ansible-picard-master/vars/
+-rw-rw-r-- root/root        32 2017-07-26 13:34 ansible-picard-master/vars/CentOS.yml
+-rw-rw-r-- root/root        36 2017-07-26 13:34 ansible-picard-master/vars/Ubuntu-14.yml
+-rw-rw-r-- root/root        27 2017-07-26 13:34 ansible-picard-master/vars/Ubuntu-16.yml

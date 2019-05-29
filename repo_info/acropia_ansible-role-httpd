@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-15 06:42 ansible-role-httpd-master/
+-rw-rw-r-- root/root       539 2017-01-15 06:42 ansible-role-httpd-master/.travis.yml
+-rw-rw-r-- root/root       919 2017-01-15 06:42 ansible-role-httpd-master/README.md
+drwxrwxr-x root/root         0 2017-01-15 06:42 ansible-role-httpd-master/defaults/
+-rw-rw-r-- root/root       125 2017-01-15 06:42 ansible-role-httpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-15 06:42 ansible-role-httpd-master/meta/
+-rw-rw-r-- root/root       294 2017-01-15 06:42 ansible-role-httpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-15 06:42 ansible-role-httpd-master/tasks/
+-rw-rw-r-- root/root       190 2017-01-15 06:42 ansible-role-httpd-master/tasks/main.yml
+-rw-rw-r-- root/root        31 2017-01-15 06:42 ansible-role-httpd-master/tasks/main.yml.old
+drwxrwxr-x root/root         0 2017-01-15 06:42 ansible-role-httpd-master/templates/
+-rw-rw-r-- root/root     11800 2017-01-15 06:42 ansible-role-httpd-master/templates/httpd.conf.j2
+-rw-rw-r-- root/root     11753 2017-01-15 06:42 ansible-role-httpd-master/templates/httpd.conf.org
+drwxrwxr-x root/root         0 2017-01-15 06:42 ansible-role-httpd-master/tests/
+-rw-rw-r-- root/root         9 2017-01-15 06:42 ansible-role-httpd-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-01-15 06:42 ansible-role-httpd-master/tests/test.yml

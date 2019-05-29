@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-06 23:47 pbis-ansible-role-master/
+-rw-rw-r-- root/root      1200 2017-07-06 23:47 pbis-ansible-role-master/.travis.yml
+-rw-rw-r-- root/root       653 2017-07-06 23:47 pbis-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-07-06 23:47 pbis-ansible-role-master/defaults/
+-rw-rw-r-- root/root       311 2017-07-06 23:47 pbis-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-06 23:47 pbis-ansible-role-master/handlers/
+-rw-rw-r-- root/root       106 2017-07-06 23:47 pbis-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-06 23:47 pbis-ansible-role-master/meta/
+-rw-rw-r-- root/root      1239 2017-07-06 23:47 pbis-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-06 23:47 pbis-ansible-role-master/tasks/
+-rw-rw-r-- root/root       932 2017-07-06 23:47 pbis-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-06 23:47 pbis-ansible-role-master/tests/
+-rw-rw-r-- root/root        11 2017-07-06 23:47 pbis-ansible-role-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-07-06 23:47 pbis-ansible-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-06 23:47 pbis-ansible-role-master/vars/
+-rw-rw-r-- root/root        37 2017-07-06 23:47 pbis-ansible-role-master/vars/main.yml

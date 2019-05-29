@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-02 14:11 ansible-role-crontabs-master/
+-rw-rw-r-- root/root      1137 2018-02-02 14:11 ansible-role-crontabs-master/.travis.yml
+-rw-rw-r-- root/root      1098 2018-02-02 14:11 ansible-role-crontabs-master/README.md
+drwxrwxr-x root/root         0 2018-02-02 14:11 ansible-role-crontabs-master/defaults/
+-rw-rw-r-- root/root        17 2018-02-02 14:11 ansible-role-crontabs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-02 14:11 ansible-role-crontabs-master/meta/
+-rw-rw-r-- root/root       351 2018-02-02 14:11 ansible-role-crontabs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-02 14:11 ansible-role-crontabs-master/tasks/
+-rw-rw-r-- root/root       650 2018-02-02 14:11 ansible-role-crontabs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-02 14:11 ansible-role-crontabs-master/tests/
+-rw-rw-r-- root/root       445 2018-02-02 14:11 ansible-role-crontabs-master/tests/Dockerfile.debian-jessie
+-rw-rw-r-- root/root       457 2018-02-02 14:11 ansible-role-crontabs-master/tests/Dockerfile.debian-stretch
+-rw-rw-r-- root/root       532 2018-02-02 14:11 ansible-role-crontabs-master/tests/Dockerfile.debian-wheezy
+-rw-rw-r-- root/root       445 2018-02-02 14:11 ansible-role-crontabs-master/tests/Dockerfile.ubuntu-trusty
+-rw-rw-r-- root/root       445 2018-02-02 14:11 ansible-role-crontabs-master/tests/Dockerfile.ubuntu-xenial
+-rw-rw-r-- root/root        10 2018-02-02 14:11 ansible-role-crontabs-master/tests/inventory
+-rw-rw-r-- root/root        79 2018-02-02 14:11 ansible-role-crontabs-master/tests/test.yml

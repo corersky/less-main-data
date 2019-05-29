@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/
+-rw-rw-r-- root/root        26 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/.gitignore
+-rw-rw-r-- root/root       854 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/.travis.yml
+-rw-rw-r-- root/root      1209 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/README.md
+drwxrwxr-x root/root         0 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/defaults/
+-rw-rw-r-- root/root       305 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/meta/
+-rw-rw-r-- root/root      2090 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/tasks/
+-rw-rw-r-- root/root        62 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/tasks/main.yml
+-rw-rw-r-- root/root      1095 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/tasks/secure-ssl-certs.yml
+drwxrwxr-x root/root         0 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/tests/
+-rw-rw-r-- root/root         9 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/tests/inventory
+-rw-rw-r-- root/root        88 2018-01-07 16:25 ansible-role-secure-ssl-certs-master/tests/test.yml

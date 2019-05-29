@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/
+-rw-rw-r-- root/root      1328 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/README.md
+drwxrwxr-x root/root         0 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/defaults/
+-rw-rw-r-- root/root       320 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/meta/
+-rw-rw-r-- root/root      3308 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/tasks/
+-rw-rw-r-- root/root      1031 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/templates/
+-rw-rw-r-- root/root        97 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/templates/docker-compose.yml
+drwxrwxr-x root/root         0 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/tests/
+-rw-rw-r-- root/root         9 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/tests/inventory
+-rw-rw-r-- root/root        97 2016-05-05 12:25 ansible-role-docker-engine-compose-test-master/tests/test.yml

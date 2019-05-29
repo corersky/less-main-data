@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-06-24 19:58 ansible-role-selinux-master/
+-rw-rw-r-- root/root       116 2018-06-24 19:58 ansible-role-selinux-master/.gitmodules
+-rw-rw-r-- root/root       988 2018-06-24 19:58 ansible-role-selinux-master/.travis.yml
+-rw-rw-r-- root/root     11558 2018-06-24 19:58 ansible-role-selinux-master/LICENSE
+-rw-rw-r-- root/root      1030 2018-06-24 19:58 ansible-role-selinux-master/README.md
+drwxrwxr-x root/root         0 2018-06-24 19:58 ansible-role-selinux-master/defaults/
+-rw-rw-r-- root/root       220 2018-06-24 19:58 ansible-role-selinux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-24 19:58 ansible-role-selinux-master/meta/
+-rw-rw-r-- root/root       260 2018-06-24 19:58 ansible-role-selinux-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-24 19:58 ansible-role-selinux-master/tasks/
+-rw-rw-r-- root/root       990 2018-06-24 19:58 ansible-role-selinux-master/tasks/main.yml
+-rw-rw-r-- root/root       371 2018-06-24 19:58 ansible-role-selinux-master/tasks/restart.yml
+drwxrwxr-x root/root         0 2018-06-24 19:58 ansible-role-selinux-master/travis/

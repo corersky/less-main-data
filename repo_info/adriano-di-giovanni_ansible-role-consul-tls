@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-10-20 11:31 ansible-role-consul-tls-master/
+-rw-rw-r-- root/root       539 2016-10-20 11:31 ansible-role-consul-tls-master/.travis.yml
+-rw-rw-r-- root/root      1069 2016-10-20 11:31 ansible-role-consul-tls-master/LICENSE
+-rw-rw-r-- root/root      1417 2016-10-20 11:31 ansible-role-consul-tls-master/README.md
+drwxrwxr-x root/root         0 2016-10-20 11:31 ansible-role-consul-tls-master/defaults/
+-rw-rw-r-- root/root       573 2016-10-20 11:31 ansible-role-consul-tls-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-20 11:31 ansible-role-consul-tls-master/meta/
+-rw-rw-r-- root/root       320 2016-10-20 11:31 ansible-role-consul-tls-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-20 11:31 ansible-role-consul-tls-master/tasks/
+-rw-rw-r-- root/root      1702 2016-10-20 11:31 ansible-role-consul-tls-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-20 11:31 ansible-role-consul-tls-master/templates/
+-rw-rw-r-- root/root       873 2016-10-20 11:31 ansible-role-consul-tls-master/templates/openssl.conf.j2
+drwxrwxr-x root/root         0 2016-10-20 11:31 ansible-role-consul-tls-master/tests/
+-rw-rw-r-- root/root         9 2016-10-20 11:31 ansible-role-consul-tls-master/tests/inventory
+-rw-rw-r-- root/root       159 2016-10-20 11:31 ansible-role-consul-tls-master/tests/test.yml

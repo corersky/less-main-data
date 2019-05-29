@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-06 15:31 ansible-fedora-marmotta-master/
+-rw-rw-r-- root/root      3723 2018-07-06 15:31 ansible-fedora-marmotta-master/README.md
+drwxrwxr-x root/root         0 2018-07-06 15:31 ansible-fedora-marmotta-master/defaults/
+-rw-rw-r-- root/root       564 2018-07-06 15:31 ansible-fedora-marmotta-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-06 15:31 ansible-fedora-marmotta-master/files/
+-rw-rw-r-- root/root       119 2018-07-06 15:31 ansible-fedora-marmotta-master/files/logrotate-tomcat.conf
+drwxrwxr-x root/root         0 2018-07-06 15:31 ansible-fedora-marmotta-master/meta/
+-rw-rw-r-- root/root       285 2018-07-06 15:31 ansible-fedora-marmotta-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-06 15:31 ansible-fedora-marmotta-master/tasks/
+-rw-rw-r-- root/root       513 2018-07-06 15:31 ansible-fedora-marmotta-master/tasks/fedora.yml
+-rw-rw-r-- root/root       193 2018-07-06 15:31 ansible-fedora-marmotta-master/tasks/main.yml
+-rw-rw-r-- root/root      1312 2018-07-06 15:31 ansible-fedora-marmotta-master/tasks/marmotta.yml
+-rw-rw-r-- root/root       589 2018-07-06 15:31 ansible-fedora-marmotta-master/tasks/tomcat.yml
+-rw-rw-r-- root/root       395 2018-07-06 15:31 ansible-fedora-marmotta-master/tasks/tomcat_firewall.yml
+drwxrwxr-x root/root         0 2018-07-06 15:31 ansible-fedora-marmotta-master/templates/
+-rw-rw-r-- root/root      7385 2018-07-06 15:31 ansible-fedora-marmotta-master/templates/system-config.properties.j2
+-rw-rw-r-- root/root      1286 2018-07-06 15:31 ansible-fedora-marmotta-master/templates/tomcat.j2

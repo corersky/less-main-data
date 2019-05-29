@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-09 11:17 ansible-role-freetds-master/
+-rw-rw-r-- root/root      1548 2017-05-09 11:17 ansible-role-freetds-master/README.md
+drwxrwxr-x root/root         0 2017-05-09 11:17 ansible-role-freetds-master/defaults/
+-rw-rw-r-- root/root       151 2017-05-09 11:17 ansible-role-freetds-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-09 11:17 ansible-role-freetds-master/meta/
+-rw-rw-r-- root/root       319 2017-05-09 11:17 ansible-role-freetds-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-09 11:17 ansible-role-freetds-master/tasks/
+-rw-rw-r-- root/root       173 2017-05-09 11:17 ansible-role-freetds-master/tasks/configure.yml
+-rw-rw-r-- root/root      1772 2017-05-09 11:17 ansible-role-freetds-master/tasks/install.yml
+-rw-rw-r-- root/root       421 2017-05-09 11:17 ansible-role-freetds-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-09 11:17 ansible-role-freetds-master/templates/
+-rw-rw-r-- root/root      1490 2017-05-09 11:17 ansible-role-freetds-master/templates/freetds.conf.j2

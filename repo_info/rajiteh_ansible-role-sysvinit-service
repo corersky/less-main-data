@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-17 18:49 ansible-role-sysvinit-service-master/
+-rw-rw-r-- root/root      2116 2017-10-17 18:49 ansible-role-sysvinit-service-master/README.md
+drwxrwxr-x root/root         0 2017-10-17 18:49 ansible-role-sysvinit-service-master/defaults/
+-rw-rw-r-- root/root       455 2017-10-17 18:49 ansible-role-sysvinit-service-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-17 18:49 ansible-role-sysvinit-service-master/handlers/
+-rw-rw-r-- root/root       319 2017-10-17 18:49 ansible-role-sysvinit-service-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-17 18:49 ansible-role-sysvinit-service-master/meta/
+-rw-rw-r-- root/root       305 2017-10-17 18:49 ansible-role-sysvinit-service-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-17 18:49 ansible-role-sysvinit-service-master/tasks/
+-rw-rw-r-- root/root       757 2017-10-17 18:49 ansible-role-sysvinit-service-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-17 18:49 ansible-role-sysvinit-service-master/templates/
+-rw-rw-r-- root/root       192 2017-10-17 18:49 ansible-role-sysvinit-service-master/templates/default.j2
+-rw-rw-r-- root/root      2506 2017-10-17 18:49 ansible-role-sysvinit-service-master/templates/init_script.j2

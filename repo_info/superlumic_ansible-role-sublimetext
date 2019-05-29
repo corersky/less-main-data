@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-15 13:58 ansible-role-sublimetext-master/
+-rw-rw-r-- root/root       468 2017-05-15 13:58 ansible-role-sublimetext-master/.travis.yml
+-rw-rw-r-- root/root      2160 2017-05-15 13:58 ansible-role-sublimetext-master/README.md
+drwxrwxr-x root/root         0 2017-05-15 13:58 ansible-role-sublimetext-master/defaults/
+-rw-rw-r-- root/root       399 2017-05-15 13:58 ansible-role-sublimetext-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-15 13:58 ansible-role-sublimetext-master/meta/
+-rw-rw-r-- root/root       412 2017-05-15 13:58 ansible-role-sublimetext-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-15 13:58 ansible-role-sublimetext-master/tasks/
+-rw-rw-r-- root/root      1149 2017-05-15 13:58 ansible-role-sublimetext-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-15 13:58 ansible-role-sublimetext-master/templates/
+-rw-rw-r-- root/root      1157 2017-05-15 13:58 ansible-role-sublimetext-master/templates/config.j2
+drwxrwxr-x root/root         0 2017-05-15 13:58 ansible-role-sublimetext-master/tests/
+-rw-rw-r-- root/root        10 2017-05-15 13:58 ansible-role-sublimetext-master/tests/inventory
+-rw-rw-r-- root/root        40 2017-05-15 13:58 ansible-role-sublimetext-master/tests/requirements.yml
+-rw-rw-r-- root/root        84 2017-05-15 13:58 ansible-role-sublimetext-master/tests/travis.yml

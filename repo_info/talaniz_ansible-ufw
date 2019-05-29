@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-15 19:56 ansible-ufw-master/
+-rw-rw-r-- root/root       539 2017-03-15 19:56 ansible-ufw-master/.travis.yml
+-rw-rw-r-- root/root       885 2017-03-15 19:56 ansible-ufw-master/README.md
+drwxrwxr-x root/root         0 2017-03-15 19:56 ansible-ufw-master/defaults/
+-rw-rw-r-- root/root        53 2017-03-15 19:56 ansible-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-15 19:56 ansible-ufw-master/handlers/
+-rw-rw-r-- root/root        36 2017-03-15 19:56 ansible-ufw-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-15 19:56 ansible-ufw-master/meta/
+-rw-rw-r-- root/root      3900 2017-03-15 19:56 ansible-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-15 19:56 ansible-ufw-master/tasks/
+-rw-rw-r-- root/root       419 2017-03-15 19:56 ansible-ufw-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-15 19:56 ansible-ufw-master/tests/
+-rw-rw-r-- root/root         9 2017-03-15 19:56 ansible-ufw-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-03-15 19:56 ansible-ufw-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-15 19:56 ansible-ufw-master/vars/
+-rw-rw-r-- root/root        32 2017-03-15 19:56 ansible-ufw-master/vars/main.yml

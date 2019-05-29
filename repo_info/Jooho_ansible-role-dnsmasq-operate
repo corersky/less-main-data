@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/
+-rw-rw-r-- root/root      3273 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/README.md
+drwxrwxr-x root/root         0 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/defaults/
+-rw-rw-r-- root/root        94 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/files/
+-rw-rw-r-- root/root        71 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/files/forwarder.conf
+drwxrwxr-x root/root         0 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/handlers/
+-rw-rw-r-- root/root        90 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/meta/
+-rw-rw-r-- root/root      2022 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/tasks/
+-rw-rw-r-- root/root       838 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/tasks/check.yml
+-rw-rw-r-- root/root       935 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/tasks/main.yml
+-rw-rw-r-- root/root      1907 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/tasks/operate.yml
+drwxrwxr-x root/root         0 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/templates/
+-rw-rw-r-- root/root       105 2018-12-23 10:13 ansible-role-dnsmasq-operate-master/templates/forwarder.conf.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-09-18 07:19 mysql-master/
+-rw-rw-r-- root/root       674 2014-09-18 07:19 mysql-master/.travis.yml
+-rw-rw-r-- root/root      1491 2014-09-18 07:19 mysql-master/LICENSE.md
+-rw-rw-r-- root/root       730 2014-09-18 07:19 mysql-master/README.md
+drwxrwxr-x root/root         0 2014-09-18 07:19 mysql-master/defaults/
+-rw-rw-r-- root/root       307 2014-09-18 07:19 mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-18 07:19 mysql-master/handlers/
+-rw-rw-r-- root/root       269 2014-09-18 07:19 mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-18 07:19 mysql-master/meta/
+-rw-rw-r-- root/root      2034 2014-09-18 07:19 mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-18 07:19 mysql-master/tasks/
+-rw-rw-r-- root/root       744 2014-09-18 07:19 mysql-master/tasks/main.yml
+-rw-rw-r-- root/root       175 2014-09-18 07:19 mysql-master/test.yml
+drwxrwxr-x root/root         0 2014-09-18 07:19 mysql-master/vars/
+-rw-rw-r-- root/root        40 2014-09-18 07:19 mysql-master/vars/main.yml

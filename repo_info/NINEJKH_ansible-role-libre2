@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-18 13:57 ansible-role-libre2-master/
+-rw-rw-r-- root/root        10 2018-05-18 13:57 ansible-role-libre2-master/.gitignore
+-rw-rw-r-- root/root       900 2018-05-18 13:57 ansible-role-libre2-master/.travis.yml
+-rw-rw-r-- root/root      1109 2018-05-18 13:57 ansible-role-libre2-master/LICENSE
+-rw-rw-r-- root/root       584 2018-05-18 13:57 ansible-role-libre2-master/README.md
+drwxrwxr-x root/root         0 2018-05-18 13:57 ansible-role-libre2-master/defaults/
+-rw-rw-r-- root/root        32 2018-05-18 13:57 ansible-role-libre2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-18 13:57 ansible-role-libre2-master/meta/
+-rw-rw-r-- root/root       415 2018-05-18 13:57 ansible-role-libre2-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-18 13:57 ansible-role-libre2-master/tasks/
+-rw-rw-r-- root/root       658 2018-05-18 13:57 ansible-role-libre2-master/tasks/compile.yml
+-rw-rw-r-- root/root        33 2018-05-18 13:57 ansible-role-libre2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-18 13:57 ansible-role-libre2-master/tests/
+-rw-rw-r-- root/root        10 2018-05-18 13:57 ansible-role-libre2-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-05-18 13:57 ansible-role-libre2-master/tests/test.yml

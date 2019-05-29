@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-11-20 14:28 ansible-lxctemplate-master/
+-rw-rw-r-- root/root      5629 2015-11-20 14:28 ansible-lxctemplate-master/README.md
+drwxrwxr-x root/root         0 2015-11-20 14:28 ansible-lxctemplate-master/defaults/
+-rw-rw-r-- root/root      1390 2015-11-20 14:28 ansible-lxctemplate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-20 14:28 ansible-lxctemplate-master/meta/
+-rw-rw-r-- root/root       344 2015-11-20 14:28 ansible-lxctemplate-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-20 14:28 ansible-lxctemplate-master/tasks/
+-rw-rw-r-- root/root       522 2015-11-20 14:28 ansible-lxctemplate-master/tasks/container.yml
+-rw-rw-r-- root/root       152 2015-11-20 14:28 ansible-lxctemplate-master/tasks/main.yml
+-rw-rw-r-- root/root      2279 2015-11-20 14:28 ansible-lxctemplate-master/tasks/maketemplate.yml
+drwxrwxr-x root/root         0 2015-11-20 14:28 ansible-lxctemplate-master/templates/
+-rw-rw-r-- root/root       374 2015-11-20 14:28 ansible-lxctemplate-master/templates/dab.conf.j2

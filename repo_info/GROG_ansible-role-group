@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-07-19 06:36 ansible-role-group-master/
+-rw-rw-r-- root/root      1042 2016-07-19 06:36 ansible-role-group-master/.travis.yml
+-rw-rw-r-- root/root      1071 2016-07-19 06:36 ansible-role-group-master/LICENSE
+-rw-rw-r-- root/root      2610 2016-07-19 06:36 ansible-role-group-master/README.md
+drwxrwxr-x root/root         0 2016-07-19 06:36 ansible-role-group-master/defaults/
+-rw-rw-r-- root/root       229 2016-07-19 06:36 ansible-role-group-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-19 06:36 ansible-role-group-master/meta/
+-rw-rw-r-- root/root       369 2016-07-19 06:36 ansible-role-group-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-19 06:36 ansible-role-group-master/tasks/
+-rw-rw-r-- root/root       318 2016-07-19 06:36 ansible-role-group-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-19 06:36 ansible-role-group-master/tests/
+-rw-rw-r-- root/root        10 2016-07-19 06:36 ansible-role-group-master/tests/inventory
+-rw-rw-r-- root/root       122 2016-07-19 06:36 ansible-role-group-master/tests/test.yml

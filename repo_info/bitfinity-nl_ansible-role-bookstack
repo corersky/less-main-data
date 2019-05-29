@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-17 10:31 ansible-role-bookstack-master/
+-rw-rw-r-- root/root      1066 2018-08-17 10:31 ansible-role-bookstack-master/LICENSE
+-rw-rw-r-- root/root      1230 2018-08-17 10:31 ansible-role-bookstack-master/README.md
+drwxrwxr-x root/root         0 2018-08-17 10:31 ansible-role-bookstack-master/defaults/
+-rw-rw-r-- root/root       972 2018-08-17 10:31 ansible-role-bookstack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-17 10:31 ansible-role-bookstack-master/handlers/
+-rw-rw-r-- root/root       153 2018-08-17 10:31 ansible-role-bookstack-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-17 10:31 ansible-role-bookstack-master/meta/
+-rw-rw-r-- root/root       313 2018-08-17 10:31 ansible-role-bookstack-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-17 10:31 ansible-role-bookstack-master/tasks/
+-rw-rw-r-- root/root      3334 2018-08-17 10:31 ansible-role-bookstack-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-17 10:31 ansible-role-bookstack-master/templates/
+-rw-rw-r-- root/root      1825 2018-08-17 10:31 ansible-role-bookstack-master/templates/.env.example.j2
+-rw-rw-r-- root/root       416 2018-08-17 10:31 ansible-role-bookstack-master/templates/BookStack.j2
+drwxrwxr-x root/root         0 2018-08-17 10:31 ansible-role-bookstack-master/vars/
+-rw-rw-r-- root/root        68 2018-08-17 10:31 ansible-role-bookstack-master/vars/main.yml

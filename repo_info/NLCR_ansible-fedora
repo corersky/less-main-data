@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-22 18:35 ansible-fedora-master/
+-rw-rw-r-- root/root       539 2017-03-22 18:35 ansible-fedora-master/.travis.yml
+-rw-rw-r-- root/root      1156 2017-03-22 18:35 ansible-fedora-master/README.md
+drwxrwxr-x root/root         0 2017-03-22 18:35 ansible-fedora-master/defaults/
+-rw-rw-r-- root/root       242 2017-03-22 18:35 ansible-fedora-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-22 18:35 ansible-fedora-master/meta/
+-rw-rw-r-- root/root      3946 2017-03-22 18:35 ansible-fedora-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-22 18:35 ansible-fedora-master/tasks/
+-rw-rw-r-- root/root       321 2017-03-22 18:35 ansible-fedora-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-22 18:35 ansible-fedora-master/tests/
+-rw-rw-r-- root/root         9 2017-03-22 18:35 ansible-fedora-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-03-22 18:35 ansible-fedora-master/tests/test.yml

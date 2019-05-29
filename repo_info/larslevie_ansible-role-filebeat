@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-27 13:52 ansible-role-filebeat-master/
+-rw-rw-r-- root/root       146 2018-09-27 13:52 ansible-role-filebeat-master/.editorconfig
+-rw-rw-r-- root/root       122 2018-09-27 13:52 ansible-role-filebeat-master/.gitignore
+-rw-rw-r-- root/root      1078 2018-09-27 13:52 ansible-role-filebeat-master/LICENSE
+-rw-rw-r-- root/root       831 2018-09-27 13:52 ansible-role-filebeat-master/README.md
+drwxrwxr-x root/root         0 2018-09-27 13:52 ansible-role-filebeat-master/defaults/
+-rw-rw-r-- root/root       140 2018-09-27 13:52 ansible-role-filebeat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-27 13:52 ansible-role-filebeat-master/meta/
+-rw-rw-r-- root/root       283 2018-09-27 13:52 ansible-role-filebeat-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-27 13:52 ansible-role-filebeat-master/tasks/
+-rw-rw-r-- root/root      2215 2018-09-27 13:52 ansible-role-filebeat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-27 13:52 ansible-role-filebeat-master/templates/
+-rw-rw-r-- root/root       267 2018-09-27 13:52 ansible-role-filebeat-master/templates/filebeat.service.j2
+-rw-rw-r-- root/root       302 2018-09-27 13:52 ansible-role-filebeat-master/templates/filebeat.yml.j2

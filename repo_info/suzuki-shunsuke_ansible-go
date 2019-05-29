@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-03 03:33 ansible-go-master/
+-rwxrwxr-x root/root       145 2017-12-03 03:33 ansible-go-master/.git-rm-branch.yml
+-rw-rw-r-- root/root        17 2017-12-03 03:33 ansible-go-master/.gitignore
+-rw-rw-r-- root/root       343 2017-12-03 03:33 ansible-go-master/.travis.yml
+-rw-rw-r-- root/root      1072 2017-12-03 03:33 ansible-go-master/LICENSE
+-rw-rw-r-- root/root      1181 2017-12-03 03:33 ansible-go-master/README.md
+drwxrwxr-x root/root         0 2017-12-03 03:33 ansible-go-master/defaults/
+-rw-rw-r-- root/root       129 2017-12-03 03:33 ansible-go-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-03 03:33 ansible-go-master/meta/
+-rw-rw-r-- root/root       252 2017-12-03 03:33 ansible-go-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-03 03:33 ansible-go-master/tasks/
+-rw-rw-r-- root/root      1371 2017-12-03 03:33 ansible-go-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-03 03:33 ansible-go-master/tests/
+-rw-rw-r-- root/root       274 2017-12-03 03:33 ansible-go-master/tests/Vagrantfile
+-rw-rw-r-- root/root        67 2017-12-03 03:33 ansible-go-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2017-12-03 03:33 ansible-go-master/tests/localhost
+-rw-rw-r-- root/root       315 2017-12-03 03:33 ansible-go-master/tests/test.yml

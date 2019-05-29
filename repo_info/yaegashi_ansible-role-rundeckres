@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/
+-rw-rw-r-- root/root      3669 2015-05-23 06:44 ansible-role-rundeckres-master/README.md
+drwxrwxr-x root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/defaults/
+-rw-rw-r-- root/root       137 2015-05-23 06:44 ansible-role-rundeckres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/files/
+-rw-rw-r-- root/root      2887 2015-05-23 06:44 ansible-role-rundeckres-master/files/rundeckres.py
+drwxrwxr-x root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/meta/
+-rw-rw-r-- root/root       212 2015-05-23 06:44 ansible-role-rundeckres-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/tasks/
+-rw-rw-r-- root/root       338 2015-05-23 06:44 ansible-role-rundeckres-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/templates/
+-rw-rw-r-- root/root       137 2015-05-23 06:44 ansible-role-rundeckres-master/templates/facts.j2
+drwxrwxr-x root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/tests/
+-rw-rw-r-- root/root        24 2015-05-23 06:44 ansible-role-rundeckres-master/tests/.gitignore
+-rw-rw-r-- root/root       120 2015-05-23 06:44 ansible-role-rundeckres-master/tests/hosts
+drwxrwxr-x root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/tests/roles/
+lrwxrwxrwx root/root         0 2015-05-23 06:44 ansible-role-rundeckres-master/tests/roles/yaegashi.rundeckres -> ../..
+-rw-rw-r-- root/root       380 2015-05-23 06:44 ansible-role-rundeckres-master/tests/rundeckres.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-23 20:26 ansible-role-kodi-master/
+-rw-rw-r-- root/root       539 2017-03-23 20:26 ansible-role-kodi-master/.travis.yml
+-rw-rw-r-- root/root       520 2017-03-23 20:26 ansible-role-kodi-master/README.md
+drwxrwxr-x root/root         0 2017-03-23 20:26 ansible-role-kodi-master/defaults/
+-rw-rw-r-- root/root        29 2017-03-23 20:26 ansible-role-kodi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-23 20:26 ansible-role-kodi-master/handlers/
+-rw-rw-r-- root/root        29 2017-03-23 20:26 ansible-role-kodi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-23 20:26 ansible-role-kodi-master/meta/
+-rw-rw-r-- root/root      2632 2017-03-23 20:26 ansible-role-kodi-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-23 20:26 ansible-role-kodi-master/tasks/
+-rw-rw-r-- root/root       226 2017-03-23 20:26 ansible-role-kodi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-23 20:26 ansible-role-kodi-master/tests/
+-rw-rw-r-- root/root         9 2017-03-23 20:26 ansible-role-kodi-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-03-23 20:26 ansible-role-kodi-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-23 20:26 ansible-role-kodi-master/vars/
+-rw-rw-r-- root/root        25 2017-03-23 20:26 ansible-role-kodi-master/vars/main.yml

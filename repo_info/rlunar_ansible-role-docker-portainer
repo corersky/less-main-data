@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-18 13:13 ansible-role-docker-portainer-master/
+-rw-rw-r-- root/root       540 2017-08-18 13:13 ansible-role-docker-portainer-master/.travis.yml
+-rw-rw-r-- root/root      1075 2017-08-18 13:13 ansible-role-docker-portainer-master/LICENSE
+-rw-rw-r-- root/root       840 2017-08-18 13:13 ansible-role-docker-portainer-master/README.md
+drwxrwxr-x root/root         0 2017-08-18 13:13 ansible-role-docker-portainer-master/defaults/
+-rw-rw-r-- root/root       315 2017-08-18 13:13 ansible-role-docker-portainer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-18 13:13 ansible-role-docker-portainer-master/meta/
+-rw-rw-r-- root/root       270 2017-08-18 13:13 ansible-role-docker-portainer-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-18 13:13 ansible-role-docker-portainer-master/tasks/
+-rw-rw-r-- root/root       958 2017-08-18 13:13 ansible-role-docker-portainer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-18 13:13 ansible-role-docker-portainer-master/tests/
+-rw-rw-r-- root/root        10 2017-08-18 13:13 ansible-role-docker-portainer-master/tests/inventory
+-rw-rw-r-- root/root        88 2017-08-18 13:13 ansible-role-docker-portainer-master/tests/test.yml

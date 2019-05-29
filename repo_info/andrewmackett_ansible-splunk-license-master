@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/
+-rw-rw-r-- root/root        23 2018-10-01 08:36 ansible-splunk-license-master-master/.gitignore
+-rw-rw-r-- root/root       857 2018-10-01 08:36 ansible-splunk-license-master-master/.travis.yml
+-rw-rw-r-- root/root      1070 2018-10-01 08:36 ansible-splunk-license-master-master/LICENSE
+-rw-rw-r-- root/root      1664 2018-10-01 08:36 ansible-splunk-license-master-master/README.md
+-rw-rw-r-- root/root       990 2018-10-01 08:36 ansible-splunk-license-master-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/defaults/
+-rw-rw-r-- root/root       184 2018-10-01 08:36 ansible-splunk-license-master-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/handlers/
+-rw-rw-r-- root/root       102 2018-10-01 08:36 ansible-splunk-license-master-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/meta/
+-rw-rw-r-- root/root       411 2018-10-01 08:36 ansible-splunk-license-master-master/meta/main.yml
+-rw-rw-r-- root/root        39 2018-10-01 08:36 ansible-splunk-license-master-master/requirements.yml
+drwxrwxr-x root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/tasks/
+-rw-rw-r-- root/root      1609 2018-10-01 08:36 ansible-splunk-license-master-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/tests/
+-rw-rw-r-- root/root        16 2018-10-01 08:36 ansible-splunk-license-master-master/tests/inventory
+drwxrwxr-x root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/tests/roles/splunk-license-master -> ../../
+-rw-rw-r-- root/root       139 2018-10-01 08:36 ansible-splunk-license-master-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-01 08:36 ansible-splunk-license-master-master/vars/
+-rw-rw-r-- root/root      1866 2018-10-01 08:36 ansible-splunk-license-master-master/vars/main.yml

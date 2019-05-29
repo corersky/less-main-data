@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-03-16 02:10 ubuntu-frr-master/
+-rw-rw-r-- root/root      1071 2018-03-16 02:10 ubuntu-frr-master/LICENSE
+-rw-rw-r-- root/root       588 2018-03-16 02:10 ubuntu-frr-master/README.md
+drwxrwxr-x root/root         0 2018-03-16 02:10 ubuntu-frr-master/files/
+-rwxrwxr-x root/root       721 2018-03-16 02:10 ubuntu-frr-master/files/build.sh
+drwxrwxr-x root/root         0 2018-03-16 02:10 ubuntu-frr-master/meta/
+-rw-rw-r-- root/root       441 2018-03-16 02:10 ubuntu-frr-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-16 02:10 ubuntu-frr-master/tasks/
+-rw-rw-r-- root/root      3494 2018-03-16 02:10 ubuntu-frr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-16 02:10 ubuntu-frr-master/tests/
+-rw-rw-r-- root/root        10 2018-03-16 02:10 ubuntu-frr-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-03-16 02:10 ubuntu-frr-master/tests/ubuntu-frr.yml

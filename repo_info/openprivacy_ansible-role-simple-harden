@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-06-07 12:24 ansible-role-simple-harden-master/
+-rw-rw-r-- root/root      1279 2016-06-07 12:24 ansible-role-simple-harden-master/README.md
+drwxrwxr-x root/root         0 2016-06-07 12:24 ansible-role-simple-harden-master/files/
+-rw-rw-r-- root/root      7985 2016-06-07 12:24 ansible-role-simple-harden-master/files/centos7-audit.rules
+-rw-rw-r-- root/root      1306 2016-06-07 12:24 ansible-role-simple-harden-master/files/issueBanner.txt
+-rw-rw-r-- root/root       117 2016-06-07 12:24 ansible-role-simple-harden-master/files/maxlogins.txt
+-rw-rw-r-- root/root      7762 2016-06-07 12:24 ansible-role-simple-harden-master/files/rhel7-audit.rules
+drwxrwxr-x root/root         0 2016-06-07 12:24 ansible-role-simple-harden-master/meta/
+-rw-rw-r-- root/root       332 2016-06-07 12:24 ansible-role-simple-harden-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-07 12:24 ansible-role-simple-harden-master/tasks/
+-rw-rw-r-- root/root      5335 2016-06-07 12:24 ansible-role-simple-harden-master/tasks/main.yml

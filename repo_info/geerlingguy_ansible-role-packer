@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-16 22:20 ansible-role-packer-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:20 ansible-role-packer-master/.gitignore
+-rw-rw-r-- root/root       554 2019-05-16 22:20 ansible-role-packer-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:20 ansible-role-packer-master/LICENSE
+-rw-rw-r-- root/root       954 2019-05-16 22:20 ansible-role-packer-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:20 ansible-role-packer-master/defaults/
+-rw-rw-r-- root/root        81 2019-05-16 22:20 ansible-role-packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:20 ansible-role-packer-master/meta/
+-rw-rw-r-- root/root       513 2019-05-16 22:20 ansible-role-packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:20 ansible-role-packer-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:20 ansible-role-packer-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:20 ansible-role-packer-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       226 2019-05-16 22:20 ansible-role-packer-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:20 ansible-role-packer-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:20 ansible-role-packer-master/tasks/
+-rw-rw-r-- root/root       351 2019-05-16 22:20 ansible-role-packer-master/tasks/main.yml

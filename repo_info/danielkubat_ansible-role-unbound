@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-02 09:34 ansible-role-unbound-master/
+-rw-rw-r-- root/root      1127 2019-03-02 09:34 ansible-role-unbound-master/.travis.yml
+-rw-rw-r-- root/root      1210 2019-03-02 09:34 ansible-role-unbound-master/LICENSE
+-rw-rw-r-- root/root       836 2019-03-02 09:34 ansible-role-unbound-master/README.md
+drwxrwxr-x root/root         0 2019-03-02 09:34 ansible-role-unbound-master/defaults/
+-rw-rw-r-- root/root       270 2019-03-02 09:34 ansible-role-unbound-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-02 09:34 ansible-role-unbound-master/handlers/
+-rw-rw-r-- root/root       150 2019-03-02 09:34 ansible-role-unbound-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-02 09:34 ansible-role-unbound-master/meta/
+-rw-rw-r-- root/root       445 2019-03-02 09:34 ansible-role-unbound-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-02 09:34 ansible-role-unbound-master/tasks/
+-rw-rw-r-- root/root      1146 2019-03-02 09:34 ansible-role-unbound-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-02 09:34 ansible-role-unbound-master/templates/
+-rw-rw-r-- root/root       495 2019-03-02 09:34 ansible-role-unbound-master/templates/unbound.conf.j2
+drwxrwxr-x root/root         0 2019-03-02 09:34 ansible-role-unbound-master/tests/
+-rw-rw-r-- root/root        10 2019-03-02 09:34 ansible-role-unbound-master/tests/inventory
+-rw-rw-r-- root/root       122 2019-03-02 09:34 ansible-role-unbound-master/tests/test.yml

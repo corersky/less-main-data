@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-20 19:26 ansible-openvpnas-master/
+-rw-rw-r-- root/root         6 2018-12-20 19:26 ansible-openvpnas-master/.gitignore
+-rw-rw-r-- root/root     35147 2018-12-20 19:26 ansible-openvpnas-master/LICENSE
+-rw-rw-r-- root/root      1825 2018-12-20 19:26 ansible-openvpnas-master/README.md
+drwxrwxr-x root/root         0 2018-12-20 19:26 ansible-openvpnas-master/defaults/
+-rw-rw-r-- root/root       623 2018-12-20 19:26 ansible-openvpnas-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-20 19:26 ansible-openvpnas-master/handlers/
+-rw-rw-r-- root/root       166 2018-12-20 19:26 ansible-openvpnas-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-20 19:26 ansible-openvpnas-master/meta/
+-rw-rw-r-- root/root       269 2018-12-20 19:26 ansible-openvpnas-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-20 19:26 ansible-openvpnas-master/tasks/
+-rw-rw-r-- root/root      1752 2018-12-20 19:26 ansible-openvpnas-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-20 19:26 ansible-openvpnas-master/templates/
+-rw-rw-r-- root/root      3002 2018-12-20 19:26 ansible-openvpnas-master/templates/as.conf.j2
+-rw-rw-r-- root/root        98 2018-12-20 19:26 ansible-openvpnas-master/templates/my.cnf.j2
+-rwxrwxr-x root/root      3413 2018-12-20 19:26 ansible-openvpnas-master/templates/openvpn-ldap.py.j2
+-rw-rw-r-- root/root       857 2018-12-20 19:26 ansible-openvpnas-master/templates/openvpn-nginx.conf.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-27 19:41 ansible-zabbix-frontend-master/
+-rw-rw-r-- root/root       539 2016-02-27 19:41 ansible-zabbix-frontend-master/.travis.yml
+-rw-rw-r-- root/root       476 2016-02-27 19:41 ansible-zabbix-frontend-master/README.md
+drwxrwxr-x root/root         0 2016-02-27 19:41 ansible-zabbix-frontend-master/defaults/
+-rw-rw-r-- root/root        48 2016-02-27 19:41 ansible-zabbix-frontend-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:41 ansible-zabbix-frontend-master/handlers/
+-rw-rw-r-- root/root       123 2016-02-27 19:41 ansible-zabbix-frontend-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:41 ansible-zabbix-frontend-master/meta/
+-rw-rw-r-- root/root      3056 2016-02-27 19:41 ansible-zabbix-frontend-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:41 ansible-zabbix-frontend-master/tasks/
+-rw-rw-r-- root/root      1831 2016-02-27 19:41 ansible-zabbix-frontend-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:41 ansible-zabbix-frontend-master/tests/
+-rw-rw-r-- root/root         7 2016-02-27 19:41 ansible-zabbix-frontend-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-02-27 19:41 ansible-zabbix-frontend-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-02-27 19:41 ansible-zabbix-frontend-master/vars/
+-rw-rw-r-- root/root       168 2016-02-27 19:41 ansible-zabbix-frontend-master/vars/main.yml

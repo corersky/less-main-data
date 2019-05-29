@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-19 19:54 ansible-role-wp-cli-master/
+-rw-rw-r-- root/root       539 2017-05-19 19:54 ansible-role-wp-cli-master/.travis.yml
+-rw-rw-r-- root/root       643 2017-05-19 19:54 ansible-role-wp-cli-master/README.md
+drwxrwxr-x root/root         0 2017-05-19 19:54 ansible-role-wp-cli-master/defaults/
+-rw-rw-r-- root/root       123 2017-05-19 19:54 ansible-role-wp-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-19 19:54 ansible-role-wp-cli-master/meta/
+-rw-rw-r-- root/root       251 2017-05-19 19:54 ansible-role-wp-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-19 19:54 ansible-role-wp-cli-master/tasks/
+-rw-rw-r-- root/root       134 2017-05-19 19:54 ansible-role-wp-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-19 19:54 ansible-role-wp-cli-master/tests/
+-rw-rw-r-- root/root         9 2017-05-19 19:54 ansible-role-wp-cli-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-05-19 19:54 ansible-role-wp-cli-master/tests/test.yml

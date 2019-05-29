@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-20 17:58 ansible-role-yum-master/
+-rw-rw-r-- root/root       331 2019-01-20 17:58 ansible-role-yum-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 17:58 ansible-role-yum-master/COPYING
+-rw-rw-r-- root/root      2505 2019-01-20 17:58 ansible-role-yum-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 17:58 ansible-role-yum-master/defaults/
+-rw-rw-r-- root/root       737 2019-01-20 17:58 ansible-role-yum-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 17:58 ansible-role-yum-master/meta/
+-rw-rw-r-- root/root       269 2019-01-20 17:58 ansible-role-yum-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 17:58 ansible-role-yum-master/tasks/
+-rw-rw-r-- root/root      3645 2019-01-20 17:58 ansible-role-yum-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 17:58 ansible-role-yum-master/templates/
+-rw-rw-r-- root/root        86 2019-01-20 17:58 ansible-role-yum-master/templates/yum-protected.d.conf.j2
+-rw-rw-r-- root/root       443 2019-01-20 17:58 ansible-role-yum-master/templates/yum.conf.j2
+drwxrwxr-x root/root         0 2019-01-20 17:58 ansible-role-yum-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 17:58 ansible-role-yum-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-01-20 17:58 ansible-role-yum-master/tests/test.yml

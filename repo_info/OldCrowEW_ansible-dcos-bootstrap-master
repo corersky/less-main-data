@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/
+-rw-rw-r-- root/root      1328 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/README.md
+drwxrwxr-x root/root         0 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/defaults/
+-rw-rw-r-- root/root       320 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/handlers/
+-rw-rw-r-- root/root        54 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/meta/
+-rw-rw-r-- root/root       334 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/tasks/
+-rw-rw-r-- root/root       373 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/tests/
+-rw-rw-r-- root/root         9 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/vars/
+-rw-rw-r-- root/root        50 2016-07-03 14:26 ansible-dcos-bootstrap-master-master/vars/main.yml

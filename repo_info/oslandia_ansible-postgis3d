@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-04-21 10:38 ansible-postgis3d-master/
+-rw-rw-r-- root/root         9 2016-04-21 10:38 ansible-postgis3d-master/.gitignore
+-rw-rw-r-- root/root       552 2016-04-21 10:38 ansible-postgis3d-master/.travis.yml
+-rw-rw-r-- root/root     35145 2016-04-21 10:38 ansible-postgis3d-master/LICENCE.md
+-rw-rw-r-- root/root      1381 2016-04-21 10:38 ansible-postgis3d-master/README.md
+-rw-rw-r-- root/root       610 2016-04-21 10:38 ansible-postgis3d-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-04-21 10:38 ansible-postgis3d-master/defaults/
+-rw-rw-r-- root/root       193 2016-04-21 10:38 ansible-postgis3d-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-21 10:38 ansible-postgis3d-master/meta/
+-rw-rw-r-- root/root       398 2016-04-21 10:38 ansible-postgis3d-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-21 10:38 ansible-postgis3d-master/tasks/
+-rw-rw-r-- root/root      4995 2016-04-21 10:38 ansible-postgis3d-master/tasks/main.yml
+-rw-rw-r-- root/root        95 2016-04-21 10:38 ansible-postgis3d-master/test.yml

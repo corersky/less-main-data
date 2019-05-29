@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-09-18 23:03 ansible-role-pass-change-passwd-master/
+-rw-rw-r-- root/root      1066 2017-09-18 23:03 ansible-role-pass-change-passwd-master/LICENSE
+-rw-rw-r-- root/root      1697 2017-09-18 23:03 ansible-role-pass-change-passwd-master/README.md
+drwxrwxr-x root/root         0 2017-09-18 23:03 ansible-role-pass-change-passwd-master/defaults/
+-rw-rw-r-- root/root       616 2017-09-18 23:03 ansible-role-pass-change-passwd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-18 23:03 ansible-role-pass-change-passwd-master/meta/
+-rw-rw-r-- root/root      1926 2017-09-18 23:03 ansible-role-pass-change-passwd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-18 23:03 ansible-role-pass-change-passwd-master/tasks/
+-rw-rw-r-- root/root       288 2017-09-18 23:03 ansible-role-pass-change-passwd-master/tasks/main.yml
+-rw-rw-r-- root/root       194 2017-09-18 23:03 ansible-role-pass-change-passwd-master/tasks/new_passwd.yml
+-rw-rw-r-- root/root       373 2017-09-18 23:03 ansible-role-pass-change-passwd-master/tasks/set_passwd.yml
+drwxrwxr-x root/root         0 2017-09-18 23:03 ansible-role-pass-change-passwd-master/tests/
+-rw-rw-r-- root/root        18 2017-09-18 23:03 ansible-role-pass-change-passwd-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-09-18 23:03 ansible-role-pass-change-passwd-master/tests/test.yml

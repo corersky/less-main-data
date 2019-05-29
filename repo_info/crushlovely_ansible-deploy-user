@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-08-26 13:30 ansible-deploy-user-master/
+-rw-rw-r-- root/root        43 2014-08-26 13:30 ansible-deploy-user-master/.gitignore
+-rw-rw-r-- root/root      1478 2014-08-26 13:30 ansible-deploy-user-master/.travis.yml
+-rw-rw-r-- root/root       892 2014-08-26 13:30 ansible-deploy-user-master/README.md
+drwxrwxr-x root/root         0 2014-08-26 13:30 ansible-deploy-user-master/meta/
+-rw-rw-r-- root/root       288 2014-08-26 13:30 ansible-deploy-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-26 13:30 ansible-deploy-user-master/tasks/
+-rw-rw-r-- root/root       673 2014-08-26 13:30 ansible-deploy-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-26 13:30 ansible-deploy-user-master/tests/
+-rw-rw-r-- root/root         9 2014-08-26 13:30 ansible-deploy-user-master/tests/inventory
+-rw-rw-r-- root/root        77 2014-08-26 13:30 ansible-deploy-user-master/tests/test.yml
+-rw-rw-r-- root/root       512 2014-08-26 13:30 ansible-deploy-user-master/tests/tests.bats
+drwxrwxr-x root/root         0 2014-08-26 13:30 ansible-deploy-user-master/vars/
+-rw-rw-r-- root/root        60 2014-08-26 13:30 ansible-deploy-user-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-02 16:37 ansible-role-asterisk-master/
+-rw-rw-r-- root/root      1077 2019-03-02 16:37 ansible-role-asterisk-master/LICENSE
+-rw-rw-r-- root/root      1309 2019-03-02 16:37 ansible-role-asterisk-master/README.md
+drwxrwxr-x root/root         0 2019-03-02 16:37 ansible-role-asterisk-master/defaults/
+-rw-rw-r-- root/root       146 2019-03-02 16:37 ansible-role-asterisk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-02 16:37 ansible-role-asterisk-master/handlers/
+-rw-rw-r-- root/root        87 2019-03-02 16:37 ansible-role-asterisk-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-02 16:37 ansible-role-asterisk-master/meta/
+-rw-rw-r-- root/root       282 2019-03-02 16:37 ansible-role-asterisk-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-02 16:37 ansible-role-asterisk-master/tasks/
+-rw-rw-r-- root/root       828 2019-03-02 16:37 ansible-role-asterisk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-02 16:37 ansible-role-asterisk-master/tests/
+-rw-rw-r-- root/root        11 2019-03-02 16:37 ansible-role-asterisk-master/tests/inventory
+-rw-rw-r-- root/root        66 2019-03-02 16:37 ansible-role-asterisk-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-02 16:37 ansible-role-asterisk-master/vars/
+-rw-rw-r-- root/root        41 2019-03-02 16:37 ansible-role-asterisk-master/vars/main.yml

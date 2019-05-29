@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-04-27 11:33 ansible-sysctl-master/
+-rw-rw-r-- root/root         0 2015-04-27 11:33 ansible-sysctl-master/.gitignore
+-rw-rw-r-- root/root      1075 2015-04-27 11:33 ansible-sysctl-master/LICENSE.md
+-rw-rw-r-- root/root       500 2015-04-27 11:33 ansible-sysctl-master/README.md
+drwxrwxr-x root/root         0 2015-04-27 11:33 ansible-sysctl-master/defaults/
+-rw-rw-r-- root/root       127 2015-04-27 11:33 ansible-sysctl-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2015-04-27 11:33 ansible-sysctl-master/handlers/
+-rw-rw-r-- root/root        91 2015-04-27 11:33 ansible-sysctl-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2015-04-27 11:33 ansible-sysctl-master/meta/
+-rw-rw-r-- root/root       291 2015-04-27 11:33 ansible-sysctl-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-27 11:33 ansible-sysctl-master/tasks/
+-rw-rw-r-- root/root       190 2015-04-27 11:33 ansible-sysctl-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2015-04-27 11:33 ansible-sysctl-master/templates/
+-rw-rw-r-- root/root       209 2015-04-27 11:33 ansible-sysctl-master/templates/sysctl.conf.j2

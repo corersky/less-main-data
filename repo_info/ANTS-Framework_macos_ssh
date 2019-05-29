@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-19 04:56 macos_ssh-master/
+-rw-rw-r-- root/root      1309 2018-02-19 04:56 macos_ssh-master/.travis.yml
+-rw-rw-r-- root/root     35141 2018-02-19 04:56 macos_ssh-master/LICENSE
+-rw-rw-r-- root/root       991 2018-02-19 04:56 macos_ssh-master/README.md
+drwxrwxr-x root/root         0 2018-02-19 04:56 macos_ssh-master/defaults/
+-rw-rw-r-- root/root       141 2018-02-19 04:56 macos_ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-19 04:56 macos_ssh-master/meta/
+-rw-rw-r-- root/root       457 2018-02-19 04:56 macos_ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-19 04:56 macos_ssh-master/tasks/
+-rw-rw-r-- root/root       787 2018-02-19 04:56 macos_ssh-master/tasks/main.yml
+-rw-rw-r-- root/root      1717 2018-02-19 04:56 macos_ssh-master/tasks/ssh_for_admin.yml
+-rw-rw-r-- root/root       954 2018-02-19 04:56 macos_ssh-master/tasks/ssh_for_everyone.yml
+drwxrwxr-x root/root         0 2018-02-19 04:56 macos_ssh-master/tests/
+-rwxrwxr-x root/root      2451 2018-02-19 04:56 macos_ssh-master/tests/installPython.sh
+-rw-rw-r-- root/root        10 2018-02-19 04:56 macos_ssh-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-02-19 04:56 macos_ssh-master/tests/test.yml

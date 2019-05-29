@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-31 00:14 ansible-role-inkscape-master/
+-rw-rw-r-- root/root         3 2019-03-31 00:14 ansible-role-inkscape-master/.gitignore
+-rw-rw-r-- root/root      2452 2019-03-31 00:14 ansible-role-inkscape-master/.travis.yml
+-rw-rw-r-- root/root       640 2019-03-31 00:14 ansible-role-inkscape-master/README.md
+-rw-rw-r-- root/root       383 2019-03-31 00:14 ansible-role-inkscape-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-31 00:14 ansible-role-inkscape-master/meta/
+-rw-rw-r-- root/root      3532 2019-03-31 00:14 ansible-role-inkscape-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 00:14 ansible-role-inkscape-master/tasks/
+-rw-rw-r-- root/root      4306 2019-03-31 00:14 ansible-role-inkscape-master/tasks/compat.yml
+-rw-rw-r-- root/root       795 2019-03-31 00:14 ansible-role-inkscape-master/tasks/epel.yml
+-rw-rw-r-- root/root       318 2019-03-31 00:14 ansible-role-inkscape-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1226 2019-03-31 00:14 ansible-role-inkscape-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       170 2019-03-31 00:14 ansible-role-inkscape-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 00:14 ansible-role-inkscape-master/vars/
+-rw-rw-r-- root/root        30 2019-03-31 00:14 ansible-role-inkscape-master/vars/default.yml
+-rw-rw-r-- root/root        51 2019-03-31 00:14 ansible-role-inkscape-master/vars/main.yml

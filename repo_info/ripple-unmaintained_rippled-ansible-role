@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-09-08 13:40 rippled-ansible-role-master/
+-rw-rw-r-- root/root      3510 2015-09-08 13:40 rippled-ansible-role-master/README.md
+-rw-rw-r-- root/root       301 2015-09-08 13:40 rippled-ansible-role-master/circle.yml
+drwxrwxr-x root/root         0 2015-09-08 13:40 rippled-ansible-role-master/defaults/
+-rw-rw-r-- root/root       673 2015-09-08 13:40 rippled-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-08 13:40 rippled-ansible-role-master/meta/
+-rw-rw-r-- root/root       258 2015-09-08 13:40 rippled-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-08 13:40 rippled-ansible-role-master/tasks/
+-rw-rw-r-- root/root      1647 2015-09-08 13:40 rippled-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-08 13:40 rippled-ansible-role-master/templates/
+-rw-rw-r-- root/root      2350 2015-09-08 13:40 rippled-ansible-role-master/templates/rippled.cfg
+drwxrwxr-x root/root         0 2015-09-08 13:40 rippled-ansible-role-master/test/
+-rw-rw-r-- root/root         0 2015-09-08 13:40 rippled-ansible-role-master/test/inventory.txt
+drwxrwxr-x root/root         0 2015-09-08 13:40 rippled-ansible-role-master/test/roles/
+lrwxrwxrwx root/root         0 2015-09-08 13:40 rippled-ansible-role-master/test/roles/rippled -> ../../
+-rwxrwxr-x root/root       145 2015-09-08 13:40 rippled-ansible-role-master/test/run-tests.sh
+-rw-rw-r-- root/root       167 2015-09-08 13:40 rippled-ansible-role-master/test/test-all.yml

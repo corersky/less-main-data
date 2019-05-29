@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-23 01:19 ansible_senchacmd_installer-master/
+-rw-rw-r-- root/root       546 2018-05-23 01:19 ansible_senchacmd_installer-master/README.md
+drwxrwxr-x root/root         0 2018-05-23 01:19 ansible_senchacmd_installer-master/defaults/
+-rw-rw-r-- root/root        62 2018-05-23 01:19 ansible_senchacmd_installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-23 01:19 ansible_senchacmd_installer-master/handlers/
+-rw-rw-r-- root/root        33 2018-05-23 01:19 ansible_senchacmd_installer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-23 01:19 ansible_senchacmd_installer-master/meta/
+-rw-rw-r-- root/root       258 2018-05-23 01:19 ansible_senchacmd_installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-23 01:19 ansible_senchacmd_installer-master/tasks/
+-rw-rw-r-- root/root       802 2018-05-23 01:19 ansible_senchacmd_installer-master/tasks/install-senchacmd.yml
+-rw-rw-r-- root/root       382 2018-05-23 01:19 ansible_senchacmd_installer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-23 01:19 ansible_senchacmd_installer-master/tests/
+-rw-rw-r-- root/root        11 2018-05-23 01:19 ansible_senchacmd_installer-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-05-23 01:19 ansible_senchacmd_installer-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-23 01:19 ansible_senchacmd_installer-master/vars/
+-rw-rw-r-- root/root       232 2018-05-23 01:19 ansible_senchacmd_installer-master/vars/main.yml

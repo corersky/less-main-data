@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-11-13 15:47 ansible-etcd-ca-master/
+-rw-rw-r-- root/root       120 2015-11-13 15:47 ansible-etcd-ca-master/.bumpversion.cfg
+-rw-rw-r-- root/root      1079 2015-11-13 15:47 ansible-etcd-ca-master/LICENSE
+-rw-rw-r-- root/root      1170 2015-11-13 15:47 ansible-etcd-ca-master/README.md
+drwxrwxr-x root/root         0 2015-11-13 15:47 ansible-etcd-ca-master/defaults/
+-rw-rw-r-- root/root       482 2015-11-13 15:47 ansible-etcd-ca-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-13 15:47 ansible-etcd-ca-master/meta/
+-rw-rw-r-- root/root       174 2015-11-13 15:47 ansible-etcd-ca-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-13 15:47 ansible-etcd-ca-master/tasks/
+-rw-rw-r-- root/root       928 2015-11-13 15:47 ansible-etcd-ca-master/tasks/key.yml
+-rw-rw-r-- root/root      1095 2015-11-13 15:47 ansible-etcd-ca-master/tasks/main.yml

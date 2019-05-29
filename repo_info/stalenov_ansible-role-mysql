@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-18 04:10 ansible-role-mysql-master/
+-rw-rw-r-- root/root       877 2018-07-18 04:10 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2018-07-18 04:10 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root        32 2018-07-18 04:10 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-18 04:10 ansible-role-mysql-master/handlers/
+-rw-rw-r-- root/root        32 2018-07-18 04:10 ansible-role-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-18 04:10 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root      1815 2018-07-18 04:10 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-18 04:10 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root       476 2018-07-18 04:10 ansible-role-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-18 04:10 ansible-role-mysql-master/tests/
+-rw-rw-r-- root/root        11 2018-07-18 04:10 ansible-role-mysql-master/tests/inventory
+-rw-rw-r-- root/root        66 2018-07-18 04:10 ansible-role-mysql-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-18 04:10 ansible-role-mysql-master/vars/
+-rw-rw-r-- root/root        28 2018-07-18 04:10 ansible-role-mysql-master/vars/main.yml

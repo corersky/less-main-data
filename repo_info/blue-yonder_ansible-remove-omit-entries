@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-19 07:08 ansible-remove-omit-entries-master/
+-rw-rw-r-- root/root       494 2017-12-19 07:08 ansible-remove-omit-entries-master/.travis.yml
+-rw-rw-r-- root/root        47 2017-12-19 07:08 ansible-remove-omit-entries-master/CHANGELOG.md
+-rw-rw-r-- root/root      1082 2017-12-19 07:08 ansible-remove-omit-entries-master/LICENSE
+-rw-rw-r-- root/root      3231 2017-12-19 07:08 ansible-remove-omit-entries-master/README.md
+drwxrwxr-x root/root         0 2017-12-19 07:08 ansible-remove-omit-entries-master/defaults/
+-rw-rw-r-- root/root        76 2017-12-19 07:08 ansible-remove-omit-entries-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-19 07:08 ansible-remove-omit-entries-master/filter_plugins/
+-rw-rw-r-- root/root      1580 2017-12-19 07:08 ansible-remove-omit-entries-master/filter_plugins/remove_omit_entries.py
+drwxrwxr-x root/root         0 2017-12-19 07:08 ansible-remove-omit-entries-master/meta/
+-rw-rw-r-- root/root       351 2017-12-19 07:08 ansible-remove-omit-entries-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-19 07:08 ansible-remove-omit-entries-master/tests/
+-rw-rw-r-- root/root        11 2017-12-19 07:08 ansible-remove-omit-entries-master/tests/inventory
+-rw-rw-r-- root/root       726 2017-12-19 07:08 ansible-remove-omit-entries-master/tests/test_remove_omit_entries.yml

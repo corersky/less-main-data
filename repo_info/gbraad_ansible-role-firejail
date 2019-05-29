@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-07 23:17 ansible-role-firejail-master/
+-rw-rw-r-- root/root       586 2016-08-07 23:17 ansible-role-firejail-master/README.md
+drwxrwxr-x root/root         0 2016-08-07 23:17 ansible-role-firejail-master/defaults/
+-rw-rw-r-- root/root         4 2016-08-07 23:17 ansible-role-firejail-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-07 23:17 ansible-role-firejail-master/files/
+-rw-rw-r-- root/root         0 2016-08-07 23:17 ansible-role-firejail-master/files/.gitkeep
+drwxrwxr-x root/root         0 2016-08-07 23:17 ansible-role-firejail-master/handlers/
+-rw-rw-r-- root/root         4 2016-08-07 23:17 ansible-role-firejail-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-07 23:17 ansible-role-firejail-master/meta/
+-rw-rw-r-- root/root       237 2016-08-07 23:17 ansible-role-firejail-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-07 23:17 ansible-role-firejail-master/tasks/
+-rw-rw-r-- root/root       545 2016-08-07 23:17 ansible-role-firejail-master/tasks/install.yml
+-rw-rw-r-- root/root       103 2016-08-07 23:17 ansible-role-firejail-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-07 23:17 ansible-role-firejail-master/templates/
+-rw-rw-r-- root/root         0 2016-08-07 23:17 ansible-role-firejail-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2016-08-07 23:17 ansible-role-firejail-master/vars/
+-rw-rw-r-- root/root         4 2016-08-07 23:17 ansible-role-firejail-master/vars/main.yml

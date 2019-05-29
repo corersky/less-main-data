@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-11 19:21 ansible-role-neovim-master/
+-rw-rw-r-- root/root      1314 2018-02-11 19:21 ansible-role-neovim-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-02-11 19:21 ansible-role-neovim-master/README.md
+drwxrwxr-x root/root         0 2018-02-11 19:21 ansible-role-neovim-master/meta/
+-rw-rw-r-- root/root       347 2018-02-11 19:21 ansible-role-neovim-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-11 19:21 ansible-role-neovim-master/tasks/
+-rw-rw-r-- root/root       306 2018-02-11 19:21 ansible-role-neovim-master/tasks/main.yml
+-rw-rw-r-- root/root       325 2018-02-11 19:21 ansible-role-neovim-master/tasks/setup-Ubuntu.yml
+-rw-rw-r-- root/root       181 2018-02-11 19:21 ansible-role-neovim-master/tasks/setup-darwin.yml
+-rw-rw-r-- root/root       665 2018-02-11 19:21 ansible-role-neovim-master/tasks/setup-rhel6.yml
+-rw-rw-r-- root/root       264 2018-02-11 19:21 ansible-role-neovim-master/tasks/setup-rhel7.yml
+drwxrwxr-x root/root         0 2018-02-11 19:21 ansible-role-neovim-master/templates/
+-rw-rw-r-- root/root       337 2018-02-11 19:21 ansible-role-neovim-master/templates/neovim.repo.j2
+drwxrwxr-x root/root         0 2018-02-11 19:21 ansible-role-neovim-master/tests/
+-rw-rw-r-- root/root        35 2018-02-11 19:21 ansible-role-neovim-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-02-11 19:21 ansible-role-neovim-master/tests/test.yml

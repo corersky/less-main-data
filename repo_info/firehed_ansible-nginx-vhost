@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-10-30 18:28 ansible-nginx-vhost-master/
+-rw-rw-r-- root/root      2407 2015-10-30 18:28 ansible-nginx-vhost-master/README.md
+drwxrwxr-x root/root         0 2015-10-30 18:28 ansible-nginx-vhost-master/defaults/
+-rw-rw-r-- root/root       796 2015-10-30 18:28 ansible-nginx-vhost-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-30 18:28 ansible-nginx-vhost-master/handlers/
+-rw-rw-r-- root/root        72 2015-10-30 18:28 ansible-nginx-vhost-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-30 18:28 ansible-nginx-vhost-master/meta/
+-rw-rw-r-- root/root      2220 2015-10-30 18:28 ansible-nginx-vhost-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-30 18:28 ansible-nginx-vhost-master/tasks/
+-rw-rw-r-- root/root       501 2015-10-30 18:28 ansible-nginx-vhost-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-30 18:28 ansible-nginx-vhost-master/templates/
+-rw-rw-r-- root/root      3022 2015-10-30 18:28 ansible-nginx-vhost-master/templates/vhost.conf.j2

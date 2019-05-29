@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-04-13 04:56 ansible-provision-user-master/
+-rw-rw-r-- root/root       770 2018-04-13 04:56 ansible-provision-user-master/README.md
+drwxrwxr-x root/root         0 2018-04-13 04:56 ansible-provision-user-master/defaults/
+-rw-rw-r-- root/root       102 2018-04-13 04:56 ansible-provision-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-13 04:56 ansible-provision-user-master/meta/
+-rw-rw-r-- root/root       238 2018-04-13 04:56 ansible-provision-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-13 04:56 ansible-provision-user-master/tasks/
+-rw-rw-r-- root/root       842 2018-04-13 04:56 ansible-provision-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-13 04:56 ansible-provision-user-master/templates/
+-rw-rw-r-- root/root        34 2018-04-13 04:56 ansible-provision-user-master/templates/authorized_keys
+-rw-rw-r-- root/root        53 2018-04-13 04:56 ansible-provision-user-master/templates/provision_user.sudoers.d

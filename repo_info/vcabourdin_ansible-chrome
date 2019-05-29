@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-03-03 05:15 ansible-chrome-master/
+-rw-rw-r-- root/root      1085 2016-03-03 05:15 ansible-chrome-master/LICENSE
+-rw-rw-r-- root/root       605 2016-03-03 05:15 ansible-chrome-master/README.md
+drwxrwxr-x root/root         0 2016-03-03 05:15 ansible-chrome-master/defaults/
+-rw-rw-r-- root/root       111 2016-03-03 05:15 ansible-chrome-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-03 05:15 ansible-chrome-master/meta/
+-rw-rw-r-- root/root       368 2016-03-03 05:15 ansible-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-03 05:15 ansible-chrome-master/tasks/
+-rw-rw-r-- root/root       403 2016-03-03 05:15 ansible-chrome-master/tasks/install.yml
+-rw-rw-r-- root/root       617 2016-03-03 05:15 ansible-chrome-master/tasks/main.yml

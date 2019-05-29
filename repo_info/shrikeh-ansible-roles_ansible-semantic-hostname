@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-09 06:58 ansible-semantic-hostname-master/
+-rw-rw-r-- root/root       725 2015-12-09 06:58 ansible-semantic-hostname-master/.travis.yml
+-rw-rw-r-- root/root      1081 2015-12-09 06:58 ansible-semantic-hostname-master/LICENSE
+-rw-rw-r-- root/root      1527 2015-12-09 06:58 ansible-semantic-hostname-master/README.md
+drwxrwxr-x root/root         0 2015-12-09 06:58 ansible-semantic-hostname-master/defaults/
+-rw-rw-r-- root/root      2733 2015-12-09 06:58 ansible-semantic-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-09 06:58 ansible-semantic-hostname-master/meta/
+-rw-rw-r-- root/root      1318 2015-12-09 06:58 ansible-semantic-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-09 06:58 ansible-semantic-hostname-master/tasks/
+-rw-rw-r-- root/root       574 2015-12-09 06:58 ansible-semantic-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-09 06:58 ansible-semantic-hostname-master/test/
+drwxrwxr-x root/root         0 2015-12-09 06:58 ansible-semantic-hostname-master/test/group_vars/
+drwxrwxr-x root/root         0 2015-12-09 06:58 ansible-semantic-hostname-master/test/group_vars/test/
+-rw-rw-r-- root/root       285 2015-12-09 06:58 ansible-semantic-hostname-master/test/group_vars/test/semantic-hostname.yml
+-rw-rw-r-- root/root        77 2015-12-09 06:58 ansible-semantic-hostname-master/test/inventory
+-rw-rw-r-- root/root       447 2015-12-09 06:58 ansible-semantic-hostname-master/test/playbook.yml

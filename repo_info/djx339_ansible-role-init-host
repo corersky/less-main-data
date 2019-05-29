@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-29 11:37 ansible-role-init-host-master/
+-rw-rw-r-- root/root       780 2018-04-29 11:37 ansible-role-init-host-master/README.md
+drwxrwxr-x root/root         0 2018-04-29 11:37 ansible-role-init-host-master/defaults/
+-rw-rw-r-- root/root        71 2018-04-29 11:37 ansible-role-init-host-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-29 11:37 ansible-role-init-host-master/handlers/
+-rw-rw-r-- root/root        34 2018-04-29 11:37 ansible-role-init-host-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-29 11:37 ansible-role-init-host-master/meta/
+-rw-rw-r-- root/root      1098 2018-04-29 11:37 ansible-role-init-host-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-29 11:37 ansible-role-init-host-master/tasks/
+-rw-rw-r-- root/root       813 2018-04-29 11:37 ansible-role-init-host-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-29 11:37 ansible-role-init-host-master/tests/
+-rw-rw-r-- root/root        11 2018-04-29 11:37 ansible-role-init-host-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-04-29 11:37 ansible-role-init-host-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-29 11:37 ansible-role-init-host-master/vars/
+-rw-rw-r-- root/root        30 2018-04-29 11:37 ansible-role-init-host-master/vars/main.yml

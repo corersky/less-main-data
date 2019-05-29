@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-14 21:47 ansible-role-npc_docker-master/
+-rw-rw-r-- root/root        25 2017-08-14 21:47 ansible-role-npc_docker-master/README.md
+drwxrwxr-x root/root         0 2017-08-14 21:47 ansible-role-npc_docker-master/defaults/
+-rw-rw-r-- root/root       216 2017-08-14 21:47 ansible-role-npc_docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-14 21:47 ansible-role-npc_docker-master/files/
+-rw-rw-r-- root/root      1065 2017-08-14 21:47 ansible-role-npc_docker-master/files/npc_docker.sh
+-rw-rw-r-- root/root      1391 2017-08-14 21:47 ansible-role-npc_docker-master/files/sync-node.sh
+-rw-rw-r-- root/root      1785 2017-08-14 21:47 ansible-role-npc_docker-master/files/sync-stacks.sh
+drwxrwxr-x root/root         0 2017-08-14 21:47 ansible-role-npc_docker-master/handlers/
+-rw-rw-r-- root/root        71 2017-08-14 21:47 ansible-role-npc_docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-14 21:47 ansible-role-npc_docker-master/meta/
+-rw-rw-r-- root/root       289 2017-08-14 21:47 ansible-role-npc_docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-14 21:47 ansible-role-npc_docker-master/tasks/
+-rw-rw-r-- root/root      2066 2017-08-14 21:47 ansible-role-npc_docker-master/tasks/docker_engine.yml
+-rw-rw-r-- root/root      1692 2017-08-14 21:47 ansible-role-npc_docker-master/tasks/docker_swarm.stacks.yml
+-rw-rw-r-- root/root      8535 2017-08-14 21:47 ansible-role-npc_docker-master/tasks/docker_swarm.yml
+-rw-rw-r-- root/root      1611 2017-08-14 21:47 ansible-role-npc_docker-master/tasks/main.yml

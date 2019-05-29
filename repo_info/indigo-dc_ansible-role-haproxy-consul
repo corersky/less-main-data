@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-09-06 05:55 ansible-role-haproxy-consul-master/
+-rw-rw-r-- root/root     11357 2016-09-06 05:55 ansible-role-haproxy-consul-master/LICENSE
+-rw-rw-r-- root/root       702 2016-09-06 05:55 ansible-role-haproxy-consul-master/README.md
+drwxrwxr-x root/root         0 2016-09-06 05:55 ansible-role-haproxy-consul-master/defaults/
+-rw-rw-r-- root/root       151 2016-09-06 05:55 ansible-role-haproxy-consul-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-06 05:55 ansible-role-haproxy-consul-master/meta/
+-rw-rw-r-- root/root       318 2016-09-06 05:55 ansible-role-haproxy-consul-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-06 05:55 ansible-role-haproxy-consul-master/tasks/
+-rw-rw-r-- root/root       304 2016-09-06 05:55 ansible-role-haproxy-consul-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-06 05:55 ansible-role-haproxy-consul-master/tests/
+-rw-rw-r-- root/root         9 2016-09-06 05:55 ansible-role-haproxy-consul-master/tests/inventory
+-rw-rw-r-- root/root        85 2016-09-06 05:55 ansible-role-haproxy-consul-master/tests/test.yml

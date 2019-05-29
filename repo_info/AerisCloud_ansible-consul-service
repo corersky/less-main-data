@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-12-11 20:03 ansible-consul-service-master/
+-rw-rw-r-- root/root      1076 2018-12-11 20:03 ansible-consul-service-master/LICENSE
+-rw-rw-r-- root/root      2909 2018-12-11 20:03 ansible-consul-service-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 20:03 ansible-consul-service-master/defaults/
+-rw-rw-r-- root/root        80 2018-12-11 20:03 ansible-consul-service-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 20:03 ansible-consul-service-master/handlers/
+-rw-rw-r-- root/root       121 2018-12-11 20:03 ansible-consul-service-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-11 20:03 ansible-consul-service-master/meta/
+-rw-rw-r-- root/root       267 2018-12-11 20:03 ansible-consul-service-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 20:03 ansible-consul-service-master/tasks/
+-rw-rw-r-- root/root       796 2018-12-11 20:03 ansible-consul-service-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-11 20:03 ansible-consul-service-master/templates/
+-rw-rw-r-- root/root      2018 2018-12-11 20:03 ansible-consul-service-master/templates/service.json.j2

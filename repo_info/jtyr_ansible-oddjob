@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-11 12:39 ansible-oddjob-master/
+-rw-rw-r-- root/root         0 2017-01-11 12:39 ansible-oddjob-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-01-11 12:39 ansible-oddjob-master/LICENSE
+-rw-rw-r-- root/root      5637 2017-01-11 12:39 ansible-oddjob-master/README.md
+drwxrwxr-x root/root         0 2017-01-11 12:39 ansible-oddjob-master/defaults/
+-rw-rw-r-- root/root      4328 2017-01-11 12:39 ansible-oddjob-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:39 ansible-oddjob-master/handlers/
+-rw-rw-r-- root/root       173 2017-01-11 12:39 ansible-oddjob-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:39 ansible-oddjob-master/meta/
+-rw-rw-r-- root/root       263 2017-01-11 12:39 ansible-oddjob-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-11 12:39 ansible-oddjob-master/tasks/
+-rw-rw-r-- root/root       886 2017-01-11 12:39 ansible-oddjob-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-01-11 12:39 ansible-oddjob-master/templates/
+-rw-rw-r-- root/root        73 2017-01-11 12:39 ansible-oddjob-master/templates/oddjobd.conf.j2

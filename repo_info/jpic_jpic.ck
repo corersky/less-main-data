@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-01-26 19:40 jpic.ck-master/
+-rw-rw-r-- root/root       459 2015-01-26 19:40 jpic.ck-master/README.md
+-rw-rw-r-- root/root       365 2015-01-26 19:40 jpic.ck-master/Vagrantfile
+-rw-rw-r-- root/root       217 2015-01-26 19:40 jpic.ck-master/Vagrantplaybook.yml
+drwxrwxr-x root/root         0 2015-01-26 19:40 jpic.ck-master/defaults/
+-rw-rw-r-- root/root        27 2015-01-26 19:40 jpic.ck-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-26 19:40 jpic.ck-master/handlers/
+-rw-rw-r-- root/root        83 2015-01-26 19:40 jpic.ck-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-01-26 19:40 jpic.ck-master/meta/
+-rw-rw-r-- root/root       261 2015-01-26 19:40 jpic.ck-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-26 19:40 jpic.ck-master/tasks/
+-rw-rw-r-- root/root       104 2015-01-26 19:40 jpic.ck-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-26 19:40 jpic.ck-master/vars/
+-rw-rw-r-- root/root        23 2015-01-26 19:40 jpic.ck-master/vars/main.yml

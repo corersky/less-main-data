@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/
+-rw-rw-r-- root/root      1041 2017-05-17 11:17 ansible-role-supervisor-master/.gitignore
+-rw-rw-r-- root/root       123 2017-05-17 11:17 ansible-role-supervisor-master/.gitmodules
+-rw-rw-r-- root/root      1283 2017-05-17 11:17 ansible-role-supervisor-master/.travis.yml
+-rw-rw-r-- root/root       878 2017-05-17 11:17 ansible-role-supervisor-master/README.md
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/defaults/
+-rw-rw-r-- root/root        28 2017-05-17 11:17 ansible-role-supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/handlers/
+-rw-rw-r-- root/root        35 2017-05-17 11:17 ansible-role-supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/meta/
+-rw-rw-r-- root/root       299 2017-05-17 11:17 ansible-role-supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/tasks/
+-rw-rw-r-- root/root       733 2017-05-17 11:17 ansible-role-supervisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/templates/
+-rw-rw-r-- root/root       221 2017-05-17 11:17 ansible-role-supervisor-master/templates/supervisord.conf.j2
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/tests/
+-rw-rw-r-- root/root       318 2017-05-17 11:17 ansible-role-supervisor-master/tests/docker_containers.yml
+-rw-rw-r-- root/root       156 2017-05-17 11:17 ansible-role-supervisor-master/tests/inventory
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/tests/roles/ansible-role-supervisor -> ../../
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/tests/roles/docker/
+-rw-rw-r-- root/root       748 2017-05-17 11:17 ansible-role-supervisor-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-17 11:17 ansible-role-supervisor-master/vars/
+-rw-rw-r-- root/root        31 2017-05-17 11:17 ansible-role-supervisor-master/vars/main.yml

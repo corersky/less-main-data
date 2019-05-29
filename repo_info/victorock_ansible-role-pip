@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-04 05:12 ansible-role-pip-master/
+-rw-rw-r-- root/root        22 2018-07-04 05:12 ansible-role-pip-master/.gitignore
+-rw-rw-r-- root/root       818 2018-07-04 05:12 ansible-role-pip-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-07-04 05:12 ansible-role-pip-master/LICENSE
+-rw-rw-r-- root/root      2248 2018-07-04 05:12 ansible-role-pip-master/README.md
+drwxrwxr-x root/root         0 2018-07-04 05:12 ansible-role-pip-master/defaults/
+-rw-rw-r-- root/root       107 2018-07-04 05:12 ansible-role-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:12 ansible-role-pip-master/meta/
+-rw-rw-r-- root/root       552 2018-07-04 05:12 ansible-role-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:12 ansible-role-pip-master/tasks/
+-rw-rw-r-- root/root       517 2018-07-04 05:12 ansible-role-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:12 ansible-role-pip-master/tests/
+-rw-rw-r-- root/root       632 2018-07-04 05:12 ansible-role-pip-master/tests/README.md
+-rw-rw-r-- root/root       386 2018-07-04 05:12 ansible-role-pip-master/tests/test.yml

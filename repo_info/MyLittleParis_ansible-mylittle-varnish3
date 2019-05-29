@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-07 12:58 ansible-mylittle-varnish3-master/
+-rw-rw-r-- root/root      2416 2017-03-07 12:58 ansible-mylittle-varnish3-master/README.md
+drwxrwxr-x root/root         0 2017-03-07 12:58 ansible-mylittle-varnish3-master/defaults/
+-rw-rw-r-- root/root       834 2017-03-07 12:58 ansible-mylittle-varnish3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-07 12:58 ansible-mylittle-varnish3-master/handlers/
+-rw-rw-r-- root/root       190 2017-03-07 12:58 ansible-mylittle-varnish3-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-07 12:58 ansible-mylittle-varnish3-master/meta/
+-rw-rw-r-- root/root      1715 2017-03-07 12:58 ansible-mylittle-varnish3-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-07 12:58 ansible-mylittle-varnish3-master/tasks/
+-rw-rw-r-- root/root      1303 2017-03-07 12:58 ansible-mylittle-varnish3-master/tasks/install_varnish.yml
+-rw-rw-r-- root/root       909 2017-03-07 12:58 ansible-mylittle-varnish3-master/tasks/install_vmods.yml
+-rw-rw-r-- root/root       286 2017-03-07 12:58 ansible-mylittle-varnish3-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-07 12:58 ansible-mylittle-varnish3-master/templates/
+-rw-rw-r-- root/root       185 2017-03-07 12:58 ansible-mylittle-varnish3-master/templates/customexec.conf.j2
+-rw-rw-r-- root/root        80 2017-03-07 12:58 ansible-mylittle-varnish3-master/templates/varnish.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-09-18 09:00 mysql-vagrant-master/
+-rw-rw-r-- root/root       745 2014-09-18 09:00 mysql-vagrant-master/.travis.yml
+-rw-rw-r-- root/root       698 2014-09-18 09:00 mysql-vagrant-master/README.md
+drwxrwxr-x root/root         0 2014-09-18 09:00 mysql-vagrant-master/defaults/
+-rw-rw-r-- root/root       231 2014-09-18 09:00 mysql-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-18 09:00 mysql-vagrant-master/handlers/
+-rw-rw-r-- root/root       202 2014-09-18 09:00 mysql-vagrant-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-18 09:00 mysql-vagrant-master/meta/
+-rw-rw-r-- root/root       346 2014-09-18 09:00 mysql-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-18 09:00 mysql-vagrant-master/tasks/
+-rw-rw-r-- root/root      1019 2014-09-18 09:00 mysql-vagrant-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-18 09:00 mysql-vagrant-master/templates/
+-rwxrwxr-x root/root       264 2014-09-18 09:00 mysql-vagrant-master/templates/devmode.cnf.j2
+-rw-rw-r-- root/root       175 2014-09-18 09:00 mysql-vagrant-master/test.yml

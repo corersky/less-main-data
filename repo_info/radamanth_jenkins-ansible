@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-27 17:32 jenkins-ansible-master/
+-rw-rw-r-- root/root     18047 2016-04-27 17:32 jenkins-ansible-master/LICENSE
+-rw-rw-r-- root/root       741 2016-04-27 17:32 jenkins-ansible-master/README.md
+drwxrwxr-x root/root         0 2016-04-27 17:32 jenkins-ansible-master/defaults/
+-rw-rw-r-- root/root      2110 2016-04-27 17:32 jenkins-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-27 17:32 jenkins-ansible-master/handlers/
+-rw-rw-r-- root/root        76 2016-04-27 17:32 jenkins-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-27 17:32 jenkins-ansible-master/meta/
+-rw-rw-r-- root/root       343 2016-04-27 17:32 jenkins-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-27 17:32 jenkins-ansible-master/tasks/
+-rw-rw-r-- root/root      6085 2016-04-27 17:32 jenkins-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-27 17:32 jenkins-ansible-master/templates/
+-rw-rw-r-- root/root      4370 2016-04-27 17:32 jenkins-ansible-master/templates/config.xml.j2
+-rw-rw-r-- root/root      2757 2016-04-27 17:32 jenkins-ansible-master/templates/etc.default.jenkins.j2
+-rw-rw-r-- root/root       987 2016-04-27 17:32 jenkins-ansible-master/templates/jenkins.conf
+-rw-rw-r-- root/root       239 2016-04-27 17:32 jenkins-ansible-master/templates/jenkins.model.JenkinsLocationConfiguration.xml.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-15 22:05 ansible-minishift-master/
+-rw-rw-r-- root/root       196 2018-09-15 22:05 ansible-minishift-master/README.md
+drwxrwxr-x root/root         0 2018-09-15 22:05 ansible-minishift-master/defaults/
+-rw-rw-r-- root/root       408 2018-09-15 22:05 ansible-minishift-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-15 22:05 ansible-minishift-master/handlers/
+-rw-rw-r-- root/root        33 2018-09-15 22:05 ansible-minishift-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-15 22:05 ansible-minishift-master/meta/
+-rw-rw-r-- root/root       191 2018-09-15 22:05 ansible-minishift-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-15 22:05 ansible-minishift-master/tasks/
+-rw-rw-r-- root/root      1994 2018-09-15 22:05 ansible-minishift-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-15 22:05 ansible-minishift-master/tests/
+-rw-rw-r-- root/root        11 2018-09-15 22:05 ansible-minishift-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-09-15 22:05 ansible-minishift-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-15 22:05 ansible-minishift-master/vars/
+-rw-rw-r-- root/root        29 2018-09-15 22:05 ansible-minishift-master/vars/main.yml

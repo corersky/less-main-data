@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-04 17:53 ansible-jq-master/
+-rw-rw-r-- root/root       812 2017-10-04 17:53 ansible-jq-master/.travis.yml
+-rw-rw-r-- root/root       488 2017-10-04 17:53 ansible-jq-master/README.md
+drwxrwxr-x root/root         0 2017-10-04 17:53 ansible-jq-master/defaults/
+-rw-rw-r-- root/root        61 2017-10-04 17:53 ansible-jq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:53 ansible-jq-master/meta/
+-rw-rw-r-- root/root       338 2017-10-04 17:53 ansible-jq-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:53 ansible-jq-master/tasks/
+-rw-rw-r-- root/root       384 2017-10-04 17:53 ansible-jq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-04 17:53 ansible-jq-master/tests/
+-rw-rw-r-- root/root        11 2017-10-04 17:53 ansible-jq-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-10-04 17:53 ansible-jq-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-04 17:53 ansible-jq-master/vars/
+-rw-rw-r-- root/root        46 2017-10-04 17:53 ansible-jq-master/vars/main.yml

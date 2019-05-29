@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-14 01:56 ansible-role-cadvisor-master/
+-rw-rw-r-- root/root       222 2017-06-14 01:56 ansible-role-cadvisor-master/.travis.yml
+-rw-rw-r-- root/root       587 2017-06-14 01:56 ansible-role-cadvisor-master/README.md
+drwxrwxr-x root/root         0 2017-06-14 01:56 ansible-role-cadvisor-master/handlers/
+-rw-rw-r-- root/root       197 2017-06-14 01:56 ansible-role-cadvisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-14 01:56 ansible-role-cadvisor-master/meta/
+-rw-rw-r-- root/root       253 2017-06-14 01:56 ansible-role-cadvisor-master/meta/main.yml
+-rw-rw-r-- root/root       395 2017-06-14 01:56 ansible-role-cadvisor-master/molecule.yml
+-rw-rw-r-- root/root        60 2017-06-14 01:56 ansible-role-cadvisor-master/playbook.yml
+drwxrwxr-x root/root         0 2017-06-14 01:56 ansible-role-cadvisor-master/tasks/
+-rw-rw-r-- root/root      1107 2017-06-14 01:56 ansible-role-cadvisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-14 01:56 ansible-role-cadvisor-master/templates/
+-rw-rw-r-- root/root       171 2017-06-14 01:56 ansible-role-cadvisor-master/templates/systemd-system-cadvisor-service.j2
+drwxrwxr-x root/root         0 2017-06-14 01:56 ansible-role-cadvisor-master/tests/
+-rw-rw-r-- root/root       409 2017-06-14 01:56 ansible-role-cadvisor-master/tests/test_default.py

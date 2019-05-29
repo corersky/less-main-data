@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-24 09:43 ansible-role-unzip-master/
+drwxrwxr-x root/root         0 2019-03-24 09:43 ansible-role-unzip-master/.circleci/
+-rw-rw-r-- root/root       671 2019-03-24 09:43 ansible-role-unzip-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-03-24 09:43 ansible-role-unzip-master/.gitignore
+-rw-rw-r-- root/root      3031 2019-03-24 09:43 ansible-role-unzip-master/.travis.yml
+-rw-rw-r-- root/root       492 2019-03-24 09:43 ansible-role-unzip-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 09:43 ansible-role-unzip-master/meta/
+-rw-rw-r-- root/root      3537 2019-03-24 09:43 ansible-role-unzip-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 09:43 ansible-role-unzip-master/tasks/
+-rw-rw-r-- root/root        86 2019-03-24 09:43 ansible-role-unzip-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3170 2019-03-24 09:43 ansible-role-unzip-master/tasks/compat.yml
+-rw-rw-r-- root/root       236 2019-03-24 09:43 ansible-role-unzip-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       531 2019-03-24 09:43 ansible-role-unzip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 09:43 ansible-role-unzip-master/vars/
+-rw-rw-r-- root/root        24 2019-03-24 09:43 ansible-role-unzip-master/vars/Debian.yml
+-rw-rw-r-- root/root        24 2019-03-24 09:43 ansible-role-unzip-master/vars/RedHat.yml
+-rw-rw-r-- root/root         4 2019-03-24 09:43 ansible-role-unzip-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-12 23:21 ansible-hostname-master/
+-rw-rw-r-- root/root         0 2016-05-12 23:21 ansible-hostname-master/.gitignore
+-rw-rw-r-- root/root      1096 2016-05-12 23:21 ansible-hostname-master/LICENSE
+-rw-rw-r-- root/root       993 2016-05-12 23:21 ansible-hostname-master/README.md
+-rw-rw-r-- root/root       658 2016-05-12 23:21 ansible-hostname-master/circle.yml
+drwxrwxr-x root/root         0 2016-05-12 23:21 ansible-hostname-master/defaults/
+-rw-rw-r-- root/root        42 2016-05-12 23:21 ansible-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-12 23:21 ansible-hostname-master/meta/
+-rw-rw-r-- root/root       301 2016-05-12 23:21 ansible-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-12 23:21 ansible-hostname-master/tasks/
+-rw-rw-r-- root/root      1330 2016-05-12 23:21 ansible-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-12 23:21 ansible-hostname-master/templates/
+-rw-rw-r-- root/root        54 2016-05-12 23:21 ansible-hostname-master/templates/hostname.j2
+drwxrwxr-x root/root         0 2016-05-12 23:21 ansible-hostname-master/tests/
+-rw-rw-r-- root/root         9 2016-05-12 23:21 ansible-hostname-master/tests/inventory
+-rw-rw-r-- root/root       109 2016-05-12 23:21 ansible-hostname-master/tests/test.yml

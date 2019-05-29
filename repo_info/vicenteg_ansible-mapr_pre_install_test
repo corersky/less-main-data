@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-19 13:48 ansible-mapr_pre_install_test-master/
+-rw-rw-r-- root/root       580 2015-06-19 13:48 ansible-mapr_pre_install_test-master/README.md
+drwxrwxr-x root/root         0 2015-06-19 13:48 ansible-mapr_pre_install_test-master/defaults/
+-rw-rw-r-- root/root        46 2015-06-19 13:48 ansible-mapr_pre_install_test-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-19 13:48 ansible-mapr_pre_install_test-master/handlers/
+-rw-rw-r-- root/root        46 2015-06-19 13:48 ansible-mapr_pre_install_test-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-19 13:48 ansible-mapr_pre_install_test-master/meta/
+-rw-rw-r-- root/root      2314 2015-06-19 13:48 ansible-mapr_pre_install_test-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-19 13:48 ansible-mapr_pre_install_test-master/tasks/
+-rw-rw-r-- root/root       457 2015-06-19 13:48 ansible-mapr_pre_install_test-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-19 13:48 ansible-mapr_pre_install_test-master/templates/
+-rw-rw-r-- root/root       176 2015-06-19 13:48 ansible-mapr_pre_install_test-master/templates/iozone.sh.j2
+drwxrwxr-x root/root         0 2015-06-19 13:48 ansible-mapr_pre_install_test-master/vars/
+-rw-rw-r-- root/root        42 2015-06-19 13:48 ansible-mapr_pre_install_test-master/vars/main.yml

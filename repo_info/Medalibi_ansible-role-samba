@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-04 13:54 ansible-role-samba-master/
+-rw-rw-r-- root/root        22 2018-04-04 13:54 ansible-role-samba-master/.gitignore
+-rw-rw-r-- root/root       416 2018-04-04 13:54 ansible-role-samba-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-04-04 13:54 ansible-role-samba-master/LICENSE
+-rw-rw-r-- root/root       722 2018-04-04 13:54 ansible-role-samba-master/README.md
+drwxrwxr-x root/root         0 2018-04-04 13:54 ansible-role-samba-master/handlers/
+-rw-rw-r-- root/root        77 2018-04-04 13:54 ansible-role-samba-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-04 13:54 ansible-role-samba-master/meta/
+-rw-rw-r-- root/root       396 2018-04-04 13:54 ansible-role-samba-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-04 13:54 ansible-role-samba-master/tasks/
+-rw-rw-r-- root/root       663 2018-04-04 13:54 ansible-role-samba-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-04 13:54 ansible-role-samba-master/tests/
+-rw-rw-r-- root/root       632 2018-04-04 13:54 ansible-role-samba-master/tests/README.md
+-rw-rw-r-- root/root       184 2018-04-04 13:54 ansible-role-samba-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-04 13:54 ansible-role-samba-master/vars/
+-rw-rw-r-- root/root        23 2018-04-04 13:54 ansible-role-samba-master/vars/Debian.yml
+-rw-rw-r-- root/root        22 2018-04-04 13:54 ansible-role-samba-master/vars/RedHat.yml

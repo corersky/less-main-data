@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-19 07:32 ansible-role-jboss-eap-master/
+-rw-rw-r-- root/root        29 2016-07-19 07:32 ansible-role-jboss-eap-master/.gitignore
+-rw-rw-r-- root/root      1328 2016-07-19 07:32 ansible-role-jboss-eap-master/README.md
+drwxrwxr-x root/root         0 2016-07-19 07:32 ansible-role-jboss-eap-master/defaults/
+-rw-rw-r-- root/root      1054 2016-07-19 07:32 ansible-role-jboss-eap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:32 ansible-role-jboss-eap-master/handlers/
+-rw-rw-r-- root/root        47 2016-07-19 07:32 ansible-role-jboss-eap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:32 ansible-role-jboss-eap-master/meta/
+-rw-rw-r-- root/root       403 2016-07-19 07:32 ansible-role-jboss-eap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:32 ansible-role-jboss-eap-master/tasks/
+-rw-rw-r-- root/root      4965 2016-07-19 07:32 ansible-role-jboss-eap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-19 07:32 ansible-role-jboss-eap-master/templates/
+-rw-rw-r-- root/root       331 2016-07-19 07:32 ansible-role-jboss-eap-master/templates/jboss-as-standalone.j2
+-rw-rw-r-- root/root       347 2016-07-19 07:32 ansible-role-jboss-eap-master/templates/jboss-as-standalone.xml
+drwxrwxr-x root/root         0 2016-07-19 07:32 ansible-role-jboss-eap-master/vars/
+-rw-rw-r-- root/root        52 2016-07-19 07:32 ansible-role-jboss-eap-master/vars/main.readme
+-rw-rw-r-- root/root        57 2016-07-19 07:32 ansible-role-jboss-eap-master/vars/secret_key.readme

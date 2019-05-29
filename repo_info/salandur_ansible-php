@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-master/
+-rw-rw-r-- root/root      1741 2017-03-05 19:38 ansible-php-master/.travis.yml
+-rw-rw-r-- root/root      1057 2017-03-05 19:38 ansible-php-master/LICENSE
+-rw-rw-r-- root/root       580 2017-03-05 19:38 ansible-php-master/README.md
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-master/defaults/
+-rw-rw-r-- root/root       136 2017-03-05 19:38 ansible-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-master/meta/
+-rw-rw-r-- root/root       214 2017-03-05 19:38 ansible-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-master/tasks/
+-rw-rw-r-- root/root       465 2017-03-05 19:38 ansible-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-master/templates/
+-rw-rw-r-- root/root       111 2017-03-05 19:38 ansible-php-master/templates/php_errors.ini.j2
+-rw-rw-r-- root/root        67 2017-03-05 19:38 ansible-php-master/templates/short_open_tag.ini.j2
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-master/tests/
+-rw-rw-r-- root/root       286 2017-03-05 19:38 ansible-php-master/tests/Dockerfile.centos-6.8
+-rw-rw-r-- root/root        70 2017-03-05 19:38 ansible-php-master/tests/test.yml

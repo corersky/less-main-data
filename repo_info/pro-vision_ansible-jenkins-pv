@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-11 11:06 ansible-jenkins-pv-master/
+-rw-rw-r-- root/root        39 2019-04-11 11:06 ansible-jenkins-pv-master/.ansible-lint
+-rw-rw-r-- root/root      1070 2019-04-11 11:06 ansible-jenkins-pv-master/.gitattributes
+-rw-rw-r-- root/root       369 2019-04-11 11:06 ansible-jenkins-pv-master/.gitignore
+-rw-rw-r-- root/root       999 2019-04-11 11:06 ansible-jenkins-pv-master/.travis.yml
+-rw-rw-r-- root/root     11324 2019-04-11 11:06 ansible-jenkins-pv-master/LICENSE
+-rw-rw-r-- root/root      2698 2019-04-11 11:06 ansible-jenkins-pv-master/README.md
+drwxrwxr-x root/root         0 2019-04-11 11:06 ansible-jenkins-pv-master/defaults/
+-rw-rw-r-- root/root      6687 2019-04-11 11:06 ansible-jenkins-pv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-11 11:06 ansible-jenkins-pv-master/meta/
+-rw-rw-r-- root/root      1175 2019-04-11 11:06 ansible-jenkins-pv-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-11 11:06 ansible-jenkins-pv-master/tests/
+-rw-rw-r-- root/root        18 2019-04-11 11:06 ansible-jenkins-pv-master/tests/inventory
+-rw-rw-r-- root/root       166 2019-04-11 11:06 ansible-jenkins-pv-master/tests/requirements.yml
+-rw-rw-r-- root/root        72 2019-04-11 11:06 ansible-jenkins-pv-master/tests/test.yml

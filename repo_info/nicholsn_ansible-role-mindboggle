@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-04-29 18:45 ansible-role-mindboggle-master/
+-rw-rw-r-- root/root     11323 2014-04-29 18:45 ansible-role-mindboggle-master/LICENSE
+-rw-rw-r-- root/root      1482 2014-04-29 18:45 ansible-role-mindboggle-master/README.md
+-rw-rw-r-- root/root      4914 2014-04-29 18:45 ansible-role-mindboggle-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-04-29 18:45 ansible-role-mindboggle-master/defaults/
+-rw-rw-r-- root/root       264 2014-04-29 18:45 ansible-role-mindboggle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-04-29 18:45 ansible-role-mindboggle-master/handlers/
+-rw-rw-r-- root/root        48 2014-04-29 18:45 ansible-role-mindboggle-master/handlers/main.yml
+-rw-rw-r-- root/root       122 2014-04-29 18:45 ansible-role-mindboggle-master/local.yml
+drwxrwxr-x root/root         0 2014-04-29 18:45 ansible-role-mindboggle-master/meta/
+-rw-rw-r-- root/root      2116 2014-04-29 18:45 ansible-role-mindboggle-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-29 18:45 ansible-role-mindboggle-master/tasks/
+-rw-rw-r-- root/root      2468 2014-04-29 18:45 ansible-role-mindboggle-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-04-29 18:45 ansible-role-mindboggle-master/templates/
+-rw-rw-r-- root/root      3713 2014-04-29 18:45 ansible-role-mindboggle-master/templates/bashrc.j2
+drwxrwxr-x root/root         0 2014-04-29 18:45 ansible-role-mindboggle-master/vars/
+-rw-rw-r-- root/root        44 2014-04-29 18:45 ansible-role-mindboggle-master/vars/main.yml

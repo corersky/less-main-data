@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-08-12 21:04 ansible-role-metricbeat-master/
+-rw-rw-r-- root/root       282 2017-08-12 21:04 ansible-role-metricbeat-master/.editorconfig
+-rw-rw-r-- root/root      1082 2017-08-12 21:04 ansible-role-metricbeat-master/.travis.yml
+-rw-rw-r-- root/root      1082 2017-08-12 21:04 ansible-role-metricbeat-master/LICENSE.md
+-rw-rw-r-- root/root      1561 2017-08-12 21:04 ansible-role-metricbeat-master/README.md
+drwxrwxr-x root/root         0 2017-08-12 21:04 ansible-role-metricbeat-master/defaults/
+-rw-rw-r-- root/root       480 2017-08-12 21:04 ansible-role-metricbeat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-12 21:04 ansible-role-metricbeat-master/handlers/
+-rw-rw-r-- root/root        84 2017-08-12 21:04 ansible-role-metricbeat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-12 21:04 ansible-role-metricbeat-master/meta/
+-rw-rw-r-- root/root       289 2017-08-12 21:04 ansible-role-metricbeat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-12 21:04 ansible-role-metricbeat-master/tasks/
+-rw-rw-r-- root/root       795 2017-08-12 21:04 ansible-role-metricbeat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-12 21:04 ansible-role-metricbeat-master/templates/
+-rw-rw-r-- root/root       445 2017-08-12 21:04 ansible-role-metricbeat-master/templates/metricbeat.yml.j2
+drwxrwxr-x root/root         0 2017-08-12 21:04 ansible-role-metricbeat-master/tests/
+-rw-rw-r-- root/root       173 2017-08-12 21:04 ansible-role-metricbeat-master/tests/test.yml

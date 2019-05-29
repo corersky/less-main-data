@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-10-01 06:07 ansible-httpd-master/
+-rw-rw-r-- root/root       168 2014-10-01 06:07 ansible-httpd-master/.travis.yml
+-rw-rw-r-- root/root      1373 2014-10-01 06:07 ansible-httpd-master/README.md
+drwxrwxr-x root/root         0 2014-10-01 06:07 ansible-httpd-master/defaults/
+-rw-rw-r-- root/root      1953 2014-10-01 06:07 ansible-httpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-01 06:07 ansible-httpd-master/handlers/
+-rw-rw-r-- root/root        69 2014-10-01 06:07 ansible-httpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-01 06:07 ansible-httpd-master/meta/
+-rw-rw-r-- root/root       219 2014-10-01 06:07 ansible-httpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-01 06:07 ansible-httpd-master/tasks/
+-rw-rw-r-- root/root       481 2014-10-01 06:07 ansible-httpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-01 06:07 ansible-httpd-master/templates/
+-rw-rw-r-- root/root     32880 2014-10-01 06:07 ansible-httpd-master/templates/httpd.conf.j2
+-rw-rw-r-- root/root       135 2014-10-01 06:07 ansible-httpd-master/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/
+-rw-rw-r-- root/root       177 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/.gitignore
+-rw-rw-r-- root/root     35149 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/LICENSE
+-rw-rw-r-- root/root       707 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/defaults/
+-rw-rw-r-- root/root       542 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/meta/
+-rw-rw-r-- root/root       538 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/tasks/
+-rw-rw-r-- root/root       893 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/tests/
+-rw-rw-r-- root/root        11 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/tests/inventory
+-rw-rw-r-- root/root        92 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/vars/
+-rw-rw-r-- root/root        41 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/vars/Windows.yml
+-rw-rw-r-- root/root       219 2019-05-21 09:47 ansible-role-aws-iam-authenticator-master/vars/main.yml

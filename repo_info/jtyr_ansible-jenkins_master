@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-05 06:43 ansible-jenkins_master-master/
+-rw-rw-r-- root/root         0 2018-10-05 06:43 ansible-jenkins_master-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-10-05 06:43 ansible-jenkins_master-master/LICENSE
+-rw-rw-r-- root/root      7554 2018-10-05 06:43 ansible-jenkins_master-master/README.md
+drwxrwxr-x root/root         0 2018-10-05 06:43 ansible-jenkins_master-master/defaults/
+-rw-rw-r-- root/root      4700 2018-10-05 06:43 ansible-jenkins_master-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-10-05 06:43 ansible-jenkins_master-master/handlers/
+-rw-rw-r-- root/root       220 2018-10-05 06:43 ansible-jenkins_master-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2018-10-05 06:43 ansible-jenkins_master-master/meta/
+-rw-rw-r-- root/root       280 2018-10-05 06:43 ansible-jenkins_master-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-05 06:43 ansible-jenkins_master-master/tasks/
+-rw-rw-r-- root/root      4524 2018-10-05 06:43 ansible-jenkins_master-master/tasks/main.yaml
+-rw-rw-r-- root/root       429 2018-10-05 06:43 ansible-jenkins_master-master/tasks/wait.yaml
+drwxrwxr-x root/root         0 2018-10-05 06:43 ansible-jenkins_master-master/templates/
+-rw-rw-r-- root/root       102 2018-10-05 06:43 ansible-jenkins_master-master/templates/jenkins.j2
+-rw-rw-r-- root/root      3103 2018-10-05 06:43 ansible-jenkins_master-master/templates/setup.groovy.j2

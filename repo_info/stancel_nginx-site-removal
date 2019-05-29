@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-16 17:41 nginx-site-removal-master/
+-rw-rw-r-- root/root        63 2018-11-16 17:41 nginx-site-removal-master/.gitignore
+-rw-rw-r-- root/root      1166 2018-11-16 17:41 nginx-site-removal-master/README.md
+drwxrwxr-x root/root         0 2018-11-16 17:41 nginx-site-removal-master/defaults/
+-rw-rw-r-- root/root       124 2018-11-16 17:41 nginx-site-removal-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-16 17:41 nginx-site-removal-master/handlers/
+-rw-rw-r-- root/root       138 2018-11-16 17:41 nginx-site-removal-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-16 17:41 nginx-site-removal-master/meta/
+-rw-rw-r-- root/root       407 2018-11-16 17:41 nginx-site-removal-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-16 17:41 nginx-site-removal-master/tasks/
+-rw-rw-r-- root/root      1936 2018-11-16 17:41 nginx-site-removal-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-16 17:41 nginx-site-removal-master/tests/
+-rw-rw-r-- root/root        11 2018-11-16 17:41 nginx-site-removal-master/tests/inventory
+-rw-rw-r-- root/root        84 2018-11-16 17:41 nginx-site-removal-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-16 17:41 nginx-site-removal-master/vars/
+-rw-rw-r-- root/root       298 2018-11-16 17:41 nginx-site-removal-master/vars/main.yml

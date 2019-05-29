@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-17 10:16 ansible.targetcli-modules-master/
+-rw-rw-r-- root/root     35147 2019-05-17 10:16 ansible.targetcli-modules-master/LICENSE
+-rw-rw-r-- root/root       988 2019-05-17 10:16 ansible.targetcli-modules-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 10:16 ansible.targetcli-modules-master/library/
+-rw-rw-r-- root/root      4670 2019-05-17 10:16 ansible.targetcli-modules-master/library/targetcli_backstore.py
+-rw-rw-r-- root/root      3745 2019-05-17 10:16 ansible.targetcli-modules-master/library/targetcli_iscsi.py
+-rw-rw-r-- root/root      3316 2019-05-17 10:16 ansible.targetcli-modules-master/library/targetcli_iscsi_acl.py
+-rw-rw-r-- root/root      5024 2019-05-17 10:16 ansible.targetcli-modules-master/library/targetcli_iscsi_lun.py
+drwxrwxr-x root/root         0 2019-05-17 10:16 ansible.targetcli-modules-master/meta/
+-rw-rw-r-- root/root       254 2019-05-17 10:16 ansible.targetcli-modules-master/meta/main.yml

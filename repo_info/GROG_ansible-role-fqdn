@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-07-20 08:49 ansible-role-fqdn-master/
+-rw-rw-r-- root/root      1027 2016-07-20 08:49 ansible-role-fqdn-master/.travis.yml
+-rw-rw-r-- root/root      1071 2016-07-20 08:49 ansible-role-fqdn-master/LICENSE
+-rw-rw-r-- root/root      1535 2016-07-20 08:49 ansible-role-fqdn-master/README.md
+drwxrwxr-x root/root         0 2016-07-20 08:49 ansible-role-fqdn-master/defaults/
+-rw-rw-r-- root/root        87 2016-07-20 08:49 ansible-role-fqdn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-20 08:49 ansible-role-fqdn-master/meta/
+-rw-rw-r-- root/root      1319 2016-07-20 08:49 ansible-role-fqdn-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-20 08:49 ansible-role-fqdn-master/tasks/
+-rw-rw-r-- root/root      1120 2016-07-20 08:49 ansible-role-fqdn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-20 08:49 ansible-role-fqdn-master/tests/
+-rw-rw-r-- root/root        10 2016-07-20 08:49 ansible-role-fqdn-master/tests/inventory
+-rw-rw-r-- root/root       141 2016-07-20 08:49 ansible-role-fqdn-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/
+-rw-rw-r-- root/root       539 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/.travis.yml
+-rw-rw-r-- root/root       867 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/README.md
+drwxrwxr-x root/root         0 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/files/
+drwxrwxr-x root/root         0 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/files/nfc/
+-rw-rw-r-- root/root       954 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/files/nfc/libnfc.conf
+drwxrwxr-x root/root         0 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/meta/
+-rw-rw-r-- root/root       444 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/tasks/
+-rw-rw-r-- root/root       868 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/tests/
+-rw-rw-r-- root/root        10 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/tests/inventory
+-rw-rw-r-- root/root        90 2017-07-30 16:47 ansible-role-nfc-controller-itead-pn532-uart-master/tests/test.yaml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-23 12:50 ansible-role-domain-master/
+-rw-rw-r-- root/root       539 2016-06-23 12:50 ansible-role-domain-master/.travis.yml
+-rw-rw-r-- root/root      1319 2016-06-23 12:50 ansible-role-domain-master/LICENSE
+-rw-rw-r-- root/root      1357 2016-06-23 12:50 ansible-role-domain-master/README.md
+drwxrwxr-x root/root         0 2016-06-23 12:50 ansible-role-domain-master/defaults/
+-rw-rw-r-- root/root        26 2016-06-23 12:50 ansible-role-domain-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-23 12:50 ansible-role-domain-master/meta/
+-rw-rw-r-- root/root      1606 2016-06-23 12:50 ansible-role-domain-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-23 12:50 ansible-role-domain-master/tasks/
+-rw-rw-r-- root/root       389 2016-06-23 12:50 ansible-role-domain-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-23 12:50 ansible-role-domain-master/templates/
+-rw-rw-r-- root/root       449 2016-06-23 12:50 ansible-role-domain-master/templates/domains.j2
+drwxrwxr-x root/root         0 2016-06-23 12:50 ansible-role-domain-master/tests/
+-rw-rw-r-- root/root         9 2016-06-23 12:50 ansible-role-domain-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-06-23 12:50 ansible-role-domain-master/tests/test.yml

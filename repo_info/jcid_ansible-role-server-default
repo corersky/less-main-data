@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-default-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-server-default-master/.travis.yml
+-rw-rw-r-- root/root        82 2016-12-11 10:56 ansible-role-server-default-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-default-master/defaults/
+-rw-rw-r-- root/root       192 2016-12-11 10:56 ansible-role-server-default-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-default-master/meta/
+-rw-rw-r-- root/root       215 2016-12-11 10:56 ansible-role-server-default-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-default-master/tasks/
+-rw-rw-r-- root/root       481 2016-12-11 10:56 ansible-role-server-default-master/tasks/lockrun.yml
+-rw-rw-r-- root/root      1619 2016-12-11 10:56 ansible-role-server-default-master/tasks/main.yml
+-rw-rw-r-- root/root       295 2016-12-11 10:56 ansible-role-server-default-master/tasks/n2.yml
+-rw-rw-r-- root/root       297 2016-12-11 10:56 ansible-role-server-default-master/tasks/ntp.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-default-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-server-default-master/tests/inventory
+-rw-rw-r-- root/root        73 2016-12-11 10:56 ansible-role-server-default-master/tests/test.yml

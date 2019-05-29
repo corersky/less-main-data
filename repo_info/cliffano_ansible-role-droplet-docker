@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-04-09 16:25 ansible-role-droplet-docker-master/
+-rw-rw-r-- root/root         8 2016-04-09 16:25 ansible-role-droplet-docker-master/.gitignore
+-rw-rw-r-- root/root       114 2016-04-09 16:25 ansible-role-droplet-docker-master/.travis.yml
+-rw-rw-r-- root/root        28 2016-04-09 16:25 ansible-role-droplet-docker-master/CHANGELOG.md
+-rwxrwxr-x root/root      1063 2016-04-09 16:25 ansible-role-droplet-docker-master/LICENSE
+-rw-rw-r-- root/root       184 2016-04-09 16:25 ansible-role-droplet-docker-master/Makefile
+-rw-rw-r-- root/root       466 2016-04-09 16:25 ansible-role-droplet-docker-master/README.md
+drwxrwxr-x root/root         0 2016-04-09 16:25 ansible-role-droplet-docker-master/defaults/
+-rw-rw-r-- root/root         3 2016-04-09 16:25 ansible-role-droplet-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-09 16:25 ansible-role-droplet-docker-master/meta/
+-rw-rw-r-- root/root       378 2016-04-09 16:25 ansible-role-droplet-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-09 16:25 ansible-role-droplet-docker-master/tasks/
+-rw-rw-r-- root/root       827 2016-04-09 16:25 ansible-role-droplet-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-09 16:25 ansible-role-droplet-docker-master/test/
+-rw-rw-r-- root/root        99 2016-04-09 16:25 ansible-role-droplet-docker-master/test/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-05 13:22 ansible-role-squid-master/
+-rw-rw-r-- root/root      1616 2019-04-05 13:22 ansible-role-squid-master/.travis.yml
+-rw-rw-r-- root/root       518 2019-04-05 13:22 ansible-role-squid-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 13:22 ansible-role-squid-master/meta/
+-rw-rw-r-- root/root       378 2019-04-05 13:22 ansible-role-squid-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 13:22 ansible-role-squid-master/tasks/
+-rw-rw-r-- root/root      1095 2019-04-05 13:22 ansible-role-squid-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-05 13:22 ansible-role-squid-master/tests/
+-rw-rw-r-- root/root        11 2019-04-05 13:22 ansible-role-squid-master/tests/inventory
+-rw-rw-r-- root/root        76 2019-04-05 13:22 ansible-role-squid-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-05 13:22 ansible-role-squid-master/vars/
+-rw-rw-r-- root/root        51 2019-04-05 13:22 ansible-role-squid-master/vars/main.yml

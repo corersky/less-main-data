@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-15 09:52 ansible-role-sshd-master/
+-rw-rw-r-- root/root      2269 2019-04-15 09:52 ansible-role-sshd-master/.ciconfiggen.config
+drwxrwxr-x root/root         0 2019-04-15 09:52 ansible-role-sshd-master/.circleci/
+-rw-rw-r-- root/root      4873 2019-04-15 09:52 ansible-role-sshd-master/.circleci/config.yml
+-rw-rw-r-- root/root        53 2019-04-15 09:52 ansible-role-sshd-master/.gitignore
+-rw-rw-r-- root/root      1693 2019-04-15 09:52 ansible-role-sshd-master/.travis.yml
+-rw-rw-r-- root/root       499 2019-04-15 09:52 ansible-role-sshd-master/README.md
+drwxrwxr-x root/root         0 2019-04-15 09:52 ansible-role-sshd-master/meta/
+-rw-rw-r-- root/root      3547 2019-04-15 09:52 ansible-role-sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-15 09:52 ansible-role-sshd-master/tasks/
+-rw-rw-r-- root/root       283 2019-04-15 09:52 ansible-role-sshd-master/tasks/Debian.yml
+-rw-rw-r-- root/root      4306 2019-04-15 09:52 ansible-role-sshd-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-04-15 09:52 ansible-role-sshd-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1226 2019-04-15 09:52 ansible-role-sshd-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       154 2019-04-15 09:52 ansible-role-sshd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-15 09:52 ansible-role-sshd-master/vars/
+-rw-rw-r-- root/root        36 2019-04-15 09:52 ansible-role-sshd-master/vars/default.yml

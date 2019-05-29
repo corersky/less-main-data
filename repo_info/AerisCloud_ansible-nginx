@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-nginx-master/
+-rw-rw-r-- root/root      1074 2016-06-20 01:37 ansible-nginx-master/LICENSE
+-rw-rw-r-- root/root      2235 2016-06-20 01:37 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root       226 2016-06-20 01:37 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root       108 2016-06-20 01:37 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       394 2016-06-20 01:37 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root       118 2016-06-20 01:37 ansible-nginx-master/tasks/centos.yml
+-rw-rw-r-- root/root      1110 2016-06-20 01:37 ansible-nginx-master/tasks/main.yml
+-rw-rw-r-- root/root       658 2016-06-20 01:37 ansible-nginx-master/tasks/ssl.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-nginx-master/templates/
+-rw-rw-r-- root/root      1122 2016-06-20 01:37 ansible-nginx-master/templates/gzip.conf.j2
+-rw-rw-r-- root/root      1019 2016-06-20 01:37 ansible-nginx-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root      1276 2016-06-20 01:37 ansible-nginx-master/templates/ssl.conf.j2

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-06-12 13:02 ansible-role-local-accounts-master/
+-rw-rw-r-- root/root         4 2017-06-12 13:02 ansible-role-local-accounts-master/.gitignore
+-rw-rw-r-- root/root       224 2017-06-12 13:02 ansible-role-local-accounts-master/.travis.yml
+-rw-rw-r-- root/root      1921 2017-06-12 13:02 ansible-role-local-accounts-master/README.md
+drwxrwxr-x root/root         0 2017-06-12 13:02 ansible-role-local-accounts-master/meta/
+-rw-rw-r-- root/root       278 2017-06-12 13:02 ansible-role-local-accounts-master/meta/main.yml
+-rw-rw-r-- root/root       356 2017-06-12 13:02 ansible-role-local-accounts-master/molecule.yml
+-rw-rw-r-- root/root       353 2017-06-12 13:02 ansible-role-local-accounts-master/playbook.yml
+drwxrwxr-x root/root         0 2017-06-12 13:02 ansible-role-local-accounts-master/tasks/
+-rw-rw-r-- root/root      1422 2017-06-12 13:02 ansible-role-local-accounts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-12 13:02 ansible-role-local-accounts-master/tests/
+-rw-rw-r-- root/root       676 2017-06-12 13:02 ansible-role-local-accounts-master/tests/test_default.py

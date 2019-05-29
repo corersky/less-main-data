@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-03 02:50 ansible-uwsgi-master/
+-rw-rw-r-- root/root      1062 2019-02-03 02:50 ansible-uwsgi-master/LICENSE
+-rw-rw-r-- root/root       280 2019-02-03 02:50 ansible-uwsgi-master/README.md
+drwxrwxr-x root/root         0 2019-02-03 02:50 ansible-uwsgi-master/defaults/
+-rw-rw-r-- root/root       352 2019-02-03 02:50 ansible-uwsgi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-03 02:50 ansible-uwsgi-master/meta/
+-rw-rw-r-- root/root       285 2019-02-03 02:50 ansible-uwsgi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-03 02:50 ansible-uwsgi-master/tasks/
+-rw-rw-r-- root/root       199 2019-02-03 02:50 ansible-uwsgi-master/tasks/main.yml
+-rw-rw-r-- root/root        77 2019-02-03 02:50 ansible-uwsgi-master/tasks/uwsgi_install.yml
+-rw-rw-r-- root/root       701 2019-02-03 02:50 ansible-uwsgi-master/tasks/uwsgi_post.yml
+-rw-rw-r-- root/root       179 2019-02-03 02:50 ansible-uwsgi-master/tasks/uwsgi_pre.yml
+-rw-rw-r-- root/root       942 2019-02-03 02:50 ansible-uwsgi-master/tasks/uwsgi_search_config.yml
+drwxrwxr-x root/root         0 2019-02-03 02:50 ansible-uwsgi-master/templates/
+-rw-rw-r-- root/root       301 2019-02-03 02:50 ansible-uwsgi-master/templates/uwsgi.service.j2

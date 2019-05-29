@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-11-04 02:35 chruby-master/
+-rw-rw-r-- root/root         9 2015-11-04 02:35 chruby-master/.gitignore
+-rw-rw-r-- root/root       339 2015-11-04 02:35 chruby-master/.travis.yml
+-rw-rw-r-- root/root      1085 2015-11-04 02:35 chruby-master/LICENSE
+-rw-rw-r-- root/root       523 2015-11-04 02:35 chruby-master/README.md
+-rw-rw-r-- root/root      4960 2015-11-04 02:35 chruby-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-11-04 02:35 chruby-master/defaults/
+-rw-rw-r-- root/root        28 2015-11-04 02:35 chruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-04 02:35 chruby-master/meta/
+-rw-rw-r-- root/root       307 2015-11-04 02:35 chruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-04 02:35 chruby-master/tasks/
+-rw-rw-r-- root/root      1410 2015-11-04 02:35 chruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-04 02:35 chruby-master/templates/
+-rw-rw-r-- root/root        53 2015-11-04 02:35 chruby-master/templates/chruby.fact
+-rw-rw-r-- root/root        80 2015-11-04 02:35 chruby-master/templates/chruby.sh
+-rw-rw-r-- root/root        90 2015-11-04 02:35 chruby-master/test.yml

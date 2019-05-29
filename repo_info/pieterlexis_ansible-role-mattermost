@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-16 04:26 ansible-role-mattermost-master/
+-rw-rw-r-- root/root      3370 2018-08-16 04:26 ansible-role-mattermost-master/README.md
+drwxrwxr-x root/root         0 2018-08-16 04:26 ansible-role-mattermost-master/defaults/
+-rw-rw-r-- root/root       548 2018-08-16 04:26 ansible-role-mattermost-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-16 04:26 ansible-role-mattermost-master/handlers/
+-rw-rw-r-- root/root       195 2018-08-16 04:26 ansible-role-mattermost-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-16 04:26 ansible-role-mattermost-master/meta/
+-rw-rw-r-- root/root       414 2018-08-16 04:26 ansible-role-mattermost-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-16 04:26 ansible-role-mattermost-master/tasks/
+-rw-rw-r-- root/root      2459 2018-08-16 04:26 ansible-role-mattermost-master/tasks/config.yml
+-rw-rw-r-- root/root       490 2018-08-16 04:26 ansible-role-mattermost-master/tasks/database.yml
+-rw-rw-r-- root/root      1521 2018-08-16 04:26 ansible-role-mattermost-master/tasks/install.yml
+-rw-rw-r-- root/root       371 2018-08-16 04:26 ansible-role-mattermost-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-16 04:26 ansible-role-mattermost-master/templates/
+-rw-rw-r-- root/root       369 2018-08-16 04:26 ansible-role-mattermost-master/templates/mattermost.service.j2
+drwxrwxr-x root/root         0 2018-08-16 04:26 ansible-role-mattermost-master/vars/
+-rw-rw-r-- root/root       263 2018-08-16 04:26 ansible-role-mattermost-master/vars/main.yml

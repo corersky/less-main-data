@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/
+-rw-rw-r-- root/root       539 2018-09-19 02:31 ansible-role-legacy-desktop-master/.travis.yml
+-rw-rw-r-- root/root       508 2018-09-19 02:31 ansible-role-legacy-desktop-master/README.md
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/files/
+-rw-rw-r-- root/root       170 2018-09-19 02:31 ansible-role-legacy-desktop-master/files/Xresources.conf
+-rw-rw-r-- root/root        78 2018-09-19 02:31 ansible-role-legacy-desktop-master/files/ibus.sh
+-rw-rw-r-- root/root        64 2018-09-19 02:31 ansible-role-legacy-desktop-master/files/xinitrc.sh
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/
+-rw-rw-r-- root/root        65 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/hosts.yml
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/roles/
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/roles/setup-legacy-desktop/
+lrwxrwxrwx root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/roles/setup-legacy-desktop/README.md -> ../../../README.md
+lrwxrwxrwx root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/roles/setup-legacy-desktop/files -> ../../../files
+lrwxrwxrwx root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/roles/setup-legacy-desktop/meta -> ../../../meta
+lrwxrwxrwx root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/roles/setup-legacy-desktop/tasks -> ../../../tasks
+lrwxrwxrwx root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/roles/setup-legacy-desktop/tests -> ../../../tests
+-rw-rw-r-- root/root        92 2018-09-19 02:31 ansible-role-legacy-desktop-master/installer/setup-legacy-desktop.yml
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/meta/
+-rw-rw-r-- root/root      1777 2018-09-19 02:31 ansible-role-legacy-desktop-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/tasks/
+-rw-rw-r-- root/root      1721 2018-09-19 02:31 ansible-role-legacy-desktop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/tests/
+-rw-rw-r-- root/root        11 2018-09-19 02:31 ansible-role-legacy-desktop-master/tests/inventory
+drwxrwxr-x root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-09-19 02:31 ansible-role-legacy-desktop-master/tests/roles/ansible-role-legacy-desktop -> ../../../ansible-role-legacy-desktop
+-rw-rw-r-- root/root        81 2018-09-19 02:31 ansible-role-legacy-desktop-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/
+-rw-rw-r-- root/root      1328 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/defaults/
+-rw-rw-r-- root/root        50 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/handlers/
+-rw-rw-r-- root/root        50 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/meta/
+-rw-rw-r-- root/root       314 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/tasks/
+-rw-rw-r-- root/root       324 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/tasks/amzn.yml
+-rw-rw-r-- root/root       342 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/tasks/el6.yml -> amzn.yml
+lrwxrwxrwx root/root         0 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/tasks/el7.yml -> amzn.yml
+-rw-rw-r-- root/root       468 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/vars/
+-rw-rw-r-- root/root        46 2018-11-19 13:29 ansible-roles-yumrepo-epel-master/vars/main.yml

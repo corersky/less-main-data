@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-04-30 14:09 ansible-docker-debian-master/
+-rw-rw-r-- root/root        50 2014-04-30 14:09 ansible-docker-debian-master/.gitignore
+-rw-rw-r-- root/root      1294 2014-04-30 14:09 ansible-docker-debian-master/README.md
+-rw-rw-r-- root/root      1501 2014-04-30 14:09 ansible-docker-debian-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-04-30 14:09 ansible-docker-debian-master/defaults/
+-rw-rw-r-- root/root       196 2014-04-30 14:09 ansible-docker-debian-master/defaults/main.yml
+-rw-rw-r-- root/root       367 2014-04-30 14:09 ansible-docker-debian-master/docker-debian.yml
+drwxrwxr-x root/root         0 2014-04-30 14:09 ansible-docker-debian-master/handlers/
+-rw-rw-r-- root/root        87 2014-04-30 14:09 ansible-docker-debian-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-04-30 14:09 ansible-docker-debian-master/meta/
+-rw-rw-r-- root/root       259 2014-04-30 14:09 ansible-docker-debian-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-30 14:09 ansible-docker-debian-master/tasks/
+-rw-rw-r-- root/root       343 2014-04-30 14:09 ansible-docker-debian-master/tasks/docker.yml
+-rw-rw-r-- root/root      1510 2014-04-30 14:09 ansible-docker-debian-master/tasks/go.yml
+-rw-rw-r-- root/root       870 2014-04-30 14:09 ansible-docker-debian-master/tasks/kernel.yml
+-rw-rw-r-- root/root       308 2014-04-30 14:09 ansible-docker-debian-master/tasks/main.yml
+-rw-rw-r-- root/root        66 2014-04-30 14:09 ansible-docker-debian-master/vagrant_ansible_inventory

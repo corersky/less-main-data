@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-04 12:55 ansible-centos-kernel-master/
+-rw-rw-r-- root/root       103 2017-09-04 12:55 ansible-centos-kernel-master/README.md
+drwxrwxr-x root/root         0 2017-09-04 12:55 ansible-centos-kernel-master/defaults/
+-rw-rw-r-- root/root        30 2017-09-04 12:55 ansible-centos-kernel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-04 12:55 ansible-centos-kernel-master/handlers/
+-rw-rw-r-- root/root        30 2017-09-04 12:55 ansible-centos-kernel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-04 12:55 ansible-centos-kernel-master/meta/
+-rw-rw-r-- root/root       208 2017-09-04 12:55 ansible-centos-kernel-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-04 12:55 ansible-centos-kernel-master/tasks/
+-rw-rw-r-- root/root      1132 2017-09-04 12:55 ansible-centos-kernel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-04 12:55 ansible-centos-kernel-master/tests/
+-rw-rw-r-- root/root        11 2017-09-04 12:55 ansible-centos-kernel-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-09-04 12:55 ansible-centos-kernel-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-04 12:55 ansible-centos-kernel-master/vars/
+-rw-rw-r-- root/root        26 2017-09-04 12:55 ansible-centos-kernel-master/vars/main.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-11-24 17:48 ansible-ssh-agent-master/
+-rw-rw-r-- root/root       382 2016-11-24 17:48 ansible-ssh-agent-master/.travis.yml
+-rw-rw-r-- root/root       788 2016-11-24 17:48 ansible-ssh-agent-master/README.rst
+drwxrwxr-x root/root         0 2016-11-24 17:48 ansible-ssh-agent-master/defaults/
+-rw-rw-r-- root/root       188 2016-11-24 17:48 ansible-ssh-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-24 17:48 ansible-ssh-agent-master/meta/
+-rw-rw-r-- root/root       350 2016-11-24 17:48 ansible-ssh-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-24 17:48 ansible-ssh-agent-master/tasks/
+-rw-rw-r-- root/root      1146 2016-11-24 17:48 ansible-ssh-agent-master/tasks/main.yml
+-rw-rw-r-- root/root       125 2016-11-24 17:48 ansible-ssh-agent-master/test.yml

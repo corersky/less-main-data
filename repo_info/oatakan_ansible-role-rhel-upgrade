@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-21 15:11 ansible-role-rhel-upgrade-master/
+-rw-rw-r-- root/root      1328 2019-05-21 15:11 ansible-role-rhel-upgrade-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 15:11 ansible-role-rhel-upgrade-master/defaults/
+-rw-rw-r-- root/root       183 2019-05-21 15:11 ansible-role-rhel-upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 15:11 ansible-role-rhel-upgrade-master/meta/
+-rw-rw-r-- root/root       349 2019-05-21 15:11 ansible-role-rhel-upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 15:11 ansible-role-rhel-upgrade-master/tasks/
+-rw-rw-r-- root/root      2914 2019-05-21 15:11 ansible-role-rhel-upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 15:11 ansible-role-rhel-upgrade-master/tests/
+-rw-rw-r-- root/root         9 2019-05-21 15:11 ansible-role-rhel-upgrade-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-05-21 15:11 ansible-role-rhel-upgrade-master/tests/test.yml

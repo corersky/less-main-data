@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-23 13:27 ansible-role-hardeningssh-master/
+-rw-rw-r-- root/root       149 2018-08-23 13:27 ansible-role-hardeningssh-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-08-23 13:27 ansible-role-hardeningssh-master/LICENSE.md
+-rw-rw-r-- root/root      1938 2018-08-23 13:27 ansible-role-hardeningssh-master/README.md
+drwxrwxr-x root/root         0 2018-08-23 13:27 ansible-role-hardeningssh-master/defaults/
+-rw-rw-r-- root/root       186 2018-08-23 13:27 ansible-role-hardeningssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-23 13:27 ansible-role-hardeningssh-master/handlers/
+-rw-rw-r-- root/root        68 2018-08-23 13:27 ansible-role-hardeningssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-23 13:27 ansible-role-hardeningssh-master/meta/
+-rw-rw-r-- root/root       247 2018-08-23 13:27 ansible-role-hardeningssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-23 13:27 ansible-role-hardeningssh-master/tasks/
+-rw-rw-r-- root/root      1388 2018-08-23 13:27 ansible-role-hardeningssh-master/tasks/google-authenticator.yml
+-rw-rw-r-- root/root       182 2018-08-23 13:27 ansible-role-hardeningssh-master/tasks/main.yml
+-rw-rw-r-- root/root      2546 2018-08-23 13:27 ansible-role-hardeningssh-master/tasks/ssh.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-02-15 01:36 ansible-role-ntp-master/
+-rw-rw-r-- root/root       454 2017-02-15 01:36 ansible-role-ntp-master/README.md
+drwxrwxr-x root/root         0 2017-02-15 01:36 ansible-role-ntp-master/defaults/
+-rw-rw-r-- root/root       345 2017-02-15 01:36 ansible-role-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-15 01:36 ansible-role-ntp-master/handlers/
+-rw-rw-r-- root/root        90 2017-02-15 01:36 ansible-role-ntp-master/handlers/main.yml
+-rw-rw-r-- root/root        29 2017-02-15 01:36 ansible-role-ntp-master/inventory
+drwxrwxr-x root/root         0 2017-02-15 01:36 ansible-role-ntp-master/meta/
+-rw-rw-r-- root/root       355 2017-02-15 01:36 ansible-role-ntp-master/meta/main.yml
+-rw-rw-r-- root/root        83 2017-02-15 01:36 ansible-role-ntp-master/playbook.yml
+drwxrwxr-x root/root         0 2017-02-15 01:36 ansible-role-ntp-master/tasks/
+-rw-rw-r-- root/root       632 2017-02-15 01:36 ansible-role-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-15 01:36 ansible-role-ntp-master/vars/
+-rw-rw-r-- root/root        46 2017-02-15 01:36 ansible-role-ntp-master/vars/Debian.yml
+-rw-rw-r-- root/root        47 2017-02-15 01:36 ansible-role-ntp-master/vars/RedHat.yml

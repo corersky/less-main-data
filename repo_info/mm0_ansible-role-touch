@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-touch-master/
+-rw-rw-r-- root/root       615 2016-12-14 00:40 ansible-role-touch-master/.travis.yml
+-rw-rw-r-- root/root      1053 2016-12-14 00:40 ansible-role-touch-master/README.md
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-touch-master/defaults/
+-rw-rw-r-- root/root        69 2016-12-14 00:40 ansible-role-touch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-touch-master/handlers/
+-rw-rw-r-- root/root        30 2016-12-14 00:40 ansible-role-touch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-touch-master/meta/
+-rw-rw-r-- root/root       312 2016-12-14 00:40 ansible-role-touch-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-touch-master/tasks/
+-rw-rw-r-- root/root       142 2016-12-14 00:40 ansible-role-touch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-touch-master/tests/
+-rw-rw-r-- root/root        17 2016-12-14 00:40 ansible-role-touch-master/tests/inventory
+-rw-rw-r-- root/root       164 2016-12-14 00:40 ansible-role-touch-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-14 00:40 ansible-role-touch-master/vars/
+-rw-rw-r-- root/root        26 2016-12-14 00:40 ansible-role-touch-master/vars/main.yml

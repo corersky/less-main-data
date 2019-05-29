@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-07-10 13:50 ansible-signalfx-agent-master/
+drwxrwxr-x root/root         0 2018-07-10 13:50 ansible-signalfx-agent-master/defaults/
+-rw-rw-r-- root/root       192 2018-07-10 13:50 ansible-signalfx-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-10 13:50 ansible-signalfx-agent-master/meta/
+-rw-rw-r-- root/root       566 2018-07-10 13:50 ansible-signalfx-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-10 13:50 ansible-signalfx-agent-master/tasks/
+-rw-rw-r-- root/root       735 2018-07-10 13:50 ansible-signalfx-agent-master/tasks/debian_repo.yml
+-rw-rw-r-- root/root      1442 2018-07-10 13:50 ansible-signalfx-agent-master/tasks/main.yml
+-rw-rw-r-- root/root       649 2018-07-10 13:50 ansible-signalfx-agent-master/tasks/yum_repo.yml

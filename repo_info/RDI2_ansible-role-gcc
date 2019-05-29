@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2016-09-21 14:51 ansible-role-gcc-master/
+-rw-rw-r-- root/root       659 2016-09-21 14:51 ansible-role-gcc-master/README.md
+drwxrwxr-x root/root         0 2016-09-21 14:51 ansible-role-gcc-master/defaults/
+-rw-rw-r-- root/root       237 2016-09-21 14:51 ansible-role-gcc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-21 14:51 ansible-role-gcc-master/examples/
+-rw-rw-r-- root/root         9 2016-09-21 14:51 ansible-role-gcc-master/examples/.gitignore
+-rw-rw-r-- root/root       279 2016-09-21 14:51 ansible-role-gcc-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-09-21 14:51 ansible-role-gcc-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-09-21 14:51 ansible-role-gcc-master/examples/roles/rdi2sys.gcc -> ../../
+-rw-rw-r-- root/root        56 2016-09-21 14:51 ansible-role-gcc-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-09-21 14:51 ansible-role-gcc-master/handlers/
+-rw-rw-r-- root/root        28 2016-09-21 14:51 ansible-role-gcc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-21 14:51 ansible-role-gcc-master/meta/
+-rw-rw-r-- root/root       232 2016-09-21 14:51 ansible-role-gcc-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-21 14:51 ansible-role-gcc-master/tasks/
+-rw-rw-r-- root/root       738 2016-09-21 14:51 ansible-role-gcc-master/tasks/install.yml
+-rw-rw-r-- root/root       437 2016-09-21 14:51 ansible-role-gcc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-21 14:51 ansible-role-gcc-master/vars/
+-rw-rw-r-- root/root        24 2016-09-21 14:51 ansible-role-gcc-master/vars/main.yml

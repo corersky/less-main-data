@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-26 23:54 ansible-role-selenese-runner-java-master/
+-rw-rw-r-- root/root        72 2019-05-26 23:54 ansible-role-selenese-runner-java-master/.gitattributes
+-rw-rw-r-- root/root      1317 2019-05-26 23:54 ansible-role-selenese-runner-java-master/LICENSE
+-rw-rw-r-- root/root      1766 2019-05-26 23:54 ansible-role-selenese-runner-java-master/README.md
+drwxrwxr-x root/root         0 2019-05-26 23:54 ansible-role-selenese-runner-java-master/defaults/
+-rw-rw-r-- root/root       276 2019-05-26 23:54 ansible-role-selenese-runner-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-26 23:54 ansible-role-selenese-runner-java-master/meta/
+-rw-rw-r-- root/root       290 2019-05-26 23:54 ansible-role-selenese-runner-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-26 23:54 ansible-role-selenese-runner-java-master/tasks/
+-rw-rw-r-- root/root      1141 2019-05-26 23:54 ansible-role-selenese-runner-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-26 23:54 ansible-role-selenese-runner-java-master/templates/
+-rw-rw-r-- root/root       661 2019-05-26 23:54 ansible-role-selenese-runner-java-master/templates/selenese-runner.j2
+drwxrwxr-x root/root         0 2019-05-26 23:54 ansible-role-selenese-runner-java-master/vars/
+-rw-rw-r-- root/root       149 2019-05-26 23:54 ansible-role-selenese-runner-java-master/vars/FreeBSD.yml
+-rw-rw-r-- root/root       127 2019-05-26 23:54 ansible-role-selenese-runner-java-master/vars/Linux.yml
+-rw-rw-r-- root/root      5028 2019-05-26 23:54 ansible-role-selenese-runner-java-master/vars/main.yml

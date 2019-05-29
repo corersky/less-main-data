@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-29 15:37 ansible-role-ssh-reconnect-master/
+-rw-rw-r-- root/root      1060 2018-08-29 15:37 ansible-role-ssh-reconnect-master/LICENSE.md
+-rw-rw-r-- root/root      1170 2018-08-29 15:37 ansible-role-ssh-reconnect-master/README.md
+drwxrwxr-x root/root         0 2018-08-29 15:37 ansible-role-ssh-reconnect-master/action_plugins/
+-rw-rw-r-- root/root      1846 2018-08-29 15:37 ansible-role-ssh-reconnect-master/action_plugins/ssh-reconnect.py
+drwxrwxr-x root/root         0 2018-08-29 15:37 ansible-role-ssh-reconnect-master/handlers/
+-rw-rw-r-- root/root       120 2018-08-29 15:37 ansible-role-ssh-reconnect-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-29 15:37 ansible-role-ssh-reconnect-master/library/
+-rw-rw-r-- root/root        23 2018-08-29 15:37 ansible-role-ssh-reconnect-master/library/ssh-reconnect
+drwxrwxr-x root/root         0 2018-08-29 15:37 ansible-role-ssh-reconnect-master/meta/
+-rw-rw-r-- root/root       302 2018-08-29 15:37 ansible-role-ssh-reconnect-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-29 15:37 ansible-role-ssh-reconnect-master/tasks/
+-rw-rw-r-- root/root       205 2018-08-29 15:37 ansible-role-ssh-reconnect-master/tasks/main.yml

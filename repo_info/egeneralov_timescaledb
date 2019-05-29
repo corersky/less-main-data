@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-25 21:20 timescaledb-master/
+-rw-rw-r-- root/root      1073 2019-04-25 21:20 timescaledb-master/LICENSE
+-rw-rw-r-- root/root       835 2019-04-25 21:20 timescaledb-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 21:20 timescaledb-master/defaults/
+-rw-rw-r-- root/root       380 2019-04-25 21:20 timescaledb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 timescaledb-master/handlers/
+-rw-rw-r-- root/root        46 2019-04-25 21:20 timescaledb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 timescaledb-master/meta/
+-rw-rw-r-- root/root       274 2019-04-25 21:20 timescaledb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 timescaledb-master/tasks/
+-rw-rw-r-- root/root      1992 2019-04-25 21:20 timescaledb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 timescaledb-master/tests/
+-rw-rw-r-- root/root        11 2019-04-25 21:20 timescaledb-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-04-25 21:20 timescaledb-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 timescaledb-master/vars/
+-rw-rw-r-- root/root        42 2019-04-25 21:20 timescaledb-master/vars/main.yml

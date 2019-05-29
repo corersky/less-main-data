@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/defaults/
+-rw-rw-r-- root/root         4 2019-05-14 01:43 ansible-role-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/meta/
+-rw-rw-r-- root/root       393 2019-05-14 01:43 ansible-role-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/tasks/
+-rw-rw-r-- root/root        89 2019-05-14 01:43 ansible-role-sudo-master/tasks/main.yml
+-rw-rw-r-- root/root       498 2019-05-14 01:43 ansible-role-sudo-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/templates/
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/templates/Debian-Buster/
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/templates/Debian-Buster/etc/
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/templates/Debian-Buster/etc/sudoers.d/
+-rw-rw-r-- root/root        66 2019-05-14 01:43 ansible-role-sudo-master/templates/Debian-Buster/etc/sudoers.d/username-nopassword-all.j2
+drwxrwxr-x root/root         0 2019-05-14 01:43 ansible-role-sudo-master/vars/
+-rw-rw-r-- root/root        41 2019-05-14 01:43 ansible-role-sudo-master/vars/main.yml

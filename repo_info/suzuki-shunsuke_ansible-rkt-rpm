@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-03 06:00 ansible-rkt-rpm-master/
+-rw-rw-r-- root/root        17 2017-12-03 06:00 ansible-rkt-rpm-master/.gitignore
+-rw-rw-r-- root/root      1072 2017-12-03 06:00 ansible-rkt-rpm-master/LICENSE
+-rw-rw-r-- root/root       556 2017-12-03 06:00 ansible-rkt-rpm-master/README.md
+drwxrwxr-x root/root         0 2017-12-03 06:00 ansible-rkt-rpm-master/meta/
+-rw-rw-r-- root/root       293 2017-12-03 06:00 ansible-rkt-rpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-03 06:00 ansible-rkt-rpm-master/tasks/
+-rw-rw-r-- root/root       114 2017-12-03 06:00 ansible-rkt-rpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-03 06:00 ansible-rkt-rpm-master/tests/
+-rw-rw-r-- root/root       274 2017-12-03 06:00 ansible-rkt-rpm-master/tests/Vagrantfile
+-rw-rw-r-- root/root        67 2017-12-03 06:00 ansible-rkt-rpm-master/tests/ansible.cfg
+-rw-rw-r-- root/root        45 2017-12-03 06:00 ansible-rkt-rpm-master/tests/localhost
+-rw-rw-r-- root/root       138 2017-12-03 06:00 ansible-rkt-rpm-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-13 07:10 ansible-role-percona-mysql-master/
+-rw-rw-r-- root/root         8 2017-10-13 07:10 ansible-role-percona-mysql-master/.gitignore
+-rw-rw-r-- root/root      1149 2017-10-13 07:10 ansible-role-percona-mysql-master/.travis.yml
+-rw-rw-r-- root/root      1204 2017-10-13 07:10 ansible-role-percona-mysql-master/README.md
+drwxrwxr-x root/root         0 2017-10-13 07:10 ansible-role-percona-mysql-master/defaults/
+-rw-rw-r-- root/root       161 2017-10-13 07:10 ansible-role-percona-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-13 07:10 ansible-role-percona-mysql-master/handlers/
+-rw-rw-r-- root/root        74 2017-10-13 07:10 ansible-role-percona-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-13 07:10 ansible-role-percona-mysql-master/meta/
+-rw-rw-r-- root/root       345 2017-10-13 07:10 ansible-role-percona-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-13 07:10 ansible-role-percona-mysql-master/tasks/
+-rw-rw-r-- root/root      3658 2017-10-13 07:10 ansible-role-percona-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-13 07:10 ansible-role-percona-mysql-master/tests/
+-rw-rw-r-- root/root       367 2017-10-13 07:10 ansible-role-percona-mysql-master/tests/play.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-07-05 16:21 ansible-role-rbenv-master/
+-rw-rw-r-- root/root      1034 2016-07-05 16:21 ansible-role-rbenv-master/.travis.yml
+-rw-rw-r-- root/root       142 2016-07-05 16:21 ansible-role-rbenv-master/README.md
+drwxrwxr-x root/root         0 2016-07-05 16:21 ansible-role-rbenv-master/meta/
+-rw-rw-r-- root/root       221 2016-07-05 16:21 ansible-role-rbenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-05 16:21 ansible-role-rbenv-master/tasks/
+-rw-rw-r-- root/root      2149 2016-07-05 16:21 ansible-role-rbenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-05 16:21 ansible-role-rbenv-master/templates/
+drwxrwxr-x root/root         0 2016-07-05 16:21 ansible-role-rbenv-master/templates/bash/
+-rw-rw-r-- root/root       286 2016-07-05 16:21 ansible-role-rbenv-master/templates/bash/rbenv_setup.sh
+drwxrwxr-x root/root         0 2016-07-05 16:21 ansible-role-rbenv-master/tests/
+-rw-rw-r-- root/root        85 2016-07-05 16:21 ansible-role-rbenv-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-05 16:21 ansible-role-rbenv-master/vars/
+-rw-rw-r-- root/root       627 2016-07-05 16:21 ansible-role-rbenv-master/vars/main.yml

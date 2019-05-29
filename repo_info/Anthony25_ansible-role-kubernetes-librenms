@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/
+-rw-rw-r-- root/root        66 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/.gitignore
+-rw-rw-r-- root/root      1507 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/LICENSE.mkd
+-rw-rw-r-- root/root      2875 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/README.md
+drwxrwxr-x root/root         0 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/defaults/
+-rw-rw-r-- root/root       967 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/meta/
+-rw-rw-r-- root/root       560 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/tasks/
+-rw-rw-r-- root/root       497 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/templates/
+-rw-rw-r-- root/root       340 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/templates/configmap.yml.j2
+-rw-rw-r-- root/root      3076 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       630 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       326 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/templates/secret.yml.j2
+-rw-rw-r-- root/root       311 2019-05-13 06:46 ansible-role-kubernetes-librenms-master/templates/service.yml.j2

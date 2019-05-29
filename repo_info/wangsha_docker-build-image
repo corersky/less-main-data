@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-build-image-master/
+-rw-rw-r-- root/root       945 2016-08-14 21:55 docker-build-image-master/.travis.yml
+-rw-rw-r-- root/root      1075 2016-08-14 21:55 docker-build-image-master/LICENSE.txt
+-rw-rw-r-- root/root      2825 2016-08-14 21:55 docker-build-image-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-build-image-master/defaults/
+-rw-rw-r-- root/root       487 2016-08-14 21:55 docker-build-image-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-build-image-master/meta/
+-rw-rw-r-- root/root      2544 2016-08-14 21:55 docker-build-image-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-build-image-master/tasks/
+-rw-rw-r-- root/root       500 2016-08-14 21:55 docker-build-image-master/tasks/docker_default_registry.yml
+-rw-rw-r-- root/root       578 2016-08-14 21:55 docker-build-image-master/tasks/docker_private_registry.yml
+-rw-rw-r-- root/root       656 2016-08-14 21:55 docker-build-image-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-build-image-master/tests/
+-rw-rw-r-- root/root       382 2016-08-14 21:55 docker-build-image-master/tests/main.yml

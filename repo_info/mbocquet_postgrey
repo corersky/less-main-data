@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-13 17:13 postgrey-master/
+-rw-rw-r-- root/root       491 2018-05-13 17:13 postgrey-master/README.md
+drwxrwxr-x root/root         0 2018-05-13 17:13 postgrey-master/defaults/
+-rw-rw-r-- root/root       251 2018-05-13 17:13 postgrey-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-13 17:13 postgrey-master/handlers/
+-rw-rw-r-- root/root       117 2018-05-13 17:13 postgrey-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-13 17:13 postgrey-master/meta/
+-rw-rw-r-- root/root       368 2018-05-13 17:13 postgrey-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-13 17:13 postgrey-master/tasks/
+-rw-rw-r-- root/root       634 2018-05-13 17:13 postgrey-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-13 17:13 postgrey-master/templates/
+-rw-rw-r-- root/root        96 2018-05-13 17:13 postgrey-master/templates/whitelist_clients.j2
+drwxrwxr-x root/root         0 2018-05-13 17:13 postgrey-master/tests/
+-rw-rw-r-- root/root        11 2018-05-13 17:13 postgrey-master/tests/inventory
+-rw-rw-r-- root/root        66 2018-05-13 17:13 postgrey-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-13 17:13 postgrey-master/vars/
+-rw-rw-r-- root/root        28 2018-05-13 17:13 postgrey-master/vars/main.yml

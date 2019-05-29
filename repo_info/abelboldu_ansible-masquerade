@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-09 11:39 ansible-masquerade-master/
+-rw-rw-r-- root/root        14 2017-03-09 11:39 ansible-masquerade-master/.gitignore
+-rw-rw-r-- root/root      1147 2017-03-09 11:39 ansible-masquerade-master/.travis.yml
+-rw-rw-r-- root/root        76 2017-03-09 11:39 ansible-masquerade-master/.yamllint.conf
+-rw-rw-r-- root/root       998 2017-03-09 11:39 ansible-masquerade-master/README.md
+drwxrwxr-x root/root         0 2017-03-09 11:39 ansible-masquerade-master/defaults/
+-rw-rw-r-- root/root       164 2017-03-09 11:39 ansible-masquerade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-09 11:39 ansible-masquerade-master/handlers/
+-rw-rw-r-- root/root         4 2017-03-09 11:39 ansible-masquerade-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-09 11:39 ansible-masquerade-master/meta/
+-rw-rw-r-- root/root       645 2017-03-09 11:39 ansible-masquerade-master/meta/main.yml
+-rw-rw-r-- root/root        17 2017-03-09 11:39 ansible-masquerade-master/requirements-devel.txt
+drwxrwxr-x root/root         0 2017-03-09 11:39 ansible-masquerade-master/tasks/
+-rw-rw-r-- root/root       447 2017-03-09 11:39 ansible-masquerade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-09 11:39 ansible-masquerade-master/tests/
+-rw-rw-r-- root/root        72 2017-03-09 11:39 ansible-masquerade-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-17 09:43 ansible-role-wget-master/
+-rw-rw-r-- root/root       770 2018-12-17 09:43 ansible-role-wget-master/CHANGES
+-rw-rw-r-- root/root      1278 2018-12-17 09:43 ansible-role-wget-master/LICENSE
+-rw-rw-r-- root/root      3372 2018-12-17 09:43 ansible-role-wget-master/README.bak
+-rw-rw-r-- root/root         6 2018-12-17 09:43 ansible-role-wget-master/VERSION
+drwxrwxr-x root/root         0 2018-12-17 09:43 ansible-role-wget-master/defaults/
+-rw-rw-r-- root/root        27 2018-12-17 09:43 ansible-role-wget-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 09:43 ansible-role-wget-master/meta/
+-rw-rw-r-- root/root       275 2018-12-17 09:43 ansible-role-wget-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 09:43 ansible-role-wget-master/tasks/
+-rw-rw-r-- root/root       190 2018-12-17 09:43 ansible-role-wget-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-17 09:43 ansible-role-wget-master/tasks/main/
+-rw-rw-r-- root/root       792 2018-12-17 09:43 ansible-role-wget-master/tasks/main/install.yml
+-rw-rw-r-- root/root       279 2018-12-17 09:43 ansible-role-wget-master/tasks/main/main.yml
+-rw-rw-r-- root/root       778 2018-12-17 09:43 ansible-role-wget-master/tasks/main/remove.yml
+drwxrwxr-x root/root         0 2018-12-17 09:43 ansible-role-wget-master/vars/
+-rw-rw-r-- root/root       213 2018-12-17 09:43 ansible-role-wget-master/vars/main.yml

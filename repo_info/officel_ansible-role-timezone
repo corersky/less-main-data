@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-28 19:26 ansible-role-timezone-master/
+-rw-rw-r-- root/root      1811 2019-02-28 19:26 ansible-role-timezone-master/.travis.yml
+-rw-rw-r-- root/root       883 2019-02-28 19:26 ansible-role-timezone-master/README.md
+drwxrwxr-x root/root         0 2019-02-28 19:26 ansible-role-timezone-master/meta/
+-rw-rw-r-- root/root       309 2019-02-28 19:26 ansible-role-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-28 19:26 ansible-role-timezone-master/tasks/
+-rw-rw-r-- root/root       160 2019-02-28 19:26 ansible-role-timezone-master/tasks/main.yml
+-rw-rw-r-- root/root      1211 2019-02-28 19:26 ansible-role-timezone-master/tasks/setup-centos6.yml
+drwxrwxr-x root/root         0 2019-02-28 19:26 ansible-role-timezone-master/tests/
+-rw-rw-r-- root/root       397 2019-02-28 19:26 ansible-role-timezone-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1027 2019-02-28 19:26 ansible-role-timezone-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root         9 2019-02-28 19:26 ansible-role-timezone-master/tests/inventory
+-rw-rw-r-- root/root        57 2019-02-28 19:26 ansible-role-timezone-master/tests/test.yml

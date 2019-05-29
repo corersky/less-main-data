@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-04 16:41 ansible-rhsm-master/
+-rw-rw-r-- root/root     35149 2019-03-04 16:41 ansible-rhsm-master/LICENSE
+-rw-rw-r-- root/root      2009 2019-03-04 16:41 ansible-rhsm-master/README.md
+drwxrwxr-x root/root         0 2019-03-04 16:41 ansible-rhsm-master/defaults/
+-rw-rw-r-- root/root       187 2019-03-04 16:41 ansible-rhsm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-04 16:41 ansible-rhsm-master/handlers/
+-rw-rw-r-- root/root        29 2019-03-04 16:41 ansible-rhsm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-04 16:41 ansible-rhsm-master/meta/
+-rw-rw-r-- root/root       338 2019-03-04 16:41 ansible-rhsm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-04 16:41 ansible-rhsm-master/tasks/
+-rw-rw-r-- root/root       803 2019-03-04 16:41 ansible-rhsm-master/tasks/main.yml
+-rw-rw-r-- root/root       244 2019-03-04 16:41 ansible-rhsm-master/tasks/unregister.yml
+drwxrwxr-x root/root         0 2019-03-04 16:41 ansible-rhsm-master/tests/
+-rw-rw-r-- root/root        11 2019-03-04 16:41 ansible-rhsm-master/tests/inventory
+-rw-rw-r-- root/root       279 2019-03-04 16:41 ansible-rhsm-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-04 16:41 ansible-rhsm-master/vars/
+-rw-rw-r-- root/root        25 2019-03-04 16:41 ansible-rhsm-master/vars/main.yml

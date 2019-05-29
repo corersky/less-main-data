@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2018-12-14 06:04 jboss_fuse-master/
+-rw-rw-r-- root/root        47 2018-12-14 06:04 jboss_fuse-master/.gitignore
+-rw-rw-r-- root/root       471 2018-12-14 06:04 jboss_fuse-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-12-14 06:04 jboss_fuse-master/LICENSE
+-rw-rw-r-- root/root      1454 2018-12-14 06:04 jboss_fuse-master/README.md
+drwxrwxr-x root/root         0 2018-12-14 06:04 jboss_fuse-master/defaults/
+-rw-rw-r-- root/root       510 2018-12-14 06:04 jboss_fuse-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-14 06:04 jboss_fuse-master/meta/
+-rw-rw-r-- root/root       331 2018-12-14 06:04 jboss_fuse-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-14 06:04 jboss_fuse-master/tasks/
+-rw-rw-r-- root/root       877 2018-12-14 06:04 jboss_fuse-master/tasks/jboss_fuse_service.yml
+-rw-rw-r-- root/root      3724 2018-12-14 06:04 jboss_fuse-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-14 06:04 jboss_fuse-master/tests/
+-rw-rw-r-- root/root       217 2018-12-14 06:04 jboss_fuse-master/tests/ansible.cfg
+-rw-rw-r-- root/root       751 2018-12-14 06:04 jboss_fuse-master/tests/docker-centos-fuse-cfc.yml
+-rw-rw-r-- root/root       671 2018-12-14 06:04 jboss_fuse-master/tests/docker-centos-fuse-csp.yml
+-rw-rw-r-- root/root       117 2018-12-14 06:04 jboss_fuse-master/tests/inventory
+-rw-rw-r-- root/root       131 2018-12-14 06:04 jboss_fuse-master/tests/main.yml
+-rw-rw-r-- root/root       318 2018-12-14 06:04 jboss_fuse-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-12-14 06:04 jboss_fuse-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-12-14 06:04 jboss_fuse-master/tests/roles/jboss_fuse -> ../../../jboss_fuse
+-rw-rw-r-- root/root        79 2018-12-14 06:04 jboss_fuse-master/tests/syntax-check.yml
+drwxrwxr-x root/root         0 2018-12-14 06:04 jboss_fuse-master/tests/vars/
+-rw-rw-r-- root/root       134 2018-12-14 06:04 jboss_fuse-master/tests/vars/cloud-inventory.yml

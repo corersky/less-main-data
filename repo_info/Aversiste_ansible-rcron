@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-10-24 10:40 ansible-rcron-master/
+-rw-rw-r-- root/root       663 2018-10-24 10:40 ansible-rcron-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 10:40 ansible-rcron-master/defaults/
+-rw-rw-r-- root/root       147 2018-10-24 10:40 ansible-rcron-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 10:40 ansible-rcron-master/meta/
+-rw-rw-r-- root/root       205 2018-10-24 10:40 ansible-rcron-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 10:40 ansible-rcron-master/tasks/
+-rw-rw-r-- root/root       673 2018-10-24 10:40 ansible-rcron-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 10:40 ansible-rcron-master/templates/
+-rw-rw-r-- root/root       419 2018-10-24 10:40 ansible-rcron-master/templates/rcron.conf
+-rw-rw-r-- root/root        17 2018-10-24 10:40 ansible-rcron-master/templates/state

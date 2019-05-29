@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-04-24 08:44 ansible-octopass-role-master/
+-rw-rw-r-- root/root      1033 2017-04-24 08:44 ansible-octopass-role-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 08:44 ansible-octopass-role-master/handlers/
+-rw-rw-r-- root/root        62 2017-04-24 08:44 ansible-octopass-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-24 08:44 ansible-octopass-role-master/meta/
+-rw-rw-r-- root/root       355 2017-04-24 08:44 ansible-octopass-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 08:44 ansible-octopass-role-master/tasks/
+-rw-rw-r-- root/root      2034 2017-04-24 08:44 ansible-octopass-role-master/tasks/debian.yml
+-rw-rw-r-- root/root        64 2017-04-24 08:44 ansible-octopass-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 08:44 ansible-octopass-role-master/templates/
+-rw-rw-r-- root/root       246 2017-04-24 08:44 ansible-octopass-role-master/templates/linyows_octopass.list
+-rw-rw-r-- root/root       850 2017-04-24 08:44 ansible-octopass-role-master/templates/octopass.conf

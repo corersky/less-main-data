@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-07-12 20:29 ansible-ruby-master/
+-rw-rw-r-- root/root        11 2016-07-12 20:29 ansible-ruby-master/.gitignore
+-rw-rw-r-- root/root      1084 2016-07-12 20:29 ansible-ruby-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-07-12 20:29 ansible-ruby-master/README.md
+drwxrwxr-x root/root         0 2016-07-12 20:29 ansible-ruby-master/meta/
+-rw-rw-r-- root/root       381 2016-07-12 20:29 ansible-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-12 20:29 ansible-ruby-master/tasks/
+-rw-rw-r-- root/root       359 2016-07-12 20:29 ansible-ruby-master/tasks/main.yml
+-rw-rw-r-- root/root        46 2016-07-12 20:29 ansible-ruby-master/test.yml
+drwxrwxr-x root/root         0 2016-07-12 20:29 ansible-ruby-master/vars/
+-rw-rw-r-- root/root        37 2016-07-12 20:29 ansible-ruby-master/vars/Debian.yml
+-rw-rw-r-- root/root        39 2016-07-12 20:29 ansible-ruby-master/vars/RedHat.yml

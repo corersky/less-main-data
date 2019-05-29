@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-29 15:13 ansible-role-haskell-stack-master/
+-rw-rw-r-- root/root       539 2016-04-29 15:13 ansible-role-haskell-stack-master/.travis.yml
+-rw-rw-r-- root/root      1286 2016-04-29 15:13 ansible-role-haskell-stack-master/README.md
+drwxrwxr-x root/root         0 2016-04-29 15:13 ansible-role-haskell-stack-master/defaults/
+-rw-rw-r-- root/root        38 2016-04-29 15:13 ansible-role-haskell-stack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-29 15:13 ansible-role-haskell-stack-master/handlers/
+-rw-rw-r-- root/root        38 2016-04-29 15:13 ansible-role-haskell-stack-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-29 15:13 ansible-role-haskell-stack-master/meta/
+-rw-rw-r-- root/root      3249 2016-04-29 15:13 ansible-role-haskell-stack-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-29 15:13 ansible-role-haskell-stack-master/tasks/
+-rw-rw-r-- root/root       648 2016-04-29 15:13 ansible-role-haskell-stack-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-29 15:13 ansible-role-haskell-stack-master/tests/
+-rw-rw-r-- root/root         9 2016-04-29 15:13 ansible-role-haskell-stack-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-04-29 15:13 ansible-role-haskell-stack-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-04-29 15:13 ansible-role-haskell-stack-master/vars/
+-rw-rw-r-- root/root        34 2016-04-29 15:13 ansible-role-haskell-stack-master/vars/main.yml

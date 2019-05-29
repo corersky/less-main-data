@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-29 13:21 ansible-role-odin-master/
+-rw-rw-r-- root/root       426 2018-11-29 13:21 ansible-role-odin-master/.travis.yml
+-rw-rw-r-- root/root      1098 2018-11-29 13:21 ansible-role-odin-master/README.md
+-rw-rw-r-- root/root        27 2018-11-29 13:21 ansible-role-odin-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-11-29 13:21 ansible-role-odin-master/meta/
+-rw-rw-r-- root/root       338 2018-11-29 13:21 ansible-role-odin-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 13:21 ansible-role-odin-master/tasks/
+-rw-rw-r-- root/root      2423 2018-11-29 13:21 ansible-role-odin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 13:21 ansible-role-odin-master/tests/
+-rw-rw-r-- root/root        11 2018-11-29 13:21 ansible-role-odin-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-11-29 13:21 ansible-role-odin-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-29 13:21 ansible-role-odin-master/vars/
+-rw-rw-r-- root/root        88 2018-11-29 13:21 ansible-role-odin-master/vars/kali_gnu-linux.yml
+-rw-rw-r-- root/root        88 2018-11-29 13:21 ansible-role-odin-master/vars/ubuntu.yml

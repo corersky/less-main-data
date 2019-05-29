@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-22 10:11 ansible_role_node-master/
+-rwxrwxr-x root/root       579 2018-10-22 10:11 ansible_role_node-master/README.md
+drwxrwxr-x root/root         0 2018-10-22 10:11 ansible_role_node-master/defaults/
+-rwxrwxr-x root/root       180 2018-10-22 10:11 ansible_role_node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-22 10:11 ansible_role_node-master/handlers/
+-rw-rw-r-- root/root        41 2018-10-22 10:11 ansible_role_node-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-22 10:11 ansible_role_node-master/meta/
+-rwxrwxr-x root/root       396 2018-10-22 10:11 ansible_role_node-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-22 10:11 ansible_role_node-master/tasks/
+-rwxrwxr-x root/root       861 2018-10-22 10:11 ansible_role_node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-22 10:11 ansible_role_node-master/tests/
+-rw-rw-r-- root/root        11 2018-10-22 10:11 ansible_role_node-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-10-22 10:11 ansible_role_node-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-22 10:11 ansible_role_node-master/vars/
+-rw-rw-r-- root/root        37 2018-10-22 10:11 ansible_role_node-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-04 20:48 docker_role-master/
+-rw-rw-r-- root/root       297 2019-02-04 20:48 docker_role-master/README.md
+drwxrwxr-x root/root         0 2019-02-04 20:48 docker_role-master/defaults/
+-rw-rw-r-- root/root        41 2019-02-04 20:48 docker_role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-04 20:48 docker_role-master/handlers/
+-rw-rw-r-- root/root        41 2019-02-04 20:48 docker_role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-04 20:48 docker_role-master/meta/
+-rw-rw-r-- root/root      1973 2019-02-04 20:48 docker_role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-04 20:48 docker_role-master/tasks/
+-rw-rw-r-- root/root       879 2019-02-04 20:48 docker_role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-04 20:48 docker_role-master/tests/
+-rw-rw-r-- root/root        11 2019-02-04 20:48 docker_role-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-02-04 20:48 docker_role-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-04 20:48 docker_role-master/vars/
+-rw-rw-r-- root/root        37 2019-02-04 20:48 docker_role-master/vars/main.yml

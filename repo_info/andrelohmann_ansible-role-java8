@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-12-05 06:11 ansible-role-java8-master/
+-rw-rw-r-- root/root        28 2018-12-05 06:11 ansible-role-java8-master/.gitignore
+-rw-rw-r-- root/root       517 2018-12-05 06:11 ansible-role-java8-master/.travis.yml
+-rw-rw-r-- root/root       545 2018-12-05 06:11 ansible-role-java8-master/README.md
+drwxrwxr-x root/root         0 2018-12-05 06:11 ansible-role-java8-master/meta/
+-rw-rw-r-- root/root       279 2018-12-05 06:11 ansible-role-java8-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-05 06:11 ansible-role-java8-master/tasks/
+-rw-rw-r-- root/root       526 2018-12-05 06:11 ansible-role-java8-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-05 06:11 ansible-role-java8-master/tests/
+-rw-rw-r-- root/root         9 2018-12-05 06:11 ansible-role-java8-master/tests/inventory
+-rw-rw-r-- root/root        97 2018-12-05 06:11 ansible-role-java8-master/tests/test.yml

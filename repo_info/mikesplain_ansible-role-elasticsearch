@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-02-23 15:36 ansible-role-elasticsearch-master/
+-rw-rw-r-- root/root       956 2015-02-23 15:36 ansible-role-elasticsearch-master/.travis.yml
+-rw-rw-r-- root/root       683 2015-02-23 15:36 ansible-role-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2015-02-23 15:36 ansible-role-elasticsearch-master/files/
+-rw-rw-r-- root/root       220 2015-02-23 15:36 ansible-role-elasticsearch-master/files/elasticsearch.repo
+drwxrwxr-x root/root         0 2015-02-23 15:36 ansible-role-elasticsearch-master/handlers/
+-rw-rw-r-- root/root        80 2015-02-23 15:36 ansible-role-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-23 15:36 ansible-role-elasticsearch-master/meta/
+-rw-rw-r-- root/root       403 2015-02-23 15:36 ansible-role-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-23 15:36 ansible-role-elasticsearch-master/tasks/
+-rw-rw-r-- root/root       591 2015-02-23 15:36 ansible-role-elasticsearch-master/tasks/main.yml
+-rw-rw-r-- root/root       626 2015-02-23 15:36 ansible-role-elasticsearch-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       343 2015-02-23 15:36 ansible-role-elasticsearch-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2015-02-23 15:36 ansible-role-elasticsearch-master/tests/
+-rw-rw-r-- root/root        10 2015-02-23 15:36 ansible-role-elasticsearch-master/tests/inventory
+-rw-rw-r-- root/root       108 2015-02-23 15:36 ansible-role-elasticsearch-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-10 05:01 ansible-composer-project-deploy-master/
+-rw-rw-r-- root/root       654 2016-04-10 05:01 ansible-composer-project-deploy-master/README.md
+drwxrwxr-x root/root         0 2016-04-10 05:01 ansible-composer-project-deploy-master/defaults/
+-rw-rw-r-- root/root       737 2016-04-10 05:01 ansible-composer-project-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-10 05:01 ansible-composer-project-deploy-master/hooks/
+-rw-rw-r-- root/root         4 2016-04-10 05:01 ansible-composer-project-deploy-master/hooks/cpd_post_deploy_hook.yml
+-rw-rw-r-- root/root         4 2016-04-10 05:01 ansible-composer-project-deploy-master/hooks/cpd_post_finish_hook.yml
+-rw-rw-r-- root/root         4 2016-04-10 05:01 ansible-composer-project-deploy-master/hooks/cpd_post_install_hook.yml
+-rw-rw-r-- root/root         4 2016-04-10 05:01 ansible-composer-project-deploy-master/hooks/cpd_pre_install_hook.yml
+drwxrwxr-x root/root         0 2016-04-10 05:01 ansible-composer-project-deploy-master/meta/
+-rw-rw-r-- root/root       190 2016-04-10 05:01 ansible-composer-project-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-10 05:01 ansible-composer-project-deploy-master/tasks/
+-rw-rw-r-- root/root      1125 2016-04-10 05:01 ansible-composer-project-deploy-master/tasks/10-install.yml
+-rw-rw-r-- root/root       762 2016-04-10 05:01 ansible-composer-project-deploy-master/tasks/20-deploy.yml
+-rw-rw-r-- root/root       330 2016-04-10 05:01 ansible-composer-project-deploy-master/tasks/30-finish.yml
+-rw-rw-r-- root/root       290 2016-04-10 05:01 ansible-composer-project-deploy-master/tasks/main.yml

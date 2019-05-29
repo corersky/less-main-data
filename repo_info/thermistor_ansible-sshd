@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-sshd-master/
+-rw-rw-r-- root/root       539 2017-06-17 15:12 ansible-sshd-master/.travis.yml
+-rw-rw-r-- root/root       829 2017-06-17 15:12 ansible-sshd-master/README.md
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-sshd-master/defaults/
+-rw-rw-r-- root/root       212 2017-06-17 15:12 ansible-sshd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-sshd-master/handlers/
+-rw-rw-r-- root/root        75 2017-06-17 15:12 ansible-sshd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-sshd-master/meta/
+-rw-rw-r-- root/root      4011 2017-06-17 15:12 ansible-sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-sshd-master/tasks/
+-rw-rw-r-- root/root       255 2017-06-17 15:12 ansible-sshd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-sshd-master/templates/
+-rw-rw-r-- root/root      2935 2017-06-17 15:12 ansible-sshd-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2017-06-17 15:12 ansible-sshd-master/tests/
+-rw-rw-r-- root/root        11 2017-06-17 15:12 ansible-sshd-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-06-17 15:12 ansible-sshd-master/tests/test.yml

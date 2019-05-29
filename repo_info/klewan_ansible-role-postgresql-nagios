@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-nagios-master/
+-rw-rw-r-- root/root     35149 2019-01-11 17:30 ansible-role-postgresql-nagios-master/LICENSE
+-rw-rw-r-- root/root      1935 2019-01-11 17:30 ansible-role-postgresql-nagios-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-nagios-master/defaults/
+-rw-rw-r-- root/root       783 2019-01-11 17:30 ansible-role-postgresql-nagios-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-nagios-master/files/
+-rw-rw-r-- root/root    444352 2019-01-11 17:30 ansible-role-postgresql-nagios-master/files/check_postgres.pl
+-rw-rw-r-- root/root      4862 2019-01-11 17:30 ansible-role-postgresql-nagios-master/files/check_postgres_backup_to_Networker.sh
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-nagios-master/meta/
+-rw-rw-r-- root/root       328 2019-01-11 17:30 ansible-role-postgresql-nagios-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-nagios-master/tasks/
+-rw-rw-r-- root/root      1700 2019-01-11 17:30 ansible-role-postgresql-nagios-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-nagios-master/templates/
+-rw-rw-r-- root/root      2619 2019-01-11 17:30 ansible-role-postgresql-nagios-master/templates/chk_postgres_wr.j2
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-nagios-master/vars/
+-rw-rw-r-- root/root      1336 2019-01-11 17:30 ansible-role-postgresql-nagios-master/vars/main.yml

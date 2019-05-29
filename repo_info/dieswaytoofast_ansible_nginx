@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-10-31 19:05 ansible_nginx-master/
+-rw-rw-r-- root/root        26 2016-10-31 19:05 ansible_nginx-master/.gitignore
+-rw-rw-r-- root/root      1308 2016-10-31 19:05 ansible_nginx-master/LICENSE
+-rw-rw-r-- root/root       910 2016-10-31 19:05 ansible_nginx-master/README.md
+drwxrwxr-x root/root         0 2016-10-31 19:05 ansible_nginx-master/defaults/
+-rw-rw-r-- root/root      1011 2016-10-31 19:05 ansible_nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-31 19:05 ansible_nginx-master/meta/
+-rw-rw-r-- root/root       304 2016-10-31 19:05 ansible_nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-31 19:05 ansible_nginx-master/tasks/
+-rw-rw-r-- root/root       904 2016-10-31 19:05 ansible_nginx-master/tasks/build_containers.yml
+-rw-rw-r-- root/root       499 2016-10-31 19:05 ansible_nginx-master/tasks/main.yml
+-rw-rw-r-- root/root      1704 2016-10-31 19:05 ansible_nginx-master/tasks/run_containers.yml
+-rw-rw-r-- root/root       260 2016-10-31 19:05 ansible_nginx-master/tasks/teardown_containers.yml
+drwxrwxr-x root/root         0 2016-10-31 19:05 ansible_nginx-master/templates/
+-rw-rw-r-- root/root       691 2016-10-31 19:05 ansible_nginx-master/templates/nginx.conf.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-24 10:12 ansible-timedatectl-master/
+-rw-rw-r-- root/root       638 2018-05-24 10:12 ansible-timedatectl-master/.travis.yml
+-rw-rw-r-- root/root       698 2018-05-24 10:12 ansible-timedatectl-master/README.md
+drwxrwxr-x root/root         0 2018-05-24 10:12 ansible-timedatectl-master/defaults/
+-rw-rw-r-- root/root       481 2018-05-24 10:12 ansible-timedatectl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-24 10:12 ansible-timedatectl-master/handlers/
+-rw-rw-r-- root/root       104 2018-05-24 10:12 ansible-timedatectl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-24 10:12 ansible-timedatectl-master/meta/
+-rw-rw-r-- root/root       475 2018-05-24 10:12 ansible-timedatectl-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 10:12 ansible-timedatectl-master/tasks/
+-rw-rw-r-- root/root       328 2018-05-24 10:12 ansible-timedatectl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-24 10:12 ansible-timedatectl-master/templates/
+-rw-rw-r-- root/root       274 2018-05-24 10:12 ansible-timedatectl-master/templates/timesyncd.conf.template
+drwxrwxr-x root/root         0 2018-05-24 10:12 ansible-timedatectl-master/tests/
+-rw-rw-r-- root/root         9 2018-05-24 10:12 ansible-timedatectl-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-05-24 10:12 ansible-timedatectl-master/tests/test.yml

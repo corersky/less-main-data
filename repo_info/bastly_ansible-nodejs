@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-04-02 09:00 ansible-nodejs-master/
+-rw-rw-r-- root/root      1328 2015-04-02 09:00 ansible-nodejs-master/README.md
+drwxrwxr-x root/root         0 2015-04-02 09:00 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root       252 2015-04-02 09:00 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-02 09:00 ansible-nodejs-master/handlers/
+-rw-rw-r-- root/root        44 2015-04-02 09:00 ansible-nodejs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-02 09:00 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       547 2015-04-02 09:00 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-02 09:00 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root       994 2015-04-02 09:00 ansible-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       280 2015-04-02 09:00 ansible-nodejs-master/tasks/nvm.yml
+-rwxrwxr-x root/root       845 2015-04-02 09:00 ansible-nodejs-master/tasks/package.yml
+-rwxrwxr-x root/root      1865 2015-04-02 09:00 ansible-nodejs-master/tasks/source.yml
+drwxrwxr-x root/root         0 2015-04-02 09:00 ansible-nodejs-master/vars/
+-rw-rw-r-- root/root        40 2015-04-02 09:00 ansible-nodejs-master/vars/main.yml

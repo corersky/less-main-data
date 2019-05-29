@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-04 10:39 ansible-role-docker-master/
+-rw-rw-r-- root/root      1548 2017-12-04 10:39 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root      1079 2017-12-04 10:39 ansible-role-docker-master/LICENSE.txt
+-rw-rw-r-- root/root      1598 2017-12-04 10:39 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2017-12-04 10:39 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        43 2017-12-04 10:39 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-04 10:39 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root       202 2017-12-04 10:39 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-04 10:39 ansible-role-docker-master/library/
+-rw-rw-r-- root/root      1659 2017-12-04 10:39 ansible-role-docker-master/library/docker_ping.py
+drwxrwxr-x root/root         0 2017-12-04 10:39 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       421 2017-12-04 10:39 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-04 10:39 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root      1353 2017-12-04 10:39 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-04 10:39 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root       822 2017-12-04 10:39 ansible-role-docker-master/tests/role.yml

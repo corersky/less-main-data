@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2015-12-21 21:06 ansible-rbenv-master/
+-rw-rw-r-- root/root       758 2015-12-21 21:06 ansible-rbenv-master/.travis.yml
+-rw-rw-r-- root/root      1082 2015-12-21 21:06 ansible-rbenv-master/LICENSE.md
+-rw-rw-r-- root/root      1216 2015-12-21 21:06 ansible-rbenv-master/README.md
+drwxrwxr-x root/root         0 2015-12-21 21:06 ansible-rbenv-master/defaults/
+-rw-rw-r-- root/root       165 2015-12-21 21:06 ansible-rbenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:06 ansible-rbenv-master/handlers/
+-rw-rw-r-- root/root         4 2015-12-21 21:06 ansible-rbenv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:06 ansible-rbenv-master/meta/
+-rw-rw-r-- root/root       287 2015-12-21 21:06 ansible-rbenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:06 ansible-rbenv-master/tasks/
+-rw-rw-r-- root/root       207 2015-12-21 21:06 ansible-rbenv-master/tasks/dependencies.yml
+-rw-rw-r-- root/root      1175 2015-12-21 21:06 ansible-rbenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:06 ansible-rbenv-master/templates/
+-rw-rw-r-- root/root        69 2015-12-21 21:06 ansible-rbenv-master/templates/init.sh.j2
+drwxrwxr-x root/root         0 2015-12-21 21:06 ansible-rbenv-master/test/
+-rw-rw-r-- root/root       266 2015-12-21 21:06 ansible-rbenv-master/test/Vagrantfile.example
+lrwxrwxrwx root/root         0 2015-12-21 21:06 ansible-rbenv-master/test/ansible-rbenv -> ../
+-rw-rw-r-- root/root        26 2015-12-21 21:06 ansible-rbenv-master/test/ansible.cfg.example
+-rw-rw-r-- root/root        10 2015-12-21 21:06 ansible-rbenv-master/test/inventory
+-rw-rw-r-- root/root        74 2015-12-21 21:06 ansible-rbenv-master/test/travis.yml
+-rw-rw-r-- root/root        67 2015-12-21 21:06 ansible-rbenv-master/test/vagrant.yml
+drwxrwxr-x root/root         0 2015-12-21 21:06 ansible-rbenv-master/vars/
+-rw-rw-r-- root/root         4 2015-12-21 21:06 ansible-rbenv-master/vars/main.yml

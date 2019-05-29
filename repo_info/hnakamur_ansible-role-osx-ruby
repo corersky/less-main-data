@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-08-23 13:00 ansible-role-osx-ruby-master/
+-rw-rw-r-- root/root       454 2014-08-23 13:00 ansible-role-osx-ruby-master/README.md
+drwxrwxr-x root/root         0 2014-08-23 13:00 ansible-role-osx-ruby-master/defaults/
+-rw-rw-r-- root/root        50 2014-08-23 13:00 ansible-role-osx-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-23 13:00 ansible-role-osx-ruby-master/meta/
+-rw-rw-r-- root/root       240 2014-08-23 13:00 ansible-role-osx-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-23 13:00 ansible-role-osx-ruby-master/tasks/
+-rw-rw-r-- root/root       151 2014-08-23 13:00 ansible-role-osx-ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-23 13:00 ansible-role-osx-ruby-master/templates/
+-rw-rw-r-- root/root        45 2014-08-23 13:00 ansible-role-osx-ruby-master/templates/gemrc.j2

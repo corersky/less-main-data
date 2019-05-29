@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-04-08 17:52 ansible-aws-cli-master/
+-rw-rw-r-- root/root       862 2016-04-08 17:52 ansible-aws-cli-master/README.md
+drwxrwxr-x root/root         0 2016-04-08 17:52 ansible-aws-cli-master/defaults/
+-rw-rw-r-- root/root       185 2016-04-08 17:52 ansible-aws-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-08 17:52 ansible-aws-cli-master/meta/
+-rw-rw-r-- root/root       362 2016-04-08 17:52 ansible-aws-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-08 17:52 ansible-aws-cli-master/tasks/
+-rw-rw-r-- root/root      1073 2016-04-08 17:52 ansible-aws-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-08 17:52 ansible-aws-cli-master/templates/
+-rw-rw-r-- root/root       165 2016-04-08 17:52 ansible-aws-cli-master/templates/aws_cli_config.j2

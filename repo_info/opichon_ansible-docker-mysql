@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-30 12:44 ansible-docker-mysql-master/
+-rw-rw-r-- root/root      1071 2019-03-30 12:44 ansible-docker-mysql-master/LICENSE
+-rw-rw-r-- root/root       964 2019-03-30 12:44 ansible-docker-mysql-master/README.md
+drwxrwxr-x root/root         0 2019-03-30 12:44 ansible-docker-mysql-master/defaults/
+-rw-rw-r-- root/root       348 2019-03-30 12:44 ansible-docker-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-30 12:44 ansible-docker-mysql-master/meta/
+-rw-rw-r-- root/root       351 2019-03-30 12:44 ansible-docker-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-30 12:44 ansible-docker-mysql-master/tasks/
+-rw-rw-r-- root/root      1099 2019-03-30 12:44 ansible-docker-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-30 12:44 ansible-docker-mysql-master/templates/
+-rw-rw-r-- root/root       265 2019-03-30 12:44 ansible-docker-mysql-master/templates/character-set.cnf.j2
+-rw-rw-r-- root/root        99 2019-03-30 12:44 ansible-docker-mysql-master/templates/my.cnf.j2
+-rw-rw-r-- root/root       141 2019-03-30 12:44 ansible-docker-mysql-master/templates/sql-mode.cnf.j2

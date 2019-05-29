@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-27 05:26 ansible-role-tor-master/
+-rwxrwxr-x root/root      1394 2019-02-27 05:26 ansible-role-tor-master/.travis.yml
+-rwxrwxr-x root/root      1210 2019-02-27 05:26 ansible-role-tor-master/LICENSE
+-rwxrwxr-x root/root       845 2019-02-27 05:26 ansible-role-tor-master/README.md
+drwxrwxr-x root/root         0 2019-02-27 05:26 ansible-role-tor-master/defaults/
+-rwxrwxr-x root/root       386 2019-02-27 05:26 ansible-role-tor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-27 05:26 ansible-role-tor-master/handlers/
+-rwxrwxr-x root/root       142 2019-02-27 05:26 ansible-role-tor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-27 05:26 ansible-role-tor-master/meta/
+-rwxrwxr-x root/root       424 2019-02-27 05:26 ansible-role-tor-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-27 05:26 ansible-role-tor-master/tasks/
+-rwxrwxr-x root/root       709 2019-02-27 05:26 ansible-role-tor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-27 05:26 ansible-role-tor-master/templates/
+-rwxrwxr-x root/root      1010 2019-02-27 05:26 ansible-role-tor-master/templates/torrc.j2
+drwxrwxr-x root/root         0 2019-02-27 05:26 ansible-role-tor-master/tests/
+-rwxrwxr-x root/root        10 2019-02-27 05:26 ansible-role-tor-master/tests/inventory
+-rwxrwxr-x root/root       122 2019-02-27 05:26 ansible-role-tor-master/tests/test.yml

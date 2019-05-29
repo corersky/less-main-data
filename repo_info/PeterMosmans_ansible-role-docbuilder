@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-23 14:50 ansible-role-docbuilder-master/
+-rw-rw-r-- root/root       920 2018-12-23 14:50 ansible-role-docbuilder-master/.travis.yml
+-rw-rw-r-- root/root      3043 2018-12-23 14:50 ansible-role-docbuilder-master/README.md
+drwxrwxr-x root/root         0 2018-12-23 14:50 ansible-role-docbuilder-master/defaults/
+-rw-rw-r-- root/root      1411 2018-12-23 14:50 ansible-role-docbuilder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-23 14:50 ansible-role-docbuilder-master/meta/
+-rw-rw-r-- root/root      1902 2018-12-23 14:50 ansible-role-docbuilder-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-23 14:50 ansible-role-docbuilder-master/tasks/
+-rw-rw-r-- root/root       245 2018-12-23 14:50 ansible-role-docbuilder-master/tasks/dependencies-Debian.yml
+-rw-rw-r-- root/root       182 2018-12-23 14:50 ansible-role-docbuilder-master/tasks/dependencies-Gentoo.yml
+-rw-rw-r-- root/root      3132 2018-12-23 14:50 ansible-role-docbuilder-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-23 14:50 ansible-role-docbuilder-master/templates/
+-rw-rw-r-- root/root     26143 2018-12-23 14:50 ansible-role-docbuilder-master/templates/fop.xconf.j2
+drwxrwxr-x root/root         0 2018-12-23 14:50 ansible-role-docbuilder-master/tests/
+-rw-rw-r-- root/root        10 2018-12-23 14:50 ansible-role-docbuilder-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-12-23 14:50 ansible-role-docbuilder-master/tests/test.yml

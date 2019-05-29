@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-04 02:46 postgresql-ansible-master/
+-rw-rw-r-- root/root       778 2018-08-04 02:46 postgresql-ansible-master/.travis.yml
+-rw-rw-r-- root/root      1064 2018-08-04 02:46 postgresql-ansible-master/LICENSE
+-rw-rw-r-- root/root      1300 2018-08-04 02:46 postgresql-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-08-04 02:46 postgresql-ansible-master/defaults/
+-rw-rw-r-- root/root       183 2018-08-04 02:46 postgresql-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-04 02:46 postgresql-ansible-master/handlers/
+-rw-rw-r-- root/root       139 2018-08-04 02:46 postgresql-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-04 02:46 postgresql-ansible-master/meta/
+-rw-rw-r-- root/root       517 2018-08-04 02:46 postgresql-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-04 02:46 postgresql-ansible-master/tasks/
+-rw-rw-r-- root/root      2674 2018-08-04 02:46 postgresql-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-04 02:46 postgresql-ansible-master/tests/
+-rw-rw-r-- root/root        11 2018-08-04 02:46 postgresql-ansible-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-08-04 02:46 postgresql-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-04 02:46 postgresql-ansible-master/vars/
+-rw-rw-r-- root/root        30 2018-08-04 02:46 postgresql-ansible-master/vars/main.yml

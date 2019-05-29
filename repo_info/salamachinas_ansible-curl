@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-14 14:22 ansible-curl-master/
+-rw-rw-r-- root/root        55 2017-01-14 14:22 ansible-curl-master/.gitignore
+-rw-rw-r-- root/root       806 2017-01-14 14:22 ansible-curl-master/README.md
+drwxrwxr-x root/root         0 2017-01-14 14:22 ansible-curl-master/meta/
+-rw-rw-r-- root/root       348 2017-01-14 14:22 ansible-curl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-14 14:22 ansible-curl-master/tasks/
+-rw-rw-r-- root/root        59 2017-01-14 14:22 ansible-curl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-14 14:22 ansible-curl-master/tests/
+-rw-rw-r-- root/root       199 2017-01-14 14:22 ansible-curl-master/tests/Dockerfile_centos7
+-rw-rw-r-- root/root       199 2017-01-14 14:22 ansible-curl-master/tests/Dockerfile_debian7
+-rw-rw-r-- root/root       199 2017-01-14 14:22 ansible-curl-master/tests/Dockerfile_debian8
+-rw-rw-r-- root/root       203 2017-01-14 14:22 ansible-curl-master/tests/Dockerfile_ubuntu14
+-rw-rw-r-- root/root       203 2017-01-14 14:22 ansible-curl-master/tests/Dockerfile_ubuntu16
+-rw-rw-r-- root/root        51 2017-01-14 14:22 ansible-curl-master/tests/provision.yml

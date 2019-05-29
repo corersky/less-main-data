@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-04-06 10:22 ansible-vdsm-prometheus-master/
+-rw-rw-r-- root/root     35141 2016-04-06 10:22 ansible-vdsm-prometheus-master/LICENSE
+-rw-rw-r-- root/root      2806 2016-04-06 10:22 ansible-vdsm-prometheus-master/README.md
+drwxrwxr-x root/root         0 2016-04-06 10:22 ansible-vdsm-prometheus-master/defaults/
+-rw-rw-r-- root/root       590 2016-04-06 10:22 ansible-vdsm-prometheus-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-06 10:22 ansible-vdsm-prometheus-master/handlers/
+-rw-rw-r-- root/root        45 2016-04-06 10:22 ansible-vdsm-prometheus-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-06 10:22 ansible-vdsm-prometheus-master/meta/
+-rw-rw-r-- root/root       344 2016-04-06 10:22 ansible-vdsm-prometheus-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-06 10:22 ansible-vdsm-prometheus-master/tasks/
+-rw-rw-r-- root/root      1323 2016-04-06 10:22 ansible-vdsm-prometheus-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-06 10:22 ansible-vdsm-prometheus-master/templates/
+-rw-rw-r-- root/root        50 2016-04-06 10:22 ansible-vdsm-prometheus-master/templates/10-vdsm-prometheus.conf
+drwxrwxr-x root/root         0 2016-04-06 10:22 ansible-vdsm-prometheus-master/vars/
+-rw-rw-r-- root/root        23 2016-04-06 10:22 ansible-vdsm-prometheus-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-07 04:25 ansible-role-beetbox-kohana-master/
+drwxrwxr-x root/root         0 2017-08-07 04:25 ansible-role-beetbox-kohana-master/.beetbox/
+-rw-rw-r-- root/root       259 2017-08-07 04:25 ansible-role-beetbox-kohana-master/.beetbox/config.yml
+-rw-rw-r-- root/root        89 2017-08-07 04:25 ansible-role-beetbox-kohana-master/.gitignore
+-rw-rw-r-- root/root      1944 2017-08-07 04:25 ansible-role-beetbox-kohana-master/README.md
+-rw-rw-r-- root/root       321 2017-08-07 04:25 ansible-role-beetbox-kohana-master/circle.yml
+drwxrwxr-x root/root         0 2017-08-07 04:25 ansible-role-beetbox-kohana-master/defaults/
+-rw-rw-r-- root/root       313 2017-08-07 04:25 ansible-role-beetbox-kohana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-07 04:25 ansible-role-beetbox-kohana-master/meta/
+-rw-rw-r-- root/root       296 2017-08-07 04:25 ansible-role-beetbox-kohana-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-07 04:25 ansible-role-beetbox-kohana-master/tasks/
+-rw-rw-r-- root/root       607 2017-08-07 04:25 ansible-role-beetbox-kohana-master/tasks/configure.yml
+-rw-rw-r-- root/root       548 2017-08-07 04:25 ansible-role-beetbox-kohana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-07 04:25 ansible-role-beetbox-kohana-master/tests/
+-rw-rw-r-- root/root       155 2017-08-07 04:25 ansible-role-beetbox-kohana-master/tests/config.yml

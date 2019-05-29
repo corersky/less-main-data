@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-11-10 04:10 ansible-role-vivd-master/
+-rw-rw-r-- root/root         3 2015-11-10 04:10 ansible-role-vivd-master/.gitignore
+-rw-rw-r-- root/root     35147 2015-11-10 04:10 ansible-role-vivd-master/LICENSE
+-rw-rw-r-- root/root      2381 2015-11-10 04:10 ansible-role-vivd-master/README.md
+drwxrwxr-x root/root         0 2015-11-10 04:10 ansible-role-vivd-master/defaults/
+-rw-rw-r-- root/root       933 2015-11-10 04:10 ansible-role-vivd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-10 04:10 ansible-role-vivd-master/handlers/
+-rw-rw-r-- root/root       171 2015-11-10 04:10 ansible-role-vivd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-10 04:10 ansible-role-vivd-master/meta/
+-rw-rw-r-- root/root       394 2015-11-10 04:10 ansible-role-vivd-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-10 04:10 ansible-role-vivd-master/tasks/
+-rw-rw-r-- root/root      1727 2015-11-10 04:10 ansible-role-vivd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-10 04:10 ansible-role-vivd-master/templates/
+-rw-rw-r-- root/root      1146 2015-11-10 04:10 ansible-role-vivd-master/templates/config.clj.j2
+-rw-rw-r-- root/root       451 2015-11-10 04:10 ansible-role-vivd-master/templates/vivd.service.j2

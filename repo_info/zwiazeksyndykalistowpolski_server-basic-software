@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-26 00:45 server-basic-software-master/
+-rw-rw-r-- root/root       820 2019-04-26 00:45 server-basic-software-master/README.md
+drwxrwxr-x root/root         0 2019-04-26 00:45 server-basic-software-master/meta/
+-rw-rw-r-- root/root       314 2019-04-26 00:45 server-basic-software-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-26 00:45 server-basic-software-master/tasks/
+-rw-rw-r-- root/root       673 2019-04-26 00:45 server-basic-software-master/tasks/docker.debian.yml
+-rw-rw-r-- root/root      1864 2019-04-26 00:45 server-basic-software-master/tasks/docker.yml
+-rw-rw-r-- root/root        88 2019-04-26 00:45 server-basic-software-master/tasks/main.yml
+-rw-rw-r-- root/root       176 2019-04-26 00:45 server-basic-software-master/tasks/packages.yml
+-rw-rw-r-- root/root       249 2019-04-26 00:45 server-basic-software-master/tasks/sudo.yml
+drwxrwxr-x root/root         0 2019-04-26 00:45 server-basic-software-master/vars/
+-rw-rw-r-- root/root       698 2019-04-26 00:45 server-basic-software-master/vars/main.yml

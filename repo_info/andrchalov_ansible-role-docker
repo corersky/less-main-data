@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-02 06:28 ansible-role-docker-master/
+-rw-rw-r-- root/root       209 2018-11-02 06:28 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root      1070 2018-11-02 06:28 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root        69 2018-11-02 06:28 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2018-11-02 06:28 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       220 2018-11-02 06:28 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-02 06:28 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        76 2018-11-02 06:28 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-02 06:28 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root      1476 2018-11-02 06:28 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-02 06:28 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root        10 2018-11-02 06:28 ansible-role-docker-master/tests/test.retry
+-rwxrwxr-x root/root      1213 2018-11-02 06:28 ansible-role-docker-master/tests/test.sh
+-rw-rw-r-- root/root       140 2018-11-02 06:28 ansible-role-docker-master/tests/test.yml

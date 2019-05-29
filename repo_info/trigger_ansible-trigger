@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-11-30 13:28 ansible-trigger-master/
+-rw-rw-r-- root/root       702 2015-11-30 13:28 ansible-trigger-master/.gitignore
+-rw-rw-r-- root/root      1481 2015-11-30 13:28 ansible-trigger-master/LICENSE
+-rw-rw-r-- root/root      1076 2015-11-30 13:28 ansible-trigger-master/README.md
+drwxrwxr-x root/root         0 2015-11-30 13:28 ansible-trigger-master/library/
+-rw-rw-r-- root/root         0 2015-11-30 13:28 ansible-trigger-master/library/__init__.py
+-rw-rw-r-- root/root      6523 2015-11-30 13:28 ansible-trigger-master/library/trigger_command.py
+drwxrwxr-x root/root         0 2015-11-30 13:28 ansible-trigger-master/meta/
+-rw-rw-r-- root/root      2066 2015-11-30 13:28 ansible-trigger-master/meta/main.yml
+-rw-rw-r-- root/root        15 2015-11-30 13:28 ansible-trigger-master/requirements.txt

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-05-12 04:14 ansible-uwsgi-master/
+-rw-rw-r-- root/root      1088 2017-05-12 04:14 ansible-uwsgi-master/LICENSE
+-rw-rw-r-- root/root      3230 2017-05-12 04:14 ansible-uwsgi-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 04:14 ansible-uwsgi-master/defaults/
+-rw-rw-r-- root/root      2200 2017-05-12 04:14 ansible-uwsgi-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:14 ansible-uwsgi-master/handlers/
+-rw-rw-r-- root/root       190 2017-05-12 04:14 ansible-uwsgi-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:14 ansible-uwsgi-master/meta/
+-rw-rw-r-- root/root       267 2017-05-12 04:14 ansible-uwsgi-master/meta/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:14 ansible-uwsgi-master/tasks/
+-rw-rw-r-- root/root      1282 2017-05-12 04:14 ansible-uwsgi-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:14 ansible-uwsgi-master/templates/
+-rw-rw-r-- root/root        65 2017-05-12 04:14 ansible-uwsgi-master/templates/uwsgi.ini.j2

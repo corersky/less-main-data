@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-01-16 16:00 ansible-unzip-master/
+-rw-rw-r-- root/root         9 2015-01-16 16:00 ansible-unzip-master/.gitignore
+-rw-rw-r-- root/root        97 2015-01-16 16:00 ansible-unzip-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-01-16 16:00 ansible-unzip-master/LICENSE
+-rw-rw-r-- root/root       174 2015-01-16 16:00 ansible-unzip-master/README.md
+drwxrwxr-x root/root         0 2015-01-16 16:00 ansible-unzip-master/defaults/
+-rw-rw-r-- root/root        36 2015-01-16 16:00 ansible-unzip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-16 16:00 ansible-unzip-master/examples/
+-rw-rw-r-- root/root       278 2015-01-16 16:00 ansible-unzip-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-01-16 16:00 ansible-unzip-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-01-16 16:00 ansible-unzip-master/examples/roles/azavea.unzip -> ../../
+-rw-rw-r-- root/root       129 2015-01-16 16:00 ansible-unzip-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-01-16 16:00 ansible-unzip-master/meta/
+-rw-rw-r-- root/root       261 2015-01-16 16:00 ansible-unzip-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-16 16:00 ansible-unzip-master/tasks/
+-rw-rw-r-- root/root        77 2015-01-16 16:00 ansible-unzip-master/tasks/main.yml

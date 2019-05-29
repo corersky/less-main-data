@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-08-03 18:03 ansible-datadog-master/
+-rw-rw-r-- root/root      1779 2015-08-03 18:03 ansible-datadog-master/README.md
+drwxrwxr-x root/root         0 2015-08-03 18:03 ansible-datadog-master/defaults/
+-rw-rw-r-- root/root       121 2015-08-03 18:03 ansible-datadog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-03 18:03 ansible-datadog-master/handlers/
+-rw-rw-r-- root/root       112 2015-08-03 18:03 ansible-datadog-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-03 18:03 ansible-datadog-master/meta/
+-rw-rw-r-- root/root       598 2015-08-03 18:03 ansible-datadog-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-03 18:03 ansible-datadog-master/tasks/
+-rw-rw-r-- root/root      1057 2015-08-03 18:03 ansible-datadog-master/tasks/main.yml
+-rw-rw-r-- root/root       211 2015-08-03 18:03 ansible-datadog-master/tasks/pkg-debian.yml
+-rw-rw-r-- root/root       215 2015-08-03 18:03 ansible-datadog-master/tasks/pkg-redhat.yml
+drwxrwxr-x root/root         0 2015-08-03 18:03 ansible-datadog-master/templates/
+-rw-rw-r-- root/root        42 2015-08-03 18:03 ansible-datadog-master/templates/checks.yaml.j2
+-rw-rw-r-- root/root       540 2015-08-03 18:03 ansible-datadog-master/templates/datadog.conf.j2
+-rw-rw-r-- root/root       129 2015-08-03 18:03 ansible-datadog-master/templates/datadog.repo.j2
+-rw-rw-r-- root/root       587 2015-08-03 18:03 ansible-datadog-master/templates/process.yaml.j2

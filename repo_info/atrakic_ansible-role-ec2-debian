@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-02-23 15:54 ansible-role-ec2-debian-master/
+-rw-rw-r-- root/root        52 2017-02-23 15:54 ansible-role-ec2-debian-master/.gitignore
+-rw-rw-r-- root/root       711 2017-02-23 15:54 ansible-role-ec2-debian-master/.travis.yml
+-rw-rw-r-- root/root       509 2017-02-23 15:54 ansible-role-ec2-debian-master/README.md
+drwxrwxr-x root/root         0 2017-02-23 15:54 ansible-role-ec2-debian-master/defaults/
+-rw-rw-r-- root/root        92 2017-02-23 15:54 ansible-role-ec2-debian-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-23 15:54 ansible-role-ec2-debian-master/meta/
+-rw-rw-r-- root/root       201 2017-02-23 15:54 ansible-role-ec2-debian-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-23 15:54 ansible-role-ec2-debian-master/tasks/
+-rw-rw-r-- root/root       581 2017-02-23 15:54 ansible-role-ec2-debian-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-23 15:54 ansible-role-ec2-debian-master/tests/
+-rw-rw-r-- root/root        36 2017-02-23 15:54 ansible-role-ec2-debian-master/tests/inventory
+-rw-rw-r-- root/root       307 2017-02-23 15:54 ansible-role-ec2-debian-master/tests/test.yml

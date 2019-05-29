@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2015-08-30 18:01 ansible-packages-master/
+-rw-rw-r-- root/root       245 2015-08-30 18:01 ansible-packages-master/README.md
+drwxrwxr-x root/root         0 2015-08-30 18:01 ansible-packages-master/defaults/
+-rw-rw-r-- root/root        46 2015-08-30 18:01 ansible-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-30 18:01 ansible-packages-master/meta/
+-rw-rw-r-- root/root       752 2015-08-30 18:01 ansible-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-30 18:01 ansible-packages-master/tasks/
+-rw-rw-r-- root/root       223 2015-08-30 18:01 ansible-packages-master/tasks/apt.yml
+-rw-rw-r-- root/root       122 2015-08-30 18:01 ansible-packages-master/tasks/main.yml

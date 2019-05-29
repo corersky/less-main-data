@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-08 07:22 k-certificate-master/
+-rw-rw-r-- root/root      1073 2018-05-08 07:22 k-certificate-master/LICENSE
+-rw-rw-r-- root/root       412 2018-05-08 07:22 k-certificate-master/README.md
+drwxrwxr-x root/root         0 2018-05-08 07:22 k-certificate-master/defaults/
+-rw-rw-r-- root/root        23 2018-05-08 07:22 k-certificate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-08 07:22 k-certificate-master/handlers/
+-rw-rw-r-- root/root        36 2018-05-08 07:22 k-certificate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-08 07:22 k-certificate-master/meta/
+-rw-rw-r-- root/root      1846 2018-05-08 07:22 k-certificate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-08 07:22 k-certificate-master/tasks/
+-rw-rw-r-- root/root      1114 2018-05-08 07:22 k-certificate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-08 07:22 k-certificate-master/tests/
+-rw-rw-r-- root/root        11 2018-05-08 07:22 k-certificate-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-05-08 07:22 k-certificate-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-08 07:22 k-certificate-master/vars/
+-rw-rw-r-- root/root        32 2018-05-08 07:22 k-certificate-master/vars/main.yml

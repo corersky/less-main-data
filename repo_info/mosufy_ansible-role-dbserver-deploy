@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-12-10 01:59 ansible-role-dbserver-deploy-master/
+-rw-rw-r-- root/root         5 2016-12-10 01:59 ansible-role-dbserver-deploy-master/.gitignore
+-rw-rw-r-- root/root       539 2016-12-10 01:59 ansible-role-dbserver-deploy-master/.travis.yml
+-rw-rw-r-- root/root       851 2016-12-10 01:59 ansible-role-dbserver-deploy-master/README.md
+drwxrwxr-x root/root         0 2016-12-10 01:59 ansible-role-dbserver-deploy-master/defaults/
+-rw-rw-r-- root/root       206 2016-12-10 01:59 ansible-role-dbserver-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-10 01:59 ansible-role-dbserver-deploy-master/meta/
+-rw-rw-r-- root/root       213 2016-12-10 01:59 ansible-role-dbserver-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-10 01:59 ansible-role-dbserver-deploy-master/tasks/
+-rw-rw-r-- root/root       578 2016-12-10 01:59 ansible-role-dbserver-deploy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-10 01:59 ansible-role-dbserver-deploy-master/tests/
+-rw-rw-r-- root/root         9 2016-12-10 01:59 ansible-role-dbserver-deploy-master/tests/inventory
+-rw-rw-r-- root/root        73 2016-12-10 01:59 ansible-role-dbserver-deploy-master/tests/test.yml

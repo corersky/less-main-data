@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-03 03:47 ansible-role-mysql-master/
+-rw-rw-r-- root/root       999 2019-02-03 03:47 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2019-02-03 03:47 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root       154 2019-02-03 03:47 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-03 03:47 ansible-role-mysql-master/handlers/
+-rw-rw-r-- root/root       127 2019-02-03 03:47 ansible-role-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-03 03:47 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root       547 2019-02-03 03:47 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-03 03:47 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root       416 2019-02-03 03:47 ansible-role-mysql-master/tasks/debian.yml
+-rw-rw-r-- root/root       261 2019-02-03 03:47 ansible-role-mysql-master/tasks/main.yml
+-rw-rw-r-- root/root       991 2019-02-03 03:47 ansible-role-mysql-master/tasks/mysql_secure_installation.yml
+-rw-rw-r-- root/root       606 2019-02-03 03:47 ansible-role-mysql-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2019-02-03 03:47 ansible-role-mysql-master/templates/
+-rw-rw-r-- root/root        54 2019-02-03 03:47 ansible-role-mysql-master/templates/my.cnf.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-30 00:00 ansible-cephfs-master/
+-rw-rw-r-- root/root        38 2017-06-30 00:00 ansible-cephfs-master/README.md
+drwxrwxr-x root/root         0 2017-06-30 00:00 ansible-cephfs-master/defaults/
+-rw-rw-r-- root/root       437 2017-06-30 00:00 ansible-cephfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-30 00:00 ansible-cephfs-master/meta/
+-rw-rw-r-- root/root       273 2017-06-30 00:00 ansible-cephfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-30 00:00 ansible-cephfs-master/tasks/
+-rw-rw-r-- root/root       164 2017-06-30 00:00 ansible-cephfs-master/tasks/cephfs_install.yml
+-rw-rw-r-- root/root       252 2017-06-30 00:00 ansible-cephfs-master/tasks/cephfs_post.yml
+-rw-rw-r-- root/root       435 2017-06-30 00:00 ansible-cephfs-master/tasks/cephfs_pre.yml
+-rw-rw-r-- root/root        87 2017-06-30 00:00 ansible-cephfs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-30 00:00 ansible-cephfs-master/tests/
+-rw-rw-r-- root/root         9 2017-06-30 00:00 ansible-cephfs-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-06-30 00:00 ansible-cephfs-master/tests/test.yml

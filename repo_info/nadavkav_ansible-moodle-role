@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-02-25 22:51 ansible-moodle-role-master/
+-rw-rw-r-- root/root     35122 2015-02-25 22:51 ansible-moodle-role-master/LICENSE
+-rw-rw-r-- root/root       791 2015-02-25 22:51 ansible-moodle-role-master/README.md
+drwxrwxr-x root/root         0 2015-02-25 22:51 ansible-moodle-role-master/defaults/
+-rw-rw-r-- root/root      1246 2015-02-25 22:51 ansible-moodle-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-25 22:51 ansible-moodle-role-master/handlers/
+-rw-rw-r-- root/root        31 2015-02-25 22:51 ansible-moodle-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-25 22:51 ansible-moodle-role-master/meta/
+-rw-rw-r-- root/root       777 2015-02-25 22:51 ansible-moodle-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-25 22:51 ansible-moodle-role-master/tasks/
+-rw-rw-r-- root/root       655 2015-02-25 22:51 ansible-moodle-role-master/tasks/main.yml
+-rw-rw-r-- root/root       166 2015-02-25 22:51 ansible-moodle-role-master/tasks/requeriments.yml
+drwxrwxr-x root/root         0 2015-02-25 22:51 ansible-moodle-role-master/templates/
+-rw-rw-r-- root/root     39245 2015-02-25 22:51 ansible-moodle-role-master/templates/config.php.j2
+drwxrwxr-x root/root         0 2015-02-25 22:51 ansible-moodle-role-master/vars/
+-rw-rw-r-- root/root       248 2015-02-25 22:51 ansible-moodle-role-master/vars/main.yml

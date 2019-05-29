@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/
+-rw-rw-r-- root/root      2457 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/.travis.yml
+-rw-rw-r-- root/root      1061 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/LICENSE.md
+-rw-rw-r-- root/root       995 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/defaults/
+-rw-rw-r-- root/root       181 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/meta/
+-rw-rw-r-- root/root       629 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/tasks/
+-rw-rw-r-- root/root       409 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/templates/
+-rw-rw-r-- root/root       163 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/templates/wgetrc.j2
+drwxrwxr-x root/root         0 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/tests/
+-rw-rw-r-- root/root       420 2017-03-16 11:32 ansible-role-ellucian-wgetrc-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-07 12:27 ansible-vpc-subnets-master/
+-rw-rw-r-- root/root       541 2017-06-07 12:27 ansible-vpc-subnets-master/.travis.yml
+-rw-rw-r-- root/root      1155 2017-06-07 12:27 ansible-vpc-subnets-master/README.md
+drwxrwxr-x root/root         0 2017-06-07 12:27 ansible-vpc-subnets-master/defaults/
+-rw-rw-r-- root/root       116 2017-06-07 12:27 ansible-vpc-subnets-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-07 12:27 ansible-vpc-subnets-master/handlers/
+-rw-rw-r-- root/root        44 2017-06-07 12:27 ansible-vpc-subnets-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-07 12:27 ansible-vpc-subnets-master/meta/
+-rw-rw-r-- root/root       296 2017-06-07 12:27 ansible-vpc-subnets-master/meta/main.yml
+-rw-rw-r-- root/root        49 2017-06-07 12:27 ansible-vpc-subnets-master/requirements.txt
+drwxrwxr-x root/root         0 2017-06-07 12:27 ansible-vpc-subnets-master/tasks/
+-rw-rw-r-- root/root       667 2017-06-07 12:27 ansible-vpc-subnets-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-07 12:27 ansible-vpc-subnets-master/tests/
+-rw-rw-r-- root/root         9 2017-06-07 12:27 ansible-vpc-subnets-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-06-07 12:27 ansible-vpc-subnets-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-07 12:27 ansible-vpc-subnets-master/vars/
+-rw-rw-r-- root/root        40 2017-06-07 12:27 ansible-vpc-subnets-master/vars/main.yml

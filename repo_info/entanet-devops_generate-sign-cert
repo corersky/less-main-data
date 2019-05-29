@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-02-13 11:58 generate-sign-cert-master/
+-rw-rw-r-- root/root      1075 2019-02-13 11:58 generate-sign-cert-master/README.md
+drwxrwxr-x root/root         0 2019-02-13 11:58 generate-sign-cert-master/defaults/
+-rw-rw-r-- root/root       284 2019-02-13 11:58 generate-sign-cert-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-13 11:58 generate-sign-cert-master/meta/
+-rw-rw-r-- root/root       226 2019-02-13 11:58 generate-sign-cert-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-13 11:58 generate-sign-cert-master/tasks/
+-rw-rw-r-- root/root      1907 2019-02-13 11:58 generate-sign-cert-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-13 11:58 generate-sign-cert-master/templates/
+-rw-rw-r-- root/root       200 2019-02-13 11:58 generate-sign-cert-master/templates/cfssl.json.j2
+-rw-rw-r-- root/root        77 2019-02-13 11:58 generate-sign-cert-master/templates/csr.json.j2

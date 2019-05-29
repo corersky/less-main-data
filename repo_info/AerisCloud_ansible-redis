@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-20 01:35 ansible-redis-master/
+-rw-rw-r-- root/root      1074 2016-06-20 01:35 ansible-redis-master/LICENSE
+-rw-rw-r-- root/root       402 2016-06-20 01:35 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 01:35 ansible-redis-master/defaults/
+-rw-rw-r-- root/root        17 2016-06-20 01:35 ansible-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:35 ansible-redis-master/handlers/
+-rw-rw-r-- root/root       109 2016-06-20 01:35 ansible-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:35 ansible-redis-master/meta/
+-rw-rw-r-- root/root       575 2016-06-20 01:35 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:35 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       280 2016-06-20 01:35 ansible-redis-master/tasks/centos.yml
+-rw-rw-r-- root/root       259 2016-06-20 01:35 ansible-redis-master/tasks/debian.yml
+-rw-rw-r-- root/root       487 2016-06-20 01:35 ansible-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:35 ansible-redis-master/templates/
+-rw-rw-r-- root/root     32594 2016-06-20 01:35 ansible-redis-master/templates/redis.conf
+drwxrwxr-x root/root         0 2016-06-20 01:35 ansible-redis-master/tests/
+-rw-rw-r-- root/root       546 2016-06-20 01:35 ansible-redis-master/tests/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-03-29 10:26 ubuntu-base-master/
+-rw-rw-r-- root/root       627 2014-03-29 10:26 ubuntu-base-master/README.md
+drwxrwxr-x root/root         0 2014-03-29 10:26 ubuntu-base-master/defaults/
+-rw-rw-r-- root/root       193 2014-03-29 10:26 ubuntu-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-03-29 10:26 ubuntu-base-master/handlers/
+-rw-rw-r-- root/root        26 2014-03-29 10:26 ubuntu-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-03-29 10:26 ubuntu-base-master/meta/
+-rw-rw-r-- root/root       321 2014-03-29 10:26 ubuntu-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-03-29 10:26 ubuntu-base-master/tasks/
+-rw-rw-r-- root/root       787 2014-03-29 10:26 ubuntu-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-03-29 10:26 ubuntu-base-master/templates/
+-rw-rw-r-- root/root        20 2014-03-29 10:26 ubuntu-base-master/templates/hostname
+-rw-rw-r-- root/root        31 2014-03-29 10:26 ubuntu-base-master/templates/prompt.sh
+drwxrwxr-x root/root         0 2014-03-29 10:26 ubuntu-base-master/vars/
+-rw-rw-r-- root/root        22 2014-03-29 10:26 ubuntu-base-master/vars/main.yml

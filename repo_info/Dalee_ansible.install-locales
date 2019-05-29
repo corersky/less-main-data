@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-07-19 11:59 ansible.install-locales-master/
+-rw-rw-r-- root/root        63 2016-07-19 11:59 ansible.install-locales-master/README.md
+drwxrwxr-x root/root         0 2016-07-19 11:59 ansible.install-locales-master/meta/
+-rw-rw-r-- root/root       276 2016-07-19 11:59 ansible.install-locales-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-19 11:59 ansible.install-locales-master/tasks/
+-rw-rw-r-- root/root       317 2016-07-19 11:59 ansible.install-locales-master/tasks/bashd.yml
+-rw-rw-r-- root/root       606 2016-07-19 11:59 ansible.install-locales-master/tasks/locale.yml
+-rw-rw-r-- root/root        45 2016-07-19 11:59 ansible.install-locales-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-19 11:59 ansible.install-locales-master/templates/
+-rw-rw-r-- root/root        81 2016-07-19 11:59 ansible.install-locales-master/templates/locale.j2
+-rw-rw-r-- root/root       111 2016-07-19 11:59 ansible.install-locales-master/templates/locale.rc.j2
+-rw-rw-r-- root/root        15 2016-07-19 11:59 ansible.install-locales-master/templates/timezone.j2
+drwxrwxr-x root/root         0 2016-07-19 11:59 ansible.install-locales-master/vars/
+-rw-rw-r-- root/root        49 2016-07-19 11:59 ansible.install-locales-master/vars/main.yml

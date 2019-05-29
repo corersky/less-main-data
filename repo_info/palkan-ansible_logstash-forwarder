@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-26 06:43 logstash-forwarder-master/
+-rw-rw-r-- root/root       953 2015-06-26 06:43 logstash-forwarder-master/README.md
+drwxrwxr-x root/root         0 2015-06-26 06:43 logstash-forwarder-master/defaults/
+-rw-rw-r-- root/root       304 2015-06-26 06:43 logstash-forwarder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-26 06:43 logstash-forwarder-master/handlers/
+-rw-rw-r-- root/root       101 2015-06-26 06:43 logstash-forwarder-master/handlers/main.yml
+-rw-rw-r-- root/root      5621 2015-06-26 06:43 logstash-forwarder-master/lc-tlscert.go
+drwxrwxr-x root/root         0 2015-06-26 06:43 logstash-forwarder-master/meta/
+-rw-rw-r-- root/root       242 2015-06-26 06:43 logstash-forwarder-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-26 06:43 logstash-forwarder-master/tasks/
+-rw-rw-r-- root/root       569 2015-06-26 06:43 logstash-forwarder-master/tasks/logstash_forwarder.yml
+-rw-rw-r-- root/root        61 2015-06-26 06:43 logstash-forwarder-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-26 06:43 logstash-forwarder-master/templates/
+-rw-rw-r-- root/root       342 2015-06-26 06:43 logstash-forwarder-master/templates/logstash-forwarder.conf.j2

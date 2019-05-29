@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-19 22:53 ansible-role-rustup-master/
+-rw-rw-r-- root/root       539 2017-11-19 22:53 ansible-role-rustup-master/.travis.yml
+-rw-rw-r-- root/root      1319 2017-11-19 22:53 ansible-role-rustup-master/LICENSE
+-rw-rw-r-- root/root      3324 2017-11-19 22:53 ansible-role-rustup-master/README.md
+drwxrwxr-x root/root         0 2017-11-19 22:53 ansible-role-rustup-master/defaults/
+-rw-rw-r-- root/root       793 2017-11-19 22:53 ansible-role-rustup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-19 22:53 ansible-role-rustup-master/meta/
+-rw-rw-r-- root/root      1540 2017-11-19 22:53 ansible-role-rustup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-19 22:53 ansible-role-rustup-master/tasks/
+-rw-rw-r-- root/root       926 2017-11-19 22:53 ansible-role-rustup-master/tasks/autocomplete.yml
+-rw-rw-r-- root/root       142 2017-11-19 22:53 ansible-role-rustup-master/tasks/common.yml
+-rw-rw-r-- root/root       258 2017-11-19 22:53 ansible-role-rustup-master/tasks/main.yml
+-rw-rw-r-- root/root       668 2017-11-19 22:53 ansible-role-rustup-master/tasks/specific.yml
+drwxrwxr-x root/root         0 2017-11-19 22:53 ansible-role-rustup-master/tests/
+-rw-rw-r-- root/root         9 2017-11-19 22:53 ansible-role-rustup-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-11-19 22:53 ansible-role-rustup-master/tests/test.yml

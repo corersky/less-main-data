@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-02-06 11:06 ansible-mandrill_webhook-master/
+-rw-rw-r-- root/root      1674 2017-02-06 11:06 ansible-mandrill_webhook-master/README.md
+drwxrwxr-x root/root         0 2017-02-06 11:06 ansible-mandrill_webhook-master/defaults/
+-rw-rw-r-- root/root       370 2017-02-06 11:06 ansible-mandrill_webhook-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-06 11:06 ansible-mandrill_webhook-master/meta/
+-rw-rw-r-- root/root       420 2017-02-06 11:06 ansible-mandrill_webhook-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-06 11:06 ansible-mandrill_webhook-master/tasks/
+-rw-rw-r-- root/root       266 2017-02-06 11:06 ansible-mandrill_webhook-master/tasks/add_webhook.yml
+-rw-rw-r-- root/root       157 2017-02-06 11:06 ansible-mandrill_webhook-master/tasks/main.yml
+-rw-rw-r-- root/root       205 2017-02-06 11:06 ansible-mandrill_webhook-master/tasks/remove_webhook.yml

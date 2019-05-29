@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-02 16:27 ansible-rpmfusion-master/
+-rw-rw-r-- root/root       206 2018-11-02 16:27 ansible-rpmfusion-master/README.md
+drwxrwxr-x root/root         0 2018-11-02 16:27 ansible-rpmfusion-master/defaults/
+-rw-rw-r-- root/root        33 2018-11-02 16:27 ansible-rpmfusion-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-02 16:27 ansible-rpmfusion-master/handlers/
+-rw-rw-r-- root/root        33 2018-11-02 16:27 ansible-rpmfusion-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-02 16:27 ansible-rpmfusion-master/meta/
+-rw-rw-r-- root/root       211 2018-11-02 16:27 ansible-rpmfusion-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-02 16:27 ansible-rpmfusion-master/tasks/
+-rw-rw-r-- root/root       355 2018-11-02 16:27 ansible-rpmfusion-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-02 16:27 ansible-rpmfusion-master/tests/
+-rw-rw-r-- root/root        11 2018-11-02 16:27 ansible-rpmfusion-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-11-02 16:27 ansible-rpmfusion-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-02 16:27 ansible-rpmfusion-master/vars/
+-rw-rw-r-- root/root        29 2018-11-02 16:27 ansible-rpmfusion-master/vars/main.yml

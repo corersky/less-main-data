@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-01 09:10 ansible-role-paxctld-master/
+-rw-rw-r-- root/root      4508 2017-11-01 09:10 ansible-role-paxctld-master/README.md
+drwxrwxr-x root/root         0 2017-11-01 09:10 ansible-role-paxctld-master/defaults/
+-rw-rw-r-- root/root      3447 2017-11-01 09:10 ansible-role-paxctld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-01 09:10 ansible-role-paxctld-master/examples/
+-rw-rw-r-- root/root       127 2017-11-01 09:10 ansible-role-paxctld-master/examples/paxctld.yml
+drwxrwxr-x root/root         0 2017-11-01 09:10 ansible-role-paxctld-master/files/
+-rw-rw-r-- root/root      5717 2017-11-01 09:10 ansible-role-paxctld-master/files/spender-gpg-key.asc
+drwxrwxr-x root/root         0 2017-11-01 09:10 ansible-role-paxctld-master/handlers/
+-rw-rw-r-- root/root        92 2017-11-01 09:10 ansible-role-paxctld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-01 09:10 ansible-role-paxctld-master/meta/
+-rw-rw-r-- root/root       292 2017-11-01 09:10 ansible-role-paxctld-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-01 09:10 ansible-role-paxctld-master/tasks/
+-rw-rw-r-- root/root      1789 2017-11-01 09:10 ansible-role-paxctld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-01 09:10 ansible-role-paxctld-master/templates/
+-rw-rw-r-- root/root       124 2017-11-01 09:10 ansible-role-paxctld-master/templates/paxctld.conf.j2

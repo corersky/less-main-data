@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-28 13:25 ansible-mosquitto-master/
+-rw-rw-r-- root/root       937 2016-07-28 13:25 ansible-mosquitto-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-07-28 13:25 ansible-mosquitto-master/LICENSE.md
+-rw-rw-r-- root/root      2644 2016-07-28 13:25 ansible-mosquitto-master/README.md
+drwxrwxr-x root/root         0 2016-07-28 13:25 ansible-mosquitto-master/defaults/
+-rw-rw-r-- root/root       323 2016-07-28 13:25 ansible-mosquitto-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-28 13:25 ansible-mosquitto-master/handlers/
+-rw-rw-r-- root/root       127 2016-07-28 13:25 ansible-mosquitto-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-28 13:25 ansible-mosquitto-master/meta/
+-rw-rw-r-- root/root       349 2016-07-28 13:25 ansible-mosquitto-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-28 13:25 ansible-mosquitto-master/tasks/
+-rw-rw-r-- root/root       866 2016-07-28 13:25 ansible-mosquitto-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-28 13:25 ansible-mosquitto-master/templates/
+-rw-rw-r-- root/root      3566 2016-07-28 13:25 ansible-mosquitto-master/templates/mosquitto.conf.j2
+drwxrwxr-x root/root         0 2016-07-28 13:25 ansible-mosquitto-master/tests/
+-rwxrwxr-x root/root      1238 2016-07-28 13:25 ansible-mosquitto-master/tests/run.sh
+-rw-rw-r-- root/root        74 2016-07-28 13:25 ansible-mosquitto-master/tests/test.yml

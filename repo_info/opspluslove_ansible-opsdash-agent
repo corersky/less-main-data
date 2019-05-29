@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-29 14:31 ansible-opsdash-agent-master/
+-rw-rw-r-- root/root       539 2018-06-29 14:31 ansible-opsdash-agent-master/.travis.yml
+-rw-rw-r-- root/root      1108 2018-06-29 14:31 ansible-opsdash-agent-master/LICENSE
+-rw-rw-r-- root/root       661 2018-06-29 14:31 ansible-opsdash-agent-master/README.md
+drwxrwxr-x root/root         0 2018-06-29 14:31 ansible-opsdash-agent-master/defaults/
+-rw-rw-r-- root/root       316 2018-06-29 14:31 ansible-opsdash-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-29 14:31 ansible-opsdash-agent-master/meta/
+-rw-rw-r-- root/root       293 2018-06-29 14:31 ansible-opsdash-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-29 14:31 ansible-opsdash-agent-master/tasks/
+-rw-rw-r-- root/root       586 2018-06-29 14:31 ansible-opsdash-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-29 14:31 ansible-opsdash-agent-master/templates/
+-rw-rw-r-- root/root      1927 2018-06-29 14:31 ansible-opsdash-agent-master/templates/agent.cfg
+drwxrwxr-x root/root         0 2018-06-29 14:31 ansible-opsdash-agent-master/tests/
+-rw-rw-r-- root/root         9 2018-06-29 14:31 ansible-opsdash-agent-master/tests/inventory
+-rw-rw-r-- root/root        79 2018-06-29 14:31 ansible-opsdash-agent-master/tests/test.yml

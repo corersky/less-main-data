@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-26 21:55 ansible-php7-master/
+-rw-rw-r-- root/root       358 2019-03-26 21:55 ansible-php7-master/README.md
+drwxrwxr-x root/root         0 2019-03-26 21:55 ansible-php7-master/defaults/
+-rw-rw-r-- root/root      1450 2019-03-26 21:55 ansible-php7-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-26 21:55 ansible-php7-master/handlers/
+-rw-rw-r-- root/root       125 2019-03-26 21:55 ansible-php7-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-26 21:55 ansible-php7-master/meta/
+-rw-rw-r-- root/root       292 2019-03-26 21:55 ansible-php7-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-26 21:55 ansible-php7-master/tasks/
+-rw-rw-r-- root/root       679 2019-03-26 21:55 ansible-php7-master/tasks/dotdeb-uninstall.yml
+-rw-rw-r-- root/root       544 2019-03-26 21:55 ansible-php7-master/tasks/main.yml
+-rw-rw-r-- root/root       395 2019-03-26 21:55 ansible-php7-master/tasks/sury-install.yml
+drwxrwxr-x root/root         0 2019-03-26 21:55 ansible-php7-master/templates/
+-rw-rw-r-- root/root       813 2019-03-26 21:55 ansible-php7-master/templates/php-fpm.conf.j2
+-rw-rw-r-- root/root       469 2019-03-26 21:55 ansible-php7-master/templates/php.ini.j2

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-09-12 03:01 ansible-puppet-master/
+-rw-rw-r-- root/root      1328 2015-09-12 03:01 ansible-puppet-master/README.md
+drwxrwxr-x root/root         0 2015-09-12 03:01 ansible-puppet-master/defaults/
+-rw-rw-r-- root/root        31 2015-09-12 03:01 ansible-puppet-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-12 03:01 ansible-puppet-master/handlers/
+-rw-rw-r-- root/root        31 2015-09-12 03:01 ansible-puppet-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-12 03:01 ansible-puppet-master/meta/
+-rw-rw-r-- root/root      2329 2015-09-12 03:01 ansible-puppet-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-12 03:01 ansible-puppet-master/tasks/
+-rw-rw-r-- root/root       249 2015-09-12 03:01 ansible-puppet-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-12 03:01 ansible-puppet-master/vars/
+-rw-rw-r-- root/root        27 2015-09-12 03:01 ansible-puppet-master/vars/main.yml

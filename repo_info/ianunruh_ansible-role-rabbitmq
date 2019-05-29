@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/
+-rw-rw-r-- root/root         9 2015-08-19 22:05 ansible-role-rabbitmq-master/.gitignore
+-rw-rw-r-- root/root     11358 2015-08-19 22:05 ansible-role-rabbitmq-master/LICENSE.txt
+-rw-rw-r-- root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/defaults/
+-rw-rw-r-- root/root       128 2015-08-19 22:05 ansible-role-rabbitmq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/handlers/
+-rw-rw-r-- root/root        83 2015-08-19 22:05 ansible-role-rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/meta/
+-rw-rw-r-- root/root       325 2015-08-19 22:05 ansible-role-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/tasks/
+-rw-rw-r-- root/root       568 2015-08-19 22:05 ansible-role-rabbitmq-master/tasks/install.yml
+-rw-rw-r-- root/root       974 2015-08-19 22:05 ansible-role-rabbitmq-master/tasks/main.yml
+-rw-rw-r-- root/root       257 2015-08-19 22:05 ansible-role-rabbitmq-master/tasks/reset_rabbitmq.yml
+drwxrwxr-x root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/templates/
+-rw-rw-r-- root/root        22 2015-08-19 22:05 ansible-role-rabbitmq-master/templates/cookie.j2
+-rw-rw-r-- root/root       372 2015-08-19 22:05 ansible-role-rabbitmq-master/templates/rabbitmq.config.j2
+drwxrwxr-x root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/vagrant/
+-rw-rw-r-- root/root       708 2015-08-19 22:05 ansible-role-rabbitmq-master/vagrant/Vagrantfile
+-rw-rw-r-- root/root       320 2015-08-19 22:05 ansible-role-rabbitmq-master/vagrant/playbook.yml
+drwxrwxr-x root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/vagrant/roles/
+lrwxrwxrwx root/root         0 2015-08-19 22:05 ansible-role-rabbitmq-master/vagrant/roles/rabbitmq -> ../../

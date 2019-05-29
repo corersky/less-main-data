@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-02-24 13:00 ansible-common-master/
+-rw-rw-r-- root/root        30 2015-02-24 13:00 ansible-common-master/.gitignore
+-rw-rw-r-- root/root       281 2015-02-24 13:00 ansible-common-master/.travis.yml
+-rw-rw-r-- root/root      1197 2015-02-24 13:00 ansible-common-master/LICENSE
+-rw-rw-r-- root/root       126 2015-02-24 13:00 ansible-common-master/README.md
+drwxrwxr-x root/root         0 2015-02-24 13:00 ansible-common-master/defaults/
+-rw-rw-r-- root/root        96 2015-02-24 13:00 ansible-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-24 13:00 ansible-common-master/meta/
+-rw-rw-r-- root/root       351 2015-02-24 13:00 ansible-common-master/meta/main.yml
+-rw-rw-r-- root/root        16 2015-02-24 13:00 ansible-common-master/requirements.txt
+drwxrwxr-x root/root         0 2015-02-24 13:00 ansible-common-master/tasks/
+-rw-rw-r-- root/root       769 2015-02-24 13:00 ansible-common-master/tasks/main.yml
+-rw-rw-r-- root/root       104 2015-02-24 13:00 ansible-common-master/test_role.yml
+drwxrwxr-x root/root         0 2015-02-24 13:00 ansible-common-master/vagrant/
+-rw-rw-r-- root/root       480 2015-02-24 13:00 ansible-common-master/vagrant/Vagrantfile
+-rw-rw-r-- root/root        38 2015-02-24 13:00 ansible-common-master/vagrant/inventory

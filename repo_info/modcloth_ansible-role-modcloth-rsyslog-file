@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/
+-rw-rw-r-- root/root       779 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/README.md
+drwxrwxr-x root/root         0 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/defaults/
+-rw-rw-r-- root/root        56 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/handlers/
+-rw-rw-r-- root/root        69 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/meta/
+-rw-rw-r-- root/root       346 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/tasks/
+-rw-rw-r-- root/root       281 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/templates/
+-rw-rw-r-- root/root       305 2014-11-07 20:14 ansible-role-modcloth-rsyslog-file-master/templates/rsyslog-service.conf.j2

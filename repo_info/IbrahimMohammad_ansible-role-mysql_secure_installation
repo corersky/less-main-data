@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/
+-rw-rw-r-- root/root      1029 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/README.md
+drwxrwxr-x root/root         0 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/defaults/
+-rw-rw-r-- root/root       517 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/handlers/
+-rw-rw-r-- root/root        62 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/meta/
+-rw-rw-r-- root/root      1230 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/tasks/
+-rw-rw-r-- root/root      1417 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/tests/
+-rw-rw-r-- root/root        11 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/tests/inventory
+-rw-rw-r-- root/root        96 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/vars/
+-rw-rw-r-- root/root        58 2018-02-17 10:23 ansible-role-mysql_secure_installation-master/vars/main.yml

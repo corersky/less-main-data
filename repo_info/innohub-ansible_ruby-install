@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-11-04 02:41 ruby-install-master/
+-rw-rw-r-- root/root         9 2015-11-04 02:41 ruby-install-master/.gitignore
+-rw-rw-r-- root/root       339 2015-11-04 02:41 ruby-install-master/.travis.yml
+-rw-rw-r-- root/root      1085 2015-11-04 02:41 ruby-install-master/LICENSE
+-rw-rw-r-- root/root       764 2015-11-04 02:41 ruby-install-master/README.md
+-rw-rw-r-- root/root      4960 2015-11-04 02:41 ruby-install-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-11-04 02:41 ruby-install-master/defaults/
+-rw-rw-r-- root/root        70 2015-11-04 02:41 ruby-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-04 02:41 ruby-install-master/meta/
+-rw-rw-r-- root/root       267 2015-11-04 02:41 ruby-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-04 02:41 ruby-install-master/tasks/
+-rw-rw-r-- root/root      1403 2015-11-04 02:41 ruby-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-04 02:41 ruby-install-master/templates/
+-rw-rw-r-- root/root        59 2015-11-04 02:41 ruby-install-master/templates/ruby_install.fact
+-rw-rw-r-- root/root        90 2015-11-04 02:41 ruby-install-master/test.yml

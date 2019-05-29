@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-24 15:40 ansible-role-handbrake-master/
+-rw-rw-r-- root/root         3 2019-03-24 15:40 ansible-role-handbrake-master/.gitignore
+-rw-rw-r-- root/root      2745 2019-03-24 15:40 ansible-role-handbrake-master/.travis.yml
+-rw-rw-r-- root/root       535 2019-03-24 15:40 ansible-role-handbrake-master/README.md
+-rw-rw-r-- root/root       331 2019-03-24 15:40 ansible-role-handbrake-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-24 15:40 ansible-role-handbrake-master/meta/
+-rw-rw-r-- root/root      3539 2019-03-24 15:40 ansible-role-handbrake-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 15:40 ansible-role-handbrake-master/tasks/
+-rw-rw-r-- root/root       425 2019-03-24 15:40 ansible-role-handbrake-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3170 2019-03-24 15:40 ansible-role-handbrake-master/tasks/compat.yml
+-rw-rw-r-- root/root       493 2019-03-24 15:40 ansible-role-handbrake-master/tasks/get_key.yml
+-rw-rw-r-- root/root       236 2019-03-24 15:40 ansible-role-handbrake-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       567 2019-03-24 15:40 ansible-role-handbrake-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 15:40 ansible-role-handbrake-master/templates/
+-rw-rw-r-- root/root       204 2019-03-24 15:40 ansible-role-handbrake-master/templates/stebbins-handbrake.list.j2
+drwxrwxr-x root/root         0 2019-03-24 15:40 ansible-role-handbrake-master/vars/
+-rw-rw-r-- root/root        32 2019-03-24 15:40 ansible-role-handbrake-master/vars/default.yml

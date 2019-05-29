@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-03-10 16:24 ansible-role-aws-cli-master/
+-rw-rw-r-- root/root         8 2019-03-10 16:24 ansible-role-aws-cli-master/.gitignore
+-rw-rw-r-- root/root       551 2019-03-10 16:24 ansible-role-aws-cli-master/README.md
+drwxrwxr-x root/root         0 2019-03-10 16:24 ansible-role-aws-cli-master/defaults/
+-rw-rw-r-- root/root       110 2019-03-10 16:24 ansible-role-aws-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-10 16:24 ansible-role-aws-cli-master/meta/
+-rw-rw-r-- root/root       360 2019-03-10 16:24 ansible-role-aws-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-10 16:24 ansible-role-aws-cli-master/tasks/
+-rw-rw-r-- root/root       997 2019-03-10 16:24 ansible-role-aws-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-10 16:24 ansible-role-aws-cli-master/templates/
+-rw-rw-r-- root/root        85 2019-03-10 16:24 ansible-role-aws-cli-master/templates/config.tpl

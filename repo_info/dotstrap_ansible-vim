@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-04 19:11 ansible-vim-master/
+-rw-rw-r-- root/root       625 2016-09-04 19:11 ansible-vim-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-09-04 19:11 ansible-vim-master/LICENSE
+-rw-rw-r-- root/root      1260 2016-09-04 19:11 ansible-vim-master/README.md
+drwxrwxr-x root/root         0 2016-09-04 19:11 ansible-vim-master/defaults/
+-rw-rw-r-- root/root      1122 2016-09-04 19:11 ansible-vim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-04 19:11 ansible-vim-master/meta/
+-rw-rw-r-- root/root       307 2016-09-04 19:11 ansible-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-04 19:11 ansible-vim-master/tasks/
+-rw-rw-r-- root/root       746 2016-09-04 19:11 ansible-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-04 19:11 ansible-vim-master/tests/
+-rw-rw-r-- root/root        10 2016-09-04 19:11 ansible-vim-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-09-04 19:11 ansible-vim-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-04 19:11 ansible-vim-master/vars/
+-rw-rw-r-- root/root       179 2016-09-04 19:11 ansible-vim-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-08-01 03:39 mfcloud-ansible-role-master/
+-rw-rw-r-- root/root      1095 2014-08-01 03:39 mfcloud-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2014-08-01 03:39 mfcloud-ansible-role-master/defaults/
+-rw-rw-r-- root/root        46 2014-08-01 03:39 mfcloud-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-01 03:39 mfcloud-ansible-role-master/handlers/
+-rw-rw-r-- root/root       112 2014-08-01 03:39 mfcloud-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-08-01 03:39 mfcloud-ansible-role-master/meta/
+-rw-rw-r-- root/root      2091 2014-08-01 03:39 mfcloud-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-01 03:39 mfcloud-ansible-role-master/tasks/
+-rw-rw-r-- root/root      1008 2014-08-01 03:39 mfcloud-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-01 03:39 mfcloud-ansible-role-master/templates/
+-rw-rw-r-- root/root       909 2014-08-01 03:39 mfcloud-ansible-role-master/templates/haproxy.cfg
+-rw-rw-r-- root/root       211 2014-08-01 03:39 mfcloud-ansible-role-master/templates/upstart.conf
+drwxrwxr-x root/root         0 2014-08-01 03:39 mfcloud-ansible-role-master/vars/
+-rw-rw-r-- root/root        42 2014-08-01 03:39 mfcloud-ansible-role-master/vars/main.yml

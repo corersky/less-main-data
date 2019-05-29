@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2019-04-21 10:29 ansible-role-ohmyzsh-master/
+-rw-rw-r-- root/root      1203 2019-04-21 10:29 ansible-role-ohmyzsh-master/.gitignore
+-rw-rw-r-- root/root      1072 2019-04-21 10:29 ansible-role-ohmyzsh-master/LICENSE
+-rw-rw-r-- root/root      2001 2019-04-21 10:29 ansible-role-ohmyzsh-master/README.md
+drwxrwxr-x root/root         0 2019-04-21 10:29 ansible-role-ohmyzsh-master/defaults/
+-rw-rw-r-- root/root       601 2019-04-21 10:29 ansible-role-ohmyzsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-21 10:29 ansible-role-ohmyzsh-master/meta/
+-rw-rw-r-- root/root       561 2019-04-21 10:29 ansible-role-ohmyzsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-21 10:29 ansible-role-ohmyzsh-master/tasks/
+-rw-rw-r-- root/root      1020 2019-04-21 10:29 ansible-role-ohmyzsh-master/tasks/main.yml
+-rw-rw-r-- root/root      1415 2019-04-21 10:29 ansible-role-ohmyzsh-master/tasks/ohmyzsh.yml
+drwxrwxr-x root/root         0 2019-04-21 10:29 ansible-role-ohmyzsh-master/templates/
+-rw-rw-r-- root/root      3490 2019-04-21 10:29 ansible-role-ohmyzsh-master/templates/zshrc.j2
+drwxrwxr-x root/root         0 2019-04-21 10:29 ansible-role-ohmyzsh-master/tests/
+-rw-rw-r-- root/root        11 2019-04-21 10:29 ansible-role-ohmyzsh-master/tests/inventory
+-rw-rw-r-- root/root        78 2019-04-21 10:29 ansible-role-ohmyzsh-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-21 10:29 ansible-role-ohmyzsh-master/vars/
+-rw-rw-r-- root/root        31 2019-04-21 10:29 ansible-role-ohmyzsh-master/vars/CentOS-7.yml
+-rw-rw-r-- root/root        31 2019-04-21 10:29 ansible-role-ohmyzsh-master/vars/Debian-9.yml
+-rw-rw-r-- root/root        31 2019-04-21 10:29 ansible-role-ohmyzsh-master/vars/Linux Mint-19.yml
+-rw-rw-r-- root/root        31 2019-04-21 10:29 ansible-role-ohmyzsh-master/vars/Ubuntu-18.yml

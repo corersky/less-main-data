@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-29 22:55 ansible-role-osx-rbenv-master/
+-rw-rw-r-- root/root       500 2016-05-29 22:55 ansible-role-osx-rbenv-master/README.md
+drwxrwxr-x root/root         0 2016-05-29 22:55 ansible-role-osx-rbenv-master/defaults/
+-rw-rw-r-- root/root        73 2016-05-29 22:55 ansible-role-osx-rbenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-29 22:55 ansible-role-osx-rbenv-master/handlers/
+-rw-rw-r-- root/root        81 2016-05-29 22:55 ansible-role-osx-rbenv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-29 22:55 ansible-role-osx-rbenv-master/meta/
+-rw-rw-r-- root/root       255 2016-05-29 22:55 ansible-role-osx-rbenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-29 22:55 ansible-role-osx-rbenv-master/tasks/
+-rw-rw-r-- root/root       949 2016-05-29 22:55 ansible-role-osx-rbenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-29 22:55 ansible-role-osx-rbenv-master/templates/
+-rw-rw-r-- root/root        48 2016-05-29 22:55 ansible-role-osx-rbenv-master/templates/rbenv.zsh.j2

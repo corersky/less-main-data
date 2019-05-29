@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-03-11 21:53 ansible-role-mounts-master/
+-rw-rw-r-- root/root      1514 2018-03-11 21:53 ansible-role-mounts-master/LICENSE
+-rw-rw-r-- root/root       332 2018-03-11 21:53 ansible-role-mounts-master/README.md
+drwxrwxr-x root/root         0 2018-03-11 21:53 ansible-role-mounts-master/defaults/
+-rw-rw-r-- root/root       675 2018-03-11 21:53 ansible-role-mounts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-11 21:53 ansible-role-mounts-master/meta/
+-rw-rw-r-- root/root       259 2018-03-11 21:53 ansible-role-mounts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-11 21:53 ansible-role-mounts-master/tasks/
+-rw-rw-r-- root/root       353 2018-03-11 21:53 ansible-role-mounts-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2018-03-11 21:53 ansible-role-mounts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-11 21:53 ansible-role-mounts-master/templates/
+-rw-rw-r-- root/root       181 2018-03-11 21:53 ansible-role-mounts-master/templates/mount.j2

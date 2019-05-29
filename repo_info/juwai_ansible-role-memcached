@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-16 03:14 ansible-role-memcached-master/
+drwxrwxr-x root/root         0 2016-05-16 03:14 ansible-role-memcached-master/.github/
+-rw-rw-r-- root/root       405 2016-05-16 03:14 ansible-role-memcached-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root       916 2016-05-16 03:14 ansible-role-memcached-master/README.md
+drwxrwxr-x root/root         0 2016-05-16 03:14 ansible-role-memcached-master/defaults/
+-rw-rw-r-- root/root        88 2016-05-16 03:14 ansible-role-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-16 03:14 ansible-role-memcached-master/handlers/
+-rw-rw-r-- root/root       172 2016-05-16 03:14 ansible-role-memcached-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-16 03:14 ansible-role-memcached-master/meta/
+-rw-rw-r-- root/root       309 2016-05-16 03:14 ansible-role-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-16 03:14 ansible-role-memcached-master/tasks/
+-rw-rw-r-- root/root       865 2016-05-16 03:14 ansible-role-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-16 03:14 ansible-role-memcached-master/templates/
+-rw-rw-r-- root/root        51 2016-05-16 03:14 ansible-role-memcached-master/templates/example.j2
+drwxrwxr-x root/root         0 2016-05-16 03:14 ansible-role-memcached-master/vars/
+-rw-rw-r-- root/root        42 2016-05-16 03:14 ansible-role-memcached-master/vars/main.yml

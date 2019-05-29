@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-10-04 04:21 ansible-logzio-alert-master/
+-rw-rw-r-- root/root        13 2017-10-04 04:21 ansible-logzio-alert-master/.gitignore
+-rw-rw-r-- root/root       561 2017-10-04 04:21 ansible-logzio-alert-master/.travis.yml
+-rw-rw-r-- root/root      1077 2017-10-04 04:21 ansible-logzio-alert-master/LICENSE.md
+-rw-rw-r-- root/root      3932 2017-10-04 04:21 ansible-logzio-alert-master/README.md
+drwxrwxr-x root/root         0 2017-10-04 04:21 ansible-logzio-alert-master/library/
+-rw-rw-r-- root/root     14946 2017-10-04 04:21 ansible-logzio-alert-master/library/logzio_alert.py
+drwxrwxr-x root/root         0 2017-10-04 04:21 ansible-logzio-alert-master/meta/
+-rw-rw-r-- root/root       263 2017-10-04 04:21 ansible-logzio-alert-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-04 04:21 ansible-logzio-alert-master/tests/
+-rw-rw-r-- root/root         9 2017-10-04 04:21 ansible-logzio-alert-master/tests/inventory
+-rw-rw-r-- root/root       406 2017-10-04 04:21 ansible-logzio-alert-master/tests/test.yml

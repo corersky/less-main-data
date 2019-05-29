@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-openvpn-client-master/
+-rwxrwxr-x root/root      1012 2018-11-29 08:26 ansible-role-openvpn-client-master/.travis.yml
+-rw-rw-r-- root/root       401 2018-11-29 08:26 ansible-role-openvpn-client-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-openvpn-client-master/defaults/
+-rw-rw-r-- root/root        38 2018-11-29 08:26 ansible-role-openvpn-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-openvpn-client-master/handlers/
+-rw-rw-r-- root/root        98 2018-11-29 08:26 ansible-role-openvpn-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-openvpn-client-master/meta/
+-rw-rw-r-- root/root       295 2018-11-29 08:26 ansible-role-openvpn-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-openvpn-client-master/tasks/
+-rw-rw-r-- root/root       512 2018-11-29 08:26 ansible-role-openvpn-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-openvpn-client-master/tests/
+-rw-rw-r-- root/root        10 2018-11-29 08:26 ansible-role-openvpn-client-master/tests/inventory
+-rw-rw-r-- root/root       624 2018-11-29 08:26 ansible-role-openvpn-client-master/tests/openvpn-dummy-config.ovpn
+-rw-rw-r-- root/root       154 2018-11-29 08:26 ansible-role-openvpn-client-master/tests/test.yml

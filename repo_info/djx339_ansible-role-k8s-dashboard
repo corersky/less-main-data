@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-06 20:24 ansible-role-k8s-dashboard-master/
+-rw-rw-r-- root/root       665 2018-02-06 20:24 ansible-role-k8s-dashboard-master/README.md
+drwxrwxr-x root/root         0 2018-02-06 20:24 ansible-role-k8s-dashboard-master/defaults/
+-rw-rw-r-- root/root       135 2018-02-06 20:24 ansible-role-k8s-dashboard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-06 20:24 ansible-role-k8s-dashboard-master/handlers/
+-rw-rw-r-- root/root        37 2018-02-06 20:24 ansible-role-k8s-dashboard-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-06 20:24 ansible-role-k8s-dashboard-master/meta/
+-rw-rw-r-- root/root      1086 2018-02-06 20:24 ansible-role-k8s-dashboard-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-06 20:24 ansible-role-k8s-dashboard-master/tasks/
+-rw-rw-r-- root/root       133 2018-02-06 20:24 ansible-role-k8s-dashboard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-06 20:24 ansible-role-k8s-dashboard-master/tests/
+-rw-rw-r-- root/root        11 2018-02-06 20:24 ansible-role-k8s-dashboard-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-02-06 20:24 ansible-role-k8s-dashboard-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-06 20:24 ansible-role-k8s-dashboard-master/vars/
+-rw-rw-r-- root/root        33 2018-02-06 20:24 ansible-role-k8s-dashboard-master/vars/main.yml

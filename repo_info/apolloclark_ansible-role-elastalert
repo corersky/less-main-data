@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-26 16:04 ansible-role-elastalert-master/
+-rw-rw-r-- root/root         8 2019-04-26 16:04 ansible-role-elastalert-master/.gitignore
+-rw-rw-r-- root/root       572 2019-04-26 16:04 ansible-role-elastalert-master/README.md
+drwxrwxr-x root/root         0 2019-04-26 16:04 ansible-role-elastalert-master/defaults/
+-rw-rw-r-- root/root       677 2019-04-26 16:04 ansible-role-elastalert-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-26 16:04 ansible-role-elastalert-master/handlers/
+-rw-rw-r-- root/root       162 2019-04-26 16:04 ansible-role-elastalert-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-26 16:04 ansible-role-elastalert-master/meta/
+-rw-rw-r-- root/root       370 2019-04-26 16:04 ansible-role-elastalert-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-26 16:04 ansible-role-elastalert-master/tasks/
+-rw-rw-r-- root/root      3297 2019-04-26 16:04 ansible-role-elastalert-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-26 16:04 ansible-role-elastalert-master/templates/
+-rw-rw-r-- root/root      3258 2019-04-26 16:04 ansible-role-elastalert-master/templates/config.yaml
+-rw-rw-r-- root/root       314 2019-04-26 16:04 ansible-role-elastalert-master/templates/elastalert.service
+-rw-rw-r-- root/root       284 2019-04-26 16:04 ansible-role-elastalert-master/templates/frequency.yaml

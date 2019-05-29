@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-04-14 19:51 ansible-role-cloudstack-agent-master/
+-rwxrwxr-x root/root       697 2016-04-14 19:51 ansible-role-cloudstack-agent-master/README.md
+-rwxrwxr-x root/root        28 2016-04-14 19:51 ansible-role-cloudstack-agent-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-04-14 19:51 ansible-role-cloudstack-agent-master/defaults/
+-rwxrwxr-x root/root       132 2016-04-14 19:51 ansible-role-cloudstack-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:51 ansible-role-cloudstack-agent-master/handlers/
+-rwxrwxr-x root/root       115 2016-04-14 19:51 ansible-role-cloudstack-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:51 ansible-role-cloudstack-agent-master/meta/
+-rwxrwxr-x root/root       265 2016-04-14 19:51 ansible-role-cloudstack-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:51 ansible-role-cloudstack-agent-master/tasks/
+-rwxrwxr-x root/root      1775 2016-04-14 19:51 ansible-role-cloudstack-agent-master/tasks/main.yml
+-rwxrwxr-x root/root       469 2016-04-14 19:51 ansible-role-cloudstack-agent-master/tasks/tuned.yml
+-rwxrwxr-x root/root       245 2016-04-14 19:51 ansible-role-cloudstack-agent-master/test.yml
+drwxrwxr-x root/root         0 2016-04-14 19:51 ansible-role-cloudstack-agent-master/vars/
+-rwxrwxr-x root/root        50 2016-04-14 19:51 ansible-role-cloudstack-agent-master/vars/main.yml

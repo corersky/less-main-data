@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-01-05 09:33 ansible-role-systemd-networkd-master/
+-rw-rw-r-- root/root      1507 2019-01-05 09:33 ansible-role-systemd-networkd-master/LICENSE.mkd
+-rw-rw-r-- root/root      2062 2019-01-05 09:33 ansible-role-systemd-networkd-master/README.md
+drwxrwxr-x root/root         0 2019-01-05 09:33 ansible-role-systemd-networkd-master/defaults/
+-rw-rw-r-- root/root       188 2019-01-05 09:33 ansible-role-systemd-networkd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-05 09:33 ansible-role-systemd-networkd-master/meta/
+-rw-rw-r-- root/root       357 2019-01-05 09:33 ansible-role-systemd-networkd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-05 09:33 ansible-role-systemd-networkd-master/tasks/
+-rw-rw-r-- root/root       481 2019-01-05 09:33 ansible-role-systemd-networkd-master/tasks/main.yml
+-rw-rw-r-- root/root       615 2019-01-05 09:33 ansible-role-systemd-networkd-master/tasks/profiles.yml
+drwxrwxr-x root/root         0 2019-01-05 09:33 ansible-role-systemd-networkd-master/templates/
+-rw-rw-r-- root/root       389 2019-01-05 09:33 ansible-role-systemd-networkd-master/templates/systemd_networkd_profile.j2

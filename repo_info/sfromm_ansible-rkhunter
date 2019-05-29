@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-11-12 00:05 ansible-rkhunter-master/
+-rw-rw-r-- root/root       894 2014-11-12 00:05 ansible-rkhunter-master/README.md
+drwxrwxr-x root/root         0 2014-11-12 00:05 ansible-rkhunter-master/defaults/
+-rw-rw-r-- root/root       110 2014-11-12 00:05 ansible-rkhunter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-12 00:05 ansible-rkhunter-master/handlers/
+-rw-rw-r-- root/root        87 2014-11-12 00:05 ansible-rkhunter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-12 00:05 ansible-rkhunter-master/meta/
+-rw-rw-r-- root/root      2087 2014-11-12 00:05 ansible-rkhunter-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-12 00:05 ansible-rkhunter-master/tasks/
+-rw-rw-r-- root/root       221 2014-11-12 00:05 ansible-rkhunter-master/tasks/main.yml
+-rw-rw-r-- root/root       202 2014-11-12 00:05 ansible-rkhunter-master/tasks/setup-redhat.yml
+drwxrwxr-x root/root         0 2014-11-12 00:05 ansible-rkhunter-master/templates/
+-rw-rw-r-- root/root     21065 2014-11-12 00:05 ansible-rkhunter-master/templates/rkhunter.conf.j2
+-rw-rw-r-- root/root       360 2014-11-12 00:05 ansible-rkhunter-master/templates/rkhunter.sysconfig.j2
+drwxrwxr-x root/root         0 2014-11-12 00:05 ansible-rkhunter-master/vars/
+-rw-rw-r-- root/root        29 2014-11-12 00:05 ansible-rkhunter-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-07-25 13:49 ansible-docker-registry-master/
+-rw-rw-r-- root/root        15 2017-07-25 13:49 ansible-docker-registry-master/.gitignore
+-rw-rw-r-- root/root        93 2017-07-25 13:49 ansible-docker-registry-master/README.md
+drwxrwxr-x root/root         0 2017-07-25 13:49 ansible-docker-registry-master/defaults/
+-rw-rw-r-- root/root      1376 2017-07-25 13:49 ansible-docker-registry-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-25 13:49 ansible-docker-registry-master/meta/
+-rw-rw-r-- root/root       276 2017-07-25 13:49 ansible-docker-registry-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-25 13:49 ansible-docker-registry-master/tasks/
+-rw-rw-r-- root/root       293 2017-07-25 13:49 ansible-docker-registry-master/tasks/deploy.yml
+-rw-rw-r-- root/root         0 2017-07-25 13:49 ansible-docker-registry-master/tasks/init.yml
+-rw-rw-r-- root/root        28 2017-07-25 13:49 ansible-docker-registry-master/tasks/main.yml
+-rw-rw-r-- root/root       251 2017-07-25 13:49 ansible-docker-registry-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2017-07-25 13:49 ansible-docker-registry-master/templates/
+-rw-rw-r-- root/root        58 2017-07-25 13:49 ansible-docker-registry-master/templates/docker-compose.yml.j2

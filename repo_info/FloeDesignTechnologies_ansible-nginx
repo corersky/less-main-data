@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-05-20 13:35 ansible-nginx-master/
+-rw-rw-r-- root/root     11323 2014-05-20 13:35 ansible-nginx-master/LICENSE
+-rw-rw-r-- root/root       814 2014-05-20 13:35 ansible-nginx-master/README.md
+drwxrwxr-x root/root         0 2014-05-20 13:35 ansible-nginx-master/defaults/
+-rw-rw-r-- root/root        33 2014-05-20 13:35 ansible-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-05-20 13:35 ansible-nginx-master/handlers/
+-rw-rw-r-- root/root       122 2014-05-20 13:35 ansible-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-20 13:35 ansible-nginx-master/meta/
+-rw-rw-r-- root/root       314 2014-05-20 13:35 ansible-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-20 13:35 ansible-nginx-master/tasks/
+-rw-rw-r-- root/root       486 2014-05-20 13:35 ansible-nginx-master/tasks/main.yml

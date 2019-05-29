@@ -1,0 +1,31 @@
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/
+-rw-rw-r-- root/root      1085 2019-04-24 08:19 ansible-role-dokku-master/LICENSE
+-rw-rw-r-- root/root      1826 2019-04-24 08:19 ansible-role-dokku-master/README.md
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/defaults/
+-rw-rw-r-- root/root       269 2019-04-24 08:19 ansible-role-dokku-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/examples/
+-rw-rw-r-- root/root        24 2019-04-24 08:19 ansible-role-dokku-master/examples/.gitignore
+-rw-rw-r-- root/root        31 2019-04-24 08:19 ansible-role-dokku-master/examples/.rspec
+-rw-rw-r-- root/root       160 2019-04-24 08:19 ansible-role-dokku-master/examples/Gemfile
+-rw-rw-r-- root/root       945 2019-04-24 08:19 ansible-role-dokku-master/examples/Gemfile.lock
+-rw-rw-r-- root/root       685 2019-04-24 08:19 ansible-role-dokku-master/examples/Rakefile
+-rw-rw-r-- root/root      1696 2019-04-24 08:19 ansible-role-dokku-master/examples/Vagrantfile
+-rw-rw-r-- root/root       707 2019-04-24 08:19 ansible-role-dokku-master/examples/playbook.yml
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/examples/roles/
+lrwxrwxrwx root/root         0 2019-04-24 08:19 ansible-role-dokku-master/examples/roles/znz.docker -> ../../../ansible-role-docker
+lrwxrwxrwx root/root         0 2019-04-24 08:19 ansible-role-dokku-master/examples/roles/znz.dokku -> ../..
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/examples/spec/
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/examples/spec/default/
+-rw-rw-r-- root/root       152 2019-04-24 08:19 ansible-role-dokku-master/examples/spec/default/dokku_spec.rb
+-rw-rw-r-- root/root       829 2019-04-24 08:19 ansible-role-dokku-master/examples/spec/spec_helper.rb
+lrwxrwxrwx root/root         0 2019-04-24 08:19 ansible-role-dokku-master/examples/spec/stretch64 -> default
+lrwxrwxrwx root/root         0 2019-04-24 08:19 ansible-role-dokku-master/examples/spec/xenial64 -> default
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/meta/
+-rw-rw-r-- root/root       314 2019-04-24 08:19 ansible-role-dokku-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/tasks/
+-rw-rw-r-- root/root      2200 2019-04-24 08:19 ansible-role-dokku-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/templates/
+-rw-rw-r-- root/root        61 2019-04-24 08:19 ansible-role-dokku-master/templates/client_max_body_size.conf.j2
+drwxrwxr-x root/root         0 2019-04-24 08:19 ansible-role-dokku-master/tests/
+-rw-rw-r-- root/root        10 2019-04-24 08:19 ansible-role-dokku-master/tests/inventory
+-rw-rw-r-- root/root        77 2019-04-24 08:19 ansible-role-dokku-master/tests/test.yml

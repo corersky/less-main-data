@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/
+-rw-rw-r-- root/root        24 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/.gitignore
+-rw-rw-r-- root/root      1926 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/defaults/
+-rw-rw-r-- root/root       544 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/handlers/
+-rw-rw-r-- root/root       648 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/meta/
+-rw-rw-r-- root/root       333 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/tasks/
+-rw-rw-r-- root/root      1719 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/tests/
+-rw-rw-r-- root/root       170 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/tests/README.md
+drwxrwxr-x root/root         0 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/tests/inventory/
+-rw-rw-r-- root/root        34 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/tests/inventory/localhost
+-rw-rw-r-- root/root       198 2018-07-11 12:38 ansible-role-gitlab-in-docker-master/tests/test.yml

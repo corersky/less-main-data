@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-19 01:10 ansible-galaxy-ssh-master/
+-rw-rw-r-- root/root       583 2017-10-19 01:10 ansible-galaxy-ssh-master/README.md
+drwxrwxr-x root/root         0 2017-10-19 01:10 ansible-galaxy-ssh-master/defaults/
+-rw-rw-r-- root/root        85 2017-10-19 01:10 ansible-galaxy-ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:10 ansible-galaxy-ssh-master/handlers/
+-rw-rw-r-- root/root        74 2017-10-19 01:10 ansible-galaxy-ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:10 ansible-galaxy-ssh-master/meta/
+-rw-rw-r-- root/root       220 2017-10-19 01:10 ansible-galaxy-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:10 ansible-galaxy-ssh-master/tasks/
+-rw-rw-r-- root/root       221 2017-10-19 01:10 ansible-galaxy-ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:10 ansible-galaxy-ssh-master/templates/
+-rw-rw-r-- root/root      2264 2017-10-19 01:10 ansible-galaxy-ssh-master/templates/ssh_config.j2
+-rw-rw-r-- root/root      2590 2017-10-19 01:10 ansible-galaxy-ssh-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2017-10-19 01:10 ansible-galaxy-ssh-master/tests/
+-rw-rw-r-- root/root        63 2017-10-19 01:10 ansible-galaxy-ssh-master/tests/test.yml

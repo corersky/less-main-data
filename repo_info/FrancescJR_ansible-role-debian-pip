@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-15 05:40 ansible-role-debian-pip-master/
+-rw-rw-r-- root/root        28 2018-02-15 05:40 ansible-role-debian-pip-master/.gitignore
+-rw-rw-r-- root/root       672 2018-02-15 05:40 ansible-role-debian-pip-master/.travis.yml
+-rw-rw-r-- root/root      1082 2018-02-15 05:40 ansible-role-debian-pip-master/LICENSE
+-rw-rw-r-- root/root      1157 2018-02-15 05:40 ansible-role-debian-pip-master/README.md
+drwxrwxr-x root/root         0 2018-02-15 05:40 ansible-role-debian-pip-master/defaults/
+-rw-rw-r-- root/root        28 2018-02-15 05:40 ansible-role-debian-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-15 05:40 ansible-role-debian-pip-master/meta/
+-rw-rw-r-- root/root       551 2018-02-15 05:40 ansible-role-debian-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-15 05:40 ansible-role-debian-pip-master/tasks/
+-rw-rw-r-- root/root       535 2018-02-15 05:40 ansible-role-debian-pip-master/tasks/debian.yml
+-rw-rw-r-- root/root       233 2018-02-15 05:40 ansible-role-debian-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-15 05:40 ansible-role-debian-pip-master/tests/
+-rw-rw-r-- root/root       501 2018-02-15 05:40 ansible-role-debian-pip-master/tests/README.md
+-rw-rw-r-- root/root       193 2018-02-15 05:40 ansible-role-debian-pip-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-15 05:40 ansible-role-debian-pip-master/vars/
+-rw-rw-r-- root/root        38 2018-02-15 05:40 ansible-role-debian-pip-master/vars/main.yml

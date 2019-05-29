@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-10 05:12 ansible-azure-vms-master/
+-rw-rw-r-- root/root       702 2017-05-10 05:12 ansible-azure-vms-master/.gitignore
+-rw-rw-r-- root/root     18047 2017-05-10 05:12 ansible-azure-vms-master/LICENSE
+-rw-rw-r-- root/root        69 2017-05-10 05:12 ansible-azure-vms-master/README.md
+drwxrwxr-x root/root         0 2017-05-10 05:12 ansible-azure-vms-master/defaults/
+-rw-rw-r-- root/root      3608 2017-05-10 05:12 ansible-azure-vms-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-10 05:12 ansible-azure-vms-master/library/
+-rw-rw-r-- root/root     29129 2017-05-10 05:12 ansible-azure-vms-master/library/azure_vms.py
+drwxrwxr-x root/root         0 2017-05-10 05:12 ansible-azure-vms-master/meta/
+-rw-rw-r-- root/root       203 2017-05-10 05:12 ansible-azure-vms-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-10 05:12 ansible-azure-vms-master/tasks/
+-rw-rw-r-- root/root      2109 2017-05-10 05:12 ansible-azure-vms-master/tasks/main.yml

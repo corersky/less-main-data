@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-03-28 08:37 mysql-install-master/
+-rw-rw-r-- root/root       128 2016-03-28 08:37 mysql-install-master/README.md
+drwxrwxr-x root/root         0 2016-03-28 08:37 mysql-install-master/defaults/
+-rw-rw-r-- root/root        96 2016-03-28 08:37 mysql-install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-28 08:37 mysql-install-master/meta/
+-rw-rw-r-- root/root       231 2016-03-28 08:37 mysql-install-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-28 08:37 mysql-install-master/tasks/
+-rw-rw-r-- root/root       459 2016-03-28 08:37 mysql-install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-28 08:37 mysql-install-master/templates/
+-rw-rw-r-- root/root      3502 2016-03-28 08:37 mysql-install-master/templates/my.cnf.j2
+-rw-rw-r-- root/root       249 2016-03-28 08:37 mysql-install-master/templates/mysql-consul.json.j2

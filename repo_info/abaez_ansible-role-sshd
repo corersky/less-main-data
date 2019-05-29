@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-07-23 17:20 ansible-role-sshd-master/
+-rw-rw-r-- root/root       539 2016-07-23 17:20 ansible-role-sshd-master/.travis.yml
+-rw-rw-r-- root/root      1319 2016-07-23 17:20 ansible-role-sshd-master/LICENSE
+-rw-rw-r-- root/root      1273 2016-07-23 17:20 ansible-role-sshd-master/README.md
+drwxrwxr-x root/root         0 2016-07-23 17:20 ansible-role-sshd-master/defaults/
+-rw-rw-r-- root/root        96 2016-07-23 17:20 ansible-role-sshd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-23 17:20 ansible-role-sshd-master/meta/
+-rw-rw-r-- root/root      1508 2016-07-23 17:20 ansible-role-sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-23 17:20 ansible-role-sshd-master/tasks/
+-rw-rw-r-- root/root       183 2016-07-23 17:20 ansible-role-sshd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-23 17:20 ansible-role-sshd-master/templates/
+-rw-rw-r-- root/root      3999 2016-07-23 17:20 ansible-role-sshd-master/templates/sshd.j2
+drwxrwxr-x root/root         0 2016-07-23 17:20 ansible-role-sshd-master/tests/
+-rw-rw-r-- root/root         9 2016-07-23 17:20 ansible-role-sshd-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-07-23 17:20 ansible-role-sshd-master/tests/test.yml

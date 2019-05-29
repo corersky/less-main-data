@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/
+-rw-rw-r-- root/root       175 2018-12-17 11:51 ansible-role-libertempo-master/.gitignore
+-rw-rw-r-- root/root      3698 2018-12-17 11:51 ansible-role-libertempo-master/README.md
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/defaults/
+-rw-rw-r-- root/root      2189 2018-12-17 11:51 ansible-role-libertempo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/handlers/
+-rw-rw-r-- root/root       109 2018-12-17 11:51 ansible-role-libertempo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/meta/
+-rw-rw-r-- root/root      1354 2018-12-17 11:51 ansible-role-libertempo-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/tasks/
+-rw-rw-r-- root/root       251 2018-12-17 11:51 ansible-role-libertempo-master/tasks/RedHat-setup.yml
+-rw-rw-r-- root/root      3284 2018-12-17 11:51 ansible-role-libertempo-master/tasks/main.yml
+-rw-rw-r-- root/root      1023 2018-12-17 11:51 ansible-role-libertempo-master/tasks/selinux.yml
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/templates/
+-rw-rw-r-- root/root       478 2018-12-17 11:51 ansible-role-libertempo-master/templates/config_SMTP.php.j2
+-rw-rw-r-- root/root       993 2018-12-17 11:51 ansible-role-libertempo-master/templates/config_ldap.php.j2
+-rw-rw-r-- root/root       256 2018-12-17 11:51 ansible-role-libertempo-master/templates/dbconnect.php.j2
+-rw-rw-r-- root/root       806 2018-12-17 11:51 ansible-role-libertempo-master/templates/fpm-app.conf.j2
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/tests/
+-rw-rw-r-- root/root        60 2018-12-17 11:51 ansible-role-libertempo-master/tests/inventory
+-rw-rw-r-- root/root       164 2018-12-17 11:51 ansible-role-libertempo-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/tests/roles/libertempo -> ../../
+-rw-rw-r-- root/root      2513 2018-12-17 11:51 ansible-role-libertempo-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-17 11:51 ansible-role-libertempo-master/vars/
+-rw-rw-r-- root/root        21 2018-12-17 11:51 ansible-role-libertempo-master/vars/main.yml

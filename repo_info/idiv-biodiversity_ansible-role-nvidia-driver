@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-29 07:40 ansible-role-nvidia-driver-master/
+-rw-rw-r-- root/root      2243 2019-04-29 07:40 ansible-role-nvidia-driver-master/README.md
+drwxrwxr-x root/root         0 2019-04-29 07:40 ansible-role-nvidia-driver-master/defaults/
+-rw-rw-r-- root/root       186 2019-04-29 07:40 ansible-role-nvidia-driver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-29 07:40 ansible-role-nvidia-driver-master/files/
+-rw-rw-r-- root/root      1344 2019-04-29 07:40 ansible-role-nvidia-driver-master/files/nvidia-dev-create.sh
+drwxrwxr-x root/root         0 2019-04-29 07:40 ansible-role-nvidia-driver-master/meta/
+-rw-rw-r-- root/root       335 2019-04-29 07:40 ansible-role-nvidia-driver-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-29 07:40 ansible-role-nvidia-driver-master/tasks/
+-rw-rw-r-- root/root      1061 2019-04-29 07:40 ansible-role-nvidia-driver-master/tasks/install.yml
+-rw-rw-r-- root/root       115 2019-04-29 07:40 ansible-role-nvidia-driver-master/tasks/main.yml
+-rw-rw-r-- root/root      1962 2019-04-29 07:40 ansible-role-nvidia-driver-master/tasks/nvidia-driver.yml
+drwxrwxr-x root/root         0 2019-04-29 07:40 ansible-role-nvidia-driver-master/vars/
+-rw-rw-r-- root/root       350 2019-04-29 07:40 ansible-role-nvidia-driver-master/vars/main.yml
+-rw-rw-r-- root/root       120 2019-04-29 07:40 ansible-role-nvidia-driver-master/vars/tesla.yml
+-rw-rw-r-- root/root       145 2019-04-29 07:40 ansible-role-nvidia-driver-master/vars/xfree86.yml

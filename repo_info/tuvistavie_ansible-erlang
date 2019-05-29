@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-15 06:43 ansible-erlang-master/
+-rw-rw-r-- root/root       391 2016-02-15 06:43 ansible-erlang-master/README.md
+-rw-rw-r-- root/root        54 2016-02-15 06:43 ansible-erlang-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-02-15 06:43 ansible-erlang-master/defaults/
+-rw-rw-r-- root/root       221 2016-02-15 06:43 ansible-erlang-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-15 06:43 ansible-erlang-master/meta/
+-rw-rw-r-- root/root       269 2016-02-15 06:43 ansible-erlang-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-15 06:43 ansible-erlang-master/tasks/
+-rw-rw-r-- root/root       396 2016-02-15 06:43 ansible-erlang-master/tasks/install_erlang.yml
+-rw-rw-r-- root/root       345 2016-02-15 06:43 ansible-erlang-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-15 06:43 ansible-erlang-master/test/
+-rw-rw-r-- root/root        20 2016-02-15 06:43 ansible-erlang-master/test/inventory
+-rw-rw-r-- root/root       121 2016-02-15 06:43 ansible-erlang-master/test/test.yml

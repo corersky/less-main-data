@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2015-02-10 10:19 ansible-tasseo-master/
+-rw-rw-r-- root/root        75 2015-02-10 10:19 ansible-tasseo-master/.gitignore
+-rw-rw-r-- root/root        98 2015-02-10 10:19 ansible-tasseo-master/CHANGELOG.md
+-rw-rw-r-- root/root       601 2015-02-10 10:19 ansible-tasseo-master/README.md
+drwxrwxr-x root/root         0 2015-02-10 10:19 ansible-tasseo-master/defaults/
+-rw-rw-r-- root/root       199 2015-02-10 10:19 ansible-tasseo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-10 10:19 ansible-tasseo-master/examples/
+-rw-rw-r-- root/root       836 2015-02-10 10:19 ansible-tasseo-master/examples/Vagrantfile
+-rw-rw-r-- root/root        47 2015-02-10 10:19 ansible-tasseo-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-02-10 10:19 ansible-tasseo-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-02-10 10:19 ansible-tasseo-master/examples/roles/azavea.tasseo -> ../../
+-rw-rw-r-- root/root       130 2015-02-10 10:19 ansible-tasseo-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-02-10 10:19 ansible-tasseo-master/handlers/
+-rw-rw-r-- root/root        66 2015-02-10 10:19 ansible-tasseo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-10 10:19 ansible-tasseo-master/meta/
+-rw-rw-r-- root/root       354 2015-02-10 10:19 ansible-tasseo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-10 10:19 ansible-tasseo-master/tasks/
+-rw-rw-r-- root/root      1520 2015-02-10 10:19 ansible-tasseo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-10 10:19 ansible-tasseo-master/templates/
+-rw-rw-r-- root/root       131 2015-02-10 10:19 ansible-tasseo-master/templates/logrotate_tasseo.j2
+-rw-rw-r-- root/root       327 2015-02-10 10:19 ansible-tasseo-master/templates/tasseo.conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-17 00:11 ansible-role-openvpn-master/
+-rw-rw-r-- root/root       992 2017-07-17 00:11 ansible-role-openvpn-master/.travis.yml
+-rw-rw-r-- root/root     35141 2017-07-17 00:11 ansible-role-openvpn-master/LICENSE
+-rw-rw-r-- root/root      3122 2017-07-17 00:11 ansible-role-openvpn-master/README.md
+drwxrwxr-x root/root         0 2017-07-17 00:11 ansible-role-openvpn-master/defaults/
+-rw-rw-r-- root/root       168 2017-07-17 00:11 ansible-role-openvpn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-17 00:11 ansible-role-openvpn-master/handlers/
+-rw-rw-r-- root/root       181 2017-07-17 00:11 ansible-role-openvpn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-17 00:11 ansible-role-openvpn-master/meta/
+-rw-rw-r-- root/root       363 2017-07-17 00:11 ansible-role-openvpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-17 00:11 ansible-role-openvpn-master/tasks/
+-rw-rw-r-- root/root      3276 2017-07-17 00:11 ansible-role-openvpn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-17 00:11 ansible-role-openvpn-master/templates/
+-rw-rw-r-- root/root      1027 2017-07-17 00:11 ansible-role-openvpn-master/templates/server.conf.j2
+drwxrwxr-x root/root         0 2017-07-17 00:11 ansible-role-openvpn-master/tests/
+-rw-rw-r-- root/root        11 2017-07-17 00:11 ansible-role-openvpn-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-07-17 00:11 ansible-role-openvpn-master/tests/test.yml

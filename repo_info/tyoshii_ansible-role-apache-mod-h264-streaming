@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/
+-rw-rw-r-- root/root       561 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/README.md
+drwxrwxr-x root/root         0 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/defaults/
+-rw-rw-r-- root/root        40 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/handlers/
+-rw-rw-r-- root/root        98 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/meta/
+-rw-rw-r-- root/root      1831 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/tasks/
+-rw-rw-r-- root/root      1308 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/templates/
+-rw-rw-r-- root/root       242 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/templates/h264_streaming.conf.j2
+drwxrwxr-x root/root         0 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/tests/
+-rw-rw-r-- root/root        11 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/tests/inventory
+-rw-rw-r-- root/root        96 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/vars/
+-rw-rw-r-- root/root        58 2017-10-22 15:45 ansible-role-apache-mod-h264-streaming-master/vars/main.yml

@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/
+-rw-rw-r-- root/root        17 2018-07-12 12:17 ansible-buildkite-agent-master/.gitignore
+-rw-rw-r-- root/root       182 2018-07-12 12:17 ansible-buildkite-agent-master/CHANGELOG.md
+-rw-rw-r-- root/root     11342 2018-07-12 12:17 ansible-buildkite-agent-master/LICENSE
+-rw-rw-r-- root/root      1431 2018-07-12 12:17 ansible-buildkite-agent-master/README.md
+drwxrwxr-x root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/defaults/
+-rw-rw-r-- root/root       780 2018-07-12 12:17 ansible-buildkite-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/examples/
+-rw-rw-r-- root/root       296 2018-07-12 12:17 ansible-buildkite-agent-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/examples/roles/
+lrwxrwxrwx root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/examples/roles/azavea.buildkite-agent -> ../../
+-rw-rw-r-- root/root       154 2018-07-12 12:17 ansible-buildkite-agent-master/examples/site.yml
+drwxrwxr-x root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/handlers/
+-rw-rw-r-- root/root       151 2018-07-12 12:17 ansible-buildkite-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/meta/
+-rw-rw-r-- root/root       248 2018-07-12 12:17 ansible-buildkite-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/tasks/
+-rw-rw-r-- root/root       986 2018-07-12 12:17 ansible-buildkite-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-12 12:17 ansible-buildkite-agent-master/templates/
+-rw-rw-r-- root/root      2201 2018-07-12 12:17 ansible-buildkite-agent-master/templates/buildkite-agent.cfg.j2

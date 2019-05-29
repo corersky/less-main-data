@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-03 09:31 ansible-vm-tools-master/
+-rw-rw-r-- root/root       539 2017-08-03 09:31 ansible-vm-tools-master/.travis.yml
+-rw-rw-r-- root/root      1313 2017-08-03 09:31 ansible-vm-tools-master/LICENSE
+-rw-rw-r-- root/root      2676 2017-08-03 09:31 ansible-vm-tools-master/README.md
+drwxrwxr-x root/root         0 2017-08-03 09:31 ansible-vm-tools-master/meta/
+-rw-rw-r-- root/root       320 2017-08-03 09:31 ansible-vm-tools-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-03 09:31 ansible-vm-tools-master/tasks/
+-rw-rw-r-- root/root      2523 2017-08-03 09:31 ansible-vm-tools-master/tasks/main.yml
+-rw-rw-r-- root/root       789 2017-08-03 09:31 ansible-vm-tools-master/tasks/virtualbox.yml
+drwxrwxr-x root/root         0 2017-08-03 09:31 ansible-vm-tools-master/templates/
+-rw-rw-r-- root/root        16 2017-08-03 09:31 ansible-vm-tools-master/templates/vmhgfs.modules.j2
+-rw-rw-r-- root/root       293 2017-08-03 09:31 ansible-vm-tools-master/templates/vmware-tools.repo.j2
+drwxrwxr-x root/root         0 2017-08-03 09:31 ansible-vm-tools-master/tests/
+-rw-rw-r-- root/root         9 2017-08-03 09:31 ansible-vm-tools-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-08-03 09:31 ansible-vm-tools-master/tests/test.yml

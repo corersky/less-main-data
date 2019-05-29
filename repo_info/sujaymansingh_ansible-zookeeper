@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-12-15 04:03 ansible-zookeeper-master/
+-rw-rw-r-- root/root      1071 2014-12-15 04:03 ansible-zookeeper-master/LICENSE
+-rw-rw-r-- root/root       495 2014-12-15 04:03 ansible-zookeeper-master/README.md
+drwxrwxr-x root/root         0 2014-12-15 04:03 ansible-zookeeper-master/defaults/
+-rw-rw-r-- root/root        36 2014-12-15 04:03 ansible-zookeeper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-15 04:03 ansible-zookeeper-master/meta/
+-rw-rw-r-- root/root       311 2014-12-15 04:03 ansible-zookeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-15 04:03 ansible-zookeeper-master/tasks/
+-rw-rw-r-- root/root       531 2014-12-15 04:03 ansible-zookeeper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-15 04:03 ansible-zookeeper-master/templates/
+-rw-rw-r-- root/root        21 2014-12-15 04:03 ansible-zookeeper-master/templates/myid.j2
+-rw-rw-r-- root/root       200 2014-12-15 04:03 ansible-zookeeper-master/templates/zoo.cfg.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-03 06:14 ansible-role-ctld-master/
+-rw-rw-r-- root/root      3015 2019-01-03 06:14 ansible-role-ctld-master/README.md
+drwxrwxr-x root/root         0 2019-01-03 06:14 ansible-role-ctld-master/defaults/
+-rw-rw-r-- root/root       317 2019-01-03 06:14 ansible-role-ctld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-03 06:14 ansible-role-ctld-master/handlers/
+-rw-rw-r-- root/root       103 2019-01-03 06:14 ansible-role-ctld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-03 06:14 ansible-role-ctld-master/meta/
+-rw-rw-r-- root/root       363 2019-01-03 06:14 ansible-role-ctld-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-03 06:14 ansible-role-ctld-master/tasks/
+-rw-rw-r-- root/root       886 2019-01-03 06:14 ansible-role-ctld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-03 06:14 ansible-role-ctld-master/templates/
+-rw-rw-r-- root/root      2106 2019-01-03 06:14 ansible-role-ctld-master/templates/ctl.conf.j2
+drwxrwxr-x root/root         0 2019-01-03 06:14 ansible-role-ctld-master/vars/
+-rw-rw-r-- root/root        31 2019-01-03 06:14 ansible-role-ctld-master/vars/main.yml

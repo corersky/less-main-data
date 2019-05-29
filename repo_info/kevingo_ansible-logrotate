@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-18 02:50 ansible-logrotate-master/
+-rw-rw-r-- root/root        43 2015-12-18 02:50 ansible-logrotate-master/.gitignore
+-rw-rw-r-- root/root      1096 2015-12-18 02:50 ansible-logrotate-master/LICENSE
+-rw-rw-r-- root/root       776 2015-12-18 02:50 ansible-logrotate-master/README.md
+-rw-rw-r-- root/root      1015 2015-12-18 02:50 ansible-logrotate-master/circle.yml
+drwxrwxr-x root/root         0 2015-12-18 02:50 ansible-logrotate-master/defaults/
+-rw-rw-r-- root/root        76 2015-12-18 02:50 ansible-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-18 02:50 ansible-logrotate-master/meta/
+-rw-rw-r-- root/root       307 2015-12-18 02:50 ansible-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-18 02:50 ansible-logrotate-master/tasks/
+-rw-rw-r-- root/root       180 2015-12-18 02:50 ansible-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-18 02:50 ansible-logrotate-master/templates/
+-rw-rw-r-- root/root       101 2015-12-18 02:50 ansible-logrotate-master/templates/app_logs.j2
+drwxrwxr-x root/root         0 2015-12-18 02:50 ansible-logrotate-master/tests/
+-rw-rw-r-- root/root         9 2015-12-18 02:50 ansible-logrotate-master/tests/inventory
+-rw-rw-r-- root/root        99 2015-12-18 02:50 ansible-logrotate-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-05-07 15:47 geonode-plus-ansible-master/
+-rw-rw-r-- root/root        10 2016-05-07 15:47 geonode-plus-ansible-master/.gitignore
+-rw-rw-r-- root/root      2552 2016-05-07 15:47 geonode-plus-ansible-master/README.md
+drwxrwxr-x root/root         0 2016-05-07 15:47 geonode-plus-ansible-master/defaults/
+-rw-rw-r-- root/root        20 2016-05-07 15:47 geonode-plus-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-07 15:47 geonode-plus-ansible-master/handlers/
+-rw-rw-r-- root/root        20 2016-05-07 15:47 geonode-plus-ansible-master/handlers/main.yml
+-rw-rw-r-- root/root       403 2016-05-07 15:47 geonode-plus-ansible-master/install-ansible.sh
+-rw-rw-r-- root/root        73 2016-05-07 15:47 geonode-plus-ansible-master/install-geonode-play.yml
+drwxrwxr-x root/root         0 2016-05-07 15:47 geonode-plus-ansible-master/meta/
+-rw-rw-r-- root/root       469 2016-05-07 15:47 geonode-plus-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-07 15:47 geonode-plus-ansible-master/tasks/
+-rw-rw-r-- root/root       287 2016-05-07 15:47 geonode-plus-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-07 15:47 geonode-plus-ansible-master/vars/
+-rw-rw-r-- root/root        16 2016-05-07 15:47 geonode-plus-ansible-master/vars/main.yml

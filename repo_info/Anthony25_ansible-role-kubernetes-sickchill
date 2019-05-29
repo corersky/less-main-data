@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/
+-rw-rw-r-- root/root        66 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/.gitignore
+-rw-rw-r-- root/root      1507 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/LICENSE.mkd
+-rw-rw-r-- root/root      3857 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/README.md
+drwxrwxr-x root/root         0 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/defaults/
+-rw-rw-r-- root/root       894 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/meta/
+-rw-rw-r-- root/root       596 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/tasks/
+-rw-rw-r-- root/root       396 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/templates/
+-rw-rw-r-- root/root      2884 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       638 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       242 2018-12-23 11:15 ansible-role-kubernetes-sickchill-master/templates/service.yml.j2

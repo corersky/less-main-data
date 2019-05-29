@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-04-18 15:32 ssh-hardening-master/
+-rw-rw-r-- root/root        16 2018-04-18 15:32 ssh-hardening-master/.gitignore
+-rw-rw-r-- root/root      1512 2018-04-18 15:32 ssh-hardening-master/LICENCE.txt
+-rw-rw-r-- root/root       944 2018-04-18 15:32 ssh-hardening-master/README.md
+drwxrwxr-x root/root         0 2018-04-18 15:32 ssh-hardening-master/defaults/
+-rw-rw-r-- root/root      1115 2018-04-18 15:32 ssh-hardening-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-18 15:32 ssh-hardening-master/meta/
+-rw-rw-r-- root/root       374 2018-04-18 15:32 ssh-hardening-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-18 15:32 ssh-hardening-master/tasks/
+-rw-rw-r-- root/root      1091 2018-04-18 15:32 ssh-hardening-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-18 15:32 ssh-hardening-master/templates/
+-rw-rw-r-- root/root       639 2018-04-18 15:32 ssh-hardening-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2018-04-18 15:32 ssh-hardening-master/vars/
+-rw-rw-r-- root/root       488 2018-04-18 15:32 ssh-hardening-master/vars/main.yml

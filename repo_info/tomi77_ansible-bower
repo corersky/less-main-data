@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-master/
+-rw-rw-r-- root/root        58 2018-05-14 03:52 ansible-bower-master/.gitignore
+-rw-rw-r-- root/root      1073 2018-05-14 03:52 ansible-bower-master/LICENSE
+-rw-rw-r-- root/root       945 2018-05-14 03:52 ansible-bower-master/README.md
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-master/defaults/
+-rw-rw-r-- root/root        44 2018-05-14 03:52 ansible-bower-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-master/meta/
+-rw-rw-r-- root/root       408 2018-05-14 03:52 ansible-bower-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-master/tasks/
+-rw-rw-r-- root/root       364 2018-05-14 03:52 ansible-bower-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-master/tests/
+-rw-rw-r-- root/root        30 2018-05-14 03:52 ansible-bower-master/tests/bower.json
+-rw-rw-r-- root/root        10 2018-05-14 03:52 ansible-bower-master/tests/inventory
+-rw-rw-r-- root/root       318 2018-05-14 03:52 ansible-bower-master/tests/main.yml
+-rw-rw-r-- root/root        72 2018-05-14 03:52 ansible-bower-master/tests/package.json

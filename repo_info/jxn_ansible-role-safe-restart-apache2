@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/
+-rw-rw-r-- root/root      1157 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/LICENSE
+-rw-rw-r-- root/root       649 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/README.md
+drwxrwxr-x root/root         0 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/defaults/
+-rw-rw-r-- root/root        43 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/handlers/
+-rw-rw-r-- root/root       324 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/meta/
+-rw-rw-r-- root/root       310 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/tasks/
+-rw-rw-r-- root/root        40 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/vars/
+-rw-rw-r-- root/root        39 2018-04-11 12:05 ansible-role-safe-restart-apache2-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-04 00:48 ansible-role-chromedriver-master/
+-rw-rw-r-- root/root      1516 2019-02-04 00:48 ansible-role-chromedriver-master/LICENSE
+-rw-rw-r-- root/root       823 2019-02-04 00:48 ansible-role-chromedriver-master/README.md
+drwxrwxr-x root/root         0 2019-02-04 00:48 ansible-role-chromedriver-master/defaults/
+-rw-rw-r-- root/root       131 2019-02-04 00:48 ansible-role-chromedriver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-04 00:48 ansible-role-chromedriver-master/handlers/
+-rw-rw-r-- root/root        99 2019-02-04 00:48 ansible-role-chromedriver-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-04 00:48 ansible-role-chromedriver-master/meta/
+-rw-rw-r-- root/root       282 2019-02-04 00:48 ansible-role-chromedriver-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-04 00:48 ansible-role-chromedriver-master/tasks/
+-rw-rw-r-- root/root      2152 2019-02-04 00:48 ansible-role-chromedriver-master/tasks/linux.yml
+-rw-rw-r-- root/root        94 2019-02-04 00:48 ansible-role-chromedriver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-04 00:48 ansible-role-chromedriver-master/templates/
+-rw-rw-r-- root/root       359 2019-02-04 00:48 ansible-role-chromedriver-master/templates/chromedriver.service.j2
+drwxrwxr-x root/root         0 2019-02-04 00:48 ansible-role-chromedriver-master/tests/
+-rw-rw-r-- root/root        11 2019-02-04 00:48 ansible-role-chromedriver-master/tests/inventory
+-rw-rw-r-- root/root        70 2019-02-04 00:48 ansible-role-chromedriver-master/tests/test.yml

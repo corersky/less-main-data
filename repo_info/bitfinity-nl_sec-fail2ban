@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-fail2ban-master/
+-rw-rw-r-- root/root     35147 2018-11-13 10:24 sec-fail2ban-master/LICENSE
+-rw-rw-r-- root/root       961 2018-11-13 10:24 sec-fail2ban-master/README.md
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-fail2ban-master/defaults/
+-rw-rw-r-- root/root       423 2018-11-13 10:24 sec-fail2ban-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-fail2ban-master/handlers/
+-rw-rw-r-- root/root       244 2018-11-13 10:24 sec-fail2ban-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-fail2ban-master/meta/
+-rw-rw-r-- root/root       335 2018-11-13 10:24 sec-fail2ban-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-fail2ban-master/tasks/
+-rw-rw-r-- root/root      2180 2018-11-13 10:24 sec-fail2ban-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-13 10:24 sec-fail2ban-master/templates/
+-rw-rw-r-- root/root       231 2018-11-13 10:24 sec-fail2ban-master/templates/jail.local.j2
+-rw-rw-r-- root/root        35 2018-11-13 10:24 sec-fail2ban-master/templates/sshd.conf.j2

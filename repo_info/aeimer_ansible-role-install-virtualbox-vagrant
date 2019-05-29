@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/
+-rw-rw-r-- root/root      1198 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/.travis.yml
+-rw-rw-r-- root/root      1067 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/LICENSE
+-rw-rw-r-- root/root      1682 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/README.md
+drwxrwxr-x root/root         0 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/defaults/
+-rw-rw-r-- root/root       573 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/meta/
+-rw-rw-r-- root/root       240 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/tasks/
+-rw-rw-r-- root/root        64 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/tasks/main.yml
+-rw-rw-r-- root/root       697 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/tasks/vagrant.yml
+-rw-rw-r-- root/root      1243 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/tasks/virtualbox.yml
+drwxrwxr-x root/root         0 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/tests/
+-rw-rw-r-- root/root        29 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/tests/ansible.cfg.test
+-rw-rw-r-- root/root        10 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/tests/inventory
+-rw-rw-r-- root/root        99 2018-09-04 18:38 ansible-role-install-virtualbox-vagrant-master/tests/test.yml

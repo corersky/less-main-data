@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-11 10:50 ansible-tensorflow-master/
+-rw-rw-r-- root/root       539 2017-04-11 10:50 ansible-tensorflow-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-04-11 10:50 ansible-tensorflow-master/LICENSE
+-rw-rw-r-- root/root       598 2017-04-11 10:50 ansible-tensorflow-master/README.md
+drwxrwxr-x root/root         0 2017-04-11 10:50 ansible-tensorflow-master/defaults/
+-rw-rw-r-- root/root        43 2017-04-11 10:50 ansible-tensorflow-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-11 10:50 ansible-tensorflow-master/handlers/
+-rw-rw-r-- root/root        43 2017-04-11 10:50 ansible-tensorflow-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-11 10:50 ansible-tensorflow-master/meta/
+-rw-rw-r-- root/root      3214 2017-04-11 10:50 ansible-tensorflow-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-11 10:50 ansible-tensorflow-master/tasks/
+-rw-rw-r-- root/root       625 2017-04-11 10:50 ansible-tensorflow-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-11 10:50 ansible-tensorflow-master/tests/
+-rw-rw-r-- root/root         9 2017-04-11 10:50 ansible-tensorflow-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-04-11 10:50 ansible-tensorflow-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-11 10:50 ansible-tensorflow-master/vars/
+-rw-rw-r-- root/root        39 2017-04-11 10:50 ansible-tensorflow-master/vars/main.yml

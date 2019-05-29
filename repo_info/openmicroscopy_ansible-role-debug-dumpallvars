@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/
+-rw-rw-r-- root/root         6 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/.gitignore
+-rw-rw-r-- root/root       689 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/.travis.yml
+-rw-rw-r-- root/root       615 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/README.md
+drwxrwxr-x root/root         0 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/defaults/
+-rw-rw-r-- root/root       120 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/meta/
+-rw-rw-r-- root/root      3212 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/tasks/
+-rw-rw-r-- root/root       187 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/templates/
+-rw-rw-r-- root/root       605 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/templates/dumpall.j2
+drwxrwxr-x root/root         0 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/tests/
+-rw-rw-r-- root/root         9 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-05-05 10:17 ansible-role-debug-dumpallvars-master/tests/test.yml

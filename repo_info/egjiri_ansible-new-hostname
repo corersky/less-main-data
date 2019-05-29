@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-05 14:59 ansible-new-hostname-master/
+-rw-rw-r-- root/root       541 2018-11-05 14:59 ansible-new-hostname-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-11-05 14:59 ansible-new-hostname-master/README.md
+drwxrwxr-x root/root         0 2018-11-05 14:59 ansible-new-hostname-master/defaults/
+-rw-rw-r-- root/root       186 2018-11-05 14:59 ansible-new-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-05 14:59 ansible-new-hostname-master/meta/
+-rw-rw-r-- root/root       246 2018-11-05 14:59 ansible-new-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-05 14:59 ansible-new-hostname-master/tasks/
+-rw-rw-r-- root/root       390 2018-11-05 14:59 ansible-new-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-05 14:59 ansible-new-hostname-master/tests/
+-rw-rw-r-- root/root         9 2018-11-05 14:59 ansible-new-hostname-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-11-05 14:59 ansible-new-hostname-master/tests/test.yml

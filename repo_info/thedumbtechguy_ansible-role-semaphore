@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-12 08:19 ansible-role-semaphore-master/
+-rw-rw-r-- root/root      6600 2017-05-12 08:19 ansible-role-semaphore-master/README.md
+-rw-rw-r-- root/root      6169 2017-05-12 08:19 ansible-role-semaphore-master/bootstrap.sh
+drwxrwxr-x root/root         0 2017-05-12 08:19 ansible-role-semaphore-master/defaults/
+-rw-rw-r-- root/root      1851 2017-05-12 08:19 ansible-role-semaphore-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:19 ansible-role-semaphore-master/meta/
+-rw-rw-r-- root/root       359 2017-05-12 08:19 ansible-role-semaphore-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 08:19 ansible-role-semaphore-master/tasks/
+-rw-rw-r-- root/root       181 2017-05-12 08:19 ansible-role-semaphore-master/tasks/dependencies.yml
+-rw-rw-r-- root/root       166 2017-05-12 08:19 ansible-role-semaphore-master/tasks/main.yml
+-rw-rw-r-- root/root      2195 2017-05-12 08:19 ansible-role-semaphore-master/tasks/semaphore.yml
+drwxrwxr-x root/root         0 2017-05-12 08:19 ansible-role-semaphore-master/templates/
+-rw-rw-r-- root/root      1901 2017-05-12 08:19 ansible-role-semaphore-master/templates/semaphore.config.j2
+-rw-rw-r-- root/root       386 2017-05-12 08:19 ansible-role-semaphore-master/templates/semaphore.service.j2
+-rw-rw-r-- root/root       278 2017-05-12 08:19 ansible-role-semaphore-master/templates/semaphore.stdin.2.2.j2
+-rw-rw-r-- root/root       319 2017-05-12 08:19 ansible-role-semaphore-master/templates/semaphore.stdin.2.3.j2

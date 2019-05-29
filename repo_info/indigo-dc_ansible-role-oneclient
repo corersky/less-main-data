@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-23 02:27 ansible-role-oneclient-master/
+-rw-rw-r-- root/root       540 2018-07-23 02:27 ansible-role-oneclient-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-07-23 02:27 ansible-role-oneclient-master/LICENSE
+-rw-rw-r-- root/root       769 2018-07-23 02:27 ansible-role-oneclient-master/README.md
+drwxrwxr-x root/root         0 2018-07-23 02:27 ansible-role-oneclient-master/defaults/
+-rw-rw-r-- root/root       107 2018-07-23 02:27 ansible-role-oneclient-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-23 02:27 ansible-role-oneclient-master/meta/
+-rw-rw-r-- root/root       358 2018-07-23 02:27 ansible-role-oneclient-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-23 02:27 ansible-role-oneclient-master/tasks/
+-rw-rw-r-- root/root       470 2018-07-23 02:27 ansible-role-oneclient-master/tasks/main.yml
+-rw-rw-r-- root/root       574 2018-07-23 02:27 ansible-role-oneclient-master/tasks/redhat.yml
+-rw-rw-r-- root/root      1012 2018-07-23 02:27 ansible-role-oneclient-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2018-07-23 02:27 ansible-role-oneclient-master/tests/
+-rw-rw-r-- root/root         9 2018-07-23 02:27 ansible-role-oneclient-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-07-23 02:27 ansible-role-oneclient-master/tests/oneclient.yml
+-rw-rw-r-- root/root       115 2018-07-23 02:27 ansible-role-oneclient-master/tests/test.yml

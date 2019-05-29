@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-01-12 08:12 ansible-role-samba-client-master/
+-rw-rw-r-- root/root         4 2017-01-12 08:12 ansible-role-samba-client-master/.gitignore
+-rw-rw-r-- root/root       540 2017-01-12 08:12 ansible-role-samba-client-master/.travis.yml
+-rw-rw-r-- root/root       150 2017-01-12 08:12 ansible-role-samba-client-master/README.md
+drwxrwxr-x root/root         0 2017-01-12 08:12 ansible-role-samba-client-master/meta/
+-rw-rw-r-- root/root       285 2017-01-12 08:12 ansible-role-samba-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-12 08:12 ansible-role-samba-client-master/tasks/
+-rw-rw-r-- root/root       199 2017-01-12 08:12 ansible-role-samba-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-12 08:12 ansible-role-samba-client-master/tests/
+-rw-rw-r-- root/root        10 2017-01-12 08:12 ansible-role-samba-client-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-01-12 08:12 ansible-role-samba-client-master/tests/test.yml

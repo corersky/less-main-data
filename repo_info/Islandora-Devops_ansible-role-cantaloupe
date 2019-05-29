@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-11-10 11:53 ansible-role-cantaloupe-master/
+-rw-rw-r-- root/root      1362 2017-11-10 11:53 ansible-role-cantaloupe-master/README.md
+drwxrwxr-x root/root         0 2017-11-10 11:53 ansible-role-cantaloupe-master/defaults/
+-rw-rw-r-- root/root     23653 2017-11-10 11:53 ansible-role-cantaloupe-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-10 11:53 ansible-role-cantaloupe-master/meta/
+-rw-rw-r-- root/root       449 2017-11-10 11:53 ansible-role-cantaloupe-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-10 11:53 ansible-role-cantaloupe-master/tasks/
+-rw-rw-r-- root/root       195 2017-11-10 11:53 ansible-role-cantaloupe-master/tasks/cache.yml
+-rw-rw-r-- root/root       221 2017-11-10 11:53 ansible-role-cantaloupe-master/tasks/config.yml
+-rw-rw-r-- root/root       815 2017-11-10 11:53 ansible-role-cantaloupe-master/tasks/install.yml
+-rw-rw-r-- root/root       362 2017-11-10 11:53 ansible-role-cantaloupe-master/tasks/main.yml
+-rw-rw-r-- root/root       319 2017-11-10 11:53 ansible-role-cantaloupe-master/tasks/web.yml
+drwxrwxr-x root/root         0 2017-11-10 11:53 ansible-role-cantaloupe-master/templates/
+-rw-rw-r-- root/root     16418 2017-11-10 11:53 ansible-role-cantaloupe-master/templates/cantaloupe.properties.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-04-15 07:09 ansible-devpi-master/
+-rw-rw-r-- root/root      1237 2015-04-15 07:09 ansible-devpi-master/README.md
+drwxrwxr-x root/root         0 2015-04-15 07:09 ansible-devpi-master/defaults/
+-rw-rw-r-- root/root       141 2015-04-15 07:09 ansible-devpi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-15 07:09 ansible-devpi-master/handlers/
+-rw-rw-r-- root/root        76 2015-04-15 07:09 ansible-devpi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-15 07:09 ansible-devpi-master/meta/
+-rw-rw-r-- root/root       315 2015-04-15 07:09 ansible-devpi-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-15 07:09 ansible-devpi-master/tasks/
+-rw-rw-r-- root/root       769 2015-04-15 07:09 ansible-devpi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-15 07:09 ansible-devpi-master/templates/
+-rw-rw-r-- root/root       291 2015-04-15 07:09 ansible-devpi-master/templates/devpi-monit.conf
+-rw-rw-r-- root/root       139 2015-04-15 07:09 ansible-devpi-master/templates/pip.conf
+drwxrwxr-x root/root         0 2015-04-15 07:09 ansible-devpi-master/vars/
+-rw-rw-r-- root/root        26 2015-04-15 07:09 ansible-devpi-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/
+-rw-rw-r-- root/root      2199 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/README.md
+drwxrwxr-x root/root         0 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/defaults/
+-rw-rw-r-- root/root        54 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/handlers/
+-rw-rw-r-- root/root        54 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/meta/
+-rw-rw-r-- root/root       750 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/tasks/
+-rw-rw-r-- root/root       870 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/tasks/account_breach.yml
+-rw-rw-r-- root/root       378 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/tasks/main.yml
+-rw-rw-r-- root/root      1556 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/tasks/password_lookup.yml
+drwxrwxr-x root/root         0 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/tests/
+-rw-rw-r-- root/root        11 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/tests/inventory
+-rw-rw-r-- root/root        88 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/vars/
+-rw-rw-r-- root/root        50 2018-05-10 09:02 ansible-role-have-i-been-pwned-master/vars/main.yml

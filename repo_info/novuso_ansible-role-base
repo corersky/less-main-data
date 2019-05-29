@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-05-21 12:10 ansible-role-base-master/
+-rw-rw-r-- root/root       197 2015-05-21 12:10 ansible-role-base-master/.editorconfig
+-rw-rw-r-- root/root        12 2015-05-21 12:10 ansible-role-base-master/.gitattributes
+-rw-rw-r-- root/root        40 2015-05-21 12:10 ansible-role-base-master/.gitignore
+-rw-rw-r-- root/root       466 2015-05-21 12:10 ansible-role-base-master/.travis.yml
+-rw-rw-r-- root/root      1050 2015-05-21 12:10 ansible-role-base-master/LICENSE
+-rw-rw-r-- root/root      2169 2015-05-21 12:10 ansible-role-base-master/README.md
+drwxrwxr-x root/root         0 2015-05-21 12:10 ansible-role-base-master/defaults/
+-rw-rw-r-- root/root       902 2015-05-21 12:10 ansible-role-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:10 ansible-role-base-master/meta/
+-rw-rw-r-- root/root       249 2015-05-21 12:10 ansible-role-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:10 ansible-role-base-master/tasks/
+-rw-rw-r-- root/root       810 2015-05-21 12:10 ansible-role-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:10 ansible-role-base-master/tests/
+-rw-rw-r-- root/root        83 2015-05-21 12:10 ansible-role-base-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2015-05-21 12:10 ansible-role-base-master/tests/inventory
+-rw-rw-r-- root/root        48 2015-05-21 12:10 ansible-role-base-master/tests/playbook.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-11 01:04 ansible-node-master/
+-rw-rw-r-- root/root       527 2019-01-11 01:04 ansible-node-master/.travis.yml
+-rw-rw-r-- root/root      1514 2019-01-11 01:04 ansible-node-master/LICENSE
+-rw-rw-r-- root/root      1414 2019-01-11 01:04 ansible-node-master/Makefile
+-rw-rw-r-- root/root       842 2019-01-11 01:04 ansible-node-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 01:04 ansible-node-master/defaults/
+-rw-rw-r-- root/root       102 2019-01-11 01:04 ansible-node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 01:04 ansible-node-master/meta/
+-rw-rw-r-- root/root       445 2019-01-11 01:04 ansible-node-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 01:04 ansible-node-master/tasks/
+-rw-rw-r-- root/root       511 2019-01-11 01:04 ansible-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 01:04 ansible-node-master/tests/
+-rw-rw-r-- root/root         9 2019-01-11 01:04 ansible-node-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-01-11 01:04 ansible-node-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-05-18 22:37 ansible-zookeeper-master/
+-rw-rw-r-- root/root       764 2015-05-18 22:37 ansible-zookeeper-master/README.md
+drwxrwxr-x root/root         0 2015-05-18 22:37 ansible-zookeeper-master/defaults/
+-rw-rw-r-- root/root        34 2015-05-18 22:37 ansible-zookeeper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-18 22:37 ansible-zookeeper-master/handlers/
+-rw-rw-r-- root/root       102 2015-05-18 22:37 ansible-zookeeper-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-18 22:37 ansible-zookeeper-master/meta/
+-rw-rw-r-- root/root      2058 2015-05-18 22:37 ansible-zookeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-18 22:37 ansible-zookeeper-master/tasks/
+-rw-rw-r-- root/root       404 2015-05-18 22:37 ansible-zookeeper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-18 22:37 ansible-zookeeper-master/templates/
+-rw-rw-r-- root/root       110 2015-05-18 22:37 ansible-zookeeper-master/templates/myid.j2
+-rw-rw-r-- root/root       173 2015-05-18 22:37 ansible-zookeeper-master/templates/zoo.cfg.j2
+drwxrwxr-x root/root         0 2015-05-18 22:37 ansible-zookeeper-master/vars/
+-rw-rw-r-- root/root        30 2015-05-18 22:37 ansible-zookeeper-master/vars/main.yml

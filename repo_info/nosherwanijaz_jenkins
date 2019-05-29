@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-20 07:15 jenkins-master/
+-rw-rw-r-- root/root      1328 2017-10-20 07:15 jenkins-master/README.md
+drwxrwxr-x root/root         0 2017-10-20 07:15 jenkins-master/defaults/
+-rw-rw-r-- root/root        31 2017-10-20 07:15 jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-20 07:15 jenkins-master/handlers/
+-rw-rw-r-- root/root        31 2017-10-20 07:15 jenkins-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-20 07:15 jenkins-master/meta/
+-rw-rw-r-- root/root      1777 2017-10-20 07:15 jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-20 07:15 jenkins-master/tasks/
+-rw-rw-r-- root/root        28 2017-10-20 07:15 jenkins-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-20 07:15 jenkins-master/tests/
+-rw-rw-r-- root/root        11 2017-10-20 07:15 jenkins-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-10-20 07:15 jenkins-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-20 07:15 jenkins-master/vars/
+-rw-rw-r-- root/root        27 2017-10-20 07:15 jenkins-master/vars/main.yml

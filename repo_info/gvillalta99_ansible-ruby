@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-09-25 23:47 ansible-ruby-master/
+-rw-rw-r-- root/root        12 2015-09-25 23:47 ansible-ruby-master/.gitignore
+-rw-rw-r-- root/root      1546 2015-09-25 23:47 ansible-ruby-master/.travis.yml
+-rw-rw-r-- root/root      1196 2015-09-25 23:47 ansible-ruby-master/README.md
+drwxrwxr-x root/root         0 2015-09-25 23:47 ansible-ruby-master/defaults/
+-rw-rw-r-- root/root      1001 2015-09-25 23:47 ansible-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-25 23:47 ansible-ruby-master/meta/
+-rw-rw-r-- root/root      2261 2015-09-25 23:47 ansible-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-25 23:47 ansible-ruby-master/tasks/
+-rw-rw-r-- root/root       129 2015-09-25 23:47 ansible-ruby-master/tasks/main.yml
+-rw-rw-r-- root/root      1472 2015-09-25 23:47 ansible-ruby-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       353 2015-09-25 23:47 ansible-ruby-master/tasks/setup-gems.yml
+drwxrwxr-x root/root         0 2015-09-25 23:47 ansible-ruby-master/tests/
+-rw-rw-r-- root/root        10 2015-09-25 23:47 ansible-ruby-master/tests/inventory
+-rw-rw-r-- root/root        70 2015-09-25 23:47 ansible-ruby-master/tests/test.yml

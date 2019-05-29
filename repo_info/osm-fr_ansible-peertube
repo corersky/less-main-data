@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-07-01 08:58 ansible-peertube-master/
+-rw-rw-r-- root/root      1067 2018-07-01 08:58 ansible-peertube-master/LICENSE
+-rw-rw-r-- root/root      1872 2018-07-01 08:58 ansible-peertube-master/README.md
+drwxrwxr-x root/root         0 2018-07-01 08:58 ansible-peertube-master/defaults/
+-rw-rw-r-- root/root       531 2018-07-01 08:58 ansible-peertube-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-01 08:58 ansible-peertube-master/handlers/
+-rw-rw-r-- root/root       319 2018-07-01 08:58 ansible-peertube-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-01 08:58 ansible-peertube-master/meta/
+-rw-rw-r-- root/root       294 2018-07-01 08:58 ansible-peertube-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-01 08:58 ansible-peertube-master/tasks/
+-rw-rw-r-- root/root      7470 2018-07-01 08:58 ansible-peertube-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-01 08:58 ansible-peertube-master/templates/
+-rw-rw-r-- root/root      4707 2018-07-01 08:58 ansible-peertube-master/templates/nginx-peertube
+-rw-rw-r-- root/root       428 2018-07-01 08:58 ansible-peertube-master/templates/peertube.service

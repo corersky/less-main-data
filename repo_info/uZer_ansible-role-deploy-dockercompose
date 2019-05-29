@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/
+-rw-rw-r-- root/root       135 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/README.md
+drwxrwxr-x root/root         0 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/defaults/
+-rw-rw-r-- root/root       146 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/handlers/
+-rw-rw-r-- root/root        56 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/meta/
+-rw-rw-r-- root/root      2621 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/tasks/
+-rw-rw-r-- root/root      1668 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/tests/
+-rw-rw-r-- root/root         9 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/tests/inventory
+-rw-rw-r-- root/root        48 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/vars/
+-rw-rw-r-- root/root        52 2017-10-12 08:53 ansible-role-deploy-dockercompose-master/vars/main.yml

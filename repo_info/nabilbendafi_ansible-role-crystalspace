@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-12-02 05:48 ansible-role-crystalspace-master/
+-rw-rw-r-- root/root       942 2015-12-02 05:48 ansible-role-crystalspace-master/.travis.yml
+-rw-rw-r-- root/root       682 2015-12-02 05:48 ansible-role-crystalspace-master/README.md
+drwxrwxr-x root/root         0 2015-12-02 05:48 ansible-role-crystalspace-master/meta/
+-rw-rw-r-- root/root       282 2015-12-02 05:48 ansible-role-crystalspace-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-02 05:48 ansible-role-crystalspace-master/tasks/
+-rw-rw-r-- root/root       852 2015-12-02 05:48 ansible-role-crystalspace-master/tasks/cegui.yml
+-rw-rw-r-- root/root       779 2015-12-02 05:48 ansible-role-crystalspace-master/tasks/dependencies.yml
+-rw-rw-r-- root/root        49 2015-12-02 05:48 ansible-role-crystalspace-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-02 05:48 ansible-role-crystalspace-master/tests/
+-rw-rw-r-- root/root        10 2015-12-02 05:48 ansible-role-crystalspace-master/tests/inventory
+-rw-rw-r-- root/root        91 2015-12-02 05:48 ansible-role-crystalspace-master/tests/test.yml

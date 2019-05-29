@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-15 05:06 ansible-role-nadoka-master/
+-rw-rw-r-- root/root       248 2018-11-15 05:06 ansible-role-nadoka-master/README.md
+drwxrwxr-x root/root         0 2018-11-15 05:06 ansible-role-nadoka-master/defaults/
+-rw-rw-r-- root/root       603 2018-11-15 05:06 ansible-role-nadoka-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-15 05:06 ansible-role-nadoka-master/handlers/
+-rw-rw-r-- root/root       220 2018-11-15 05:06 ansible-role-nadoka-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-15 05:06 ansible-role-nadoka-master/meta/
+-rw-rw-r-- root/root       279 2018-11-15 05:06 ansible-role-nadoka-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-15 05:06 ansible-role-nadoka-master/tasks/
+-rw-rw-r-- root/root       633 2018-11-15 05:06 ansible-role-nadoka-master/tasks/config.yml
+-rw-rw-r-- root/root       424 2018-11-15 05:06 ansible-role-nadoka-master/tasks/git.yml
+-rw-rw-r-- root/root       218 2018-11-15 05:06 ansible-role-nadoka-master/tasks/main.yml
+-rw-rw-r-- root/root        72 2018-11-15 05:06 ansible-role-nadoka-master/tasks/packages.yml
+-rw-rw-r-- root/root       261 2018-11-15 05:06 ansible-role-nadoka-master/tasks/user.yml
+drwxrwxr-x root/root         0 2018-11-15 05:06 ansible-role-nadoka-master/templates/
+-rw-rw-r-- root/root      1812 2018-11-15 05:06 ansible-role-nadoka-master/templates/nadoka.rc.j2
+-rw-rw-r-- root/root       465 2018-11-15 05:06 ansible-role-nadoka-master/templates/nadoka.service.j2

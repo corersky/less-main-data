@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/
+-rw-rw-r-- root/root       317 2016-02-22 17:23 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root        84 2016-02-22 17:23 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/files/
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/files/Debian/
+-rw-rw-r-- root/root      2560 2016-02-22 17:23 ansible-role-common-master/files/Debian/sshd_config.j2
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/files/centos/
+-rw-rw-r-- root/root      4391 2016-02-22 17:23 ansible-role-common-master/files/centos/sshd_config.j2
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/handlers/
+-rw-rw-r-- root/root       104 2016-02-22 17:23 ansible-role-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       235 2016-02-22 17:23 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root      2083 2016-02-22 17:23 ansible-role-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-22 17:23 ansible-role-common-master/vars/
+-rw-rw-r-- root/root        41 2016-02-22 17:23 ansible-role-common-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-05-23 18:09 ansible-rol-rabbitmq-master/
+-rw-rw-r-- root/root       256 2018-05-23 18:09 ansible-rol-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2018-05-23 18:09 ansible-rol-rabbitmq-master/defaults/
+-rw-rw-r-- root/root         3 2018-05-23 18:09 ansible-rol-rabbitmq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-23 18:09 ansible-rol-rabbitmq-master/files/
+-rw-rw-r-- root/root   9450439 2018-05-23 18:09 ansible-rol-rabbitmq-master/files/rabbitmq-server-3.7.5-1.el7.noarch.rpm
+drwxrwxr-x root/root         0 2018-05-23 18:09 ansible-rol-rabbitmq-master/handlers/
+-rw-rw-r-- root/root         5 2018-05-23 18:09 ansible-rol-rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-23 18:09 ansible-rol-rabbitmq-master/meta/
+-rw-rw-r-- root/root       244 2018-05-23 18:09 ansible-rol-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-23 18:09 ansible-rol-rabbitmq-master/tasks/
+-rw-rw-r-- root/root      1739 2018-05-23 18:09 ansible-rol-rabbitmq-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       105 2018-05-23 18:09 ansible-rol-rabbitmq-master/tasks/main.yml

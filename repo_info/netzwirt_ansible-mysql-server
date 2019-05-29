@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-30 02:22 ansible-mysql-server-master/
+-rw-rw-r-- root/root       928 2017-08-30 02:22 ansible-mysql-server-master/README.md
+drwxrwxr-x root/root         0 2017-08-30 02:22 ansible-mysql-server-master/defaults/
+-rw-rw-r-- root/root       613 2017-08-30 02:22 ansible-mysql-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-30 02:22 ansible-mysql-server-master/handlers/
+-rw-rw-r-- root/root       213 2017-08-30 02:22 ansible-mysql-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-30 02:22 ansible-mysql-server-master/meta/
+-rw-rw-r-- root/root       402 2017-08-30 02:22 ansible-mysql-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-30 02:22 ansible-mysql-server-master/tasks/
+-rw-rw-r-- root/root      2213 2017-08-30 02:22 ansible-mysql-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-30 02:22 ansible-mysql-server-master/templates/
+-rw-rw-r-- root/root        82 2017-08-30 02:22 ansible-mysql-server-master/templates/bind-address.cnf.j2
+-rw-rw-r-- root/root       326 2017-08-30 02:22 ansible-mysql-server-master/templates/charset.cnf.j2
+-rw-rw-r-- root/root       276 2017-08-30 02:22 ansible-mysql-server-master/templates/my.cnf.j2
+-rw-rw-r-- root/root        76 2017-08-30 02:22 ansible-mysql-server-master/templates/sql-mode.cnf.j2
+-rwxrwxr-x root/root       103 2017-08-30 02:22 ansible-mysql-server-master/templates/variables.cnf.j2

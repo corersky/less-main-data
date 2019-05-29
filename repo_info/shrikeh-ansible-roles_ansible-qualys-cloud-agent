@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-11-13 04:59 ansible-qualys-cloud-agent-master/
+-rw-rw-r-- root/root       702 2015-11-13 04:59 ansible-qualys-cloud-agent-master/.gitignore
+-rw-rw-r-- root/root         9 2015-11-13 04:59 ansible-qualys-cloud-agent-master/.travis.yml
+-rw-rw-r-- root/root      1081 2015-11-13 04:59 ansible-qualys-cloud-agent-master/LICENSE
+-rw-rw-r-- root/root      2191 2015-11-13 04:59 ansible-qualys-cloud-agent-master/README.md
+drwxrwxr-x root/root         0 2015-11-13 04:59 ansible-qualys-cloud-agent-master/defaults/
+-rw-rw-r-- root/root       121 2015-11-13 04:59 ansible-qualys-cloud-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-13 04:59 ansible-qualys-cloud-agent-master/handlers/
+-rw-rw-r-- root/root        51 2015-11-13 04:59 ansible-qualys-cloud-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-13 04:59 ansible-qualys-cloud-agent-master/meta/
+-rw-rw-r-- root/root      2395 2015-11-13 04:59 ansible-qualys-cloud-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-13 04:59 ansible-qualys-cloud-agent-master/tasks/
+-rw-rw-r-- root/root       243 2015-11-13 04:59 ansible-qualys-cloud-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-13 04:59 ansible-qualys-cloud-agent-master/test/
+-rw-rw-r-- root/root        59 2015-11-13 04:59 ansible-qualys-cloud-agent-master/test/inventory
+-rw-rw-r-- root/root       456 2015-11-13 04:59 ansible-qualys-cloud-agent-master/test/playbook.yml

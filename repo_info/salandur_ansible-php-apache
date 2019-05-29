@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-apache-master/
+-rw-rw-r-- root/root      1797 2017-03-05 19:38 ansible-php-apache-master/.travis.yml
+-rw-rw-r-- root/root      1057 2017-03-05 19:38 ansible-php-apache-master/LICENSE
+-rw-rw-r-- root/root       657 2017-03-05 19:38 ansible-php-apache-master/README.md
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-apache-master/meta/
+-rw-rw-r-- root/root       280 2017-03-05 19:38 ansible-php-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-apache-master/tasks/
+-rw-rw-r-- root/root       102 2017-03-05 19:38 ansible-php-apache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-05 19:38 ansible-php-apache-master/tests/
+-rw-rw-r-- root/root       286 2017-03-05 19:38 ansible-php-apache-master/tests/Dockerfile.centos-6.8
+-rw-rw-r-- root/root        77 2017-03-05 19:38 ansible-php-apache-master/tests/test.yml

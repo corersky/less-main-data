@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-29 09:59 ansible-role-k-box-master/
+-rw-rw-r-- root/root      1080 2019-03-29 09:59 ansible-role-k-box-master/LICENSE
+-rw-rw-r-- root/root      2131 2019-03-29 09:59 ansible-role-k-box-master/README.md
+drwxrwxr-x root/root         0 2019-03-29 09:59 ansible-role-k-box-master/defaults/
+-rw-rw-r-- root/root        16 2019-03-29 09:59 ansible-role-k-box-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-29 09:59 ansible-role-k-box-master/handlers/
+-rw-rw-r-- root/root       251 2019-03-29 09:59 ansible-role-k-box-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-29 09:59 ansible-role-k-box-master/meta/
+-rw-rw-r-- root/root       312 2019-03-29 09:59 ansible-role-k-box-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-29 09:59 ansible-role-k-box-master/tasks/
+-rw-rw-r-- root/root      2000 2019-03-29 09:59 ansible-role-k-box-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-29 09:59 ansible-role-k-box-master/templates/
+-rw-rw-r-- root/root      3488 2019-03-29 09:59 ansible-role-k-box-master/templates/docker-compose.yml.j2
+-rw-rw-r-- root/root       782 2019-03-29 09:59 ansible-role-k-box-master/templates/kbox.env.j2
+-rw-rw-r-- root/root       444 2019-03-29 09:59 ansible-role-k-box-master/templates/kbox@url.service.j2
+drwxrwxr-x root/root         0 2019-03-29 09:59 ansible-role-k-box-master/vars/
+-rw-rw-r-- root/root         4 2019-03-29 09:59 ansible-role-k-box-master/vars/main.yml

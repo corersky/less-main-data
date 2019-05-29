@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-05 15:03 ansible-loggly-master/
+-rw-rw-r-- root/root       541 2018-11-05 15:03 ansible-loggly-master/.travis.yml
+-rw-rw-r-- root/root        56 2018-11-05 15:03 ansible-loggly-master/README.md
+drwxrwxr-x root/root         0 2018-11-05 15:03 ansible-loggly-master/defaults/
+-rw-rw-r-- root/root       154 2018-11-05 15:03 ansible-loggly-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-05 15:03 ansible-loggly-master/handlers/
+-rw-rw-r-- root/root        93 2018-11-05 15:03 ansible-loggly-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-05 15:03 ansible-loggly-master/meta/
+-rw-rw-r-- root/root       245 2018-11-05 15:03 ansible-loggly-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-05 15:03 ansible-loggly-master/tasks/
+-rw-rw-r-- root/root       492 2018-11-05 15:03 ansible-loggly-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-05 15:03 ansible-loggly-master/templates/
+-rw-rw-r-- root/root      1050 2018-11-05 15:03 ansible-loggly-master/templates/21-nginx-loggly.conf
+-rw-rw-r-- root/root       873 2018-11-05 15:03 ansible-loggly-master/templates/22-loggly.conf
+drwxrwxr-x root/root         0 2018-11-05 15:03 ansible-loggly-master/tests/
+-rw-rw-r-- root/root         9 2018-11-05 15:03 ansible-loggly-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-11-05 15:03 ansible-loggly-master/tests/test.yml

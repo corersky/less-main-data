@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/
+-rw-rw-r-- root/root      1328 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/files/
+-rw-rw-r-- root/root        26 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/files/Sendmail.conf
+drwxrwxr-x root/root         0 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/handlers/
+-rw-rw-r-- root/root        72 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/meta/
+-rw-rw-r-- root/root       304 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/tasks/
+-rw-rw-r-- root/root      1391 2018-11-19 03:53 ansible-role-sendmail_smtp_auth-master/tasks/main.yml

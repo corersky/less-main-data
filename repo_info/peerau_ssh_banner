@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-11-01 06:14 ssh_banner-master/
+-rw-rw-r-- root/root      1210 2018-11-01 06:14 ssh_banner-master/LICENSE
+-rw-rw-r-- root/root      1215 2018-11-01 06:14 ssh_banner-master/README.md
+drwxrwxr-x root/root         0 2018-11-01 06:14 ssh_banner-master/files/
+-rw-rw-r-- root/root      2105 2018-11-01 06:14 ssh_banner-master/files/generate.sh
+drwxrwxr-x root/root         0 2018-11-01 06:14 ssh_banner-master/meta/
+-rw-rw-r-- root/root       307 2018-11-01 06:14 ssh_banner-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-01 06:14 ssh_banner-master/tasks/
+-rw-rw-r-- root/root       704 2018-11-01 06:14 ssh_banner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-01 06:14 ssh_banner-master/templates/
+-rw-rw-r-- root/root      1143 2018-11-01 06:14 ssh_banner-master/templates/sshd_config.txt

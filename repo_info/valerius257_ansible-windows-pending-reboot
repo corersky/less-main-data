@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-05-24 08:14 ansible-windows-pending-reboot-master/
+-rw-rw-r-- root/root       789 2018-05-24 08:14 ansible-windows-pending-reboot-master/README.md
+drwxrwxr-x root/root         0 2018-05-24 08:14 ansible-windows-pending-reboot-master/defaults/
+-rw-rw-r-- root/root        68 2018-05-24 08:14 ansible-windows-pending-reboot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-24 08:14 ansible-windows-pending-reboot-master/files/
+-rw-rw-r-- root/root      1981 2018-05-24 08:14 ansible-windows-pending-reboot-master/files/check_pending_reboot.ps1
+drwxrwxr-x root/root         0 2018-05-24 08:14 ansible-windows-pending-reboot-master/handlers/
+-rw-rw-r-- root/root       123 2018-05-24 08:14 ansible-windows-pending-reboot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-24 08:14 ansible-windows-pending-reboot-master/meta/
+-rw-rw-r-- root/root       242 2018-05-24 08:14 ansible-windows-pending-reboot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-24 08:14 ansible-windows-pending-reboot-master/tasks/
+-rw-rw-r-- root/root       894 2018-05-24 08:14 ansible-windows-pending-reboot-master/tasks/main.yml

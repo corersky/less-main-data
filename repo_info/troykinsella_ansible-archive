@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-22 13:14 ansible-archive-master/
+-rw-rw-r-- root/root         6 2017-03-22 13:14 ansible-archive-master/.gitignore
+-rw-rw-r-- root/root       679 2017-03-22 13:14 ansible-archive-master/.travis.yml
+-rw-rw-r-- root/root      1080 2017-03-22 13:14 ansible-archive-master/LICENSE
+-rw-rw-r-- root/root      2350 2017-03-22 13:14 ansible-archive-master/README.md
+drwxrwxr-x root/root         0 2017-03-22 13:14 ansible-archive-master/defaults/
+-rw-rw-r-- root/root       383 2017-03-22 13:14 ansible-archive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-22 13:14 ansible-archive-master/meta/
+-rw-rw-r-- root/root       479 2017-03-22 13:14 ansible-archive-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-22 13:14 ansible-archive-master/tasks/
+-rw-rw-r-- root/root       792 2017-03-22 13:14 ansible-archive-master/tasks/checksums.yml
+-rw-rw-r-- root/root      1514 2017-03-22 13:14 ansible-archive-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-22 13:14 ansible-archive-master/tests/
+drwxrwxr-x root/root         0 2017-03-22 13:14 ansible-archive-master/tests/fixtures/
+-rw-rw-r-- root/root       152 2017-03-22 13:14 ansible-archive-master/tests/fixtures/hello.tar.xz
+-rw-rw-r-- root/root        10 2017-03-22 13:14 ansible-archive-master/tests/inventory
+-rw-rw-r-- root/root       400 2017-03-22 13:14 ansible-archive-master/tests/test.yml

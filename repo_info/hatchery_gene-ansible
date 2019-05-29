@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-29 12:45 gene-ansible-master/
+-rw-rw-r-- root/root       539 2016-11-29 12:45 gene-ansible-master/.travis.yml
+-rw-rw-r-- root/root      1057 2016-11-29 12:45 gene-ansible-master/LICENSE
+-rw-rw-r-- root/root      1331 2016-11-29 12:45 gene-ansible-master/README.md
+drwxrwxr-x root/root         0 2016-11-29 12:45 gene-ansible-master/defaults/
+-rw-rw-r-- root/root        37 2016-11-29 12:45 gene-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-29 12:45 gene-ansible-master/handlers/
+-rw-rw-r-- root/root        37 2016-11-29 12:45 gene-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-29 12:45 gene-ansible-master/meta/
+-rw-rw-r-- root/root      3885 2016-11-29 12:45 gene-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-29 12:45 gene-ansible-master/tasks/
+-rw-rw-r-- root/root        34 2016-11-29 12:45 gene-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-29 12:45 gene-ansible-master/tests/
+-rw-rw-r-- root/root         9 2016-11-29 12:45 gene-ansible-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-11-29 12:45 gene-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-29 12:45 gene-ansible-master/vars/
+-rw-rw-r-- root/root        33 2016-11-29 12:45 gene-ansible-master/vars/main.yml

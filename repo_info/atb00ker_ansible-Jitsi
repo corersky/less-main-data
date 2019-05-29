@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-01-24 07:31 ansible-Jitsi-master/
+-rw-rw-r-- root/root     34494 2018-01-24 07:31 ansible-Jitsi-master/LICENSE
+-rw-rw-r-- root/root      2537 2018-01-24 07:31 ansible-Jitsi-master/README.md
+drwxrwxr-x root/root         0 2018-01-24 07:31 ansible-Jitsi-master/defaults/
+-rw-rw-r-- root/root      1090 2018-01-24 07:31 ansible-Jitsi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-24 07:31 ansible-Jitsi-master/handlers/
+-rw-rw-r-- root/root        68 2018-01-24 07:31 ansible-Jitsi-master/handlers/main.yml
+-rw-rw-r-- root/root      2848 2018-01-24 07:31 ansible-Jitsi-master/main.yaml
+drwxrwxr-x root/root         0 2018-01-24 07:31 ansible-Jitsi-master/meta/
+-rw-rw-r-- root/root       324 2018-01-24 07:31 ansible-Jitsi-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-24 07:31 ansible-Jitsi-master/tasks/
+-rw-rw-r-- root/root        93 2018-01-24 07:31 ansible-Jitsi-master/tasks/apt_upgrade.yml
+-rw-rw-r-- root/root       209 2018-01-24 07:31 ansible-Jitsi-master/tasks/trusty.yml

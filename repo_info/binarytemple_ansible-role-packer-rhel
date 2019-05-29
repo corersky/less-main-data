@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-08-01 23:33 ansible-role-packer-rhel-master/
+-rw-rw-r-- root/root      2754 2015-08-01 23:33 ansible-role-packer-rhel-master/README.md
+drwxrwxr-x root/root         0 2015-08-01 23:33 ansible-role-packer-rhel-master/meta/
+-rw-rw-r-- root/root       333 2015-08-01 23:33 ansible-role-packer-rhel-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-01 23:33 ansible-role-packer-rhel-master/tasks/
+-rw-rw-r-- root/root      2506 2015-08-01 23:33 ansible-role-packer-rhel-master/tasks/main.yml
+-rw-rw-r-- root/root       720 2015-08-01 23:33 ansible-role-packer-rhel-master/tasks/virtualbox.yml
+-rw-rw-r-- root/root      2122 2015-08-01 23:33 ansible-role-packer-rhel-master/tasks/vmware.yml
+drwxrwxr-x root/root         0 2015-08-01 23:33 ansible-role-packer-rhel-master/templates/
+-rw-rw-r-- root/root        16 2015-08-01 23:33 ansible-role-packer-rhel-master/templates/vmhgfs.modules.j2
+-rw-rw-r-- root/root       293 2015-08-01 23:33 ansible-role-packer-rhel-master/templates/vmware-tools.repo.j2

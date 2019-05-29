@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-07-11 17:41 ansible-role-cron_jobs-master/
+-rw-rw-r-- root/root        66 2018-07-11 17:41 ansible-role-cron_jobs-master/.gitattributes
+-rw-rw-r-- root/root      1072 2018-07-11 17:41 ansible-role-cron_jobs-master/LICENSE
+-rw-rw-r-- root/root      1426 2018-07-11 17:41 ansible-role-cron_jobs-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 17:41 ansible-role-cron_jobs-master/defaults/
+-rw-rw-r-- root/root       104 2018-07-11 17:41 ansible-role-cron_jobs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-11 17:41 ansible-role-cron_jobs-master/meta/
+-rw-rw-r-- root/root       295 2018-07-11 17:41 ansible-role-cron_jobs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-11 17:41 ansible-role-cron_jobs-master/tasks/
+-rw-rw-r-- root/root      1798 2018-07-11 17:41 ansible-role-cron_jobs-master/tasks/add_cron_jobs.yml
+-rw-rw-r-- root/root       185 2018-07-11 17:41 ansible-role-cron_jobs-master/tasks/main.yml

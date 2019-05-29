@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-07-12 08:15 ansible-role-ora-common-master/
+-rw-rw-r-- root/root      1328 2016-07-12 08:15 ansible-role-ora-common-master/README.md
+drwxrwxr-x root/root         0 2016-07-12 08:15 ansible-role-ora-common-master/defaults/
+-rw-rw-r-- root/root       994 2016-07-12 08:15 ansible-role-ora-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-12 08:15 ansible-role-ora-common-master/meta/
+-rw-rw-r-- root/root       496 2016-07-12 08:15 ansible-role-ora-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-12 08:15 ansible-role-ora-common-master/tasks/
+-rw-rw-r-- root/root      1721 2016-07-12 08:15 ansible-role-ora-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-12 08:15 ansible-role-ora-common-master/templates/
+-rw-rw-r-- root/root       511 2016-07-12 08:15 ansible-role-ora-common-master/templates/motd.j2
+-rw-rw-r-- root/root        43 2016-07-12 08:15 ansible-role-ora-common-master/templates/sudoers.j2

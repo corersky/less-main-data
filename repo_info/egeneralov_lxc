@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-25 21:20 lxc-master/
+-rw-rw-r-- root/root      1073 2019-04-25 21:20 lxc-master/LICENSE
+-rw-rw-r-- root/root       973 2019-04-25 21:20 lxc-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 21:20 lxc-master/defaults/
+-rw-rw-r-- root/root       898 2019-04-25 21:20 lxc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 lxc-master/handlers/
+-rw-rw-r-- root/root        38 2019-04-25 21:20 lxc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 lxc-master/meta/
+-rw-rw-r-- root/root       260 2019-04-25 21:20 lxc-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 lxc-master/tasks/
+-rw-rw-r-- root/root       813 2019-04-25 21:20 lxc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 lxc-master/tests/
+-rw-rw-r-- root/root        11 2019-04-25 21:20 lxc-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-04-25 21:20 lxc-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-25 21:20 lxc-master/vars/
+-rw-rw-r-- root/root        34 2019-04-25 21:20 lxc-master/vars/main.yml

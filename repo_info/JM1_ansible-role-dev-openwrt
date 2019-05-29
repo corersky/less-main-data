@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-openwrt-master/
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-openwrt-master/defaults/
+-rw-rw-r-- root/root         4 2019-05-08 06:17 ansible-role-dev-openwrt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-openwrt-master/meta/
+-rw-rw-r-- root/root       413 2019-05-08 06:17 ansible-role-dev-openwrt-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-openwrt-master/tasks/
+-rw-rw-r-- root/root       140 2019-05-08 06:17 ansible-role-dev-openwrt-master/tasks/main.yml
+-rw-rw-r-- root/root       274 2019-05-08 06:17 ansible-role-dev-openwrt-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-05-08 06:17 ansible-role-dev-openwrt-master/vars/
+-rw-rw-r-- root/root       317 2019-05-08 06:17 ansible-role-dev-openwrt-master/vars/Debian-Buster.yml

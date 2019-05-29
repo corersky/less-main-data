@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-25 20:18 ansible-vfio-redhat-master/
+-rw-rw-r-- root/root      1072 2018-12-25 20:18 ansible-vfio-redhat-master/LICENSE
+-rw-rw-r-- root/root      1496 2018-12-25 20:18 ansible-vfio-redhat-master/README.md
+drwxrwxr-x root/root         0 2018-12-25 20:18 ansible-vfio-redhat-master/defaults/
+-rw-rw-r-- root/root       183 2018-12-25 20:18 ansible-vfio-redhat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-25 20:18 ansible-vfio-redhat-master/files/
+-rw-rw-r-- root/root         9 2018-12-25 20:18 ansible-vfio-redhat-master/files/vfio-modules-load.conf
+drwxrwxr-x root/root         0 2018-12-25 20:18 ansible-vfio-redhat-master/meta/
+-rw-rw-r-- root/root       334 2018-12-25 20:18 ansible-vfio-redhat-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-25 20:18 ansible-vfio-redhat-master/tasks/
+-rw-rw-r-- root/root      1325 2018-12-25 20:18 ansible-vfio-redhat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-25 20:18 ansible-vfio-redhat-master/templates/
+-rw-rw-r-- root/root       110 2018-12-25 20:18 ansible-vfio-redhat-master/templates/vfio-dracut.conf.j2
+-rw-rw-r-- root/root        98 2018-12-25 20:18 ansible-vfio-redhat-master/templates/vfio-modprobe.conf.j2
+drwxrwxr-x root/root         0 2018-12-25 20:18 ansible-vfio-redhat-master/vars/
+-rw-rw-r-- root/root       440 2018-12-25 20:18 ansible-vfio-redhat-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-22 04:37 ansible-alpine-python-master/
+-rw-rw-r-- root/root         9 2016-06-22 04:37 ansible-alpine-python-master/.gitignore
+-rw-rw-r-- root/root       361 2016-06-22 04:37 ansible-alpine-python-master/.travis.yml
+-rw-rw-r-- root/root      1111 2016-06-22 04:37 ansible-alpine-python-master/LICENSE
+-rw-rw-r-- root/root      1583 2016-06-22 04:37 ansible-alpine-python-master/README.md
+-rw-rw-r-- root/root       833 2016-06-22 04:37 ansible-alpine-python-master/Vagrantfile
+-rw-rw-r-- root/root       303 2016-06-22 04:37 ansible-alpine-python-master/circle.yml
+drwxrwxr-x root/root         0 2016-06-22 04:37 ansible-alpine-python-master/defaults/
+-rw-rw-r-- root/root       741 2016-06-22 04:37 ansible-alpine-python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-22 04:37 ansible-alpine-python-master/meta/
+-rw-rw-r-- root/root       344 2016-06-22 04:37 ansible-alpine-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-22 04:37 ansible-alpine-python-master/tasks/
+-rw-rw-r-- root/root       330 2016-06-22 04:37 ansible-alpine-python-master/tasks/fix-alpine-repo.yml
+-rw-rw-r-- root/root       375 2016-06-22 04:37 ansible-alpine-python-master/tasks/main.yml
+-rw-rw-r-- root/root       172 2016-06-22 04:37 ansible-alpine-python-master/test.yml
+drwxrwxr-x root/root         0 2016-06-22 04:37 ansible-alpine-python-master/test/
+-rw-rw-r-- root/root       439 2016-06-22 04:37 ansible-alpine-python-master/test/Dockerfile

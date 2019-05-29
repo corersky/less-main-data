@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-04-14 23:55 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root        13 2016-04-14 23:55 ansible-role-letsencrypt-master/.gitignore
+-rw-rw-r-- root/root       889 2016-04-14 23:55 ansible-role-letsencrypt-master/.travis.yml
+-rw-rw-r-- root/root     35142 2016-04-14 23:55 ansible-role-letsencrypt-master/LICENSE
+-rw-rw-r-- root/root      1858 2016-04-14 23:55 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2016-04-14 23:55 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       187 2016-04-14 23:55 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-14 23:55 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root       478 2016-04-14 23:55 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-14 23:55 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root      2123 2016-04-14 23:55 ansible-role-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-14 23:55 ansible-role-letsencrypt-master/tests/
+-rw-rw-r-- root/root        10 2016-04-14 23:55 ansible-role-letsencrypt-master/tests/inventory
+-rw-rw-r-- root/root        83 2016-04-14 23:55 ansible-role-letsencrypt-master/tests/test.yml

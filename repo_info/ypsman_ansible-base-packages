@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-04 02:58 ansible-base-packages-master/
+-rw-rw-r-- root/root       729 2018-07-04 02:58 ansible-base-packages-master/.travis.yml
+-rw-rw-r-- root/root       414 2018-07-04 02:58 ansible-base-packages-master/README.md
+drwxrwxr-x root/root         0 2018-07-04 02:58 ansible-base-packages-master/defaults/
+-rw-rw-r-- root/root        70 2018-07-04 02:58 ansible-base-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-04 02:58 ansible-base-packages-master/meta/
+-rw-rw-r-- root/root       420 2018-07-04 02:58 ansible-base-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 02:58 ansible-base-packages-master/tasks/
+-rw-rw-r-- root/root       451 2018-07-04 02:58 ansible-base-packages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-04 02:58 ansible-base-packages-master/tests/
+-rw-rw-r-- root/root         9 2018-07-04 02:58 ansible-base-packages-master/tests/inventory
+-rw-rw-r-- root/root        10 2018-07-04 02:58 ansible-base-packages-master/tests/test.retry
+-rw-rw-r-- root/root        79 2018-07-04 02:58 ansible-base-packages-master/tests/test.yml

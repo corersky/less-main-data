@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-14 02:36 ansible-sidekiq-master/
+-rw-rw-r-- root/root      1084 2018-08-14 02:36 ansible-sidekiq-master/LICENSE
+-rw-rw-r-- root/root      1289 2018-08-14 02:36 ansible-sidekiq-master/README.md
+drwxrwxr-x root/root         0 2018-08-14 02:36 ansible-sidekiq-master/defaults/
+-rw-rw-r-- root/root       102 2018-08-14 02:36 ansible-sidekiq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-14 02:36 ansible-sidekiq-master/meta/
+-rw-rw-r-- root/root      3732 2018-08-14 02:36 ansible-sidekiq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-14 02:36 ansible-sidekiq-master/tasks/
+-rw-rw-r-- root/root        77 2018-08-14 02:36 ansible-sidekiq-master/tasks/main.yml
+-rw-rw-r-- root/root       807 2018-08-14 02:36 ansible-sidekiq-master/tasks/systemd.yml
+drwxrwxr-x root/root         0 2018-08-14 02:36 ansible-sidekiq-master/templates/
+-rw-rw-r-- root/root      1497 2018-08-14 02:36 ansible-sidekiq-master/templates/sidekiq.service.j2
+-rw-rw-r-- root/root       294 2018-08-14 02:36 ansible-sidekiq-master/templates/sudoers_sidekiq.xenial.j2

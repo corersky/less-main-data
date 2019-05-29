@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-18 13:57 ansible-role-ansible-master/
+-rw-rw-r-- root/root        40 2017-11-18 13:57 ansible-role-ansible-master/.gitlab-ci.yml
+-rw-rw-r-- root/root       253 2017-11-18 13:57 ansible-role-ansible-master/.travis.yml
+-rw-rw-r-- root/root       187 2017-11-18 13:57 ansible-role-ansible-master/README.md
+drwxrwxr-x root/root         0 2017-11-18 13:57 ansible-role-ansible-master/meta/
+-rw-rw-r-- root/root       271 2017-11-18 13:57 ansible-role-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-18 13:57 ansible-role-ansible-master/molecule/
+drwxrwxr-x root/root         0 2017-11-18 13:57 ansible-role-ansible-master/molecule/default/
+-rw-rw-r-- root/root       755 2017-11-18 13:57 ansible-role-ansible-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root      2008 2017-11-18 13:57 ansible-role-ansible-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2017-11-18 13:57 ansible-role-ansible-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       230 2017-11-18 13:57 ansible-role-ansible-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        53 2017-11-18 13:57 ansible-role-ansible-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root       276 2017-11-18 13:57 ansible-role-ansible-master/molecule/default/prepare.yml
+drwxrwxr-x root/root         0 2017-11-18 13:57 ansible-role-ansible-master/tasks/
+-rw-rw-r-- root/root       463 2017-11-18 13:57 ansible-role-ansible-master/tasks/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-23 07:42 ansible-role-basic-server-setup-master/
+-rw-rw-r-- root/root      1059 2017-04-23 07:42 ansible-role-basic-server-setup-master/README.md
+drwxrwxr-x root/root         0 2017-04-23 07:42 ansible-role-basic-server-setup-master/defaults/
+-rw-rw-r-- root/root        47 2017-04-23 07:42 ansible-role-basic-server-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-23 07:42 ansible-role-basic-server-setup-master/handlers/
+-rw-rw-r-- root/root        84 2017-04-23 07:42 ansible-role-basic-server-setup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-23 07:42 ansible-role-basic-server-setup-master/meta/
+-rw-rw-r-- root/root       354 2017-04-23 07:42 ansible-role-basic-server-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-23 07:42 ansible-role-basic-server-setup-master/tasks/
+-rw-rw-r-- root/root       303 2017-04-23 07:42 ansible-role-basic-server-setup-master/tasks/main.yml
+-rw-rw-r-- root/root       939 2017-04-23 07:42 ansible-role-basic-server-setup-master/tasks/network_hostname.yml
+-rw-rw-r-- root/root      1248 2017-04-23 07:42 ansible-role-basic-server-setup-master/tasks/network_ipv6.yml
+-rw-rw-r-- root/root       123 2017-04-23 07:42 ansible-role-basic-server-setup-master/tasks/network_main.yml
+-rw-rw-r-- root/root       490 2017-04-23 07:42 ansible-role-basic-server-setup-master/tasks/ssh_configuration.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-05-20 15:46 ansible-cloudflare-master/
+-rw-rw-r-- root/root        38 2016-05-20 15:46 ansible-cloudflare-master/.gitignore
+-rw-rw-r-- root/root      1517 2016-05-20 15:46 ansible-cloudflare-master/LICENSE
+-rw-rw-r-- root/root      2705 2016-05-20 15:46 ansible-cloudflare-master/README.md
+drwxrwxr-x root/root         0 2016-05-20 15:46 ansible-cloudflare-master/library/
+-rw-rw-r-- root/root      7320 2016-05-20 15:46 ansible-cloudflare-master/library/cloudflare_domain.py
+-rw-rw-r-- root/root     13329 2016-05-20 15:46 ansible-cloudflare-master/library/tests.py
+drwxrwxr-x root/root         0 2016-05-20 15:46 ansible-cloudflare-master/meta/
+-rw-rw-r-- root/root       325 2016-05-20 15:46 ansible-cloudflare-master/meta/main.yml
+-rw-rw-r-- root/root       136 2016-05-20 15:46 ansible-cloudflare-master/requirements.txt

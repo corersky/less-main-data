@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-16 05:47 ansible-role-ntp-master/
+-rw-rw-r-- root/root      1115 2018-08-16 05:47 ansible-role-ntp-master/LICENSE
+-rw-rw-r-- root/root      3497 2018-08-16 05:47 ansible-role-ntp-master/README.md
+drwxrwxr-x root/root         0 2018-08-16 05:47 ansible-role-ntp-master/meta/
+-rw-rw-r-- root/root       339 2018-08-16 05:47 ansible-role-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-16 05:47 ansible-role-ntp-master/tasks/
+-rw-rw-r-- root/root      1406 2018-08-16 05:47 ansible-role-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-16 05:47 ansible-role-ntp-master/templates/
+-rw-rw-r-- root/root      2478 2018-08-16 05:47 ansible-role-ntp-master/templates/centos-6-ntp.conf.j2
+-rw-rw-r-- root/root      2700 2018-08-16 05:47 ansible-role-ntp-master/templates/centos-7-ntp.conf.j2
+-rw-rw-r-- root/root      2692 2018-08-16 05:47 ansible-role-ntp-master/templates/redhat-7-ntp.conf.j2
+drwxrwxr-x root/root         0 2018-08-16 05:47 ansible-role-ntp-master/vars/
+-rw-rw-r-- root/root       152 2018-08-16 05:47 ansible-role-ntp-master/vars/main.yml

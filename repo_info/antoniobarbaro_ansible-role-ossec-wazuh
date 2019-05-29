@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-02-03 05:38 ansible-role-ossec-wazuh-master/
+-rw-rw-r-- root/root       559 2017-02-03 05:38 ansible-role-ossec-wazuh-master/README.md
+drwxrwxr-x root/root         0 2017-02-03 05:38 ansible-role-ossec-wazuh-master/defaults/
+-rw-rw-r-- root/root        76 2017-02-03 05:38 ansible-role-ossec-wazuh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-03 05:38 ansible-role-ossec-wazuh-master/handlers/
+-rw-rw-r-- root/root       129 2017-02-03 05:38 ansible-role-ossec-wazuh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-03 05:38 ansible-role-ossec-wazuh-master/meta/
+-rw-rw-r-- root/root       245 2017-02-03 05:38 ansible-role-ossec-wazuh-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-03 05:38 ansible-role-ossec-wazuh-master/tasks/
+-rw-rw-r-- root/root      1381 2017-02-03 05:38 ansible-role-ossec-wazuh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-03 05:38 ansible-role-ossec-wazuh-master/templates/
+-rw-rw-r-- root/root       751 2017-02-03 05:38 ansible-role-ossec-wazuh-master/templates/preloaded-vars.conf.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-14 03:20 ansible-cntlm-master/
+-rw-rw-r-- root/root         6 2017-09-14 03:20 ansible-cntlm-master/.gitignore
+-rw-rw-r-- root/root      1083 2017-09-14 03:20 ansible-cntlm-master/LICENSE
+-rw-rw-r-- root/root      2092 2017-09-14 03:20 ansible-cntlm-master/README.md
+drwxrwxr-x root/root         0 2017-09-14 03:20 ansible-cntlm-master/defaults/
+-rw-rw-r-- root/root       860 2017-09-14 03:20 ansible-cntlm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-14 03:20 ansible-cntlm-master/handlers/
+-rw-rw-r-- root/root       100 2017-09-14 03:20 ansible-cntlm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-14 03:20 ansible-cntlm-master/meta/
+-rw-rw-r-- root/root      1228 2017-09-14 03:20 ansible-cntlm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-14 03:20 ansible-cntlm-master/tasks/
+-rw-rw-r-- root/root       467 2017-09-14 03:20 ansible-cntlm-master/tasks/install-debian.yml
+-rw-rw-r-- root/root       470 2017-09-14 03:20 ansible-cntlm-master/tasks/install-redhat.yml
+-rw-rw-r-- root/root       630 2017-09-14 03:20 ansible-cntlm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-14 03:20 ansible-cntlm-master/templates/
+-rw-rw-r-- root/root      2923 2017-09-14 03:20 ansible-cntlm-master/templates/cntlm.conf.j2

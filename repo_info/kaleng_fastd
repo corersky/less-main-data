@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-11-12 13:24 fastd-master/
+-rw-rw-r-- root/root      2151 2016-11-12 13:24 fastd-master/README.md
+drwxrwxr-x root/root         0 2016-11-12 13:24 fastd-master/defaults/
+-rw-rw-r-- root/root       425 2016-11-12 13:24 fastd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-12 13:24 fastd-master/handlers/
+-rw-rw-r-- root/root        65 2016-11-12 13:24 fastd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-12 13:24 fastd-master/meta/
+-rw-rw-r-- root/root       225 2016-11-12 13:24 fastd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-12 13:24 fastd-master/tasks/
+-rw-rw-r-- root/root      1078 2016-11-12 13:24 fastd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-12 13:24 fastd-master/templates/
+-rw-rw-r-- root/root      2569 2016-11-12 13:24 fastd-master/templates/fastd.conf.j2

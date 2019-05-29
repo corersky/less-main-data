@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 19:17 ansible-ngrep-master/
+-rw-rw-r-- root/root       812 2016-09-05 19:17 ansible-ngrep-master/.travis.yml
+-rw-rw-r-- root/root       471 2016-09-05 19:17 ansible-ngrep-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 19:17 ansible-ngrep-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 19:17 ansible-ngrep-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:17 ansible-ngrep-master/meta/
+-rw-rw-r-- root/root       308 2016-09-05 19:17 ansible-ngrep-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:17 ansible-ngrep-master/tasks/
+-rw-rw-r-- root/root       381 2016-09-05 19:17 ansible-ngrep-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:17 ansible-ngrep-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 19:17 ansible-ngrep-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-09-05 19:17 ansible-ngrep-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 19:17 ansible-ngrep-master/vars/
+-rw-rw-r-- root/root        60 2016-09-05 19:17 ansible-ngrep-master/vars/main.yml

@@ -1,0 +1,41 @@
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/
+-rw-rw-r-- root/root       147 2019-03-04 08:48 ansible-role-ufw-master/.editorconfig
+-rw-rw-r-- root/root      1085 2019-03-04 08:48 ansible-role-ufw-master/LICENSE
+-rw-rw-r-- root/root      1851 2019-03-04 08:48 ansible-role-ufw-master/README.md
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/defaults/
+-rw-rw-r-- root/root       723 2019-03-04 08:48 ansible-role-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/
+-rw-rw-r-- root/root        24 2019-03-04 08:48 ansible-role-ufw-master/examples/.gitignore
+-rw-rw-r-- root/root        31 2019-03-04 08:48 ansible-role-ufw-master/examples/.rspec
+-rw-rw-r-- root/root       685 2019-03-04 08:48 ansible-role-ufw-master/examples/Rakefile
+-rw-rw-r-- root/root      1875 2019-03-04 08:48 ansible-role-ufw-master/examples/Vagrantfile
+-rw-rw-r-- root/root       302 2019-03-04 08:48 ansible-role-ufw-master/examples/playbook.yml
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/roles/
+lrwxrwxrwx root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/roles/znz.ufw -> ../..
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/default/
+-rw-rw-r-- root/root       260 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/default/ufw_spec.rb
+lrwxrwxrwx root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/jessie64 -> default
+-rw-rw-r-- root/root       829 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/spec_helper.rb
+lrwxrwxrwx root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/stretch64 -> default
+lrwxrwxrwx root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/trusty64 -> default
+lrwxrwxrwx root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/wheezy64 -> default
+lrwxrwxrwx root/root         0 2019-03-04 08:48 ansible-role-ufw-master/examples/spec/xenial64 -> default
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/meta/
+-rw-rw-r-- root/root       349 2019-03-04 08:48 ansible-role-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/tasks/
+-rw-rw-r-- root/root      3263 2019-03-04 08:48 ansible-role-ufw-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/templates/
+-rw-rw-r-- root/root      3220 2019-03-04 08:48 ansible-role-ufw-master/templates/before.rules.Debian.jessie.j2
+-rw-rw-r-- root/root      3250 2019-03-04 08:48 ansible-role-ufw-master/templates/before.rules.Debian.stretch.j2
+-rw-rw-r-- root/root      3220 2019-03-04 08:48 ansible-role-ufw-master/templates/before.rules.Debian.wheezy.j2
+-rw-rw-r-- root/root      3250 2019-03-04 08:48 ansible-role-ufw-master/templates/before.rules.Ubuntu.trusty.j2
+-rw-rw-r-- root/root      3250 2019-03-04 08:48 ansible-role-ufw-master/templates/before.rules.Ubuntu.xenial.j2
+-rw-rw-r-- root/root      3825 2019-03-04 08:48 ansible-role-ufw-master/templates/before6.rules.Debian.jessie.j2
+-rw-rw-r-- root/root      6930 2019-03-04 08:48 ansible-role-ufw-master/templates/before6.rules.Debian.stretch.j2
+-rw-rw-r-- root/root      3825 2019-03-04 08:48 ansible-role-ufw-master/templates/before6.rules.Debian.wheezy.j2
+-rw-rw-r-- root/root      3855 2019-03-04 08:48 ansible-role-ufw-master/templates/before6.rules.Ubuntu.trusty.j2
+-rw-rw-r-- root/root      6930 2019-03-04 08:48 ansible-role-ufw-master/templates/before6.rules.Ubuntu.xenial.j2
+drwxrwxr-x root/root         0 2019-03-04 08:48 ansible-role-ufw-master/tests/
+-rw-rw-r-- root/root        10 2019-03-04 08:48 ansible-role-ufw-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-03-04 08:48 ansible-role-ufw-master/tests/test.yml

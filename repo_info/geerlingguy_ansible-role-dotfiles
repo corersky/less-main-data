@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-dotfiles-master/
+-rw-rw-r-- root/root        28 2019-05-16 22:08 ansible-role-dotfiles-master/.gitignore
+-rw-rw-r-- root/root       525 2019-05-16 22:08 ansible-role-dotfiles-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-16 22:08 ansible-role-dotfiles-master/LICENSE
+-rw-rw-r-- root/root      1946 2019-05-16 22:08 ansible-role-dotfiles-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-dotfiles-master/defaults/
+-rw-rw-r-- root/root       280 2019-05-16 22:08 ansible-role-dotfiles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-dotfiles-master/meta/
+-rw-rw-r-- root/root       499 2019-05-16 22:08 ansible-role-dotfiles-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-dotfiles-master/molecule/
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-dotfiles-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-16 22:08 ansible-role-dotfiles-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       255 2019-05-16 22:08 ansible-role-dotfiles-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        27 2019-05-16 22:08 ansible-role-dotfiles-master/molecule/default/requirements.yml
+-rw-rw-r-- root/root        75 2019-05-16 22:08 ansible-role-dotfiles-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-16 22:08 ansible-role-dotfiles-master/tasks/
+-rw-rw-r-- root/root       974 2019-05-16 22:08 ansible-role-dotfiles-master/tasks/main.yml

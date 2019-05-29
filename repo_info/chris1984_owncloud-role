@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-17 16:28 owncloud-role-master/
+-rw-rw-r-- root/root       493 2018-08-17 16:28 owncloud-role-master/.travis.yml
+-rw-rw-r-- root/root       172 2018-08-17 16:28 owncloud-role-master/.yamllint
+-rw-rw-r-- root/root      1417 2018-08-17 16:28 owncloud-role-master/README.md
+drwxrwxr-x root/root         0 2018-08-17 16:28 owncloud-role-master/defaults/
+-rw-rw-r-- root/root       308 2018-08-17 16:28 owncloud-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-17 16:28 owncloud-role-master/handlers/
+-rw-rw-r-- root/root        74 2018-08-17 16:28 owncloud-role-master/handlers/main.yml
+-rw-rw-r-- root/root        10 2018-08-17 16:28 owncloud-role-master/inventory
+drwxrwxr-x root/root         0 2018-08-17 16:28 owncloud-role-master/meta/
+-rw-rw-r-- root/root       300 2018-08-17 16:28 owncloud-role-master/meta/main.yml
+-rw-rw-r-- root/root        31 2018-08-17 16:28 owncloud-role-master/requirements.yml
+drwxrwxr-x root/root         0 2018-08-17 16:28 owncloud-role-master/tasks/
+-rw-rw-r-- root/root      2813 2018-08-17 16:28 owncloud-role-master/tasks/main.yml
+-rw-rw-r-- root/root       108 2018-08-17 16:28 owncloud-role-master/test.yml

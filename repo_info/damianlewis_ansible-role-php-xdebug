@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-12-17 08:46 ansible-role-php-xdebug-master/
+-rw-rw-r-- root/root      1697 2018-12-17 08:46 ansible-role-php-xdebug-master/README.md
+drwxrwxr-x root/root         0 2018-12-17 08:46 ansible-role-php-xdebug-master/defaults/
+-rw-rw-r-- root/root       303 2018-12-17 08:46 ansible-role-php-xdebug-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 08:46 ansible-role-php-xdebug-master/meta/
+-rw-rw-r-- root/root       380 2018-12-17 08:46 ansible-role-php-xdebug-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 08:46 ansible-role-php-xdebug-master/tasks/
+-rw-rw-r-- root/root      1287 2018-12-17 08:46 ansible-role-php-xdebug-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-17 08:46 ansible-role-php-xdebug-master/templates/
+-rw-rw-r-- root/root       746 2018-12-17 08:46 ansible-role-php-xdebug-master/templates/xdebug.ini.j2
+drwxrwxr-x root/root         0 2018-12-17 08:46 ansible-role-php-xdebug-master/vars/
+-rw-rw-r-- root/root        37 2018-12-17 08:46 ansible-role-php-xdebug-master/vars/main.yml

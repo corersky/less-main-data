@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-06 09:59 ansible-role-docker-master/
+-rw-rw-r-- root/root        14 2016-05-06 09:59 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root       549 2016-05-06 09:59 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root      5507 2016-05-06 09:59 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2016-05-06 09:59 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        21 2016-05-06 09:59 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-06 09:59 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        66 2016-05-06 09:59 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-06 09:59 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       233 2016-05-06 09:59 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-06 09:59 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root      1347 2016-05-06 09:59 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-06 09:59 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root       555 2016-05-06 09:59 ansible-role-docker-master/tests/Vagrantfile
+-rw-rw-r-- root/root        64 2016-05-06 09:59 ansible-role-docker-master/tests/inventory
+-rw-rw-r-- root/root       127 2016-05-06 09:59 ansible-role-docker-master/tests/test.yml

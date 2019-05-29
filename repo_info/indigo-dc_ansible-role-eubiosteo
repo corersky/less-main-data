@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-02-27 10:03 ansible-role-eubiosteo-master/
+-rw-rw-r-- root/root       964 2017-02-27 10:03 ansible-role-eubiosteo-master/.travis.yml
+-rw-rw-r-- root/root       799 2017-02-27 10:03 ansible-role-eubiosteo-master/README.md
+drwxrwxr-x root/root         0 2017-02-27 10:03 ansible-role-eubiosteo-master/defaults/
+-rw-rw-r-- root/root       122 2017-02-27 10:03 ansible-role-eubiosteo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-27 10:03 ansible-role-eubiosteo-master/meta/
+-rw-rw-r-- root/root       370 2017-02-27 10:03 ansible-role-eubiosteo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-27 10:03 ansible-role-eubiosteo-master/tasks/
+-rw-rw-r-- root/root      2459 2017-02-27 10:03 ansible-role-eubiosteo-master/tasks/install.yml
+-rw-rw-r-- root/root       182 2017-02-27 10:03 ansible-role-eubiosteo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-27 10:03 ansible-role-eubiosteo-master/tests/
+-rw-rw-r-- root/root         9 2017-02-27 10:03 ansible-role-eubiosteo-master/tests/inventory
+-rw-rw-r-- root/root        54 2017-02-27 10:03 ansible-role-eubiosteo-master/tests/test.yml

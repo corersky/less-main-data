@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-12 07:09 ansible-role-leanote-master/
+-rw-rw-r-- root/root       540 2016-12-12 07:09 ansible-role-leanote-master/.travis.yml
+-rw-rw-r-- root/root      1071 2016-12-12 07:09 ansible-role-leanote-master/LICENSE
+-rw-rw-r-- root/root       588 2016-12-12 07:09 ansible-role-leanote-master/README.md
+drwxrwxr-x root/root         0 2016-12-12 07:09 ansible-role-leanote-master/defaults/
+-rw-rw-r-- root/root       118 2016-12-12 07:09 ansible-role-leanote-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-12 07:09 ansible-role-leanote-master/meta/
+-rw-rw-r-- root/root      3203 2016-12-12 07:09 ansible-role-leanote-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-12 07:09 ansible-role-leanote-master/tasks/
+-rw-rw-r-- root/root      1231 2016-12-12 07:09 ansible-role-leanote-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-12 07:09 ansible-role-leanote-master/templates/
+-rw-rw-r-- root/root      1756 2016-12-12 07:09 ansible-role-leanote-master/templates/app.conf.j2
+drwxrwxr-x root/root         0 2016-12-12 07:09 ansible-role-leanote-master/tests/
+-rw-rw-r-- root/root         9 2016-12-12 07:09 ansible-role-leanote-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-12-12 07:09 ansible-role-leanote-master/tests/test.yml

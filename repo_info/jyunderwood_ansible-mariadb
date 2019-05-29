@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-09-16 09:46 ansible-mariadb-master/
+-rw-rw-r-- root/root      1395 2015-09-16 09:46 ansible-mariadb-master/README.md
+drwxrwxr-x root/root         0 2015-09-16 09:46 ansible-mariadb-master/defaults/
+-rw-rw-r-- root/root       183 2015-09-16 09:46 ansible-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-16 09:46 ansible-mariadb-master/handlers/
+-rw-rw-r-- root/root       121 2015-09-16 09:46 ansible-mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-16 09:46 ansible-mariadb-master/meta/
+-rw-rw-r-- root/root       256 2015-09-16 09:46 ansible-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-16 09:46 ansible-mariadb-master/tasks/
+-rw-rw-r-- root/root       828 2015-09-16 09:46 ansible-mariadb-master/tasks/install.deb.yml
+-rw-rw-r-- root/root        69 2015-09-16 09:46 ansible-mariadb-master/tasks/main.yml
+-rw-rw-r-- root/root       141 2015-09-16 09:46 ansible-mariadb-master/tasks/mariadb.yml
+-rw-rw-r-- root/root       658 2015-09-16 09:46 ansible-mariadb-master/tasks/secure_installation.yml
+drwxrwxr-x root/root         0 2015-09-16 09:46 ansible-mariadb-master/templates/
+-rw-rw-r-- root/root        56 2015-09-16 09:46 ansible-mariadb-master/templates/dotmy.cnf.j2

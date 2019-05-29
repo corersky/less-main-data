@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-13 15:46 ansible-koji-web-master/
+-rw-rw-r-- root/root      2253 2016-08-13 15:46 ansible-koji-web-master/README.md
+drwxrwxr-x root/root         0 2016-08-13 15:46 ansible-koji-web-master/defaults/
+-rw-rw-r-- root/root      1129 2016-08-13 15:46 ansible-koji-web-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-13 15:46 ansible-koji-web-master/handlers/
+-rw-rw-r-- root/root        90 2016-08-13 15:46 ansible-koji-web-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-13 15:46 ansible-koji-web-master/meta/
+-rw-rw-r-- root/root       274 2016-08-13 15:46 ansible-koji-web-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-13 15:46 ansible-koji-web-master/tasks/
+-rw-rw-r-- root/root       186 2016-08-13 15:46 ansible-koji-web-master/tasks/check_certificates.yml
+-rw-rw-r-- root/root      1971 2016-08-13 15:46 ansible-koji-web-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-13 15:46 ansible-koji-web-master/templates/
+-rw-rw-r-- root/root      1228 2016-08-13 15:46 ansible-koji-web-master/templates/kojiweb.conf.j2
+-rw-rw-r-- root/root      2172 2016-08-13 15:46 ansible-koji-web-master/templates/ssl.conf.j2
+-rw-rw-r-- root/root       416 2016-08-13 15:46 ansible-koji-web-master/templates/web.conf.j2
+drwxrwxr-x root/root         0 2016-08-13 15:46 ansible-koji-web-master/vars/
+-rw-rw-r-- root/root        29 2016-08-13 15:46 ansible-koji-web-master/vars/main.yml

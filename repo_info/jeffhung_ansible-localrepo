@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-15 01:34 ansible-localrepo-master/
+-rw-rw-r-- root/root       297 2016-08-15 01:34 ansible-localrepo-master/README.md
+drwxrwxr-x root/root         0 2016-08-15 01:34 ansible-localrepo-master/defaults/
+-rw-rw-r-- root/root        40 2016-08-15 01:34 ansible-localrepo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-15 01:34 ansible-localrepo-master/handlers/
+-rw-rw-r-- root/root        86 2016-08-15 01:34 ansible-localrepo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-15 01:34 ansible-localrepo-master/meta/
+-rw-rw-r-- root/root       225 2016-08-15 01:34 ansible-localrepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-15 01:34 ansible-localrepo-master/tasks/
+-rw-rw-r-- root/root       566 2016-08-15 01:34 ansible-localrepo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-15 01:34 ansible-localrepo-master/templates/
+-rw-rw-r-- root/root        86 2016-08-15 01:34 ansible-localrepo-master/templates/local.repo.j2

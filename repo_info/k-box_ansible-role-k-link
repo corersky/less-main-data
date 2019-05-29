@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-05 03:26 ansible-role-k-link-master/
+-rw-rw-r-- root/root      1080 2018-12-05 03:26 ansible-role-k-link-master/LICENSE
+-rw-rw-r-- root/root      1582 2018-12-05 03:26 ansible-role-k-link-master/README.md
+drwxrwxr-x root/root         0 2018-12-05 03:26 ansible-role-k-link-master/handlers/
+-rw-rw-r-- root/root        91 2018-12-05 03:26 ansible-role-k-link-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-05 03:26 ansible-role-k-link-master/meta/
+-rw-rw-r-- root/root       321 2018-12-05 03:26 ansible-role-k-link-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-05 03:26 ansible-role-k-link-master/tasks/
+-rw-rw-r-- root/root       993 2018-12-05 03:26 ansible-role-k-link-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-05 03:26 ansible-role-k-link-master/templates/
+-rw-rw-r-- root/root      5676 2018-12-05 03:26 ansible-role-k-link-master/templates/docker-compose.yml.j2
+-rw-rw-r-- root/root       442 2018-12-05 03:26 ansible-role-k-link-master/templates/klink@url.service.j2
+drwxrwxr-x root/root         0 2018-12-05 03:26 ansible-role-k-link-master/vars/
+-rw-rw-r-- root/root         4 2018-12-05 03:26 ansible-role-k-link-master/vars/main.yml

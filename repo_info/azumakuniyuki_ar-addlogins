@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-18 04:26 ar-addlogins-master/
+-rw-rw-r-- root/root       539 2017-04-18 04:26 ar-addlogins-master/.travis.yml
+-rw-rw-r-- root/root       910 2017-04-18 04:26 ar-addlogins-master/Makefile
+-rw-rw-r-- root/root      1351 2017-04-18 04:26 ar-addlogins-master/README.md
+drwxrwxr-x root/root         0 2017-04-18 04:26 ar-addlogins-master/defaults/
+-rw-rw-r-- root/root      1198 2017-04-18 04:26 ar-addlogins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-18 04:26 ar-addlogins-master/handlers/
+-rw-rw-r-- root/root        37 2017-04-18 04:26 ar-addlogins-master/handlers/main.yml
+-rwxrwxr-x root/root      7557 2017-04-18 04:26 ar-addlogins-master/make-up-shadow
+drwxrwxr-x root/root         0 2017-04-18 04:26 ar-addlogins-master/meta/
+-rw-rw-r-- root/root       840 2017-04-18 04:26 ar-addlogins-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-18 04:26 ar-addlogins-master/tasks/
+-rw-rw-r-- root/root      1669 2017-04-18 04:26 ar-addlogins-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-18 04:26 ar-addlogins-master/tests/
+-rw-rw-r-- root/root         9 2017-04-18 04:26 ar-addlogins-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-04-18 04:26 ar-addlogins-master/tests/test.yml

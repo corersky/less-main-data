@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-02-03 02:06 ansible-role-mongodb-master/
+-rw-rw-r-- root/root       828 2015-02-03 02:06 ansible-role-mongodb-master/README.md
+drwxrwxr-x root/root         0 2015-02-03 02:06 ansible-role-mongodb-master/defaults/
+-rw-rw-r-- root/root        17 2015-02-03 02:06 ansible-role-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-03 02:06 ansible-role-mongodb-master/handlers/
+-rw-rw-r-- root/root        76 2015-02-03 02:06 ansible-role-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-03 02:06 ansible-role-mongodb-master/meta/
+-rw-rw-r-- root/root       289 2015-02-03 02:06 ansible-role-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-03 02:06 ansible-role-mongodb-master/tasks/
+-rw-rw-r-- root/root       564 2015-02-03 02:06 ansible-role-mongodb-master/tasks/install.yml
+-rw-rw-r-- root/root       116 2015-02-03 02:06 ansible-role-mongodb-master/tasks/main.yml
+-rw-rw-r-- root/root       326 2015-02-03 02:06 ansible-role-mongodb-master/tasks/users.yml

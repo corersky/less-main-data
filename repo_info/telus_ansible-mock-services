@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-23 16:02 ansible-mock-services-master/
+-rw-rw-r-- root/root      1081 2015-10-23 16:02 ansible-mock-services-master/LICENSE
+-rw-rw-r-- root/root        24 2015-10-23 16:02 ansible-mock-services-master/README.md
+drwxrwxr-x root/root         0 2015-10-23 16:02 ansible-mock-services-master/defaults/
+-rw-rw-r-- root/root       354 2015-10-23 16:02 ansible-mock-services-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-23 16:02 ansible-mock-services-master/files/
+drwxrwxr-x root/root         0 2015-10-23 16:02 ansible-mock-services-master/files/opt/
+-rw-rw-r-- root/root        31 2015-10-23 16:02 ansible-mock-services-master/files/opt/mock-services.key
+-rw-rw-r-- root/root        30 2015-10-23 16:02 ansible-mock-services-master/files/opt/mock-services.pub
+drwxrwxr-x root/root         0 2015-10-23 16:02 ansible-mock-services-master/handlers/
+-rw-rw-r-- root/root       123 2015-10-23 16:02 ansible-mock-services-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-23 16:02 ansible-mock-services-master/meta/
+-rw-rw-r-- root/root       435 2015-10-23 16:02 ansible-mock-services-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-23 16:02 ansible-mock-services-master/tasks/
+-rw-rw-r-- root/root       566 2015-10-23 16:02 ansible-mock-services-master/tasks/configure.yml
+-rw-rw-r-- root/root       797 2015-10-23 16:02 ansible-mock-services-master/tasks/install.yml
+-rw-rw-r-- root/root        52 2015-10-23 16:02 ansible-mock-services-master/tasks/main.yml

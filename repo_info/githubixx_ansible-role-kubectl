@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-16 14:18 ansible-role-kubectl-master/
+-rw-rw-r-- root/root      1318 2019-05-16 14:18 ansible-role-kubectl-master/CHANGELOG.md
+-rw-rw-r-- root/root     35141 2019-05-16 14:18 ansible-role-kubectl-master/LICENSE
+-rw-rw-r-- root/root      2108 2019-05-16 14:18 ansible-role-kubectl-master/README.md
+drwxrwxr-x root/root         0 2019-05-16 14:18 ansible-role-kubectl-master/defaults/
+-rw-rw-r-- root/root       902 2019-05-16 14:18 ansible-role-kubectl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-16 14:18 ansible-role-kubectl-master/handlers/
+-rw-rw-r-- root/root         4 2019-05-16 14:18 ansible-role-kubectl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-16 14:18 ansible-role-kubectl-master/meta/
+-rw-rw-r-- root/root       295 2019-05-16 14:18 ansible-role-kubectl-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-16 14:18 ansible-role-kubectl-master/tasks/
+-rw-rw-r-- root/root       798 2019-05-16 14:18 ansible-role-kubectl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-16 14:18 ansible-role-kubectl-master/tests/
+-rw-rw-r-- root/root        11 2019-05-16 14:18 ansible-role-kubectl-master/tests/inventory
+-rw-rw-r-- root/root        59 2019-05-16 14:18 ansible-role-kubectl-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-16 14:18 ansible-role-kubectl-master/vars/
+-rw-rw-r-- root/root         4 2019-05-16 14:18 ansible-role-kubectl-master/vars/main.yml

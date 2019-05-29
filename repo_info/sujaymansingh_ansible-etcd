@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-06-03 02:25 ansible-etcd-master/
+-rw-rw-r-- root/root      1071 2014-06-03 02:25 ansible-etcd-master/LICENSE
+-rw-rw-r-- root/root        83 2014-06-03 02:25 ansible-etcd-master/README.md
+drwxrwxr-x root/root         0 2014-06-03 02:25 ansible-etcd-master/defaults/
+-rw-rw-r-- root/root       155 2014-06-03 02:25 ansible-etcd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-06-03 02:25 ansible-etcd-master/handlers/
+-rw-rw-r-- root/root        73 2014-06-03 02:25 ansible-etcd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-06-03 02:25 ansible-etcd-master/meta/
+-rw-rw-r-- root/root       305 2014-06-03 02:25 ansible-etcd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-06-03 02:25 ansible-etcd-master/tasks/
+-rw-rw-r-- root/root      1018 2014-06-03 02:25 ansible-etcd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-06-03 02:25 ansible-etcd-master/templates/
+-rw-rw-r-- root/root       351 2014-06-03 02:25 ansible-etcd-master/templates/upstart_etcd.j2

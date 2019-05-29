@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-28 14:41 ansible-role-autokey-master/
+-rw-rw-r-- root/root         6 2017-05-28 14:41 ansible-role-autokey-master/.gitignore
+-rw-rw-r-- root/root      1302 2017-05-28 14:41 ansible-role-autokey-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-05-28 14:41 ansible-role-autokey-master/LICENSE
+-rw-rw-r-- root/root      1621 2017-05-28 14:41 ansible-role-autokey-master/README.md
+drwxrwxr-x root/root         0 2017-05-28 14:41 ansible-role-autokey-master/defaults/
+-rw-rw-r-- root/root       187 2017-05-28 14:41 ansible-role-autokey-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-28 14:41 ansible-role-autokey-master/meta/
+-rw-rw-r-- root/root       373 2017-05-28 14:41 ansible-role-autokey-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-28 14:41 ansible-role-autokey-master/tasks/
+-rw-rw-r-- root/root      1652 2017-05-28 14:41 ansible-role-autokey-master/tasks/debian.yml
+-rw-rw-r-- root/root       116 2017-05-28 14:41 ansible-role-autokey-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-28 14:41 ansible-role-autokey-master/tests/
+-rw-rw-r-- root/root        10 2017-05-28 14:41 ansible-role-autokey-master/tests/inventory
+-rw-rw-r-- root/root       186 2017-05-28 14:41 ansible-role-autokey-master/tests/test.yml

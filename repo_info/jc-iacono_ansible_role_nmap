@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-17 09:54 ansible_role_nmap-master/
+-rw-rw-r-- root/root       770 2018-12-17 09:54 ansible_role_nmap-master/CHANGES
+-rw-rw-r-- root/root      1278 2018-12-17 09:54 ansible_role_nmap-master/LICENSE
+-rw-rw-r-- root/root      3645 2018-12-17 09:54 ansible_role_nmap-master/README.bak
+-rw-rw-r-- root/root         6 2018-12-17 09:54 ansible_role_nmap-master/VERSION
+drwxrwxr-x root/root         0 2018-12-17 09:54 ansible_role_nmap-master/defaults/
+-rw-rw-r-- root/root        27 2018-12-17 09:54 ansible_role_nmap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-17 09:54 ansible_role_nmap-master/meta/
+-rw-rw-r-- root/root       304 2018-12-17 09:54 ansible_role_nmap-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-17 09:54 ansible_role_nmap-master/tasks/
+-rw-rw-r-- root/root       190 2018-12-17 09:54 ansible_role_nmap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-17 09:54 ansible_role_nmap-master/tasks/main/
+-rw-rw-r-- root/root       783 2018-12-17 09:54 ansible_role_nmap-master/tasks/main/install.yml
+-rw-rw-r-- root/root       279 2018-12-17 09:54 ansible_role_nmap-master/tasks/main/main.yml
+-rw-rw-r-- root/root       778 2018-12-17 09:54 ansible_role_nmap-master/tasks/main/remove.yml
+drwxrwxr-x root/root         0 2018-12-17 09:54 ansible_role_nmap-master/vars/
+-rw-rw-r-- root/root       213 2018-12-17 09:54 ansible_role_nmap-master/vars/main.yml

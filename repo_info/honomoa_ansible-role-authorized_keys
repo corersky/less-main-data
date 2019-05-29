@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-01-08 23:39 ansible-role-authorized_keys-master/
+-rw-rw-r-- root/root         7 2019-01-08 23:39 ansible-role-authorized_keys-master/.gitignore
+-rw-rw-r-- root/root       528 2019-01-08 23:39 ansible-role-authorized_keys-master/README.md
+drwxrwxr-x root/root         0 2019-01-08 23:39 ansible-role-authorized_keys-master/defaults/
+-rw-rw-r-- root/root        86 2019-01-08 23:39 ansible-role-authorized_keys-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-08 23:39 ansible-role-authorized_keys-master/meta/
+-rw-rw-r-- root/root       270 2019-01-08 23:39 ansible-role-authorized_keys-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-08 23:39 ansible-role-authorized_keys-master/tasks/
+-rw-rw-r-- root/root       146 2019-01-08 23:39 ansible-role-authorized_keys-master/tasks/main.yml
+-rw-rw-r-- root/root       344 2019-01-08 23:39 ansible-role-authorized_keys-master/tasks/provision.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-php-master/
+-rw-rw-r-- root/root       539 2016-05-31 15:41 ansible-role-php-master/.travis.yml
+-rw-rw-r-- root/root      1698 2016-05-31 15:41 ansible-role-php-master/README.md
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-php-master/defaults/
+-rw-rw-r-- root/root        83 2016-05-31 15:41 ansible-role-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-php-master/handlers/
+-rw-rw-r-- root/root        87 2016-05-31 15:41 ansible-role-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-php-master/meta/
+-rw-rw-r-- root/root       348 2016-05-31 15:41 ansible-role-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-php-master/tasks/
+-rw-rw-r-- root/root       311 2016-05-31 15:41 ansible-role-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-php-master/tests/
+-rw-rw-r-- root/root         9 2016-05-31 15:41 ansible-role-php-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-05-31 15:41 ansible-role-php-master/tests/test.yml

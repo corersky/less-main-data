@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-28 12:48 ansible-postfix-master/
+-rw-rw-r-- root/root       868 2016-09-28 12:48 ansible-postfix-master/.travis.yml
+-rw-rw-r-- root/root       485 2016-09-28 12:48 ansible-postfix-master/README.md
+drwxrwxr-x root/root         0 2016-09-28 12:48 ansible-postfix-master/defaults/
+-rw-rw-r-- root/root        93 2016-09-28 12:48 ansible-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-28 12:48 ansible-postfix-master/handlers/
+-rw-rw-r-- root/root       311 2016-09-28 12:48 ansible-postfix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-28 12:48 ansible-postfix-master/meta/
+-rw-rw-r-- root/root       388 2016-09-28 12:48 ansible-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-28 12:48 ansible-postfix-master/tasks/
+-rw-rw-r-- root/root       388 2016-09-28 12:48 ansible-postfix-master/tasks/main.yml
+-rw-rw-r-- root/root       601 2016-09-28 12:48 ansible-postfix-master/tasks/virtual_maps.yml
+drwxrwxr-x root/root         0 2016-09-28 12:48 ansible-postfix-master/tests/
+-rw-rw-r-- root/root        10 2016-09-28 12:48 ansible-postfix-master/tests/inventory
+-rw-rw-r-- root/root        91 2016-09-28 12:48 ansible-postfix-master/tests/test.yml

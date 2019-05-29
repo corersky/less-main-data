@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-30 11:42 ansible_role_packer-master/
+-rw-rw-r-- root/root       429 2017-09-30 11:42 ansible_role_packer-master/.travis.yml
+-rw-rw-r-- root/root      1316 2017-09-30 11:42 ansible_role_packer-master/LICENSE
+-rw-rw-r-- root/root      1424 2017-09-30 11:42 ansible_role_packer-master/README.md
+drwxrwxr-x root/root         0 2017-09-30 11:42 ansible_role_packer-master/defaults/
+-rw-rw-r-- root/root       349 2017-09-30 11:42 ansible_role_packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-30 11:42 ansible_role_packer-master/meta/
+-rw-rw-r-- root/root       292 2017-09-30 11:42 ansible_role_packer-master/meta/main.yml
+-rw-rw-r-- root/root        37 2017-09-30 11:42 ansible_role_packer-master/requirements.yml
+drwxrwxr-x root/root         0 2017-09-30 11:42 ansible_role_packer-master/tasks/
+-rw-rw-r-- root/root      1438 2017-09-30 11:42 ansible_role_packer-master/tasks/install.yml
+-rw-rw-r-- root/root       318 2017-09-30 11:42 ansible_role_packer-master/tasks/main.yml
+-rw-rw-r-- root/root       504 2017-09-30 11:42 ansible_role_packer-master/tasks/prelim.yml
+-rw-rw-r-- root/root       697 2017-09-30 11:42 ansible_role_packer-master/tasks/purge-old.yml
+drwxrwxr-x root/root         0 2017-09-30 11:42 ansible_role_packer-master/tests/
+-rw-rw-r-- root/root         9 2017-09-30 11:42 ansible_role_packer-master/tests/inventory
+-rw-rw-r-- root/root       100 2017-09-30 11:42 ansible_role_packer-master/tests/test.yml

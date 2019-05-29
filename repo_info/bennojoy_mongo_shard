@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-02-07 08:00 mongo_shard-master/
+-rw-rw-r-- root/root      1828 2014-02-07 08:00 mongo_shard-master/README.md
+drwxrwxr-x root/root         0 2014-02-07 08:00 mongo_shard-master/defaults/
+-rw-rw-r-- root/root       174 2014-02-07 08:00 mongo_shard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-02-07 08:00 mongo_shard-master/meta/
+-rw-rw-r-- root/root       287 2014-02-07 08:00 mongo_shard-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-02-07 08:00 mongo_shard-master/tasks/
+-rw-rw-r-- root/root       268 2014-02-07 08:00 mongo_shard-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-02-07 08:00 mongo_shard-master/templates/
+-rw-rw-r-- root/root       277 2014-02-07 08:00 mongo_shard-master/templates/shard_init.j2

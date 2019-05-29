@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-16 07:36 ansible-go-master/
+-rw-rw-r-- root/root      2173 2017-01-16 07:36 ansible-go-master/.travis.yml
+-rw-rw-r-- root/root      1075 2017-01-16 07:36 ansible-go-master/LICENSE
+-rw-rw-r-- root/root      1695 2017-01-16 07:36 ansible-go-master/README.md
+drwxrwxr-x root/root         0 2017-01-16 07:36 ansible-go-master/defaults/
+-rw-rw-r-- root/root       485 2017-01-16 07:36 ansible-go-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-16 07:36 ansible-go-master/meta/
+-rw-rw-r-- root/root       372 2017-01-16 07:36 ansible-go-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-16 07:36 ansible-go-master/tasks/
+-rw-rw-r-- root/root       870 2017-01-16 07:36 ansible-go-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-16 07:36 ansible-go-master/templates/
+-rw-rw-r-- root/root        57 2017-01-16 07:36 ansible-go-master/templates/go_path.sh.j2
+drwxrwxr-x root/root         0 2017-01-16 07:36 ansible-go-master/tests/
+-rw-rw-r-- root/root         9 2017-01-16 07:36 ansible-go-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-01-16 07:36 ansible-go-master/tests/test.yml

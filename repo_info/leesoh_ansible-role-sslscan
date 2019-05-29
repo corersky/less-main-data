@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-15 12:49 ansible-role-sslscan-master/
+-rw-rw-r-- root/root       414 2019-05-15 12:49 ansible-role-sslscan-master/.travis.yml
+-rw-rw-r-- root/root       463 2019-05-15 12:49 ansible-role-sslscan-master/README.md
+-rw-rw-r-- root/root        27 2019-05-15 12:49 ansible-role-sslscan-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-05-15 12:49 ansible-role-sslscan-master/meta/
+-rw-rw-r-- root/root       308 2019-05-15 12:49 ansible-role-sslscan-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-15 12:49 ansible-role-sslscan-master/tasks/
+-rw-rw-r-- root/root       842 2019-05-15 12:49 ansible-role-sslscan-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-15 12:49 ansible-role-sslscan-master/tests/
+-rw-rw-r-- root/root        11 2019-05-15 12:49 ansible-role-sslscan-master/tests/inventory
+-rw-rw-r-- root/root        78 2019-05-15 12:49 ansible-role-sslscan-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-15 12:49 ansible-role-sslscan-master/vars/
+-rw-rw-r-- root/root        32 2019-05-15 12:49 ansible-role-sslscan-master/vars/main.yml

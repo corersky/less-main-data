@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-14 03:22 testrole2-master/
+-rw-rw-r-- root/root       594 2016-10-14 03:22 testrole2-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-10-14 03:22 testrole2-master/README.md
+drwxrwxr-x root/root         0 2016-10-14 03:22 testrole2-master/defaults/
+-rw-rw-r-- root/root        34 2016-10-14 03:22 testrole2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-14 03:22 testrole2-master/handlers/
+-rw-rw-r-- root/root        34 2016-10-14 03:22 testrole2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-14 03:22 testrole2-master/meta/
+-rw-rw-r-- root/root      3789 2016-10-14 03:22 testrole2-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-14 03:22 testrole2-master/tasks/
+-rw-rw-r-- root/root        32 2016-10-14 03:22 testrole2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-14 03:22 testrole2-master/tests/
+-rw-rw-r-- root/root         9 2016-10-14 03:22 testrole2-master/tests/inventory
+-rw-rw-r-- root/root        67 2016-10-14 03:22 testrole2-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-10-14 03:22 testrole2-master/vars/
+-rw-rw-r-- root/root        30 2016-10-14 03:22 testrole2-master/vars/main.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-11-22 06:10 ansible-role-nagios_check_raid-master/
+-rw-rw-r-- root/root      1328 2018-11-22 06:10 ansible-role-nagios_check_raid-master/README.md
+drwxrwxr-x root/root         0 2018-11-22 06:10 ansible-role-nagios_check_raid-master/defaults/
+-rw-rw-r-- root/root        34 2018-11-22 06:10 ansible-role-nagios_check_raid-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-22 06:10 ansible-role-nagios_check_raid-master/meta/
+-rw-rw-r-- root/root       681 2018-11-22 06:10 ansible-role-nagios_check_raid-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-22 06:10 ansible-role-nagios_check_raid-master/tasks/
+-rw-rw-r-- root/root       829 2018-11-22 06:10 ansible-role-nagios_check_raid-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-22 06:10 ansible-role-nagios_check_raid-master/templates/
+-rw-rw-r-- root/root       170 2018-11-22 06:10 ansible-role-nagios_check_raid-master/templates/check_raid.cfg.j2

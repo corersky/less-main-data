@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-10-17 10:10 ansible_ssh_tunnel-master/
+-rw-rw-r-- root/root       949 2018-10-17 10:10 ansible_ssh_tunnel-master/README.md
+-rw-rw-r-- root/root       279 2018-10-17 10:10 ansible_ssh_tunnel-master/apb.yml
+drwxrwxr-x root/root         0 2018-10-17 10:10 ansible_ssh_tunnel-master/tasks/
+-rw-rw-r-- root/root       578 2018-10-17 10:10 ansible_ssh_tunnel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-17 10:10 ansible_ssh_tunnel-master/templates/
+-rw-rw-r-- root/root       690 2018-10-17 10:10 ansible_ssh_tunnel-master/templates/ssh_tunnel.service.j2
+drwxrwxr-x root/root         0 2018-10-17 10:10 ansible_ssh_tunnel-master/vars/
+-rw-rw-r-- root/root        31 2018-10-17 10:10 ansible_ssh_tunnel-master/vars/main.yml

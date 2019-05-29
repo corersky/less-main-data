@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-11 05:13 setup_opennms-master/
+-rw-rw-r-- root/root      1057 2018-11-11 05:13 setup_opennms-master/LICENSE
+-rw-rw-r-- root/root      1243 2018-11-11 05:13 setup_opennms-master/README.md
+drwxrwxr-x root/root         0 2018-11-11 05:13 setup_opennms-master/defaults/
+-rw-rw-r-- root/root       377 2018-11-11 05:13 setup_opennms-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-11 05:13 setup_opennms-master/meta/
+-rw-rw-r-- root/root       276 2018-11-11 05:13 setup_opennms-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-11 05:13 setup_opennms-master/tasks/
+-rw-rw-r-- root/root        89 2018-11-11 05:13 setup_opennms-master/tasks/error.yml
+-rw-rw-r-- root/root       270 2018-11-11 05:13 setup_opennms-master/tasks/install-RedHat.yml
+-rw-rw-r-- root/root      1045 2018-11-11 05:13 setup_opennms-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-11 05:13 setup_opennms-master/templates/
+-rw-rw-r-- root/root      1736 2018-11-11 05:13 setup_opennms-master/templates/opennms-datasources.xml.tpl
+drwxrwxr-x root/root         0 2018-11-11 05:13 setup_opennms-master/test/
+-rw-rw-r-- root/root       265 2018-11-11 05:13 setup_opennms-master/test/test.yml

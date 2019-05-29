@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-17 10:56 ansible-role-compact-box-master/
+-rw-rw-r-- root/root        13 2017-09-17 10:56 ansible-role-compact-box-master/.gitignore
+-rw-rw-r-- root/root       931 2017-09-17 10:56 ansible-role-compact-box-master/.travis.yml
+-rw-rw-r-- root/root     35142 2017-09-17 10:56 ansible-role-compact-box-master/LICENSE
+-rw-rw-r-- root/root      1707 2017-09-17 10:56 ansible-role-compact-box-master/README.md
+drwxrwxr-x root/root         0 2017-09-17 10:56 ansible-role-compact-box-master/defaults/
+-rw-rw-r-- root/root       597 2017-09-17 10:56 ansible-role-compact-box-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-17 10:56 ansible-role-compact-box-master/files/
+-rw-rw-r-- root/root      1679 2017-09-17 10:56 ansible-role-compact-box-master/files/compact_box.sh
+drwxrwxr-x root/root         0 2017-09-17 10:56 ansible-role-compact-box-master/meta/
+-rw-rw-r-- root/root      1682 2017-09-17 10:56 ansible-role-compact-box-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-17 10:56 ansible-role-compact-box-master/tasks/
+-rw-rw-r-- root/root      1617 2017-09-17 10:56 ansible-role-compact-box-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-17 10:56 ansible-role-compact-box-master/tests/
+-rw-rw-r-- root/root        10 2017-09-17 10:56 ansible-role-compact-box-master/tests/inventory
+-rw-rw-r-- root/root       122 2017-09-17 10:56 ansible-role-compact-box-master/tests/test.yml

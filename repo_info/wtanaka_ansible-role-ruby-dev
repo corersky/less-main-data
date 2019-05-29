@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-15 20:06 ansible-role-ruby-dev-master/
+-rw-rw-r-- root/root         3 2017-10-15 20:06 ansible-role-ruby-dev-master/.gitignore
+-rw-rw-r-- root/root      1912 2017-10-15 20:06 ansible-role-ruby-dev-master/.travis.yml
+-rw-rw-r-- root/root       553 2017-10-15 20:06 ansible-role-ruby-dev-master/README.md
+-rw-rw-r-- root/root       364 2017-10-15 20:06 ansible-role-ruby-dev-master/circle.yml
+drwxrwxr-x root/root         0 2017-10-15 20:06 ansible-role-ruby-dev-master/meta/
+-rw-rw-r-- root/root       476 2017-10-15 20:06 ansible-role-ruby-dev-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-15 20:06 ansible-role-ruby-dev-master/tasks/
+-rw-rw-r-- root/root      3170 2017-10-15 20:06 ansible-role-ruby-dev-master/tasks/compat.yml
+-rw-rw-r-- root/root       316 2017-10-15 20:06 ansible-role-ruby-dev-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       864 2017-10-15 20:06 ansible-role-ruby-dev-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       220 2017-10-15 20:06 ansible-role-ruby-dev-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-15 20:06 ansible-role-ruby-dev-master/vars/
+-rw-rw-r-- root/root        30 2017-10-15 20:06 ansible-role-ruby-dev-master/vars/default.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-23 17:27 ansible-role-repo-ius-master/
+-rw-rw-r-- root/root       547 2019-05-23 17:27 ansible-role-repo-ius-master/.travis.yml
+-rw-rw-r-- root/root      1068 2019-05-23 17:27 ansible-role-repo-ius-master/LICENSE
+-rw-rw-r-- root/root       629 2019-05-23 17:27 ansible-role-repo-ius-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 17:27 ansible-role-repo-ius-master/meta/
+-rw-rw-r-- root/root       285 2019-05-23 17:27 ansible-role-repo-ius-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/
+drwxrwxr-x root/root         0 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/default/
+drwxrwxr-x root/root         0 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/default/.molecule/
+-rw-rw-r-- root/root       146 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/default/.molecule/state.yml
+-rw-rw-r-- root/root       544 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        91 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root        75 2019-05-23 17:27 ansible-role-repo-ius-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2019-05-23 17:27 ansible-role-repo-ius-master/tasks/
+-rw-rw-r-- root/root       683 2019-05-23 17:27 ansible-role-repo-ius-master/tasks/main.yml

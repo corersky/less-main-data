@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-29 03:09 ansible-munin-contrib-master/
+-rw-rw-r-- root/root       539 2016-07-29 03:09 ansible-munin-contrib-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-07-29 03:09 ansible-munin-contrib-master/LICENSE
+-rw-rw-r-- root/root      1740 2016-07-29 03:09 ansible-munin-contrib-master/README.md
+drwxrwxr-x root/root         0 2016-07-29 03:09 ansible-munin-contrib-master/meta/
+-rw-rw-r-- root/root       589 2016-07-29 03:09 ansible-munin-contrib-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-29 03:09 ansible-munin-contrib-master/tasks/
+-rw-rw-r-- root/root       453 2016-07-29 03:09 ansible-munin-contrib-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-29 03:09 ansible-munin-contrib-master/templates/
+drwxrwxr-x root/root         0 2016-07-29 03:09 ansible-munin-contrib-master/templates/etc/
+drwxrwxr-x root/root         0 2016-07-29 03:09 ansible-munin-contrib-master/templates/etc/munin/
+drwxrwxr-x root/root         0 2016-07-29 03:09 ansible-munin-contrib-master/templates/etc/munin/munin-conf.d/
+-rw-rw-r-- root/root       183 2016-07-29 03:09 ansible-munin-contrib-master/templates/etc/munin/munin-conf.d/hosts.conf.j2
+drwxrwxr-x root/root         0 2016-07-29 03:09 ansible-munin-contrib-master/tests/
+-rw-rw-r-- root/root         9 2016-07-29 03:09 ansible-munin-contrib-master/tests/inventory
+-rw-rw-r-- root/root       164 2016-07-29 03:09 ansible-munin-contrib-master/tests/test.yml

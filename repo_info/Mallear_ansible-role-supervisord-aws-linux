@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/
+-rw-rw-r-- root/root      1454 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/README.md
+drwxrwxr-x root/root         0 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/defaults/
+-rw-rw-r-- root/root      1153 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/handlers/
+-rw-rw-r-- root/root       425 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/meta/
+-rw-rw-r-- root/root       402 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/tasks/
+-rw-rw-r-- root/root       707 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/templates/
+-rw-rw-r-- root/root      1909 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/templates/supervisord.conf.j2
+-rw-rw-r-- root/root      1051 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/templates/supervisord.j2
+drwxrwxr-x root/root         0 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/tests/
+-rw-rw-r-- root/root        99 2017-12-04 09:58 ansible-role-supervisord-aws-linux-master/tests/test.yml

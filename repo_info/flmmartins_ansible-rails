@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-10-27 10:22 ansible-rails-master/
+-rw-rw-r-- root/root      1205 2014-10-27 10:22 ansible-rails-master/README.md
+drwxrwxr-x root/root         0 2014-10-27 10:22 ansible-rails-master/defaults/
+-rw-rw-r-- root/root        33 2014-10-27 10:22 ansible-rails-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-27 10:22 ansible-rails-master/handlers/
+-rw-rw-r-- root/root        38 2014-10-27 10:22 ansible-rails-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-27 10:22 ansible-rails-master/meta/
+-rw-rw-r-- root/root       263 2014-10-27 10:22 ansible-rails-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-27 10:22 ansible-rails-master/tasks/
+-rw-rw-r-- root/root        44 2014-10-27 10:22 ansible-rails-master/tasks/main.yml
+-rw-rw-r-- root/root       702 2014-10-27 10:22 ansible-rails-master/tasks/rake.yml
+-rw-rw-r-- root/root       356 2014-10-27 10:22 ansible-rails-master/tasks/repo.yml
+drwxrwxr-x root/root         0 2014-10-27 10:22 ansible-rails-master/vars/
+-rw-rw-r-- root/root        34 2014-10-27 10:22 ansible-rails-master/vars/main.yml

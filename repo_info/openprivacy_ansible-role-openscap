@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2016-05-27 21:53 ansible-role-openscap-master/
+-rw-rw-r-- root/root      1464 2016-05-27 21:53 ansible-role-openscap-master/README.md
+drwxrwxr-x root/root         0 2016-05-27 21:53 ansible-role-openscap-master/files/
+-rw-rw-r-- root/root       120 2016-05-27 21:53 ansible-role-openscap-master/files/99-oscap-user
+-rw-rw-r-- root/root       284 2016-05-27 21:53 ansible-role-openscap-master/files/isimluk-OpenSCAP-epel-7.repo
+drwxrwxr-x root/root         0 2016-05-27 21:53 ansible-role-openscap-master/meta/
+-rw-rw-r-- root/root       344 2016-05-27 21:53 ansible-role-openscap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-27 21:53 ansible-role-openscap-master/tasks/
+-rw-rw-r-- root/root       915 2016-05-27 21:53 ansible-role-openscap-master/tasks/main.yml

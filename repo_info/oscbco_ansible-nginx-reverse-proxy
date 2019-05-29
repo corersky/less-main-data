@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/
+-rw-rw-r-- root/root       535 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/README.md
+drwxrwxr-x root/root         0 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/defaults/
+-rw-rw-r-- root/root        51 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/handlers/
+-rw-rw-r-- root/root        89 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/meta/
+-rw-rw-r-- root/root       290 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/tasks/
+-rw-rw-r-- root/root       582 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/tests/
+-rw-rw-r-- root/root        11 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/tests/inventory
+-rw-rw-r-- root/root        85 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/vars/
+-rw-rw-r-- root/root        47 2019-04-17 00:35 ansible-nginx-reverse-proxy-master/vars/main.yml

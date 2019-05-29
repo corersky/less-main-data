@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-01 10:20 ansible-role-yarn-master/
+-rw-rw-r-- root/root       389 2018-10-01 10:20 ansible-role-yarn-master/.gitignore
+-rw-rw-r-- root/root      1895 2018-10-01 10:20 ansible-role-yarn-master/.travis.yml
+-rw-rw-r-- root/root      1430 2018-10-01 10:20 ansible-role-yarn-master/README.md
+drwxrwxr-x root/root         0 2018-10-01 10:20 ansible-role-yarn-master/defaults/
+-rw-rw-r-- root/root       262 2018-10-01 10:20 ansible-role-yarn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-01 10:20 ansible-role-yarn-master/meta/
+-rw-rw-r-- root/root       377 2018-10-01 10:20 ansible-role-yarn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-01 10:20 ansible-role-yarn-master/tasks/
+-rw-rw-r-- root/root       306 2018-10-01 10:20 ansible-role-yarn-master/tasks/main.yml
+-rw-rw-r-- root/root       330 2018-10-01 10:20 ansible-role-yarn-master/tasks/rhel.yml
+-rw-rw-r-- root/root       385 2018-10-01 10:20 ansible-role-yarn-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2018-10-01 10:20 ansible-role-yarn-master/tests/
+-rw-rw-r-- root/root         9 2018-10-01 10:20 ansible-role-yarn-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-10-01 10:20 ansible-role-yarn-master/tests/test.yml

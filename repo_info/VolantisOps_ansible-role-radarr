@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-radarr-master/
+-rw-rw-r-- root/root         9 2017-06-17 23:59 ansible-role-radarr-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-17 23:59 ansible-role-radarr-master/LICENSE
+-rw-rw-r-- root/root       346 2017-06-17 23:59 ansible-role-radarr-master/README.md
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-radarr-master/defaults/
+-rw-rw-r-- root/root       343 2017-06-17 23:59 ansible-role-radarr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-radarr-master/handlers/
+-rw-rw-r-- root/root        68 2017-06-17 23:59 ansible-role-radarr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-radarr-master/meta/
+-rw-rw-r-- root/root       303 2017-06-17 23:59 ansible-role-radarr-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-radarr-master/tasks/
+-rw-rw-r-- root/root       979 2017-06-17 23:59 ansible-role-radarr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:59 ansible-role-radarr-master/templates/
+-rw-rw-r-- root/root       598 2017-06-17 23:59 ansible-role-radarr-master/templates/config.xml.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-01-16 22:53 ansible-role-nodenv-master/
+-rw-rw-r-- root/root       539 2018-01-16 22:53 ansible-role-nodenv-master/.travis.yml
+-rw-rw-r-- root/root      1073 2018-01-16 22:53 ansible-role-nodenv-master/LICENSE
+-rw-rw-r-- root/root      1280 2018-01-16 22:53 ansible-role-nodenv-master/README.md
+drwxrwxr-x root/root         0 2018-01-16 22:53 ansible-role-nodenv-master/defaults/
+-rw-rw-r-- root/root       110 2018-01-16 22:53 ansible-role-nodenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-16 22:53 ansible-role-nodenv-master/handlers/
+-rw-rw-r-- root/root        31 2018-01-16 22:53 ansible-role-nodenv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-16 22:53 ansible-role-nodenv-master/meta/
+-rw-rw-r-- root/root       310 2018-01-16 22:53 ansible-role-nodenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-16 22:53 ansible-role-nodenv-master/tasks/
+-rw-rw-r-- root/root      1511 2018-01-16 22:53 ansible-role-nodenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-16 22:53 ansible-role-nodenv-master/tests/
+-rw-rw-r-- root/root         9 2018-01-16 22:53 ansible-role-nodenv-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-01-16 22:53 ansible-role-nodenv-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-16 22:53 ansible-role-nodenv-master/vars/
+-rw-rw-r-- root/root        27 2018-01-16 22:53 ansible-role-nodenv-master/vars/main.yml

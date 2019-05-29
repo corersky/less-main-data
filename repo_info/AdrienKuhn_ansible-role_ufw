@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-25 16:44 ansible-role_ufw-master/
+-rw-rw-r-- root/root        28 2018-06-25 16:44 ansible-role_ufw-master/.gitignore
+-rw-rw-r-- root/root      3214 2018-06-25 16:44 ansible-role_ufw-master/README.md
+drwxrwxr-x root/root         0 2018-06-25 16:44 ansible-role_ufw-master/defaults/
+-rw-rw-r-- root/root      2913 2018-06-25 16:44 ansible-role_ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-25 16:44 ansible-role_ufw-master/meta/
+-rw-rw-r-- root/root      1672 2018-06-25 16:44 ansible-role_ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-25 16:44 ansible-role_ufw-master/tasks/
+-rw-rw-r-- root/root      4241 2018-06-25 16:44 ansible-role_ufw-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-25 16:44 ansible-role_ufw-master/tests/
+-rw-rw-r-- root/root       573 2018-06-25 16:44 ansible-role_ufw-master/tests/Vagrantfile
+-rw-rw-r-- root/root        30 2018-06-25 16:44 ansible-role_ufw-master/tests/ansible.cfg
+-rw-rw-r-- root/root       511 2018-06-25 16:44 ansible-role_ufw-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-25 16:44 ansible-role_ufw-master/vars/
+-rw-rw-r-- root/root        23 2018-06-25 16:44 ansible-role_ufw-master/vars/main.yml

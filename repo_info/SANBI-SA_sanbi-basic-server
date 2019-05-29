@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 07:34 sanbi-basic-server-master/
+-rw-rw-r-- root/root        96 2018-08-01 07:34 sanbi-basic-server-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 07:34 sanbi-basic-server-master/files/
+-rw-rw-r-- root/root       416 2018-08-01 07:34 sanbi-basic-server-master/files/auto.master
+-rw-rw-r-- root/root      1560 2018-08-01 07:34 sanbi-basic-server-master/files/auto.net
+-rw-rw-r-- root/root       485 2018-08-01 07:34 sanbi-basic-server-master/files/nsswitch.conf
+drwxrwxr-x root/root         0 2018-08-01 07:34 sanbi-basic-server-master/handlers/
+-rw-rw-r-- root/root        80 2018-08-01 07:34 sanbi-basic-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 07:34 sanbi-basic-server-master/meta/
+-rw-rw-r-- root/root       292 2018-08-01 07:34 sanbi-basic-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 07:34 sanbi-basic-server-master/tasks/
+-rw-rw-r-- root/root      3311 2018-08-01 07:34 sanbi-basic-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 07:34 sanbi-basic-server-master/templates/
+-rw-rw-r-- root/root      1032 2018-08-01 07:34 sanbi-basic-server-master/templates/krb5_conf.j2
+-rw-rw-r-- root/root       717 2018-08-01 07:34 sanbi-basic-server-master/templates/ldap_conf.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-10 15:26 ansible-docker-bench-security-master/
+-rw-rw-r-- root/root       265 2019-04-10 15:26 ansible-docker-bench-security-master/.travis.yml
+-rw-rw-r-- root/root       408 2019-04-10 15:26 ansible-docker-bench-security-master/README.md
+drwxrwxr-x root/root         0 2019-04-10 15:26 ansible-docker-bench-security-master/meta/
+-rw-rw-r-- root/root       303 2019-04-10 15:26 ansible-docker-bench-security-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-10 15:26 ansible-docker-bench-security-master/molecule/
+drwxrwxr-x root/root         0 2019-04-10 15:26 ansible-docker-bench-security-master/molecule/default/
+-rw-rw-r-- root/root       466 2019-04-10 15:26 ansible-docker-bench-security-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        85 2019-04-10 15:26 ansible-docker-bench-security-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-04-10 15:26 ansible-docker-bench-security-master/tasks/
+-rw-rw-r-- root/root         4 2019-04-10 15:26 ansible-docker-bench-security-master/tasks/Debian.yml
+-rw-rw-r-- root/root         4 2019-04-10 15:26 ansible-docker-bench-security-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       137 2019-04-10 15:26 ansible-docker-bench-security-master/tasks/main.yml

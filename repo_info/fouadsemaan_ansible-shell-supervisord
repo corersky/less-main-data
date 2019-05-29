@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-26 10:52 ansible-shell-supervisord-master/
+-rw-rw-r-- root/root      1080 2017-10-26 10:52 ansible-shell-supervisord-master/LICENSE
+-rw-rw-r-- root/root       502 2017-10-26 10:52 ansible-shell-supervisord-master/README.md
+drwxrwxr-x root/root         0 2017-10-26 10:52 ansible-shell-supervisord-master/defaults/
+-rw-rw-r-- root/root        73 2017-10-26 10:52 ansible-shell-supervisord-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-26 10:52 ansible-shell-supervisord-master/meta/
+-rw-rw-r-- root/root       668 2017-10-26 10:52 ansible-shell-supervisord-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-26 10:52 ansible-shell-supervisord-master/tasks/
+-rw-rw-r-- root/root       185 2017-10-26 10:52 ansible-shell-supervisord-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-26 10:52 ansible-shell-supervisord-master/templates/
+drwxrwxr-x root/root         0 2017-10-26 10:52 ansible-shell-supervisord-master/templates/usr/
+drwxrwxr-x root/root         0 2017-10-26 10:52 ansible-shell-supervisord-master/templates/usr/local/
+drwxrwxr-x root/root         0 2017-10-26 10:52 ansible-shell-supervisord-master/templates/usr/local/bin/
+-rw-rw-r-- root/root       263 2017-10-26 10:52 ansible-shell-supervisord-master/templates/usr/local/bin/run-shell.sh.j2
+-rw-rw-r-- root/root        64 2017-10-26 10:52 ansible-shell-supervisord-master/test.yml

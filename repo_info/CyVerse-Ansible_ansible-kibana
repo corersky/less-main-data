@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-02-16 18:48 ansible-kibana-master/
+-rw-rw-r-- root/root      1614 2017-02-16 18:48 ansible-kibana-master/.travis.yml
+-rw-rw-r-- root/root      1961 2017-02-16 18:48 ansible-kibana-master/LICENSE.md
+-rw-rw-r-- root/root      1618 2017-02-16 18:48 ansible-kibana-master/README.md
+drwxrwxr-x root/root         0 2017-02-16 18:48 ansible-kibana-master/defaults/
+-rw-rw-r-- root/root        80 2017-02-16 18:48 ansible-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-16 18:48 ansible-kibana-master/meta/
+-rw-rw-r-- root/root      1194 2017-02-16 18:48 ansible-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-16 18:48 ansible-kibana-master/tests/
+-rw-rw-r-- root/root        11 2017-02-16 18:48 ansible-kibana-master/tests/inventory
+-rw-rw-r-- root/root        95 2017-02-16 18:48 ansible-kibana-master/tests/requirements.yml
+-rw-rw-r-- root/root      1785 2017-02-16 18:48 ansible-kibana-master/tests/test-1.yml

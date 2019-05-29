@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-12 04:11 ansible-zabbix_web-master/
+-rw-rw-r-- root/root         0 2017-05-12 04:11 ansible-zabbix_web-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-05-12 04:11 ansible-zabbix_web-master/LICENSE
+-rw-rw-r-- root/root      8295 2017-05-12 04:11 ansible-zabbix_web-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 04:11 ansible-zabbix_web-master/defaults/
+-rw-rw-r-- root/root      1981 2017-05-12 04:11 ansible-zabbix_web-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:11 ansible-zabbix_web-master/handlers/
+-rw-rw-r-- root/root       159 2017-05-12 04:11 ansible-zabbix_web-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:11 ansible-zabbix_web-master/meta/
+-rw-rw-r-- root/root       287 2017-05-12 04:11 ansible-zabbix_web-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 04:11 ansible-zabbix_web-master/tasks/
+-rw-rw-r-- root/root      1603 2017-05-12 04:11 ansible-zabbix_web-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 04:11 ansible-zabbix_web-master/templates/
+-rw-rw-r-- root/root      1203 2017-05-12 04:11 ansible-zabbix_web-master/templates/maintenance.inc.php.j2
+-rw-rw-r-- root/root       819 2017-05-12 04:11 ansible-zabbix_web-master/templates/zabbix.conf.php.j2

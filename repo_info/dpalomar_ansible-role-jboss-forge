@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-14 17:21 ansible-role-jboss-forge-master/
+-rw-rw-r-- root/root        13 2016-09-14 17:21 ansible-role-jboss-forge-master/.gitattributes
+-rw-rw-r-- root/root       539 2016-09-14 17:21 ansible-role-jboss-forge-master/.travis.yml
+-rw-rw-r-- root/root       693 2016-09-14 17:21 ansible-role-jboss-forge-master/README.md
+drwxrwxr-x root/root         0 2016-09-14 17:21 ansible-role-jboss-forge-master/defaults/
+-rw-rw-r-- root/root       290 2016-09-14 17:21 ansible-role-jboss-forge-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-14 17:21 ansible-role-jboss-forge-master/handlers/
+-rw-rw-r-- root/root        49 2016-09-14 17:21 ansible-role-jboss-forge-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-14 17:21 ansible-role-jboss-forge-master/meta/
+-rw-rw-r-- root/root       359 2016-09-14 17:21 ansible-role-jboss-forge-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-14 17:21 ansible-role-jboss-forge-master/tasks/
+-rw-rw-r-- root/root      1026 2016-09-14 17:21 ansible-role-jboss-forge-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-14 17:21 ansible-role-jboss-forge-master/tests/
+-rw-rw-r-- root/root         9 2016-09-14 17:21 ansible-role-jboss-forge-master/tests/inventory
+-rw-rw-r-- root/root       118 2016-09-14 17:21 ansible-role-jboss-forge-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-14 17:21 ansible-role-jboss-forge-master/vars/
+-rw-rw-r-- root/root        45 2016-09-14 17:21 ansible-role-jboss-forge-master/vars/main.yml

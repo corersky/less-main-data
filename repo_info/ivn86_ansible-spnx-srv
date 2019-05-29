@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-16 07:24 ansible-spnx-srv-master/
+-rw-rw-r-- root/root         0 2016-03-16 07:24 ansible-spnx-srv-master/.gitignore
+-rw-rw-r-- root/root      1297 2016-03-16 07:24 ansible-spnx-srv-master/LICENSE.md
+-rw-rw-r-- root/root      1310 2016-03-16 07:24 ansible-spnx-srv-master/README.md
+drwxrwxr-x root/root         0 2016-03-16 07:24 ansible-spnx-srv-master/defaults/
+-rw-rw-r-- root/root       261 2016-03-16 07:24 ansible-spnx-srv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-16 07:24 ansible-spnx-srv-master/files/
+-rw-rw-r-- root/root        60 2016-03-16 07:24 ansible-spnx-srv-master/files/spnx_mysql.cnf
+drwxrwxr-x root/root         0 2016-03-16 07:24 ansible-spnx-srv-master/handlers/
+-rw-rw-r-- root/root        93 2016-03-16 07:24 ansible-spnx-srv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-16 07:24 ansible-spnx-srv-master/meta/
+-rw-rw-r-- root/root       290 2016-03-16 07:24 ansible-spnx-srv-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-16 07:24 ansible-spnx-srv-master/tasks/
+-rw-rw-r-- root/root       906 2016-03-16 07:24 ansible-spnx-srv-master/tasks/main.yml

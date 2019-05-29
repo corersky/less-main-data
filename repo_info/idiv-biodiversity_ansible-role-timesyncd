@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-09-26 06:24 ansible-role-timesyncd-master/
+-rw-rw-r-- root/root      1115 2018-09-26 06:24 ansible-role-timesyncd-master/LICENSE
+-rw-rw-r-- root/root      3013 2018-09-26 06:24 ansible-role-timesyncd-master/README.md
+drwxrwxr-x root/root         0 2018-09-26 06:24 ansible-role-timesyncd-master/meta/
+-rw-rw-r-- root/root       530 2018-09-26 06:24 ansible-role-timesyncd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-26 06:24 ansible-role-timesyncd-master/tasks/
+-rw-rw-r-- root/root       789 2018-09-26 06:24 ansible-role-timesyncd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-26 06:24 ansible-role-timesyncd-master/templates/
+-rw-rw-r-- root/root       873 2018-09-26 06:24 ansible-role-timesyncd-master/templates/timesyncd.conf.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-13 10:02 ansible-role-fail2ban-master/
+-rw-rw-r-- root/root      1292 2017-05-13 10:02 ansible-role-fail2ban-master/LICENSE.md
+-rw-rw-r-- root/root       441 2017-05-13 10:02 ansible-role-fail2ban-master/README.md
+drwxrwxr-x root/root         0 2017-05-13 10:02 ansible-role-fail2ban-master/defaults/
+-rw-rw-r-- root/root        33 2017-05-13 10:02 ansible-role-fail2ban-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-13 10:02 ansible-role-fail2ban-master/files/
+-rw-rw-r-- root/root        23 2017-05-13 10:02 ansible-role-fail2ban-master/files/sshd.conf
+drwxrwxr-x root/root         0 2017-05-13 10:02 ansible-role-fail2ban-master/handlers/
+-rw-rw-r-- root/root       111 2017-05-13 10:02 ansible-role-fail2ban-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-13 10:02 ansible-role-fail2ban-master/meta/
+-rw-rw-r-- root/root      3930 2017-05-13 10:02 ansible-role-fail2ban-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-13 10:02 ansible-role-fail2ban-master/tasks/
+-rw-rw-r-- root/root       543 2017-05-13 10:02 ansible-role-fail2ban-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-13 10:02 ansible-role-fail2ban-master/vars/
+-rw-rw-r-- root/root        29 2017-05-13 10:02 ansible-role-fail2ban-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-06 04:17 mattermost-push-proxy-master/
+-rw-rw-r-- root/root     20133 2019-05-06 04:17 mattermost-push-proxy-master/LICENSE
+-rw-rw-r-- root/root      3174 2019-05-06 04:17 mattermost-push-proxy-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 04:17 mattermost-push-proxy-master/defaults/
+-rw-rw-r-- root/root       409 2019-05-06 04:17 mattermost-push-proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 04:17 mattermost-push-proxy-master/handlers/
+-rw-rw-r-- root/root       107 2019-05-06 04:17 mattermost-push-proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-06 04:17 mattermost-push-proxy-master/meta/
+-rw-rw-r-- root/root       421 2019-05-06 04:17 mattermost-push-proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 04:17 mattermost-push-proxy-master/tasks/
+-rw-rw-r-- root/root      1265 2019-05-06 04:17 mattermost-push-proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 04:17 mattermost-push-proxy-master/templates/
+-rw-rw-r-- root/root       286 2019-05-06 04:17 mattermost-push-proxy-master/templates/mattermost-push-proxy.service.j2
+drwxrwxr-x root/root         0 2019-05-06 04:17 mattermost-push-proxy-master/vars/
+-rw-rw-r-- root/root       412 2019-05-06 04:17 mattermost-push-proxy-master/vars/main.yml

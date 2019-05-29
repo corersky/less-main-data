@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-25 11:19 ansible-role-java-dev-master/
+-rw-rw-r-- root/root       469 2017-06-25 11:19 ansible-role-java-dev-master/.travis.yml
+drwxrwxr-x root/root         0 2017-06-25 11:19 ansible-role-java-dev-master/.vscode/
+-rw-rw-r-- root/root        57 2017-06-25 11:19 ansible-role-java-dev-master/.vscode/settings.json
+-rw-rw-r-- root/root       332 2017-06-25 11:19 ansible-role-java-dev-master/README.md
+-rw-rw-r-- root/root        42 2017-06-25 11:19 ansible-role-java-dev-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-06-25 11:19 ansible-role-java-dev-master/meta/
+-rw-rw-r-- root/root       341 2017-06-25 11:19 ansible-role-java-dev-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-25 11:19 ansible-role-java-dev-master/tasks/
+-rw-rw-r-- root/root       215 2017-06-25 11:19 ansible-role-java-dev-master/tasks/main.yml
+-rw-rw-r-- root/root       128 2017-06-25 11:19 ansible-role-java-dev-master/tasks/main_MacOSX.yml
+-rw-rw-r-- root/root       316 2017-06-25 11:19 ansible-role-java-dev-master/tasks/main_Ubuntu.yml
+drwxrwxr-x root/root         0 2017-06-25 11:19 ansible-role-java-dev-master/tests/
+-rw-rw-r-- root/root         9 2017-06-25 11:19 ansible-role-java-dev-master/tests/inventory
+-rw-rw-r-- root/root        60 2017-06-25 11:19 ansible-role-java-dev-master/tests/test.yml

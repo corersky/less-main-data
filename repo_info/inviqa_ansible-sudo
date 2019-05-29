@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-01-13 12:38 ansible-sudo-master/
+-rw-rw-r-- root/root        26 2017-01-13 12:38 ansible-sudo-master/.gitignore
+-rw-rw-r-- root/root      1077 2017-01-13 12:38 ansible-sudo-master/LICENSE.md
+-rw-rw-r-- root/root       649 2017-01-13 12:38 ansible-sudo-master/README.md
+drwxrwxr-x root/root         0 2017-01-13 12:38 ansible-sudo-master/defaults/
+-rw-rw-r-- root/root      1907 2017-01-13 12:38 ansible-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-13 12:38 ansible-sudo-master/meta/
+-rw-rw-r-- root/root       650 2017-01-13 12:38 ansible-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-13 12:38 ansible-sudo-master/tasks/
+-rw-rw-r-- root/root      1087 2017-01-13 12:38 ansible-sudo-master/tasks/install.yml
+-rw-rw-r-- root/root       416 2017-01-13 12:38 ansible-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-13 12:38 ansible-sudo-master/templates/
+-rw-rw-r-- root/root      1954 2017-01-13 12:38 ansible-sudo-master/templates/sudoers.j2

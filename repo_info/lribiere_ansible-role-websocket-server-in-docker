@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/
+-rw-rw-r-- root/root        18 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/.gitignore
+-rw-rw-r-- root/root      1065 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/LICENSE
+-rw-rw-r-- root/root       518 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/README.md
+drwxrwxr-x root/root         0 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/defaults/
+-rw-rw-r-- root/root       392 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/inventories/
+-rw-rw-r-- root/root       129 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/inventories/dev.yml
+drwxrwxr-x root/root         0 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/meta/
+-rw-rw-r-- root/root      1404 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/tasks/
+-rw-rw-r-- root/root       945 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/templates/
+-rw-rw-r-- root/root        59 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/templates/config_file.j2
+drwxrwxr-x root/root         0 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/tests/
+-rw-rw-r-- root/root        70 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/tests/test.yml
+-rw-rw-r-- root/root        75 2018-08-12 17:13 ansible-role-websocket-server-in-docker-master/tests/test_localhost.yml

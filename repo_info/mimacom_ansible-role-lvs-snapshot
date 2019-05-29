@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-23 09:35 ansible-role-lvs-snapshot-master/
+-rw-rw-r-- root/root        37 2018-03-23 09:35 ansible-role-lvs-snapshot-master/.gitignore
+-rw-rw-r-- root/root      1339 2018-03-23 09:35 ansible-role-lvs-snapshot-master/.travis.yml
+-rw-rw-r-- root/root      1617 2018-03-23 09:35 ansible-role-lvs-snapshot-master/README.md
+drwxrwxr-x root/root         0 2018-03-23 09:35 ansible-role-lvs-snapshot-master/defaults/
+-rw-rw-r-- root/root       138 2018-03-23 09:35 ansible-role-lvs-snapshot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-23 09:35 ansible-role-lvs-snapshot-master/meta/
+-rw-rw-r-- root/root       382 2018-03-23 09:35 ansible-role-lvs-snapshot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-23 09:35 ansible-role-lvs-snapshot-master/tasks/
+-rw-rw-r-- root/root       889 2018-03-23 09:35 ansible-role-lvs-snapshot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-23 09:35 ansible-role-lvs-snapshot-master/tests/
+-rw-rw-r-- root/root        11 2018-03-23 09:35 ansible-role-lvs-snapshot-master/tests/inventory
+-rw-rw-r-- root/root       456 2018-03-23 09:35 ansible-role-lvs-snapshot-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-23 09:35 ansible-role-lvs-snapshot-master/vars/
+-rw-rw-r-- root/root        32 2018-03-23 09:35 ansible-role-lvs-snapshot-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-07-26 15:52 ansible-influxdb-master/
+-rw-rw-r-- root/root      1907 2016-07-26 15:52 ansible-influxdb-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-07-26 15:52 ansible-influxdb-master/LICENSE.md
+-rw-rw-r-- root/root      2618 2016-07-26 15:52 ansible-influxdb-master/README.md
+drwxrwxr-x root/root         0 2016-07-26 15:52 ansible-influxdb-master/defaults/
+-rw-rw-r-- root/root      3983 2016-07-26 15:52 ansible-influxdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-26 15:52 ansible-influxdb-master/handlers/
+-rw-rw-r-- root/root       109 2016-07-26 15:52 ansible-influxdb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-26 15:52 ansible-influxdb-master/meta/
+-rw-rw-r-- root/root       352 2016-07-26 15:52 ansible-influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-26 15:52 ansible-influxdb-master/tasks/
+-rw-rw-r-- root/root       913 2016-07-26 15:52 ansible-influxdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-26 15:52 ansible-influxdb-master/templates/
+-rw-rw-r-- root/root      3027 2016-07-26 15:52 ansible-influxdb-master/templates/influxdb.conf.j2
+drwxrwxr-x root/root         0 2016-07-26 15:52 ansible-influxdb-master/tests/
+-rwxrwxr-x root/root      1868 2016-07-26 15:52 ansible-influxdb-master/tests/run.sh
+-rw-rw-r-- root/root        84 2016-07-26 15:52 ansible-influxdb-master/tests/test.yml

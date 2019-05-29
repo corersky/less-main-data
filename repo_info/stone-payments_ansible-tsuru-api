@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-12 18:10 ansible-tsuru-api-master/
+-rw-rw-r-- root/root      1821 2017-12-12 18:10 ansible-tsuru-api-master/README.md
+drwxrwxr-x root/root         0 2017-12-12 18:10 ansible-tsuru-api-master/defaults/
+-rw-rw-r-- root/root      2553 2017-12-12 18:10 ansible-tsuru-api-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-12 18:10 ansible-tsuru-api-master/handlers/
+-rw-rw-r-- root/root       135 2017-12-12 18:10 ansible-tsuru-api-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-12 18:10 ansible-tsuru-api-master/meta/
+-rw-rw-r-- root/root       260 2017-12-12 18:10 ansible-tsuru-api-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-12 18:10 ansible-tsuru-api-master/tasks/
+-rw-rw-r-- root/root      1470 2017-12-12 18:10 ansible-tsuru-api-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-12 18:10 ansible-tsuru-api-master/templates/
+-rw-rw-r-- root/root      3704 2017-12-12 18:10 ansible-tsuru-api-master/templates/tsuru.conf.j2

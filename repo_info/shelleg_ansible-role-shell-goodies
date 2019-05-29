@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-01 07:27 ansible-role-shell-goodies-master/
+-rw-rw-r-- root/root      1328 2017-09-01 07:27 ansible-role-shell-goodies-master/README.md
+drwxrwxr-x root/root         0 2017-09-01 07:27 ansible-role-shell-goodies-master/defaults/
+-rw-rw-r-- root/root      1406 2017-09-01 07:27 ansible-role-shell-goodies-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-01 07:27 ansible-role-shell-goodies-master/handlers/
+-rw-rw-r-- root/root        50 2017-09-01 07:27 ansible-role-shell-goodies-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-01 07:27 ansible-role-shell-goodies-master/meta/
+-rw-rw-r-- root/root       370 2017-09-01 07:27 ansible-role-shell-goodies-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-01 07:27 ansible-role-shell-goodies-master/tasks/
+-rw-rw-r-- root/root       814 2017-09-01 07:27 ansible-role-shell-goodies-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-01 07:27 ansible-role-shell-goodies-master/templates/
+-rw-rw-r-- root/root       104 2017-09-01 07:27 ansible-role-shell-goodies-master/templates/bash_aliases.j2
+drwxrwxr-x root/root         0 2017-09-01 07:27 ansible-role-shell-goodies-master/tests/
+-rw-rw-r-- root/root        11 2017-09-01 07:27 ansible-role-shell-goodies-master/tests/inventory
+-rw-rw-r-- root/root        84 2017-09-01 07:27 ansible-role-shell-goodies-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-01 07:27 ansible-role-shell-goodies-master/vars/
+-rw-rw-r-- root/root        46 2017-09-01 07:27 ansible-role-shell-goodies-master/vars/main.yml

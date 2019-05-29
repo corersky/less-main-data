@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-03-12 09:14 ansible-supervisor_task-master/
+-rw-rw-r-- root/root      1072 2018-03-12 09:14 ansible-supervisor_task-master/LICENSE
+-rw-rw-r-- root/root      1201 2018-03-12 09:14 ansible-supervisor_task-master/README.md
+drwxrwxr-x root/root         0 2018-03-12 09:14 ansible-supervisor_task-master/defaults/
+-rw-rw-r-- root/root       363 2018-03-12 09:14 ansible-supervisor_task-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-12 09:14 ansible-supervisor_task-master/meta/
+-rw-rw-r-- root/root       311 2018-03-12 09:14 ansible-supervisor_task-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-12 09:14 ansible-supervisor_task-master/tasks/
+-rw-rw-r-- root/root      1017 2018-03-12 09:14 ansible-supervisor_task-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-12 09:14 ansible-supervisor_task-master/templates/
+-rw-rw-r-- root/root       713 2018-03-12 09:14 ansible-supervisor_task-master/templates/task.conf.j2

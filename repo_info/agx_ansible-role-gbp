@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-08 11:05 ansible-role-gbp-master/
+-rw-rw-r-- root/root        18 2018-08-08 11:05 ansible-role-gbp-master/.gitignore
+-rw-rw-r-- root/root      1586 2018-08-08 11:05 ansible-role-gbp-master/README.md
+drwxrwxr-x root/root         0 2018-08-08 11:05 ansible-role-gbp-master/defaults/
+-rw-rw-r-- root/root        37 2018-08-08 11:05 ansible-role-gbp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-08 11:05 ansible-role-gbp-master/meta/
+-rw-rw-r-- root/root       350 2018-08-08 11:05 ansible-role-gbp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-08 11:05 ansible-role-gbp-master/tasks/
+-rw-rw-r-- root/root      2063 2018-08-08 11:05 ansible-role-gbp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-08 11:05 ansible-role-gbp-master/templates/
+-rw-rw-r-- root/root       766 2018-08-08 11:05 ansible-role-gbp-master/templates/pbuilderrc.j2
+drwxrwxr-x root/root         0 2018-08-08 11:05 ansible-role-gbp-master/vars/
+-rw-rw-r-- root/root        47 2018-08-08 11:05 ansible-role-gbp-master/vars/main.yml

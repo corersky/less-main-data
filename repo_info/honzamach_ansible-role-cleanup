@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-06 04:17 ansible-role-cleanup-master/
+-rw-rw-r-- root/root         9 2018-08-06 04:17 ansible-role-cleanup-master/.gitignore
+-rw-rw-r-- root/root      1273 2018-08-06 04:17 ansible-role-cleanup-master/.travis.yml
+-rw-rw-r-- root/root      1067 2018-08-06 04:17 ansible-role-cleanup-master/LICENSE
+-rw-rw-r-- root/root      4322 2018-08-06 04:17 ansible-role-cleanup-master/README.rst
+drwxrwxr-x root/root         0 2018-08-06 04:17 ansible-role-cleanup-master/defaults/
+-rw-rw-r-- root/root        98 2018-08-06 04:17 ansible-role-cleanup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-06 04:17 ansible-role-cleanup-master/meta/
+-rw-rw-r-- root/root       331 2018-08-06 04:17 ansible-role-cleanup-master/meta/main.yml
+-rw-rw-r-- root/root       558 2018-08-06 04:17 ansible-role-cleanup-master/role_cleanup.yml
+drwxrwxr-x root/root         0 2018-08-06 04:17 ansible-role-cleanup-master/tasks/
+-rw-rw-r-- root/root       227 2018-08-06 04:17 ansible-role-cleanup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-06 04:17 ansible-role-cleanup-master/tests/
+-rw-rw-r-- root/root        99 2018-08-06 04:17 ansible-role-cleanup-master/tests/inventory
+-rw-rw-r-- root/root       264 2018-08-06 04:17 ansible-role-cleanup-master/tests/test.yml

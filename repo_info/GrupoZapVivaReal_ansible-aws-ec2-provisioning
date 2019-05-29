@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/
+-rw-rw-r-- root/root        72 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/CONTRIBUTORS.md
+-rw-rw-r-- root/root      4708 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/README.md
+drwxrwxr-x root/root         0 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/defaults/
+-rw-rw-r-- root/root        46 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/meta/
+-rw-rw-r-- root/root       380 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/tasks/
+-rw-rw-r-- root/root      1994 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/tasks/create.yml
+-rw-rw-r-- root/root       389 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/tasks/main.yml
+-rw-rw-r-- root/root       228 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/tasks/terminate.yml
+drwxrwxr-x root/root         0 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/tests/
+-rw-rw-r-- root/root         9 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/tests/inventory
+-rw-rw-r-- root/root        87 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/vars/
+-rw-rw-r-- root/root        42 2016-09-22 11:15 ansible-aws-ec2-provisioning-master/vars/main.yml

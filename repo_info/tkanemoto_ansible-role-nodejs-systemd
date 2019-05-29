@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-10-22 10:23 ansible-role-nodejs-systemd-master/
+-rw-rw-r-- root/root       876 2016-10-22 10:23 ansible-role-nodejs-systemd-master/README.md
+drwxrwxr-x root/root         0 2016-10-22 10:23 ansible-role-nodejs-systemd-master/defaults/
+-rw-rw-r-- root/root        61 2016-10-22 10:23 ansible-role-nodejs-systemd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-22 10:23 ansible-role-nodejs-systemd-master/meta/
+-rw-rw-r-- root/root       353 2016-10-22 10:23 ansible-role-nodejs-systemd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-22 10:23 ansible-role-nodejs-systemd-master/tasks/
+-rw-rw-r-- root/root      1458 2016-10-22 10:23 ansible-role-nodejs-systemd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-22 10:23 ansible-role-nodejs-systemd-master/templates/
+-rw-rw-r-- root/root       398 2016-10-22 10:23 ansible-role-nodejs-systemd-master/templates/systemd.conf.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-02-13 01:16 monit-master/
+-rw-rw-r-- root/root      1083 2015-02-13 01:16 monit-master/README.md
+drwxrwxr-x root/root         0 2015-02-13 01:16 monit-master/defaults/
+-rw-rw-r-- root/root        30 2015-02-13 01:16 monit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-13 01:16 monit-master/handlers/
+-rw-rw-r-- root/root        30 2015-02-13 01:16 monit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-13 01:16 monit-master/meta/
+-rw-rw-r-- root/root       228 2015-02-13 01:16 monit-master/meta/main.yml
+-rw-rw-r-- root/root      1831 2015-02-13 01:16 monit-master/monit-playbook
+drwxrwxr-x root/root         0 2015-02-13 01:16 monit-master/tasks/
+-rw-rw-r-- root/root        27 2015-02-13 01:16 monit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-13 01:16 monit-master/templates/
+-rw-rw-r-- root/root     10645 2015-02-13 01:16 monit-master/templates/monitrc
+drwxrwxr-x root/root         0 2015-02-13 01:16 monit-master/vars/
+-rw-rw-r-- root/root       162 2015-02-13 01:16 monit-master/vars/default

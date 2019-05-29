@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-21 11:57 ansible-role-monasca-ui-master/
+-rw-rw-r-- root/root     11357 2017-03-21 11:57 ansible-role-monasca-ui-master/LICENSE
+-rw-rw-r-- root/root       865 2017-03-21 11:57 ansible-role-monasca-ui-master/README.md
+drwxrwxr-x root/root         0 2017-03-21 11:57 ansible-role-monasca-ui-master/defaults/
+-rw-rw-r-- root/root       937 2017-03-21 11:57 ansible-role-monasca-ui-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-21 11:57 ansible-role-monasca-ui-master/handlers/
+-rw-rw-r-- root/root       120 2017-03-21 11:57 ansible-role-monasca-ui-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-21 11:57 ansible-role-monasca-ui-master/meta/
+-rw-rw-r-- root/root       298 2017-03-21 11:57 ansible-role-monasca-ui-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-21 11:57 ansible-role-monasca-ui-master/tasks/
+-rw-rw-r-- root/root      2279 2017-03-21 11:57 ansible-role-monasca-ui-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-21 11:57 ansible-role-monasca-ui-master/templates/
+-rw-rw-r-- root/root      2742 2017-03-21 11:57 ansible-role-monasca-ui-master/templates/local_settings.py.j2

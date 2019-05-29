@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-16 18:27 freeswitch-master/
+-rw-rw-r-- root/root      1070 2017-12-16 18:27 freeswitch-master/LICENSE
+-rw-rw-r-- root/root       324 2017-12-16 18:27 freeswitch-master/README.md
+drwxrwxr-x root/root         0 2017-12-16 18:27 freeswitch-master/files/
+-rw-rw-r-- root/root       615 2017-12-16 18:27 freeswitch-master/files/kazoo-freeswitch.service
+drwxrwxr-x root/root         0 2017-12-16 18:27 freeswitch-master/handlers/
+-rw-rw-r-- root/root        94 2017-12-16 18:27 freeswitch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:27 freeswitch-master/meta/
+-rw-rw-r-- root/root      1736 2017-12-16 18:27 freeswitch-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:27 freeswitch-master/tasks/
+-rw-rw-r-- root/root      1244 2017-12-16 18:27 freeswitch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:27 freeswitch-master/templates/
+-rw-rw-r-- root/root       709 2017-12-16 18:27 freeswitch-master/templates/kazoo.conf.xml.j2
+-rw-rw-r-- root/root     10010 2017-12-16 18:27 freeswitch-master/templates/sipinterface_1.xml.j2

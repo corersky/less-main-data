@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-04 15:46 ansible-rsyslog-master/
+-rw-rw-r-- root/root     18092 2019-02-04 15:46 ansible-rsyslog-master/LICENSE
+-rw-rw-r-- root/root        17 2019-02-04 15:46 ansible-rsyslog-master/README.md
+drwxrwxr-x root/root         0 2019-02-04 15:46 ansible-rsyslog-master/defaults/
+-rw-rw-r-- root/root        40 2019-02-04 15:46 ansible-rsyslog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-04 15:46 ansible-rsyslog-master/handlers/
+-rw-rw-r-- root/root       235 2019-02-04 15:46 ansible-rsyslog-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-04 15:46 ansible-rsyslog-master/meta/
+-rw-rw-r-- root/root       401 2019-02-04 15:46 ansible-rsyslog-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-04 15:46 ansible-rsyslog-master/tasks/
+-rw-rw-r-- root/root       277 2019-02-04 15:46 ansible-rsyslog-master/tasks/configure.yml
+-rw-rw-r-- root/root       116 2019-02-04 15:46 ansible-rsyslog-master/tasks/install.yml
+-rw-rw-r-- root/root        81 2019-02-04 15:46 ansible-rsyslog-master/tasks/main.yml
+-rw-rw-r-- root/root       122 2019-02-04 15:46 ansible-rsyslog-master/tasks/service.yml
+drwxrwxr-x root/root         0 2019-02-04 15:46 ansible-rsyslog-master/templates/
+-rw-rw-r-- root/root        86 2019-02-04 15:46 ansible-rsyslog-master/templates/rsyslog.snippet.conf.j2

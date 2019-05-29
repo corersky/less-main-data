@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-09-20 12:31 ansible-ubuntu-mpd-master/
+-rw-rw-r-- root/root       154 2015-09-20 12:31 ansible-ubuntu-mpd-master/README.md
+drwxrwxr-x root/root         0 2015-09-20 12:31 ansible-ubuntu-mpd-master/defaults/
+-rw-rw-r-- root/root       167 2015-09-20 12:31 ansible-ubuntu-mpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-20 12:31 ansible-ubuntu-mpd-master/handlers/
+-rwxrwxr-x root/root        71 2015-09-20 12:31 ansible-ubuntu-mpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-20 12:31 ansible-ubuntu-mpd-master/meta/
+-rw-rw-r-- root/root       301 2015-09-20 12:31 ansible-ubuntu-mpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-20 12:31 ansible-ubuntu-mpd-master/tasks/
+-rw-rw-r-- root/root       364 2015-09-20 12:31 ansible-ubuntu-mpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-20 12:31 ansible-ubuntu-mpd-master/templates/
+-rw-rw-r-- root/root     16270 2015-09-20 12:31 ansible-ubuntu-mpd-master/templates/mpd.conf

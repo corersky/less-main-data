@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-20 03:27 ansible-ci-testing-master/
+-rw-rw-r-- root/root       703 2016-11-20 03:27 ansible-ci-testing-master/.travis.yml
+-rw-rw-r-- root/root     35141 2016-11-20 03:27 ansible-ci-testing-master/LICENSE
+-rw-rw-r-- root/root       335 2016-11-20 03:27 ansible-ci-testing-master/README.md
+drwxrwxr-x root/root         0 2016-11-20 03:27 ansible-ci-testing-master/defaults/
+-rw-rw-r-- root/root        43 2016-11-20 03:27 ansible-ci-testing-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-20 03:27 ansible-ci-testing-master/handlers/
+-rw-rw-r-- root/root        43 2016-11-20 03:27 ansible-ci-testing-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-20 03:27 ansible-ci-testing-master/meta/
+-rw-rw-r-- root/root      3818 2016-11-20 03:27 ansible-ci-testing-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-20 03:27 ansible-ci-testing-master/tasks/
+-rw-rw-r-- root/root       108 2016-11-20 03:27 ansible-ci-testing-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-20 03:27 ansible-ci-testing-master/tests/
+-rw-rw-r-- root/root        10 2016-11-20 03:27 ansible-ci-testing-master/tests/inventory
+-rw-rw-r-- root/root        97 2016-11-20 03:27 ansible-ci-testing-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-20 03:27 ansible-ci-testing-master/vars/
+-rw-rw-r-- root/root        39 2016-11-20 03:27 ansible-ci-testing-master/vars/main.yml

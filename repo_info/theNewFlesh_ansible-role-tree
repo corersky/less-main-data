@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-tree-master/
+-rw-rw-r-- root/root       843 2016-05-25 21:19 ansible-role-tree-master/.gitignore
+-rw-rw-r-- root/root       539 2016-05-25 21:19 ansible-role-tree-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-05-25 21:19 ansible-role-tree-master/README.md
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-tree-master/defaults/
+-rw-rw-r-- root/root        19 2016-05-25 21:19 ansible-role-tree-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-tree-master/meta/
+-rw-rw-r-- root/root       372 2016-05-25 21:19 ansible-role-tree-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-tree-master/tasks/
+-rw-rw-r-- root/root       310 2016-05-25 21:19 ansible-role-tree-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-tree-master/tests/
+-rw-rw-r-- root/root       257 2016-05-25 21:19 ansible-role-tree-master/tests/ansible.cfg
+-rw-rw-r-- root/root       526 2016-05-25 21:19 ansible-role-tree-master/tests/staging
+-rw-rw-r-- root/root       194 2016-05-25 21:19 ansible-role-tree-master/tests/test.yml

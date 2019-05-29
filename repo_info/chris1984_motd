@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-04 14:30 motd-master/
+-rw-rw-r-- root/root       657 2018-12-04 14:30 motd-master/.travis.yml
+-rw-rw-r-- root/root      1820 2018-12-04 14:30 motd-master/README.md
+drwxrwxr-x root/root         0 2018-12-04 14:30 motd-master/defaults/
+-rw-rw-r-- root/root      1314 2018-12-04 14:30 motd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-04 14:30 motd-master/meta/
+-rw-rw-r-- root/root       262 2018-12-04 14:30 motd-master/meta/main.yml
+-rw-rw-r-- root/root       141 2018-12-04 14:30 motd-master/motd.yml
+-rw-rw-r-- root/root        25 2018-12-04 14:30 motd-master/requirements.yml
+drwxrwxr-x root/root         0 2018-12-04 14:30 motd-master/tasks/
+-rw-rw-r-- root/root       102 2018-12-04 14:30 motd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-04 14:30 motd-master/templates/
+drwxrwxr-x root/root         0 2018-12-04 14:30 motd-master/templates/etc/
+-rw-rw-r-- root/root        19 2018-12-04 14:30 motd-master/templates/etc/motd.j2
+drwxrwxr-x root/root         0 2018-12-04 14:30 motd-master/tests/
+-rw-rw-r-- root/root        10 2018-12-04 14:30 motd-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-12-04 14:30 motd-master/tests/test.yml

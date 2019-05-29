@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-08-13 21:39 ansible-falcon-microservice-master/
+-rw-rw-r-- root/root        11 2014-08-13 21:39 ansible-falcon-microservice-master/.gitignore
+-rw-rw-r-- root/root      1058 2014-08-13 21:39 ansible-falcon-microservice-master/LICENSE
+-rw-rw-r-- root/root       266 2014-08-13 21:39 ansible-falcon-microservice-master/README.md
+drwxrwxr-x root/root         0 2014-08-13 21:39 ansible-falcon-microservice-master/defaults/
+-rw-rw-r-- root/root       239 2014-08-13 21:39 ansible-falcon-microservice-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-13 21:39 ansible-falcon-microservice-master/handlers/
+-rw-rw-r-- root/root       102 2014-08-13 21:39 ansible-falcon-microservice-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-08-13 21:39 ansible-falcon-microservice-master/meta/
+-rw-rw-r-- root/root       242 2014-08-13 21:39 ansible-falcon-microservice-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-13 21:39 ansible-falcon-microservice-master/tasks/
+-rw-rw-r-- root/root       949 2014-08-13 21:39 ansible-falcon-microservice-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-08-13 21:39 ansible-falcon-microservice-master/templates/
+-rw-rw-r-- root/root       750 2014-08-13 21:39 ansible-falcon-microservice-master/templates/falcon-microservice.service

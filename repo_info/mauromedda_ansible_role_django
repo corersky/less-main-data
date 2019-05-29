@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-03-04 08:36 ansible_role_django-master/
+-rw-rw-r-- root/root      1374 2017-03-04 08:36 ansible_role_django-master/.travis.yml
+-rw-rw-r-- root/root        78 2017-03-04 08:36 ansible_role_django-master/CHANGELOG
+-rw-rw-r-- root/root      1316 2017-03-04 08:36 ansible_role_django-master/LICENSE
+-rw-rw-r-- root/root       529 2017-03-04 08:36 ansible_role_django-master/README.md
+drwxrwxr-x root/root         0 2017-03-04 08:36 ansible_role_django-master/defaults/
+-rw-rw-r-- root/root       143 2017-03-04 08:36 ansible_role_django-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-04 08:36 ansible_role_django-master/handlers/
+-rw-rw-r-- root/root        44 2017-03-04 08:36 ansible_role_django-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-04 08:36 ansible_role_django-master/meta/
+-rw-rw-r-- root/root       285 2017-03-04 08:36 ansible_role_django-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-04 08:36 ansible_role_django-master/tasks/
+-rw-rw-r-- root/root       424 2017-03-04 08:36 ansible_role_django-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-04 08:36 ansible_role_django-master/tests/
+-rw-rw-r-- root/root       231 2017-03-04 08:36 ansible_role_django-master/tests/ansible.cfg
+-rw-rw-r-- root/root         9 2017-03-04 08:36 ansible_role_django-master/tests/inventory
+-rw-rw-r-- root/root        93 2017-03-04 08:36 ansible_role_django-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-17 21:12 traefik-master/
+-rw-rw-r-- root/root      4276 2019-04-17 21:12 traefik-master/README.md
+drwxrwxr-x root/root         0 2019-04-17 21:12 traefik-master/defaults/
+-rw-rw-r-- root/root      1370 2019-04-17 21:12 traefik-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-17 21:12 traefik-master/handlers/
+-rw-rw-r-- root/root       146 2019-04-17 21:12 traefik-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-17 21:12 traefik-master/meta/
+-rw-rw-r-- root/root       349 2019-04-17 21:12 traefik-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-17 21:12 traefik-master/tasks/
+-rw-rw-r-- root/root      1477 2019-04-17 21:12 traefik-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-17 21:12 traefik-master/templates/
+-rw-rw-r-- root/root       195 2019-04-17 21:12 traefik-master/templates/traefik.service.j2
+-rw-rw-r-- root/root      1500 2019-04-17 21:12 traefik-master/templates/traefik.toml.j2

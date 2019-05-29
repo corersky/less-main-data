@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/.travis.yml
+-rw-rw-r-- root/root        90 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/handlers/
+-rw-rw-r-- root/root        94 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/meta/
+-rw-rw-r-- root/root       223 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/tasks/
+-rw-rw-r-- root/root       995 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-12-11 10:56 ansible-role-server-rabbitmq-server-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-teamviewer-master/
+-rw-rw-r-- root/root       199 2018-08-01 21:38 ansible-teamviewer-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-teamviewer-master/defaults/
+-rw-rw-r-- root/root        34 2018-08-01 21:38 ansible-teamviewer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-teamviewer-master/handlers/
+-rw-rw-r-- root/root        34 2018-08-01 21:38 ansible-teamviewer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-teamviewer-master/meta/
+-rw-rw-r-- root/root       203 2018-08-01 21:38 ansible-teamviewer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-teamviewer-master/tasks/
+-rw-rw-r-- root/root       143 2018-08-01 21:38 ansible-teamviewer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-teamviewer-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:38 ansible-teamviewer-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-08-01 21:38 ansible-teamviewer-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-teamviewer-master/vars/
+-rw-rw-r-- root/root        30 2018-08-01 21:38 ansible-teamviewer-master/vars/main.yml

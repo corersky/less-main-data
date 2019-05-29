@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-09-30 11:40 ar-ansible-version-master/
+-rw-rw-r-- root/root        90 2014-09-30 11:40 ar-ansible-version-master/.gitignore
+-rw-rw-r-- root/root      1083 2014-09-30 11:40 ar-ansible-version-master/LICENSE.md
+-rw-rw-r-- root/root       712 2014-09-30 11:40 ar-ansible-version-master/README.md
+-rw-rw-r-- root/root        32 2014-09-30 11:40 ar-ansible-version-master/ansible.cfg
+-rw-rw-r-- root/root        43 2014-09-30 11:40 ar-ansible-version-master/inventory
+drwxrwxr-x root/root         0 2014-09-30 11:40 ar-ansible-version-master/library/
+-rw-rw-r-- root/root       778 2014-09-30 11:40 ar-ansible-version-master/library/ansible_version
+drwxrwxr-x root/root         0 2014-09-30 11:40 ar-ansible-version-master/meta/
+-rw-rw-r-- root/root       244 2014-09-30 11:40 ar-ansible-version-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-30 11:40 ar-ansible-version-master/tasks/
+-rw-rw-r-- root/root         4 2014-09-30 11:40 ar-ansible-version-master/tasks/main.yml
+-rwxrwxr-x root/root        50 2014-09-30 11:40 ar-ansible-version-master/test.sh
+-rw-rw-r-- root/root       169 2014-09-30 11:40 ar-ansible-version-master/test.yml

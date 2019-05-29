@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-java-master/
+-rw-rw-r-- root/root       539 2016-03-31 10:15 ansible-role-java-master/.travis.yml
+-rw-rw-r-- root/root        26 2016-03-31 10:15 ansible-role-java-master/README.md
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-java-master/defaults/
+-rw-rw-r-- root/root        21 2016-03-31 10:15 ansible-role-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-java-master/meta/
+-rw-rw-r-- root/root      3257 2016-03-31 10:15 ansible-role-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-java-master/tasks/
+-rw-rw-r-- root/root      1031 2016-03-31 10:15 ansible-role-java-master/tasks/Debian.yml
+-rw-rw-r-- root/root       131 2016-03-31 10:15 ansible-role-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-java-master/tests/
+-rw-rw-r-- root/root         9 2016-03-31 10:15 ansible-role-java-master/tests/inventory
+-rw-rw-r-- root/root        75 2016-03-31 10:15 ansible-role-java-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-31 10:15 ansible-role-java-master/vars/
+-rw-rw-r-- root/root        34 2016-03-31 10:15 ansible-role-java-master/vars/Debian.yml
+-rw-rw-r-- root/root       112 2016-03-31 10:15 ansible-role-java-master/vars/main.yml

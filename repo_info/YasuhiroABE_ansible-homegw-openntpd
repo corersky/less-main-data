@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-11-08 22:24 ansible-homegw-openntpd-master/
+-rw-rw-r-- root/root       983 2017-11-08 22:24 ansible-homegw-openntpd-master/README.md
+drwxrwxr-x root/root         0 2017-11-08 22:24 ansible-homegw-openntpd-master/defaults/
+-rw-rw-r-- root/root       144 2017-11-08 22:24 ansible-homegw-openntpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-08 22:24 ansible-homegw-openntpd-master/meta/
+-rw-rw-r-- root/root      1226 2017-11-08 22:24 ansible-homegw-openntpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-08 22:24 ansible-homegw-openntpd-master/tasks/
+-rw-rw-r-- root/root       833 2017-11-08 22:24 ansible-homegw-openntpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-08 22:24 ansible-homegw-openntpd-master/tests/
+-rw-rw-r-- root/root        11 2017-11-08 22:24 ansible-homegw-openntpd-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-11-08 22:24 ansible-homegw-openntpd-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-08 22:24 ansible-homegw-openntpd-master/vars/
+-rw-rw-r-- root/root        47 2017-11-08 22:24 ansible-homegw-openntpd-master/vars/main.yml

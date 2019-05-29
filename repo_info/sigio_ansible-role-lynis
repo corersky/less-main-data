@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-14 09:39 ansible-role-lynis-master/
+-rw-rw-r-- root/root       852 2018-08-14 09:39 ansible-role-lynis-master/README.md
+drwxrwxr-x root/root         0 2018-08-14 09:39 ansible-role-lynis-master/defaults/
+-rw-rw-r-- root/root       246 2018-08-14 09:39 ansible-role-lynis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-14 09:39 ansible-role-lynis-master/meta/
+-rw-rw-r-- root/root      1340 2018-08-14 09:39 ansible-role-lynis-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-14 09:39 ansible-role-lynis-master/tasks/
+-rw-rw-r-- root/root      2464 2018-08-14 09:39 ansible-role-lynis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-14 09:39 ansible-role-lynis-master/templates/
+-rw-rw-r-- root/root       319 2018-08-14 09:39 ansible-role-lynis-master/templates/lynis-custom.prf.j2
+-rw-rw-r-- root/root       350 2018-08-14 09:39 ansible-role-lynis-master/templates/lynis.list
+-rw-rw-r-- root/root       508 2018-08-14 09:39 ansible-role-lynis-master/templates/lynis.repo
+drwxrwxr-x root/root         0 2018-08-14 09:39 ansible-role-lynis-master/tests/
+-rw-rw-r-- root/root        11 2018-08-14 09:39 ansible-role-lynis-master/tests/inventory
+-rw-rw-r-- root/root        63 2018-08-14 09:39 ansible-role-lynis-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-14 09:39 ansible-role-lynis-master/vars/
+-rw-rw-r-- root/root        25 2018-08-14 09:39 ansible-role-lynis-master/vars/main.yml

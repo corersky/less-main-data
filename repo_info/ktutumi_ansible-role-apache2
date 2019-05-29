@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-04-20 09:48 ansible-role-apache2-master/
+-rw-rw-r-- root/root       326 2015-04-20 09:48 ansible-role-apache2-master/README.md
+drwxrwxr-x root/root         0 2015-04-20 09:48 ansible-role-apache2-master/defaults/
+-rw-rw-r-- root/root        32 2015-04-20 09:48 ansible-role-apache2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-20 09:48 ansible-role-apache2-master/files/
+-rw-rw-r-- root/root     34413 2015-04-20 09:48 ansible-role-apache2-master/files/httpd.conf
+drwxrwxr-x root/root         0 2015-04-20 09:48 ansible-role-apache2-master/handlers/
+-rw-rw-r-- root/root        32 2015-04-20 09:48 ansible-role-apache2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-20 09:48 ansible-role-apache2-master/meta/
+-rw-rw-r-- root/root      2222 2015-04-20 09:48 ansible-role-apache2-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-20 09:48 ansible-role-apache2-master/tasks/
+-rw-rw-r-- root/root       186 2015-04-20 09:48 ansible-role-apache2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-20 09:48 ansible-role-apache2-master/vars/
+-rw-rw-r-- root/root        28 2015-04-20 09:48 ansible-role-apache2-master/vars/main.yml

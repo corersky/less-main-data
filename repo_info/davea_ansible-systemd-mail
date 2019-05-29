@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-03-27 14:28 ansible-systemd-mail-master/
+-rw-rw-r-- root/root       244 2018-03-27 14:28 ansible-systemd-mail-master/README.md
+drwxrwxr-x root/root         0 2018-03-27 14:28 ansible-systemd-mail-master/files/
+-rw-rw-r-- root/root       149 2018-03-27 14:28 ansible-systemd-mail-master/files/status-email-root@.service
+-rw-rw-r-- root/root       218 2018-03-27 14:28 ansible-systemd-mail-master/files/systemd-mail
+drwxrwxr-x root/root         0 2018-03-27 14:28 ansible-systemd-mail-master/meta/
+-rw-rw-r-- root/root       216 2018-03-27 14:28 ansible-systemd-mail-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-27 14:28 ansible-systemd-mail-master/tasks/
+-rw-rw-r-- root/root        54 2018-03-27 14:28 ansible-systemd-mail-master/tasks/main.yml
+-rw-rw-r-- root/root       312 2018-03-27 14:28 ansible-systemd-mail-master/tasks/systemd-mail.yml

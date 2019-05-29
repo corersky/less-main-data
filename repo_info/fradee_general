@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-08-18 07:52 general-master/
+-rw-rw-r-- root/root       736 2016-08-18 07:52 general-master/README.md
+drwxrwxr-x root/root         0 2016-08-18 07:52 general-master/defaults/
+-rw-rw-r-- root/root       229 2016-08-18 07:52 general-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-18 07:52 general-master/meta/
+-rw-rw-r-- root/root       376 2016-08-18 07:52 general-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-18 07:52 general-master/tasks/
+-rw-rw-r-- root/root       469 2016-08-18 07:52 general-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-18 07:52 general-master/templates/
+-rw-rw-r-- root/root        23 2016-08-18 07:52 general-master/templates/timezone.j2

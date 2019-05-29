@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-05-31 14:07 ansible-fits-master/
+-rw-rw-r-- root/root      2503 2018-05-31 14:07 ansible-fits-master/README.md
+drwxrwxr-x root/root         0 2018-05-31 14:07 ansible-fits-master/defaults/
+-rw-rw-r-- root/root       226 2018-05-31 14:07 ansible-fits-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-31 14:07 ansible-fits-master/meta/
+-rw-rw-r-- root/root       217 2018-05-31 14:07 ansible-fits-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-31 14:07 ansible-fits-master/tasks/
+-rw-rw-r-- root/root       328 2018-05-31 14:07 ansible-fits-master/tasks/download.yml
+-rw-rw-r-- root/root       358 2018-05-31 14:07 ansible-fits-master/tasks/install.yml
+-rw-rw-r-- root/root        80 2018-05-31 14:07 ansible-fits-master/tasks/main.yml
+-rw-rw-r-- root/root       201 2018-05-31 14:07 ansible-fits-master/tasks/prerequisites.yml
+drwxrwxr-x root/root         0 2018-05-31 14:07 ansible-fits-master/templates/
+-rw-rw-r-- root/root        79 2018-05-31 14:07 ansible-fits-master/templates/fits.sh.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/
+-rw-rw-r-- root/root        66 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/.gitignore
+-rw-rw-r-- root/root      1507 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/LICENSE.mkd
+-rw-rw-r-- root/root      3923 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/README.md
+drwxrwxr-x root/root         0 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/defaults/
+-rw-rw-r-- root/root       946 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/meta/
+-rw-rw-r-- root/root       566 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/tasks/
+-rw-rw-r-- root/root       400 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/templates/
+-rw-rw-r-- root/root      2958 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       654 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       250 2018-01-21 12:32 ansible-role-kubernetes-couchpotato-master/templates/service.yml.j2

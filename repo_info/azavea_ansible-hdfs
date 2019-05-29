@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2015-04-25 09:38 ansible-hdfs-master/
+-rw-rw-r-- root/root        37 2015-04-25 09:38 ansible-hdfs-master/.gitignore
+-rw-rw-r-- root/root       636 2015-04-25 09:38 ansible-hdfs-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-04-25 09:38 ansible-hdfs-master/LICENSE
+-rw-rw-r-- root/root      1034 2015-04-25 09:38 ansible-hdfs-master/README.md
+drwxrwxr-x root/root         0 2015-04-25 09:38 ansible-hdfs-master/defaults/
+-rw-rw-r-- root/root       671 2015-04-25 09:38 ansible-hdfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-25 09:38 ansible-hdfs-master/examples/
+-rw-rw-r-- root/root       733 2015-04-25 09:38 ansible-hdfs-master/examples/Vagrantfile
+-rw-rw-r-- root/root        18 2015-04-25 09:38 ansible-hdfs-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-04-25 09:38 ansible-hdfs-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-04-25 09:38 ansible-hdfs-master/examples/roles/azavea.hdfs -> ../../
+-rw-rw-r-- root/root       149 2015-04-25 09:38 ansible-hdfs-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-04-25 09:38 ansible-hdfs-master/handlers/
+-rw-rw-r-- root/root       233 2015-04-25 09:38 ansible-hdfs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-25 09:38 ansible-hdfs-master/meta/
+-rw-rw-r-- root/root       305 2015-04-25 09:38 ansible-hdfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-25 09:38 ansible-hdfs-master/tasks/
+-rw-rw-r-- root/root      1536 2015-04-25 09:38 ansible-hdfs-master/tasks/datanode.yml
+-rw-rw-r-- root/root       661 2015-04-25 09:38 ansible-hdfs-master/tasks/main.yml
+-rw-rw-r-- root/root       886 2015-04-25 09:38 ansible-hdfs-master/tasks/namenode.yml
+drwxrwxr-x root/root         0 2015-04-25 09:38 ansible-hdfs-master/templates/
+-rw-rw-r-- root/root       164 2015-04-25 09:38 ansible-hdfs-master/templates/cdh5.j2
+-rw-rw-r-- root/root       235 2015-04-25 09:38 ansible-hdfs-master/templates/core-site.xml.j2
+-rw-rw-r-- root/root       239 2015-04-25 09:38 ansible-hdfs-master/templates/datanode-hdfs-site.xml.j2
+-rw-rw-r-- root/root       239 2015-04-25 09:38 ansible-hdfs-master/templates/namenode-hdfs-site.xml.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-05 10:38 ansible-role-omero-python-deps-master/
+-rw-rw-r-- root/root        10 2017-05-05 10:38 ansible-role-omero-python-deps-master/.gitignore
+-rw-rw-r-- root/root       222 2017-05-05 10:38 ansible-role-omero-python-deps-master/.travis.yml
+-rw-rw-r-- root/root       474 2017-05-05 10:38 ansible-role-omero-python-deps-master/README.md
+drwxrwxr-x root/root         0 2017-05-05 10:38 ansible-role-omero-python-deps-master/meta/
+-rw-rw-r-- root/root       300 2017-05-05 10:38 ansible-role-omero-python-deps-master/meta/main.yml
+-rw-rw-r-- root/root       449 2017-05-05 10:38 ansible-role-omero-python-deps-master/molecule.yml
+-rw-rw-r-- root/root        69 2017-05-05 10:38 ansible-role-omero-python-deps-master/playbook.yml
+drwxrwxr-x root/root         0 2017-05-05 10:38 ansible-role-omero-python-deps-master/tasks/
+-rw-rw-r-- root/root       341 2017-05-05 10:38 ansible-role-omero-python-deps-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-05 10:38 ansible-role-omero-python-deps-master/tests/
+-rw-rw-r-- root/root        10 2017-05-05 10:38 ansible-role-omero-python-deps-master/tests/inventory
+-rw-rw-r-- root/root        31 2017-05-05 10:38 ansible-role-omero-python-deps-master/tests/requirements.yml
+-rw-rw-r-- root/root        93 2017-05-05 10:38 ansible-role-omero-python-deps-master/tests/test.yml

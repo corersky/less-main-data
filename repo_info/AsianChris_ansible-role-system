@@ -1,0 +1,8 @@
+drwxrwxr-x root/root         0 2018-09-13 08:33 ansible-role-system-master/
+-rw-rw-r-- root/root       182 2018-09-13 08:33 ansible-role-system-master/README.md
+drwxrwxr-x root/root         0 2018-09-13 08:33 ansible-role-system-master/meta/
+-rw-rw-r-- root/root       278 2018-09-13 08:33 ansible-role-system-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-13 08:33 ansible-role-system-master/tasks/
+-rw-rw-r-- root/root       425 2018-09-13 08:33 ansible-role-system-master/tasks/debian.yml
+-rw-rw-r-- root/root       355 2018-09-13 08:33 ansible-role-system-master/tasks/main.yml
+-rw-rw-r-- root/root       193 2018-09-13 08:33 ansible-role-system-master/tasks/redhat.yml

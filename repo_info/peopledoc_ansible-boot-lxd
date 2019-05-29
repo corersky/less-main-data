@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-01-30 14:20 ansible-boot-lxd-master/
+-rw-rw-r-- root/root      1028 2017-01-30 14:20 ansible-boot-lxd-master/.travis.yml
+-rw-rw-r-- root/root      1423 2017-01-30 14:20 ansible-boot-lxd-master/README.rst
+-rw-rw-r-- root/root       615 2017-01-30 14:20 ansible-boot-lxd-master/Vagrantfile
+drwxrwxr-x root/root         0 2017-01-30 14:20 ansible-boot-lxd-master/defaults/
+-rw-rw-r-- root/root       180 2017-01-30 14:20 ansible-boot-lxd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-30 14:20 ansible-boot-lxd-master/meta/
+-rw-rw-r-- root/root       343 2017-01-30 14:20 ansible-boot-lxd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-30 14:20 ansible-boot-lxd-master/tasks/
+-rw-rw-r-- root/root      3543 2017-01-30 14:20 ansible-boot-lxd-master/tasks/main.yml
+-rw-rw-r-- root/root        93 2017-01-30 14:20 ansible-boot-lxd-master/test-requirements.yml
+-rw-rw-r-- root/root       264 2017-01-30 14:20 ansible-boot-lxd-master/test.yml

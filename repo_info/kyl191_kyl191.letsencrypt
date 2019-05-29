@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-21 21:16 kyl191.letsencrypt-master/
+-rw-rw-r-- root/root      2053 2016-02-21 21:16 kyl191.letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2016-02-21 21:16 kyl191.letsencrypt-master/defaults/
+-rw-rw-r-- root/root       262 2016-02-21 21:16 kyl191.letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-21 21:16 kyl191.letsencrypt-master/handlers/
+-rw-rw-r-- root/root       128 2016-02-21 21:16 kyl191.letsencrypt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-21 21:16 kyl191.letsencrypt-master/meta/
+-rw-rw-r-- root/root       304 2016-02-21 21:16 kyl191.letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-21 21:16 kyl191.letsencrypt-master/tasks/
+-rw-rw-r-- root/root      2899 2016-02-21 21:16 kyl191.letsencrypt-master/tasks/gen_cert.yml
+-rw-rw-r-- root/root       468 2016-02-21 21:16 kyl191.letsencrypt-master/tasks/letsencrypt_git.yml
+-rw-rw-r-- root/root      2558 2016-02-21 21:16 kyl191.letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-21 21:16 kyl191.letsencrypt-master/templates/
+-rw-rw-r-- root/root       215 2016-02-21 21:16 kyl191.letsencrypt-master/templates/letsencrypt-config.j2
+drwxrwxr-x root/root         0 2016-02-21 21:16 kyl191.letsencrypt-master/vars/
+-rw-rw-r-- root/root        39 2016-02-21 21:16 kyl191.letsencrypt-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-03-07 16:20 ansible-kodi-master/
+-rw-rw-r-- root/root       539 2016-03-07 16:20 ansible-kodi-master/.travis.yml
+-rw-rw-r-- root/root       446 2016-03-07 16:20 ansible-kodi-master/README.md
+drwxrwxr-x root/root         0 2016-03-07 16:20 ansible-kodi-master/defaults/
+-rw-rw-r-- root/root       185 2016-03-07 16:20 ansible-kodi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-07 16:20 ansible-kodi-master/handlers/
+-rw-rw-r-- root/root        37 2016-03-07 16:20 ansible-kodi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-07 16:20 ansible-kodi-master/meta/
+-rw-rw-r-- root/root      3243 2016-03-07 16:20 ansible-kodi-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-07 16:20 ansible-kodi-master/tasks/
+-rw-rw-r-- root/root       562 2016-03-07 16:20 ansible-kodi-master/tasks/debian.yml
+-rw-rw-r-- root/root        95 2016-03-07 16:20 ansible-kodi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-07 16:20 ansible-kodi-master/tests/
+-rw-rw-r-- root/root         9 2016-03-07 16:20 ansible-kodi-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-03-07 16:20 ansible-kodi-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-07 16:20 ansible-kodi-master/vars/
+-rw-rw-r-- root/root        33 2016-03-07 16:20 ansible-kodi-master/vars/main.yml

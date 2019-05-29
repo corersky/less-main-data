@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-12 10:08 ansible-container-linux-bootstrap-master/
+-rw-rw-r-- root/root       235 2017-09-12 10:08 ansible-container-linux-bootstrap-master/.editorconfig
+-rw-rw-r-- root/root       351 2017-09-12 10:08 ansible-container-linux-bootstrap-master/.travis.yml
+-rw-rw-r-- root/root      1081 2017-09-12 10:08 ansible-container-linux-bootstrap-master/LICENSE
+-rw-rw-r-- root/root      2517 2017-09-12 10:08 ansible-container-linux-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2017-09-12 10:08 ansible-container-linux-bootstrap-master/files/
+-rw-rw-r-- root/root       728 2017-09-12 10:08 ansible-container-linux-bootstrap-master/files/bootstrap.sh
+-rw-rw-r-- root/root   1340903 2017-09-12 10:08 ansible-container-linux-bootstrap-master/files/get-pip.py
+-rw-rw-r-- root/root        93 2017-09-12 10:08 ansible-container-linux-bootstrap-master/files/runner
+drwxrwxr-x root/root         0 2017-09-12 10:08 ansible-container-linux-bootstrap-master/meta/
+-rw-rw-r-- root/root       290 2017-09-12 10:08 ansible-container-linux-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-12 10:08 ansible-container-linux-bootstrap-master/tasks/
+-rw-rw-r-- root/root       774 2017-09-12 10:08 ansible-container-linux-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-12 10:08 ansible-container-linux-bootstrap-master/tests/
+-rw-rw-r-- root/root        49 2017-09-12 10:08 ansible-container-linux-bootstrap-master/tests/test.yml

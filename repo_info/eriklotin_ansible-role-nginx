@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-24 09:19 ansible-role-nginx-master/
+-rw-rw-r-- root/root         5 2019-05-24 09:19 ansible-role-nginx-master/.gitignore
+-rw-rw-r-- root/root      1067 2019-05-24 09:19 ansible-role-nginx-master/LICENSE
+-rw-rw-r-- root/root      1684 2019-05-24 09:19 ansible-role-nginx-master/README.md
+drwxrwxr-x root/root         0 2019-05-24 09:19 ansible-role-nginx-master/defaults/
+-rw-rw-r-- root/root        49 2019-05-24 09:19 ansible-role-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-24 09:19 ansible-role-nginx-master/meta/
+-rw-rw-r-- root/root       541 2019-05-24 09:19 ansible-role-nginx-master/meta/main.yml
+-rw-rw-r-- root/root        27 2019-05-24 09:19 ansible-role-nginx-master/requirements.yml
+drwxrwxr-x root/root         0 2019-05-24 09:19 ansible-role-nginx-master/tasks/
+-rw-rw-r-- root/root      1260 2019-05-24 09:19 ansible-role-nginx-master/tasks/main.yml

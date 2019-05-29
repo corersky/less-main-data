@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-30 16:00 ansible-role-git-clone-master/
+-rw-rw-r-- root/root      1448 2018-09-30 16:00 ansible-role-git-clone-master/.travis.yml
+-rw-rw-r-- root/root     11358 2018-09-30 16:00 ansible-role-git-clone-master/LICENSE
+-rw-rw-r-- root/root      1208 2018-09-30 16:00 ansible-role-git-clone-master/NOTICE
+-rw-rw-r-- root/root       825 2018-09-30 16:00 ansible-role-git-clone-master/README.md
+drwxrwxr-x root/root         0 2018-09-30 16:00 ansible-role-git-clone-master/defaults/
+-rw-rw-r-- root/root        61 2018-09-30 16:00 ansible-role-git-clone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 16:00 ansible-role-git-clone-master/meta/
+-rw-rw-r-- root/root       314 2018-09-30 16:00 ansible-role-git-clone-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-30 16:00 ansible-role-git-clone-master/tasks/
+-rw-rw-r-- root/root       553 2018-09-30 16:00 ansible-role-git-clone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-30 16:00 ansible-role-git-clone-master/tests/
+-rw-rw-r-- root/root        11 2018-09-30 16:00 ansible-role-git-clone-master/tests/inventory
+-rw-rw-r-- root/root       203 2018-09-30 16:00 ansible-role-git-clone-master/tests/test.yml

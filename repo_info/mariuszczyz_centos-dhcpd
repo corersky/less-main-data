@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-29 06:19 centos-dhcpd-master/
+-rw-rw-r-- root/root      1347 2018-10-29 06:19 centos-dhcpd-master/README.md
+drwxrwxr-x root/root         0 2018-10-29 06:19 centos-dhcpd-master/defaults/
+-rw-rw-r-- root/root       298 2018-10-29 06:19 centos-dhcpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:19 centos-dhcpd-master/handlers/
+-rw-rw-r-- root/root       119 2018-10-29 06:19 centos-dhcpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:19 centos-dhcpd-master/meta/
+-rw-rw-r-- root/root       293 2018-10-29 06:19 centos-dhcpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:19 centos-dhcpd-master/tasks/
+-rw-rw-r-- root/root       417 2018-10-29 06:19 centos-dhcpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-29 06:19 centos-dhcpd-master/templates/
+-rw-rw-r-- root/root       405 2018-10-29 06:19 centos-dhcpd-master/templates/dhcpd.conf.j2
+drwxrwxr-x root/root         0 2018-10-29 06:19 centos-dhcpd-master/vars/
+-rw-rw-r-- root/root        44 2018-10-29 06:19 centos-dhcpd-master/vars/main.yml

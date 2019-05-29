@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/
+-rwxrwxr-x root/root       987 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/.travis.yml
+-rwxrwxr-x root/root        53 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/README.md
+drwxrwxr-x root/root         0 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/defaults/
+-rwxrwxr-x root/root       543 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/meta/
+-rwxrwxr-x root/root       355 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/tasks/
+-rwxrwxr-x root/root      1264 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/tasks/main.yml
+-rwxrwxr-x root/root       737 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/tests/
+-rwxrwxr-x root/root        10 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/tests/inventory
+-rwxrwxr-x root/root       197 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/tests/test-npm.yml
+-rwxrwxr-x root/root        90 2016-02-24 01:35 ansible-role-openapphack-nodejs-master/tests/test.yml

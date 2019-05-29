@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-07 07:23 ansible_grafana_deb-role-master/
+-rw-rw-r-- root/root       360 2017-07-07 07:23 ansible_grafana_deb-role-master/CHANGELOG.md
+-rw-rw-r-- root/root      9794 2017-07-07 07:23 ansible_grafana_deb-role-master/LICENSE.txt
+-rw-rw-r-- root/root      2373 2017-07-07 07:23 ansible_grafana_deb-role-master/README.md
+drwxrwxr-x root/root         0 2017-07-07 07:23 ansible_grafana_deb-role-master/defaults/
+-rw-rw-r-- root/root       142 2017-07-07 07:23 ansible_grafana_deb-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-07 07:23 ansible_grafana_deb-role-master/handlers/
+-rw-rw-r-- root/root       106 2017-07-07 07:23 ansible_grafana_deb-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-07 07:23 ansible_grafana_deb-role-master/meta/
+-rw-rw-r-- root/root       245 2017-07-07 07:23 ansible_grafana_deb-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-07 07:23 ansible_grafana_deb-role-master/tasks/
+-rw-rw-r-- root/root       216 2017-07-07 07:23 ansible_grafana_deb-role-master/tasks/configure.yml
+-rw-rw-r-- root/root       163 2017-07-07 07:23 ansible_grafana_deb-role-master/tasks/install.yml
+-rw-rw-r-- root/root       221 2017-07-07 07:23 ansible_grafana_deb-role-master/tasks/main.yml
+-rw-rw-r-- root/root       106 2017-07-07 07:23 ansible_grafana_deb-role-master/tasks/service.yml
+drwxrwxr-x root/root         0 2017-07-07 07:23 ansible_grafana_deb-role-master/templates/
+-rw-rw-r-- root/root     11993 2017-07-07 07:23 ansible_grafana_deb-role-master/templates/grafana.ini.j2

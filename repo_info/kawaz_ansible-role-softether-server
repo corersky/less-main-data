@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-06-15 13:13 ansible-role-softether-server-master/
+-rw-rw-r-- root/root      1083 2015-06-15 13:13 ansible-role-softether-server-master/LICENSE
+-rw-rw-r-- root/root       874 2015-06-15 13:13 ansible-role-softether-server-master/README.md
+drwxrwxr-x root/root         0 2015-06-15 13:13 ansible-role-softether-server-master/meta/
+-rw-rw-r-- root/root       500 2015-06-15 13:13 ansible-role-softether-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-15 13:13 ansible-role-softether-server-master/tasks/
+-rw-rw-r-- root/root       105 2015-06-15 13:13 ansible-role-softether-server-master/tasks/dependencies.yml
+-rw-rw-r-- root/root      1115 2015-06-15 13:13 ansible-role-softether-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-15 13:13 ansible-role-softether-server-master/templates/
+-rw-rw-r-- root/root       475 2015-06-15 13:13 ansible-role-softether-server-master/templates/vpnserver.j2
+drwxrwxr-x root/root         0 2015-06-15 13:13 ansible-role-softether-server-master/vars/
+-rw-rw-r-- root/root        90 2015-06-15 13:13 ansible-role-softether-server-master/vars/main.yml

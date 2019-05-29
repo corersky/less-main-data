@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-05 10:22 ansible-role-firewalld-master/
+-rw-rw-r-- root/root      1079 2019-02-05 10:22 ansible-role-firewalld-master/LICENSE
+-rw-rw-r-- root/root       507 2019-02-05 10:22 ansible-role-firewalld-master/README.md
+drwxrwxr-x root/root         0 2019-02-05 10:22 ansible-role-firewalld-master/defaults/
+-rw-rw-r-- root/root       205 2019-02-05 10:22 ansible-role-firewalld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-05 10:22 ansible-role-firewalld-master/handlers/
+-rw-rw-r-- root/root       106 2019-02-05 10:22 ansible-role-firewalld-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-05 10:22 ansible-role-firewalld-master/meta/
+-rw-rw-r-- root/root       416 2019-02-05 10:22 ansible-role-firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-05 10:22 ansible-role-firewalld-master/tasks/
+-rw-rw-r-- root/root      4200 2019-02-05 10:22 ansible-role-firewalld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-05 10:22 ansible-role-firewalld-master/tests/
+-rw-rw-r-- root/root        11 2019-02-05 10:22 ansible-role-firewalld-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-02-05 10:22 ansible-role-firewalld-master/tests/test.yml

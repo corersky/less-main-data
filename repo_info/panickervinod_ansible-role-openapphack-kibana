@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-kibana-master/
+-rw-rw-r-- root/root       994 2016-01-26 08:14 ansible-role-openapphack-kibana-master/.travis.yml
+-rw-rw-r-- root/root        54 2016-01-26 08:14 ansible-role-openapphack-kibana-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-kibana-master/defaults/
+-rw-rw-r-- root/root       206 2016-01-26 08:14 ansible-role-openapphack-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-kibana-master/meta/
+-rw-rw-r-- root/root       312 2016-01-26 08:14 ansible-role-openapphack-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-kibana-master/tasks/
+-rw-rw-r-- root/root      1225 2016-01-26 08:14 ansible-role-openapphack-kibana-master/tasks/main.yml
+-rw-rw-r-- root/root       201 2016-01-26 08:14 ansible-role-openapphack-kibana-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-kibana-master/templates/
+-rw-rw-r-- root/root      2322 2016-01-26 08:14 ansible-role-openapphack-kibana-master/templates/config.js.j2
+-rw-rw-r-- root/root      2456 2016-01-26 08:14 ansible-role-openapphack-kibana-master/templates/kibana.conf.j2
+drwxrwxr-x root/root         0 2016-01-26 08:14 ansible-role-openapphack-kibana-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:14 ansible-role-openapphack-kibana-master/tests/inventory
+-rw-rw-r-- root/root       143 2016-01-26 08:14 ansible-role-openapphack-kibana-master/tests/test.yml

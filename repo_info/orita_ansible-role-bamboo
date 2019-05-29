@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-11-09 23:59 ansible-role-bamboo-master/
+-rw-rw-r-- root/root        21 2015-11-09 23:59 ansible-role-bamboo-master/.gitignore
+-rw-rw-r-- root/root       834 2015-11-09 23:59 ansible-role-bamboo-master/README.md
+drwxrwxr-x root/root         0 2015-11-09 23:59 ansible-role-bamboo-master/defaults/
+-rw-rw-r-- root/root       239 2015-11-09 23:59 ansible-role-bamboo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-09 23:59 ansible-role-bamboo-master/meta/
+-rw-rw-r-- root/root       469 2015-11-09 23:59 ansible-role-bamboo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-09 23:59 ansible-role-bamboo-master/tasks/
+-rw-rw-r-- root/root      1287 2015-11-09 23:59 ansible-role-bamboo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-09 23:59 ansible-role-bamboo-master/templates/
+-rw-rw-r-- root/root      1074 2015-11-09 23:59 ansible-role-bamboo-master/templates/initscript_bamboo

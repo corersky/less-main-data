@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-22 04:48 wireguard-private-networking-master/
+-rw-rw-r-- root/root      1070 2019-05-22 04:48 wireguard-private-networking-master/LICENSE
+-rw-rw-r-- root/root      2326 2019-05-22 04:48 wireguard-private-networking-master/README.md
+drwxrwxr-x root/root         0 2019-05-22 04:48 wireguard-private-networking-master/defaults/
+-rw-rw-r-- root/root       212 2019-05-22 04:48 wireguard-private-networking-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-22 04:48 wireguard-private-networking-master/meta/
+-rw-rw-r-- root/root       469 2019-05-22 04:48 wireguard-private-networking-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-22 04:48 wireguard-private-networking-master/tasks/
+-rw-rw-r-- root/root      3182 2019-05-22 04:48 wireguard-private-networking-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-22 04:48 wireguard-private-networking-master/templates/
+-rw-rw-r-- root/root       597 2019-05-22 04:48 wireguard-private-networking-master/templates/client.conf.j2
+-rw-rw-r-- root/root       830 2019-05-22 04:48 wireguard-private-networking-master/templates/interface.conf.j2
+-rw-rw-r-- root/root        53 2019-05-22 04:48 wireguard-private-networking-master/templates/limit-unstable
+-rw-rw-r-- root/root        48 2019-05-22 04:48 wireguard-private-networking-master/templates/unstable.list

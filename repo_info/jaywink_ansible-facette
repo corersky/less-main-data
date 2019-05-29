@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-26 17:20 ansible-facette-master/
+-rw-rw-r-- root/root         7 2016-02-26 17:20 ansible-facette-master/.gitignore
+-rw-rw-r-- root/root       812 2016-02-26 17:20 ansible-facette-master/README.md
+drwxrwxr-x root/root         0 2016-02-26 17:20 ansible-facette-master/defaults/
+-rw-rw-r-- root/root        34 2016-02-26 17:20 ansible-facette-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-26 17:20 ansible-facette-master/handlers/
+-rw-rw-r-- root/root       131 2016-02-26 17:20 ansible-facette-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-26 17:20 ansible-facette-master/meta/
+-rw-rw-r-- root/root       238 2016-02-26 17:20 ansible-facette-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-26 17:20 ansible-facette-master/tasks/
+-rw-rw-r-- root/root      1763 2016-02-26 17:20 ansible-facette-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-26 17:20 ansible-facette-master/templates/
+-rw-rw-r-- root/root       255 2016-02-26 17:20 ansible-facette-master/templates/apache.conf.j2
+-rw-rw-r-- root/root      1857 2016-02-26 17:20 ansible-facette-master/templates/collectd_provider.j2
+drwxrwxr-x root/root         0 2016-02-26 17:20 ansible-facette-master/vars/
+-rw-rw-r-- root/root        36 2016-02-26 17:20 ansible-facette-master/vars/main.yml

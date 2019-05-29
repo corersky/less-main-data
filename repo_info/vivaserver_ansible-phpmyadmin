@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-04-17 07:13 ansible-phpmyadmin-master/
+-rw-rw-r-- root/root         7 2014-04-17 07:13 ansible-phpmyadmin-master/.gitignore
+-rw-rw-r-- root/root      1084 2014-04-17 07:13 ansible-phpmyadmin-master/LICENSE
+-rw-rw-r-- root/root       619 2014-04-17 07:13 ansible-phpmyadmin-master/README.md
+drwxrwxr-x root/root         0 2014-04-17 07:13 ansible-phpmyadmin-master/files/
+-rw-rw-r-- root/root      2476 2014-04-17 07:13 ansible-phpmyadmin-master/files/phpmyadmin.conf
+-rw-rw-r-- root/root      4385 2014-04-17 07:13 ansible-phpmyadmin-master/files/phpmyadmin.php
+drwxrwxr-x root/root         0 2014-04-17 07:13 ansible-phpmyadmin-master/meta/
+-rw-rw-r-- root/root       325 2014-04-17 07:13 ansible-phpmyadmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-17 07:13 ansible-phpmyadmin-master/tasks/
+-rw-rw-r-- root/root       629 2014-04-17 07:13 ansible-phpmyadmin-master/tasks/main.yml

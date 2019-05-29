@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/
+-rw-rw-r-- root/root         3 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/.gitignore
+-rw-rw-r-- root/root      1906 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/.travis.yml
+-rw-rw-r-- root/root       590 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/README.md
+-rw-rw-r-- root/root       779 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/meta/
+-rw-rw-r-- root/root      3539 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/tasks/
+-rw-rw-r-- root/root        28 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3170 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       864 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       154 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/tasks/main.yml
+-rw-rw-r-- root/root       693 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/tasks/universe.yml
+drwxrwxr-x root/root         0 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/vars/
+-rw-rw-r-- root/root        38 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/vars/default.yml
+-rw-rw-r-- root/root         4 2019-03-24 01:03 ansible-role-unity-tweak-tool-master/vars/main.yml

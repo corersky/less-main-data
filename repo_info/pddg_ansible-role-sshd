@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-30 02:31 ansible-role-sshd-master/
+-rw-rw-r-- root/root        46 2019-03-30 02:31 ansible-role-sshd-master/.gitignore
+-rw-rw-r-- root/root       532 2019-03-30 02:31 ansible-role-sshd-master/README.md
+-rw-rw-r-- root/root       803 2019-03-30 02:31 ansible-role-sshd-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-03-30 02:31 ansible-role-sshd-master/defaults/
+-rw-rw-r-- root/root       977 2019-03-30 02:31 ansible-role-sshd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-30 02:31 ansible-role-sshd-master/handlers/
+-rw-rw-r-- root/root        72 2019-03-30 02:31 ansible-role-sshd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-30 02:31 ansible-role-sshd-master/meta/
+-rw-rw-r-- root/root       305 2019-03-30 02:31 ansible-role-sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-30 02:31 ansible-role-sshd-master/tasks/
+-rw-rw-r-- root/root       380 2019-03-30 02:31 ansible-role-sshd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-30 02:31 ansible-role-sshd-master/templates/
+-rw-rw-r-- root/root      2107 2019-03-30 02:31 ansible-role-sshd-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2019-03-30 02:31 ansible-role-sshd-master/tests/
+-rw-rw-r-- root/root        54 2019-03-30 02:31 ansible-role-sshd-master/tests/test.yml

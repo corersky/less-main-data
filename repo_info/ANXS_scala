@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-20 23:44 scala-master/
+-rw-rw-r-- root/root        83 2017-04-20 23:44 scala-master/.gitignore
+-rw-rw-r-- root/root       337 2017-04-20 23:44 scala-master/.travis.yml
+-rw-rw-r-- root/root      1079 2017-04-20 23:44 scala-master/LICENSE
+-rw-rw-r-- root/root       820 2017-04-20 23:44 scala-master/README.md
+drwxrwxr-x root/root         0 2017-04-20 23:44 scala-master/defaults/
+-rw-rw-r-- root/root       293 2017-04-20 23:44 scala-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-20 23:44 scala-master/meta/
+-rw-rw-r-- root/root       267 2017-04-20 23:44 scala-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-20 23:44 scala-master/tasks/
+-rw-rw-r-- root/root      2040 2017-04-20 23:44 scala-master/tasks/binaries.yml
+-rw-rw-r-- root/root        73 2017-04-20 23:44 scala-master/tasks/main.yml
+-rw-rw-r-- root/root       396 2017-04-20 23:44 scala-master/tasks/sbt.yml
+-rw-rw-r-- root/root        94 2017-04-20 23:44 scala-master/test.yml

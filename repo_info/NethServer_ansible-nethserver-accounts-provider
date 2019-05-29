@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/
+-rw-rw-r-- root/root       467 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/README.md
+drwxrwxr-x root/root         0 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/defaults/
+-rw-rw-r-- root/root       127 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/meta/
+-rw-rw-r-- root/root       231 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/tasks/
+-rw-rw-r-- root/root       665 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/tasks/ad.yml
+-rw-rw-r-- root/root       789 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/tasks/ldap.yml
+-rw-rw-r-- root/root       449 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/tasks/main.yml
+-rw-rw-r-- root/root       382 2018-10-23 10:14 ansible-nethserver-accounts-provider-master/tasks/users.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 19:20 ansible-traceroute-master/
+-rw-rw-r-- root/root       812 2016-09-05 19:20 ansible-traceroute-master/.travis.yml
+-rw-rw-r-- root/root       496 2016-09-05 19:20 ansible-traceroute-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 19:20 ansible-traceroute-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 19:20 ansible-traceroute-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:20 ansible-traceroute-master/meta/
+-rw-rw-r-- root/root       318 2016-09-05 19:20 ansible-traceroute-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:20 ansible-traceroute-master/tasks/
+-rw-rw-r-- root/root       401 2016-09-05 19:20 ansible-traceroute-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 19:20 ansible-traceroute-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 19:20 ansible-traceroute-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-09-05 19:20 ansible-traceroute-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 19:20 ansible-traceroute-master/vars/
+-rw-rw-r-- root/root        75 2016-09-05 19:20 ansible-traceroute-master/vars/main.yml

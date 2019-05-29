@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2018-11-06 22:27 ansible-zookeeper-master/
+-rw-rw-r-- root/root        33 2018-11-06 22:27 ansible-zookeeper-master/.gitignore
+-rw-rw-r-- root/root      2538 2018-11-06 22:27 ansible-zookeeper-master/.travis.yml
+-rw-rw-r-- root/root      2679 2018-11-06 22:27 ansible-zookeeper-master/README.md
+drwxrwxr-x root/root         0 2018-11-06 22:27 ansible-zookeeper-master/defaults/
+-rw-rw-r-- root/root       947 2018-11-06 22:27 ansible-zookeeper-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-11-06 22:27 ansible-zookeeper-master/handlers/
+-rw-rw-r-- root/root       160 2018-11-06 22:27 ansible-zookeeper-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2018-11-06 22:27 ansible-zookeeper-master/meta/
+-rw-rw-r-- root/root       268 2018-11-06 22:27 ansible-zookeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-06 22:27 ansible-zookeeper-master/tasks/
+-rw-rw-r-- root/root      4418 2018-11-06 22:27 ansible-zookeeper-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-11-06 22:27 ansible-zookeeper-master/templates/
+-rw-rw-r-- root/root       153 2018-11-06 22:27 ansible-zookeeper-master/templates/default.j2
+-rw-rw-r-- root/root        19 2018-11-06 22:27 ansible-zookeeper-master/templates/myid.j2
+-rw-rw-r-- root/root      1739 2018-11-06 22:27 ansible-zookeeper-master/templates/zoo.cfg.j2
+-rw-rw-r-- root/root       423 2018-11-06 22:27 ansible-zookeeper-master/templates/zookeeper.service.j2
+drwxrwxr-x root/root         0 2018-11-06 22:27 ansible-zookeeper-master/tests/
+-rw-rw-r-- root/root       289 2018-11-06 22:27 ansible-zookeeper-master/tests/inventory
+-rw-rw-r-- root/root         0 2018-11-06 22:27 ansible-zookeeper-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-11-06 22:27 ansible-zookeeper-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-11-06 22:27 ansible-zookeeper-master/tests/roles/ansible-zookeeper -> ../../../ansible-zookeeper
+-rw-rw-r-- root/root      1694 2018-11-06 22:27 ansible-zookeeper-master/tests/test.yaml

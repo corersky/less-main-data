@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/
+-rw-rw-r-- root/root        33 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/.gitignore
+-rw-rw-r-- root/root      1455 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/.kitchen.yml
+-rw-rw-r-- root/root       127 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/Gemfile
+-rw-rw-r-- root/root      1082 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/LICENSE
+-rw-rw-r-- root/root      4872 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/README.md
+drwxrwxr-x root/root         0 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/defaults/
+-rw-rw-r-- root/root       458 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/meta/
+-rw-rw-r-- root/root      1004 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/meta/main.yml
+-rw-rw-r-- root/root        38 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/requirements.yml
+drwxrwxr-x root/root         0 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/test/
+drwxrwxr-x root/root         0 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/test/integration/
+drwxrwxr-x root/root         0 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/test/integration/default/
+-rw-rw-r-- root/root       238 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/test/integration/default/default.yml
+drwxrwxr-x root/root         0 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/test/integration/default/serverspec/
+-rw-rw-r-- root/root       292 2017-07-06 05:43 Dynatrace-AppMon-Tomcat-Agent-Ansible-master/test/integration/default/serverspec/default_spec.rb

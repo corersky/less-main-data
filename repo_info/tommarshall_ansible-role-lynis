@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-01-09 07:15 ansible-role-lynis-master/
+-rw-rw-r-- root/root      1114 2018-01-09 07:15 ansible-role-lynis-master/.travis.yml
+-rw-rw-r-- root/root      1445 2018-01-09 07:15 ansible-role-lynis-master/README.md
+drwxrwxr-x root/root         0 2018-01-09 07:15 ansible-role-lynis-master/defaults/
+-rw-rw-r-- root/root       326 2018-01-09 07:15 ansible-role-lynis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-09 07:15 ansible-role-lynis-master/meta/
+-rw-rw-r-- root/root       394 2018-01-09 07:15 ansible-role-lynis-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-09 07:15 ansible-role-lynis-master/tasks/
+-rw-rw-r-- root/root      1851 2018-01-09 07:15 ansible-role-lynis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-09 07:15 ansible-role-lynis-master/tests/
+-rw-rw-r-- root/root        10 2018-01-09 07:15 ansible-role-lynis-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-01-09 07:15 ansible-role-lynis-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-04-09 02:16 bootstraps-master/
+-rw-rw-r-- root/root        83 2015-04-09 02:16 bootstraps-master/.gitignore
+-rw-rw-r-- root/root       546 2015-04-09 02:16 bootstraps-master/.travis.yml
+-rw-rw-r-- root/root      1079 2015-04-09 02:16 bootstraps-master/LICENSE
+-rw-rw-r-- root/root      1055 2015-04-09 02:16 bootstraps-master/README.md
+-rw-rw-r-- root/root       443 2015-04-09 02:16 bootstraps-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-04-09 02:16 bootstraps-master/defaults/
+-rw-rw-r-- root/root        62 2015-04-09 02:16 bootstraps-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-09 02:16 bootstraps-master/meta/
+-rw-rw-r-- root/root       311 2015-04-09 02:16 bootstraps-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-09 02:16 bootstraps-master/tasks/
+-rw-rw-r-- root/root       178 2015-04-09 02:16 bootstraps-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2015-04-09 02:16 bootstraps-master/test.yml
+-rw-rw-r-- root/root        68 2015-04-09 02:16 bootstraps-master/vagrant-inventory

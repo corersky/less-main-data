@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-28 16:38 ansible-role-rocketchat-master/
+-rw-rw-r-- root/root      1328 2017-09-28 16:38 ansible-role-rocketchat-master/README.md
+drwxrwxr-x root/root         0 2017-09-28 16:38 ansible-role-rocketchat-master/defaults/
+-rw-rw-r-- root/root       590 2017-09-28 16:38 ansible-role-rocketchat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-28 16:38 ansible-role-rocketchat-master/handlers/
+-rw-rw-r-- root/root        89 2017-09-28 16:38 ansible-role-rocketchat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-28 16:38 ansible-role-rocketchat-master/meta/
+-rw-rw-r-- root/root       247 2017-09-28 16:38 ansible-role-rocketchat-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-28 16:38 ansible-role-rocketchat-master/tasks/
+-rw-rw-r-- root/root      2313 2017-09-28 16:38 ansible-role-rocketchat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-28 16:38 ansible-role-rocketchat-master/templates/
+-rw-rw-r-- root/root       470 2017-09-28 16:38 ansible-role-rocketchat-master/templates/rocketchat.service
+drwxrwxr-x root/root         0 2017-09-28 16:38 ansible-role-rocketchat-master/tests/
+-rw-rw-r-- root/root        11 2017-09-28 16:38 ansible-role-rocketchat-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-09-28 16:38 ansible-role-rocketchat-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-28 16:38 ansible-role-rocketchat-master/vars/
+-rw-rw-r-- root/root        30 2017-09-28 16:38 ansible-role-rocketchat-master/vars/main.yml

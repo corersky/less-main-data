@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-06 06:05 ansible-docker-zookeeper-master/
+-rw-rw-r-- root/root        21 2018-11-06 06:05 ansible-docker-zookeeper-master/.gitignore
+-rw-rw-r-- root/root       647 2018-11-06 06:05 ansible-docker-zookeeper-master/CHANGELOG.md
+-rw-rw-r-- root/root     11357 2018-11-06 06:05 ansible-docker-zookeeper-master/LICENSE
+-rw-rw-r-- root/root      4019 2018-11-06 06:05 ansible-docker-zookeeper-master/README.md
+drwxrwxr-x root/root         0 2018-11-06 06:05 ansible-docker-zookeeper-master/defaults/
+-rw-rw-r-- root/root       640 2018-11-06 06:05 ansible-docker-zookeeper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-06 06:05 ansible-docker-zookeeper-master/meta/
+-rw-rw-r-- root/root       600 2018-11-06 06:05 ansible-docker-zookeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-06 06:05 ansible-docker-zookeeper-master/tasks/
+-rw-rw-r-- root/root      1141 2018-11-06 06:05 ansible-docker-zookeeper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-06 06:05 ansible-docker-zookeeper-master/tests/
+-rw-rw-r-- root/root         9 2018-11-06 06:05 ansible-docker-zookeeper-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-11-06 06:05 ansible-docker-zookeeper-master/tests/test.yml

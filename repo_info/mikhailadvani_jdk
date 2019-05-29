@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-26 09:18 jdk-master/
+-rw-rw-r-- root/root       539 2017-06-26 09:18 jdk-master/.travis.yml
+-rw-rw-r-- root/root     11343 2017-06-26 09:18 jdk-master/LICENSE
+-rw-rw-r-- root/root       542 2017-06-26 09:18 jdk-master/README.md
+drwxrwxr-x root/root         0 2017-06-26 09:18 jdk-master/defaults/
+-rw-rw-r-- root/root       129 2017-06-26 09:18 jdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-26 09:18 jdk-master/meta/
+-rw-rw-r-- root/root      2472 2017-06-26 09:18 jdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-26 09:18 jdk-master/tasks/
+-rw-rw-r-- root/root       294 2017-06-26 09:18 jdk-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       115 2017-06-26 09:18 jdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-26 09:18 jdk-master/tests/
+-rw-rw-r-- root/root         9 2017-06-26 09:18 jdk-master/tests/inventory
+-rw-rw-r-- root/root        41 2017-06-26 09:18 jdk-master/tests/test.yml

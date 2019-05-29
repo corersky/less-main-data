@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-textual-master/
+-rw-rw-r-- root/root       331 2019-03-09 20:10 ansible-role-textual-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-03-09 20:10 ansible-role-textual-master/COPYING
+-rw-rw-r-- root/root      2981 2019-03-09 20:10 ansible-role-textual-master/README.md
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-textual-master/defaults/
+-rw-rw-r-- root/root       116 2019-03-09 20:10 ansible-role-textual-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-textual-master/meta/
+-rw-rw-r-- root/root       269 2019-03-09 20:10 ansible-role-textual-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-textual-master/tasks/
+-rw-rw-r-- root/root       703 2019-03-09 20:10 ansible-role-textual-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-09 20:10 ansible-role-textual-master/tests/
+-rw-rw-r-- root/root        10 2019-03-09 20:10 ansible-role-textual-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-03-09 20:10 ansible-role-textual-master/tests/test.yml

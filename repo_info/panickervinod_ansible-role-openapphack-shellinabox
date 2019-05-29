@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/
+-rw-rw-r-- root/root       868 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/.travis.yml
+-rw-rw-r-- root/root       263 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/defaults/
+-rw-rw-r-- root/root        29 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/handlers/
+-rw-rw-r-- root/root        76 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/meta/
+-rw-rw-r-- root/root       318 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/tasks/
+-rw-rw-r-- root/root       331 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/templates/
+-rw-rw-r-- root/root       584 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/templates/shellinabox.j2
+drwxrwxr-x root/root         0 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/test/
+-rw-rw-r-- root/root        10 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/test/inventory
+-rw-rw-r-- root/root        95 2016-01-26 06:06 ansible-role-openapphack-shellinabox-master/test/test.yml

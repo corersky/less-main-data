@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-06 09:08 docker_stack_deploy-master/
+-rw-rw-r-- root/root      1503 2017-08-06 09:08 docker_stack_deploy-master/README.md
+drwxrwxr-x root/root         0 2017-08-06 09:08 docker_stack_deploy-master/defaults/
+-rw-rw-r-- root/root        43 2017-08-06 09:08 docker_stack_deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-06 09:08 docker_stack_deploy-master/meta/
+-rw-rw-r-- root/root       404 2017-08-06 09:08 docker_stack_deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-06 09:08 docker_stack_deploy-master/tasks/
+-rw-rw-r-- root/root       595 2017-08-06 09:08 docker_stack_deploy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-06 09:08 docker_stack_deploy-master/templates/
+-rw-rw-r-- root/root       290 2017-08-06 09:08 docker_stack_deploy-master/templates/compose-file.yml.j2
+drwxrwxr-x root/root         0 2017-08-06 09:08 docker_stack_deploy-master/tests/
+-rw-rw-r-- root/root        11 2017-08-06 09:08 docker_stack_deploy-master/tests/inventory
+-rw-rw-r-- root/root        77 2017-08-06 09:08 docker_stack_deploy-master/tests/test.yml

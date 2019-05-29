@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-03-16 20:18 ansible-dotfiles-master/
+-rw-rw-r-- root/root       644 2015-03-16 20:18 ansible-dotfiles-master/.travis.yml
+-rw-rw-r-- root/root      1082 2015-03-16 20:18 ansible-dotfiles-master/LICENSE
+-rw-rw-r-- root/root      1021 2015-03-16 20:18 ansible-dotfiles-master/README.md
+drwxrwxr-x root/root         0 2015-03-16 20:18 ansible-dotfiles-master/defaults/
+-rw-rw-r-- root/root       119 2015-03-16 20:18 ansible-dotfiles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-16 20:18 ansible-dotfiles-master/meta/
+-rw-rw-r-- root/root       489 2015-03-16 20:18 ansible-dotfiles-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-16 20:18 ansible-dotfiles-master/tasks/
+-rw-rw-r-- root/root       204 2015-03-16 20:18 ansible-dotfiles-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-16 20:18 ansible-dotfiles-master/tests/
+-rw-rw-r-- root/root        10 2015-03-16 20:18 ansible-dotfiles-master/tests/inventory
+-rw-rw-r-- root/root       146 2015-03-16 20:18 ansible-dotfiles-master/tests/tests.yml

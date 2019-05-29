@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-14 10:20 k-statefulset-master/
+-rw-rw-r-- root/root      1328 2018-02-14 10:20 k-statefulset-master/README.md
+drwxrwxr-x root/root         0 2018-02-14 10:20 k-statefulset-master/defaults/
+-rw-rw-r-- root/root        37 2018-02-14 10:20 k-statefulset-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-14 10:20 k-statefulset-master/handlers/
+-rw-rw-r-- root/root        37 2018-02-14 10:20 k-statefulset-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-14 10:20 k-statefulset-master/meta/
+-rw-rw-r-- root/root      1849 2018-02-14 10:20 k-statefulset-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-14 10:20 k-statefulset-master/tasks/
+-rw-rw-r-- root/root       700 2018-02-14 10:20 k-statefulset-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-14 10:20 k-statefulset-master/tests/
+-rw-rw-r-- root/root        11 2018-02-14 10:20 k-statefulset-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-02-14 10:20 k-statefulset-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-14 10:20 k-statefulset-master/vars/
+-rw-rw-r-- root/root        33 2018-02-14 10:20 k-statefulset-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-16 15:07 ansible-packer-master/
+-rw-rw-r-- root/root        37 2016-02-16 15:07 ansible-packer-master/.gitignore
+-rw-rw-r-- root/root       206 2016-02-16 15:07 ansible-packer-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-02-16 15:07 ansible-packer-master/LICENSE
+-rw-rw-r-- root/root       199 2016-02-16 15:07 ansible-packer-master/README.md
+drwxrwxr-x root/root         0 2016-02-16 15:07 ansible-packer-master/defaults/
+-rw-rw-r-- root/root        28 2016-02-16 15:07 ansible-packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-16 15:07 ansible-packer-master/examples/
+-rw-rw-r-- root/root       670 2016-02-16 15:07 ansible-packer-master/examples/Vagrantfile
+-rw-rw-r-- root/root        37 2016-02-16 15:07 ansible-packer-master/examples/roles.yml
+drwxrwxr-x root/root         0 2016-02-16 15:07 ansible-packer-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-02-16 15:07 ansible-packer-master/examples/roles/azavea.packer -> ../../
+-rw-rw-r-- root/root        58 2016-02-16 15:07 ansible-packer-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-02-16 15:07 ansible-packer-master/meta/
+-rw-rw-r-- root/root       298 2016-02-16 15:07 ansible-packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-16 15:07 ansible-packer-master/tasks/
+-rw-rw-r-- root/root       387 2016-02-16 15:07 ansible-packer-master/tasks/main.yml

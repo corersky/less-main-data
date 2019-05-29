@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-08 22:02 centos-common-master/
+-rw-rw-r-- root/root      1834 2018-09-08 22:02 centos-common-master/README.md
+drwxrwxr-x root/root         0 2018-09-08 22:02 centos-common-master/defaults/
+-rw-rw-r-- root/root       221 2018-09-08 22:02 centos-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-08 22:02 centos-common-master/files/
+-rw-rw-r-- root/root         0 2018-09-08 22:02 centos-common-master/files/authorized_keys
+drwxrwxr-x root/root         0 2018-09-08 22:02 centos-common-master/handlers/
+-rw-rw-r-- root/root        49 2018-09-08 22:02 centos-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-08 22:02 centos-common-master/meta/
+-rw-rw-r-- root/root       288 2018-09-08 22:02 centos-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-08 22:02 centos-common-master/tasks/
+-rw-rw-r-- root/root       956 2018-09-08 22:02 centos-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-08 22:02 centos-common-master/vars/
+-rw-rw-r-- root/root       110 2018-09-08 22:02 centos-common-master/vars/main.yml
+-rw-rw-r-- root/root         0 2018-09-08 22:02 centos-common-master/vars/password_vault.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-23 02:46 ansible-subsonic-master/
+-rw-rw-r-- root/root       588 2016-09-23 02:46 ansible-subsonic-master/.travis.yml
+-rw-rw-r-- root/root     35141 2016-09-23 02:46 ansible-subsonic-master/LICENSE
+-rw-rw-r-- root/root      1431 2016-09-23 02:46 ansible-subsonic-master/README.md
+drwxrwxr-x root/root         0 2016-09-23 02:46 ansible-subsonic-master/defaults/
+-rw-rw-r-- root/root       227 2016-09-23 02:46 ansible-subsonic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-23 02:46 ansible-subsonic-master/handlers/
+-rw-rw-r-- root/root       210 2016-09-23 02:46 ansible-subsonic-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-23 02:46 ansible-subsonic-master/meta/
+-rw-rw-r-- root/root      2888 2016-09-23 02:46 ansible-subsonic-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-23 02:46 ansible-subsonic-master/tasks/
+-rw-rw-r-- root/root       659 2016-09-23 02:46 ansible-subsonic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-23 02:46 ansible-subsonic-master/tests/
+-rw-rw-r-- root/root         9 2016-09-23 02:46 ansible-subsonic-master/tests/inventory
+-rw-rw-r-- root/root        76 2016-09-23 02:46 ansible-subsonic-master/tests/test.yml

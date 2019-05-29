@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/
+-rw-rw-r-- root/root        31 2017-10-26 03:59 role-kubernetes-package-installer-master/README.md
+drwxrwxr-x root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/defaults/
+-rw-rw-r-- root/root         5 2017-10-26 03:59 role-kubernetes-package-installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/files/
+-rw-rw-r-- root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/files/.gitkeep
+drwxrwxr-x root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/meta/
+-rw-rw-r-- root/root       267 2017-10-26 03:59 role-kubernetes-package-installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/tasks/
+-rw-rw-r-- root/root       830 2017-10-26 03:59 role-kubernetes-package-installer-master/tasks/centos.yml
+-rw-rw-r-- root/root       732 2017-10-26 03:59 role-kubernetes-package-installer-master/tasks/common.yml
+-rw-rw-r-- root/root       541 2017-10-26 03:59 role-kubernetes-package-installer-master/tasks/main.yml
+-rw-rw-r-- root/root       715 2017-10-26 03:59 role-kubernetes-package-installer-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/templates/
+-rw-rw-r-- root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2017-10-26 03:59 role-kubernetes-package-installer-master/vars/
+-rw-rw-r-- root/root         5 2017-10-26 03:59 role-kubernetes-package-installer-master/vars/main.yml

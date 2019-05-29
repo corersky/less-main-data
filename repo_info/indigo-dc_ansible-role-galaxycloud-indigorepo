@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/
+-rw-rw-r-- root/root      1374 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/README.md
+drwxrwxr-x root/root         0 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/defaults/
+-rw-rw-r-- root/root        78 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/handlers/
+-rw-rw-r-- root/root        59 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/meta/
+-rw-rw-r-- root/root       315 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/tasks/
+-rw-rw-r-- root/root       348 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       118 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/tests/
+-rw-rw-r-- root/root        11 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/tests/inventory
+-rw-rw-r-- root/root        93 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/vars/
+-rw-rw-r-- root/root        55 2017-11-19 11:07 ansible-role-galaxycloud-indigorepo-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-04-05 19:17 ansible-harp-master/
+-rw-rw-r-- root/root       160 2015-04-05 19:17 ansible-harp-master/.bumpversion.cfg
+-rw-rw-r-- root/root        38 2015-04-05 19:17 ansible-harp-master/.gitignore
+-rw-rw-r-- root/root       459 2015-04-05 19:17 ansible-harp-master/.travis.yml
+-rw-rw-r-- root/root      2317 2015-04-05 19:17 ansible-harp-master/README.md
+-rw-rw-r-- root/root       865 2015-04-05 19:17 ansible-harp-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-04-05 19:17 ansible-harp-master/defaults/
+-rw-rw-r-- root/root       187 2015-04-05 19:17 ansible-harp-master/defaults/main.yml
+-rw-rw-r-- root/root       402 2015-04-05 19:17 ansible-harp-master/harp.yml
+drwxrwxr-x root/root         0 2015-04-05 19:17 ansible-harp-master/meta/
+-rw-rw-r-- root/root       293 2015-04-05 19:17 ansible-harp-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-05 19:17 ansible-harp-master/tasks/
+-rw-rw-r-- root/root      1472 2015-04-05 19:17 ansible-harp-master/tasks/build.yml
+-rw-rw-r-- root/root       109 2015-04-05 19:17 ansible-harp-master/tasks/install.yml
+-rw-rw-r-- root/root        88 2015-04-05 19:17 ansible-harp-master/tasks/main.yml
+-rwxrwxr-x root/root       112 2015-04-05 19:17 ansible-harp-master/test.sh

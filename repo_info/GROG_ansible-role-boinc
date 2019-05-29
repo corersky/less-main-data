@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-30 06:59 ansible-role-boinc-master/
+-rw-rw-r-- root/root       640 2018-06-30 06:59 ansible-role-boinc-master/.travis.yml
+-rw-rw-r-- root/root      1071 2018-06-30 06:59 ansible-role-boinc-master/LICENSE
+-rw-rw-r-- root/root      4317 2018-06-30 06:59 ansible-role-boinc-master/README.md
+drwxrwxr-x root/root         0 2018-06-30 06:59 ansible-role-boinc-master/defaults/
+-rw-rw-r-- root/root       488 2018-06-30 06:59 ansible-role-boinc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-30 06:59 ansible-role-boinc-master/meta/
+-rw-rw-r-- root/root      1385 2018-06-30 06:59 ansible-role-boinc-master/meta/main.yml
+-rw-rw-r-- root/root        38 2018-06-30 06:59 ansible-role-boinc-master/meta/requirements.yml
+drwxrwxr-x root/root         0 2018-06-30 06:59 ansible-role-boinc-master/tasks/
+-rw-rw-r-- root/root        98 2018-06-30 06:59 ansible-role-boinc-master/tasks/disabled.yml
+-rw-rw-r-- root/root      1398 2018-06-30 06:59 ansible-role-boinc-master/tasks/enabled.yml
+-rw-rw-r-- root/root       488 2018-06-30 06:59 ansible-role-boinc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-30 06:59 ansible-role-boinc-master/tests/
+-rw-rw-r-- root/root        10 2018-06-30 06:59 ansible-role-boinc-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-06-30 06:59 ansible-role-boinc-master/tests/test.yml

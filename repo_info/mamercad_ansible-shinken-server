@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-27 19:48 ansible-shinken-server-master/
+-rw-rw-r-- root/root       539 2016-02-27 19:48 ansible-shinken-server-master/.travis.yml
+-rw-rw-r-- root/root       400 2016-02-27 19:48 ansible-shinken-server-master/README.md
+drwxrwxr-x root/root         0 2016-02-27 19:48 ansible-shinken-server-master/defaults/
+-rw-rw-r-- root/root        47 2016-02-27 19:48 ansible-shinken-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:48 ansible-shinken-server-master/handlers/
+-rw-rw-r-- root/root        47 2016-02-27 19:48 ansible-shinken-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:48 ansible-shinken-server-master/meta/
+-rw-rw-r-- root/root      3014 2016-02-27 19:48 ansible-shinken-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:48 ansible-shinken-server-master/tasks/
+-rw-rw-r-- root/root       426 2016-02-27 19:48 ansible-shinken-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:48 ansible-shinken-server-master/tests/
+-rw-rw-r-- root/root        10 2016-02-27 19:48 ansible-shinken-server-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-02-27 19:48 ansible-shinken-server-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-02-27 19:48 ansible-shinken-server-master/vars/
+-rw-rw-r-- root/root        43 2016-02-27 19:48 ansible-shinken-server-master/vars/main.yml

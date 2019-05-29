@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-08 10:41 ansible-role-pgadmin4-master/
+-rw-rw-r-- root/root         8 2019-05-08 10:41 ansible-role-pgadmin4-master/.gitignore
+-rw-rw-r-- root/root       237 2019-05-08 10:41 ansible-role-pgadmin4-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       656 2019-05-08 10:41 ansible-role-pgadmin4-master/.travis.yml
+-rw-rw-r-- root/root       846 2019-05-08 10:41 ansible-role-pgadmin4-master/README.md
+drwxrwxr-x root/root         0 2019-05-08 10:41 ansible-role-pgadmin4-master/defaults/
+-rw-rw-r-- root/root       213 2019-05-08 10:41 ansible-role-pgadmin4-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 10:41 ansible-role-pgadmin4-master/handlers/
+-rw-rw-r-- root/root        75 2019-05-08 10:41 ansible-role-pgadmin4-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-08 10:41 ansible-role-pgadmin4-master/meta/
+-rw-rw-r-- root/root       374 2019-05-08 10:41 ansible-role-pgadmin4-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 10:41 ansible-role-pgadmin4-master/tasks/
+-rw-rw-r-- root/root      1532 2019-05-08 10:41 ansible-role-pgadmin4-master/tasks/main.yml

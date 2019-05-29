@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-12 01:57 ansible-osx-computername-master/
+-rw-rw-r-- root/root       712 2016-01-12 01:57 ansible-osx-computername-master/.gitignore
+-rw-rw-r-- root/root       487 2016-01-12 01:57 ansible-osx-computername-master/.travis.yml
+-rw-rw-r-- root/root       711 2016-01-12 01:57 ansible-osx-computername-master/README.md
+drwxrwxr-x root/root         0 2016-01-12 01:57 ansible-osx-computername-master/defaults/
+-rw-rw-r-- root/root       165 2016-01-12 01:57 ansible-osx-computername-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-12 01:57 ansible-osx-computername-master/library/
+-rw-rw-r-- root/root      9065 2016-01-12 01:57 ansible-osx-computername-master/library/osx_defaults
+drwxrwxr-x root/root         0 2016-01-12 01:57 ansible-osx-computername-master/meta/
+-rw-rw-r-- root/root       294 2016-01-12 01:57 ansible-osx-computername-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-12 01:57 ansible-osx-computername-master/tasks/
+-rw-rw-r-- root/root       720 2016-01-12 01:57 ansible-osx-computername-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-12 01:57 ansible-osx-computername-master/tests/
+-rw-rw-r-- root/root         9 2016-01-12 01:57 ansible-osx-computername-master/tests/inventory
+-rw-rw-r-- root/root         3 2016-01-12 01:57 ansible-osx-computername-master/tests/requirements.yml
+-rw-rw-r-- root/root       119 2016-01-12 01:57 ansible-osx-computername-master/tests/travis.yml

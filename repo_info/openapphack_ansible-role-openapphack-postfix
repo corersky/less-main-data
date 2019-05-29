@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-postfix-master/
+-rw-rw-r-- root/root       868 2016-01-26 08:15 ansible-role-openapphack-postfix-master/.travis.yml
+-rw-rw-r-- root/root        55 2016-01-26 08:15 ansible-role-openapphack-postfix-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-postfix-master/defaults/
+-rw-rw-r-- root/root         4 2016-01-26 08:15 ansible-role-openapphack-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-postfix-master/meta/
+-rw-rw-r-- root/root       322 2016-01-26 08:15 ansible-role-openapphack-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-postfix-master/tasks/
+-rw-rw-r-- root/root       229 2016-01-26 08:15 ansible-role-openapphack-postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:15 ansible-role-openapphack-postfix-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:15 ansible-role-openapphack-postfix-master/tests/inventory
+-rw-rw-r-- root/root        91 2016-01-26 08:15 ansible-role-openapphack-postfix-master/tests/test.yml

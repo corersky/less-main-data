@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-05-26 10:53 ansible-role-deploy-metadata-master/
+-rw-rw-r-- root/root      1073 2016-05-26 10:53 ansible-role-deploy-metadata-master/README.md
+-rw-rw-r-- root/root      1561 2016-05-26 10:53 ansible-role-deploy-metadata-master/USAGE.md
+drwxrwxr-x root/root         0 2016-05-26 10:53 ansible-role-deploy-metadata-master/defaults/
+-rw-rw-r-- root/root       250 2016-05-26 10:53 ansible-role-deploy-metadata-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-26 10:53 ansible-role-deploy-metadata-master/library/
+-rw-rw-r-- root/root       876 2016-05-26 10:53 ansible-role-deploy-metadata-master/library/deployment_facts
+drwxrwxr-x root/root         0 2016-05-26 10:53 ansible-role-deploy-metadata-master/meta/
+-rw-rw-r-- root/root       273 2016-05-26 10:53 ansible-role-deploy-metadata-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-26 10:53 ansible-role-deploy-metadata-master/tasks/
+-rw-rw-r-- root/root      1673 2016-05-26 10:53 ansible-role-deploy-metadata-master/tasks/main.yml

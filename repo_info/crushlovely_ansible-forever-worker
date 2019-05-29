@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2014-12-18 17:02 ansible-forever-worker-master/
+-rw-rw-r-- root/root        43 2014-12-18 17:02 ansible-forever-worker-master/.gitignore
+-rw-rw-r-- root/root      1071 2014-12-18 17:02 ansible-forever-worker-master/README.md
+drwxrwxr-x root/root         0 2014-12-18 17:02 ansible-forever-worker-master/meta/
+-rw-rw-r-- root/root       319 2014-12-18 17:02 ansible-forever-worker-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-18 17:02 ansible-forever-worker-master/tasks/
+-rw-rw-r-- root/root       236 2014-12-18 17:02 ansible-forever-worker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-18 17:02 ansible-forever-worker-master/templates/
+-rw-rw-r-- root/root       669 2014-12-18 17:02 ansible-forever-worker-master/templates/app_workers_init.conf.j2

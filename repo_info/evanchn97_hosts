@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-21 01:17 hosts-master/
+-rw-rw-r-- root/root      1064 2018-08-21 01:17 hosts-master/LICENSE
+-rw-rw-r-- root/root      1146 2018-08-21 01:17 hosts-master/README.md
+drwxrwxr-x root/root         0 2018-08-21 01:17 hosts-master/defaults/
+-rw-rw-r-- root/root       323 2018-08-21 01:17 hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-21 01:17 hosts-master/meta/
+-rw-rw-r-- root/root       252 2018-08-21 01:17 hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-21 01:17 hosts-master/tasks/
+-rw-rw-r-- root/root        81 2018-08-21 01:17 hosts-master/tasks/hostname.yml
+-rw-rw-r-- root/root       514 2018-08-21 01:17 hosts-master/tasks/hosts.yml
+-rw-rw-r-- root/root        74 2018-08-21 01:17 hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-21 01:17 hosts-master/templates/
+-rw-rw-r-- root/root       174 2018-08-21 01:17 hosts-master/templates/hosts.j2

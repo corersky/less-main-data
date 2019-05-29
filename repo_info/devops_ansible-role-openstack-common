@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-03-23 04:34 ansible-role-openstack-common-master/
+-rw-rw-r-- root/root       274 2017-03-23 04:34 ansible-role-openstack-common-master/README.md
+drwxrwxr-x root/root         0 2017-03-23 04:34 ansible-role-openstack-common-master/defaults/
+-rw-rw-r-- root/root       677 2017-03-23 04:34 ansible-role-openstack-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-23 04:34 ansible-role-openstack-common-master/handlers/
+-rw-rw-r-- root/root       119 2017-03-23 04:34 ansible-role-openstack-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-23 04:34 ansible-role-openstack-common-master/meta/
+-rw-rw-r-- root/root       251 2017-03-23 04:34 ansible-role-openstack-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-23 04:34 ansible-role-openstack-common-master/tasks/
+-rw-rw-r-- root/root      1999 2017-03-23 04:34 ansible-role-openstack-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-23 04:34 ansible-role-openstack-common-master/templates/
+-rw-rw-r-- root/root       409 2017-03-23 04:34 ansible-role-openstack-common-master/templates/hosts.j2
+-rw-rw-r-- root/root        68 2017-03-23 04:34 ansible-role-openstack-common-master/test.yml
+drwxrwxr-x root/root         0 2017-03-23 04:34 ansible-role-openstack-common-master/vars/
+-rw-rw-r-- root/root        50 2017-03-23 04:34 ansible-role-openstack-common-master/vars/main.yml

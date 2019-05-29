@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-16 02:37 ansible-role-hostname-master/
+-rw-rw-r-- root/root        16 2017-05-16 02:37 ansible-role-hostname-master/.gitignore
+-rw-rw-r-- root/root        50 2017-05-16 02:37 ansible-role-hostname-master/README.md
+drwxrwxr-x root/root         0 2017-05-16 02:37 ansible-role-hostname-master/defaults/
+-rw-rw-r-- root/root        45 2017-05-16 02:37 ansible-role-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-16 02:37 ansible-role-hostname-master/handlers/
+-rw-rw-r-- root/root        45 2017-05-16 02:37 ansible-role-hostname-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-16 02:37 ansible-role-hostname-master/meta/
+-rw-rw-r-- root/root       269 2017-05-16 02:37 ansible-role-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-16 02:37 ansible-role-hostname-master/tasks/
+-rw-rw-r-- root/root       856 2017-05-16 02:37 ansible-role-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-16 02:37 ansible-role-hostname-master/tests/
+-rw-rw-r-- root/root       169 2017-05-16 02:37 ansible-role-hostname-master/tests/Vagrantfile
+-rw-rw-r-- root/root        82 2017-05-16 02:37 ansible-role-hostname-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-05-16 02:37 ansible-role-hostname-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-16 02:37 ansible-role-hostname-master/vars/
+-rw-rw-r-- root/root        41 2017-05-16 02:37 ansible-role-hostname-master/vars/main.yml

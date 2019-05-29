@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-12-04 09:00 ansible-role-mongoDB-master/
+-rw-rw-r-- root/root       540 2017-12-04 09:00 ansible-role-mongoDB-master/.travis.yml
+-rw-rw-r-- root/root       623 2017-12-04 09:00 ansible-role-mongoDB-master/README.md
+drwxrwxr-x root/root         0 2017-12-04 09:00 ansible-role-mongoDB-master/defaults/
+-rw-rw-r-- root/root        62 2017-12-04 09:00 ansible-role-mongoDB-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-04 09:00 ansible-role-mongoDB-master/meta/
+-rw-rw-r-- root/root       407 2017-12-04 09:00 ansible-role-mongoDB-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-04 09:00 ansible-role-mongoDB-master/tasks/
+-rw-rw-r-- root/root       369 2017-12-04 09:00 ansible-role-mongoDB-master/tasks/installDebian.yml
+-rw-rw-r-- root/root       316 2017-12-04 09:00 ansible-role-mongoDB-master/tasks/installRedHat.yml
+-rw-rw-r-- root/root       218 2017-12-04 09:00 ansible-role-mongoDB-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-04 09:00 ansible-role-mongoDB-master/tests/
+-rw-rw-r-- root/root         9 2017-12-04 09:00 ansible-role-mongoDB-master/tests/inventory
+-rw-rw-r-- root/root        79 2017-12-04 09:00 ansible-role-mongoDB-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-04 09:00 ansible-role-mongoDB-master/vars/
+-rw-rw-r-- root/root        38 2017-12-04 09:00 ansible-role-mongoDB-master/vars/main.yml

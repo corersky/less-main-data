@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-12-28 16:54 ansible-rabbitmq-master/
+-rw-rw-r-- root/root      1083 2016-12-28 16:54 ansible-rabbitmq-master/.travis.yml
+-rw-rw-r-- root/root      1069 2016-12-28 16:54 ansible-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2016-12-28 16:54 ansible-rabbitmq-master/defaults/
+-rw-rw-r-- root/root        43 2016-12-28 16:54 ansible-rabbitmq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-28 16:54 ansible-rabbitmq-master/handlers/
+-rw-rw-r-- root/root        85 2016-12-28 16:54 ansible-rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-28 16:54 ansible-rabbitmq-master/meta/
+-rw-rw-r-- root/root       310 2016-12-28 16:54 ansible-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-28 16:54 ansible-rabbitmq-master/tasks/
+-rw-rw-r-- root/root      1646 2016-12-28 16:54 ansible-rabbitmq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-28 16:54 ansible-rabbitmq-master/tests/
+-rw-rw-r-- root/root         9 2016-12-28 16:54 ansible-rabbitmq-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-12-28 16:54 ansible-rabbitmq-master/tests/test.yml

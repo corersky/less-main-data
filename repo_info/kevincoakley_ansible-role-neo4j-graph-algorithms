@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/
+-rw-rw-r-- root/root      1085 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/.gitignore
+-rwxrwxr-x root/root       243 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/.gitmodules
+-rw-rw-r-- root/root      1603 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/.travis.yml
+-rw-rw-r-- root/root      1026 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/README.md
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/defaults/
+-rw-rw-r-- root/root       318 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/handlers/
+-rw-rw-r-- root/root       127 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/meta/
+-rw-rw-r-- root/root      1112 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tasks/
+-rw-rw-r-- root/root      2079 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/
+-rw-rw-r-- root/root       243 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/docker_containers.yml
+-rw-rw-r-- root/root       227 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/inventory
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/roles/ansible-role-neo4j-graph-algorithms -> ../..
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/roles/docker/
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/roles/neo4j/
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/roles/neo4j-graph-algorithms-test/
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/roles/neo4j-graph-algorithms-test/tasks/
+-rw-rw-r-- root/root       763 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/roles/neo4j-graph-algorithms-test/tasks/main.yml
+-rw-rw-r-- root/root       719 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/vars/
+-rw-rw-r-- root/root        46 2018-09-20 12:26 ansible-role-neo4j-graph-algorithms-master/vars/main.yml

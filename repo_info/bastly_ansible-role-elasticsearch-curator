@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/
+-rw-rw-r-- root/root       876 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/.travis.yml
+-rw-rw-r-- root/root      2049 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/README.md
+drwxrwxr-x root/root         0 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/defaults/
+-rw-rw-r-- root/root       308 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/meta/
+-rw-rw-r-- root/root       383 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/tasks/
+-rw-rw-r-- root/root       674 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/tasks/main.yml
+-rw-rw-r-- root/root        76 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root        92 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/tests/
+-rw-rw-r-- root/root        10 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/tests/inventory
+-rw-rw-r-- root/root        93 2014-11-08 14:33 ansible-role-elasticsearch-curator-master/tests/test.yml

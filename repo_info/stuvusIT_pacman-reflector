@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-29 10:09 pacman-reflector-master/
+-rw-rw-r-- root/root     22240 2017-09-29 10:09 pacman-reflector-master/LICENSE
+-rw-rw-r-- root/root      3061 2017-09-29 10:09 pacman-reflector-master/README.md
+drwxrwxr-x root/root         0 2017-09-29 10:09 pacman-reflector-master/defaults/
+-rw-rw-r-- root/root       134 2017-09-29 10:09 pacman-reflector-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-29 10:09 pacman-reflector-master/files/
+-rw-rw-r-- root/root       287 2017-09-29 10:09 pacman-reflector-master/files/reflector.hook
+drwxrwxr-x root/root         0 2017-09-29 10:09 pacman-reflector-master/handlers/
+-rw-rw-r-- root/root        81 2017-09-29 10:09 pacman-reflector-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-29 10:09 pacman-reflector-master/meta/
+-rw-rw-r-- root/root       394 2017-09-29 10:09 pacman-reflector-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-29 10:09 pacman-reflector-master/tasks/
+-rw-rw-r-- root/root       607 2017-09-29 10:09 pacman-reflector-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-29 10:09 pacman-reflector-master/templates/
+-rw-rw-r-- root/root      1682 2017-09-29 10:09 pacman-reflector-master/templates/reflector.sh.j2

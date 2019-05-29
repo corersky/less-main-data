@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-19 14:22 ansible-openstack-master/
+-rw-rw-r-- root/root      1951 2019-02-19 14:22 ansible-openstack-master/README.md
+drwxrwxr-x root/root         0 2019-02-19 14:22 ansible-openstack-master/defaults/
+-rw-rw-r-- root/root        19 2019-02-19 14:22 ansible-openstack-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-19 14:22 ansible-openstack-master/meta/
+-rw-rw-r-- root/root       296 2019-02-19 14:22 ansible-openstack-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-19 14:22 ansible-openstack-master/tasks/
+-rw-rw-r-- root/root       756 2019-02-19 14:22 ansible-openstack-master/tasks/flavors.yml
+-rw-rw-r-- root/root      1512 2019-02-19 14:22 ansible-openstack-master/tasks/instances.yml
+-rw-rw-r-- root/root       216 2019-02-19 14:22 ansible-openstack-master/tasks/keypairs.yml
+-rw-rw-r-- root/root       526 2019-02-19 14:22 ansible-openstack-master/tasks/main.yml
+-rw-rw-r-- root/root      1847 2019-02-19 14:22 ansible-openstack-master/tasks/networks.yml
+-rw-rw-r-- root/root       489 2019-02-19 14:22 ansible-openstack-master/tasks/projects.yml
+-rw-rw-r-- root/root       370 2019-02-19 14:22 ansible-openstack-master/tasks/routers.yml
+-rw-rw-r-- root/root       940 2019-02-19 14:22 ansible-openstack-master/tasks/security_groups.yml
+-rw-rw-r-- root/root       510 2019-02-19 14:22 ansible-openstack-master/tasks/user_roles.yml
+-rw-rw-r-- root/root      1452 2019-02-19 14:22 ansible-openstack-master/tasks/volumes.yml

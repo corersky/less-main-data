@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/
+-rw-rw-r-- root/root       585 2017-08-03 12:19 ansible-ntp-timesync-master/.travis.yml
+-rw-rw-r-- root/root     18092 2017-08-03 12:19 ansible-ntp-timesync-master/LICENSE
+-rw-rw-r-- root/root      2047 2017-08-03 12:19 ansible-ntp-timesync-master/README.md
+drwxrwxr-x root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/defaults/
+-rw-rw-r-- root/root       383 2017-08-03 12:19 ansible-ntp-timesync-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/handlers/
+-rw-rw-r-- root/root       142 2017-08-03 12:19 ansible-ntp-timesync-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/meta/
+-rw-rw-r-- root/root       277 2017-08-03 12:19 ansible-ntp-timesync-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/tasks/
+-rw-rw-r-- root/root      4233 2017-08-03 12:19 ansible-ntp-timesync-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/templates/
+-rw-rw-r-- root/root       771 2017-08-03 12:19 ansible-ntp-timesync-master/templates/ntp.conf.j2
+drwxrwxr-x root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/tests/
+-rw-rw-r-- root/root        10 2017-08-03 12:19 ansible-ntp-timesync-master/tests/inventory
+-rw-rw-r-- root/root        91 2017-08-03 12:19 ansible-ntp-timesync-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/vars/
+-rw-rw-r-- root/root       294 2017-08-03 12:19 ansible-ntp-timesync-master/vars/RedHat_5.yml
+-rw-rw-r-- root/root       297 2017-08-03 12:19 ansible-ntp-timesync-master/vars/RedHat_6.yml
+-rw-rw-r-- root/root       265 2017-08-03 12:19 ansible-ntp-timesync-master/vars/RedHat_7.yml
+-rw-rw-r-- root/root       189 2017-08-03 12:19 ansible-ntp-timesync-master/vars/Solaris_10.yml
+lrwxrwxrwx root/root         0 2017-08-03 12:19 ansible-ntp-timesync-master/vars/Solaris_NA.yml -> Solaris_10.yml
+-rw-rw-r-- root/root       283 2017-08-03 12:19 ansible-ntp-timesync-master/vars/Suse_10.yml
+-rw-rw-r-- root/root       289 2017-08-03 12:19 ansible-ntp-timesync-master/vars/Suse_11.yml
+-rw-rw-r-- root/root       290 2017-08-03 12:19 ansible-ntp-timesync-master/vars/Suse_12.yml

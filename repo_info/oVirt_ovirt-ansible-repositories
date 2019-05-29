@@ -1,0 +1,43 @@
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/
+-rw-rw-r-- root/root        81 2019-05-15 03:16 ovirt-ansible-repositories-master/.gitignore
+-rw-rw-r-- root/root       438 2019-05-15 03:16 ovirt-ansible-repositories-master/.travis.yml
+-rw-rw-r-- root/root     10759 2019-05-15 03:16 ovirt-ansible-repositories-master/LICENSE
+-rw-rw-r-- root/root      4913 2019-05-15 03:16 ovirt-ansible-repositories-master/README.md
+-rw-rw-r-- root/root       108 2019-05-15 03:16 ovirt-ansible-repositories-master/automation.yaml
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/automation/
+-rw-rw-r-- root/root       308 2019-05-15 03:16 ovirt-ansible-repositories-master/automation/README.md
+lrwxrwxrwx root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/automation/build-artifacts-manual.req -> build-artifacts.req
+-rwxrwxr-x root/root       705 2019-05-15 03:16 ovirt-ansible-repositories-master/automation/build-artifacts-manual.sh
+-rw-rw-r-- root/root        22 2019-05-15 03:16 ovirt-ansible-repositories-master/automation/build-artifacts.packages
+-rwxrwxr-x root/root       658 2019-05-15 03:16 ovirt-ansible-repositories-master/automation/build-artifacts.sh
+-rw-rw-r-- root/root        22 2019-05-15 03:16 ovirt-ansible-repositories-master/automation/check-patch.packages
+-rwxrwxr-x root/root       572 2019-05-15 03:16 ovirt-ansible-repositories-master/automation/check-patch.sh
+-rwxrwxr-x root/root      1540 2019-05-15 03:16 ovirt-ansible-repositories-master/build.sh
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/defaults/
+-rw-rw-r-- root/root       292 2019-05-15 03:16 ovirt-ansible-repositories-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/examples/
+lrwxrwxrwx root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/examples/ovirt.repositories -> ../
+-rw-rw-r-- root/root       235 2019-05-15 03:16 ovirt-ansible-repositories-master/examples/ovirt_repositories_release_rpm.yml
+-rw-rw-r-- root/root       677 2019-05-15 03:16 ovirt-ansible-repositories-master/examples/ovirt_repositories_subscription_manager.yml
+-rw-rw-r-- root/root       421 2019-05-15 03:16 ovirt-ansible-repositories-master/examples/passwords.yml
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/meta/
+-rw-rw-r-- root/root       321 2019-05-15 03:16 ovirt-ansible-repositories-master/meta/main.yml
+-rw-rw-r-- root/root      2200 2019-05-15 03:16 ovirt-ansible-repositories-master/ovirt-ansible-repositories.spec.in
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/tasks/
+-rw-rw-r-- root/root       584 2019-05-15 03:16 ovirt-ansible-repositories-master/tasks/backup-repos.yml
+-rw-rw-r-- root/root       883 2019-05-15 03:16 ovirt-ansible-repositories-master/tasks/main.yml
+-rw-rw-r-- root/root      2112 2019-05-15 03:16 ovirt-ansible-repositories-master/tasks/rh-subscription.yml
+-rw-rw-r-- root/root       139 2019-05-15 03:16 ovirt-ansible-repositories-master/tasks/rpm.yml
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/tests/
+-rw-rw-r-- root/root        21 2019-05-15 03:16 ovirt-ansible-repositories-master/tests/requirements.txt
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/tests/roles/oVirt.repositories -> ../../
+-rw-rw-r-- root/root       459 2019-05-15 03:16 ovirt-ansible-repositories-master/tox.ini
+drwxrwxr-x root/root         0 2019-05-15 03:16 ovirt-ansible-repositories-master/vars/
+-rw-rw-r-- root/root        50 2019-05-15 03:16 ovirt-ansible-repositories-master/vars/default.yml
+-rw-rw-r-- root/root       209 2019-05-15 03:16 ovirt-ansible-repositories-master/vars/engine_4.1.yml
+-rw-rw-r-- root/root       260 2019-05-15 03:16 ovirt-ansible-repositories-master/vars/engine_4.2.yml
+-rw-rw-r-- root/root       252 2019-05-15 03:16 ovirt-ansible-repositories-master/vars/engine_4.3.yml
+-rw-rw-r-- root/root       110 2019-05-15 03:16 ovirt-ansible-repositories-master/vars/host_4.1.yml
+-rw-rw-r-- root/root       143 2019-05-15 03:16 ovirt-ansible-repositories-master/vars/host_4.2.yml
+-rw-rw-r-- root/root       143 2019-05-15 03:16 ovirt-ansible-repositories-master/vars/host_4.3.yml

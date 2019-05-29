@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-15 12:50 ansible-role-packer-oracle-master/
+-rw-rw-r-- root/root       480 2018-01-15 12:50 ansible-role-packer-oracle-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-01-15 12:50 ansible-role-packer-oracle-master/LICENSE
+-rw-rw-r-- root/root      2921 2018-01-15 12:50 ansible-role-packer-oracle-master/README.md
+drwxrwxr-x root/root         0 2018-01-15 12:50 ansible-role-packer-oracle-master/meta/
+-rw-rw-r-- root/root       342 2018-01-15 12:50 ansible-role-packer-oracle-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-15 12:50 ansible-role-packer-oracle-master/tasks/
+-rw-rw-r-- root/root      2142 2018-01-15 12:50 ansible-role-packer-oracle-master/tasks/main.yml
+-rw-rw-r-- root/root       762 2018-01-15 12:50 ansible-role-packer-oracle-master/tasks/virtualbox.yml
+-rw-rw-r-- root/root       686 2018-01-15 12:50 ansible-role-packer-oracle-master/tasks/vmware.yml
+drwxrwxr-x root/root         0 2018-01-15 12:50 ansible-role-packer-oracle-master/templates/
+-rw-rw-r-- root/root        16 2018-01-15 12:50 ansible-role-packer-oracle-master/templates/vmhgfs.modules.j2
+-rw-rw-r-- root/root       293 2018-01-15 12:50 ansible-role-packer-oracle-master/templates/vmware-tools.repo.j2
+drwxrwxr-x root/root         0 2018-01-15 12:50 ansible-role-packer-oracle-master/tests/
+-rw-rw-r-- root/root        10 2018-01-15 12:50 ansible-role-packer-oracle-master/tests/inventory
+-rw-rw-r-- root/root        84 2018-01-15 12:50 ansible-role-packer-oracle-master/tests/test.yml

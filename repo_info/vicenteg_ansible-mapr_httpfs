@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-07-01 10:30 ansible-mapr_httpfs-master/
+-rw-rw-r-- root/root      1328 2016-07-01 10:30 ansible-mapr_httpfs-master/README.md
+drwxrwxr-x root/root         0 2016-07-01 10:30 ansible-mapr_httpfs-master/defaults/
+-rw-rw-r-- root/root       102 2016-07-01 10:30 ansible-mapr_httpfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-01 10:30 ansible-mapr_httpfs-master/files/
+-rw-rw-r-- root/root       842 2016-07-01 10:30 ansible-mapr_httpfs-master/files/httpfs-site.xml
+drwxrwxr-x root/root         0 2016-07-01 10:30 ansible-mapr_httpfs-master/handlers/
+-rw-rw-r-- root/root        36 2016-07-01 10:30 ansible-mapr_httpfs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-01 10:30 ansible-mapr_httpfs-master/meta/
+-rw-rw-r-- root/root      2102 2016-07-01 10:30 ansible-mapr_httpfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-01 10:30 ansible-mapr_httpfs-master/tasks/
+-rw-rw-r-- root/root       795 2016-07-01 10:30 ansible-mapr_httpfs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-01 10:30 ansible-mapr_httpfs-master/vars/
+-rw-rw-r-- root/root        32 2016-07-01 10:30 ansible-mapr_httpfs-master/vars/main.yml

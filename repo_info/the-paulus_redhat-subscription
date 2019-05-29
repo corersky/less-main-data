@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-01-05 10:15 redhat-subscription-master/
+-rw-rw-r-- root/root      8702 2018-01-05 10:15 redhat-subscription-master/README.md
+drwxrwxr-x root/root         0 2018-01-05 10:15 redhat-subscription-master/defaults/
+-rw-rw-r-- root/root         4 2018-01-05 10:15 redhat-subscription-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-05 10:15 redhat-subscription-master/meta/
+-rw-rw-r-- root/root       376 2018-01-05 10:15 redhat-subscription-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-05 10:15 redhat-subscription-master/tasks/
+-rw-rw-r-- root/root      2675 2018-01-05 10:15 redhat-subscription-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-05 10:15 redhat-subscription-master/tests/
+-rw-rw-r-- root/root        11 2018-01-05 10:15 redhat-subscription-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-01-05 10:15 redhat-subscription-master/tests/test.yml

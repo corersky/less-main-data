@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2015-12-21 21:29 ansible-ruby-master/
+-rw-rw-r-- root/root       904 2015-12-21 21:29 ansible-ruby-master/.travis.yml
+-rw-rw-r-- root/root      1082 2015-12-21 21:29 ansible-ruby-master/LICENSE.md
+-rw-rw-r-- root/root      1850 2015-12-21 21:29 ansible-ruby-master/README.md
+drwxrwxr-x root/root         0 2015-12-21 21:29 ansible-ruby-master/defaults/
+-rw-rw-r-- root/root       237 2015-12-21 21:29 ansible-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:29 ansible-ruby-master/files/
+-rw-rw-r-- root/root        23 2015-12-21 21:29 ansible-ruby-master/files/gemrc.yml
+drwxrwxr-x root/root         0 2015-12-21 21:29 ansible-ruby-master/handlers/
+-rw-rw-r-- root/root         4 2015-12-21 21:29 ansible-ruby-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:29 ansible-ruby-master/meta/
+-rw-rw-r-- root/root       481 2015-12-21 21:29 ansible-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:29 ansible-ruby-master/tasks/
+-rw-rw-r-- root/root       443 2015-12-21 21:29 ansible-ruby-master/tasks/extras.yml
+-rw-rw-r-- root/root       381 2015-12-21 21:29 ansible-ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-21 21:29 ansible-ruby-master/test/
+-rw-rw-r-- root/root       265 2015-12-21 21:29 ansible-ruby-master/test/Vagrantfile.example
+lrwxrwxrwx root/root         0 2015-12-21 21:29 ansible-ruby-master/test/ansible-ruby -> ../
+-rw-rw-r-- root/root        26 2015-12-21 21:29 ansible-ruby-master/test/ansible.cfg.example
+-rw-rw-r-- root/root        10 2015-12-21 21:29 ansible-ruby-master/test/inventory
+-rw-rw-r-- root/root        75 2015-12-21 21:29 ansible-ruby-master/test/travis.yml
+-rw-rw-r-- root/root        69 2015-12-21 21:29 ansible-ruby-master/test/vagrant.yml
+drwxrwxr-x root/root         0 2015-12-21 21:29 ansible-ruby-master/vars/
+-rw-rw-r-- root/root         4 2015-12-21 21:29 ansible-ruby-master/vars/main.yml

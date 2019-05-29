@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-12-01 13:05 ansible-role-mosquitto-master/
+-rw-rw-r-- root/root      1641 2018-12-01 13:05 ansible-role-mosquitto-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-12-01 13:05 ansible-role-mosquitto-master/README.md
+drwxrwxr-x root/root         0 2018-12-01 13:05 ansible-role-mosquitto-master/meta/
+-rw-rw-r-- root/root       333 2018-12-01 13:05 ansible-role-mosquitto-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-01 13:05 ansible-role-mosquitto-master/tasks/
+-rw-rw-r-- root/root        57 2018-12-01 13:05 ansible-role-mosquitto-master/tasks/centOS.yml
+-rw-rw-r-- root/root       128 2018-12-01 13:05 ansible-role-mosquitto-master/tasks/debian.yml
+-rw-rw-r-- root/root       284 2018-12-01 13:05 ansible-role-mosquitto-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-01 13:05 ansible-role-mosquitto-master/tests/
+-rw-rw-r-- root/root        11 2018-12-01 13:05 ansible-role-mosquitto-master/tests/inventory
+-rw-rw-r-- root/root        79 2018-12-01 13:05 ansible-role-mosquitto-master/tests/test.yml

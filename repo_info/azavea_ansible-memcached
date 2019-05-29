@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2014-10-12 09:20 ansible-memcached-master/
+-rw-rw-r-- root/root         9 2014-10-12 09:20 ansible-memcached-master/.gitignore
+-rw-rw-r-- root/root        29 2014-10-12 09:20 ansible-memcached-master/CHANGELOG.md
+-rw-rw-r-- root/root       441 2014-10-12 09:20 ansible-memcached-master/README.md
+drwxrwxr-x root/root         0 2014-10-12 09:20 ansible-memcached-master/defaults/
+-rw-rw-r-- root/root       112 2014-10-12 09:20 ansible-memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-12 09:20 ansible-memcached-master/examples/
+-rw-rw-r-- root/root       278 2014-10-12 09:20 ansible-memcached-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-10-12 09:20 ansible-memcached-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-10-12 09:20 ansible-memcached-master/examples/roles/azavea.memcached -> ../../
+-rw-rw-r-- root/root        61 2014-10-12 09:20 ansible-memcached-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-10-12 09:20 ansible-memcached-master/handlers/
+-rw-rw-r-- root/root        72 2014-10-12 09:20 ansible-memcached-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-12 09:20 ansible-memcached-master/meta/
+-rw-rw-r-- root/root       273 2014-10-12 09:20 ansible-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-12 09:20 ansible-memcached-master/tasks/
+-rw-rw-r-- root/root       211 2014-10-12 09:20 ansible-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-12 09:20 ansible-memcached-master/templates/
+-rw-rw-r-- root/root      1475 2014-10-12 09:20 ansible-memcached-master/templates/memcached.conf.j2

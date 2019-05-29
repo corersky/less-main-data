@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-02 02:42 ansible-autopostgresqlbackup-master/
+-rw-rw-r-- root/root       419 2018-02-02 02:42 ansible-autopostgresqlbackup-master/.travis.yml
+-rw-rw-r-- root/root       831 2018-02-02 02:42 ansible-autopostgresqlbackup-master/README.md
+drwxrwxr-x root/root         0 2018-02-02 02:42 ansible-autopostgresqlbackup-master/defaults/
+-rw-rw-r-- root/root       398 2018-02-02 02:42 ansible-autopostgresqlbackup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-02 02:42 ansible-autopostgresqlbackup-master/meta/
+-rw-rw-r-- root/root       263 2018-02-02 02:42 ansible-autopostgresqlbackup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-02 02:42 ansible-autopostgresqlbackup-master/tasks/
+-rw-rw-r-- root/root      1562 2018-02-02 02:42 ansible-autopostgresqlbackup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-02 02:42 ansible-autopostgresqlbackup-master/templates/
+-rw-rw-r-- root/root      3020 2018-02-02 02:42 ansible-autopostgresqlbackup-master/templates/autopostgresqlbackup.j2
+drwxrwxr-x root/root         0 2018-02-02 02:42 ansible-autopostgresqlbackup-master/tests/
+-rw-rw-r-- root/root       125 2018-02-02 02:42 ansible-autopostgresqlbackup-master/tests/role.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-03-22 11:43 centos7-mariadb-master/
+-rw-rw-r-- root/root       821 2016-03-22 11:43 centos7-mariadb-master/README.md
+drwxrwxr-x root/root         0 2016-03-22 11:43 centos7-mariadb-master/handlers/
+-rw-rw-r-- root/root        82 2016-03-22 11:43 centos7-mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-22 11:43 centos7-mariadb-master/meta/
+-rw-rw-r-- root/root       263 2016-03-22 11:43 centos7-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-22 11:43 centos7-mariadb-master/tasks/
+-rw-rw-r-- root/root       243 2016-03-22 11:43 centos7-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-22 11:43 centos7-mariadb-master/tests/
+-rw-rw-r-- root/root         9 2016-03-22 11:43 centos7-mariadb-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-03-22 11:43 centos7-mariadb-master/tests/test.yml

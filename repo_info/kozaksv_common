@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-02 08:19 common-master/
+-rw-rw-r-- root/root      1328 2015-10-02 08:19 common-master/README.md
+drwxrwxr-x root/root         0 2015-10-02 08:19 common-master/defaults/
+-rw-rw-r-- root/root        31 2015-10-02 08:19 common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-02 08:19 common-master/handlers/
+-rw-rw-r-- root/root        59 2015-10-02 08:19 common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-02 08:19 common-master/meta/
+-rw-rw-r-- root/root      2376 2015-10-02 08:19 common-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-02 08:19 common-master/tasks/
+-rw-rw-r-- root/root       777 2015-10-02 08:19 common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-02 08:19 common-master/templates/
+-rw-rw-r-- root/root      1153 2015-10-02 08:19 common-master/templates/ntp.conf.j2
+-rw-rw-r-- root/root      1447 2015-10-02 08:19 common-master/templates/zshrc.j2
+drwxrwxr-x root/root         0 2015-10-02 08:19 common-master/vars/
+-rw-rw-r-- root/root        90 2015-10-02 08:19 common-master/vars/main.yml

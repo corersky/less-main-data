@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-15 15:02 openssh-master/
+-rw-rw-r-- root/root     20133 2018-10-15 15:02 openssh-master/LICENSE
+-rw-rw-r-- root/root      1796 2018-10-15 15:02 openssh-master/README.md
+drwxrwxr-x root/root         0 2018-10-15 15:02 openssh-master/defaults/
+-rw-rw-r-- root/root        19 2018-10-15 15:02 openssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-15 15:02 openssh-master/handlers/
+-rw-rw-r-- root/root       347 2018-10-15 15:02 openssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-15 15:02 openssh-master/meta/
+-rw-rw-r-- root/root       402 2018-10-15 15:02 openssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-15 15:02 openssh-master/tasks/
+-rw-rw-r-- root/root       577 2018-10-15 15:02 openssh-master/tasks/config.yml
+-rw-rw-r-- root/root       137 2018-10-15 15:02 openssh-master/tasks/main.yml
+-rw-rw-r-- root/root      1324 2018-10-15 15:02 openssh-master/tasks/moduli.yml
+drwxrwxr-x root/root         0 2018-10-15 15:02 openssh-master/templates/
+-rw-rw-r-- root/root       167 2018-10-15 15:02 openssh-master/templates/ssh_config.j2
+-rw-rw-r-- root/root       602 2018-10-15 15:02 openssh-master/templates/sshd_config.j2

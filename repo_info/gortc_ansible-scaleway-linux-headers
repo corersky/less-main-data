@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-14 00:15 ansible-scaleway-linux-headers-master/
+-rw-rw-r-- root/root        99 2018-05-14 00:15 ansible-scaleway-linux-headers-master/.editorconfig
+-rw-rw-r-- root/root        85 2018-05-14 00:15 ansible-scaleway-linux-headers-master/.gitignore
+-rw-rw-r-- root/root       615 2018-05-14 00:15 ansible-scaleway-linux-headers-master/README.md
+drwxrwxr-x root/root         0 2018-05-14 00:15 ansible-scaleway-linux-headers-master/defaults/
+-rw-rw-r-- root/root        26 2018-05-14 00:15 ansible-scaleway-linux-headers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-14 00:15 ansible-scaleway-linux-headers-master/meta/
+-rw-rw-r-- root/root       285 2018-05-14 00:15 ansible-scaleway-linux-headers-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-14 00:15 ansible-scaleway-linux-headers-master/tasks/
+-rw-rw-r-- root/root      1735 2018-05-14 00:15 ansible-scaleway-linux-headers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-14 00:15 ansible-scaleway-linux-headers-master/tests/
+-rw-rw-r-- root/root       102 2018-05-14 00:15 ansible-scaleway-linux-headers-master/tests/ansible.cfg
+-rw-rw-r-- root/root      1680 2018-05-14 00:15 ansible-scaleway-linux-headers-master/tests/id_rsa.enc
+-rw-rw-r-- root/root       497 2018-05-14 00:15 ansible-scaleway-linux-headers-master/tests/scaleway.tf
+-rw-rw-r-- root/root       122 2018-05-14 00:15 ansible-scaleway-linux-headers-master/tests/test.yml

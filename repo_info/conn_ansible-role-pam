@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-11-30 21:09 ansible-role-pam-master/
+-rw-rw-r-- root/root      1514 2017-11-30 21:09 ansible-role-pam-master/LICENSE
+-rw-rw-r-- root/root        43 2017-11-30 21:09 ansible-role-pam-master/README.md
+drwxrwxr-x root/root         0 2017-11-30 21:09 ansible-role-pam-master/files/
+-rw-rw-r-- root/root       330 2017-11-30 21:09 ansible-role-pam-master/files/su
+drwxrwxr-x root/root         0 2017-11-30 21:09 ansible-role-pam-master/meta/
+-rw-rw-r-- root/root       255 2017-11-30 21:09 ansible-role-pam-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-30 21:09 ansible-role-pam-master/tasks/
+-rw-rw-r-- root/root       117 2017-11-30 21:09 ansible-role-pam-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2017-11-30 21:09 ansible-role-pam-master/tasks/main.yml

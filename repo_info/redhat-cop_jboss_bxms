@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2018-12-14 04:47 jboss_bxms-master/
+-rw-rw-r-- root/root       121 2018-12-14 04:47 jboss_bxms-master/.gitignore
+-rw-rw-r-- root/root       570 2018-12-14 04:47 jboss_bxms-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-12-14 04:47 jboss_bxms-master/LICENSE
+-rw-rw-r-- root/root      1435 2018-12-14 04:47 jboss_bxms-master/README.md
+drwxrwxr-x root/root         0 2018-12-14 04:47 jboss_bxms-master/defaults/
+-rw-rw-r-- root/root      1025 2018-12-14 04:47 jboss_bxms-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-14 04:47 jboss_bxms-master/files/
+-rw-rw-r-- root/root       968 2018-12-14 04:47 jboss_bxms-master/files/application-roles.properties
+-rw-rw-r-- root/root      1089 2018-12-14 04:47 jboss_bxms-master/files/application-users.properties
+drwxrwxr-x root/root         0 2018-12-14 04:47 jboss_bxms-master/meta/
+-rw-rw-r-- root/root       330 2018-12-14 04:47 jboss_bxms-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-14 04:47 jboss_bxms-master/tasks/
+-rw-rw-r-- root/root       862 2018-12-14 04:47 jboss_bxms-master/tasks/check_for_bxms_install.yml
+-rw-rw-r-- root/root       425 2018-12-14 04:47 jboss_bxms-master/tasks/configuration_files.yml
+-rw-rw-r-- root/root       600 2018-12-14 04:47 jboss_bxms-master/tasks/java_opts.yml
+-rw-rw-r-- root/root      3186 2018-12-14 04:47 jboss_bxms-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-14 04:47 jboss_bxms-master/tests/
+-rw-rw-r-- root/root       833 2018-12-14 04:47 jboss_bxms-master/tests/docker-centos-bxms-copy.yml
+-rw-rw-r-- root/root       260 2018-12-14 04:47 jboss_bxms-master/tests/inventory
+-rw-rw-r-- root/root       261 2018-12-14 04:47 jboss_bxms-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-12-14 04:47 jboss_bxms-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-12-14 04:47 jboss_bxms-master/tests/roles/jboss_bxms -> ../../../jboss_bxms/
+-rw-rw-r-- root/root       102 2018-12-14 04:47 jboss_bxms-master/tests/syntax-check.yml
+drwxrwxr-x root/root         0 2018-12-14 04:47 jboss_bxms-master/tests/vars/
+-rw-rw-r-- root/root       134 2018-12-14 04:47 jboss_bxms-master/tests/vars/cloud-inventory.yml

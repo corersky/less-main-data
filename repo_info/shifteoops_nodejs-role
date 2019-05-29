@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-31 10:29 nodejs-role-master/
+-rw-rw-r-- root/root        22 2019-01-31 10:29 nodejs-role-master/README.md
+drwxrwxr-x root/root         0 2019-01-31 10:29 nodejs-role-master/defaults/
+-rw-rw-r-- root/root       978 2019-01-31 10:29 nodejs-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:29 nodejs-role-master/handlers/
+-rw-rw-r-- root/root         0 2019-01-31 10:29 nodejs-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:29 nodejs-role-master/meta/
+-rw-rw-r-- root/root       248 2019-01-31 10:29 nodejs-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-31 10:29 nodejs-role-master/tasks/
+-rw-rw-r-- root/root      1218 2019-01-31 10:29 nodejs-role-master/tasks/main.yml
+-rw-rw-r-- root/root       860 2019-01-31 10:29 nodejs-role-master/tasks/setup-Debian.yml
+drwxrwxr-x root/root         0 2019-01-31 10:29 nodejs-role-master/templates/
+-rw-rw-r-- root/root       164 2019-01-31 10:29 nodejs-role-master/templates/npm.sh.j2
+drwxrwxr-x root/root         0 2019-01-31 10:29 nodejs-role-master/vars/
+-rw-rw-r-- root/root         0 2019-01-31 10:29 nodejs-role-master/vars/main.yml

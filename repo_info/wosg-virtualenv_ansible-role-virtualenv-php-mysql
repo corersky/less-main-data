@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/
+-rw-rw-r-- root/root       993 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/.travis.yml
+-rw-rw-r-- root/root       288 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/README.md
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/defaults/
+-rw-rw-r-- root/root        92 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/meta/
+-rw-rw-r-- root/root       340 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/tasks/
+-rw-rw-r-- root/root       713 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/tests/
+-rw-rw-r-- root/root        10 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/tests/inventory
+-rw-rw-r-- root/root       279 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/vars/
+-rw-rw-r-- root/root        36 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/vars/Debian.yml
+-rw-rw-r-- root/root        35 2016-01-04 11:27 ansible-role-virtualenv-php-mysql-master/vars/RedHat.yml

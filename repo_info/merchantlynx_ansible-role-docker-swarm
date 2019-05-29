@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-24 15:23 ansible-role-docker-swarm-master/
+-rw-rw-r-- root/root      1079 2019-04-24 15:23 ansible-role-docker-swarm-master/LICENSE
+-rw-rw-r-- root/root       412 2019-04-24 15:23 ansible-role-docker-swarm-master/README.md
+drwxrwxr-x root/root         0 2019-04-24 15:23 ansible-role-docker-swarm-master/defaults/
+-rw-rw-r-- root/root       265 2019-04-24 15:23 ansible-role-docker-swarm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-24 15:23 ansible-role-docker-swarm-master/meta/
+-rw-rw-r-- root/root       361 2019-04-24 15:23 ansible-role-docker-swarm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-24 15:23 ansible-role-docker-swarm-master/tasks/
+-rw-rw-r-- root/root      2528 2019-04-24 15:23 ansible-role-docker-swarm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-24 15:23 ansible-role-docker-swarm-master/tests/
+-rw-rw-r-- root/root        11 2019-04-24 15:23 ansible-role-docker-swarm-master/tests/inventory
+-rw-rw-r-- root/root        70 2019-04-24 15:23 ansible-role-docker-swarm-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-24 15:23 ansible-role-docker-swarm-master/vars/
+-rw-rw-r-- root/root        32 2019-04-24 15:23 ansible-role-docker-swarm-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-20 10:36 zabbix-containerized-master/
+-rw-rw-r-- root/root     35147 2019-02-20 10:36 zabbix-containerized-master/LICENSE
+-rw-rw-r-- root/root       670 2019-02-20 10:36 zabbix-containerized-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 10:36 zabbix-containerized-master/defaults/
+-rw-rw-r-- root/root      1369 2019-02-20 10:36 zabbix-containerized-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-20 10:36 zabbix-containerized-master/meta/
+-rw-rw-r-- root/root       341 2019-02-20 10:36 zabbix-containerized-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 10:36 zabbix-containerized-master/tasks/
+-rw-rw-r-- root/root       238 2019-02-20 10:36 zabbix-containerized-master/tasks/main.yml
+-rw-rw-r-- root/root       783 2019-02-20 10:36 zabbix-containerized-master/tasks/mysql.yml
+-rw-rw-r-- root/root      1214 2019-02-20 10:36 zabbix-containerized-master/tasks/proxy.yml
+-rw-rw-r-- root/root      1223 2019-02-20 10:36 zabbix-containerized-master/tasks/server.yml
+-rw-rw-r-- root/root       468 2019-02-20 10:36 zabbix-containerized-master/tasks/server_proxy_common.yml
+-rw-rw-r-- root/root       698 2019-02-20 10:36 zabbix-containerized-master/tasks/web.yml

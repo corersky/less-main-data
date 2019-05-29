@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-21 02:01 ansible-role-nginx-master/
+drwxrwxr-x root/root         0 2017-02-21 02:01 ansible-role-nginx-master/.github/
+-rw-rw-r-- root/root       405 2017-02-21 02:01 ansible-role-nginx-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root       524 2017-02-21 02:01 ansible-role-nginx-master/README.md
+drwxrwxr-x root/root         0 2017-02-21 02:01 ansible-role-nginx-master/defaults/
+-rw-rw-r-- root/root        42 2017-02-21 02:01 ansible-role-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-21 02:01 ansible-role-nginx-master/handlers/
+-rw-rw-r-- root/root       112 2017-02-21 02:01 ansible-role-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-21 02:01 ansible-role-nginx-master/meta/
+-rw-rw-r-- root/root       291 2017-02-21 02:01 ansible-role-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-21 02:01 ansible-role-nginx-master/tasks/
+-rw-rw-r-- root/root       224 2017-02-21 02:01 ansible-role-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-21 02:01 ansible-role-nginx-master/templates/
+-rw-rw-r-- root/root        47 2017-02-21 02:01 ansible-role-nginx-master/templates/example.j2
+drwxrwxr-x root/root         0 2017-02-21 02:01 ansible-role-nginx-master/vars/
+-rw-rw-r-- root/root        38 2017-02-21 02:01 ansible-role-nginx-master/vars/main.yml

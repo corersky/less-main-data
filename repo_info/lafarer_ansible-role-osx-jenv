@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-12-28 03:59 ansible-role-osx-jenv-master/
+-rw-rw-r-- root/root       605 2015-12-28 03:59 ansible-role-osx-jenv-master/.travis.yml
+-rw-rw-r-- root/root       701 2015-12-28 03:59 ansible-role-osx-jenv-master/README.md
+drwxrwxr-x root/root         0 2015-12-28 03:59 ansible-role-osx-jenv-master/defaults/
+-rw-rw-r-- root/root       172 2015-12-28 03:59 ansible-role-osx-jenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-28 03:59 ansible-role-osx-jenv-master/meta/
+-rw-rw-r-- root/root       274 2015-12-28 03:59 ansible-role-osx-jenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-28 03:59 ansible-role-osx-jenv-master/tasks/
+-rw-rw-r-- root/root      1009 2015-12-28 03:59 ansible-role-osx-jenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-28 03:59 ansible-role-osx-jenv-master/tests/
+-rw-rw-r-- root/root         9 2015-12-28 03:59 ansible-role-osx-jenv-master/tests/inventory
+-rw-rw-r-- root/root        81 2015-12-28 03:59 ansible-role-osx-jenv-master/tests/test.yml

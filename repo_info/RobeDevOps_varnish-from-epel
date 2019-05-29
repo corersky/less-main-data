@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-21 11:31 varnish-from-epel-master/
+-rw-rw-r-- root/root      3171 2019-05-21 11:31 varnish-from-epel-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 11:31 varnish-from-epel-master/defaults/
+-rw-rw-r-- root/root       477 2019-05-21 11:31 varnish-from-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 11:31 varnish-from-epel-master/handlers/
+-rw-rw-r-- root/root       117 2019-05-21 11:31 varnish-from-epel-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-21 11:31 varnish-from-epel-master/meta/
+-rw-rw-r-- root/root       326 2019-05-21 11:31 varnish-from-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 11:31 varnish-from-epel-master/tasks/
+-rw-rw-r-- root/root      1140 2019-05-21 11:31 varnish-from-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-21 11:31 varnish-from-epel-master/templates/
+-rw-rw-r-- root/root       797 2019-05-21 11:31 varnish-from-epel-master/templates/default.vcl.j2
+-rw-rw-r-- root/root      1339 2019-05-21 11:31 varnish-from-epel-master/templates/varnish.params.j2
+-rw-rw-r-- root/root      1226 2019-05-21 11:31 varnish-from-epel-master/templates/varnish.service.j2
+drwxrwxr-x root/root         0 2019-05-21 11:31 varnish-from-epel-master/vars/
+-rw-rw-r-- root/root        43 2019-05-21 11:31 varnish-from-epel-master/vars/main.yml

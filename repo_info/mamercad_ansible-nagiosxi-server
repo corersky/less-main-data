@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-02-27 19:46 ansible-nagiosxi-server-master/
+-rw-rw-r-- root/root       539 2016-02-27 19:46 ansible-nagiosxi-server-master/.travis.yml
+-rw-rw-r-- root/root       553 2016-02-27 19:46 ansible-nagiosxi-server-master/README.md
+drwxrwxr-x root/root         0 2016-02-27 19:46 ansible-nagiosxi-server-master/defaults/
+-rw-rw-r-- root/root        48 2016-02-27 19:46 ansible-nagiosxi-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:46 ansible-nagiosxi-server-master/handlers/
+-rw-rw-r-- root/root        48 2016-02-27 19:46 ansible-nagiosxi-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:46 ansible-nagiosxi-server-master/meta/
+-rw-rw-r-- root/root      3039 2016-02-27 19:46 ansible-nagiosxi-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:46 ansible-nagiosxi-server-master/tasks/
+-rw-rw-r-- root/root       566 2016-02-27 19:46 ansible-nagiosxi-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-27 19:46 ansible-nagiosxi-server-master/tests/
+-rw-rw-r-- root/root         9 2016-02-27 19:46 ansible-nagiosxi-server-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-02-27 19:46 ansible-nagiosxi-server-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-02-27 19:46 ansible-nagiosxi-server-master/vars/
+-rw-rw-r-- root/root        44 2016-02-27 19:46 ansible-nagiosxi-server-master/vars/main.yml

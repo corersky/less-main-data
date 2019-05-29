@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-11 08:25 ansible-role-tustep-master/
+-rw-rw-r-- root/root       201 2018-07-11 08:25 ansible-role-tustep-master/.editorconfig
+-rw-rw-r-- root/root        14 2018-07-11 08:25 ansible-role-tustep-master/.gitignore
+-rw-rw-r-- root/root       632 2018-07-11 08:25 ansible-role-tustep-master/.travis.yml
+-rw-rw-r-- root/root      1296 2018-07-11 08:25 ansible-role-tustep-master/LICENSE
+-rw-rw-r-- root/root       641 2018-07-11 08:25 ansible-role-tustep-master/README.md
+drwxrwxr-x root/root         0 2018-07-11 08:25 ansible-role-tustep-master/defaults/
+-rw-rw-r-- root/root       161 2018-07-11 08:25 ansible-role-tustep-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-11 08:25 ansible-role-tustep-master/meta/
+-rw-rw-r-- root/root       375 2018-07-11 08:25 ansible-role-tustep-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-11 08:25 ansible-role-tustep-master/tasks/
+-rw-rw-r-- root/root       520 2018-07-11 08:25 ansible-role-tustep-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-11 08:25 ansible-role-tustep-master/templates/
+-rwxrwxr-x root/root       503 2018-07-11 08:25 ansible-role-tustep-master/templates/tustep.j2
+drwxrwxr-x root/root         0 2018-07-11 08:25 ansible-role-tustep-master/tests/
+-rw-rw-r-- root/root       234 2018-07-11 08:25 ansible-role-tustep-master/tests/test.yml

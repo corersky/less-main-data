@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-13 14:09 ansible-role-exim4-sender-master/
+-rw-rw-r-- root/root       517 2016-02-13 14:09 ansible-role-exim4-sender-master/README.md
+drwxrwxr-x root/root         0 2016-02-13 14:09 ansible-role-exim4-sender-master/defaults/
+-rw-rw-r-- root/root        43 2016-02-13 14:09 ansible-role-exim4-sender-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-13 14:09 ansible-role-exim4-sender-master/handlers/
+-rw-rw-r-- root/root       123 2016-02-13 14:09 ansible-role-exim4-sender-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-13 14:09 ansible-role-exim4-sender-master/meta/
+-rw-rw-r-- root/root       282 2016-02-13 14:09 ansible-role-exim4-sender-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-13 14:09 ansible-role-exim4-sender-master/tasks/
+-rw-rw-r-- root/root       503 2016-02-13 14:09 ansible-role-exim4-sender-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-13 14:09 ansible-role-exim4-sender-master/templates/
+-rw-rw-r-- root/root        25 2016-02-13 14:09 ansible-role-exim4-sender-master/templates/mailname.j2
+-rw-rw-r-- root/root      1087 2016-02-13 14:09 ansible-role-exim4-sender-master/templates/update-exim4.conf.conf.j2

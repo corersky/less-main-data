@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/
+-rw-rw-r-- root/root       862 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/.travis.yml
+-rw-rw-r-- root/root      1078 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/LICENSE
+-rw-rw-r-- root/root      1514 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/README.md
+drwxrwxr-x root/root         0 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/defaults/
+-rw-rw-r-- root/root       475 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/meta/
+-rw-rw-r-- root/root       338 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/tasks/
+-rw-rw-r-- root/root      1281 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/templates/
+-rw-rw-r-- root/root       332 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/templates/exporter.service.j2
+drwxrwxr-x root/root         0 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/tests/
+-rw-rw-r-- root/root       632 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/tests/README.md
+-rw-rw-r-- root/root        59 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/tests/requirements.yml
+-rw-rw-r-- root/root      1090 2017-10-24 04:00 ansible-role-prometheus-exporter-installer-master/tests/test.yml

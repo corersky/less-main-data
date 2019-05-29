@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-03 13:44 dev-vagrant-master/
+-rw-rw-r-- root/root        26 2019-05-03 13:44 dev-vagrant-master/.gitignore
+-rw-rw-r-- root/root      1465 2019-05-03 13:44 dev-vagrant-master/README.md
+drwxrwxr-x root/root         0 2019-05-03 13:44 dev-vagrant-master/defaults/
+-rw-rw-r-- root/root       315 2019-05-03 13:44 dev-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-03 13:44 dev-vagrant-master/meta/
+-rw-rw-r-- root/root       367 2019-05-03 13:44 dev-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-03 13:44 dev-vagrant-master/tasks/
+-rw-rw-r-- root/root      1283 2019-05-03 13:44 dev-vagrant-master/tasks/main.yml
+-rw-rw-r-- root/root      1719 2019-05-03 13:44 dev-vagrant-master/tasks/plugins.yml
+-rw-rw-r-- root/root      1877 2019-05-03 13:44 dev-vagrant-master/tasks/vagrant.yml
+drwxrwxr-x root/root         0 2019-05-03 13:44 dev-vagrant-master/tests/
+-rw-rw-r-- root/root        11 2019-05-03 13:44 dev-vagrant-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-05-03 13:44 dev-vagrant-master/tests/test.yml

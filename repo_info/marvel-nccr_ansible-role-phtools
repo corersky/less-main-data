@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-22 12:24 ansible-role-phtools-master/
+-rw-rw-r-- root/root        27 2019-03-22 12:24 ansible-role-phtools-master/.gitignore
+-rw-rw-r-- root/root       904 2019-03-22 12:24 ansible-role-phtools-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-03-22 12:24 ansible-role-phtools-master/LICENSE
+-rw-rw-r-- root/root       734 2019-03-22 12:24 ansible-role-phtools-master/README.md
+drwxrwxr-x root/root         0 2019-03-22 12:24 ansible-role-phtools-master/defaults/
+-rw-rw-r-- root/root       675 2019-03-22 12:24 ansible-role-phtools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-22 12:24 ansible-role-phtools-master/meta/
+-rw-rw-r-- root/root       469 2019-03-22 12:24 ansible-role-phtools-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-22 12:24 ansible-role-phtools-master/molecule/
+drwxrwxr-x root/root         0 2019-03-22 12:24 ansible-role-phtools-master/molecule/default/
+-rw-rw-r-- root/root       532 2019-03-22 12:24 ansible-role-phtools-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       209 2019-03-22 12:24 ansible-role-phtools-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-03-22 12:24 ansible-role-phtools-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-03-22 12:24 ansible-role-phtools-master/tasks/
+-rw-rw-r-- root/root      1137 2019-03-22 12:24 ansible-role-phtools-master/tasks/main.yml

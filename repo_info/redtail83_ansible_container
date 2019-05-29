@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-24 00:40 ansible_container-master/
+-rw-rw-r-- root/root      1067 2019-02-24 00:40 ansible_container-master/LICENSE
+-rw-rw-r-- root/root       416 2019-02-24 00:40 ansible_container-master/README.md
+drwxrwxr-x root/root         0 2019-02-24 00:40 ansible_container-master/defaults/
+-rw-rw-r-- root/root        41 2019-02-24 00:40 ansible_container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-24 00:40 ansible_container-master/handlers/
+-rw-rw-r-- root/root        41 2019-02-24 00:40 ansible_container-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-24 00:40 ansible_container-master/meta/
+-rw-rw-r-- root/root      2123 2019-02-24 00:40 ansible_container-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-24 00:40 ansible_container-master/tasks/
+-rw-rw-r-- root/root       616 2019-02-24 00:40 ansible_container-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-24 00:40 ansible_container-master/tests/
+-rw-rw-r-- root/root        11 2019-02-24 00:40 ansible_container-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-02-24 00:40 ansible_container-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-24 00:40 ansible_container-master/vars/
+-rw-rw-r-- root/root        37 2019-02-24 00:40 ansible_container-master/vars/main.yml

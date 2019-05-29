@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-04-15 22:33 ansible-riemann-packages-master/
+-rw-rw-r-- root/root       646 2016-04-15 22:33 ansible-riemann-packages-master/.travis.yml
+-rw-rw-r-- root/root      1078 2016-04-15 22:33 ansible-riemann-packages-master/LICENSE
+-rw-rw-r-- root/root       515 2016-04-15 22:33 ansible-riemann-packages-master/README.md
+drwxrwxr-x root/root         0 2016-04-15 22:33 ansible-riemann-packages-master/meta/
+-rw-rw-r-- root/root       545 2016-04-15 22:33 ansible-riemann-packages-master/meta/main.yml
+-rw-rw-r-- root/root        26 2016-04-15 22:33 ansible-riemann-packages-master/requirements.yml
+drwxrwxr-x root/root         0 2016-04-15 22:33 ansible-riemann-packages-master/tasks/
+-rw-rw-r-- root/root       474 2016-04-15 22:33 ansible-riemann-packages-master/tasks/debian.yml
+-rw-rw-r-- root/root       255 2016-04-15 22:33 ansible-riemann-packages-master/tasks/main.yml
+-rw-rw-r-- root/root       376 2016-04-15 22:33 ansible-riemann-packages-master/tasks/redhat.yml
+-rw-rw-r-- root/root       111 2016-04-15 22:33 ansible-riemann-packages-master/tasks/riemann.yml
+drwxrwxr-x root/root         0 2016-04-15 22:33 ansible-riemann-packages-master/tests/
+-rw-rw-r-- root/root         9 2016-04-15 22:33 ansible-riemann-packages-master/tests/inventory
+-rw-rw-r-- root/root        82 2016-04-15 22:33 ansible-riemann-packages-master/tests/test.yml

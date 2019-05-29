@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-12-22 13:02 ansible-role-jetty-master/
+-rw-rw-r-- root/root      2912 2014-12-22 13:02 ansible-role-jetty-master/README.md
+drwxrwxr-x root/root         0 2014-12-22 13:02 ansible-role-jetty-master/defaults/
+-rw-rw-r-- root/root       211 2014-12-22 13:02 ansible-role-jetty-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-22 13:02 ansible-role-jetty-master/handlers/
+-rw-rw-r-- root/root        74 2014-12-22 13:02 ansible-role-jetty-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-22 13:02 ansible-role-jetty-master/meta/
+-rw-rw-r-- root/root       269 2014-12-22 13:02 ansible-role-jetty-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-22 13:02 ansible-role-jetty-master/tasks/
+-rw-rw-r-- root/root      1641 2014-12-22 13:02 ansible-role-jetty-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-22 13:02 ansible-role-jetty-master/templates/
+-rw-rw-r-- root/root       448 2014-12-22 13:02 ansible-role-jetty-master/templates/default-jetty.j2

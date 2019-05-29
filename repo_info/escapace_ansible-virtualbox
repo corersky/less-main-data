@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/
+-rw-rw-r-- root/root        78 2018-10-24 07:33 ansible-virtualbox-master/.gitignore
+-rw-rw-r-- root/root     11317 2018-10-24 07:33 ansible-virtualbox-master/LICENSE
+-rw-rw-r-- root/root       320 2018-10-24 07:33 ansible-virtualbox-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/defaults/
+-rw-rw-r-- root/root       170 2018-10-24 07:33 ansible-virtualbox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/files/
+-rw-rw-r-- root/root       259 2018-10-24 07:33 ansible-virtualbox-master/files/virtualbox.repo
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/handlers/
+-rw-rw-r-- root/root         5 2018-10-24 07:33 ansible-virtualbox-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/meta/
+-rw-rw-r-- root/root       328 2018-10-24 07:33 ansible-virtualbox-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/tasks/
+-rw-rw-r-- root/root        75 2018-10-24 07:33 ansible-virtualbox-master/tasks/main.yml
+-rw-rw-r-- root/root      2177 2018-10-24 07:33 ansible-virtualbox-master/tasks/virtualbox.yml
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/tests/
+-rw-rw-r-- root/root        53 2018-10-24 07:33 ansible-virtualbox-master/tests/inventory
+-rw-rw-r-- root/root       102 2018-10-24 07:33 ansible-virtualbox-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-24 07:33 ansible-virtualbox-master/tests/roles/escapace.virtualbox -> ../../
+-rw-rw-r-- root/root       207 2018-10-24 07:33 ansible-virtualbox-master/tests/teardown.yml
+-rw-rw-r-- root/root       263 2018-10-24 07:33 ansible-virtualbox-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 07:33 ansible-virtualbox-master/vars/
+-rw-rw-r-- root/root         4 2018-10-24 07:33 ansible-virtualbox-master/vars/main.yml

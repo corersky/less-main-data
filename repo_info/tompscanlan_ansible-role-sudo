@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-12-06 21:54 ansible-role-sudo-master/
+-rw-rw-r-- root/root        94 2015-12-06 21:54 ansible-role-sudo-master/.gitreview
+-rw-rw-r-- root/root     10174 2015-12-06 21:54 ansible-role-sudo-master/LICENSE
+-rw-rw-r-- root/root       631 2015-12-06 21:54 ansible-role-sudo-master/NOTICE
+-rw-rw-r-- root/root      1248 2015-12-06 21:54 ansible-role-sudo-master/README.md
+drwxrwxr-x root/root         0 2015-12-06 21:54 ansible-role-sudo-master/defaults/
+-rw-rw-r-- root/root       757 2015-12-06 21:54 ansible-role-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-06 21:54 ansible-role-sudo-master/tasks/
+-rw-rw-r-- root/root      1115 2015-12-06 21:54 ansible-role-sudo-master/tasks/Debian.yml
+-rw-rw-r-- root/root      1855 2015-12-06 21:54 ansible-role-sudo-master/tasks/Photon.yml
+-rw-rw-r-- root/root       757 2015-12-06 21:54 ansible-role-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-06 21:54 ansible-role-sudo-master/templates/
+-rw-rw-r-- root/root       632 2015-12-06 21:54 ansible-role-sudo-master/templates/sudoers.j2

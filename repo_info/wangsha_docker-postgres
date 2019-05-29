@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-postgres-master/
+-rw-rw-r-- root/root       893 2016-08-14 21:55 docker-postgres-master/.travis.yml
+-rw-rw-r-- root/root       693 2016-08-14 21:55 docker-postgres-master/CHANGELOG.md
+-rw-rw-r-- root/root      1075 2016-08-14 21:55 docker-postgres-master/LICENSE.txt
+-rw-rw-r-- root/root      2585 2016-08-14 21:55 docker-postgres-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-postgres-master/defaults/
+-rwxrwxr-x root/root       912 2016-08-14 21:55 docker-postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-postgres-master/meta/
+-rw-rw-r-- root/root       290 2016-08-14 21:55 docker-postgres-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-postgres-master/tasks/
+-rwxrwxr-x root/root        48 2016-08-14 21:55 docker-postgres-master/tasks/main.yml
+-rw-rw-r-- root/root      1893 2016-08-14 21:55 docker-postgres-master/tasks/postgres.yml
+drwxrwxr-x root/root         0 2016-08-14 21:55 docker-postgres-master/tests/
+-rw-rw-r-- root/root       154 2016-08-14 21:55 docker-postgres-master/tests/main.yml

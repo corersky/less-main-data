@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-12-06 08:16 openstack-vm-role-master/
+-rw-rw-r-- root/root        41 2016-12-06 08:16 openstack-vm-role-master/.gitignore
+-rw-rw-r-- root/root       842 2016-12-06 08:16 openstack-vm-role-master/README.md
+drwxrwxr-x root/root         0 2016-12-06 08:16 openstack-vm-role-master/defaults/
+-rw-rw-r-- root/root        33 2016-12-06 08:16 openstack-vm-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-06 08:16 openstack-vm-role-master/files/
+-rw-rw-r-- root/root         0 2016-12-06 08:16 openstack-vm-role-master/files/.gitkeep
+drwxrwxr-x root/root         0 2016-12-06 08:16 openstack-vm-role-master/handlers/
+-rw-rw-r-- root/root        33 2016-12-06 08:16 openstack-vm-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-06 08:16 openstack-vm-role-master/meta/
+-rw-rw-r-- root/root       330 2016-12-06 08:16 openstack-vm-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-06 08:16 openstack-vm-role-master/tasks/
+-rw-rw-r-- root/root      1515 2016-12-06 08:16 openstack-vm-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-06 08:16 openstack-vm-role-master/templates/
+-rw-rw-r-- root/root         0 2016-12-06 08:16 openstack-vm-role-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2016-12-06 08:16 openstack-vm-role-master/vars/
+-rw-rw-r-- root/root        19 2016-12-06 08:16 openstack-vm-role-master/vars/main.yml

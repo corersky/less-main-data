@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-10-31 05:40 dvm-master/
+-rw-rw-r-- root/root        52 2016-10-31 05:40 dvm-master/.gitignore
+-rw-rw-r-- root/root       583 2016-10-31 05:40 dvm-master/.travis.yml
+-rw-rw-r-- root/root      7810 2016-10-31 05:40 dvm-master/README.md
+-rw-rw-r-- root/root      2290 2016-10-31 05:40 dvm-master/changelog.md
+-rw-rw-r-- root/root      2080 2016-10-31 05:40 dvm-master/composer.json
+-rwxrwxr-x root/root     28868 2016-10-31 05:40 dvm-master/dvm
+drwxrwxr-x root/root         0 2016-10-31 05:40 dvm-master/tests/
+-rw-rw-r-- root/root        34 2016-10-31 05:40 dvm-master/tests/inventory
+-rw-rw-r-- root/root       970 2016-10-31 05:40 dvm-master/tests/playbook.yml
+-rw-rw-r-- root/root       197 2016-10-31 05:40 dvm-master/tests/requirements.yml

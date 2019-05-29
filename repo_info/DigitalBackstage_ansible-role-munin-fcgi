@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-10-14 04:30 ansible-role-munin-fcgi-master/
+-rw-rw-r-- root/root      1060 2016-10-14 04:30 ansible-role-munin-fcgi-master/LICENSE
+-rw-rw-r-- root/root      1001 2016-10-14 04:30 ansible-role-munin-fcgi-master/README.md
+drwxrwxr-x root/root         0 2016-10-14 04:30 ansible-role-munin-fcgi-master/files/
+-rw-rw-r-- root/root       511 2016-10-14 04:30 ansible-role-munin-fcgi-master/files/munin-fcgi.service
+drwxrwxr-x root/root         0 2016-10-14 04:30 ansible-role-munin-fcgi-master/handlers/
+-rw-rw-r-- root/root        90 2016-10-14 04:30 ansible-role-munin-fcgi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-14 04:30 ansible-role-munin-fcgi-master/meta/
+-rw-rw-r-- root/root       346 2016-10-14 04:30 ansible-role-munin-fcgi-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-14 04:30 ansible-role-munin-fcgi-master/tasks/
+-rw-rw-r-- root/root       469 2016-10-14 04:30 ansible-role-munin-fcgi-master/tasks/main.yml

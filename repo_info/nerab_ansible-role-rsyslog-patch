@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-18 10:04 ansible-role-rsyslog-patch-master/
+-rw-rw-r-- root/root         7 2017-06-18 10:04 ansible-role-rsyslog-patch-master/.gitignore
+-rw-rw-r-- root/root       631 2017-06-18 10:04 ansible-role-rsyslog-patch-master/.travis.yml
+-rw-rw-r-- root/root       768 2017-06-18 10:04 ansible-role-rsyslog-patch-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 10:04 ansible-role-rsyslog-patch-master/files/
+-rw-rw-r-- root/root       549 2017-06-18 10:04 ansible-role-rsyslog-patch-master/files/rsyslog.conf.patch
+drwxrwxr-x root/root         0 2017-06-18 10:04 ansible-role-rsyslog-patch-master/meta/
+-rw-rw-r-- root/root       260 2017-06-18 10:04 ansible-role-rsyslog-patch-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 10:04 ansible-role-rsyslog-patch-master/tasks/
+-rw-rw-r-- root/root       507 2017-06-18 10:04 ansible-role-rsyslog-patch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-18 10:04 ansible-role-rsyslog-patch-master/tests/
+-rw-rw-r-- root/root        15 2017-06-18 10:04 ansible-role-rsyslog-patch-master/tests/.gitignore
+-rw-rw-r-- root/root       423 2017-06-18 10:04 ansible-role-rsyslog-patch-master/tests/Vagrantfile
+-rw-rw-r-- root/root         9 2017-06-18 10:04 ansible-role-rsyslog-patch-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-06-18 10:04 ansible-role-rsyslog-patch-master/tests/test.yml

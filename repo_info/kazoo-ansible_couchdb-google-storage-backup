@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-16 18:54 couchdb-google-storage-backup-master/
+-rw-rw-r-- root/root      1071 2017-12-16 18:54 couchdb-google-storage-backup-master/LICENSE
+-rw-rw-r-- root/root       818 2017-12-16 18:54 couchdb-google-storage-backup-master/README.md
+drwxrwxr-x root/root         0 2017-12-16 18:54 couchdb-google-storage-backup-master/files/
+-rw-rw-r-- root/root       212 2017-12-16 18:54 couchdb-google-storage-backup-master/files/couchdb-google-storage-backup.service
+-rw-rw-r-- root/root       145 2017-12-16 18:54 couchdb-google-storage-backup-master/files/couchdb-google-storage-backup.timer
+drwxrwxr-x root/root         0 2017-12-16 18:54 couchdb-google-storage-backup-master/meta/
+-rw-rw-r-- root/root      1711 2017-12-16 18:54 couchdb-google-storage-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:54 couchdb-google-storage-backup-master/tasks/
+-rw-rw-r-- root/root      1508 2017-12-16 18:54 couchdb-google-storage-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-16 18:54 couchdb-google-storage-backup-master/templates/
+-rw-rw-r-- root/root       507 2017-12-16 18:54 couchdb-google-storage-backup-master/templates/backup.sh.j2
+-rw-rw-r-- root/root        56 2017-12-16 18:54 couchdb-google-storage-backup-master/templates/credentials.json.j2

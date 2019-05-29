@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-09-17 16:26 ansible-firefox-addon-master/
+-rw-rw-r-- root/root       108 2016-09-17 16:26 ansible-firefox-addon-master/.gitmodules
+-rw-rw-r-- root/root       429 2016-09-17 16:26 ansible-firefox-addon-master/.travis.yml
+-rw-rw-r-- root/root      2030 2016-09-17 16:26 ansible-firefox-addon-master/README.md
+drwxrwxr-x root/root         0 2016-09-17 16:26 ansible-firefox-addon-master/library/
+-rw-rw-r-- root/root      6060 2016-09-17 16:26 ansible-firefox-addon-master/library/firefox_addon
+drwxrwxr-x root/root         0 2016-09-17 16:26 ansible-firefox-addon-master/meta/
+-rw-rw-r-- root/root       282 2016-09-17 16:26 ansible-firefox-addon-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-17 16:26 ansible-firefox-addon-master/tests/
+drwxrwxr-x root/root         0 2016-09-17 16:26 ansible-firefox-addon-master/tests/bats-ansible/
+-rw-rw-r-- root/root      3923 2016-09-17 16:26 ansible-firefox-addon-master/tests/firefox-addon-container.bats
+-rw-rw-r-- root/root       132 2016-09-17 16:26 ansible-firefox-addon-master/tests/firefox-addon.bats

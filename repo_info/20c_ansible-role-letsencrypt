@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-12-15 10:31 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root     11358 2016-12-15 10:31 ansible-role-letsencrypt-master/LICENSE.txt
+-rw-rw-r-- root/root      4841 2016-12-15 10:31 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2016-12-15 10:31 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       898 2016-12-15 10:31 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:31 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root       606 2016-12-15 10:31 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-15 10:31 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root      2957 2016-12-15 10:31 ansible-role-letsencrypt-master/tasks/local.yml
+-rw-rw-r-- root/root       108 2016-12-15 10:31 ansible-role-letsencrypt-master/tasks/main.yml

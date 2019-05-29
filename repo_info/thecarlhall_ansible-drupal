@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-01-19 01:15 ansible-drupal-master/
+-rw-rw-r-- root/root     11325 2014-01-19 01:15 ansible-drupal-master/LICENSE.md
+-rw-rw-r-- root/root       797 2014-01-19 01:15 ansible-drupal-master/README.md
+drwxrwxr-x root/root         0 2014-01-19 01:15 ansible-drupal-master/defaults/
+-rw-rw-r-- root/root       189 2014-01-19 01:15 ansible-drupal-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-19 01:15 ansible-drupal-master/meta/
+-rw-rw-r-- root/root       313 2014-01-19 01:15 ansible-drupal-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-19 01:15 ansible-drupal-master/tasks/
+-rw-rw-r-- root/root       989 2014-01-19 01:15 ansible-drupal-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-19 01:15 ansible-drupal-master/templates/
+-rw-rw-r-- root/root      2180 2014-01-19 01:15 ansible-drupal-master/templates/nginx_config
+drwxrwxr-x root/root         0 2014-01-19 01:15 ansible-drupal-master/vars/
+-rw-rw-r-- root/root       103 2014-01-19 01:15 ansible-drupal-master/vars/debian.yml

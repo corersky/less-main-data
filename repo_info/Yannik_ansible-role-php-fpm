@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-02 06:26 ansible-role-php-fpm-master/
+-rw-rw-r-- root/root        26 2019-01-02 06:26 ansible-role-php-fpm-master/.gitignore
+-rw-rw-r-- root/root      1442 2019-01-02 06:26 ansible-role-php-fpm-master/.travis.yml
+-rw-rw-r-- root/root      5130 2019-01-02 06:26 ansible-role-php-fpm-master/README.md
+drwxrwxr-x root/root         0 2019-01-02 06:26 ansible-role-php-fpm-master/defaults/
+-rw-rw-r-- root/root       420 2019-01-02 06:26 ansible-role-php-fpm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-02 06:26 ansible-role-php-fpm-master/meta/
+-rw-rw-r-- root/root      1903 2019-01-02 06:26 ansible-role-php-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-02 06:26 ansible-role-php-fpm-master/tasks/
+-rw-rw-r-- root/root        46 2019-01-02 06:26 ansible-role-php-fpm-master/tasks/main.yml
+-rw-rw-r-- root/root      3306 2019-01-02 06:26 ansible-role-php-fpm-master/tasks/php-fpm.yml
+drwxrwxr-x root/root         0 2019-01-02 06:26 ansible-role-php-fpm-master/templates/
+-rw-rw-r-- root/root       885 2019-01-02 06:26 ansible-role-php-fpm-master/templates/pool.conf.j2
+drwxrwxr-x root/root         0 2019-01-02 06:26 ansible-role-php-fpm-master/tests/
+-rw-rw-r-- root/root       343 2019-01-02 06:26 ansible-role-php-fpm-master/tests/create-pools.yml
+-rw-rw-r-- root/root         9 2019-01-02 06:26 ansible-role-php-fpm-master/tests/inventory
+-rw-rw-r-- root/root       227 2019-01-02 06:26 ansible-role-php-fpm-master/tests/remove-pools.yml

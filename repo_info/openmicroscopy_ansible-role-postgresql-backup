@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-07-13 11:03 ansible-role-postgresql-backup-master/
+-rw-rw-r-- root/root       222 2018-07-13 11:03 ansible-role-postgresql-backup-master/.travis.yml
+-rw-rw-r-- root/root      1578 2018-07-13 11:03 ansible-role-postgresql-backup-master/README.md
+drwxrwxr-x root/root         0 2018-07-13 11:03 ansible-role-postgresql-backup-master/defaults/
+-rw-rw-r-- root/root       226 2018-07-13 11:03 ansible-role-postgresql-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-13 11:03 ansible-role-postgresql-backup-master/meta/
+-rw-rw-r-- root/root       332 2018-07-13 11:03 ansible-role-postgresql-backup-master/meta/main.yml
+-rw-rw-r-- root/root       468 2018-07-13 11:03 ansible-role-postgresql-backup-master/molecule.yml
+-rw-rw-r-- root/root       365 2018-07-13 11:03 ansible-role-postgresql-backup-master/playbook.yml
+drwxrwxr-x root/root         0 2018-07-13 11:03 ansible-role-postgresql-backup-master/tasks/
+-rw-rw-r-- root/root       618 2018-07-13 11:03 ansible-role-postgresql-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-13 11:03 ansible-role-postgresql-backup-master/templates/
+-rw-rw-r-- root/root       464 2018-07-13 11:03 ansible-role-postgresql-backup-master/templates/etc-crond-postgresql-backup.j2
+drwxrwxr-x root/root         0 2018-07-13 11:03 ansible-role-postgresql-backup-master/tests/
+-rw-rw-r-- root/root        33 2018-07-13 11:03 ansible-role-postgresql-backup-master/tests/requirements.yml
+-rw-rw-r-- root/root       616 2018-07-13 11:03 ansible-role-postgresql-backup-master/tests/test_default.py

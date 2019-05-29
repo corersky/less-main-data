@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-02-03 21:05 ansible-role-phpmyadmin-master/
+-rw-rw-r-- root/root      1039 2015-02-03 21:05 ansible-role-phpmyadmin-master/.travis.yml
+-rw-rw-r-- root/root      2394 2015-02-03 21:05 ansible-role-phpmyadmin-master/README.md
+drwxrwxr-x root/root         0 2015-02-03 21:05 ansible-role-phpmyadmin-master/defaults/
+-rw-rw-r-- root/root       209 2015-02-03 21:05 ansible-role-phpmyadmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-03 21:05 ansible-role-phpmyadmin-master/meta/
+-rw-rw-r-- root/root       509 2015-02-03 21:05 ansible-role-phpmyadmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-03 21:05 ansible-role-phpmyadmin-master/tasks/
+-rw-rw-r-- root/root      1288 2015-02-03 21:05 ansible-role-phpmyadmin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-03 21:05 ansible-role-phpmyadmin-master/tests/
+-rw-rw-r-- root/root        10 2015-02-03 21:05 ansible-role-phpmyadmin-master/tests/inventory
+-rw-rw-r-- root/root       294 2015-02-03 21:05 ansible-role-phpmyadmin-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-05-06 19:06 ansible-role-ipv6-master/
+-rw-rw-r-- root/root       113 2018-05-06 19:06 ansible-role-ipv6-master/.gitmodules
+-rw-rw-r-- root/root       959 2018-05-06 19:06 ansible-role-ipv6-master/.travis.yml
+-rw-rw-r-- root/root     11558 2018-05-06 19:06 ansible-role-ipv6-master/LICENSE
+-rw-rw-r-- root/root      1382 2018-05-06 19:06 ansible-role-ipv6-master/README.md
+drwxrwxr-x root/root         0 2018-05-06 19:06 ansible-role-ipv6-master/defaults/
+-rw-rw-r-- root/root       247 2018-05-06 19:06 ansible-role-ipv6-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-06 19:06 ansible-role-ipv6-master/meta/
+-rw-rw-r-- root/root       411 2018-05-06 19:06 ansible-role-ipv6-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-06 19:06 ansible-role-ipv6-master/tasks/
+-rw-rw-r-- root/root      1620 2018-05-06 19:06 ansible-role-ipv6-master/tasks/main.yml
+-rw-rw-r-- root/root       363 2018-05-06 19:06 ansible-role-ipv6-master/tasks/restart.yml
+drwxrwxr-x root/root         0 2018-05-06 19:06 ansible-role-ipv6-master/travis/

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-04-19 13:13 ansible-git-master/
+-rw-rw-r-- root/root      1480 2014-04-19 13:13 ansible-git-master/README.md
+drwxrwxr-x root/root         0 2014-04-19 13:13 ansible-git-master/meta/
+-rw-rw-r-- root/root       250 2014-04-19 13:13 ansible-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-19 13:13 ansible-git-master/tasks/
+-rw-rw-r-- root/root       819 2014-04-19 13:13 ansible-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-04-19 13:13 ansible-git-master/templates/
+drwxrwxr-x root/root         0 2014-04-19 13:13 ansible-git-master/templates/hooks/
+-rw-rw-r-- root/root        75 2014-04-19 13:13 ansible-git-master/templates/hooks/post-receive.j2
+-rw-rw-r-- root/root        73 2014-04-19 13:13 ansible-git-master/templates/hooks/pre-receive.j2
+-rw-rw-r-- root/root        85 2014-04-19 13:13 ansible-git-master/templates/hooks/update.j2

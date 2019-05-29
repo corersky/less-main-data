@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-30 05:47 ansible-role-os-shade-master/
+-rw-rw-r-- root/root       722 2018-11-30 05:47 ansible-role-os-shade-master/.travis.yml
+-rw-rw-r-- root/root     10143 2018-11-30 05:47 ansible-role-os-shade-master/LICENSE
+-rw-rw-r-- root/root       838 2018-11-30 05:47 ansible-role-os-shade-master/README.md
+drwxrwxr-x root/root         0 2018-11-30 05:47 ansible-role-os-shade-master/defaults/
+-rw-rw-r-- root/root       307 2018-11-30 05:47 ansible-role-os-shade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-30 05:47 ansible-role-os-shade-master/meta/
+-rw-rw-r-- root/root       435 2018-11-30 05:47 ansible-role-os-shade-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-30 05:47 ansible-role-os-shade-master/tasks/
+-rw-rw-r-- root/root      1648 2018-11-30 05:47 ansible-role-os-shade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-30 05:47 ansible-role-os-shade-master/tests/
+-rw-rw-r-- root/root        86 2018-11-30 05:47 ansible-role-os-shade-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-11-30 05:47 ansible-role-os-shade-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-30 05:47 ansible-role-os-shade-master/vars/
+-rw-rw-r-- root/root       161 2018-11-30 05:47 ansible-role-os-shade-master/vars/Debian.yml
+-rw-rw-r-- root/root       164 2018-11-30 05:47 ansible-role-os-shade-master/vars/RedHat.yml

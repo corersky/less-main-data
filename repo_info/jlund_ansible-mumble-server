@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-02-17 22:27 ansible-mumble-server-master/
+-rw-rw-r-- root/root      1983 2014-02-17 22:27 ansible-mumble-server-master/README.md
+drwxrwxr-x root/root         0 2014-02-17 22:27 ansible-mumble-server-master/defaults/
+-rw-rw-r-- root/root      1530 2014-02-17 22:27 ansible-mumble-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-02-17 22:27 ansible-mumble-server-master/handlers/
+-rw-rw-r-- root/root        84 2014-02-17 22:27 ansible-mumble-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-02-17 22:27 ansible-mumble-server-master/meta/
+-rw-rw-r-- root/root       348 2014-02-17 22:27 ansible-mumble-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-02-17 22:27 ansible-mumble-server-master/tasks/
+-rw-rw-r-- root/root       491 2014-02-17 22:27 ansible-mumble-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-02-17 22:27 ansible-mumble-server-master/templates/
+-rw-rw-r-- root/root      7761 2014-02-17 22:27 ansible-mumble-server-master/templates/mumble-server.ini.j2

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-10 12:32 ansible-role-murmur-master/
+-rw-rw-r-- root/root      1060 2016-09-10 12:32 ansible-role-murmur-master/LICENSE
+-rw-rw-r-- root/root       589 2016-09-10 12:32 ansible-role-murmur-master/README.md
+drwxrwxr-x root/root         0 2016-09-10 12:32 ansible-role-murmur-master/defaults/
+-rw-rw-r-- root/root      1865 2016-09-10 12:32 ansible-role-murmur-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-10 12:32 ansible-role-murmur-master/handlers/
+-rw-rw-r-- root/root        85 2016-09-10 12:32 ansible-role-murmur-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-10 12:32 ansible-role-murmur-master/meta/
+-rw-rw-r-- root/root       269 2016-09-10 12:32 ansible-role-murmur-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-10 12:32 ansible-role-murmur-master/tasks/
+-rw-rw-r-- root/root       642 2016-09-10 12:32 ansible-role-murmur-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-10 12:32 ansible-role-murmur-master/templates/
+-rw-rw-r-- root/root       667 2016-09-10 12:32 ansible-role-murmur-master/templates/default.j2
+-rw-rw-r-- root/root      8893 2016-09-10 12:32 ansible-role-murmur-master/templates/mumble-server.ini.j2

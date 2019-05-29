@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-26 10:00 ovirt_storage_add-master/
+-rw-rw-r-- root/root        23 2016-05-26 10:00 ovirt_storage_add-master/.gitignore
+-rw-rw-r-- root/root       903 2016-05-26 10:00 ovirt_storage_add-master/README.md
+drwxrwxr-x root/root         0 2016-05-26 10:00 ovirt_storage_add-master/defaults/
+-rw-rw-r-- root/root      1098 2016-05-26 10:00 ovirt_storage_add-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-26 10:00 ovirt_storage_add-master/library/
+-rw-rw-r-- root/root      5702 2016-05-26 10:00 ovirt_storage_add-master/library/ovirt_storage_create.py
+drwxrwxr-x root/root         0 2016-05-26 10:00 ovirt_storage_add-master/meta/
+-rw-rw-r-- root/root       290 2016-05-26 10:00 ovirt_storage_add-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-26 10:00 ovirt_storage_add-master/tasks/
+-rw-rw-r-- root/root        33 2016-05-26 10:00 ovirt_storage_add-master/tasks/main.yml
+-rw-rw-r-- root/root       597 2016-05-26 10:00 ovirt_storage_add-master/tasks/ovirt_storage_add.yml

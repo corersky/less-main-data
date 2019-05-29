@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-05 01:00 ansible-role-kernel-ml-master/
+-rw-rw-r-- root/root       424 2018-07-05 01:00 ansible-role-kernel-ml-master/.travis.yml
+-rw-rw-r-- root/root      1121 2018-07-05 01:00 ansible-role-kernel-ml-master/LICENSE
+-rw-rw-r-- root/root       808 2018-07-05 01:00 ansible-role-kernel-ml-master/README.md
+drwxrwxr-x root/root         0 2018-07-05 01:00 ansible-role-kernel-ml-master/defaults/
+-rw-rw-r-- root/root        30 2018-07-05 01:00 ansible-role-kernel-ml-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-05 01:00 ansible-role-kernel-ml-master/files/
+-rw-rw-r-- root/root      1622 2018-07-05 01:00 ansible-role-kernel-ml-master/files/elrepo.repo
+drwxrwxr-x root/root         0 2018-07-05 01:00 ansible-role-kernel-ml-master/handlers/
+-rw-rw-r-- root/root        80 2018-07-05 01:00 ansible-role-kernel-ml-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-05 01:00 ansible-role-kernel-ml-master/meta/
+-rw-rw-r-- root/root       248 2018-07-05 01:00 ansible-role-kernel-ml-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-05 01:00 ansible-role-kernel-ml-master/tasks/
+-rw-rw-r-- root/root       833 2018-07-05 01:00 ansible-role-kernel-ml-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-05 01:00 ansible-role-kernel-ml-master/tests/
+-rw-rw-r-- root/root        11 2018-07-05 01:00 ansible-role-kernel-ml-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-07-05 01:00 ansible-role-kernel-ml-master/tests/test.yml

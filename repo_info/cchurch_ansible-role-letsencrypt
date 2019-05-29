@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root        89 2017-12-08 16:51 ansible-role-letsencrypt-master/.bumpversion.cfg
+-rw-rw-r-- root/root        13 2017-12-08 16:51 ansible-role-letsencrypt-master/.gitignore
+-rw-rw-r-- root/root       437 2017-12-08 16:51 ansible-role-letsencrypt-master/.travis.yml
+-rw-rw-r-- root/root       637 2017-12-08 16:51 ansible-role-letsencrypt-master/Makefile
+-rw-rw-r-- root/root      5714 2017-12-08 16:51 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/defaults/
+-rw-rw-r-- root/root       790 2017-12-08 16:51 ansible-role-letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/handlers/
+-rw-rw-r-- root/root       410 2017-12-08 16:51 ansible-role-letsencrypt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root       686 2017-12-08 16:51 ansible-role-letsencrypt-master/meta/main.yml
+-rw-rw-r-- root/root        28 2017-12-08 16:51 ansible-role-letsencrypt-master/requirements.in
+-rw-rw-r-- root/root       963 2017-12-08 16:51 ansible-role-letsencrypt-master/requirements.txt
+drwxrwxr-x root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root      2449 2017-12-08 16:51 ansible-role-letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/tests/
+-rw-rw-r-- root/root      1360 2017-12-08 16:51 ansible-role-letsencrypt-master/tests/example.yml
+drwxrwxr-x root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/tests/group_vars/
+-rw-rw-r-- root/root        31 2017-12-08 16:51 ansible-role-letsencrypt-master/tests/group_vars/local.yml
+-rw-rw-r-- root/root        18 2017-12-08 16:51 ansible-role-letsencrypt-master/tests/inventory
+drwxrwxr-x root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/tests/roles/
+lrwxrwxrwx root/root         0 2017-12-08 16:51 ansible-role-letsencrypt-master/tests/roles/cchurch.letsencrypt -> ../..
+-rw-rw-r-- root/root       356 2017-12-08 16:51 ansible-role-letsencrypt-master/tox.ini

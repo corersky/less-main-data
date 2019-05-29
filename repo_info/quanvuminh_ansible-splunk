@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-01 23:56 ansible-splunk-master/
+-rw-rw-r-- root/root     35147 2018-09-01 23:56 ansible-splunk-master/LICENSE
+-rw-rw-r-- root/root      1013 2018-09-01 23:56 ansible-splunk-master/README.md
+drwxrwxr-x root/root         0 2018-09-01 23:56 ansible-splunk-master/defaults/
+-rw-rw-r-- root/root       168 2018-09-01 23:56 ansible-splunk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-01 23:56 ansible-splunk-master/meta/
+-rw-rw-r-- root/root       311 2018-09-01 23:56 ansible-splunk-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-01 23:56 ansible-splunk-master/tasks/
+-rw-rw-r-- root/root        10 2018-09-01 23:56 ansible-splunk-master/tasks/darwin.yml
+-rw-rw-r-- root/root       968 2018-09-01 23:56 ansible-splunk-master/tasks/linux.yml
+-rw-rw-r-- root/root       717 2018-09-01 23:56 ansible-splunk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-01 23:56 ansible-splunk-master/tests/
+-rw-rw-r-- root/root        10 2018-09-01 23:56 ansible-splunk-master/tests/inventory
+-rw-rw-r-- root/root       114 2018-09-01 23:56 ansible-splunk-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-30 03:35 ansible-role-systemd-master/
+-rw-rw-r-- root/root       360 2017-11-30 03:35 ansible-role-systemd-master/README.md
+drwxrwxr-x root/root         0 2017-11-30 03:35 ansible-role-systemd-master/defaults/
+-rw-rw-r-- root/root      2318 2017-11-30 03:35 ansible-role-systemd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-30 03:35 ansible-role-systemd-master/handlers/
+-rw-rw-r-- root/root       734 2017-11-30 03:35 ansible-role-systemd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-30 03:35 ansible-role-systemd-master/meta/
+-rw-rw-r-- root/root       267 2017-11-30 03:35 ansible-role-systemd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-30 03:35 ansible-role-systemd-master/tasks/
+-rw-rw-r-- root/root      2090 2017-11-30 03:35 ansible-role-systemd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-30 03:35 ansible-role-systemd-master/templates/
+-rw-rw-r-- root/root       367 2017-11-30 03:35 ansible-role-systemd-master/templates/coredump.conf.j2
+-rw-rw-r-- root/root      2218 2017-11-30 03:35 ansible-role-systemd-master/templates/journald.conf.j2
+-rw-rw-r-- root/root       555 2017-11-30 03:35 ansible-role-systemd-master/templates/networkd_profile.j2
+-rw-rw-r-- root/root       493 2017-11-30 03:35 ansible-role-systemd-master/templates/timesyncd.conf.j2

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-10-22 08:27 ansible-role-restic-master/
+-rw-rw-r-- root/root      1434 2018-10-22 08:27 ansible-role-restic-master/README.md
+drwxrwxr-x root/root         0 2018-10-22 08:27 ansible-role-restic-master/defaults/
+-rw-rw-r-- root/root       492 2018-10-22 08:27 ansible-role-restic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-22 08:27 ansible-role-restic-master/meta/
+-rw-rw-r-- root/root       236 2018-10-22 08:27 ansible-role-restic-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-22 08:27 ansible-role-restic-master/tasks/
+-rw-rw-r-- root/root      1762 2018-10-22 08:27 ansible-role-restic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-22 08:27 ansible-role-restic-master/templates/
+-rw-rw-r-- root/root       141 2018-10-22 08:27 ansible-role-restic-master/templates/restic_backup.sh.j2

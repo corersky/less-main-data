@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-02-17 09:20 ansible-role-backupmanager-master/
+-rw-rw-r-- root/root      3972 2016-02-17 09:20 ansible-role-backupmanager-master/README.md
+drwxrwxr-x root/root         0 2016-02-17 09:20 ansible-role-backupmanager-master/defaults/
+-rw-rw-r-- root/root      1261 2016-02-17 09:20 ansible-role-backupmanager-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-17 09:20 ansible-role-backupmanager-master/handlers/
+-rw-rw-r-- root/root        39 2016-02-17 09:20 ansible-role-backupmanager-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-17 09:20 ansible-role-backupmanager-master/meta/
+-rw-rw-r-- root/root       689 2016-02-17 09:20 ansible-role-backupmanager-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-17 09:20 ansible-role-backupmanager-master/tasks/
+-rw-rw-r-- root/root      1604 2016-02-17 09:20 ansible-role-backupmanager-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-17 09:20 ansible-role-backupmanager-master/templates/
+-rwxrwxr-x root/root     19310 2016-02-17 09:20 ansible-role-backupmanager-master/templates/backup-manager.conf.j2
+drwxrwxr-x root/root         0 2016-02-17 09:20 ansible-role-backupmanager-master/vars/
+-rw-rw-r-- root/root        35 2016-02-17 09:20 ansible-role-backupmanager-master/vars/main.yml

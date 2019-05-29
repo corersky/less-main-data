@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-11 05:03 ansible-install_docker-master/
+-rw-rw-r-- root/root       540 2017-05-11 05:03 ansible-install_docker-master/.travis.yml
+-rw-rw-r-- root/root      1062 2017-05-11 05:03 ansible-install_docker-master/LICENSE
+-rw-rw-r-- root/root      1414 2017-05-11 05:03 ansible-install_docker-master/README.md
+drwxrwxr-x root/root         0 2017-05-11 05:03 ansible-install_docker-master/defaults/
+-rw-rw-r-- root/root       338 2017-05-11 05:03 ansible-install_docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-11 05:03 ansible-install_docker-master/meta/
+-rw-rw-r-- root/root       336 2017-05-11 05:03 ansible-install_docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-11 05:03 ansible-install_docker-master/tasks/
+-rw-rw-r-- root/root      1976 2017-05-11 05:03 ansible-install_docker-master/tasks/docker_config.yml
+-rw-rw-r-- root/root       525 2017-05-11 05:03 ansible-install_docker-master/tasks/docker_install.yml
+-rw-rw-r-- root/root       529 2017-05-11 05:03 ansible-install_docker-master/tasks/docker_py_install.yml
+-rw-rw-r-- root/root        96 2017-05-11 05:03 ansible-install_docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-11 05:03 ansible-install_docker-master/tests/
+-rw-rw-r-- root/root         9 2017-05-11 05:03 ansible-install_docker-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-05-11 05:03 ansible-install_docker-master/tests/test.yml

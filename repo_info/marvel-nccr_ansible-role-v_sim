@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-25 15:11 ansible-role-v_sim-master/
+-rw-rw-r-- root/root       248 2019-03-25 15:11 ansible-role-v_sim-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       908 2019-03-25 15:11 ansible-role-v_sim-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-03-25 15:11 ansible-role-v_sim-master/LICENSE
+-rw-rw-r-- root/root       648 2019-03-25 15:11 ansible-role-v_sim-master/README.md
+drwxrwxr-x root/root         0 2019-03-25 15:11 ansible-role-v_sim-master/defaults/
+-rw-rw-r-- root/root       617 2019-03-25 15:11 ansible-role-v_sim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-25 15:11 ansible-role-v_sim-master/meta/
+-rw-rw-r-- root/root       367 2019-03-25 15:11 ansible-role-v_sim-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 15:11 ansible-role-v_sim-master/molecule/
+drwxrwxr-x root/root         0 2019-03-25 15:11 ansible-role-v_sim-master/molecule/default/
+-rw-rw-r-- root/root       570 2019-03-25 15:11 ansible-role-v_sim-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       207 2019-03-25 15:11 ansible-role-v_sim-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-03-25 15:11 ansible-role-v_sim-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-03-25 15:11 ansible-role-v_sim-master/tasks/
+-rw-rw-r-- root/root      2346 2019-03-25 15:11 ansible-role-v_sim-master/tasks/main.yml

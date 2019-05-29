@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-11-30 07:27 ansible-backup-gem-master/
+-rw-rw-r-- root/root      1328 2015-11-30 07:27 ansible-backup-gem-master/README.md
+drwxrwxr-x root/root         0 2015-11-30 07:27 ansible-backup-gem-master/defaults/
+-rw-rw-r-- root/root        49 2015-11-30 07:27 ansible-backup-gem-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-30 07:27 ansible-backup-gem-master/meta/
+-rw-rw-r-- root/root      2373 2015-11-30 07:27 ansible-backup-gem-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-30 07:27 ansible-backup-gem-master/tasks/
+-rw-rw-r-- root/root      1089 2015-11-30 07:27 ansible-backup-gem-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-30 07:27 ansible-backup-gem-master/templates/
+-rw-rw-r-- root/root       193 2015-11-30 07:27 ansible-backup-gem-master/templates/schedule.rb.j2

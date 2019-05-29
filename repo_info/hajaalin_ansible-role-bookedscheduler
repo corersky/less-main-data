@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-14 07:27 ansible-role-bookedscheduler-master/
+-rw-rw-r-- root/root      1036 2018-02-14 07:27 ansible-role-bookedscheduler-master/README.md
+drwxrwxr-x root/root         0 2018-02-14 07:27 ansible-role-bookedscheduler-master/defaults/
+-rw-rw-r-- root/root      5441 2018-02-14 07:27 ansible-role-bookedscheduler-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-14 07:27 ansible-role-bookedscheduler-master/handlers/
+-rw-rw-r-- root/root        48 2018-02-14 07:27 ansible-role-bookedscheduler-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-14 07:27 ansible-role-bookedscheduler-master/meta/
+-rw-rw-r-- root/root       377 2018-02-14 07:27 ansible-role-bookedscheduler-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-14 07:27 ansible-role-bookedscheduler-master/tasks/
+-rw-rw-r-- root/root      2307 2018-02-14 07:27 ansible-role-bookedscheduler-master/tasks/main.yml
+-rw-rw-r-- root/root       145 2018-02-14 07:27 ansible-role-bookedscheduler-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       144 2018-02-14 07:27 ansible-role-bookedscheduler-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2018-02-14 07:27 ansible-role-bookedscheduler-master/templates/
+-rw-rw-r-- root/root     15850 2018-02-14 07:27 ansible-role-bookedscheduler-master/templates/config.php
+-rw-rw-r-- root/root      1026 2018-02-14 07:27 ansible-role-bookedscheduler-master/templates/log4php.config.xml
+drwxrwxr-x root/root         0 2018-02-14 07:27 ansible-role-bookedscheduler-master/vars/
+-rw-rw-r-- root/root        42 2018-02-14 07:27 ansible-role-bookedscheduler-master/vars/main.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-05-03 11:00 ansible-role-selinux-utils-master/
+-rw-rw-r-- root/root       123 2017-05-03 11:00 ansible-role-selinux-utils-master/.gitignore
+-rw-rw-r-- root/root      1079 2017-05-03 11:00 ansible-role-selinux-utils-master/LICENSE
+-rw-rw-r-- root/root       317 2017-05-03 11:00 ansible-role-selinux-utils-master/README.md
+drwxrwxr-x root/root         0 2017-05-03 11:00 ansible-role-selinux-utils-master/meta/
+-rw-rw-r-- root/root       248 2017-05-03 11:00 ansible-role-selinux-utils-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-03 11:00 ansible-role-selinux-utils-master/tasks/
+-rw-rw-r-- root/root       238 2017-05-03 11:00 ansible-role-selinux-utils-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-03 11:00 ansible-role-selinux-utils-master/tests/
+-rw-rw-r-- root/root        10 2017-05-03 11:00 ansible-role-selinux-utils-master/tests/inventory
+-rw-rw-r-- root/root        60 2017-05-03 11:00 ansible-role-selinux-utils-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-role-drupal-console-master/
+-rw-rw-r-- root/root        22 2018-01-18 06:02 ansible-role-drupal-console-master/.gitignore
+-rw-rw-r-- root/root       699 2018-01-18 06:02 ansible-role-drupal-console-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-01-18 06:02 ansible-role-drupal-console-master/LICENSE
+-rw-rw-r-- root/root      1528 2018-01-18 06:02 ansible-role-drupal-console-master/README.md
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-role-drupal-console-master/defaults/
+-rw-rw-r-- root/root       116 2018-01-18 06:02 ansible-role-drupal-console-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-role-drupal-console-master/meta/
+-rw-rw-r-- root/root       655 2018-01-18 06:02 ansible-role-drupal-console-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-role-drupal-console-master/tasks/
+-rw-rw-r-- root/root       507 2018-01-18 06:02 ansible-role-drupal-console-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-18 06:02 ansible-role-drupal-console-master/tests/
+-rw-rw-r-- root/root       632 2018-01-18 06:02 ansible-role-drupal-console-master/tests/README.md
+-rw-rw-r-- root/root        27 2018-01-18 06:02 ansible-role-drupal-console-master/tests/requirements.yml
+-rw-rw-r-- root/root       311 2018-01-18 06:02 ansible-role-drupal-console-master/tests/test-self-update.yml
+-rw-rw-r-- root/root       273 2018-01-18 06:02 ansible-role-drupal-console-master/tests/test.yml

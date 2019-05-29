@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-23 06:09 ansible-openshift-gogs-master/
+-rw-rw-r-- root/root         8 2018-11-23 06:09 ansible-openshift-gogs-master/.gitignore
+-rw-rw-r-- root/root       148 2018-11-23 06:09 ansible-openshift-gogs-master/.travis.yml
+-rw-rw-r-- root/root      3533 2018-11-23 06:09 ansible-openshift-gogs-master/README.md
+drwxrwxr-x root/root         0 2018-11-23 06:09 ansible-openshift-gogs-master/defaults/
+-rw-rw-r-- root/root       600 2018-11-23 06:09 ansible-openshift-gogs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:09 ansible-openshift-gogs-master/meta/
+-rw-rw-r-- root/root       335 2018-11-23 06:09 ansible-openshift-gogs-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:09 ansible-openshift-gogs-master/tasks/
+-rw-rw-r-- root/root      1665 2018-11-23 06:09 ansible-openshift-gogs-master/tasks/create_users.yml
+-rw-rw-r-- root/root      1445 2018-11-23 06:09 ansible-openshift-gogs-master/tasks/deploy.yml
+-rw-rw-r-- root/root      1744 2018-11-23 06:09 ansible-openshift-gogs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:09 ansible-openshift-gogs-master/tests/
+-rw-rw-r-- root/root         9 2018-11-23 06:09 ansible-openshift-gogs-master/tests/inventory
+-rw-rw-r-- root/root        56 2018-11-23 06:09 ansible-openshift-gogs-master/tests/test.yml

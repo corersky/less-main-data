@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-25 23:03 wireguard-ansible-master/
+-rw-rw-r-- root/root     35147 2018-05-25 23:03 wireguard-ansible-master/LICENSE
+-rw-rw-r-- root/root      1211 2018-05-25 23:03 wireguard-ansible-master/README.md
+-rw-rw-r-- root/root        28 2018-05-25 23:03 wireguard-ansible-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-05-25 23:03 wireguard-ansible-master/files/
+-rw-rw-r-- root/root        53 2018-05-25 23:03 wireguard-ansible-master/files/limit-unstable
+-rw-rw-r-- root/root       302 2018-05-25 23:03 wireguard-ansible-master/hosts_inventory
+drwxrwxr-x root/root         0 2018-05-25 23:03 wireguard-ansible-master/meta/
+-rw-rw-r-- root/root       388 2018-05-25 23:03 wireguard-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-25 23:03 wireguard-ansible-master/tasks/
+-rw-rw-r-- root/root      5068 2018-05-25 23:03 wireguard-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-25 23:03 wireguard-ansible-master/templates/
+-rw-rw-r-- root/root       141 2018-05-25 23:03 wireguard-ansible-master/templates/wireguard.conf.j2
+-rw-rw-r-- root/root       151 2018-05-25 23:03 wireguard-ansible-master/templates/wireguard.xml.j2
+drwxrwxr-x root/root         0 2018-05-25 23:03 wireguard-ansible-master/vars/
+-rw-rw-r-- root/root       279 2018-05-25 23:03 wireguard-ansible-master/vars/main.yml
+-rw-rw-r-- root/root       142 2018-05-25 23:03 wireguard-ansible-master/wireguard.yml

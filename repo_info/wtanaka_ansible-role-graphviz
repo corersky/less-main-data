@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-31 10:54 ansible-role-graphviz-master/
+-rw-rw-r-- root/root         3 2019-03-31 10:54 ansible-role-graphviz-master/.gitignore
+-rw-rw-r-- root/root      2807 2019-03-31 10:54 ansible-role-graphviz-master/.travis.yml
+-rw-rw-r-- root/root       833 2019-03-31 10:54 ansible-role-graphviz-master/README.md
+-rw-rw-r-- root/root       389 2019-03-31 10:54 ansible-role-graphviz-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-31 10:54 ansible-role-graphviz-master/meta/
+-rw-rw-r-- root/root      3571 2019-03-31 10:54 ansible-role-graphviz-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 10:54 ansible-role-graphviz-master/tasks/
+-rw-rw-r-- root/root      3170 2019-03-31 10:54 ansible-role-graphviz-master/tasks/compat.yml
+-rw-rw-r-- root/root       568 2019-03-31 10:54 ansible-role-graphviz-master/tasks/epel.yml
+-rw-rw-r-- root/root       318 2019-03-31 10:54 ansible-role-graphviz-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       864 2019-03-31 10:54 ansible-role-graphviz-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       189 2019-03-31 10:54 ansible-role-graphviz-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 10:54 ansible-role-graphviz-master/vars/
+-rw-rw-r-- root/root        30 2019-03-31 10:54 ansible-role-graphviz-master/vars/default.yml

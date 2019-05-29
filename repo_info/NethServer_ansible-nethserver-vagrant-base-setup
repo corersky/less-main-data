@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/
+-rw-rw-r-- root/root       427 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/README.md
+drwxrwxr-x root/root         0 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/defaults/
+-rw-rw-r-- root/root        63 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/meta/
+-rw-rw-r-- root/root       229 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/tasks/
+-rw-rw-r-- root/root      1067 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/tasks/base-configs.yml
+-rw-rw-r-- root/root       512 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/tasks/main.yml
+-rw-rw-r-- root/root       801 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/tasks/networks.yml
+-rw-rw-r-- root/root       544 2018-11-08 09:42 ansible-nethserver-vagrant-base-setup-master/tasks/static_greens.yml

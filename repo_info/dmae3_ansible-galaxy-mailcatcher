@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/
+-rw-rw-r-- root/root       798 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/README.md
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/defaults/
+-rw-rw-r-- root/root       150 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/handlers/
+-rw-rw-r-- root/root       106 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/meta/
+-rw-rw-r-- root/root       242 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/tasks/
+-rw-rw-r-- root/root       445 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/templates/
+-rw-rw-r-- root/root       282 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/templates/mailcatcher.service.j2
+drwxrwxr-x root/root         0 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/tests/
+-rw-rw-r-- root/root        71 2017-10-19 01:49 ansible-galaxy-mailcatcher-master/tests/test.yml

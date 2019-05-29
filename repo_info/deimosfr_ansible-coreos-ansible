@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-24 02:06 ansible-coreos-ansible-master/
+-rw-rw-r-- root/root     35141 2018-07-24 02:06 ansible-coreos-ansible-master/LICENSE
+-rw-rw-r-- root/root       911 2018-07-24 02:06 ansible-coreos-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-07-24 02:06 ansible-coreos-ansible-master/defaults/
+-rw-rw-r-- root/root       245 2018-07-24 02:06 ansible-coreos-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-24 02:06 ansible-coreos-ansible-master/files/
+-rw-rw-r-- root/root       624 2018-07-24 02:06 ansible-coreos-ansible-master/files/bootstrap.sh
+-rw-rw-r-- root/root   1340903 2018-07-24 02:06 ansible-coreos-ansible-master/files/get-pip.py
+-rw-rw-r-- root/root       106 2018-07-24 02:06 ansible-coreos-ansible-master/files/runner
+drwxrwxr-x root/root         0 2018-07-24 02:06 ansible-coreos-ansible-master/meta/
+-rw-rw-r-- root/root       217 2018-07-24 02:06 ansible-coreos-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-24 02:06 ansible-coreos-ansible-master/tasks/
+-rw-rw-r-- root/root       594 2018-07-24 02:06 ansible-coreos-ansible-master/tasks/ansible_prerequisites.yml
+-rw-rw-r-- root/root      1446 2018-07-24 02:06 ansible-coreos-ansible-master/tasks/deploy_ansible.yml
+-rw-rw-r-- root/root       175 2018-07-24 02:06 ansible-coreos-ansible-master/tasks/main.yml

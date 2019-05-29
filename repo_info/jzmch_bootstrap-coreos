@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-24 02:39 bootstrap-coreos-master/
+-rw-rw-r-- root/root        28 2016-08-24 02:39 bootstrap-coreos-master/.gitignore
+-rw-rw-r-- root/root       539 2016-08-24 02:39 bootstrap-coreos-master/.travis.yml
+-rw-rw-r-- root/root      2395 2016-08-24 02:39 bootstrap-coreos-master/README.md
+drwxrwxr-x root/root         0 2016-08-24 02:39 bootstrap-coreos-master/defaults/
+-rw-rw-r-- root/root       104 2016-08-24 02:39 bootstrap-coreos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-24 02:39 bootstrap-coreos-master/files/
+-rw-rw-r-- root/root       282 2016-08-24 02:39 bootstrap-coreos-master/files/install_python_binary.sh
+drwxrwxr-x root/root         0 2016-08-24 02:39 bootstrap-coreos-master/meta/
+-rw-rw-r-- root/root       209 2016-08-24 02:39 bootstrap-coreos-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-24 02:39 bootstrap-coreos-master/tasks/
+-rw-rw-r-- root/root      1697 2016-08-24 02:39 bootstrap-coreos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-24 02:39 bootstrap-coreos-master/tests/
+-rw-rw-r-- root/root      3325 2016-08-24 02:39 bootstrap-coreos-master/tests/Vagrantfile
+-rw-rw-r-- root/root        73 2016-08-24 02:39 bootstrap-coreos-master/tests/ansible.cfg
+-rw-rw-r-- root/root       238 2016-08-24 02:39 bootstrap-coreos-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-08-24 02:39 bootstrap-coreos-master/tests/test.yml

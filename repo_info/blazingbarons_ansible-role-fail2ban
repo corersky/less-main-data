@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-25 01:26 ansible-role-fail2ban-master/
+-rw-rw-r-- root/root        10 2017-04-25 01:26 ansible-role-fail2ban-master/.gitignore
+-rw-rw-r-- root/root       539 2017-04-25 01:26 ansible-role-fail2ban-master/.travis.yml
+-rw-rw-r-- root/root     10242 2017-04-25 01:26 ansible-role-fail2ban-master/LICENSE
+-rw-rw-r-- root/root       282 2017-04-25 01:26 ansible-role-fail2ban-master/README.md
+drwxrwxr-x root/root         0 2017-04-25 01:26 ansible-role-fail2ban-master/files/
+-rw-rw-r-- root/root      1525 2017-04-25 01:26 ansible-role-fail2ban-master/files/fail2ban.conf
+-rw-rw-r-- root/root     13806 2017-04-25 01:26 ansible-role-fail2ban-master/files/jail.conf
+drwxrwxr-x root/root         0 2017-04-25 01:26 ansible-role-fail2ban-master/handlers/
+-rw-rw-r-- root/root        70 2017-04-25 01:26 ansible-role-fail2ban-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-25 01:26 ansible-role-fail2ban-master/meta/
+-rw-rw-r-- root/root       337 2017-04-25 01:26 ansible-role-fail2ban-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-25 01:26 ansible-role-fail2ban-master/tasks/
+-rw-rw-r-- root/root       533 2017-04-25 01:26 ansible-role-fail2ban-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-25 01:26 ansible-role-fail2ban-master/tests/
+-rw-rw-r-- root/root         9 2017-04-25 01:26 ansible-role-fail2ban-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-04-25 01:26 ansible-role-fail2ban-master/tests/test.yml

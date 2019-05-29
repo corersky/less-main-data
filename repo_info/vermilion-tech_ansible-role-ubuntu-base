@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-04 07:46 ansible-role-ubuntu-base-master/
+-rw-rw-r-- root/root        16 2019-04-04 07:46 ansible-role-ubuntu-base-master/.gitignore
+-rw-rw-r-- root/root      1788 2019-04-04 07:46 ansible-role-ubuntu-base-master/Jenkinsfile
+-rw-rw-r-- root/root      1133 2019-04-04 07:46 ansible-role-ubuntu-base-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 07:46 ansible-role-ubuntu-base-master/defaults/
+-rw-rw-r-- root/root       152 2019-04-04 07:46 ansible-role-ubuntu-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 07:46 ansible-role-ubuntu-base-master/meta/
+-rw-rw-r-- root/root      2010 2019-04-04 07:46 ansible-role-ubuntu-base-master/meta/main.yml
+-rw-rw-r-- root/root       142 2019-04-04 07:46 ansible-role-ubuntu-base-master/playbook.yml
+drwxrwxr-x root/root         0 2019-04-04 07:46 ansible-role-ubuntu-base-master/tasks/
+-rw-rw-r-- root/root       339 2019-04-04 07:46 ansible-role-ubuntu-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 07:46 ansible-role-ubuntu-base-master/vars/
+-rw-rw-r-- root/root       167 2019-04-04 07:46 ansible-role-ubuntu-base-master/vars/main.yml

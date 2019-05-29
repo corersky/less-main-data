@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-10 11:05 ansible-role-confluent-kafka-master/
+-rw-rw-r-- root/root      1067 2018-05-10 11:05 ansible-role-confluent-kafka-master/LICENSE
+-rw-rw-r-- root/root       869 2018-05-10 11:05 ansible-role-confluent-kafka-master/README.md
+drwxrwxr-x root/root         0 2018-05-10 11:05 ansible-role-confluent-kafka-master/meta/
+-rw-rw-r-- root/root      1896 2018-05-10 11:05 ansible-role-confluent-kafka-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-10 11:05 ansible-role-confluent-kafka-master/tasks/
+-rw-rw-r-- root/root       763 2018-05-10 11:05 ansible-role-confluent-kafka-master/tasks/kafka_install.yml
+-rw-rw-r-- root/root       298 2018-05-10 11:05 ansible-role-confluent-kafka-master/tasks/kafka_topics.yml
+-rw-rw-r-- root/root        61 2018-05-10 11:05 ansible-role-confluent-kafka-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-10 11:05 ansible-role-confluent-kafka-master/templates/
+-rw-rw-r-- root/root       393 2018-05-10 11:05 ansible-role-confluent-kafka-master/templates/confluent-kafka.service.j2
+-rw-rw-r-- root/root       363 2018-05-10 11:05 ansible-role-confluent-kafka-master/templates/confluent.repo.j2
+drwxrwxr-x root/root         0 2018-05-10 11:05 ansible-role-confluent-kafka-master/tests/
+-rw-rw-r-- root/root        11 2018-05-10 11:05 ansible-role-confluent-kafka-master/tests/inventory
+-rw-rw-r-- root/root        72 2018-05-10 11:05 ansible-role-confluent-kafka-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-10 11:05 ansible-role-confluent-kafka-master/vars/
+-rw-rw-r-- root/root       496 2018-05-10 11:05 ansible-role-confluent-kafka-master/vars/main.yml

@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/
+-rw-rw-r-- root/root       766 2016-03-09 21:22 ansible-role-anaconda-master/README.md
+drwxrwxr-x root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/defaults/
+-rw-rw-r-- root/root       264 2016-03-09 21:22 ansible-role-anaconda-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/examples/
+-rw-rw-r-- root/root         9 2016-03-09 21:22 ansible-role-anaconda-master/examples/.gitignore
+-rw-rw-r-- root/root       279 2016-03-09 21:22 ansible-role-anaconda-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/examples/roles/rdi2sys.anaconda -> ../../
+-rw-rw-r-- root/root        61 2016-03-09 21:22 ansible-role-anaconda-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/handlers/
+-rw-rw-r-- root/root       157 2016-03-09 21:22 ansible-role-anaconda-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/meta/
+-rw-rw-r-- root/root       234 2016-03-09 21:22 ansible-role-anaconda-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/tasks/
+-rw-rw-r-- root/root       496 2016-03-09 21:22 ansible-role-anaconda-master/tasks/install.yml
+-rw-rw-r-- root/root       341 2016-03-09 21:22 ansible-role-anaconda-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-09 21:22 ansible-role-anaconda-master/vars/
+-rw-rw-r-- root/root        29 2016-03-09 21:22 ansible-role-anaconda-master/vars/main.yml

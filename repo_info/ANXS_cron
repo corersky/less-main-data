@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-03-30 21:22 cron-master/
+-rw-rw-r-- root/root        83 2015-03-30 21:22 cron-master/.gitignore
+-rw-rw-r-- root/root       546 2015-03-30 21:22 cron-master/.travis.yml
+-rw-rw-r-- root/root      1079 2015-03-30 21:22 cron-master/LICENSE
+-rw-rw-r-- root/root       675 2015-03-30 21:22 cron-master/README.md
+-rw-rw-r-- root/root       443 2015-03-30 21:22 cron-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-03-30 21:22 cron-master/handlers/
+-rw-rw-r-- root/root       100 2015-03-30 21:22 cron-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-30 21:22 cron-master/meta/
+-rw-rw-r-- root/root       289 2015-03-30 21:22 cron-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-30 21:22 cron-master/tasks/
+-rw-rw-r-- root/root       216 2015-03-30 21:22 cron-master/tasks/main.yml
+-rw-rw-r-- root/root       101 2015-03-30 21:22 cron-master/test.yml
+-rw-rw-r-- root/root        68 2015-03-30 21:22 cron-master/vagrant-inventory

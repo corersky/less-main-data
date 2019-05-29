@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-upgrade-master/
+-rw-rw-r-- root/root        25 2017-12-20 03:44 ansible-role-package-upgrade-master/.gitattributes
+-rw-rw-r-- root/root         5 2017-12-20 03:44 ansible-role-package-upgrade-master/.gitignore
+-rw-rw-r-- root/root       539 2017-12-20 03:44 ansible-role-package-upgrade-master/.travis.yml
+-rw-rw-r-- root/root       265 2017-12-20 03:44 ansible-role-package-upgrade-master/CHANGELOG.md
+-rw-rw-r-- root/root      1080 2017-12-20 03:44 ansible-role-package-upgrade-master/LICENSE
+-rw-rw-r-- root/root       741 2017-12-20 03:44 ansible-role-package-upgrade-master/README.md
+-rw-rw-r-- root/root         5 2017-12-20 03:44 ansible-role-package-upgrade-master/VERSION
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-upgrade-master/defaults/
+-rw-rw-r-- root/root       231 2017-12-20 03:44 ansible-role-package-upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-upgrade-master/meta/
+-rw-rw-r-- root/root       278 2017-12-20 03:44 ansible-role-package-upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-upgrade-master/tasks/
+-rw-rw-r-- root/root       374 2017-12-20 03:44 ansible-role-package-upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-upgrade-master/tests/
+-rw-rw-r-- root/root         9 2017-12-20 03:44 ansible-role-package-upgrade-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-12-20 03:44 ansible-role-package-upgrade-master/tests/test.yml

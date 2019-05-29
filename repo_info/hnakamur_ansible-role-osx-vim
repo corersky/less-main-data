@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2014-10-18 01:06 ansible-role-osx-vim-master/
+-rw-rw-r-- root/root       443 2014-10-18 01:06 ansible-role-osx-vim-master/README.md
+drwxrwxr-x root/root         0 2014-10-18 01:06 ansible-role-osx-vim-master/meta/
+-rw-rw-r-- root/root       274 2014-10-18 01:06 ansible-role-osx-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-18 01:06 ansible-role-osx-vim-master/tasks/
+-rw-rw-r-- root/root       396 2014-10-18 01:06 ansible-role-osx-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-18 01:06 ansible-role-osx-vim-master/templates/
+-rw-rw-r-- root/root       215 2014-10-18 01:06 ansible-role-osx-vim-master/templates/vim.zsh.j2
+-rw-rw-r-- root/root      1066 2014-10-18 01:06 ansible-role-osx-vim-master/templates/vimrc.j2

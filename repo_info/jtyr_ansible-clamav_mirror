@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-12 05:16 ansible-clamav_mirror-master/
+-rw-rw-r-- root/root         0 2017-05-12 05:16 ansible-clamav_mirror-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-05-12 05:16 ansible-clamav_mirror-master/LICENSE
+-rw-rw-r-- root/root      3446 2017-05-12 05:16 ansible-clamav_mirror-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 05:16 ansible-clamav_mirror-master/defaults/
+-rw-rw-r-- root/root      1878 2017-05-12 05:16 ansible-clamav_mirror-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:16 ansible-clamav_mirror-master/files/
+-rwxrwxr-x root/root     13220 2017-05-12 05:16 ansible-clamav_mirror-master/files/clamavmirror.py
+drwxrwxr-x root/root         0 2017-05-12 05:16 ansible-clamav_mirror-master/meta/
+-rw-rw-r-- root/root       285 2017-05-12 05:16 ansible-clamav_mirror-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 05:16 ansible-clamav_mirror-master/tasks/
+-rw-rw-r-- root/root      2624 2017-05-12 05:16 ansible-clamav_mirror-master/tasks/main.yaml

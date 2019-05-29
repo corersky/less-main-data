@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-31 23:57 ansible-firewall-master/
+-rw-rw-r-- root/root      1074 2017-07-31 23:57 ansible-firewall-master/LICENSE
+-rw-rw-r-- root/root       573 2017-07-31 23:57 ansible-firewall-master/README.md
+drwxrwxr-x root/root         0 2017-07-31 23:57 ansible-firewall-master/defaults/
+-rw-rw-r-- root/root        22 2017-07-31 23:57 ansible-firewall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-31 23:57 ansible-firewall-master/handlers/
+-rw-rw-r-- root/root        33 2017-07-31 23:57 ansible-firewall-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-31 23:57 ansible-firewall-master/library/
+-rw-rw-r-- root/root      4433 2017-07-31 23:57 ansible-firewall-master/library/firewall.py
+drwxrwxr-x root/root         0 2017-07-31 23:57 ansible-firewall-master/meta/
+-rw-rw-r-- root/root       359 2017-07-31 23:57 ansible-firewall-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-31 23:57 ansible-firewall-master/tasks/
+-rw-rw-r-- root/root       939 2017-07-31 23:57 ansible-firewall-master/tasks/centos.yml
+-rw-rw-r-- root/root       530 2017-07-31 23:57 ansible-firewall-master/tasks/debian.yml
+-rw-rw-r-- root/root       841 2017-07-31 23:57 ansible-firewall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-31 23:57 ansible-firewall-master/templates/
+-rw-rw-r-- root/root       301 2017-07-31 23:57 ansible-firewall-master/templates/ip6tables.j2

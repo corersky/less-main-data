@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2017-04-12 08:56 ansible-spark-master/
+-rw-rw-r-- root/root        37 2017-04-12 08:56 ansible-spark-master/.gitignore
+-rw-rw-r-- root/root      1020 2017-04-12 08:56 ansible-spark-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2017-04-12 08:56 ansible-spark-master/LICENSE
+-rw-rw-r-- root/root       775 2017-04-12 08:56 ansible-spark-master/README.md
+drwxrwxr-x root/root         0 2017-04-12 08:56 ansible-spark-master/defaults/
+-rw-rw-r-- root/root       791 2017-04-12 08:56 ansible-spark-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-12 08:56 ansible-spark-master/examples/
+-rw-rw-r-- root/root       731 2017-04-12 08:56 ansible-spark-master/examples/Vagrantfile
+-rw-rw-r-- root/root        37 2017-04-12 08:56 ansible-spark-master/examples/roles.yml
+drwxrwxr-x root/root         0 2017-04-12 08:56 ansible-spark-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-04-12 08:56 ansible-spark-master/examples/roles/azavea.spark -> ../../
+-rw-rw-r-- root/root       333 2017-04-12 08:56 ansible-spark-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-04-12 08:56 ansible-spark-master/meta/
+-rw-rw-r-- root/root       307 2017-04-12 08:56 ansible-spark-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-12 08:56 ansible-spark-master/tasks/
+-rw-rw-r-- root/root      2596 2017-04-12 08:56 ansible-spark-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-12 08:56 ansible-spark-master/templates/
+-rw-rw-r-- root/root       604 2017-04-12 08:56 ansible-spark-master/templates/spark-defaults.conf.j2
+-rw-rw-r-- root/root      3567 2017-04-12 08:56 ansible-spark-master/templates/spark-env.sh.j2
+-rw-rw-r-- root/root        66 2017-04-12 08:56 ansible-spark-master/templates/spark-shim.j2

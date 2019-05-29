@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-29 23:03 ansible-role-elasticsearch-master/
+-rw-rw-r-- root/root       123 2018-08-29 23:03 ansible-role-elasticsearch-master/.gitignore
+-rw-rw-r-- root/root       293 2018-08-29 23:03 ansible-role-elasticsearch-master/CHANGELOG.md
+-rw-rw-r-- root/root      1079 2018-08-29 23:03 ansible-role-elasticsearch-master/LICENSE
+-rw-rw-r-- root/root      1018 2018-08-29 23:03 ansible-role-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2018-08-29 23:03 ansible-role-elasticsearch-master/defaults/
+-rw-rw-r-- root/root       668 2018-08-29 23:03 ansible-role-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-29 23:03 ansible-role-elasticsearch-master/meta/
+-rw-rw-r-- root/root       261 2018-08-29 23:03 ansible-role-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-29 23:03 ansible-role-elasticsearch-master/tasks/
+-rw-rw-r-- root/root      3085 2018-08-29 23:03 ansible-role-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-29 23:03 ansible-role-elasticsearch-master/templates/
+-rw-rw-r-- root/root       282 2018-08-29 23:03 ansible-role-elasticsearch-master/templates/elasticsearch.service.j2
+-rw-rw-r-- root/root       192 2018-08-29 23:03 ansible-role-elasticsearch-master/templates/elasticsearch.yml.j2
+-rw-rw-r-- root/root      1069 2018-08-29 23:03 ansible-role-elasticsearch-master/templates/jvm.options.j2
+-rw-rw-r-- root/root       270 2018-08-29 23:03 ansible-role-elasticsearch-master/templates/log4j2.properties.j2

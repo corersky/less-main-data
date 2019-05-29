@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-14 13:33 ansible-bind-master/
+-rw-rw-r-- root/root       539 2018-11-14 13:33 ansible-bind-master/.travis.yml
+-rw-rw-r-- root/root       250 2018-11-14 13:33 ansible-bind-master/README.md
+drwxrwxr-x root/root         0 2018-11-14 13:33 ansible-bind-master/defaults/
+-rw-rw-r-- root/root        29 2018-11-14 13:33 ansible-bind-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:33 ansible-bind-master/handlers/
+-rw-rw-r-- root/root        29 2018-11-14 13:33 ansible-bind-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:33 ansible-bind-master/meta/
+-rw-rw-r-- root/root       289 2018-11-14 13:33 ansible-bind-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:33 ansible-bind-master/tasks/
+-rw-rw-r-- root/root       164 2018-11-14 13:33 ansible-bind-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:33 ansible-bind-master/tests/
+-rw-rw-r-- root/root         9 2018-11-14 13:33 ansible-bind-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-11-14 13:33 ansible-bind-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-14 13:33 ansible-bind-master/vars/
+-rw-rw-r-- root/root        25 2018-11-14 13:33 ansible-bind-master/vars/main.yml

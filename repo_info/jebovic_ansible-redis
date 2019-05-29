@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-redis-master/
+-rw-rw-r-- root/root      2591 2017-01-17 04:34 ansible-redis-master/.travis.yml
+-rw-rw-r-- root/root      1075 2017-01-17 04:34 ansible-redis-master/LICENSE
+-rw-rw-r-- root/root      2060 2017-01-17 04:34 ansible-redis-master/README.md
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-redis-master/defaults/
+-rw-rw-r-- root/root       720 2017-01-17 04:34 ansible-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-redis-master/handlers/
+-rw-rw-r-- root/root        90 2017-01-17 04:34 ansible-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-redis-master/meta/
+-rw-rw-r-- root/root       357 2017-01-17 04:34 ansible-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-redis-master/tasks/
+-rw-rw-r-- root/root       470 2017-01-17 04:34 ansible-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-redis-master/templates/
+-rw-rw-r-- root/root      1035 2017-01-17 04:34 ansible-redis-master/templates/redis.conf.j2
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-redis-master/tests/
+-rw-rw-r-- root/root        10 2017-01-17 04:34 ansible-redis-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-01-17 04:34 ansible-redis-master/tests/test.yml

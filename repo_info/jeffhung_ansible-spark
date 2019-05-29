@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-06 00:27 ansible-spark-master/
+-rw-rw-r-- root/root      2057 2017-03-06 00:27 ansible-spark-master/README.md
+drwxrwxr-x root/root         0 2017-03-06 00:27 ansible-spark-master/defaults/
+-rw-rw-r-- root/root       792 2017-03-06 00:27 ansible-spark-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-06 00:27 ansible-spark-master/meta/
+-rw-rw-r-- root/root       319 2017-03-06 00:27 ansible-spark-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-06 00:27 ansible-spark-master/tasks/
+-rw-rw-r-- root/root      1385 2017-03-06 00:27 ansible-spark-master/tasks/install.yml
+-rw-rw-r-- root/root       188 2017-03-06 00:27 ansible-spark-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-06 00:27 ansible-spark-master/templates/
+-rw-rw-r-- root/root        95 2017-03-06 00:27 ansible-spark-master/templates/profile.sh.j2
+drwxrwxr-x root/root         0 2017-03-06 00:27 ansible-spark-master/vars/
+-rw-rw-r-- root/root        78 2017-03-06 00:27 ansible-spark-master/vars/main.yml

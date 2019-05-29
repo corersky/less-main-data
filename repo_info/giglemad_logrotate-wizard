@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-15 09:53 logrotate-wizard-master/
+-rw-rw-r-- root/root      1883 2019-03-15 09:53 logrotate-wizard-master/README.md
+drwxrwxr-x root/root         0 2019-03-15 09:53 logrotate-wizard-master/defaults/
+-rw-rw-r-- root/root        40 2019-03-15 09:53 logrotate-wizard-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-15 09:53 logrotate-wizard-master/handlers/
+-rw-rw-r-- root/root        40 2019-03-15 09:53 logrotate-wizard-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-15 09:53 logrotate-wizard-master/meta/
+-rw-rw-r-- root/root      2084 2019-03-15 09:53 logrotate-wizard-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-15 09:53 logrotate-wizard-master/tasks/
+-rw-rw-r-- root/root      1726 2019-03-15 09:53 logrotate-wizard-master/tasks/main.yml
+-rw-rw-r-- root/root       901 2019-03-15 09:53 logrotate-wizard-master/tasks/manage_logrotate_files_in_anacron_directories.yml
+-rw-rw-r-- root/root      1141 2019-03-15 09:53 logrotate-wizard-master/tasks/manage_logrotate_files_in_anacron_directory.yml
+drwxrwxr-x root/root         0 2019-03-15 09:53 logrotate-wizard-master/tests/
+-rw-rw-r-- root/root        11 2019-03-15 09:53 logrotate-wizard-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-03-15 09:53 logrotate-wizard-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-15 09:53 logrotate-wizard-master/vars/
+-rw-rw-r-- root/root        56 2019-03-15 09:53 logrotate-wizard-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-05-08 19:34 ansible-jenkins-master/
+-rw-rw-r-- root/root         6 2014-05-08 19:34 ansible-jenkins-master/.gitignore
+-rw-rw-r-- root/root      1078 2014-05-08 19:34 ansible-jenkins-master/LICENSE
+-rw-rw-r-- root/root       861 2014-05-08 19:34 ansible-jenkins-master/README.md
+drwxrwxr-x root/root         0 2014-05-08 19:34 ansible-jenkins-master/defaults/
+-rw-rw-r-- root/root       284 2014-05-08 19:34 ansible-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-05-08 19:34 ansible-jenkins-master/handlers/
+-rw-rw-r-- root/root         4 2014-05-08 19:34 ansible-jenkins-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-08 19:34 ansible-jenkins-master/meta/
+-rw-rw-r-- root/root      2084 2014-05-08 19:34 ansible-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-08 19:34 ansible-jenkins-master/tasks/
+-rw-rw-r-- root/root       666 2014-05-08 19:34 ansible-jenkins-master/tasks/Debian.yml
+-rw-rw-r-- root/root        63 2014-05-08 19:34 ansible-jenkins-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-08 19:34 ansible-jenkins-master/templates/
+-rw-rw-r-- root/root      2055 2014-05-08 19:34 ansible-jenkins-master/templates/jenkins.j2
+drwxrwxr-x root/root         0 2014-05-08 19:34 ansible-jenkins-master/vars/
+-rw-rw-r-- root/root         3 2014-05-08 19:34 ansible-jenkins-master/vars/main.yml

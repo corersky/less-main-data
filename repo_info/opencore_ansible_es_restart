@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-12-06 05:27 ansible_es_restart-master/
+-rw-rw-r-- root/root         5 2017-12-06 05:27 ansible_es_restart-master/.gitignore
+-rw-rw-r-- root/root      2929 2017-12-06 05:27 ansible_es_restart-master/README.md
+drwxrwxr-x root/root         0 2017-12-06 05:27 ansible_es_restart-master/defaults/
+-rw-rw-r-- root/root       423 2017-12-06 05:27 ansible_es_restart-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-06 05:27 ansible_es_restart-master/meta/
+-rw-rw-r-- root/root       452 2017-12-06 05:27 ansible_es_restart-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-06 05:27 ansible_es_restart-master/tasks/
+-rw-rw-r-- root/root       465 2017-12-06 05:27 ansible_es_restart-master/tasks/flush.yml
+-rw-rw-r-- root/root      2199 2017-12-06 05:27 ansible_es_restart-master/tasks/main.yml

@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2015-10-30 04:05 texlive-master/
+-rw-rw-r-- root/root       589 2015-10-30 04:05 texlive-master/README.md
+drwxrwxr-x root/root         0 2015-10-30 04:05 texlive-master/defaults/
+-rw-rw-r-- root/root        90 2015-10-30 04:05 texlive-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-30 04:05 texlive-master/meta/
+-rw-rw-r-- root/root       243 2015-10-30 04:05 texlive-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-30 04:05 texlive-master/tasks/
+-rw-rw-r-- root/root       310 2015-10-30 04:05 texlive-master/tasks/latexmk.yml
+-rw-rw-r-- root/root       222 2015-10-30 04:05 texlive-master/tasks/main.yml

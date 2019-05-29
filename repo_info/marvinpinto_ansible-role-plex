@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-14 15:27 ansible-role-plex-master/
+-rw-rw-r-- root/root        37 2018-10-14 15:27 ansible-role-plex-master/.gitignore
+-rw-rw-r-- root/root      1619 2018-10-14 15:27 ansible-role-plex-master/.travis.yml
+-rw-rw-r-- root/root      1079 2018-10-14 15:27 ansible-role-plex-master/LICENSE.txt
+-rw-rw-r-- root/root      1489 2018-10-14 15:27 ansible-role-plex-master/README.md
+-rw-rw-r-- root/root       773 2018-10-14 15:27 ansible-role-plex-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-10-14 15:27 ansible-role-plex-master/defaults/
+-rw-rw-r-- root/root       259 2018-10-14 15:27 ansible-role-plex-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-14 15:27 ansible-role-plex-master/handlers/
+-rw-rw-r-- root/root       117 2018-10-14 15:27 ansible-role-plex-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-14 15:27 ansible-role-plex-master/meta/
+-rw-rw-r-- root/root       280 2018-10-14 15:27 ansible-role-plex-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-14 15:27 ansible-role-plex-master/tasks/
+-rw-rw-r-- root/root       632 2018-10-14 15:27 ansible-role-plex-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-14 15:27 ansible-role-plex-master/tests/
+-rw-rw-r-- root/root         9 2018-10-14 15:27 ansible-role-plex-master/tests/inventory
+-rw-rw-r-- root/root        89 2018-10-14 15:27 ansible-role-plex-master/tests/test.yml

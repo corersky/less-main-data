@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-10 17:15 ansible-role-proxysql-master/
+-rw-rw-r-- root/root      1340 2018-03-10 17:15 ansible-role-proxysql-master/.travis.yml
+-rw-rw-r-- root/root      2126 2018-03-10 17:15 ansible-role-proxysql-master/README.md
+drwxrwxr-x root/root         0 2018-03-10 17:15 ansible-role-proxysql-master/defaults/
+-rw-rw-r-- root/root      1312 2018-03-10 17:15 ansible-role-proxysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-10 17:15 ansible-role-proxysql-master/meta/
+-rw-rw-r-- root/root       646 2018-03-10 17:15 ansible-role-proxysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-10 17:15 ansible-role-proxysql-master/tasks/
+-rw-rw-r-- root/root      2360 2018-03-10 17:15 ansible-role-proxysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-10 17:15 ansible-role-proxysql-master/templates/
+-rw-rw-r-- root/root      4182 2018-03-10 17:15 ansible-role-proxysql-master/templates/proxysql.cnf.j2
+drwxrwxr-x root/root         0 2018-03-10 17:15 ansible-role-proxysql-master/tests/
+-rw-rw-r-- root/root       394 2018-03-10 17:15 ansible-role-proxysql-master/tests/Dockerfile.ubuntu-trusty
+-rw-rw-r-- root/root       394 2018-03-10 17:15 ansible-role-proxysql-master/tests/Dockerfile.ubuntu-xenial
+-rw-rw-r-- root/root         9 2018-03-10 17:15 ansible-role-proxysql-master/tests/inventory
+-rw-rw-r-- root/root        52 2018-03-10 17:15 ansible-role-proxysql-master/tests/test.yml

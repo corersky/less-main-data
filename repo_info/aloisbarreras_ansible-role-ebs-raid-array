@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-04-19 21:19 ansible-role-ebs-raid-array-master/
+-rw-rw-r-- root/root         7 2018-04-19 21:19 ansible-role-ebs-raid-array-master/.gitignore
+-rw-rw-r-- root/root       880 2018-04-19 21:19 ansible-role-ebs-raid-array-master/README.md
+drwxrwxr-x root/root         0 2018-04-19 21:19 ansible-role-ebs-raid-array-master/defaults/
+-rw-rw-r-- root/root       169 2018-04-19 21:19 ansible-role-ebs-raid-array-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-19 21:19 ansible-role-ebs-raid-array-master/handlers/
+-rw-rw-r-- root/root        48 2018-04-19 21:19 ansible-role-ebs-raid-array-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-19 21:19 ansible-role-ebs-raid-array-master/meta/
+-rw-rw-r-- root/root       316 2018-04-19 21:19 ansible-role-ebs-raid-array-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-19 21:19 ansible-role-ebs-raid-array-master/tasks/
+-rw-rw-r-- root/root      1149 2018-04-19 21:19 ansible-role-ebs-raid-array-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-19 21:19 ansible-role-ebs-raid-array-master/tests/
+-rw-rw-r-- root/root        11 2018-04-19 21:19 ansible-role-ebs-raid-array-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-04-19 21:19 ansible-role-ebs-raid-array-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-19 21:19 ansible-role-ebs-raid-array-master/vars/
+-rw-rw-r-- root/root        44 2018-04-19 21:19 ansible-role-ebs-raid-array-master/vars/main.yml

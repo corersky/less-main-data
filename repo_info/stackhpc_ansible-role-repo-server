@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-04 10:38 ansible-role-repo-server-master/
+-rw-rw-r-- root/root     10143 2019-02-04 10:38 ansible-role-repo-server-master/LICENSE
+-rw-rw-r-- root/root      2224 2019-02-04 10:38 ansible-role-repo-server-master/README.md
+drwxrwxr-x root/root         0 2019-02-04 10:38 ansible-role-repo-server-master/defaults/
+-rw-rw-r-- root/root       273 2019-02-04 10:38 ansible-role-repo-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-04 10:38 ansible-role-repo-server-master/files/
+-rw-rw-r-- root/root       145 2019-02-04 10:38 ansible-role-repo-server-master/files/repo_server-nginx.conf
+drwxrwxr-x root/root         0 2019-02-04 10:38 ansible-role-repo-server-master/meta/
+-rw-rw-r-- root/root       347 2019-02-04 10:38 ansible-role-repo-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-04 10:38 ansible-role-repo-server-master/tasks/
+-rw-rw-r-- root/root      1294 2019-02-04 10:38 ansible-role-repo-server-master/tasks/build_repo.yml
+-rw-rw-r-- root/root        58 2019-02-04 10:38 ansible-role-repo-server-master/tasks/main.yml
+-rw-rw-r-- root/root       962 2019-02-04 10:38 ansible-role-repo-server-master/tasks/start_server.yml

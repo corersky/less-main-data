@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 21:14 ansible-hugo-master/
+-rw-rw-r-- root/root       214 2018-08-01 21:14 ansible-hugo-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:14 ansible-hugo-master/defaults/
+-rw-rw-r-- root/root        28 2018-08-01 21:14 ansible-hugo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:14 ansible-hugo-master/handlers/
+-rw-rw-r-- root/root        28 2018-08-01 21:14 ansible-hugo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:14 ansible-hugo-master/meta/
+-rw-rw-r-- root/root       215 2018-08-01 21:14 ansible-hugo-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:14 ansible-hugo-master/tasks/
+-rw-rw-r-- root/root       454 2018-08-01 21:14 ansible-hugo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:14 ansible-hugo-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:14 ansible-hugo-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-08-01 21:14 ansible-hugo-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:14 ansible-hugo-master/vars/
+-rw-rw-r-- root/root        24 2018-08-01 21:14 ansible-hugo-master/vars/main.yml

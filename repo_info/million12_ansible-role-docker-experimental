@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-19 15:51 ansible-role-docker-experimental-master/
+-rw-rw-r-- root/root       615 2016-09-19 15:51 ansible-role-docker-experimental-master/.travis.yml
+-rw-rw-r-- root/root      1066 2016-09-19 15:51 ansible-role-docker-experimental-master/LICENSE
+-rw-rw-r-- root/root      1812 2016-09-19 15:51 ansible-role-docker-experimental-master/README.md
+drwxrwxr-x root/root         0 2016-09-19 15:51 ansible-role-docker-experimental-master/defaults/
+-rw-rw-r-- root/root        41 2016-09-19 15:51 ansible-role-docker-experimental-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-19 15:51 ansible-role-docker-experimental-master/files/
+-rw-rw-r-- root/root       174 2016-09-19 15:51 ansible-role-docker-experimental-master/files/docker.repo
+-rw-rw-r-- root/root       351 2016-09-19 15:51 ansible-role-docker-experimental-master/files/docker.service
+-rw-rw-r-- root/root       197 2016-09-19 15:51 ansible-role-docker-experimental-master/files/docker.socket
+drwxrwxr-x root/root         0 2016-09-19 15:51 ansible-role-docker-experimental-master/meta/
+-rw-rw-r-- root/root       410 2016-09-19 15:51 ansible-role-docker-experimental-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-19 15:51 ansible-role-docker-experimental-master/tasks/
+-rw-rw-r-- root/root       670 2016-09-19 15:51 ansible-role-docker-experimental-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-19 15:51 ansible-role-docker-experimental-master/tests/
+-rw-rw-r-- root/root         9 2016-09-19 15:51 ansible-role-docker-experimental-master/tests/inventory
+-rw-rw-r-- root/root       117 2016-09-19 15:51 ansible-role-docker-experimental-master/tests/test.yml

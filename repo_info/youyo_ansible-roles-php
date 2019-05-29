@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2018-11-20 01:42 ansible-roles-php-master/
+-rw-rw-r-- root/root      1328 2018-11-20 01:42 ansible-roles-php-master/README.md
+drwxrwxr-x root/root         0 2018-11-20 01:42 ansible-roles-php-master/defaults/
+-rw-rw-r-- root/root       138 2018-11-20 01:42 ansible-roles-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-20 01:42 ansible-roles-php-master/handlers/
+-rw-rw-r-- root/root        43 2018-11-20 01:42 ansible-roles-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-20 01:42 ansible-roles-php-master/meta/
+-rw-rw-r-- root/root       300 2018-11-20 01:42 ansible-roles-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-20 01:42 ansible-roles-php-master/tasks/
+lrwxrwxrwx root/root         0 2018-11-20 01:42 ansible-roles-php-master/tasks/amzn.yml -> amzn2.yml
+-rw-rw-r-- root/root       931 2018-11-20 01:42 ansible-roles-php-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-20 01:42 ansible-roles-php-master/tasks/el6.yml -> amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-20 01:42 ansible-roles-php-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       468 2018-11-20 01:42 ansible-roles-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-20 01:42 ansible-roles-php-master/templates/
+-rw-rw-r-- root/root       465 2018-11-20 01:42 ansible-roles-php-master/templates/php-fpm.conf
+drwxrwxr-x root/root         0 2018-11-20 01:42 ansible-roles-php-master/vars/
+-rw-rw-r-- root/root        39 2018-11-20 01:42 ansible-roles-php-master/vars/main.yml

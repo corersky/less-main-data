@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-22 16:44 ansible-docker-pgadmin-master/
+-rw-rw-r-- root/root       458 2017-10-22 16:44 ansible-docker-pgadmin-master/README.md
+drwxrwxr-x root/root         0 2017-10-22 16:44 ansible-docker-pgadmin-master/defaults/
+-rw-rw-r-- root/root        46 2017-10-22 16:44 ansible-docker-pgadmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-22 16:44 ansible-docker-pgadmin-master/handlers/
+-rw-rw-r-- root/root        46 2017-10-22 16:44 ansible-docker-pgadmin-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-22 16:44 ansible-docker-pgadmin-master/meta/
+-rw-rw-r-- root/root       316 2017-10-22 16:44 ansible-docker-pgadmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-22 16:44 ansible-docker-pgadmin-master/tasks/
+-rw-rw-r-- root/root       331 2017-10-22 16:44 ansible-docker-pgadmin-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-22 16:44 ansible-docker-pgadmin-master/tests/
+-rw-rw-r-- root/root        11 2017-10-22 16:44 ansible-docker-pgadmin-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-10-22 16:44 ansible-docker-pgadmin-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-22 16:44 ansible-docker-pgadmin-master/vars/
+-rw-rw-r-- root/root        42 2017-10-22 16:44 ansible-docker-pgadmin-master/vars/main.yml

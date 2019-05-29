@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-07-03 23:04 deploy_user-master/
+-rw-rw-r-- root/root       573 2014-07-03 23:04 deploy_user-master/.gitignore
+-rw-rw-r-- root/root      1347 2014-07-03 23:04 deploy_user-master/README.md
+drwxrwxr-x root/root         0 2014-07-03 23:04 deploy_user-master/defaults/
+-rw-rw-r-- root/root        36 2014-07-03 23:04 deploy_user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-07-03 23:04 deploy_user-master/handlers/
+-rw-rw-r-- root/root        36 2014-07-03 23:04 deploy_user-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-07-03 23:04 deploy_user-master/meta/
+-rw-rw-r-- root/root      2102 2014-07-03 23:04 deploy_user-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-03 23:04 deploy_user-master/tasks/
+-rw-rw-r-- root/root       189 2014-07-03 23:04 deploy_user-master/tasks/main.yml
+-rw-rw-r-- root/root        98 2014-07-03 23:04 deploy_user-master/tasks/remove.yml
+drwxrwxr-x root/root         0 2014-07-03 23:04 deploy_user-master/vars/
+-rw-rw-r-- root/root        32 2014-07-03 23:04 deploy_user-master/vars/main.yml

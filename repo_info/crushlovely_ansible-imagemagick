@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-03-08 20:06 ansible-imagemagick-master/
+-rw-rw-r-- root/root        43 2016-03-08 20:06 ansible-imagemagick-master/.gitignore
+-rw-rw-r-- root/root      1091 2016-03-08 20:06 ansible-imagemagick-master/LICENSE
+-rw-rw-r-- root/root       786 2016-03-08 20:06 ansible-imagemagick-master/README.md
+-rw-rw-r-- root/root      1830 2016-03-08 20:06 ansible-imagemagick-master/circle.yml
+drwxrwxr-x root/root         0 2016-03-08 20:06 ansible-imagemagick-master/meta/
+-rw-rw-r-- root/root       323 2016-03-08 20:06 ansible-imagemagick-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 20:06 ansible-imagemagick-master/tasks/
+-rw-rw-r-- root/root       221 2016-03-08 20:06 ansible-imagemagick-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 20:06 ansible-imagemagick-master/tests/
+-rw-rw-r-- root/root         9 2016-03-08 20:06 ansible-imagemagick-master/tests/inventory
+-rw-rw-r-- root/root       121 2016-03-08 20:06 ansible-imagemagick-master/tests/test.yml

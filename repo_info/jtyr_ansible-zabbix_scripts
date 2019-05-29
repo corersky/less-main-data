@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-10 11:49 ansible-zabbix_scripts-master/
+-rw-rw-r-- root/root         0 2017-05-10 11:49 ansible-zabbix_scripts-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-10 11:49 ansible-zabbix_scripts-master/LICENSE
+-rw-rw-r-- root/root      1424 2017-05-10 11:49 ansible-zabbix_scripts-master/README.md
+drwxrwxr-x root/root         0 2017-05-10 11:49 ansible-zabbix_scripts-master/defaults/
+-rw-rw-r-- root/root       932 2017-05-10 11:49 ansible-zabbix_scripts-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-10 11:49 ansible-zabbix_scripts-master/meta/
+-rw-rw-r-- root/root       287 2017-05-10 11:49 ansible-zabbix_scripts-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-10 11:49 ansible-zabbix_scripts-master/tasks/
+-rw-rw-r-- root/root       562 2017-05-10 11:49 ansible-zabbix_scripts-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-10 11:49 ansible-zabbix_scripts-master/templates/
+-rw-rw-r-- root/root      1712 2017-05-10 11:49 ansible-zabbix_scripts-master/templates/slack.sh.j2

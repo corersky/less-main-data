@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-18 14:30 ansible-role-rainloop-master/
+-rw-rw-r-- root/root         7 2016-12-18 14:30 ansible-role-rainloop-master/.gitignore
+-rw-rw-r-- root/root      2283 2016-12-18 14:30 ansible-role-rainloop-master/README.md
+drwxrwxr-x root/root         0 2016-12-18 14:30 ansible-role-rainloop-master/defaults/
+-rw-rw-r-- root/root        66 2016-12-18 14:30 ansible-role-rainloop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-18 14:30 ansible-role-rainloop-master/handlers/
+-rw-rw-r-- root/root        46 2016-12-18 14:30 ansible-role-rainloop-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-18 14:30 ansible-role-rainloop-master/meta/
+-rw-rw-r-- root/root       337 2016-12-18 14:30 ansible-role-rainloop-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-18 14:30 ansible-role-rainloop-master/tasks/
+-rw-rw-r-- root/root      1911 2016-12-18 14:30 ansible-role-rainloop-master/tasks/install.yml
+-rw-rw-r-- root/root       595 2016-12-18 14:30 ansible-role-rainloop-master/tasks/main.yml

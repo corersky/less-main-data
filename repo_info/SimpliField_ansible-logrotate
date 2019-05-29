@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-12 08:04 ansible-logrotate-master/
+-rw-rw-r-- root/root      1088 2016-08-12 08:04 ansible-logrotate-master/.travis.yml
+-rw-rw-r-- root/root      1221 2016-08-12 08:04 ansible-logrotate-master/README.md
+drwxrwxr-x root/root         0 2016-08-12 08:04 ansible-logrotate-master/defaults/
+-rw-rw-r-- root/root       375 2016-08-12 08:04 ansible-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-12 08:04 ansible-logrotate-master/meta/
+-rw-rw-r-- root/root       342 2016-08-12 08:04 ansible-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-12 08:04 ansible-logrotate-master/tasks/
+-rw-rw-r-- root/root       641 2016-08-12 08:04 ansible-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-12 08:04 ansible-logrotate-master/templates/
+-rw-rw-r-- root/root       810 2016-08-12 08:04 ansible-logrotate-master/templates/application.j2
+-rw-rw-r-- root/root       512 2016-08-12 08:04 ansible-logrotate-master/templates/logrotate.conf.j2
+drwxrwxr-x root/root         0 2016-08-12 08:04 ansible-logrotate-master/tests/
+-rw-rw-r-- root/root         9 2016-08-12 08:04 ansible-logrotate-master/tests/inventory
+-rw-rw-r-- root/root       325 2016-08-12 08:04 ansible-logrotate-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-18 16:42 ansible-nvm-master/
+-rw-rw-r-- root/root        24 2019-04-18 16:42 ansible-nvm-master/.gitignore
+-rw-rw-r-- root/root       761 2019-04-18 16:42 ansible-nvm-master/.travis.yml
+-rw-rw-r-- root/root       699 2019-04-18 16:42 ansible-nvm-master/README.md
+-rw-rw-r-- root/root       258 2019-04-18 16:42 ansible-nvm-master/Vagrantfile
+-rw-rw-r-- root/root        28 2019-04-18 16:42 ansible-nvm-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-04-18 16:42 ansible-nvm-master/defaults/
+-rw-rw-r-- root/root        75 2019-04-18 16:42 ansible-nvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-18 16:42 ansible-nvm-master/meta/
+-rw-rw-r-- root/root       385 2019-04-18 16:42 ansible-nvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-18 16:42 ansible-nvm-master/tasks/
+-rw-rw-r-- root/root      1175 2019-04-18 16:42 ansible-nvm-master/tasks/main.yml
+-rw-rw-r-- root/root       142 2019-04-18 16:42 ansible-nvm-master/test.yml

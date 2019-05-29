@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-03-27 20:15 ansible-ufw-allow-profile-master/
+-rw-rw-r-- root/root       549 2017-03-27 20:15 ansible-ufw-allow-profile-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-03-27 20:15 ansible-ufw-allow-profile-master/LICENSE
+-rw-rw-r-- root/root       579 2017-03-27 20:15 ansible-ufw-allow-profile-master/README.md
+drwxrwxr-x root/root         0 2017-03-27 20:15 ansible-ufw-allow-profile-master/meta/
+-rw-rw-r-- root/root       275 2017-03-27 20:15 ansible-ufw-allow-profile-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-27 20:15 ansible-ufw-allow-profile-master/tasks/
+-rw-rw-r-- root/root       173 2017-03-27 20:15 ansible-ufw-allow-profile-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-27 20:15 ansible-ufw-allow-profile-master/templates/
+-rw-rw-r-- root/root        86 2017-03-27 20:15 ansible-ufw-allow-profile-master/templates/ufw-allow.j2
+drwxrwxr-x root/root         0 2017-03-27 20:15 ansible-ufw-allow-profile-master/tests/
+-rw-rw-r-- root/root         9 2017-03-27 20:15 ansible-ufw-allow-profile-master/tests/inventory
+-rw-rw-r-- root/root       160 2017-03-27 20:15 ansible-ufw-allow-profile-master/tests/test.yml

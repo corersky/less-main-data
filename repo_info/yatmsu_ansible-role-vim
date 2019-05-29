@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-12-11 10:37 ansible-role-vim-master/
+-rw-rw-r-- root/root       913 2015-12-11 10:37 ansible-role-vim-master/README.md
+drwxrwxr-x root/root         0 2015-12-11 10:37 ansible-role-vim-master/defaults/
+-rw-rw-r-- root/root       393 2015-12-11 10:37 ansible-role-vim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-11 10:37 ansible-role-vim-master/handlers/
+-rw-rw-r-- root/root        41 2015-12-11 10:37 ansible-role-vim-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-11 10:37 ansible-role-vim-master/meta/
+-rw-rw-r-- root/root      1883 2015-12-11 10:37 ansible-role-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-11 10:37 ansible-role-vim-master/tasks/
+-rw-rw-r-- root/root       886 2015-12-11 10:37 ansible-role-vim-master/tasks/RedHat.yml
+-rw-rw-r-- root/root        73 2015-12-11 10:37 ansible-role-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-11 10:37 ansible-role-vim-master/tests/
+-rw-rw-r-- root/root        50 2015-12-11 10:37 ansible-role-vim-master/tests/test.yml
+drwxrwxr-x root/root         0 2015-12-11 10:37 ansible-role-vim-master/vars/
+-rw-rw-r-- root/root        37 2015-12-11 10:37 ansible-role-vim-master/vars/main.yml

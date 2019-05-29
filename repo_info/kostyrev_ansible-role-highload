@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-08 08:51 ansible-role-highload-master/
+-rw-rw-r-- root/root      7478 2016-01-08 08:51 ansible-role-highload-master/README.md
+-rw-rw-r-- root/root        27 2016-01-08 08:51 ansible-role-highload-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-01-08 08:51 ansible-role-highload-master/defaults/
+-rw-rw-r-- root/root       751 2016-01-08 08:51 ansible-role-highload-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-08 08:51 ansible-role-highload-master/handlers/
+-rw-rw-r-- root/root        44 2016-01-08 08:51 ansible-role-highload-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-08 08:51 ansible-role-highload-master/meta/
+-rw-rw-r-- root/root       229 2016-01-08 08:51 ansible-role-highload-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-08 08:51 ansible-role-highload-master/tasks/
+-rw-rw-r-- root/root      2434 2016-01-08 08:51 ansible-role-highload-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-08 08:51 ansible-role-highload-master/tests/
+-rw-rw-r-- root/root        35 2016-01-08 08:51 ansible-role-highload-master/tests/inventory
+-rw-rw-r-- root/root        65 2016-01-08 08:51 ansible-role-highload-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-01-08 08:51 ansible-role-highload-master/vars/
+-rw-rw-r-- root/root        40 2016-01-08 08:51 ansible-role-highload-master/vars/main.yml

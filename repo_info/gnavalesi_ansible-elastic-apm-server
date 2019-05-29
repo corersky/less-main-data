@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-25 22:16 ansible-elastic-apm-server-master/
+-rw-rw-r-- root/root     35147 2018-08-25 22:16 ansible-elastic-apm-server-master/LICENSE
+-rw-rw-r-- root/root       875 2018-08-25 22:16 ansible-elastic-apm-server-master/README.md
+drwxrwxr-x root/root         0 2018-08-25 22:16 ansible-elastic-apm-server-master/defaults/
+-rw-rw-r-- root/root      1282 2018-08-25 22:16 ansible-elastic-apm-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-25 22:16 ansible-elastic-apm-server-master/handlers/
+-rw-rw-r-- root/root        85 2018-08-25 22:16 ansible-elastic-apm-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-25 22:16 ansible-elastic-apm-server-master/meta/
+-rw-rw-r-- root/root       368 2018-08-25 22:16 ansible-elastic-apm-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-25 22:16 ansible-elastic-apm-server-master/tasks/
+-rw-rw-r-- root/root       747 2018-08-25 22:16 ansible-elastic-apm-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-25 22:16 ansible-elastic-apm-server-master/templates/
+-rw-rw-r-- root/root     51117 2018-08-25 22:16 ansible-elastic-apm-server-master/templates/apm-server.yml.j2

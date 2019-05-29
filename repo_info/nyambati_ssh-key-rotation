@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-04 17:11 ssh-key-rotation-master/
+-rw-rw-r-- root/root       539 2018-12-04 17:11 ssh-key-rotation-master/.travis.yml
+-rw-rw-r-- root/root      1072 2018-12-04 17:11 ssh-key-rotation-master/LICENSE
+-rw-rw-r-- root/root      3146 2018-12-04 17:11 ssh-key-rotation-master/README.md
+drwxrwxr-x root/root         0 2018-12-04 17:11 ssh-key-rotation-master/defaults/
+-rw-rw-r-- root/root       312 2018-12-04 17:11 ssh-key-rotation-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-04 17:11 ssh-key-rotation-master/meta/
+-rw-rw-r-- root/root       320 2018-12-04 17:11 ssh-key-rotation-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-04 17:11 ssh-key-rotation-master/tasks/
+-rw-rw-r-- root/root       545 2018-12-04 17:11 ssh-key-rotation-master/tasks/generate_key.yml
+-rw-rw-r-- root/root       945 2018-12-04 17:11 ssh-key-rotation-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-04 17:11 ssh-key-rotation-master/tests/
+-rw-rw-r-- root/root         9 2018-12-04 17:11 ssh-key-rotation-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-12-04 17:11 ssh-key-rotation-master/tests/test.yml

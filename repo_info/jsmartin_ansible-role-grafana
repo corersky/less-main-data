@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-17 20:16 ansible-role-grafana-master/
+-rw-rw-r-- root/root      3410 2016-05-17 20:16 ansible-role-grafana-master/README.md
+drwxrwxr-x root/root         0 2016-05-17 20:16 ansible-role-grafana-master/defaults/
+-rw-rw-r-- root/root       687 2016-05-17 20:16 ansible-role-grafana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-17 20:16 ansible-role-grafana-master/files/
+-rw-rw-r-- root/root     10914 2016-05-17 20:16 ansible-role-grafana-master/files/home.json
+drwxrwxr-x root/root         0 2016-05-17 20:16 ansible-role-grafana-master/handlers/
+-rw-rw-r-- root/root        88 2016-05-17 20:16 ansible-role-grafana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-17 20:16 ansible-role-grafana-master/meta/
+-rw-rw-r-- root/root       271 2016-05-17 20:16 ansible-role-grafana-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-17 20:16 ansible-role-grafana-master/tasks/
+-rw-rw-r-- root/root      1896 2016-05-17 20:16 ansible-role-grafana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-17 20:16 ansible-role-grafana-master/templates/
+-rw-rw-r-- root/root      6797 2016-05-17 20:16 ansible-role-grafana-master/templates/grafana.ini.j2

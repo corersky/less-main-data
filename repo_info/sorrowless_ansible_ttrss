@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-04 10:37 ansible_ttrss-master/
+-rw-rw-r-- root/root       400 2019-04-04 10:37 ansible_ttrss-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 10:37 ansible_ttrss-master/defaults/
+-rw-rw-r-- root/root       354 2019-04-04 10:37 ansible_ttrss-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:37 ansible_ttrss-master/handlers/
+-rw-rw-r-- root/root        96 2019-04-04 10:37 ansible_ttrss-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:37 ansible_ttrss-master/meta/
+-rw-rw-r-- root/root       444 2019-04-04 10:37 ansible_ttrss-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:37 ansible_ttrss-master/tasks/
+-rw-rw-r-- root/root      1375 2019-04-04 10:37 ansible_ttrss-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:37 ansible_ttrss-master/templates/
+-rw-rw-r-- root/root       164 2019-04-04 10:37 ansible_ttrss-master/templates/ttrss.service
+drwxrwxr-x root/root         0 2019-04-04 10:37 ansible_ttrss-master/tests/
+-rw-rw-r-- root/root        11 2019-04-04 10:37 ansible_ttrss-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-04-04 10:37 ansible_ttrss-master/tests/test.yml

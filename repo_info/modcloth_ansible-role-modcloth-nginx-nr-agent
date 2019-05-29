@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/
+-rw-rw-r-- root/root       200 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/.travis.yml
+-rw-rw-r-- root/root      2175 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/README.md
+drwxrwxr-x root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/defaults/
+-rw-rw-r-- root/root       697 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/defaults/main.yml
+-rw-rw-r-- root/root       181 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/example.yml
+drwxrwxr-x root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/handlers/
+-rw-rw-r-- root/root        42 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/meta/
+-rw-rw-r-- root/root       276 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/meta/main.yml
+-rw-rw-r-- root/root        15 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/requirements.txt
+drwxrwxr-x root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/roles/
+lrwxrwxrwx root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/roles/modcloth.nginx-nr-agent -> ../
+drwxrwxr-x root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/tasks/
+-rw-rw-r-- root/root       698 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/templates/
+-rw-rw-r-- root/root      1526 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/templates/nginx-nr-agent.ini.j2
+drwxrwxr-x root/root         0 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/vars/
+-rw-rw-r-- root/root        38 2014-11-28 10:34 ansible-role-modcloth-nginx-nr-agent-master/vars/main.yml

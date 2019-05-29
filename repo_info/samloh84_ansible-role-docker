@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-11-14 22:10 ansible-role-docker-master/
+-rw-rw-r-- root/root       617 2016-11-14 22:10 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root        56 2016-11-14 22:10 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2016-11-14 22:10 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        19 2016-11-14 22:10 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-14 22:10 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       262 2016-11-14 22:10 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-14 22:10 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       295 2016-11-14 22:10 ansible-role-docker-master/tasks/install_centos_docker.yml
+-rw-rw-r-- root/root       510 2016-11-14 22:10 ansible-role-docker-master/tasks/install_docker.yml
+-rw-rw-r-- root/root       460 2016-11-14 22:10 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-14 22:10 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root        72 2016-11-14 22:10 ansible-role-docker-master/tests/test.yml

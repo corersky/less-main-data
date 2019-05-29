@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-05-11 05:58 ansible-circus-master/
+-rw-rw-r-- root/root         6 2014-05-11 05:58 ansible-circus-master/.gitignore
+-rw-rw-r-- root/root      1078 2014-05-11 05:58 ansible-circus-master/LICENSE
+-rw-rw-r-- root/root       937 2014-05-11 05:58 ansible-circus-master/README.md
+drwxrwxr-x root/root         0 2014-05-11 05:58 ansible-circus-master/defaults/
+-rw-rw-r-- root/root        63 2014-05-11 05:58 ansible-circus-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-05-11 05:58 ansible-circus-master/files/
+-rw-rw-r-- root/root        15 2014-05-11 05:58 ansible-circus-master/files/pip-requirements.txt
+drwxrwxr-x root/root         0 2014-05-11 05:58 ansible-circus-master/handlers/
+-rw-rw-r-- root/root         4 2014-05-11 05:58 ansible-circus-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-11 05:58 ansible-circus-master/meta/
+-rw-rw-r-- root/root      2079 2014-05-11 05:58 ansible-circus-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-11 05:58 ansible-circus-master/tasks/
+-rw-rw-r-- root/root       913 2014-05-11 05:58 ansible-circus-master/tasks/Debian.yml
+-rw-rw-r-- root/root        63 2014-05-11 05:58 ansible-circus-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-11 05:58 ansible-circus-master/vars/
+-rw-rw-r-- root/root         3 2014-05-11 05:58 ansible-circus-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-07-01 03:01 ansible.mongodb-master/
+-rw-rw-r-- root/root       975 2015-07-01 03:01 ansible.mongodb-master/README.md
+drwxrwxr-x root/root         0 2015-07-01 03:01 ansible.mongodb-master/defaults/
+-rw-rw-r-- root/root       586 2015-07-01 03:01 ansible.mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-01 03:01 ansible.mongodb-master/handlers/
+-rw-rw-r-- root/root        40 2015-07-01 03:01 ansible.mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-07-01 03:01 ansible.mongodb-master/meta/
+-rw-rw-r-- root/root      2273 2015-07-01 03:01 ansible.mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-01 03:01 ansible.mongodb-master/tasks/
+-rw-rw-r-- root/root      1614 2015-07-01 03:01 ansible.mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-07-01 03:01 ansible.mongodb-master/templates/
+-rw-rw-r-- root/root      8228 2015-07-01 03:01 ansible.mongodb-master/templates/init_mongo.j2
+-rw-rw-r-- root/root       684 2015-07-01 03:01 ansible.mongodb-master/templates/mongod_conf.j2
+-rw-rw-r-- root/root        19 2015-07-01 03:01 ansible.mongodb-master/templates/mongod_keyfile.j2
+drwxrwxr-x root/root         0 2015-07-01 03:01 ansible.mongodb-master/vars/
+-rw-rw-r-- root/root        36 2015-07-01 03:01 ansible.mongodb-master/vars/main.yml

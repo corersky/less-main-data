@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-11-07 13:58 ansible-timezone-master/
+-rw-rw-r-- root/root     11325 2014-11-07 13:58 ansible-timezone-master/LICENSE
+-rw-rw-r-- root/root       675 2014-11-07 13:58 ansible-timezone-master/README.md
+drwxrwxr-x root/root         0 2014-11-07 13:58 ansible-timezone-master/defaults/
+-rw-rw-r-- root/root        14 2014-11-07 13:58 ansible-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-07 13:58 ansible-timezone-master/handlers/
+-rw-rw-r-- root/root        93 2014-11-07 13:58 ansible-timezone-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-07 13:58 ansible-timezone-master/meta/
+-rw-rw-r-- root/root       307 2014-11-07 13:58 ansible-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-07 13:58 ansible-timezone-master/tasks/
+-rw-rw-r-- root/root       196 2014-11-07 13:58 ansible-timezone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-07 13:58 ansible-timezone-master/templates/
+drwxrwxr-x root/root         0 2014-11-07 13:58 ansible-timezone-master/templates/etc/
+-rw-rw-r-- root/root        15 2014-11-07 13:58 ansible-timezone-master/templates/etc/timezone.j2

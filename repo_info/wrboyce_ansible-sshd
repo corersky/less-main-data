@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-01-12 18:01 ansible-sshd-master/
+-rw-rw-r-- root/root       743 2016-01-12 18:01 ansible-sshd-master/.travis.yml
+-rw-rw-r-- root/root       338 2016-01-12 18:01 ansible-sshd-master/README.md
+drwxrwxr-x root/root         0 2016-01-12 18:01 ansible-sshd-master/handlers/
+-rw-rw-r-- root/root        61 2016-01-12 18:01 ansible-sshd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-12 18:01 ansible-sshd-master/meta/
+-rw-rw-r-- root/root       284 2016-01-12 18:01 ansible-sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-12 18:01 ansible-sshd-master/tasks/
+-rw-rw-r-- root/root       474 2016-01-12 18:01 ansible-sshd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-12 18:01 ansible-sshd-master/tests/
+-rw-rw-r-- root/root        53 2016-01-12 18:01 ansible-sshd-master/tests/role.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/
+-rw-rw-r-- root/root        13 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/.gitignore
+-rw-rw-r-- root/root       550 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/README.md
+drwxrwxr-x root/root         0 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/defaults/
+-rw-rw-r-- root/root        21 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/meta/
+-rw-rw-r-- root/root       324 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/tasks/
+-rw-rw-r-- root/root       306 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/tests/
+-rw-rw-r-- root/root        90 2017-07-28 07:16 ansible-role-fedora-openshift-login-master/tests/test.yml

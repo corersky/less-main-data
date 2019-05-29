@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-11-09 11:26 ansible-php-master/
+-rw-rw-r-- root/root      1066 2015-11-09 11:26 ansible-php-master/LICENSE
+-rw-rw-r-- root/root      3219 2015-11-09 11:26 ansible-php-master/README.md
+drwxrwxr-x root/root         0 2015-11-09 11:26 ansible-php-master/defaults/
+-rw-rw-r-- root/root      1364 2015-11-09 11:26 ansible-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-09 11:26 ansible-php-master/handlers/
+-rw-rw-r-- root/root       113 2015-11-09 11:26 ansible-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-09 11:26 ansible-php-master/meta/
+-rw-rw-r-- root/root      1267 2015-11-09 11:26 ansible-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-09 11:26 ansible-php-master/tasks/
+-rw-rw-r-- root/root      2623 2015-11-09 11:26 ansible-php-master/tasks/configure.yml
+-rw-rw-r-- root/root      2538 2015-11-09 11:26 ansible-php-master/tasks/install.yml
+-rw-rw-r-- root/root       117 2015-11-09 11:26 ansible-php-master/tasks/main.yml
+-rw-rw-r-- root/root       529 2015-11-09 11:26 ansible-php-master/tasks/prepare.yml

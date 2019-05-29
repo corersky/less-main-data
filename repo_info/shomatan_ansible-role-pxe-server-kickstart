@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/
+-rw-rw-r-- root/root      1790 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/README.md
+drwxrwxr-x root/root         0 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/defaults/
+-rw-rw-r-- root/root       603 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/meta/
+-rw-rw-r-- root/root       312 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/tasks/
+-rw-rw-r-- root/root      1489 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/templates/
+-rw-rw-r-- root/root       489 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/templates/default.menu.j2
+-rw-rw-r-- root/root       230 2017-09-25 03:38 ansible-role-pxe-server-kickstart-master/templates/nginx.conf.j2

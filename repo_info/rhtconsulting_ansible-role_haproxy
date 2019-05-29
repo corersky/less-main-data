@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-29 06:43 ansible-role_haproxy-master/
+-rw-rw-r-- root/root         6 2018-06-29 06:43 ansible-role_haproxy-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-06-29 06:43 ansible-role_haproxy-master/LICENSE
+-rw-rw-r-- root/root      5183 2018-06-29 06:43 ansible-role_haproxy-master/README.md
+drwxrwxr-x root/root         0 2018-06-29 06:43 ansible-role_haproxy-master/meta/
+-rw-rw-r-- root/root       430 2018-06-29 06:43 ansible-role_haproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-29 06:43 ansible-role_haproxy-master/tasks/
+-rw-rw-r-- root/root      1281 2018-06-29 06:43 ansible-role_haproxy-master/tasks/configure.yml
+-rw-rw-r-- root/root       529 2018-06-29 06:43 ansible-role_haproxy-master/tasks/install.yml
+-rw-rw-r-- root/root       177 2018-06-29 06:43 ansible-role_haproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-29 06:43 ansible-role_haproxy-master/templates/
+-rw-rw-r-- root/root       359 2018-06-29 06:43 ansible-role_haproxy-master/templates/expose_http.map.j2
+-rw-rw-r-- root/root       360 2018-06-29 06:43 ansible-role_haproxy-master/templates/expose_https.map.j2
+-rw-rw-r-- root/root      3985 2018-06-29 06:43 ansible-role_haproxy-master/templates/haproxy.cfg.j2
+-rw-rw-r-- root/root       370 2018-06-29 06:43 ansible-role_haproxy-master/templates/redirect_http_to_https.map.j2

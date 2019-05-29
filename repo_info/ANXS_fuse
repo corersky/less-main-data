@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-03-19 03:57 fuse-master/
+-rw-rw-r-- root/root        83 2014-03-19 03:57 fuse-master/.gitignore
+-rw-rw-r-- root/root       337 2014-03-19 03:57 fuse-master/.travis.yml
+-rw-rw-r-- root/root      1079 2014-03-19 03:57 fuse-master/LICENSE
+-rw-rw-r-- root/root       598 2014-03-19 03:57 fuse-master/README.md
+drwxrwxr-x root/root         0 2014-03-19 03:57 fuse-master/defaults/
+-rw-rw-r-- root/root       197 2014-03-19 03:57 fuse-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-03-19 03:57 fuse-master/meta/
+-rw-rw-r-- root/root       269 2014-03-19 03:57 fuse-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-03-19 03:57 fuse-master/tasks/
+-rw-rw-r-- root/root       155 2014-03-19 03:57 fuse-master/tasks/main.yml
+-rw-rw-r-- root/root       197 2014-03-19 03:57 fuse-master/tasks/package.yml
+-rw-rw-r-- root/root       468 2014-03-19 03:57 fuse-master/tasks/source.yml
+-rw-rw-r-- root/root        94 2014-03-19 03:57 fuse-master/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 18:12 ansible-iperf-master/
+-rw-rw-r-- root/root       812 2016-09-05 18:12 ansible-iperf-master/.travis.yml
+-rw-rw-r-- root/root       471 2016-09-05 18:12 ansible-iperf-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 18:12 ansible-iperf-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 18:12 ansible-iperf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:12 ansible-iperf-master/meta/
+-rw-rw-r-- root/root       308 2016-09-05 18:12 ansible-iperf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:12 ansible-iperf-master/tasks/
+-rw-rw-r-- root/root       381 2016-09-05 18:12 ansible-iperf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:12 ansible-iperf-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 18:12 ansible-iperf-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-09-05 18:12 ansible-iperf-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 18:12 ansible-iperf-master/vars/
+-rw-rw-r-- root/root        60 2016-09-05 18:12 ansible-iperf-master/vars/main.yml

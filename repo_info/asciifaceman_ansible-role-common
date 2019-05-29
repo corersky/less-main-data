@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-31 16:16 ansible-role-common-master/
+-rw-rw-r-- root/root      1338 2018-07-31 16:16 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2018-07-31 16:16 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root        30 2018-07-31 16:16 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-31 16:16 ansible-role-common-master/handlers/
+-rw-rw-r-- root/root        30 2018-07-31 16:16 ansible-role-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-31 16:16 ansible-role-common-master/meta/
+-rw-rw-r-- root/root      1777 2018-07-31 16:16 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-31 16:16 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root       169 2018-07-31 16:16 ansible-role-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-31 16:16 ansible-role-common-master/tests/
+-rw-rw-r-- root/root        11 2018-07-31 16:16 ansible-role-common-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-07-31 16:16 ansible-role-common-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-31 16:16 ansible-role-common-master/vars/
+-rw-rw-r-- root/root        26 2018-07-31 16:16 ansible-role-common-master/vars/main.yml

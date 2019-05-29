@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-12-02 16:29 ansible-mesosphere-bamboo-master/
+-rw-rw-r-- root/root         4 2015-12-02 16:29 ansible-mesosphere-bamboo-master/.gitignore
+-rw-rw-r-- root/root      1084 2015-12-02 16:29 ansible-mesosphere-bamboo-master/LICENSE
+-rw-rw-r-- root/root      1328 2015-12-02 16:29 ansible-mesosphere-bamboo-master/README.md
+drwxrwxr-x root/root         0 2015-12-02 16:29 ansible-mesosphere-bamboo-master/defaults/
+-rw-rw-r-- root/root        31 2015-12-02 16:29 ansible-mesosphere-bamboo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-02 16:29 ansible-mesosphere-bamboo-master/handlers/
+-rw-rw-r-- root/root        31 2015-12-02 16:29 ansible-mesosphere-bamboo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-02 16:29 ansible-mesosphere-bamboo-master/meta/
+-rw-rw-r-- root/root       361 2015-12-02 16:29 ansible-mesosphere-bamboo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-02 16:29 ansible-mesosphere-bamboo-master/tasks/
+-rw-rw-r-- root/root       707 2015-12-02 16:29 ansible-mesosphere-bamboo-master/tasks/main.yml
+-rw-rw-r-- root/root        45 2015-12-02 16:29 ansible-mesosphere-bamboo-master/test.yml
+drwxrwxr-x root/root         0 2015-12-02 16:29 ansible-mesosphere-bamboo-master/vars/
+-rw-rw-r-- root/root        27 2015-12-02 16:29 ansible-mesosphere-bamboo-master/vars/main.yml

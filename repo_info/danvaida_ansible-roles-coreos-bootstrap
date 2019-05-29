@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/
+-rw-rw-r-- root/root       542 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/.travis.yml
+-rw-rw-r-- root/root      1961 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/defaults/
+-rw-rw-r-- root/root       171 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/meta/
+-rw-rw-r-- root/root       288 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/tasks/
+-rw-rw-r-- root/root      1819 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/tasks/bootstrap.yml
+-rw-rw-r-- root/root       865 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/tests/
+-rw-rw-r-- root/root        89 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/vars/
+-rw-rw-r-- root/root       538 2017-01-15 07:09 ansible-roles-coreos-bootstrap-master/vars/main.yml

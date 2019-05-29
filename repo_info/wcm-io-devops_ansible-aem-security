@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-07 06:46 ansible-aem-security-master/
+-rw-rw-r-- root/root        39 2019-01-07 06:46 ansible-aem-security-master/.ansible-lint
+-rw-rw-r-- root/root      1070 2019-01-07 06:46 ansible-aem-security-master/.gitattributes
+-rw-rw-r-- root/root       364 2019-01-07 06:46 ansible-aem-security-master/.gitignore
+-rw-rw-r-- root/root       895 2019-01-07 06:46 ansible-aem-security-master/.travis.yml
+-rw-rw-r-- root/root     11324 2019-01-07 06:46 ansible-aem-security-master/LICENSE
+-rw-rw-r-- root/root      3006 2019-01-07 06:46 ansible-aem-security-master/README.md
+drwxrwxr-x root/root         0 2019-01-07 06:46 ansible-aem-security-master/defaults/
+-rw-rw-r-- root/root      1106 2019-01-07 06:46 ansible-aem-security-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-07 06:46 ansible-aem-security-master/meta/
+-rw-rw-r-- root/root       454 2019-01-07 06:46 ansible-aem-security-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-07 06:46 ansible-aem-security-master/tasks/
+-rw-rw-r-- root/root       362 2019-01-07 06:46 ansible-aem-security-master/tasks/main.yml
+-rw-rw-r-- root/root      2308 2019-01-07 06:46 ansible-aem-security-master/tasks/set-admin-password.yml
+drwxrwxr-x root/root         0 2019-01-07 06:46 ansible-aem-security-master/tests/
+-rw-rw-r-- root/root        18 2019-01-07 06:46 ansible-aem-security-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-01-07 06:46 ansible-aem-security-master/tests/test.yml

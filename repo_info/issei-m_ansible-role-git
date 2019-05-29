@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-05 21:39 ansible-role-git-master/
+-rw-rw-r-- root/root        14 2018-03-05 21:39 ansible-role-git-master/.gitignore
+-rw-rw-r-- root/root      1102 2018-03-05 21:39 ansible-role-git-master/LICENSE
+-rw-rw-r-- root/root       327 2018-03-05 21:39 ansible-role-git-master/README.md
+-rw-rw-r-- root/root       553 2018-03-05 21:39 ansible-role-git-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-03-05 21:39 ansible-role-git-master/defaults/
+-rw-rw-r-- root/root        25 2018-03-05 21:39 ansible-role-git-master/defaults/main.yml
+-rw-rw-r-- root/root        87 2018-03-05 21:39 ansible-role-git-master/hosts
+drwxrwxr-x root/root         0 2018-03-05 21:39 ansible-role-git-master/meta/
+-rw-rw-r-- root/root       394 2018-03-05 21:39 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-05 21:39 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root      1552 2018-03-05 21:39 ansible-role-git-master/tasks/install-git.yml
+-rw-rw-r-- root/root       344 2018-03-05 21:39 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-05 21:39 ansible-role-git-master/tests/
+-rw-rw-r-- root/root        62 2018-03-05 21:39 ansible-role-git-master/tests/test.yml

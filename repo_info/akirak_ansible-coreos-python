@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-02-03 12:00 ansible-coreos-python-master/
+-rw-rw-r-- root/root       539 2017-02-03 12:00 ansible-coreos-python-master/.travis.yml
+-rw-rw-r-- root/root      1924 2017-02-03 12:00 ansible-coreos-python-master/README.md
+drwxrwxr-x root/root         0 2017-02-03 12:00 ansible-coreos-python-master/files/
+-rw-rw-r-- root/root       584 2017-02-03 12:00 ansible-coreos-python-master/files/install-pypy-coreos.sh
+drwxrwxr-x root/root         0 2017-02-03 12:00 ansible-coreos-python-master/meta/
+-rw-rw-r-- root/root       338 2017-02-03 12:00 ansible-coreos-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-03 12:00 ansible-coreos-python-master/tasks/
+-rw-rw-r-- root/root        95 2017-02-03 12:00 ansible-coreos-python-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-03 12:00 ansible-coreos-python-master/tests/
+-rw-rw-r-- root/root         9 2017-02-03 12:00 ansible-coreos-python-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-02-03 12:00 ansible-coreos-python-master/tests/test.yml

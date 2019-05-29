@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-01 06:17 supervisor-master/
+-rw-rw-r-- root/root      1514 2019-05-01 06:17 supervisor-master/LICENSE
+-rw-rw-r-- root/root      1941 2019-05-01 06:17 supervisor-master/README.md
+drwxrwxr-x root/root         0 2019-05-01 06:17 supervisor-master/defaults/
+-rw-rw-r-- root/root       328 2019-05-01 06:17 supervisor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-01 06:17 supervisor-master/handlers/
+-rw-rw-r-- root/root        77 2019-05-01 06:17 supervisor-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-01 06:17 supervisor-master/meta/
+-rw-rw-r-- root/root       319 2019-05-01 06:17 supervisor-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-01 06:17 supervisor-master/tasks/
+-rwxrwxr-x root/root      1122 2019-05-01 06:17 supervisor-master/tasks/config.yml
+-rwxrwxr-x root/root       140 2019-05-01 06:17 supervisor-master/tasks/install.yml
+-rwxrwxr-x root/root        48 2019-05-01 06:17 supervisor-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-01 06:17 supervisor-master/templates/
+-rw-rw-r-- root/root       507 2019-05-01 06:17 supervisor-master/templates/supervisor_artisan.conf.j2
+-rw-rw-r-- root/root       432 2019-05-01 06:17 supervisor-master/templates/supervisor_raw.conf.j2

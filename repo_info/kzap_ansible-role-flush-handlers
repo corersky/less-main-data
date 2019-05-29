@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-17 07:21 ansible-role-flush-handlers-master/
+-rw-rw-r-- root/root       539 2017-04-17 07:21 ansible-role-flush-handlers-master/.travis.yml
+-rw-rw-r-- root/root       120 2017-04-17 07:21 ansible-role-flush-handlers-master/CHANGELOG.md
+-rw-rw-r-- root/root      1328 2017-04-17 07:21 ansible-role-flush-handlers-master/README.md
+drwxrwxr-x root/root         0 2017-04-17 07:21 ansible-role-flush-handlers-master/defaults/
+-rw-rw-r-- root/root        47 2017-04-17 07:21 ansible-role-flush-handlers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-17 07:21 ansible-role-flush-handlers-master/handlers/
+-rw-rw-r-- root/root        47 2017-04-17 07:21 ansible-role-flush-handlers-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-17 07:21 ansible-role-flush-handlers-master/meta/
+-rw-rw-r-- root/root      3900 2017-04-17 07:21 ansible-role-flush-handlers-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-17 07:21 ansible-role-flush-handlers-master/tasks/
+-rw-rw-r-- root/root        88 2017-04-17 07:21 ansible-role-flush-handlers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-17 07:21 ansible-role-flush-handlers-master/tests/
+-rw-rw-r-- root/root         9 2017-04-17 07:21 ansible-role-flush-handlers-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-04-17 07:21 ansible-role-flush-handlers-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-17 07:21 ansible-role-flush-handlers-master/vars/
+-rw-rw-r-- root/root        43 2017-04-17 07:21 ansible-role-flush-handlers-master/vars/main.yml

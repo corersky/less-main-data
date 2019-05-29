@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-01 18:04 docker.ubuntu-master/
+-rw-rw-r-- root/root     11325 2015-06-01 18:04 docker.ubuntu-master/LICENSE
+-rw-rw-r-- root/root      3543 2015-06-01 18:04 docker.ubuntu-master/README.md
+-rw-rw-r-- root/root      1042 2015-06-01 18:04 docker.ubuntu-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-06-01 18:04 docker.ubuntu-master/defaults/
+-rw-rw-r-- root/root      1781 2015-06-01 18:04 docker.ubuntu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-01 18:04 docker.ubuntu-master/handlers/
+-rw-rw-r-- root/root       225 2015-06-01 18:04 docker.ubuntu-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-01 18:04 docker.ubuntu-master/meta/
+-rw-rw-r-- root/root       536 2015-06-01 18:04 docker.ubuntu-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-01 18:04 docker.ubuntu-master/tasks/
+-rw-rw-r-- root/root      2165 2015-06-01 18:04 docker.ubuntu-master/tasks/kernel_check_and_update.yml
+-rw-rw-r-- root/root      3656 2015-06-01 18:04 docker.ubuntu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-01 18:04 docker.ubuntu-master/tests/
+-rw-rw-r-- root/root       128 2015-06-01 18:04 docker.ubuntu-master/tests/vagrant.yml

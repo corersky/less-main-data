@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-27 10:40 ansible-role-os-networks-master/
+-rw-rw-r-- root/root         6 2019-02-27 10:40 ansible-role-os-networks-master/.gitignore
+-rw-rw-r-- root/root       807 2019-02-27 10:40 ansible-role-os-networks-master/.travis.yml
+-rw-rw-r-- root/root     10143 2019-02-27 10:40 ansible-role-os-networks-master/LICENSE
+-rw-rw-r-- root/root      5958 2019-02-27 10:40 ansible-role-os-networks-master/README.md
+drwxrwxr-x root/root         0 2019-02-27 10:40 ansible-role-os-networks-master/defaults/
+-rw-rw-r-- root/root      3712 2019-02-27 10:40 ansible-role-os-networks-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-27 10:40 ansible-role-os-networks-master/meta/
+-rw-rw-r-- root/root       418 2019-02-27 10:40 ansible-role-os-networks-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-27 10:40 ansible-role-os-networks-master/tasks/
+-rw-rw-r-- root/root      5539 2019-02-27 10:40 ansible-role-os-networks-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-27 10:40 ansible-role-os-networks-master/tests/
+-rw-rw-r-- root/root        86 2019-02-27 10:40 ansible-role-os-networks-master/tests/inventory
+-rw-rw-r-- root/root        73 2019-02-27 10:40 ansible-role-os-networks-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-04-14 20:39 ansible-role-security-master/
+-rwxrwxr-x root/root       996 2016-04-14 20:39 ansible-role-security-master/README.md
+drwxrwxr-x root/root         0 2016-04-14 20:39 ansible-role-security-master/defaults/
+-rwxrwxr-x root/root       202 2016-04-14 20:39 ansible-role-security-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-14 20:39 ansible-role-security-master/handlers/
+-rwxrwxr-x root/root        33 2016-04-14 20:39 ansible-role-security-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-14 20:39 ansible-role-security-master/meta/
+-rwxrwxr-x root/root       247 2016-04-14 20:39 ansible-role-security-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-14 20:39 ansible-role-security-master/tasks/
+-rwxrwxr-x root/root       155 2016-04-14 20:39 ansible-role-security-master/tasks/main.yml
+-rwxrwxr-x root/root       954 2016-04-14 20:39 ansible-role-security-master/tasks/sudoers.yml
+drwxrwxr-x root/root         0 2016-04-14 20:39 ansible-role-security-master/vars/
+-rwxrwxr-x root/root        27 2016-04-14 20:39 ansible-role-security-master/vars/RedHat.yml
+-rwxrwxr-x root/root        29 2016-04-14 20:39 ansible-role-security-master/vars/main.yml

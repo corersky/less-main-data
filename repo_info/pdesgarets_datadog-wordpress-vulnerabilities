@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/
+-rw-rw-r-- root/root      2421 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/README.md
+drwxrwxr-x root/root         0 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/defaults/
+-rw-rw-r-- root/root       152 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/handlers/
+-rw-rw-r-- root/root        92 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/meta/
+-rw-rw-r-- root/root       373 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/tasks/
+-rw-rw-r-- root/root       451 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/templates/
+-rw-rw-r-- root/root      1133 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/templates/wordpress_vulnerabilities.py
+-rw-rw-r-- root/root       124 2017-09-20 12:44 datadog-wordpress-vulnerabilities-master/templates/wordpress_vulnerabilities.yaml.j2

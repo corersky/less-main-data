@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-05 08:07 ansible-role-common-master/
+-rw-rw-r-- root/root        15 2018-01-05 08:07 ansible-role-common-master/.gitignore
+-rw-rw-r-- root/root       277 2018-01-05 08:07 ansible-role-common-master/.travis.yml
+-rw-rw-r-- root/root      1078 2018-01-05 08:07 ansible-role-common-master/LICENSE
+-rw-rw-r-- root/root      1293 2018-01-05 08:07 ansible-role-common-master/README.md
+-rw-rw-r-- root/root       448 2018-01-05 08:07 ansible-role-common-master/Vagrantfile
+-rw-rw-r-- root/root        49 2018-01-05 08:07 ansible-role-common-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-01-05 08:07 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root       386 2018-01-05 08:07 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-05 08:07 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       298 2018-01-05 08:07 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-05 08:07 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root      1251 2018-01-05 08:07 ansible-role-common-master/tasks/main.yml
+-rw-rw-r-- root/root       319 2018-01-05 08:07 ansible-role-common-master/test.yml
+-rw-rw-r-- root/root        14 2018-01-05 08:07 ansible-role-common-master/vagrant-inventory

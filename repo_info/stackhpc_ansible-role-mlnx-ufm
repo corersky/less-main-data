@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2018-04-23 10:02 ansible-role-mlnx-ufm-master/
+-rw-rw-r-- root/root      1157 2018-04-23 10:02 ansible-role-mlnx-ufm-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-04-23 10:02 ansible-role-mlnx-ufm-master/LICENSE
+-rw-rw-r-- root/root      2700 2018-04-23 10:02 ansible-role-mlnx-ufm-master/README.md
+drwxrwxr-x root/root         0 2018-04-23 10:02 ansible-role-mlnx-ufm-master/defaults/
+-rw-rw-r-- root/root      2778 2018-04-23 10:02 ansible-role-mlnx-ufm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-23 10:02 ansible-role-mlnx-ufm-master/meta/
+-rw-rw-r-- root/root       342 2018-04-23 10:02 ansible-role-mlnx-ufm-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/
+-rw-rw-r-- root/root      1166 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/build.yml
+-rw-rw-r-- root/root       772 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/config.yml
+-rw-rw-r-- root/root        47 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/deploy.yml
+-rw-rw-r-- root/root       844 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/destroy.yml
+-rw-rw-r-- root/root       197 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/main.yml
+-rw-rw-r-- root/root       258 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/pull.yml
+lrwxrwxrwx root/root         0 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/reconfigure.yml -> deploy.yml
+-rw-rw-r-- root/root       947 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/start.yml
+-rw-rw-r-- root/root        46 2018-04-23 10:02 ansible-role-mlnx-ufm-master/tasks/upgrade.yml

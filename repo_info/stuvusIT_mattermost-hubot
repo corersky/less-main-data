@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-14 07:11 mattermost-hubot-master/
+-rw-rw-r-- root/root     20133 2019-01-14 07:11 mattermost-hubot-master/LICENSE
+-rw-rw-r-- root/root      5372 2019-01-14 07:11 mattermost-hubot-master/README.md
+drwxrwxr-x root/root         0 2019-01-14 07:11 mattermost-hubot-master/defaults/
+-rw-rw-r-- root/root       642 2019-01-14 07:11 mattermost-hubot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-14 07:11 mattermost-hubot-master/handlers/
+-rw-rw-r-- root/root       187 2019-01-14 07:11 mattermost-hubot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-14 07:11 mattermost-hubot-master/meta/
+-rw-rw-r-- root/root       435 2019-01-14 07:11 mattermost-hubot-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-14 07:11 mattermost-hubot-master/tasks/
+-rw-rw-r-- root/root      2110 2019-01-14 07:11 mattermost-hubot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-14 07:11 mattermost-hubot-master/templates/
+-rw-rw-r-- root/root        46 2019-01-14 07:11 mattermost-hubot-master/templates/external-scripts.json.j2
+-rw-rw-r-- root/root       973 2019-01-14 07:11 mattermost-hubot-master/templates/hubot_environment
+-rw-rw-r-- root/root       323 2019-01-14 07:11 mattermost-hubot-master/templates/systemd.j2
+drwxrwxr-x root/root         0 2019-01-14 07:11 mattermost-hubot-master/vars/
+-rw-rw-r-- root/root       395 2019-01-14 07:11 mattermost-hubot-master/vars/main.yml

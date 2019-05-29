@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-11-10 01:08 ansible-role-mysql-master/
+-rw-rw-r-- root/root       391 2014-11-10 01:08 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2014-11-10 01:08 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root        53 2014-11-10 01:08 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-10 01:08 ansible-role-mysql-master/handlers/
+-rw-rw-r-- root/root       687 2014-11-10 01:08 ansible-role-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-10 01:08 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root       619 2014-11-10 01:08 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-10 01:08 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root       337 2014-11-10 01:08 ansible-role-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-10 01:08 ansible-role-mysql-master/templates/
+-rw-rw-r-- root/root       368 2014-11-10 01:08 ansible-role-mysql-master/templates/my.cnf.j2
+-rw-rw-r-- root/root        54 2014-11-10 01:08 ansible-role-mysql-master/templates/mysql_secure_installation.j2
+drwxrwxr-x root/root         0 2014-11-10 01:08 ansible-role-mysql-master/vars/
+-rw-rw-r-- root/root        39 2014-11-10 01:08 ansible-role-mysql-master/vars/main.yml

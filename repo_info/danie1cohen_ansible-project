@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-25 16:01 ansible-project-master/
+-rw-rw-r-- root/root       539 2017-07-25 16:01 ansible-project-master/.travis.yml
+-rw-rw-r-- root/root       296 2017-07-25 16:01 ansible-project-master/README.md
+drwxrwxr-x root/root         0 2017-07-25 16:01 ansible-project-master/defaults/
+-rw-rw-r-- root/root       835 2017-07-25 16:01 ansible-project-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-25 16:01 ansible-project-master/handlers/
+-rw-rw-r-- root/root        32 2017-07-25 16:01 ansible-project-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-25 16:01 ansible-project-master/meta/
+-rw-rw-r-- root/root      3900 2017-07-25 16:01 ansible-project-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-25 16:01 ansible-project-master/tasks/
+-rw-rw-r-- root/root      1615 2017-07-25 16:01 ansible-project-master/tasks/deploy.yml
+-rw-rw-r-- root/root       767 2017-07-25 16:01 ansible-project-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-25 16:01 ansible-project-master/tests/
+-rw-rw-r-- root/root         9 2017-07-25 16:01 ansible-project-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-07-25 16:01 ansible-project-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-25 16:01 ansible-project-master/vars/
+-rw-rw-r-- root/root        28 2017-07-25 16:01 ansible-project-master/vars/main.yml

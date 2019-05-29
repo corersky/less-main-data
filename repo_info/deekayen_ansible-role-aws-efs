@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-15 11:50 ansible-role-aws-efs-master/
+-rw-rw-r-- root/root        89 2019-04-15 11:50 ansible-role-aws-efs-master/.gitignore
+-rw-rw-r-- root/root       237 2019-04-15 11:50 ansible-role-aws-efs-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       590 2019-04-15 11:50 ansible-role-aws-efs-master/.travis.yml
+-rw-rw-r-- root/root      1512 2019-04-15 11:50 ansible-role-aws-efs-master/LICENSE
+-rw-rw-r-- root/root      1364 2019-04-15 11:50 ansible-role-aws-efs-master/README.md
+drwxrwxr-x root/root         0 2019-04-15 11:50 ansible-role-aws-efs-master/meta/
+-rw-rw-r-- root/root       545 2019-04-15 11:50 ansible-role-aws-efs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-15 11:50 ansible-role-aws-efs-master/tasks/
+-rw-rw-r-- root/root      1883 2019-04-15 11:50 ansible-role-aws-efs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-15 11:50 ansible-role-aws-efs-master/tests/
+-rw-rw-r-- root/root        11 2019-04-15 11:50 ansible-role-aws-efs-master/tests/inventory
+-rw-rw-r-- root/root        98 2019-04-15 11:50 ansible-role-aws-efs-master/tests/test.yml

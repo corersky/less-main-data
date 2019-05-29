@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-20 12:43 create_vpc-master/
+-rw-rw-r-- root/root         6 2017-08-20 12:43 create_vpc-master/.gitignore
+-rw-rw-r-- root/root       537 2017-08-20 12:43 create_vpc-master/.travis.yml
+-rw-rw-r-- root/root     11344 2017-08-20 12:43 create_vpc-master/LICENSE
+-rw-rw-r-- root/root      2077 2017-08-20 12:43 create_vpc-master/README.md
+drwxrwxr-x root/root         0 2017-08-20 12:43 create_vpc-master/meta/
+-rw-rw-r-- root/root       491 2017-08-20 12:43 create_vpc-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-20 12:43 create_vpc-master/tasks/
+-rw-rw-r-- root/root       915 2017-08-20 12:43 create_vpc-master/tasks/create_nat_gateway.yml
+-rw-rw-r-- root/root      2244 2017-08-20 12:43 create_vpc-master/tasks/create_routing_tables.yml
+-rw-rw-r-- root/root       387 2017-08-20 12:43 create_vpc-master/tasks/create_subnets.yml
+-rw-rw-r-- root/root       606 2017-08-20 12:43 create_vpc-master/tasks/create_vpc.yml
+-rw-rw-r-- root/root       308 2017-08-20 12:43 create_vpc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-20 12:43 create_vpc-master/tests/
+-rw-rw-r-- root/root        34 2017-08-20 12:43 create_vpc-master/tests/inventory
+-rw-rw-r-- root/root        46 2017-08-20 12:43 create_vpc-master/tests/test.yml

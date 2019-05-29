@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-mongodb-master/
+-rw-rw-r-- root/root      1074 2016-06-20 01:37 ansible-mongodb-master/LICENSE
+-rw-rw-r-- root/root      3998 2016-06-20 01:37 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root       166 2016-06-20 01:37 ansible-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root        97 2016-06-20 01:37 ansible-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       493 2016-06-20 01:37 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root       209 2016-06-20 01:37 ansible-mongodb-master/tasks/centos.yml
+-rw-rw-r-- root/root       581 2016-06-20 01:37 ansible-mongodb-master/tasks/debian.yml
+-rw-rw-r-- root/root      1455 2016-06-20 01:37 ansible-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-mongodb-master/templates/
+-rw-rw-r-- root/root      2000 2016-06-20 01:37 ansible-mongodb-master/templates/mongod.conf
+-rw-rw-r-- root/root       528 2016-06-20 01:37 ansible-mongodb-master/templates/rsInitiate.js.j2

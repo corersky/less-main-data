@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-09 17:13 ansible-role-mautic-master/
+-rw-rw-r-- root/root      1069 2018-10-09 17:13 ansible-role-mautic-master/LICENSE
+-rw-rw-r-- root/root      1328 2018-10-09 17:13 ansible-role-mautic-master/README.md
+drwxrwxr-x root/root         0 2018-10-09 17:13 ansible-role-mautic-master/defaults/
+-rw-rw-r-- root/root       194 2018-10-09 17:13 ansible-role-mautic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-09 17:13 ansible-role-mautic-master/handlers/
+-rw-rw-r-- root/root         4 2018-10-09 17:13 ansible-role-mautic-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-09 17:13 ansible-role-mautic-master/meta/
+-rw-rw-r-- root/root       540 2018-10-09 17:13 ansible-role-mautic-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-09 17:13 ansible-role-mautic-master/tasks/
+-rw-rw-r-- root/root      1413 2018-10-09 17:13 ansible-role-mautic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-09 17:13 ansible-role-mautic-master/tests/
+-rw-rw-r-- root/root        11 2018-10-09 17:13 ansible-role-mautic-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-10-09 17:13 ansible-role-mautic-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-09 17:13 ansible-role-mautic-master/vars/
+-rw-rw-r-- root/root         4 2018-10-09 17:13 ansible-role-mautic-master/vars/main.yml

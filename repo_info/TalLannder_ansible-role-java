@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-02-14 07:41 ansible-role-java-master/
+-rw-rw-r-- root/root      1079 2016-02-14 07:41 ansible-role-java-master/LICENSE
+-rw-rw-r-- root/root       351 2016-02-14 07:41 ansible-role-java-master/README.md
+drwxrwxr-x root/root         0 2016-02-14 07:41 ansible-role-java-master/defaults/
+-rw-rw-r-- root/root        43 2016-02-14 07:41 ansible-role-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-14 07:41 ansible-role-java-master/meta/
+-rw-rw-r-- root/root      1572 2016-02-14 07:41 ansible-role-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-14 07:41 ansible-role-java-master/tasks/
+-rw-rw-r-- root/root       350 2016-02-14 07:41 ansible-role-java-master/tasks/Debian.yml
+-rw-rw-r-- root/root         4 2016-02-14 07:41 ansible-role-java-master/tasks/RedHat.yml
+-rw-rw-r-- root/root         4 2016-02-14 07:41 ansible-role-java-master/tasks/Suse.yml
+-rw-rw-r-- root/root       739 2016-02-14 07:41 ansible-role-java-master/tasks/main.yml

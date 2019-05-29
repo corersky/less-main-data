@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-20 02:41 ansible-pct-master/
+-rw-rw-r-- root/root       539 2016-06-20 02:41 ansible-pct-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-06-20 02:41 ansible-pct-master/LICENSE
+-rw-rw-r-- root/root      2322 2016-06-20 02:41 ansible-pct-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 02:41 ansible-pct-master/defaults/
+-rw-rw-r-- root/root       148 2016-06-20 02:41 ansible-pct-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 02:41 ansible-pct-master/meta/
+-rw-rw-r-- root/root      2086 2016-06-20 02:41 ansible-pct-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 02:41 ansible-pct-master/tasks/
+-rw-rw-r-- root/root      1114 2016-06-20 02:41 ansible-pct-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-20 02:41 ansible-pct-master/tests/
+-rw-rw-r-- root/root         9 2016-06-20 02:41 ansible-pct-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-06-20 02:41 ansible-pct-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-06-20 02:41 ansible-pct-master/vars/
+-rw-rw-r-- root/root         4 2016-06-20 02:41 ansible-pct-master/vars/main.yml

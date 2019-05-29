@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-27 11:25 ansible-role-xcode-clt-master/
+-rw-rw-r-- root/root        18 2018-08-27 11:25 ansible-role-xcode-clt-master/.gitignore
+-rw-rw-r-- root/root      1866 2018-08-27 11:25 ansible-role-xcode-clt-master/.travis.yml
+-rw-rw-r-- root/root      1079 2018-08-27 11:25 ansible-role-xcode-clt-master/LICENSE
+-rw-rw-r-- root/root       741 2018-08-27 11:25 ansible-role-xcode-clt-master/README.md
+drwxrwxr-x root/root         0 2018-08-27 11:25 ansible-role-xcode-clt-master/handlers/
+-rw-rw-r-- root/root       169 2018-08-27 11:25 ansible-role-xcode-clt-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-27 11:25 ansible-role-xcode-clt-master/meta/
+-rw-rw-r-- root/root       315 2018-08-27 11:25 ansible-role-xcode-clt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-27 11:25 ansible-role-xcode-clt-master/tasks/
+-rw-rw-r-- root/root      1024 2018-08-27 11:25 ansible-role-xcode-clt-master/tasks/macos.yml
+-rw-rw-r-- root/root        62 2018-08-27 11:25 ansible-role-xcode-clt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-27 11:25 ansible-role-xcode-clt-master/tests/
+-rw-rw-r-- root/root        61 2018-08-27 11:25 ansible-role-xcode-clt-master/tests/test.yml

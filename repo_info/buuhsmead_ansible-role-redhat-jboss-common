@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/
+-rw-rw-r-- root/root         7 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/.gitignore
+-rw-rw-r-- root/root      1602 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/LICENSE
+-rw-rw-r-- root/root      2378 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/README.md
+drwxrwxr-x root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/defaults/
+-rw-rw-r-- root/root       427 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/files/
+-rw-rw-r-- root/root       473 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/files/hostname_resolve_check.sh
+-rw-rw-r-- root/root      4482 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/files/memstat.sh
+drwxrwxr-x root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/meta/
+-rw-rw-r-- root/root       656 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/tasks/
+-rw-rw-r-- root/root      3504 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/templates/
+-rw-rw-r-- root/root       231 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/templates/.bashrc.j2
+drwxrwxr-x root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/test/
+-rw-rw-r-- root/root        35 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/test/inventory
+-rw-rw-r-- root/root       418 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/test/main.yml
+-rw-rw-r-- root/root        64 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/test/requirements.yml
+drwxrwxr-x root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/test/roles/
+lrwxrwxrwx root/root         0 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/test/roles/rh-jboss-common -> ../../.
+-rw-rw-r-- root/root       101 2017-03-24 14:43 ansible-role-redhat-jboss-common-master/test/vars.yml

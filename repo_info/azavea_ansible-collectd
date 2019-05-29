@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2015-01-28 16:29 ansible-collectd-master/
+-rw-rw-r-- root/root         9 2015-01-28 16:29 ansible-collectd-master/.gitignore
+-rw-rw-r-- root/root       296 2015-01-28 16:29 ansible-collectd-master/CHANGELOG.md
+-rw-rw-r-- root/root      1004 2015-01-28 16:29 ansible-collectd-master/README.md
+drwxrwxr-x root/root         0 2015-01-28 16:29 ansible-collectd-master/defaults/
+-rw-rw-r-- root/root       121 2015-01-28 16:29 ansible-collectd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-28 16:29 ansible-collectd-master/examples/
+-rw-rw-r-- root/root       278 2015-01-28 16:29 ansible-collectd-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-01-28 16:29 ansible-collectd-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-01-28 16:29 ansible-collectd-master/examples/roles/azavea.collectd -> ../../
+-rw-rw-r-- root/root       132 2015-01-28 16:29 ansible-collectd-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-01-28 16:29 ansible-collectd-master/handlers/
+-rw-rw-r-- root/root        70 2015-01-28 16:29 ansible-collectd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-01-28 16:29 ansible-collectd-master/meta/
+-rw-rw-r-- root/root       279 2015-01-28 16:29 ansible-collectd-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-28 16:29 ansible-collectd-master/tasks/
+-rw-rw-r-- root/root       280 2015-01-28 16:29 ansible-collectd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-28 16:29 ansible-collectd-master/templates/
+-rw-rw-r-- root/root       636 2015-01-28 16:29 ansible-collectd-master/templates/collectd.conf.j2

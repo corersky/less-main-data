@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-03 23:47 ansible-role-scala-master/
+-rw-rw-r-- root/root       539 2017-05-03 23:47 ansible-role-scala-master/.travis.yml
+-rw-rw-r-- root/root       368 2017-05-03 23:47 ansible-role-scala-master/README.md
+drwxrwxr-x root/root         0 2017-05-03 23:47 ansible-role-scala-master/defaults/
+-rw-rw-r-- root/root        26 2017-05-03 23:47 ansible-role-scala-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-03 23:47 ansible-role-scala-master/meta/
+-rw-rw-r-- root/root       280 2017-05-03 23:47 ansible-role-scala-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-03 23:47 ansible-role-scala-master/tasks/
+-rw-rw-r-- root/root        66 2017-05-03 23:47 ansible-role-scala-master/tasks/install-Darwin.yml
+-rw-rw-r-- root/root       224 2017-05-03 23:47 ansible-role-scala-master/tasks/install-RedHat.yml
+-rw-rw-r-- root/root        63 2017-05-03 23:47 ansible-role-scala-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-03 23:47 ansible-role-scala-master/tests/
+-rw-rw-r-- root/root         9 2017-05-03 23:47 ansible-role-scala-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-05-03 23:47 ansible-role-scala-master/tests/test.yml

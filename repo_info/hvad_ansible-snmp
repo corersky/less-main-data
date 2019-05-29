@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-30 15:38 ansible-snmp-master/
+-rw-rw-r-- root/root       324 2017-04-30 15:38 ansible-snmp-master/README.md
+drwxrwxr-x root/root         0 2017-04-30 15:38 ansible-snmp-master/group_vars/
+-rw-rw-r-- root/root        75 2017-04-30 15:38 ansible-snmp-master/group_vars/centos.yml
+-rw-rw-r-- root/root        44 2017-04-30 15:38 ansible-snmp-master/hosts.example
+drwxrwxr-x root/root         0 2017-04-30 15:38 ansible-snmp-master/meta/
+-rw-rw-r-- root/root       237 2017-04-30 15:38 ansible-snmp-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-30 15:38 ansible-snmp-master/roles/
+drwxrwxr-x root/root         0 2017-04-30 15:38 ansible-snmp-master/roles/snmp/
+drwxrwxr-x root/root         0 2017-04-30 15:38 ansible-snmp-master/roles/snmp/handlers/
+-rw-rw-r-- root/root        92 2017-04-30 15:38 ansible-snmp-master/roles/snmp/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-30 15:38 ansible-snmp-master/roles/snmp/tasks/
+-rw-rw-r-- root/root       451 2017-04-30 15:38 ansible-snmp-master/roles/snmp/tasks/main.yml
+-rw-rw-r-- root/root       142 2017-04-30 15:38 ansible-snmp-master/site.yml

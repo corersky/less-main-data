@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-06 17:31 ansible-role-flynn_cli-master/
+-rw-rw-r-- root/root       714 2018-02-06 17:31 ansible-role-flynn_cli-master/.travis.yml
+-rw-rw-r-- root/root      1156 2018-02-06 17:31 ansible-role-flynn_cli-master/README.md
+drwxrwxr-x root/root         0 2018-02-06 17:31 ansible-role-flynn_cli-master/defaults/
+-rw-rw-r-- root/root       477 2018-02-06 17:31 ansible-role-flynn_cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-06 17:31 ansible-role-flynn_cli-master/meta/
+-rw-rw-r-- root/root       307 2018-02-06 17:31 ansible-role-flynn_cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-06 17:31 ansible-role-flynn_cli-master/tasks/
+-rw-rw-r-- root/root      1076 2018-02-06 17:31 ansible-role-flynn_cli-master/tasks/main.yml
+-rw-rw-r-- root/root       486 2018-02-06 17:31 ansible-role-flynn_cli-master/tasks/user_config_cluster.yml
+drwxrwxr-x root/root         0 2018-02-06 17:31 ansible-role-flynn_cli-master/tests/
+-rw-rw-r-- root/root        10 2018-02-06 17:31 ansible-role-flynn_cli-master/tests/inventory
+-rw-rw-r-- root/root       625 2018-02-06 17:31 ansible-role-flynn_cli-master/tests/test.yml

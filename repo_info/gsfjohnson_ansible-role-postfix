@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-06 16:46 ansible-role-postfix-master/
+-rw-rw-r-- root/root      1077 2019-03-06 16:46 ansible-role-postfix-master/LICENSE
+-rw-rw-r-- root/root        40 2019-03-06 16:46 ansible-role-postfix-master/README.md
+drwxrwxr-x root/root         0 2019-03-06 16:46 ansible-role-postfix-master/defaults/
+-rw-rw-r-- root/root      4122 2019-03-06 16:46 ansible-role-postfix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-06 16:46 ansible-role-postfix-master/handlers/
+-rw-rw-r-- root/root        77 2019-03-06 16:46 ansible-role-postfix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-06 16:46 ansible-role-postfix-master/meta/
+-rw-rw-r-- root/root       275 2019-03-06 16:46 ansible-role-postfix-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-06 16:46 ansible-role-postfix-master/tasks/
+-rw-rw-r-- root/root       456 2019-03-06 16:46 ansible-role-postfix-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-06 16:46 ansible-role-postfix-master/templates/
+-rw-rw-r-- root/root     29529 2019-03-06 16:46 ansible-role-postfix-master/templates/main.cf.j2
+-rw-rw-r-- root/root      3748 2019-03-06 16:46 ansible-role-postfix-master/templates/master.cf.j2

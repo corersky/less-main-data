@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/
+-rw-rw-r-- root/root       739 2016-02-25 18:27 ansible-role-protobuf-master/README.md
+drwxrwxr-x root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/defaults/
+-rw-rw-r-- root/root       242 2016-02-25 18:27 ansible-role-protobuf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/examples/
+-rw-rw-r-- root/root         9 2016-02-25 18:27 ansible-role-protobuf-master/examples/.gitignore
+-rw-rw-r-- root/root       279 2016-02-25 18:27 ansible-role-protobuf-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/examples/roles/RDI2.protobuf -> ../../
+-rw-rw-r-- root/root        58 2016-02-25 18:27 ansible-role-protobuf-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/handlers/
+-rw-rw-r-- root/root        33 2016-02-25 18:27 ansible-role-protobuf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/meta/
+-rw-rw-r-- root/root      2597 2016-02-25 18:27 ansible-role-protobuf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/tasks/
+-rw-rw-r-- root/root       621 2016-02-25 18:27 ansible-role-protobuf-master/tasks/install.yml
+-rw-rw-r-- root/root       531 2016-02-25 18:27 ansible-role-protobuf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-25 18:27 ansible-role-protobuf-master/vars/
+-rw-rw-r-- root/root        29 2016-02-25 18:27 ansible-role-protobuf-master/vars/main.yml

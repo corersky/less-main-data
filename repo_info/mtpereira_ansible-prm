@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-01-30 13:29 ansible-prm-master/
+-rw-rw-r-- root/root      1087 2014-01-30 13:29 ansible-prm-master/LICENSE
+-rw-rw-r-- root/root      1841 2014-01-30 13:29 ansible-prm-master/README.md
+drwxrwxr-x root/root         0 2014-01-30 13:29 ansible-prm-master/defaults/
+-rw-rw-r-- root/root       370 2014-01-30 13:29 ansible-prm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-30 13:29 ansible-prm-master/meta/
+-rw-rw-r-- root/root       364 2014-01-30 13:29 ansible-prm-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-30 13:29 ansible-prm-master/tasks/
+-rw-rw-r-- root/root       140 2014-01-30 13:29 ansible-prm-master/tasks/gem.yml
+-rw-rw-r-- root/root        90 2014-01-30 13:29 ansible-prm-master/tasks/main.yml
+-rw-rw-r-- root/root       343 2014-01-30 13:29 ansible-prm-master/tasks/pkg.yml
+-rw-rw-r-- root/root       652 2014-01-30 13:29 ansible-prm-master/tasks/repo-deb.yml
+-rw-rw-r-- root/root       263 2014-01-30 13:29 ansible-prm-master/tasks/repo-rpm.yml
+-rw-rw-r-- root/root       230 2014-01-30 13:29 ansible-prm-master/tasks/repo.yml

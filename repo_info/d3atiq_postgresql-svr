@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-10-24 12:18 postgresql-svr-master/
+-rw-rw-r-- root/root      1071 2018-10-24 12:18 postgresql-svr-master/LICENSE
+-rw-rw-r-- root/root      1355 2018-10-24 12:18 postgresql-svr-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 12:18 postgresql-svr-master/defaults/
+-rw-rw-r-- root/root        39 2018-10-24 12:18 postgresql-svr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:18 postgresql-svr-master/handlers/
+-rw-rw-r-- root/root        39 2018-10-24 12:18 postgresql-svr-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:18 postgresql-svr-master/meta/
+-rw-rw-r-- root/root       249 2018-10-24 12:18 postgresql-svr-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:18 postgresql-svr-master/tasks/
+-rw-rw-r-- root/root       572 2018-10-24 12:18 postgresql-svr-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 12:18 postgresql-svr-master/tests/
+-rw-rw-r-- root/root        11 2018-10-24 12:18 postgresql-svr-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-10-24 12:18 postgresql-svr-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 12:18 postgresql-svr-master/vars/
+-rw-rw-r-- root/root        35 2018-10-24 12:18 postgresql-svr-master/vars/main.yml

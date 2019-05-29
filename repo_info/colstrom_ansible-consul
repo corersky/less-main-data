@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-09-18 09:40 ansible-consul-master/
+-rw-rw-r-- root/root      1080 2015-09-18 09:40 ansible-consul-master/LICENSE
+-rw-rw-r-- root/root       616 2015-09-18 09:40 ansible-consul-master/README.md
+drwxrwxr-x root/root         0 2015-09-18 09:40 ansible-consul-master/defaults/
+-rw-rw-r-- root/root       148 2015-09-18 09:40 ansible-consul-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-18 09:40 ansible-consul-master/meta/
+-rw-rw-r-- root/root       348 2015-09-18 09:40 ansible-consul-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-18 09:40 ansible-consul-master/tasks/
+-rw-rw-r-- root/root       726 2015-09-18 09:40 ansible-consul-master/tasks/install-addon.yml
+-rw-rw-r-- root/root       906 2015-09-18 09:40 ansible-consul-master/tasks/install.yml
+-rw-rw-r-- root/root        50 2015-09-18 09:40 ansible-consul-master/tasks/main.yml
+-rw-rw-r-- root/root       419 2015-09-18 09:40 ansible-consul-master/tasks/prepare.yml
+drwxrwxr-x root/root         0 2015-09-18 09:40 ansible-consul-master/vars/
+-rw-rw-r-- root/root       115 2015-09-18 09:40 ansible-consul-master/vars/main.yml

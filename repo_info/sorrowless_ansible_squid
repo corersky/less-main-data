@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-20 14:04 ansible_squid-master/
+-rw-rw-r-- root/root     11357 2019-02-20 14:04 ansible_squid-master/LICENSE
+-rw-rw-r-- root/root       652 2019-02-20 14:04 ansible_squid-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 14:04 ansible_squid-master/defaults/
+-rw-rw-r-- root/root       269 2019-02-20 14:04 ansible_squid-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:04 ansible_squid-master/handlers/
+-rw-rw-r-- root/root        74 2019-02-20 14:04 ansible_squid-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:04 ansible_squid-master/meta/
+-rw-rw-r-- root/root       420 2019-02-20 14:04 ansible_squid-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:04 ansible_squid-master/tasks/
+-rw-rw-r-- root/root       488 2019-02-20 14:04 ansible_squid-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:04 ansible_squid-master/templates/
+-rw-rw-r-- root/root        50 2019-02-20 14:04 ansible_squid-master/templates/.htpasswd
+-rw-rw-r-- root/root      1236 2019-02-20 14:04 ansible_squid-master/templates/squid.conf
+drwxrwxr-x root/root         0 2019-02-20 14:04 ansible_squid-master/tests/
+-rw-rw-r-- root/root        11 2019-02-20 14:04 ansible_squid-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-02-20 14:04 ansible_squid-master/tests/test.yml

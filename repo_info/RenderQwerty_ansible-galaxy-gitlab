@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-20 03:59 ansible-galaxy-gitlab-master/
+-rw-rw-r-- root/root        12 2018-08-20 03:59 ansible-galaxy-gitlab-master/.gitignore
+-rw-rw-r-- root/root       296 2018-08-20 03:59 ansible-galaxy-gitlab-master/.yamllint
+-rw-rw-r-- root/root      1332 2018-08-20 03:59 ansible-galaxy-gitlab-master/README.md
+drwxrwxr-x root/root         0 2018-08-20 03:59 ansible-galaxy-gitlab-master/defaults/
+-rw-rw-r-- root/root        59 2018-08-20 03:59 ansible-galaxy-gitlab-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-20 03:59 ansible-galaxy-gitlab-master/handlers/
+-rw-rw-r-- root/root        46 2018-08-20 03:59 ansible-galaxy-gitlab-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-20 03:59 ansible-galaxy-gitlab-master/meta/
+-rw-rw-r-- root/root      1767 2018-08-20 03:59 ansible-galaxy-gitlab-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-20 03:59 ansible-galaxy-gitlab-master/tasks/
+-rw-rw-r-- root/root       601 2018-08-20 03:59 ansible-galaxy-gitlab-master/tasks/gitlab.yml
+-rw-rw-r-- root/root       170 2018-08-20 03:59 ansible-galaxy-gitlab-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-20 03:59 ansible-galaxy-gitlab-master/vars/
+-rw-rw-r-- root/root        42 2018-08-20 03:59 ansible-galaxy-gitlab-master/vars/main.yml

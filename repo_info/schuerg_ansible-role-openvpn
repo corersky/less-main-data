@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-12-28 05:51 ansible-role-openvpn-master/
+-rw-rw-r-- root/root        67 2016-12-28 05:51 ansible-role-openvpn-master/.gitignore
+-rw-rw-r-- root/root     35097 2016-12-28 05:51 ansible-role-openvpn-master/LICENSE
+-rw-rw-r-- root/root       522 2016-12-28 05:51 ansible-role-openvpn-master/README.md
+drwxrwxr-x root/root         0 2016-12-28 05:51 ansible-role-openvpn-master/defaults/
+-rw-rw-r-- root/root        32 2016-12-28 05:51 ansible-role-openvpn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-28 05:51 ansible-role-openvpn-master/handlers/
+-rw-rw-r-- root/root        32 2016-12-28 05:51 ansible-role-openvpn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-28 05:51 ansible-role-openvpn-master/meta/
+-rw-rw-r-- root/root      3315 2016-12-28 05:51 ansible-role-openvpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-28 05:51 ansible-role-openvpn-master/tasks/
+-rw-rw-r-- root/root       881 2016-12-28 05:51 ansible-role-openvpn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-28 05:51 ansible-role-openvpn-master/tests/
+-rw-rw-r-- root/root       713 2016-12-28 05:51 ansible-role-openvpn-master/tests/Vagrantfile
+-rw-rw-r-- root/root       197 2016-12-28 05:51 ansible-role-openvpn-master/tests/ansible.cfg
+-rw-rw-r-- root/root        82 2016-12-28 05:51 ansible-role-openvpn-master/tests/inventory
+-rw-rw-r-- root/root       167 2016-12-28 05:51 ansible-role-openvpn-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-12-28 05:51 ansible-role-openvpn-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-12-28 05:51 ansible-role-openvpn-master/tests/roles/openvpn -> ../..
+-rw-rw-r-- root/root       105 2016-12-28 05:51 ansible-role-openvpn-master/tests/test.yml

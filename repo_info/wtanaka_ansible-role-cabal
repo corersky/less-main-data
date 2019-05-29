@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-22 18:22 ansible-role-cabal-master/
+drwxrwxr-x root/root         0 2019-04-22 18:22 ansible-role-cabal-master/.circleci/
+-rw-rw-r-- root/root       705 2019-04-22 18:22 ansible-role-cabal-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-04-22 18:22 ansible-role-cabal-master/.gitignore
+-rw-rw-r-- root/root      2999 2019-04-22 18:22 ansible-role-cabal-master/.travis.yml
+-rw-rw-r-- root/root       567 2019-04-22 18:22 ansible-role-cabal-master/README.md
+drwxrwxr-x root/root         0 2019-04-22 18:22 ansible-role-cabal-master/meta/
+-rw-rw-r-- root/root      3602 2019-04-22 18:22 ansible-role-cabal-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-22 18:22 ansible-role-cabal-master/tasks/
+-rw-rw-r-- root/root      4306 2019-04-22 18:22 ansible-role-cabal-master/tasks/compat.yml
+-rw-rw-r-- root/root       568 2019-04-22 18:22 ansible-role-cabal-master/tasks/epel.yml
+-rw-rw-r-- root/root       318 2019-04-22 18:22 ansible-role-cabal-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1226 2019-04-22 18:22 ansible-role-cabal-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       155 2019-04-22 18:22 ansible-role-cabal-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-22 18:22 ansible-role-cabal-master/vars/
+-rw-rw-r-- root/root        35 2019-04-22 18:22 ansible-role-cabal-master/vars/default.yml
+-rw-rw-r-- root/root        51 2019-04-22 18:22 ansible-role-cabal-master/vars/main.yml

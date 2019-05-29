@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-09-27 02:51 ansible-role-snapraid-master/
+-rw-rw-r-- root/root       105 2016-09-27 02:51 ansible-role-snapraid-master/.gitmodules
+-rw-rw-r-- root/root      1048 2016-09-27 02:51 ansible-role-snapraid-master/.travis.yml
+-rw-rw-r-- root/root       418 2016-09-27 02:51 ansible-role-snapraid-master/README.md
+drwxrwxr-x root/root         0 2016-09-27 02:51 ansible-role-snapraid-master/meta/
+-rw-rw-r-- root/root       256 2016-09-27 02:51 ansible-role-snapraid-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-27 02:51 ansible-role-snapraid-master/tasks/
+-rw-rw-r-- root/root       210 2016-09-27 02:51 ansible-role-snapraid-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-27 02:51 ansible-role-snapraid-master/tests/
+-rw-rw-r-- root/root         9 2016-09-27 02:51 ansible-role-snapraid-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-09-27 02:51 ansible-role-snapraid-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-27 02:51 ansible-role-snapraid-master/travis-ci-linter/

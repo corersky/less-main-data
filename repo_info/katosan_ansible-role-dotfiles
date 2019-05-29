@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-14 14:26 ansible-role-dotfiles-master/
+-rw-rw-r-- root/root        22 2018-06-14 14:26 ansible-role-dotfiles-master/.gitignore
+-rw-rw-r-- root/root       373 2018-06-14 14:26 ansible-role-dotfiles-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-06-14 14:26 ansible-role-dotfiles-master/LICENSE
+-rw-rw-r-- root/root      1882 2018-06-14 14:26 ansible-role-dotfiles-master/README.md
+drwxrwxr-x root/root         0 2018-06-14 14:26 ansible-role-dotfiles-master/defaults/
+-rw-rw-r-- root/root       160 2018-06-14 14:26 ansible-role-dotfiles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-14 14:26 ansible-role-dotfiles-master/meta/
+-rw-rw-r-- root/root       429 2018-06-14 14:26 ansible-role-dotfiles-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-14 14:26 ansible-role-dotfiles-master/tasks/
+-rw-rw-r-- root/root       382 2018-06-14 14:26 ansible-role-dotfiles-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-14 14:26 ansible-role-dotfiles-master/tests/
+-rw-rw-r-- root/root       632 2018-06-14 14:26 ansible-role-dotfiles-master/tests/README.md
+-rw-rw-r-- root/root        27 2018-06-14 14:26 ansible-role-dotfiles-master/tests/requirements.yml
+-rw-rw-r-- root/root       206 2018-06-14 14:26 ansible-role-dotfiles-master/tests/test.yml

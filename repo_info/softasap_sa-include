@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-29 06:07 sa-include-master/
+-rw-rw-r-- root/root       539 2018-07-29 06:07 sa-include-master/.travis.yml
+-rw-rw-r-- root/root       417 2018-07-29 06:07 sa-include-master/README.md
+drwxrwxr-x root/root         0 2018-07-29 06:07 sa-include-master/defaults/
+-rw-rw-r-- root/root        35 2018-07-29 06:07 sa-include-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-29 06:07 sa-include-master/handlers/
+-rw-rw-r-- root/root        35 2018-07-29 06:07 sa-include-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-29 06:07 sa-include-master/meta/
+-rw-rw-r-- root/root      2931 2018-07-29 06:07 sa-include-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-29 06:07 sa-include-master/tasks/
+-rw-rw-r-- root/root        64 2018-07-29 06:07 sa-include-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-29 06:07 sa-include-master/tests/
+-rw-rw-r-- root/root         9 2018-07-29 06:07 sa-include-master/tests/inventory
+-rw-rw-r-- root/root        68 2018-07-29 06:07 sa-include-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-29 06:07 sa-include-master/vars/
+-rw-rw-r-- root/root        31 2018-07-29 06:07 sa-include-master/vars/main.yml
+-rw-rw-r-- root/root         6 2018-07-29 06:07 sa-include-master/version.txt

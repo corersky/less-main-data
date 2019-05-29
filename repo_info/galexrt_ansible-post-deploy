@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-post-deploy-master/
+-rw-rw-r-- root/root       783 2017-08-24 03:35 ansible-post-deploy-master/.travis.yml
+-rw-rw-r-- root/root      3219 2017-08-24 03:35 ansible-post-deploy-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root     11345 2017-08-24 03:35 ansible-post-deploy-master/LICENSE
+-rw-rw-r-- root/root       780 2017-08-24 03:35 ansible-post-deploy-master/README.md
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-post-deploy-master/defaults/
+-rw-rw-r-- root/root        44 2017-08-24 03:35 ansible-post-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-post-deploy-master/meta/
+-rw-rw-r-- root/root      3272 2017-08-24 03:35 ansible-post-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-post-deploy-master/tasks/
+-rw-rw-r-- root/root        45 2017-08-24 03:35 ansible-post-deploy-master/tasks/main.yml
+-rw-rw-r-- root/root       164 2017-08-24 03:35 ansible-post-deploy-master/tasks/motd.yml
+-rw-rw-r-- root/root       209 2017-08-24 03:35 ansible-post-deploy-master/tasks/wall.yml
+drwxrwxr-x root/root         0 2017-08-24 03:35 ansible-post-deploy-master/tests/
+-rw-rw-r-- root/root         9 2017-08-24 03:35 ansible-post-deploy-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-08-24 03:35 ansible-post-deploy-master/tests/test.yml

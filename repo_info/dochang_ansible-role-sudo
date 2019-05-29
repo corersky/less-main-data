@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-29 11:43 ansible-role-sudo-master/
+-rw-rw-r-- root/root        93 2018-05-29 11:43 ansible-role-sudo-master/.editorconfig
+-rw-rw-r-- root/root      1298 2018-05-29 11:43 ansible-role-sudo-master/.gitignore
+-rw-rw-r-- root/root       542 2018-05-29 11:43 ansible-role-sudo-master/.travis.yml
+-rw-rw-r-- root/root       904 2018-05-29 11:43 ansible-role-sudo-master/README.md
+drwxrwxr-x root/root         0 2018-05-29 11:43 ansible-role-sudo-master/defaults/
+-rw-rw-r-- root/root        40 2018-05-29 11:43 ansible-role-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-29 11:43 ansible-role-sudo-master/meta/
+-rw-rw-r-- root/root      1822 2018-05-29 11:43 ansible-role-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-29 11:43 ansible-role-sudo-master/tasks/
+-rw-rw-r-- root/root       419 2018-05-29 11:43 ansible-role-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-29 11:43 ansible-role-sudo-master/templates/
+drwxrwxr-x root/root         0 2018-05-29 11:43 ansible-role-sudo-master/templates/etc/
+-rw-rw-r-- root/root       824 2018-05-29 11:43 ansible-role-sudo-master/templates/etc/sudoers
+drwxrwxr-x root/root         0 2018-05-29 11:43 ansible-role-sudo-master/tests/
+-rw-rw-r-- root/root        11 2018-05-29 11:43 ansible-role-sudo-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-05-29 11:43 ansible-role-sudo-master/tests/test.yml

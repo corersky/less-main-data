@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-11 10:02 ansible-port-knocking-master/
+-rw-rw-r-- root/root      1492 2016-06-11 10:02 ansible-port-knocking-master/LICENSE
+-rw-rw-r-- root/root      1921 2016-06-11 10:02 ansible-port-knocking-master/README.md
+drwxrwxr-x root/root         0 2016-06-11 10:02 ansible-port-knocking-master/defaults/
+-rw-rw-r-- root/root        66 2016-06-11 10:02 ansible-port-knocking-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-11 10:02 ansible-port-knocking-master/handlers/
+-rw-rw-r-- root/root       133 2016-06-11 10:02 ansible-port-knocking-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-11 10:02 ansible-port-knocking-master/meta/
+-rw-rw-r-- root/root       292 2016-06-11 10:02 ansible-port-knocking-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-11 10:02 ansible-port-knocking-master/tasks/
+-rw-rw-r-- root/root        56 2016-06-11 10:02 ansible-port-knocking-master/tasks/main.yml
+-rw-rw-r-- root/root       182 2016-06-11 10:02 ansible-port-knocking-master/tasks/packages.yml
+-rw-rw-r-- root/root      1031 2016-06-11 10:02 ansible-port-knocking-master/tasks/services.yml
+drwxrwxr-x root/root         0 2016-06-11 10:02 ansible-port-knocking-master/templates/
+-rw-rw-r-- root/root       381 2016-06-11 10:02 ansible-port-knocking-master/templates/knockd.conf.j2
+drwxrwxr-x root/root         0 2016-06-11 10:02 ansible-port-knocking-master/vars/
+-rw-rw-r-- root/root         4 2016-06-11 10:02 ansible-port-knocking-master/vars/main.yml

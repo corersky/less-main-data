@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-19 08:10 ansible-selfsignedcert-master/
+-rw-rw-r-- root/root     35141 2017-10-19 08:10 ansible-selfsignedcert-master/LICENSE
+-rw-rw-r-- root/root       667 2017-10-19 08:10 ansible-selfsignedcert-master/README.md
+drwxrwxr-x root/root         0 2017-10-19 08:10 ansible-selfsignedcert-master/defaults/
+-rw-rw-r-- root/root       127 2017-10-19 08:10 ansible-selfsignedcert-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-19 08:10 ansible-selfsignedcert-master/handlers/
+-rw-rw-r-- root/root       463 2017-10-19 08:10 ansible-selfsignedcert-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-19 08:10 ansible-selfsignedcert-master/meta/
+-rw-rw-r-- root/root      1699 2017-10-19 08:10 ansible-selfsignedcert-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-19 08:10 ansible-selfsignedcert-master/tasks/
+-rw-rw-r-- root/root       911 2017-10-19 08:10 ansible-selfsignedcert-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-19 08:10 ansible-selfsignedcert-master/tests/
+-rw-rw-r-- root/root        11 2017-10-19 08:10 ansible-selfsignedcert-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-10-19 08:10 ansible-selfsignedcert-master/tests/test.yml

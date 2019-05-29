@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-03-30 21:14 timezone-master/
+-rw-rw-r-- root/root        83 2015-03-30 21:14 timezone-master/.gitignore
+-rw-rw-r-- root/root       546 2015-03-30 21:14 timezone-master/.travis.yml
+-rw-rw-r-- root/root      1079 2015-03-30 21:14 timezone-master/LICENSE
+-rw-rw-r-- root/root       829 2015-03-30 21:14 timezone-master/README.md
+-rw-rw-r-- root/root       444 2015-03-30 21:14 timezone-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-03-30 21:14 timezone-master/defaults/
+-rw-rw-r-- root/root        55 2015-03-30 21:14 timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-30 21:14 timezone-master/meta/
+-rw-rw-r-- root/root       263 2015-03-30 21:14 timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-30 21:14 timezone-master/tasks/
+-rw-rw-r-- root/root       756 2015-03-30 21:14 timezone-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2015-03-30 21:14 timezone-master/test.yml
+-rw-rw-r-- root/root        69 2015-03-30 21:14 timezone-master/vagrant-inventory

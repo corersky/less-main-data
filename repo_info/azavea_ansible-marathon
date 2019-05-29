@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2015-08-28 08:48 ansible-marathon-master/
+-rw-rw-r-- root/root        37 2015-08-28 08:48 ansible-marathon-master/.gitignore
+-rw-rw-r-- root/root       195 2015-08-28 08:48 ansible-marathon-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-08-28 08:48 ansible-marathon-master/LICENSE
+-rw-rw-r-- root/root       229 2015-08-28 08:48 ansible-marathon-master/README.md
+drwxrwxr-x root/root         0 2015-08-28 08:48 ansible-marathon-master/defaults/
+-rw-rw-r-- root/root        30 2015-08-28 08:48 ansible-marathon-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-28 08:48 ansible-marathon-master/examples/
+-rw-rw-r-- root/root       668 2015-08-28 08:48 ansible-marathon-master/examples/Vagrantfile
+-rw-rw-r-- root/root        18 2015-08-28 08:48 ansible-marathon-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-08-28 08:48 ansible-marathon-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-08-28 08:48 ansible-marathon-master/examples/roles/azavea.marathon -> ../..
+-rw-rw-r-- root/root       132 2015-08-28 08:48 ansible-marathon-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-08-28 08:48 ansible-marathon-master/handlers/
+-rw-rw-r-- root/root        70 2015-08-28 08:48 ansible-marathon-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-28 08:48 ansible-marathon-master/meta/
+-rw-rw-r-- root/root       303 2015-08-28 08:48 ansible-marathon-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-28 08:48 ansible-marathon-master/tasks/
+-rw-rw-r-- root/root       395 2015-08-28 08:48 ansible-marathon-master/tasks/main.yml

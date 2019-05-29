@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-23 19:54 remove-git-deploy-setup-master/
+-rw-rw-r-- root/root        63 2018-11-23 19:54 remove-git-deploy-setup-master/.gitignore
+-rw-rw-r-- root/root      1138 2018-11-23 19:54 remove-git-deploy-setup-master/README.md
+drwxrwxr-x root/root         0 2018-11-23 19:54 remove-git-deploy-setup-master/defaults/
+-rw-rw-r-- root/root       156 2018-11-23 19:54 remove-git-deploy-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-23 19:54 remove-git-deploy-setup-master/handlers/
+-rw-rw-r-- root/root        47 2018-11-23 19:54 remove-git-deploy-setup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-23 19:54 remove-git-deploy-setup-master/meta/
+-rw-rw-r-- root/root       426 2018-11-23 19:54 remove-git-deploy-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-23 19:54 remove-git-deploy-setup-master/tasks/
+-rw-rw-r-- root/root       280 2018-11-23 19:54 remove-git-deploy-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-23 19:54 remove-git-deploy-setup-master/tests/
+-rw-rw-r-- root/root         9 2018-11-23 19:54 remove-git-deploy-setup-master/tests/inventory
+-rw-rw-r-- root/root        89 2018-11-23 19:54 remove-git-deploy-setup-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-23 19:54 remove-git-deploy-setup-master/vars/
+-rw-rw-r-- root/root       371 2018-11-23 19:54 remove-git-deploy-setup-master/vars/main.yml

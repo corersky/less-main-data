@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-15 03:45 ansible-role-kubefaas-master/
+-rw-rw-r-- root/root     11357 2019-05-15 03:45 ansible-role-kubefaas-master/LICENSE
+-rw-rw-r-- root/root        74 2019-05-15 03:45 ansible-role-kubefaas-master/README.md
+drwxrwxr-x root/root         0 2019-05-15 03:45 ansible-role-kubefaas-master/defaults/
+-rw-rw-r-- root/root       601 2019-05-15 03:45 ansible-role-kubefaas-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 03:45 ansible-role-kubefaas-master/meta/
+-rw-rw-r-- root/root       341 2019-05-15 03:45 ansible-role-kubefaas-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-15 03:45 ansible-role-kubefaas-master/tasks/
+-rw-rw-r-- root/root       371 2019-05-15 03:45 ansible-role-kubefaas-master/tasks/main.yaml
+-rw-rw-r-- root/root      3249 2019-05-15 03:45 ansible-role-kubefaas-master/tasks/openfaas.yaml
+drwxrwxr-x root/root         0 2019-05-15 03:45 ansible-role-kubefaas-master/templates/
+-rw-rw-r-- root/root       896 2019-05-15 03:45 ansible-role-kubefaas-master/templates/oscar-worker-dep.j2

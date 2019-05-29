@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-11-07 14:05 ansible-apt-sources-baseline-master/
+-rw-rw-r-- root/root     11325 2014-11-07 14:05 ansible-apt-sources-baseline-master/LICENSE
+-rw-rw-r-- root/root      2468 2014-11-07 14:05 ansible-apt-sources-baseline-master/README.md
+drwxrwxr-x root/root         0 2014-11-07 14:05 ansible-apt-sources-baseline-master/defaults/
+-rw-rw-r-- root/root        68 2014-11-07 14:05 ansible-apt-sources-baseline-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-07 14:05 ansible-apt-sources-baseline-master/handlers/
+-rw-rw-r-- root/root        45 2014-11-07 14:05 ansible-apt-sources-baseline-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-07 14:05 ansible-apt-sources-baseline-master/meta/
+-rw-rw-r-- root/root       324 2014-11-07 14:05 ansible-apt-sources-baseline-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-07 14:05 ansible-apt-sources-baseline-master/tasks/
+-rw-rw-r-- root/root       201 2014-11-07 14:05 ansible-apt-sources-baseline-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-07 14:05 ansible-apt-sources-baseline-master/templates/
+drwxrwxr-x root/root         0 2014-11-07 14:05 ansible-apt-sources-baseline-master/templates/etc/
+drwxrwxr-x root/root         0 2014-11-07 14:05 ansible-apt-sources-baseline-master/templates/etc/apt/
+-rw-rw-r-- root/root       302 2014-11-07 14:05 ansible-apt-sources-baseline-master/templates/etc/apt/sources.list.j2

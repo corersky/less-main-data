@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-30 08:35 mongo-ansible-master/
+-rw-rw-r-- root/root     18047 2016-05-30 08:35 mongo-ansible-master/LICENSE
+-rw-rw-r-- root/root      1592 2016-05-30 08:35 mongo-ansible-master/README.md
+drwxrwxr-x root/root         0 2016-05-30 08:35 mongo-ansible-master/defaults/
+-rw-rw-r-- root/root       669 2016-05-30 08:35 mongo-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-30 08:35 mongo-ansible-master/handlers/
+-rw-rw-r-- root/root        67 2016-05-30 08:35 mongo-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-30 08:35 mongo-ansible-master/meta/
+-rw-rw-r-- root/root       317 2016-05-30 08:35 mongo-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-30 08:35 mongo-ansible-master/tasks/
+-rw-rw-r-- root/root      1345 2016-05-30 08:35 mongo-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-30 08:35 mongo-ansible-master/templates/
+-rwxrwxr-x root/root       544 2016-05-30 08:35 mongo-ansible-master/templates/backupDailyMongo.sh
+-rw-rw-r-- root/root      1668 2016-05-30 08:35 mongo-ansible-master/templates/mongodb.conf.j2

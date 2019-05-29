@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/
+-rw-rw-r-- root/root         6 2018-09-19 05:30 ansible-deploy-docker-compose-master/.gitignore
+-rw-rw-r-- root/root      1068 2018-09-19 05:30 ansible-deploy-docker-compose-master/LICENSE
+-rw-rw-r-- root/root      2651 2018-09-19 05:30 ansible-deploy-docker-compose-master/README.md
+drwxrwxr-x root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/defaults/
+-rw-rw-r-- root/root       342 2018-09-19 05:30 ansible-deploy-docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/handlers/
+-rw-rw-r-- root/root        45 2018-09-19 05:30 ansible-deploy-docker-compose-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/meta/
+-rw-rw-r-- root/root      1787 2018-09-19 05:30 ansible-deploy-docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/tasks/
+-rw-rw-r-- root/root      1478 2018-09-19 05:30 ansible-deploy-docker-compose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/tests/
+drwxrwxr-x root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/tests/fixture/
+-rw-rw-r-- root/root        83 2018-09-19 05:30 ansible-deploy-docker-compose-master/tests/fixture/docker-compose.yml
+-rw-rw-r-- root/root        11 2018-09-19 05:30 ansible-deploy-docker-compose-master/tests/inventory
+-rw-rw-r-- root/root       497 2018-09-19 05:30 ansible-deploy-docker-compose-master/tests/test-deploy.yml
+-rw-rw-r-- root/root       519 2018-09-19 05:30 ansible-deploy-docker-compose-master/tests/test-remove.yml
+lrwxrwxrwx root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/tests/zal_ari.deploy_docker_compose -> ../../ansible-deploy-docker-compose/
+drwxrwxr-x root/root         0 2018-09-19 05:30 ansible-deploy-docker-compose-master/vars/
+-rw-rw-r-- root/root        42 2018-09-19 05:30 ansible-deploy-docker-compose-master/vars/main.yml

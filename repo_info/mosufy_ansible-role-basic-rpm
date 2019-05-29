@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-12-09 19:23 ansible-role-basic-rpm-master/
+-rw-rw-r-- root/root         5 2016-12-09 19:23 ansible-role-basic-rpm-master/.gitignore
+-rw-rw-r-- root/root       597 2016-12-09 19:23 ansible-role-basic-rpm-master/README.md
+drwxrwxr-x root/root         0 2016-12-09 19:23 ansible-role-basic-rpm-master/meta/
+-rw-rw-r-- root/root       219 2016-12-09 19:23 ansible-role-basic-rpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-09 19:23 ansible-role-basic-rpm-master/tasks/
+-rw-rw-r-- root/root       572 2016-12-09 19:23 ansible-role-basic-rpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-09 19:23 ansible-role-basic-rpm-master/tests/
+-rw-rw-r-- root/root         9 2016-12-09 19:23 ansible-role-basic-rpm-master/tests/inventory
+-rw-rw-r-- root/root        67 2016-12-09 19:23 ansible-role-basic-rpm-master/tests/test.yml

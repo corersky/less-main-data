@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-04-26 20:37 ansible-gitweb-master/
+-rw-rw-r-- root/root         0 2017-04-26 20:37 ansible-gitweb-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-04-26 20:37 ansible-gitweb-master/LICENSE
+-rw-rw-r-- root/root      5150 2017-04-26 20:37 ansible-gitweb-master/README.md
+drwxrwxr-x root/root         0 2017-04-26 20:37 ansible-gitweb-master/defaults/
+-rw-rw-r-- root/root      4228 2017-04-26 20:37 ansible-gitweb-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-04-26 20:37 ansible-gitweb-master/handlers/
+-rw-rw-r-- root/root       166 2017-04-26 20:37 ansible-gitweb-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-04-26 20:37 ansible-gitweb-master/meta/
+-rw-rw-r-- root/root       256 2017-04-26 20:37 ansible-gitweb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-26 20:37 ansible-gitweb-master/tasks/
+-rw-rw-r-- root/root       538 2017-04-26 20:37 ansible-gitweb-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-04-26 20:37 ansible-gitweb-master/templates/
+-rw-rw-r-- root/root        76 2017-04-26 20:37 ansible-gitweb-master/templates/git.conf.j2
+-rw-rw-r-- root/root       108 2017-04-26 20:37 ansible-gitweb-master/templates/gitweb.conf.j2

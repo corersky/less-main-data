@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/
+-rw-rw-r-- root/root        17 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/.gitignore
+-rw-rw-r-- root/root      1058 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/LICENSE
+-rw-rw-r-- root/root      1078 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/README.md
+drwxrwxr-x root/root         0 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/meta/
+-rw-rw-r-- root/root       611 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/tasks/
+-rw-rw-r-- root/root       144 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/tasks/main.yml
+-rw-rw-r-- root/root       570 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/tasks/pkg-debian.yml
+-rw-rw-r-- root/root       937 2019-04-15 16:36 ansible-libapache2-mod-redirectionio-master/tasks/pkg-redhat.yml

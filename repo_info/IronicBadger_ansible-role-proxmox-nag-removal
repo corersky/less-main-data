@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/
+-rw-rw-r-- root/root       258 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/defaults/
+-rw-rw-r-- root/root        50 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/handlers/
+-rw-rw-r-- root/root        80 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/meta/
+-rw-rw-r-- root/root       309 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/tasks/
+-rw-rw-r-- root/root       189 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/tasks/main.yml
+-rw-rw-r-- root/root       134 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/tasks/remove-enterprise-repo.yml
+-rw-rw-r-- root/root       475 2019-04-25 14:51 ansible-role-proxmox-nag-removal-master/tasks/remove-nag.yml

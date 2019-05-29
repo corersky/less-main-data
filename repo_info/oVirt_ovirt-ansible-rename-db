@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-08 09:37 ovirt-ansible-rename-db-master/
+-rw-rw-r-- root/root        80 2018-08-08 09:37 ovirt-ansible-rename-db-master/.travis.yml
+-rw-rw-r-- root/root       796 2018-08-08 09:37 ovirt-ansible-rename-db-master/README.md
+drwxrwxr-x root/root         0 2018-08-08 09:37 ovirt-ansible-rename-db-master/defaults/
+-rw-rw-r-- root/root       339 2018-08-08 09:37 ovirt-ansible-rename-db-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-08 09:37 ovirt-ansible-rename-db-master/meta/
+-rw-rw-r-- root/root       300 2018-08-08 09:37 ovirt-ansible-rename-db-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-08 09:37 ovirt-ansible-rename-db-master/tasks/
+-rw-rw-r-- root/root      2145 2018-08-08 09:37 ovirt-ansible-rename-db-master/tasks/main.yml
+-rw-rw-r-- root/root      1183 2018-08-08 09:37 ovirt-ansible-rename-db-master/tasks/postgres-rename.yml
+-rw-rw-r-- root/root      1269 2018-08-08 09:37 ovirt-ansible-rename-db-master/tasks/postgres95-rename.yml
+-rw-rw-r-- root/root       781 2018-08-08 09:37 ovirt-ansible-rename-db-master/tasks/rename.yml
+-rw-rw-r-- root/root      1238 2018-08-08 09:37 ovirt-ansible-rename-db-master/tasks/set-engine.yml
+drwxrwxr-x root/root         0 2018-08-08 09:37 ovirt-ansible-rename-db-master/vars/
+-rw-rw-r-- root/root        63 2018-08-08 09:37 ovirt-ansible-rename-db-master/vars/postgres.yml
+-rw-rw-r-- root/root       102 2018-08-08 09:37 ovirt-ansible-rename-db-master/vars/postgres95.yml

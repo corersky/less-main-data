@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-19 04:36 ansible-ipfs-master/
+-rw-rw-r-- root/root      1084 2017-11-19 04:36 ansible-ipfs-master/LICENSE
+-rw-rw-r-- root/root      3316 2017-11-19 04:36 ansible-ipfs-master/README.md
+drwxrwxr-x root/root         0 2017-11-19 04:36 ansible-ipfs-master/defaults/
+-rw-rw-r-- root/root       224 2017-11-19 04:36 ansible-ipfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-19 04:36 ansible-ipfs-master/files/
+-rw-rw-r-- root/root       177 2017-11-19 04:36 ansible-ipfs-master/files/ipfs.service
+drwxrwxr-x root/root         0 2017-11-19 04:36 ansible-ipfs-master/handlers/
+-rw-rw-r-- root/root       210 2017-11-19 04:36 ansible-ipfs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-19 04:36 ansible-ipfs-master/meta/
+-rw-rw-r-- root/root       293 2017-11-19 04:36 ansible-ipfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-19 04:36 ansible-ipfs-master/tasks/
+-rw-rw-r-- root/root      1866 2017-11-19 04:36 ansible-ipfs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-19 04:36 ansible-ipfs-master/templates/
+-rw-rw-r-- root/root      3713 2017-11-19 04:36 ansible-ipfs-master/templates/ipfs_default_config.json

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-11 15:45 ansible-change-hostname-master/
+-rw-rw-r-- root/root       539 2017-09-11 15:45 ansible-change-hostname-master/.travis.yml
+-rw-rw-r-- root/root       810 2017-09-11 15:45 ansible-change-hostname-master/README.md
+drwxrwxr-x root/root         0 2017-09-11 15:45 ansible-change-hostname-master/defaults/
+-rw-rw-r-- root/root       142 2017-09-11 15:45 ansible-change-hostname-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-11 15:45 ansible-change-hostname-master/handlers/
+-rw-rw-r-- root/root        48 2017-09-11 15:45 ansible-change-hostname-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-11 15:45 ansible-change-hostname-master/meta/
+-rw-rw-r-- root/root      2426 2017-09-11 15:45 ansible-change-hostname-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-11 15:45 ansible-change-hostname-master/tasks/
+-rw-rw-r-- root/root       914 2017-09-11 15:45 ansible-change-hostname-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-11 15:45 ansible-change-hostname-master/tests/
+-rw-rw-r-- root/root       125 2017-09-11 15:45 ansible-change-hostname-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-11 15:45 ansible-change-hostname-master/vars/
+-rw-rw-r-- root/root        44 2017-09-11 15:45 ansible-change-hostname-master/vars/main.yml

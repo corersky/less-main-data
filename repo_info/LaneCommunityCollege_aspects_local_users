@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 14:05 aspects_local_users-master/
+-rw-rw-r-- root/root       412 2018-08-01 14:05 aspects_local_users-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1087 2018-08-01 14:05 aspects_local_users-master/LICENSE
+-rw-rw-r-- root/root      2005 2018-08-01 14:05 aspects_local_users-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 14:05 aspects_local_users-master/defaults/
+-rw-rw-r-- root/root        39 2018-08-01 14:05 aspects_local_users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 14:05 aspects_local_users-master/meta/
+-rw-rw-r-- root/root       639 2018-08-01 14:05 aspects_local_users-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 14:05 aspects_local_users-master/tasks/
+-rw-rw-r-- root/root       270 2018-08-01 14:05 aspects_local_users-master/tasks/addRemoveExtraGroupsDebian.yml
+-rw-rw-r-- root/root       270 2018-08-01 14:05 aspects_local_users-master/tasks/addRemoveExtraGroupsRedHat.yml
+-rw-rw-r-- root/root      1615 2018-08-01 14:05 aspects_local_users-master/tasks/init.yml
+-rw-rw-r-- root/root       145 2018-08-01 14:05 aspects_local_users-master/tasks/main.yml
+-rw-rw-r-- root/root       318 2018-08-01 14:05 aspects_local_users-master/tasks/setExtraGroupsDebian.yml
+-rw-rw-r-- root/root       318 2018-08-01 14:05 aspects_local_users-master/tasks/setExtraGroupsRedHat.yml

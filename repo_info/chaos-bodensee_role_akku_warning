@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-17 09:07 role_akku_warning-master/
+-rw-rw-r-- root/root      1060 2019-05-17 09:07 role_akku_warning-master/LICENSE
+-rw-rw-r-- root/root       519 2019-05-17 09:07 role_akku_warning-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 09:07 role_akku_warning-master/defaults/
+-rw-rw-r-- root/root       278 2019-05-17 09:07 role_akku_warning-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 09:07 role_akku_warning-master/files/
+-rw-rw-r-- root/root       878 2019-05-17 09:07 role_akku_warning-master/files/akku.sh
+-rw-rw-r-- root/root   3035282 2019-05-17 09:07 role_akku_warning-master/files/low_battery.mkv
+drwxrwxr-x root/root         0 2019-05-17 09:07 role_akku_warning-master/meta/
+-rw-rw-r-- root/root       533 2019-05-17 09:07 role_akku_warning-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 09:07 role_akku_warning-master/tasks/
+-rw-rw-r-- root/root      1097 2019-05-17 09:07 role_akku_warning-master/tasks/main.yml
+-rw-rw-r-- root/root      1215 2019-05-17 09:07 role_akku_warning-master/tasks/versioncheck.yml
+drwxrwxr-x root/root         0 2019-05-17 09:07 role_akku_warning-master/vars/
+-rw-rw-r-- root/root       132 2019-05-17 09:07 role_akku_warning-master/vars/main.yml

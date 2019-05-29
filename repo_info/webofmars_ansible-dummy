@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-11-12 07:22 ansible-dummy-master/
+-rw-rw-r-- root/root       629 2016-11-12 07:22 ansible-dummy-master/.travis.yml
+-rw-rw-r-- root/root     35141 2016-11-12 07:22 ansible-dummy-master/LICENSE
+-rw-rw-r-- root/root       869 2016-11-12 07:22 ansible-dummy-master/README.md
+drwxrwxr-x root/root         0 2016-11-12 07:22 ansible-dummy-master/meta/
+-rw-rw-r-- root/root       601 2016-11-12 07:22 ansible-dummy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-12 07:22 ansible-dummy-master/tasks/
+-rw-rw-r-- root/root        71 2016-11-12 07:22 ansible-dummy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-12 07:22 ansible-dummy-master/tests/
+-rw-rw-r-- root/root         9 2016-11-12 07:22 ansible-dummy-master/tests/inventory
+-rw-rw-r-- root/root        71 2016-11-12 07:22 ansible-dummy-master/tests/test.yml

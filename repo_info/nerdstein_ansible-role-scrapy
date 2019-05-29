@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-01-21 21:03 ansible-role-scrapy-master/
+-rw-rw-r-- root/root       874 2016-01-21 21:03 ansible-role-scrapy-master/.travis.yml
+-rw-rw-r-- root/root       624 2016-01-21 21:03 ansible-role-scrapy-master/README.md
+drwxrwxr-x root/root         0 2016-01-21 21:03 ansible-role-scrapy-master/defaults/
+-rw-rw-r-- root/root         4 2016-01-21 21:03 ansible-role-scrapy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-21 21:03 ansible-role-scrapy-master/meta/
+-rw-rw-r-- root/root       657 2016-01-21 21:03 ansible-role-scrapy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-21 21:03 ansible-role-scrapy-master/tasks/
+-rw-rw-r-- root/root        47 2016-01-21 21:03 ansible-role-scrapy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-21 21:03 ansible-role-scrapy-master/tests/
+-rw-rw-r-- root/root        10 2016-01-21 21:03 ansible-role-scrapy-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-01-21 21:03 ansible-role-scrapy-master/tests/test.yml

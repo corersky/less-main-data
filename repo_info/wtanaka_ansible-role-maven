@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-27 09:04 ansible-role-maven-master/
+drwxrwxr-x root/root         0 2019-03-27 09:04 ansible-role-maven-master/.circleci/
+-rw-rw-r-- root/root       810 2019-03-27 09:04 ansible-role-maven-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-03-27 09:04 ansible-role-maven-master/.gitignore
+-rw-rw-r-- root/root      1961 2019-03-27 09:04 ansible-role-maven-master/.travis.yml
+-rw-rw-r-- root/root       495 2019-03-27 09:04 ansible-role-maven-master/README.md
+drwxrwxr-x root/root         0 2019-03-27 09:04 ansible-role-maven-master/meta/
+-rw-rw-r-- root/root      3546 2019-03-27 09:04 ansible-role-maven-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-27 09:04 ansible-role-maven-master/tasks/
+-rw-rw-r-- root/root      3550 2019-03-27 09:04 ansible-role-maven-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-27 09:04 ansible-role-maven-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       974 2019-03-27 09:04 ansible-role-maven-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root        93 2019-03-27 09:04 ansible-role-maven-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-27 09:04 ansible-role-maven-master/vars/
+-rw-rw-r-- root/root        27 2019-03-27 09:04 ansible-role-maven-master/vars/default.yml
+-rw-rw-r-- root/root         4 2019-03-27 09:04 ansible-role-maven-master/vars/main.yml

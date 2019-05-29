@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-08-30 18:23 ansible-role-repo-epel-master/
+-rw-rw-r-- root/root       476 2016-08-30 18:23 ansible-role-repo-epel-master/.gitignore
+-rw-rw-r-- root/root      2101 2016-08-30 18:23 ansible-role-repo-epel-master/.travis.yml
+-rw-rw-r-- root/root      1055 2016-08-30 18:23 ansible-role-repo-epel-master/README.md
+drwxrwxr-x root/root         0 2016-08-30 18:23 ansible-role-repo-epel-master/defaults/
+-rw-rw-r-- root/root       244 2016-08-30 18:23 ansible-role-repo-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-30 18:23 ansible-role-repo-epel-master/meta/
+-rw-rw-r-- root/root       283 2016-08-30 18:23 ansible-role-repo-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-30 18:23 ansible-role-repo-epel-master/tasks/
+-rw-rw-r-- root/root       328 2016-08-30 18:23 ansible-role-repo-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-30 18:23 ansible-role-repo-epel-master/tests/
+-rw-rw-r-- root/root       461 2016-08-30 18:23 ansible-role-repo-epel-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1073 2016-08-30 18:23 ansible-role-repo-epel-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root        77 2016-08-30 18:23 ansible-role-repo-epel-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-13 20:25 ansible-role-elrepo-master/
+-rw-rw-r-- root/root       317 2017-02-13 20:25 ansible-role-elrepo-master/.travis.yml
+-rw-rw-r-- root/root      1285 2017-02-13 20:25 ansible-role-elrepo-master/README.md
+drwxrwxr-x root/root         0 2017-02-13 20:25 ansible-role-elrepo-master/defaults/
+-rw-rw-r-- root/root       239 2017-02-13 20:25 ansible-role-elrepo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-13 20:25 ansible-role-elrepo-master/meta/
+-rw-rw-r-- root/root       282 2017-02-13 20:25 ansible-role-elrepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-13 20:25 ansible-role-elrepo-master/tasks/
+-rw-rw-r-- root/root      1435 2017-02-13 20:25 ansible-role-elrepo-master/tasks/install_new_kernel.yml
+-rw-rw-r-- root/root       226 2017-02-13 20:25 ansible-role-elrepo-master/tasks/main.yml
+-rw-rw-r-- root/root      1594 2017-02-13 20:25 ansible-role-elrepo-master/tasks/setup_repo.yml
+drwxrwxr-x root/root         0 2017-02-13 20:25 ansible-role-elrepo-master/templates/
+-rw-rw-r-- root/root      2913 2017-02-13 20:25 ansible-role-elrepo-master/templates/elrepo.repo.j2
+drwxrwxr-x root/root         0 2017-02-13 20:25 ansible-role-elrepo-master/tests/
+-rw-rw-r-- root/root        10 2017-02-13 20:25 ansible-role-elrepo-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-02-13 20:25 ansible-role-elrepo-master/tests/test.yml

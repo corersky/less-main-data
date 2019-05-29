@@ -1,0 +1,36 @@
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/
+-rw-rw-r-- root/root       147 2016-12-17 15:31 ansible-role-ja_jp-master/.editorconfig
+-rw-rw-r-- root/root      1085 2016-12-17 15:31 ansible-role-ja_jp-master/LICENSE
+-rw-rw-r-- root/root      1165 2016-12-17 15:31 ansible-role-ja_jp-master/README.md
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/defaults/
+-rw-rw-r-- root/root       514 2016-12-17 15:31 ansible-role-ja_jp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/
+-rw-rw-r-- root/root        24 2016-12-17 15:31 ansible-role-ja_jp-master/examples/.gitignore
+-rw-rw-r-- root/root        31 2016-12-17 15:31 ansible-role-ja_jp-master/examples/.rspec
+-rw-rw-r-- root/root       685 2016-12-17 15:31 ansible-role-ja_jp-master/examples/Rakefile
+-rw-rw-r-- root/root      1908 2016-12-17 15:31 ansible-role-ja_jp-master/examples/Vagrantfile
+-rw-rw-r-- root/root        94 2016-12-17 15:31 ansible-role-ja_jp-master/examples/playbook.yml
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/roles/znzj.ja_jp -> ../..
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/default/
+-rw-rw-r-- root/root       368 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/default/ja_jp_spec.rb
+lrwxrwxrwx root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/jessie64 -> default
+lrwxrwxrwx root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/precise64 -> default
+-rw-rw-r-- root/root       829 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/spec_helper.rb
+lrwxrwxrwx root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/trusty64 -> default
+lrwxrwxrwx root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/wheezy64 -> default
+lrwxrwxrwx root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/examples/spec/xenial64 -> default
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/meta/
+-rw-rw-r-- root/root       322 2016-12-17 15:31 ansible-role-ja_jp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/tasks/
+-rw-rw-r-- root/root       416 2016-12-17 15:31 ansible-role-ja_jp-master/tasks/apt.yml
+-rw-rw-r-- root/root        68 2016-12-17 15:31 ansible-role-ja_jp-master/tasks/locale-ubuntu.yml
+-rw-rw-r-- root/root       217 2016-12-17 15:31 ansible-role-ja_jp-master/tasks/locale.yml
+-rw-rw-r-- root/root       321 2016-12-17 15:31 ansible-role-ja_jp-master/tasks/main.yml
+-rw-rw-r-- root/root       108 2016-12-17 15:31 ansible-role-ja_jp-master/tasks/packages.yml
+-rw-rw-r-- root/root        96 2016-12-17 15:31 ansible-role-ja_jp-master/tasks/timezone.yml
+drwxrwxr-x root/root         0 2016-12-17 15:31 ansible-role-ja_jp-master/templates/
+-rw-rw-r-- root/root        32 2016-12-17 15:31 ansible-role-ja_jp-master/templates/default-locale.j2
+-rw-rw-r-- root/root      1029 2016-12-17 15:31 ansible-role-ja_jp-master/templates/sources.list.Debian.j2
+-rw-rw-r-- root/root      1024 2016-12-17 15:31 ansible-role-ja_jp-master/templates/sources.list.Ubuntu.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-18 08:06 ansible-role-samba-master/
+-rw-rw-r-- root/root      1664 2015-11-18 08:06 ansible-role-samba-master/README.md
+drwxrwxr-x root/root         0 2015-11-18 08:06 ansible-role-samba-master/defaults/
+-rwxrwxr-x root/root       679 2015-11-18 08:06 ansible-role-samba-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-18 08:06 ansible-role-samba-master/handlers/
+-rwxrwxr-x root/root        74 2015-11-18 08:06 ansible-role-samba-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-18 08:06 ansible-role-samba-master/meta/
+-rw-rw-r-- root/root       667 2015-11-18 08:06 ansible-role-samba-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-18 08:06 ansible-role-samba-master/tasks/
+-rwxrwxr-x root/root       166 2015-11-18 08:06 ansible-role-samba-master/tasks/configure.yml
+-rwxrwxr-x root/root       216 2015-11-18 08:06 ansible-role-samba-master/tasks/directories.yml
+-rwxrwxr-x root/root        76 2015-11-18 08:06 ansible-role-samba-master/tasks/install.yml
+-rwxrwxr-x root/root       121 2015-11-18 08:06 ansible-role-samba-master/tasks/main.yml
+-rwxrwxr-x root/root       155 2015-11-18 08:06 ansible-role-samba-master/tasks/system.yml
+-rwxrwxr-x root/root        98 2015-11-18 08:06 ansible-role-samba-master/tasks/user.yml
+drwxrwxr-x root/root         0 2015-11-18 08:06 ansible-role-samba-master/templates/
+-rwxrwxr-x root/root       260 2015-11-18 08:06 ansible-role-samba-master/templates/smb.conf.j2

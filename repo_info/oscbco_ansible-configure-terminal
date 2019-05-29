@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-19 22:59 ansible-configure-terminal-master/
+-rw-rw-r-- root/root       409 2019-05-19 22:59 ansible-configure-terminal-master/README.md
+drwxrwxr-x root/root         0 2019-05-19 22:59 ansible-configure-terminal-master/defaults/
+-rw-rw-r-- root/root        53 2019-05-19 22:59 ansible-configure-terminal-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-19 22:59 ansible-configure-terminal-master/files/
+-rw-rw-r-- root/root       418 2019-05-19 22:59 ansible-configure-terminal-master/files/aliases.sh
+drwxrwxr-x root/root         0 2019-05-19 22:59 ansible-configure-terminal-master/handlers/
+-rw-rw-r-- root/root        53 2019-05-19 22:59 ansible-configure-terminal-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-19 22:59 ansible-configure-terminal-master/meta/
+-rw-rw-r-- root/root       327 2019-05-19 22:59 ansible-configure-terminal-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-19 22:59 ansible-configure-terminal-master/tasks/
+-rw-rw-r-- root/root      1139 2019-05-19 22:59 ansible-configure-terminal-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-19 22:59 ansible-configure-terminal-master/tests/
+-rw-rw-r-- root/root        11 2019-05-19 22:59 ansible-configure-terminal-master/tests/inventory
+-rw-rw-r-- root/root        87 2019-05-19 22:59 ansible-configure-terminal-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-19 22:59 ansible-configure-terminal-master/vars/
+-rw-rw-r-- root/root        49 2019-05-19 22:59 ansible-configure-terminal-master/vars/main.yml

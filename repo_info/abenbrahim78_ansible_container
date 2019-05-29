@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-01-07 08:20 ansible_container-master/
+-rw-rw-r-- root/root      1457 2016-01-07 08:20 ansible_container-master/README.md
+drwxrwxr-x root/root         0 2016-01-07 08:20 ansible_container-master/defaults/
+-rw-rw-r-- root/root        32 2016-01-07 08:20 ansible_container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-07 08:20 ansible_container-master/handlers/
+-rw-rw-r-- root/root        32 2016-01-07 08:20 ansible_container-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-07 08:20 ansible_container-master/meta/
+-rw-rw-r-- root/root       279 2016-01-07 08:20 ansible_container-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-07 08:20 ansible_container-master/tasks/
+-rw-rw-r-- root/root      1309 2016-01-07 08:20 ansible_container-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-07 08:20 ansible_container-master/templates/
+-rw-rw-r-- root/root      1639 2016-01-07 08:20 ansible_container-master/templates/Dockerfile
+drwxrwxr-x root/root         0 2016-01-07 08:20 ansible_container-master/vars/
+-rw-rw-r-- root/root        28 2016-01-07 08:20 ansible_container-master/vars/main.yml

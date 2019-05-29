@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-16 11:08 ansible-role-jenkins-slave-master/
+-rw-rw-r-- root/root      2457 2017-03-16 11:08 ansible-role-jenkins-slave-master/.travis.yml
+-rw-rw-r-- root/root      1061 2017-03-16 11:08 ansible-role-jenkins-slave-master/LICENSE.md
+-rw-rw-r-- root/root       201 2017-03-16 11:08 ansible-role-jenkins-slave-master/README.md
+drwxrwxr-x root/root         0 2017-03-16 11:08 ansible-role-jenkins-slave-master/defaults/
+-rw-rw-r-- root/root       200 2017-03-16 11:08 ansible-role-jenkins-slave-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-16 11:08 ansible-role-jenkins-slave-master/meta/
+-rw-rw-r-- root/root       634 2017-03-16 11:08 ansible-role-jenkins-slave-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-16 11:08 ansible-role-jenkins-slave-master/tasks/
+-rw-rw-r-- root/root       630 2017-03-16 11:08 ansible-role-jenkins-slave-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-16 11:08 ansible-role-jenkins-slave-master/tests/
+-rw-rw-r-- root/root       193 2017-03-16 11:08 ansible-role-jenkins-slave-master/tests/test.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-02 09:58 ansible-role-wget-master/
+-rw-rw-r-- root/root      2624 2016-12-02 09:58 ansible-role-wget-master/.travis.yml
+-rw-rw-r-- root/root      1283 2016-12-02 09:58 ansible-role-wget-master/README.md
+drwxrwxr-x root/root         0 2016-12-02 09:58 ansible-role-wget-master/defaults/
+-rw-rw-r-- root/root       209 2016-12-02 09:58 ansible-role-wget-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-02 09:58 ansible-role-wget-master/meta/
+-rw-rw-r-- root/root       383 2016-12-02 09:58 ansible-role-wget-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-02 09:58 ansible-role-wget-master/roles/
+drwxrwxr-x root/root         0 2016-12-02 09:58 ansible-role-wget-master/roles/wget/
+drwxrwxr-x root/root         0 2016-12-02 09:58 ansible-role-wget-master/tasks/
+-rw-rw-r-- root/root       511 2016-12-02 09:58 ansible-role-wget-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-02 09:58 ansible-role-wget-master/tests/
+-rw-rw-r-- root/root       210 2016-12-02 09:58 ansible-role-wget-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-02 09:58 ansible-role-wget-master/vars/
+-rw-rw-r-- root/root        43 2016-12-02 09:58 ansible-role-wget-master/vars/main.yml

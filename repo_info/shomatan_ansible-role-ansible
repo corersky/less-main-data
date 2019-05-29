@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-04-30 00:27 ansible-role-ansible-master/
+-rw-rw-r-- root/root       539 2017-04-30 00:27 ansible-role-ansible-master/.travis.yml
+-rw-rw-r-- root/root       336 2017-04-30 00:27 ansible-role-ansible-master/README.md
+drwxrwxr-x root/root         0 2017-04-30 00:27 ansible-role-ansible-master/meta/
+-rw-rw-r-- root/root       370 2017-04-30 00:27 ansible-role-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-30 00:27 ansible-role-ansible-master/tasks/
+-rw-rw-r-- root/root       193 2017-04-30 00:27 ansible-role-ansible-master/tasks/install-Alpine.yml
+-rw-rw-r-- root/root       104 2017-04-30 00:27 ansible-role-ansible-master/tasks/install-Darwin.yml
+-rw-rw-r-- root/root       197 2017-04-30 00:27 ansible-role-ansible-master/tasks/install-RedHat.yml
+-rw-rw-r-- root/root        66 2017-04-30 00:27 ansible-role-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-30 00:27 ansible-role-ansible-master/tests/
+-rw-rw-r-- root/root         9 2017-04-30 00:27 ansible-role-ansible-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-04-30 00:27 ansible-role-ansible-master/tests/test.yml

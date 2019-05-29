@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-18 02:09 ansible-role-packages-master/
+-rw-rw-r-- root/root        22 2017-12-18 02:09 ansible-role-packages-master/.gitignore
+-rw-rw-r-- root/root       567 2017-12-18 02:09 ansible-role-packages-master/.travis.yml
+-rw-rw-r-- root/root      1520 2017-12-18 02:09 ansible-role-packages-master/README.md
+drwxrwxr-x root/root         0 2017-12-18 02:09 ansible-role-packages-master/defaults/
+-rw-rw-r-- root/root       222 2017-12-18 02:09 ansible-role-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-18 02:09 ansible-role-packages-master/meta/
+-rw-rw-r-- root/root       451 2017-12-18 02:09 ansible-role-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-18 02:09 ansible-role-packages-master/tasks/
+-rw-rw-r-- root/root       439 2017-12-18 02:09 ansible-role-packages-master/tasks/install-package-updates.yml
+-rw-rw-r-- root/root       275 2017-12-18 02:09 ansible-role-packages-master/tasks/install-remove-packages.yml
+-rw-rw-r-- root/root        93 2017-12-18 02:09 ansible-role-packages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-18 02:09 ansible-role-packages-master/tests/
+-rw-rw-r-- root/root       631 2017-12-18 02:09 ansible-role-packages-master/tests/README.md
+-rw-rw-r-- root/root       208 2017-12-18 02:09 ansible-role-packages-master/tests/test.yml

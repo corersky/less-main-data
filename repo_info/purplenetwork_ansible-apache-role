@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-14 11:08 ansible-apache-role-master/
+-rw-rw-r-- root/root         6 2019-03-14 11:08 ansible-apache-role-master/.gitignore
+-rw-rw-r-- root/root        40 2019-03-14 11:08 ansible-apache-role-master/README.md
+drwxrwxr-x root/root         0 2019-03-14 11:08 ansible-apache-role-master/defaults/
+-rw-rw-r-- root/root        48 2019-03-14 11:08 ansible-apache-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-14 11:08 ansible-apache-role-master/handlers/
+-rw-rw-r-- root/root        78 2019-03-14 11:08 ansible-apache-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-14 11:08 ansible-apache-role-master/meta/
+-rw-rw-r-- root/root       259 2019-03-14 11:08 ansible-apache-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-14 11:08 ansible-apache-role-master/tasks/
+-rw-rw-r-- root/root      1591 2019-03-14 11:08 ansible-apache-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-14 11:08 ansible-apache-role-master/templates/
+drwxrwxr-x root/root         0 2019-03-14 11:08 ansible-apache-role-master/templates/etc/
+drwxrwxr-x root/root         0 2019-03-14 11:08 ansible-apache-role-master/templates/etc/apache2/
+-rw-rw-r-- root/root       308 2019-03-14 11:08 ansible-apache-role-master/templates/etc/apache2/000-default.conf.j2
+-rw-rw-r-- root/root      8355 2019-03-14 11:08 ansible-apache-role-master/templates/etc/apache2/apache2.conf.j2
+-rw-rw-r-- root/root        26 2019-03-14 11:08 ansible-apache-role-master/templates/etc/apache2/index.html

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-20 15:48 ansible-role-repo-mono-master/
+-rw-rw-r-- root/root        22 2018-08-20 15:48 ansible-role-repo-mono-master/.gitignore
+-rw-rw-r-- root/root       130 2018-08-20 15:48 ansible-role-repo-mono-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       370 2018-08-20 15:48 ansible-role-repo-mono-master/.travis.yml
+-rw-rw-r-- root/root      1512 2018-08-20 15:48 ansible-role-repo-mono-master/LICENSE
+-rw-rw-r-- root/root      1220 2018-08-20 15:48 ansible-role-repo-mono-master/README.md
+drwxrwxr-x root/root         0 2018-08-20 15:48 ansible-role-repo-mono-master/defaults/
+-rw-rw-r-- root/root       411 2018-08-20 15:48 ansible-role-repo-mono-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-20 15:48 ansible-role-repo-mono-master/meta/
+-rw-rw-r-- root/root       282 2018-08-20 15:48 ansible-role-repo-mono-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-20 15:48 ansible-role-repo-mono-master/tasks/
+-rw-rw-r-- root/root      1050 2018-08-20 15:48 ansible-role-repo-mono-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-20 15:48 ansible-role-repo-mono-master/tests/
+-rw-rw-r-- root/root       632 2018-08-20 15:48 ansible-role-repo-mono-master/tests/README.md
+-rw-rw-r-- root/root        49 2018-08-20 15:48 ansible-role-repo-mono-master/tests/test.yml

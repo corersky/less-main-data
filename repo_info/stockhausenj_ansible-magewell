@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-25 22:20 ansible-magewell-master/
+-rw-rw-r-- root/root       717 2017-12-25 22:20 ansible-magewell-master/README.md
+drwxrwxr-x root/root         0 2017-12-25 22:20 ansible-magewell-master/defaults/
+-rw-rw-r-- root/root        32 2017-12-25 22:20 ansible-magewell-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-25 22:20 ansible-magewell-master/handlers/
+-rw-rw-r-- root/root        32 2017-12-25 22:20 ansible-magewell-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-25 22:20 ansible-magewell-master/meta/
+-rw-rw-r-- root/root       278 2017-12-25 22:20 ansible-magewell-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-25 22:20 ansible-magewell-master/tasks/
+-rw-rw-r-- root/root       587 2017-12-25 22:20 ansible-magewell-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-25 22:20 ansible-magewell-master/tests/
+-rw-rw-r-- root/root        11 2017-12-25 22:20 ansible-magewell-master/tests/inventory
+-rw-rw-r-- root/root        66 2017-12-25 22:20 ansible-magewell-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-25 22:20 ansible-magewell-master/vars/
+-rw-rw-r-- root/root        28 2017-12-25 22:20 ansible-magewell-master/vars/main.yml

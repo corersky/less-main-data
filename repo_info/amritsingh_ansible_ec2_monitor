@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2017-11-08 03:23 ansible_ec2_monitor-master/
+-rw-rw-r-- root/root     11357 2017-11-08 03:23 ansible_ec2_monitor-master/LICENSE
+-rw-rw-r-- root/root      1916 2017-11-08 03:23 ansible_ec2_monitor-master/README.md
+drwxrwxr-x root/root         0 2017-11-08 03:23 ansible_ec2_monitor-master/meta/
+-rw-rw-r-- root/root       429 2017-11-08 03:23 ansible_ec2_monitor-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-08 03:23 ansible_ec2_monitor-master/tasks/
+-rw-rw-r-- root/root       315 2017-11-08 03:23 ansible_ec2_monitor-master/tasks/cron_setup.yml
+-rw-rw-r-- root/root       256 2017-11-08 03:23 ansible_ec2_monitor-master/tasks/main.yml
+-rw-rw-r-- root/root      1170 2017-11-08 03:23 ansible_ec2_monitor-master/tasks/prereq.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-18 03:58 ansible-role-bootstrap-master/
+-rw-rw-r-- root/root       549 2018-10-18 03:58 ansible-role-bootstrap-master/.travis.yml
+-rw-rw-r-- root/root       484 2018-10-18 03:58 ansible-role-bootstrap-master/LICENSE
+-rw-rw-r-- root/root       629 2018-10-18 03:58 ansible-role-bootstrap-master/README.md
+-rw-rw-r-- root/root        68 2018-10-18 03:58 ansible-role-bootstrap-master/ansible.cfg
+-rw-rw-r-- root/root         9 2018-10-18 03:58 ansible-role-bootstrap-master/inventory
+drwxrwxr-x root/root         0 2018-10-18 03:58 ansible-role-bootstrap-master/meta/
+-rw-rw-r-- root/root       305 2018-10-18 03:58 ansible-role-bootstrap-master/meta/main.yml
+-rw-rw-r-- root/root        22 2018-10-18 03:58 ansible-role-bootstrap-master/requirements.yml
+drwxrwxr-x root/root         0 2018-10-18 03:58 ansible-role-bootstrap-master/tasks/
+-rw-rw-r-- root/root       481 2018-10-18 03:58 ansible-role-bootstrap-master/tasks/main.yml
+-rw-rw-r-- root/root       797 2018-10-18 03:58 ansible-role-bootstrap-master/test.yml
+drwxrwxr-x root/root         0 2018-10-18 03:58 ansible-role-bootstrap-master/vars/
+-rw-rw-r-- root/root       221 2018-10-18 03:58 ansible-role-bootstrap-master/vars/main.yml

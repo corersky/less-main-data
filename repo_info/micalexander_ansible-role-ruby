@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-27 17:08 ansible-role-ruby-master/
+-rw-rw-r-- root/root      1328 2018-10-27 17:08 ansible-role-ruby-master/README.md
+drwxrwxr-x root/root         0 2018-10-27 17:08 ansible-role-ruby-master/defaults/
+-rw-rw-r-- root/root        45 2018-10-27 17:08 ansible-role-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-27 17:08 ansible-role-ruby-master/handlers/
+-rw-rw-r-- root/root        28 2018-10-27 17:08 ansible-role-ruby-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-27 17:08 ansible-role-ruby-master/meta/
+-rw-rw-r-- root/root      1969 2018-10-27 17:08 ansible-role-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-27 17:08 ansible-role-ruby-master/tasks/
+-rw-rw-r-- root/root       135 2018-10-27 17:08 ansible-role-ruby-master/tasks/apt-install.yml
+-rw-rw-r-- root/root       416 2018-10-27 17:08 ansible-role-ruby-master/tasks/gem-install.yml
+-rw-rw-r-- root/root        90 2018-10-27 17:08 ansible-role-ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-27 17:08 ansible-role-ruby-master/tests/
+-rw-rw-r-- root/root        11 2018-10-27 17:08 ansible-role-ruby-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-10-27 17:08 ansible-role-ruby-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-27 17:08 ansible-role-ruby-master/vars/
+-rw-rw-r-- root/root        24 2018-10-27 17:08 ansible-role-ruby-master/vars/main.yml

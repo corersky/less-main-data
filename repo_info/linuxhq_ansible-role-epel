@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-20 18:38 ansible-role-epel-master/
+-rw-rw-r-- root/root       331 2019-01-20 18:38 ansible-role-epel-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 18:38 ansible-role-epel-master/COPYING
+-rw-rw-r-- root/root      1818 2019-01-20 18:38 ansible-role-epel-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 18:38 ansible-role-epel-master/defaults/
+-rw-rw-r-- root/root       332 2019-01-20 18:38 ansible-role-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:38 ansible-role-epel-master/meta/
+-rw-rw-r-- root/root       280 2019-01-20 18:38 ansible-role-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:38 ansible-role-epel-master/tasks/
+-rw-rw-r-- root/root      1829 2019-01-20 18:38 ansible-role-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 18:38 ansible-role-epel-master/templates/
+-rw-rw-r-- root/root      1382 2019-01-20 18:38 ansible-role-epel-master/templates/epel-testing.repo.j2
+-rw-rw-r-- root/root      1274 2019-01-20 18:38 ansible-role-epel-master/templates/epel.repo.j2
+drwxrwxr-x root/root         0 2019-01-20 18:38 ansible-role-epel-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 18:38 ansible-role-epel-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-01-20 18:38 ansible-role-epel-master/tests/test.yml

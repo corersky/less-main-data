@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-17 16:51 ansible-role-tinyos-master/
+-rw-rw-r-- root/root       539 2017-02-17 16:51 ansible-role-tinyos-master/.travis.yml
+-rw-rw-r-- root/root      1077 2017-02-17 16:51 ansible-role-tinyos-master/LICENSE
+-rw-rw-r-- root/root      1765 2017-02-17 16:51 ansible-role-tinyos-master/README.md
+drwxrwxr-x root/root         0 2017-02-17 16:51 ansible-role-tinyos-master/defaults/
+-rw-rw-r-- root/root       155 2017-02-17 16:51 ansible-role-tinyos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-17 16:51 ansible-role-tinyos-master/meta/
+-rw-rw-r-- root/root       424 2017-02-17 16:51 ansible-role-tinyos-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-17 16:51 ansible-role-tinyos-master/tasks/
+-rw-rw-r-- root/root       218 2017-02-17 16:51 ansible-role-tinyos-master/tasks/main.yml
+-rw-rw-r-- root/root       908 2017-02-17 16:51 ansible-role-tinyos-master/tasks/nesc.yml
+-rw-rw-r-- root/root      1450 2017-02-17 16:51 ansible-role-tinyos-master/tasks/tinyos.yml
+drwxrwxr-x root/root         0 2017-02-17 16:51 ansible-role-tinyos-master/templates/
+-rw-rw-r-- root/root       142 2017-02-17 16:51 ansible-role-tinyos-master/templates/tinyos.sh.j2
+drwxrwxr-x root/root         0 2017-02-17 16:51 ansible-role-tinyos-master/tests/
+-rw-rw-r-- root/root         9 2017-02-17 16:51 ansible-role-tinyos-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-02-17 16:51 ansible-role-tinyos-master/tests/test.yml

@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2019-04-04 11:58 ansible.sshd-master/
+-rw-rw-r-- root/root       796 2019-04-04 11:58 ansible.sshd-master/.travis.yml
+-rw-rw-r-- root/root      1079 2019-04-04 11:58 ansible.sshd-master/LICENSE
+-rw-rw-r-- root/root     18161 2019-04-04 11:58 ansible.sshd-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 11:58 ansible.sshd-master/defaults/
+-rw-rw-r-- root/root      8806 2019-04-04 11:58 ansible.sshd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 11:58 ansible.sshd-master/handlers/
+-rw-rw-r-- root/root       142 2019-04-04 11:58 ansible.sshd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-04 11:58 ansible.sshd-master/meta/
+-rw-rw-r-- root/root       446 2019-04-04 11:58 ansible.sshd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 11:58 ansible.sshd-master/tasks/
+-rw-rw-r-- root/root      5160 2019-04-04 11:58 ansible.sshd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 11:58 ansible.sshd-master/templates/
+-rw-rw-r-- root/root      6683 2019-04-04 11:58 ansible.sshd-master/templates/openssh.conf.j2
+-rw-rw-r-- root/root      8960 2019-04-04 11:58 ansible.sshd-master/templates/opensshd.conf.j2
+drwxrwxr-x root/root         0 2019-04-04 11:58 ansible.sshd-master/vars/
+-rw-rw-r-- root/root        89 2019-04-04 11:58 ansible.sshd-master/vars/Debian.yml
+-rw-rw-r-- root/root        91 2019-04-04 11:58 ansible.sshd-master/vars/FreeBSD.yml
+-rw-rw-r-- root/root        90 2019-04-04 11:58 ansible.sshd-master/vars/Oracle Linux.yml
+-rw-rw-r-- root/root        90 2019-04-04 11:58 ansible.sshd-master/vars/RedHat.yml
+-rw-rw-r-- root/root        33 2019-04-04 11:58 ansible.sshd-master/vars/defaults.yml

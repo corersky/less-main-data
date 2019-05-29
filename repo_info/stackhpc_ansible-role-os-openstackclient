@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-30 05:45 ansible-role-os-openstackclient-master/
+-rw-rw-r-- root/root         6 2018-11-30 05:45 ansible-role-os-openstackclient-master/.gitignore
+-rw-rw-r-- root/root       732 2018-11-30 05:45 ansible-role-os-openstackclient-master/.travis.yml
+-rw-rw-r-- root/root     10143 2018-11-30 05:45 ansible-role-os-openstackclient-master/LICENSE
+-rw-rw-r-- root/root       945 2018-11-30 05:45 ansible-role-os-openstackclient-master/README.md
+drwxrwxr-x root/root         0 2018-11-30 05:45 ansible-role-os-openstackclient-master/defaults/
+-rw-rw-r-- root/root       364 2018-11-30 05:45 ansible-role-os-openstackclient-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-30 05:45 ansible-role-os-openstackclient-master/meta/
+-rw-rw-r-- root/root       471 2018-11-30 05:45 ansible-role-os-openstackclient-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-30 05:45 ansible-role-os-openstackclient-master/tasks/
+-rw-rw-r-- root/root      1795 2018-11-30 05:45 ansible-role-os-openstackclient-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-30 05:45 ansible-role-os-openstackclient-master/tests/
+-rw-rw-r-- root/root        86 2018-11-30 05:45 ansible-role-os-openstackclient-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-11-30 05:45 ansible-role-os-openstackclient-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-30 05:45 ansible-role-os-openstackclient-master/vars/
+-rw-rw-r-- root/root       171 2018-11-30 05:45 ansible-role-os-openstackclient-master/vars/Debian.yml
+-rw-rw-r-- root/root       174 2018-11-30 05:45 ansible-role-os-openstackclient-master/vars/RedHat.yml

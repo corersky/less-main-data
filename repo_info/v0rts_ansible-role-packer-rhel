@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-24 13:54 ansible-role-packer-rhel-master/
+-rw-rw-r-- root/root      1186 2019-02-24 13:54 ansible-role-packer-rhel-master/.travis.yml
+-rw-rw-r-- root/root       278 2019-02-24 13:54 ansible-role-packer-rhel-master/.whitesource
+-rw-rw-r-- root/root      2848 2019-02-24 13:54 ansible-role-packer-rhel-master/README.md
+drwxrwxr-x root/root         0 2019-02-24 13:54 ansible-role-packer-rhel-master/meta/
+-rw-rw-r-- root/root       337 2019-02-24 13:54 ansible-role-packer-rhel-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-24 13:54 ansible-role-packer-rhel-master/tasks/
+-rw-rw-r-- root/root      2508 2019-02-24 13:54 ansible-role-packer-rhel-master/tasks/main.yml
+-rw-rw-r-- root/root       720 2019-02-24 13:54 ansible-role-packer-rhel-master/tasks/virtualbox.yml
+-rw-rw-r-- root/root      2122 2019-02-24 13:54 ansible-role-packer-rhel-master/tasks/vmware.yml
+drwxrwxr-x root/root         0 2019-02-24 13:54 ansible-role-packer-rhel-master/templates/
+-rw-rw-r-- root/root        16 2019-02-24 13:54 ansible-role-packer-rhel-master/templates/vmhgfs.modules.j2
+-rw-rw-r-- root/root       293 2019-02-24 13:54 ansible-role-packer-rhel-master/templates/vmware-tools.repo.j2
+drwxrwxr-x root/root         0 2019-02-24 13:54 ansible-role-packer-rhel-master/tests/
+-rw-rw-r-- root/root        10 2019-02-24 13:54 ansible-role-packer-rhel-master/tests/inventory
+-rw-rw-r-- root/root        84 2019-02-24 13:54 ansible-role-packer-rhel-master/tests/test.yml

@@ -1,0 +1,8 @@
+drwxrwxr-x root/root         0 2017-03-30 15:11 ansible-role-openvpn-client-master/
+-rw-rw-r-- root/root       712 2017-03-30 15:11 ansible-role-openvpn-client-master/README.md
+drwxrwxr-x root/root         0 2017-03-30 15:11 ansible-role-openvpn-client-master/meta/
+-rw-rw-r-- root/root       261 2017-03-30 15:11 ansible-role-openvpn-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-30 15:11 ansible-role-openvpn-client-master/tasks/
+-rw-rw-r-- root/root       875 2017-03-30 15:11 ansible-role-openvpn-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-30 15:11 ansible-role-openvpn-client-master/templates/
+-rw-rw-r-- root/root        56 2017-03-30 15:11 ansible-role-openvpn-client-master/templates/auth.txt.j2

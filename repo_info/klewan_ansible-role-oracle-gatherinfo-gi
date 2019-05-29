@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/
+-rw-rw-r-- root/root     35149 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/LICENSE
+-rw-rw-r-- root/root      3916 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/README.md
+drwxrwxr-x root/root         0 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/defaults/
+-rw-rw-r-- root/root      1054 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/meta/
+-rw-rw-r-- root/root       319 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/tasks/
+-rw-rw-r-- root/root      1475 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/tasks/extra_facts.yml
+-rw-rw-r-- root/root      3607 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/tasks/main.yml
+-rw-rw-r-- root/root      2311 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/tasks/patches.yml
+drwxrwxr-x root/root         0 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/templates/
+-rw-rw-r-- root/root      1313 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/templates/asm_diskgroups.fact.j2
+-rw-rw-r-- root/root      1022 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/templates/asm_disks.fact.j2
+-rw-rw-r-- root/root       182 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/templates/grid_home.fact.j2
+drwxrwxr-x root/root         0 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/vars/
+-rw-rw-r-- root/root       132 2019-01-24 04:42 ansible-role-oracle-gatherinfo-gi-master/vars/main.yml

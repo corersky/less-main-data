@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-14 17:52 awx-master/
+-rw-rw-r-- root/root     20133 2017-10-14 17:52 awx-master/LICENSE
+-rw-rw-r-- root/root      2096 2017-10-14 17:52 awx-master/README.md
+drwxrwxr-x root/root         0 2017-10-14 17:52 awx-master/defaults/
+-rw-rw-r-- root/root        37 2017-10-14 17:52 awx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-14 17:52 awx-master/meta/
+-rw-rw-r-- root/root       358 2017-10-14 17:52 awx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-14 17:52 awx-master/tasks/
+-rw-rw-r-- root/root      2249 2017-10-14 17:52 awx-master/tasks/awx.yml
+-rw-rw-r-- root/root      1561 2017-10-14 17:52 awx-master/tasks/install.yml
+-rw-rw-r-- root/root        56 2017-10-14 17:52 awx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-14 17:52 awx-master/templates/
+-rw-rw-r-- root/root       109 2017-10-14 17:52 awx-master/templates/docker.storage.conf.j2
+drwxrwxr-x root/root         0 2017-10-14 17:52 awx-master/vars/
+-rw-rw-r-- root/root        27 2017-10-14 17:52 awx-master/vars/main.yml

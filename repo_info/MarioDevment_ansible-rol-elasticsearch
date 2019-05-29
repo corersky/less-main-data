@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-07 05:42 ansible-rol-elasticsearch-master/
+-rw-rw-r-- root/root       455 2018-05-07 05:42 ansible-rol-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2018-05-07 05:42 ansible-rol-elasticsearch-master/defaults/
+-rw-rw-r-- root/root        65 2018-05-07 05:42 ansible-rol-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-07 05:42 ansible-rol-elasticsearch-master/files/
+-rwxrwxr-x root/root       225 2018-05-07 05:42 ansible-rol-elasticsearch-master/files/elasticsearch.repo
+drwxrwxr-x root/root         0 2018-05-07 05:42 ansible-rol-elasticsearch-master/handlers/
+-rw-rw-r-- root/root        80 2018-05-07 05:42 ansible-rol-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-07 05:42 ansible-rol-elasticsearch-master/meta/
+-rw-rw-r-- root/root       287 2018-05-07 05:42 ansible-rol-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-07 05:42 ansible-rol-elasticsearch-master/tasks/
+-rw-rw-r-- root/root       774 2018-05-07 05:42 ansible-rol-elasticsearch-master/tasks/Debian.yml
+-rw-rw-r-- root/root       649 2018-05-07 05:42 ansible-rol-elasticsearch-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       210 2018-05-07 05:42 ansible-rol-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-07 05:42 ansible-rol-elasticsearch-master/templates/
+-rwxrwxr-x root/root      3322 2018-05-07 05:42 ansible-rol-elasticsearch-master/templates/elasticsearch.yml.base

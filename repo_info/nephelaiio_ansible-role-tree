@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2019-03-03 22:05 ansible-role-tree-master/
+-rw-rw-r-- root/root       127 2019-03-03 22:05 ansible-role-tree-master/.flake8
+-rw-rw-r-- root/root        51 2019-03-03 22:05 ansible-role-tree-master/.gitignore
+-rw-rw-r-- root/root       231 2019-03-03 22:05 ansible-role-tree-master/.travis.yml
+-rw-rw-r-- root/root       171 2019-03-03 22:05 ansible-role-tree-master/.yamllint
+-rw-rw-r-- root/root      1053 2019-03-03 22:05 ansible-role-tree-master/LICENSE
+-rw-rw-r-- root/root      1033 2019-03-03 22:05 ansible-role-tree-master/README.md
+drwxrwxr-x root/root         0 2019-03-03 22:05 ansible-role-tree-master/defaults/
+-rw-rw-r-- root/root       102 2019-03-03 22:05 ansible-role-tree-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-03 22:05 ansible-role-tree-master/meta/
+-rw-rw-r-- root/root       408 2019-03-03 22:05 ansible-role-tree-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-03 22:05 ansible-role-tree-master/molecule/
+drwxrwxr-x root/root         0 2019-03-03 22:05 ansible-role-tree-master/molecule/default/
+-rw-rw-r-- root/root      1139 2019-03-03 22:05 ansible-role-tree-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       903 2019-03-03 22:05 ansible-role-tree-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root      2008 2019-03-03 22:05 ansible-role-tree-master/molecule/default/create.yml
+-rw-rw-r-- root/root       513 2019-03-03 22:05 ansible-role-tree-master/molecule/default/destroy.yml
+-rw-rw-r-- root/root       397 2019-03-03 22:05 ansible-role-tree-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        71 2019-03-03 22:05 ansible-role-tree-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-03-03 22:05 ansible-role-tree-master/molecule/default/roles/
+lrwxrwxrwx root/root         0 2019-03-03 22:05 ansible-role-tree-master/molecule/default/roles/nephelaiio.tree -> ../../..
+drwxrwxr-x root/root         0 2019-03-03 22:05 ansible-role-tree-master/molecule/default/tests/
+-rw-rw-r-- root/root       248 2019-03-03 22:05 ansible-role-tree-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root      1021 2019-03-03 22:05 ansible-role-tree-master/molecule/default/tests/test_default.pyc
+-rw-rw-r-- root/root        44 2019-03-03 22:05 ansible-role-tree-master/requirements.txt
+drwxrwxr-x root/root         0 2019-03-03 22:05 ansible-role-tree-master/tasks/
+-rw-rw-r-- root/root       130 2019-03-03 22:05 ansible-role-tree-master/tasks/main.yml

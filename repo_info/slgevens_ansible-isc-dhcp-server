@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-03-06 11:09 ansible-isc-dhcp-server-master/
+-rw-rw-r-- root/root      1071 2017-03-06 11:09 ansible-isc-dhcp-server-master/LICENSE
+-rw-rw-r-- root/root      1969 2017-03-06 11:09 ansible-isc-dhcp-server-master/README.rst
+drwxrwxr-x root/root         0 2017-03-06 11:09 ansible-isc-dhcp-server-master/defaults/
+-rw-rw-r-- root/root       319 2017-03-06 11:09 ansible-isc-dhcp-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-06 11:09 ansible-isc-dhcp-server-master/handlers/
+-rw-rw-r-- root/root         4 2017-03-06 11:09 ansible-isc-dhcp-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-06 11:09 ansible-isc-dhcp-server-master/meta/
+-rw-rw-r-- root/root       354 2017-03-06 11:09 ansible-isc-dhcp-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-06 11:09 ansible-isc-dhcp-server-master/tasks/
+-rw-rw-r-- root/root       809 2017-03-06 11:09 ansible-isc-dhcp-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-06 11:09 ansible-isc-dhcp-server-master/templates/
+-rw-rw-r-- root/root      5553 2017-03-06 11:09 ansible-isc-dhcp-server-master/templates/dhcpd.conf.j2
+-rw-rw-r-- root/root       130 2017-03-06 11:09 ansible-isc-dhcp-server-master/templates/isc-dhcp-server.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-14 05:40 ansible-uwsgi-master/
+-rw-rw-r-- root/root        11 2016-06-14 05:40 ansible-uwsgi-master/.gitignore
+-rw-rw-r-- root/root      1111 2016-06-14 05:40 ansible-uwsgi-master/LICENSE
+-rw-rw-r-- root/root      1840 2016-06-14 05:40 ansible-uwsgi-master/README.md
+-rw-rw-r-- root/root       421 2016-06-14 05:40 ansible-uwsgi-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-06-14 05:40 ansible-uwsgi-master/defaults/
+-rw-rw-r-- root/root       114 2016-06-14 05:40 ansible-uwsgi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-14 05:40 ansible-uwsgi-master/handlers/
+-rw-rw-r-- root/root       208 2016-06-14 05:40 ansible-uwsgi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-14 05:40 ansible-uwsgi-master/meta/
+-rw-rw-r-- root/root       479 2016-06-14 05:40 ansible-uwsgi-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-14 05:40 ansible-uwsgi-master/tasks/
+-rw-rw-r-- root/root       622 2016-06-14 05:40 ansible-uwsgi-master/tasks/apt-install-python-dev.yml
+-rw-rw-r-- root/root       723 2016-06-14 05:40 ansible-uwsgi-master/tasks/install-pip.yml
+-rw-rw-r-- root/root       648 2016-06-14 05:40 ansible-uwsgi-master/tasks/main.yml
+-rw-rw-r-- root/root       625 2016-06-14 05:40 ansible-uwsgi-master/tasks/yum-install-python-devel.yml
+-rw-rw-r-- root/root       146 2016-06-14 05:40 ansible-uwsgi-master/test.yml

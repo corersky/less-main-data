@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-11 03:01 ansible-role-ssh-config-master/
+-rw-rw-r-- root/root         6 2019-01-11 03:01 ansible-role-ssh-config-master/.gitignore
+-rw-rw-r-- root/root       621 2019-01-11 03:01 ansible-role-ssh-config-master/.travis.yml
+-rw-rw-r-- root/root      3186 2019-01-11 03:01 ansible-role-ssh-config-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 03:01 ansible-role-ssh-config-master/defaults/
+-rw-rw-r-- root/root       790 2019-01-11 03:01 ansible-role-ssh-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 03:01 ansible-role-ssh-config-master/meta/
+-rw-rw-r-- root/root       431 2019-01-11 03:01 ansible-role-ssh-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 03:01 ansible-role-ssh-config-master/tasks/
+-rw-rw-r-- root/root      2492 2019-01-11 03:01 ansible-role-ssh-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 03:01 ansible-role-ssh-config-master/tests/
+-rw-rw-r-- root/root         9 2019-01-11 03:01 ansible-role-ssh-config-master/tests/inventory
+-rw-rw-r-- root/root       377 2019-01-11 03:01 ansible-role-ssh-config-master/tests/test.yml

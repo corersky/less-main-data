@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-08 12:43 ansible-netdata-master/
+-rw-rw-r-- root/root      1531 2017-09-08 12:43 ansible-netdata-master/.travis.yml
+-rw-rw-r-- root/root      1073 2017-09-08 12:43 ansible-netdata-master/LICENSE
+-rw-rw-r-- root/root       828 2017-09-08 12:43 ansible-netdata-master/README.md
+drwxrwxr-x root/root         0 2017-09-08 12:43 ansible-netdata-master/defaults/
+-rw-rw-r-- root/root        32 2017-09-08 12:43 ansible-netdata-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-08 12:43 ansible-netdata-master/handlers/
+-rw-rw-r-- root/root        32 2017-09-08 12:43 ansible-netdata-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-08 12:43 ansible-netdata-master/meta/
+-rw-rw-r-- root/root       270 2017-09-08 12:43 ansible-netdata-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-08 12:43 ansible-netdata-master/tasks/
+-rw-rw-r-- root/root       975 2017-09-08 12:43 ansible-netdata-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-08 12:43 ansible-netdata-master/tests/
+-rw-rw-r-- root/root      1027 2017-09-08 12:43 ansible-netdata-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root       162 2017-09-08 12:43 ansible-netdata-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-08 12:43 ansible-netdata-master/vars/
+-rw-rw-r-- root/root        28 2017-09-08 12:43 ansible-netdata-master/vars/main.yml

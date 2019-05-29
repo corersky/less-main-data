@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-11-21 17:54 ansible-starbound-master/
+-rw-rw-r-- root/root      1066 2018-11-21 17:54 ansible-starbound-master/LICENSE
+-rw-rw-r-- root/root       230 2018-11-21 17:54 ansible-starbound-master/README.md
+drwxrwxr-x root/root         0 2018-11-21 17:54 ansible-starbound-master/defaults/
+-rw-rw-r-- root/root       160 2018-11-21 17:54 ansible-starbound-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-21 17:54 ansible-starbound-master/meta/
+-rw-rw-r-- root/root       814 2018-11-21 17:54 ansible-starbound-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-21 17:54 ansible-starbound-master/tasks/
+-rw-rw-r-- root/root      1192 2018-11-21 17:54 ansible-starbound-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-21 17:54 ansible-starbound-master/templates/
+-rw-rw-r-- root/root       192 2018-11-21 17:54 ansible-starbound-master/templates/starbound_monit.j2
+-rw-rw-r-- root/root       836 2018-11-21 17:54 ansible-starbound-master/templates/starbound_server.json.j2
+-rw-rw-r-- root/root       349 2018-11-21 17:54 ansible-starbound-master/templates/starbound_systemd.j2
+drwxrwxr-x root/root         0 2018-11-21 17:54 ansible-starbound-master/vars/
+-rw-rw-r-- root/root        74 2018-11-21 17:54 ansible-starbound-master/vars/main.yml

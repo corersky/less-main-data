@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-09 15:13 ansible-openshift-jenkins-master/
+-rw-rw-r-- root/root         8 2019-04-09 15:13 ansible-openshift-jenkins-master/.gitignore
+-rw-rw-r-- root/root       148 2019-04-09 15:13 ansible-openshift-jenkins-master/.travis.yml
+-rw-rw-r-- root/root      3234 2019-04-09 15:13 ansible-openshift-jenkins-master/README.md
+drwxrwxr-x root/root         0 2019-04-09 15:13 ansible-openshift-jenkins-master/defaults/
+-rw-rw-r-- root/root       399 2019-04-09 15:13 ansible-openshift-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-09 15:13 ansible-openshift-jenkins-master/meta/
+-rw-rw-r-- root/root       330 2019-04-09 15:13 ansible-openshift-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-09 15:13 ansible-openshift-jenkins-master/tasks/
+-rw-rw-r-- root/root      3345 2019-04-09 15:13 ansible-openshift-jenkins-master/tasks/main.yml
+-rw-rw-r-- root/root       182 2019-04-09 15:13 ansible-openshift-jenkins-master/tasks/replace_template.yml
+drwxrwxr-x root/root         0 2019-04-09 15:13 ansible-openshift-jenkins-master/templates/
+-rw-rw-r-- root/root      7132 2019-04-09 15:13 ansible-openshift-jenkins-master/templates/jenkins-ephemeral.yml.j2
+-rw-rw-r-- root/root      7685 2019-04-09 15:13 ansible-openshift-jenkins-master/templates/jenkins-persistent.yml.j2
+drwxrwxr-x root/root         0 2019-04-09 15:13 ansible-openshift-jenkins-master/tests/
+-rw-rw-r-- root/root         9 2019-04-09 15:13 ansible-openshift-jenkins-master/tests/inventory
+-rw-rw-r-- root/root        59 2019-04-09 15:13 ansible-openshift-jenkins-master/tests/test.yml

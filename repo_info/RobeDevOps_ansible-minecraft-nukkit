@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-21 21:00 ansible-minecraft-nukkit-master/
+-rw-rw-r-- root/root      1733 2019-04-21 21:00 ansible-minecraft-nukkit-master/README.md
+drwxrwxr-x root/root         0 2019-04-21 21:00 ansible-minecraft-nukkit-master/defaults/
+-rw-rw-r-- root/root       691 2019-04-21 21:00 ansible-minecraft-nukkit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-21 21:00 ansible-minecraft-nukkit-master/handlers/
+-rw-rw-r-- root/root       158 2019-04-21 21:00 ansible-minecraft-nukkit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-21 21:00 ansible-minecraft-nukkit-master/meta/
+-rw-rw-r-- root/root       345 2019-04-21 21:00 ansible-minecraft-nukkit-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-21 21:00 ansible-minecraft-nukkit-master/tasks/
+-rw-rw-r-- root/root      1685 2019-04-21 21:00 ansible-minecraft-nukkit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-21 21:00 ansible-minecraft-nukkit-master/templates/
+-rw-rw-r-- root/root       150 2019-04-21 21:00 ansible-minecraft-nukkit-master/templates/eula.txt.j2
+-rw-rw-r-- root/root       830 2019-04-21 21:00 ansible-minecraft-nukkit-master/templates/key.txt
+-rw-rw-r-- root/root       305 2019-04-21 21:00 ansible-minecraft-nukkit-master/templates/minecraft.service.j2
+-rw-rw-r-- root/root        11 2019-04-21 21:00 ansible-minecraft-nukkit-master/templates/options.txt.j2
+-rw-rw-r-- root/root       810 2019-04-21 21:00 ansible-minecraft-nukkit-master/templates/server.properties.j2
+-rw-rw-r-- root/root       134 2019-04-21 21:00 ansible-minecraft-nukkit-master/templates/webupd8team-java.list.j2

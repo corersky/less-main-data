@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-03-28 06:06 ansible-test-framework-master/
+-rw-rw-r-- root/root        23 2018-03-28 06:06 ansible-test-framework-master/.gitignore
+-rw-rw-r-- root/root       540 2018-03-28 06:06 ansible-test-framework-master/.kitchen.vagrant.yml
+-rw-rw-r-- root/root      1708 2018-03-28 06:06 ansible-test-framework-master/.kitchen.yml
+-rw-rw-r-- root/root      1954 2018-03-28 06:06 ansible-test-framework-master/.travis.yml
+-rw-rw-r-- root/root       182 2018-03-28 06:06 ansible-test-framework-master/Gemfile
+-rw-rw-r-- root/root     18047 2018-03-28 06:06 ansible-test-framework-master/LICENSE
+-rw-rw-r-- root/root      5732 2018-03-28 06:06 ansible-test-framework-master/README.md
+-rw-rw-r-- root/root        92 2018-03-28 06:06 ansible-test-framework-master/default.yml
+-rw-rw-r-- root/root        22 2018-03-28 06:06 ansible-test-framework-master/hosts
+drwxrwxr-x root/root         0 2018-03-28 06:06 ansible-test-framework-master/test/
+drwxrwxr-x root/root         0 2018-03-28 06:06 ansible-test-framework-master/test/integration/
+-rw-rw-r-- root/root        78 2018-03-28 06:06 ansible-test-framework-master/test/integration/Gemfile
+drwxrwxr-x root/root         0 2018-03-28 06:06 ansible-test-framework-master/test/integration/default/
+drwxrwxr-x root/root         0 2018-03-28 06:06 ansible-test-framework-master/test/integration/default/serverspec/
+-rw-rw-r-- root/root        42 2018-03-28 06:06 ansible-test-framework-master/test/integration/default/serverspec/spec_helper.rb
+-rw-rw-r-- root/root        58 2018-03-28 06:06 ansible-test-framework-master/test/integration/default/serverspec/test_spec.rb

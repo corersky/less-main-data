@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-08-23 05:03 ansible-archlinux_aur-master/
+-rw-rw-r-- root/root         0 2017-08-23 05:03 ansible-archlinux_aur-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-08-23 05:03 ansible-archlinux_aur-master/LICENSE
+-rw-rw-r-- root/root       611 2017-08-23 05:03 ansible-archlinux_aur-master/README.md
+drwxrwxr-x root/root         0 2017-08-23 05:03 ansible-archlinux_aur-master/defaults/
+-rw-rw-r-- root/root       220 2017-08-23 05:03 ansible-archlinux_aur-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-08-23 05:03 ansible-archlinux_aur-master/meta/
+-rw-rw-r-- root/root       256 2017-08-23 05:03 ansible-archlinux_aur-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-23 05:03 ansible-archlinux_aur-master/tasks/
+-rw-rw-r-- root/root       455 2017-08-23 05:03 ansible-archlinux_aur-master/tasks/build.yaml
+-rw-rw-r-- root/root       773 2017-08-23 05:03 ansible-archlinux_aur-master/tasks/main.yaml

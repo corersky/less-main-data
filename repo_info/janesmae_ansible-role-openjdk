@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-02 08:25 ansible-role-openjdk-master/
+-rw-rw-r-- root/root      2965 2018-10-02 08:25 ansible-role-openjdk-master/CONTRIBUTING.md
+-rw-rw-r-- root/root      1072 2018-10-02 08:25 ansible-role-openjdk-master/LICENSE
+-rw-rw-r-- root/root      1475 2018-10-02 08:25 ansible-role-openjdk-master/README.md
+drwxrwxr-x root/root         0 2018-10-02 08:25 ansible-role-openjdk-master/meta/
+-rw-rw-r-- root/root       274 2018-10-02 08:25 ansible-role-openjdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-02 08:25 ansible-role-openjdk-master/tasks/
+-rw-rw-r-- root/root       854 2018-10-02 08:25 ansible-role-openjdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-02 08:25 ansible-role-openjdk-master/tests/
+-rw-rw-r-- root/root        11 2018-10-02 08:25 ansible-role-openjdk-master/tests/inventory
+-rw-rw-r-- root/root        88 2018-10-02 08:25 ansible-role-openjdk-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-02 08:25 ansible-role-openjdk-master/vars/
+-rw-rw-r-- root/root       244 2018-10-02 08:25 ansible-role-openjdk-master/vars/RedHat.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-12-12 05:10 ansible-beanstalkd-master/
+-rw-rw-r-- root/root       197 2014-12-12 05:10 ansible-beanstalkd-master/README.md
+drwxrwxr-x root/root         0 2014-12-12 05:10 ansible-beanstalkd-master/handlers/
+-rw-rw-r-- root/root       258 2014-12-12 05:10 ansible-beanstalkd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-12 05:10 ansible-beanstalkd-master/meta/
+-rw-rw-r-- root/root       376 2014-12-12 05:10 ansible-beanstalkd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-12 05:10 ansible-beanstalkd-master/tasks/
+-rw-rw-r-- root/root       233 2014-12-12 05:10 ansible-beanstalkd-master/tasks/debian.yml
+-rw-rw-r-- root/root       124 2014-12-12 05:10 ansible-beanstalkd-master/tasks/main.yml
+-rw-rw-r-- root/root       235 2014-12-12 05:10 ansible-beanstalkd-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2014-12-12 05:10 ansible-beanstalkd-master/templates/
+-rw-rw-r-- root/root       396 2014-12-12 05:10 ansible-beanstalkd-master/templates/debian-beanstalkd.j2
+-rw-rw-r-- root/root       829 2014-12-12 05:10 ansible-beanstalkd-master/templates/redhat-beanstalkd.j2
+drwxrwxr-x root/root         0 2014-12-12 05:10 ansible-beanstalkd-master/vars/
+-rw-rw-r-- root/root        90 2014-12-12 05:10 ansible-beanstalkd-master/vars/main.yml

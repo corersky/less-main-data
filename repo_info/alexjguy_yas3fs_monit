@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-11 06:31 yas3fs_monit-master/
+-rw-rw-r-- root/root      1314 2019-01-11 06:31 yas3fs_monit-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 06:31 yas3fs_monit-master/defaults/
+-rw-rw-r-- root/root       211 2019-01-11 06:31 yas3fs_monit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 06:31 yas3fs_monit-master/handlers/
+-rw-rw-r-- root/root        73 2019-01-11 06:31 yas3fs_monit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-11 06:31 yas3fs_monit-master/meta/
+-rw-rw-r-- root/root       481 2019-01-11 06:31 yas3fs_monit-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 06:31 yas3fs_monit-master/tasks/
+-rw-rw-r-- root/root      3481 2019-01-11 06:31 yas3fs_monit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 06:31 yas3fs_monit-master/templates/
+-rw-rw-r-- root/root       263 2019-01-11 06:31 yas3fs_monit-master/templates/start-yas3fs.sh.j2
+-rw-rw-r-- root/root        41 2019-01-11 06:31 yas3fs_monit-master/templates/stop-yas3fs.sh.j2
+-rw-rw-r-- root/root       275 2019-01-11 06:31 yas3fs_monit-master/templates/yas3fs-user.j2
+drwxrwxr-x root/root         0 2019-01-11 06:31 yas3fs_monit-master/tests/
+-rw-rw-r-- root/root        11 2019-01-11 06:31 yas3fs_monit-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-01-11 06:31 yas3fs_monit-master/tests/test.yml

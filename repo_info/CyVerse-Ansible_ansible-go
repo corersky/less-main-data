@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-28 15:00 ansible-go-master/
+-rw-rw-r-- root/root      1945 2019-02-28 15:00 ansible-go-master/LICENSE.md
+-rw-rw-r-- root/root       511 2019-02-28 15:00 ansible-go-master/README.md
+drwxrwxr-x root/root         0 2019-02-28 15:00 ansible-go-master/defaults/
+-rw-rw-r-- root/root        88 2019-02-28 15:00 ansible-go-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-28 15:00 ansible-go-master/handlers/
+-rw-rw-r-- root/root        34 2019-02-28 15:00 ansible-go-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-28 15:00 ansible-go-master/meta/
+-rw-rw-r-- root/root      2112 2019-02-28 15:00 ansible-go-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-28 15:00 ansible-go-master/tasks/
+-rw-rw-r-- root/root       930 2019-02-28 15:00 ansible-go-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-28 15:00 ansible-go-master/tests/
+-rw-rw-r-- root/root        11 2019-02-28 15:00 ansible-go-master/tests/inventory
+-rw-rw-r-- root/root        68 2019-02-28 15:00 ansible-go-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-28 15:00 ansible-go-master/vars/
+-rw-rw-r-- root/root        30 2019-02-28 15:00 ansible-go-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-23 07:21 ansible-role-kibana-master/
+-rw-rw-r-- root/root      1074 2017-12-23 07:21 ansible-role-kibana-master/LICENSE
+-rw-rw-r-- root/root      1634 2017-12-23 07:21 ansible-role-kibana-master/README.md
+-rw-rw-r-- root/root        28 2017-12-23 07:21 ansible-role-kibana-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-12-23 07:21 ansible-role-kibana-master/defaults/
+-rw-rw-r-- root/root       156 2017-12-23 07:21 ansible-role-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-23 07:21 ansible-role-kibana-master/handlers/
+-rw-rw-r-- root/root        67 2017-12-23 07:21 ansible-role-kibana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-23 07:21 ansible-role-kibana-master/meta/
+-rw-rw-r-- root/root       336 2017-12-23 07:21 ansible-role-kibana-master/meta/main.yml
+-rw-rw-r-- root/root       122 2017-12-23 07:21 ansible-role-kibana-master/requirements.yml
+drwxrwxr-x root/root         0 2017-12-23 07:21 ansible-role-kibana-master/tasks/
+-rw-rw-r-- root/root       761 2017-12-23 07:21 ansible-role-kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-23 07:21 ansible-role-kibana-master/templates/
+-rw-rw-r-- root/root       305 2017-12-23 07:21 ansible-role-kibana-master/templates/kibana.repo.j2
+-rw-rw-r-- root/root      4714 2017-12-23 07:21 ansible-role-kibana-master/templates/kibana.yml.j2
+-rw-rw-r-- root/root        83 2017-12-23 07:21 ansible-role-kibana-master/test.yml

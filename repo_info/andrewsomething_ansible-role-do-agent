@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-22 16:39 ansible-role-do-agent-master/
+-rw-rw-r-- root/root         7 2019-04-22 16:39 ansible-role-do-agent-master/.gitignore
+-rw-rw-r-- root/root       543 2019-04-22 16:39 ansible-role-do-agent-master/.travis.yml
+-rw-rw-r-- root/root      1091 2019-04-22 16:39 ansible-role-do-agent-master/LICENSE.md
+-rw-rw-r-- root/root       946 2019-04-22 16:39 ansible-role-do-agent-master/README.md
+drwxrwxr-x root/root         0 2019-04-22 16:39 ansible-role-do-agent-master/meta/
+-rw-rw-r-- root/root       555 2019-04-22 16:39 ansible-role-do-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-22 16:39 ansible-role-do-agent-master/roles/
+lrwxrwxrwx root/root         0 2019-04-22 16:39 ansible-role-do-agent-master/roles/do-agent -> ..
+drwxrwxr-x root/root         0 2019-04-22 16:39 ansible-role-do-agent-master/tasks/
+-rw-rw-r-- root/root      1895 2019-04-22 16:39 ansible-role-do-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-22 16:39 ansible-role-do-agent-master/tests/
+-rw-rw-r-- root/root        34 2019-04-22 16:39 ansible-role-do-agent-master/tests/inventory
+-rw-rw-r-- root/root        81 2019-04-22 16:39 ansible-role-do-agent-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-22 16:39 ansible-role-do-agent-master/vars/
+-rw-rw-r-- root/root       345 2019-04-22 16:39 ansible-role-do-agent-master/vars/debian.yml
+-rw-rw-r-- root/root       269 2019-04-22 16:39 ansible-role-do-agent-master/vars/redhat.yml

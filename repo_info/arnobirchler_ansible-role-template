@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-31 12:02 ansible-role-template-master/
+-rw-rw-r-- root/root       839 2018-05-31 12:02 ansible-role-template-master/.travis.yml
+-rw-rw-r-- root/root       775 2018-05-31 12:02 ansible-role-template-master/README.md
+drwxrwxr-x root/root         0 2018-05-31 12:02 ansible-role-template-master/defaults/
+-rw-rw-r-- root/root        51 2018-05-31 12:02 ansible-role-template-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-31 12:02 ansible-role-template-master/handlers/
+-rw-rw-r-- root/root        51 2018-05-31 12:02 ansible-role-template-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-31 12:02 ansible-role-template-master/meta/
+-rw-rw-r-- root/root      1877 2018-05-31 12:02 ansible-role-template-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-31 12:02 ansible-role-template-master/tasks/
+-rw-rw-r-- root/root       137 2018-05-31 12:02 ansible-role-template-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-31 12:02 ansible-role-template-master/tests/
+-rw-rw-r-- root/root       761 2018-05-31 12:02 ansible-role-template-master/tests/README.md
+-rw-rw-r-- root/root        11 2018-05-31 12:02 ansible-role-template-master/tests/inventory
+-rw-rw-r-- root/root       281 2018-05-31 12:02 ansible-role-template-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-05-31 12:02 ansible-role-template-master/vars/
+-rw-rw-r-- root/root        47 2018-05-31 12:02 ansible-role-template-master/vars/main.yml

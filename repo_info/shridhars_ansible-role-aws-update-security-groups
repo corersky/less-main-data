@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/
+-rw-rw-r-- root/root       888 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/README.md
+drwxrwxr-x root/root         0 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/defaults/
+-rw-rw-r-- root/root       113 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/handlers/
+-rw-rw-r-- root/root        50 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/meta/
+-rw-rw-r-- root/root      2106 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/tasks/
+-rw-rw-r-- root/root       129 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/tasks/main.yml
+-rw-rw-r-- root/root       647 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/tasks/security-group-modify-include.yaml
+-rw-rw-r-- root/root       231 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/tasks/security-group-modify.yaml
+drwxrwxr-x root/root         0 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/tests/
+-rw-rw-r-- root/root        11 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/tests/inventory
+-rw-rw-r-- root/root        84 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/vars/
+-rw-rw-r-- root/root        46 2019-04-10 09:43 ansible-role-aws-update-security-groups-master/vars/main.yml

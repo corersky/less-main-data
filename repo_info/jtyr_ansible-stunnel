@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-22 03:16 ansible-stunnel-master/
+-rw-rw-r-- root/root         0 2017-06-22 03:16 ansible-stunnel-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-06-22 03:16 ansible-stunnel-master/LICENSE
+-rw-rw-r-- root/root      1744 2017-06-22 03:16 ansible-stunnel-master/README.md
+drwxrwxr-x root/root         0 2017-06-22 03:16 ansible-stunnel-master/defaults/
+-rw-rw-r-- root/root       806 2017-06-22 03:16 ansible-stunnel-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-06-22 03:16 ansible-stunnel-master/files/
+-rw-rw-r-- root/root       376 2017-06-22 03:16 ansible-stunnel-master/files/stunnel.systemd
+-rw-rw-r-- root/root      1229 2017-06-22 03:16 ansible-stunnel-master/files/stunnel.upstart
+drwxrwxr-x root/root         0 2017-06-22 03:16 ansible-stunnel-master/handlers/
+-rw-rw-r-- root/root       251 2017-06-22 03:16 ansible-stunnel-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-06-22 03:16 ansible-stunnel-master/meta/
+-rw-rw-r-- root/root       267 2017-06-22 03:16 ansible-stunnel-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-22 03:16 ansible-stunnel-master/tasks/
+-rw-rw-r-- root/root      1264 2017-06-22 03:16 ansible-stunnel-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-06-22 03:16 ansible-stunnel-master/templates/
+-rw-rw-r-- root/root        84 2017-06-22 03:16 ansible-stunnel-master/templates/stunnel.conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-19 03:10 ansible-vim-master/
+-rw-rw-r-- root/root         9 2018-04-19 03:10 ansible-vim-master/.gitignore
+-rw-rw-r-- root/root        80 2018-04-19 03:10 ansible-vim-master/LICENSE
+-rw-rw-r-- root/root      2746 2018-04-19 03:10 ansible-vim-master/README.md
+drwxrwxr-x root/root         0 2018-04-19 03:10 ansible-vim-master/defaults/
+-rw-rw-r-- root/root       610 2018-04-19 03:10 ansible-vim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-19 03:10 ansible-vim-master/meta/
+-rw-rw-r-- root/root       341 2018-04-19 03:10 ansible-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-19 03:10 ansible-vim-master/tasks/
+-rw-rw-r-- root/root       770 2018-04-19 03:10 ansible-vim-master/tasks/configure_system.yml
+-rw-rw-r-- root/root      1405 2018-04-19 03:10 ansible-vim-master/tasks/configure_user.yml
+-rw-rw-r-- root/root       499 2018-04-19 03:10 ansible-vim-master/tasks/install.yml
+-rw-rw-r-- root/root       418 2018-04-19 03:10 ansible-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-19 03:10 ansible-vim-master/templates/
+-rw-rw-r-- root/root       556 2018-04-19 03:10 ansible-vim-master/templates/vimrc.bundles.j2
+-rw-rw-r-- root/root       401 2018-04-19 03:10 ansible-vim-master/templates/vimrc.j2
+-rw-rw-r-- root/root      2916 2018-04-19 03:10 ansible-vim-master/templates/vimrc.recommended.j2

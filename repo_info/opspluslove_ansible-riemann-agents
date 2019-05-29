@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-riemann-agents-master/
+-rw-rw-r-- root/root       539 2016-05-23 19:22 ansible-riemann-agents-master/.travis.yml
+-rw-rw-r-- root/root      1108 2016-05-23 19:22 ansible-riemann-agents-master/LICENSE
+-rw-rw-r-- root/root       424 2016-05-23 19:22 ansible-riemann-agents-master/README.md
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-riemann-agents-master/defaults/
+-rw-rw-r-- root/root       453 2016-05-23 19:22 ansible-riemann-agents-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-riemann-agents-master/handlers/
+-rw-rw-r-- root/root       125 2016-05-23 19:22 ansible-riemann-agents-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-riemann-agents-master/meta/
+-rw-rw-r-- root/root       279 2016-05-23 19:22 ansible-riemann-agents-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-riemann-agents-master/tasks/
+-rw-rw-r-- root/root      1050 2016-05-23 19:22 ansible-riemann-agents-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-riemann-agents-master/templates/
+-rw-rw-r-- root/root       504 2016-05-23 19:22 ansible-riemann-agents-master/templates/riemann-tool.service
+drwxrwxr-x root/root         0 2016-05-23 19:22 ansible-riemann-agents-master/tests/
+-rw-rw-r-- root/root         9 2016-05-23 19:22 ansible-riemann-agents-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-05-23 19:22 ansible-riemann-agents-master/tests/test.yml

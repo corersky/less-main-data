@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-07 16:44 ansible-ssh-master/
+-rw-rw-r-- root/root        10 2017-04-07 16:44 ansible-ssh-master/.gitignore
+-rw-rw-r-- root/root       542 2017-04-07 16:44 ansible-ssh-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-04-07 16:44 ansible-ssh-master/LICENSE
+-rw-rw-r-- root/root       683 2017-04-07 16:44 ansible-ssh-master/README.md
+drwxrwxr-x root/root         0 2017-04-07 16:44 ansible-ssh-master/defaults/
+-rw-rw-r-- root/root      1003 2017-04-07 16:44 ansible-ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-07 16:44 ansible-ssh-master/handlers/
+-rw-rw-r-- root/root        69 2017-04-07 16:44 ansible-ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-07 16:44 ansible-ssh-master/meta/
+-rw-rw-r-- root/root       305 2017-04-07 16:44 ansible-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-07 16:44 ansible-ssh-master/tasks/
+-rw-rw-r-- root/root      2010 2017-04-07 16:44 ansible-ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-07 16:44 ansible-ssh-master/templates/
+-rw-rw-r-- root/root       904 2017-04-07 16:44 ansible-ssh-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2017-04-07 16:44 ansible-ssh-master/tests/
+-rw-rw-r-- root/root        59 2017-04-07 16:44 ansible-ssh-master/tests/role.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-04 08:29 openstack-master/
+-rw-rw-r-- root/root      1157 2017-12-04 08:29 openstack-master/.gitignore
+-rw-rw-r-- root/root       548 2017-12-04 08:29 openstack-master/.travis.yml
+-rw-rw-r-- root/root      1326 2017-12-04 08:29 openstack-master/LICENSE
+-rw-rw-r-- root/root      1710 2017-12-04 08:29 openstack-master/README.md
+drwxrwxr-x root/root         0 2017-12-04 08:29 openstack-master/meta/
+-rw-rw-r-- root/root       491 2017-12-04 08:29 openstack-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-04 08:29 openstack-master/tasks/
+-rw-rw-r-- root/root       247 2017-12-04 08:29 openstack-master/tasks/apt.yml
+-rw-rw-r-- root/root      1065 2017-12-04 08:29 openstack-master/tasks/main.yml
+-rw-rw-r-- root/root       267 2017-12-04 08:29 openstack-master/tasks/rpm.yml
+drwxrwxr-x root/root         0 2017-12-04 08:29 openstack-master/templates/
+-rw-rw-r-- root/root       571 2017-12-04 08:29 openstack-master/templates/local.conf.j2
+-rwxrwxr-x root/root      1933 2017-12-04 08:29 openstack-master/templates/local.sh.j2
+drwxrwxr-x root/root         0 2017-12-04 08:29 openstack-master/tests/
+-rw-rw-r-- root/root        11 2017-12-04 08:29 openstack-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-12-04 08:29 openstack-master/tests/test.yml

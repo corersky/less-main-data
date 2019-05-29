@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-09 09:28 ansible-role-supervisord-config-master/
+-rw-rw-r-- root/root      3544 2018-02-09 09:28 ansible-role-supervisord-config-master/README.md
+drwxrwxr-x root/root         0 2018-02-09 09:28 ansible-role-supervisord-config-master/defaults/
+-rw-rw-r-- root/root        97 2018-02-09 09:28 ansible-role-supervisord-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-09 09:28 ansible-role-supervisord-config-master/handlers/
+-rw-rw-r-- root/root        43 2018-02-09 09:28 ansible-role-supervisord-config-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-09 09:28 ansible-role-supervisord-config-master/meta/
+-rw-rw-r-- root/root      2175 2018-02-09 09:28 ansible-role-supervisord-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-09 09:28 ansible-role-supervisord-config-master/tasks/
+-rw-rw-r-- root/root       426 2018-02-09 09:28 ansible-role-supervisord-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-09 09:28 ansible-role-supervisord-config-master/templates/
+-rw-rw-r-- root/root       166 2018-02-09 09:28 ansible-role-supervisord-config-master/templates/supervisor.conf.j2
+drwxrwxr-x root/root         0 2018-02-09 09:28 ansible-role-supervisord-config-master/vars/
+-rw-rw-r-- root/root        39 2018-02-09 09:28 ansible-role-supervisord-config-master/vars/main.yml

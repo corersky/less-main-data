@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-10-12 09:31 ansible-role-aur-master/
+-rw-rw-r-- root/root         9 2017-10-12 09:31 ansible-role-aur-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-10-12 09:31 ansible-role-aur-master/LICENSE
+-rw-rw-r-- root/root       331 2017-10-12 09:31 ansible-role-aur-master/README.md
+drwxrwxr-x root/root         0 2017-10-12 09:31 ansible-role-aur-master/defaults/
+-rw-rw-r-- root/root        34 2017-10-12 09:31 ansible-role-aur-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:31 ansible-role-aur-master/handlers/
+-rw-rw-r-- root/root       110 2017-10-12 09:31 ansible-role-aur-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:31 ansible-role-aur-master/meta/
+-rw-rw-r-- root/root       335 2017-10-12 09:31 ansible-role-aur-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-12 09:31 ansible-role-aur-master/tasks/
+-rw-rw-r-- root/root       960 2017-10-12 09:31 ansible-role-aur-master/tasks/main.yml

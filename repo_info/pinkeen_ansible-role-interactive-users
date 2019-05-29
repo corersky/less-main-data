@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-14 12:34 ansible-role-interactive-users-master/
+-rw-rw-r-- root/root       866 2019-03-14 12:34 ansible-role-interactive-users-master/README.md
+drwxrwxr-x root/root         0 2019-03-14 12:34 ansible-role-interactive-users-master/defaults/
+-rw-rw-r-- root/root        69 2019-03-14 12:34 ansible-role-interactive-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-14 12:34 ansible-role-interactive-users-master/files/
+-rw-rw-r-- root/root      7611 2019-03-14 12:34 ansible-role-interactive-users-master/files/nanorc
+drwxrwxr-x root/root         0 2019-03-14 12:34 ansible-role-interactive-users-master/meta/
+-rw-rw-r-- root/root       245 2019-03-14 12:34 ansible-role-interactive-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-14 12:34 ansible-role-interactive-users-master/tasks/
+-rw-rw-r-- root/root      3869 2019-03-14 12:34 ansible-role-interactive-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-14 12:34 ansible-role-interactive-users-master/templates/
+-rw-rw-r-- root/root       358 2019-03-14 12:34 ansible-role-interactive-users-master/templates/zshrc.j2

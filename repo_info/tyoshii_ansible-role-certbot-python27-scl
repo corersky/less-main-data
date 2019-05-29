@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/
+-rw-rw-r-- root/root       457 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/README.md
+drwxrwxr-x root/root         0 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/defaults/
+-rw-rw-r-- root/root        57 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/handlers/
+-rw-rw-r-- root/root        57 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/meta/
+-rw-rw-r-- root/root      1972 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/tasks/
+-rw-rw-r-- root/root       312 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/tests/
+-rw-rw-r-- root/root        11 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/tests/inventory
+-rw-rw-r-- root/root        91 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/vars/
+-rw-rw-r-- root/root        53 2017-10-16 05:46 ansible-role-certbot-python27-scl-master/vars/main.yml

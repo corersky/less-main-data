@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-11 23:24 ansible-logwatch-master/
+-rw-rw-r-- root/root      1253 2015-10-11 23:24 ansible-logwatch-master/.travis.yml
+-rw-rw-r-- root/root      1082 2015-10-11 23:24 ansible-logwatch-master/LICENSE
+-rw-rw-r-- root/root      2046 2015-10-11 23:24 ansible-logwatch-master/README.md
+drwxrwxr-x root/root         0 2015-10-11 23:24 ansible-logwatch-master/defaults/
+-rw-rw-r-- root/root       942 2015-10-11 23:24 ansible-logwatch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-11 23:24 ansible-logwatch-master/meta/
+-rw-rw-r-- root/root      1432 2015-10-11 23:24 ansible-logwatch-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-11 23:24 ansible-logwatch-master/tasks/
+-rw-rw-r-- root/root       489 2015-10-11 23:24 ansible-logwatch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-11 23:24 ansible-logwatch-master/templates/
+-rw-rw-r-- root/root      1121 2015-10-11 23:24 ansible-logwatch-master/templates/logwatch.conf.j2
+drwxrwxr-x root/root         0 2015-10-11 23:24 ansible-logwatch-master/tests/
+-rw-rw-r-- root/root        10 2015-10-11 23:24 ansible-logwatch-master/tests/inventory
+-rw-rw-r-- root/root        75 2015-10-11 23:24 ansible-logwatch-master/tests/test.yml

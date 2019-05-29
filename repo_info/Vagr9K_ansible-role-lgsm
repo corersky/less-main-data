@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-12-13 07:30 ansible-role-lgsm-master/
+-rw-rw-r-- root/root         8 2018-12-13 07:30 ansible-role-lgsm-master/.gitignore
+-rw-rw-r-- root/root      1074 2018-12-13 07:30 ansible-role-lgsm-master/LICENSE
+-rw-rw-r-- root/root      1369 2018-12-13 07:30 ansible-role-lgsm-master/README.md
+drwxrwxr-x root/root         0 2018-12-13 07:30 ansible-role-lgsm-master/defaults/
+-rw-rw-r-- root/root       849 2018-12-13 07:30 ansible-role-lgsm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-13 07:30 ansible-role-lgsm-master/meta/
+-rw-rw-r-- root/root       312 2018-12-13 07:30 ansible-role-lgsm-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-13 07:30 ansible-role-lgsm-master/tasks/
+-rw-rw-r-- root/root       312 2018-12-13 07:30 ansible-role-lgsm-master/tasks/lgsm_deps.yml
+-rw-rw-r-- root/root      1922 2018-12-13 07:30 ansible-role-lgsm-master/tasks/main.yml
+-rw-rw-r-- root/root       301 2018-12-13 07:30 ansible-role-lgsm-master/tasks/run_commands.yml

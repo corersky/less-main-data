@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-11-25 10:20 ansible-role-common-master/
+-rw-rw-r-- root/root       149 2018-11-25 10:20 ansible-role-common-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-11-25 10:20 ansible-role-common-master/LICENSE.md
+-rw-rw-r-- root/root      1394 2018-11-25 10:20 ansible-role-common-master/README.md
+drwxrwxr-x root/root         0 2018-11-25 10:20 ansible-role-common-master/defaults/
+-rw-rw-r-- root/root       154 2018-11-25 10:20 ansible-role-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-25 10:20 ansible-role-common-master/meta/
+-rw-rw-r-- root/root       251 2018-11-25 10:20 ansible-role-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-25 10:20 ansible-role-common-master/tasks/
+-rw-rw-r-- root/root      1597 2018-11-25 10:20 ansible-role-common-master/tasks/common.yml
+-rw-rw-r-- root/root        78 2018-11-25 10:20 ansible-role-common-master/tasks/main.yml

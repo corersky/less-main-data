@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-31 08:00 ansible-role-debug-master/
+-rw-rw-r-- root/root      1328 2019-01-31 08:00 ansible-role-debug-master/README.md
+drwxrwxr-x root/root         0 2019-01-31 08:00 ansible-role-debug-master/defaults/
+-rw-rw-r-- root/root        29 2019-01-31 08:00 ansible-role-debug-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-31 08:00 ansible-role-debug-master/handlers/
+-rw-rw-r-- root/root        29 2019-01-31 08:00 ansible-role-debug-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-31 08:00 ansible-role-debug-master/meta/
+-rw-rw-r-- root/root       291 2019-01-31 08:00 ansible-role-debug-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-31 08:00 ansible-role-debug-master/tasks/
+-rw-rw-r-- root/root        65 2019-01-31 08:00 ansible-role-debug-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-31 08:00 ansible-role-debug-master/tests/
+-rw-rw-r-- root/root        11 2019-01-31 08:00 ansible-role-debug-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-01-31 08:00 ansible-role-debug-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-31 08:00 ansible-role-debug-master/vars/
+-rw-rw-r-- root/root        25 2019-01-31 08:00 ansible-role-debug-master/vars/main.yml

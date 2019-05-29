@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-29 16:15 ansible-role-kvm-operate-master/
+-rw-rw-r-- root/root      1509 2019-01-29 16:15 ansible-role-kvm-operate-master/LICENSE
+-rw-rw-r-- root/root      3882 2019-01-29 16:15 ansible-role-kvm-operate-master/README.md
+drwxrwxr-x root/root         0 2019-01-29 16:15 ansible-role-kvm-operate-master/defaults/
+-rw-rw-r-- root/root       158 2019-01-29 16:15 ansible-role-kvm-operate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-29 16:15 ansible-role-kvm-operate-master/meta/
+-rw-rw-r-- root/root      2004 2019-01-29 16:15 ansible-role-kvm-operate-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-29 16:15 ansible-role-kvm-operate-master/tasks/
+-rw-rw-r-- root/root       467 2019-01-29 16:15 ansible-role-kvm-operate-master/tasks/main.yml
+-rw-rw-r-- root/root      1987 2019-01-29 16:15 ansible-role-kvm-operate-master/tasks/storage.yml
+-rw-rw-r-- root/root      4229 2019-01-29 16:15 ansible-role-kvm-operate-master/tasks/vm-clone.yml
+-rw-rw-r-- root/root      3428 2019-01-29 16:15 ansible-role-kvm-operate-master/tasks/vm-ops.yml
+drwxrwxr-x root/root         0 2019-01-29 16:15 ansible-role-kvm-operate-master/templates/
+-rw-rw-r-- root/root        74 2019-01-29 16:15 ansible-role-kvm-operate-master/templates/vm_info.j2

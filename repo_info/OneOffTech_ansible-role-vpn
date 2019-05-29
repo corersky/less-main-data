@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-20 01:00 ansible-role-vpn-master/
+-rw-rw-r-- root/root      1080 2018-09-20 01:00 ansible-role-vpn-master/LICENSE
+-rw-rw-r-- root/root      3830 2018-09-20 01:00 ansible-role-vpn-master/README.md
+drwxrwxr-x root/root         0 2018-09-20 01:00 ansible-role-vpn-master/defaults/
+-rw-rw-r-- root/root      1096 2018-09-20 01:00 ansible-role-vpn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-20 01:00 ansible-role-vpn-master/handlers/
+-rw-rw-r-- root/root        71 2018-09-20 01:00 ansible-role-vpn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-20 01:00 ansible-role-vpn-master/meta/
+-rw-rw-r-- root/root      1758 2018-09-20 01:00 ansible-role-vpn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-20 01:00 ansible-role-vpn-master/tasks/
+-rw-rw-r-- root/root       451 2018-09-20 01:00 ansible-role-vpn-master/tasks/iptables.yml
+-rw-rw-r-- root/root       109 2018-09-20 01:00 ansible-role-vpn-master/tasks/main.yml
+-rw-rw-r-- root/root      5301 2018-09-20 01:00 ansible-role-vpn-master/tasks/openvpn.yml
+drwxrwxr-x root/root         0 2018-09-20 01:00 ansible-role-vpn-master/templates/
+-rw-rw-r-- root/root       562 2018-09-20 01:00 ansible-role-vpn-master/templates/client.cnf.j2
+-rw-rw-r-- root/root      6444 2018-09-20 01:00 ansible-role-vpn-master/templates/etc_openvpn_server.conf.j2
+-rw-rw-r-- root/root      1598 2018-09-20 01:00 ansible-role-vpn-master/templates/openssl-server-certificate.cnf.j2

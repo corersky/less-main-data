@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-17 10:12 ansible.iscsiadm-master/
+-rw-rw-r-- root/root      1491 2019-05-17 10:12 ansible.iscsiadm-master/README.md
+drwxrwxr-x root/root         0 2019-05-17 10:12 ansible.iscsiadm-master/defaults/
+-rw-rw-r-- root/root       401 2019-05-17 10:12 ansible.iscsiadm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-17 10:12 ansible.iscsiadm-master/handlers/
+-rw-rw-r-- root/root        80 2019-05-17 10:12 ansible.iscsiadm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-17 10:12 ansible.iscsiadm-master/library/
+-rw-rw-r-- root/root      1082 2019-05-17 10:12 ansible.iscsiadm-master/library/iscsiadm_facts.py
+drwxrwxr-x root/root         0 2019-05-17 10:12 ansible.iscsiadm-master/meta/
+-rw-rw-r-- root/root       276 2019-05-17 10:12 ansible.iscsiadm-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-17 10:12 ansible.iscsiadm-master/tasks/
+-rw-rw-r-- root/root       820 2019-05-17 10:12 ansible.iscsiadm-master/tasks/connect_to_target.yml
+-rw-rw-r-- root/root       684 2019-05-17 10:12 ansible.iscsiadm-master/tasks/main.yml

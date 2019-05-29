@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-16 05:34 ansible-role-ssl-certificate-master/
+-rw-rw-r-- root/root       222 2018-10-16 05:34 ansible-role-ssl-certificate-master/.travis.yml
+-rw-rw-r-- root/root      2444 2018-10-16 05:34 ansible-role-ssl-certificate-master/README.md
+drwxrwxr-x root/root         0 2018-10-16 05:34 ansible-role-ssl-certificate-master/defaults/
+-rw-rw-r-- root/root      1147 2018-10-16 05:34 ansible-role-ssl-certificate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-16 05:34 ansible-role-ssl-certificate-master/handlers/
+-rw-rw-r-- root/root       184 2018-10-16 05:34 ansible-role-ssl-certificate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-16 05:34 ansible-role-ssl-certificate-master/meta/
+-rw-rw-r-- root/root       325 2018-10-16 05:34 ansible-role-ssl-certificate-master/meta/main.yml
+-rw-rw-r-- root/root       431 2018-10-16 05:34 ansible-role-ssl-certificate-master/molecule.yml
+-rw-rw-r-- root/root       331 2018-10-16 05:34 ansible-role-ssl-certificate-master/playbook.yml
+drwxrwxr-x root/root         0 2018-10-16 05:34 ansible-role-ssl-certificate-master/tasks/
+-rw-rw-r-- root/root      3459 2018-10-16 05:34 ansible-role-ssl-certificate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-16 05:34 ansible-role-ssl-certificate-master/tests/
+-rw-rw-r-- root/root       591 2018-10-16 05:34 ansible-role-ssl-certificate-master/tests/intermediate.pem
+-rw-rw-r-- root/root       500 2018-10-16 05:34 ansible-role-ssl-certificate-master/tests/test_default.py
+-rw-rw-r-- root/root      1291 2018-10-16 05:34 ansible-role-ssl-certificate-master/tests/test_intermediate.py

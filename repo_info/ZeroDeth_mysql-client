@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-20 14:35 mysql-client-master/
+-rw-rw-r-- root/root      1318 2017-08-20 14:35 mysql-client-master/LICENSE
+-rw-rw-r-- root/root       607 2017-08-20 14:35 mysql-client-master/README.md
+drwxrwxr-x root/root         0 2017-08-20 14:35 mysql-client-master/defaults/
+-rw-rw-r-- root/root       186 2017-08-20 14:35 mysql-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-20 14:35 mysql-client-master/handlers/
+-rw-rw-r-- root/root        36 2017-08-20 14:35 mysql-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-20 14:35 mysql-client-master/meta/
+-rw-rw-r-- root/root       267 2017-08-20 14:35 mysql-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-20 14:35 mysql-client-master/tasks/
+-rw-rw-r-- root/root       194 2017-08-20 14:35 mysql-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-20 14:35 mysql-client-master/tests/
+-rw-rw-r-- root/root        11 2017-08-20 14:35 mysql-client-master/tests/inventory
+-rw-rw-r-- root/root        70 2017-08-20 14:35 mysql-client-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-08-20 14:35 mysql-client-master/vars/
+-rw-rw-r-- root/root        32 2017-08-20 14:35 mysql-client-master/vars/main.yml

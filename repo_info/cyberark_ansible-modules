@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-11 08:36 ansible-modules-master/
+-rw-rw-r-- root/root      1072 2018-10-11 08:36 ansible-modules-master/LICENSE
+-rw-rw-r-- root/root      7174 2018-10-11 08:36 ansible-modules-master/README.md
+drwxrwxr-x root/root         0 2018-10-11 08:36 ansible-modules-master/library/
+-rwxrwxr-x root/root     10607 2018-10-11 08:36 ansible-modules-master/library/cyberark_credential.py
+drwxrwxr-x root/root         0 2018-10-11 08:36 ansible-modules-master/meta/
+-rw-rw-r-- root/root       854 2018-10-11 08:36 ansible-modules-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-11 08:36 ansible-modules-master/tests/
+-rw-rw-r-- root/root        10 2018-10-11 08:36 ansible-modules-master/tests/inventory
+-rw-rw-r-- root/root       866 2018-10-11 08:36 ansible-modules-master/tests/test-addtogroup.yml
+-rw-rw-r-- root/root       600 2018-10-11 08:36 ansible-modules-master/tests/test-authentication.yml
+-rw-rw-r-- root/root      1060 2018-10-11 08:36 ansible-modules-master/tests/test-createuser.yml
+-rwxrwxr-x root/root       648 2018-10-11 08:36 ansible-modules-master/tests/test-cyberarkcredential.yml
+-rw-rw-r-- root/root       829 2018-10-11 08:36 ansible-modules-master/tests/test-deleteuser.yml
+-rw-rw-r-- root/root       967 2018-10-11 08:36 ansible-modules-master/tests/test-resetcredentials.yml

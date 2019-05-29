@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-20 14:21 ansible_grafana-master/
+-rw-rw-r-- root/root     11357 2019-02-20 14:21 ansible_grafana-master/LICENSE
+-rw-rw-r-- root/root       703 2019-02-20 14:21 ansible_grafana-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 14:21 ansible_grafana-master/defaults/
+-rw-rw-r-- root/root       380 2019-02-20 14:21 ansible_grafana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:21 ansible_grafana-master/handlers/
+-rw-rw-r-- root/root        31 2019-02-20 14:21 ansible_grafana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:21 ansible_grafana-master/meta/
+-rw-rw-r-- root/root       450 2019-02-20 14:21 ansible_grafana-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:21 ansible_grafana-master/tasks/
+-rw-rw-r-- root/root      1488 2019-02-20 14:21 ansible_grafana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:21 ansible_grafana-master/tests/
+-rw-rw-r-- root/root        11 2019-02-20 14:21 ansible_grafana-master/tests/inventory
+-rw-rw-r-- root/root       135 2019-02-20 14:21 ansible_grafana-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-20 14:21 ansible_grafana-master/vars/
+-rw-rw-r-- root/root        27 2019-02-20 14:21 ansible_grafana-master/vars/main.yml

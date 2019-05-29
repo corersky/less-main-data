@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-12 11:45 ansible-timezone-role-master/
+-rw-rw-r-- root/root        17 2017-05-12 11:45 ansible-timezone-role-master/.gitignore
+-rw-rw-r-- root/root        89 2017-05-12 11:45 ansible-timezone-role-master/Makefile
+-rw-rw-r-- root/root        47 2017-05-12 11:45 ansible-timezone-role-master/localhost
+-rw-rw-r-- root/root       119 2017-05-12 11:45 ansible-timezone-role-master/main.yml
+drwxrwxr-x root/root         0 2017-05-12 11:45 ansible-timezone-role-master/meta/
+-rw-rw-r-- root/root       279 2017-05-12 11:45 ansible-timezone-role-master/meta/main.yml
+-rw-rw-r-- root/root       120 2017-05-12 11:45 ansible-timezone-role-master/role.yml
+drwxrwxr-x root/root         0 2017-05-12 11:45 ansible-timezone-role-master/tasks/
+-rw-rw-r-- root/root        45 2017-05-12 11:45 ansible-timezone-role-master/tasks/main.yml
+-rw-rw-r-- root/root       308 2017-05-12 11:45 ansible-timezone-role-master/tasks/timezone.yml
+drwxrwxr-x root/root         0 2017-05-12 11:45 ansible-timezone-role-master/tests/
+-rw-rw-r-- root/root         9 2017-05-12 11:45 ansible-timezone-role-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-05-12 11:45 ansible-timezone-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-12 11:45 ansible-timezone-role-master/vars/
+-rw-rw-r-- root/root         0 2017-05-12 11:45 ansible-timezone-role-master/vars/.gitkeep

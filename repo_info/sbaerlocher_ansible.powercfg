@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2018-09-04 10:39 ansible.powercfg-master/
+-rw-rw-r-- root/root       356 2018-09-04 10:39 ansible.powercfg-master/.gitlab-ci.yml
+-rw-rw-r-- root/root       850 2018-09-04 10:39 ansible.powercfg-master/.travis.yml
+-rw-rw-r-- root/root      1059 2018-09-04 10:39 ansible.powercfg-master/LICENSE
+-rw-rw-r-- root/root      1331 2018-09-04 10:39 ansible.powercfg-master/README.md
+drwxrwxr-x root/root         0 2018-09-04 10:39 ansible.powercfg-master/defaults/
+-rw-rw-r-- root/root       145 2018-09-04 10:39 ansible.powercfg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-04 10:39 ansible.powercfg-master/handlers/
+-rw-rw-r-- root/root        45 2018-09-04 10:39 ansible.powercfg-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-04 10:39 ansible.powercfg-master/meta/
+-rw-rw-r-- root/root       338 2018-09-04 10:39 ansible.powercfg-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-04 10:39 ansible.powercfg-master/tasks/
+drwxrwxr-x root/root         0 2018-09-04 10:39 ansible.powercfg-master/tasks/distribution/
+-rw-rw-r-- root/root        42 2018-09-04 10:39 ansible.powercfg-master/tasks/distribution/Linux.yml
+-rw-rw-r-- root/root       518 2018-09-04 10:39 ansible.powercfg-master/tasks/distribution/Microsoft Windows 10 Pro.yml
+-rw-rw-r-- root/root       122 2018-09-04 10:39 ansible.powercfg-master/tasks/distribution/defaults.yml
+-rw-rw-r-- root/root      1112 2018-09-04 10:39 ansible.powercfg-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-04 10:39 ansible.powercfg-master/vars/
+-rw-rw-r-- root/root        41 2018-09-04 10:39 ansible.powercfg-master/vars/CentOS.yml
+-rw-rw-r-- root/root        41 2018-09-04 10:39 ansible.powercfg-master/vars/Debian.yml
+-rw-rw-r-- root/root        41 2018-09-04 10:39 ansible.powercfg-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        41 2018-09-04 10:39 ansible.powercfg-master/vars/defaults.yml

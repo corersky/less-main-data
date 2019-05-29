@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-10 00:00 okd-cleanup-docker-master/
+-rw-rw-r-- root/root      1328 2018-12-10 00:00 okd-cleanup-docker-master/README.md
+drwxrwxr-x root/root         0 2018-12-10 00:00 okd-cleanup-docker-master/defaults/
+-rw-rw-r-- root/root        42 2018-12-10 00:00 okd-cleanup-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-10 00:00 okd-cleanup-docker-master/handlers/
+-rw-rw-r-- root/root        42 2018-12-10 00:00 okd-cleanup-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-10 00:00 okd-cleanup-docker-master/meta/
+-rw-rw-r-- root/root      1885 2018-12-10 00:00 okd-cleanup-docker-master/meta/main.yml
+-rw-rw-r-- root/root        58 2018-12-10 00:00 okd-cleanup-docker-master/process.yml
+drwxrwxr-x root/root         0 2018-12-10 00:00 okd-cleanup-docker-master/tasks/
+-rw-rw-r-- root/root      1081 2018-12-10 00:00 okd-cleanup-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-10 00:00 okd-cleanup-docker-master/tests/
+-rw-rw-r-- root/root        11 2018-12-10 00:00 okd-cleanup-docker-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-12-10 00:00 okd-cleanup-docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-10 00:00 okd-cleanup-docker-master/vars/
+-rw-rw-r-- root/root        38 2018-12-10 00:00 okd-cleanup-docker-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-03-22 13:20 ansible-dupliacy-master/
+-rw-rw-r-- root/root       603 2018-03-22 13:20 ansible-dupliacy-master/README.md
+drwxrwxr-x root/root         0 2018-03-22 13:20 ansible-dupliacy-master/defaults/
+-rw-rw-r-- root/root       924 2018-03-22 13:20 ansible-dupliacy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-22 13:20 ansible-dupliacy-master/meta/
+-rw-rw-r-- root/root       184 2018-03-22 13:20 ansible-dupliacy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-22 13:20 ansible-dupliacy-master/tasks/
+-rw-rw-r-- root/root      1413 2018-03-22 13:20 ansible-dupliacy-master/tasks/create-site.yaml
+-rw-rw-r-- root/root       302 2018-03-22 13:20 ansible-dupliacy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-22 13:20 ansible-dupliacy-master/templates/
+-rw-rw-r-- root/root        26 2018-03-22 13:20 ansible-dupliacy-master/templates/duplicacy.filters
+-rw-rw-r-- root/root       183 2018-03-22 13:20 ansible-dupliacy-master/templates/duplicacy.site.template.sh
+drwxrwxr-x root/root         0 2018-03-22 13:20 ansible-dupliacy-master/vars/
+-rw-rw-r-- root/root       148 2018-03-22 13:20 ansible-dupliacy-master/vars/main.yml

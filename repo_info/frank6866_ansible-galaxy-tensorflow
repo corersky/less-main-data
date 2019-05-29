@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-tensorflow-master/
+-rw-rw-r-- root/root        54 2017-05-09 06:41 ansible-galaxy-tensorflow-master/.gitignore
+-rw-rw-r-- root/root       539 2017-05-09 06:41 ansible-galaxy-tensorflow-master/.travis.yml
+-rw-rw-r-- root/root       809 2017-05-09 06:41 ansible-galaxy-tensorflow-master/README.md
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-tensorflow-master/defaults/
+-rw-rw-r-- root/root      2055 2017-05-09 06:41 ansible-galaxy-tensorflow-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-tensorflow-master/handlers/
+-rw-rw-r-- root/root        26 2017-05-09 06:41 ansible-galaxy-tensorflow-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-tensorflow-master/meta/
+-rw-rw-r-- root/root      3871 2017-05-09 06:41 ansible-galaxy-tensorflow-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-tensorflow-master/tasks/
+-rw-rw-r-- root/root       248 2017-05-09 06:41 ansible-galaxy-tensorflow-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-tensorflow-master/tests/
+-rw-rw-r-- root/root         9 2017-05-09 06:41 ansible-galaxy-tensorflow-master/tests/inventory
+-rw-rw-r-- root/root        39 2017-05-09 06:41 ansible-galaxy-tensorflow-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-09 06:41 ansible-galaxy-tensorflow-master/vars/
+-rw-rw-r-- root/root        22 2017-05-09 06:41 ansible-galaxy-tensorflow-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-23 02:02 ansible-role-qemu-master/
+-rw-rw-r-- root/root        53 2019-04-23 02:02 ansible-role-qemu-master/.gitignore
+-rw-rw-r-- root/root      1168 2019-04-23 02:02 ansible-role-qemu-master/.travis.yml
+-rw-rw-r-- root/root       746 2019-04-23 02:02 ansible-role-qemu-master/README.md
+-rw-rw-r-- root/root       383 2019-04-23 02:02 ansible-role-qemu-master/circle.yml
+drwxrwxr-x root/root         0 2019-04-23 02:02 ansible-role-qemu-master/meta/
+-rw-rw-r-- root/root      3519 2019-04-23 02:02 ansible-role-qemu-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-23 02:02 ansible-role-qemu-master/tasks/
+-rw-rw-r-- root/root      4509 2019-04-23 02:02 ansible-role-qemu-master/tasks/compat.yml
+-rw-rw-r-- root/root       795 2019-04-23 02:02 ansible-role-qemu-master/tasks/epel.yml
+-rw-rw-r-- root/root       318 2019-04-23 02:02 ansible-role-qemu-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1289 2019-04-23 02:02 ansible-role-qemu-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       408 2019-04-23 02:02 ansible-role-qemu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-23 02:02 ansible-role-qemu-master/vars/
+-rw-rw-r-- root/root        30 2019-04-23 02:02 ansible-role-qemu-master/vars/CentOS.yml
+-rw-rw-r-- root/root        26 2019-04-23 02:02 ansible-role-qemu-master/vars/default.yml
+-rw-rw-r-- root/root        51 2019-04-23 02:02 ansible-role-qemu-master/vars/main.yml

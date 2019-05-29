@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-07 18:17 ansible-znc-on-znc-master/
+-rw-rw-r-- root/root      7735 2018-11-07 18:17 ansible-znc-on-znc-master/README.md
+drwxrwxr-x root/root         0 2018-11-07 18:17 ansible-znc-on-znc-master/defaults/
+-rw-rw-r-- root/root       370 2018-11-07 18:17 ansible-znc-on-znc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-07 18:17 ansible-znc-on-znc-master/handlers/
+-rw-rw-r-- root/root       339 2018-11-07 18:17 ansible-znc-on-znc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-07 18:17 ansible-znc-on-znc-master/meta/
+-rw-rw-r-- root/root       489 2018-11-07 18:17 ansible-znc-on-znc-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-07 18:17 ansible-znc-on-znc-master/tasks/
+-rw-rw-r-- root/root      4159 2018-11-07 18:17 ansible-znc-on-znc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-07 18:17 ansible-znc-on-znc-master/templates/
+-rw-rw-r-- root/root      2048 2018-11-07 18:17 ansible-znc-on-znc-master/templates/znc-base.conf
+-rw-rw-r-- root/root      2597 2018-11-07 18:17 ansible-znc-on-znc-master/templates/znc-child.conf
+-rw-rw-r-- root/root       374 2018-11-07 18:17 ansible-znc-on-znc-master/templates/znc-monit.conf
+drwxrwxr-x root/root         0 2018-11-07 18:17 ansible-znc-on-znc-master/vars/
+-rw-rw-r-- root/root         4 2018-11-07 18:17 ansible-znc-on-znc-master/vars/main.yml

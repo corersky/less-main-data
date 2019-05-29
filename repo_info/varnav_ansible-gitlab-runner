@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-04-29 10:30 ansible-gitlab-runner-master/
+-rw-rw-r-- root/root       353 2019-04-29 10:30 ansible-gitlab-runner-master/.travis.yml
+-rw-rw-r-- root/root      1063 2019-04-29 10:30 ansible-gitlab-runner-master/LICENSE
+-rw-rw-r-- root/root       420 2019-04-29 10:30 ansible-gitlab-runner-master/README.md
+drwxrwxr-x root/root         0 2019-04-29 10:30 ansible-gitlab-runner-master/files/
+-rw-rw-r-- root/root       603 2019-04-29 10:30 ansible-gitlab-runner-master/files/runner_gitlab-runner.repo
+drwxrwxr-x root/root         0 2019-04-29 10:30 ansible-gitlab-runner-master/meta/
+-rw-rw-r-- root/root       339 2019-04-29 10:30 ansible-gitlab-runner-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-29 10:30 ansible-gitlab-runner-master/tasks/
+-rw-rw-r-- root/root      1210 2019-04-29 10:30 ansible-gitlab-runner-master/tasks/main.yml

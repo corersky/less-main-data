@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-03 00:39 ansible-update-upgrade-master/
+-rw-rw-r-- root/root       626 2019-04-03 00:39 ansible-update-upgrade-master/README.md
+drwxrwxr-x root/root         0 2019-04-03 00:39 ansible-update-upgrade-master/defaults/
+-rw-rw-r-- root/root        46 2019-04-03 00:39 ansible-update-upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-03 00:39 ansible-update-upgrade-master/handlers/
+-rw-rw-r-- root/root        46 2019-04-03 00:39 ansible-update-upgrade-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-03 00:39 ansible-update-upgrade-master/meta/
+-rw-rw-r-- root/root       271 2019-04-03 00:39 ansible-update-upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-03 00:39 ansible-update-upgrade-master/tasks/
+-rw-rw-r-- root/root        95 2019-04-03 00:39 ansible-update-upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-03 00:39 ansible-update-upgrade-master/tests/
+-rw-rw-r-- root/root        11 2019-04-03 00:39 ansible-update-upgrade-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-04-03 00:39 ansible-update-upgrade-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-03 00:39 ansible-update-upgrade-master/vars/
+-rw-rw-r-- root/root         0 2019-04-03 00:39 ansible-update-upgrade-master/vars/main.yml

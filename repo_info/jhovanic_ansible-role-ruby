@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-09-13 02:36 ansible-role-ruby-master/
+-rw-rw-r-- root/root      1404 2015-09-13 02:36 ansible-role-ruby-master/.travis.yml
+-rw-rw-r-- root/root      1711 2015-09-13 02:36 ansible-role-ruby-master/README.md
+drwxrwxr-x root/root         0 2015-09-13 02:36 ansible-role-ruby-master/defaults/
+-rw-rw-r-- root/root       385 2015-09-13 02:36 ansible-role-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-13 02:36 ansible-role-ruby-master/meta/
+-rw-rw-r-- root/root       651 2015-09-13 02:36 ansible-role-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-13 02:36 ansible-role-ruby-master/tasks/
+-rw-rw-r-- root/root      1334 2015-09-13 02:36 ansible-role-ruby-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root       775 2015-09-13 02:36 ansible-role-ruby-master/tasks/main.yml
+-rw-rw-r-- root/root       423 2015-09-13 02:36 ansible-role-ruby-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       143 2015-09-13 02:36 ansible-role-ruby-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2015-09-13 02:36 ansible-role-ruby-master/tests/
+-rw-rw-r-- root/root         9 2015-09-13 02:36 ansible-role-ruby-master/tests/inventory
+-rw-rw-r-- root/root       119 2015-09-13 02:36 ansible-role-ruby-master/tests/test-install-from-source.yml
+-rw-rw-r-- root/root        76 2015-09-13 02:36 ansible-role-ruby-master/tests/test-install-package.yml

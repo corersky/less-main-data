@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-27 09:56 ansible-role-mariadb-master/
+-rw-rw-r-- root/root      1795 2019-03-27 09:56 ansible-role-mariadb-master/README.md
+drwxrwxr-x root/root         0 2019-03-27 09:56 ansible-role-mariadb-master/defaults/
+-rw-rw-r-- root/root       372 2019-03-27 09:56 ansible-role-mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-27 09:56 ansible-role-mariadb-master/handlers/
+-rw-rw-r-- root/root        38 2019-03-27 09:56 ansible-role-mariadb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-27 09:56 ansible-role-mariadb-master/meta/
+-rw-rw-r-- root/root       298 2019-03-27 09:56 ansible-role-mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-27 09:56 ansible-role-mariadb-master/tasks/
+-rw-rw-r-- root/root       662 2019-03-27 09:56 ansible-role-mariadb-master/tasks/db.yml
+-rw-rw-r-- root/root      2202 2019-03-27 09:56 ansible-role-mariadb-master/tasks/install-FreeBSD.yml
+-rw-rw-r-- root/root      2497 2019-03-27 09:56 ansible-role-mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-27 09:56 ansible-role-mariadb-master/templates/
+-rw-rw-r-- root/root       822 2019-03-27 09:56 ansible-role-mariadb-master/templates/my.cnf.j2
+drwxrwxr-x root/root         0 2019-03-27 09:56 ansible-role-mariadb-master/vars/
+-rw-rw-r-- root/root       257 2019-03-27 09:56 ansible-role-mariadb-master/vars/db.yml
+-rw-rw-r-- root/root        67 2019-03-27 09:56 ansible-role-mariadb-master/vars/main.yml

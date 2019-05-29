@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-11-05 11:05 ansible-rethinkdb-master/
+-rw-rw-r-- root/root       541 2018-11-05 11:05 ansible-rethinkdb-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-11-05 11:05 ansible-rethinkdb-master/README.md
+drwxrwxr-x root/root         0 2018-11-05 11:05 ansible-rethinkdb-master/defaults/
+-rw-rw-r-- root/root        37 2018-11-05 11:05 ansible-rethinkdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-05 11:05 ansible-rethinkdb-master/files/
+-rw-rw-r-- root/root      5300 2018-11-05 11:05 ansible-rethinkdb-master/files/rethinkdb-apt-key
+drwxrwxr-x root/root         0 2018-11-05 11:05 ansible-rethinkdb-master/meta/
+-rw-rw-r-- root/root       234 2018-11-05 11:05 ansible-rethinkdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-05 11:05 ansible-rethinkdb-master/tasks/
+-rw-rw-r-- root/root      1448 2018-11-05 11:05 ansible-rethinkdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-05 11:05 ansible-rethinkdb-master/templates/
+-rw-rw-r-- root/root         9 2018-11-05 11:05 ansible-rethinkdb-master/templates/default.conf

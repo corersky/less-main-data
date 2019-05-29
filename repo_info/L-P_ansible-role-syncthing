@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-09-15 04:35 ansible-role-syncthing-master/
+-rw-rw-r-- root/root      1060 2016-09-15 04:35 ansible-role-syncthing-master/LICENSE
+-rw-rw-r-- root/root      3000 2016-09-15 04:35 ansible-role-syncthing-master/README.md
+drwxrwxr-x root/root         0 2016-09-15 04:35 ansible-role-syncthing-master/defaults/
+-rw-rw-r-- root/root       470 2016-09-15 04:35 ansible-role-syncthing-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-15 04:35 ansible-role-syncthing-master/handlers/
+-rw-rw-r-- root/root        84 2016-09-15 04:35 ansible-role-syncthing-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-15 04:35 ansible-role-syncthing-master/meta/
+-rw-rw-r-- root/root       262 2016-09-15 04:35 ansible-role-syncthing-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-15 04:35 ansible-role-syncthing-master/tasks/
+-rw-rw-r-- root/root       681 2016-09-15 04:35 ansible-role-syncthing-master/tasks/config.yml
+-rw-rw-r-- root/root       354 2016-09-15 04:35 ansible-role-syncthing-master/tasks/fetch.yml
+-rw-rw-r-- root/root       177 2016-09-15 04:35 ansible-role-syncthing-master/tasks/main.yml
+-rw-rw-r-- root/root      1012 2016-09-15 04:35 ansible-role-syncthing-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2016-09-15 04:35 ansible-role-syncthing-master/templates/
+-rw-rw-r-- root/root       164 2016-09-15 04:35 ansible-role-syncthing-master/templates/syncthing.service.j2

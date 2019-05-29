@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-03-29 10:51 ansible-role-hosts-populate-master/
+-rw-rw-r-- root/root         4 2018-03-29 10:51 ansible-role-hosts-populate-master/.gitignore
+-rw-rw-r-- root/root       261 2018-03-29 10:51 ansible-role-hosts-populate-master/.travis.yml
+-rw-rw-r-- root/root       673 2018-03-29 10:51 ansible-role-hosts-populate-master/README.md
+drwxrwxr-x root/root         0 2018-03-29 10:51 ansible-role-hosts-populate-master/meta/
+-rw-rw-r-- root/root       311 2018-03-29 10:51 ansible-role-hosts-populate-master/meta/main.yml
+-rw-rw-r-- root/root       300 2018-03-29 10:51 ansible-role-hosts-populate-master/molecule-docker.yml
+-rw-rw-r-- root/root       345 2018-03-29 10:51 ansible-role-hosts-populate-master/molecule.yml
+-rw-rw-r-- root/root       111 2018-03-29 10:51 ansible-role-hosts-populate-master/playbook.yml
+drwxrwxr-x root/root         0 2018-03-29 10:51 ansible-role-hosts-populate-master/tasks/
+-rw-rw-r-- root/root       162 2018-03-29 10:51 ansible-role-hosts-populate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-29 10:51 ansible-role-hosts-populate-master/templates/
+-rw-rw-r-- root/root       654 2018-03-29 10:51 ansible-role-hosts-populate-master/templates/etc-hosts.j2
+drwxrwxr-x root/root         0 2018-03-29 10:51 ansible-role-hosts-populate-master/tests/
+-rw-rw-r-- root/root        10 2018-03-29 10:51 ansible-role-hosts-populate-master/tests/inventory
+-rw-rw-r-- root/root        90 2018-03-29 10:51 ansible-role-hosts-populate-master/tests/test.yml
+-rw-rw-r-- root/root       332 2018-03-29 10:51 ansible-role-hosts-populate-master/tests/test_default.py

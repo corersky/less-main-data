@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-06 00:43 ansible-role-brew-master/
+-rw-rw-r-- root/root        98 2019-02-06 00:43 ansible-role-brew-master/.gitmodules
+-rw-rw-r-- root/root       896 2019-02-06 00:43 ansible-role-brew-master/.travis.yml
+-rw-rw-r-- root/root      1079 2019-02-06 00:43 ansible-role-brew-master/LICENSE
+-rw-rw-r-- root/root      1923 2019-02-06 00:43 ansible-role-brew-master/README.md
+drwxrwxr-x root/root         0 2019-02-06 00:43 ansible-role-brew-master/defaults/
+-rw-rw-r-- root/root       125 2019-02-06 00:43 ansible-role-brew-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-06 00:43 ansible-role-brew-master/meta/
+-rw-rw-r-- root/root       283 2019-02-06 00:43 ansible-role-brew-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-06 00:43 ansible-role-brew-master/tasks/
+-rw-rw-r-- root/root      1632 2019-02-06 00:43 ansible-role-brew-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-06 00:43 ansible-role-brew-master/tests/
+-rw-rw-r-- root/root       206 2019-02-06 00:43 ansible-role-brew-master/tests/main.yml
+drwxrwxr-x root/root         0 2019-02-06 00:43 ansible-role-brew-master/tests/terryfy/

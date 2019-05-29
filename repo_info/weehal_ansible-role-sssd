@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-05-27 04:03 ansible-role-sssd-master/
+-rw-rw-r-- root/root     18092 2019-05-27 04:03 ansible-role-sssd-master/LICENSE
+-rw-rw-r-- root/root      1463 2019-05-27 04:03 ansible-role-sssd-master/README.md
+drwxrwxr-x root/root         0 2019-05-27 04:03 ansible-role-sssd-master/defaults/
+-rw-rw-r-- root/root       807 2019-05-27 04:03 ansible-role-sssd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-27 04:03 ansible-role-sssd-master/handlers/
+-rw-rw-r-- root/root       142 2019-05-27 04:03 ansible-role-sssd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-27 04:03 ansible-role-sssd-master/meta/
+-rw-rw-r-- root/root       363 2019-05-27 04:03 ansible-role-sssd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-27 04:03 ansible-role-sssd-master/tasks/
+-rw-rw-r-- root/root      2008 2019-05-27 04:03 ansible-role-sssd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-27 04:03 ansible-role-sssd-master/templates/
+-rw-rw-r-- root/root      1502 2019-05-27 04:03 ansible-role-sssd-master/templates/sssd.conf.j2

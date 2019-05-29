@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-iptables-master/
+-rw-rw-r-- root/root        11 2016-12-30 11:40 ansible-role-iptables-master/.gitignore
+-rw-rw-r-- root/root     35120 2016-12-30 11:40 ansible-role-iptables-master/LICENSE
+-rw-rw-r-- root/root       777 2016-12-30 11:40 ansible-role-iptables-master/README.md
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-iptables-master/handlers/
+-rw-rw-r-- root/root        80 2016-12-30 11:40 ansible-role-iptables-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-iptables-master/meta/
+-rw-rw-r-- root/root       547 2016-12-30 11:40 ansible-role-iptables-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-iptables-master/tasks/
+-rw-rw-r-- root/root      1057 2016-12-30 11:40 ansible-role-iptables-master/tasks/debian.yml
+-rw-rw-r-- root/root       130 2016-12-30 11:40 ansible-role-iptables-master/tasks/main.yml
+-rw-rw-r-- root/root       273 2016-12-30 11:40 ansible-role-iptables-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-iptables-master/templates/
+-rw-rw-r-- root/root       587 2016-12-30 11:40 ansible-role-iptables-master/templates/iptables.j2
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-iptables-master/tests/
+-rw-rw-r-- root/root        10 2016-12-30 11:40 ansible-role-iptables-master/tests/inventory
+-rw-rw-r-- root/root        80 2016-12-30 11:40 ansible-role-iptables-master/tests/test.yml

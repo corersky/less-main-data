@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-05-10 11:11 ansible-clamav-master/
+-rw-rw-r-- root/root         0 2017-05-10 11:11 ansible-clamav-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-10 11:11 ansible-clamav-master/LICENSE
+-rw-rw-r-- root/root     10760 2017-05-10 11:11 ansible-clamav-master/README.md
+drwxrwxr-x root/root         0 2017-05-10 11:11 ansible-clamav-master/defaults/
+-rw-rw-r-- root/root      9227 2017-05-10 11:11 ansible-clamav-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-10 11:11 ansible-clamav-master/handlers/
+-rw-rw-r-- root/root       194 2017-05-10 11:11 ansible-clamav-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-10 11:11 ansible-clamav-master/meta/
+-rw-rw-r-- root/root       261 2017-05-10 11:11 ansible-clamav-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-10 11:11 ansible-clamav-master/tasks/
+-rw-rw-r-- root/root      6497 2017-05-10 11:11 ansible-clamav-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-10 11:11 ansible-clamav-master/templates/
+-rw-rw-r-- root/root        87 2017-05-10 11:11 ansible-clamav-master/templates/clamd.conf.j2
+-rw-rw-r-- root/root        79 2017-05-10 11:11 ansible-clamav-master/templates/clamd.defaults.j2
+-rw-rw-r-- root/root        91 2017-05-10 11:11 ansible-clamav-master/templates/freshclam.conf.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-24 07:30 ansible-role-dockerdns-master/
+-rw-rw-r-- root/root       432 2019-05-24 07:30 ansible-role-dockerdns-master/.travis.yml
+-rw-rw-r-- root/root      1594 2019-05-24 07:30 ansible-role-dockerdns-master/README.md
+-rw-rw-r-- root/root        56 2019-05-24 07:30 ansible-role-dockerdns-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-05-24 07:30 ansible-role-dockerdns-master/defaults/
+-rw-rw-r-- root/root        78 2019-05-24 07:30 ansible-role-dockerdns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-24 07:30 ansible-role-dockerdns-master/meta/
+-rw-rw-r-- root/root      1159 2019-05-24 07:30 ansible-role-dockerdns-master/meta/main.yml
+-rw-rw-r-- root/root        98 2019-05-24 07:30 ansible-role-dockerdns-master/simple.yml
+drwxrwxr-x root/root         0 2019-05-24 07:30 ansible-role-dockerdns-master/tasks/
+-rw-rw-r-- root/root      1727 2019-05-24 07:30 ansible-role-dockerdns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-24 07:30 ansible-role-dockerdns-master/templates/
+-rw-rw-r-- root/root       193 2019-05-24 07:30 ansible-role-dockerdns-master/templates/dnsmasq.conf
+-rw-rw-r-- root/root       855 2019-05-24 07:30 ansible-role-dockerdns-master/templates/interfaces
+drwxrwxr-x root/root         0 2019-05-24 07:30 ansible-role-dockerdns-master/tests/
+-rw-rw-r-- root/root         9 2019-05-24 07:30 ansible-role-dockerdns-master/tests/inventory

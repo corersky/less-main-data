@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-06 11:08 ansible-role-zulu_jdk-master/
+-rw-rw-r-- root/root       695 2019-05-06 11:08 ansible-role-zulu_jdk-master/.travis.yml
+-rw-rw-r-- root/root     35141 2019-05-06 11:08 ansible-role-zulu_jdk-master/LICENSE
+-rw-rw-r-- root/root      1090 2019-05-06 11:08 ansible-role-zulu_jdk-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 11:08 ansible-role-zulu_jdk-master/defaults/
+-rw-rw-r-- root/root      1548 2019-05-06 11:08 ansible-role-zulu_jdk-master/defaults/main.yml
+-rw-rw-r-- root/root       568 2019-05-06 11:08 ansible-role-zulu_jdk-master/galaxy-yamllint.yaml
+drwxrwxr-x root/root         0 2019-05-06 11:08 ansible-role-zulu_jdk-master/meta/
+-rw-rw-r-- root/root       299 2019-05-06 11:08 ansible-role-zulu_jdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 11:08 ansible-role-zulu_jdk-master/tasks/
+-rw-rw-r-- root/root       957 2019-05-06 11:08 ansible-role-zulu_jdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 11:08 ansible-role-zulu_jdk-master/tests/
+-rw-rw-r-- root/root        29 2019-05-06 11:08 ansible-role-zulu_jdk-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2019-05-06 11:08 ansible-role-zulu_jdk-master/tests/inventory
+-rwxrwxr-x root/root        56 2019-05-06 11:08 ansible-role-zulu_jdk-master/tests/run_tests.sh
+-rw-rw-r-- root/root        94 2019-05-06 11:08 ansible-role-zulu_jdk-master/tests/test.yml

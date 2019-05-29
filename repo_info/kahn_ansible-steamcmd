@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-07-25 21:00 ansible-steamcmd-master/
+-rw-rw-r-- root/root     35142 2015-07-25 21:00 ansible-steamcmd-master/LICENSE
+-rw-rw-r-- root/root      1041 2015-07-25 21:00 ansible-steamcmd-master/README.md
+drwxrwxr-x root/root         0 2015-07-25 21:00 ansible-steamcmd-master/defaults/
+-rw-rw-r-- root/root       187 2015-07-25 21:00 ansible-steamcmd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-25 21:00 ansible-steamcmd-master/meta/
+-rw-rw-r-- root/root       341 2015-07-25 21:00 ansible-steamcmd-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-25 21:00 ansible-steamcmd-master/tasks/
+-rw-rw-r-- root/root       387 2015-07-25 21:00 ansible-steamcmd-master/tasks/ansible-dependencies.yml
+-rw-rw-r-- root/root      2433 2015-07-25 21:00 ansible-steamcmd-master/tasks/main.yml
+-rw-rw-r-- root/root       623 2015-07-25 21:00 ansible-steamcmd-master/tasks/set-package-managers.yml

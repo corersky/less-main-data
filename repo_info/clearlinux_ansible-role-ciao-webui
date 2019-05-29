@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-webui-master/
+-rw-rw-r-- root/root     10174 2016-10-20 15:08 ansible-role-ciao-webui-master/LICENSE
+-rw-rw-r-- root/root       744 2016-10-20 15:08 ansible-role-ciao-webui-master/README.md
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-webui-master/defaults/
+-rw-rw-r-- root/root       822 2016-10-20 15:08 ansible-role-ciao-webui-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-webui-master/handlers/
+-rw-rw-r-- root/root       660 2016-10-20 15:08 ansible-role-ciao-webui-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-webui-master/meta/
+-rw-rw-r-- root/root       421 2016-10-20 15:08 ansible-role-ciao-webui-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-webui-master/tasks/
+-rw-rw-r-- root/root      1240 2016-10-20 15:08 ansible-role-ciao-webui-master/tasks/certificates.yml
+-rw-rw-r-- root/root      1424 2016-10-20 15:08 ansible-role-ciao-webui-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:08 ansible-role-ciao-webui-master/templates/
+-rw-rw-r-- root/root       250 2016-10-20 15:08 ansible-role-ciao-webui-master/templates/docker-ciao-webui.service.j2

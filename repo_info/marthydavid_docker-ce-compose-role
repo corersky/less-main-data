@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-02-19 06:05 docker-ce-compose-role-master/
+-rw-rw-r-- root/root       600 2018-02-19 06:05 docker-ce-compose-role-master/.travis.yml
+-rw-rw-r-- root/root       601 2018-02-19 06:05 docker-ce-compose-role-master/README.md
+drwxrwxr-x root/root         0 2018-02-19 06:05 docker-ce-compose-role-master/defaults/
+-rw-rw-r-- root/root        41 2018-02-19 06:05 docker-ce-compose-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-19 06:05 docker-ce-compose-role-master/handlers/
+-rw-rw-r-- root/root        41 2018-02-19 06:05 docker-ce-compose-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-19 06:05 docker-ce-compose-role-master/meta/
+-rw-rw-r-- root/root       416 2018-02-19 06:05 docker-ce-compose-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-19 06:05 docker-ce-compose-role-master/tasks/
+-rw-rw-r-- root/root       303 2018-02-19 06:05 docker-ce-compose-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-19 06:05 docker-ce-compose-role-master/tests/
+-rw-rw-r-- root/root        11 2018-02-19 06:05 docker-ce-compose-role-master/tests/inventory
+-rw-rw-r-- root/root        80 2018-02-19 06:05 docker-ce-compose-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-19 06:05 docker-ce-compose-role-master/vars/
+-rw-rw-r-- root/root       259 2018-02-19 06:05 docker-ce-compose-role-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-17 07:24 nginx-source-master/
+-rw-rw-r-- root/root       712 2016-08-17 07:24 nginx-source-master/README.md
+drwxrwxr-x root/root         0 2016-08-17 07:24 nginx-source-master/defaults/
+-rw-rw-r-- root/root        37 2016-08-17 07:24 nginx-source-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-17 07:24 nginx-source-master/handlers/
+-rw-rw-r-- root/root       181 2016-08-17 07:24 nginx-source-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-17 07:24 nginx-source-master/meta/
+-rw-rw-r-- root/root      3524 2016-08-17 07:24 nginx-source-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-17 07:24 nginx-source-master/tasks/
+-rw-rw-r-- root/root      2574 2016-08-17 07:24 nginx-source-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-17 07:24 nginx-source-master/templates/
+-rw-rw-r-- root/root       361 2016-08-17 07:24 nginx-source-master/templates/systemd_nginx.j2
+drwxrwxr-x root/root         0 2016-08-17 07:24 nginx-source-master/tests/
+-rw-rw-r-- root/root         9 2016-08-17 07:24 nginx-source-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-08-17 07:24 nginx-source-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-17 07:24 nginx-source-master/vars/
+-rw-rw-r-- root/root        33 2016-08-17 07:24 nginx-source-master/vars/main.yml

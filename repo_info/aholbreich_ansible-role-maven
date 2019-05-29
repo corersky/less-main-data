@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-09 16:04 ansible-role-maven-master/
+-rw-rw-r-- root/root         9 2016-09-09 16:04 ansible-role-maven-master/.gitignore
+-rw-rw-r-- root/root      1076 2016-09-09 16:04 ansible-role-maven-master/LICENSE
+-rw-rw-r-- root/root       376 2016-09-09 16:04 ansible-role-maven-master/README.md
+drwxrwxr-x root/root         0 2016-09-09 16:04 ansible-role-maven-master/defaults/
+-rw-rw-r-- root/root       237 2016-09-09 16:04 ansible-role-maven-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-09 16:04 ansible-role-maven-master/meta/
+-rw-rw-r-- root/root       504 2016-09-09 16:04 ansible-role-maven-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-09 16:04 ansible-role-maven-master/tasks/
+-rw-rw-r-- root/root       947 2016-09-09 16:04 ansible-role-maven-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-09 16:04 ansible-role-maven-master/templates/
+drwxrwxr-x root/root         0 2016-09-09 16:04 ansible-role-maven-master/templates/etc/
+drwxrwxr-x root/root         0 2016-09-09 16:04 ansible-role-maven-master/templates/etc/profile.d/
+-rw-rw-r-- root/root        84 2016-09-09 16:04 ansible-role-maven-master/templates/etc/profile.d/maven.sh

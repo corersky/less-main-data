@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-10-13 08:34 ansible-role-packer-debian-master/
+-rw-rw-r-- root/root      2532 2015-10-13 08:34 ansible-role-packer-debian-master/README.md
+drwxrwxr-x root/root         0 2015-10-13 08:34 ansible-role-packer-debian-master/files/
+-rw-rw-r-- root/root        89 2015-10-13 08:34 ansible-role-packer-debian-master/files/refresh-apt.conf
+drwxrwxr-x root/root         0 2015-10-13 08:34 ansible-role-packer-debian-master/meta/
+-rw-rw-r-- root/root       349 2015-10-13 08:34 ansible-role-packer-debian-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-13 08:34 ansible-role-packer-debian-master/tasks/
+-rw-rw-r-- root/root      2101 2015-10-13 08:34 ansible-role-packer-debian-master/tasks/main.yml
+-rw-rw-r-- root/root       637 2015-10-13 08:34 ansible-role-packer-debian-master/tasks/virtualbox.yml
+-rw-rw-r-- root/root       937 2015-10-13 08:34 ansible-role-packer-debian-master/tasks/vmware.yml

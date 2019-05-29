@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-04-29 13:09 ansible-role-java-master/
+-rwxrwxr-x root/root       109 2019-04-29 13:09 ansible-role-java-master/.gitignore
+-rwxrwxr-x root/root       463 2019-04-29 13:09 ansible-role-java-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-04-29 13:09 ansible-role-java-master/defaults/
+-rw-rw-r-- root/root        58 2019-04-29 13:09 ansible-role-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-29 13:09 ansible-role-java-master/meta/
+-rw-rw-r-- root/root       189 2019-04-29 13:09 ansible-role-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-29 13:09 ansible-role-java-master/tasks/
+-rw-rw-r-- root/root       115 2019-04-29 13:09 ansible-role-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-29 13:09 ansible-role-java-master/tests/
+-rwxrwxr-x root/root        51 2019-04-29 13:09 ansible-role-java-master/tests/test.yml

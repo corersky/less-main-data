@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-04-23 19:30 sample-ansible-el7-init-master/
+-rw-rw-r-- root/root       234 2018-04-23 19:30 sample-ansible-el7-init-master/.project
+-rw-rw-r-- root/root     11342 2018-04-23 19:30 sample-ansible-el7-init-master/LICENSE
+-rw-rw-r-- root/root      2386 2018-04-23 19:30 sample-ansible-el7-init-master/README.md
+drwxrwxr-x root/root         0 2018-04-23 19:30 sample-ansible-el7-init-master/meta/
+-rw-rw-r-- root/root      2000 2018-04-23 19:30 sample-ansible-el7-init-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-23 19:30 sample-ansible-el7-init-master/tasks/
+-rw-rw-r-- root/root      1464 2018-04-23 19:30 sample-ansible-el7-init-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-23 19:30 sample-ansible-el7-init-master/templates/
+-rw-rw-r-- root/root        57 2018-04-23 19:30 sample-ansible-el7-init-master/templates/macros
+-rw-rw-r-- root/root       264 2018-04-23 19:30 sample-ansible-el7-init-master/templates/proxy.sh
+drwxrwxr-x root/root         0 2018-04-23 19:30 sample-ansible-el7-init-master/vars/
+-rw-rw-r-- root/root       101 2018-04-23 19:30 sample-ansible-el7-init-master/vars/main.yml

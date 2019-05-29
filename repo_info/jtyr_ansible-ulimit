@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-04-27 11:31 ansible-ulimit-master/
+-rw-rw-r-- root/root         0 2015-04-27 11:31 ansible-ulimit-master/.gitignore
+-rw-rw-r-- root/root      1075 2015-04-27 11:31 ansible-ulimit-master/LICENSE.md
+-rw-rw-r-- root/root       607 2015-04-27 11:31 ansible-ulimit-master/README.md
+drwxrwxr-x root/root         0 2015-04-27 11:31 ansible-ulimit-master/defaults/
+-rw-rw-r-- root/root       136 2015-04-27 11:31 ansible-ulimit-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2015-04-27 11:31 ansible-ulimit-master/meta/
+-rw-rw-r-- root/root       291 2015-04-27 11:31 ansible-ulimit-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-27 11:31 ansible-ulimit-master/tasks/
+-rw-rw-r-- root/root       146 2015-04-27 11:31 ansible-ulimit-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2015-04-27 11:31 ansible-ulimit-master/templates/
+-rw-rw-r-- root/root       238 2015-04-27 11:31 ansible-ulimit-master/templates/limits.conf.j2

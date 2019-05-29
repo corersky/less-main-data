@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-21 00:20 ansible-monasca-keystone-master/
+-rw-rw-r-- root/root     11325 2016-01-21 00:20 ansible-monasca-keystone-master/LICENSE
+-rw-rw-r-- root/root      2257 2016-01-21 00:20 ansible-monasca-keystone-master/README.md
+drwxrwxr-x root/root         0 2016-01-21 00:20 ansible-monasca-keystone-master/defaults/
+-rw-rw-r-- root/root       627 2016-01-21 00:20 ansible-monasca-keystone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-21 00:20 ansible-monasca-keystone-master/meta/
+-rw-rw-r-- root/root       445 2016-01-21 00:20 ansible-monasca-keystone-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-21 00:20 ansible-monasca-keystone-master/tasks/
+-rw-rw-r-- root/root       183 2016-01-21 00:20 ansible-monasca-keystone-master/tasks/DebianInst.yml
+-rw-rw-r-- root/root       417 2016-01-21 00:20 ansible-monasca-keystone-master/tasks/RedHatInst.yml
+-rw-rw-r-- root/root      1375 2016-01-21 00:20 ansible-monasca-keystone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-21 00:20 ansible-monasca-keystone-master/templates/
+-rw-rw-r-- root/root      4989 2016-01-21 00:20 ansible-monasca-keystone-master/templates/create_monasca_service.py.j2
+drwxrwxr-x root/root         0 2016-01-21 00:20 ansible-monasca-keystone-master/vars/
+-rw-rw-r-- root/root       128 2016-01-21 00:20 ansible-monasca-keystone-master/vars/Debian.yml
+-rw-rw-r-- root/root        69 2016-01-21 00:20 ansible-monasca-keystone-master/vars/RedHat.yml

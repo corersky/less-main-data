@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-23 09:47 ansible-mysql-setup-master/
+-rw-rw-r-- root/root        11 2017-04-23 09:47 ansible-mysql-setup-master/.gitignore
+-rw-rw-r-- root/root       539 2017-04-23 09:47 ansible-mysql-setup-master/.travis.yml
+-rw-rw-r-- root/root      1071 2017-04-23 09:47 ansible-mysql-setup-master/LICENSE
+-rw-rw-r-- root/root       656 2017-04-23 09:47 ansible-mysql-setup-master/README.md
+drwxrwxr-x root/root         0 2017-04-23 09:47 ansible-mysql-setup-master/defaults/
+-rw-rw-r-- root/root       194 2017-04-23 09:47 ansible-mysql-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-23 09:47 ansible-mysql-setup-master/meta/
+-rw-rw-r-- root/root       341 2017-04-23 09:47 ansible-mysql-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-23 09:47 ansible-mysql-setup-master/tasks/
+-rw-rw-r-- root/root       495 2017-04-23 09:47 ansible-mysql-setup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-23 09:47 ansible-mysql-setup-master/templates/
+-rw-rw-r-- root/root       265 2017-04-23 09:47 ansible-mysql-setup-master/templates/character_set.cnf
+drwxrwxr-x root/root         0 2017-04-23 09:47 ansible-mysql-setup-master/tests/
+-rw-rw-r-- root/root         9 2017-04-23 09:47 ansible-mysql-setup-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-04-23 09:47 ansible-mysql-setup-master/tests/test.yml

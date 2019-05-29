@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-02 06:06 ansible_splunkforwarder-master/
+-rw-rw-r-- root/root     11358 2016-08-02 06:06 ansible_splunkforwarder-master/LICENSE
+-rw-rw-r-- root/root      1414 2016-08-02 06:06 ansible_splunkforwarder-master/README.md
+drwxrwxr-x root/root         0 2016-08-02 06:06 ansible_splunkforwarder-master/defaults/
+-rw-rw-r-- root/root       109 2016-08-02 06:06 ansible_splunkforwarder-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-02 06:06 ansible_splunkforwarder-master/meta/
+-rw-rw-r-- root/root       293 2016-08-02 06:06 ansible_splunkforwarder-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-02 06:06 ansible_splunkforwarder-master/tasks/
+-rw-rw-r-- root/root      3198 2016-08-02 06:06 ansible_splunkforwarder-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-02 06:06 ansible_splunkforwarder-master/templates/
+-rw-rw-r-- root/root       465 2016-08-02 06:06 ansible_splunkforwarder-master/templates/inputs_conf.j2
+-rw-rw-r-- root/root        66 2016-08-02 06:06 ansible_splunkforwarder-master/templates/limits_conf.j2
+-rw-rw-r-- root/root       764 2016-08-02 06:06 ansible_splunkforwarder-master/templates/outputs_conf.j2
+drwxrwxr-x root/root         0 2016-08-02 06:06 ansible_splunkforwarder-master/vars/
+-rw-rw-r-- root/root         0 2016-08-02 06:06 ansible_splunkforwarder-master/vars/main.yml

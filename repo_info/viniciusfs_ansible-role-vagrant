@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-27 18:52 ansible-role-vagrant-master/
+-rw-rw-r-- root/root        35 2019-02-27 18:52 ansible-role-vagrant-master/.gitignore
+-rw-rw-r-- root/root       618 2019-02-27 18:52 ansible-role-vagrant-master/README.md
+drwxrwxr-x root/root         0 2019-02-27 18:52 ansible-role-vagrant-master/defaults/
+-rw-rw-r-- root/root       286 2019-02-27 18:52 ansible-role-vagrant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-27 18:52 ansible-role-vagrant-master/meta/
+-rw-rw-r-- root/root       319 2019-02-27 18:52 ansible-role-vagrant-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-27 18:52 ansible-role-vagrant-master/molecule/
+drwxrwxr-x root/root         0 2019-02-27 18:52 ansible-role-vagrant-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-02-27 18:52 ansible-role-vagrant-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       263 2019-02-27 18:52 ansible-role-vagrant-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       266 2019-02-27 18:52 ansible-role-vagrant-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        76 2019-02-27 18:52 ansible-role-vagrant-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-02-27 18:52 ansible-role-vagrant-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2019-02-27 18:52 ansible-role-vagrant-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2019-02-27 18:52 ansible-role-vagrant-master/tasks/
+-rw-rw-r-- root/root       811 2019-02-27 18:52 ansible-role-vagrant-master/tasks/main.yml

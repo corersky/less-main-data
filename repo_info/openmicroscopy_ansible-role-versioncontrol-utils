@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/
+-rw-rw-r-- root/root        10 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/.gitignore
+-rw-rw-r-- root/root       215 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/.travis.yml
+-rw-rw-r-- root/root       464 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/README.md
+drwxrwxr-x root/root         0 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/meta/
+-rw-rw-r-- root/root       288 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/molecule/
+drwxrwxr-x root/root         0 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/molecule/default/
+-rw-rw-r-- root/root       961 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       266 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        89 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/molecule/default/tests/
+-rw-rw-r-- root/root       247 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/tasks/
+-rw-rw-r-- root/root       291 2018-12-07 11:27 ansible-role-versioncontrol-utils-master/tasks/main.yml

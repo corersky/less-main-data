@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-08 17:27 ansible-role-kubernetes-emby-master/
+-rw-rw-r-- root/root        66 2019-04-08 17:27 ansible-role-kubernetes-emby-master/.gitignore
+-rw-rw-r-- root/root      1507 2019-04-08 17:27 ansible-role-kubernetes-emby-master/LICENSE.mkd
+-rw-rw-r-- root/root      3121 2019-04-08 17:27 ansible-role-kubernetes-emby-master/README.md
+drwxrwxr-x root/root         0 2019-04-08 17:27 ansible-role-kubernetes-emby-master/defaults/
+-rw-rw-r-- root/root       700 2019-04-08 17:27 ansible-role-kubernetes-emby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-08 17:27 ansible-role-kubernetes-emby-master/meta/
+-rw-rw-r-- root/root       552 2019-04-08 17:27 ansible-role-kubernetes-emby-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-08 17:27 ansible-role-kubernetes-emby-master/tasks/
+-rw-rw-r-- root/root       387 2019-04-08 17:27 ansible-role-kubernetes-emby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-08 17:27 ansible-role-kubernetes-emby-master/templates/
+-rw-rw-r-- root/root       598 2019-04-08 17:27 ansible-role-kubernetes-emby-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       222 2019-04-08 17:27 ansible-role-kubernetes-emby-master/templates/service.yml.j2
+-rw-rw-r-- root/root      2284 2019-04-08 17:27 ansible-role-kubernetes-emby-master/templates/statefulset.yml.j2

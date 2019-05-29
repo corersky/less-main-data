@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-20 20:10 ansible-role-auth-master/
+-rw-rw-r-- root/root       331 2019-01-20 20:10 ansible-role-auth-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 20:10 ansible-role-auth-master/COPYING
+-rw-rw-r-- root/root      1813 2019-01-20 20:10 ansible-role-auth-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 20:10 ansible-role-auth-master/defaults/
+-rw-rw-r-- root/root        39 2019-01-20 20:10 ansible-role-auth-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 20:10 ansible-role-auth-master/meta/
+-rw-rw-r-- root/root       333 2019-01-20 20:10 ansible-role-auth-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 20:10 ansible-role-auth-master/tasks/
+-rw-rw-r-- root/root      3648 2019-01-20 20:10 ansible-role-auth-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 20:10 ansible-role-auth-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 20:10 ansible-role-auth-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-01-20 20:10 ansible-role-auth-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-27 09:50 ansible-role-git-master/
+-rw-rw-r-- root/root      1156 2016-07-27 09:50 ansible-role-git-master/.travis.yml
+-rw-rw-r-- root/root      1074 2016-07-27 09:50 ansible-role-git-master/LICENSE
+-rw-rw-r-- root/root       928 2016-07-27 09:50 ansible-role-git-master/README.md
+drwxrwxr-x root/root         0 2016-07-27 09:50 ansible-role-git-master/defaults/
+-rw-rw-r-- root/root        34 2016-07-27 09:50 ansible-role-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-27 09:50 ansible-role-git-master/meta/
+-rw-rw-r-- root/root       259 2016-07-27 09:50 ansible-role-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-27 09:50 ansible-role-git-master/tasks/
+-rw-rw-r-- root/root       448 2016-07-27 09:50 ansible-role-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-27 09:50 ansible-role-git-master/templates/
+-rw-rw-r-- root/root       165 2016-07-27 09:50 ansible-role-git-master/templates/gitconfig.j2
+-rw-rw-r-- root/root        57 2016-07-27 09:50 ansible-role-git-master/templates/gitignore.j2
+drwxrwxr-x root/root         0 2016-07-27 09:50 ansible-role-git-master/tests/
+-rw-rw-r-- root/root         9 2016-07-27 09:50 ansible-role-git-master/tests/inventory
+-rw-rw-r-- root/root        75 2016-07-27 09:50 ansible-role-git-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-04-14 18:46 ansible-role-smartgit-master/
+-rw-rw-r-- root/root       369 2015-04-14 18:46 ansible-role-smartgit-master/.travis.yml
+-rw-rw-r-- root/root      1646 2015-04-14 18:46 ansible-role-smartgit-master/README.md
+drwxrwxr-x root/root         0 2015-04-14 18:46 ansible-role-smartgit-master/defaults/
+-rw-rw-r-- root/root       711 2015-04-14 18:46 ansible-role-smartgit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-14 18:46 ansible-role-smartgit-master/handlers/
+-rw-rw-r-- root/root        46 2015-04-14 18:46 ansible-role-smartgit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-14 18:46 ansible-role-smartgit-master/meta/
+-rw-rw-r-- root/root       365 2015-04-14 18:46 ansible-role-smartgit-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-14 18:46 ansible-role-smartgit-master/tasks/
+-rw-rw-r-- root/root       347 2015-04-14 18:46 ansible-role-smartgit-master/tasks/main.yml
+-rw-rw-r-- root/root       436 2015-04-14 18:46 ansible-role-smartgit-master/tasks/setup-deb.yml
+-rw-rw-r-- root/root       791 2015-04-14 18:46 ansible-role-smartgit-master/tasks/setup-dmg.yml
+drwxrwxr-x root/root         0 2015-04-14 18:46 ansible-role-smartgit-master/tests/
+-rw-rw-r-- root/root        10 2015-04-14 18:46 ansible-role-smartgit-master/tests/inventory
+-rw-rw-r-- root/root        62 2015-04-14 18:46 ansible-role-smartgit-master/tests/test.yml

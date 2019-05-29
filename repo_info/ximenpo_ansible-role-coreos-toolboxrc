@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/
+-rw-rw-r-- root/root       235 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/.editorconfig
+-rw-rw-r-- root/root      1064 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/LICENSE
+-rw-rw-r-- root/root        82 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/README.md
+drwxrwxr-x root/root         0 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/defaults/
+-rw-rw-r-- root/root       297 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/files/
+-rw-rw-r-- root/root      1634 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/files/coreos-toolboxrc-generate.sh
+drwxrwxr-x root/root         0 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/meta/
+-rw-rw-r-- root/root       296 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/tasks/
+-rw-rw-r-- root/root       288 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/tests/
+-rw-rw-r-- root/root       235 2017-08-16 21:19 ansible-role-coreos-toolboxrc-master/tests/test.yml

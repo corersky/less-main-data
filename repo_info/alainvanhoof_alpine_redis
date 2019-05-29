@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-04-24 13:36 alpine_redis-master/
+-rw-rw-r-- root/root      1017 2017-04-24 13:36 alpine_redis-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 13:36 alpine_redis-master/defaults/
+-rw-rw-r-- root/root        36 2017-04-24 13:36 alpine_redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-24 13:36 alpine_redis-master/handlers/
+-rw-rw-r-- root/root       108 2017-04-24 13:36 alpine_redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-24 13:36 alpine_redis-master/meta/
+-rw-rw-r-- root/root       234 2017-04-24 13:36 alpine_redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 13:36 alpine_redis-master/tasks/
+-rw-rw-r-- root/root       623 2017-04-24 13:36 alpine_redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 13:36 alpine_redis-master/tests/
+-rw-rw-r-- root/root        11 2017-04-24 13:36 alpine_redis-master/tests/inventory
+-rw-rw-r-- root/root        70 2017-04-24 13:36 alpine_redis-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-24 13:36 alpine_redis-master/vars/
+-rw-rw-r-- root/root        32 2017-04-24 13:36 alpine_redis-master/vars/main.yml

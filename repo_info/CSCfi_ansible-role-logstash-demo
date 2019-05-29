@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-12-08 05:28 ansible-role-logstash-demo-master/
+-rw-rw-r-- root/root        43 2015-12-08 05:28 ansible-role-logstash-demo-master/.gitignore
+-rw-rw-r-- root/root      1095 2015-12-08 05:28 ansible-role-logstash-demo-master/LICENSE
+-rw-rw-r-- root/root       578 2015-12-08 05:28 ansible-role-logstash-demo-master/README.md
+drwxrwxr-x root/root         0 2015-12-08 05:28 ansible-role-logstash-demo-master/defaults/
+-rw-rw-r-- root/root       634 2015-12-08 05:28 ansible-role-logstash-demo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-08 05:28 ansible-role-logstash-demo-master/meta/
+-rw-rw-r-- root/root      2419 2015-12-08 05:28 ansible-role-logstash-demo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-08 05:28 ansible-role-logstash-demo-master/tasks/
+-rw-rw-r-- root/root      3608 2015-12-08 05:28 ansible-role-logstash-demo-master/tasks/logstash.yml
+-rw-rw-r-- root/root        61 2015-12-08 05:28 ansible-role-logstash-demo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-08 05:28 ansible-role-logstash-demo-master/templates/
+-rw-rw-r-- root/root       286 2015-12-08 05:28 ansible-role-logstash-demo-master/templates/logstash.repo.j2

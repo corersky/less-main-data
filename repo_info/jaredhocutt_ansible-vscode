@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-vscode-master/
+-rw-rw-r-- root/root       813 2018-08-01 21:38 ansible-vscode-master/README.md
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-vscode-master/defaults/
+-rw-rw-r-- root/root        27 2018-08-01 21:38 ansible-vscode-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-vscode-master/handlers/
+-rw-rw-r-- root/root        30 2018-08-01 21:38 ansible-vscode-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-vscode-master/meta/
+-rw-rw-r-- root/root       254 2018-08-01 21:38 ansible-vscode-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-vscode-master/tasks/
+-rw-rw-r-- root/root       917 2018-08-01 21:38 ansible-vscode-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-vscode-master/tests/
+-rw-rw-r-- root/root        11 2018-08-01 21:38 ansible-vscode-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-08-01 21:38 ansible-vscode-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-01 21:38 ansible-vscode-master/vars/
+-rw-rw-r-- root/root        26 2018-08-01 21:38 ansible-vscode-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-05 15:50 ansible-role-gitk-master/
+-rw-rw-r-- root/root       343 2019-04-05 15:50 ansible-role-gitk-master/.ciconfiggen.config
+drwxrwxr-x root/root         0 2019-04-05 15:50 ansible-role-gitk-master/.circleci/
+-rw-rw-r-- root/root     21632 2019-04-05 15:50 ansible-role-gitk-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-04-05 15:50 ansible-role-gitk-master/.gitignore
+-rw-rw-r-- root/root      2632 2019-04-05 15:50 ansible-role-gitk-master/.travis.yml
+-rw-rw-r-- root/root       484 2019-04-05 15:50 ansible-role-gitk-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 15:50 ansible-role-gitk-master/meta/
+-rw-rw-r-- root/root      3508 2019-04-05 15:50 ansible-role-gitk-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 15:50 ansible-role-gitk-master/tasks/
+-rw-rw-r-- root/root        86 2019-04-05 15:50 ansible-role-gitk-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3170 2019-04-05 15:50 ansible-role-gitk-master/tasks/compat.yml
+-rw-rw-r-- root/root       236 2019-04-05 15:50 ansible-role-gitk-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       540 2019-04-05 15:50 ansible-role-gitk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-05 15:50 ansible-role-gitk-master/vars/
+-rw-rw-r-- root/root        23 2019-04-05 15:50 ansible-role-gitk-master/vars/default.yml
+-rw-rw-r-- root/root         4 2019-04-05 15:50 ansible-role-gitk-master/vars/main.yml

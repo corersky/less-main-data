@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-10-09 21:55 ansible_gitflow-master/
+-rw-rw-r-- root/root        31 2018-10-09 21:55 ansible_gitflow-master/.gitignore
+-rw-rw-r-- root/root        70 2018-10-09 21:55 ansible_gitflow-master/README.md
+drwxrwxr-x root/root         0 2018-10-09 21:55 ansible_gitflow-master/meta/
+-rw-rw-r-- root/root        60 2018-10-09 21:55 ansible_gitflow-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       353 2018-10-09 21:55 ansible_gitflow-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-09 21:55 ansible_gitflow-master/tasks/
+-rw-rw-r-- root/root       412 2018-10-09 21:55 ansible_gitflow-master/tasks/CentOS.yml
+-rw-rw-r-- root/root        99 2018-10-09 21:55 ansible_gitflow-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       209 2018-10-09 21:55 ansible_gitflow-master/tasks/install.yml
+-rw-rw-r-- root/root       104 2018-10-09 21:55 ansible_gitflow-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-09 21:55 ansible_gitflow-master/vars/
+-rw-rw-r-- root/root       163 2018-10-09 21:55 ansible_gitflow-master/vars/CentOS.yml

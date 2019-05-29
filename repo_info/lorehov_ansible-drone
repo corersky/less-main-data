@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-09-10 07:05 ansible-drone-master/
+-rw-rw-r-- root/root     11325 2015-09-10 07:05 ansible-drone-master/LICENSE
+-rw-rw-r-- root/root      5755 2015-09-10 07:05 ansible-drone-master/README.md
+drwxrwxr-x root/root         0 2015-09-10 07:05 ansible-drone-master/defaults/
+-rw-rw-r-- root/root       899 2015-09-10 07:05 ansible-drone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-10 07:05 ansible-drone-master/handlers/
+-rw-rw-r-- root/root        74 2015-09-10 07:05 ansible-drone-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-10 07:05 ansible-drone-master/meta/
+-rw-rw-r-- root/root       337 2015-09-10 07:05 ansible-drone-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-10 07:05 ansible-drone-master/tasks/
+-rw-rw-r-- root/root      3638 2015-09-10 07:05 ansible-drone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-10 07:05 ansible-drone-master/templates/
+-rw-rw-r-- root/root      1057 2015-09-10 07:05 ansible-drone-master/templates/drone.mysql.sql.j2
+-rw-rw-r-- root/root      2140 2015-09-10 07:05 ansible-drone-master/templates/drone.sqlite.sql.j2
+-rw-rw-r-- root/root      2523 2015-09-10 07:05 ansible-drone-master/templates/drone.toml.j2

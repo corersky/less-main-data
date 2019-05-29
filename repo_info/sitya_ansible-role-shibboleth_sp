@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-04-20 04:34 ansible-role-shibboleth_sp-master/
+-rw-rw-r-- root/root       784 2016-04-20 04:34 ansible-role-shibboleth_sp-master/README.md
+drwxrwxr-x root/root         0 2016-04-20 04:34 ansible-role-shibboleth_sp-master/defaults/
+-rw-rw-r-- root/root       406 2016-04-20 04:34 ansible-role-shibboleth_sp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-20 04:34 ansible-role-shibboleth_sp-master/handlers/
+-rw-rw-r-- root/root       205 2016-04-20 04:34 ansible-role-shibboleth_sp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-20 04:34 ansible-role-shibboleth_sp-master/meta/
+-rw-rw-r-- root/root      1934 2016-04-20 04:34 ansible-role-shibboleth_sp-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-20 04:34 ansible-role-shibboleth_sp-master/tasks/
+-rw-rw-r-- root/root        82 2016-04-20 04:34 ansible-role-shibboleth_sp-master/tasks/main.yml
+-rw-rw-r-- root/root      1034 2016-04-20 04:34 ansible-role-shibboleth_sp-master/tasks/shibboleth_sp.yml
+drwxrwxr-x root/root         0 2016-04-20 04:34 ansible-role-shibboleth_sp-master/templates/
+-rw-rw-r-- root/root      2467 2016-04-20 04:34 ansible-role-shibboleth_sp-master/templates/shibboleth2.xml.j2
+drwxrwxr-x root/root         0 2016-04-20 04:34 ansible-role-shibboleth_sp-master/vars/
+-rw-rw-r-- root/root        34 2016-04-20 04:34 ansible-role-shibboleth_sp-master/vars/main.yml

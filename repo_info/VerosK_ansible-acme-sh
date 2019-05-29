@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-25 06:45 ansible-acme-sh-master/
+-rw-rw-r-- root/root      1514 2018-09-25 06:45 ansible-acme-sh-master/LICENSE
+-rw-rw-r-- root/root       765 2018-09-25 06:45 ansible-acme-sh-master/README.md
+drwxrwxr-x root/root         0 2018-09-25 06:45 ansible-acme-sh-master/defaults/
+-rw-rw-r-- root/root       937 2018-09-25 06:45 ansible-acme-sh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-25 06:45 ansible-acme-sh-master/meta/
+-rw-rw-r-- root/root       307 2018-09-25 06:45 ansible-acme-sh-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-25 06:45 ansible-acme-sh-master/tasks/
+-rw-rw-r-- root/root      2230 2018-09-25 06:45 ansible-acme-sh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-25 06:45 ansible-acme-sh-master/templates/
+-rw-rw-r-- root/root       248 2018-09-25 06:45 ansible-acme-sh-master/templates/letsencrypt-restart-haproxy.j2
+-rw-rw-r-- root/root       452 2018-09-25 06:45 ansible-acme-sh-master/templates/letsencrypt-restart-httpd.j2
+-rw-rw-r-- root/root       236 2018-09-25 06:45 ansible-acme-sh-master/templates/letsencrypt-restart-nginx.j2

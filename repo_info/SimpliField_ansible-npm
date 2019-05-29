@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-10 07:21 ansible-npm-master/
+-rw-rw-r-- root/root       261 2017-08-10 07:21 ansible-npm-master/.travis.yml
+-rw-rw-r-- root/root      1410 2017-08-10 07:21 ansible-npm-master/Makefile
+-rw-rw-r-- root/root       442 2017-08-10 07:21 ansible-npm-master/README.md
+drwxrwxr-x root/root         0 2017-08-10 07:21 ansible-npm-master/defaults/
+-rw-rw-r-- root/root        21 2017-08-10 07:21 ansible-npm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-10 07:21 ansible-npm-master/meta/
+-rw-rw-r-- root/root       295 2017-08-10 07:21 ansible-npm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-10 07:21 ansible-npm-master/tasks/
+-rw-rw-r-- root/root       277 2017-08-10 07:21 ansible-npm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-10 07:21 ansible-npm-master/tests/
+-rw-rw-r-- root/root        11 2017-08-10 07:21 ansible-npm-master/tests/inventory
+-rw-rw-r-- root/root       134 2017-08-10 07:21 ansible-npm-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-03-30 06:18 ansible-role-centos-kernel-update-master/
+-rw-rw-r-- root/root       612 2017-03-30 06:18 ansible-role-centos-kernel-update-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-03-30 06:18 ansible-role-centos-kernel-update-master/LICENSE
+-rw-rw-r-- root/root      1148 2017-03-30 06:18 ansible-role-centos-kernel-update-master/README.md
+drwxrwxr-x root/root         0 2017-03-30 06:18 ansible-role-centos-kernel-update-master/meta/
+-rw-rw-r-- root/root       378 2017-03-30 06:18 ansible-role-centos-kernel-update-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-30 06:18 ansible-role-centos-kernel-update-master/tasks/
+-rw-rw-r-- root/root       605 2017-03-30 06:18 ansible-role-centos-kernel-update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-30 06:18 ansible-role-centos-kernel-update-master/tests/
+-rw-rw-r-- root/root         9 2017-03-30 06:18 ansible-role-centos-kernel-update-master/tests/inventory
+-rw-rw-r-- root/root       113 2017-03-30 06:18 ansible-role-centos-kernel-update-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-05-14 12:34 elkarbackup-ansible-master/
+-rw-rw-r-- root/root     18026 2015-05-14 12:34 elkarbackup-ansible-master/LICENSE
+-rw-rw-r-- root/root      1053 2015-05-14 12:34 elkarbackup-ansible-master/README.md
+drwxrwxr-x root/root         0 2015-05-14 12:34 elkarbackup-ansible-master/defaults/
+-rw-rw-r-- root/root        96 2015-05-14 12:34 elkarbackup-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-14 12:34 elkarbackup-ansible-master/handlers/
+-rw-rw-r-- root/root        36 2015-05-14 12:34 elkarbackup-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-14 12:34 elkarbackup-ansible-master/meta/
+-rw-rw-r-- root/root       286 2015-05-14 12:34 elkarbackup-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-14 12:34 elkarbackup-ansible-master/tasks/
+-rw-rw-r-- root/root       173 2015-05-14 12:34 elkarbackup-ansible-master/tasks/dependencies.yml
+-rw-rw-r-- root/root      1136 2015-05-14 12:34 elkarbackup-ansible-master/tasks/elkarbackup.yml
+-rw-rw-r-- root/root        85 2015-05-14 12:34 elkarbackup-ansible-master/tasks/main.yml
+-rw-rw-r-- root/root        94 2015-05-14 12:34 elkarbackup-ansible-master/test.yml
+drwxrwxr-x root/root         0 2015-05-14 12:34 elkarbackup-ansible-master/vars/
+-rw-rw-r-- root/root        32 2015-05-14 12:34 elkarbackup-ansible-master/vars/main.yml

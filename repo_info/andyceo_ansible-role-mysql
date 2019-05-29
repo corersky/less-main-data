@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-01 10:45 ansible-role-mysql-master/
+-rw-rw-r-- root/root       171 2016-06-01 10:45 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2016-06-01 10:45 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root      3266 2016-06-01 10:45 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-01 10:45 ansible-role-mysql-master/files/
+-rw-rw-r-- root/root       341 2016-06-01 10:45 ansible-role-mysql-master/files/test1.sql
+drwxrwxr-x root/root         0 2016-06-01 10:45 ansible-role-mysql-master/handlers/
+-rw-rw-r-- root/root       264 2016-06-01 10:45 ansible-role-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-01 10:45 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root       387 2016-06-01 10:45 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-01 10:45 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root      3277 2016-06-01 10:45 ansible-role-mysql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-01 10:45 ansible-role-mysql-master/templates/
+-rw-rw-r-- root/root       141 2016-06-01 10:45 ansible-role-mysql-master/templates/automysqlbackup.conf.j2
+-rw-rw-r-- root/root      1415 2016-06-01 10:45 ansible-role-mysql-master/templates/my.cnf.j2

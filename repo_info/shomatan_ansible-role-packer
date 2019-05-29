@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-05 00:20 ansible-role-packer-master/
+-rw-rw-r-- root/root       539 2017-05-05 00:20 ansible-role-packer-master/.travis.yml
+-rw-rw-r-- root/root       341 2017-05-05 00:20 ansible-role-packer-master/README.md
+drwxrwxr-x root/root         0 2017-05-05 00:20 ansible-role-packer-master/meta/
+-rw-rw-r-- root/root       235 2017-05-05 00:20 ansible-role-packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-05 00:20 ansible-role-packer-master/tasks/
+-rw-rw-r-- root/root       351 2017-05-05 00:20 ansible-role-packer-master/tasks/install-Alpine.yml
+-rw-rw-r-- root/root       195 2017-05-05 00:20 ansible-role-packer-master/tasks/install-Darwin.yml
+-rw-rw-r-- root/root        64 2017-05-05 00:20 ansible-role-packer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-05 00:20 ansible-role-packer-master/tests/
+-rw-rw-r-- root/root         9 2017-05-05 00:20 ansible-role-packer-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-05-05 00:20 ansible-role-packer-master/tests/test.yml

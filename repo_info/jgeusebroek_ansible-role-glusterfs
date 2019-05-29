@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-13 14:33 ansible-role-glusterfs-master/
+-rw-rw-r-- root/root      2305 2016-01-13 14:33 ansible-role-glusterfs-master/README.md
+drwxrwxr-x root/root         0 2016-01-13 14:33 ansible-role-glusterfs-master/defaults/
+-rw-rw-r-- root/root       428 2016-01-13 14:33 ansible-role-glusterfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-13 14:33 ansible-role-glusterfs-master/meta/
+-rw-rw-r-- root/root       406 2016-01-13 14:33 ansible-role-glusterfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-13 14:33 ansible-role-glusterfs-master/tasks/
+-rw-rw-r-- root/root       557 2016-01-13 14:33 ansible-role-glusterfs-master/tasks/configure-client.yml
+-rw-rw-r-- root/root      1228 2016-01-13 14:33 ansible-role-glusterfs-master/tasks/configure-server.yml
+-rw-rw-r-- root/root       338 2016-01-13 14:33 ansible-role-glusterfs-master/tasks/main.yml
+-rw-rw-r-- root/root      1215 2016-01-13 14:33 ansible-role-glusterfs-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       688 2016-01-13 14:33 ansible-role-glusterfs-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2016-01-13 14:33 ansible-role-glusterfs-master/templates/
+-rw-rw-r-- root/root      1156 2016-01-13 14:33 ansible-role-glusterfs-master/templates/glusterfs-epel.repo.j2
+drwxrwxr-x root/root         0 2016-01-13 14:33 ansible-role-glusterfs-master/vars/
+-rw-rw-r-- root/root       124 2016-01-13 14:33 ansible-role-glusterfs-master/vars/Debian.yml
+-rw-rw-r-- root/root       116 2016-01-13 14:33 ansible-role-glusterfs-master/vars/RedHat.yml

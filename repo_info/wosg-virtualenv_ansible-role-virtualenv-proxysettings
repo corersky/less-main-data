@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/
+-rw-rw-r-- root/root      1709 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/.travis.yml
+-rw-rw-r-- root/root        39 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/README.md
+drwxrwxr-x root/root         0 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/defaults/
+-rw-rw-r-- root/root       435 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/meta/
+-rw-rw-r-- root/root       307 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/tasks/
+-rw-rw-r-- root/root      1365 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/templates/
+-rw-rw-r-- root/root       370 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/templates/80proxy.j2
+-rw-rw-r-- root/root       610 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/templates/environment.j2
+-rw-rw-r-- root/root       454 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/templates/proxy.j2
+-rw-rw-r-- root/root       666 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/templates/proxy.sh.j2
+drwxrwxr-x root/root         0 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/tests/
+-rw-rw-r-- root/root        10 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/tests/inventory
+-rw-rw-r-- root/root       391 2015-12-29 06:15 ansible-role-virtualenv-proxysettings-master/tests/test.yml

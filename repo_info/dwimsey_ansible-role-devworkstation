@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-23 17:36 ansible-role-devworkstation-master/
+-rw-rw-r-- root/root       629 2016-08-23 17:36 ansible-role-devworkstation-master/.travis.yml
+-rw-rw-r-- root/root      2309 2016-08-23 17:36 ansible-role-devworkstation-master/README.md
+drwxrwxr-x root/root         0 2016-08-23 17:36 ansible-role-devworkstation-master/defaults/
+-rw-rw-r-- root/root        47 2016-08-23 17:36 ansible-role-devworkstation-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-23 17:36 ansible-role-devworkstation-master/handlers/
+-rw-rw-r-- root/root        47 2016-08-23 17:36 ansible-role-devworkstation-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-23 17:36 ansible-role-devworkstation-master/meta/
+-rw-rw-r-- root/root      3095 2016-08-23 17:36 ansible-role-devworkstation-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-23 17:36 ansible-role-devworkstation-master/tasks/
+-rw-rw-r-- root/root       272 2016-08-23 17:36 ansible-role-devworkstation-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-23 17:36 ansible-role-devworkstation-master/tests/
+-rw-rw-r-- root/root         9 2016-08-23 17:36 ansible-role-devworkstation-master/tests/inventory
+-rw-rw-r-- root/root        86 2016-08-23 17:36 ansible-role-devworkstation-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-08-23 17:36 ansible-role-devworkstation-master/vars/
+-rw-rw-r-- root/root        43 2016-08-23 17:36 ansible-role-devworkstation-master/vars/main.yml

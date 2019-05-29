@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-02-25 23:03 ansible-role-packer-master/
+-rw-rw-r-- root/root        21 2018-02-25 23:03 ansible-role-packer-master/.gitignore
+-rw-rw-r-- root/root       759 2018-02-25 23:03 ansible-role-packer-master/.travis.yml
+-rw-rw-r-- root/root      1198 2018-02-25 23:03 ansible-role-packer-master/README.md
+drwxrwxr-x root/root         0 2018-02-25 23:03 ansible-role-packer-master/defaults/
+-rw-rw-r-- root/root       245 2018-02-25 23:03 ansible-role-packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-25 23:03 ansible-role-packer-master/meta/
+-rw-rw-r-- root/root       477 2018-02-25 23:03 ansible-role-packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-25 23:03 ansible-role-packer-master/tasks/
+-rw-rw-r-- root/root       691 2018-02-25 23:03 ansible-role-packer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-25 23:03 ansible-role-packer-master/tests/
+-rw-rw-r-- root/root       632 2018-02-25 23:03 ansible-role-packer-master/tests/README.md
+-rw-rw-r-- root/root       210 2018-02-25 23:03 ansible-role-packer-master/tests/test.yml

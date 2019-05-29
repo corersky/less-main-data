@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-03 14:11 ansible-yarn-master/
+-rw-rw-r-- root/root        42 2017-04-03 14:11 ansible-yarn-master/.gitignore
+-rw-rw-r-- root/root        29 2017-04-03 14:11 ansible-yarn-master/CHANGELOG.md
+-rw-rw-r-- root/root     11342 2017-04-03 14:11 ansible-yarn-master/LICENSE
+-rw-rw-r-- root/root       251 2017-04-03 14:11 ansible-yarn-master/README.md
+drwxrwxr-x root/root         0 2017-04-03 14:11 ansible-yarn-master/defaults/
+-rw-rw-r-- root/root        27 2017-04-03 14:11 ansible-yarn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-03 14:11 ansible-yarn-master/examples/
+-rw-rw-r-- root/root       549 2017-04-03 14:11 ansible-yarn-master/examples/Vagrantfile
+-rw-rw-r-- root/root        39 2017-04-03 14:11 ansible-yarn-master/examples/roles.yml
+drwxrwxr-x root/root         0 2017-04-03 14:11 ansible-yarn-master/examples/roles/
+lrwxrwxrwx root/root         0 2017-04-03 14:11 ansible-yarn-master/examples/roles/azavea.yarn -> ../../
+-rw-rw-r-- root/root        95 2017-04-03 14:11 ansible-yarn-master/examples/site.yml
+drwxrwxr-x root/root         0 2017-04-03 14:11 ansible-yarn-master/meta/
+-rw-rw-r-- root/root       288 2017-04-03 14:11 ansible-yarn-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-03 14:11 ansible-yarn-master/tasks/
+-rw-rw-r-- root/root       291 2017-04-03 14:11 ansible-yarn-master/tasks/main.yml

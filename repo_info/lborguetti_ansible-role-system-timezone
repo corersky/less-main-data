@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-03-22 09:55 ansible-role-system-timezone-master/
+-rw-rw-r-- root/root       452 2015-03-22 09:55 ansible-role-system-timezone-master/.travis.yml
+-rw-rw-r-- root/root     18027 2015-03-22 09:55 ansible-role-system-timezone-master/LICENSE
+-rw-rw-r-- root/root       767 2015-03-22 09:55 ansible-role-system-timezone-master/README.md
+drwxrwxr-x root/root         0 2015-03-22 09:55 ansible-role-system-timezone-master/defaults/
+-rw-rw-r-- root/root        48 2015-03-22 09:55 ansible-role-system-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-22 09:55 ansible-role-system-timezone-master/handlers/
+-rw-rw-r-- root/root       116 2015-03-22 09:55 ansible-role-system-timezone-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-22 09:55 ansible-role-system-timezone-master/meta/
+-rw-rw-r-- root/root       219 2015-03-22 09:55 ansible-role-system-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-22 09:55 ansible-role-system-timezone-master/tasks/
+-rw-rw-r-- root/root       259 2015-03-22 09:55 ansible-role-system-timezone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-22 09:55 ansible-role-system-timezone-master/templates/
+-rw-rw-r-- root/root        31 2015-03-22 09:55 ansible-role-system-timezone-master/templates/default-timezone.j2
+drwxrwxr-x root/root         0 2015-03-22 09:55 ansible-role-system-timezone-master/tests/
+-rw-rw-r-- root/root        10 2015-03-22 09:55 ansible-role-system-timezone-master/tests/inventory
+-rw-rw-r-- root/root        87 2015-03-22 09:55 ansible-role-system-timezone-master/tests/test.yml

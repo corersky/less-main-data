@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-07-10 14:38 poap-master/
+-rw-rw-r-- root/root      1328 2018-07-10 14:38 poap-master/README.md
+drwxrwxr-x root/root         0 2018-07-10 14:38 poap-master/defaults/
+-rw-rw-r-- root/root        28 2018-07-10 14:38 poap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 poap-master/handlers/
+-rw-rw-r-- root/root        28 2018-07-10 14:38 poap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 poap-master/meta/
+-rw-rw-r-- root/root      1777 2018-07-10 14:38 poap-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 poap-master/tasks/
+-rw-rw-r-- root/root      1131 2018-07-10 14:38 poap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 poap-master/templates/
+-rw-rw-r-- root/root      1054 2018-07-10 14:38 poap-master/templates/poap.j2
+drwxrwxr-x root/root         0 2018-07-10 14:38 poap-master/tests/
+-rw-rw-r-- root/root        11 2018-07-10 14:38 poap-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-07-10 14:38 poap-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 poap-master/vars/
+-rw-rw-r-- root/root      6842 2018-07-10 14:38 poap-master/vars/main.yml

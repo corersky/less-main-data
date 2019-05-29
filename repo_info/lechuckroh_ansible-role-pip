@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-03 20:43 ansible-role-pip-master/
+-rw-rw-r-- root/root      1068 2018-06-03 20:43 ansible-role-pip-master/LICENSE
+-rw-rw-r-- root/root       695 2018-06-03 20:43 ansible-role-pip-master/README.md
+drwxrwxr-x root/root         0 2018-06-03 20:43 ansible-role-pip-master/defaults/
+-rw-rw-r-- root/root        45 2018-06-03 20:43 ansible-role-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-03 20:43 ansible-role-pip-master/meta/
+-rw-rw-r-- root/root        60 2018-06-03 20:43 ansible-role-pip-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       228 2018-06-03 20:43 ansible-role-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-03 20:43 ansible-role-pip-master/tasks/
+-rw-rw-r-- root/root         4 2018-06-03 20:43 ansible-role-pip-master/tasks/install-Debian.yml
+-rw-rw-r-- root/root       188 2018-06-03 20:43 ansible-role-pip-master/tasks/install-RedHat.yml
+-rw-rw-r-- root/root       468 2018-06-03 20:43 ansible-role-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-03 20:43 ansible-role-pip-master/tests/
+-rw-rw-r-- root/root        11 2018-06-03 20:43 ansible-role-pip-master/tests/inventory
+-rw-rw-r-- root/root        61 2018-06-03 20:43 ansible-role-pip-master/tests/test.yml

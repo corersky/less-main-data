@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-06-05 19:18 ansible-role-miniconda-master/
+-rw-rw-r-- root/root       463 2014-06-05 19:18 ansible-role-miniconda-master/Dockerfile
+-rw-rw-r-- root/root     11323 2014-06-05 19:18 ansible-role-miniconda-master/LICENSE
+-rw-rw-r-- root/root       572 2014-06-05 19:18 ansible-role-miniconda-master/README.md
+-rw-rw-r-- root/root      2621 2014-06-05 19:18 ansible-role-miniconda-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-06-05 19:18 ansible-role-miniconda-master/defaults/
+-rw-rw-r-- root/root        68 2014-06-05 19:18 ansible-role-miniconda-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-06-05 19:18 ansible-role-miniconda-master/handlers/
+-rw-rw-r-- root/root       116 2014-06-05 19:18 ansible-role-miniconda-master/handlers/main.yml
+-rw-rw-r-- root/root        81 2014-06-05 19:18 ansible-role-miniconda-master/hosts
+-rw-rw-r-- root/root       121 2014-06-05 19:18 ansible-role-miniconda-master/local.yml
+drwxrwxr-x root/root         0 2014-06-05 19:18 ansible-role-miniconda-master/meta/
+-rw-rw-r-- root/root      2083 2014-06-05 19:18 ansible-role-miniconda-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-06-05 19:18 ansible-role-miniconda-master/tasks/
+-rw-rw-r-- root/root       872 2014-06-05 19:18 ansible-role-miniconda-master/tasks/main.yml

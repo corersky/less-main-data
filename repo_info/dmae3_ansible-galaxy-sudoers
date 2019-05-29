@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-10-19 01:09 ansible-galaxy-sudoers-master/
+-rw-rw-r-- root/root       829 2017-10-19 01:09 ansible-galaxy-sudoers-master/README.md
+drwxrwxr-x root/root         0 2017-10-19 01:09 ansible-galaxy-sudoers-master/defaults/
+-rw-rw-r-- root/root        42 2017-10-19 01:09 ansible-galaxy-sudoers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:09 ansible-galaxy-sudoers-master/meta/
+-rw-rw-r-- root/root       217 2017-10-19 01:09 ansible-galaxy-sudoers-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:09 ansible-galaxy-sudoers-master/tasks/
+-rw-rw-r-- root/root       424 2017-10-19 01:09 ansible-galaxy-sudoers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-19 01:09 ansible-galaxy-sudoers-master/templates/
+-rw-rw-r-- root/root        16 2017-10-19 01:09 ansible-galaxy-sudoers-master/templates/sudoers.j2
+drwxrwxr-x root/root         0 2017-10-19 01:09 ansible-galaxy-sudoers-master/tests/
+-rw-rw-r-- root/root        67 2017-10-19 01:09 ansible-galaxy-sudoers-master/tests/test.yml

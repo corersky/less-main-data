@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-09-27 12:06 configure-ssh-ansible-role-master/
+-rw-rw-r-- root/root      1160 2017-09-27 12:06 configure-ssh-ansible-role-master/.travis.yml
+-rw-rw-r-- root/root     11357 2017-09-27 12:06 configure-ssh-ansible-role-master/LICENSE
+-rw-rw-r-- root/root        96 2017-09-27 12:06 configure-ssh-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-09-27 12:06 configure-ssh-ansible-role-master/files/
+-rw-rw-r-- root/root      2972 2017-09-27 12:06 configure-ssh-ansible-role-master/files/sshd_config
+drwxrwxr-x root/root         0 2017-09-27 12:06 configure-ssh-ansible-role-master/handlers/
+-rw-rw-r-- root/root        88 2017-09-27 12:06 configure-ssh-ansible-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-27 12:06 configure-ssh-ansible-role-master/meta/
+-rw-rw-r-- root/root       184 2017-09-27 12:06 configure-ssh-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-27 12:06 configure-ssh-ansible-role-master/tasks/
+-rw-rw-r-- root/root       114 2017-09-27 12:06 configure-ssh-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-27 12:06 configure-ssh-ansible-role-master/tests/
+-rw-rw-r-- root/root        11 2017-09-27 12:06 configure-ssh-ansible-role-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-09-27 12:06 configure-ssh-ansible-role-master/tests/test.yml

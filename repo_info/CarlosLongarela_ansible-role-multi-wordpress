@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-10 09:46 ansible-role-multi-wordpress-master/
+-rw-rw-r-- root/root       779 2018-11-10 09:46 ansible-role-multi-wordpress-master/.travis.yml
+-rw-rw-r-- root/root      3009 2018-11-10 09:46 ansible-role-multi-wordpress-master/README.md
+drwxrwxr-x root/root         0 2018-11-10 09:46 ansible-role-multi-wordpress-master/defaults/
+-rw-rw-r-- root/root       615 2018-11-10 09:46 ansible-role-multi-wordpress-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-10 09:46 ansible-role-multi-wordpress-master/meta/
+-rw-rw-r-- root/root       411 2018-11-10 09:46 ansible-role-multi-wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-10 09:46 ansible-role-multi-wordpress-master/tasks/
+-rw-rw-r-- root/root      3208 2018-11-10 09:46 ansible-role-multi-wordpress-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-10 09:46 ansible-role-multi-wordpress-master/tests/
+-rw-rw-r-- root/root        11 2018-11-10 09:46 ansible-role-multi-wordpress-master/tests/inventory
+-rw-rw-r-- root/root        86 2018-11-10 09:46 ansible-role-multi-wordpress-master/tests/test.yml

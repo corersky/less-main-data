@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-22 01:31 ansible-role-hadoop-master/
+-rw-rw-r-- root/root       402 2016-11-22 01:31 ansible-role-hadoop-master/README.md
+drwxrwxr-x root/root         0 2016-11-22 01:31 ansible-role-hadoop-master/defaults/
+-rw-rw-r-- root/root       322 2016-11-22 01:31 ansible-role-hadoop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-22 01:31 ansible-role-hadoop-master/handlers/
+-rw-rw-r-- root/root      1499 2016-11-22 01:31 ansible-role-hadoop-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-22 01:31 ansible-role-hadoop-master/meta/
+-rw-rw-r-- root/root       428 2016-11-22 01:31 ansible-role-hadoop-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-22 01:31 ansible-role-hadoop-master/tasks/
+-rw-rw-r-- root/root      2990 2016-11-22 01:31 ansible-role-hadoop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-22 01:31 ansible-role-hadoop-master/templates/
+-rw-rw-r-- root/root       127 2016-11-22 01:31 ansible-role-hadoop-master/templates/core-site.xml
+-rw-rw-r-- root/root       298 2016-11-22 01:31 ansible-role-hadoop-master/templates/mapred-site.xml
+-rw-rw-r-- root/root        20 2016-11-22 01:31 ansible-role-hadoop-master/templates/masters
+-rw-rw-r-- root/root       202 2016-11-22 01:31 ansible-role-hadoop-master/templates/slaves

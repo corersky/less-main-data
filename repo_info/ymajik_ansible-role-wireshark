@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-05 06:32 ansible-role-wireshark-master/
+-rw-rw-r-- root/root      1241 2017-07-05 06:32 ansible-role-wireshark-master/.travis.yml
+-rw-rw-r-- root/root      1073 2017-07-05 06:32 ansible-role-wireshark-master/LICENSE
+-rw-rw-r-- root/root      1008 2017-07-05 06:32 ansible-role-wireshark-master/README.md
+drwxrwxr-x root/root         0 2017-07-05 06:32 ansible-role-wireshark-master/defaults/
+-rw-rw-r-- root/root       191 2017-07-05 06:32 ansible-role-wireshark-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-05 06:32 ansible-role-wireshark-master/handlers/
+-rw-rw-r-- root/root        47 2017-07-05 06:32 ansible-role-wireshark-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-05 06:32 ansible-role-wireshark-master/meta/
+-rw-rw-r-- root/root      1736 2017-07-05 06:32 ansible-role-wireshark-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-05 06:32 ansible-role-wireshark-master/tasks/
+-rw-rw-r-- root/root       829 2017-07-05 06:32 ansible-role-wireshark-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-05 06:32 ansible-role-wireshark-master/tests/
+-rw-rw-r-- root/root         9 2017-07-05 06:32 ansible-role-wireshark-master/tests/inventory
+-rw-rw-r-- root/root        80 2017-07-05 06:32 ansible-role-wireshark-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-05 06:32 ansible-role-wireshark-master/vars/
+-rw-rw-r-- root/root        43 2017-07-05 06:32 ansible-role-wireshark-master/vars/main.yml

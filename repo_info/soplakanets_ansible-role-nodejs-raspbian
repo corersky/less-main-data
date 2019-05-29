@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/
+-rw-rw-r-- root/root      1210 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/LICENSE
+-rw-rw-r-- root/root        83 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/README.md
+drwxrwxr-x root/root         0 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/defaults/
+-rw-rw-r-- root/root       130 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/meta/
+-rw-rw-r-- root/root       238 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/tasks/
+-rw-rw-r-- root/root       907 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/templates/
+-rw-rw-r-- root/root        40 2015-08-20 15:36 ansible-role-nodejs-raspbian-master/templates/node_home.j2

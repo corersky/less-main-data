@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-31 14:03 git-deployable-app-master/
+-rw-rw-r-- root/root       108 2018-08-31 14:03 git-deployable-app-master/.gitignore
+-rw-rw-r-- root/root       432 2018-08-31 14:03 git-deployable-app-master/.travis.yml
+-rw-rw-r-- root/root      1068 2018-08-31 14:03 git-deployable-app-master/LICENSE.txt
+-rw-rw-r-- root/root      3956 2018-08-31 14:03 git-deployable-app-master/README.md
+drwxrwxr-x root/root         0 2018-08-31 14:03 git-deployable-app-master/defaults/
+-rw-rw-r-- root/root       318 2018-08-31 14:03 git-deployable-app-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-31 14:03 git-deployable-app-master/meta/
+-rw-rw-r-- root/root       424 2018-08-31 14:03 git-deployable-app-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-31 14:03 git-deployable-app-master/tasks/
+-rw-rw-r-- root/root      1457 2018-08-31 14:03 git-deployable-app-master/tasks/deploy_apps.yml
+-rw-rw-r-- root/root       364 2018-08-31 14:03 git-deployable-app-master/tasks/main.yml
+-rw-rw-r-- root/root      1511 2018-08-31 14:03 git-deployable-app-master/tasks/setup_locals.yml
+-rw-rw-r-- root/root       468 2018-08-31 14:03 git-deployable-app-master/tasks/setup_remotes.yml
+drwxrwxr-x root/root         0 2018-08-31 14:03 git-deployable-app-master/tests/
+-rw-rw-r-- root/root        11 2018-08-31 14:03 git-deployable-app-master/tests/inventory
+-rw-rw-r-- root/root        79 2018-08-31 14:03 git-deployable-app-master/tests/test.yml

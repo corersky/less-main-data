@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-25 12:40 ansible-role-mate-desktop-master/
+-rw-rw-r-- root/root         9 2018-11-25 12:40 ansible-role-mate-desktop-master/.gitignore
+-rw-rw-r-- root/root      1518 2018-11-25 12:40 ansible-role-mate-desktop-master/.travis.yml
+-rw-rw-r-- root/root       532 2018-11-25 12:40 ansible-role-mate-desktop-master/README 2.md
+drwxrwxr-x root/root         0 2018-11-25 12:40 ansible-role-mate-desktop-master/files/
+-rw-rw-r-- root/root       141 2018-11-25 12:40 ansible-role-mate-desktop-master/files/20-keyboard.conf
+drwxrwxr-x root/root         0 2018-11-25 12:40 ansible-role-mate-desktop-master/meta/
+-rw-rw-r-- root/root       282 2018-11-25 12:40 ansible-role-mate-desktop-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-25 12:40 ansible-role-mate-desktop-master/tasks/
+-rw-rw-r-- root/root      1161 2018-11-25 12:40 ansible-role-mate-desktop-master/tasks/RedHat.yml
+-rw-rw-r-- root/root        88 2018-11-25 12:40 ansible-role-mate-desktop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-25 12:40 ansible-role-mate-desktop-master/tests/
+-rw-rw-r-- root/root        11 2018-11-25 12:40 ansible-role-mate-desktop-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-11-25 12:40 ansible-role-mate-desktop-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-25 12:40 ansible-role-mate-desktop-master/vars/
+-rw-rw-r-- root/root       135 2018-11-25 12:40 ansible-role-mate-desktop-master/vars/main.yml

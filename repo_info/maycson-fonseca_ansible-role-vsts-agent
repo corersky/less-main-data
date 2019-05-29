@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-06 20:22 ansible-role-vsts-agent-master/
+-rw-rw-r-- root/root       670 2019-05-06 20:22 ansible-role-vsts-agent-master/.travis.yml
+-rw-rw-r-- root/root      1487 2019-05-06 20:22 ansible-role-vsts-agent-master/.yamllint.yml
+-rw-rw-r-- root/root      1131 2019-05-06 20:22 ansible-role-vsts-agent-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 20:22 ansible-role-vsts-agent-master/defaults/
+-rw-rw-r-- root/root       625 2019-05-06 20:22 ansible-role-vsts-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 20:22 ansible-role-vsts-agent-master/meta/
+-rw-rw-r-- root/root       367 2019-05-06 20:22 ansible-role-vsts-agent-master/meta/main.yml
+-rw-rw-r-- root/root       508 2019-05-06 20:22 ansible-role-vsts-agent-master/playbook.yml
+-rw-rw-r-- root/root        89 2019-05-06 20:22 ansible-role-vsts-agent-master/requirements.yml
+drwxrwxr-x root/root         0 2019-05-06 20:22 ansible-role-vsts-agent-master/tasks/
+-rw-rw-r-- root/root      2001 2019-05-06 20:22 ansible-role-vsts-agent-master/tasks/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-08-28 16:58 ansible-role-apache-master/
+-rw-rw-r-- root/root       144 2015-08-28 16:58 ansible-role-apache-master/README.md
+drwxrwxr-x root/root         0 2015-08-28 16:58 ansible-role-apache-master/defaults/
+-rw-rw-r-- root/root      1192 2015-08-28 16:58 ansible-role-apache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-28 16:58 ansible-role-apache-master/handlers/
+-rw-rw-r-- root/root       324 2015-08-28 16:58 ansible-role-apache-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-28 16:58 ansible-role-apache-master/meta/
+-rw-rw-r-- root/root       335 2015-08-28 16:58 ansible-role-apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-28 16:58 ansible-role-apache-master/tasks/
+-rw-rw-r-- root/root      3114 2015-08-28 16:58 ansible-role-apache-master/tasks/main.yml
+-rw-rw-r-- root/root      1402 2015-08-28 16:58 ansible-role-apache-master/tasks/vhost.yml
+drwxrwxr-x root/root         0 2015-08-28 16:58 ansible-role-apache-master/templates/
+-rw-rw-r-- root/root      1679 2015-08-28 16:58 ansible-role-apache-master/templates/backend.conf.j2
+-rw-rw-r-- root/root      2849 2015-08-28 16:58 ansible-role-apache-master/templates/standalone.conf.j2
+-rw-rw-r-- root/root       619 2015-08-28 16:58 ansible-role-apache-master/templates/vhost.conf.j2

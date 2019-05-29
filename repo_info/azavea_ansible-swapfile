@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-01-08 13:59 ansible-swapfile-master/
+-rw-rw-r-- root/root         9 2015-01-08 13:59 ansible-swapfile-master/.gitignore
+-rw-rw-r-- root/root        27 2015-01-08 13:59 ansible-swapfile-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-01-08 13:59 ansible-swapfile-master/LICENSE
+-rw-rw-r-- root/root       263 2015-01-08 13:59 ansible-swapfile-master/README.md
+drwxrwxr-x root/root         0 2015-01-08 13:59 ansible-swapfile-master/defaults/
+-rw-rw-r-- root/root        48 2015-01-08 13:59 ansible-swapfile-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-08 13:59 ansible-swapfile-master/examples/
+-rw-rw-r-- root/root       278 2015-01-08 13:59 ansible-swapfile-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-01-08 13:59 ansible-swapfile-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-01-08 13:59 ansible-swapfile-master/examples/roles/azavea.swapfile -> ../../
+-rw-rw-r-- root/root        60 2015-01-08 13:59 ansible-swapfile-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-01-08 13:59 ansible-swapfile-master/meta/
+-rw-rw-r-- root/root       292 2015-01-08 13:59 ansible-swapfile-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-08 13:59 ansible-swapfile-master/tasks/
+-rw-rw-r-- root/root       564 2015-01-08 13:59 ansible-swapfile-master/tasks/main.yml

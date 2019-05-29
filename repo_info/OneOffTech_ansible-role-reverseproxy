@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-20 00:51 ansible-role-reverseproxy-master/
+-rw-rw-r-- root/root      1080 2018-09-20 00:51 ansible-role-reverseproxy-master/LICENSE
+-rw-rw-r-- root/root       823 2018-09-20 00:51 ansible-role-reverseproxy-master/README.md
+drwxrwxr-x root/root         0 2018-09-20 00:51 ansible-role-reverseproxy-master/handlers/
+-rw-rw-r-- root/root       229 2018-09-20 00:51 ansible-role-reverseproxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-20 00:51 ansible-role-reverseproxy-master/meta/
+-rw-rw-r-- root/root      1731 2018-09-20 00:51 ansible-role-reverseproxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-20 00:51 ansible-role-reverseproxy-master/tasks/
+-rw-rw-r-- root/root       981 2018-09-20 00:51 ansible-role-reverseproxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-20 00:51 ansible-role-reverseproxy-master/templates/
+-rw-rw-r-- root/root       510 2018-09-20 00:51 ansible-role-reverseproxy-master/templates/docker-compose.yml.j2
+-rw-rw-r-- root/root       401 2018-09-20 00:51 ansible-role-reverseproxy-master/templates/reverseproxy.service.j2
+-rw-rw-r-- root/root      1360 2018-09-20 00:51 ansible-role-reverseproxy-master/templates/traefik.toml.j2

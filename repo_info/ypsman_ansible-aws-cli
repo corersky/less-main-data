@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-06-03 12:13 ansible-aws-cli-master/
+-rw-rw-r-- root/root       748 2018-06-03 12:13 ansible-aws-cli-master/.travis.yml
+-rw-rw-r-- root/root       334 2018-06-03 12:13 ansible-aws-cli-master/README.md
+drwxrwxr-x root/root         0 2018-06-03 12:13 ansible-aws-cli-master/meta/
+-rw-rw-r-- root/root       358 2018-06-03 12:13 ansible-aws-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-03 12:13 ansible-aws-cli-master/tasks/
+-rw-rw-r-- root/root       150 2018-06-03 12:13 ansible-aws-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-03 12:13 ansible-aws-cli-master/tests/
+-rw-rw-r-- root/root         9 2018-06-03 12:13 ansible-aws-cli-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-06-03 12:13 ansible-aws-cli-master/tests/test.yml

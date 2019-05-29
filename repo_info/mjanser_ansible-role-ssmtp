@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-05-06 07:18 ansible-role-ssmtp-master/
+-rw-rw-r-- root/root       171 2018-05-06 07:18 ansible-role-ssmtp-master/.editorconfig
+-rw-rw-r-- root/root        15 2018-05-06 07:18 ansible-role-ssmtp-master/.gitignore
+-rw-rw-r-- root/root       468 2018-05-06 07:18 ansible-role-ssmtp-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-05-06 07:18 ansible-role-ssmtp-master/LICENSE
+-rw-rw-r-- root/root      1333 2018-05-06 07:18 ansible-role-ssmtp-master/README.md
+drwxrwxr-x root/root         0 2018-05-06 07:18 ansible-role-ssmtp-master/defaults/
+-rw-rw-r-- root/root       147 2018-05-06 07:18 ansible-role-ssmtp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-06 07:18 ansible-role-ssmtp-master/meta/
+-rw-rw-r-- root/root       273 2018-05-06 07:18 ansible-role-ssmtp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-06 07:18 ansible-role-ssmtp-master/tasks/
+-rw-rw-r-- root/root       301 2018-05-06 07:18 ansible-role-ssmtp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-06 07:18 ansible-role-ssmtp-master/templates/
+-rw-rw-r-- root/root      1828 2018-05-06 07:18 ansible-role-ssmtp-master/templates/ssmtp.conf.j2
+drwxrwxr-x root/root         0 2018-05-06 07:18 ansible-role-ssmtp-master/tests/
+-rw-rw-r-- root/root        48 2018-05-06 07:18 ansible-role-ssmtp-master/tests/test.yml

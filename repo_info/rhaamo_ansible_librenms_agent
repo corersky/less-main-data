@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-02-19 17:00 ansible_librenms_agent-master/
+-rw-rw-r-- root/root       523 2019-02-19 17:00 ansible_librenms_agent-master/README.md
+drwxrwxr-x root/root         0 2019-02-19 17:00 ansible_librenms_agent-master/defaults/
+-rw-rw-r-- root/root       367 2019-02-19 17:00 ansible_librenms_agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-19 17:00 ansible_librenms_agent-master/meta/
+-rw-rw-r-- root/root       498 2019-02-19 17:00 ansible_librenms_agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-19 17:00 ansible_librenms_agent-master/tasks/
+-rw-rw-r-- root/root      1759 2019-02-19 17:00 ansible_librenms_agent-master/tasks/install-agent.yml
+-rw-rw-r-- root/root       175 2019-02-19 17:00 ansible_librenms_agent-master/tasks/main.yml
+-rw-rw-r-- root/root       163 2019-02-19 17:00 ansible_librenms_agent-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       126 2019-02-19 17:00 ansible_librenms_agent-master/tasks/setup-RedHat.yml

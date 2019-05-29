@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-07-31 10:45 role-ferm-firewall-master/
+-rw-rw-r-- root/root       200 2017-07-31 10:45 role-ferm-firewall-master/Changelog
+-rw-rw-r-- root/root      4418 2017-07-31 10:45 role-ferm-firewall-master/README.md
+-rw-rw-r-- root/root         6 2017-07-31 10:45 role-ferm-firewall-master/VERSION
+drwxrwxr-x root/root         0 2017-07-31 10:45 role-ferm-firewall-master/defaults/
+-rw-rw-r-- root/root      1174 2017-07-31 10:45 role-ferm-firewall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-31 10:45 role-ferm-firewall-master/handlers/
+-rw-rw-r-- root/root        98 2017-07-31 10:45 role-ferm-firewall-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-31 10:45 role-ferm-firewall-master/meta/
+-rw-rw-r-- root/root       256 2017-07-31 10:45 role-ferm-firewall-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-31 10:45 role-ferm-firewall-master/tasks/
+-rw-rw-r-- root/root      1585 2017-07-31 10:45 role-ferm-firewall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-31 10:45 role-ferm-firewall-master/templates/
+-rw-rw-r-- root/root       472 2017-07-31 10:45 role-ferm-firewall-master/templates/ferm.conf.j2
+drwxrwxr-x root/root         0 2017-07-31 10:45 role-ferm-firewall-master/tests/
+-rw-rw-r-- root/root        35 2017-07-31 10:45 role-ferm-firewall-master/tests/inventory
+-rw-rw-r-- root/root       757 2017-07-31 10:45 role-ferm-firewall-master/tests/test.yml

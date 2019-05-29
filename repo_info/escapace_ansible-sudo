@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/
+-rw-rw-r-- root/root        72 2018-10-17 06:07 ansible-sudo-master/.gitignore
+-rw-rw-r-- root/root     11317 2018-10-17 06:07 ansible-sudo-master/LICENSE
+-rw-rw-r-- root/root       320 2018-10-17 06:07 ansible-sudo-master/README.md
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/defaults/
+-rw-rw-r-- root/root         5 2018-10-17 06:07 ansible-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/handlers/
+-rw-rw-r-- root/root         4 2018-10-17 06:07 ansible-sudo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/meta/
+-rw-rw-r-- root/root       340 2018-10-17 06:07 ansible-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/tasks/
+-rw-rw-r-- root/root       467 2018-10-17 06:07 ansible-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/templates/
+-rw-rw-r-- root/root       621 2018-10-17 06:07 ansible-sudo-master/templates/sudoers.j2
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/tests/
+-rw-rw-r-- root/root       133 2018-10-17 06:07 ansible-sudo-master/tests/inventory
+-rw-rw-r-- root/root        58 2018-10-17 06:07 ansible-sudo-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-10-17 06:07 ansible-sudo-master/tests/roles/escapace.sudo -> ../../
+-rw-rw-r-- root/root       207 2018-10-17 06:07 ansible-sudo-master/tests/teardown.yml
+-rw-rw-r-- root/root       217 2018-10-17 06:07 ansible-sudo-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-17 06:07 ansible-sudo-master/vars/
+-rw-rw-r-- root/root         4 2018-10-17 06:07 ansible-sudo-master/vars/main.yml

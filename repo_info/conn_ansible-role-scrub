@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-03 10:54 ansible-role-scrub-master/
+-rw-rw-r-- root/root      1514 2017-12-03 10:54 ansible-role-scrub-master/LICENSE
+-rw-rw-r-- root/root        46 2017-12-03 10:54 ansible-role-scrub-master/README.md
+drwxrwxr-x root/root         0 2017-12-03 10:54 ansible-role-scrub-master/defaults/
+-rw-rw-r-- root/root        62 2017-12-03 10:54 ansible-role-scrub-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-03 10:54 ansible-role-scrub-master/meta/
+-rw-rw-r-- root/root       256 2017-12-03 10:54 ansible-role-scrub-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-03 10:54 ansible-role-scrub-master/tasks/
+-rw-rw-r-- root/root       299 2017-12-03 10:54 ansible-role-scrub-master/tasks/build.yml
+drwxrwxr-x root/root         0 2017-12-03 10:54 ansible-role-scrub-master/tasks/build/
+-rw-rw-r-- root/root       225 2017-12-03 10:54 ansible-role-scrub-master/tasks/build/directory.yml
+-rw-rw-r-- root/root        45 2017-12-03 10:54 ansible-role-scrub-master/tasks/main.yml

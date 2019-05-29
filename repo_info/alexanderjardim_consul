@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-05-04 17:27 consul-master/
+-rw-rw-r-- root/root      6148 2014-05-04 17:27 consul-master/.DS_Store
+-rw-rw-r-- root/root       562 2014-05-04 17:27 consul-master/.gitignore
+-rw-rw-r-- root/root      1761 2014-05-04 17:27 consul-master/README.md
+drwxrwxr-x root/root         0 2014-05-04 17:27 consul-master/defaults/
+-rw-rw-r-- root/root       127 2014-05-04 17:27 consul-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-05-04 17:27 consul-master/handlers/
+-rw-rw-r-- root/root       168 2014-05-04 17:27 consul-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-04 17:27 consul-master/meta/
+-rw-rw-r-- root/root      2080 2014-05-04 17:27 consul-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-04 17:27 consul-master/tasks/
+-rw-rw-r-- root/root       915 2014-05-04 17:27 consul-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-05-04 17:27 consul-master/test/
+-rw-rw-r-- root/root       282 2014-05-04 17:27 consul-master/test/Vagrantfile
+-rw-rw-r-- root/root       157 2014-05-04 17:27 consul-master/test/playbook.yml
+drwxrwxr-x root/root         0 2014-05-04 17:27 consul-master/vars/
+-rw-rw-r-- root/root        27 2014-05-04 17:27 consul-master/vars/main.yml

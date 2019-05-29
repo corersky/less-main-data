@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-03 00:42 ansible-osx-sudoers-master/
+-rw-rw-r-- root/root       713 2016-02-03 00:42 ansible-osx-sudoers-master/.gitignore
+-rw-rw-r-- root/root       497 2016-02-03 00:42 ansible-osx-sudoers-master/.travis.yml
+-rw-rw-r-- root/root       924 2016-02-03 00:42 ansible-osx-sudoers-master/README.md
+drwxrwxr-x root/root         0 2016-02-03 00:42 ansible-osx-sudoers-master/defaults/
+-rw-rw-r-- root/root       487 2016-02-03 00:42 ansible-osx-sudoers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-03 00:42 ansible-osx-sudoers-master/meta/
+-rw-rw-r-- root/root       251 2016-02-03 00:42 ansible-osx-sudoers-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-03 00:42 ansible-osx-sudoers-master/tasks/
+-rw-rw-r-- root/root       181 2016-02-03 00:42 ansible-osx-sudoers-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-03 00:42 ansible-osx-sudoers-master/templates/
+drwxrwxr-x root/root         0 2016-02-03 00:42 ansible-osx-sudoers-master/templates/etc/
+-rw-rw-r-- root/root      2343 2016-02-03 00:42 ansible-osx-sudoers-master/templates/etc/sudoers.j2
+drwxrwxr-x root/root         0 2016-02-03 00:42 ansible-osx-sudoers-master/tests/
+-rw-rw-r-- root/root         9 2016-02-03 00:42 ansible-osx-sudoers-master/tests/inventory
+-rw-rw-r-- root/root         3 2016-02-03 00:42 ansible-osx-sudoers-master/tests/requirements.yml
+-rw-rw-r-- root/root        77 2016-02-03 00:42 ansible-osx-sudoers-master/tests/travis.yml

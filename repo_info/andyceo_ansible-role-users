@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-08 11:26 ansible-role-users-master/
+-rw-rw-r-- root/root        32 2019-01-08 11:26 ansible-role-users-master/.gitignore
+-rw-rw-r-- root/root       117 2019-01-08 11:26 ansible-role-users-master/.travis.yml
+-rw-rw-r-- root/root      1794 2019-01-08 11:26 ansible-role-users-master/README.md
+drwxrwxr-x root/root         0 2019-01-08 11:26 ansible-role-users-master/defaults/
+-rw-rw-r-- root/root        99 2019-01-08 11:26 ansible-role-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-08 11:26 ansible-role-users-master/meta/
+-rw-rw-r-- root/root       279 2019-01-08 11:26 ansible-role-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-08 11:26 ansible-role-users-master/tasks/
+-rw-rw-r-- root/root      3534 2019-01-08 11:26 ansible-role-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-08 11:26 ansible-role-users-master/templates/
+-rw-rw-r-- root/root       953 2019-01-08 11:26 ansible-role-users-master/templates/ssh_user_config.j2
+-rw-rw-r-- root/root        70 2019-01-08 11:26 ansible-role-users-master/templates/sudoers.j2

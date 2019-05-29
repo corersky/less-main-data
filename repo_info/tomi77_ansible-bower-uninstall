@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-uninstall-master/
+-rw-rw-r-- root/root        58 2018-05-14 03:52 ansible-bower-uninstall-master/.gitignore
+-rw-rw-r-- root/root      1073 2018-05-14 03:52 ansible-bower-uninstall-master/LICENSE
+-rw-rw-r-- root/root       796 2018-05-14 03:52 ansible-bower-uninstall-master/README.md
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-uninstall-master/defaults/
+-rw-rw-r-- root/root        44 2018-05-14 03:52 ansible-bower-uninstall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-uninstall-master/meta/
+-rw-rw-r-- root/root       415 2018-05-14 03:52 ansible-bower-uninstall-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-uninstall-master/tasks/
+-rw-rw-r-- root/root       136 2018-05-14 03:52 ansible-bower-uninstall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-14 03:52 ansible-bower-uninstall-master/tests/
+-rw-rw-r-- root/root        30 2018-05-14 03:52 ansible-bower-uninstall-master/tests/bower.json
+-rw-rw-r-- root/root        10 2018-05-14 03:52 ansible-bower-uninstall-master/tests/inventory
+-rw-rw-r-- root/root       196 2018-05-14 03:52 ansible-bower-uninstall-master/tests/main.yml
+-rw-rw-r-- root/root        72 2018-05-14 03:52 ansible-bower-uninstall-master/tests/package.json

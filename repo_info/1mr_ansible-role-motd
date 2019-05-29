@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2019-03-24 05:53 ansible-role-motd-master/
+-rw-rw-r-- root/root       387 2019-03-24 05:53 ansible-role-motd-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 05:53 ansible-role-motd-master/meta/
+-rw-rw-r-- root/root       269 2019-03-24 05:53 ansible-role-motd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:53 ansible-role-motd-master/tasks/
+-rw-rw-r-- root/root       409 2019-03-24 05:53 ansible-role-motd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:53 ansible-role-motd-master/templates/
+-rw-rw-r-- root/root       514 2019-03-24 05:53 ansible-role-motd-master/templates/00-header.j2
+-rw-rw-r-- root/root       113 2019-03-24 05:53 ansible-role-motd-master/templates/motd.j2

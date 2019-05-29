@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/
+-rw-rw-r-- root/root      1461 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/README.md
+drwxrwxr-x root/root         0 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/defaults/
+-rw-rw-r-- root/root       107 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/meta/
+-rw-rw-r-- root/root       702 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/tasks/
+-rw-rw-r-- root/root      2846 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/tasks/gcp.yml
+-rw-rw-r-- root/root       291 2019-01-02 14:18 ansible-role-cloud-ssh-public-key-scrape-master/tasks/main.yml

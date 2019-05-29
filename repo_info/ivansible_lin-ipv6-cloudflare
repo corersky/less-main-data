@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-10 18:04 lin-ipv6-cloudflare-master/
+-rw-rw-r-- root/root        26 2019-01-10 18:04 lin-ipv6-cloudflare-master/.gitignore
+-rw-rw-r-- root/root       870 2019-01-10 18:04 lin-ipv6-cloudflare-master/README.md
+drwxrwxr-x root/root         0 2019-01-10 18:04 lin-ipv6-cloudflare-master/defaults/
+-rw-rw-r-- root/root       269 2019-01-10 18:04 lin-ipv6-cloudflare-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-10 18:04 lin-ipv6-cloudflare-master/handlers/
+-rw-rw-r-- root/root       183 2019-01-10 18:04 lin-ipv6-cloudflare-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-10 18:04 lin-ipv6-cloudflare-master/meta/
+-rw-rw-r-- root/root       367 2019-01-10 18:04 lin-ipv6-cloudflare-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-10 18:04 lin-ipv6-cloudflare-master/tasks/
+-rw-rw-r-- root/root       194 2019-01-10 18:04 lin-ipv6-cloudflare-master/tasks/main.yml
+-rw-rw-r-- root/root      2610 2019-01-10 18:04 lin-ipv6-cloudflare-master/tasks/root.yml
+drwxrwxr-x root/root         0 2019-01-10 18:04 lin-ipv6-cloudflare-master/tests/
+-rw-rw-r-- root/root        10 2019-01-10 18:04 lin-ipv6-cloudflare-master/tests/inventory
+-rw-rw-r-- root/root        96 2019-01-10 18:04 lin-ipv6-cloudflare-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-10 18:04 lin-ipv6-cloudflare-master/vars/
+-rw-rw-r-- root/root        50 2019-01-10 18:04 lin-ipv6-cloudflare-master/vars/main.yml

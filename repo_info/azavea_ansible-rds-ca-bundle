@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-03-11 12:20 ansible-rds-ca-bundle-master/
+-rw-rw-r-- root/root         9 2015-03-11 12:20 ansible-rds-ca-bundle-master/.gitignore
+-rw-rw-r-- root/root        29 2015-03-11 12:20 ansible-rds-ca-bundle-master/CHANGELOG.md
+-rw-rw-r-- root/root       997 2015-03-11 12:20 ansible-rds-ca-bundle-master/README.md
+drwxrwxr-x root/root         0 2015-03-11 12:20 ansible-rds-ca-bundle-master/defaults/
+-rw-rw-r-- root/root        90 2015-03-11 12:20 ansible-rds-ca-bundle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-11 12:20 ansible-rds-ca-bundle-master/examples/
+-rw-rw-r-- root/root       278 2015-03-11 12:20 ansible-rds-ca-bundle-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-03-11 12:20 ansible-rds-ca-bundle-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-03-11 12:20 ansible-rds-ca-bundle-master/examples/roles/azavea.rds-ca-bundle -> ../../
+-rw-rw-r-- root/root        65 2015-03-11 12:20 ansible-rds-ca-bundle-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-03-11 12:20 ansible-rds-ca-bundle-master/meta/
+-rw-rw-r-- root/root       319 2015-03-11 12:20 ansible-rds-ca-bundle-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-11 12:20 ansible-rds-ca-bundle-master/tasks/
+-rw-rw-r-- root/root       300 2015-03-11 12:20 ansible-rds-ca-bundle-master/tasks/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-21 10:14 ansible-certbot-master/
+-rw-rw-r-- root/root      1084 2017-06-21 10:14 ansible-certbot-master/LICENSE
+-rw-rw-r-- root/root      1458 2017-06-21 10:14 ansible-certbot-master/README.md
+drwxrwxr-x root/root         0 2017-06-21 10:14 ansible-certbot-master/defaults/
+-rw-rw-r-- root/root       699 2017-06-21 10:14 ansible-certbot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-21 10:14 ansible-certbot-master/meta/
+-rw-rw-r-- root/root       398 2017-06-21 10:14 ansible-certbot-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-21 10:14 ansible-certbot-master/tasks/
+-rw-rw-r-- root/root      2666 2017-06-21 10:14 ansible-certbot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-21 10:14 ansible-certbot-master/templates/
+drwxrwxr-x root/root         0 2017-06-21 10:14 ansible-certbot-master/templates/data/
+drwxrwxr-x root/root         0 2017-06-21 10:14 ansible-certbot-master/templates/data/www/
+-rw-rw-r-- root/root        65 2017-06-21 10:14 ansible-certbot-master/templates/data/www/ssl.combined
+-rw-rw-r-- root/root        32 2017-06-21 10:14 ansible-certbot-master/templates/data/www/ssl.crt
+-rw-rw-r-- root/root        33 2017-06-21 10:14 ansible-certbot-master/templates/data/www/ssl.key

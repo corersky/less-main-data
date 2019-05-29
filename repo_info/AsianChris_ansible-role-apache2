@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-13 08:38 ansible-role-apache2-master/
+-rw-rw-r-- root/root        76 2018-09-13 08:38 ansible-role-apache2-master/README.md
+drwxrwxr-x root/root         0 2018-09-13 08:38 ansible-role-apache2-master/defaults/
+-rw-rw-r-- root/root       666 2018-09-13 08:38 ansible-role-apache2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-13 08:38 ansible-role-apache2-master/handlers/
+-rw-rw-r-- root/root       424 2018-09-13 08:38 ansible-role-apache2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-13 08:38 ansible-role-apache2-master/meta/
+-rw-rw-r-- root/root       347 2018-09-13 08:38 ansible-role-apache2-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-13 08:38 ansible-role-apache2-master/tasks/
+-rw-rw-r-- root/root       607 2018-09-13 08:38 ansible-role-apache2-master/tasks/main.yml
+-rw-rw-r-- root/root      1128 2018-09-13 08:38 ansible-role-apache2-master/tasks/vhost.yml
+drwxrwxr-x root/root         0 2018-09-13 08:38 ansible-role-apache2-master/templates/
+-rw-rw-r-- root/root       280 2018-09-13 08:38 ansible-role-apache2-master/templates/ports.conf.j2
+-rw-rw-r-- root/root       866 2018-09-13 08:38 ansible-role-apache2-master/templates/vhost.conf.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-01 07:12 ansible-docker-container-master/
+-rw-rw-r-- root/root       539 2016-08-01 07:12 ansible-docker-container-master/.travis.yml
+-rw-rw-r-- root/root      1067 2016-08-01 07:12 ansible-docker-container-master/LICENSE
+-rw-rw-r-- root/root       574 2016-08-01 07:12 ansible-docker-container-master/README.md
+drwxrwxr-x root/root         0 2016-08-01 07:12 ansible-docker-container-master/defaults/
+-rw-rw-r-- root/root       190 2016-08-01 07:12 ansible-docker-container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-01 07:12 ansible-docker-container-master/meta/
+-rw-rw-r-- root/root       107 2016-08-01 07:12 ansible-docker-container-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-01 07:12 ansible-docker-container-master/tasks/
+-rw-rw-r-- root/root      2344 2016-08-01 07:12 ansible-docker-container-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-01 07:12 ansible-docker-container-master/templates/
+-rw-rw-r-- root/root       331 2016-08-01 07:12 ansible-docker-container-master/templates/upstart.j2
+drwxrwxr-x root/root         0 2016-08-01 07:12 ansible-docker-container-master/tests/
+-rw-rw-r-- root/root         9 2016-08-01 07:12 ansible-docker-container-master/tests/inventory
+-rw-rw-r-- root/root        83 2016-08-01 07:12 ansible-docker-container-master/tests/test.yml

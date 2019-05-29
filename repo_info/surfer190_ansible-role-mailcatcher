@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-17 07:15 ansible-role-mailcatcher-master/
+-rw-rw-r-- root/root       825 2016-07-17 07:15 ansible-role-mailcatcher-master/README.md
+drwxrwxr-x root/root         0 2016-07-17 07:15 ansible-role-mailcatcher-master/defaults/
+-rw-rw-r-- root/root       389 2016-07-17 07:15 ansible-role-mailcatcher-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-17 07:15 ansible-role-mailcatcher-master/handlers/
+-rw-rw-r-- root/root       279 2016-07-17 07:15 ansible-role-mailcatcher-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-17 07:15 ansible-role-mailcatcher-master/meta/
+-rw-rw-r-- root/root       394 2016-07-17 07:15 ansible-role-mailcatcher-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-17 07:15 ansible-role-mailcatcher-master/tasks/
+-rw-rw-r-- root/root       177 2016-07-17 07:15 ansible-role-mailcatcher-master/tasks/create_user.yml
+-rw-rw-r-- root/root       656 2016-07-17 07:15 ansible-role-mailcatcher-master/tasks/install_mailcatcher.yml
+-rw-rw-r-- root/root        66 2016-07-17 07:15 ansible-role-mailcatcher-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-17 07:15 ansible-role-mailcatcher-master/templates/
+-rw-rw-r-- root/root       544 2016-07-17 07:15 ansible-role-mailcatcher-master/templates/mailcatcher.j2
+drwxrwxr-x root/root         0 2016-07-17 07:15 ansible-role-mailcatcher-master/vars/
+-rw-rw-r-- root/root        37 2016-07-17 07:15 ansible-role-mailcatcher-master/vars/main.yml

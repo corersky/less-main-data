@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-08-17 09:40 ansible-role-bash-completion-master/
+-rw-rw-r-- root/root        70 2017-08-17 09:40 ansible-role-bash-completion-master/.gitignore
+-rw-rw-r-- root/root       274 2017-08-17 09:40 ansible-role-bash-completion-master/.travis.yml
+-rw-rw-r-- root/root       581 2017-08-17 09:40 ansible-role-bash-completion-master/README.md
+drwxrwxr-x root/root         0 2017-08-17 09:40 ansible-role-bash-completion-master/meta/
+-rw-rw-r-- root/root       409 2017-08-17 09:40 ansible-role-bash-completion-master/meta/main.yml
+-rw-rw-r-- root/root       655 2017-08-17 09:40 ansible-role-bash-completion-master/molecule.yml
+-rw-rw-r-- root/root        61 2017-08-17 09:40 ansible-role-bash-completion-master/playbook.yml
+drwxrwxr-x root/root         0 2017-08-17 09:40 ansible-role-bash-completion-master/tasks/
+-rw-rw-r-- root/root        94 2017-08-17 09:40 ansible-role-bash-completion-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-17 09:40 ansible-role-bash-completion-master/tests/
+-rw-rw-r-- root/root        11 2017-08-17 09:40 ansible-role-bash-completion-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-08-17 09:40 ansible-role-bash-completion-master/tests/test.yml
+-rw-rw-r-- root/root       389 2017-08-17 09:40 ansible-role-bash-completion-master/tests/test_default.py

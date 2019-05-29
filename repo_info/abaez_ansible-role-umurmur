@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-04-27 13:13 ansible-role-umurmur-master/
+-rw-rw-r-- root/root       539 2016-04-27 13:13 ansible-role-umurmur-master/.travis.yml
+-rw-rw-r-- root/root      1319 2016-04-27 13:13 ansible-role-umurmur-master/LICENSE
+-rw-rw-r-- root/root      1819 2016-04-27 13:13 ansible-role-umurmur-master/README.md
+drwxrwxr-x root/root         0 2016-04-27 13:13 ansible-role-umurmur-master/defaults/
+-rw-rw-r-- root/root       167 2016-04-27 13:13 ansible-role-umurmur-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-27 13:13 ansible-role-umurmur-master/meta/
+-rw-rw-r-- root/root      1392 2016-04-27 13:13 ansible-role-umurmur-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-27 13:13 ansible-role-umurmur-master/tasks/
+-rw-rw-r-- root/root       513 2016-04-27 13:13 ansible-role-umurmur-master/tasks/main.yml
+-rw-rw-r-- root/root       245 2016-04-27 13:13 ansible-role-umurmur-master/tasks/run.yml
+drwxrwxr-x root/root         0 2016-04-27 13:13 ansible-role-umurmur-master/templates/
+-rw-rw-r-- root/root       582 2016-04-27 13:13 ansible-role-umurmur-master/templates/murmur.j2
+-rw-rw-r-- root/root      1944 2016-04-27 13:13 ansible-role-umurmur-master/templates/umurmur.conf.j2
+drwxrwxr-x root/root         0 2016-04-27 13:13 ansible-role-umurmur-master/tests/
+-rw-rw-r-- root/root         9 2016-04-27 13:13 ansible-role-umurmur-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-04-27 13:13 ansible-role-umurmur-master/tests/test.yml

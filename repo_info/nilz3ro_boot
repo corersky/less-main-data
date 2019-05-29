@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-13 09:41 boot-master/
+-rw-rw-r-- root/root      1328 2018-04-13 09:41 boot-master/README.md
+drwxrwxr-x root/root         0 2018-04-13 09:41 boot-master/defaults/
+-rw-rw-r-- root/root        28 2018-04-13 09:41 boot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-13 09:41 boot-master/handlers/
+-rw-rw-r-- root/root        28 2018-04-13 09:41 boot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-13 09:41 boot-master/meta/
+-rw-rw-r-- root/root      1630 2018-04-13 09:41 boot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-13 09:41 boot-master/tasks/
+-rw-rw-r-- root/root       974 2018-04-13 09:41 boot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-13 09:41 boot-master/tests/
+-rw-rw-r-- root/root        11 2018-04-13 09:41 boot-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-04-13 09:41 boot-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-13 09:41 boot-master/vars/
+-rw-rw-r-- root/root        24 2018-04-13 09:41 boot-master/vars/main.yml

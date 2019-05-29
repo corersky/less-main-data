@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-docker-systemd-unit-master/
+-rw-rw-r-- root/root      1084 2016-03-09 14:38 ansible-docker-systemd-unit-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-03-09 14:38 ansible-docker-systemd-unit-master/README.md
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-docker-systemd-unit-master/defaults/
+-rw-rw-r-- root/root       291 2016-03-09 14:38 ansible-docker-systemd-unit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-docker-systemd-unit-master/meta/
+-rw-rw-r-- root/root       428 2016-03-09 14:38 ansible-docker-systemd-unit-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-docker-systemd-unit-master/tasks/
+-rw-rw-r-- root/root       281 2016-03-09 14:38 ansible-docker-systemd-unit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-docker-systemd-unit-master/templates/
+-rw-rw-r-- root/root       430 2016-03-09 14:38 ansible-docker-systemd-unit-master/templates/unit.j2
+drwxrwxr-x root/root         0 2016-03-09 14:38 ansible-docker-systemd-unit-master/vars/
+-rw-rw-r-- root/root        60 2016-03-09 14:38 ansible-docker-systemd-unit-master/vars/main.yml

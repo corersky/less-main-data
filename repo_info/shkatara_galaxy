@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-02 02:56 galaxy-master/
+-rw-rw-r-- root/root      1328 2019-05-02 02:56 galaxy-master/README.md
+drwxrwxr-x root/root         0 2019-05-02 02:56 galaxy-master/defaults/
+-rw-rw-r-- root/root        28 2019-05-02 02:56 galaxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-02 02:56 galaxy-master/handlers/
+-rw-rw-r-- root/root        28 2019-05-02 02:56 galaxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-02 02:56 galaxy-master/meta/
+-rw-rw-r-- root/root      1973 2019-05-02 02:56 galaxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-02 02:56 galaxy-master/tasks/
+-rw-rw-r-- root/root        25 2019-05-02 02:56 galaxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-02 02:56 galaxy-master/tests/
+-rw-rw-r-- root/root        11 2019-05-02 02:56 galaxy-master/tests/inventory
+-rw-rw-r-- root/root        62 2019-05-02 02:56 galaxy-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-02 02:56 galaxy-master/vars/
+-rw-rw-r-- root/root        24 2019-05-02 02:56 galaxy-master/vars/main.yml

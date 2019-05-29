@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-28 10:26 ansible-role-ops_tools-master/
+-rw-rw-r-- root/root     18047 2019-04-28 10:26 ansible-role-ops_tools-master/LICENSE
+-rw-rw-r-- root/root       874 2019-04-28 10:26 ansible-role-ops_tools-master/README.md
+drwxrwxr-x root/root         0 2019-04-28 10:26 ansible-role-ops_tools-master/defaults/
+-rw-rw-r-- root/root        66 2019-04-28 10:26 ansible-role-ops_tools-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-28 10:26 ansible-role-ops_tools-master/files/
+drwxrwxr-x root/root         0 2019-04-28 10:26 ansible-role-ops_tools-master/files/usr/
+drwxrwxr-x root/root         0 2019-04-28 10:26 ansible-role-ops_tools-master/files/usr/local/
+drwxrwxr-x root/root         0 2019-04-28 10:26 ansible-role-ops_tools-master/files/usr/local/bin/
+-rwxrwxr-x root/root      3996 2019-04-28 10:26 ansible-role-ops_tools-master/files/usr/local/bin/usereport.py
+drwxrwxr-x root/root         0 2019-04-28 10:26 ansible-role-ops_tools-master/meta/
+-rw-rw-r-- root/root       275 2019-04-28 10:26 ansible-role-ops_tools-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-28 10:26 ansible-role-ops_tools-master/tasks/
+-rw-rw-r-- root/root       754 2019-04-28 10:26 ansible-role-ops_tools-master/tasks/main.yml

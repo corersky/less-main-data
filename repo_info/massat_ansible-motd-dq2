@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-04-02 00:25 ansible-motd-dq2-master/
+-rw-rw-r-- root/root         9 2014-04-02 00:25 ansible-motd-dq2-master/.gitignore
+-rw-rw-r-- root/root      1433 2014-04-02 00:25 ansible-motd-dq2-master/README.md
+-rw-rw-r-- root/root      4683 2014-04-02 00:25 ansible-motd-dq2-master/Vagrantfile
+drwxrwxr-x root/root         0 2014-04-02 00:25 ansible-motd-dq2-master/defaults/
+-rw-rw-r-- root/root        64 2014-04-02 00:25 ansible-motd-dq2-master/defaults/main.yml
+-rw-rw-r-- root/root       166 2014-04-02 00:25 ansible-motd-dq2-master/example.yml
+-rw-rw-r-- root/root       151 2014-04-02 00:25 ansible-motd-dq2-master/example_inventry
+drwxrwxr-x root/root         0 2014-04-02 00:25 ansible-motd-dq2-master/handlers/
+-rw-rw-r-- root/root        41 2014-04-02 00:25 ansible-motd-dq2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-04-02 00:25 ansible-motd-dq2-master/meta/
+-rw-rw-r-- root/root      2098 2014-04-02 00:25 ansible-motd-dq2-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-02 00:25 ansible-motd-dq2-master/tasks/
+-rw-rw-r-- root/root       195 2014-04-02 00:25 ansible-motd-dq2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-04-02 00:25 ansible-motd-dq2-master/vars/
+-rw-rw-r-- root/root      1600 2014-04-02 00:25 ansible-motd-dq2-master/vars/main.yml

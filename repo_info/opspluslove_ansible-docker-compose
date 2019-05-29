@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-10-29 05:01 ansible-docker-compose-master/
+-rw-rw-r-- root/root       539 2016-10-29 05:01 ansible-docker-compose-master/.travis.yml
+-rw-rw-r-- root/root      1108 2016-10-29 05:01 ansible-docker-compose-master/LICENSE
+-rw-rw-r-- root/root       805 2016-10-29 05:01 ansible-docker-compose-master/README.md
+drwxrwxr-x root/root         0 2016-10-29 05:01 ansible-docker-compose-master/defaults/
+-rw-rw-r-- root/root       327 2016-10-29 05:01 ansible-docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-29 05:01 ansible-docker-compose-master/meta/
+-rw-rw-r-- root/root       282 2016-10-29 05:01 ansible-docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-29 05:01 ansible-docker-compose-master/tasks/
+-rw-rw-r-- root/root       381 2016-10-29 05:01 ansible-docker-compose-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-29 05:01 ansible-docker-compose-master/tests/
+-rw-rw-r-- root/root         9 2016-10-29 05:01 ansible-docker-compose-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-10-29 05:01 ansible-docker-compose-master/tests/test.yml

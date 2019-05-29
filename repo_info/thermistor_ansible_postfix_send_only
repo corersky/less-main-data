@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-25 20:36 ansible_postfix_send_only-master/
+-rw-rw-r-- root/root       539 2018-10-25 20:36 ansible_postfix_send_only-master/.travis.yml
+-rw-rw-r-- root/root      1084 2018-10-25 20:36 ansible_postfix_send_only-master/LICENSE
+-rw-rw-r-- root/root       595 2018-10-25 20:36 ansible_postfix_send_only-master/README.md
+drwxrwxr-x root/root         0 2018-10-25 20:36 ansible_postfix_send_only-master/defaults/
+-rw-rw-r-- root/root        63 2018-10-25 20:36 ansible_postfix_send_only-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-25 20:36 ansible_postfix_send_only-master/handlers/
+-rw-rw-r-- root/root        83 2018-10-25 20:36 ansible_postfix_send_only-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-25 20:36 ansible_postfix_send_only-master/meta/
+-rw-rw-r-- root/root       312 2018-10-25 20:36 ansible_postfix_send_only-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-25 20:36 ansible_postfix_send_only-master/tasks/
+-rw-rw-r-- root/root       636 2018-10-25 20:36 ansible_postfix_send_only-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-25 20:36 ansible_postfix_send_only-master/templates/
+-rw-rw-r-- root/root      1397 2018-10-25 20:36 ansible_postfix_send_only-master/templates/main.cf.j2
+drwxrwxr-x root/root         0 2018-10-25 20:36 ansible_postfix_send_only-master/tests/
+-rw-rw-r-- root/root         9 2018-10-25 20:36 ansible_postfix_send_only-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-10-25 20:36 ansible_postfix_send_only-master/tests/test.yml

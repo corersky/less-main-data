@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-07 09:29 ansible-percona-server-master/
+-rw-rw-r-- root/root        17 2017-04-07 09:29 ansible-percona-server-master/.gitignore
+-rw-rw-r-- root/root      1150 2017-04-07 09:29 ansible-percona-server-master/.travis.yml
+-rw-rw-r-- root/root      1082 2017-04-07 09:29 ansible-percona-server-master/LICENSE
+-rw-rw-r-- root/root      1616 2017-04-07 09:29 ansible-percona-server-master/README.md
+-rw-rw-r-- root/root       737 2017-04-07 09:29 ansible-percona-server-master/Vagrantfile
+drwxrwxr-x root/root         0 2017-04-07 09:29 ansible-percona-server-master/defaults/
+-rw-rw-r-- root/root       112 2017-04-07 09:29 ansible-percona-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-07 09:29 ansible-percona-server-master/handlers/
+-rw-rw-r-- root/root       231 2017-04-07 09:29 ansible-percona-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-07 09:29 ansible-percona-server-master/meta/
+-rw-rw-r-- root/root       488 2017-04-07 09:29 ansible-percona-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-07 09:29 ansible-percona-server-master/tasks/
+-rw-rw-r-- root/root      2289 2017-04-07 09:29 ansible-percona-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-07 09:29 ansible-percona-server-master/tests/
+-rw-rw-r-- root/root       370 2017-04-07 09:29 ansible-percona-server-master/tests/play.yml

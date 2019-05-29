@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-07-05 09:54 ansible-localcloud-docker-master/
+-rw-rw-r-- root/root      2302 2016-07-05 09:54 ansible-localcloud-docker-master/README.md
+drwxrwxr-x root/root         0 2016-07-05 09:54 ansible-localcloud-docker-master/defaults/
+-rw-rw-r-- root/root        22 2016-07-05 09:54 ansible-localcloud-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-05 09:54 ansible-localcloud-docker-master/files/
+-rw-rw-r-- root/root      1132 2016-07-05 09:54 ansible-localcloud-docker-master/files/docker_helpers.sh
+drwxrwxr-x root/root         0 2016-07-05 09:54 ansible-localcloud-docker-master/handlers/
+-rw-rw-r-- root/root       127 2016-07-05 09:54 ansible-localcloud-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-05 09:54 ansible-localcloud-docker-master/meta/
+-rw-rw-r-- root/root       315 2016-07-05 09:54 ansible-localcloud-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-05 09:54 ansible-localcloud-docker-master/tasks/
+-rw-rw-r-- root/root      1691 2016-07-05 09:54 ansible-localcloud-docker-master/tasks/main.yml

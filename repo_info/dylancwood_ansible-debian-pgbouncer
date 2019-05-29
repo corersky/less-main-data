@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-06-14 16:53 ansible-debian-pgbouncer-master/
+-rw-rw-r-- root/root      1859 2015-06-14 16:53 ansible-debian-pgbouncer-master/README.md
+drwxrwxr-x root/root         0 2015-06-14 16:53 ansible-debian-pgbouncer-master/defaults/
+-rw-rw-r-- root/root      2003 2015-06-14 16:53 ansible-debian-pgbouncer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-14 16:53 ansible-debian-pgbouncer-master/handlers/
+-rw-rw-r-- root/root        26 2015-06-14 16:53 ansible-debian-pgbouncer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-14 16:53 ansible-debian-pgbouncer-master/meta/
+-rw-rw-r-- root/root      2300 2015-06-14 16:53 ansible-debian-pgbouncer-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-14 16:53 ansible-debian-pgbouncer-master/tasks/
+-rw-rw-r-- root/root      1057 2015-06-14 16:53 ansible-debian-pgbouncer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-14 16:53 ansible-debian-pgbouncer-master/templates/
+-rw-rw-r-- root/root      7802 2015-06-14 16:53 ansible-debian-pgbouncer-master/templates/pgbouncer.ini.j2
+-rw-rw-r-- root/root       114 2015-06-14 16:53 ansible-debian-pgbouncer-master/templates/userlist.txt.j2
+drwxrwxr-x root/root         0 2015-06-14 16:53 ansible-debian-pgbouncer-master/vars/
+-rw-rw-r-- root/root        22 2015-06-14 16:53 ansible-debian-pgbouncer-master/vars/main.yml

@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-04-16 07:17 filebeat-master/
+-rw-rw-r-- root/root       388 2019-04-16 07:17 filebeat-master/README.md
+drwxrwxr-x root/root         0 2019-04-16 07:17 filebeat-master/defaults/
+-rw-rw-r-- root/root       446 2019-04-16 07:17 filebeat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-16 07:17 filebeat-master/meta/
+-rw-rw-r-- root/root       287 2019-04-16 07:17 filebeat-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-16 07:17 filebeat-master/tasks/
+-rw-rw-r-- root/root       235 2019-04-16 07:17 filebeat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-16 07:17 filebeat-master/templates/
+-rw-rw-r-- root/root       919 2019-04-16 07:17 filebeat-master/templates/filebeat.yml.j2

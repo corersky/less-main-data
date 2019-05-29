@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-06-30 04:36 install-python-master/
+-rw-rw-r-- root/root       520 2018-06-30 04:36 install-python-master/.travis.yml
+-rw-rw-r-- root/root       876 2018-06-30 04:36 install-python-master/README.md
+drwxrwxr-x root/root         0 2018-06-30 04:36 install-python-master/meta/
+-rw-rw-r-- root/root       276 2018-06-30 04:36 install-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-30 04:36 install-python-master/tasks/
+-rw-rw-r-- root/root        41 2018-06-30 04:36 install-python-master/tasks/main.yml
+-rw-rw-r-- root/root       336 2018-06-30 04:36 install-python-master/tasks/tasks.yml
+drwxrwxr-x root/root         0 2018-06-30 04:36 install-python-master/tests/
+-rw-rw-r-- root/root        10 2018-06-30 04:36 install-python-master/tests/inventory
+-rw-rw-r-- root/root        97 2018-06-30 04:36 install-python-master/tests/test.yml

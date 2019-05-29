@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-06 12:42 ansible-pulpito-master/
+-rw-rw-r-- root/root       485 2017-06-06 12:42 ansible-pulpito-master/README.rst
+drwxrwxr-x root/root         0 2017-06-06 12:42 ansible-pulpito-master/defaults/
+-rw-rw-r-- root/root        50 2017-06-06 12:42 ansible-pulpito-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-06 12:42 ansible-pulpito-master/meta/
+-rw-rw-r-- root/root       272 2017-06-06 12:42 ansible-pulpito-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-06 12:42 ansible-pulpito-master/tasks/
+-rw-rw-r-- root/root       216 2017-06-06 12:42 ansible-pulpito-master/tasks/apt_systems.yml
+-rw-rw-r-- root/root      2643 2017-06-06 12:42 ansible-pulpito-master/tasks/main.yml
+-rw-rw-r-- root/root       168 2017-06-06 12:42 ansible-pulpito-master/tasks/yum_systems.yml
+drwxrwxr-x root/root         0 2017-06-06 12:42 ansible-pulpito-master/vars/
+-rw-rw-r-- root/root       197 2017-06-06 12:42 ansible-pulpito-master/vars/apt_systems.yml
+-rw-rw-r-- root/root       191 2017-06-06 12:42 ansible-pulpito-master/vars/yum_systems.yml

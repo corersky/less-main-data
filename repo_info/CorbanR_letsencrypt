@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-02 11:32 letsencrypt-master/
+-rw-rw-r-- root/root       539 2018-06-02 11:32 letsencrypt-master/.travis.yml
+-rw-rw-r-- root/root      1463 2018-06-02 11:32 letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2018-06-02 11:32 letsencrypt-master/defaults/
+-rw-rw-r-- root/root       387 2018-06-02 11:32 letsencrypt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-02 11:32 letsencrypt-master/files/
+-rw-rw-r-- root/root       407 2018-06-02 11:32 letsencrypt-master/files/github_key.txt
+drwxrwxr-x root/root         0 2018-06-02 11:32 letsencrypt-master/meta/
+-rw-rw-r-- root/root       392 2018-06-02 11:32 letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-02 11:32 letsencrypt-master/tasks/
+-rw-rw-r-- root/root      2715 2018-06-02 11:32 letsencrypt-master/tasks/generate-crt.yml
+-rw-rw-r-- root/root      1286 2018-06-02 11:32 letsencrypt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-02 11:32 letsencrypt-master/templates/
+-rw-rw-r-- root/root      1094 2018-06-02 11:32 letsencrypt-master/templates/cli.ini.j2
+drwxrwxr-x root/root         0 2018-06-02 11:32 letsencrypt-master/tests/
+-rw-rw-r-- root/root         9 2018-06-02 11:32 letsencrypt-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-06-02 11:32 letsencrypt-master/tests/test.yml

@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/
+-rw-rw-r-- root/root       200 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/.travis.yml
+-rw-rw-r-- root/root      1390 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/README.md
+drwxrwxr-x root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/defaults/
+-rw-rw-r-- root/root       127 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/defaults/main.yml
+-rw-rw-r-- root/root       280 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/example.yml
+drwxrwxr-x root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/handlers/
+-rw-rw-r-- root/root        62 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/meta/
+-rw-rw-r-- root/root       340 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/meta/main.yml
+-rw-rw-r-- root/root        15 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/requirements.txt
+drwxrwxr-x root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/roles/
+lrwxrwxrwx root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/roles/modcloth.meetme-newrelic-plugin-agent -> ../
+drwxrwxr-x root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/tasks/
+-rw-rw-r-- root/root      1059 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/templates/
+-rw-rw-r-- root/root       264 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/templates/newrelic_plugin_agent.conf.j2
+drwxrwxr-x root/root         0 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/vars/
+-rw-rw-r-- root/root        58 2014-11-28 10:52 ansible-role-modcloth-meetme-newrelic-plugin-agent-master/vars/main.yml

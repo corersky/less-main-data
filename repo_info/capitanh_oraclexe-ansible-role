@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-23 16:14 oraclexe-ansible-role-master/
+-rw-rw-r-- root/root      1321 2019-04-23 16:14 oraclexe-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2019-04-23 16:14 oraclexe-ansible-role-master/defaults/
+-rw-rw-r-- root/root       335 2019-04-23 16:14 oraclexe-ansible-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-23 16:14 oraclexe-ansible-role-master/files/
+-rw-rw-r-- root/root       156 2019-04-23 16:14 oraclexe-ansible-role-master/files/oracle_env.sh
+-rw-rw-r-- root/root       190 2019-04-23 16:14 oraclexe-ansible-role-master/files/swap.sh
+drwxrwxr-x root/root         0 2019-04-23 16:14 oraclexe-ansible-role-master/library/
+-rw-rw-r-- root/root     17820 2019-04-23 16:14 oraclexe-ansible-role-master/library/oracle_user.py
+drwxrwxr-x root/root         0 2019-04-23 16:14 oraclexe-ansible-role-master/meta/
+-rw-rw-r-- root/root      1411 2019-04-23 16:14 oraclexe-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-23 16:14 oraclexe-ansible-role-master/tasks/
+-rw-rw-r-- root/root       367 2019-04-23 16:14 oraclexe-ansible-role-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       912 2019-04-23 16:14 oraclexe-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-23 16:14 oraclexe-ansible-role-master/templates/
+-rw-rw-r-- root/root        88 2019-04-23 16:14 oraclexe-ansible-role-master/templates/response.txt

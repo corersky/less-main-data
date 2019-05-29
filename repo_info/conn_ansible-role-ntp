@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-07-28 16:36 ansible-role-ntp-master/
+-rw-rw-r-- root/root      1514 2018-07-28 16:36 ansible-role-ntp-master/LICENSE
+-rw-rw-r-- root/root        46 2018-07-28 16:36 ansible-role-ntp-master/README.md
+drwxrwxr-x root/root         0 2018-07-28 16:36 ansible-role-ntp-master/defaults/
+-rw-rw-r-- root/root        27 2018-07-28 16:36 ansible-role-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:36 ansible-role-ntp-master/files/
+-rw-rw-r-- root/root       128 2018-07-28 16:36 ansible-role-ntp-master/files/ntp.conf
+drwxrwxr-x root/root         0 2018-07-28 16:36 ansible-role-ntp-master/meta/
+-rw-rw-r-- root/root       434 2018-07-28 16:36 ansible-role-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-28 16:36 ansible-role-ntp-master/tasks/
+-rw-rw-r-- root/root       470 2018-07-28 16:36 ansible-role-ntp-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2018-07-28 16:36 ansible-role-ntp-master/tasks/main.yml

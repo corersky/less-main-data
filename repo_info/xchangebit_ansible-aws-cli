@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-27 14:05 ansible-aws-cli-master/
+-rw-rw-r-- root/root       364 2016-12-27 14:05 ansible-aws-cli-master/README.md
+drwxrwxr-x root/root         0 2016-12-27 14:05 ansible-aws-cli-master/meta/
+-rw-rw-r-- root/root       394 2016-12-27 14:05 ansible-aws-cli-master/meta/main.yml
+-rw-rw-r-- root/root        89 2016-12-27 14:05 ansible-aws-cli-master/playbook.yml
+drwxrwxr-x root/root         0 2016-12-27 14:05 ansible-aws-cli-master/tasks/
+-rw-rw-r-- root/root      1034 2016-12-27 14:05 ansible-aws-cli-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-27 14:05 ansible-aws-cli-master/tests/
+-rw-rw-r-- root/root         9 2016-12-27 14:05 ansible-aws-cli-master/tests/inventory
+-rw-rw-r-- root/root        78 2016-12-27 14:05 ansible-aws-cli-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-27 14:05 ansible-aws-cli-master/vars/
+-rw-rw-r-- root/root       157 2016-12-27 14:05 ansible-aws-cli-master/vars/main.yml

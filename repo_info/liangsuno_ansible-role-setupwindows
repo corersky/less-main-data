@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-24 11:10 ansible-role-setupwindows-master/
+-rw-rw-r-- root/root      1328 2018-04-24 11:10 ansible-role-setupwindows-master/README.md
+drwxrwxr-x root/root         0 2018-04-24 11:10 ansible-role-setupwindows-master/defaults/
+-rw-rw-r-- root/root        49 2018-04-24 11:10 ansible-role-setupwindows-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-24 11:10 ansible-role-setupwindows-master/handlers/
+-rw-rw-r-- root/root        49 2018-04-24 11:10 ansible-role-setupwindows-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-24 11:10 ansible-role-setupwindows-master/meta/
+-rw-rw-r-- root/root       248 2018-04-24 11:10 ansible-role-setupwindows-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-24 11:10 ansible-role-setupwindows-master/tasks/
+-rw-rw-r-- root/root       203 2018-04-24 11:10 ansible-role-setupwindows-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-24 11:10 ansible-role-setupwindows-master/tests/
+-rw-rw-r-- root/root        11 2018-04-24 11:10 ansible-role-setupwindows-master/tests/inventory
+-rw-rw-r-- root/root        83 2018-04-24 11:10 ansible-role-setupwindows-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-24 11:10 ansible-role-setupwindows-master/vars/
+-rw-rw-r-- root/root        45 2018-04-24 11:10 ansible-role-setupwindows-master/vars/main.yml

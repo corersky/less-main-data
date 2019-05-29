@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-20 14:18 ansible_graphite-master/
+-rw-rw-r-- root/root     11357 2019-02-20 14:18 ansible_graphite-master/LICENSE
+-rw-rw-r-- root/root       689 2019-02-20 14:18 ansible_graphite-master/README.md
+drwxrwxr-x root/root         0 2019-02-20 14:18 ansible_graphite-master/defaults/
+-rw-rw-r-- root/root       411 2019-02-20 14:18 ansible_graphite-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:18 ansible_graphite-master/handlers/
+-rw-rw-r-- root/root        32 2019-02-20 14:18 ansible_graphite-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:18 ansible_graphite-master/meta/
+-rw-rw-r-- root/root       444 2019-02-20 14:18 ansible_graphite-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:18 ansible_graphite-master/tasks/
+-rw-rw-r-- root/root      1637 2019-02-20 14:18 ansible_graphite-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-20 14:18 ansible_graphite-master/tests/
+-rw-rw-r-- root/root        11 2019-02-20 14:18 ansible_graphite-master/tests/inventory
+-rw-rw-r-- root/root       138 2019-02-20 14:18 ansible_graphite-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-20 14:18 ansible_graphite-master/vars/
+-rw-rw-r-- root/root        28 2019-02-20 14:18 ansible_graphite-master/vars/main.yml

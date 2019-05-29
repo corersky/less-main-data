@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-11 07:30 ansible-role-installer-master/
+-rw-rw-r-- root/root       859 2017-10-11 07:30 ansible-role-installer-master/.travis.yml
+-rw-rw-r-- root/root     35141 2017-10-11 07:30 ansible-role-installer-master/LICENSE
+-rw-rw-r-- root/root      1674 2017-10-11 07:30 ansible-role-installer-master/README.md
+drwxrwxr-x root/root         0 2017-10-11 07:30 ansible-role-installer-master/defaults/
+-rw-rw-r-- root/root      1288 2017-10-11 07:30 ansible-role-installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-11 07:30 ansible-role-installer-master/meta/
+-rw-rw-r-- root/root       715 2017-10-11 07:30 ansible-role-installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-11 07:30 ansible-role-installer-master/tasks/
+-rw-rw-r-- root/root       513 2017-10-11 07:30 ansible-role-installer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-11 07:30 ansible-role-installer-master/tests/
+-rw-rw-r-- root/root        11 2017-10-11 07:30 ansible-role-installer-master/tests/inventory
+-rw-rw-r-- root/root       127 2017-10-11 07:30 ansible-role-installer-master/tests/test.yml

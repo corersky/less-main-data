@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-11-02 19:15 ansible-role-clean-container-cache-master/
+-rw-rw-r-- root/root        20 2017-11-02 19:15 ansible-role-clean-container-cache-master/.gitignore
+-rw-rw-r-- root/root       795 2017-11-02 19:15 ansible-role-clean-container-cache-master/README.md
+drwxrwxr-x root/root         0 2017-11-02 19:15 ansible-role-clean-container-cache-master/defaults/
+-rw-rw-r-- root/root        55 2017-11-02 19:15 ansible-role-clean-container-cache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-02 19:15 ansible-role-clean-container-cache-master/meta/
+-rw-rw-r-- root/root       544 2017-11-02 19:15 ansible-role-clean-container-cache-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-02 19:15 ansible-role-clean-container-cache-master/tasks/
+-rw-rw-r-- root/root       263 2017-11-02 19:15 ansible-role-clean-container-cache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-02 19:15 ansible-role-clean-container-cache-master/tests/
+-rw-rw-r-- root/root        11 2017-11-02 19:15 ansible-role-clean-container-cache-master/tests/inventory
+-rw-rw-r-- root/root        95 2017-11-02 19:15 ansible-role-clean-container-cache-master/tests/test.yml

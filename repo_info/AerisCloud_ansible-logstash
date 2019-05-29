@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-logstash-master/
+-rw-rw-r-- root/root      1074 2016-06-20 01:37 ansible-logstash-master/LICENSE
+-rw-rw-r-- root/root      4545 2016-06-20 01:37 ansible-logstash-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-logstash-master/defaults/
+-rw-rw-r-- root/root       722 2016-06-20 01:37 ansible-logstash-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-logstash-master/handlers/
+-rw-rw-r-- root/root       102 2016-06-20 01:37 ansible-logstash-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-logstash-master/meta/
+-rw-rw-r-- root/root       570 2016-06-20 01:37 ansible-logstash-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-logstash-master/tasks/
+-rw-rw-r-- root/root      2223 2016-06-20 01:37 ansible-logstash-master/tasks/centos.yml
+-rw-rw-r-- root/root      3048 2016-06-20 01:37 ansible-logstash-master/tasks/debian.yml
+-rw-rw-r-- root/root      4307 2016-06-20 01:37 ansible-logstash-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-logstash-master/templates/
+-rw-rw-r-- root/root      4102 2016-06-20 01:37 ansible-logstash-master/templates/logstash.conf.j2
+drwxrwxr-x root/root         0 2016-06-20 01:37 ansible-logstash-master/vars/
+-rw-rw-r-- root/root         0 2016-06-20 01:37 ansible-logstash-master/vars/main.yaml

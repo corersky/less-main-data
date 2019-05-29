@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-nginx-master/
+-rw-rw-r-- root/root       539 2018-12-19 15:23 ansible-role-aegir-nginx-master/.travis.yml
+-rw-rw-r-- root/root       265 2018-12-19 15:23 ansible-role-aegir-nginx-master/README.md
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-nginx-master/defaults/
+-rw-rw-r-- root/root        95 2018-12-19 15:23 ansible-role-aegir-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-nginx-master/meta/
+-rw-rw-r-- root/root       412 2018-12-19 15:23 ansible-role-aegir-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-nginx-master/tasks/
+-rw-rw-r-- root/root      1312 2018-12-19 15:23 ansible-role-aegir-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-nginx-master/tests/
+-rw-rw-r-- root/root         9 2018-12-19 15:23 ansible-role-aegir-nginx-master/tests/inventory
+-rw-rw-r-- root/root        69 2018-12-19 15:23 ansible-role-aegir-nginx-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-19 15:23 ansible-role-aegir-nginx-master/vars/
+-rw-rw-r-- root/root       130 2018-12-19 15:23 ansible-role-aegir-nginx-master/vars/Debian.yml
+-rw-rw-r-- root/root       128 2018-12-19 15:23 ansible-role-aegir-nginx-master/vars/RedHat.yml

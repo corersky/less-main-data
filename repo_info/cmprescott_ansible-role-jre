@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-18 14:58 ansible-role-jre-master/
+-rw-rw-r-- root/root       346 2016-09-18 14:58 ansible-role-jre-master/.travis.yml
+-rw-rw-r-- root/root      1868 2016-09-18 14:58 ansible-role-jre-master/README.md
+drwxrwxr-x root/root         0 2016-09-18 14:58 ansible-role-jre-master/defaults/
+-rw-rw-r-- root/root       884 2016-09-18 14:58 ansible-role-jre-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-18 14:58 ansible-role-jre-master/meta/
+-rw-rw-r-- root/root       337 2016-09-18 14:58 ansible-role-jre-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-18 14:58 ansible-role-jre-master/tasks/
+-rw-rw-r-- root/root       538 2016-09-18 14:58 ansible-role-jre-master/tasks/main.yml
+-rw-rw-r-- root/root       604 2016-09-18 14:58 ansible-role-jre-master/tasks/main_openjdk.yml
+-rw-rw-r-- root/root      1307 2016-09-18 14:58 ansible-role-jre-master/tasks/main_oracle.yml
+drwxrwxr-x root/root         0 2016-09-18 14:58 ansible-role-jre-master/tests/
+-rw-rw-r-- root/root        35 2016-09-18 14:58 ansible-role-jre-master/tests/inventory
+-rw-rw-r-- root/root       157 2016-09-18 14:58 ansible-role-jre-master/tests/test.yml

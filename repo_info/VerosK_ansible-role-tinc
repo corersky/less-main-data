@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-15 05:30 ansible-role-tinc-master/
+-rw-rw-r-- root/root       621 2018-05-15 05:30 ansible-role-tinc-master/README.md
+drwxrwxr-x root/root         0 2018-05-15 05:30 ansible-role-tinc-master/defaults/
+-rw-rw-r-- root/root       269 2018-05-15 05:30 ansible-role-tinc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-15 05:30 ansible-role-tinc-master/handlers/
+-rw-rw-r-- root/root        69 2018-05-15 05:30 ansible-role-tinc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-15 05:30 ansible-role-tinc-master/library/
+-rw-rw-r-- root/root      2966 2018-05-15 05:30 ansible-role-tinc-master/library/tinc_retrieve_public_key.py
+drwxrwxr-x root/root         0 2018-05-15 05:30 ansible-role-tinc-master/meta/
+-rw-rw-r-- root/root       233 2018-05-15 05:30 ansible-role-tinc-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-15 05:30 ansible-role-tinc-master/tasks/
+-rw-rw-r-- root/root      2076 2018-05-15 05:30 ansible-role-tinc-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-15 05:30 ansible-role-tinc-master/templates/
+-rw-rw-r-- root/root       299 2018-05-15 05:30 ansible-role-tinc-master/templates/host.conf.j2
+-rw-rw-r-- root/root        95 2018-05-15 05:30 ansible-role-tinc-master/templates/interface-down.sh.j2
+-rw-rw-r-- root/root       301 2018-05-15 05:30 ansible-role-tinc-master/templates/interface-up.sh.j2
+-rw-rw-r-- root/root       405 2018-05-15 05:30 ansible-role-tinc-master/templates/tinc.conf.j2

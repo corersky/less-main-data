@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-02-12 10:35 ansible-role-epel-master/
+-rw-rw-r-- root/root      1072 2019-02-12 10:35 ansible-role-epel-master/LICENSE
+-rw-rw-r-- root/root       500 2019-02-12 10:35 ansible-role-epel-master/README.md
+drwxrwxr-x root/root         0 2019-02-12 10:35 ansible-role-epel-master/defaults/
+-rw-rw-r-- root/root       135 2019-02-12 10:35 ansible-role-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-12 10:35 ansible-role-epel-master/meta/
+-rw-rw-r-- root/root       342 2019-02-12 10:35 ansible-role-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-12 10:35 ansible-role-epel-master/tasks/
+-rw-rw-r-- root/root       243 2019-02-12 10:35 ansible-role-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-12 10:35 ansible-role-epel-master/tests/
+-rw-rw-r-- root/root        11 2019-02-12 10:35 ansible-role-epel-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-02-12 10:35 ansible-role-epel-master/tests/test.yml

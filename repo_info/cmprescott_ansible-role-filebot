@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-09-18 16:02 ansible-role-filebot-master/
+-rw-rw-r-- root/root       363 2016-09-18 16:02 ansible-role-filebot-master/.travis.yml
+-rw-rw-r-- root/root      1600 2016-09-18 16:02 ansible-role-filebot-master/CHANGELOG.md
+-rw-rw-r-- root/root      1904 2016-09-18 16:02 ansible-role-filebot-master/README.md
+drwxrwxr-x root/root         0 2016-09-18 16:02 ansible-role-filebot-master/defaults/
+-rw-rw-r-- root/root       380 2016-09-18 16:02 ansible-role-filebot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-18 16:02 ansible-role-filebot-master/meta/
+-rw-rw-r-- root/root       253 2016-09-18 16:02 ansible-role-filebot-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-18 16:02 ansible-role-filebot-master/tasks/
+-rw-rw-r-- root/root      1654 2016-09-18 16:02 ansible-role-filebot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-18 16:02 ansible-role-filebot-master/templates/
+-rw-rw-r-- root/root       344 2016-09-18 16:02 ansible-role-filebot-master/templates/filebot.amc.sh.j2
+drwxrwxr-x root/root         0 2016-09-18 16:02 ansible-role-filebot-master/tests/
+-rw-rw-r-- root/root        10 2016-09-18 16:02 ansible-role-filebot-master/tests/inventory
+-rw-rw-r-- root/root       438 2016-09-18 16:02 ansible-role-filebot-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-18 16:02 ansible-role-filebot-master/vars/
+-rw-rw-r-- root/root       599 2016-09-18 16:02 ansible-role-filebot-master/vars/main.yml

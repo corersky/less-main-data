@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-05-25 08:57 ansible-role-nsd-master/
+-rw-rw-r-- root/root      1083 2018-05-25 08:57 ansible-role-nsd-master/LICENSE
+-rw-rw-r-- root/root     10818 2018-05-25 08:57 ansible-role-nsd-master/README.md
+drwxrwxr-x root/root         0 2018-05-25 08:57 ansible-role-nsd-master/defaults/
+-rw-rw-r-- root/root       402 2018-05-25 08:57 ansible-role-nsd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-25 08:57 ansible-role-nsd-master/handlers/
+-rw-rw-r-- root/root       496 2018-05-25 08:57 ansible-role-nsd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-25 08:57 ansible-role-nsd-master/meta/
+-rw-rw-r-- root/root       239 2018-05-25 08:57 ansible-role-nsd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-25 08:57 ansible-role-nsd-master/tasks/
+-rw-rw-r-- root/root      1069 2018-05-25 08:57 ansible-role-nsd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-25 08:57 ansible-role-nsd-master/templates/
+-rw-rw-r-- root/root       866 2018-05-25 08:57 ansible-role-nsd-master/templates/config.j2
+-rw-rw-r-- root/root       122 2018-05-25 08:57 ansible-role-nsd-master/templates/tsigkey_config.j2
+-rw-rw-r-- root/root      1257 2018-05-25 08:57 ansible-role-nsd-master/templates/zones_config.j2

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-02-06 13:38 ansible-postgresql94-bdr-master/
+-rw-rw-r-- root/root       881 2015-02-06 13:38 ansible-postgresql94-bdr-master/README.md
+drwxrwxr-x root/root         0 2015-02-06 13:38 ansible-postgresql94-bdr-master/defaults/
+-rw-rw-r-- root/root      1503 2015-02-06 13:38 ansible-postgresql94-bdr-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-06 13:38 ansible-postgresql94-bdr-master/meta/
+-rw-rw-r-- root/root       385 2015-02-06 13:38 ansible-postgresql94-bdr-master/meta/main.yml
+-rw-rw-r-- root/root       221 2015-02-06 13:38 ansible-postgresql94-bdr-master/role.yml
+drwxrwxr-x root/root         0 2015-02-06 13:38 ansible-postgresql94-bdr-master/tasks/
+-rw-rw-r-- root/root      2076 2015-02-06 13:38 ansible-postgresql94-bdr-master/tasks/configure.yml
+-rw-rw-r-- root/root       719 2015-02-06 13:38 ansible-postgresql94-bdr-master/tasks/install-and-cleanup.yml
+-rw-rw-r-- root/root       560 2015-02-06 13:38 ansible-postgresql94-bdr-master/tasks/main.yml

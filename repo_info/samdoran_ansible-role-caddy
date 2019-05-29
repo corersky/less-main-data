@@ -1,0 +1,34 @@
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/
+-rw-rw-r-- root/root       846 2019-05-10 16:58 ansible-role-caddy-master/.travis.yml
+-rw-rw-r-- root/root      2012 2019-05-10 16:58 ansible-role-caddy-master/README.md
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/defaults/
+-rw-rw-r-- root/root       601 2019-05-10 16:58 ansible-role-caddy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/files/
+-rw-rw-r-- root/root       319 2019-05-10 16:58 ansible-role-caddy-master/files/copy-caddy-bin.sh
+-rw-rw-r-- root/root     17058 2019-05-10 16:58 ansible-role-caddy-master/files/index.html
+-rw-rw-r-- root/root      7380 2019-05-10 16:58 ansible-role-caddy-master/files/install-caddy.sh
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/handlers/
+-rw-rw-r-- root/root       400 2019-05-10 16:58 ansible-role-caddy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/meta/
+-rw-rw-r-- root/root       455 2019-05-10 16:58 ansible-role-caddy-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/molecule/
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/molecule/custom build/
+-rw-rw-r-- root/root       809 2019-05-10 16:58 ansible-role-caddy-master/molecule/custom build/molecule.yml
+-rw-rw-r-- root/root       727 2019-05-10 16:58 ansible-role-caddy-master/molecule/custom build/playbook.yml
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/molecule/default/
+-rw-rw-r-- root/root       805 2019-05-10 16:58 ansible-role-caddy-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       669 2019-05-10 16:58 ansible-role-caddy-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root       230 2019-05-10 16:58 ansible-role-caddy-master/molecule/yamllint.yml
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/tasks/
+-rw-rw-r-- root/root      3948 2019-05-10 16:58 ansible-role-caddy-master/tasks/install.yml
+-rw-rw-r-- root/root       525 2019-05-10 16:58 ansible-role-caddy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/templates/
+-rw-rw-r-- root/root        87 2019-05-10 16:58 ansible-role-caddy-master/templates/caddy.conf.j2
+-rw-rw-r-- root/root      1010 2019-05-10 16:58 ansible-role-caddy-master/templates/caddy.conf.upstart.j2
+-rw-rw-r-- root/root       879 2019-05-10 16:58 ansible-role-caddy-master/templates/caddy.service.systemd.j2
+-rw-rw-r-- root/root      2444 2019-05-10 16:58 ansible-role-caddy-master/templates/caddy.sysvinit.j2
+drwxrwxr-x root/root         0 2019-05-10 16:58 ansible-role-caddy-master/vars/
+-rw-rw-r-- root/root        31 2019-05-10 16:58 ansible-role-caddy-master/vars/Debian.yml
+-rw-rw-r-- root/root        35 2019-05-10 16:58 ansible-role-caddy-master/vars/RedHat.yml
+-rw-rw-r-- root/root         0 2019-05-10 16:58 ansible-role-caddy-master/vars/default.yml
+-rw-rw-r-- root/root       625 2019-05-10 16:58 ansible-role-caddy-master/vars/main.yml

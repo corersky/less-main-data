@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-16 22:57 ansible-role-gcloud-sdk-master/
+-rw-rw-r-- root/root        34 2018-03-16 22:57 ansible-role-gcloud-sdk-master/.gitignore
+-rw-rw-r-- root/root       631 2018-03-16 22:57 ansible-role-gcloud-sdk-master/.travis.yml
+-rw-rw-r-- root/root       537 2018-03-16 22:57 ansible-role-gcloud-sdk-master/README.md
+drwxrwxr-x root/root         0 2018-03-16 22:57 ansible-role-gcloud-sdk-master/defaults/
+-rw-rw-r-- root/root       523 2018-03-16 22:57 ansible-role-gcloud-sdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-16 22:57 ansible-role-gcloud-sdk-master/meta/
+-rw-rw-r-- root/root       427 2018-03-16 22:57 ansible-role-gcloud-sdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-16 22:57 ansible-role-gcloud-sdk-master/tasks/
+-rw-rw-r-- root/root       528 2018-03-16 22:57 ansible-role-gcloud-sdk-master/tasks/Debian.yml
+-rw-rw-r-- root/root       402 2018-03-16 22:57 ansible-role-gcloud-sdk-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       377 2018-03-16 22:57 ansible-role-gcloud-sdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-16 22:57 ansible-role-gcloud-sdk-master/tests/
+-rw-rw-r-- root/root       774 2018-03-16 22:57 ansible-role-gcloud-sdk-master/tests/README.md
+-rw-rw-r-- root/root       427 2018-03-16 22:57 ansible-role-gcloud-sdk-master/tests/test.yml

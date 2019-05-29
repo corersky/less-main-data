@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-08-02 23:23 ansible-role-etckeeper-master/
+-rw-rw-r-- root/root      1906 2016-08-02 23:23 ansible-role-etckeeper-master/.travis.yml
+-rw-rw-r-- root/root        66 2016-08-02 23:23 ansible-role-etckeeper-master/Gemfile
+-rw-rw-r-- root/root       881 2016-08-02 23:23 ansible-role-etckeeper-master/README.md
+drwxrwxr-x root/root         0 2016-08-02 23:23 ansible-role-etckeeper-master/meta/
+-rw-rw-r-- root/root       297 2016-08-02 23:23 ansible-role-etckeeper-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-02 23:23 ansible-role-etckeeper-master/spec/
+-rw-rw-r-- root/root        90 2016-08-02 23:23 ansible-role-etckeeper-master/spec/container_spec.rb
+-rw-rw-r-- root/root       131 2016-08-02 23:23 ansible-role-etckeeper-master/spec/spec_helper.rb
+drwxrwxr-x root/root         0 2016-08-02 23:23 ansible-role-etckeeper-master/tasks/
+-rw-rw-r-- root/root       420 2016-08-02 23:23 ansible-role-etckeeper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-02 23:23 ansible-role-etckeeper-master/tests/
+-rw-rw-r-- root/root       380 2016-08-02 23:23 ansible-role-etckeeper-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1157 2016-08-02 23:23 ansible-role-etckeeper-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root         9 2016-08-02 23:23 ansible-role-etckeeper-master/tests/inventory
+-rw-rw-r-- root/root        30 2016-08-02 23:23 ansible-role-etckeeper-master/tests/requirements.yml
+-rw-rw-r-- root/root        82 2016-08-02 23:23 ansible-role-etckeeper-master/tests/test.yml

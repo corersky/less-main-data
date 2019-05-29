@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/
+-rw-rw-r-- root/root       108 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/.gitignore
+-rw-rw-r-- root/root      1268 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/README.md
+drwxrwxr-x root/root         0 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/defaults/
+-rw-rw-r-- root/root       910 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/handlers/
+-rw-rw-r-- root/root       142 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/meta/
+-rw-rw-r-- root/root       303 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/tasks/
+-rw-rw-r-- root/root      6056 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/tasks/main.yml
+-rw-rw-r-- root/root       851 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/tasks/virtualenv.yml
+drwxrwxr-x root/root         0 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/tests/
+-rw-rw-r-- root/root        11 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/tests/inventory
+-rw-rw-r-- root/root        90 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/vars/
+-rw-rw-r-- root/root        52 2019-01-16 06:39 ansible-role-letsencrypt-route53-master/vars/main.yml

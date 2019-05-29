@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-18 08:54 ansible-moodle-master/
+-rw-rw-r-- root/root     35122 2017-06-18 08:54 ansible-moodle-master/LICENSE
+-rw-rw-r-- root/root       894 2017-06-18 08:54 ansible-moodle-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 08:54 ansible-moodle-master/defaults/
+-rw-rw-r-- root/root      1256 2017-06-18 08:54 ansible-moodle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-18 08:54 ansible-moodle-master/handlers/
+-rw-rw-r-- root/root        31 2017-06-18 08:54 ansible-moodle-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-18 08:54 ansible-moodle-master/meta/
+-rw-rw-r-- root/root       817 2017-06-18 08:54 ansible-moodle-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 08:54 ansible-moodle-master/tasks/
+-rw-rw-r-- root/root       660 2017-06-18 08:54 ansible-moodle-master/tasks/main.yml
+-rw-rw-r-- root/root       181 2017-06-18 08:54 ansible-moodle-master/tasks/requirements.yml
+drwxrwxr-x root/root         0 2017-06-18 08:54 ansible-moodle-master/templates/
+-rw-rw-r-- root/root     39245 2017-06-18 08:54 ansible-moodle-master/templates/config.php.j2
+drwxrwxr-x root/root         0 2017-06-18 08:54 ansible-moodle-master/vars/
+-rw-rw-r-- root/root       248 2017-06-18 08:54 ansible-moodle-master/vars/main.yml

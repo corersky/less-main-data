@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-10-07 12:47 ansible-role-coredns-master/
+-rw-rw-r-- root/root       106 2018-10-07 12:47 ansible-role-coredns-master/.gitignore
+drwxrwxr-x root/root         0 2018-10-07 12:47 ansible-role-coredns-master/defaults/
+-rw-rw-r-- root/root       166 2018-10-07 12:47 ansible-role-coredns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-07 12:47 ansible-role-coredns-master/meta/
+-rw-rw-r-- root/root       195 2018-10-07 12:47 ansible-role-coredns-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-07 12:47 ansible-role-coredns-master/tasks/
+-rw-rw-r-- root/root       351 2018-10-07 12:47 ansible-role-coredns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-07 12:47 ansible-role-coredns-master/templates/
+-rw-rw-r-- root/root      3546 2018-10-07 12:47 ansible-role-coredns-master/templates/coredns.yml.j2

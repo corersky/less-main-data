@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-24 03:48 apache-master/
+-rw-rw-r-- root/root      1328 2018-10-24 03:48 apache-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 03:48 apache-master/defaults/
+-rw-rw-r-- root/root        31 2018-10-24 03:48 apache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 03:48 apache-master/files/
+-rw-rw-r-- root/root        55 2018-10-24 03:48 apache-master/files/index.html
+drwxrwxr-x root/root         0 2018-10-24 03:48 apache-master/handlers/
+-rw-rw-r-- root/root       190 2018-10-24 03:48 apache-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-24 03:48 apache-master/meta/
+-rw-rw-r-- root/root      1973 2018-10-24 03:48 apache-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 03:48 apache-master/tasks/
+-rw-rw-r-- root/root       451 2018-10-24 03:48 apache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 03:48 apache-master/tests/
+-rw-rw-r-- root/root        11 2018-10-24 03:48 apache-master/tests/inventory
+-rw-rw-r-- root/root        65 2018-10-24 03:48 apache-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-24 03:48 apache-master/vars/
+-rw-rw-r-- root/root        27 2018-10-24 03:48 apache-master/vars/main.yml

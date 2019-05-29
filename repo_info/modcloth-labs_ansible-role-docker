@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-07-01 12:47 ansible-role-docker-master/
+-rw-rw-r-- root/root      1065 2014-07-01 12:47 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root      1187 2014-07-01 12:47 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2014-07-01 12:47 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       323 2014-07-01 12:47 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-01 12:47 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       705 2014-07-01 12:47 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-07-01 12:47 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root       297 2014-07-01 12:47 ansible-role-docker-master/templates/etc-default-docker.j2
+drwxrwxr-x root/root         0 2014-07-01 12:47 ansible-role-docker-master/vars/
+-rw-rw-r-- root/root       169 2014-07-01 12:47 ansible-role-docker-master/vars/main.yml

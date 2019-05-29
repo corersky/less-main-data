@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-23 06:36 ansible-role-docker-registry-master/
+-rw-rw-r-- root/root     11357 2019-01-23 06:36 ansible-role-docker-registry-master/LICENSE
+-rw-rw-r-- root/root       967 2019-01-23 06:36 ansible-role-docker-registry-master/README.md
+drwxrwxr-x root/root         0 2019-01-23 06:36 ansible-role-docker-registry-master/defaults/
+-rw-rw-r-- root/root       771 2019-01-23 06:36 ansible-role-docker-registry-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-23 06:36 ansible-role-docker-registry-master/handlers/
+-rw-rw-r-- root/root         4 2019-01-23 06:36 ansible-role-docker-registry-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-23 06:36 ansible-role-docker-registry-master/meta/
+-rw-rw-r-- root/root       312 2019-01-23 06:36 ansible-role-docker-registry-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-23 06:36 ansible-role-docker-registry-master/tasks/
+-rw-rw-r-- root/root      4679 2019-01-23 06:36 ansible-role-docker-registry-master/tasks/front.yml
+-rw-rw-r-- root/root       212 2019-01-23 06:36 ansible-role-docker-registry-master/tasks/main.yml
+-rw-rw-r-- root/root       776 2019-01-23 06:36 ansible-role-docker-registry-master/tasks/ssh_get_registry_certificates.yml
+-rw-rw-r-- root/root      1898 2019-01-23 06:36 ansible-role-docker-registry-master/tasks/wn.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/
+-rw-rw-r-- root/root       494 2015-11-14 18:49 ansible-dnsmasq-master/README.md
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/defaults/
+-rw-rw-r-- root/root        31 2015-11-14 18:49 ansible-dnsmasq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/files/
+-rw-rw-r-- root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/files/.gitkeep
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/handlers/
+-rw-rw-r-- root/root        91 2015-11-14 18:49 ansible-dnsmasq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/meta/
+-rw-rw-r-- root/root      2089 2015-11-14 18:49 ansible-dnsmasq-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/tasks/
+-rw-rw-r-- root/root      1198 2015-11-14 18:49 ansible-dnsmasq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/templates/
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/templates/etc/
+-rw-rw-r-- root/root        92 2015-11-14 18:49 ansible-dnsmasq-master/templates/etc/dnsmasq.conf
+drwxrwxr-x root/root         0 2015-11-14 18:49 ansible-dnsmasq-master/vars/
+-rw-rw-r-- root/root        28 2015-11-14 18:49 ansible-dnsmasq-master/vars/main.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/
+-rw-rw-r-- root/root      1626 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/README.md
+drwxrwxr-x root/root         0 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/defaults/
+-rw-rw-r-- root/root       171 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/meta/
+-rw-rw-r-- root/root       268 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/tasks/
+-rw-rw-r-- root/root      1144 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/tasks/fetch.yml
+-rw-rw-r-- root/root       180 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/tasks/main.yml
+-rw-rw-r-- root/root       688 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/tasks/rhel_7.yml
+-rw-rw-r-- root/root         0 2018-05-30 10:15 ansible-oracle-sqlDeveloper-master/tasks/set-role-variables.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-12 02:44 Stouts.sudo-master/
+-rw-rw-r-- root/root        89 2017-12-12 02:44 Stouts.sudo-master/.bumpversion.cfg
+-rw-rw-r-- root/root       749 2017-12-12 02:44 Stouts.sudo-master/.travis.yml
+-rw-rw-r-- root/root        98 2017-12-12 02:44 Stouts.sudo-master/CONTRIBUTORS
+-rw-rw-r-- root/root      1072 2017-12-12 02:44 Stouts.sudo-master/LICENSE
+-rw-rw-r-- root/root       315 2017-12-12 02:44 Stouts.sudo-master/Makefile
+-rw-rw-r-- root/root      1662 2017-12-12 02:44 Stouts.sudo-master/README.md
+drwxrwxr-x root/root         0 2017-12-12 02:44 Stouts.sudo-master/defaults/
+-rw-rw-r-- root/root       334 2017-12-12 02:44 Stouts.sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-12 02:44 Stouts.sudo-master/meta/
+-rw-rw-r-- root/root       299 2017-12-12 02:44 Stouts.sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-12 02:44 Stouts.sudo-master/tasks/
+-rw-rw-r-- root/root        66 2017-12-12 02:44 Stouts.sudo-master/tasks/main.yml
+-rw-rw-r-- root/root       112 2017-12-12 02:44 Stouts.sudo-master/tasks/sudo.yml
+drwxrwxr-x root/root         0 2017-12-12 02:44 Stouts.sudo-master/templates/
+-rw-rw-r-- root/root       991 2017-12-12 02:44 Stouts.sudo-master/templates/sudoers.j2
+-rw-rw-r-- root/root       127 2017-12-12 02:44 Stouts.sudo-master/test.yml

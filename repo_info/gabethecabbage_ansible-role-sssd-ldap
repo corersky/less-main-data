@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-12-05 10:42 ansible-role-sssd-ldap-master/
+-rw-rw-r-- root/root      1458 2017-12-05 10:42 ansible-role-sssd-ldap-master/README.md
+drwxrwxr-x root/root         0 2017-12-05 10:42 ansible-role-sssd-ldap-master/defaults/
+-rw-rw-r-- root/root        55 2017-12-05 10:42 ansible-role-sssd-ldap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-05 10:42 ansible-role-sssd-ldap-master/handlers/
+-rw-rw-r-- root/root       365 2017-12-05 10:42 ansible-role-sssd-ldap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-05 10:42 ansible-role-sssd-ldap-master/meta/
+-rw-rw-r-- root/root       421 2017-12-05 10:42 ansible-role-sssd-ldap-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-05 10:42 ansible-role-sssd-ldap-master/tasks/
+-rw-rw-r-- root/root      1683 2017-12-05 10:42 ansible-role-sssd-ldap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-05 10:42 ansible-role-sssd-ldap-master/templates/
+-rw-rw-r-- root/root       726 2017-12-05 10:42 ansible-role-sssd-ldap-master/templates/sssd.conf.j2

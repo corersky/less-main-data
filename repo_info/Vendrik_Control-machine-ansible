@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-30 05:58 Control-machine-ansible-master/
+-rw-rw-r-- root/root      1328 2019-01-30 05:58 Control-machine-ansible-master/README.md
+drwxrwxr-x root/root         0 2019-01-30 05:58 Control-machine-ansible-master/defaults/
+-rw-rw-r-- root/root        29 2019-01-30 05:58 Control-machine-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:58 Control-machine-ansible-master/handlers/
+-rw-rw-r-- root/root        80 2019-01-30 05:58 Control-machine-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:58 Control-machine-ansible-master/meta/
+-rw-rw-r-- root/root      1973 2019-01-30 05:58 Control-machine-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:58 Control-machine-ansible-master/tasks/
+-rw-rw-r-- root/root       739 2019-01-30 05:58 Control-machine-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-30 05:58 Control-machine-ansible-master/tests/
+-rw-rw-r-- root/root        11 2019-01-30 05:58 Control-machine-ansible-master/tests/inventory
+-rw-rw-r-- root/root        63 2019-01-30 05:58 Control-machine-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-01-30 05:58 Control-machine-ansible-master/vars/
+-rw-rw-r-- root/root        25 2019-01-30 05:58 Control-machine-ansible-master/vars/main.yml

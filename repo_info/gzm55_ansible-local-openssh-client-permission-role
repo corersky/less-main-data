@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/
+-rw-rw-r-- root/root         8 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/.gitignore
+-rw-rw-r-- root/root      2560 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/.travis.yml
+-rw-rw-r-- root/root      1320 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/LICENSE
+-rw-rw-r-- root/root       791 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/README.md
+drwxrwxr-x root/root         0 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/meta/
+-rw-rw-r-- root/root       542 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/meta/main.yml
+-rw-rw-r-- root/root        25 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/requirements.txt
+-rw-rw-r-- root/root       124 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/requirements.yml
+drwxrwxr-x root/root         0 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/tasks/
+-rw-rw-r-- root/root      1296 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/tests/
+-rw-rw-r-- root/root       135 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/tests/inventory
+-rw-rw-r-- root/root       110 2019-01-04 09:20 ansible-local-openssh-client-permission-role-master/tests/test.yml

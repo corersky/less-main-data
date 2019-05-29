@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-09-18 08:16 ansible-platform_config-master/
+-rw-rw-r-- root/root        48 2017-09-18 08:16 ansible-platform_config-master/.gitignore
+-rw-rw-r-- root/root      1068 2017-09-18 08:16 ansible-platform_config-master/LICENSE.txt
+-rw-rw-r-- root/root       186 2017-09-18 08:16 ansible-platform_config-master/README.md
+drwxrwxr-x root/root         0 2017-09-18 08:16 ansible-platform_config-master/defaults/
+-rw-rw-r-- root/root        80 2017-09-18 08:16 ansible-platform_config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-18 08:16 ansible-platform_config-master/meta/
+-rw-rw-r-- root/root       291 2017-09-18 08:16 ansible-platform_config-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-18 08:16 ansible-platform_config-master/tasks/
+-rw-rw-r-- root/root       590 2017-09-18 08:16 ansible-platform_config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-18 08:16 ansible-platform_config-master/tests/
+-rw-rw-r-- root/root         9 2017-09-18 08:16 ansible-platform_config-master/tests/inventory
+-rw-rw-r-- root/root        52 2017-09-18 08:16 ansible-platform_config-master/tests/test.yml

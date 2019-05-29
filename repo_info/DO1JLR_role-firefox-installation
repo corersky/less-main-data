@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-25 03:12 role-firefox-installation-master/
+-rw-rw-r-- root/root      1060 2019-04-25 03:12 role-firefox-installation-master/LICENSE
+-rw-rw-r-- root/root       793 2019-04-25 03:12 role-firefox-installation-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 03:12 role-firefox-installation-master/defaults/
+-rw-rw-r-- root/root        87 2019-04-25 03:12 role-firefox-installation-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 03:12 role-firefox-installation-master/meta/
+-rw-rw-r-- root/root       614 2019-04-25 03:12 role-firefox-installation-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 03:12 role-firefox-installation-master/tasks/
+-rw-rw-r-- root/root       648 2019-04-25 03:12 role-firefox-installation-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-25 03:12 role-firefox-installation-master/vars/
+-rw-rw-r-- root/root       267 2019-04-25 03:12 role-firefox-installation-master/vars/Archlinux.yml
+-rw-rw-r-- root/root       303 2019-04-25 03:12 role-firefox-installation-master/vars/CentOS.yml
+-rw-rw-r-- root/root       308 2019-04-25 03:12 role-firefox-installation-master/vars/Debian.yml
+-rw-rw-r-- root/root       303 2019-04-25 03:12 role-firefox-installation-master/vars/Fedora.yml
+-rw-rw-r-- root/root       303 2019-04-25 03:12 role-firefox-installation-master/vars/RedHat.yml
+-rw-rw-r-- root/root       303 2019-04-25 03:12 role-firefox-installation-master/vars/Ubuntu.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/
+-rw-rw-r-- root/root     35147 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/LICENSE
+-rw-rw-r-- root/root      1396 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/README.md
+drwxrwxr-x root/root         0 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/defaults/
+-rw-rw-r-- root/root      1575 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/meta/
+-rw-rw-r-- root/root       384 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/tasks/
+-rw-rw-r-- root/root       436 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/templates/
+-rw-rw-r-- root/root     19990 2018-10-07 10:43 ansible-elastic-apm-java-agent-master/templates/elasticapm.properties.j2

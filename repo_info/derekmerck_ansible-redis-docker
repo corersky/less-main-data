@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-redis-docker-master/
+-rw-rw-r-- root/root      1382 2018-09-03 13:09 ansible-redis-docker-master/.travis.yml
+-rw-rw-r-- root/root      1314 2018-09-03 13:09 ansible-redis-docker-master/README.md
+-rw-rw-r-- root/root        51 2018-09-03 13:09 ansible-redis-docker-master/ansible.cfg
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-redis-docker-master/defaults/
+-rw-rw-r-- root/root       768 2018-09-03 13:09 ansible-redis-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-redis-docker-master/handlers/
+-rw-rw-r-- root/root        36 2018-09-03 13:09 ansible-redis-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-redis-docker-master/meta/
+-rw-rw-r-- root/root       338 2018-09-03 13:09 ansible-redis-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-redis-docker-master/tasks/
+-rw-rw-r-- root/root       836 2018-09-03 13:09 ansible-redis-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-03 13:09 ansible-redis-docker-master/tests/
+-rw-rw-r-- root/root       258 2018-09-03 13:09 ansible-redis-docker-master/tests/test_inv.yml
+-rw-rw-r-- root/root       222 2018-09-03 13:09 ansible-redis-docker-master/tests/test_play.yml

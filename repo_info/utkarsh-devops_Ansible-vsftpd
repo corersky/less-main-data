@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-26 04:48 Ansible-vsftpd-master/
+-rw-rw-r-- root/root      1081 2018-09-26 04:48 Ansible-vsftpd-master/LICENSE
+-rw-rw-r-- root/root       785 2018-09-26 04:48 Ansible-vsftpd-master/README.md
+drwxrwxr-x root/root         0 2018-09-26 04:48 Ansible-vsftpd-master/defaults/
+-rw-rw-r-- root/root      1168 2018-09-26 04:48 Ansible-vsftpd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-26 04:48 Ansible-vsftpd-master/handlers/
+-rw-rw-r-- root/root       101 2018-09-26 04:48 Ansible-vsftpd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-26 04:48 Ansible-vsftpd-master/meta/
+-rw-rw-r-- root/root       318 2018-09-26 04:48 Ansible-vsftpd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-26 04:48 Ansible-vsftpd-master/tasks/
+-rw-rw-r-- root/root      2234 2018-09-26 04:48 Ansible-vsftpd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-26 04:48 Ansible-vsftpd-master/templates/
+-rwxrwxr-x root/root      1350 2018-09-26 04:48 Ansible-vsftpd-master/templates/vsftpd-user.j2
+-rw-rw-r-- root/root      1656 2018-09-26 04:48 Ansible-vsftpd-master/templates/vsftpd.conf.j2
+-rw-rw-r-- root/root       281 2018-09-26 04:48 Ansible-vsftpd-master/templates/vsftpd.pam.j2

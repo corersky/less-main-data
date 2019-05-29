@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-10-04 12:51 ansible-role-bosh-init-master/
+-rw-rw-r-- root/root        26 2015-10-04 12:51 ansible-role-bosh-init-master/.gitignore
+-rw-rw-r-- root/root       740 2015-10-04 12:51 ansible-role-bosh-init-master/README.md
+drwxrwxr-x root/root         0 2015-10-04 12:51 ansible-role-bosh-init-master/defaults/
+-rw-rw-r-- root/root        60 2015-10-04 12:51 ansible-role-bosh-init-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-04 12:51 ansible-role-bosh-init-master/meta/
+-rw-rw-r-- root/root       364 2015-10-04 12:51 ansible-role-bosh-init-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-04 12:51 ansible-role-bosh-init-master/tasks/
+-rw-rw-r-- root/root       846 2015-10-04 12:51 ansible-role-bosh-init-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-04 12:51 ansible-role-bosh-init-master/vars/
+-rw-rw-r-- root/root       127 2015-10-04 12:51 ansible-role-bosh-init-master/vars/main.yml

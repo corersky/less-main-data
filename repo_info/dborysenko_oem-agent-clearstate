@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-21 11:31 oem-agent-clearstate-master/
+-rw-rw-r-- root/root       539 2017-06-21 11:31 oem-agent-clearstate-master/.travis.yml
+-rw-rw-r-- root/root      1996 2017-06-21 11:31 oem-agent-clearstate-master/README.md
+drwxrwxr-x root/root         0 2017-06-21 11:31 oem-agent-clearstate-master/defaults/
+-rw-rw-r-- root/root        45 2017-06-21 11:31 oem-agent-clearstate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-21 11:31 oem-agent-clearstate-master/handlers/
+-rw-rw-r-- root/root        45 2017-06-21 11:31 oem-agent-clearstate-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-21 11:31 oem-agent-clearstate-master/meta/
+-rw-rw-r-- root/root      3999 2017-06-21 11:31 oem-agent-clearstate-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-21 11:31 oem-agent-clearstate-master/tasks/
+-rw-rw-r-- root/root       799 2017-06-21 11:31 oem-agent-clearstate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-21 11:31 oem-agent-clearstate-master/tests/
+-rw-rw-r-- root/root         9 2017-06-21 11:31 oem-agent-clearstate-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-06-21 11:31 oem-agent-clearstate-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-21 11:31 oem-agent-clearstate-master/vars/
+-rw-rw-r-- root/root        41 2017-06-21 11:31 oem-agent-clearstate-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-04-04 09:59 ansible-sonarqube-scanner-master/
+-rw-rw-r-- root/root       280 2019-04-04 09:59 ansible-sonarqube-scanner-master/.travis.yml
+-rw-rw-r-- root/root      1161 2019-04-04 09:59 ansible-sonarqube-scanner-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 09:59 ansible-sonarqube-scanner-master/defaults/
+-rw-rw-r-- root/root       248 2019-04-04 09:59 ansible-sonarqube-scanner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 09:59 ansible-sonarqube-scanner-master/meta/
+-rw-rw-r-- root/root       974 2019-04-04 09:59 ansible-sonarqube-scanner-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 09:59 ansible-sonarqube-scanner-master/tasks/
+-rw-rw-r-- root/root      1277 2019-04-04 09:59 ansible-sonarqube-scanner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 09:59 ansible-sonarqube-scanner-master/tests/
+-rw-rw-r-- root/root        11 2019-04-04 09:59 ansible-sonarqube-scanner-master/tests/inventory
+-rw-rw-r-- root/root        68 2019-04-04 09:59 ansible-sonarqube-scanner-master/tests/test.yml

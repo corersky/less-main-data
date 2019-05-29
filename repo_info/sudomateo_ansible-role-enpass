@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-04-05 00:29 ansible-role-enpass-master/
+-rw-rw-r-- root/root         8 2019-04-05 00:29 ansible-role-enpass-master/.gitignore
+-rw-rw-r-- root/root     16725 2019-04-05 00:29 ansible-role-enpass-master/LICENSE
+-rw-rw-r-- root/root       381 2019-04-05 00:29 ansible-role-enpass-master/README.md
+drwxrwxr-x root/root         0 2019-04-05 00:29 ansible-role-enpass-master/meta/
+-rw-rw-r-- root/root       548 2019-04-05 00:29 ansible-role-enpass-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-05 00:29 ansible-role-enpass-master/tasks/
+-rw-rw-r-- root/root       264 2019-04-05 00:29 ansible-role-enpass-master/tasks/main.yml
+-rw-rw-r-- root/root       134 2019-04-05 00:29 ansible-role-enpass-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       141 2019-04-05 00:29 ansible-role-enpass-master/tasks/setup-RedHat.yml

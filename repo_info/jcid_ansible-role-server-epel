@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-epel-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-server-epel-master/.travis.yml
+-rw-rw-r-- root/root        79 2016-12-11 10:56 ansible-role-server-epel-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-epel-master/meta/
+-rw-rw-r-- root/root       212 2016-12-11 10:56 ansible-role-server-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-epel-master/tasks/
+-rw-rw-r-- root/root       456 2016-12-11 10:56 ansible-role-server-epel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-epel-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-server-epel-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-12-11 10:56 ansible-role-server-epel-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-04-19 16:16 ansible-role-clonetocloud-master/
+-rw-rw-r-- root/root      1348 2016-04-19 16:16 ansible-role-clonetocloud-master/README.md
+drwxrwxr-x root/root         0 2016-04-19 16:16 ansible-role-clonetocloud-master/defaults/
+-rw-rw-r-- root/root      2051 2016-04-19 16:16 ansible-role-clonetocloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-19 16:16 ansible-role-clonetocloud-master/meta/
+-rw-rw-r-- root/root      2842 2016-04-19 16:16 ansible-role-clonetocloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-19 16:16 ansible-role-clonetocloud-master/tasks/
+-rw-rw-r-- root/root      1306 2016-04-19 16:16 ansible-role-clonetocloud-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-19 16:16 ansible-role-clonetocloud-master/templates/
+-rw-rw-r-- root/root      2877 2016-04-19 16:16 ansible-role-clonetocloud-master/templates/docker-compose-clonetocloud.yml
+-rw-rw-r-- root/root      2921 2016-04-19 16:16 ansible-role-clonetocloud-master/templates/lsyncd.conf
+-rw-rw-r-- root/root       540 2016-04-19 16:16 ansible-role-clonetocloud-master/templates/rclone-filter-from.txt

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/
+-rw-rw-r-- root/root        57 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/.gitignore
+-rw-rw-r-- root/root       743 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/.travis.yml
+-rw-rw-r-- root/root      1078 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/LICENSE
+-rw-rw-r-- root/root       793 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/README.md
+-rw-rw-r-- root/root      1054 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/circle.yml
+drwxrwxr-x root/root         0 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/defaults/
+-rw-rw-r-- root/root       161 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/meta/
+-rw-rw-r-- root/root       957 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/tasks/
+-rw-rw-r-- root/root       249 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/templates/
+-rw-rw-r-- root/root       652 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/templates/kill_supervisor.py.j2
+-rw-rw-r-- root/root        58 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/test.yml
+drwxrwxr-x root/root         0 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/vars/
+-rw-rw-r-- root/root        50 2019-05-22 12:28 ansible-kill-supervisor-eventlistener-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-04-07 16:35 ansible-role-ufw-master/
+-rw-rw-r-- root/root        65 2017-04-07 16:35 ansible-role-ufw-master/.bumpversion.cfg
+-rw-rw-r-- root/root        59 2017-04-07 16:35 ansible-role-ufw-master/.gitignore
+-rw-rw-r-- root/root      1806 2017-04-07 16:35 ansible-role-ufw-master/.travis.yml
+-rw-rw-r-- root/root      1073 2017-04-07 16:35 ansible-role-ufw-master/LICENSE
+-rw-rw-r-- root/root       844 2017-04-07 16:35 ansible-role-ufw-master/README.md
+drwxrwxr-x root/root         0 2017-04-07 16:35 ansible-role-ufw-master/defaults/
+-rw-rw-r-- root/root       265 2017-04-07 16:35 ansible-role-ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-07 16:35 ansible-role-ufw-master/meta/
+-rw-rw-r-- root/root       254 2017-04-07 16:35 ansible-role-ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-07 16:35 ansible-role-ufw-master/tasks/
+-rw-rw-r-- root/root       506 2017-04-07 16:35 ansible-role-ufw-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-07 16:35 ansible-role-ufw-master/tests/
+-rw-rw-r-- root/root      1675 2017-04-07 16:35 ansible-role-ufw-master/tests/key
+-rw-rw-r-- root/root       406 2017-04-07 16:35 ansible-role-ufw-master/tests/key.pub
+-rwxrwxr-x root/root      1219 2017-04-07 16:35 ansible-role-ufw-master/tests/localtests.sh
+-rw-rw-r-- root/root       129 2017-04-07 16:35 ansible-role-ufw-master/tests/test.yml

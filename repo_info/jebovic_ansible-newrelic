@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-newrelic-master/
+-rw-rw-r-- root/root      2160 2017-01-17 04:34 ansible-newrelic-master/.travis.yml
+-rw-rw-r-- root/root      1075 2017-01-17 04:34 ansible-newrelic-master/LICENSE
+-rw-rw-r-- root/root      2087 2017-01-17 04:34 ansible-newrelic-master/README.md
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-newrelic-master/defaults/
+-rw-rw-r-- root/root       693 2017-01-17 04:34 ansible-newrelic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-newrelic-master/handlers/
+-rw-rw-r-- root/root       126 2017-01-17 04:34 ansible-newrelic-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-newrelic-master/meta/
+-rw-rw-r-- root/root       396 2017-01-17 04:34 ansible-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-newrelic-master/tasks/
+-rw-rw-r-- root/root      1052 2017-01-17 04:34 ansible-newrelic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-newrelic-master/templates/
+-rw-rw-r-- root/root      4900 2017-01-17 04:34 ansible-newrelic-master/templates/nrsysmond.cfg.j2
+drwxrwxr-x root/root         0 2017-01-17 04:34 ansible-newrelic-master/tests/
+-rw-rw-r-- root/root         9 2017-01-17 04:34 ansible-newrelic-master/tests/inventory
+-rw-rw-r-- root/root       111 2017-01-17 04:34 ansible-newrelic-master/tests/test.yml

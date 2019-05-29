@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-08-28 15:20 ruby-master/
+-rw-rw-r-- root/root       801 2017-08-28 15:20 ruby-master/README.md
+drwxrwxr-x root/root         0 2017-08-28 15:20 ruby-master/defaults/
+-rw-rw-r-- root/root       178 2017-08-28 15:20 ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-28 15:20 ruby-master/meta/
+-rw-rw-r-- root/root       228 2017-08-28 15:20 ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-28 15:20 ruby-master/tasks/
+-rw-rw-r-- root/root       111 2017-08-28 15:20 ruby-master/tasks/bundler.yml
+-rw-rw-r-- root/root       140 2017-08-28 15:20 ruby-master/tasks/main.yml
+-rw-rw-r-- root/root       155 2017-08-28 15:20 ruby-master/tasks/permissions.yml
+-rw-rw-r-- root/root      1093 2017-08-28 15:20 ruby-master/tasks/ruby.yml

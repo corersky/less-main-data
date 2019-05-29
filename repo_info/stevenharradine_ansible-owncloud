@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-08 23:29 ansible-owncloud-master/
+-rw-rw-r-- root/root       739 2016-03-08 23:29 ansible-owncloud-master/LICENSE
+-rw-rw-r-- root/root       749 2016-03-08 23:29 ansible-owncloud-master/README.md
+drwxrwxr-x root/root         0 2016-03-08 23:29 ansible-owncloud-master/defaults/
+-rw-rw-r-- root/root       374 2016-03-08 23:29 ansible-owncloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 23:29 ansible-owncloud-master/meta/
+-rw-rw-r-- root/root       525 2016-03-08 23:29 ansible-owncloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 23:29 ansible-owncloud-master/tasks/
+-rw-rw-r-- root/root      1357 2016-03-08 23:29 ansible-owncloud-master/tasks/main.yml
+-rw-rw-r-- root/root       529 2016-03-08 23:29 ansible-owncloud-master/tasks/overwrite_configuration.yml
+drwxrwxr-x root/root         0 2016-03-08 23:29 ansible-owncloud-master/templates/
+drwxrwxr-x root/root         0 2016-03-08 23:29 ansible-owncloud-master/templates/owncloud/
+drwxrwxr-x root/root         0 2016-03-08 23:29 ansible-owncloud-master/templates/owncloud/config/
+-rw-rw-r-- root/root       648 2016-03-08 23:29 ansible-owncloud-master/templates/owncloud/config/config.php

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-24 10:06 ovirt_api_wait-master/
+-rw-rw-r-- root/root        10 2016-05-24 10:06 ovirt_api_wait-master/.gitignore
+-rw-rw-r-- root/root       560 2016-05-24 10:06 ovirt_api_wait-master/README.md
+drwxrwxr-x root/root         0 2016-05-24 10:06 ovirt_api_wait-master/defaults/
+-rw-rw-r-- root/root       212 2016-05-24 10:06 ovirt_api_wait-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-24 10:06 ovirt_api_wait-master/library/
+-rw-rw-r-- root/root      3379 2016-05-24 10:06 ovirt_api_wait-master/library/ovirt_api_wait.py
+drwxrwxr-x root/root         0 2016-05-24 10:06 ovirt_api_wait-master/meta/
+-rw-rw-r-- root/root       303 2016-05-24 10:06 ovirt_api_wait-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-24 10:06 ovirt_api_wait-master/tasks/
+-rw-rw-r-- root/root        30 2016-05-24 10:06 ovirt_api_wait-master/tasks/main.yml
+-rw-rw-r-- root/root       223 2016-05-24 10:06 ovirt_api_wait-master/tasks/ovirt_api_wait.yml

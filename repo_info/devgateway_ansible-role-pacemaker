@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-11 10:44 ansible-role-pacemaker-master/
+-rw-rw-r-- root/root     11860 2019-03-11 10:44 ansible-role-pacemaker-master/README.md
+drwxrwxr-x root/root         0 2019-03-11 10:44 ansible-role-pacemaker-master/defaults/
+-rw-rw-r-- root/root       149 2019-03-11 10:44 ansible-role-pacemaker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-11 10:44 ansible-role-pacemaker-master/meta/
+-rw-rw-r-- root/root       396 2019-03-11 10:44 ansible-role-pacemaker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/
+-rw-rw-r-- root/root      1239 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/advanced-resource.yml
+-rw-rw-r-- root/root      2028 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/constraint.yml
+-rw-rw-r-- root/root       597 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/group.yml
+-rw-rw-r-- root/root      2095 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/main.yml
+-rw-rw-r-- root/root       704 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/nvpair.yml
+-rw-rw-r-- root/root      1130 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/op.yml
+-rw-rw-r-- root/root      1329 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/post.yml
+-rw-rw-r-- root/root       781 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/pre.yml
+-rw-rw-r-- root/root      2382 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/primitive.yml
+-rw-rw-r-- root/root       235 2019-03-11 10:44 ansible-role-pacemaker-master/tasks/resource.yml

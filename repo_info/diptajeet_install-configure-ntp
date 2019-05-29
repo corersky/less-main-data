@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-03-03 16:30 install-configure-ntp-master/
+-rw-rw-r-- root/root       416 2018-03-03 16:30 install-configure-ntp-master/README.md
+-rw-rw-r-- root/root       108 2018-03-03 16:30 install-configure-ntp-master/install-configure-ntp.yml
+-rw-rw-r-- root/root        57 2018-03-03 16:30 install-configure-ntp-master/inventory
+drwxrwxr-x root/root         0 2018-03-03 16:30 install-configure-ntp-master/meta/
+-rw-rw-r-- root/root       223 2018-03-03 16:30 install-configure-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-03 16:30 install-configure-ntp-master/roles/
+drwxrwxr-x root/root         0 2018-03-03 16:30 install-configure-ntp-master/roles/ntp/
+drwxrwxr-x root/root         0 2018-03-03 16:30 install-configure-ntp-master/roles/ntp/tasks/
+-rw-rw-r-- root/root       782 2018-03-03 16:30 install-configure-ntp-master/roles/ntp/tasks/main.yml

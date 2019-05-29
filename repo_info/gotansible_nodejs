@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-09-24 18:38 nodejs-master/
+-rw-rw-r-- root/root        75 2015-09-24 18:38 nodejs-master/.bumpversion.cfg
+-rw-rw-r-- root/root       624 2015-09-24 18:38 nodejs-master/.travis.yml
+-rw-rw-r-- root/root       672 2015-09-24 18:38 nodejs-master/README.md
+-rw-rw-r-- root/root       311 2015-09-24 18:38 nodejs-master/Vagrantfile
+-rw-rw-r-- root/root        59 2015-09-24 18:38 nodejs-master/ansible.cfg
+-rwxrwxr-x root/root       775 2015-09-24 18:38 nodejs-master/bumpversion
+drwxrwxr-x root/root         0 2015-09-24 18:38 nodejs-master/defaults/
+-rw-rw-r-- root/root        52 2015-09-24 18:38 nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-24 18:38 nodejs-master/meta/
+-rw-rw-r-- root/root      1389 2015-09-24 18:38 nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-24 18:38 nodejs-master/tasks/
+-rw-rw-r-- root/root       246 2015-09-24 18:38 nodejs-master/tasks/depend.yml
+-rw-rw-r-- root/root       321 2015-09-24 18:38 nodejs-master/tasks/install_debian.yml
+-rw-rw-r-- root/root       192 2015-09-24 18:38 nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       109 2015-09-24 18:38 nodejs-master/tasks/npm_packages.yml
+-rw-rw-r-- root/root        58 2015-09-24 18:38 nodejs-master/test.yml

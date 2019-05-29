@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/
+drwxrwxr-x root/root         0 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/.beetbox/
+-rw-rw-r-- root/root       272 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/.beetbox/config.yml
+-rw-rw-r-- root/root        89 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/.gitignore
+-rw-rw-r-- root/root      1802 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/README.md
+-rw-rw-r-- root/root       327 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/circle.yml
+drwxrwxr-x root/root         0 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/defaults/
+-rw-rw-r-- root/root       184 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/meta/
+-rw-rw-r-- root/root       312 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/tasks/
+-rw-rw-r-- root/root       839 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/templates/
+-rw-rw-r-- root/root       715 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/templates/_ss_environment.php.j2
+drwxrwxr-x root/root         0 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/tests/
+-rw-rw-r-- root/root         0 2017-08-07 03:57 ansible-role-beetbox-silverstripe-master/tests/config.yml

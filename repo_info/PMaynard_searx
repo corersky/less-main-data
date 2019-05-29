@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-15 16:55 searx-master/
+-rw-rw-r-- root/root       595 2016-12-15 16:55 searx-master/README.md
+-rw-rw-r-- root/root       265 2016-12-15 16:55 searx-master/Vagrantfile
+drwxrwxr-x root/root         0 2016-12-15 16:55 searx-master/handlers/
+-rw-rw-r-- root/root       174 2016-12-15 16:55 searx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-15 16:55 searx-master/meta/
+-rw-rw-r-- root/root       258 2016-12-15 16:55 searx-master/meta/main.yml
+-rw-rw-r-- root/root        55 2016-12-15 16:55 searx-master/playbook-vagrant.yml
+drwxrwxr-x root/root         0 2016-12-15 16:55 searx-master/tasks/
+-rw-rw-r-- root/root      2123 2016-12-15 16:55 searx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-15 16:55 searx-master/templates/
+-rw-rw-r-- root/root       341 2016-12-15 16:55 searx-master/templates/searx.conf.j2
+-rw-rw-r-- root/root       314 2016-12-15 16:55 searx-master/templates/searx.ini.j2
+-rw-rw-r-- root/root       281 2016-12-15 16:55 searx-master/templates/searx.service
+drwxrwxr-x root/root         0 2016-12-15 16:55 searx-master/vars/
+-rw-rw-r-- root/root       258 2016-12-15 16:55 searx-master/vars/main.yml

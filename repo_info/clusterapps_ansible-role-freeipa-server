@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-19 15:35 ansible-role-freeipa-server-master/
+-rw-rw-r-- root/root     18050 2019-03-19 15:35 ansible-role-freeipa-server-master/LICENSE
+-rw-rw-r-- root/root      1771 2019-03-19 15:35 ansible-role-freeipa-server-master/README.md
+drwxrwxr-x root/root         0 2019-03-19 15:35 ansible-role-freeipa-server-master/defaults/
+-rw-rw-r-- root/root       785 2019-03-19 15:35 ansible-role-freeipa-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-19 15:35 ansible-role-freeipa-server-master/handlers/
+-rw-rw-r-- root/root        62 2019-03-19 15:35 ansible-role-freeipa-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-19 15:35 ansible-role-freeipa-server-master/meta/
+-rw-rw-r-- root/root       301 2019-03-19 15:35 ansible-role-freeipa-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-19 15:35 ansible-role-freeipa-server-master/tasks/
+-rw-rw-r-- root/root       601 2019-03-19 15:35 ansible-role-freeipa-server-master/tasks/firewalld.yml
+-rw-rw-r-- root/root      3715 2019-03-19 15:35 ansible-role-freeipa-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-19 15:35 ansible-role-freeipa-server-master/templates/
+-rw-rw-r-- root/root       294 2019-03-19 15:35 ansible-role-freeipa-server-master/templates/hosts.j2

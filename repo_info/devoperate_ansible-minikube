@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-minikube-master/
+-rw-rw-r-- root/root       219 2019-03-21 23:30 ansible-minikube-master/.editorconfig
+-rw-rw-r-- root/root       492 2019-03-21 23:30 ansible-minikube-master/.gitattributes
+-rw-rw-r-- root/root       819 2019-03-21 23:30 ansible-minikube-master/.gitignore
+-rw-rw-r-- root/root      1086 2019-03-21 23:30 ansible-minikube-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1073 2019-03-21 23:30 ansible-minikube-master/LICENSE
+-rw-rw-r-- root/root      1448 2019-03-21 23:30 ansible-minikube-master/README.md
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-minikube-master/defaults/
+-rw-rw-r-- root/root        68 2019-03-21 23:30 ansible-minikube-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-minikube-master/meta/
+-rw-rw-r-- root/root       561 2019-03-21 23:30 ansible-minikube-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-minikube-master/tasks/
+-rw-rw-r-- root/root       878 2019-03-21 23:30 ansible-minikube-master/tasks/install.yml
+-rw-rw-r-- root/root       559 2019-03-21 23:30 ansible-minikube-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-minikube-master/tests/
+-rw-rw-r-- root/root        11 2019-03-21 23:30 ansible-minikube-master/tests/inventory
+-rw-rw-r-- root/root        57 2019-03-21 23:30 ansible-minikube-master/tests/test.yml

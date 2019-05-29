@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-04 13:04 ansible-role-dtrace4linux-master/
+-rw-rw-r-- root/root         8 2017-10-04 13:04 ansible-role-dtrace4linux-master/.gitignore
+-rw-rw-r-- root/root        95 2017-10-04 13:04 ansible-role-dtrace4linux-master/.gitlab-ci.yml
+-rw-rw-r-- root/root       591 2017-10-04 13:04 ansible-role-dtrace4linux-master/.travis.yml
+-rw-rw-r-- root/root      1512 2017-10-04 13:04 ansible-role-dtrace4linux-master/LICENSE
+-rw-rw-r-- root/root       361 2017-10-04 13:04 ansible-role-dtrace4linux-master/README.md
+drwxrwxr-x root/root         0 2017-10-04 13:04 ansible-role-dtrace4linux-master/defaults/
+-rw-rw-r-- root/root       979 2017-10-04 13:04 ansible-role-dtrace4linux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-04 13:04 ansible-role-dtrace4linux-master/handlers/
+-rw-rw-r-- root/root        37 2017-10-04 13:04 ansible-role-dtrace4linux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-04 13:04 ansible-role-dtrace4linux-master/meta/
+-rw-rw-r-- root/root       665 2017-10-04 13:04 ansible-role-dtrace4linux-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-04 13:04 ansible-role-dtrace4linux-master/tasks/
+-rw-rw-r-- root/root      1446 2017-10-04 13:04 ansible-role-dtrace4linux-master/tasks/main.yml
+-rw-rw-r-- root/root       189 2017-10-04 13:04 ansible-role-dtrace4linux-master/test.yml
+drwxrwxr-x root/root         0 2017-10-04 13:04 ansible-role-dtrace4linux-master/vars/
+-rw-rw-r-- root/root        30 2017-10-04 13:04 ansible-role-dtrace4linux-master/vars/main.yml

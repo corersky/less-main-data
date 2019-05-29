@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-12-07 10:42 ansible-role-tomcat-master/
+-rw-rw-r-- root/root      1411 2016-12-07 10:42 ansible-role-tomcat-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-12-07 10:42 ansible-role-tomcat-master/LICENSE
+-rw-rw-r-- root/root      1058 2016-12-07 10:42 ansible-role-tomcat-master/README.md
+drwxrwxr-x root/root         0 2016-12-07 10:42 ansible-role-tomcat-master/meta/
+-rw-rw-r-- root/root       299 2016-12-07 10:42 ansible-role-tomcat-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-07 10:42 ansible-role-tomcat-master/tasks/
+-rw-rw-r-- root/root       117 2016-12-07 10:42 ansible-role-tomcat-master/tasks/Debian.yaml
+-rw-rw-r-- root/root       132 2016-12-07 10:42 ansible-role-tomcat-master/tasks/RedHat.yaml
+-rw-rw-r-- root/root       101 2016-12-07 10:42 ansible-role-tomcat-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-12-07 10:42 ansible-role-tomcat-master/tests/
+-rw-rw-r-- root/root        36 2016-12-07 10:42 ansible-role-tomcat-master/tests/inventory
+-rw-rw-r-- root/root        54 2016-12-07 10:42 ansible-role-tomcat-master/tests/test.yml

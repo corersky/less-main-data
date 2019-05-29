@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-30 08:10 ansible-role-php-elasticache-master/
+-rw-rw-r-- root/root       180 2017-05-30 08:10 ansible-role-php-elasticache-master/README.md
+drwxrwxr-x root/root         0 2017-05-30 08:10 ansible-role-php-elasticache-master/defaults/
+-rw-rw-r-- root/root        39 2017-05-30 08:10 ansible-role-php-elasticache-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-30 08:10 ansible-role-php-elasticache-master/handlers/
+-rw-rw-r-- root/root        39 2017-05-30 08:10 ansible-role-php-elasticache-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-30 08:10 ansible-role-php-elasticache-master/meta/
+-rw-rw-r-- root/root       389 2017-05-30 08:10 ansible-role-php-elasticache-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-30 08:10 ansible-role-php-elasticache-master/tasks/
+-rw-rw-r-- root/root      1275 2017-05-30 08:10 ansible-role-php-elasticache-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-30 08:10 ansible-role-php-elasticache-master/tests/
+-rw-rw-r-- root/root        11 2017-05-30 08:10 ansible-role-php-elasticache-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-05-30 08:10 ansible-role-php-elasticache-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-30 08:10 ansible-role-php-elasticache-master/vars/
+-rw-rw-r-- root/root        35 2017-05-30 08:10 ansible-role-php-elasticache-master/vars/main.yml

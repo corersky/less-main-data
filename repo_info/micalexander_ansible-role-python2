@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-27 20:44 ansible-role-python2-master/
+-rw-rw-r-- root/root      1328 2018-10-27 20:44 ansible-role-python2-master/README.md
+drwxrwxr-x root/root         0 2018-10-27 20:44 ansible-role-python2-master/defaults/
+-rw-rw-r-- root/root        49 2018-10-27 20:44 ansible-role-python2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-27 20:44 ansible-role-python2-master/handlers/
+-rw-rw-r-- root/root        31 2018-10-27 20:44 ansible-role-python2-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-27 20:44 ansible-role-python2-master/meta/
+-rw-rw-r-- root/root      1975 2018-10-27 20:44 ansible-role-python2-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-27 20:44 ansible-role-python2-master/tasks/
+-rw-rw-r-- root/root       143 2018-10-27 20:44 ansible-role-python2-master/tasks/apt-install.yml
+-rw-rw-r-- root/root        94 2018-10-27 20:44 ansible-role-python2-master/tasks/main.yml
+-rw-rw-r-- root/root       629 2018-10-27 20:44 ansible-role-python2-master/tasks/pip2-install.yml
+drwxrwxr-x root/root         0 2018-10-27 20:44 ansible-role-python2-master/tests/
+-rw-rw-r-- root/root        11 2018-10-27 20:44 ansible-role-python2-master/tests/inventory
+-rw-rw-r-- root/root        65 2018-10-27 20:44 ansible-role-python2-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-27 20:44 ansible-role-python2-master/vars/
+-rw-rw-r-- root/root        27 2018-10-27 20:44 ansible-role-python2-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-06-14 19:40 ansible-role-docker-master/
+-rw-rw-r-- root/root         3 2018-06-14 19:40 ansible-role-docker-master/.gitignore
+-rw-rw-r-- root/root       766 2018-06-14 19:40 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2018-06-14 19:40 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        58 2018-06-14 19:40 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-14 19:40 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root        75 2018-06-14 19:40 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-14 19:40 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       326 2018-06-14 19:40 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-14 19:40 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       701 2018-06-14 19:40 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-14 19:40 ansible-role-docker-master/templates/
+-rw-rw-r-- root/root        61 2018-06-14 19:40 ansible-role-docker-master/templates/docker-config.json.j2
+-rw-rw-r-- root/root        49 2018-06-14 19:40 ansible-role-docker-master/templates/docker-daemon.json.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-07 03:42 ansible-role-netmagis-master/
+-rw-rw-r-- root/root      2279 2018-12-07 03:42 ansible-role-netmagis-master/README.md
+drwxrwxr-x root/root         0 2018-12-07 03:42 ansible-role-netmagis-master/defaults/
+-rw-rw-r-- root/root       739 2018-12-07 03:42 ansible-role-netmagis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-07 03:42 ansible-role-netmagis-master/files/
+-rw-rw-r-- root/root      1467 2018-12-07 03:42 ansible-role-netmagis-master/files/netmagis_login.diff
+drwxrwxr-x root/root         0 2018-12-07 03:42 ansible-role-netmagis-master/handlers/
+-rw-rw-r-- root/root        80 2018-12-07 03:42 ansible-role-netmagis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-07 03:42 ansible-role-netmagis-master/meta/
+-rw-rw-r-- root/root       446 2018-12-07 03:42 ansible-role-netmagis-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-07 03:42 ansible-role-netmagis-master/tasks/
+-rw-rw-r-- root/root      2956 2018-12-07 03:42 ansible-role-netmagis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-07 03:42 ansible-role-netmagis-master/templates/
+-rw-rw-r-- root/root      8361 2018-12-07 03:42 ansible-role-netmagis-master/templates/netmagis.conf.j2
+-rw-rw-r-- root/root       477 2018-12-07 03:42 ansible-role-netmagis-master/templates/netmagis_fastcgi.rc.j2
+-rw-rw-r-- root/root       565 2018-12-07 03:42 ansible-role-netmagis-master/templates/nginx_netmagis.conf.j2

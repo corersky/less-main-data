@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-11-18 16:15 ansible-role-motd-master/
+-rw-rw-r-- root/root      1514 2017-11-18 16:15 ansible-role-motd-master/LICENSE
+-rw-rw-r-- root/root        32 2017-11-18 16:15 ansible-role-motd-master/README.md
+drwxrwxr-x root/root         0 2017-11-18 16:15 ansible-role-motd-master/files/
+-rw-rw-r-- root/root         0 2017-11-18 16:15 ansible-role-motd-master/files/motd
+drwxrwxr-x root/root         0 2017-11-18 16:15 ansible-role-motd-master/meta/
+-rw-rw-r-- root/root       243 2017-11-18 16:15 ansible-role-motd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-18 16:15 ansible-role-motd-master/tasks/
+-rw-rw-r-- root/root       117 2017-11-18 16:15 ansible-role-motd-master/tasks/build.yml
+-rw-rw-r-- root/root        45 2017-11-18 16:15 ansible-role-motd-master/tasks/main.yml

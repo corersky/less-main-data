@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-12 05:18 ansible-bind-master/
+-rw-rw-r-- root/root         0 2017-05-12 05:18 ansible-bind-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-05-12 05:18 ansible-bind-master/LICENSE
+-rw-rw-r-- root/root      1955 2017-05-12 05:18 ansible-bind-master/README.md
+drwxrwxr-x root/root         0 2017-05-12 05:18 ansible-bind-master/defaults/
+-rw-rw-r-- root/root      1185 2017-05-12 05:18 ansible-bind-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:18 ansible-bind-master/handlers/
+-rw-rw-r-- root/root       187 2017-05-12 05:18 ansible-bind-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:18 ansible-bind-master/meta/
+-rw-rw-r-- root/root       275 2017-05-12 05:18 ansible-bind-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-12 05:18 ansible-bind-master/tasks/
+-rw-rw-r-- root/root       861 2017-05-12 05:18 ansible-bind-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-12 05:18 ansible-bind-master/templates/
+-rw-rw-r-- root/root        88 2017-05-12 05:18 ansible-bind-master/templates/named.conf.j2
+-rw-rw-r-- root/root        95 2017-05-12 05:18 ansible-bind-master/templates/named.sysconfig.j2

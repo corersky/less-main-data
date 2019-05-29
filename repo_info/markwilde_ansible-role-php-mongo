@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-19 10:11 ansible-role-php-mongo-master/
+-rw-rw-r-- root/root       136 2015-10-19 10:11 ansible-role-php-mongo-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 10:11 ansible-role-php-mongo-master/defaults/
+-rw-rw-r-- root/root        71 2015-10-19 10:11 ansible-role-php-mongo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:11 ansible-role-php-mongo-master/meta/
+-rw-rw-r-- root/root       362 2015-10-19 10:11 ansible-role-php-mongo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:11 ansible-role-php-mongo-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 10:11 ansible-role-php-mongo-master/tasks/debian/
+-rw-rw-r-- root/root       335 2015-10-19 10:11 ansible-role-php-mongo-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       352 2015-10-19 10:11 ansible-role-php-mongo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:11 ansible-role-php-mongo-master/tasks/redhat/
+-rw-rw-r-- root/root        96 2015-10-19 10:11 ansible-role-php-mongo-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:11 ansible-role-php-mongo-master/templates/
+-rw-rw-r-- root/root       117 2015-10-19 10:11 ansible-role-php-mongo-master/templates/mongo.ini.j2
+drwxrwxr-x root/root         0 2015-10-19 10:11 ansible-role-php-mongo-master/vars/
+-rw-rw-r-- root/root        58 2015-10-19 10:11 ansible-role-php-mongo-master/vars/Debian.yml
+-rw-rw-r-- root/root        62 2015-10-19 10:11 ansible-role-php-mongo-master/vars/RedHat.yml

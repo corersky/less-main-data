@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-12-19 15:56 role.checkinstall-master/
+-rw-rw-r-- root/root         9 2014-12-19 15:56 role.checkinstall-master/.gitignore
+-rw-rw-r-- root/root       130 2014-12-19 15:56 role.checkinstall-master/README.md
+-rw-rw-r-- root/root       806 2014-12-19 15:56 role.checkinstall-master/Vagrantfile
+-rw-rw-r-- root/root        39 2014-12-19 15:56 role.checkinstall-master/ansible.cfg
+drwxrwxr-x root/root         0 2014-12-19 15:56 role.checkinstall-master/defaults/
+-rw-rw-r-- root/root        32 2014-12-19 15:56 role.checkinstall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-19 15:56 role.checkinstall-master/files/
+drwxrwxr-x root/root         0 2014-12-19 15:56 role.checkinstall-master/files/el6/
+-rw-rw-r-- root/root    114560 2014-12-19 15:56 role.checkinstall-master/files/el6/checkinstall-1.6.2-1.x86_64.rpm
+drwxrwxr-x root/root         0 2014-12-19 15:56 role.checkinstall-master/meta/
+-rw-rw-r-- root/root      2013 2014-12-19 15:56 role.checkinstall-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-19 15:56 role.checkinstall-master/tasks/
+-rw-rw-r-- root/root       164 2014-12-19 15:56 role.checkinstall-master/tasks/apt.yml
+-rw-rw-r-- root/root       847 2014-12-19 15:56 role.checkinstall-master/tasks/el6.yml
+-rw-rw-r-- root/root       402 2014-12-19 15:56 role.checkinstall-master/tasks/main.yml
+-rw-rw-r-- root/root        46 2014-12-19 15:56 role.checkinstall-master/test.yml

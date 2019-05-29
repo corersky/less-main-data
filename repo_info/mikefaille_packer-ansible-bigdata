@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-02-24 04:53 packer-ansible-bigdata-master/
+-rw-rw-r-- root/root       179 2016-02-24 04:53 packer-ansible-bigdata-master/.gitmodules
+-rw-rw-r-- root/root     11357 2016-02-24 04:53 packer-ansible-bigdata-master/LICENSE
+-rw-rw-r-- root/root       391 2016-02-24 04:53 packer-ansible-bigdata-master/ansible-static-requirements.yml
+drwxrwxr-x root/root         0 2016-02-24 04:53 packer-ansible-bigdata-master/docker/
+-rw-rw-r-- root/root      1092 2016-02-24 04:53 packer-ansible-bigdata-master/docker/Dockerfile
+drwxrwxr-x root/root         0 2016-02-24 04:53 packer-ansible-bigdata-master/packer/
+-rw-rw-r-- root/root      1861 2016-02-24 04:53 packer-ansible-bigdata-master/packer/step1-create_updated_centos_ami.json
+-rw-rw-r-- root/root      1247 2016-02-24 04:53 packer-ansible-bigdata-master/packer/step2-initialise_ansible_orchestrator.json
+drwxrwxr-x root/root         0 2016-02-24 04:53 packer-ansible-bigdata-master/roles/
+drwxrwxr-x root/root         0 2016-02-24 04:53 packer-ansible-bigdata-master/roles/ansible-static-requirements-bigdata/

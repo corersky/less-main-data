@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-14 23:00 ansible-role-database-docker-master/
+-rw-rw-r-- root/root       405 2019-03-14 23:00 ansible-role-database-docker-master/README.md
+drwxrwxr-x root/root         0 2019-03-14 23:00 ansible-role-database-docker-master/defaults/
+-rw-rw-r-- root/root       174 2019-03-14 23:00 ansible-role-database-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-14 23:00 ansible-role-database-docker-master/handlers/
+-rw-rw-r-- root/root        49 2019-03-14 23:00 ansible-role-database-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-14 23:00 ansible-role-database-docker-master/meta/
+-rw-rw-r-- root/root       339 2019-03-14 23:00 ansible-role-database-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-14 23:00 ansible-role-database-docker-master/tasks/
+-rw-rw-r-- root/root       775 2019-03-14 23:00 ansible-role-database-docker-master/tasks/main.yml
+-rw-rw-r-- root/root       711 2019-03-14 23:00 ansible-role-database-docker-master/tasks/mysql-server.yml
+drwxrwxr-x root/root         0 2019-03-14 23:00 ansible-role-database-docker-master/tests/
+-rw-rw-r-- root/root        11 2019-03-14 23:00 ansible-role-database-docker-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-03-14 23:00 ansible-role-database-docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-14 23:00 ansible-role-database-docker-master/vars/
+-rw-rw-r-- root/root        45 2019-03-14 23:00 ansible-role-database-docker-master/vars/main.yml

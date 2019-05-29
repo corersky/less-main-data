@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-01-25 10:40 ansible-role-tomcat8-master/
+-rw-rw-r-- root/root         7 2018-01-25 10:40 ansible-role-tomcat8-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-01-25 10:40 ansible-role-tomcat8-master/LICENSE
+-rw-rw-r-- root/root       729 2018-01-25 10:40 ansible-role-tomcat8-master/README.md
+drwxrwxr-x root/root         0 2018-01-25 10:40 ansible-role-tomcat8-master/defaults/
+-rw-rw-r-- root/root       285 2018-01-25 10:40 ansible-role-tomcat8-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-25 10:40 ansible-role-tomcat8-master/meta/
+-rw-rw-r-- root/root       318 2018-01-25 10:40 ansible-role-tomcat8-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-25 10:40 ansible-role-tomcat8-master/tasks/
+-rw-rw-r-- root/root       413 2018-01-25 10:40 ansible-role-tomcat8-master/tasks/default.yml
+-rw-rw-r-- root/root      1634 2018-01-25 10:40 ansible-role-tomcat8-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-25 10:40 ansible-role-tomcat8-master/templates/
+-rw-rw-r-- root/root       534 2018-01-25 10:40 ansible-role-tomcat8-master/templates/tomcat8.service.j2

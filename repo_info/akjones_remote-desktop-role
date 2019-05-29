@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-10-05 16:39 remote-desktop-role-master/
+-rw-rw-r-- root/root     35141 2017-10-05 16:39 remote-desktop-role-master/LICENSE
+-rw-rw-r-- root/root       486 2017-10-05 16:39 remote-desktop-role-master/README.md
+drwxrwxr-x root/root         0 2017-10-05 16:39 remote-desktop-role-master/defaults/
+-rw-rw-r-- root/root        55 2017-10-05 16:39 remote-desktop-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-05 16:39 remote-desktop-role-master/files/
+-rw-rw-r-- root/root      2596 2017-10-05 16:39 remote-desktop-role-master/files/sshd_config
+-rw-rw-r-- root/root       872 2017-10-05 16:39 remote-desktop-role-master/files/xrdp.ini
+-rw-rw-r-- root/root        13 2017-10-05 16:39 remote-desktop-role-master/files/xsession
+drwxrwxr-x root/root         0 2017-10-05 16:39 remote-desktop-role-master/meta/
+-rw-rw-r-- root/root       293 2017-10-05 16:39 remote-desktop-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-05 16:39 remote-desktop-role-master/tasks/
+-rw-rw-r-- root/root      1265 2017-10-05 16:39 remote-desktop-role-master/tasks/main.yml

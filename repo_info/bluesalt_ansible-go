@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-10-01 12:43 ansible-go-master/
+-rw-rw-r-- root/root      3045 2016-10-01 12:43 ansible-go-master/README.md
+drwxrwxr-x root/root         0 2016-10-01 12:43 ansible-go-master/defaults/
+-rw-rw-r-- root/root       210 2016-10-01 12:43 ansible-go-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-01 12:43 ansible-go-master/files/
+-rw-rw-r-- root/root        36 2016-10-01 12:43 ansible-go-master/files/go-bin.sh
+-rw-rw-r-- root/root        53 2016-10-01 12:43 ansible-go-master/files/go-path.sh
+drwxrwxr-x root/root         0 2016-10-01 12:43 ansible-go-master/meta/
+-rw-rw-r-- root/root       904 2016-10-01 12:43 ansible-go-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-01 12:43 ansible-go-master/tasks/
+-rw-rw-r-- root/root       964 2016-10-01 12:43 ansible-go-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-01 12:43 ansible-go-master/vars/
+-rw-rw-r-- root/root        83 2016-10-01 12:43 ansible-go-master/vars/main.yml

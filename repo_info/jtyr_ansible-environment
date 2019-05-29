@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-12 10:42 ansible-environment-master/
+-rw-rw-r-- root/root         0 2016-08-12 10:42 ansible-environment-master/.gitignore
+-rw-rw-r-- root/root      1075 2016-08-12 10:42 ansible-environment-master/LICENSE.md
+-rw-rw-r-- root/root       572 2016-08-12 10:42 ansible-environment-master/README.md
+drwxrwxr-x root/root         0 2016-08-12 10:42 ansible-environment-master/defaults/
+-rw-rw-r-- root/root       130 2016-08-12 10:42 ansible-environment-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2016-08-12 10:42 ansible-environment-master/meta/
+-rw-rw-r-- root/root       296 2016-08-12 10:42 ansible-environment-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-12 10:42 ansible-environment-master/tasks/
+-rw-rw-r-- root/root       151 2016-08-12 10:42 ansible-environment-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2016-08-12 10:42 ansible-environment-master/templates/
+-rw-rw-r-- root/root        82 2016-08-12 10:42 ansible-environment-master/templates/environment.j2

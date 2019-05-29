@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-06-02 11:26 ansible-sidekiq-upstart-master/
+-rw-rw-r-- root/root        43 2016-06-02 11:26 ansible-sidekiq-upstart-master/.gitignore
+-rw-rw-r-- root/root      1096 2016-06-02 11:26 ansible-sidekiq-upstart-master/LICENSE
+-rw-rw-r-- root/root       560 2016-06-02 11:26 ansible-sidekiq-upstart-master/README.md
+-rw-rw-r-- root/root      1072 2016-06-02 11:26 ansible-sidekiq-upstart-master/circle.yml
+drwxrwxr-x root/root         0 2016-06-02 11:26 ansible-sidekiq-upstart-master/defaults/
+-rw-rw-r-- root/root       113 2016-06-02 11:26 ansible-sidekiq-upstart-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-02 11:26 ansible-sidekiq-upstart-master/meta/
+-rw-rw-r-- root/root       369 2016-06-02 11:26 ansible-sidekiq-upstart-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-02 11:26 ansible-sidekiq-upstart-master/tasks/
+-rw-rw-r-- root/root       171 2016-06-02 11:26 ansible-sidekiq-upstart-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-02 11:26 ansible-sidekiq-upstart-master/templates/
+-rw-rw-r-- root/root       382 2016-06-02 11:26 ansible-sidekiq-upstart-master/templates/sidekiq_init.j2
+drwxrwxr-x root/root         0 2016-06-02 11:26 ansible-sidekiq-upstart-master/tests/
+-rw-rw-r-- root/root         9 2016-06-02 11:26 ansible-sidekiq-upstart-master/tests/inventory
+-rw-rw-r-- root/root       105 2016-06-02 11:26 ansible-sidekiq-upstart-master/tests/test.yml

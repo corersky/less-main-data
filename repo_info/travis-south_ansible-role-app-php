@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-04 08:45 ansible-role-app-php-master/
+-rw-rw-r-- root/root        12 2016-11-04 08:45 ansible-role-app-php-master/.gitignore
+-rw-rw-r-- root/root       539 2016-11-04 08:45 ansible-role-app-php-master/.travis.yml
+-rw-rw-r-- root/root       974 2016-11-04 08:45 ansible-role-app-php-master/README.md
+drwxrwxr-x root/root         0 2016-11-04 08:45 ansible-role-app-php-master/defaults/
+-rw-rw-r-- root/root       780 2016-11-04 08:45 ansible-role-app-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-04 08:45 ansible-role-app-php-master/handlers/
+-rw-rw-r-- root/root        48 2016-11-04 08:45 ansible-role-app-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-04 08:45 ansible-role-app-php-master/meta/
+-rw-rw-r-- root/root      1768 2016-11-04 08:45 ansible-role-app-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-04 08:45 ansible-role-app-php-master/tasks/
+-rw-rw-r-- root/root        45 2016-11-04 08:45 ansible-role-app-php-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-04 08:45 ansible-role-app-php-master/tests/
+-rw-rw-r-- root/root         9 2016-11-04 08:45 ansible-role-app-php-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-11-04 08:45 ansible-role-app-php-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-04 08:45 ansible-role-app-php-master/vars/
+-rw-rw-r-- root/root       957 2016-11-04 08:45 ansible-role-app-php-master/vars/main.yml

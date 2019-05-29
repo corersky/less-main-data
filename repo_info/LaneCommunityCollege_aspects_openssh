@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-14 15:52 aspects_openssh-master/
+-rw-rw-r-- root/root       408 2019-03-14 15:52 aspects_openssh-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1092 2019-03-14 15:52 aspects_openssh-master/LICENSE
+-rw-rw-r-- root/root      2762 2019-03-14 15:52 aspects_openssh-master/README.md
+drwxrwxr-x root/root         0 2019-03-14 15:52 aspects_openssh-master/defaults/
+-rw-rw-r-- root/root      2803 2019-03-14 15:52 aspects_openssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-14 15:52 aspects_openssh-master/handlers/
+-rw-rw-r-- root/root       470 2019-03-14 15:52 aspects_openssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-14 15:52 aspects_openssh-master/meta/
+-rw-rw-r-- root/root       537 2019-03-14 15:52 aspects_openssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-14 15:52 aspects_openssh-master/tasks/
+-rw-rw-r-- root/root       170 2019-03-14 15:52 aspects_openssh-master/tasks/init.yml
+-rw-rw-r-- root/root       161 2019-03-14 15:52 aspects_openssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-14 15:52 aspects_openssh-master/templates/
+-rw-rw-r-- root/root      2650 2019-03-14 15:52 aspects_openssh-master/templates/etc-ssh-sshd_config.j2

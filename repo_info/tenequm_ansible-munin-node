@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-15 06:14 ansible-munin-node-master/
+-rw-rw-r-- root/root      1084 2018-02-15 06:14 ansible-munin-node-master/LICENSE
+-rw-rw-r-- root/root      2496 2018-02-15 06:14 ansible-munin-node-master/README.md
+drwxrwxr-x root/root         0 2018-02-15 06:14 ansible-munin-node-master/defaults/
+-rw-rw-r-- root/root       724 2018-02-15 06:14 ansible-munin-node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-15 06:14 ansible-munin-node-master/handlers/
+-rw-rw-r-- root/root        74 2018-02-15 06:14 ansible-munin-node-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-15 06:14 ansible-munin-node-master/meta/
+-rw-rw-r-- root/root       276 2018-02-15 06:14 ansible-munin-node-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-15 06:14 ansible-munin-node-master/tasks/
+-rw-rw-r-- root/root      1131 2018-02-15 06:14 ansible-munin-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-15 06:14 ansible-munin-node-master/templates/
+-rw-rw-r-- root/root      1638 2018-02-15 06:14 ansible-munin-node-master/templates/munin-node.conf.j2
+-rw-rw-r-- root/root       169 2018-02-15 06:14 ansible-munin-node-master/templates/plugin-conf.j2

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-30 13:52 ansible-role-plex-master/
+-rw-rw-r-- root/root     35141 2017-07-30 13:52 ansible-role-plex-master/LICENSE
+-rw-rw-r-- root/root       622 2017-07-30 13:52 ansible-role-plex-master/README.md
+drwxrwxr-x root/root         0 2017-07-30 13:52 ansible-role-plex-master/defaults/
+-rw-rw-r-- root/root        41 2017-07-30 13:52 ansible-role-plex-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-30 13:52 ansible-role-plex-master/handlers/
+-rw-rw-r-- root/root        41 2017-07-30 13:52 ansible-role-plex-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-30 13:52 ansible-role-plex-master/meta/
+-rw-rw-r-- root/root       208 2017-07-30 13:52 ansible-role-plex-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-30 13:52 ansible-role-plex-master/tasks/
+-rw-rw-r-- root/root       391 2017-07-30 13:52 ansible-role-plex-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-30 13:52 ansible-role-plex-master/tests/
+-rw-rw-r-- root/root        11 2017-07-30 13:52 ansible-role-plex-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-07-30 13:52 ansible-role-plex-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-30 13:52 ansible-role-plex-master/vars/
+-rw-rw-r-- root/root       161 2017-07-30 13:52 ansible-role-plex-master/vars/main.yml

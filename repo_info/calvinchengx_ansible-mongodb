@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-02-07 00:14 ansible-mongodb-master/
+-rw-rw-r-- root/root        57 2015-02-07 00:14 ansible-mongodb-master/.gitignore
+-rw-rw-r-- root/root      1328 2015-02-07 00:14 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2015-02-07 00:14 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root        40 2015-02-07 00:14 ansible-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-07 00:14 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root       117 2015-02-07 00:14 ansible-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-07 00:14 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       224 2015-02-07 00:14 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-07 00:14 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root       181 2015-02-07 00:14 ansible-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-07 00:14 ansible-mongodb-master/vars/
+-rw-rw-r-- root/root        36 2015-02-07 00:14 ansible-mongodb-master/vars/main.yml

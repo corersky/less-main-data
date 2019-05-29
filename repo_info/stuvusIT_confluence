@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-07 08:08 confluence-master/
+-rw-rw-r-- root/root     20133 2018-07-07 08:08 confluence-master/LICENSE
+-rw-rw-r-- root/root      5508 2018-07-07 08:08 confluence-master/README.md
+drwxrwxr-x root/root         0 2018-07-07 08:08 confluence-master/defaults/
+-rw-rw-r-- root/root       600 2018-07-07 08:08 confluence-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-07 08:08 confluence-master/meta/
+-rw-rw-r-- root/root       431 2018-07-07 08:08 confluence-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-07 08:08 confluence-master/tasks/
+-rw-rw-r-- root/root      2580 2018-07-07 08:08 confluence-master/tasks/main.yml
+-rw-rw-r-- root/root       930 2018-07-07 08:08 confluence-master/tasks/postgresql.yml
+drwxrwxr-x root/root         0 2018-07-07 08:08 confluence-master/templates/
+-rw-rw-r-- root/root      1474 2018-07-07 08:08 confluence-master/templates/confluence.service.j2
+-rw-rw-r-- root/root      1653 2018-07-07 08:08 confluence-master/templates/server.xml.j2

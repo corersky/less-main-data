@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-02 02:03 ansible-python-scl-master/
+-rw-rw-r-- root/root       540 2017-01-02 02:03 ansible-python-scl-master/.travis.yml
+drwxrwxr-x root/root         0 2017-01-02 02:03 ansible-python-scl-master/defaults/
+-rw-rw-r-- root/root      2078 2017-01-02 02:03 ansible-python-scl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-02 02:03 ansible-python-scl-master/meta/
+-rw-rw-r-- root/root       133 2017-01-02 02:03 ansible-python-scl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-02 02:03 ansible-python-scl-master/tasks/
+-rw-rw-r-- root/root      1056 2017-01-02 02:03 ansible-python-scl-master/tasks/extras.yml
+-rw-rw-r-- root/root       178 2017-01-02 02:03 ansible-python-scl-master/tasks/main.yml
+-rw-rw-r-- root/root       732 2017-01-02 02:03 ansible-python-scl-master/tasks/oracle.yml
+-rw-rw-r-- root/root      2604 2017-01-02 02:03 ansible-python-scl-master/tasks/prerequisite.yml
+-rw-rw-r-- root/root      1125 2017-01-02 02:03 ansible-python-scl-master/tasks/python.yml
+drwxrwxr-x root/root         0 2017-01-02 02:03 ansible-python-scl-master/tests/
+-rw-rw-r-- root/root        71 2017-01-02 02:03 ansible-python-scl-master/tests/inventory
+-rw-rw-r-- root/root       245 2017-01-02 02:03 ansible-python-scl-master/tests/test.yml

@@ -1,0 +1,29 @@
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/
+-rw-rw-r-- root/root        12 2014-06-29 12:29 ansible-supervisord-master/.gitignore
+-rw-rw-r-- root/root       241 2014-06-29 12:29 ansible-supervisord-master/.travis.yml
+-rw-rw-r-- root/root      4724 2014-06-29 12:29 ansible-supervisord-master/README.md
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/_tests/
+-rw-rw-r-- root/root      1219 2014-06-29 12:29 ansible-supervisord-master/_tests/all.yml
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/_tests/roles/
+lrwxrwxrwx root/root         0 2014-06-29 12:29 ansible-supervisord-master/_tests/roles/supervisord -> ../../
+-rwxrwxr-x root/root       517 2014-06-29 12:29 ansible-supervisord-master/_tests/run_tests.sh
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/_vagrant/
+-rw-rw-r-- root/root       482 2014-06-29 12:29 ansible-supervisord-master/_vagrant/Vagrantfile
+-rwxrwxr-x root/root       417 2014-06-29 12:29 ansible-supervisord-master/_vagrant/ansible-playbook.sh
+-rwxrwxr-x root/root       362 2014-06-29 12:29 ansible-supervisord-master/_vagrant/ansible.sh
+-rw-rw-r-- root/root       922 2014-06-29 12:29 ansible-supervisord-master/_vagrant/playbook.yml
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/_vagrant/roles/
+lrwxrwxrwx root/root         0 2014-06-29 12:29 ansible-supervisord-master/_vagrant/roles/supervisord -> ../../
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/defaults/
+-rw-rw-r-- root/root       451 2014-06-29 12:29 ansible-supervisord-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/handlers/
+-rw-rw-r-- root/root       222 2014-06-29 12:29 ansible-supervisord-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/meta/
+-rw-rw-r-- root/root      1766 2014-06-29 12:29 ansible-supervisord-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/tasks/
+-rw-rw-r-- root/root       931 2014-06-29 12:29 ansible-supervisord-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/templates/
+-rw-rw-r-- root/root      2835 2014-06-29 12:29 ansible-supervisord-master/templates/supervisord.conf.j2
+-rw-rw-r-- root/root       401 2014-06-29 12:29 ansible-supervisord-master/templates/upstart.j2
+drwxrwxr-x root/root         0 2014-06-29 12:29 ansible-supervisord-master/vars/
+-rw-rw-r-- root/root        32 2014-06-29 12:29 ansible-supervisord-master/vars/main.yml

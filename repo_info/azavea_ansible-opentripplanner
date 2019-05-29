@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/
+-rw-rw-r-- root/root        71 2019-04-25 09:17 ansible-opentripplanner-master/.gitignore
+-rw-rw-r-- root/root      1469 2019-04-25 09:17 ansible-opentripplanner-master/CHANGELOG.md
+-rw-rw-r-- root/root     11309 2019-04-25 09:17 ansible-opentripplanner-master/LICENSE
+-rw-rw-r-- root/root      1931 2019-04-25 09:17 ansible-opentripplanner-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/defaults/
+-rw-rw-r-- root/root       416 2019-04-25 09:17 ansible-opentripplanner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/examples/
+-rw-rw-r-- root/root       775 2019-04-25 09:17 ansible-opentripplanner-master/examples/Vagrantfile
+-rw-rw-r-- root/root        72 2019-04-25 09:17 ansible-opentripplanner-master/examples/roles.yml
+drwxrwxr-x root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/examples/roles/
+lrwxrwxrwx root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/examples/roles/azavea.opentripplanner -> ../../
+-rw-rw-r-- root/root       200 2019-04-25 09:17 ansible-opentripplanner-master/examples/site.yml
+drwxrwxr-x root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/handlers/
+-rw-rw-r-- root/root        68 2019-04-25 09:17 ansible-opentripplanner-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/meta/
+-rw-rw-r-- root/root       401 2019-04-25 09:17 ansible-opentripplanner-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/tasks/
+-rw-rw-r-- root/root      1089 2019-04-25 09:17 ansible-opentripplanner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-25 09:17 ansible-opentripplanner-master/templates/
+-rw-rw-r-- root/root       516 2019-04-25 09:17 ansible-opentripplanner-master/templates/otp.conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-firewall-master/
+-rw-rw-r-- root/root      1048 2016-01-26 08:13 ansible-role-openapphack-firewall-master/.travis.yml
+-rw-rw-r-- root/root        55 2016-01-26 08:13 ansible-role-openapphack-firewall-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-firewall-master/defaults/
+-rw-rw-r-- root/root       231 2016-01-26 08:13 ansible-role-openapphack-firewall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-firewall-master/handlers/
+-rw-rw-r-- root/root        98 2016-01-26 08:13 ansible-role-openapphack-firewall-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-firewall-master/meta/
+-rw-rw-r-- root/root       337 2016-01-26 08:13 ansible-role-openapphack-firewall-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-firewall-master/tasks/
+-rw-rw-r-- root/root       637 2016-01-26 08:13 ansible-role-openapphack-firewall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-firewall-master/templates/
+-rwxrwxr-x root/root      2003 2016-01-26 08:13 ansible-role-openapphack-firewall-master/templates/firewall.bash.j2
+-rw-rw-r-- root/root       736 2016-01-26 08:13 ansible-role-openapphack-firewall-master/templates/firewall.j2
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-firewall-master/tests/
+-rw-rw-r-- root/root        10 2016-01-26 08:13 ansible-role-openapphack-firewall-master/tests/inventory
+-rw-rw-r-- root/root       149 2016-01-26 08:13 ansible-role-openapphack-firewall-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-05-01 10:31 ansible-role-postgis-master/
+-rw-rw-r-- root/root       539 2017-05-01 10:31 ansible-role-postgis-master/.travis.yml
+-rw-rw-r-- root/root       478 2017-05-01 10:31 ansible-role-postgis-master/README.md
+drwxrwxr-x root/root         0 2017-05-01 10:31 ansible-role-postgis-master/defaults/
+-rw-rw-r-- root/root       120 2017-05-01 10:31 ansible-role-postgis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-01 10:31 ansible-role-postgis-master/handlers/
+-rw-rw-r-- root/root        32 2017-05-01 10:31 ansible-role-postgis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-01 10:31 ansible-role-postgis-master/meta/
+-rw-rw-r-- root/root       308 2017-05-01 10:31 ansible-role-postgis-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-01 10:31 ansible-role-postgis-master/tasks/
+-rw-rw-r-- root/root       207 2017-05-01 10:31 ansible-role-postgis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-01 10:31 ansible-role-postgis-master/tests/
+-rw-rw-r-- root/root         9 2017-05-01 10:31 ansible-role-postgis-master/tests/inventory
+-rw-rw-r-- root/root        65 2017-05-01 10:31 ansible-role-postgis-master/tests/test.yml

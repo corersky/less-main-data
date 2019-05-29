@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-04-13 05:07 java-oracle-role-master/
+-rw-rw-r-- root/root       873 2015-04-13 05:07 java-oracle-role-master/README.md
+drwxrwxr-x root/root         0 2015-04-13 05:07 java-oracle-role-master/defaults/
+-rw-rw-r-- root/root        36 2015-04-13 05:07 java-oracle-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-13 05:07 java-oracle-role-master/files/
+-rw-rw-r-- root/root       273 2015-04-13 05:07 java-oracle-role-master/files/download-java.sh
+-rw-rw-r-- root/root        41 2015-04-13 05:07 java-oracle-role-master/files/install-java.sh
+-rw-rw-r-- root/root        59 2015-04-13 05:07 java-oracle-role-master/files/java-sudoers
+-rw-rw-r-- root/root        93 2015-04-13 05:07 java-oracle-role-master/files/profile.java.sh
+drwxrwxr-x root/root         0 2015-04-13 05:07 java-oracle-role-master/handlers/
+-rw-rw-r-- root/root        41 2015-04-13 05:07 java-oracle-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-13 05:07 java-oracle-role-master/meta/
+-rw-rw-r-- root/root       194 2015-04-13 05:07 java-oracle-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-13 05:07 java-oracle-role-master/tasks/
+-rw-rw-r-- root/root      1441 2015-04-13 05:07 java-oracle-role-master/tasks/main.yml

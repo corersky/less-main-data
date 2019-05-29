@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-03-25 07:11 ansible-cacti-master/
+-rw-rw-r-- root/root      1079 2015-03-25 07:11 ansible-cacti-master/LICENSE
+-rw-rw-r-- root/root      3215 2015-03-25 07:11 ansible-cacti-master/README
+-rw-rw-r-- root/root      1707 2015-03-25 07:11 ansible-cacti-master/README.md
+drwxrwxr-x root/root         0 2015-03-25 07:11 ansible-cacti-master/files/
+-rw-rw-r-- root/root        83 2015-03-25 07:11 ansible-cacti-master/files/cron.cacti
+-rw-rw-r-- root/root       101 2015-03-25 07:11 ansible-cacti-master/files/htaccess
+-rw-rw-r-- root/root      1942 2015-03-25 07:11 ansible-cacti-master/files/http.cacti.conf
+-rw-rw-r-- root/root     19266 2015-03-25 07:11 ansible-cacti-master/files/snmpd.conf
+drwxrwxr-x root/root         0 2015-03-25 07:11 ansible-cacti-master/tasks/
+-rw-rw-r-- root/root      1758 2015-03-25 07:11 ansible-cacti-master/tasks/addHost.yml
+-rw-rw-r-- root/root      3563 2015-03-25 07:11 ansible-cacti-master/tasks/cacti.yml
+-rw-rw-r-- root/root       183 2015-03-25 07:11 ansible-cacti-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-25 07:11 ansible-cacti-master/templates/
+-rw-rw-r-- root/root      2143 2015-03-25 07:11 ansible-cacti-master/templates/db.php

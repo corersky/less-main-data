@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-18 05:22 k-yamls-master/
+-rw-rw-r-- root/root      1328 2018-02-18 05:22 k-yamls-master/README.md
+drwxrwxr-x root/root         0 2018-02-18 05:22 k-yamls-master/defaults/
+-rw-rw-r-- root/root        55 2018-02-18 05:22 k-yamls-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-18 05:22 k-yamls-master/handlers/
+-rw-rw-r-- root/root        31 2018-02-18 05:22 k-yamls-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-18 05:22 k-yamls-master/meta/
+-rw-rw-r-- root/root      1843 2018-02-18 05:22 k-yamls-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-18 05:22 k-yamls-master/tasks/
+-rw-rw-r-- root/root       510 2018-02-18 05:22 k-yamls-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-18 05:22 k-yamls-master/tests/
+-rw-rw-r-- root/root        11 2018-02-18 05:22 k-yamls-master/tests/inventory
+-rw-rw-r-- root/root        65 2018-02-18 05:22 k-yamls-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-18 05:22 k-yamls-master/vars/
+-rw-rw-r-- root/root        27 2018-02-18 05:22 k-yamls-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-09-20 15:15 ansible-role-sos-master/
+-rw-rw-r-- root/root       540 2016-09-20 15:15 ansible-role-sos-master/.travis.yml
+-rw-rw-r-- root/root       431 2016-09-20 15:15 ansible-role-sos-master/README.md
+drwxrwxr-x root/root         0 2016-09-20 15:15 ansible-role-sos-master/defaults/
+-rw-rw-r-- root/root        28 2016-09-20 15:15 ansible-role-sos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-20 15:15 ansible-role-sos-master/handlers/
+-rw-rw-r-- root/root        28 2016-09-20 15:15 ansible-role-sos-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-20 15:15 ansible-role-sos-master/meta/
+-rw-rw-r-- root/root       368 2016-09-20 15:15 ansible-role-sos-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-20 15:15 ansible-role-sos-master/tasks/
+-rw-rw-r-- root/root       375 2016-09-20 15:15 ansible-role-sos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-20 15:15 ansible-role-sos-master/tests/
+-rw-rw-r-- root/root        35 2016-09-20 15:15 ansible-role-sos-master/tests/inventory
+-rw-rw-r-- root/root        61 2016-09-20 15:15 ansible-role-sos-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-20 15:15 ansible-role-sos-master/vars/
+-rw-rw-r-- root/root        24 2016-09-20 15:15 ansible-role-sos-master/vars/main.yml

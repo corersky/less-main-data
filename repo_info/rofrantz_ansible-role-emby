@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/
+-rw-rw-r-- root/root       186 2017-03-18 18:11 ansible-role-emby-master/.gitignore
+-rw-rw-r-- root/root      1657 2017-03-18 18:11 ansible-role-emby-master/.travis.yml
+-rw-rw-r-- root/root      1043 2017-03-18 18:11 ansible-role-emby-master/Makefile
+-rw-rw-r-- root/root      1453 2017-03-18 18:11 ansible-role-emby-master/README.md
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/defaults/
+-rw-rw-r-- root/root        63 2017-03-18 18:11 ansible-role-emby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/handlers/
+-rw-rw-r-- root/root       113 2017-03-18 18:11 ansible-role-emby-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/meta/
+-rw-rw-r-- root/root      3840 2017-03-18 18:11 ansible-role-emby-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/tasks/
+-rw-rw-r-- root/root       607 2017-03-18 18:11 ansible-role-emby-master/tasks/main.yml
+-rw-rw-r-- root/root       777 2017-03-18 18:11 ansible-role-emby-master/tasks/ubuntu_packages.yml
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/templates/
+-rw-rw-r-- root/root        54 2017-03-18 18:11 ansible-role-emby-master/templates/emby_server_conf.j2
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/tests/
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/tests/vagrant/
+-rw-rw-r-- root/root      1558 2017-03-18 18:11 ansible-role-emby-master/tests/vagrant/Vagrantfile
+-rw-rw-r-- root/root        34 2017-03-18 18:11 ansible-role-emby-master/tests/vagrant/ansible.cfg
+-rw-rw-r-- root/root        52 2017-03-18 18:11 ansible-role-emby-master/tests/vagrant/integration_requirements.yml
+-rw-rw-r-- root/root         9 2017-03-18 18:11 ansible-role-emby-master/tests/vagrant/inventory
+lrwxrwxrwx root/root         0 2017-03-18 18:11 ansible-role-emby-master/tests/vagrant/rofrantz.emby -> ../..
+-rw-rw-r-- root/root       403 2017-03-18 18:11 ansible-role-emby-master/tests/vagrant/test.yml
+-rw-rw-r-- root/root       104 2017-03-18 18:11 ansible-role-emby-master/travis.cfg
+drwxrwxr-x root/root         0 2017-03-18 18:11 ansible-role-emby-master/vars/
+-rw-rw-r-- root/root        51 2017-03-18 18:11 ansible-role-emby-master/vars/main.yml

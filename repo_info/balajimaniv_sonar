@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-28 04:53 sonar-master/
+-rw-rw-r-- root/root      1406 2018-02-28 04:53 sonar-master/README.md
+drwxrwxr-x root/root         0 2018-02-28 04:53 sonar-master/defaults/
+-rw-rw-r-- root/root        29 2018-02-28 04:53 sonar-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-28 04:53 sonar-master/handlers/
+-rw-rw-r-- root/root        29 2018-02-28 04:53 sonar-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-28 04:53 sonar-master/meta/
+-rw-rw-r-- root/root      1777 2018-02-28 04:53 sonar-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-28 04:53 sonar-master/tasks/
+-rw-rw-r-- root/root        26 2018-02-28 04:53 sonar-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-28 04:53 sonar-master/tests/
+-rw-rw-r-- root/root        11 2018-02-28 04:53 sonar-master/tests/inventory
+-rw-rw-r-- root/root        63 2018-02-28 04:53 sonar-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-28 04:53 sonar-master/vars/
+-rw-rw-r-- root/root        25 2018-02-28 04:53 sonar-master/vars/main.yml

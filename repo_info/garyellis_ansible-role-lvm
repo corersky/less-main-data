@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-10-03 01:20 ansible-role-lvm-master/
+-rw-rw-r-- root/root        36 2016-10-03 01:20 ansible-role-lvm-master/.gitignore
+-rw-rw-r-- root/root      1209 2016-10-03 01:20 ansible-role-lvm-master/README.md
+-rw-rw-r-- root/root      1883 2016-10-03 01:20 ansible-role-lvm-master/Vagrantfile
+-rw-rw-r-- root/root       136 2016-10-03 01:20 ansible-role-lvm-master/boxes.yml
+drwxrwxr-x root/root         0 2016-10-03 01:20 ansible-role-lvm-master/defaults/
+-rw-rw-r-- root/root       190 2016-10-03 01:20 ansible-role-lvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-03 01:20 ansible-role-lvm-master/meta/
+-rw-rw-r-- root/root       219 2016-10-03 01:20 ansible-role-lvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-03 01:20 ansible-role-lvm-master/tasks/
+-rw-rw-r-- root/root       620 2016-10-03 01:20 ansible-role-lvm-master/tasks/ansible2-patch.yml
+-rw-rw-r-- root/root      1966 2016-10-03 01:20 ansible-role-lvm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-03 01:20 ansible-role-lvm-master/tests/
+-rw-rw-r-- root/root       628 2016-10-03 01:20 ansible-role-lvm-master/tests/playbook.yml

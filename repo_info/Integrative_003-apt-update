@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-08-31 06:20 003-apt-update-master/
+-rw-rw-r-- root/root       360 2016-08-31 06:20 003-apt-update-master/README.md
+drwxrwxr-x root/root         0 2016-08-31 06:20 003-apt-update-master/files/
+drwxrwxr-x root/root         0 2016-08-31 06:20 003-apt-update-master/files/etc/
+drwxrwxr-x root/root         0 2016-08-31 06:20 003-apt-update-master/files/etc/apt/
+drwxrwxr-x root/root         0 2016-08-31 06:20 003-apt-update-master/files/etc/apt/apt.conf.d/
+-rw-rw-r-- root/root       168 2016-08-31 06:20 003-apt-update-master/files/etc/apt/apt.conf.d/10periodic
+-rw-rw-r-- root/root       352 2016-08-31 06:20 003-apt-update-master/files/etc/apt/sources.list.trusty
+-rw-rw-r-- root/root       352 2016-08-31 06:20 003-apt-update-master/files/etc/apt/sources.list.xenial
+drwxrwxr-x root/root         0 2016-08-31 06:20 003-apt-update-master/meta/
+-rw-rw-r-- root/root       290 2016-08-31 06:20 003-apt-update-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-31 06:20 003-apt-update-master/tasks/
+-rw-rw-r-- root/root      1384 2016-08-31 06:20 003-apt-update-master/tasks/main.yml

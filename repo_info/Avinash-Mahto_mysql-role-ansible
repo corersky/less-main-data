@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-26 06:00 mysql-role-ansible-master/
+-rw-rw-r-- root/root      1349 2019-04-26 06:00 mysql-role-ansible-master/README.md
+drwxrwxr-x root/root         0 2019-04-26 06:00 mysql-role-ansible-master/defaults/
+-rw-rw-r-- root/root        32 2019-04-26 06:00 mysql-role-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-26 06:00 mysql-role-ansible-master/handlers/
+-rw-rw-r-- root/root        32 2019-04-26 06:00 mysql-role-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-26 06:00 mysql-role-ansible-master/meta/
+-rw-rw-r-- root/root      1972 2019-04-26 06:00 mysql-role-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-26 06:00 mysql-role-ansible-master/tasks/
+-rw-rw-r-- root/root       484 2019-04-26 06:00 mysql-role-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-26 06:00 mysql-role-ansible-master/tests/
+-rw-rw-r-- root/root        11 2019-04-26 06:00 mysql-role-ansible-master/tests/inventory
+-rw-rw-r-- root/root        66 2019-04-26 06:00 mysql-role-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-26 06:00 mysql-role-ansible-master/vars/
+-rw-rw-r-- root/root        28 2019-04-26 06:00 mysql-role-ansible-master/vars/main.yml

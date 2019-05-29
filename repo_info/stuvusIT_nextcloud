@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-10 14:09 nextcloud-master/
+-rw-rw-r-- root/root     20133 2019-04-10 14:09 nextcloud-master/LICENSE
+-rw-rw-r-- root/root     12718 2019-04-10 14:09 nextcloud-master/README.md
+drwxrwxr-x root/root         0 2019-04-10 14:09 nextcloud-master/defaults/
+-rw-rw-r-- root/root       339 2019-04-10 14:09 nextcloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-10 14:09 nextcloud-master/meta/
+-rw-rw-r-- root/root       407 2019-04-10 14:09 nextcloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-10 14:09 nextcloud-master/scripts/
+-rw-rw-r-- root/root      2423 2019-04-10 14:09 nextcloud-master/scripts/nextcloud.py
+drwxrwxr-x root/root         0 2019-04-10 14:09 nextcloud-master/tasks/
+-rw-rw-r-- root/root      1221 2019-04-10 14:09 nextcloud-master/tasks/configure.yml
+-rw-rw-r-- root/root       793 2019-04-10 14:09 nextcloud-master/tasks/download.yml
+-rw-rw-r-- root/root      1142 2019-04-10 14:09 nextcloud-master/tasks/install.yml
+-rw-rw-r-- root/root      1923 2019-04-10 14:09 nextcloud-master/tasks/ldap.yml
+-rw-rw-r-- root/root       898 2019-04-10 14:09 nextcloud-master/tasks/main.yml
+-rw-rw-r-- root/root       570 2019-04-10 14:09 nextcloud-master/tasks/plugins.yml
+-rw-rw-r-- root/root      1519 2019-04-10 14:09 nextcloud-master/tasks/update.yml

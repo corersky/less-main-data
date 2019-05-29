@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-04-12 07:35 ansible-role-ec2-launch-master/
+-rw-rw-r-- root/root       539 2017-04-12 07:35 ansible-role-ec2-launch-master/.travis.yml
+-rw-rw-r-- root/root      2384 2017-04-12 07:35 ansible-role-ec2-launch-master/README.md
+drwxrwxr-x root/root         0 2017-04-12 07:35 ansible-role-ec2-launch-master/defaults/
+-rw-rw-r-- root/root       409 2017-04-12 07:35 ansible-role-ec2-launch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-12 07:35 ansible-role-ec2-launch-master/handlers/
+-rw-rw-r-- root/root        35 2017-04-12 07:35 ansible-role-ec2-launch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-12 07:35 ansible-role-ec2-launch-master/meta/
+-rw-rw-r-- root/root       253 2017-04-12 07:35 ansible-role-ec2-launch-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-12 07:35 ansible-role-ec2-launch-master/tasks/
+-rw-rw-r-- root/root      1362 2017-04-12 07:35 ansible-role-ec2-launch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-12 07:35 ansible-role-ec2-launch-master/tests/
+-rw-rw-r-- root/root         9 2017-04-12 07:35 ansible-role-ec2-launch-master/tests/inventory
+-rw-rw-r-- root/root        68 2017-04-12 07:35 ansible-role-ec2-launch-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-04-12 07:35 ansible-role-ec2-launch-master/vars/
+-rw-rw-r-- root/root        31 2017-04-12 07:35 ansible-role-ec2-launch-master/vars/main.yml

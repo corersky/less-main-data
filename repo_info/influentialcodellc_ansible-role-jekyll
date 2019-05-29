@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-03-20 15:33 ansible-role-jekyll-master/
+-rw-rw-r-- root/root         5 2018-03-20 15:33 ansible-role-jekyll-master/.gitignore
+-rw-rw-r-- root/root     35147 2018-03-20 15:33 ansible-role-jekyll-master/LICENSE
+-rw-rw-r-- root/root       657 2018-03-20 15:33 ansible-role-jekyll-master/README.md
+drwxrwxr-x root/root         0 2018-03-20 15:33 ansible-role-jekyll-master/defaults/
+-rw-rw-r-- root/root        60 2018-03-20 15:33 ansible-role-jekyll-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-20 15:33 ansible-role-jekyll-master/handlers/
+-rw-rw-r-- root/root        30 2018-03-20 15:33 ansible-role-jekyll-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-20 15:33 ansible-role-jekyll-master/meta/
+-rw-rw-r-- root/root      1468 2018-03-20 15:33 ansible-role-jekyll-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-20 15:33 ansible-role-jekyll-master/tasks/
+-rw-rw-r-- root/root       484 2018-03-20 15:33 ansible-role-jekyll-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-20 15:33 ansible-role-jekyll-master/tests/
+-rw-rw-r-- root/root        11 2018-03-20 15:33 ansible-role-jekyll-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-03-20 15:33 ansible-role-jekyll-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-03-20 15:33 ansible-role-jekyll-master/vars/
+-rw-rw-r-- root/root        26 2018-03-20 15:33 ansible-role-jekyll-master/vars/main.yml

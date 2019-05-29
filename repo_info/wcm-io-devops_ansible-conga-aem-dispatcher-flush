@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/
+-rw-rw-r-- root/root        39 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/.ansible-lint
+-rw-rw-r-- root/root      1070 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/.gitattributes
+-rw-rw-r-- root/root       364 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/.gitignore
+-rw-rw-r-- root/root       998 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/.travis.yml
+-rw-rw-r-- root/root     11324 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/LICENSE
+-rw-rw-r-- root/root      1848 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/README.md
+drwxrwxr-x root/root         0 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/defaults/
+-rw-rw-r-- root/root       145 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/meta/
+-rw-rw-r-- root/root       767 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/tests/
+-rw-rw-r-- root/root        18 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/tests/requirements.yml
+-rw-rw-r-- root/root        88 2018-12-03 06:07 ansible-conga-aem-dispatcher-flush-master/tests/test.yml

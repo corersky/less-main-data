@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-05-30 18:40 ansible-sshd-config-master/
+-rw-rw-r-- root/root       624 2018-05-30 18:40 ansible-sshd-config-master/.travis.yml
+-rw-rw-r-- root/root       590 2018-05-30 18:40 ansible-sshd-config-master/README.md
+drwxrwxr-x root/root         0 2018-05-30 18:40 ansible-sshd-config-master/defaults/
+-rw-rw-r-- root/root        36 2018-05-30 18:40 ansible-sshd-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-30 18:40 ansible-sshd-config-master/handlers/
+-rw-rw-r-- root/root       111 2018-05-30 18:40 ansible-sshd-config-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-30 18:40 ansible-sshd-config-master/meta/
+-rw-rw-r-- root/root       475 2018-05-30 18:40 ansible-sshd-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-30 18:40 ansible-sshd-config-master/tasks/
+-rw-rw-r-- root/root       952 2018-05-30 18:40 ansible-sshd-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-30 18:40 ansible-sshd-config-master/tests/
+-rw-rw-r-- root/root         9 2018-05-30 18:40 ansible-sshd-config-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-05-30 18:40 ansible-sshd-config-master/tests/test.yml

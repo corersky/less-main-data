@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-11-29 02:33 ansible-td-agent-master/
+-rw-rw-r-- root/root      1541 2015-11-29 02:33 ansible-td-agent-master/README.md
+drwxrwxr-x root/root         0 2015-11-29 02:33 ansible-td-agent-master/defaults/
+-rw-rw-r-- root/root       120 2015-11-29 02:33 ansible-td-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-29 02:33 ansible-td-agent-master/files/
+-rw-rw-r-- root/root       117 2015-11-29 02:33 ansible-td-agent-master/files/td.repo
+drwxrwxr-x root/root         0 2015-11-29 02:33 ansible-td-agent-master/handlers/
+-rw-rw-r-- root/root        82 2015-11-29 02:33 ansible-td-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-29 02:33 ansible-td-agent-master/meta/
+-rw-rw-r-- root/root       403 2015-11-29 02:33 ansible-td-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-29 02:33 ansible-td-agent-master/tasks/
+-rw-rw-r-- root/root       609 2015-11-29 02:33 ansible-td-agent-master/tasks/debian_td-agent.yml
+-rw-rw-r-- root/root       696 2015-11-29 02:33 ansible-td-agent-master/tasks/main.yml
+-rw-rw-r-- root/root       517 2015-11-29 02:33 ansible-td-agent-master/tasks/plugins.yml
+-rw-rw-r-- root/root       179 2015-11-29 02:33 ansible-td-agent-master/tasks/redhat_td-agent.yml
+-rw-rw-r-- root/root      1002 2015-11-29 02:33 ansible-td-agent-master/tasks/ubuntu_td-agent.yml

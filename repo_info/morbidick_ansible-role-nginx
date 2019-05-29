@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/
+-rw-rw-r-- root/root       147 2019-01-13 13:13 ansible-role-nginx-master/.editorconfig
+-rw-rw-r-- root/root        29 2019-01-13 13:13 ansible-role-nginx-master/.gitignore
+-rw-rw-r-- root/root       778 2019-01-13 13:13 ansible-role-nginx-master/.travis.yml
+-rw-rw-r-- root/root      1224 2019-01-13 13:13 ansible-role-nginx-master/README.md
+-rw-rw-r-- root/root       425 2019-01-13 13:13 ansible-role-nginx-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/defaults/
+-rw-rw-r-- root/root      1504 2019-01-13 13:13 ansible-role-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/handlers/
+-rw-rw-r-- root/root        91 2019-01-13 13:13 ansible-role-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/meta/
+-rw-rw-r-- root/root       245 2019-01-13 13:13 ansible-role-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/tasks/
+-rw-rw-r-- root/root      2126 2019-01-13 13:13 ansible-role-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/templates/
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/templates/etc/
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/templates/etc/nginx/
+-rw-rw-r-- root/root      1056 2019-01-13 13:13 ansible-role-nginx-master/templates/etc/nginx/nginx.conf
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/templates/etc/nginx/sites-available/
+-rw-rw-r-- root/root       279 2019-01-13 13:13 ansible-role-nginx-master/templates/etc/nginx/sites-available/default.conf
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/templates/etc/nginx/snippets/
+-rw-rw-r-- root/root       478 2019-01-13 13:13 ansible-role-nginx-master/templates/etc/nginx/snippets/acme.conf
+-rw-rw-r-- root/root       459 2019-01-13 13:13 ansible-role-nginx-master/templates/etc/nginx/snippets/ssl.conf
+drwxrwxr-x root/root         0 2019-01-13 13:13 ansible-role-nginx-master/tests/
+-rw-rw-r-- root/root        49 2019-01-13 13:13 ansible-role-nginx-master/tests/role.yml
+lrwxrwxrwx root/root         0 2019-01-13 13:13 ansible-role-nginx-master/tests/role_under_test -> ..

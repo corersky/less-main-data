@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-12-11 16:45 users-master/
+-rw-rw-r-- root/root      1328 2017-12-11 16:45 users-master/README.md
+drwxrwxr-x root/root         0 2017-12-11 16:45 users-master/defaults/
+-rw-rw-r-- root/root       618 2017-12-11 16:45 users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-11 16:45 users-master/handlers/
+-rw-rw-r-- root/root        88 2017-12-11 16:45 users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-11 16:45 users-master/meta/
+-rw-rw-r-- root/root       605 2017-12-11 16:45 users-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-11 16:45 users-master/tasks/
+-rw-rw-r-- root/root      3311 2017-12-11 16:45 users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-11 16:45 users-master/tests/
+-rw-rw-r-- root/root        11 2017-12-11 16:45 users-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-12-11 16:45 users-master/tests/test.yml

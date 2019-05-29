@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-21 09:22 ansible-role-oraclejdk-master/
+-rw-rw-r-- root/root      1996 2018-03-21 09:22 ansible-role-oraclejdk-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-03-21 09:22 ansible-role-oraclejdk-master/LICENSE
+-rw-rw-r-- root/root     10765 2018-03-21 09:22 ansible-role-oraclejdk-master/README.md
+drwxrwxr-x root/root         0 2018-03-21 09:22 ansible-role-oraclejdk-master/defaults/
+-rw-rw-r-- root/root      1412 2018-03-21 09:22 ansible-role-oraclejdk-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-21 09:22 ansible-role-oraclejdk-master/meta/
+-rw-rw-r-- root/root       599 2018-03-21 09:22 ansible-role-oraclejdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-21 09:22 ansible-role-oraclejdk-master/tasks/
+-rw-rw-r-- root/root       860 2018-03-21 09:22 ansible-role-oraclejdk-master/tasks/02_fetchjdk.yml
+-rw-rw-r-- root/root      1930 2018-03-21 09:22 ansible-role-oraclejdk-master/tasks/04_installjdk.yml
+-rw-rw-r-- root/root      1400 2018-03-21 09:22 ansible-role-oraclejdk-master/tasks/06_fetchjce.yml
+-rw-rw-r-- root/root      1332 2018-03-21 09:22 ansible-role-oraclejdk-master/tasks/08_installjce.yml
+-rw-rw-r-- root/root       818 2018-03-21 09:22 ansible-role-oraclejdk-master/tasks/102_removejdk.yml
+-rw-rw-r-- root/root       318 2018-03-21 09:22 ansible-role-oraclejdk-master/tasks/10_cleanup.yml
+-rw-rw-r-- root/root       915 2018-03-21 09:22 ansible-role-oraclejdk-master/tasks/main.yml

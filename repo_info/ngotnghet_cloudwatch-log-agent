@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-29 13:49 cloudwatch-log-agent-master/
+-rw-rw-r-- root/root      1328 2017-05-29 13:49 cloudwatch-log-agent-master/README.md
+drwxrwxr-x root/root         0 2017-05-29 13:49 cloudwatch-log-agent-master/defaults/
+-rw-rw-r-- root/root        28 2017-05-29 13:49 cloudwatch-log-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-29 13:49 cloudwatch-log-agent-master/handlers/
+-rw-rw-r-- root/root        28 2017-05-29 13:49 cloudwatch-log-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-05-29 13:49 cloudwatch-log-agent-master/meta/
+-rw-rw-r-- root/root       314 2017-05-29 13:49 cloudwatch-log-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-29 13:49 cloudwatch-log-agent-master/tasks/
+-rw-rw-r-- root/root        25 2017-05-29 13:49 cloudwatch-log-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-29 13:49 cloudwatch-log-agent-master/tests/
+-rw-rw-r-- root/root        11 2017-05-29 13:49 cloudwatch-log-agent-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-05-29 13:49 cloudwatch-log-agent-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-05-29 13:49 cloudwatch-log-agent-master/vars/
+-rw-rw-r-- root/root        24 2017-05-29 13:49 cloudwatch-log-agent-master/vars/main.yml

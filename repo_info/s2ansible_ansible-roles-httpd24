@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-19 12:28 ansible-roles-httpd24-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:28 ansible-roles-httpd24-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:28 ansible-roles-httpd24-master/defaults/
+-rw-rw-r-- root/root      1301 2018-11-19 12:28 ansible-roles-httpd24-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:28 ansible-roles-httpd24-master/handlers/
+-rw-rw-r-- root/root       169 2018-11-19 12:28 ansible-roles-httpd24-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:28 ansible-roles-httpd24-master/meta/
+-rw-rw-r-- root/root       283 2018-11-19 12:28 ansible-roles-httpd24-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:28 ansible-roles-httpd24-master/tasks/
+-rw-rw-r-- root/root       645 2018-11-19 12:28 ansible-roles-httpd24-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:28 ansible-roles-httpd24-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       236 2018-11-19 12:28 ansible-roles-httpd24-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:28 ansible-roles-httpd24-master/templates/
+-rw-rw-r-- root/root       434 2018-11-19 12:28 ansible-roles-httpd24-master/templates/00-mpm.conf.j2
+-rw-rw-r-- root/root      3025 2018-11-19 12:28 ansible-roles-httpd24-master/templates/httpd.conf.j2
+drwxrwxr-x root/root         0 2018-11-19 12:28 ansible-roles-httpd24-master/vars/
+-rw-rw-r-- root/root        41 2018-11-19 12:28 ansible-roles-httpd24-master/vars/main.yml

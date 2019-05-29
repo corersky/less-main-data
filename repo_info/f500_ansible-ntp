@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-04 04:15 ansible-ntp-master/
+-rw-rw-r-- root/root     35147 2018-09-04 04:15 ansible-ntp-master/COPYING
+-rw-rw-r-- root/root      7651 2018-09-04 04:15 ansible-ntp-master/COPYING.LESSER
+-rw-rw-r-- root/root       790 2018-09-04 04:15 ansible-ntp-master/README.md
+drwxrwxr-x root/root         0 2018-09-04 04:15 ansible-ntp-master/defaults/
+-rw-rw-r-- root/root       286 2018-09-04 04:15 ansible-ntp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-04 04:15 ansible-ntp-master/handlers/
+-rw-rw-r-- root/root        96 2018-09-04 04:15 ansible-ntp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-04 04:15 ansible-ntp-master/meta/
+-rw-rw-r-- root/root       332 2018-09-04 04:15 ansible-ntp-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-04 04:15 ansible-ntp-master/tasks/
+-rw-rw-r-- root/root       332 2018-09-04 04:15 ansible-ntp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-04 04:15 ansible-ntp-master/templates/
+-rwxrwxr-x root/root       753 2018-09-04 04:15 ansible-ntp-master/templates/ntp.conf.j2

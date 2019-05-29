@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-03-08 20:40 ansible-newrelic-master/
+-rw-rw-r-- root/root        43 2016-03-08 20:40 ansible-newrelic-master/.gitignore
+-rw-rw-r-- root/root       721 2016-03-08 20:40 ansible-newrelic-master/README.md
+-rw-rw-r-- root/root      1015 2016-03-08 20:40 ansible-newrelic-master/circle.yml
+drwxrwxr-x root/root         0 2016-03-08 20:40 ansible-newrelic-master/defaults/
+-rw-rw-r-- root/root        59 2016-03-08 20:40 ansible-newrelic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 20:40 ansible-newrelic-master/files/
+-rw-rw-r-- root/root        53 2016-03-08 20:40 ansible-newrelic-master/files/newrelic.list
+drwxrwxr-x root/root         0 2016-03-08 20:40 ansible-newrelic-master/meta/
+-rw-rw-r-- root/root       394 2016-03-08 20:40 ansible-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 20:40 ansible-newrelic-master/tasks/
+-rw-rw-r-- root/root       739 2016-03-08 20:40 ansible-newrelic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 20:40 ansible-newrelic-master/templates/
+-rw-rw-r-- root/root      5001 2016-03-08 20:40 ansible-newrelic-master/templates/nrsysmond.cfg.j2
+drwxrwxr-x root/root         0 2016-03-08 20:40 ansible-newrelic-master/tests/
+-rw-rw-r-- root/root         9 2016-03-08 20:40 ansible-newrelic-master/tests/inventory
+-rw-rw-r-- root/root        97 2016-03-08 20:40 ansible-newrelic-master/tests/test.yml

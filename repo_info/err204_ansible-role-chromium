@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-03 17:55 ansible-role-chromium-master/
+-rw-rw-r-- root/root      1067 2019-05-03 17:55 ansible-role-chromium-master/LICENSE
+-rw-rw-r-- root/root      1319 2019-05-03 17:55 ansible-role-chromium-master/README.md
+drwxrwxr-x root/root         0 2019-05-03 17:55 ansible-role-chromium-master/defaults/
+-rw-rw-r-- root/root        32 2019-05-03 17:55 ansible-role-chromium-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-03 17:55 ansible-role-chromium-master/handlers/
+-rw-rw-r-- root/root        32 2019-05-03 17:55 ansible-role-chromium-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-03 17:55 ansible-role-chromium-master/meta/
+-rw-rw-r-- root/root       816 2019-05-03 17:55 ansible-role-chromium-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-03 17:55 ansible-role-chromium-master/tasks/
+-rw-rw-r-- root/root       107 2019-05-03 17:55 ansible-role-chromium-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-03 17:55 ansible-role-chromium-master/tests/
+-rw-rw-r-- root/root        11 2019-05-03 17:55 ansible-role-chromium-master/tests/inventory
+-rw-rw-r-- root/root        66 2019-05-03 17:55 ansible-role-chromium-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-03 17:55 ansible-role-chromium-master/vars/
+-rw-rw-r-- root/root        28 2019-05-03 17:55 ansible-role-chromium-master/vars/main.yml

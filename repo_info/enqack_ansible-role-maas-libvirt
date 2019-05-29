@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-04 19:50 ansible-role-maas-libvirt-master/
+-rw-rw-r-- root/root       195 2019-03-04 19:50 ansible-role-maas-libvirt-master/.gitignore
+-rw-rw-r-- root/root       724 2019-03-04 19:50 ansible-role-maas-libvirt-master/.travis.yml
+-rw-rw-r-- root/root      1514 2019-03-04 19:50 ansible-role-maas-libvirt-master/LICENSE
+-rw-rw-r-- root/root       972 2019-03-04 19:50 ansible-role-maas-libvirt-master/README.md
+drwxrwxr-x root/root         0 2019-03-04 19:50 ansible-role-maas-libvirt-master/defaults/
+-rw-rw-r-- root/root       258 2019-03-04 19:50 ansible-role-maas-libvirt-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-04 19:50 ansible-role-maas-libvirt-master/meta/
+-rw-rw-r-- root/root      1437 2019-03-04 19:50 ansible-role-maas-libvirt-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-04 19:50 ansible-role-maas-libvirt-master/tasks/
+-rw-rw-r-- root/root      1240 2019-03-04 19:50 ansible-role-maas-libvirt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-04 19:50 ansible-role-maas-libvirt-master/tests/
+-rw-rw-r-- root/root        11 2019-03-04 19:50 ansible-role-maas-libvirt-master/tests/inventory
+-rw-rw-r-- root/root        77 2019-03-04 19:50 ansible-role-maas-libvirt-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-04 19:50 ansible-role-maas-libvirt-master/vars/
+-rw-rw-r-- root/root        39 2019-03-04 19:50 ansible-role-maas-libvirt-master/vars/main.yml

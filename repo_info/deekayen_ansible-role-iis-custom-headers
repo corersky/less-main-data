@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-15 12:00 ansible-role-iis-custom-headers-master/
+-rw-rw-r-- root/root       237 2019-04-15 12:00 ansible-role-iis-custom-headers-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       519 2019-04-15 12:00 ansible-role-iis-custom-headers-master/.travis.yml
+-rw-rw-r-- root/root      1512 2019-04-15 12:00 ansible-role-iis-custom-headers-master/LICENSE
+-rw-rw-r-- root/root      2332 2019-04-15 12:00 ansible-role-iis-custom-headers-master/README.md
+drwxrwxr-x root/root         0 2019-04-15 12:00 ansible-role-iis-custom-headers-master/defaults/
+-rw-rw-r-- root/root       258 2019-04-15 12:00 ansible-role-iis-custom-headers-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-15 12:00 ansible-role-iis-custom-headers-master/handlers/
+-rw-rw-r-- root/root       123 2019-04-15 12:00 ansible-role-iis-custom-headers-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-15 12:00 ansible-role-iis-custom-headers-master/meta/
+-rw-rw-r-- root/root       319 2019-04-15 12:00 ansible-role-iis-custom-headers-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-15 12:00 ansible-role-iis-custom-headers-master/tasks/
+-rw-rw-r-- root/root       474 2019-04-15 12:00 ansible-role-iis-custom-headers-master/tasks/main.yml
+-rw-rw-r-- root/root      2027 2019-04-15 12:00 ansible-role-iis-custom-headers-master/tasks/webconfigurationproperty.yml

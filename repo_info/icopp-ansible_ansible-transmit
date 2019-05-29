@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-transmit-master/
+-rw-rw-r-- root/root       672 2016-09-16 13:24 ansible-transmit-master/.travis.yml
+-rw-rw-r-- root/root      1065 2016-09-16 13:24 ansible-transmit-master/LICENSE
+-rw-rw-r-- root/root       606 2016-09-16 13:24 ansible-transmit-master/README.md
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-transmit-master/defaults/
+-rw-rw-r-- root/root        36 2016-09-16 13:24 ansible-transmit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-transmit-master/meta/
+-rw-rw-r-- root/root       465 2016-09-16 13:24 ansible-transmit-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-transmit-master/tasks/
+-rw-rw-r-- root/root       423 2016-09-16 13:24 ansible-transmit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-16 13:24 ansible-transmit-master/tests/
+-rw-rw-r-- root/root         9 2016-09-16 13:24 ansible-transmit-master/tests/inventory
+-rw-rw-r-- root/root        75 2016-09-16 13:24 ansible-transmit-master/tests/test.yml

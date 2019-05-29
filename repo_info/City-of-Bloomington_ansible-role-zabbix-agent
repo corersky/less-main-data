@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-06 15:48 ansible-role-zabbix-agent-master/
+-rw-rw-r-- root/root       708 2018-08-06 15:48 ansible-role-zabbix-agent-master/.yamllint
+-rw-rw-r-- root/root     35141 2018-08-06 15:48 ansible-role-zabbix-agent-master/LICENSE
+-rw-rw-r-- root/root       339 2018-08-06 15:48 ansible-role-zabbix-agent-master/README.md
+drwxrwxr-x root/root         0 2018-08-06 15:48 ansible-role-zabbix-agent-master/defaults/
+-rw-rw-r-- root/root       187 2018-08-06 15:48 ansible-role-zabbix-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-06 15:48 ansible-role-zabbix-agent-master/files/
+-rw-rw-r-- root/root       165 2018-08-06 15:48 ansible-role-zabbix-agent-master/files/cron_discovery.conf
+drwxrwxr-x root/root         0 2018-08-06 15:48 ansible-role-zabbix-agent-master/handlers/
+-rw-rw-r-- root/root        88 2018-08-06 15:48 ansible-role-zabbix-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-06 15:48 ansible-role-zabbix-agent-master/meta/
+-rw-rw-r-- root/root       447 2018-08-06 15:48 ansible-role-zabbix-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-06 15:48 ansible-role-zabbix-agent-master/tasks/
+-rw-rw-r-- root/root      2007 2018-08-06 15:48 ansible-role-zabbix-agent-master/tasks/main.yml

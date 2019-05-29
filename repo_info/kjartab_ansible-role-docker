@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-01-08 08:35 ansible-role-docker-master/
+-rw-rw-r-- root/root       539 2017-01-08 08:35 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root      1356 2017-01-08 08:35 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2017-01-08 08:35 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       258 2017-01-08 08:35 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-08 08:35 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       650 2017-01-08 08:35 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-08 08:35 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root         9 2017-01-08 08:35 ansible-role-docker-master/tests/inventory
+-rw-rw-r-- root/root        54 2017-01-08 08:35 ansible-role-docker-master/tests/main.yml

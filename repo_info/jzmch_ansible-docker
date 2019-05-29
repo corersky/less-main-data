@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-02 07:52 ansible-docker-master/
+-rw-rw-r-- root/root        18 2016-08-02 07:52 ansible-docker-master/.gitignore
+-rw-rw-r-- root/root       539 2016-08-02 07:52 ansible-docker-master/.travis.yml
+-rw-rw-r-- root/root       856 2016-08-02 07:52 ansible-docker-master/README.md
+-rw-rw-r-- root/root       579 2016-08-02 07:52 ansible-docker-master/Vagrantfile
+-rw-rw-r-- root/root        54 2016-08-02 07:52 ansible-docker-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-08-02 07:52 ansible-docker-master/defaults/
+-rw-rw-r-- root/root       300 2016-08-02 07:52 ansible-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-02 07:52 ansible-docker-master/meta/
+-rw-rw-r-- root/root       260 2016-08-02 07:52 ansible-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-02 07:52 ansible-docker-master/tasks/
+-rw-rw-r-- root/root      1536 2016-08-02 07:52 ansible-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-02 07:52 ansible-docker-master/tests/
+-rw-rw-r-- root/root       201 2016-08-02 07:52 ansible-docker-master/tests/inventory
+-rw-rw-r-- root/root        73 2016-08-02 07:52 ansible-docker-master/tests/test.yml
+-rw-rw-r-- root/root       118 2016-08-02 07:52 ansible-docker-master/tests/vagrant.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-12-11 07:25 ansible-role-dante-master/
+-rw-rw-r-- root/root      1085 2015-12-11 07:25 ansible-role-dante-master/LICENSE
+-rw-rw-r-- root/root       415 2015-12-11 07:25 ansible-role-dante-master/README.md
+drwxrwxr-x root/root         0 2015-12-11 07:25 ansible-role-dante-master/defaults/
+-rw-rw-r-- root/root        49 2015-12-11 07:25 ansible-role-dante-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-11 07:25 ansible-role-dante-master/files/
+-rw-rw-r-- root/root      3516 2015-12-11 07:25 ansible-role-dante-master/files/sockd.init
+drwxrwxr-x root/root         0 2015-12-11 07:25 ansible-role-dante-master/handlers/
+-rw-rw-r-- root/root        30 2015-12-11 07:25 ansible-role-dante-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-11 07:25 ansible-role-dante-master/meta/
+-rw-rw-r-- root/root      1448 2015-12-11 07:25 ansible-role-dante-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-11 07:25 ansible-role-dante-master/tasks/
+-rw-rw-r-- root/root      1128 2015-12-11 07:25 ansible-role-dante-master/tasks/dante.yml
+-rw-rw-r-- root/root       293 2015-12-11 07:25 ansible-role-dante-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-11 07:25 ansible-role-dante-master/vars/
+-rw-rw-r-- root/root        26 2015-12-11 07:25 ansible-role-dante-master/vars/main.yml

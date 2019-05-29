@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-21 02:33 389ds-replication-master/
+-rw-rw-r-- root/root       172 2019-05-21 02:33 389ds-replication-master/.yamllint
+-rw-rw-r-- root/root      1061 2019-05-21 02:33 389ds-replication-master/LICENSE
+-rw-rw-r-- root/root     17333 2019-05-21 02:33 389ds-replication-master/README.md
+drwxrwxr-x root/root         0 2019-05-21 02:33 389ds-replication-master/defaults/
+-rw-rw-r-- root/root      1234 2019-05-21 02:33 389ds-replication-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-21 02:33 389ds-replication-master/meta/
+-rw-rw-r-- root/root       256 2019-05-21 02:33 389ds-replication-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-21 02:33 389ds-replication-master/tasks/
+-rw-rw-r-- root/root       854 2019-05-21 02:33 389ds-replication-master/tasks/configure_changelog.yml
+-rw-rw-r-- root/root      1578 2019-05-21 02:33 389ds-replication-master/tasks/configure_consumer.yml
+-rw-rw-r-- root/root      3815 2019-05-21 02:33 389ds-replication-master/tasks/configure_replication_agreement.yml
+-rw-rw-r-- root/root      1073 2019-05-21 02:33 389ds-replication-master/tasks/configure_replication_user.yml
+-rw-rw-r-- root/root      1283 2019-05-21 02:33 389ds-replication-master/tasks/configure_supplier.yml
+-rw-rw-r-- root/root      1829 2019-05-21 02:33 389ds-replication-master/tasks/main.yml

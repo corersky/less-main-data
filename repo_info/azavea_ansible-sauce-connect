@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-12-19 13:15 ansible-sauce-connect-master/
+-rw-rw-r-- root/root         9 2014-12-19 13:15 ansible-sauce-connect-master/.gitignore
+-rw-rw-r-- root/root       118 2014-12-19 13:15 ansible-sauce-connect-master/CHANGELOG.md
+-rw-rw-r-- root/root       257 2014-12-19 13:15 ansible-sauce-connect-master/README.md
+drwxrwxr-x root/root         0 2014-12-19 13:15 ansible-sauce-connect-master/defaults/
+-rw-rw-r-- root/root        39 2014-12-19 13:15 ansible-sauce-connect-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-19 13:15 ansible-sauce-connect-master/examples/
+-rw-rw-r-- root/root       278 2014-12-19 13:15 ansible-sauce-connect-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2014-12-19 13:15 ansible-sauce-connect-master/examples/roles/
+lrwxrwxrwx root/root         0 2014-12-19 13:15 ansible-sauce-connect-master/examples/roles/azavea.sauce-connect -> ../../
+-rw-rw-r-- root/root        65 2014-12-19 13:15 ansible-sauce-connect-master/examples/site.yml
+drwxrwxr-x root/root         0 2014-12-19 13:15 ansible-sauce-connect-master/meta/
+-rw-rw-r-- root/root       269 2014-12-19 13:15 ansible-sauce-connect-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-19 13:15 ansible-sauce-connect-master/tasks/
+-rw-rw-r-- root/root       413 2014-12-19 13:15 ansible-sauce-connect-master/tasks/main.yml

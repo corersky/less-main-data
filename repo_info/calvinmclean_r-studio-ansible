@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-09 13:57 r-studio-ansible-master/
+-rw-rw-r-- root/root      1186 2017-06-09 13:57 r-studio-ansible-master/.travis.yml
+-rw-rw-r-- root/root      1153 2017-06-09 13:57 r-studio-ansible-master/README.md
+drwxrwxr-x root/root         0 2017-06-09 13:57 r-studio-ansible-master/files/
+-rw-rw-r-- root/root  96607276 2017-06-09 13:57 r-studio-ansible-master/files/rstudio-1.0.143-amd64.deb
+-rw-rw-r-- root/root  89888610 2017-06-09 13:57 r-studio-ansible-master/files/rstudio-1.0.143-x86_64.rpm
+drwxrwxr-x root/root         0 2017-06-09 13:57 r-studio-ansible-master/meta/
+-rw-rw-r-- root/root       321 2017-06-09 13:57 r-studio-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-09 13:57 r-studio-ansible-master/tasks/
+-rw-rw-r-- root/root       764 2017-06-09 13:57 r-studio-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-09 13:57 r-studio-ansible-master/tests/
+-rw-rw-r-- root/root        10 2017-06-09 13:57 r-studio-ansible-master/tests/inventory
+-rw-rw-r-- root/root       117 2017-06-09 13:57 r-studio-ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-09 13:57 r-studio-ansible-master/vars/
+-rw-rw-r-- root/root        71 2017-06-09 13:57 r-studio-ansible-master/vars/CentOS.yml
+-rw-rw-r-- root/root        86 2017-06-09 13:57 r-studio-ansible-master/vars/Ubuntu.yml

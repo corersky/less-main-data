@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-17 13:16 ansible-testing-master/
+-rw-rw-r-- root/root       539 2016-03-17 13:16 ansible-testing-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-03-17 13:16 ansible-testing-master/README.md
+drwxrwxr-x root/root         0 2016-03-17 13:16 ansible-testing-master/defaults/
+-rw-rw-r-- root/root        40 2016-03-17 13:16 ansible-testing-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-17 13:16 ansible-testing-master/handlers/
+-rw-rw-r-- root/root        40 2016-03-17 13:16 ansible-testing-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-17 13:16 ansible-testing-master/meta/
+-rw-rw-r-- root/root      3223 2016-03-17 13:16 ansible-testing-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-17 13:16 ansible-testing-master/tasks/
+-rw-rw-r-- root/root        37 2016-03-17 13:16 ansible-testing-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-17 13:16 ansible-testing-master/tests/
+-rw-rw-r-- root/root         9 2016-03-17 13:16 ansible-testing-master/tests/inventory
+-rw-rw-r-- root/root        73 2016-03-17 13:16 ansible-testing-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-03-17 13:16 ansible-testing-master/vars/
+-rw-rw-r-- root/root        36 2016-03-17 13:16 ansible-testing-master/vars/main.yml

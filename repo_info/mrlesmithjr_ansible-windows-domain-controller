@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-04 07:12 ansible-windows-domain-controller-master/
+-rw-rw-r-- root/root      1072 2017-09-04 07:12 ansible-windows-domain-controller-master/LICENSE
+-rw-rw-r-- root/root      2403 2017-09-04 07:12 ansible-windows-domain-controller-master/README.md
+drwxrwxr-x root/root         0 2017-09-04 07:12 ansible-windows-domain-controller-master/defaults/
+-rw-rw-r-- root/root       268 2017-09-04 07:12 ansible-windows-domain-controller-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-04 07:12 ansible-windows-domain-controller-master/handlers/
+-rw-rw-r-- root/root        57 2017-09-04 07:12 ansible-windows-domain-controller-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-04 07:12 ansible-windows-domain-controller-master/meta/
+-rw-rw-r-- root/root       375 2017-09-04 07:12 ansible-windows-domain-controller-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-04 07:12 ansible-windows-domain-controller-master/tasks/
+-rw-rw-r-- root/root       586 2017-09-04 07:12 ansible-windows-domain-controller-master/tasks/main.yml
+-rw-rw-r-- root/root       245 2017-09-04 07:12 ansible-windows-domain-controller-master/tasks/reboot.yml
+drwxrwxr-x root/root         0 2017-09-04 07:12 ansible-windows-domain-controller-master/tests/
+-rw-rw-r-- root/root        11 2017-09-04 07:12 ansible-windows-domain-controller-master/tests/inventory
+-rw-rw-r-- root/root        91 2017-09-04 07:12 ansible-windows-domain-controller-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-04 07:12 ansible-windows-domain-controller-master/vars/
+-rw-rw-r-- root/root        53 2017-09-04 07:12 ansible-windows-domain-controller-master/vars/main.yml

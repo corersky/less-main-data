@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-05 08:24 svn-master/
+-rw-rw-r-- root/root       718 2015-06-05 08:24 svn-master/README.md
+drwxrwxr-x root/root         0 2015-06-05 08:24 svn-master/defaults/
+-rw-rw-r-- root/root       137 2015-06-05 08:24 svn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-05 08:24 svn-master/files/
+-rw-rw-r-- root/root        89 2015-06-05 08:24 svn-master/files/subversion_log.conf
+drwxrwxr-x root/root         0 2015-06-05 08:24 svn-master/handlers/
+-rw-rw-r-- root/root        60 2015-06-05 08:24 svn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-05 08:24 svn-master/meta/
+-rw-rw-r-- root/root       282 2015-06-05 08:24 svn-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-05 08:24 svn-master/tasks/
+-rw-rw-r-- root/root      1790 2015-06-05 08:24 svn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-05 08:24 svn-master/templates/
+-rw-rw-r-- root/root       579 2015-06-05 08:24 svn-master/templates/svn.j2

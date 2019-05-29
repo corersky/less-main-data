@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-29 12:29 dotnet-core-Ansible-master/
+-rw-rw-r-- root/root       539 2016-07-29 12:29 dotnet-core-Ansible-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-07-29 12:29 dotnet-core-Ansible-master/README.md
+drwxrwxr-x root/root         0 2016-07-29 12:29 dotnet-core-Ansible-master/defaults/
+-rw-rw-r-- root/root        31 2016-07-29 12:29 dotnet-core-Ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-29 12:29 dotnet-core-Ansible-master/handlers/
+-rw-rw-r-- root/root        31 2016-07-29 12:29 dotnet-core-Ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-29 12:29 dotnet-core-Ansible-master/meta/
+-rw-rw-r-- root/root      3516 2016-07-29 12:29 dotnet-core-Ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-29 12:29 dotnet-core-Ansible-master/tasks/
+-rw-rw-r-- root/root       949 2016-07-29 12:29 dotnet-core-Ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-29 12:29 dotnet-core-Ansible-master/tests/
+-rw-rw-r-- root/root         9 2016-07-29 12:29 dotnet-core-Ansible-master/tests/inventory
+-rw-rw-r-- root/root        64 2016-07-29 12:29 dotnet-core-Ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-29 12:29 dotnet-core-Ansible-master/vars/
+-rw-rw-r-- root/root        27 2016-07-29 12:29 dotnet-core-Ansible-master/vars/main.yml

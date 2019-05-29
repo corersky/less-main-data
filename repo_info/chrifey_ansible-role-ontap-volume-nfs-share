@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/
+-rw-rw-r-- root/root      3854 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/README.md
+drwxrwxr-x root/root         0 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/defaults/
+-rw-rw-r-- root/root       395 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/handlers/
+-rw-rw-r-- root/root        46 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/meta/
+-rw-rw-r-- root/root      2067 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/tasks/
+-rw-rw-r-- root/root       125 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/tasks/main.yml
+-rw-rw-r-- root/root      1512 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/tasks/no_safemode.yml
+-rw-rw-r-- root/root      2525 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/tasks/safemode.yml
+drwxrwxr-x root/root         0 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/tests/
+-rw-rw-r-- root/root        64 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/tests/inventory
+-rw-rw-r-- root/root       100 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/vars/
+-rw-rw-r-- root/root        42 2019-03-20 15:55 ansible-role-ontap-volume-nfs-share-master/vars/main.yml

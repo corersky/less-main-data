@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-17 23:14 ansible-role-nfs-master/
+-rw-rw-r-- root/root         9 2017-06-17 23:14 ansible-role-nfs-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-17 23:14 ansible-role-nfs-master/LICENSE
+-rw-rw-r-- root/root       293 2017-06-17 23:14 ansible-role-nfs-master/README.md
+drwxrwxr-x root/root         0 2017-06-17 23:14 ansible-role-nfs-master/defaults/
+-rw-rw-r-- root/root       360 2017-06-17 23:14 ansible-role-nfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:14 ansible-role-nfs-master/handlers/
+-rw-rw-r-- root/root       352 2017-06-17 23:14 ansible-role-nfs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:14 ansible-role-nfs-master/meta/
+-rw-rw-r-- root/root       301 2017-06-17 23:14 ansible-role-nfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:14 ansible-role-nfs-master/tasks/
+-rw-rw-r-- root/root      2392 2017-06-17 23:14 ansible-role-nfs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-17 23:14 ansible-role-nfs-master/templates/
+-rw-rw-r-- root/root       496 2017-06-17 23:14 ansible-role-nfs-master/templates/exports.j2
+-rw-rw-r-- root/root       136 2017-06-17 23:14 ansible-role-nfs-master/templates/idmapd.conf.j2
+-rw-rw-r-- root/root        37 2017-06-17 23:14 ansible-role-nfs-master/templates/nfs.conf.j2

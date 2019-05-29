@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-02-03 11:24 ansible-laravel4-deploy-master/
+-rw-rw-r-- root/root      1087 2015-02-03 11:24 ansible-laravel4-deploy-master/LICENSE.md
+-rw-rw-r-- root/root      2829 2015-02-03 11:24 ansible-laravel4-deploy-master/README.md
+drwxrwxr-x root/root         0 2015-02-03 11:24 ansible-laravel4-deploy-master/defaults/
+-rw-rw-r-- root/root       292 2015-02-03 11:24 ansible-laravel4-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-03 11:24 ansible-laravel4-deploy-master/meta/
+-rw-rw-r-- root/root       204 2015-02-03 11:24 ansible-laravel4-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-03 11:24 ansible-laravel4-deploy-master/tasks/
+-rw-rw-r-- root/root      1372 2015-02-03 11:24 ansible-laravel4-deploy-master/tasks/composer.yml
+-rw-rw-r-- root/root      1446 2015-02-03 11:24 ansible-laravel4-deploy-master/tasks/deploy.yml
+-rw-rw-r-- root/root       947 2015-02-03 11:24 ansible-laravel4-deploy-master/tasks/directory.yml
+-rw-rw-r-- root/root      1806 2015-02-03 11:24 ansible-laravel4-deploy-master/tasks/main.yml
+-rw-rw-r-- root/root      2506 2015-02-03 11:24 ansible-laravel4-deploy-master/tasks/symlinks.yml
+drwxrwxr-x root/root         0 2015-02-03 11:24 ansible-laravel4-deploy-master/vars/
+-rw-rw-r-- root/root        22 2015-02-03 11:24 ansible-laravel4-deploy-master/vars/main.yml

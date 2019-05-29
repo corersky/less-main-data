@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/
+-rw-rw-r-- root/root     11357 2019-04-03 10:43 ansible-role-bastion-master/LICENSE
+-rw-rw-r-- root/root      2655 2019-04-03 10:43 ansible-role-bastion-master/README.md
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/defaults/
+-rw-rw-r-- root/root       939 2019-04-03 10:43 ansible-role-bastion-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/handlers/
+-rw-rw-r-- root/root       107 2019-04-03 10:43 ansible-role-bastion-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/meta/
+-rw-rw-r-- root/root       531 2019-04-03 10:43 ansible-role-bastion-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/tasks/
+-rw-rw-r-- root/root      2925 2019-04-03 10:43 ansible-role-bastion-master/tasks/bastion.yaml
+-rw-rw-r-- root/root      1034 2019-04-03 10:43 ansible-role-bastion-master/tasks/main.yml
+-rw-rw-r-- root/root       775 2019-04-03 10:43 ansible-role-bastion-master/tasks/sec_group.yaml
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/templates/
+-rw-rw-r-- root/root       120 2019-04-03 10:43 ansible-role-bastion-master/templates/user-data.j2
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/tests/
+-rw-rw-r-- root/root        11 2019-04-03 10:43 ansible-role-bastion-master/tests/inventory
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-04-03 10:43 ansible-role-bastion-master/tests/roles/otc_bastion -> ../
+-rw-rw-r-- root/root        82 2019-04-03 10:43 ansible-role-bastion-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-03 10:43 ansible-role-bastion-master/vars/
+-rw-rw-r-- root/root       643 2019-04-03 10:43 ansible-role-bastion-master/vars/main.yml

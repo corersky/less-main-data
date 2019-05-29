@@ -1,0 +1,32 @@
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/
+-rw-rw-r-- root/root       850 2019-05-07 08:26 ansible.snmp-master/.travis.yml
+-rw-rw-r-- root/root      1059 2019-05-07 08:26 ansible.snmp-master/LICENSE
+-rw-rw-r-- root/root      2608 2019-05-07 08:26 ansible.snmp-master/README.md
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/defaults/
+-rw-rw-r-- root/root       953 2019-05-07 08:26 ansible.snmp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/handlers/
+-rw-rw-r-- root/root       426 2019-05-07 08:26 ansible.snmp-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/meta/
+-rw-rw-r-- root/root       488 2019-05-07 08:26 ansible.snmp-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/tasks/
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/tasks/distribution/
+-rw-rw-r-- root/root      2576 2019-05-07 08:26 ansible.snmp-master/tasks/distribution/Linux.yml
+-rw-rw-r-- root/root      2210 2019-05-07 08:26 ansible.snmp-master/tasks/distribution/Microsoft Windows 10 Pro-10.0.17763.0.yml
+-rw-rw-r-- root/root      1605 2019-05-07 08:26 ansible.snmp-master/tasks/distribution/Windows.yml
+-rw-rw-r-- root/root       118 2019-05-07 08:26 ansible.snmp-master/tasks/distribution/defaults.yml
+-rw-rw-r-- root/root      1108 2019-05-07 08:26 ansible.snmp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/templates/
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/templates/default/
+-rw-rw-r-- root/root       448 2019-05-07 08:26 ansible.snmp-master/templates/default/snmpd.Debian.j2
+-rw-rw-r-- root/root       193 2019-05-07 08:26 ansible.snmp-master/templates/default/snmpd.RedHat.j2
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/templates/snmp/
+-rw-rw-r-- root/root       859 2019-05-07 08:26 ansible.snmp-master/templates/snmp/snmpd.conf.j2
+drwxrwxr-x root/root         0 2019-05-07 08:26 ansible.snmp-master/vars/
+-rw-rw-r-- root/root       272 2019-05-07 08:26 ansible.snmp-master/vars/Debian.yml
+-rw-rw-r-- root/root       118 2019-05-07 08:26 ansible.snmp-master/vars/Microsoft Windows 10 Pro.yml
+-rw-rw-r-- root/root       118 2019-05-07 08:26 ansible.snmp-master/vars/Microsoft Windows 10.yml
+-rw-rw-r-- root/root       186 2019-05-07 08:26 ansible.snmp-master/vars/RedHat.yml
+-rw-rw-r-- root/root       257 2019-05-07 08:26 ansible.snmp-master/vars/Ubuntu-16.yml
+-rw-rw-r-- root/root       271 2019-05-07 08:26 ansible.snmp-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root       123 2019-05-07 08:26 ansible.snmp-master/vars/Windows.yml
+-rw-rw-r-- root/root        37 2019-05-07 08:26 ansible.snmp-master/vars/defaults.yml

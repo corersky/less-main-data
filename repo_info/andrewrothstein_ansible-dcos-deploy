@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-17 15:16 ansible-dcos-deploy-master/
+-rw-rw-r-- root/root         4 2017-01-17 15:16 ansible-dcos-deploy-master/.gitignore
+-rw-rw-r-- root/root      1084 2017-01-17 15:16 ansible-dcos-deploy-master/LICENSE
+-rw-rw-r-- root/root       567 2017-01-17 15:16 ansible-dcos-deploy-master/README.md
+-rw-rw-r-- root/root       882 2017-01-17 15:16 ansible-dcos-deploy-master/circle.yml
+drwxrwxr-x root/root         0 2017-01-17 15:16 ansible-dcos-deploy-master/defaults/
+-rw-rw-r-- root/root       452 2017-01-17 15:16 ansible-dcos-deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-17 15:16 ansible-dcos-deploy-master/handlers/
+-rw-rw-r-- root/root        36 2017-01-17 15:16 ansible-dcos-deploy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-17 15:16 ansible-dcos-deploy-master/meta/
+-rw-rw-r-- root/root       439 2017-01-17 15:16 ansible-dcos-deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-17 15:16 ansible-dcos-deploy-master/tasks/
+-rw-rw-r-- root/root      1697 2017-01-17 15:16 ansible-dcos-deploy-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2017-01-17 15:16 ansible-dcos-deploy-master/test.yml
+drwxrwxr-x root/root         0 2017-01-17 15:16 ansible-dcos-deploy-master/vars/
+-rw-rw-r-- root/root       205 2017-01-17 15:16 ansible-dcos-deploy-master/vars/main.yml

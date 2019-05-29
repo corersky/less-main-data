@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-03-08 21:08 ansible-ruby-master/
+-rw-rw-r-- root/root        43 2016-03-08 21:08 ansible-ruby-master/.gitignore
+-rw-rw-r-- root/root       827 2016-03-08 21:08 ansible-ruby-master/README.md
+-rw-rw-r-- root/root      1202 2016-03-08 21:08 ansible-ruby-master/circle.yml
+drwxrwxr-x root/root         0 2016-03-08 21:08 ansible-ruby-master/defaults/
+-rw-rw-r-- root/root       109 2016-03-08 21:08 ansible-ruby-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:08 ansible-ruby-master/meta/
+-rw-rw-r-- root/root       339 2016-03-08 21:08 ansible-ruby-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:08 ansible-ruby-master/tasks/
+-rw-rw-r-- root/root      1117 2016-03-08 21:08 ansible-ruby-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:08 ansible-ruby-master/tests/
+-rw-rw-r-- root/root         9 2016-03-08 21:08 ansible-ruby-master/tests/inventory
+-rw-rw-r-- root/root       114 2016-03-08 21:08 ansible-ruby-master/tests/test.yml

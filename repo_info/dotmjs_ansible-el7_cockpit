@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-26 09:56 ansible-el7_cockpit-master/
+-rw-rw-r-- root/root       893 2018-06-26 09:56 ansible-el7_cockpit-master/README.md
+drwxrwxr-x root/root         0 2018-06-26 09:56 ansible-el7_cockpit-master/defaults/
+-rw-rw-r-- root/root       125 2018-06-26 09:56 ansible-el7_cockpit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-26 09:56 ansible-el7_cockpit-master/handlers/
+-rw-rw-r-- root/root       154 2018-06-26 09:56 ansible-el7_cockpit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-26 09:56 ansible-el7_cockpit-master/meta/
+-rw-rw-r-- root/root       253 2018-06-26 09:56 ansible-el7_cockpit-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-26 09:56 ansible-el7_cockpit-master/tasks/
+-rw-rw-r-- root/root      1430 2018-06-26 09:56 ansible-el7_cockpit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-26 09:56 ansible-el7_cockpit-master/templates/
+-rw-rw-r-- root/root        55 2018-06-26 09:56 ansible-el7_cockpit-master/templates/cockpit_listen.conf.j2
+drwxrwxr-x root/root         0 2018-06-26 09:56 ansible-el7_cockpit-master/tests/
+-rw-rw-r-- root/root        11 2018-06-26 09:56 ansible-el7_cockpit-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-06-26 09:56 ansible-el7_cockpit-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-26 09:56 ansible-el7_cockpit-master/vars/
+-rw-rw-r-- root/root        38 2018-06-26 09:56 ansible-el7_cockpit-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/
+-rw-rw-r-- root/root     35149 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/LICENSE
+-rw-rw-r-- root/root      1423 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/defaults/
+-rw-rw-r-- root/root       209 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/meta/
+-rw-rw-r-- root/root       340 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/tasks/
+-rw-rw-r-- root/root       983 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/tasks/main.yml
+-rw-rw-r-- root/root      5199 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/tasks/process_primary.yml
+-rw-rw-r-- root/root      9519 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/tasks/process_standby.yml
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/templates/
+-rw-rw-r-- root/root       582 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/templates/recovery.conf.j2
+drwxrwxr-x root/root         0 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/vars/
+-rw-rw-r-- root/root      2072 2019-01-11 17:30 ansible-role-postgresql-role-transition-master/vars/main.yml

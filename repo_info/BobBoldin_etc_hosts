@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-04-13 09:55 etc_hosts-master/
+-rw-rw-r-- root/root     35147 2018-04-13 09:55 etc_hosts-master/LICENSE
+-rw-rw-r-- root/root      3876 2018-04-13 09:55 etc_hosts-master/README.md
+drwxrwxr-x root/root         0 2018-04-13 09:55 etc_hosts-master/defaults/
+-rw-rw-r-- root/root        34 2018-04-13 09:55 etc_hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-13 09:55 etc_hosts-master/handlers/
+-rw-rw-r-- root/root        34 2018-04-13 09:55 etc_hosts-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-13 09:55 etc_hosts-master/meta/
+-rw-rw-r-- root/root       259 2018-04-13 09:55 etc_hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-13 09:55 etc_hosts-master/tasks/
+-rw-rw-r-- root/root       522 2018-04-13 09:55 etc_hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-13 09:55 etc_hosts-master/tests/
+-rw-rw-r-- root/root         9 2018-04-13 09:55 etc_hosts-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-04-13 09:55 etc_hosts-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-04-13 09:55 etc_hosts-master/vars/
+-rw-rw-r-- root/root        30 2018-04-13 09:55 etc_hosts-master/vars/main.yml

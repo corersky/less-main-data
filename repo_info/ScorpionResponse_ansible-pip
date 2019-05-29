@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-04-24 07:05 ansible-pip-master/
+-rw-rw-r-- root/root      2599 2017-04-24 07:05 ansible-pip-master/.travis.yml
+-rw-rw-r-- root/root       613 2017-04-24 07:05 ansible-pip-master/README.md
+drwxrwxr-x root/root         0 2017-04-24 07:05 ansible-pip-master/defaults/
+-rw-rw-r-- root/root        44 2017-04-24 07:05 ansible-pip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-24 07:05 ansible-pip-master/meta/
+-rw-rw-r-- root/root       377 2017-04-24 07:05 ansible-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-24 07:05 ansible-pip-master/tasks/
+-rw-rw-r-- root/root       168 2017-04-24 07:05 ansible-pip-master/tasks/install-apt.yml
+-rw-rw-r-- root/root       213 2017-04-24 07:05 ansible-pip-master/tasks/install-yum.yml
+-rw-rw-r-- root/root      1391 2017-04-24 07:05 ansible-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-24 07:05 ansible-pip-master/tests/
+-rw-rw-r-- root/root        48 2017-04-24 07:05 ansible-pip-master/tests/test.yml

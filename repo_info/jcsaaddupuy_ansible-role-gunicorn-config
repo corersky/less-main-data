@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-03-12 16:45 ansible-role-gunicorn-config-master/
+-rw-rw-r-- root/root      1890 2015-03-12 16:45 ansible-role-gunicorn-config-master/README.md
+drwxrwxr-x root/root         0 2015-03-12 16:45 ansible-role-gunicorn-config-master/defaults/
+-rw-rw-r-- root/root       385 2015-03-12 16:45 ansible-role-gunicorn-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-12 16:45 ansible-role-gunicorn-config-master/meta/
+-rw-rw-r-- root/root      2147 2015-03-12 16:45 ansible-role-gunicorn-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-12 16:45 ansible-role-gunicorn-config-master/tasks/
+-rw-rw-r-- root/root       113 2015-03-12 16:45 ansible-role-gunicorn-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-12 16:45 ansible-role-gunicorn-config-master/templates/
+-rw-rw-r-- root/root       360 2015-03-12 16:45 ansible-role-gunicorn-config-master/templates/gunicorn.conf.py.j2
+drwxrwxr-x root/root         0 2015-03-12 16:45 ansible-role-gunicorn-config-master/vars/
+-rw-rw-r-- root/root        53 2015-03-12 16:45 ansible-role-gunicorn-config-master/vars/main.yml

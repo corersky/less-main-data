@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-17 04:26 debian-recent-mongodb-master/
+-rw-rw-r-- root/root        52 2015-12-17 04:26 debian-recent-mongodb-master/.gitignore
+-rw-rw-r-- root/root      1505 2015-12-17 04:26 debian-recent-mongodb-master/COPYING.md
+-rw-rw-r-- root/root       301 2015-12-17 04:26 debian-recent-mongodb-master/README.md
+drwxrwxr-x root/root         0 2015-12-17 04:26 debian-recent-mongodb-master/defaults/
+-rw-rw-r-- root/root        66 2015-12-17 04:26 debian-recent-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-17 04:26 debian-recent-mongodb-master/files/
+-rw-rw-r-- root/root      1712 2015-12-17 04:26 debian-recent-mongodb-master/files/mongo.key
+-rw-rw-r-- root/root        66 2015-12-17 04:26 debian-recent-mongodb-master/files/mongodb-org-3.2.list
+drwxrwxr-x root/root         0 2015-12-17 04:26 debian-recent-mongodb-master/handlers/
+-rw-rw-r-- root/root        46 2015-12-17 04:26 debian-recent-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-17 04:26 debian-recent-mongodb-master/meta/
+-rw-rw-r-- root/root       363 2015-12-17 04:26 debian-recent-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-17 04:26 debian-recent-mongodb-master/tasks/
+-rw-rw-r-- root/root       611 2015-12-17 04:26 debian-recent-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-17 04:26 debian-recent-mongodb-master/vars/
+-rw-rw-r-- root/root        42 2015-12-17 04:26 debian-recent-mongodb-master/vars/main.yml

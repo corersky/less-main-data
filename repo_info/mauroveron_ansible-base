@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-17 00:00 ansible-base-master/
+-rw-rw-r-- root/root       539 2017-02-17 00:00 ansible-base-master/.travis.yml
+-rw-rw-r-- root/root       886 2017-02-17 00:00 ansible-base-master/README.md
+drwxrwxr-x root/root         0 2017-02-17 00:00 ansible-base-master/defaults/
+-rw-rw-r-- root/root       114 2017-02-17 00:00 ansible-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-17 00:00 ansible-base-master/handlers/
+-rw-rw-r-- root/root       209 2017-02-17 00:00 ansible-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-17 00:00 ansible-base-master/meta/
+-rw-rw-r-- root/root      1390 2017-02-17 00:00 ansible-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-17 00:00 ansible-base-master/tasks/
+-rw-rw-r-- root/root      1069 2017-02-17 00:00 ansible-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-17 00:00 ansible-base-master/tests/
+-rw-rw-r-- root/root         9 2017-02-17 00:00 ansible-base-master/tests/inventory
+-rw-rw-r-- root/root        70 2017-02-17 00:00 ansible-base-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-17 00:00 ansible-base-master/vars/
+-rw-rw-r-- root/root        33 2017-02-17 00:00 ansible-base-master/vars/main.yml

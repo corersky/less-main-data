@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-10-20 11:34 ansible-role-firewalld-master/
+-rw-rw-r-- root/root       106 2018-10-20 11:34 ansible-role-firewalld-master/.gitignore
+-rw-rw-r-- root/root       584 2018-10-20 11:34 ansible-role-firewalld-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-10-20 11:34 ansible-role-firewalld-master/meta/
+-rw-rw-r-- root/root       199 2018-10-20 11:34 ansible-role-firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-20 11:34 ansible-role-firewalld-master/tasks/
+-rw-rw-r-- root/root       280 2018-10-20 11:34 ansible-role-firewalld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-20 11:34 ansible-role-firewalld-master/tests/
+-rw-rw-r-- root/root        82 2018-10-20 11:34 ansible-role-firewalld-master/tests/test.yml

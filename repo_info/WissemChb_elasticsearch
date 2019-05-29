@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-28 12:54 elasticsearch-master/
+-rw-rw-r-- root/root      1328 2017-11-28 12:54 elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2017-11-28 12:54 elasticsearch-master/defaults/
+-rw-rw-r-- root/root       237 2017-11-28 12:54 elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-28 12:54 elasticsearch-master/handlers/
+-rw-rw-r-- root/root        37 2017-11-28 12:54 elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-28 12:54 elasticsearch-master/meta/
+-rw-rw-r-- root/root      1837 2017-11-28 12:54 elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-28 12:54 elasticsearch-master/tasks/
+-rw-rw-r-- root/root       275 2017-11-28 12:54 elasticsearch-master/tasks/elastic-Debian.yml
+-rw-rw-r-- root/root       313 2017-11-28 12:54 elasticsearch-master/tasks/elastic-RedHat.yml
+-rw-rw-r-- root/root       466 2017-11-28 12:54 elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-28 12:54 elasticsearch-master/tests/
+-rw-rw-r-- root/root        11 2017-11-28 12:54 elasticsearch-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-11-28 12:54 elasticsearch-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-28 12:54 elasticsearch-master/vars/
+-rw-rw-r-- root/root        82 2017-11-28 12:54 elasticsearch-master/vars/main.yml

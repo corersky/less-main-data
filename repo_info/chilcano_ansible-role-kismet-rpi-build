@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/
+-rw-rw-r-- root/root      2389 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/README.md
+drwxrwxr-x root/root         0 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/defaults/
+-rw-rw-r-- root/root       773 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/meta/
+-rw-rw-r-- root/root       784 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/tasks/
+-rw-rw-r-- root/root      3824 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/tasks/build.yml
+-rw-rw-r-- root/root      1230 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/tasks/clean.yml
+-rw-rw-r-- root/root       368 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/tasks/main.yml
+-rw-rw-r-- root/root      1115 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/tasks/publish.yml
+drwxrwxr-x root/root         0 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/templates/
+-rw-rw-r-- root/root       808 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/templates/checkinstall.sh.j2
+-rw-rw-r-- root/root        78 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/templates/description-pak.j2
+drwxrwxr-x root/root         0 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/vars/
+-rw-rw-r-- root/root       401 2017-03-29 10:04 ansible-role-kismet-rpi-build-master/vars/main.yml

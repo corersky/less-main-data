@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-23 08:50 ansible-role-certbot-master/
+-rw-rw-r-- root/root         5 2019-01-23 08:50 ansible-role-certbot-master/.gitignore
+-rw-rw-r-- root/root       486 2019-01-23 08:50 ansible-role-certbot-master/CHANGELOG.md
+-rw-rw-r-- root/root      1076 2019-01-23 08:50 ansible-role-certbot-master/LICENSE.md
+-rw-rw-r-- root/root      1418 2019-01-23 08:50 ansible-role-certbot-master/README.md
+drwxrwxr-x root/root         0 2019-01-23 08:50 ansible-role-certbot-master/defaults/
+-rw-rw-r-- root/root       655 2019-01-23 08:50 ansible-role-certbot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-23 08:50 ansible-role-certbot-master/meta/
+-rw-rw-r-- root/root       650 2019-01-23 08:50 ansible-role-certbot-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-23 08:50 ansible-role-certbot-master/tasks/
+-rw-rw-r-- root/root      2050 2019-01-23 08:50 ansible-role-certbot-master/tasks/https.yml
+-rw-rw-r-- root/root        82 2019-01-23 08:50 ansible-role-certbot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-23 08:50 ansible-role-certbot-master/templates/
+-rw-rw-r-- root/root       425 2019-01-23 08:50 ansible-role-certbot-master/templates/renew-certificates.sh.j2

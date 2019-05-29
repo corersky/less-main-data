@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-01 10:12 ansible-role-pngcrush-master/
+drwxrwxr-x root/root         0 2019-04-01 10:12 ansible-role-pngcrush-master/.circleci/
+-rw-rw-r-- root/root       704 2019-04-01 10:12 ansible-role-pngcrush-master/.circleci/config.yml
+-rw-rw-r-- root/root        53 2019-04-01 10:12 ansible-role-pngcrush-master/.gitignore
+-rw-rw-r-- root/root      2741 2019-04-01 10:12 ansible-role-pngcrush-master/.travis.yml
+-rw-rw-r-- root/root      1196 2019-04-01 10:12 ansible-role-pngcrush-master/README.md
+drwxrwxr-x root/root         0 2019-04-01 10:12 ansible-role-pngcrush-master/defaults/
+-rw-rw-r-- root/root        39 2019-04-01 10:12 ansible-role-pngcrush-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:12 ansible-role-pngcrush-master/meta/
+-rw-rw-r-- root/root      3561 2019-04-01 10:12 ansible-role-pngcrush-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:12 ansible-role-pngcrush-master/tasks/
+-rw-rw-r-- root/root      3749 2019-04-01 10:12 ansible-role-pngcrush-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-04-01 10:12 ansible-role-pngcrush-master/tasks/include_vars.yml
+-rw-rw-r-- root/root      1037 2019-04-01 10:12 ansible-role-pngcrush-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root       350 2019-04-01 10:12 ansible-role-pngcrush-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:12 ansible-role-pngcrush-master/vars/
+-rw-rw-r-- root/root        30 2019-04-01 10:12 ansible-role-pngcrush-master/vars/default.yml

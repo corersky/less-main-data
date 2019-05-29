@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-19 12:51 ansible-roles-time-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:51 ansible-roles-time-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:51 ansible-roles-time-master/defaults/
+-rw-rw-r-- root/root        24 2018-11-19 12:51 ansible-roles-time-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:51 ansible-roles-time-master/handlers/
+-rw-rw-r-- root/root        42 2018-11-19 12:51 ansible-roles-time-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:51 ansible-roles-time-master/meta/
+-rw-rw-r-- root/root       261 2018-11-19 12:51 ansible-roles-time-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:51 ansible-roles-time-master/tasks/
+-rw-rw-r-- root/root       227 2018-11-19 12:51 ansible-roles-time-master/tasks/amzn2.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:51 ansible-roles-time-master/tasks/el7.yml -> amzn2.yml
+-rw-rw-r-- root/root       236 2018-11-19 12:51 ansible-roles-time-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:51 ansible-roles-time-master/vars/
+-rw-rw-r-- root/root        38 2018-11-19 12:51 ansible-roles-time-master/vars/main.yml

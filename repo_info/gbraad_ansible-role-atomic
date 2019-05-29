@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-14 03:47 ansible-role-atomic-master/
+-rw-rw-r-- root/root       520 2016-08-14 03:47 ansible-role-atomic-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 03:47 ansible-role-atomic-master/defaults/
+-rw-rw-r-- root/root         4 2016-08-14 03:47 ansible-role-atomic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:47 ansible-role-atomic-master/files/
+-rw-rw-r-- root/root         0 2016-08-14 03:47 ansible-role-atomic-master/files/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:47 ansible-role-atomic-master/handlers/
+-rw-rw-r-- root/root         0 2016-08-14 03:47 ansible-role-atomic-master/handlers/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:47 ansible-role-atomic-master/meta/
+-rw-rw-r-- root/root       287 2016-08-14 03:47 ansible-role-atomic-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:47 ansible-role-atomic-master/tasks/
+-rw-rw-r-- root/root        82 2016-08-14 03:47 ansible-role-atomic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:47 ansible-role-atomic-master/templates/
+-rw-rw-r-- root/root         0 2016-08-14 03:47 ansible-role-atomic-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:47 ansible-role-atomic-master/vars/
+-rw-rw-r-- root/root         4 2016-08-14 03:47 ansible-role-atomic-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-24 16:52 ansible-selinux-master/
+-rw-rw-r-- root/root      1298 2018-09-24 16:52 ansible-selinux-master/LICENSE
+-rw-rw-r-- root/root      1198 2018-09-24 16:52 ansible-selinux-master/README.md
+drwxrwxr-x root/root         0 2018-09-24 16:52 ansible-selinux-master/defaults/
+-rw-rw-r-- root/root        84 2018-09-24 16:52 ansible-selinux-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:52 ansible-selinux-master/handlers/
+-rw-rw-r-- root/root        32 2018-09-24 16:52 ansible-selinux-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:52 ansible-selinux-master/meta/
+-rw-rw-r-- root/root      2066 2018-09-24 16:52 ansible-selinux-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:52 ansible-selinux-master/tasks/
+-rw-rw-r-- root/root       270 2018-09-24 16:52 ansible-selinux-master/tasks/CentOS.yml
+-rw-rw-r-- root/root        47 2018-09-24 16:52 ansible-selinux-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       303 2018-09-24 16:52 ansible-selinux-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-24 16:52 ansible-selinux-master/vars/
+-rw-rw-r-- root/root        46 2018-09-24 16:52 ansible-selinux-master/vars/CentOS.yml
+-rw-rw-r-- root/root        46 2018-09-24 16:52 ansible-selinux-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        28 2018-09-24 16:52 ansible-selinux-master/vars/main.yml

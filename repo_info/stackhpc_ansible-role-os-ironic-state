@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-01 05:03 ansible-role-os-ironic-state-master/
+-rw-rw-r-- root/root         6 2019-02-01 05:03 ansible-role-os-ironic-state-master/.gitignore
+-rw-rw-r-- root/root       729 2019-02-01 05:03 ansible-role-os-ironic-state-master/.travis.yml
+-rw-rw-r-- root/root     35148 2019-02-01 05:03 ansible-role-os-ironic-state-master/COPYING
+-rw-rw-r-- root/root      1149 2019-02-01 05:03 ansible-role-os-ironic-state-master/README.md
+drwxrwxr-x root/root         0 2019-02-01 05:03 ansible-role-os-ironic-state-master/defaults/
+-rw-rw-r-- root/root       642 2019-02-01 05:03 ansible-role-os-ironic-state-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-01 05:03 ansible-role-os-ironic-state-master/library/
+-rw-rw-r-- root/root      5870 2019-02-01 05:03 ansible-role-os-ironic-state-master/library/os_ironic_state.py
+drwxrwxr-x root/root         0 2019-02-01 05:03 ansible-role-os-ironic-state-master/meta/
+-rw-rw-r-- root/root       354 2019-02-01 05:03 ansible-role-os-ironic-state-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-01 05:03 ansible-role-os-ironic-state-master/tasks/
+-rw-rw-r-- root/root       697 2019-02-01 05:03 ansible-role-os-ironic-state-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-01 05:03 ansible-role-os-ironic-state-master/tests/
+-rw-rw-r-- root/root        86 2019-02-01 05:03 ansible-role-os-ironic-state-master/tests/inventory
+-rw-rw-r-- root/root        77 2019-02-01 05:03 ansible-role-os-ironic-state-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-23 03:18 ansible-role-truststore-master/
+-rw-rw-r-- root/root      1981 2017-01-23 03:18 ansible-role-truststore-master/.travis.yml
+-rw-rw-r-- root/root       683 2017-01-23 03:18 ansible-role-truststore-master/README.md
+drwxrwxr-x root/root         0 2017-01-23 03:18 ansible-role-truststore-master/defaults/
+-rw-rw-r-- root/root       806 2017-01-23 03:18 ansible-role-truststore-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-23 03:18 ansible-role-truststore-master/handlers/
+-rw-rw-r-- root/root       162 2017-01-23 03:18 ansible-role-truststore-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-23 03:18 ansible-role-truststore-master/meta/
+-rw-rw-r-- root/root      2668 2017-01-23 03:18 ansible-role-truststore-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-23 03:18 ansible-role-truststore-master/tasks/
+-rw-rw-r-- root/root      2850 2017-01-23 03:18 ansible-role-truststore-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-23 03:18 ansible-role-truststore-master/tests/
+-rw-rw-r-- root/root        10 2017-01-23 03:18 ansible-role-truststore-master/tests/inventory
+-rw-rw-r-- root/root       357 2017-01-23 03:18 ansible-role-truststore-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-23 03:18 ansible-role-truststore-master/vars/
+-rw-rw-r-- root/root        44 2017-01-23 03:18 ansible-role-truststore-master/vars/main.yml

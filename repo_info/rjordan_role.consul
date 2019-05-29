@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-14 21:50 role.consul-master/
+-rw-rw-r-- root/root        79 2016-03-14 21:50 role.consul-master/README.md
+drwxrwxr-x root/root         0 2016-03-14 21:50 role.consul-master/defaults/
+-rw-rw-r-- root/root       175 2016-03-14 21:50 role.consul-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-14 21:50 role.consul-master/handlers/
+-rw-rw-r-- root/root       149 2016-03-14 21:50 role.consul-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-14 21:50 role.consul-master/meta/
+-rw-rw-r-- root/root       184 2016-03-14 21:50 role.consul-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-14 21:50 role.consul-master/tasks/
+-rw-rw-r-- root/root      1879 2016-03-14 21:50 role.consul-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-14 21:50 role.consul-master/templates/
+-rw-rw-r-- root/root       371 2016-03-14 21:50 role.consul-master/templates/consul_config.j2
+-rw-rw-r-- root/root       303 2016-03-14 21:50 role.consul-master/templates/startup_systemd.j2
+-rw-rw-r-- root/root       183 2016-03-14 21:50 role.consul-master/templates/startup_upstart.j2

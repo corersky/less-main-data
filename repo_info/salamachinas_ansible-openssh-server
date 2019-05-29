@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-18 08:16 ansible-openssh-server-master/
+-rw-rw-r-- root/root        55 2017-02-18 08:16 ansible-openssh-server-master/.gitignore
+-rw-rw-r-- root/root       904 2017-02-18 08:16 ansible-openssh-server-master/README.md
+drwxrwxr-x root/root         0 2017-02-18 08:16 ansible-openssh-server-master/handlers/
+-rw-rw-r-- root/root       292 2017-02-18 08:16 ansible-openssh-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-18 08:16 ansible-openssh-server-master/meta/
+-rw-rw-r-- root/root       345 2017-02-18 08:16 ansible-openssh-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-18 08:16 ansible-openssh-server-master/tasks/
+-rw-rw-r-- root/root       937 2017-02-18 08:16 ansible-openssh-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-18 08:16 ansible-openssh-server-master/tests/
+-rw-rw-r-- root/root       219 2017-02-18 08:16 ansible-openssh-server-master/tests/Dockerfile_centos7
+-rw-rw-r-- root/root       219 2017-02-18 08:16 ansible-openssh-server-master/tests/Dockerfile_debian7
+-rw-rw-r-- root/root       219 2017-02-18 08:16 ansible-openssh-server-master/tests/Dockerfile_debian8
+-rw-rw-r-- root/root       223 2017-02-18 08:16 ansible-openssh-server-master/tests/Dockerfile_ubuntu14
+-rw-rw-r-- root/root       223 2017-02-18 08:16 ansible-openssh-server-master/tests/Dockerfile_ubuntu16
+-rw-rw-r-- root/root        63 2017-02-18 08:16 ansible-openssh-server-master/tests/provision.yml

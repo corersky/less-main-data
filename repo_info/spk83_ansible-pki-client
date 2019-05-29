@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-04 09:04 ansible-pki-client-master/
+-rwxrwxr-x root/root        27 2018-04-04 09:04 ansible-pki-client-master/.gitignore
+-rw-rw-r-- root/root       572 2018-04-04 09:04 ansible-pki-client-master/.travis.yml
+-rwxrwxr-x root/root      1079 2018-04-04 09:04 ansible-pki-client-master/LICENSE
+-rwxrwxr-x root/root       917 2018-04-04 09:04 ansible-pki-client-master/README.md
+-rwxrwxr-x root/root       769 2018-04-04 09:04 ansible-pki-client-master/circle.yml
+drwxrwxr-x root/root         0 2018-04-04 09:04 ansible-pki-client-master/defaults/
+-rw-rw-r-- root/root       462 2018-04-04 09:04 ansible-pki-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-04 09:04 ansible-pki-client-master/meta/
+-rwxrwxr-x root/root       491 2018-04-04 09:04 ansible-pki-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-04 09:04 ansible-pki-client-master/tasks/
+-rwxrwxr-x root/root       582 2018-04-04 09:04 ansible-pki-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-04 09:04 ansible-pki-client-master/templates/
+-rw-rw-r-- root/root       142 2018-04-04 09:04 ansible-pki-client-master/templates/csr.json.j2
+-rwxrwxr-x root/root        63 2018-04-04 09:04 ansible-pki-client-master/test.yml
+drwxrwxr-x root/root         0 2018-04-04 09:04 ansible-pki-client-master/vars/
+-rw-rw-r-- root/root       282 2018-04-04 09:04 ansible-pki-client-master/vars/main.yml

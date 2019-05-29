@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-05-22 08:36 ansible-role-container-logstash-master/
+-rw-rw-r-- root/root       428 2017-05-22 08:36 ansible-role-container-logstash-master/README.md
+drwxrwxr-x root/root         0 2017-05-22 08:36 ansible-role-container-logstash-master/meta/
+-rw-rw-r-- root/root       309 2017-05-22 08:36 ansible-role-container-logstash-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-22 08:36 ansible-role-container-logstash-master/tasks/
+-rw-rw-r-- root/root       459 2017-05-22 08:36 ansible-role-container-logstash-master/tasks/cleanup_logstash.yaml
+-rw-rw-r-- root/root       959 2017-05-22 08:36 ansible-role-container-logstash-master/tasks/configure_logstash.yaml
+-rw-rw-r-- root/root       590 2017-05-22 08:36 ansible-role-container-logstash-master/tasks/deploy_logstash.yaml
+-rw-rw-r-- root/root       426 2017-05-22 08:36 ansible-role-container-logstash-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-05-22 08:36 ansible-role-container-logstash-master/templates/
+-rw-rw-r-- root/root      1445 2017-05-22 08:36 ansible-role-container-logstash-master/templates/logstash-dc.yaml.j2
+-rw-rw-r-- root/root       199 2017-05-22 08:36 ansible-role-container-logstash-master/templates/logstash-service.yaml.j2
+-rw-rw-r-- root/root       227 2017-05-22 08:36 ansible-role-container-logstash-master/templates/queue.pvc.j2
+drwxrwxr-x root/root         0 2017-05-22 08:36 ansible-role-container-logstash-master/vars/
+-rw-rw-r-- root/root        44 2017-05-22 08:36 ansible-role-container-logstash-master/vars/main.yaml

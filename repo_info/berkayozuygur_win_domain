@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-01-02 07:30 win_domain-master/
+-rw-rw-r-- root/root       445 2017-01-02 07:30 win_domain-master/README.md
+drwxrwxr-x root/root         0 2017-01-02 07:30 win_domain-master/defaults/
+-rw-rw-r-- root/root       130 2017-01-02 07:30 win_domain-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-02 07:30 win_domain-master/meta/
+-rw-rw-r-- root/root       319 2017-01-02 07:30 win_domain-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-02 07:30 win_domain-master/scripts/
+-rw-rw-r-- root/root       300 2017-01-02 07:30 win_domain-master/scripts/domain.ps1.j2
+drwxrwxr-x root/root         0 2017-01-02 07:30 win_domain-master/tasks/
+-rw-rw-r-- root/root       941 2017-01-02 07:30 win_domain-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-02 07:30 win_domain-master/tests/
+-rw-rw-r-- root/root         9 2017-01-02 07:30 win_domain-master/tests/inventory
+-rw-rw-r-- root/root        69 2017-01-02 07:30 win_domain-master/tests/test.yml

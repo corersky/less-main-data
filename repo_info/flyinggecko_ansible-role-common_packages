@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-09-29 08:46 ansible-role-common_packages-master/
+-rw-rw-r-- root/root      1079 2015-09-29 08:46 ansible-role-common_packages-master/LICENSE
+-rw-rw-r-- root/root      2654 2015-09-29 08:46 ansible-role-common_packages-master/README.md
+drwxrwxr-x root/root         0 2015-09-29 08:46 ansible-role-common_packages-master/defaults/
+-rw-rw-r-- root/root       900 2015-09-29 08:46 ansible-role-common_packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-29 08:46 ansible-role-common_packages-master/meta/
+-rw-rw-r-- root/root       380 2015-09-29 08:46 ansible-role-common_packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-29 08:46 ansible-role-common_packages-master/tasks/
+-rw-rw-r-- root/root       587 2015-09-29 08:46 ansible-role-common_packages-master/tasks/apt_install.yml
+-rw-rw-r-- root/root       562 2015-09-29 08:46 ansible-role-common_packages-master/tasks/main.yml
+-rw-rw-r-- root/root       374 2015-09-29 08:46 ansible-role-common_packages-master/tasks/pacman_install.yml
+-rw-rw-r-- root/root       231 2015-09-29 08:46 ansible-role-common_packages-master/tasks/pip_install.yml
+-rw-rw-r-- root/root       356 2015-09-29 08:46 ansible-role-common_packages-master/tasks/yum_install.yml

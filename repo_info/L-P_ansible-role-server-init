@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-04-14 08:27 ansible-role-server-init-master/
+-rw-rw-r-- root/root       115 2018-04-14 08:27 ansible-role-server-init-master/.editorconfig
+-rw-rw-r-- root/root      1056 2018-04-14 08:27 ansible-role-server-init-master/LICENSE
+-rw-rw-r-- root/root      1467 2018-04-14 08:27 ansible-role-server-init-master/README.md
+drwxrwxr-x root/root         0 2018-04-14 08:27 ansible-role-server-init-master/defaults/
+-rw-rw-r-- root/root        66 2018-04-14 08:27 ansible-role-server-init-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-14 08:27 ansible-role-server-init-master/handlers/
+-rw-rw-r-- root/root        72 2018-04-14 08:27 ansible-role-server-init-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-14 08:27 ansible-role-server-init-master/meta/
+-rw-rw-r-- root/root       292 2018-04-14 08:27 ansible-role-server-init-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-14 08:27 ansible-role-server-init-master/tasks/
+-rw-rw-r-- root/root       311 2018-04-14 08:27 ansible-role-server-init-master/tasks/apt.yml
+-rw-rw-r-- root/root        64 2018-04-14 08:27 ansible-role-server-init-master/tasks/main.yml
+-rw-rw-r-- root/root       971 2018-04-14 08:27 ansible-role-server-init-master/tasks/misc.yml
+-rw-rw-r-- root/root       820 2018-04-14 08:27 ansible-role-server-init-master/tasks/users.yml

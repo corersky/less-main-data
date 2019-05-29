@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-03-08 21:28 ansible-unicorn-upstart-master/
+-rw-rw-r-- root/root        43 2016-03-08 21:28 ansible-unicorn-upstart-master/.gitignore
+-rw-rw-r-- root/root      1096 2016-03-08 21:28 ansible-unicorn-upstart-master/LICENSE
+-rw-rw-r-- root/root       859 2016-03-08 21:28 ansible-unicorn-upstart-master/README.md
+-rw-rw-r-- root/root      1021 2016-03-08 21:28 ansible-unicorn-upstart-master/circle.yml
+drwxrwxr-x root/root         0 2016-03-08 21:28 ansible-unicorn-upstart-master/defaults/
+-rw-rw-r-- root/root        95 2016-03-08 21:28 ansible-unicorn-upstart-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:28 ansible-unicorn-upstart-master/meta/
+-rw-rw-r-- root/root       352 2016-03-08 21:28 ansible-unicorn-upstart-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:28 ansible-unicorn-upstart-master/tasks/
+-rw-rw-r-- root/root       282 2016-03-08 21:28 ansible-unicorn-upstart-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-08 21:28 ansible-unicorn-upstart-master/templates/
+-rw-rw-r-- root/root       466 2016-03-08 21:28 ansible-unicorn-upstart-master/templates/unicorn_upstart.j2
+drwxrwxr-x root/root         0 2016-03-08 21:28 ansible-unicorn-upstart-master/tests/
+-rw-rw-r-- root/root         9 2016-03-08 21:28 ansible-unicorn-upstart-master/tests/inventory
+-rw-rw-r-- root/root       105 2016-03-08 21:28 ansible-unicorn-upstart-master/tests/test.yml

@@ -1,0 +1,23 @@
+drwxrwxr-x root/root         0 2018-01-29 14:12 ansible-nimble-streamer-master/
+-rw-rw-r-- root/root      1234 2018-01-29 14:12 ansible-nimble-streamer-master/.travis.yml
+-rw-rw-r-- root/root      1089 2018-01-29 14:12 ansible-nimble-streamer-master/LICENSE
+-rw-rw-r-- root/root      4910 2018-01-29 14:12 ansible-nimble-streamer-master/README.md
+drwxrwxr-x root/root         0 2018-01-29 14:12 ansible-nimble-streamer-master/defaults/
+-rw-rw-r-- root/root      2505 2018-01-29 14:12 ansible-nimble-streamer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-29 14:12 ansible-nimble-streamer-master/meta/
+-rw-rw-r-- root/root       242 2018-01-29 14:12 ansible-nimble-streamer-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/
+drwxrwxr-x root/root         0 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/Centos 7/
+-rw-rw-r-- root/root       855 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/Centos 7/install.yml
+-rw-rw-r-- root/root       622 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/Centos 7/update.yml
+-rw-rw-r-- root/root      1145 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/config.yml
+-rw-rw-r-- root/root       794 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/install.yml
+-rw-rw-r-- root/root       123 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/main.yml
+-rw-rw-r-- root/root       564 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/register.yml
+-rw-rw-r-- root/root       118 2018-01-29 14:12 ansible-nimble-streamer-master/tasks/update.yml
+drwxrwxr-x root/root         0 2018-01-29 14:12 ansible-nimble-streamer-master/templates/
+-rw-rw-r-- root/root      7225 2018-01-29 14:12 ansible-nimble-streamer-master/templates/nimble.conf.j2
+drwxrwxr-x root/root         0 2018-01-29 14:12 ansible-nimble-streamer-master/test/
+-rw-rw-r-- root/root       424 2018-01-29 14:12 ansible-nimble-streamer-master/test/test.yml
+drwxrwxr-x root/root         0 2018-01-29 14:12 ansible-nimble-streamer-master/travis/
+-rw-rw-r-- root/root       922 2018-01-29 14:12 ansible-nimble-streamer-master/travis/Dockerfile.centos-7

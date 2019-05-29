@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-11-07 12:43 ansible-motd-master/
+-rw-rw-r-- root/root      1070 2016-11-07 12:43 ansible-motd-master/LICENSE
+-rw-rw-r-- root/root       577 2016-11-07 12:43 ansible-motd-master/README.md
+drwxrwxr-x root/root         0 2016-11-07 12:43 ansible-motd-master/defaults/
+-rw-rw-r-- root/root        72 2016-11-07 12:43 ansible-motd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-07 12:43 ansible-motd-master/meta/
+-rw-rw-r-- root/root       257 2016-11-07 12:43 ansible-motd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-07 12:43 ansible-motd-master/tasks/
+-rw-rw-r-- root/root       241 2016-11-07 12:43 ansible-motd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-07 12:43 ansible-motd-master/templates/
+drwxrwxr-x root/root         0 2016-11-07 12:43 ansible-motd-master/templates/etc/
+-rw-rw-r-- root/root      1203 2016-11-07 12:43 ansible-motd-master/templates/etc/motd

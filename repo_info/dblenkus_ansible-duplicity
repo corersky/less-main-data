@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-01-11 14:21 ansible-duplicity-master/
+-rw-rw-r-- root/root        10 2017-01-11 14:21 ansible-duplicity-master/.gitignore
+-rw-rw-r-- root/root     35147 2017-01-11 14:21 ansible-duplicity-master/COPYING
+-rw-rw-r-- root/root      2047 2017-01-11 14:21 ansible-duplicity-master/README.rst
+drwxrwxr-x root/root         0 2017-01-11 14:21 ansible-duplicity-master/defaults/
+-rw-rw-r-- root/root        40 2017-01-11 14:21 ansible-duplicity-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-11 14:21 ansible-duplicity-master/meta/
+-rw-rw-r-- root/root       246 2017-01-11 14:21 ansible-duplicity-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-11 14:21 ansible-duplicity-master/tasks/
+-rw-rw-r-- root/root       632 2017-01-11 14:21 ansible-duplicity-master/tasks/custom.yml
+-rw-rw-r-- root/root        79 2017-01-11 14:21 ansible-duplicity-master/tasks/distribution.yml
+-rw-rw-r-- root/root       732 2017-01-11 14:21 ansible-duplicity-master/tasks/duply.yml
+-rw-rw-r-- root/root       148 2017-01-11 14:21 ansible-duplicity-master/tasks/main.yml

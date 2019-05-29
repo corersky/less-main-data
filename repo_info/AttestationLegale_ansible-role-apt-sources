@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-06-20 02:53 ansible-role-apt-sources-master/
+-rw-rw-r-- root/root        15 2016-06-20 02:53 ansible-role-apt-sources-master/.gitignore
+-rw-rw-r-- root/root      1261 2016-06-20 02:53 ansible-role-apt-sources-master/.travis.yml
+-rw-rw-r-- root/root       957 2016-06-20 02:53 ansible-role-apt-sources-master/README.md
+drwxrwxr-x root/root         0 2016-06-20 02:53 ansible-role-apt-sources-master/defaults/
+-rw-rw-r-- root/root       131 2016-06-20 02:53 ansible-role-apt-sources-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-20 02:53 ansible-role-apt-sources-master/meta/
+-rw-rw-r-- root/root       297 2016-06-20 02:53 ansible-role-apt-sources-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-20 02:53 ansible-role-apt-sources-master/tasks/
+-rw-rw-r-- root/root       655 2016-06-20 02:53 ansible-role-apt-sources-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-20 02:53 ansible-role-apt-sources-master/tests/
+drwxrwxr-x root/root         0 2016-06-20 02:53 ansible-role-apt-sources-master/tests/files/
+-rw-rw-r-- root/root         0 2016-06-20 02:53 ansible-role-apt-sources-master/tests/files/foo
+-rw-rw-r-- root/root        10 2016-06-20 02:53 ansible-role-apt-sources-master/tests/inventory
+drwxrwxr-x root/root         0 2016-06-20 02:53 ansible-role-apt-sources-master/tests/templates/
+-rw-rw-r-- root/root        24 2016-06-20 02:53 ansible-role-apt-sources-master/tests/templates/bar.j2
+-rw-rw-r-- root/root       239 2016-06-20 02:53 ansible-role-apt-sources-master/tests/test.yml

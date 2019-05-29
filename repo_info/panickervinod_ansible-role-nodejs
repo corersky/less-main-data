@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-24 01:26 ansible-role-nodejs-master/
+-rw-rw-r-- root/root      2295 2016-02-24 01:26 ansible-role-nodejs-master/.travis.yml
+-rw-rw-r-- root/root      2068 2016-02-24 01:26 ansible-role-nodejs-master/README.md
+drwxrwxr-x root/root         0 2016-02-24 01:26 ansible-role-nodejs-master/defaults/
+-rw-rw-r-- root/root       556 2016-02-24 01:26 ansible-role-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-24 01:26 ansible-role-nodejs-master/meta/
+-rw-rw-r-- root/root       444 2016-02-24 01:26 ansible-role-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-24 01:26 ansible-role-nodejs-master/tasks/
+-rw-rw-r-- root/root      1354 2016-02-24 01:26 ansible-role-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       610 2016-02-24 01:26 ansible-role-nodejs-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       704 2016-02-24 01:26 ansible-role-nodejs-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2016-02-24 01:26 ansible-role-nodejs-master/tests/
+-rw-rw-r-- root/root       380 2016-02-24 01:26 ansible-role-nodejs-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1027 2016-02-24 01:26 ansible-role-nodejs-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root       343 2016-02-24 01:26 ansible-role-nodejs-master/tests/Dockerfile.ubuntu-12.04
+-rw-rw-r-- root/root       316 2016-02-24 01:26 ansible-role-nodejs-master/tests/Dockerfile.ubuntu-14.04
+-rw-rw-r-- root/root       632 2016-02-24 01:26 ansible-role-nodejs-master/tests/test.yml

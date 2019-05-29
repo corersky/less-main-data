@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-24 09:12 ansible-role-dosbox-gog-master/
+-rw-rw-r-- root/root     35147 2018-07-24 09:12 ansible-role-dosbox-gog-master/LICENSE
+-rw-rw-r-- root/root      1003 2018-07-24 09:12 ansible-role-dosbox-gog-master/README.md
+drwxrwxr-x root/root         0 2018-07-24 09:12 ansible-role-dosbox-gog-master/defaults/
+-rw-rw-r-- root/root        99 2018-07-24 09:12 ansible-role-dosbox-gog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-24 09:12 ansible-role-dosbox-gog-master/meta/
+-rw-rw-r-- root/root       370 2018-07-24 09:12 ansible-role-dosbox-gog-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-24 09:12 ansible-role-dosbox-gog-master/tasks/
+-rw-rw-r-- root/root       703 2018-07-24 09:12 ansible-role-dosbox-gog-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-24 09:12 ansible-role-dosbox-gog-master/templates/
+-rw-rw-r-- root/root       258 2018-07-24 09:12 ansible-role-dosbox-gog-master/templates/dosbox-gog.desktop.j2
+drwxrwxr-x root/root         0 2018-07-24 09:12 ansible-role-dosbox-gog-master/vars/
+-rw-rw-r-- root/root       264 2018-07-24 09:12 ansible-role-dosbox-gog-master/vars/main.yml

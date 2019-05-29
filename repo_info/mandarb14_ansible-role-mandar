@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-10-13 13:46 ansible-role-mandar-master/
+-rw-rw-r-- root/root      1328 2017-10-13 13:46 ansible-role-mandar-master/README.md
+drwxrwxr-x root/root         0 2017-10-13 13:46 ansible-role-mandar-master/defaults/
+-rw-rw-r-- root/root        30 2017-10-13 13:46 ansible-role-mandar-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:46 ansible-role-mandar-master/handlers/
+-rw-rw-r-- root/root        30 2017-10-13 13:46 ansible-role-mandar-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:46 ansible-role-mandar-master/meta/
+-rw-rw-r-- root/root      1777 2017-10-13 13:46 ansible-role-mandar-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:46 ansible-role-mandar-master/tasks/
+-rw-rw-r-- root/root        27 2017-10-13 13:46 ansible-role-mandar-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-13 13:46 ansible-role-mandar-master/tests/
+-rw-rw-r-- root/root        11 2017-10-13 13:46 ansible-role-mandar-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-10-13 13:46 ansible-role-mandar-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-13 13:46 ansible-role-mandar-master/vars/
+-rw-rw-r-- root/root        26 2017-10-13 13:46 ansible-role-mandar-master/vars/main.yml

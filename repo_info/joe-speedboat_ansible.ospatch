@@ -1,0 +1,38 @@
+drwxrwxr-x root/root         0 2019-04-17 00:58 ansible.ospatch-master/
+-rw-rw-r-- root/root       535 2019-04-17 00:58 ansible.ospatch-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-04-17 00:58 ansible.ospatch-master/LICENSE
+-rw-rw-r-- root/root       478 2019-04-17 00:58 ansible.ospatch-master/README.md
+drwxrwxr-x root/root         0 2019-04-17 00:58 ansible.ospatch-master/defaults/
+-rw-rw-r-- root/root       343 2019-04-17 00:58 ansible.ospatch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-17 00:58 ansible.ospatch-master/handlers/
+-rw-rw-r-- root/root        53 2019-04-17 00:58 ansible.ospatch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-17 00:58 ansible.ospatch-master/meta/
+-rw-rw-r-- root/root       319 2019-04-17 00:58 ansible.ospatch-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-17 00:58 ansible.ospatch-master/tasks/
+-rw-rw-r-- root/root        79 2019-04-17 00:58 ansible.ospatch-master/tasks/full-CentOS-6.yml
+-rw-rw-r-- root/root        79 2019-04-17 00:58 ansible.ospatch-master/tasks/full-CentOS-7.yml
+-rw-rw-r-- root/root        80 2019-04-17 00:58 ansible.ospatch-master/tasks/full-Fedora.yml
+-rw-rw-r-- root/root        79 2019-04-17 00:58 ansible.ospatch-master/tasks/full-Red Hat Enterprise Linux-6.yml
+-rw-rw-r-- root/root        79 2019-04-17 00:58 ansible.ospatch-master/tasks/full-Red Hat Enterprise Linux-7.yml
+-rw-rw-r-- root/root       414 2019-04-17 00:58 ansible.ospatch-master/tasks/full-Ubuntu.yml
+-rw-rw-r-- root/root       938 2019-04-17 00:58 ansible.ospatch-master/tasks/main.yml
+-rw-rw-r-- root/root       555 2019-04-17 00:58 ansible.ospatch-master/tasks/ping.yml
+-rw-rw-r-- root/root      1069 2019-04-17 00:58 ansible.ospatch-master/tasks/reboot-CentOS-6.yml
+-rw-rw-r-- root/root      1069 2019-04-17 00:58 ansible.ospatch-master/tasks/reboot-CentOS-7.yml
+-rw-rw-r-- root/root      1069 2019-04-17 00:58 ansible.ospatch-master/tasks/reboot-Fedora-Rawhide.yml
+-rw-rw-r-- root/root      1069 2019-04-17 00:58 ansible.ospatch-master/tasks/reboot-Red Hat Enterprise Linux-6.yml
+-rw-rw-r-- root/root      1069 2019-04-17 00:58 ansible.ospatch-master/tasks/reboot-Red Hat Enterprise Linux-7.yml
+-rw-rw-r-- root/root      1137 2019-04-17 00:58 ansible.ospatch-master/tasks/reboot-Ubuntu.yml
+-rw-rw-r-- root/root       311 2019-04-17 00:58 ansible.ospatch-master/tasks/security-CentOS-6.yml
+-rw-rw-r-- root/root       275 2019-04-17 00:58 ansible.ospatch-master/tasks/security-CentOS-7.yml
+-rw-rw-r-- root/root       196 2019-04-17 00:58 ansible.ospatch-master/tasks/security-Fedora.yml
+-rw-rw-r-- root/root       311 2019-04-17 00:58 ansible.ospatch-master/tasks/security-Red Hat Enterprise Linux-6.yml
+-rw-rw-r-- root/root       275 2019-04-17 00:58 ansible.ospatch-master/tasks/security-Red Hat Enterprise Linux-7.yml
+-rw-rw-r-- root/root       601 2019-04-17 00:58 ansible.ospatch-master/tasks/security-Ubuntu.yml
+drwxrwxr-x root/root         0 2019-04-17 00:58 ansible.ospatch-master/tests/
+-rw-rw-r-- root/root       139 2019-04-17 00:58 ansible.ospatch-master/tests/full.yml
+-rw-rw-r-- root/root        19 2019-04-17 00:58 ansible.ospatch-master/tests/inventory
+-rw-rw-r-- root/root       147 2019-04-17 00:58 ansible.ospatch-master/tests/security.yml
+-rw-rw-r-- root/root       257 2019-04-17 00:58 ansible.ospatch-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-17 00:58 ansible.ospatch-master/vars/
+-rw-rw-r-- root/root        49 2019-04-17 00:58 ansible.ospatch-master/vars/main.yml

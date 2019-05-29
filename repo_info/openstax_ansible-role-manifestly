@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-26 15:35 ansible-role-manifestly-master/
+-rw-rw-r-- root/root       366 2018-01-26 15:35 ansible-role-manifestly-master/.travis.yml
+-rw-rw-r-- root/root      1833 2018-01-26 15:35 ansible-role-manifestly-master/README.md
+drwxrwxr-x root/root         0 2018-01-26 15:35 ansible-role-manifestly-master/defaults/
+-rw-rw-r-- root/root       683 2018-01-26 15:35 ansible-role-manifestly-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-26 15:35 ansible-role-manifestly-master/meta/
+-rw-rw-r-- root/root      3928 2018-01-26 15:35 ansible-role-manifestly-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-26 15:35 ansible-role-manifestly-master/tasks/
+-rw-rw-r-- root/root       322 2018-01-26 15:35 ansible-role-manifestly-master/tasks/install_and_generate.yml
+-rw-rw-r-- root/root       401 2018-01-26 15:35 ansible-role-manifestly-master/tasks/main.yml
+-rw-rw-r-- root/root       566 2018-01-26 15:35 ansible-role-manifestly-master/tasks/upload_to_github.yml
+-rw-rw-r-- root/root       446 2018-01-26 15:35 ansible-role-manifestly-master/tasks/upload_to_hosts.yml
+drwxrwxr-x root/root         0 2018-01-26 15:35 ansible-role-manifestly-master/tests/
+-rw-rw-r-- root/root        30 2018-01-26 15:35 ansible-role-manifestly-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2018-01-26 15:35 ansible-role-manifestly-master/tests/inventory
+-rw-rw-r-- root/root       367 2018-01-26 15:35 ansible-role-manifestly-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-09-30 06:07 ansible-radicale-master/
+-rw-rw-r-- root/root     35147 2018-09-30 06:07 ansible-radicale-master/LICENSE
+-rw-rw-r-- root/root       753 2018-09-30 06:07 ansible-radicale-master/README.md
+drwxrwxr-x root/root         0 2018-09-30 06:07 ansible-radicale-master/defaults/
+-rw-rw-r-- root/root       372 2018-09-30 06:07 ansible-radicale-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 06:07 ansible-radicale-master/meta/
+-rw-rw-r-- root/root       372 2018-09-30 06:07 ansible-radicale-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-30 06:07 ansible-radicale-master/tasks/
+-rw-rw-r-- root/root      1232 2018-09-30 06:07 ansible-radicale-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-30 06:07 ansible-radicale-master/templates/
+-rw-rw-r-- root/root       303 2018-09-30 06:07 ansible-radicale-master/templates/config.j2
+-rw-rw-r-- root/root       565 2018-09-30 06:07 ansible-radicale-master/templates/radicale.service.j2

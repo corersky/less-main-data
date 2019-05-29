@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-04-16 09:10 ansible-new-wordpress-master/
+-rw-rw-r-- root/root      1198 2014-04-16 09:10 ansible-new-wordpress-master/README.md
+drwxrwxr-x root/root         0 2014-04-16 09:10 ansible-new-wordpress-master/meta/
+-rw-rw-r-- root/root      2107 2014-04-16 09:10 ansible-new-wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-04-16 09:10 ansible-new-wordpress-master/tasks/
+-rw-rw-r-- root/root      1983 2014-04-16 09:10 ansible-new-wordpress-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-04-16 09:10 ansible-new-wordpress-master/templates/
+-rw-rw-r-- root/root       653 2014-04-16 09:10 ansible-new-wordpress-master/templates/apache_virtualhost
+-rw-rw-r-- root/root      2729 2014-04-16 09:10 ansible-new-wordpress-master/templates/wp-config.php
+drwxrwxr-x root/root         0 2014-04-16 09:10 ansible-new-wordpress-master/vars/
+-rw-rw-r-- root/root       567 2014-04-16 09:10 ansible-new-wordpress-master/vars/main.yml

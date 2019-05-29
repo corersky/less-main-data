@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-08-26 12:01 ansible-docker-compose-master/
+-rw-rw-r-- root/root       372 2015-08-26 12:01 ansible-docker-compose-master/.editorconfig
+-rw-rw-r-- root/root        41 2015-08-26 12:01 ansible-docker-compose-master/.gitignore
+-rw-rw-r-- root/root       446 2015-08-26 12:01 ansible-docker-compose-master/.travis.yml
+-rw-rw-r-- root/root      1056 2015-08-26 12:01 ansible-docker-compose-master/LICENSE
+-rw-rw-r-- root/root      1897 2015-08-26 12:01 ansible-docker-compose-master/README.md
+-rw-rw-r-- root/root       574 2015-08-26 12:01 ansible-docker-compose-master/Vagrantfile
+-rw-rw-r-- root/root        27 2015-08-26 12:01 ansible-docker-compose-master/ansible.cfg
+drwxrwxr-x root/root         0 2015-08-26 12:01 ansible-docker-compose-master/defaults/
+-rw-rw-r-- root/root       156 2015-08-26 12:01 ansible-docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-26 12:01 ansible-docker-compose-master/meta/
+-rw-rw-r-- root/root      2189 2015-08-26 12:01 ansible-docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-26 12:01 ansible-docker-compose-master/tasks/
+-rw-rw-r-- root/root       456 2015-08-26 12:01 ansible-docker-compose-master/tasks/install.yml
+-rw-rw-r-- root/root       105 2015-08-26 12:01 ansible-docker-compose-master/tasks/main.yml
+-rw-rw-r-- root/root       139 2015-08-26 12:01 ansible-docker-compose-master/test.yml

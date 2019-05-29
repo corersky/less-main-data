@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-07 04:36 ansible-ci-save-server-state-master/
+-rw-rw-r-- root/root        21 2019-03-07 04:36 ansible-ci-save-server-state-master/.gitignore
+-rw-rw-r-- root/root       280 2019-03-07 04:36 ansible-ci-save-server-state-master/.travis.yml
+-rw-rw-r-- root/root      1073 2019-03-07 04:36 ansible-ci-save-server-state-master/LICENSE
+-rw-rw-r-- root/root      1950 2019-03-07 04:36 ansible-ci-save-server-state-master/README.md
+drwxrwxr-x root/root         0 2019-03-07 04:36 ansible-ci-save-server-state-master/defaults/
+-rw-rw-r-- root/root       293 2019-03-07 04:36 ansible-ci-save-server-state-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-07 04:36 ansible-ci-save-server-state-master/meta/
+-rw-rw-r-- root/root       585 2019-03-07 04:36 ansible-ci-save-server-state-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-07 04:36 ansible-ci-save-server-state-master/tasks/
+-rw-rw-r-- root/root       324 2019-03-07 04:36 ansible-ci-save-server-state-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-07 04:36 ansible-ci-save-server-state-master/tests/
+-rw-rw-r-- root/root         9 2019-03-07 04:36 ansible-ci-save-server-state-master/tests/inventory
+-rw-rw-r-- root/root       211 2019-03-07 04:36 ansible-ci-save-server-state-master/tests/test.yml

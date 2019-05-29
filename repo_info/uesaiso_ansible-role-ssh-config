@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-25 09:42 ansible-role-ssh-config-master/
+-rw-rw-r-- root/root      1328 2019-03-25 09:42 ansible-role-ssh-config-master/README.md
+drwxrwxr-x root/root         0 2019-03-25 09:42 ansible-role-ssh-config-master/handlers/
+-rw-rw-r-- root/root       151 2019-03-25 09:42 ansible-role-ssh-config-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-25 09:42 ansible-role-ssh-config-master/meta/
+-rw-rw-r-- root/root      1973 2019-03-25 09:42 ansible-role-ssh-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 09:42 ansible-role-ssh-config-master/tasks/
+-rw-rw-r-- root/root      1075 2019-03-25 09:42 ansible-role-ssh-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-25 09:42 ansible-role-ssh-config-master/templates/
+-rw-rw-r-- root/root       482 2019-03-25 09:42 ansible-role-ssh-config-master/templates/ssh.xml.j2
+-rw-rw-r-- root/root      3961 2019-03-25 09:42 ansible-role-ssh-config-master/templates/sshd_config.j2
+drwxrwxr-x root/root         0 2019-03-25 09:42 ansible-role-ssh-config-master/tests/
+-rw-rw-r-- root/root        11 2019-03-25 09:42 ansible-role-ssh-config-master/tests/inventory
+-rw-rw-r-- root/root        68 2019-03-25 09:42 ansible-role-ssh-config-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-14 13:35 ansible-python3-master/
+-rw-rw-r-- root/root       539 2018-11-14 13:35 ansible-python3-master/.travis.yml
+-rw-rw-r-- root/root       262 2018-11-14 13:35 ansible-python3-master/README.md
+drwxrwxr-x root/root         0 2018-11-14 13:35 ansible-python3-master/defaults/
+-rw-rw-r-- root/root        31 2018-11-14 13:35 ansible-python3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:35 ansible-python3-master/handlers/
+-rw-rw-r-- root/root        31 2018-11-14 13:35 ansible-python3-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:35 ansible-python3-master/meta/
+-rw-rw-r-- root/root       298 2018-11-14 13:35 ansible-python3-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:35 ansible-python3-master/tasks/
+-rw-rw-r-- root/root       220 2018-11-14 13:35 ansible-python3-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-14 13:35 ansible-python3-master/tests/
+-rw-rw-r-- root/root         9 2018-11-14 13:35 ansible-python3-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-11-14 13:35 ansible-python3-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-14 13:35 ansible-python3-master/vars/
+-rw-rw-r-- root/root        27 2018-11-14 13:35 ansible-python3-master/vars/main.yml

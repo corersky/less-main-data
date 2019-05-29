@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/
+-rw-rw-r-- root/root       539 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/.travis.yml
+-rw-rw-r-- root/root      1579 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/LICENSE
+-rw-rw-r-- root/root      1748 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/README.md
+drwxrwxr-x root/root         0 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/defaults/
+-rw-rw-r-- root/root       221 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/meta/
+-rw-rw-r-- root/root      2236 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/tasks/
+-rw-rw-r-- root/root      1424 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/tests/
+-rw-rw-r-- root/root        11 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/tests/inventory
+-rw-rw-r-- root/root        96 2019-04-27 19:23 ansible.aws_recreate_ec2_from_snapshot-master/tests/test.yml

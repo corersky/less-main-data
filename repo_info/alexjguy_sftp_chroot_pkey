@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-01-11 06:30 sftp_chroot_pkey-master/
+-rw-rw-r-- root/root       526 2019-01-11 06:30 sftp_chroot_pkey-master/.travis.yml
+-rw-rw-r-- root/root      1696 2019-01-11 06:30 sftp_chroot_pkey-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 06:30 sftp_chroot_pkey-master/defaults/
+-rw-rw-r-- root/root       917 2019-01-11 06:30 sftp_chroot_pkey-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 06:30 sftp_chroot_pkey-master/handlers/
+-rw-rw-r-- root/root        71 2019-01-11 06:30 sftp_chroot_pkey-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-11 06:30 sftp_chroot_pkey-master/meta/
+-rw-rw-r-- root/root       394 2019-01-11 06:30 sftp_chroot_pkey-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 06:30 sftp_chroot_pkey-master/tasks/
+-rw-rw-r-- root/root      3106 2019-01-11 06:30 sftp_chroot_pkey-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 06:30 sftp_chroot_pkey-master/tests/
+-rw-rw-r-- root/root        11 2019-01-11 06:30 sftp_chroot_pkey-master/tests/inventory
+-rw-rw-r-- root/root        75 2019-01-11 06:30 sftp_chroot_pkey-master/tests/test.yml

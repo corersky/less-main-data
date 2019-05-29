@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/
+-rw-rw-r-- root/root      6234 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/.gitchangelog.rc
+-rw-rw-r-- root/root       791 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/.gitignore
+-rw-rw-r-- root/root     11357 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/LICENSE
+-rw-rw-r-- root/root      2264 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/README.md
+-rw-rw-r-- root/root       463 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/bootstrap.sh
+drwxrwxr-x root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/defaults/
+-rw-rw-r-- root/root      1266 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/handlers/
+-rw-rw-r-- root/root        49 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/meta/
+-rw-rw-r-- root/root      1100 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/meta/main.yml
+-rw-rw-r-- root/root        26 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/requirements.txt
+drwxrwxr-x root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tasks/
+-rw-rw-r-- root/root       638 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tasks/main.yml
+-rw-rw-r-- root/root       213 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tasks/pycharm.yml
+-rw-rw-r-- root/root       414 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tasks/tex-extras.yml
+drwxrwxr-x root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tests/
+-rw-rw-r-- root/root        87 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tests/ansible.cfg
+-rw-rw-r-- root/root         9 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tests/inventory
+drwxrwxr-x root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tests/roles/local-role -> ../..
+-rw-rw-r-- root/root        43 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/vars/
+-rw-rw-r-- root/root        45 2018-02-08 06:43 ansible-cloudmesh-ubuntu-xenial-master/vars/main.yml

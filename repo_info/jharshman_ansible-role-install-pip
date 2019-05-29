@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-04-28 16:04 ansible-role-install-pip-master/
+-rw-rw-r-- root/root       539 2016-04-28 16:04 ansible-role-install-pip-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-04-28 16:04 ansible-role-install-pip-master/README.md
+drwxrwxr-x root/root         0 2016-04-28 16:04 ansible-role-install-pip-master/meta/
+-rw-rw-r-- root/root       310 2016-04-28 16:04 ansible-role-install-pip-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-28 16:04 ansible-role-install-pip-master/tasks/
+-rw-rw-r-- root/root        94 2016-04-28 16:04 ansible-role-install-pip-master/tasks/apt.yml
+-rw-rw-r-- root/root       131 2016-04-28 16:04 ansible-role-install-pip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-28 16:04 ansible-role-install-pip-master/tests/
+-rw-rw-r-- root/root         9 2016-04-28 16:04 ansible-role-install-pip-master/tests/inventory
+-rw-rw-r-- root/root        82 2016-04-28 16:04 ansible-role-install-pip-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-04-28 16:04 ansible-role-install-pip-master/vars/
+-rw-rw-r-- root/root        20 2016-04-28 16:04 ansible-role-install-pip-master/vars/main.yml

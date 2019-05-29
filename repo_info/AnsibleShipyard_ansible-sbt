@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-04-13 07:54 ansible-sbt-master/
+-rw-rw-r-- root/root       508 2015-04-13 07:54 ansible-sbt-master/.travis.yml
+-rw-rw-r-- root/root      1037 2015-04-13 07:54 ansible-sbt-master/Dockerfile
+-rw-rw-r-- root/root     11325 2015-04-13 07:54 ansible-sbt-master/LICENSE
+-rw-rw-r-- root/root       443 2015-04-13 07:54 ansible-sbt-master/README.md
+-rw-rw-r-- root/root       482 2015-04-13 07:54 ansible-sbt-master/build.sh
+drwxrwxr-x root/root         0 2015-04-13 07:54 ansible-sbt-master/ci/
+-rw-rw-r-- root/root        17 2015-04-13 07:54 ansible-sbt-master/ci/inventory
+-rw-rw-r-- root/root       128 2015-04-13 07:54 ansible-sbt-master/ci/playbook.yml
+-rw-rw-r-- root/root       217 2015-04-13 07:54 ansible-sbt-master/ci/tests.yml
+drwxrwxr-x root/root         0 2015-04-13 07:54 ansible-sbt-master/meta/
+-rw-rw-r-- root/root      2017 2015-04-13 07:54 ansible-sbt-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-13 07:54 ansible-sbt-master/tasks/
+-rw-rw-r-- root/root       488 2015-04-13 07:54 ansible-sbt-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-13 07:54 ansible-sbt-master/vars/
+-rw-rw-r-- root/root       364 2015-04-13 07:54 ansible-sbt-master/vars/main.yml

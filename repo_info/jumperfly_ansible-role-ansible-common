@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-03-16 06:16 ansible-role-ansible-common-master/
+-rw-rw-r-- root/root       106 2019-03-16 06:16 ansible-role-ansible-common-master/.gitignore
+-rw-rw-r-- root/root      1321 2019-03-16 06:16 ansible-role-ansible-common-master/Vagrantfile
+-rw-rw-r-- root/root        68 2019-03-16 06:16 ansible-role-ansible-common-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-03-16 06:16 ansible-role-ansible-common-master/meta/
+-rw-rw-r-- root/root       230 2019-03-16 06:16 ansible-role-ansible-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-16 06:16 ansible-role-ansible-common-master/tasks/
+-rw-rw-r-- root/root       910 2019-03-16 06:16 ansible-role-ansible-common-master/tasks/ansible-common.yml
+-rw-rw-r-- root/root        59 2019-03-16 06:16 ansible-role-ansible-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-16 06:16 ansible-role-ansible-common-master/tests/
+-rw-rw-r-- root/root        67 2019-03-16 06:16 ansible-role-ansible-common-master/tests/test.yml
+-rw-rw-r-- root/root      1675 2019-03-16 06:16 ansible-role-ansible-common-master/vagrant_insecure_key

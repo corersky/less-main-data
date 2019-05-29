@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-10-16 16:31 ansible_upgrade_reboot-master/
+-rw-rw-r-- root/root      1070 2017-10-16 16:31 ansible_upgrade_reboot-master/LICENSE
+-rw-rw-r-- root/root       326 2017-10-16 16:31 ansible_upgrade_reboot-master/README.md
+drwxrwxr-x root/root         0 2017-10-16 16:31 ansible_upgrade_reboot-master/defaults/
+-rw-rw-r-- root/root        27 2017-10-16 16:31 ansible_upgrade_reboot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-16 16:31 ansible_upgrade_reboot-master/meta/
+-rw-rw-r-- root/root      2358 2017-10-16 16:31 ansible_upgrade_reboot-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-16 16:31 ansible_upgrade_reboot-master/tasks/
+-rw-rw-r-- root/root       357 2017-10-16 16:31 ansible_upgrade_reboot-master/tasks/debian.yml
+-rw-rw-r-- root/root       949 2017-10-16 16:31 ansible_upgrade_reboot-master/tasks/main.yml
+-rw-rw-r-- root/root       472 2017-10-16 16:31 ansible_upgrade_reboot-master/tasks/redhat.yml

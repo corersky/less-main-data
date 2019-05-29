@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-18 07:09 gridrouter-docker-master/
+-rw-rw-r-- root/root         8 2018-04-18 07:09 gridrouter-docker-master/.gitignore
+-rw-rw-r-- root/root       875 2018-04-18 07:09 gridrouter-docker-master/.travis.yml
+-rw-rw-r-- root/root     11357 2018-04-18 07:09 gridrouter-docker-master/LICENSE
+-rw-rw-r-- root/root      2846 2018-04-18 07:09 gridrouter-docker-master/README.md
+drwxrwxr-x root/root         0 2018-04-18 07:09 gridrouter-docker-master/defaults/
+-rw-rw-r-- root/root      1017 2018-04-18 07:09 gridrouter-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-18 07:09 gridrouter-docker-master/meta/
+-rw-rw-r-- root/root       396 2018-04-18 07:09 gridrouter-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-18 07:09 gridrouter-docker-master/tasks/
+-rw-rw-r-- root/root      1415 2018-04-18 07:09 gridrouter-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-18 07:09 gridrouter-docker-master/templates/
+-rw-rw-r-- root/root       796 2018-04-18 07:09 gridrouter-docker-master/templates/quota_template.json.j2
+drwxrwxr-x root/root         0 2018-04-18 07:09 gridrouter-docker-master/tests/
+-rw-rw-r-- root/root        84 2018-04-18 07:09 gridrouter-docker-master/tests/role.yml
+-rw-rw-r-- root/root        84 2018-04-18 07:09 gridrouter-docker-master/tests/test-local-inventory
+-rw-rw-r-- root/root        92 2018-04-18 07:09 gridrouter-docker-master/tests/test-local.yml

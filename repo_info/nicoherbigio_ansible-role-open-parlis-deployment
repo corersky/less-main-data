@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/
+-rw-rw-r-- root/root         7 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/.gitignore
+-rw-rw-r-- root/root       539 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/.travis.yml
+-rw-rw-r-- root/root      1328 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/README.md
+drwxrwxr-x root/root         0 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/defaults/
+-rw-rw-r-- root/root      2272 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/meta/
+-rw-rw-r-- root/root       377 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/tasks/
+-rw-rw-r-- root/root      2182 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/tests/
+-rw-rw-r-- root/root         9 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-01-15 03:06 ansible-role-open-parlis-deployment-master/tests/test.yml

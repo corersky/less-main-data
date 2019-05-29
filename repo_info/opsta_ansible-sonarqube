@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-12 06:11 ansible-sonarqube-master/
+-rw-rw-r-- root/root       540 2018-11-12 06:11 ansible-sonarqube-master/.travis.yml
+-rw-rw-r-- root/root      1062 2018-11-12 06:11 ansible-sonarqube-master/LICENSE
+-rw-rw-r-- root/root       245 2018-11-12 06:11 ansible-sonarqube-master/README.md
+drwxrwxr-x root/root         0 2018-11-12 06:11 ansible-sonarqube-master/defaults/
+-rw-rw-r-- root/root      1194 2018-11-12 06:11 ansible-sonarqube-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-12 06:11 ansible-sonarqube-master/handlers/
+-rw-rw-r-- root/root        82 2018-11-12 06:11 ansible-sonarqube-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-12 06:11 ansible-sonarqube-master/meta/
+-rw-rw-r-- root/root       303 2018-11-12 06:11 ansible-sonarqube-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-12 06:11 ansible-sonarqube-master/tasks/
+-rw-rw-r-- root/root       176 2018-11-12 06:11 ansible-sonarqube-master/tasks/main.yml
+-rw-rw-r-- root/root       605 2018-11-12 06:11 ansible-sonarqube-master/tasks/sonarqube_install.yml
+-rw-rw-r-- root/root       553 2018-11-12 06:11 ansible-sonarqube-master/tasks/sonarqube_post.yml
+-rw-rw-r-- root/root       598 2018-11-12 06:11 ansible-sonarqube-master/tasks/sonarqube_pre.yml
+drwxrwxr-x root/root         0 2018-11-12 06:11 ansible-sonarqube-master/templates/
+-rw-rw-r-- root/root       413 2018-11-12 06:11 ansible-sonarqube-master/templates/sonarqube.service.j2

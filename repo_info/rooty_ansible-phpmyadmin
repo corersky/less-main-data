@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-22 03:25 ansible-phpmyadmin-master/
+-rw-rw-r-- root/root        28 2018-12-22 03:25 ansible-phpmyadmin-master/.gitignore
+-rw-rw-r-- root/root       552 2018-12-22 03:25 ansible-phpmyadmin-master/.travis.yml
+-rw-rw-r-- root/root      1075 2018-12-22 03:25 ansible-phpmyadmin-master/LICENSE
+-rw-rw-r-- root/root      3023 2018-12-22 03:25 ansible-phpmyadmin-master/README.md
+drwxrwxr-x root/root         0 2018-12-22 03:25 ansible-phpmyadmin-master/defaults/
+-rw-rw-r-- root/root       474 2018-12-22 03:25 ansible-phpmyadmin-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-22 03:25 ansible-phpmyadmin-master/meta/
+-rw-rw-r-- root/root       452 2018-12-22 03:25 ansible-phpmyadmin-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-22 03:25 ansible-phpmyadmin-master/tasks/
+-rw-rw-r-- root/root      1122 2018-12-22 03:25 ansible-phpmyadmin-master/tasks/main.yml
+-rw-rw-r-- root/root       135 2018-12-22 03:25 ansible-phpmyadmin-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       339 2018-12-22 03:25 ansible-phpmyadmin-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2018-12-22 03:25 ansible-phpmyadmin-master/vars/
+-rw-rw-r-- root/root        61 2018-12-22 03:25 ansible-phpmyadmin-master/vars/Debian.yml
+-rw-rw-r-- root/root        61 2018-12-22 03:25 ansible-phpmyadmin-master/vars/RedHat.yml

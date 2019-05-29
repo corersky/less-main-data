@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-07 09:40 ansible-role-epel-master/
+-rw-rw-r-- root/root       577 2019-02-07 09:40 ansible-role-epel-master/.travis.yml
+-rw-rw-r-- root/root      1198 2019-02-07 09:40 ansible-role-epel-master/README.md
+drwxrwxr-x root/root         0 2019-02-07 09:40 ansible-role-epel-master/defaults/
+-rw-rw-r-- root/root       232 2019-02-07 09:40 ansible-role-epel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-07 09:40 ansible-role-epel-master/meta/
+-rw-rw-r-- root/root       253 2019-02-07 09:40 ansible-role-epel-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-07 09:40 ansible-role-epel-master/molecule/
+drwxrwxr-x root/root         0 2019-02-07 09:40 ansible-role-epel-master/molecule/default/
+-rw-rw-r-- root/root       515 2019-02-07 09:40 ansible-role-epel-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        56 2019-02-07 09:40 ansible-role-epel-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-02-07 09:40 ansible-role-epel-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2019-02-07 09:40 ansible-role-epel-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root       158 2019-02-07 09:40 ansible-role-epel-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-02-07 09:40 ansible-role-epel-master/tasks/
+-rw-rw-r-- root/root       346 2019-02-07 09:40 ansible-role-epel-master/tasks/main.yml

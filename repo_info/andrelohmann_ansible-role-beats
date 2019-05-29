@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-24 02:23 ansible-role-beats-master/
+-rw-rw-r-- root/root        28 2018-10-24 02:23 ansible-role-beats-master/.gitignore
+-rw-rw-r-- root/root       517 2018-10-24 02:23 ansible-role-beats-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-10-24 02:23 ansible-role-beats-master/LICENSE
+-rw-rw-r-- root/root       994 2018-10-24 02:23 ansible-role-beats-master/README.md
+drwxrwxr-x root/root         0 2018-10-24 02:23 ansible-role-beats-master/defaults/
+-rw-rw-r-- root/root       269 2018-10-24 02:23 ansible-role-beats-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-24 02:23 ansible-role-beats-master/meta/
+-rw-rw-r-- root/root       350 2018-10-24 02:23 ansible-role-beats-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-24 02:23 ansible-role-beats-master/tasks/
+-rw-rw-r-- root/root      6528 2018-10-24 02:23 ansible-role-beats-master/tasks/beats.yml
+-rw-rw-r-- root/root       821 2018-10-24 02:23 ansible-role-beats-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-24 02:23 ansible-role-beats-master/templates/
+-rw-rw-r-- root/root        79 2018-10-24 02:23 ansible-role-beats-master/templates/pin.pref.j2
+drwxrwxr-x root/root         0 2018-10-24 02:23 ansible-role-beats-master/tests/
+-rw-rw-r-- root/root         9 2018-10-24 02:23 ansible-role-beats-master/tests/inventory
+-rw-rw-r-- root/root       443 2018-10-24 02:23 ansible-role-beats-master/tests/test.yml

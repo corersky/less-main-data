@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-09-30 14:24 Docker-Ansible-master/
+-rw-rw-r-- root/root      1328 2015-09-30 14:24 Docker-Ansible-master/README.md
+drwxrwxr-x root/root         0 2015-09-30 14:24 Docker-Ansible-master/defaults/
+-rw-rw-r-- root/root       130 2015-09-30 14:24 Docker-Ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-30 14:24 Docker-Ansible-master/handlers/
+-rw-rw-r-- root/root        86 2015-09-30 14:24 Docker-Ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-09-30 14:24 Docker-Ansible-master/meta/
+-rw-rw-r-- root/root      2314 2015-09-30 14:24 Docker-Ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-30 14:24 Docker-Ansible-master/tasks/
+-rw-rw-r-- root/root      1303 2015-09-30 14:24 Docker-Ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-30 14:24 Docker-Ansible-master/templates/
+-rw-rw-r-- root/root       194 2015-09-30 14:24 Docker-Ansible-master/templates/default_docker.j2
+drwxrwxr-x root/root         0 2015-09-30 14:24 Docker-Ansible-master/vars/
+-rw-rw-r-- root/root        27 2015-09-30 14:24 Docker-Ansible-master/vars/main.yml

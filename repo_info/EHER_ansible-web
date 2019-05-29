@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2014-09-23 08:13 ansible-web-master/
+-rw-rw-r-- root/root      1126 2014-09-23 08:13 ansible-web-master/README.md
+drwxrwxr-x root/root         0 2014-09-23 08:13 ansible-web-master/meta/
+-rw-rw-r-- root/root       264 2014-09-23 08:13 ansible-web-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-23 08:13 ansible-web-master/tasks/
+-rw-rw-r-- root/root       648 2014-09-23 08:13 ansible-web-master/tasks/add_site.yml
+-rw-rw-r-- root/root      1449 2014-09-23 08:13 ansible-web-master/tasks/config.yml
+-rw-rw-r-- root/root         0 2014-09-23 08:13 ansible-web-master/tasks/deploy.yml
+-rw-rw-r-- root/root       668 2014-09-23 08:13 ansible-web-master/tasks/install.yml
+-rw-rw-r-- root/root        74 2014-09-23 08:13 ansible-web-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-23 08:13 ansible-web-master/templates/
+-rw-rw-r-- root/root       798 2014-09-23 08:13 ansible-web-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root      1086 2014-09-23 08:13 ansible-web-master/templates/nginx_server.j2

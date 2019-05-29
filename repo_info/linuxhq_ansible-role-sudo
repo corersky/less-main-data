@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-20 22:16 ansible-role-sudo-master/
+-rw-rw-r-- root/root       331 2019-01-20 22:16 ansible-role-sudo-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 22:16 ansible-role-sudo-master/COPYING
+-rw-rw-r-- root/root      2526 2019-01-20 22:16 ansible-role-sudo-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 22:16 ansible-role-sudo-master/defaults/
+-rw-rw-r-- root/root       476 2019-01-20 22:16 ansible-role-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 22:16 ansible-role-sudo-master/meta/
+-rw-rw-r-- root/root       311 2019-01-20 22:16 ansible-role-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 22:16 ansible-role-sudo-master/tasks/
+-rw-rw-r-- root/root       787 2019-01-20 22:16 ansible-role-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 22:16 ansible-role-sudo-master/templates/
+-rw-rw-r-- root/root      1589 2019-01-20 22:16 ansible-role-sudo-master/templates/sudoers.j2
+-rw-rw-r-- root/root       246 2019-01-20 22:16 ansible-role-sudo-master/templates/sudoers_d.j2
+drwxrwxr-x root/root         0 2019-01-20 22:16 ansible-role-sudo-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 22:16 ansible-role-sudo-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-01-20 22:16 ansible-role-sudo-master/tests/test.yml

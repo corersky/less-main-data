@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-01-01 22:25 ansible-role-create-digitalocean-master/
+-rw-rw-r-- root/root     35147 2018-01-01 22:25 ansible-role-create-digitalocean-master/LICENSE
+-rw-rw-r-- root/root      3312 2018-01-01 22:25 ansible-role-create-digitalocean-master/README.md
+drwxrwxr-x root/root         0 2018-01-01 22:25 ansible-role-create-digitalocean-master/defaults/
+-rw-rw-r-- root/root       237 2018-01-01 22:25 ansible-role-create-digitalocean-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-01 22:25 ansible-role-create-digitalocean-master/handlers/
+-rw-rw-r-- root/root        44 2018-01-01 22:25 ansible-role-create-digitalocean-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-01 22:25 ansible-role-create-digitalocean-master/meta/
+-rw-rw-r-- root/root       737 2018-01-01 22:25 ansible-role-create-digitalocean-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-01 22:25 ansible-role-create-digitalocean-master/tasks/
+-rw-rw-r-- root/root      1859 2018-01-01 22:25 ansible-role-create-digitalocean-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-01 22:25 ansible-role-create-digitalocean-master/tests/
+-rw-rw-r-- root/root        10 2018-01-01 22:25 ansible-role-create-digitalocean-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-01-01 22:25 ansible-role-create-digitalocean-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-01 22:25 ansible-role-create-digitalocean-master/vars/
+-rw-rw-r-- root/root        40 2018-01-01 22:25 ansible-role-create-digitalocean-master/vars/main.yml

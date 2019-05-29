@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-06 15:07 ansible-rbenv-master/
+-rw-rw-r-- root/root         9 2017-06-06 15:07 ansible-rbenv-master/.gitignore
+-rw-rw-r-- root/root       941 2017-06-06 15:07 ansible-rbenv-master/README.md
+-rw-rw-r-- root/root       258 2017-06-06 15:07 ansible-rbenv-master/Vagrantfile
+-rw-rw-r-- root/root        28 2017-06-06 15:07 ansible-rbenv-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-06-06 15:07 ansible-rbenv-master/defaults/
+-rw-rw-r-- root/root        83 2017-06-06 15:07 ansible-rbenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-06 15:07 ansible-rbenv-master/files/
+-rw-rw-r-- root/root        19 2017-06-06 15:07 ansible-rbenv-master/files/.gemrc
+drwxrwxr-x root/root         0 2017-06-06 15:07 ansible-rbenv-master/meta/
+-rw-rw-r-- root/root       362 2017-06-06 15:07 ansible-rbenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-06 15:07 ansible-rbenv-master/tasks/
+-rw-rw-r-- root/root      2683 2017-06-06 15:07 ansible-rbenv-master/tasks/main.yml
+-rw-rw-r-- root/root       210 2017-06-06 15:07 ansible-rbenv-master/test.yml

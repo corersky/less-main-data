@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-01-28 05:54 ansible-ssh-cluster-master/
+-rw-rw-r-- root/root      1062 2018-01-28 05:54 ansible-ssh-cluster-master/LICENSE
+-rw-rw-r-- root/root      1616 2018-01-28 05:54 ansible-ssh-cluster-master/README.md
+drwxrwxr-x root/root         0 2018-01-28 05:54 ansible-ssh-cluster-master/defaults/
+-rw-rw-r-- root/root        64 2018-01-28 05:54 ansible-ssh-cluster-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-28 05:54 ansible-ssh-cluster-master/meta/
+-rw-rw-r-- root/root      2000 2018-01-28 05:54 ansible-ssh-cluster-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-28 05:54 ansible-ssh-cluster-master/tasks/
+-rw-rw-r-- root/root       891 2018-01-28 05:54 ansible-ssh-cluster-master/tasks/main.yml
+-rw-rw-r-- root/root       758 2018-01-28 05:54 ansible-ssh-cluster-master/tasks/pushkey.yml
+drwxrwxr-x root/root         0 2018-01-28 05:54 ansible-ssh-cluster-master/vars/
+-rw-rw-r-- root/root       215 2018-01-28 05:54 ansible-ssh-cluster-master/vars/main.yml

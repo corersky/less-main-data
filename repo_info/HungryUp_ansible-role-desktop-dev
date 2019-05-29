@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-08 09:46 ansible-role-desktop-dev-master/
+-rw-rw-r-- root/root      1328 2017-06-08 09:46 ansible-role-desktop-dev-master/README.md
+drwxrwxr-x root/root         0 2017-06-08 09:46 ansible-role-desktop-dev-master/defaults/
+-rw-rw-r-- root/root        44 2017-06-08 09:46 ansible-role-desktop-dev-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-08 09:46 ansible-role-desktop-dev-master/handlers/
+-rw-rw-r-- root/root        44 2017-06-08 09:46 ansible-role-desktop-dev-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-08 09:46 ansible-role-desktop-dev-master/meta/
+-rw-rw-r-- root/root       221 2017-06-08 09:46 ansible-role-desktop-dev-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-08 09:46 ansible-role-desktop-dev-master/tasks/
+-rw-rw-r-- root/root       507 2017-06-08 09:46 ansible-role-desktop-dev-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-08 09:46 ansible-role-desktop-dev-master/tests/
+-rw-rw-r-- root/root        11 2017-06-08 09:46 ansible-role-desktop-dev-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-06-08 09:46 ansible-role-desktop-dev-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-08 09:46 ansible-role-desktop-dev-master/vars/
+-rw-rw-r-- root/root        40 2017-06-08 09:46 ansible-role-desktop-dev-master/vars/main.yml

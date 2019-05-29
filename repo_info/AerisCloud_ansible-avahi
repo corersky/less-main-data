@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-03-07 02:47 ansible-avahi-master/
+-rw-rw-r-- root/root      1074 2017-03-07 02:47 ansible-avahi-master/LICENSE
+-rw-rw-r-- root/root       134 2017-03-07 02:47 ansible-avahi-master/README.md
+drwxrwxr-x root/root         0 2017-03-07 02:47 ansible-avahi-master/meta/
+-rw-rw-r-- root/root       553 2017-03-07 02:47 ansible-avahi-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-07 02:47 ansible-avahi-master/tasks/
+-rw-rw-r-- root/root      1359 2017-03-07 02:47 ansible-avahi-master/tasks/centos.yml
+-rw-rw-r-- root/root       898 2017-03-07 02:47 ansible-avahi-master/tasks/debian.yml
+-rw-rw-r-- root/root       293 2017-03-07 02:47 ansible-avahi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-07 02:47 ansible-avahi-master/templates/
+-rw-rw-r-- root/root       141 2017-03-07 02:47 ansible-avahi-master/templates/iptables.j2

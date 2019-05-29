@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-06 05:23 ansible-role-dumb-init-master/
+-rw-rw-r-- root/root       539 2017-09-06 05:23 ansible-role-dumb-init-master/.travis.yml
+-rw-rw-r-- root/root       512 2017-09-06 05:23 ansible-role-dumb-init-master/README.md
+drwxrwxr-x root/root         0 2017-09-06 05:23 ansible-role-dumb-init-master/defaults/
+-rw-rw-r-- root/root        33 2017-09-06 05:23 ansible-role-dumb-init-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-06 05:23 ansible-role-dumb-init-master/handlers/
+-rw-rw-r-- root/root        33 2017-09-06 05:23 ansible-role-dumb-init-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-06 05:23 ansible-role-dumb-init-master/meta/
+-rw-rw-r-- root/root      1758 2017-09-06 05:23 ansible-role-dumb-init-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-06 05:23 ansible-role-dumb-init-master/tasks/
+-rw-rw-r-- root/root       258 2017-09-06 05:23 ansible-role-dumb-init-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-06 05:23 ansible-role-dumb-init-master/tests/
+-rw-rw-r-- root/root        11 2017-09-06 05:23 ansible-role-dumb-init-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-09-06 05:23 ansible-role-dumb-init-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-06 05:23 ansible-role-dumb-init-master/vars/
+-rw-rw-r-- root/root        29 2017-09-06 05:23 ansible-role-dumb-init-master/vars/main.yml

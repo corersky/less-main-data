@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-12 03:08 ansible-role-ports-master/
+-rw-rw-r-- root/root       539 2017-03-12 03:08 ansible-role-ports-master/.travis.yml
+-rw-rw-r-- root/root       310 2017-03-12 03:08 ansible-role-ports-master/README.md
+drwxrwxr-x root/root         0 2017-03-12 03:08 ansible-role-ports-master/defaults/
+-rw-rw-r-- root/root        43 2017-03-12 03:08 ansible-role-ports-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-12 03:08 ansible-role-ports-master/handlers/
+-rw-rw-r-- root/root        43 2017-03-12 03:08 ansible-role-ports-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-12 03:08 ansible-role-ports-master/meta/
+-rw-rw-r-- root/root      1203 2017-03-12 03:08 ansible-role-ports-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-12 03:08 ansible-role-ports-master/tasks/
+-rw-rw-r-- root/root       618 2017-03-12 03:08 ansible-role-ports-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-12 03:08 ansible-role-ports-master/tests/
+-rw-rw-r-- root/root         9 2017-03-12 03:08 ansible-role-ports-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-03-12 03:08 ansible-role-ports-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-12 03:08 ansible-role-ports-master/vars/
+-rw-rw-r-- root/root        39 2017-03-12 03:08 ansible-role-ports-master/vars/main.yml

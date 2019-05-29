@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-09-08 13:15 mapr-hue-master/
+-rw-rw-r-- root/root         6 2016-09-08 13:15 mapr-hue-master/.gitignore
+-rw-rw-r-- root/root       790 2016-09-08 13:15 mapr-hue-master/README.md
+drwxrwxr-x root/root         0 2016-09-08 13:15 mapr-hue-master/defaults/
+-rw-rw-r-- root/root       622 2016-09-08 13:15 mapr-hue-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 mapr-hue-master/handlers/
+-rw-rw-r-- root/root       561 2016-09-08 13:15 mapr-hue-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 mapr-hue-master/library/
+-rwxrwxr-x root/root      4660 2016-09-08 13:15 mapr-hue-master/library/hadoop_properties
+drwxrwxr-x root/root         0 2016-09-08 13:15 mapr-hue-master/meta/
+-rw-rw-r-- root/root       355 2016-09-08 13:15 mapr-hue-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 mapr-hue-master/tasks/
+-rw-rw-r-- root/root      5348 2016-09-08 13:15 mapr-hue-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-08 13:15 mapr-hue-master/templates/
+-rw-rw-r-- root/root     43560 2016-09-08 13:15 mapr-hue-master/templates/hue.ini.j2

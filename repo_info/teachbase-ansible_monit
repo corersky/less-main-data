@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-14 07:36 monit-master/
+-rw-rw-r-- root/root      1328 2018-10-14 07:36 monit-master/README.md
+drwxrwxr-x root/root         0 2018-10-14 07:36 monit-master/defaults/
+-rw-rw-r-- root/root       778 2018-10-14 07:36 monit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-14 07:36 monit-master/handlers/
+-rw-rw-r-- root/root       122 2018-10-14 07:36 monit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-14 07:36 monit-master/meta/
+-rw-rw-r-- root/root       244 2018-10-14 07:36 monit-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-14 07:36 monit-master/tasks/
+-rw-rw-r-- root/root       446 2018-10-14 07:36 monit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-14 07:36 monit-master/templates/
+-rw-rw-r-- root/root      1474 2018-10-14 07:36 monit-master/templates/monitrc.j2
+drwxrwxr-x root/root         0 2018-10-14 07:36 monit-master/vars/
+-rw-rw-r-- root/root        34 2018-10-14 07:36 monit-master/vars/main.yml

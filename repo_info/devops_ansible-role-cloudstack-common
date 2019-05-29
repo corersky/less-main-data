@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-14 19:45 ansible-role-cloudstack-common-master/
+-rwxrwxr-x root/root       497 2016-04-14 19:45 ansible-role-cloudstack-common-master/README.md
+-rwxrwxr-x root/root        28 2016-04-14 19:45 ansible-role-cloudstack-common-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-04-14 19:45 ansible-role-cloudstack-common-master/defaults/
+-rwxrwxr-x root/root       133 2016-04-14 19:45 ansible-role-cloudstack-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:45 ansible-role-cloudstack-common-master/handlers/
+-rwxrwxr-x root/root        55 2016-04-14 19:45 ansible-role-cloudstack-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:45 ansible-role-cloudstack-common-master/meta/
+-rwxrwxr-x root/root       253 2016-04-14 19:45 ansible-role-cloudstack-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:45 ansible-role-cloudstack-common-master/tasks/
+-rwxrwxr-x root/root       196 2016-04-14 19:45 ansible-role-cloudstack-common-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-14 19:45 ansible-role-cloudstack-common-master/templates/
+-rwxrwxr-x root/root       102 2016-04-14 19:45 ansible-role-cloudstack-common-master/templates/cloudstack.repo.j2
+-rwxrwxr-x root/root       188 2016-04-14 19:45 ansible-role-cloudstack-common-master/test.yml
+drwxrwxr-x root/root         0 2016-04-14 19:45 ansible-role-cloudstack-common-master/vars/
+-rwxrwxr-x root/root        51 2016-04-14 19:45 ansible-role-cloudstack-common-master/vars/main.yml

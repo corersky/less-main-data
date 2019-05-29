@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-04 17:35 ansible-mongodb-master/
+-rw-rw-r-- root/root     35147 2016-03-04 17:35 ansible-mongodb-master/COPYING
+-rw-rw-r-- root/root      7651 2016-03-04 17:35 ansible-mongodb-master/COPYING.LESSER
+-rw-rw-r-- root/root       598 2016-03-04 17:35 ansible-mongodb-master/README.md
+drwxrwxr-x root/root         0 2016-03-04 17:35 ansible-mongodb-master/defaults/
+-rw-rw-r-- root/root       359 2016-03-04 17:35 ansible-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-04 17:35 ansible-mongodb-master/handlers/
+-rw-rw-r-- root/root        67 2016-03-04 17:35 ansible-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-03-04 17:35 ansible-mongodb-master/meta/
+-rw-rw-r-- root/root       319 2016-03-04 17:35 ansible-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-04 17:35 ansible-mongodb-master/tasks/
+-rw-rw-r-- root/root       673 2016-03-04 17:35 ansible-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-04 17:35 ansible-mongodb-master/templates/
+-rw-rw-r-- root/root       434 2016-03-04 17:35 ansible-mongodb-master/templates/mongod.conf.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-08-03 00:36 ansible-role-user-master/
+-rw-rw-r-- root/root       149 2018-08-03 00:36 ansible-role-user-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-08-03 00:36 ansible-role-user-master/LICENSE.md
+-rw-rw-r-- root/root      1442 2018-08-03 00:36 ansible-role-user-master/README.md
+drwxrwxr-x root/root         0 2018-08-03 00:36 ansible-role-user-master/defaults/
+-rw-rw-r-- root/root       201 2018-08-03 00:36 ansible-role-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-03 00:36 ansible-role-user-master/files/
+-rw-rw-r-- root/root        59 2018-08-03 00:36 ansible-role-user-master/files/nanorc
+drwxrwxr-x root/root         0 2018-08-03 00:36 ansible-role-user-master/meta/
+-rw-rw-r-- root/root       319 2018-08-03 00:36 ansible-role-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-03 00:36 ansible-role-user-master/tasks/
+-rw-rw-r-- root/root        73 2018-08-03 00:36 ansible-role-user-master/tasks/main.yml
+-rw-rw-r-- root/root      1488 2018-08-03 00:36 ansible-role-user-master/tasks/user.yml

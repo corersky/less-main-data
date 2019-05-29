@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/
+-rw-rw-r-- root/root      1328 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/README.md
+drwxrwxr-x root/root         0 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/defaults/
+-rw-rw-r-- root/root        80 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/meta/
+-rw-rw-r-- root/root      1939 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/tasks/
+-rw-rw-r-- root/root      1115 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/tests/
+-rw-rw-r-- root/root        11 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/tests/inventory
+-rw-rw-r-- root/root       102 2019-03-02 14:48 ansible-role-zabbix-agent-prepare-master/tests/test.yml

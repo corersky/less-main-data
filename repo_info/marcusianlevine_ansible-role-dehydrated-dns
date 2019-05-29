@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/
+-rw-rw-r-- root/root        35 2018-01-22 21:01 ansible-role-dehydrated-dns-master/.gitignore
+-rw-rw-r-- root/root      3275 2018-01-22 21:01 ansible-role-dehydrated-dns-master/README.md
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/defaults/
+-rw-rw-r-- root/root       537 2018-01-22 21:01 ansible-role-dehydrated-dns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/handlers/
+-rw-rw-r-- root/root        54 2018-01-22 21:01 ansible-role-dehydrated-dns-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/meta/
+-rw-rw-r-- root/root      1783 2018-01-22 21:01 ansible-role-dehydrated-dns-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/scripts/
+-rw-rw-r-- root/root      3275 2018-01-22 21:01 ansible-role-dehydrated-dns-master/scripts/route53.py
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tasks/
+-rw-rw-r-- root/root      2011 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/templates/
+-rw-rw-r-- root/root       237 2018-01-22 21:01 ansible-role-dehydrated-dns-master/templates/config.j2
+-rw-rw-r-- root/root        33 2018-01-22 21:01 ansible-role-dehydrated-dns-master/templates/domains.j2
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tests/
+-rw-rw-r-- root/root        11 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tests/inventory
+-rw-rw-r-- root/root        38 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tests/roles/dehydrated-dns -> ../../../ansible-role-dehydrated-dns
+-rw-rw-r-- root/root       577 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tests/test.yml
+-rw-rw-r-- root/root      1391 2018-01-22 21:01 ansible-role-dehydrated-dns-master/tests/vault.yml
+drwxrwxr-x root/root         0 2018-01-22 21:01 ansible-role-dehydrated-dns-master/vars/
+-rw-rw-r-- root/root       119 2018-01-22 21:01 ansible-role-dehydrated-dns-master/vars/main.yml

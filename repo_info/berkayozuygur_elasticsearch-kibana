@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-02-03 01:27 elasticsearch-kibana-master/
+-rw-rw-r-- root/root       861 2017-02-03 01:27 elasticsearch-kibana-master/README.md
+drwxrwxr-x root/root         0 2017-02-03 01:27 elasticsearch-kibana-master/defaults/
+-rw-rw-r-- root/root       207 2017-02-03 01:27 elasticsearch-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-03 01:27 elasticsearch-kibana-master/meta/
+-rw-rw-r-- root/root        60 2017-02-03 01:27 elasticsearch-kibana-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       394 2017-02-03 01:27 elasticsearch-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-03 01:27 elasticsearch-kibana-master/tasks/
+-rw-rw-r-- root/root      2519 2017-02-03 01:27 elasticsearch-kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-03 01:27 elasticsearch-kibana-master/templates/
+-rw-rw-r-- root/root       971 2017-02-03 01:27 elasticsearch-kibana-master/templates/elasticsearch.yml.j2
+-rw-rw-r-- root/root      1320 2017-02-03 01:27 elasticsearch-kibana-master/templates/jvm.options.j2
+-rw-rw-r-- root/root        38 2017-02-03 01:27 elasticsearch-kibana-master/templates/kibana.yml.j2

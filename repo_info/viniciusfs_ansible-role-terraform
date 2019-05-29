@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-04-05 13:11 ansible-role-terraform-master/
+-rw-rw-r-- root/root        35 2017-04-05 13:11 ansible-role-terraform-master/.gitignore
+-rw-rw-r-- root/root       803 2017-04-05 13:11 ansible-role-terraform-master/README.md
+drwxrwxr-x root/root         0 2017-04-05 13:11 ansible-role-terraform-master/defaults/
+-rw-rw-r-- root/root       250 2017-04-05 13:11 ansible-role-terraform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-05 13:11 ansible-role-terraform-master/meta/
+-rw-rw-r-- root/root       202 2017-04-05 13:11 ansible-role-terraform-master/meta/main.yml
+-rw-rw-r-- root/root       488 2017-04-05 13:11 ansible-role-terraform-master/molecule.yml
+drwxrwxr-x root/root         0 2017-04-05 13:11 ansible-role-terraform-master/tasks/
+-rw-rw-r-- root/root       137 2017-04-05 13:11 ansible-role-terraform-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-05 13:11 ansible-role-terraform-master/tests/
+-rw-rw-r-- root/root        61 2017-04-05 13:11 ansible-role-terraform-master/tests/playbook.yml
+-rw-rw-r-- root/root       295 2017-04-05 13:11 ansible-role-terraform-master/tests/test_default.py

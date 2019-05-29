@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/
+-rw-rw-r-- root/root      1687 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/README.md
+drwxrwxr-x root/root         0 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/defaults/
+-rw-rw-r-- root/root      1891 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/handlers/
+-rw-rw-r-- root/root        43 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/handlers/main.yml
+-rw-rw-r-- root/root        62 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/mapr_aws_bootstrap.yml
+drwxrwxr-x root/root         0 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/meta/
+-rw-rw-r-- root/root      2102 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/tasks/
+-rw-rw-r-- root/root      2621 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/templates/
+-rw-rw-r-- root/root      1406 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/templates/cluster.hosts.j2
+-rw-rw-r-- root/root       156 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/templates/hosts.j2
+-rw-rw-r-- root/root      3369 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/templates/inventory.py.j2
+drwxrwxr-x root/root         0 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/vars/
+-rw-rw-r-- root/root        39 2016-11-04 15:44 ansible-mapr_aws_bootstrap-master/vars/main.yml

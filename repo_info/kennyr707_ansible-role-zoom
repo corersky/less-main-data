@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-20 15:32 ansible-role-zoom-master/
+-rw-rw-r-- root/root       539 2017-03-20 15:32 ansible-role-zoom-master/.travis.yml
+-rw-rw-r-- root/root      1328 2017-03-20 15:32 ansible-role-zoom-master/README.md
+drwxrwxr-x root/root         0 2017-03-20 15:32 ansible-role-zoom-master/defaults/
+-rw-rw-r-- root/root        39 2017-03-20 15:32 ansible-role-zoom-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-20 15:32 ansible-role-zoom-master/handlers/
+-rw-rw-r-- root/root        39 2017-03-20 15:32 ansible-role-zoom-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-20 15:32 ansible-role-zoom-master/meta/
+-rw-rw-r-- root/root      3831 2017-03-20 15:32 ansible-role-zoom-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-20 15:32 ansible-role-zoom-master/tasks/
+-rw-rw-r-- root/root       232 2017-03-20 15:32 ansible-role-zoom-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-20 15:32 ansible-role-zoom-master/tests/
+-rw-rw-r-- root/root         9 2017-03-20 15:32 ansible-role-zoom-master/tests/inventory
+-rw-rw-r-- root/root        72 2017-03-20 15:32 ansible-role-zoom-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-20 15:32 ansible-role-zoom-master/vars/
+-rw-rw-r-- root/root        35 2017-03-20 15:32 ansible-role-zoom-master/vars/main.yml

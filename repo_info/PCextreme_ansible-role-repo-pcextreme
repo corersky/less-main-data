@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-03 06:17 ansible-role-repo-pcextreme-master/
+-rw-rw-r-- root/root        12 2016-08-03 06:17 ansible-role-repo-pcextreme-master/.gitattributes
+-rw-rw-r-- root/root        10 2016-08-03 06:17 ansible-role-repo-pcextreme-master/.gitignore
+-rw-rw-r-- root/root      1104 2016-08-03 06:17 ansible-role-repo-pcextreme-master/LICENSE
+-rw-rw-r-- root/root       594 2016-08-03 06:17 ansible-role-repo-pcextreme-master/README.md
+drwxrwxr-x root/root         0 2016-08-03 06:17 ansible-role-repo-pcextreme-master/defaults/
+-rw-rw-r-- root/root        89 2016-08-03 06:17 ansible-role-repo-pcextreme-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-03 06:17 ansible-role-repo-pcextreme-master/meta/
+-rw-rw-r-- root/root       353 2016-08-03 06:17 ansible-role-repo-pcextreme-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-03 06:17 ansible-role-repo-pcextreme-master/tasks/
+-rw-rw-r-- root/root       129 2016-08-03 06:17 ansible-role-repo-pcextreme-master/tasks/centos.yml
+-rw-rw-r-- root/root       223 2016-08-03 06:17 ansible-role-repo-pcextreme-master/tasks/main.yml
+-rw-rw-r-- root/root       429 2016-08-03 06:17 ansible-role-repo-pcextreme-master/tasks/ubuntu.yml
+drwxrwxr-x root/root         0 2016-08-03 06:17 ansible-role-repo-pcextreme-master/templates/
+-rw-rw-r-- root/root       305 2016-08-03 06:17 ansible-role-repo-pcextreme-master/templates/pcextreme.list.j2
+-rw-rw-r-- root/root      1202 2016-08-03 06:17 ansible-role-repo-pcextreme-master/templates/pcextreme.repo.j2

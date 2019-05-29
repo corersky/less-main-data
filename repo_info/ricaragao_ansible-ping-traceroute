@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-04-23 12:56 ansible-ping-traceroute-master/
+-rw-rw-r-- root/root        11 2019-04-23 12:56 ansible-ping-traceroute-master/.gitignore
+-rw-rw-r-- root/root      1043 2019-04-23 12:56 ansible-ping-traceroute-master/LICENSE.md
+-rw-rw-r-- root/root      4904 2019-04-23 12:56 ansible-ping-traceroute-master/README.md
+drwxrwxr-x root/root         0 2019-04-23 12:56 ansible-ping-traceroute-master/group_vars/
+-rw-rw-r-- root/root        83 2019-04-23 12:56 ansible-ping-traceroute-master/group_vars/all
+-rw-rw-r-- root/root       105 2019-04-23 12:56 ansible-ping-traceroute-master/hosts
+drwxrwxr-x root/root         0 2019-04-23 12:56 ansible-ping-traceroute-master/meta/
+-rw-rw-r-- root/root       476 2019-04-23 12:56 ansible-ping-traceroute-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-23 12:56 ansible-ping-traceroute-master/roles/
+drwxrwxr-x root/root         0 2019-04-23 12:56 ansible-ping-traceroute-master/roles/test_connect/
+drwxrwxr-x root/root         0 2019-04-23 12:56 ansible-ping-traceroute-master/roles/test_connect/tasks/
+-rw-rw-r-- root/root        50 2019-04-23 12:56 ansible-ping-traceroute-master/roles/test_connect/tasks/main.yml
+-rw-rw-r-- root/root       353 2019-04-23 12:56 ansible-ping-traceroute-master/roles/test_connect/tasks/ping.yml
+-rw-rw-r-- root/root       378 2019-04-23 12:56 ansible-ping-traceroute-master/roles/test_connect/tasks/traceroute.yml
+-rw-rw-r-- root/root       125 2019-04-23 12:56 ansible-ping-traceroute-master/site.yml

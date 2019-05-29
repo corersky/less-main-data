@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-10-23 05:15 influxdata-repo-master/
+-rw-rw-r-- root/root       539 2018-10-23 05:15 influxdata-repo-master/.travis.yml
+-rw-rw-r-- root/root       501 2018-10-23 05:15 influxdata-repo-master/README.md
+drwxrwxr-x root/root         0 2018-10-23 05:15 influxdata-repo-master/defaults/
+-rw-rw-r-- root/root        39 2018-10-23 05:15 influxdata-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-23 05:15 influxdata-repo-master/handlers/
+-rw-rw-r-- root/root        39 2018-10-23 05:15 influxdata-repo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-10-23 05:15 influxdata-repo-master/meta/
+-rw-rw-r-- root/root       312 2018-10-23 05:15 influxdata-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-23 05:15 influxdata-repo-master/tasks/
+-rw-rw-r-- root/root       107 2018-10-23 05:15 influxdata-repo-master/tasks/main.yml
+-rw-rw-r-- root/root       449 2018-10-23 05:15 influxdata-repo-master/tasks/redhat-repos.yml
+drwxrwxr-x root/root         0 2018-10-23 05:15 influxdata-repo-master/tests/
+-rw-rw-r-- root/root        11 2018-10-23 05:15 influxdata-repo-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-10-23 05:15 influxdata-repo-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-10-23 05:15 influxdata-repo-master/vars/
+-rw-rw-r-- root/root        35 2018-10-23 05:15 influxdata-repo-master/vars/main.yml

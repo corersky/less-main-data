@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-03 00:16 ansible-role-rainloop-master/
+-rw-rw-r-- root/root       468 2019-03-03 00:16 ansible-role-rainloop-master/README.md
+drwxrwxr-x root/root         0 2019-03-03 00:16 ansible-role-rainloop-master/defaults/
+-rw-rw-r-- root/root       247 2019-03-03 00:16 ansible-role-rainloop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-03 00:16 ansible-role-rainloop-master/handlers/
+-rw-rw-r-- root/root         4 2019-03-03 00:16 ansible-role-rainloop-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-03 00:16 ansible-role-rainloop-master/meta/
+-rw-rw-r-- root/root       242 2019-03-03 00:16 ansible-role-rainloop-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-03 00:16 ansible-role-rainloop-master/tasks/
+-rw-rw-r-- root/root       499 2019-03-03 00:16 ansible-role-rainloop-master/tasks/install.yml
+-rw-rw-r-- root/root       395 2019-03-03 00:16 ansible-role-rainloop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-03 00:16 ansible-role-rainloop-master/templates/
+-rw-rw-r-- root/root       505 2019-03-03 00:16 ansible-role-rainloop-master/templates/rainloop.conf.j2
+drwxrwxr-x root/root         0 2019-03-03 00:16 ansible-role-rainloop-master/vars/
+-rw-rw-r-- root/root         4 2019-03-03 00:16 ansible-role-rainloop-master/vars/main.yml

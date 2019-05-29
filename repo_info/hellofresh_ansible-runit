@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-04-23 17:20 ansible-runit-master/
+-rw-rw-r-- root/root       610 2015-04-23 17:20 ansible-runit-master/README.md
+drwxrwxr-x root/root         0 2015-04-23 17:20 ansible-runit-master/defaults/
+-rw-rw-r-- root/root        30 2015-04-23 17:20 ansible-runit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-23 17:20 ansible-runit-master/handlers/
+-rw-rw-r-- root/root        30 2015-04-23 17:20 ansible-runit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-23 17:20 ansible-runit-master/library/
+-rwxrwxr-x root/root      4094 2015-04-23 17:20 ansible-runit-master/library/runit
+drwxrwxr-x root/root         0 2015-04-23 17:20 ansible-runit-master/meta/
+-rw-rw-r-- root/root       370 2015-04-23 17:20 ansible-runit-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-23 17:20 ansible-runit-master/tasks/
+-rw-rw-r-- root/root       123 2015-04-23 17:20 ansible-runit-master/tasks/debian.yml
+-rw-rw-r-- root/root        60 2015-04-23 17:20 ansible-runit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-23 17:20 ansible-runit-master/vars/
+-rw-rw-r-- root/root        26 2015-04-23 17:20 ansible-runit-master/vars/main.yml

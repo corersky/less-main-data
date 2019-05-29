@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-07-10 13:34 pillow-prerequisites-master/
+-rw-rw-r-- root/root       599 2015-07-10 13:34 pillow-prerequisites-master/README.md
+-rw-rw-r-- root/root       535 2015-07-10 13:34 pillow-prerequisites-master/Vagrantfile
+drwxrwxr-x root/root         0 2015-07-10 13:34 pillow-prerequisites-master/defaults/
+-rw-rw-r-- root/root       176 2015-07-10 13:34 pillow-prerequisites-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-10 13:34 pillow-prerequisites-master/meta/
+-rw-rw-r-- root/root       256 2015-07-10 13:34 pillow-prerequisites-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-10 13:34 pillow-prerequisites-master/tasks/
+-rw-rw-r-- root/root      1060 2015-07-10 13:34 pillow-prerequisites-master/tasks/main.yml
+-rw-rw-r-- root/root       754 2015-07-10 13:34 pillow-prerequisites-master/tasks/openjpeg2.0.yml
+-rw-rw-r-- root/root       694 2015-07-10 13:34 pillow-prerequisites-master/tasks/webp.yml
+-rw-rw-r-- root/root       133 2015-07-10 13:34 pillow-prerequisites-master/test.yml
+drwxrwxr-x root/root         0 2015-07-10 13:34 pillow-prerequisites-master/vars/
+-rw-rw-r-- root/root        74 2015-07-10 13:34 pillow-prerequisites-master/vars/main.yml
+-rw-rw-r-- root/root       144 2015-07-10 13:34 pillow-prerequisites-master/vars/precise.yml
+-rw-rw-r-- root/root       139 2015-07-10 13:34 pillow-prerequisites-master/vars/trusty.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-14 21:57 docker-influxdb-master/
+-rw-rw-r-- root/root       893 2016-08-14 21:57 docker-influxdb-master/.travis.yml
+-rw-rw-r-- root/root       228 2016-08-14 21:57 docker-influxdb-master/CHANGELOG.md
+-rw-rw-r-- root/root      1075 2016-08-14 21:57 docker-influxdb-master/LICENSE.txt
+-rw-rw-r-- root/root      2646 2016-08-14 21:57 docker-influxdb-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 21:57 docker-influxdb-master/defaults/
+-rw-rw-r-- root/root       789 2016-08-14 21:57 docker-influxdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:57 docker-influxdb-master/meta/
+-rw-rw-r-- root/root      2565 2016-08-14 21:57 docker-influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:57 docker-influxdb-master/tasks/
+-rw-rw-r-- root/root      1896 2016-08-14 21:57 docker-influxdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 21:57 docker-influxdb-master/templates/
+-rw-rw-r-- root/root      8240 2016-08-14 21:57 docker-influxdb-master/templates/config.toml
+drwxrwxr-x root/root         0 2016-08-14 21:57 docker-influxdb-master/tests/
+-rw-rw-r-- root/root       122 2016-08-14 21:57 docker-influxdb-master/tests/main.yml

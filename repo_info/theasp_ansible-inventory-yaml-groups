@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-04-25 13:53 ansible-inventory-yaml-groups-master/
+-rw-rw-r-- root/root         6 2018-04-25 13:53 ansible-inventory-yaml-groups-master/.gitignore
+-rw-rw-r-- root/root      1072 2018-04-25 13:53 ansible-inventory-yaml-groups-master/LICENSE
+-rw-rw-r-- root/root      2794 2018-04-25 13:53 ansible-inventory-yaml-groups-master/README.md
+drwxrwxr-x root/root         0 2018-04-25 13:53 ansible-inventory-yaml-groups-master/example/
+-rw-rw-r-- root/root       141 2018-04-25 13:53 ansible-inventory-yaml-groups-master/example/ansible.cfg
+-rw-rw-r-- root/root       610 2018-04-25 13:53 ansible-inventory-yaml-groups-master/example/hosts.yml
+-rw-rw-r-- root/root       100 2018-04-25 13:53 ansible-inventory-yaml-groups-master/example/tiny.yml
+-rw-rw-r-- root/root       636 2018-04-25 13:53 ansible-inventory-yaml-groups-master/hosts.yml
+drwxrwxr-x root/root         0 2018-04-25 13:53 ansible-inventory-yaml-groups-master/inventory_plugins/
+-rwxrwxr-x root/root      9046 2018-04-25 13:53 ansible-inventory-yaml-groups-master/inventory_plugins/yaml_groups.py
+drwxrwxr-x root/root         0 2018-04-25 13:53 ansible-inventory-yaml-groups-master/meta/
+-rw-rw-r-- root/root       226 2018-04-25 13:53 ansible-inventory-yaml-groups-master/meta/main.yml
+-rwxrwxr-x root/root      4473 2018-04-25 13:53 ansible-inventory-yaml-groups-master/yaml_groups.py

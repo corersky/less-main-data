@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-06-20 12:01 ansible-role-acme-master/
+-rw-rw-r-- root/root      1348 2018-06-20 12:01 ansible-role-acme-master/README.md
+drwxrwxr-x root/root         0 2018-06-20 12:01 ansible-role-acme-master/defaults/
+-rw-rw-r-- root/root        28 2018-06-20 12:01 ansible-role-acme-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-20 12:01 ansible-role-acme-master/handlers/
+-rw-rw-r-- root/root        28 2018-06-20 12:01 ansible-role-acme-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-20 12:01 ansible-role-acme-master/meta/
+-rw-rw-r-- root/root      1936 2018-06-20 12:01 ansible-role-acme-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-20 12:01 ansible-role-acme-master/tasks/
+-rw-rw-r-- root/root        25 2018-06-20 12:01 ansible-role-acme-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-20 12:01 ansible-role-acme-master/tests/
+-rw-rw-r-- root/root        11 2018-06-20 12:01 ansible-role-acme-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-06-20 12:01 ansible-role-acme-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-20 12:01 ansible-role-acme-master/vars/
+-rw-rw-r-- root/root        24 2018-06-20 12:01 ansible-role-acme-master/vars/main.yml

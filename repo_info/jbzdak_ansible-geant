@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/
+-rw-rw-r-- root/root       578 2016-07-12 12:14 ansible-geant-master/.travis.yml
+-rw-rw-r-- root/root      3424 2016-07-12 12:14 ansible-geant-master/README.md
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/defaults/
+-rw-rw-r-- root/root      2283 2016-07-12 12:14 ansible-geant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/handlers/
+-rw-rw-r-- root/root        30 2016-07-12 12:14 ansible-geant-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/meta/
+-rw-rw-r-- root/root       553 2016-07-12 12:14 ansible-geant-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/tasks/
+-rw-rw-r-- root/root      1526 2016-07-12 12:14 ansible-geant-master/tasks/_do_compile_geant.yaml
+-rw-rw-r-- root/root       455 2016-07-12 12:14 ansible-geant-master/tasks/compile-geant.yaml
+-rw-rw-r-- root/root       648 2016-07-12 12:14 ansible-geant-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/templates/
+-rw-rw-r-- root/root       281 2016-07-12 12:14 ansible-geant-master/templates/LocalCmakeLists.txt
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/tests/
+-rw-rw-r-- root/root        34 2016-07-12 12:14 ansible-geant-master/tests/inventory
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-07-12 12:14 ansible-geant-master/tests/roles/geant -> ../..
+-rw-rw-r-- root/root        63 2016-07-12 12:14 ansible-geant-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-12 12:14 ansible-geant-master/vars/
+-rw-rw-r-- root/root        26 2016-07-12 12:14 ansible-geant-master/vars/main.yml

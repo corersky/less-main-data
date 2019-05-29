@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-17 04:57 ansible_roles-master/
+-rw-rw-r-- root/root     11357 2018-09-17 04:57 ansible_roles-master/LICENSE
+-rw-rw-r-- root/root      1328 2018-09-17 04:57 ansible_roles-master/README.md
+drwxrwxr-x root/root         0 2018-09-17 04:57 ansible_roles-master/defaults/
+-rw-rw-r-- root/root        94 2018-09-17 04:57 ansible_roles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-17 04:57 ansible_roles-master/handlers/
+-rw-rw-r-- root/root        37 2018-09-17 04:57 ansible_roles-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-17 04:57 ansible_roles-master/meta/
+-rw-rw-r-- root/root      1893 2018-09-17 04:57 ansible_roles-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-17 04:57 ansible_roles-master/tasks/
+-rw-rw-r-- root/root       261 2018-09-17 04:57 ansible_roles-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-17 04:57 ansible_roles-master/tests/
+-rw-rw-r-- root/root        11 2018-09-17 04:57 ansible_roles-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-09-17 04:57 ansible_roles-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-17 04:57 ansible_roles-master/vars/
+-rw-rw-r-- root/root        33 2018-09-17 04:57 ansible_roles-master/vars/main.yml

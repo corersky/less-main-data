@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-elrepo-master/
+-rw-rw-r-- root/root         3 2016-11-23 22:24 ansible-elrepo-master/.gitignore
+-rw-rw-r-- root/root      1084 2016-11-23 22:24 ansible-elrepo-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-11-23 22:24 ansible-elrepo-master/README.md
+-rw-rw-r-- root/root       895 2016-11-23 22:24 ansible-elrepo-master/circle.yml
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-elrepo-master/defaults/
+-rw-rw-r-- root/root       127 2016-11-23 22:24 ansible-elrepo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-elrepo-master/meta/
+-rw-rw-r-- root/root       265 2016-11-23 22:24 ansible-elrepo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-elrepo-master/tasks/
+-rw-rw-r-- root/root       482 2016-11-23 22:24 ansible-elrepo-master/tasks/EL.yml
+-rw-rw-r-- root/root       121 2016-11-23 22:24 ansible-elrepo-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2016-11-23 22:24 ansible-elrepo-master/test.yml
+drwxrwxr-x root/root         0 2016-11-23 22:24 ansible-elrepo-master/vars/
+-rw-rw-r-- root/root        52 2016-11-23 22:24 ansible-elrepo-master/vars/main.yml

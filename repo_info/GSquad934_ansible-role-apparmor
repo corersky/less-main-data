@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-08-07 13:00 ansible-role-apparmor-master/
+-rw-rw-r-- root/root       149 2018-08-07 13:00 ansible-role-apparmor-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-08-07 13:00 ansible-role-apparmor-master/LICENSE.md
+-rw-rw-r-- root/root       994 2018-08-07 13:00 ansible-role-apparmor-master/README.md
+drwxrwxr-x root/root         0 2018-08-07 13:00 ansible-role-apparmor-master/defaults/
+-rw-rw-r-- root/root       119 2018-08-07 13:00 ansible-role-apparmor-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-07 13:00 ansible-role-apparmor-master/meta/
+-rw-rw-r-- root/root       296 2018-08-07 13:00 ansible-role-apparmor-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-07 13:00 ansible-role-apparmor-master/tasks/
+-rw-rw-r-- root/root      1084 2018-08-07 13:00 ansible-role-apparmor-master/tasks/apparmor.yml
+-rw-rw-r-- root/root       105 2018-08-07 13:00 ansible-role-apparmor-master/tasks/main.yml

@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/
+-rw-rw-r-- root/root       134 2016-07-13 05:54 ansible-role-system_groups-master/.gitignore
+-rw-rw-r-- root/root       559 2016-07-13 05:54 ansible-role-system_groups-master/.travis.yml
+-rw-rw-r-- root/root      1163 2016-07-13 05:54 ansible-role-system_groups-master/CHANGELOG.md
+-rw-rw-r-- root/root      1537 2016-07-13 05:54 ansible-role-system_groups-master/COPYRIGHT
+-rw-rw-r-- root/root      1702 2016-07-13 05:54 ansible-role-system_groups-master/README.md
+drwxrwxr-x root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/defaults/
+-rw-rw-r-- root/root       245 2016-07-13 05:54 ansible-role-system_groups-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/meta/
+-rw-rw-r-- root/root       497 2016-07-13 05:54 ansible-role-system_groups-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tasks/
+drwxrwxr-x root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tasks/configure/
+-rw-rw-r-- root/root       395 2016-07-13 05:54 ansible-role-system_groups-master/tasks/configure/main.yml
+-rw-rw-r-- root/root        92 2016-07-13 05:54 ansible-role-system_groups-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tests/
+drwxrwxr-x root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tests/01_basic/
+-rw-rw-r-- root/root      1100 2016-07-13 05:54 ansible-role-system_groups-master/tests/01_basic/Makefile
+lrwxrwxrwx root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tests/01_basic/ansible.cfg -> ../ansible.cfg
+lrwxrwxrwx root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tests/01_basic/inventory -> ../inventory
+lrwxrwxrwx root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tests/01_basic/roles -> ../roles/
+-rw-rw-r-- root/root      3444 2016-07-13 05:54 ansible-role-system_groups-master/tests/01_basic/test.yml
+-rw-rw-r-- root/root        71 2016-07-13 05:54 ansible-role-system_groups-master/tests/Makefile
+-rw-rw-r-- root/root       246 2016-07-13 05:54 ansible-role-system_groups-master/tests/ansible.cfg
+-rw-rw-r-- root/root        35 2016-07-13 05:54 ansible-role-system_groups-master/tests/inventory
+-rw-rw-r-- root/root        43 2016-07-13 05:54 ansible-role-system_groups-master/tests/requirements.yml
+drwxrwxr-x root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-07-13 05:54 ansible-role-system_groups-master/tests/roles/tomashavlas.system_groups -> ../../

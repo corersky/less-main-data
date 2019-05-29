@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-12-14 10:56 ansible-role-ssl-certs-master/
+-rw-rw-r-- root/root      2188 2015-12-14 10:56 ansible-role-ssl-certs-master/README.md
+drwxrwxr-x root/root         0 2015-12-14 10:56 ansible-role-ssl-certs-master/defaults/
+-rw-rw-r-- root/root       655 2015-12-14 10:56 ansible-role-ssl-certs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-14 10:56 ansible-role-ssl-certs-master/meta/
+-rw-rw-r-- root/root       371 2015-12-14 10:56 ansible-role-ssl-certs-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-14 10:56 ansible-role-ssl-certs-master/tasks/
+-rw-rw-r-- root/root       524 2015-12-14 10:56 ansible-role-ssl-certs-master/tasks/main.yml
+-rw-rw-r-- root/root      1813 2015-12-14 10:56 ansible-role-ssl-certs-master/tasks/self-signed.yml
+-rw-rw-r-- root/root      1384 2015-12-14 10:56 ansible-role-ssl-certs-master/tasks/trusted.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-26 09:37 ansible-conga-maven-master/
+-rw-rw-r-- root/root        39 2018-11-26 09:37 ansible-conga-maven-master/.ansible-lint
+-rw-rw-r-- root/root      1070 2018-11-26 09:37 ansible-conga-maven-master/.gitattributes
+-rw-rw-r-- root/root       364 2018-11-26 09:37 ansible-conga-maven-master/.gitignore
+-rw-rw-r-- root/root       895 2018-11-26 09:37 ansible-conga-maven-master/.travis.yml
+-rw-rw-r-- root/root     11324 2018-11-26 09:37 ansible-conga-maven-master/LICENSE
+-rw-rw-r-- root/root      4209 2018-11-26 09:37 ansible-conga-maven-master/README.md
+drwxrwxr-x root/root         0 2018-11-26 09:37 ansible-conga-maven-master/defaults/
+-rw-rw-r-- root/root       772 2018-11-26 09:37 ansible-conga-maven-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-26 09:37 ansible-conga-maven-master/meta/
+-rw-rw-r-- root/root       474 2018-11-26 09:37 ansible-conga-maven-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-26 09:37 ansible-conga-maven-master/tasks/
+-rw-rw-r-- root/root      1223 2018-11-26 09:37 ansible-conga-maven-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-26 09:37 ansible-conga-maven-master/tests/
+-rw-rw-r-- root/root        18 2018-11-26 09:37 ansible-conga-maven-master/tests/inventory
+-rw-rw-r-- root/root        73 2018-11-26 09:37 ansible-conga-maven-master/tests/test.yml

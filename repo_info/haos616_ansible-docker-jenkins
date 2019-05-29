@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-07-12 16:51 ansible-docker-jenkins-master/
+-rw-rw-r-- root/root        15 2017-07-12 16:51 ansible-docker-jenkins-master/.gitignore
+-rw-rw-r-- root/root        26 2017-07-12 16:51 ansible-docker-jenkins-master/README.md
+drwxrwxr-x root/root         0 2017-07-12 16:51 ansible-docker-jenkins-master/defaults/
+-rw-rw-r-- root/root       862 2017-07-12 16:51 ansible-docker-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-12 16:51 ansible-docker-jenkins-master/meta/
+-rw-rw-r-- root/root       267 2017-07-12 16:51 ansible-docker-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-12 16:51 ansible-docker-jenkins-master/tasks/
+-rw-rw-r-- root/root       221 2017-07-12 16:51 ansible-docker-jenkins-master/tasks/deploy.yml
+-rw-rw-r-- root/root         0 2017-07-12 16:51 ansible-docker-jenkins-master/tasks/init.yml
+-rw-rw-r-- root/root        28 2017-07-12 16:51 ansible-docker-jenkins-master/tasks/main.yml
+-rw-rw-r-- root/root       342 2017-07-12 16:51 ansible-docker-jenkins-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2017-07-12 16:51 ansible-docker-jenkins-master/templates/
+-rw-rw-r-- root/root        57 2017-07-12 16:51 ansible-docker-jenkins-master/templates/docker-compose.yml.j2

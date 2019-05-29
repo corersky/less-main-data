@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-02-01 13:15 ansible-role-franz-master/
+-rw-rw-r-- root/root      1352 2018-02-01 13:15 ansible-role-franz-master/.travis.yml
+-rw-rw-r-- root/root      1436 2018-02-01 13:15 ansible-role-franz-master/README.md
+-rw-rw-r-- root/root       335 2018-02-01 13:15 ansible-role-franz-master/ansible-role-franz.iml
+drwxrwxr-x root/root         0 2018-02-01 13:15 ansible-role-franz-master/defaults/
+-rw-rw-r-- root/root       155 2018-02-01 13:15 ansible-role-franz-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-01 13:15 ansible-role-franz-master/meta/
+-rw-rw-r-- root/root       358 2018-02-01 13:15 ansible-role-franz-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-01 13:15 ansible-role-franz-master/tasks/
+-rw-rw-r-- root/root       105 2018-02-01 13:15 ansible-role-franz-master/tasks/debian.yml
+-rw-rw-r-- root/root       114 2018-02-01 13:15 ansible-role-franz-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-01 13:15 ansible-role-franz-master/tests/
+-rw-rw-r-- root/root         9 2018-02-01 13:15 ansible-role-franz-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-02-01 13:15 ansible-role-franz-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-01-05 13:44 ansible-resolv-master/
+-rw-rw-r-- root/root      1057 2019-01-05 13:44 ansible-resolv-master/LICENSE
+-rw-rw-r-- root/root      1686 2019-01-05 13:44 ansible-resolv-master/README.md
+drwxrwxr-x root/root         0 2019-01-05 13:44 ansible-resolv-master/defaults/
+-rw-rw-r-- root/root        89 2019-01-05 13:44 ansible-resolv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-05 13:44 ansible-resolv-master/meta/
+-rw-rw-r-- root/root       348 2019-01-05 13:44 ansible-resolv-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-05 13:44 ansible-resolv-master/tasks/
+-rw-rw-r-- root/root      1561 2019-01-05 13:44 ansible-resolv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-05 13:44 ansible-resolv-master/templates/
+-rw-rw-r-- root/root        70 2019-01-05 13:44 ansible-resolv-master/templates/resolv.conf.j2

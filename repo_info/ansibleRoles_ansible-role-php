@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-02-01 10:58 ansible-role-php-master/
+-rw-rw-r-- root/root      1075 2015-02-01 10:58 ansible-role-php-master/LICENSE
+-rw-rw-r-- root/root       991 2015-02-01 10:58 ansible-role-php-master/README.md
+drwxrwxr-x root/root         0 2015-02-01 10:58 ansible-role-php-master/defaults/
+-rw-rw-r-- root/root       498 2015-02-01 10:58 ansible-role-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-01 10:58 ansible-role-php-master/handlers/
+-rw-rw-r-- root/root         5 2015-02-01 10:58 ansible-role-php-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-01 10:58 ansible-role-php-master/meta/
+-rw-rw-r-- root/root       257 2015-02-01 10:58 ansible-role-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-01 10:58 ansible-role-php-master/tasks/
+-rw-rw-r-- root/root       139 2015-02-01 10:58 ansible-role-php-master/tasks/config.yml
+-rw-rw-r-- root/root        74 2015-02-01 10:58 ansible-role-php-master/tasks/main.yml
+-rw-rw-r-- root/root       797 2015-02-01 10:58 ansible-role-php-master/tasks/modules.yml
+-rw-rw-r-- root/root      1661 2015-02-01 10:58 ansible-role-php-master/tasks/packages.yml
+drwxrwxr-x root/root         0 2015-02-01 10:58 ansible-role-php-master/templates/
+-rw-rw-r-- root/root       337 2015-02-01 10:58 ansible-role-php-master/templates/cli.ini.j2
+-rw-rw-r-- root/root        66 2015-02-01 10:58 ansible-role-php-master/templates/pinning.j2

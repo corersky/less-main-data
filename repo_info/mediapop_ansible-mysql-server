@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-01-14 03:46 ansible-mysql-server-master/
+-rw-rw-r-- root/root       164 2019-01-14 03:46 ansible-mysql-server-master/.travis.yml
+-rw-rw-r-- root/root      1030 2019-01-14 03:46 ansible-mysql-server-master/README.md
+drwxrwxr-x root/root         0 2019-01-14 03:46 ansible-mysql-server-master/defaults/
+-rw-rw-r-- root/root       363 2019-01-14 03:46 ansible-mysql-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-14 03:46 ansible-mysql-server-master/handlers/
+-rw-rw-r-- root/root        79 2019-01-14 03:46 ansible-mysql-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-14 03:46 ansible-mysql-server-master/meta/
+-rw-rw-r-- root/root       223 2019-01-14 03:46 ansible-mysql-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-14 03:46 ansible-mysql-server-master/tasks/
+-rw-rw-r-- root/root      1812 2019-01-14 03:46 ansible-mysql-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-14 03:46 ansible-mysql-server-master/templates/
+-rw-rw-r-- root/root       408 2019-01-14 03:46 ansible-mysql-server-master/templates/ansible.cnf.j2

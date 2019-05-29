@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-04-01 06:19 influxdb-master/
+-rw-rw-r-- root/root      1258 2016-04-01 06:19 influxdb-master/README.md
+drwxrwxr-x root/root         0 2016-04-01 06:19 influxdb-master/defaults/
+-rw-rw-r-- root/root       151 2016-04-01 06:19 influxdb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-01 06:19 influxdb-master/handlers/
+-rw-rw-r-- root/root        65 2016-04-01 06:19 influxdb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-01 06:19 influxdb-master/meta/
+-rw-rw-r-- root/root       293 2016-04-01 06:19 influxdb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-01 06:19 influxdb-master/tasks/
+-rw-rw-r-- root/root      1122 2016-04-01 06:19 influxdb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-01 06:19 influxdb-master/templates/
+-rw-rw-r-- root/root     11563 2016-04-01 06:19 influxdb-master/templates/influxdb.conf.j2

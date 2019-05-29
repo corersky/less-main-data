@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-21 21:37 ansible-role-owncloud-master/
+-rw-rw-r-- root/root       539 2017-03-21 21:37 ansible-role-owncloud-master/.travis.yml
+-rw-rw-r-- root/root      1401 2017-03-21 21:37 ansible-role-owncloud-master/README.md
+drwxrwxr-x root/root         0 2017-03-21 21:37 ansible-role-owncloud-master/defaults/
+-rw-rw-r-- root/root       265 2017-03-21 21:37 ansible-role-owncloud-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-21 21:37 ansible-role-owncloud-master/handlers/
+-rw-rw-r-- root/root        33 2017-03-21 21:37 ansible-role-owncloud-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-21 21:37 ansible-role-owncloud-master/meta/
+-rw-rw-r-- root/root      3120 2017-03-21 21:37 ansible-role-owncloud-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-21 21:37 ansible-role-owncloud-master/tasks/
+-rw-rw-r-- root/root      1832 2017-03-21 21:37 ansible-role-owncloud-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-21 21:37 ansible-role-owncloud-master/tests/
+-rw-rw-r-- root/root         9 2017-03-21 21:37 ansible-role-owncloud-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-03-21 21:37 ansible-role-owncloud-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-21 21:37 ansible-role-owncloud-master/vars/
+-rw-rw-r-- root/root       142 2017-03-21 21:37 ansible-role-owncloud-master/vars/main.yml

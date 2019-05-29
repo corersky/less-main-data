@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-29 03:38 ansible-python-wsgiapps-master/
+-rw-rw-r-- root/root       539 2018-11-29 03:38 ansible-python-wsgiapps-master/.travis.yml
+-rw-rw-r-- root/root       962 2018-11-29 03:38 ansible-python-wsgiapps-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 03:38 ansible-python-wsgiapps-master/defaults/
+-rw-rw-r-- root/root        45 2018-11-29 03:38 ansible-python-wsgiapps-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 03:38 ansible-python-wsgiapps-master/handlers/
+-rw-rw-r-- root/root        32 2018-11-29 03:38 ansible-python-wsgiapps-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-29 03:38 ansible-python-wsgiapps-master/meta/
+-rw-rw-r-- root/root       377 2018-11-29 03:38 ansible-python-wsgiapps-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 03:38 ansible-python-wsgiapps-master/tasks/
+-rw-rw-r-- root/root      2159 2018-11-29 03:38 ansible-python-wsgiapps-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 03:38 ansible-python-wsgiapps-master/templates/
+-rw-rw-r-- root/root       240 2018-11-29 03:38 ansible-python-wsgiapps-master/templates/uwsgi.ini.j2
+drwxrwxr-x root/root         0 2018-11-29 03:38 ansible-python-wsgiapps-master/tests/
+-rw-rw-r-- root/root         9 2018-11-29 03:38 ansible-python-wsgiapps-master/tests/inventory
+-rw-rw-r-- root/root        65 2018-11-29 03:38 ansible-python-wsgiapps-master/tests/test.yml

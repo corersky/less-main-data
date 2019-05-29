@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-14 02:57 ansible-role-core-imagestreams-master/
+-rw-rw-r-- root/root      1203 2019-02-14 02:57 ansible-role-core-imagestreams-master/.gitignore
+-rw-rw-r-- root/root     35147 2019-02-14 02:57 ansible-role-core-imagestreams-master/LICENSE
+-rw-rw-r-- root/root       228 2019-02-14 02:57 ansible-role-core-imagestreams-master/README.md
+drwxrwxr-x root/root         0 2019-02-14 02:57 ansible-role-core-imagestreams-master/defaults/
+-rw-rw-r-- root/root         3 2019-02-14 02:57 ansible-role-core-imagestreams-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-14 02:57 ansible-role-core-imagestreams-master/meta/
+-rw-rw-r-- root/root       447 2019-02-14 02:57 ansible-role-core-imagestreams-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-14 02:57 ansible-role-core-imagestreams-master/tasks/
+-rw-rw-r-- root/root      1473 2019-02-14 02:57 ansible-role-core-imagestreams-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-14 02:57 ansible-role-core-imagestreams-master/tests/
+-rw-rw-r-- root/root        33 2019-02-14 02:57 ansible-role-core-imagestreams-master/tests/ansible.cfg
+-rw-rw-r-- root/root        12 2019-02-14 02:57 ansible-role-core-imagestreams-master/tests/inventory
+-rwxrwxr-x root/root       824 2019-02-14 02:57 ansible-role-core-imagestreams-master/tests/run
+-rw-rw-r-- root/root       114 2019-02-14 02:57 ansible-role-core-imagestreams-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-14 02:57 ansible-role-core-imagestreams-master/vars/
+-rw-rw-r-- root/root         4 2019-02-14 02:57 ansible-role-core-imagestreams-master/vars/main.yml

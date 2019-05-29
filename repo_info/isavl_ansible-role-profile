@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2017-11-25 21:00 ansible-role-profile-master/
+drwxrwxr-x root/root         0 2017-11-25 21:00 ansible-role-profile-master/defaults/
+-rw-rw-r-- root/root       423 2017-11-25 21:00 ansible-role-profile-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-25 21:00 ansible-role-profile-master/meta/
+-rw-rw-r-- root/root       260 2017-11-25 21:00 ansible-role-profile-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-25 21:00 ansible-role-profile-master/tasks/
+-rw-rw-r-- root/root       144 2017-11-25 21:00 ansible-role-profile-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-25 21:00 ansible-role-profile-master/templates/
+-rw-rw-r-- root/root      2314 2017-11-25 21:00 ansible-role-profile-master/templates/profile.j2

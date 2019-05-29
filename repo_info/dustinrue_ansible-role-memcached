@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-11 20:24 ansible-role-memcached-master/
+-rw-rw-r-- root/root       539 2017-03-11 20:24 ansible-role-memcached-master/.travis.yml
+-rw-rw-r-- root/root       557 2017-03-11 20:24 ansible-role-memcached-master/README.md
+drwxrwxr-x root/root         0 2017-03-11 20:24 ansible-role-memcached-master/meta/
+-rw-rw-r-- root/root       228 2017-03-11 20:24 ansible-role-memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-11 20:24 ansible-role-memcached-master/tasks/
+-rw-rw-r-- root/root        86 2017-03-11 20:24 ansible-role-memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-11 20:24 ansible-role-memcached-master/tests/
+-rw-rw-r-- root/root         9 2017-03-11 20:24 ansible-role-memcached-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-03-11 20:24 ansible-role-memcached-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-11 20:24 ansible-role-memcached-master/vars/
+-rw-rw-r-- root/root        22 2017-03-11 20:24 ansible-role-memcached-master/vars/main.yml

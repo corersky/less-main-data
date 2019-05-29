@@ -1,0 +1,35 @@
+drwxrwxr-x root/root         0 2018-07-30 16:27 ansible-winbind-master/
+-rw-rw-r-- root/root     34500 2018-07-30 16:27 ansible-winbind-master/LICENSE.txt
+-rw-rw-r-- root/root       601 2018-07-30 16:27 ansible-winbind-master/README.md
+-rw-rw-r-- root/root         6 2018-07-30 16:27 ansible-winbind-master/VERSION
+drwxrwxr-x root/root         0 2018-07-30 16:27 ansible-winbind-master/files/
+-rw-rw-r-- root/root         0 2018-07-30 16:27 ansible-winbind-master/files/.placeholder
+-rw-rw-r-- root/root       512 2018-07-30 16:27 ansible-winbind-master/files/CentOS.nsswitch.conf
+lrwxrwxrwx root/root         0 2018-07-30 16:27 ansible-winbind-master/files/Debian.nsswitch.conf -> debian-platform.nsswitch.conf
+-rw-rw-r-- root/root       512 2018-07-30 16:27 ansible-winbind-master/files/Fedora.nsswitch.conf
+-rw-rw-r-- root/root       491 2018-07-30 16:27 ansible-winbind-master/files/Linuxmint.nsswitch.conf
+lrwxrwxrwx root/root         0 2018-07-30 16:27 ansible-winbind-master/files/Ubuntu.nsswitch.conf -> debian-platform.nsswitch.conf
+-rw-rw-r-- root/root      1255 2018-07-30 16:27 ansible-winbind-master/files/common-account
+-rw-rw-r-- root/root      1442 2018-07-30 16:27 ansible-winbind-master/files/common-auth
+-rw-rw-r-- root/root      1507 2018-07-30 16:27 ansible-winbind-master/files/common-password
+-rw-rw-r-- root/root      1683 2018-07-30 16:27 ansible-winbind-master/files/common-session
+-rw-rw-r-- root/root      1521 2018-07-30 16:27 ansible-winbind-master/files/common-session-noninteractive
+-rw-rw-r-- root/root       491 2018-07-30 16:27 ansible-winbind-master/files/debian-platform.nsswitch.conf
+-rw-rw-r-- root/root      1473 2018-07-30 16:27 ansible-winbind-master/files/password-auth-ac
+-rw-rw-r-- root/root        27 2018-07-30 16:27 ansible-winbind-master/files/sudoers.winbind
+-rw-rw-r-- root/root      1474 2018-07-30 16:27 ansible-winbind-master/files/system-auth-ac
+drwxrwxr-x root/root         0 2018-07-30 16:27 ansible-winbind-master/handlers/
+-rw-rw-r-- root/root       327 2018-07-30 16:27 ansible-winbind-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-30 16:27 ansible-winbind-master/meta/
+-rw-rw-r-- root/root       400 2018-07-30 16:27 ansible-winbind-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-30 16:27 ansible-winbind-master/tasks/
+-rw-rw-r-- root/root       760 2018-07-30 16:27 ansible-winbind-master/tasks/CentOS.yml
+-rw-rw-r-- root/root      1021 2018-07-30 16:27 ansible-winbind-master/tasks/Debian-platform.yml
+-rw-rw-r-- root/root       751 2018-07-30 16:27 ansible-winbind-master/tasks/Fedora.yml
+-rw-rw-r-- root/root      1580 2018-07-30 16:27 ansible-winbind-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-30 16:27 ansible-winbind-master/templates/
+-rw-rw-r-- root/root       569 2018-07-30 16:27 ansible-winbind-master/templates/krb5.conf.j2
+-rw-rw-r-- root/root       415 2018-07-30 16:27 ansible-winbind-master/templates/smb.conf.j2
+drwxrwxr-x root/root         0 2018-07-30 16:27 ansible-winbind-master/vars/
+-rw-rw-r-- root/root       197 2018-07-30 16:27 ansible-winbind-master/vars/debian-platform.yml
+-rw-rw-r-- root/root       445 2018-07-30 16:27 ansible-winbind-master/vars/main.yml

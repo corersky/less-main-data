@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-02-02 15:51 ansible-repo-google-master/
+-rw-rw-r-- root/root        25 2017-02-02 15:51 ansible-repo-google-master/.gitignore
+-rw-rw-r-- root/root      1882 2017-02-02 15:51 ansible-repo-google-master/README.md
+drwxrwxr-x root/root         0 2017-02-02 15:51 ansible-repo-google-master/defaults/
+-rw-rw-r-- root/root        89 2017-02-02 15:51 ansible-repo-google-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-02 15:51 ansible-repo-google-master/meta/
+-rw-rw-r-- root/root       296 2017-02-02 15:51 ansible-repo-google-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-02 15:51 ansible-repo-google-master/tasks/
+-rw-rw-r-- root/root      1598 2017-02-02 15:51 ansible-repo-google-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-02 15:51 ansible-repo-google-master/tests/
+-rw-rw-r-- root/root        31 2017-02-02 15:51 ansible-repo-google-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2017-02-02 15:51 ansible-repo-google-master/tests/inventory
+-rw-rw-r-- root/root       238 2017-02-02 15:51 ansible-repo-google-master/tests/test.yml

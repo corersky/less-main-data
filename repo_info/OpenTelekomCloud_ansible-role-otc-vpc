@@ -1,0 +1,21 @@
+drwxrwxr-x root/root         0 2019-04-01 07:28 ansible-role-vpc-master/
+-rw-rw-r-- root/root     11357 2019-04-01 07:28 ansible-role-vpc-master/LICENSE
+-rw-rw-r-- root/root      2763 2019-04-01 07:28 ansible-role-vpc-master/README.md
+drwxrwxr-x root/root         0 2019-04-01 07:28 ansible-role-vpc-master/defaults/
+-rw-rw-r-- root/root       716 2019-04-01 07:28 ansible-role-vpc-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-01 07:28 ansible-role-vpc-master/handlers/
+-rw-rw-r-- root/root        44 2019-04-01 07:28 ansible-role-vpc-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-01 07:28 ansible-role-vpc-master/meta/
+-rw-rw-r-- root/root       498 2019-04-01 07:28 ansible-role-vpc-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-01 07:28 ansible-role-vpc-master/tasks/
+-rw-rw-r-- root/root       541 2019-04-01 07:28 ansible-role-vpc-master/tasks/main.yml
+-rw-rw-r-- root/root       121 2019-04-01 07:28 ansible-role-vpc-master/tasks/net.yaml
+-rw-rw-r-- root/root       741 2019-04-01 07:28 ansible-role-vpc-master/tasks/router.yaml
+-rw-rw-r-- root/root       409 2019-04-01 07:28 ansible-role-vpc-master/tasks/subnet.yaml
+drwxrwxr-x root/root         0 2019-04-01 07:28 ansible-role-vpc-master/tests/
+-rw-rw-r-- root/root        35 2019-04-01 07:28 ansible-role-vpc-master/tests/inventory
+drwxrwxr-x root/root         0 2019-04-01 07:28 ansible-role-vpc-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-04-01 07:28 ansible-role-vpc-master/tests/roles/otc_vpc -> ../../
+-rw-rw-r-- root/root       449 2019-04-01 07:28 ansible-role-vpc-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-01 07:28 ansible-role-vpc-master/vars/
+-rw-rw-r-- root/root       501 2019-04-01 07:28 ansible-role-vpc-master/vars/main.yml

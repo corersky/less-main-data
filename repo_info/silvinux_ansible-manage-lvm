@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-02-10 12:32 ansible-manage-lvm-master/
+-rw-rw-r-- root/root      1695 2017-02-10 12:32 ansible-manage-lvm-master/README.md
+drwxrwxr-x root/root         0 2017-02-10 12:32 ansible-manage-lvm-master/defaults/
+-rw-rw-r-- root/root       682 2017-02-10 12:32 ansible-manage-lvm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-10 12:32 ansible-manage-lvm-master/examples/
+-rw-rw-r-- root/root      1061 2017-02-10 12:32 ansible-manage-lvm-master/examples/example1.yml
+-rw-rw-r-- root/root      1797 2017-02-10 12:32 ansible-manage-lvm-master/examples/example2.yml
+drwxrwxr-x root/root         0 2017-02-10 12:32 ansible-manage-lvm-master/meta/
+-rw-rw-r-- root/root       367 2017-02-10 12:32 ansible-manage-lvm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-10 12:32 ansible-manage-lvm-master/tasks/
+-rw-rw-r-- root/root      1094 2017-02-10 12:32 ansible-manage-lvm-master/tasks/fs_manage.yml
+-rw-rw-r-- root/root       525 2017-02-10 12:32 ansible-manage-lvm-master/tasks/lvm_manage.yml
+-rw-rw-r-- root/root       229 2017-02-10 12:32 ansible-manage-lvm-master/tasks/main.yml
+-rw-rw-r-- root/root      1240 2017-02-10 12:32 ansible-manage-lvm-master/tasks/partition.yml
+-rw-rw-r-- root/root       992 2017-02-10 12:32 ansible-manage-lvm-master/tasks/show.yml
+drwxrwxr-x root/root         0 2017-02-10 12:32 ansible-manage-lvm-master/vars/
+-rw-rw-r-- root/root       136 2017-02-10 12:32 ansible-manage-lvm-master/vars/main.yml

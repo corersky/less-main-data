@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-08-16 17:01 ansible-role-camo-master/
+-rw-rw-r-- root/root       751 2015-08-16 17:01 ansible-role-camo-master/README.md
+drwxrwxr-x root/root         0 2015-08-16 17:01 ansible-role-camo-master/defaults/
+-rw-rw-r-- root/root      1576 2015-08-16 17:01 ansible-role-camo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-16 17:01 ansible-role-camo-master/handlers/
+-rw-rw-r-- root/root       149 2015-08-16 17:01 ansible-role-camo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-08-16 17:01 ansible-role-camo-master/meta/
+-rw-rw-r-- root/root       337 2015-08-16 17:01 ansible-role-camo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-16 17:01 ansible-role-camo-master/tasks/
+-rw-rw-r-- root/root       674 2015-08-16 17:01 ansible-role-camo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-16 17:01 ansible-role-camo-master/templates/
+-rw-rw-r-- root/root       513 2015-08-16 17:01 ansible-role-camo-master/templates/camo.env.j2
+-rw-rw-r-- root/root       446 2015-08-16 17:01 ansible-role-camo-master/templates/camo.service.j2
+drwxrwxr-x root/root         0 2015-08-16 17:01 ansible-role-camo-master/vars/
+-rw-rw-r-- root/root        31 2015-08-16 17:01 ansible-role-camo-master/vars/main.yml

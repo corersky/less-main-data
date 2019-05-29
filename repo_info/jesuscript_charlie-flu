@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-01-15 13:52 charlie-flu-master/
+drwxrwxr-x root/root         0 2016-01-15 13:52 charlie-flu-master/defaults/
+-rw-rw-r-- root/root       122 2016-01-15 13:52 charlie-flu-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-15 13:52 charlie-flu-master/handlers/
+-rw-rw-r-- root/root       133 2016-01-15 13:52 charlie-flu-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-15 13:52 charlie-flu-master/meta/
+-rw-rw-r-- root/root       338 2016-01-15 13:52 charlie-flu-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-15 13:52 charlie-flu-master/tasks/
+-rw-rw-r-- root/root      1588 2016-01-15 13:52 charlie-flu-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-15 13:52 charlie-flu-master/templates/
+-rw-rw-r-- root/root       544 2016-01-15 13:52 charlie-flu-master/templates/flu-config.json
+-rw-rw-r-- root/root      1554 2016-01-15 13:52 charlie-flu-master/templates/flu-network-config.json
+drwxrwxr-x root/root         0 2016-01-15 13:52 charlie-flu-master/vars/
+-rw-rw-r-- root/root        80 2016-01-15 13:52 charlie-flu-master/vars/main.yml

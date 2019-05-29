@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-23 03:08 ansible-role-virtualbox-guest-master/
+-rw-rw-r-- root/root        13 2019-05-23 03:08 ansible-role-virtualbox-guest-master/.gitignore
+-rw-rw-r-- root/root       927 2019-05-23 03:08 ansible-role-virtualbox-guest-master/.travis.yml
+-rw-rw-r-- root/root     35142 2019-05-23 03:08 ansible-role-virtualbox-guest-master/LICENSE
+-rw-rw-r-- root/root      2384 2019-05-23 03:08 ansible-role-virtualbox-guest-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 03:08 ansible-role-virtualbox-guest-master/defaults/
+-rw-rw-r-- root/root       313 2019-05-23 03:08 ansible-role-virtualbox-guest-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 03:08 ansible-role-virtualbox-guest-master/meta/
+-rw-rw-r-- root/root      1400 2019-05-23 03:08 ansible-role-virtualbox-guest-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 03:08 ansible-role-virtualbox-guest-master/tasks/
+-rw-rw-r-- root/root      7714 2019-05-23 03:08 ansible-role-virtualbox-guest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 03:08 ansible-role-virtualbox-guest-master/tests/
+-rw-rw-r-- root/root        10 2019-05-23 03:08 ansible-role-virtualbox-guest-master/tests/inventory
+-rw-rw-r-- root/root        88 2019-05-23 03:08 ansible-role-virtualbox-guest-master/tests/test.yml

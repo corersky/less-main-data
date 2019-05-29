@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-13 17:10 vscode-master/
+-rw-rw-r-- root/root        20 2017-12-13 17:10 vscode-master/.gitignore
+-rw-rw-r-- root/root      1067 2017-12-13 17:10 vscode-master/.travis.yml
+-rw-rw-r-- root/root       990 2017-12-13 17:10 vscode-master/README.md
+drwxrwxr-x root/root         0 2017-12-13 17:10 vscode-master/defaults/
+-rw-rw-r-- root/root        56 2017-12-13 17:10 vscode-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-13 17:10 vscode-master/meta/
+-rw-rw-r-- root/root      3902 2017-12-13 17:10 vscode-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-13 17:10 vscode-master/tasks/
+-rw-rw-r-- root/root       112 2017-12-13 17:10 vscode-master/tasks/main.yml
+-rw-rw-r-- root/root       528 2017-12-13 17:10 vscode-master/tasks/os_Debian.yml
+-rw-rw-r-- root/root      1053 2017-12-13 17:10 vscode-master/tasks/os_RedHat.yml
+drwxrwxr-x root/root         0 2017-12-13 17:10 vscode-master/tests/
+-rw-rw-r-- root/root         9 2017-12-13 17:10 vscode-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-12-13 17:10 vscode-master/tests/test.yml

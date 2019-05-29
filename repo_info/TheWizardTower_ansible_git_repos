@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-07 16:38 ansible_git_repos-master/
+-rw-rw-r-- root/root       534 2018-08-07 16:38 ansible_git_repos-master/.travis.yml
+-rw-rw-r-- root/root      1328 2018-08-07 16:38 ansible_git_repos-master/README.md
+drwxrwxr-x root/root         0 2018-08-07 16:38 ansible_git_repos-master/defaults/
+-rw-rw-r-- root/root        56 2018-08-07 16:38 ansible_git_repos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-07 16:38 ansible_git_repos-master/handlers/
+-rw-rw-r-- root/root        34 2018-08-07 16:38 ansible_git_repos-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-07 16:38 ansible_git_repos-master/meta/
+-rw-rw-r-- root/root       498 2018-08-07 16:38 ansible_git_repos-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-07 16:38 ansible_git_repos-master/tasks/
+-rw-rw-r-- root/root      4197 2018-08-07 16:38 ansible_git_repos-master/tasks/main.yml
+-rw-rw-r-- root/root        57 2018-08-07 16:38 ansible_git_repos-master/test.yml
+drwxrwxr-x root/root         0 2018-08-07 16:38 ansible_git_repos-master/tests/
+-rw-rw-r-- root/root         9 2018-08-07 16:38 ansible_git_repos-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-08-07 16:38 ansible_git_repos-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-07 16:38 ansible_git_repos-master/vars/
+-rw-rw-r-- root/root        30 2018-08-07 16:38 ansible_git_repos-master/vars/main.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-08-28 23:58 ansible-zabbix-web-master/
+-rw-rw-r-- root/root       219 2014-08-28 23:58 ansible-zabbix-web-master/.travis.yml
+-rw-rw-r-- root/root       585 2014-08-28 23:58 ansible-zabbix-web-master/README.md
+-rw-rw-r-- root/root        28 2014-08-28 23:58 ansible-zabbix-web-master/ansible.cfg
+drwxrwxr-x root/root         0 2014-08-28 23:58 ansible-zabbix-web-master/defaults/
+-rw-rw-r-- root/root       161 2014-08-28 23:58 ansible-zabbix-web-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-08-28 23:58 ansible-zabbix-web-master/meta/
+-rw-rw-r-- root/root       259 2014-08-28 23:58 ansible-zabbix-web-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-28 23:58 ansible-zabbix-web-master/tasks/
+-rw-rw-r-- root/root       243 2014-08-28 23:58 ansible-zabbix-web-master/tasks/main.yml
+-rw-rw-r-- root/root        91 2014-08-28 23:58 ansible-zabbix-web-master/test.yml

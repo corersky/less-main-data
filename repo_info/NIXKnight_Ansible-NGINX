@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-21 05:12 Ansible-NGINX-master/
+-rw-rw-r-- root/root      1095 2018-08-21 05:12 Ansible-NGINX-master/LICENSE
+-rw-rw-r-- root/root      1027 2018-08-21 05:12 Ansible-NGINX-master/README.md
+drwxrwxr-x root/root         0 2018-08-21 05:12 Ansible-NGINX-master/defaults/
+-rw-rw-r-- root/root      1649 2018-08-21 05:12 Ansible-NGINX-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-21 05:12 Ansible-NGINX-master/handlers/
+-rw-rw-r-- root/root       107 2018-08-21 05:12 Ansible-NGINX-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-21 05:12 Ansible-NGINX-master/meta/
+-rw-rw-r-- root/root       367 2018-08-21 05:12 Ansible-NGINX-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-21 05:12 Ansible-NGINX-master/tasks/
+-rw-rw-r-- root/root      1410 2018-08-21 05:12 Ansible-NGINX-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-21 05:12 Ansible-NGINX-master/templates/
+-rw-rw-r-- root/root      2197 2018-08-21 05:12 Ansible-NGINX-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root       374 2018-08-21 05:12 Ansible-NGINX-master/templates/nginx.list.j2
+drwxrwxr-x root/root         0 2018-08-21 05:12 Ansible-NGINX-master/vars/
+-rw-rw-r-- root/root      1231 2018-08-21 05:12 Ansible-NGINX-master/vars/main.yml

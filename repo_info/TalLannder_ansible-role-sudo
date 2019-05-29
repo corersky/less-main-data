@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2016-05-14 00:23 ansible-role-sudo-master/
+-rw-rw-r-- root/root      1078 2016-05-14 00:23 ansible-role-sudo-master/LICENSE
+-rw-rw-r-- root/root      1517 2016-05-14 00:23 ansible-role-sudo-master/README.md
+drwxrwxr-x root/root         0 2016-05-14 00:23 ansible-role-sudo-master/meta/
+-rw-rw-r-- root/root      1639 2016-05-14 00:23 ansible-role-sudo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-14 00:23 ansible-role-sudo-master/tasks/
+-rw-rw-r-- root/root       767 2016-05-14 00:23 ansible-role-sudo-master/tasks/Debian.yml
+-rw-rw-r-- root/root       767 2016-05-14 00:23 ansible-role-sudo-master/tasks/RedHat.yml
+-rw-rw-r-- root/root       405 2016-05-14 00:23 ansible-role-sudo-master/tasks/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-31 19:04 ansible-role-dotfiles-master/
+-rw-rw-r-- root/root        14 2019-03-31 19:04 ansible-role-dotfiles-master/.gitignore
+-rw-rw-r-- root/root       896 2019-03-31 19:04 ansible-role-dotfiles-master/.travis.yml
+-rw-rw-r-- root/root       861 2019-03-31 19:04 ansible-role-dotfiles-master/README.md
+drwxrwxr-x root/root         0 2019-03-31 19:04 ansible-role-dotfiles-master/defaults/
+-rw-rw-r-- root/root       299 2019-03-31 19:04 ansible-role-dotfiles-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-31 19:04 ansible-role-dotfiles-master/meta/
+-rw-rw-r-- root/root       409 2019-03-31 19:04 ansible-role-dotfiles-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-31 19:04 ansible-role-dotfiles-master/tasks/
+-rw-rw-r-- root/root      1152 2019-03-31 19:04 ansible-role-dotfiles-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-31 19:04 ansible-role-dotfiles-master/tests/
+-rw-rw-r-- root/root        73 2019-03-31 19:04 ansible-role-dotfiles-master/tests/ansible.cfg
+-rw-rw-r-- root/root         9 2019-03-31 19:04 ansible-role-dotfiles-master/tests/hosts
+-rw-rw-r-- root/root         9 2019-03-31 19:04 ansible-role-dotfiles-master/tests/inventory
+-rw-rw-r-- root/root      1628 2019-03-31 19:04 ansible-role-dotfiles-master/tests/playbook.yml

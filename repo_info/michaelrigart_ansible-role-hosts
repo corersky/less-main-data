@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-hosts-master/
+-rw-rw-r-- root/root        11 2016-12-30 11:40 ansible-role-hosts-master/.gitignore
+-rw-rw-r-- root/root     35120 2016-12-30 11:40 ansible-role-hosts-master/LICENSE
+-rw-rw-r-- root/root       697 2016-12-30 11:40 ansible-role-hosts-master/README.md
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-hosts-master/defaults/
+-rw-rw-r-- root/root        34 2016-12-30 11:40 ansible-role-hosts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-hosts-master/meta/
+-rw-rw-r-- root/root       428 2016-12-30 11:40 ansible-role-hosts-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-hosts-master/tasks/
+-rw-rw-r-- root/root       112 2016-12-30 11:40 ansible-role-hosts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-hosts-master/templates/
+-rw-rw-r-- root/root       513 2016-12-30 11:40 ansible-role-hosts-master/templates/hosts.j2
+drwxrwxr-x root/root         0 2016-12-30 11:40 ansible-role-hosts-master/tests/
+-rw-rw-r-- root/root        10 2016-12-30 11:40 ansible-role-hosts-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-12-30 11:40 ansible-role-hosts-master/tests/test.yml

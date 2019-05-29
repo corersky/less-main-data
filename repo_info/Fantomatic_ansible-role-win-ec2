@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/
+-rw-rw-r-- root/root        89 2018-05-30 04:10 ansible-role-win-ec2-master/.bumpversion.cfg
+-rw-rw-r-- root/root        88 2018-05-30 04:10 ansible-role-win-ec2-master/.gitignore
+-rw-rw-r-- root/root      1984 2018-05-30 04:10 ansible-role-win-ec2-master/.travis.yml
+-rw-rw-r-- root/root      3648 2018-05-30 04:10 ansible-role-win-ec2-master/README.md
+drwxrwxr-x root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/defaults/
+-rw-rw-r-- root/root       757 2018-05-30 04:10 ansible-role-win-ec2-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/files/
+-rw-rw-r-- root/root       183 2018-05-30 04:10 ansible-role-win-ec2-master/files/win_ec2_user_data
+drwxrwxr-x root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/meta/
+-rw-rw-r-- root/root       410 2018-05-30 04:10 ansible-role-win-ec2-master/meta/main.yml
+-rw-rw-r-- root/root        64 2018-05-30 04:10 ansible-role-win-ec2-master/requirements.txt
+drwxrwxr-x root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/tasks/
+-rw-rw-r-- root/root      4805 2018-05-30 04:10 ansible-role-win-ec2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/templates/
+-rw-rw-r-- root/root       579 2018-05-30 04:10 ansible-role-win-ec2-master/templates/win_inventory.j2
+drwxrwxr-x root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/test/
+lrwxrwxrwx root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/test/cchurch.win-ec2 -> ..
+-rw-rw-r-- root/root        92 2018-05-30 04:10 ansible-role-win-ec2-master/test/local
+-rw-rw-r-- root/root      2501 2018-05-30 04:10 ansible-role-win-ec2-master/test/main.yml
+drwxrwxr-x root/root         0 2018-05-30 04:10 ansible-role-win-ec2-master/vars/
+-rw-rw-r-- root/root       793 2018-05-30 04:10 ansible-role-win-ec2-master/vars/main.yml

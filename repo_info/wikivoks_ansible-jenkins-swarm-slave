@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/
+-rw-rw-r-- root/root        23 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/README.md
+drwxrwxr-x root/root         0 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/defaults/
+-rw-rw-r-- root/root       958 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/handlers/
+-rw-rw-r-- root/root       310 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/meta/
+-rw-rw-r-- root/root      1589 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/tasks/
+-rw-rw-r-- root/root       894 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/templates/
+-rw-rw-r-- root/root       870 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/templates/jenkinsslave.service.j2
+drwxrwxr-x root/root         0 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/tests/
+-rw-rw-r-- root/root        11 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/tests/inventory
+-rw-rw-r-- root/root        71 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/vars/
+-rw-rw-r-- root/root        31 2017-11-21 09:56 ansible-jenkins-swarm-slave-master/vars/main.yml

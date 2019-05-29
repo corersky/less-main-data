@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-01-23 17:30 ansible-role-i3-master/
+-rw-rw-r-- root/root      1079 2015-01-23 17:30 ansible-role-i3-master/LICENSE
+-rw-rw-r-- root/root      2377 2015-01-23 17:30 ansible-role-i3-master/README.md
+drwxrwxr-x root/root         0 2015-01-23 17:30 ansible-role-i3-master/defaults/
+-rw-rw-r-- root/root       222 2015-01-23 17:30 ansible-role-i3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-23 17:30 ansible-role-i3-master/meta/
+-rw-rw-r-- root/root       366 2015-01-23 17:30 ansible-role-i3-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-23 17:30 ansible-role-i3-master/tasks/
+-rw-rw-r-- root/root      1581 2015-01-23 17:30 ansible-role-i3-master/tasks/configure_i3.yml
+-rw-rw-r-- root/root       159 2015-01-23 17:30 ansible-role-i3-master/tasks/install_i3.yml
+-rw-rw-r-- root/root        79 2015-01-23 17:30 ansible-role-i3-master/tasks/main.yml

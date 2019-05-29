@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-01 10:53 limesurvey-master/
+-rw-rw-r-- root/root     20133 2019-04-01 10:53 limesurvey-master/LICENSE
+-rw-rw-r-- root/root     10200 2019-04-01 10:53 limesurvey-master/README.md
+drwxrwxr-x root/root         0 2019-04-01 10:53 limesurvey-master/defaults/
+-rw-rw-r-- root/root       905 2019-04-01 10:53 limesurvey-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:53 limesurvey-master/meta/
+-rw-rw-r-- root/root       550 2019-04-01 10:53 limesurvey-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:53 limesurvey-master/tasks/
+-rw-rw-r-- root/root      3189 2019-04-01 10:53 limesurvey-master/tasks/configure.yml
+-rw-rw-r-- root/root      2095 2019-04-01 10:53 limesurvey-master/tasks/install.yml
+-rw-rw-r-- root/root       178 2019-04-01 10:53 limesurvey-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:53 limesurvey-master/templates/
+-rw-rw-r-- root/root      1882 2019-04-01 10:53 limesurvey-master/templates/config.php.j2
+-rw-rw-r-- root/root      1895 2019-04-01 10:53 limesurvey-master/templates/email.php.j2
+-rw-rw-r-- root/root      4369 2019-04-01 10:53 limesurvey-master/templates/ldap_config.sql.j2

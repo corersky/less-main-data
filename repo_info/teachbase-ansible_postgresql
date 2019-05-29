@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-30 13:50 postgresql-master/
+-rw-rw-r-- root/root      1069 2018-06-30 13:50 postgresql-master/README.md
+drwxrwxr-x root/root         0 2018-06-30 13:50 postgresql-master/defaults/
+-rw-rw-r-- root/root       383 2018-06-30 13:50 postgresql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-30 13:50 postgresql-master/handlers/
+-rw-rw-r-- root/root       239 2018-06-30 13:50 postgresql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-30 13:50 postgresql-master/meta/
+-rw-rw-r-- root/root       235 2018-06-30 13:50 postgresql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-30 13:50 postgresql-master/tasks/
+-rw-rw-r-- root/root       343 2018-06-30 13:50 postgresql-master/tasks/config.yml
+-rw-rw-r-- root/root       351 2018-06-30 13:50 postgresql-master/tasks/db.yml
+-rw-rw-r-- root/root       185 2018-06-30 13:50 postgresql-master/tasks/main.yml
+-rw-rw-r-- root/root      1235 2018-06-30 13:50 postgresql-master/tasks/postgresql.yml
+-rw-rw-r-- root/root       301 2018-06-30 13:50 postgresql-master/tasks/user.yml
+drwxrwxr-x root/root         0 2018-06-30 13:50 postgresql-master/templates/
+-rw-rw-r-- root/root       205 2018-06-30 13:50 postgresql-master/templates/pg_hba.conf.j2
+-rw-rw-r-- root/root     19523 2018-06-30 13:50 postgresql-master/templates/postgresql.conf.j2

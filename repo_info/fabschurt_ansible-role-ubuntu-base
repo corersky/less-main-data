@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-02-21 14:38 ansible-role-ubuntu-base-master/
+-rw-rw-r-- root/root      1110 2019-02-21 14:38 ansible-role-ubuntu-base-master/LICENSE
+-rw-rw-r-- root/root      1719 2019-02-21 14:38 ansible-role-ubuntu-base-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 14:38 ansible-role-ubuntu-base-master/defaults/
+-rw-rw-r-- root/root        99 2019-02-21 14:38 ansible-role-ubuntu-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 14:38 ansible-role-ubuntu-base-master/handlers/
+-rw-rw-r-- root/root       329 2019-02-21 14:38 ansible-role-ubuntu-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-21 14:38 ansible-role-ubuntu-base-master/meta/
+-rw-rw-r-- root/root       246 2019-02-21 14:38 ansible-role-ubuntu-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 14:38 ansible-role-ubuntu-base-master/tasks/
+-rw-rw-r-- root/root      3133 2019-02-21 14:38 ansible-role-ubuntu-base-master/tasks/_config.yml
+-rw-rw-r-- root/root       870 2019-02-21 14:38 ansible-role-ubuntu-base-master/tasks/_packages.yml
+-rw-rw-r-- root/root        99 2019-02-21 14:38 ansible-role-ubuntu-base-master/tasks/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-12 16:16 softwareupdate-master/
+-rw-rw-r-- root/root        66 2019-03-12 16:16 softwareupdate-master/.gitattributes
+-rw-rw-r-- root/root         8 2019-03-12 16:16 softwareupdate-master/.gitignore
+-rw-rw-r-- root/root     35126 2019-03-12 16:16 softwareupdate-master/LICENSE
+-rw-rw-r-- root/root       836 2019-03-12 16:16 softwareupdate-master/README.md
+drwxrwxr-x root/root         0 2019-03-12 16:16 softwareupdate-master/defaults/
+-rw-rw-r-- root/root       209 2019-03-12 16:16 softwareupdate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-12 16:16 softwareupdate-master/meta/
+-rw-rw-r-- root/root       284 2019-03-12 16:16 softwareupdate-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-12 16:16 softwareupdate-master/tasks/
+-rw-rw-r-- root/root      1317 2019-03-12 16:16 softwareupdate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-12 16:16 softwareupdate-master/tests/
+-rw-rw-r-- root/root        10 2019-03-12 16:16 softwareupdate-master/tests/inventory
+-rw-rw-r-- root/root        86 2019-03-12 16:16 softwareupdate-master/tests/test.yml

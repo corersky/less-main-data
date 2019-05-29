@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-08-17 05:29 ansible.libsass-master/
+-rw-rw-r-- root/root         6 2016-08-17 05:29 ansible.libsass-master/.gitignore
+-rw-rw-r-- root/root      1085 2016-08-17 05:29 ansible.libsass-master/LICENSE
+-rw-rw-r-- root/root      2204 2016-08-17 05:29 ansible.libsass-master/README.md
+drwxrwxr-x root/root         0 2016-08-17 05:29 ansible.libsass-master/defaults/
+-rw-rw-r-- root/root       136 2016-08-17 05:29 ansible.libsass-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-17 05:29 ansible.libsass-master/meta/
+-rw-rw-r-- root/root       288 2016-08-17 05:29 ansible.libsass-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-17 05:29 ansible.libsass-master/tasks/
+-rw-rw-r-- root/root       228 2016-08-17 05:29 ansible.libsass-master/tasks/configure.yml
+-rw-rw-r-- root/root      1726 2016-08-17 05:29 ansible.libsass-master/tasks/install.yml
+-rw-rw-r-- root/root       386 2016-08-17 05:29 ansible.libsass-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-17 05:29 ansible.libsass-master/tests/
+-rw-rw-r-- root/root         9 2016-08-17 05:29 ansible.libsass-master/tests/inventory
+-rw-rw-r-- root/root        74 2016-08-17 05:29 ansible.libsass-master/tests/test.yml

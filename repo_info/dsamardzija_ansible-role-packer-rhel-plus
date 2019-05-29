@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/
+-rw-rw-r-- root/root       347 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/README.md
+drwxrwxr-x root/root         0 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/files/
+drwxrwxr-x root/root         0 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/files/yum.repos.d/
+-rw-rw-r-- root/root       972 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/files/yum.repos.d/epel.repo
+drwxrwxr-x root/root         0 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/meta/
+-rw-rw-r-- root/root       360 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/tasks/
+-rw-rw-r-- root/root      2401 2015-02-07 17:09 ansible-role-packer-rhel-plus-master/tasks/main.yml

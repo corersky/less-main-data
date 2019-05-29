@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-30 17:10 ansible-zabbix-api-master/
+-rw-rw-r-- root/root       675 2016-05-30 17:10 ansible-zabbix-api-master/.gitignore
+-rw-rw-r-- root/root     18027 2016-05-30 17:10 ansible-zabbix-api-master/LICENSE
+-rw-rw-r-- root/root      2138 2016-05-30 17:10 ansible-zabbix-api-master/README.md
+drwxrwxr-x root/root         0 2016-05-30 17:10 ansible-zabbix-api-master/defaults/
+-rw-rw-r-- root/root       201 2016-05-30 17:10 ansible-zabbix-api-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-30 17:10 ansible-zabbix-api-master/handlers/
+-rw-rw-r-- root/root        43 2016-05-30 17:10 ansible-zabbix-api-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-30 17:10 ansible-zabbix-api-master/library/
+-rw-rw-r-- root/root     16808 2016-05-30 17:10 ansible-zabbix-api-master/library/zabbix_api
+drwxrwxr-x root/root         0 2016-05-30 17:10 ansible-zabbix-api-master/meta/
+-rw-rw-r-- root/root       461 2016-05-30 17:10 ansible-zabbix-api-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-30 17:10 ansible-zabbix-api-master/tasks/
+-rw-rw-r-- root/root      1183 2016-05-30 17:10 ansible-zabbix-api-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-30 17:10 ansible-zabbix-api-master/vars/
+-rw-rw-r-- root/root        39 2016-05-30 17:10 ansible-zabbix-api-master/vars/main.yml

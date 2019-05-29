@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-scala-master/
+-rwxrwxr-x root/root      1005 2018-11-29 08:26 ansible-role-scala-master/.travis.yml
+-rw-rw-r-- root/root       351 2018-11-29 08:26 ansible-role-scala-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-scala-master/defaults/
+-rw-rw-r-- root/root        27 2018-11-29 08:26 ansible-role-scala-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-scala-master/meta/
+-rw-rw-r-- root/root       282 2018-11-29 08:26 ansible-role-scala-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-scala-master/tasks/
+-rw-rw-r-- root/root       630 2018-11-29 08:26 ansible-role-scala-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 08:26 ansible-role-scala-master/tests/
+-rw-rw-r-- root/root        10 2018-11-29 08:26 ansible-role-scala-master/tests/inventory
+-rw-rw-r-- root/root        77 2018-11-29 08:26 ansible-role-scala-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-03-10 09:40 ansible-pgweb-master/
+-rw-rw-r-- root/root        38 2016-03-10 09:40 ansible-pgweb-master/.gitignore
+-rw-rw-r-- root/root       264 2016-03-10 09:40 ansible-pgweb-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2016-03-10 09:40 ansible-pgweb-master/LICENSE
+-rw-rw-r-- root/root       354 2016-03-10 09:40 ansible-pgweb-master/README.md
+drwxrwxr-x root/root         0 2016-03-10 09:40 ansible-pgweb-master/defaults/
+-rw-rw-r-- root/root        65 2016-03-10 09:40 ansible-pgweb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-10 09:40 ansible-pgweb-master/examples/
+-rw-rw-r-- root/root       670 2016-03-10 09:40 ansible-pgweb-master/examples/Vagrantfile
+-rw-rw-r-- root/root        37 2016-03-10 09:40 ansible-pgweb-master/examples/roles.yml
+drwxrwxr-x root/root         0 2016-03-10 09:40 ansible-pgweb-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-03-10 09:40 ansible-pgweb-master/examples/roles/azavea.pgweb -> ../../
+-rw-rw-r-- root/root        57 2016-03-10 09:40 ansible-pgweb-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-03-10 09:40 ansible-pgweb-master/meta/
+-rw-rw-r-- root/root       309 2016-03-10 09:40 ansible-pgweb-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-10 09:40 ansible-pgweb-master/tasks/
+-rw-rw-r-- root/root      1076 2016-03-10 09:40 ansible-pgweb-master/tasks/main.yml

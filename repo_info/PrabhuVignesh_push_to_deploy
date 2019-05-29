@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-07-29 06:51 push_to_deploy-master/
+-rw-rw-r-- root/root       986 2016-07-29 06:51 push_to_deploy-master/README.md
+drwxrwxr-x root/root         0 2016-07-29 06:51 push_to_deploy-master/meta/
+-rw-rw-r-- root/root       254 2016-07-29 06:51 push_to_deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-29 06:51 push_to_deploy-master/tasks/
+-rw-rw-r-- root/root      1284 2016-07-29 06:51 push_to_deploy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-29 06:51 push_to_deploy-master/template/
+drwxrwxr-x root/root         0 2016-07-29 06:51 push_to_deploy-master/template/hooks/
+-rw-rw-r-- root/root        87 2016-07-29 06:51 push_to_deploy-master/template/hooks/postreceive.j2
+-rw-rw-r-- root/root        85 2016-07-29 06:51 push_to_deploy-master/template/hooks/prereceive.j2

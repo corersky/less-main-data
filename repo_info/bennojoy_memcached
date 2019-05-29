@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-10-22 23:16 memcached-master/
+-rw-rw-r-- root/root      1092 2014-10-22 23:16 memcached-master/README.md
+drwxrwxr-x root/root         0 2014-10-22 23:16 memcached-master/defaults/
+-rw-rw-r-- root/root       142 2014-10-22 23:16 memcached-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-22 23:16 memcached-master/handlers/
+-rw-rw-r-- root/root        73 2014-10-22 23:16 memcached-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-22 23:16 memcached-master/meta/
+-rw-rw-r-- root/root       370 2014-10-22 23:16 memcached-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-22 23:16 memcached-master/tasks/
+-rw-rw-r-- root/root       925 2014-10-22 23:16 memcached-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-22 23:16 memcached-master/templates/
+-rw-rw-r-- root/root      1519 2014-10-22 23:16 memcached-master/templates/memcached_debian.j2
+-rw-rw-r-- root/root       157 2014-10-22 23:16 memcached-master/templates/memcached_redhat.j2
+drwxrwxr-x root/root         0 2014-10-22 23:16 memcached-master/vars/
+-rw-rw-r-- root/root       144 2014-10-22 23:16 memcached-master/vars/main.yml

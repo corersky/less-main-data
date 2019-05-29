@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-07-17 05:06 dockerfile-jenkins-master/
+-rw-rw-r-- root/root       539 2018-07-17 05:06 dockerfile-jenkins-master/.travis.yml
+-rw-rw-r-- root/root       593 2018-07-17 05:06 dockerfile-jenkins-master/README.md
+drwxrwxr-x root/root         0 2018-07-17 05:06 dockerfile-jenkins-master/defaults/
+-rw-rw-r-- root/root        22 2018-07-17 05:06 dockerfile-jenkins-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-17 05:06 dockerfile-jenkins-master/meta/
+-rw-rw-r-- root/root        91 2018-07-17 05:06 dockerfile-jenkins-master/meta/container.yml
+-rw-rw-r-- root/root      1128 2018-07-17 05:06 dockerfile-jenkins-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-17 05:06 dockerfile-jenkins-master/tasks/
+-rw-rw-r-- root/root       492 2018-07-17 05:06 dockerfile-jenkins-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-17 05:06 dockerfile-jenkins-master/test/
+-rw-rw-r-- root/root        83 2018-07-17 05:06 dockerfile-jenkins-master/test/test.yml

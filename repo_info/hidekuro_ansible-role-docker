@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-10-27 02:06 ansible-role-docker-master/
+-rw-rw-r-- root/root      1082 2015-10-27 02:06 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       498 2015-10-27 02:06 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2015-10-27 02:06 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        85 2015-10-27 02:06 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-27 02:06 ansible-role-docker-master/handlers/
+-rw-rw-r-- root/root       201 2015-10-27 02:06 ansible-role-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-27 02:06 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       184 2015-10-27 02:06 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-27 02:06 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       634 2015-10-27 02:06 ansible-role-docker-master/tasks/_update_kernel.yml
+-rw-rw-r-- root/root       959 2015-10-27 02:06 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-27 02:06 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root       203 2015-10-27 02:06 ansible-role-docker-master/tests/Vagrantfile
+-rw-rw-r-- root/root        26 2015-10-27 02:06 ansible-role-docker-master/tests/hosts_roletest
+-rw-rw-r-- root/root        60 2015-10-27 02:06 ansible-role-docker-master/tests/test.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-03-19 06:03 ubuntu-common-role-master/
+-rw-rw-r-- root/root       483 2015-03-19 06:03 ubuntu-common-role-master/README.md
+drwxrwxr-x root/root         0 2015-03-19 06:03 ubuntu-common-role-master/defaults/
+-rw-rw-r-- root/root       138 2015-03-19 06:03 ubuntu-common-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-19 06:03 ubuntu-common-role-master/handlers/
+-rw-rw-r-- root/root       227 2015-03-19 06:03 ubuntu-common-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-19 06:03 ubuntu-common-role-master/meta/
+-rw-rw-r-- root/root       170 2015-03-19 06:03 ubuntu-common-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-19 06:03 ubuntu-common-role-master/tasks/
+-rw-rw-r-- root/root       730 2015-03-19 06:03 ubuntu-common-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-19 06:03 ubuntu-common-role-master/templates/
+-rw-rw-r-- root/root        42 2015-03-19 06:03 ubuntu-common-role-master/templates/locale
+-rw-rw-r-- root/root      1029 2015-03-19 06:03 ubuntu-common-role-master/templates/sources.list
+-rw-rw-r-- root/root        15 2015-03-19 06:03 ubuntu-common-role-master/templates/timezone

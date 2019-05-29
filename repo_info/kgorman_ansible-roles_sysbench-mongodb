@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/
+-rw-rw-r-- root/root      1854 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/README.md
+drwxrwxr-x root/root         0 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/defaults/
+-rw-rw-r-- root/root       953 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/handlers/
+-rw-rw-r-- root/root        55 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/meta/
+-rw-rw-r-- root/root       406 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/tasks/
+-rw-rw-r-- root/root      1402 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/templates/
+-rw-rw-r-- root/root      3976 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/templates/config.bash.j2
+drwxrwxr-x root/root         0 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/vars/
+-rw-rw-r-- root/root        51 2015-06-10 14:29 ansible-roles_sysbench-mongodb-master/vars/main.yml

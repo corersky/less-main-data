@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-git-master/
+-rw-rw-r-- root/root      1469 2016-01-26 08:13 ansible-role-openapphack-git-master/.travis.yml
+-rw-rw-r-- root/root        51 2016-01-26 08:13 ansible-role-openapphack-git-master/README.md
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-git-master/defaults/
+-rw-rw-r-- root/root       473 2016-01-26 08:13 ansible-role-openapphack-git-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-git-master/meta/
+-rw-rw-r-- root/root       314 2016-01-26 08:13 ansible-role-openapphack-git-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-git-master/tasks/
+-rw-rw-r-- root/root      1249 2016-01-26 08:13 ansible-role-openapphack-git-master/tasks/install-from-source.yml
+-rw-rw-r-- root/root       343 2016-01-26 08:13 ansible-role-openapphack-git-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-git-master/tests/
+-rw-rw-r-- root/root        35 2016-01-26 08:13 ansible-role-openapphack-git-master/tests/inventory
+-rw-rw-r-- root/root       185 2016-01-26 08:13 ansible-role-openapphack-git-master/tests/test-install-from-source.yml
+-rw-rw-r-- root/root       163 2016-01-26 08:13 ansible-role-openapphack-git-master/tests/test-install-package.yml
+drwxrwxr-x root/root         0 2016-01-26 08:13 ansible-role-openapphack-git-master/vars/
+-rw-rw-r-- root/root        43 2016-01-26 08:13 ansible-role-openapphack-git-master/vars/main.yml

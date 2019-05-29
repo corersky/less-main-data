@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-11-20 09:38 ansible-role-ssh-master/
+-rw-rw-r-- root/root        18 2014-11-20 09:38 ansible-role-ssh-master/.rolefile
+-rw-rw-r-- root/root      1055 2014-11-20 09:38 ansible-role-ssh-master/LICENSE.md
+-rw-rw-r-- root/root       266 2014-11-20 09:38 ansible-role-ssh-master/README.md
+drwxrwxr-x root/root         0 2014-11-20 09:38 ansible-role-ssh-master/defaults/
+-rw-rw-r-- root/root        92 2014-11-20 09:38 ansible-role-ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-20 09:38 ansible-role-ssh-master/handlers/
+-rw-rw-r-- root/root       109 2014-11-20 09:38 ansible-role-ssh-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-11-20 09:38 ansible-role-ssh-master/meta/
+-rw-rw-r-- root/root       288 2014-11-20 09:38 ansible-role-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-20 09:38 ansible-role-ssh-master/tasks/
+-rw-rw-r-- root/root       527 2014-11-20 09:38 ansible-role-ssh-master/tasks/main.yml
+-rw-rw-r-- root/root      1034 2014-11-20 09:38 ansible-role-ssh-master/tasks/port.yml
+-rw-rw-r-- root/root       456 2014-11-20 09:38 ansible-role-ssh-master/tasks/setup.yml
+-rw-rw-r-- root/root       345 2014-11-20 09:38 ansible-role-ssh-master/tasks/user.yml

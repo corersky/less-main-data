@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-12-14 09:45 aws-vpc-scenario2-master/
+-rw-rw-r-- root/root       115 2016-12-14 09:45 aws-vpc-scenario2-master/.gitignore
+-rw-rw-r-- root/root       539 2016-12-14 09:45 aws-vpc-scenario2-master/.travis.yml
+-rw-rw-r-- root/root      1068 2016-12-14 09:45 aws-vpc-scenario2-master/LICENSE
+-rw-rw-r-- root/root      2435 2016-12-14 09:45 aws-vpc-scenario2-master/README.md
+drwxrwxr-x root/root         0 2016-12-14 09:45 aws-vpc-scenario2-master/meta/
+-rw-rw-r-- root/root       310 2016-12-14 09:45 aws-vpc-scenario2-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-14 09:45 aws-vpc-scenario2-master/tasks/
+-rw-rw-r-- root/root     10969 2016-12-14 09:45 aws-vpc-scenario2-master/tasks/create.yml
+-rw-rw-r-- root/root      3731 2016-12-14 09:45 aws-vpc-scenario2-master/tasks/delete.yml
+-rw-rw-r-- root/root       675 2016-12-14 09:45 aws-vpc-scenario2-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-14 09:45 aws-vpc-scenario2-master/tests/
+-rw-rw-r-- root/root        77 2016-12-14 09:45 aws-vpc-scenario2-master/tests/inventory
+-rw-rw-r-- root/root       361 2016-12-14 09:45 aws-vpc-scenario2-master/tests/site.yml
+-rw-rw-r-- root/root       359 2016-12-14 09:45 aws-vpc-scenario2-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-14 09:45 aws-vpc-scenario2-master/vars/
+-rw-rw-r-- root/root       580 2016-12-14 09:45 aws-vpc-scenario2-master/vars/main.yml

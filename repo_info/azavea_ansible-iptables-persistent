@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-02-23 14:25 ansible-iptables-persistent-master/
+-rw-rw-r-- root/root         9 2015-02-23 14:25 ansible-iptables-persistent-master/.gitignore
+-rw-rw-r-- root/root        29 2015-02-23 14:25 ansible-iptables-persistent-master/CHANGELOG.md
+-rw-rw-r-- root/root       253 2015-02-23 14:25 ansible-iptables-persistent-master/README.md
+drwxrwxr-x root/root         0 2015-02-23 14:25 ansible-iptables-persistent-master/defaults/
+-rw-rw-r-- root/root        41 2015-02-23 14:25 ansible-iptables-persistent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-23 14:25 ansible-iptables-persistent-master/examples/
+-rw-rw-r-- root/root       278 2015-02-23 14:25 ansible-iptables-persistent-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2015-02-23 14:25 ansible-iptables-persistent-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-02-23 14:25 ansible-iptables-persistent-master/examples/roles/azavea.iptables-persistent -> ../../
+-rw-rw-r-- root/root        71 2015-02-23 14:25 ansible-iptables-persistent-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-02-23 14:25 ansible-iptables-persistent-master/meta/
+-rw-rw-r-- root/root       275 2015-02-23 14:25 ansible-iptables-persistent-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-23 14:25 ansible-iptables-persistent-master/tasks/
+-rw-rw-r-- root/root       119 2015-02-23 14:25 ansible-iptables-persistent-master/tasks/main.yml

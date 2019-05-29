@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/
+-rw-rw-r-- root/root        66 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/.gitignore
+-rw-rw-r-- root/root      1507 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/LICENSE.mkd
+-rw-rw-r-- root/root      2870 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/defaults/
+-rw-rw-r-- root/root      1531 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/meta/
+-rw-rw-r-- root/root       556 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/tasks/
+-rw-rw-r-- root/root       493 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/templates/
+-rw-rw-r-- root/root      1312 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/templates/configmap.yml.j2
+-rw-rw-r-- root/root      5170 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/templates/deployment.yml.j2
+-rw-rw-r-- root/root       614 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/templates/ingress.yml.j2
+-rw-rw-r-- root/root       781 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/templates/secret.yml.j2
+-rw-rw-r-- root/root       228 2019-05-06 20:36 ansible-role-kubernetes-netbox-master/templates/service.yml.j2

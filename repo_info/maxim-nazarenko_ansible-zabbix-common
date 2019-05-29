@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-05-25 10:47 ansible-zabbix-common-master/
+-rw-rw-r-- root/root       231 2016-05-25 10:47 ansible-zabbix-common-master/README.md
+drwxrwxr-x root/root         0 2016-05-25 10:47 ansible-zabbix-common-master/defaults/
+-rw-rw-r-- root/root        27 2016-05-25 10:47 ansible-zabbix-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-25 10:47 ansible-zabbix-common-master/handlers/
+-rw-rw-r-- root/root       156 2016-05-25 10:47 ansible-zabbix-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-25 10:47 ansible-zabbix-common-master/meta/
+-rw-rw-r-- root/root       248 2016-05-25 10:47 ansible-zabbix-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-25 10:47 ansible-zabbix-common-master/tasks/
+-rw-rw-r-- root/root       326 2016-05-25 10:47 ansible-zabbix-common-master/tasks/debian.yml
+-rw-rw-r-- root/root       112 2016-05-25 10:47 ansible-zabbix-common-master/tasks/main.yml

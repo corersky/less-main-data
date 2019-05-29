@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-09-21 18:37 chroot-os-setup-master/
+-rw-rw-r-- root/root       776 2017-09-21 18:37 chroot-os-setup-master/README.md
+drwxrwxr-x root/root         0 2017-09-21 18:37 chroot-os-setup-master/files/
+-rw-rw-r-- root/root       840 2017-09-21 18:37 chroot-os-setup-master/files/tmp.yum.conf
+drwxrwxr-x root/root         0 2017-09-21 18:37 chroot-os-setup-master/meta/
+-rw-rw-r-- root/root      1892 2017-09-21 18:37 chroot-os-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-21 18:37 chroot-os-setup-master/tasks/
+-rw-rw-r-- root/root        29 2017-09-21 18:37 chroot-os-setup-master/tasks/main.yml
+-rw-rw-r-- root/root      1442 2017-09-21 18:37 chroot-os-setup-master/tasks/os-setup.yml
+drwxrwxr-x root/root         0 2017-09-21 18:37 chroot-os-setup-master/templates/
+-rw-rw-r-- root/root       668 2017-09-21 18:37 chroot-os-setup-master/templates/fstab.j2

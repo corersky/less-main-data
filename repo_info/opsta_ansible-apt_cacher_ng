@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-06-24 09:02 ansible-apt_cacher_ng-master/
+-rw-rw-r-- root/root      1062 2017-06-24 09:02 ansible-apt_cacher_ng-master/LICENSE
+-rw-rw-r-- root/root       304 2017-06-24 09:02 ansible-apt_cacher_ng-master/README.md
+drwxrwxr-x root/root         0 2017-06-24 09:02 ansible-apt_cacher_ng-master/defaults/
+-rw-rw-r-- root/root        62 2017-06-24 09:02 ansible-apt_cacher_ng-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-24 09:02 ansible-apt_cacher_ng-master/handlers/
+-rw-rw-r-- root/root        90 2017-06-24 09:02 ansible-apt_cacher_ng-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-24 09:02 ansible-apt_cacher_ng-master/meta/
+-rw-rw-r-- root/root       322 2017-06-24 09:02 ansible-apt_cacher_ng-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-24 09:02 ansible-apt_cacher_ng-master/tasks/
+-rw-rw-r-- root/root       199 2017-06-24 09:02 ansible-apt_cacher_ng-master/tasks/apt-cacher-ng_install.yml
+-rw-rw-r-- root/root       184 2017-06-24 09:02 ansible-apt_cacher_ng-master/tasks/apt-cacher-ng_post.yml
+-rw-rw-r-- root/root        75 2017-06-24 09:02 ansible-apt_cacher_ng-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-24 09:02 ansible-apt_cacher_ng-master/tests/
+-rw-rw-r-- root/root         9 2017-06-24 09:02 ansible-apt_cacher_ng-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-06-24 09:02 ansible-apt_cacher_ng-master/tests/test.yml

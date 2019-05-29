@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-10 14:38 nxos_upgrade-master/
+-rw-rw-r-- root/root      1328 2018-07-10 14:38 nxos_upgrade-master/README.md
+drwxrwxr-x root/root         0 2018-07-10 14:38 nxos_upgrade-master/defaults/
+-rw-rw-r-- root/root        36 2018-07-10 14:38 nxos_upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 nxos_upgrade-master/handlers/
+-rw-rw-r-- root/root        36 2018-07-10 14:38 nxos_upgrade-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 nxos_upgrade-master/meta/
+-rw-rw-r-- root/root      1777 2018-07-10 14:38 nxos_upgrade-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 nxos_upgrade-master/tasks/
+-rw-rw-r-- root/root      2860 2018-07-10 14:38 nxos_upgrade-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 nxos_upgrade-master/tests/
+-rw-rw-r-- root/root        11 2018-07-10 14:38 nxos_upgrade-master/tests/inventory
+-rw-rw-r-- root/root        70 2018-07-10 14:38 nxos_upgrade-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-07-10 14:38 nxos_upgrade-master/vars/
+-rw-rw-r-- root/root       288 2018-07-10 14:38 nxos_upgrade-master/vars/main.yml

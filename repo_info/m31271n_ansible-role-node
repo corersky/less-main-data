@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-06-25 07:39 ansible-role-node-master/
+-rw-rw-r-- root/root       424 2017-06-25 07:39 ansible-role-node-master/.travis.yml
+-rw-rw-r-- root/root      1121 2017-06-25 07:39 ansible-role-node-master/LICENSE
+-rw-rw-r-- root/root       706 2017-06-25 07:39 ansible-role-node-master/README.md
+drwxrwxr-x root/root         0 2017-06-25 07:39 ansible-role-node-master/defaults/
+-rw-rw-r-- root/root        26 2017-06-25 07:39 ansible-role-node-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-25 07:39 ansible-role-node-master/meta/
+-rw-rw-r-- root/root       267 2017-06-25 07:39 ansible-role-node-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-25 07:39 ansible-role-node-master/tasks/
+-rw-rw-r-- root/root       553 2017-06-25 07:39 ansible-role-node-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-25 07:39 ansible-role-node-master/tests/
+-rw-rw-r-- root/root        11 2017-06-25 07:39 ansible-role-node-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-06-25 07:39 ansible-role-node-master/tests/test.yml

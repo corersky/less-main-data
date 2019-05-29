@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-26 12:23 ansible-role-db-users-master/
+-rw-rw-r-- root/root         5 2016-12-26 12:23 ansible-role-db-users-master/.gitignore
+-rw-rw-r-- root/root       539 2016-12-26 12:23 ansible-role-db-users-master/.travis.yml
+-rw-rw-r-- root/root      1276 2016-12-26 12:23 ansible-role-db-users-master/README.md
+drwxrwxr-x root/root         0 2016-12-26 12:23 ansible-role-db-users-master/defaults/
+-rw-rw-r-- root/root       283 2016-12-26 12:23 ansible-role-db-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-26 12:23 ansible-role-db-users-master/handlers/
+-rw-rw-r-- root/root       109 2016-12-26 12:23 ansible-role-db-users-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-26 12:23 ansible-role-db-users-master/meta/
+-rw-rw-r-- root/root       227 2016-12-26 12:23 ansible-role-db-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-26 12:23 ansible-role-db-users-master/tasks/
+-rw-rw-r-- root/root       314 2016-12-26 12:23 ansible-role-db-users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-26 12:23 ansible-role-db-users-master/tests/
+-rw-rw-r-- root/root         9 2016-12-26 12:23 ansible-role-db-users-master/tests/inventory
+-rw-rw-r-- root/root        66 2016-12-26 12:23 ansible-role-db-users-master/tests/test.yml

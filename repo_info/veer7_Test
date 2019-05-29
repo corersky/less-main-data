@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-12-11 06:31 test-master/
+-rw-rw-r-- root/root      1328 2018-12-11 06:31 test-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 06:31 test-master/defaults/
+-rw-rw-r-- root/root        28 2018-12-11 06:31 test-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 06:31 test-master/handler/
+-rw-rw-r-- root/root         0 2018-12-11 06:31 test-master/handler/a
+-rw-rw-r-- root/root        28 2018-12-11 06:31 test-master/handler/main.yml
+drwxrwxr-x root/root         0 2018-12-11 06:31 test-master/meta/
+-rw-rw-r-- root/root      1780 2018-12-11 06:31 test-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 06:31 test-master/tasks/
+-rw-rw-r-- root/root        25 2018-12-11 06:31 test-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-11 06:31 test-master/tests/
+-rw-rw-r-- root/root        11 2018-12-11 06:31 test-master/tests/inventory
+-rw-rw-r-- root/root        62 2018-12-11 06:31 test-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-11 06:31 test-master/vars/
+-rw-rw-r-- root/root        24 2018-12-11 06:31 test-master/vars/main.yml

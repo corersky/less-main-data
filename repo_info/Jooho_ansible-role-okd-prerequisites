@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-12-25 22:11 ansible-role-okd-prerequisites-master/
+-rw-rw-r-- root/root      1509 2018-12-25 22:11 ansible-role-okd-prerequisites-master/LICENSE
+-rw-rw-r-- root/root      1619 2018-12-25 22:11 ansible-role-okd-prerequisites-master/README.md
+drwxrwxr-x root/root         0 2018-12-25 22:11 ansible-role-okd-prerequisites-master/defaults/
+-rw-rw-r-- root/root       107 2018-12-25 22:11 ansible-role-okd-prerequisites-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-25 22:11 ansible-role-okd-prerequisites-master/meta/
+-rw-rw-r-- root/root      2011 2018-12-25 22:11 ansible-role-okd-prerequisites-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-25 22:11 ansible-role-okd-prerequisites-master/tasks/
+-rw-rw-r-- root/root       362 2018-12-25 22:11 ansible-role-okd-prerequisites-master/tasks/check.yml
+-rw-rw-r-- root/root       537 2018-12-25 22:11 ansible-role-okd-prerequisites-master/tasks/interim-dns.yml
+-rw-rw-r-- root/root       224 2018-12-25 22:11 ansible-role-okd-prerequisites-master/tasks/main.yml
+-rw-rw-r-- root/root      2644 2018-12-25 22:11 ansible-role-okd-prerequisites-master/tasks/okd-host.yml
+-rw-rw-r-- root/root       760 2018-12-25 22:11 ansible-role-okd-prerequisites-master/tasks/okd-lb.yml

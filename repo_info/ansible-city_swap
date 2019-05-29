@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2016-04-06 03:45 swap-master/
+-rw-rw-r-- root/root       148 2016-04-06 03:45 swap-master/.editorconfig
+-rw-rw-r-- root/root        37 2016-04-06 03:45 swap-master/.gitignore
+-rw-rw-r-- root/root      1282 2016-04-06 03:45 swap-master/.travis.yml
+-rw-rw-r-- root/root      1087 2016-04-06 03:45 swap-master/LICENSE
+-rw-rw-r-- root/root       957 2016-04-06 03:45 swap-master/Makefile
+-rw-rw-r-- root/root      1040 2016-04-06 03:45 swap-master/README.md
+drwxrwxr-x root/root         0 2016-04-06 03:45 swap-master/defaults/
+-rw-rw-r-- root/root       177 2016-04-06 03:45 swap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-06 03:45 swap-master/handlers/
+-rw-rw-r-- root/root        62 2016-04-06 03:45 swap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-06 03:45 swap-master/meta/
+-rw-rw-r-- root/root       330 2016-04-06 03:45 swap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-06 03:45 swap-master/tasks/
+-rw-rw-r-- root/root       696 2016-04-06 03:45 swap-master/tasks/build.yml
+-rw-rw-r-- root/root       347 2016-04-06 03:45 swap-master/tasks/configure.yml
+-rw-rw-r-- root/root       143 2016-04-06 03:45 swap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-06 03:45 swap-master/tests/
+-rw-rw-r-- root/root        34 2016-04-06 03:45 swap-master/tests/ansible.cfg
+-rw-rw-r-- root/root         9 2016-04-06 03:45 swap-master/tests/inventory
+-rw-rw-r-- root/root       868 2016-04-06 03:45 swap-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-04-06 03:45 swap-master/tests/vagrant/
+-rw-rw-r-- root/root       985 2016-04-06 03:45 swap-master/tests/vagrant/Vagrantfile
+lrwxrwxrwx root/root         0 2016-04-06 03:45 swap-master/tests/vagrant/ansible.cfg -> ../ansible.cfg

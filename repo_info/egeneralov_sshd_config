@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-07 09:46 sshd_config-master/
+-rw-rw-r-- root/root       501 2019-04-07 09:46 sshd_config-master/README.md
+drwxrwxr-x root/root         0 2019-04-07 09:46 sshd_config-master/defaults/
+-rw-rw-r-- root/root       142 2019-04-07 09:46 sshd_config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-07 09:46 sshd_config-master/handlers/
+-rw-rw-r-- root/root        46 2019-04-07 09:46 sshd_config-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-07 09:46 sshd_config-master/meta/
+-rw-rw-r-- root/root       338 2019-04-07 09:46 sshd_config-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-07 09:46 sshd_config-master/tasks/
+-rw-rw-r-- root/root      2570 2019-04-07 09:46 sshd_config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-07 09:46 sshd_config-master/tests/
+-rw-rw-r-- root/root        11 2019-04-07 09:46 sshd_config-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-04-07 09:46 sshd_config-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-07 09:46 sshd_config-master/vars/
+-rw-rw-r-- root/root        42 2019-04-07 09:46 sshd_config-master/vars/main.yml

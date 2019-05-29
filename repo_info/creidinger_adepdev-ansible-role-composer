@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-04-11 01:48 adepdev-ansible-role-composer-master/
+-rw-rw-r-- root/root        67 2019-04-11 01:48 adepdev-ansible-role-composer-master/README.md
+drwxrwxr-x root/root         0 2019-04-11 01:48 adepdev-ansible-role-composer-master/defaults/
+-rw-rw-r-- root/root       765 2019-04-11 01:48 adepdev-ansible-role-composer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-11 01:48 adepdev-ansible-role-composer-master/meta/
+-rw-rw-r-- root/root       350 2019-04-11 01:48 adepdev-ansible-role-composer-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-11 01:48 adepdev-ansible-role-composer-master/tasks/
+-rw-rw-r-- root/root       630 2019-04-11 01:48 adepdev-ansible-role-composer-master/tasks/global-require.yml
+-rw-rw-r-- root/root      2095 2019-04-11 01:48 adepdev-ansible-role-composer-master/tasks/main.yml
+-rw-rw-r-- root/root       173 2019-04-11 01:48 adepdev-ansible-role-composer-master/tasks/project-bin.yml
+drwxrwxr-x root/root         0 2019-04-11 01:48 adepdev-ansible-role-composer-master/templates/
+-rw-rw-r-- root/root        90 2019-04-11 01:48 adepdev-ansible-role-composer-master/templates/auth.json.j2
+-rw-rw-r-- root/root        46 2019-04-11 01:48 adepdev-ansible-role-composer-master/templates/composer-project.sh.j2
+-rw-rw-r-- root/root        54 2019-04-11 01:48 adepdev-ansible-role-composer-master/templates/composer.sh.j2

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-02-12 22:52 ansible-role-senchacmd-master/
+-rw-rw-r-- root/root      1068 2019-02-12 22:52 ansible-role-senchacmd-master/LICENSE
+-rw-rw-r-- root/root       631 2019-02-12 22:52 ansible-role-senchacmd-master/README.md
+drwxrwxr-x root/root         0 2019-02-12 22:52 ansible-role-senchacmd-master/defaults/
+-rw-rw-r-- root/root        34 2019-02-12 22:52 ansible-role-senchacmd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-12 22:52 ansible-role-senchacmd-master/meta/
+-rw-rw-r-- root/root       319 2019-02-12 22:52 ansible-role-senchacmd-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-12 22:52 ansible-role-senchacmd-master/tasks/
+-rw-rw-r-- root/root       736 2019-02-12 22:52 ansible-role-senchacmd-master/tasks/install.yml
+-rw-rw-r-- root/root       494 2019-02-12 22:52 ansible-role-senchacmd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-12 22:52 ansible-role-senchacmd-master/tests/
+-rw-rw-r-- root/root        11 2019-02-12 22:52 ansible-role-senchacmd-master/tests/inventory
+-rw-rw-r-- root/root        67 2019-02-12 22:52 ansible-role-senchacmd-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-12 22:52 ansible-role-senchacmd-master/vars/
+-rw-rw-r-- root/root       206 2019-02-12 22:52 ansible-role-senchacmd-master/vars/main.yml

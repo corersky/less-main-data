@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-01-26 04:04 ansible-dhclient-master/
+-rw-rw-r-- root/root         0 2017-01-26 04:04 ansible-dhclient-master/.gitignore
+-rw-rw-r-- root/root      1075 2017-01-26 04:04 ansible-dhclient-master/LICENSE
+-rw-rw-r-- root/root      2773 2017-01-26 04:04 ansible-dhclient-master/README.md
+drwxrwxr-x root/root         0 2017-01-26 04:04 ansible-dhclient-master/defaults/
+-rw-rw-r-- root/root       474 2017-01-26 04:04 ansible-dhclient-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-01-26 04:04 ansible-dhclient-master/meta/
+-rw-rw-r-- root/root       275 2017-01-26 04:04 ansible-dhclient-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-26 04:04 ansible-dhclient-master/tasks/
+-rw-rw-r-- root/root       703 2017-01-26 04:04 ansible-dhclient-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-01-26 04:04 ansible-dhclient-master/templates/
+-rw-rw-r-- root/root        65 2017-01-26 04:04 ansible-dhclient-master/templates/dhclient.conf.j2
+-rw-rw-r-- root/root       122 2017-01-26 04:04 ansible-dhclient-master/templates/script.j2

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-11-25 11:17 ansible_role_make-master/
+-rw-rw-r-- root/root       429 2017-11-25 11:17 ansible_role_make-master/.travis.yml
+-rw-rw-r-- root/root      1316 2017-11-25 11:17 ansible_role_make-master/LICENSE
+-rw-rw-r-- root/root       332 2017-11-25 11:17 ansible_role_make-master/README.md
+drwxrwxr-x root/root         0 2017-11-25 11:17 ansible_role_make-master/meta/
+-rw-rw-r-- root/root       291 2017-11-25 11:17 ansible_role_make-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-25 11:17 ansible_role_make-master/tasks/
+-rw-rw-r-- root/root       161 2017-11-25 11:17 ansible_role_make-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-25 11:17 ansible_role_make-master/tests/
+-rw-rw-r-- root/root        11 2017-11-25 11:17 ansible_role_make-master/tests/inventory
+-rw-rw-r-- root/root        90 2017-11-25 11:17 ansible_role_make-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-12-19 10:52 ansible-role-centos-kubernetes-master/
+-rw-rw-r-- root/root      1066 2016-12-19 10:52 ansible-role-centos-kubernetes-master/LICENSE
+-rw-rw-r-- root/root      1463 2016-12-19 10:52 ansible-role-centos-kubernetes-master/README.md
+drwxrwxr-x root/root         0 2016-12-19 10:52 ansible-role-centos-kubernetes-master/defaults/
+-rw-rw-r-- root/root       116 2016-12-19 10:52 ansible-role-centos-kubernetes-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-19 10:52 ansible-role-centos-kubernetes-master/files/
+-rw-rw-r-- root/root       257 2016-12-19 10:52 ansible-role-centos-kubernetes-master/files/kubernetes.repo
+drwxrwxr-x root/root         0 2016-12-19 10:52 ansible-role-centos-kubernetes-master/meta/
+-rw-rw-r-- root/root       403 2016-12-19 10:52 ansible-role-centos-kubernetes-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-19 10:52 ansible-role-centos-kubernetes-master/tasks/
+-rw-rw-r-- root/root       561 2016-12-19 10:52 ansible-role-centos-kubernetes-master/tasks/main.yml

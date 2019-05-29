@@ -1,0 +1,82 @@
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/
+-rw-rw-r-- root/root        44 2019-03-20 14:39 borgbackup-master/.gitignore
+-rw-rw-r-- root/root       345 2019-03-20 14:39 borgbackup-master/.travis.yml
+-rw-rw-r-- root/root       165 2019-03-20 14:39 borgbackup-master/.yamllint
+-rw-rw-r-- root/root      1064 2019-03-20 14:39 borgbackup-master/LICENSE.md
+-rw-rw-r-- root/root      3735 2019-03-20 14:39 borgbackup-master/README.md
+-rw-rw-r-- root/root       119 2019-03-20 14:39 borgbackup-master/backup.yml
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/defaults/
+-rw-rw-r-- root/root      1176 2019-03-20 14:39 borgbackup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/meta/
+-rw-rw-r-- root/root       400 2019-03-20 14:39 borgbackup-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/molecule/
+-rw-rw-r-- root/root      2865 2019-03-20 14:39 borgbackup-master/molecule/README.md
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/molecule/clients/
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/clients/Dockerfile.j2 -> ../generic_files/Dockerfile.j2
+-rw-rw-r-- root/root       369 2019-03-20 14:39 borgbackup-master/molecule/clients/INSTALL.rst
+-rw-rw-r-- root/root      2374 2019-03-20 14:39 borgbackup-master/molecule/clients/molecule.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/clients/playbook.yml -> ../generic_files/playbook.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/clients/prepare.yml -> ../generic_files/prepare.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/clients/restore.sh.j2 -> ../generic_files/restore.sh.j2
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/clients/side_effect.yml -> ../generic_files/side_effect.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/clients/tests -> ../generic_files/tests
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/Dockerfile.j2 -> ../generic_files/Dockerfile.j2
+-rw-rw-r-- root/root       369 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/INSTALL.rst
+-rw-rw-r-- root/root      1333 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/molecule.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/playbook.yml -> ../generic_files/playbook.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/prepare.yml -> ../generic_files/prepare.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/restore.sh.j2 -> ../generic_files/restore.sh.j2
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/side_effect.yml -> ../generic_files/side_effect.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/extra_opts/tests -> ../generic_files/tests
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/molecule/generic_files/
+-rw-rw-r-- root/root       858 2019-03-20 14:39 borgbackup-master/molecule/generic_files/Dockerfile.j2
+-rw-rw-r-- root/root        66 2019-03-20 14:39 borgbackup-master/molecule/generic_files/playbook.yml
+-rw-rw-r-- root/root      1118 2019-03-20 14:39 borgbackup-master/molecule/generic_files/prepare.yml
+-rw-rw-r-- root/root      1169 2019-03-20 14:39 borgbackup-master/molecule/generic_files/restore.sh.j2
+-rw-rw-r-- root/root       499 2019-03-20 14:39 borgbackup-master/molecule/generic_files/side_effect.yml
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/
+-rw-rw-r-- root/root        23 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/.flake8
+-rw-rw-r-- root/root       188 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/test_all.py
+-rw-rw-r-- root/root      1513 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/test_client.py
+-rw-rw-r-- root/root       541 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/test_client_extra_opts.py
+-rw-rw-r-- root/root       938 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/test_client_restore.py
+-rw-rw-r-- root/root       502 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/test_lamp.py
+-rw-rw-r-- root/root       762 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/test_mgt.py
+-rw-rw-r-- root/root       815 2019-03-20 14:39 borgbackup-master/molecule/generic_files/tests/test_server.py
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/molecule/lamp/
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/lamp/Dockerfile.j2 -> ../generic_files/Dockerfile.j2
+-rw-rw-r-- root/root       369 2019-03-20 14:39 borgbackup-master/molecule/lamp/INSTALL.rst
+-rw-rw-r-- root/root      1003 2019-03-20 14:39 borgbackup-master/molecule/lamp/molecule.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/lamp/playbook.yml -> ../generic_files/playbook.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/lamp/prepare.yml -> ../generic_files/prepare.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/lamp/restore.sh.j2 -> ../generic_files/restore.sh.j2
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/lamp/side_effect.yml -> ../generic_files/side_effect.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/lamp/tests -> ../generic_files/tests
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/molecule/mgt/
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/mgt/Dockerfile.j2 -> ../generic_files/Dockerfile.j2
+-rw-rw-r-- root/root       369 2019-03-20 14:39 borgbackup-master/molecule/mgt/INSTALL.rst
+-rw-rw-r-- root/root      2386 2019-03-20 14:39 borgbackup-master/molecule/mgt/molecule.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/mgt/playbook.yml -> ../generic_files/playbook.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/mgt/prepare.yml -> ../generic_files/prepare.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/mgt/restore.sh.j2 -> ../generic_files/restore.sh.j2
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/mgt/side_effect.yml -> ../generic_files/side_effect.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/mgt/tests -> ../generic_files/tests
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/molecule/multiple/
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/multiple/Dockerfile.j2 -> ../generic_files/Dockerfile.j2
+-rw-rw-r-- root/root       369 2019-03-20 14:39 borgbackup-master/molecule/multiple/INSTALL.rst
+-rw-rw-r-- root/root      1869 2019-03-20 14:39 borgbackup-master/molecule/multiple/molecule.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/multiple/playbook.yml -> ../generic_files/playbook.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/multiple/prepare.yml -> ../generic_files/prepare.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/multiple/restore.sh.j2 -> ../generic_files/restore.sh.j2
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/multiple/side_effect.yml -> ../generic_files/side_effect.yml
+lrwxrwxrwx root/root         0 2019-03-20 14:39 borgbackup-master/molecule/multiple/tests -> ../generic_files/tests
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/tasks/
+-rw-rw-r-- root/root      4464 2019-03-20 14:39 borgbackup-master/tasks/borg-client.yml
+-rw-rw-r-- root/root       784 2019-03-20 14:39 borgbackup-master/tasks/borg-server.yml
+-rw-rw-r-- root/root       267 2019-03-20 14:39 borgbackup-master/tasks/install.yml
+-rw-rw-r-- root/root       789 2019-03-20 14:39 borgbackup-master/tasks/main.yml
+-rw-rw-r-- root/root      1868 2019-03-20 14:39 borgbackup-master/tasks/management.yml
+drwxrwxr-x root/root         0 2019-03-20 14:39 borgbackup-master/templates/
+-rw-rw-r-- root/root      3926 2019-03-20 14:39 borgbackup-master/templates/borg-backup.sh.j2
+-rw-rw-r-- root/root      1177 2019-03-20 14:39 borgbackup-master/templates/prune.sh.j2

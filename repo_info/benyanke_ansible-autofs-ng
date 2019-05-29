@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-09 14:54 ansible-autofs-ng-master/
+-rw-rw-r-- root/root       367 2018-11-09 14:54 ansible-autofs-ng-master/.travis.yml
+-rw-rw-r-- root/root      1132 2018-11-09 14:54 ansible-autofs-ng-master/CHANGELOG.md
+-rw-rw-r-- root/root      2167 2018-11-09 14:54 ansible-autofs-ng-master/README.md
+drwxrwxr-x root/root         0 2018-11-09 14:54 ansible-autofs-ng-master/defaults/
+-rw-rw-r-- root/root       510 2018-11-09 14:54 ansible-autofs-ng-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-09 14:54 ansible-autofs-ng-master/handlers/
+-rw-rw-r-- root/root       265 2018-11-09 14:54 ansible-autofs-ng-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-09 14:54 ansible-autofs-ng-master/meta/
+-rw-rw-r-- root/root       496 2018-11-09 14:54 ansible-autofs-ng-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-09 14:54 ansible-autofs-ng-master/tasks/
+-rw-rw-r-- root/root      2187 2018-11-09 14:54 ansible-autofs-ng-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-09 14:54 ansible-autofs-ng-master/templates/
+-rw-rw-r-- root/root       138 2018-11-09 14:54 ansible-autofs-ng-master/templates/indirect_map.j2
+drwxrwxr-x root/root         0 2018-11-09 14:54 ansible-autofs-ng-master/tests/
+-rw-rw-r-- root/root        10 2018-11-09 14:54 ansible-autofs-ng-master/tests/inventory
+-rw-rw-r-- root/root       182 2018-11-09 14:54 ansible-autofs-ng-master/tests/test.yml

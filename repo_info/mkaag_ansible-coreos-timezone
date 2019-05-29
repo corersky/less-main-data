@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2015-04-13 10:05 ansible-coreos-timezone-master/
+-rw-rw-r-- root/root      1088 2015-04-13 10:05 ansible-coreos-timezone-master/LICENSE.md
+-rw-rw-r-- root/root       902 2015-04-13 10:05 ansible-coreos-timezone-master/README.md
+drwxrwxr-x root/root         0 2015-04-13 10:05 ansible-coreos-timezone-master/defaults/
+-rw-rw-r-- root/root        78 2015-04-13 10:05 ansible-coreos-timezone-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-13 10:05 ansible-coreos-timezone-master/meta/
+-rw-rw-r-- root/root       246 2015-04-13 10:05 ansible-coreos-timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-13 10:05 ansible-coreos-timezone-master/tasks/
+-rw-rw-r-- root/root        67 2015-04-13 10:05 ansible-coreos-timezone-master/tasks/main.yml
+-rw-rw-r-- root/root       596 2015-04-13 10:05 ansible-coreos-timezone-master/tasks/timezone.yml

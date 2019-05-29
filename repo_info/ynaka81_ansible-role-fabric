@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-08-21 09:33 ansible-role-fabric-master/
+-rw-rw-r-- root/root       715 2015-08-21 09:33 ansible-role-fabric-master/README.md
+drwxrwxr-x root/root         0 2015-08-21 09:33 ansible-role-fabric-master/defaults/
+-rw-rw-r-- root/root       190 2015-08-21 09:33 ansible-role-fabric-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-21 09:33 ansible-role-fabric-master/meta/
+-rw-rw-r-- root/root       248 2015-08-21 09:33 ansible-role-fabric-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-21 09:33 ansible-role-fabric-master/tasks/
+-rw-rw-r-- root/root       734 2015-08-21 09:33 ansible-role-fabric-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-21 09:33 ansible-role-fabric-master/templates/
+-rw-rw-r-- root/root        35 2015-08-21 09:33 ansible-role-fabric-master/templates/.fabricrc
+drwxrwxr-x root/root         0 2015-08-21 09:33 ansible-role-fabric-master/test/
+-rw-rw-r-- root/root      3542 2015-08-21 09:33 ansible-role-fabric-master/test/Vagrantfile
+-rw-rw-r-- root/root       619 2015-08-21 09:33 ansible-role-fabric-master/test/fabfile.py
+-rw-rw-r-- root/root       109 2015-08-21 09:33 ansible-role-fabric-master/test/hosts
+-rw-rw-r-- root/root       104 2015-08-21 09:33 ansible-role-fabric-master/test/target.yml
+-rw-rw-r-- root/root       469 2015-08-21 09:33 ansible-role-fabric-master/test/test.yml

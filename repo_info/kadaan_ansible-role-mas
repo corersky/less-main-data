@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-12-03 16:16 ansible-role-mas-master/
+-rw-rw-r-- root/root        10 2018-12-03 16:16 ansible-role-mas-master/.gitignore
+-rw-rw-r-- root/root      2364 2018-12-03 16:16 ansible-role-mas-master/.travis.yml
+-rw-rw-r-- root/root      2272 2018-12-03 16:16 ansible-role-mas-master/README.md
+drwxrwxr-x root/root         0 2018-12-03 16:16 ansible-role-mas-master/defaults/
+-rw-rw-r-- root/root        90 2018-12-03 16:16 ansible-role-mas-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-03 16:16 ansible-role-mas-master/meta/
+-rw-rw-r-- root/root       358 2018-12-03 16:16 ansible-role-mas-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-03 16:16 ansible-role-mas-master/tasks/
+-rw-rw-r-- root/root       841 2018-12-03 16:16 ansible-role-mas-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-03 16:16 ansible-role-mas-master/tests/
+-rw-rw-r-- root/root         9 2018-12-03 16:16 ansible-role-mas-master/tests/inventory
+-rw-rw-r-- root/root        28 2018-12-03 16:16 ansible-role-mas-master/tests/requirements.yml
+-rw-rw-r-- root/root       198 2018-12-03 16:16 ansible-role-mas-master/tests/test.yml

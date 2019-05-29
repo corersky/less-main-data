@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-25 11:50 ansible-prometheus-master/
+-rw-rw-r-- root/root         0 2019-01-25 11:50 ansible-prometheus-master/.gitignore
+-rw-rw-r-- root/root      1080 2019-01-25 11:50 ansible-prometheus-master/LICENSE
+-rw-rw-r-- root/root     15500 2019-01-25 11:50 ansible-prometheus-master/README.md
+drwxrwxr-x root/root         0 2019-01-25 11:50 ansible-prometheus-master/defaults/
+-rw-rw-r-- root/root     11996 2019-01-25 11:50 ansible-prometheus-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-01-25 11:50 ansible-prometheus-master/handlers/
+-rw-rw-r-- root/root       585 2019-01-25 11:50 ansible-prometheus-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-01-25 11:50 ansible-prometheus-master/meta/
+-rw-rw-r-- root/root       333 2019-01-25 11:50 ansible-prometheus-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-25 11:50 ansible-prometheus-master/tasks/
+-rw-rw-r-- root/root      2256 2019-01-25 11:50 ansible-prometheus-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-01-25 11:50 ansible-prometheus-master/templates/
+-rw-rw-r-- root/root       110 2019-01-25 11:50 ansible-prometheus-master/templates/prometheus.conf.j2
+-rw-rw-r-- root/root        88 2019-01-25 11:50 ansible-prometheus-master/templates/prometheus.default.j2
+-rw-rw-r-- root/root       103 2019-01-25 11:50 ansible-prometheus-master/templates/prometheus.rules.j2

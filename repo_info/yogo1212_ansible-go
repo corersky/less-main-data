@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-04-25 05:37 ansible-go-master/
+-rw-rw-r-- root/root      2650 2019-04-25 05:37 ansible-go-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 05:37 ansible-go-master/defaults/
+-rw-rw-r-- root/root       496 2019-04-25 05:37 ansible-go-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 05:37 ansible-go-master/files/
+-rw-rw-r-- root/root        36 2019-04-25 05:37 ansible-go-master/files/go-bin.sh
+-rw-rw-r-- root/root        53 2019-04-25 05:37 ansible-go-master/files/go-path.sh
+-rw-rw-r-- root/root      8038 2019-04-25 05:37 ansible-go-master/files/linux_signing_key.pub
+drwxrwxr-x root/root         0 2019-04-25 05:37 ansible-go-master/meta/
+-rw-rw-r-- root/root       904 2019-04-25 05:37 ansible-go-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 05:37 ansible-go-master/tasks/
+-rw-rw-r-- root/root      1274 2019-04-25 05:37 ansible-go-master/tasks/install_go.yml
+-rw-rw-r-- root/root       963 2019-04-25 05:37 ansible-go-master/tasks/main.yml

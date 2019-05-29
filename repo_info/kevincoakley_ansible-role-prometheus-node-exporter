@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/
+-rw-rw-r-- root/root       979 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/.gitignore
+-rw-rw-r-- root/root       123 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/.gitmodules
+-rw-rw-r-- root/root      1580 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/README.md
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/defaults/
+-rw-rw-r-- root/root       601 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/handlers/
+-rw-rw-r-- root/root       166 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/meta/
+-rw-rw-r-- root/root       618 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tasks/
+-rw-rw-r-- root/root      1982 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/templates/
+-rw-rw-r-- root/root       661 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/templates/node_exporter.service.j2
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/
+-rw-rw-r-- root/root       413 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/docker_containers.yml
+-rw-rw-r-- root/root       278 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/inventory
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/roles/ansible-role-prometheus-node-exporter -> ../../
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/roles/docker/
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/roles/node-exporter-test/
+drwxrwxr-x root/root         0 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/roles/node-exporter-test/tasks/
+-rw-rw-r-- root/root       274 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/roles/node-exporter-test/tasks/main.yml
+-rw-rw-r-- root/root       843 2019-02-14 11:29 ansible-role-prometheus-node-exporter-master/tests/test.yml

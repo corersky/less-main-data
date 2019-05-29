@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-19 23:05 package_installer-master/
+-rw-rw-r-- root/root        77 2019-03-19 23:05 package_installer-master/.gitignore
+-rw-rw-r-- root/root      1515 2019-03-19 23:05 package_installer-master/LICENSE
+-rw-rw-r-- root/root      1273 2019-03-19 23:05 package_installer-master/README.md
+drwxrwxr-x root/root         0 2019-03-19 23:05 package_installer-master/defaults/
+-rw-rw-r-- root/root       172 2019-03-19 23:05 package_installer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-19 23:05 package_installer-master/meta/
+-rw-rw-r-- root/root       663 2019-03-19 23:05 package_installer-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-19 23:05 package_installer-master/roles/
+-rw-rw-r-- root/root        61 2019-03-19 23:05 package_installer-master/roles/requirements.yml
+drwxrwxr-x root/root         0 2019-03-19 23:05 package_installer-master/tasks/
+-rw-rw-r-- root/root       122 2019-03-19 23:05 package_installer-master/tasks/Debian.yml
+-rw-rw-r-- root/root       138 2019-03-19 23:05 package_installer-master/tasks/RedHat.yml
+-rw-rw-r-- root/root        85 2019-03-19 23:05 package_installer-master/tasks/main.yml

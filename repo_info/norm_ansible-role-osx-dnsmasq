@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/
+-rw-rw-r-- root/root        96 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/README.md
+drwxrwxr-x root/root         0 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/defaults/
+-rw-rw-r-- root/root        21 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/files/
+-rw-rw-r-- root/root        94 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/files/dnsmasq.conf
+-rw-rw-r-- root/root        21 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/files/resolver.dev
+drwxrwxr-x root/root         0 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/handlers/
+-rw-rw-r-- root/root        68 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/meta/
+-rw-rw-r-- root/root       291 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/tasks/
+-rw-rw-r-- root/root       694 2015-07-30 04:44 ansible-role-osx-dnsmasq-master/tasks/main.yml

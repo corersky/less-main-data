@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-26 10:02 ansible-centos-updates-master/
+-rw-rw-r-- root/root      1590 2018-11-26 10:02 ansible-centos-updates-master/README.md
+drwxrwxr-x root/root         0 2018-11-26 10:02 ansible-centos-updates-master/defaults/
+-rw-rw-r-- root/root       530 2018-11-26 10:02 ansible-centos-updates-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-26 10:02 ansible-centos-updates-master/handlers/
+-rw-rw-r-- root/root         0 2018-11-26 10:02 ansible-centos-updates-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-26 10:02 ansible-centos-updates-master/meta/
+-rw-rw-r-- root/root       314 2018-11-26 10:02 ansible-centos-updates-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-26 10:02 ansible-centos-updates-master/tasks/
+-rw-rw-r-- root/root      2029 2018-11-26 10:02 ansible-centos-updates-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-26 10:02 ansible-centos-updates-master/templates/
+-rw-rw-r-- root/root      2619 2018-11-26 10:02 ansible-centos-updates-master/templates/yum-cron.conf.j2

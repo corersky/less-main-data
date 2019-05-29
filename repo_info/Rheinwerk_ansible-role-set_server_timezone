@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-29 05:39 ansible-role-set_server_timezone-master/
+-rw-rw-r-- root/root       695 2019-01-29 05:39 ansible-role-set_server_timezone-master/.travis.yml
+-rw-rw-r-- root/root     35141 2019-01-29 05:39 ansible-role-set_server_timezone-master/LICENSE
+-rw-rw-r-- root/root      1343 2019-01-29 05:39 ansible-role-set_server_timezone-master/README.md
+drwxrwxr-x root/root         0 2019-01-29 05:39 ansible-role-set_server_timezone-master/defaults/
+-rw-rw-r-- root/root       108 2019-01-29 05:39 ansible-role-set_server_timezone-master/defaults/main.yml
+-rw-rw-r-- root/root       568 2019-01-29 05:39 ansible-role-set_server_timezone-master/galaxy-yamllint.yaml
+drwxrwxr-x root/root         0 2019-01-29 05:39 ansible-role-set_server_timezone-master/meta/
+-rw-rw-r-- root/root       286 2019-01-29 05:39 ansible-role-set_server_timezone-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-29 05:39 ansible-role-set_server_timezone-master/tasks/
+-rw-rw-r-- root/root       398 2019-01-29 05:39 ansible-role-set_server_timezone-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-29 05:39 ansible-role-set_server_timezone-master/tests/
+-rw-rw-r-- root/root        29 2019-01-29 05:39 ansible-role-set_server_timezone-master/tests/ansible.cfg
+-rw-rw-r-- root/root        20 2019-01-29 05:39 ansible-role-set_server_timezone-master/tests/inventory
+-rwxrwxr-x root/root        63 2019-01-29 05:39 ansible-role-set_server_timezone-master/tests/run_tests.sh
+-rw-rw-r-- root/root       125 2019-01-29 05:39 ansible-role-set_server_timezone-master/tests/test.yml

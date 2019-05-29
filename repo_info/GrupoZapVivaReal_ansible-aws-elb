@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-15 13:43 ansible-aws-elb-master/
+-rw-rw-r-- root/root      4144 2017-02-15 13:43 ansible-aws-elb-master/README.md
+-rw-rw-r-- root/root       498 2017-02-15 13:43 ansible-aws-elb-master/circle.yml
+drwxrwxr-x root/root         0 2017-02-15 13:43 ansible-aws-elb-master/defaults/
+-rw-rw-r-- root/root       482 2017-02-15 13:43 ansible-aws-elb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-15 13:43 ansible-aws-elb-master/meta/
+-rw-rw-r-- root/root       359 2017-02-15 13:43 ansible-aws-elb-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-15 13:43 ansible-aws-elb-master/tasks/
+-rw-rw-r-- root/root      1743 2017-02-15 13:43 ansible-aws-elb-master/tasks/create.yaml
+-rw-rw-r-- root/root       156 2017-02-15 13:43 ansible-aws-elb-master/tasks/destroy.yaml
+-rw-rw-r-- root/root       432 2017-02-15 13:43 ansible-aws-elb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-15 13:43 ansible-aws-elb-master/tests/
+-rw-rw-r-- root/root         9 2017-02-15 13:43 ansible-aws-elb-master/tests/inventory
+-rw-rw-r-- root/root        73 2017-02-15 13:43 ansible-aws-elb-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-02-15 13:43 ansible-aws-elb-master/vars/
+-rw-rw-r-- root/root        28 2017-02-15 13:43 ansible-aws-elb-master/vars/main.yml

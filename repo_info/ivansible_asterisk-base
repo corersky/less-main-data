@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-09-25 03:48 asterisk-base-master/
+-rw-rw-r-- root/root        26 2018-09-25 03:48 asterisk-base-master/.gitignore
+-rw-rw-r-- root/root      3191 2018-09-25 03:48 asterisk-base-master/README.md
+drwxrwxr-x root/root         0 2018-09-25 03:48 asterisk-base-master/defaults/
+-rw-rw-r-- root/root       780 2018-09-25 03:48 asterisk-base-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-25 03:48 asterisk-base-master/handlers/
+-rw-rw-r-- root/root       359 2018-09-25 03:48 asterisk-base-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-25 03:48 asterisk-base-master/meta/
+-rw-rw-r-- root/root       495 2018-09-25 03:48 asterisk-base-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-25 03:48 asterisk-base-master/tasks/
+-rw-rw-r-- root/root        93 2018-09-25 03:48 asterisk-base-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-25 03:48 asterisk-base-master/tests/
+-rw-rw-r-- root/root        10 2018-09-25 03:48 asterisk-base-master/tests/inventory
+-rw-rw-r-- root/root        90 2018-09-25 03:48 asterisk-base-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-09-25 03:48 asterisk-base-master/vars/
+-rw-rw-r-- root/root        44 2018-09-25 03:48 asterisk-base-master/vars/main.yml

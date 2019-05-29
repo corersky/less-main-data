@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-12-13 07:59 ansible-geoserver-master/
+-rw-rw-r-- root/root       665 2016-12-13 07:59 ansible-geoserver-master/.travis.yml
+-rw-rw-r-- root/root       225 2016-12-13 07:59 ansible-geoserver-master/README.md
+drwxrwxr-x root/root         0 2016-12-13 07:59 ansible-geoserver-master/defaults/
+-rw-rw-r-- root/root        42 2016-12-13 07:59 ansible-geoserver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-13 07:59 ansible-geoserver-master/handlers/
+-rw-rw-r-- root/root        42 2016-12-13 07:59 ansible-geoserver-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-13 07:59 ansible-geoserver-master/meta/
+-rw-rw-r-- root/root       526 2016-12-13 07:59 ansible-geoserver-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-13 07:59 ansible-geoserver-master/tasks/
+-rw-rw-r-- root/root        39 2016-12-13 07:59 ansible-geoserver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-13 07:59 ansible-geoserver-master/tests/
+-rw-rw-r-- root/root         9 2016-12-13 07:59 ansible-geoserver-master/tests/inventory
+-rw-rw-r-- root/root       219 2016-12-13 07:59 ansible-geoserver-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-12-13 07:59 ansible-geoserver-master/vars/
+-rw-rw-r-- root/root        38 2016-12-13 07:59 ansible-geoserver-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-27 06:53 ansible-role-win-kibana-master/
+-rw-rw-r-- root/root       540 2017-01-27 06:53 ansible-role-win-kibana-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-01-27 06:53 ansible-role-win-kibana-master/LICENSE
+-rw-rw-r-- root/root      1447 2017-01-27 06:53 ansible-role-win-kibana-master/README.md
+drwxrwxr-x root/root         0 2017-01-27 06:53 ansible-role-win-kibana-master/defaults/
+-rw-rw-r-- root/root       226 2017-01-27 06:53 ansible-role-win-kibana-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-27 06:53 ansible-role-win-kibana-master/handlers/
+-rw-rw-r-- root/root        79 2017-01-27 06:53 ansible-role-win-kibana-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-27 06:53 ansible-role-win-kibana-master/meta/
+-rw-rw-r-- root/root      2578 2017-01-27 06:53 ansible-role-win-kibana-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-27 06:53 ansible-role-win-kibana-master/tasks/
+-rw-rw-r-- root/root       946 2017-01-27 06:53 ansible-role-win-kibana-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-27 06:53 ansible-role-win-kibana-master/templates/
+-rw-rw-r-- root/root      4439 2017-01-27 06:53 ansible-role-win-kibana-master/templates/kibana.yml.j2
+drwxrwxr-x root/root         0 2017-01-27 06:53 ansible-role-win-kibana-master/tests/
+-rw-rw-r-- root/root         9 2017-01-27 06:53 ansible-role-win-kibana-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-01-27 06:53 ansible-role-win-kibana-master/tests/test.yml

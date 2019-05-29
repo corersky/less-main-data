@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-02-28 05:07 ansible-role-chef_solo_runner-master/
+-rw-rw-r-- root/root         5 2017-02-28 05:07 ansible-role-chef_solo_runner-master/.gitignore
+-rw-rw-r-- root/root      1091 2017-02-28 05:07 ansible-role-chef_solo_runner-master/LICENSE
+-rw-rw-r-- root/root      1527 2017-02-28 05:07 ansible-role-chef_solo_runner-master/README.md
+drwxrwxr-x root/root         0 2017-02-28 05:07 ansible-role-chef_solo_runner-master/defaults/
+-rw-rw-r-- root/root       614 2017-02-28 05:07 ansible-role-chef_solo_runner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-28 05:07 ansible-role-chef_solo_runner-master/meta/
+-rw-rw-r-- root/root       409 2017-02-28 05:07 ansible-role-chef_solo_runner-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-28 05:07 ansible-role-chef_solo_runner-master/tasks/
+-rw-rw-r-- root/root       567 2017-02-28 05:07 ansible-role-chef_solo_runner-master/tasks/check_requirements.yml
+-rw-rw-r-- root/root       228 2017-02-28 05:07 ansible-role-chef_solo_runner-master/tasks/destroy_chef_solo_materials.yml
+-rw-rw-r-- root/root       157 2017-02-28 05:07 ansible-role-chef_solo_runner-master/tasks/main.yml
+-rw-rw-r-- root/root      2335 2017-02-28 05:07 ansible-role-chef_solo_runner-master/tasks/prepare_chef_solo_materials.yml
+-rw-rw-r-- root/root       757 2017-02-28 05:07 ansible-role-chef_solo_runner-master/tasks/run_chef_solo.yml
+drwxrwxr-x root/root         0 2017-02-28 05:07 ansible-role-chef_solo_runner-master/templates/
+-rw-rw-r-- root/root       384 2017-02-28 05:07 ansible-role-chef_solo_runner-master/templates/solo.rb.j2

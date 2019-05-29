@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-22 04:22 ansible-role-nrpe3-master/
+-rw-rw-r-- root/root      1328 2018-11-22 04:22 ansible-role-nrpe3-master/README.md
+drwxrwxr-x root/root         0 2018-11-22 04:22 ansible-role-nrpe3-master/defaults/
+-rw-rw-r-- root/root        47 2018-11-22 04:22 ansible-role-nrpe3-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-22 04:22 ansible-role-nrpe3-master/handlers/
+-rw-rw-r-- root/root        64 2018-11-22 04:22 ansible-role-nrpe3-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-22 04:22 ansible-role-nrpe3-master/meta/
+-rw-rw-r-- root/root       238 2018-11-22 04:22 ansible-role-nrpe3-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-22 04:22 ansible-role-nrpe3-master/tasks/
+-rw-rw-r-- root/root       321 2018-11-22 04:22 ansible-role-nrpe3-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-22 04:22 ansible-role-nrpe3-master/templates/
+-rw-rw-r-- root/root     12461 2018-11-22 04:22 ansible-role-nrpe3-master/templates/nrpe.cfg.j2

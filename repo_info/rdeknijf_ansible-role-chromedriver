@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-04-26 08:56 ansible-role-chromedriver-master/
+-rw-rw-r-- root/root        13 2018-04-26 08:56 ansible-role-chromedriver-master/.gitignore
+-rw-rw-r-- root/root       575 2018-04-26 08:56 ansible-role-chromedriver-master/.travis.yml
+-rw-rw-r-- root/root       700 2018-04-26 08:56 ansible-role-chromedriver-master/README.md
+drwxrwxr-x root/root         0 2018-04-26 08:56 ansible-role-chromedriver-master/defaults/
+-rw-rw-r-- root/root        34 2018-04-26 08:56 ansible-role-chromedriver-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-26 08:56 ansible-role-chromedriver-master/meta/
+-rw-rw-r-- root/root       349 2018-04-26 08:56 ansible-role-chromedriver-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-26 08:56 ansible-role-chromedriver-master/tasks/
+-rw-rw-r-- root/root      1290 2018-04-26 08:56 ansible-role-chromedriver-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-04-26 08:56 ansible-role-chromedriver-master/tests/
+-rw-rw-r-- root/root       433 2018-04-26 08:56 ansible-role-chromedriver-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-06-17 04:37 nginx-master/
+-rw-rw-r-- root/root       540 2018-06-17 04:37 nginx-master/README.md
+drwxrwxr-x root/root         0 2018-06-17 04:37 nginx-master/defaults/
+-rw-rw-r-- root/root       188 2018-06-17 04:37 nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-17 04:37 nginx-master/handlers/
+-rw-rw-r-- root/root       195 2018-06-17 04:37 nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-17 04:37 nginx-master/meta/
+-rw-rw-r-- root/root       229 2018-06-17 04:37 nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-17 04:37 nginx-master/tasks/
+-rw-rw-r-- root/root        31 2018-06-17 04:37 nginx-master/tasks/main.yml
+-rw-rw-r-- root/root       769 2018-06-17 04:37 nginx-master/tasks/nginx.yml

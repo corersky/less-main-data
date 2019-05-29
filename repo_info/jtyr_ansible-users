@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-27 08:24 ansible-users-master/
+-rw-rw-r-- root/root        48 2018-07-27 08:24 ansible-users-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-07-27 08:24 ansible-users-master/LICENSE
+-rw-rw-r-- root/root      6797 2018-07-27 08:24 ansible-users-master/README.md
+drwxrwxr-x root/root         0 2018-07-27 08:24 ansible-users-master/defaults/
+-rw-rw-r-- root/root       377 2018-07-27 08:24 ansible-users-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-07-27 08:24 ansible-users-master/filter_plugins/
+-rw-rw-r-- root/root      1021 2018-07-27 08:24 ansible-users-master/filter_plugins/custom_filters.py
+drwxrwxr-x root/root         0 2018-07-27 08:24 ansible-users-master/meta/
+-rw-rw-r-- root/root       340 2018-07-27 08:24 ansible-users-master/meta/main.yaml
+drwxrwxr-x root/root         0 2018-07-27 08:24 ansible-users-master/tasks/
+-rw-rw-r-- root/root       454 2018-07-27 08:24 ansible-users-master/tasks/add_dir.yaml
+-rw-rw-r-- root/root       516 2018-07-27 08:24 ansible-users-master/tasks/auth_keys.yaml
+-rw-rw-r-- root/root      7771 2018-07-27 08:24 ansible-users-master/tasks/main.yaml
+-rw-rw-r-- root/root       937 2018-07-27 08:24 ansible-users-master/tasks/priv_keys.yaml

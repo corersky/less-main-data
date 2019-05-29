@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2014-07-07 15:57 ansible-mysql_snapshot-master/
+-rw-rw-r-- root/root      2116 2014-07-07 15:57 ansible-mysql_snapshot-master/README.md
+drwxrwxr-x root/root         0 2014-07-07 15:57 ansible-mysql_snapshot-master/meta/
+-rw-rw-r-- root/root       363 2014-07-07 15:57 ansible-mysql_snapshot-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-07-07 15:57 ansible-mysql_snapshot-master/tasks/
+-rw-rw-r-- root/root       775 2014-07-07 15:57 ansible-mysql_snapshot-master/tasks/create.yml
+-rw-rw-r-- root/root       113 2014-07-07 15:57 ansible-mysql_snapshot-master/tasks/install.yml
+-rw-rw-r-- root/root       194 2014-07-07 15:57 ansible-mysql_snapshot-master/tasks/main.yml
+-rw-rw-r-- root/root       776 2014-07-07 15:57 ansible-mysql_snapshot-master/tasks/restore.yml

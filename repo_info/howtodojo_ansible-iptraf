@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 18:13 ansible-iptraf-master/
+-rw-rw-r-- root/root       812 2016-09-05 18:13 ansible-iptraf-master/.travis.yml
+-rw-rw-r-- root/root       476 2016-09-05 18:13 ansible-iptraf-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 18:13 ansible-iptraf-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 18:13 ansible-iptraf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:13 ansible-iptraf-master/meta/
+-rw-rw-r-- root/root       310 2016-09-05 18:13 ansible-iptraf-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:13 ansible-iptraf-master/tasks/
+-rw-rw-r-- root/root       385 2016-09-05 18:13 ansible-iptraf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:13 ansible-iptraf-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 18:13 ansible-iptraf-master/tests/inventory
+-rw-rw-r-- root/root        72 2016-09-05 18:13 ansible-iptraf-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 18:13 ansible-iptraf-master/vars/
+-rw-rw-r-- root/root        63 2016-09-05 18:13 ansible-iptraf-master/vars/main.yml

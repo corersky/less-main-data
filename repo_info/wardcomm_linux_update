@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-01 09:28 linux_update-master/
+-rw-rw-r-- root/root      1810 2019-05-01 09:28 linux_update-master/.travis.yml
+-rw-rw-r-- root/root      1328 2019-05-01 09:28 linux_update-master/README.md
+drwxrwxr-x root/root         0 2019-05-01 09:28 linux_update-master/defaults/
+-rw-rw-r-- root/root        36 2019-05-01 09:28 linux_update-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-01 09:28 linux_update-master/handlers/
+-rw-rw-r-- root/root        36 2019-05-01 09:28 linux_update-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-01 09:28 linux_update-master/meta/
+-rw-rw-r-- root/root       325 2019-05-01 09:28 linux_update-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-01 09:28 linux_update-master/tasks/
+-rw-rw-r-- root/root      1361 2019-05-01 09:28 linux_update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-01 09:28 linux_update-master/tests/
+-rw-rw-r-- root/root        11 2019-05-01 09:28 linux_update-master/tests/inventory
+-rw-rw-r-- root/root       193 2019-05-01 09:28 linux_update-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-01 09:28 linux_update-master/vars/
+-rw-rw-r-- root/root        32 2019-05-01 09:28 linux_update-master/vars/main.yml

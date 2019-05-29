@@ -1,0 +1,22 @@
+drwxrwxr-x root/root         0 2019-02-25 04:41 ansible.remote-desktop-master/
+-rw-rw-r-- root/root       356 2019-02-25 04:41 ansible.remote-desktop-master/.gitlab-ci.yml
+-rw-rw-r-- root/root       850 2019-02-25 04:41 ansible.remote-desktop-master/.travis.yml
+-rw-rw-r-- root/root      1059 2019-02-25 04:41 ansible.remote-desktop-master/LICENSE
+-rw-rw-r-- root/root      2217 2019-02-25 04:41 ansible.remote-desktop-master/README.md
+drwxrwxr-x root/root         0 2019-02-25 04:41 ansible.remote-desktop-master/defaults/
+-rw-rw-r-- root/root       293 2019-02-25 04:41 ansible.remote-desktop-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-25 04:41 ansible.remote-desktop-master/handlers/
+-rw-rw-r-- root/root        51 2019-02-25 04:41 ansible.remote-desktop-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-25 04:41 ansible.remote-desktop-master/meta/
+-rw-rw-r-- root/root       352 2019-02-25 04:41 ansible.remote-desktop-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-25 04:41 ansible.remote-desktop-master/tasks/
+drwxrwxr-x root/root         0 2019-02-25 04:41 ansible.remote-desktop-master/tasks/distribution/
+-rw-rw-r-- root/root      3800 2019-02-25 04:41 ansible.remote-desktop-master/tasks/distribution/Microsoft Windows 10 Pro.yml
+-rw-rw-r-- root/root        48 2019-02-25 04:41 ansible.remote-desktop-master/tasks/distribution/Microsoft Windows Server 2016 Standard.yml
+-rw-rw-r-- root/root       128 2019-02-25 04:41 ansible.remote-desktop-master/tasks/distribution/defaults.yml
+-rw-rw-r-- root/root      1118 2019-02-25 04:41 ansible.remote-desktop-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-25 04:41 ansible.remote-desktop-master/vars/
+-rw-rw-r-- root/root        47 2019-02-25 04:41 ansible.remote-desktop-master/vars/CentOS.yml
+-rw-rw-r-- root/root        47 2019-02-25 04:41 ansible.remote-desktop-master/vars/Debian.yml
+-rw-rw-r-- root/root        47 2019-02-25 04:41 ansible.remote-desktop-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        47 2019-02-25 04:41 ansible.remote-desktop-master/vars/defaults.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-08-29 13:20 ansible-add-user-master/
+-rw-rw-r-- root/root      1204 2017-08-29 13:20 ansible-add-user-master/.travis.yml
+-rw-rw-r-- root/root      1945 2017-08-29 13:20 ansible-add-user-master/LICENSE.txt
+-rw-rw-r-- root/root       874 2017-08-29 13:20 ansible-add-user-master/README.md
+drwxrwxr-x root/root         0 2017-08-29 13:20 ansible-add-user-master/defaults/
+-rw-rw-r-- root/root       759 2017-08-29 13:20 ansible-add-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-29 13:20 ansible-add-user-master/meta/
+-rw-rw-r-- root/root       310 2017-08-29 13:20 ansible-add-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-29 13:20 ansible-add-user-master/tasks/
+-rw-rw-r-- root/root      4371 2017-08-29 13:20 ansible-add-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-29 13:20 ansible-add-user-master/tests/
+-rw-rw-r-- root/root        10 2017-08-29 13:20 ansible-add-user-master/tests/inventory
+-rw-rw-r-- root/root       568 2017-08-29 13:20 ansible-add-user-master/tests/test.yml

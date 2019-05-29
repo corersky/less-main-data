@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-04-26 12:36 ansible-role-php-master/
+-rw-rw-r-- root/root       468 2016-04-26 12:36 ansible-role-php-master/.travis.yml
+-rw-rw-r-- root/root       687 2016-04-26 12:36 ansible-role-php-master/README.md
+drwxrwxr-x root/root         0 2016-04-26 12:36 ansible-role-php-master/defaults/
+-rw-rw-r-- root/root        16 2016-04-26 12:36 ansible-role-php-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-26 12:36 ansible-role-php-master/meta/
+-rw-rw-r-- root/root       387 2016-04-26 12:36 ansible-role-php-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-26 12:36 ansible-role-php-master/tasks/
+-rw-rw-r-- root/root       379 2016-04-26 12:36 ansible-role-php-master/tasks/main.yml
+-rw-rw-r-- root/root      2853 2016-04-26 12:36 ansible-role-php-master/tasks/php55.yml
+-rw-rw-r-- root/root      3035 2016-04-26 12:36 ansible-role-php-master/tasks/php70.yml
+drwxrwxr-x root/root         0 2016-04-26 12:36 ansible-role-php-master/tests/
+-rw-rw-r-- root/root        10 2016-04-26 12:36 ansible-role-php-master/tests/inventory
+-rw-rw-r-- root/root       109 2016-04-26 12:36 ansible-role-php-master/tests/requirements.yml
+-rw-rw-r-- root/root        76 2016-04-26 12:36 ansible-role-php-master/tests/travis.yml
+-rw-rw-r-- root/root        85 2016-04-26 12:36 ansible-role-php-master/travis.yml

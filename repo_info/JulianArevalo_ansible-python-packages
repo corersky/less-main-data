@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-01-18 14:29 ansible-python-packages-master/
+-rw-rw-r-- root/root        42 2018-01-18 14:29 ansible-python-packages-master/.gitignore
+-rw-rw-r-- root/root      1057 2018-01-18 14:29 ansible-python-packages-master/LICENSE
+-rw-rw-r-- root/root        66 2018-01-18 14:29 ansible-python-packages-master/README.md
+drwxrwxr-x root/root         0 2018-01-18 14:29 ansible-python-packages-master/meta/
+-rw-rw-r-- root/root       563 2018-01-18 14:29 ansible-python-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-18 14:29 ansible-python-packages-master/tasks/
+-rw-rw-r-- root/root      1149 2018-01-18 14:29 ansible-python-packages-master/tasks/main.yml
+-rw-rw-r-- root/root       857 2018-01-18 14:29 ansible-python-packages-master/tasks/pip-install.yml
+drwxrwxr-x root/root         0 2018-01-18 14:29 ansible-python-packages-master/tests/
+-rw-rw-r-- root/root       211 2018-01-18 14:29 ansible-python-packages-master/tests/test.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-01 06:58 ansible-role-aliases-master/
+-rw-rw-r-- root/root        11 2019-03-01 06:58 ansible-role-aliases-master/.gitignore
+-rw-rw-r-- root/root     35120 2019-03-01 06:58 ansible-role-aliases-master/LICENSE
+-rw-rw-r-- root/root       476 2019-03-01 06:58 ansible-role-aliases-master/README.md
+drwxrwxr-x root/root         0 2019-03-01 06:58 ansible-role-aliases-master/defaults/
+-rw-rw-r-- root/root        55 2019-03-01 06:58 ansible-role-aliases-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-01 06:58 ansible-role-aliases-master/handlers/
+-rw-rw-r-- root/root        75 2019-03-01 06:58 ansible-role-aliases-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-01 06:58 ansible-role-aliases-master/meta/
+-rw-rw-r-- root/root       323 2019-03-01 06:58 ansible-role-aliases-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-01 06:58 ansible-role-aliases-master/tasks/
+-rw-rw-r-- root/root       163 2019-03-01 06:58 ansible-role-aliases-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-01 06:58 ansible-role-aliases-master/templates/
+-rw-rw-r-- root/root        78 2019-03-01 06:58 ansible-role-aliases-master/templates/aliases.j2
+drwxrwxr-x root/root         0 2019-03-01 06:58 ansible-role-aliases-master/tests/
+-rw-rw-r-- root/root        10 2019-03-01 06:58 ansible-role-aliases-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-03-01 06:58 ansible-role-aliases-master/tests/test.yml

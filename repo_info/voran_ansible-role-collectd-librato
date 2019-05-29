@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-01-08 08:07 ansible-role-collectd-librato-master/
+-rw-rw-r-- root/root     11358 2016-01-08 08:07 ansible-role-collectd-librato-master/LICENSE
+-rw-rw-r-- root/root       961 2016-01-08 08:07 ansible-role-collectd-librato-master/README.md
+drwxrwxr-x root/root         0 2016-01-08 08:07 ansible-role-collectd-librato-master/defaults/
+-rw-rw-r-- root/root       542 2016-01-08 08:07 ansible-role-collectd-librato-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-08 08:07 ansible-role-collectd-librato-master/meta/
+-rw-rw-r-- root/root      2124 2016-01-08 08:07 ansible-role-collectd-librato-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-08 08:07 ansible-role-collectd-librato-master/tasks/
+-rw-rw-r-- root/root       383 2016-01-08 08:07 ansible-role-collectd-librato-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-08 08:07 ansible-role-collectd-librato-master/templates/
+-rw-rw-r-- root/root      1321 2016-01-08 08:07 ansible-role-collectd-librato-master/templates/collectd.conf.j2
+drwxrwxr-x root/root         0 2016-01-08 08:07 ansible-role-collectd-librato-master/vars/
+-rw-rw-r-- root/root        37 2016-01-08 08:07 ansible-role-collectd-librato-master/vars/main.yml

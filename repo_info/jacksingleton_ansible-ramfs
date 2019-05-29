@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-02-29 00:47 ansible-ramfs-master/
+-rw-rw-r-- root/root        15 2016-02-29 00:47 ansible-ramfs-master/.gitignore
+-rw-rw-r-- root/root       509 2016-02-29 00:47 ansible-ramfs-master/README.md
+-rw-rw-r-- root/root       604 2016-02-29 00:47 ansible-ramfs-master/Vagrantfile
+-rw-rw-r-- root/root        62 2016-02-29 00:47 ansible-ramfs-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-02-29 00:47 ansible-ramfs-master/defaults/
+-rw-rw-r-- root/root        23 2016-02-29 00:47 ansible-ramfs-master/defaults/main.yml
+-rw-rw-r-- root/root        13 2016-02-29 00:47 ansible-ramfs-master/inventory.ini
+drwxrwxr-x root/root         0 2016-02-29 00:47 ansible-ramfs-master/meta/
+-rw-rw-r-- root/root       199 2016-02-29 00:47 ansible-ramfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-29 00:47 ansible-ramfs-master/tasks/
+-rw-rw-r-- root/root       236 2016-02-29 00:47 ansible-ramfs-master/tasks/main.yml
+-rw-rw-r-- root/root        92 2016-02-29 00:47 ansible-ramfs-master/test.yml

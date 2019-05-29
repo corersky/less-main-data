@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-04-05 20:07 ansible-docker-osx-uninstall-master/
+-rw-rw-r-- root/root        16 2017-04-05 20:07 ansible-docker-osx-uninstall-master/.gitignore
+-rw-rw-r-- root/root       539 2017-04-05 20:07 ansible-docker-osx-uninstall-master/.travis.yml
+-rw-rw-r-- root/root      1057 2017-04-05 20:07 ansible-docker-osx-uninstall-master/LICENSE
+-rw-rw-r-- root/root       531 2017-04-05 20:07 ansible-docker-osx-uninstall-master/README.md
+drwxrwxr-x root/root         0 2017-04-05 20:07 ansible-docker-osx-uninstall-master/defaults/
+-rw-rw-r-- root/root        93 2017-04-05 20:07 ansible-docker-osx-uninstall-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-05 20:07 ansible-docker-osx-uninstall-master/meta/
+-rw-rw-r-- root/root      3986 2017-04-05 20:07 ansible-docker-osx-uninstall-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-05 20:07 ansible-docker-osx-uninstall-master/tasks/
+-rw-rw-r-- root/root       885 2017-04-05 20:07 ansible-docker-osx-uninstall-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-05 20:07 ansible-docker-osx-uninstall-master/tests/
+-rw-rw-r-- root/root         9 2017-04-05 20:07 ansible-docker-osx-uninstall-master/tests/inventory
+-rw-rw-r-- root/root        42 2017-04-05 20:07 ansible-docker-osx-uninstall-master/tests/test.yml

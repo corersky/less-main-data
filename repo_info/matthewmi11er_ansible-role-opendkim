@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-12-17 15:04 ansible-role-opendkim-master/
+-rw-rw-r-- root/root      1055 2014-12-17 15:04 ansible-role-opendkim-master/LICENSE.md
+-rw-rw-r-- root/root       992 2014-12-17 15:04 ansible-role-opendkim-master/README.md
+drwxrwxr-x root/root         0 2014-12-17 15:04 ansible-role-opendkim-master/defaults/
+-rw-rw-r-- root/root      1214 2014-12-17 15:04 ansible-role-opendkim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-12-17 15:04 ansible-role-opendkim-master/handlers/
+-rw-rw-r-- root/root       203 2014-12-17 15:04 ansible-role-opendkim-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-12-17 15:04 ansible-role-opendkim-master/meta/
+-rw-rw-r-- root/root       315 2014-12-17 15:04 ansible-role-opendkim-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-17 15:04 ansible-role-opendkim-master/tasks/
+-rw-rw-r-- root/root      4345 2014-12-17 15:04 ansible-role-opendkim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-17 15:04 ansible-role-opendkim-master/templates/
+-rw-rw-r-- root/root       202 2014-12-17 15:04 ansible-role-opendkim-master/templates/KeyTable
+-rw-rw-r-- root/root       115 2014-12-17 15:04 ansible-role-opendkim-master/templates/SigningTable
+-rw-rw-r-- root/root        20 2014-12-17 15:04 ansible-role-opendkim-master/templates/TrustedHosts
+-rw-rw-r-- root/root      1012 2014-12-17 15:04 ansible-role-opendkim-master/templates/etc_opendkim.conf

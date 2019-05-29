@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2015-05-07 12:36 ansible-accumulo-master/
+-rw-rw-r-- root/root        75 2015-05-07 12:36 ansible-accumulo-master/.gitignore
+-rw-rw-r-- root/root       109 2015-05-07 12:36 ansible-accumulo-master/CHANGELOG.md
+-rw-rw-r-- root/root     11358 2015-05-07 12:36 ansible-accumulo-master/LICENSE
+-rw-rw-r-- root/root       599 2015-05-07 12:36 ansible-accumulo-master/README.md
+drwxrwxr-x root/root         0 2015-05-07 12:36 ansible-accumulo-master/defaults/
+-rw-rw-r-- root/root       190 2015-05-07 12:36 ansible-accumulo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-07 12:36 ansible-accumulo-master/examples/
+-rw-rw-r-- root/root       773 2015-05-07 12:36 ansible-accumulo-master/examples/Vagrantfile
+-rw-rw-r-- root/root        47 2015-05-07 12:36 ansible-accumulo-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-05-07 12:36 ansible-accumulo-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-05-07 12:36 ansible-accumulo-master/examples/roles/azavea.accumulo -> ../../
+-rw-rw-r-- root/root       168 2015-05-07 12:36 ansible-accumulo-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-05-07 12:36 ansible-accumulo-master/handlers/
+-rw-rw-r-- root/root       549 2015-05-07 12:36 ansible-accumulo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-05-07 12:36 ansible-accumulo-master/meta/
+-rw-rw-r-- root/root       328 2015-05-07 12:36 ansible-accumulo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-07 12:36 ansible-accumulo-master/tasks/
+-rw-rw-r-- root/root      1260 2015-05-07 12:36 ansible-accumulo-master/tasks/accumulo-1-5.yml
+-rw-rw-r-- root/root       560 2015-05-07 12:36 ansible-accumulo-master/tasks/accumulo-1-6.yml
+-rw-rw-r-- root/root       813 2015-05-07 12:36 ansible-accumulo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-07 12:36 ansible-accumulo-master/templates/
+-rw-rw-r-- root/root       203 2015-05-07 12:36 ansible-accumulo-master/templates/accumulo-gc.conf.j2
+-rw-rw-r-- root/root       219 2015-05-07 12:36 ansible-accumulo-master/templates/accumulo-master.conf.j2
+-rw-rw-r-- root/root       241 2015-05-07 12:36 ansible-accumulo-master/templates/accumulo-monitor.conf.j2
+-rw-rw-r-- root/root       219 2015-05-07 12:36 ansible-accumulo-master/templates/accumulo-tracer.conf.j2
+-rw-rw-r-- root/root       229 2015-05-07 12:36 ansible-accumulo-master/templates/accumulo-tserver.conf.j2

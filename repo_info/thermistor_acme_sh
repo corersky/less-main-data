@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-14 17:18 acme_sh-master/
+-rw-rw-r-- root/root       161 2019-02-14 17:18 acme_sh-master/.pre-commit-config.yaml
+-rw-rw-r-- root/root       539 2019-02-14 17:18 acme_sh-master/.travis.yml
+-rw-rw-r-- root/root      1324 2019-02-14 17:18 acme_sh-master/README.md
+drwxrwxr-x root/root         0 2019-02-14 17:18 acme_sh-master/defaults/
+-rw-rw-r-- root/root       691 2019-02-14 17:18 acme_sh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-14 17:18 acme_sh-master/meta/
+-rw-rw-r-- root/root       282 2019-02-14 17:18 acme_sh-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-14 17:18 acme_sh-master/tasks/
+-rw-rw-r-- root/root      1256 2019-02-14 17:18 acme_sh-master/tasks/install.yml
+-rw-rw-r-- root/root       110 2019-02-14 17:18 acme_sh-master/tasks/main.yml
+-rw-rw-r-- root/root      1533 2019-02-14 17:18 acme_sh-master/tasks/manage.yml
+drwxrwxr-x root/root         0 2019-02-14 17:18 acme_sh-master/templates/
+-rw-rw-r-- root/root       243 2019-02-14 17:18 acme_sh-master/templates/letsencrypt_restart_nginx.j2
+drwxrwxr-x root/root         0 2019-02-14 17:18 acme_sh-master/tests/
+-rw-rw-r-- root/root        11 2019-02-14 17:18 acme_sh-master/tests/inventory
+-rw-rw-r-- root/root        73 2019-02-14 17:18 acme_sh-master/tests/test.yml

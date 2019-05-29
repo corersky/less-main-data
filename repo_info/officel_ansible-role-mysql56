@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-06 22:10 ansible-role-mysql56-master/
+-rw-rw-r-- root/root      1900 2016-11-06 22:10 ansible-role-mysql56-master/.travis.yml
+-rw-rw-r-- root/root        66 2016-11-06 22:10 ansible-role-mysql56-master/Gemfile
+-rw-rw-r-- root/root       809 2016-11-06 22:10 ansible-role-mysql56-master/README.md
+drwxrwxr-x root/root         0 2016-11-06 22:10 ansible-role-mysql56-master/meta/
+-rw-rw-r-- root/root       280 2016-11-06 22:10 ansible-role-mysql56-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-06 22:10 ansible-role-mysql56-master/spec/
+-rw-rw-r-- root/root       431 2016-11-06 22:10 ansible-role-mysql56-master/spec/container_spec.rb
+-rw-rw-r-- root/root       131 2016-11-06 22:10 ansible-role-mysql56-master/spec/spec_helper.rb
+drwxrwxr-x root/root         0 2016-11-06 22:10 ansible-role-mysql56-master/tasks/
+-rw-rw-r-- root/root      1313 2016-11-06 22:10 ansible-role-mysql56-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-06 22:10 ansible-role-mysql56-master/tests/
+-rw-rw-r-- root/root       380 2016-11-06 22:10 ansible-role-mysql56-master/tests/Dockerfile.centos-6
+-rw-rw-r-- root/root      1157 2016-11-06 22:10 ansible-role-mysql56-master/tests/Dockerfile.centos-7
+-rw-rw-r-- root/root         9 2016-11-06 22:10 ansible-role-mysql56-master/tests/inventory
+-rw-rw-r-- root/root        29 2016-11-06 22:10 ansible-role-mysql56-master/tests/requirements.yml
+-rw-rw-r-- root/root        81 2016-11-06 22:10 ansible-role-mysql56-master/tests/test.yml

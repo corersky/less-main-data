@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-08-16 07:03 ansible-sudoersd-master/
+-rw-rw-r-- root/root      2189 2018-08-16 07:03 ansible-sudoersd-master/README.md
+drwxrwxr-x root/root         0 2018-08-16 07:03 ansible-sudoersd-master/defaults/
+-rw-rw-r-- root/root       101 2018-08-16 07:03 ansible-sudoersd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-16 07:03 ansible-sudoersd-master/meta/
+-rw-rw-r-- root/root       372 2018-08-16 07:03 ansible-sudoersd-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-16 07:03 ansible-sudoersd-master/tasks/
+-rw-rw-r-- root/root       726 2018-08-16 07:03 ansible-sudoersd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-16 07:03 ansible-sudoersd-master/templates/
+-rw-rw-r-- root/root       561 2018-08-16 07:03 ansible-sudoersd-master/templates/sudoers.d.j2

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-05-10 16:38 ansible-sshknownhosts-role-master/
+-rw-rw-r-- root/root         3 2016-05-10 16:38 ansible-sshknownhosts-role-master/.gitignore
+-rw-rw-r-- root/root      1332 2016-05-10 16:38 ansible-sshknownhosts-role-master/LICENSE
+-rw-rw-r-- root/root      2290 2016-05-10 16:38 ansible-sshknownhosts-role-master/README.md
+drwxrwxr-x root/root         0 2016-05-10 16:38 ansible-sshknownhosts-role-master/defaults/
+-rw-rw-r-- root/root       449 2016-05-10 16:38 ansible-sshknownhosts-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-10 16:38 ansible-sshknownhosts-role-master/library/
+-rwxrwxr-x root/root      7731 2016-05-10 16:38 ansible-sshknownhosts-role-master/library/sshknownhosts
+drwxrwxr-x root/root         0 2016-05-10 16:38 ansible-sshknownhosts-role-master/meta/
+-rw-rw-r-- root/root       395 2016-05-10 16:38 ansible-sshknownhosts-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-10 16:38 ansible-sshknownhosts-role-master/tasks/
+-rw-rw-r-- root/root       529 2016-05-10 16:38 ansible-sshknownhosts-role-master/tasks/main.yml

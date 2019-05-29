@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-19 05:39 ansible-role-pyenv-master/
+-rw-rw-r-- root/root       871 2018-08-19 05:39 ansible-role-pyenv-master/README.md
+drwxrwxr-x root/root         0 2018-08-19 05:39 ansible-role-pyenv-master/defaults/
+-rw-rw-r-- root/root       254 2018-08-19 05:39 ansible-role-pyenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-19 05:39 ansible-role-pyenv-master/files/
+-rw-rw-r-- root/root         4 2018-08-19 05:39 ansible-role-pyenv-master/files/requirements-example.txt
+drwxrwxr-x root/root         0 2018-08-19 05:39 ansible-role-pyenv-master/handlers/
+-rw-rw-r-- root/root        42 2018-08-19 05:39 ansible-role-pyenv-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-19 05:39 ansible-role-pyenv-master/meta/
+-rw-rw-r-- root/root       465 2018-08-19 05:39 ansible-role-pyenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-19 05:39 ansible-role-pyenv-master/tasks/
+-rw-rw-r-- root/root      2387 2018-08-19 05:39 ansible-role-pyenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-19 05:39 ansible-role-pyenv-master/tests/
+-rwxrwxr-x root/root       586 2018-08-19 05:39 ansible-role-pyenv-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-19 05:39 ansible-role-pyenv-master/vars/
+-rw-rw-r-- root/root        38 2018-08-19 05:39 ansible-role-pyenv-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-05 03:24 xcp_ng_hp_agents-master/
+-rw-rw-r-- root/root        28 2019-05-05 03:24 xcp_ng_hp_agents-master/.gitignore
+-rw-rw-r-- root/root     11357 2019-05-05 03:24 xcp_ng_hp_agents-master/LICENSE
+-rw-rw-r-- root/root       790 2019-05-05 03:24 xcp_ng_hp_agents-master/README.md
+drwxrwxr-x root/root         0 2019-05-05 03:24 xcp_ng_hp_agents-master/defaults/
+-rw-rw-r-- root/root       829 2019-05-05 03:24 xcp_ng_hp_agents-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-05 03:24 xcp_ng_hp_agents-master/meta/
+-rw-rw-r-- root/root       544 2019-05-05 03:24 xcp_ng_hp_agents-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-05 03:24 xcp_ng_hp_agents-master/tasks/
+-rw-rw-r-- root/root       735 2019-05-05 03:24 xcp_ng_hp_agents-master/tasks/install_hp_tools.yml
+-rw-rw-r-- root/root       753 2019-05-05 03:24 xcp_ng_hp_agents-master/tasks/install_xsagentpack.yml
+-rw-rw-r-- root/root       697 2019-05-05 03:24 xcp_ng_hp_agents-master/tasks/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-13 21:44 rkt-role-master/
+-rw-rw-r-- root/root      1226 2016-12-13 21:44 rkt-role-master/.travis.yml
+drwxrwxr-x root/root         0 2016-12-13 21:44 rkt-role-master/defaults/
+-rw-rw-r-- root/root       115 2016-12-13 21:44 rkt-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-13 21:44 rkt-role-master/library/
+-rw-rw-r-- root/root      5826 2016-12-13 21:44 rkt-role-master/library/github_release.py
+drwxrwxr-x root/root         0 2016-12-13 21:44 rkt-role-master/meta/
+-rw-rw-r-- root/root      1408 2016-12-13 21:44 rkt-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-13 21:44 rkt-role-master/tasks/
+-rw-rw-r-- root/root      1000 2016-12-13 21:44 rkt-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-13 21:44 rkt-role-master/vars/
+-rw-rw-r-- root/root        22 2016-12-13 21:44 rkt-role-master/vars/main.yml

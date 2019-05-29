@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-11-14 15:13 ansible-docker-logspout-master/
+-rw-rw-r-- root/root       944 2017-11-14 15:13 ansible-docker-logspout-master/README.md
+drwxrwxr-x root/root         0 2017-11-14 15:13 ansible-docker-logspout-master/defaults/
+-rw-rw-r-- root/root        47 2017-11-14 15:13 ansible-docker-logspout-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:13 ansible-docker-logspout-master/handlers/
+-rw-rw-r-- root/root        47 2017-11-14 15:13 ansible-docker-logspout-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:13 ansible-docker-logspout-master/meta/
+-rw-rw-r-- root/root       307 2017-11-14 15:13 ansible-docker-logspout-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:13 ansible-docker-logspout-master/tasks/
+-rw-rw-r-- root/root       340 2017-11-14 15:13 ansible-docker-logspout-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-14 15:13 ansible-docker-logspout-master/tests/
+-rw-rw-r-- root/root        11 2017-11-14 15:13 ansible-docker-logspout-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-11-14 15:13 ansible-docker-logspout-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-11-14 15:13 ansible-docker-logspout-master/vars/
+-rw-rw-r-- root/root        43 2017-11-14 15:13 ansible-docker-logspout-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-10-07 20:12 ansible-dotfiles-vim-master/
+-rw-rw-r-- root/root       539 2016-10-07 20:12 ansible-dotfiles-vim-master/.travis.yml
+-rw-rw-r-- root/root       601 2016-10-07 20:12 ansible-dotfiles-vim-master/README.md
+drwxrwxr-x root/root         0 2016-10-07 20:12 ansible-dotfiles-vim-master/defaults/
+-rw-rw-r-- root/root        69 2016-10-07 20:12 ansible-dotfiles-vim-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-07 20:12 ansible-dotfiles-vim-master/meta/
+-rw-rw-r-- root/root       311 2016-10-07 20:12 ansible-dotfiles-vim-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-07 20:12 ansible-dotfiles-vim-master/tasks/
+-rw-rw-r-- root/root       456 2016-10-07 20:12 ansible-dotfiles-vim-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-07 20:12 ansible-dotfiles-vim-master/tests/
+-rw-rw-r-- root/root         9 2016-10-07 20:12 ansible-dotfiles-vim-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-10-07 20:12 ansible-dotfiles-vim-master/tests/test.yml

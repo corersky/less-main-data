@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-12-21 01:35 ansible-role-fish-master/
+-rw-rw-r-- root/root       851 2018-12-21 01:35 ansible-role-fish-master/.travis.yml
+-rw-rw-r-- root/root       559 2018-12-21 01:35 ansible-role-fish-master/README.md
+drwxrwxr-x root/root         0 2018-12-21 01:35 ansible-role-fish-master/meta/
+-rw-rw-r-- root/root       454 2018-12-21 01:35 ansible-role-fish-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-21 01:35 ansible-role-fish-master/molecule/
+drwxrwxr-x root/root         0 2018-12-21 01:35 ansible-role-fish-master/molecule/default/
+-rw-rw-r-- root/root       617 2018-12-21 01:35 ansible-role-fish-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       299 2018-12-21 01:35 ansible-role-fish-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root       129 2018-12-21 01:35 ansible-role-fish-master/molecule/default/yaml-lint.yml
+drwxrwxr-x root/root         0 2018-12-21 01:35 ansible-role-fish-master/tasks/
+-rw-rw-r-- root/root      1006 2018-12-21 01:35 ansible-role-fish-master/tasks/install-Debian.yml
+-rw-rw-r-- root/root       609 2018-12-21 01:35 ansible-role-fish-master/tasks/install-RedHat.yml
+-rw-rw-r-- root/root       471 2018-12-21 01:35 ansible-role-fish-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-21 01:35 ansible-role-fish-master/vars/
+-rw-rw-r-- root/root       829 2018-12-21 01:35 ansible-role-fish-master/vars/RedHat.yml
+-rw-rw-r-- root/root         0 2018-12-21 01:35 ansible-role-fish-master/vars/main.yml

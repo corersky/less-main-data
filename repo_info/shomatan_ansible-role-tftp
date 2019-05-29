@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-09-25 03:45 ansible-role-tftp-master/
+-rw-rw-r-- root/root       464 2017-09-25 03:45 ansible-role-tftp-master/README.md
+drwxrwxr-x root/root         0 2017-09-25 03:45 ansible-role-tftp-master/meta/
+-rw-rw-r-- root/root       251 2017-09-25 03:45 ansible-role-tftp-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-25 03:45 ansible-role-tftp-master/tasks/
+-rw-rw-r-- root/root       220 2017-09-25 03:45 ansible-role-tftp-master/tasks/main.yml
+-rw-rw-r-- root/root       214 2017-09-25 03:45 ansible-role-tftp-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       406 2017-09-25 03:45 ansible-role-tftp-master/tasks/setup-RedHat.yml
+-rw-rw-r-- root/root       226 2017-09-25 03:45 ansible-role-tftp-master/tasks/setup-Ubuntu.yml
+drwxrwxr-x root/root         0 2017-09-25 03:45 ansible-role-tftp-master/templates/
+-rw-rw-r-- root/root       278 2017-09-25 03:45 ansible-role-tftp-master/templates/tftp.xinetd.j2

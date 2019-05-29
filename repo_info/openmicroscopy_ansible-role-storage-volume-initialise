@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/
+-rw-rw-r-- root/root         4 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/.gitignore
+-rw-rw-r-- root/root       540 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/.travis.yml
+-rw-rw-r-- root/root       439 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/README.md
+drwxrwxr-x root/root         0 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/meta/
+-rw-rw-r-- root/root       280 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/tasks/
+-rw-rw-r-- root/root       471 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/tests/
+-rw-rw-r-- root/root        10 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/tests/inventory
+-rw-rw-r-- root/root        95 2017-01-12 08:13 ansible-role-storage-volume-initialise-master/tests/test.yml

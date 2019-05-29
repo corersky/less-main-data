@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-06-22 15:15 ansible-role-epel-repo-master/
+-rw-rw-r-- root/root        50 2016-06-22 15:15 ansible-role-epel-repo-master/.gitignore
+-rw-rw-r-- root/root       539 2016-06-22 15:15 ansible-role-epel-repo-master/.travis.yml
+-rw-rw-r-- root/root      1438 2016-06-22 15:15 ansible-role-epel-repo-master/README.md
+drwxrwxr-x root/root         0 2016-06-22 15:15 ansible-role-epel-repo-master/defaults/
+-rw-rw-r-- root/root       149 2016-06-22 15:15 ansible-role-epel-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-22 15:15 ansible-role-epel-repo-master/meta/
+-rw-rw-r-- root/root       325 2016-06-22 15:15 ansible-role-epel-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-22 15:15 ansible-role-epel-repo-master/tasks/
+-rw-rw-r-- root/root       404 2016-06-22 15:15 ansible-role-epel-repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-22 15:15 ansible-role-epel-repo-master/tests/
+-rw-rw-r-- root/root         9 2016-06-22 15:15 ansible-role-epel-repo-master/tests/inventory
+drwxrwxr-x root/root         0 2016-06-22 15:15 ansible-role-epel-repo-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-06-22 15:15 ansible-role-epel-repo-master/tests/roles/epel-repo -> ../..
+-rw-rw-r-- root/root        67 2016-06-22 15:15 ansible-role-epel-repo-master/tests/test.yml

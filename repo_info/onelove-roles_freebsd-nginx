@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-25 16:57 freebsd-nginx-master/
+-rw-rw-r-- root/root      1313 2018-12-25 16:57 freebsd-nginx-master/LICENSE
+-rw-rw-r-- root/root        15 2018-12-25 16:57 freebsd-nginx-master/README.md
+drwxrwxr-x root/root         0 2018-12-25 16:57 freebsd-nginx-master/handlers/
+-rw-rw-r-- root/root        74 2018-12-25 16:57 freebsd-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-25 16:57 freebsd-nginx-master/meta/
+-rw-rw-r-- root/root       301 2018-12-25 16:57 freebsd-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-25 16:57 freebsd-nginx-master/tasks/
+-rw-rw-r-- root/root       774 2018-12-25 16:57 freebsd-nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-25 16:57 freebsd-nginx-master/templates/
+-rw-rw-r-- root/root      2032 2018-12-25 16:57 freebsd-nginx-master/templates/nginx.conf.j2
+-rw-rw-r-- root/root        19 2018-12-25 16:57 freebsd-nginx-master/templates/nginx.j2
+-rw-rw-r-- root/root       714 2018-12-25 16:57 freebsd-nginx-master/templates/ssl_params.j2
+drwxrwxr-x root/root         0 2018-12-25 16:57 freebsd-nginx-master/vars/
+-rw-rw-r-- root/root        36 2018-12-25 16:57 freebsd-nginx-master/vars/main.yml

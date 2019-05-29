@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-07-23 18:03 ansible-role-openssl_self_signed-master/
+-rw-rw-r-- root/root      1072 2018-07-23 18:03 ansible-role-openssl_self_signed-master/LICENSE
+-rw-rw-r-- root/root       960 2018-07-23 18:03 ansible-role-openssl_self_signed-master/README.md
+drwxrwxr-x root/root         0 2018-07-23 18:03 ansible-role-openssl_self_signed-master/defaults/
+-rw-rw-r-- root/root       970 2018-07-23 18:03 ansible-role-openssl_self_signed-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-07-23 18:03 ansible-role-openssl_self_signed-master/meta/
+-rw-rw-r-- root/root       495 2018-07-23 18:03 ansible-role-openssl_self_signed-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-23 18:03 ansible-role-openssl_self_signed-master/tasks/
+-rw-rw-r-- root/root       246 2018-07-23 18:03 ansible-role-openssl_self_signed-master/tasks/cert_dir.yml
+-rw-rw-r-- root/root       109 2018-07-23 18:03 ansible-role-openssl_self_signed-master/tasks/main.yml
+-rw-rw-r-- root/root      1265 2018-07-23 18:03 ansible-role-openssl_self_signed-master/tasks/openssl_csr.yml
+-rw-rw-r-- root/root       607 2018-07-23 18:03 ansible-role-openssl_self_signed-master/tasks/openssl_gen_crt.yml

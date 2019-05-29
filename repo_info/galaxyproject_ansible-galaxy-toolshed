@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-13 12:31 ansible-galaxy-toolshed-master/
+-rw-rw-r-- root/root      5431 2018-02-13 12:31 ansible-galaxy-toolshed-master/README.md
+drwxrwxr-x root/root         0 2018-02-13 12:31 ansible-galaxy-toolshed-master/defaults/
+-rw-rw-r-- root/root      3657 2018-02-13 12:31 ansible-galaxy-toolshed-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-13 12:31 ansible-galaxy-toolshed-master/handlers/
+-rw-rw-r-- root/root       162 2018-02-13 12:31 ansible-galaxy-toolshed-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-13 12:31 ansible-galaxy-toolshed-master/meta/
+-rw-rw-r-- root/root       820 2018-02-13 12:31 ansible-galaxy-toolshed-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-13 12:31 ansible-galaxy-toolshed-master/tasks/
+-rw-rw-r-- root/root      2908 2018-02-13 12:31 ansible-galaxy-toolshed-master/tasks/database.yml
+-rw-rw-r-- root/root       266 2018-02-13 12:31 ansible-galaxy-toolshed-master/tasks/main.yml
+-rw-rw-r-- root/root       735 2018-02-13 12:31 ansible-galaxy-toolshed-master/tasks/static_setup.yml
+drwxrwxr-x root/root         0 2018-02-13 12:31 ansible-galaxy-toolshed-master/templates/
+-rw-rw-r-- root/root      1858 2018-02-13 12:31 ansible-galaxy-toolshed-master/templates/tool_shed.ini.j2
+-rw-rw-r-- root/root       204 2018-02-13 12:31 ansible-galaxy-toolshed-master/templates/user_info.xml.j2

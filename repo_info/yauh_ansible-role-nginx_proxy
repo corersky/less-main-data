@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-01-27 06:56 ansible-role-nginx_proxy-master/
+-rw-rw-r-- root/root      1298 2016-01-27 06:56 ansible-role-nginx_proxy-master/LICENSE
+-rw-rw-r-- root/root      1446 2016-01-27 06:56 ansible-role-nginx_proxy-master/README.md
+drwxrwxr-x root/root         0 2016-01-27 06:56 ansible-role-nginx_proxy-master/defaults/
+-rw-rw-r-- root/root       313 2016-01-27 06:56 ansible-role-nginx_proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-27 06:56 ansible-role-nginx_proxy-master/handlers/
+-rw-rw-r-- root/root       104 2016-01-27 06:56 ansible-role-nginx_proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-27 06:56 ansible-role-nginx_proxy-master/meta/
+-rw-rw-r-- root/root       304 2016-01-27 06:56 ansible-role-nginx_proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-27 06:56 ansible-role-nginx_proxy-master/tasks/
+-rw-rw-r-- root/root       311 2016-01-27 06:56 ansible-role-nginx_proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-27 06:56 ansible-role-nginx_proxy-master/templates/
+-rw-rw-r-- root/root       644 2016-01-27 06:56 ansible-role-nginx_proxy-master/templates/proxysite.j2
+drwxrwxr-x root/root         0 2016-01-27 06:56 ansible-role-nginx_proxy-master/vars/
+-rw-rw-r-- root/root        32 2016-01-27 06:56 ansible-role-nginx_proxy-master/vars/main.yml

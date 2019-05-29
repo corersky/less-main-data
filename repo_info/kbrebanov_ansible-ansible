@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-24 17:04 ansible-ansible-master/
+-rw-rw-r-- root/root      1298 2018-09-24 17:04 ansible-ansible-master/LICENSE
+-rw-rw-r-- root/root       765 2018-09-24 17:04 ansible-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-09-24 17:04 ansible-ansible-master/defaults/
+-rw-rw-r-- root/root        64 2018-09-24 17:04 ansible-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-24 17:04 ansible-ansible-master/handlers/
+-rw-rw-r-- root/root        32 2018-09-24 17:04 ansible-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-24 17:04 ansible-ansible-master/meta/
+-rw-rw-r-- root/root      2336 2018-09-24 17:04 ansible-ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-24 17:04 ansible-ansible-master/tasks/
+-rw-rw-r-- root/root        47 2018-09-24 17:04 ansible-ansible-master/tasks/CentOS.yml
+-rw-rw-r-- root/root       459 2018-09-24 17:04 ansible-ansible-master/tasks/Ubuntu.yml
+-rw-rw-r-- root/root       303 2018-09-24 17:04 ansible-ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-24 17:04 ansible-ansible-master/vars/
+-rw-rw-r-- root/root        46 2018-09-24 17:04 ansible-ansible-master/vars/CentOS.yml
+-rw-rw-r-- root/root       108 2018-09-24 17:04 ansible-ansible-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root        28 2018-09-24 17:04 ansible-ansible-master/vars/main.yml

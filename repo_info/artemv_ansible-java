@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-21 10:18 ansible-java-master/
+-rw-rw-r-- root/root       217 2018-11-21 10:18 ansible-java-master/.travis.yml
+-rw-rw-r-- root/root       716 2018-11-21 10:18 ansible-java-master/README.md
+drwxrwxr-x root/root         0 2018-11-21 10:18 ansible-java-master/defaults/
+-rw-rw-r-- root/root       313 2018-11-21 10:18 ansible-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-21 10:18 ansible-java-master/meta/
+-rw-rw-r-- root/root       308 2018-11-21 10:18 ansible-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-21 10:18 ansible-java-master/tasks/
+-rw-rw-r-- root/root      1967 2018-11-21 10:18 ansible-java-master/tasks/install_java.yml
+-rw-rw-r-- root/root       717 2018-11-21 10:18 ansible-java-master/tasks/install_jce.yml
+-rw-rw-r-- root/root       629 2018-11-21 10:18 ansible-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-21 10:18 ansible-java-master/test/
+-rw-rw-r-- root/root         6 2018-11-21 10:18 ansible-java-master/test/local.retry
+-rw-rw-r-- root/root       124 2018-11-21 10:18 ansible-java-master/test/test.rb
+-rw-rw-r-- root/root        10 2018-11-21 10:18 ansible-java-master/test/test.retry
+-rw-rw-r-- root/root       120 2018-11-21 10:18 ansible-java-master/test/test.yml

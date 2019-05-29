@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-10 16:39 ansible-role-basics-master/
+-rw-rw-r-- root/root      1419 2017-06-10 16:39 ansible-role-basics-master/.travis.yml
+-rw-rw-r-- root/root      1134 2017-06-10 16:39 ansible-role-basics-master/README.md
+drwxrwxr-x root/root         0 2017-06-10 16:39 ansible-role-basics-master/defaults/
+-rw-rw-r-- root/root       292 2017-06-10 16:39 ansible-role-basics-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-10 16:39 ansible-role-basics-master/handlers/
+-rw-rw-r-- root/root        60 2017-06-10 16:39 ansible-role-basics-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-10 16:39 ansible-role-basics-master/meta/
+-rw-rw-r-- root/root       351 2017-06-10 16:39 ansible-role-basics-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-10 16:39 ansible-role-basics-master/tasks/
+-rw-rw-r-- root/root       992 2017-06-10 16:39 ansible-role-basics-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-10 16:39 ansible-role-basics-master/tests/
+-rw-rw-r-- root/root       390 2017-06-10 16:39 ansible-role-basics-master/tests/Dockerfile.ubuntu-14.04
+-rw-rw-r-- root/root        10 2017-06-10 16:39 ansible-role-basics-master/tests/inventory
+-rw-rw-r-- root/root        95 2017-06-10 16:39 ansible-role-basics-master/tests/test.yml

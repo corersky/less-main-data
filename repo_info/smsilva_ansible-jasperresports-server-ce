@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-28 19:30 ansible-jasperresports-server-ce-master/
+-rw-rw-r-- root/root      1328 2018-06-28 19:30 ansible-jasperresports-server-ce-master/README.md
+-rw-rw-r-- root/root       837 2018-06-28 19:30 ansible-jasperresports-server-ce-master/commands.txt
+drwxrwxr-x root/root         0 2018-06-28 19:30 ansible-jasperresports-server-ce-master/defaults/
+-rw-rw-r-- root/root        64 2018-06-28 19:30 ansible-jasperresports-server-ce-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-28 19:30 ansible-jasperresports-server-ce-master/handlers/
+-rw-rw-r-- root/root        64 2018-06-28 19:30 ansible-jasperresports-server-ce-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-28 19:30 ansible-jasperresports-server-ce-master/meta/
+-rw-rw-r-- root/root      1777 2018-06-28 19:30 ansible-jasperresports-server-ce-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-28 19:30 ansible-jasperresports-server-ce-master/tasks/
+-rw-rw-r-- root/root       615 2018-06-28 19:30 ansible-jasperresports-server-ce-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-28 19:30 ansible-jasperresports-server-ce-master/tests/
+-rw-rw-r-- root/root        28 2018-06-28 19:30 ansible-jasperresports-server-ce-master/tests/inventory
+-rw-rw-r-- root/root       101 2018-06-28 19:30 ansible-jasperresports-server-ce-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-28 19:30 ansible-jasperresports-server-ce-master/vars/
+-rw-rw-r-- root/root       257 2018-06-28 19:30 ansible-jasperresports-server-ce-master/vars/main.yml

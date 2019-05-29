@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-29 16:57 raspberry-pi-zabbix-master/
+-rw-rw-r-- root/root      1203 2018-05-29 16:57 raspberry-pi-zabbix-master/.gitignore
+-rw-rw-r-- root/root      1072 2018-05-29 16:57 raspberry-pi-zabbix-master/LICENSE
+-rw-rw-r-- root/root      2729 2018-05-29 16:57 raspberry-pi-zabbix-master/README.rst
+drwxrwxr-x root/root         0 2018-05-29 16:57 raspberry-pi-zabbix-master/defaults/
+-rw-rw-r-- root/root      1591 2018-05-29 16:57 raspberry-pi-zabbix-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-29 16:57 raspberry-pi-zabbix-master/files/
+-rwxrwxr-x root/root      1761 2018-05-29 16:57 raspberry-pi-zabbix-master/files/raspi-monitor.sh
+drwxrwxr-x root/root         0 2018-05-29 16:57 raspberry-pi-zabbix-master/handlers/
+-rw-rw-r-- root/root       141 2018-05-29 16:57 raspberry-pi-zabbix-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-05-29 16:57 raspberry-pi-zabbix-master/meta/
+-rw-rw-r-- root/root       421 2018-05-29 16:57 raspberry-pi-zabbix-master/meta/main.yml
+-rw-rw-r-- root/root     16371 2018-05-29 16:57 raspberry-pi-zabbix-master/meta/raspberry-pi-zabbix_template.xml
+drwxrwxr-x root/root         0 2018-05-29 16:57 raspberry-pi-zabbix-master/tasks/
+-rw-rw-r-- root/root       547 2018-05-29 16:57 raspberry-pi-zabbix-master/tasks/main.yml
+-rw-rw-r-- root/root       769 2018-05-29 16:57 raspberry-pi-zabbix-master/tasks/sudoers.yml
+-rw-rw-r-- root/root      1670 2018-05-29 16:57 raspberry-pi-zabbix-master/tasks/zabbix-config.yml

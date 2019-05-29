@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-05-21 12:11 ansible-role-openssl-master/
+-rw-rw-r-- root/root       197 2015-05-21 12:11 ansible-role-openssl-master/.editorconfig
+-rw-rw-r-- root/root        12 2015-05-21 12:11 ansible-role-openssl-master/.gitattributes
+-rw-rw-r-- root/root        40 2015-05-21 12:11 ansible-role-openssl-master/.gitignore
+-rw-rw-r-- root/root       466 2015-05-21 12:11 ansible-role-openssl-master/.travis.yml
+-rw-rw-r-- root/root      1050 2015-05-21 12:11 ansible-role-openssl-master/LICENSE
+-rw-rw-r-- root/root      2140 2015-05-21 12:11 ansible-role-openssl-master/README.md
+drwxrwxr-x root/root         0 2015-05-21 12:11 ansible-role-openssl-master/defaults/
+-rw-rw-r-- root/root      1036 2015-05-21 12:11 ansible-role-openssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:11 ansible-role-openssl-master/meta/
+-rw-rw-r-- root/root       266 2015-05-21 12:11 ansible-role-openssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:11 ansible-role-openssl-master/tasks/
+-rw-rw-r-- root/root      1672 2015-05-21 12:11 ansible-role-openssl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:11 ansible-role-openssl-master/tests/
+-rw-rw-r-- root/root        83 2015-05-21 12:11 ansible-role-openssl-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2015-05-21 12:11 ansible-role-openssl-master/tests/inventory
+-rw-rw-r-- root/root       178 2015-05-21 12:11 ansible-role-openssl-master/tests/playbook.yml

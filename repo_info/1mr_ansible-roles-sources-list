@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-24 05:44 ansible-roles-sources-list-master/
+-rw-rw-r-- root/root        29 2019-03-24 05:44 ansible-roles-sources-list-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 05:44 ansible-roles-sources-list-master/defaults/
+-rw-rw-r-- root/root       152 2019-03-24 05:44 ansible-roles-sources-list-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:44 ansible-roles-sources-list-master/files/
+-rw-rw-r-- root/root       139 2019-03-24 05:44 ansible-roles-sources-list-master/files/squeeze.list
+drwxrwxr-x root/root         0 2019-03-24 05:44 ansible-roles-sources-list-master/meta/
+-rw-rw-r-- root/root       293 2019-03-24 05:44 ansible-roles-sources-list-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:44 ansible-roles-sources-list-master/tasks/
+-rw-rw-r-- root/root       331 2019-03-24 05:44 ansible-roles-sources-list-master/tasks/debian.yml
+-rw-rw-r-- root/root        34 2019-03-24 05:44 ansible-roles-sources-list-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 05:44 ansible-roles-sources-list-master/templates/
+-rw-rw-r-- root/root       814 2019-03-24 05:44 ansible-roles-sources-list-master/templates/sources.list.j2

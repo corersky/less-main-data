@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-17 03:46 ansible-role-nginx-master/
+-rw-rw-r-- root/root      1079 2016-06-17 03:46 ansible-role-nginx-master/LICENSE
+-rw-rw-r-- root/root       993 2016-06-17 03:46 ansible-role-nginx-master/README.md
+drwxrwxr-x root/root         0 2016-06-17 03:46 ansible-role-nginx-master/defaults/
+-rw-rw-r-- root/root       308 2016-06-17 03:46 ansible-role-nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-17 03:46 ansible-role-nginx-master/handlers/
+-rw-rw-r-- root/root        72 2016-06-17 03:46 ansible-role-nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-06-17 03:46 ansible-role-nginx-master/meta/
+-rw-rw-r-- root/root      1556 2016-06-17 03:46 ansible-role-nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-17 03:46 ansible-role-nginx-master/tasks/
+-rw-rw-r-- root/root      2002 2016-06-17 03:46 ansible-role-nginx-master/tasks/Debian-Package.yml
+-rw-rw-r-- root/root      1073 2016-06-17 03:46 ansible-role-nginx-master/tasks/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-06 04:39 Gitlab_Ansible-master/
+-rw-rw-r-- root/root       683 2018-02-06 04:39 Gitlab_Ansible-master/README.md
+drwxrwxr-x root/root         0 2018-02-06 04:39 Gitlab_Ansible-master/defaults/
+-rw-rw-r-- root/root        30 2018-02-06 04:39 Gitlab_Ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-06 04:39 Gitlab_Ansible-master/handlers/
+-rw-rw-r-- root/root        82 2018-02-06 04:39 Gitlab_Ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-06 04:39 Gitlab_Ansible-master/meta/
+-rw-rw-r-- root/root       435 2018-02-06 04:39 Gitlab_Ansible-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-06 04:39 Gitlab_Ansible-master/tasks/
+-rw-rw-r-- root/root       872 2018-02-06 04:39 Gitlab_Ansible-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-06 04:39 Gitlab_Ansible-master/tests/
+-rw-rw-r-- root/root        11 2018-02-06 04:39 Gitlab_Ansible-master/tests/inventory
+-rw-rw-r-- root/root        64 2018-02-06 04:39 Gitlab_Ansible-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-06 04:39 Gitlab_Ansible-master/vars/
+-rw-rw-r-- root/root        26 2018-02-06 04:39 Gitlab_Ansible-master/vars/main.yml

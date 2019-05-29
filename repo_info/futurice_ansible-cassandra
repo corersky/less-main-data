@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-06-22 05:37 ansible-cassandra-master/
+-rw-rw-r-- root/root        23 2015-06-22 05:37 ansible-cassandra-master/.gitignore
+-rw-rw-r-- root/root       444 2015-06-22 05:37 ansible-cassandra-master/.travis.yml
+-rw-rw-r-- root/root       430 2015-06-22 05:37 ansible-cassandra-master/README.md
+drwxrwxr-x root/root         0 2015-06-22 05:37 ansible-cassandra-master/defaults/
+-rw-rw-r-- root/root       665 2015-06-22 05:37 ansible-cassandra-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-06-22 05:37 ansible-cassandra-master/meta/
+-rw-rw-r-- root/root       283 2015-06-22 05:37 ansible-cassandra-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-22 05:37 ansible-cassandra-master/tasks/
+-rw-rw-r-- root/root       925 2015-06-22 05:37 ansible-cassandra-master/tasks/initialize_cluster.yml
+-rw-rw-r-- root/root       531 2015-06-22 05:37 ansible-cassandra-master/tasks/install_cassandra.yml
+-rw-rw-r-- root/root       293 2015-06-22 05:37 ansible-cassandra-master/tasks/install_java.yml
+-rw-rw-r-- root/root       514 2015-06-22 05:37 ansible-cassandra-master/tasks/install_opscenter.yml
+-rw-rw-r-- root/root      1185 2015-06-22 05:37 ansible-cassandra-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-22 05:37 ansible-cassandra-master/tests/
+-rw-rw-r-- root/root        10 2015-06-22 05:37 ansible-cassandra-master/tests/inventory
+-rw-rw-r-- root/root       130 2015-06-22 05:37 ansible-cassandra-master/tests/test.yml

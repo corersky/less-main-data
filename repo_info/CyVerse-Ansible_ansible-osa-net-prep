@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-11 11:19 ansible-osa-net-prep-master/
+-rw-rw-r-- root/root      1955 2017-12-11 11:19 ansible-osa-net-prep-master/.travis.yml
+-rw-rw-r-- root/root      4738 2017-12-11 11:19 ansible-osa-net-prep-master/README.md
+drwxrwxr-x root/root         0 2017-12-11 11:19 ansible-osa-net-prep-master/defaults/
+-rw-rw-r-- root/root       203 2017-12-11 11:19 ansible-osa-net-prep-master/defaults/main.yml
+-rw-rw-r-- root/root      1961 2017-12-11 11:19 ansible-osa-net-prep-master/license.md
+drwxrwxr-x root/root         0 2017-12-11 11:19 ansible-osa-net-prep-master/meta/
+-rw-rw-r-- root/root      3571 2017-12-11 11:19 ansible-osa-net-prep-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-11 11:19 ansible-osa-net-prep-master/tasks/
+-rw-rw-r-- root/root       695 2017-12-11 11:19 ansible-osa-net-prep-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-11 11:19 ansible-osa-net-prep-master/templates/
+-rw-rw-r-- root/root        94 2017-12-11 11:19 ansible-osa-net-prep-master/templates/all_interfaces.j2
+-rw-rw-r-- root/root      1245 2017-12-11 11:19 ansible-osa-net-prep-master/templates/bridges.j2
+-rw-rw-r-- root/root      1249 2017-12-11 11:19 ansible-osa-net-prep-master/templates/eth.j2
+drwxrwxr-x root/root         0 2017-12-11 11:19 ansible-osa-net-prep-master/tests/
+-rw-rw-r-- root/root         9 2017-12-11 11:19 ansible-osa-net-prep-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-12-11 11:19 ansible-osa-net-prep-master/tests/test.yml

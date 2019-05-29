@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-04 07:03 ansible-role-openssl-master/
+-rw-rw-r-- root/root      2199 2017-07-04 07:03 ansible-role-openssl-master/.travis.yml
+-rw-rw-r-- root/root       426 2017-07-04 07:03 ansible-role-openssl-master/README.md
+drwxrwxr-x root/root         0 2017-07-04 07:03 ansible-role-openssl-master/defaults/
+-rw-rw-r-- root/root       600 2017-07-04 07:03 ansible-role-openssl-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-04 07:03 ansible-role-openssl-master/handlers/
+-rw-rw-r-- root/root        44 2017-07-04 07:03 ansible-role-openssl-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-04 07:03 ansible-role-openssl-master/meta/
+-rw-rw-r-- root/root       423 2017-07-04 07:03 ansible-role-openssl-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-04 07:03 ansible-role-openssl-master/tasks/
+-rw-rw-r-- root/root      2772 2017-07-04 07:03 ansible-role-openssl-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-04 07:03 ansible-role-openssl-master/tests/
+-rw-rw-r-- root/root        11 2017-07-04 07:03 ansible-role-openssl-master/tests/inventory
+-rw-rw-r-- root/root       245 2017-07-04 07:03 ansible-role-openssl-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-04 07:03 ansible-role-openssl-master/vars/
+-rw-rw-r-- root/root        40 2017-07-04 07:03 ansible-role-openssl-master/vars/main.yml

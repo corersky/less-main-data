@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-28 16:03 ansible-role-unbound-master/
+-rw-rw-r-- root/root       309 2019-02-28 16:03 ansible-role-unbound-master/README.md
+drwxrwxr-x root/root         0 2019-02-28 16:03 ansible-role-unbound-master/defaults/
+-rw-rw-r-- root/root      1315 2019-02-28 16:03 ansible-role-unbound-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-28 16:03 ansible-role-unbound-master/handlers/
+-rw-rw-r-- root/root        79 2019-02-28 16:03 ansible-role-unbound-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-02-28 16:03 ansible-role-unbound-master/meta/
+-rw-rw-r-- root/root       412 2019-02-28 16:03 ansible-role-unbound-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-28 16:03 ansible-role-unbound-master/tasks/
+-rw-rw-r-- root/root        72 2019-02-28 16:03 ansible-role-unbound-master/tasks/Debian.yml
+-rw-rw-r-- root/root       701 2019-02-28 16:03 ansible-role-unbound-master/tasks/FreeBSD.yml
+-rw-rw-r-- root/root      1410 2019-02-28 16:03 ansible-role-unbound-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-28 16:03 ansible-role-unbound-master/templates/
+-rw-rw-r-- root/root      2936 2019-02-28 16:03 ansible-role-unbound-master/templates/unbound.conf.j2
+drwxrwxr-x root/root         0 2019-02-28 16:03 ansible-role-unbound-master/vars/
+-rw-rw-r-- root/root       225 2019-02-28 16:03 ansible-role-unbound-master/vars/FreeBSD.yml
+-rw-rw-r-- root/root       216 2019-02-28 16:03 ansible-role-unbound-master/vars/OpenBSD.yml

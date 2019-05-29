@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-06-24 04:29 freebsd-consul-template-master/
+-rw-rw-r-- root/root      1313 2018-06-24 04:29 freebsd-consul-template-master/LICENSE
+-rw-rw-r-- root/root        26 2018-06-24 04:29 freebsd-consul-template-master/README.md
+drwxrwxr-x root/root         0 2018-06-24 04:29 freebsd-consul-template-master/handlers/
+-rw-rw-r-- root/root        94 2018-06-24 04:29 freebsd-consul-template-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-24 04:29 freebsd-consul-template-master/meta/
+-rw-rw-r-- root/root       786 2018-06-24 04:29 freebsd-consul-template-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-24 04:29 freebsd-consul-template-master/tasks/
+-rw-rw-r-- root/root       650 2018-06-24 04:29 freebsd-consul-template-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-24 04:29 freebsd-consul-template-master/templates/
+-rw-rw-r-- root/root        37 2018-06-24 04:29 freebsd-consul-template-master/templates/consul-template.conf.j2
+-rw-rw-r-- root/root        29 2018-06-24 04:29 freebsd-consul-template-master/templates/consul_template.j2
+drwxrwxr-x root/root         0 2018-06-24 04:29 freebsd-consul-template-master/vars/
+-rw-rw-r-- root/root       220 2018-06-24 04:29 freebsd-consul-template-master/vars/main.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-10-29 18:41 ansible-papertrail-master/
+-rw-rw-r-- root/root       701 2015-10-29 18:41 ansible-papertrail-master/README.md
+drwxrwxr-x root/root         0 2015-10-29 18:41 ansible-papertrail-master/files/
+-rw-rw-r-- root/root    252987 2015-10-29 18:41 ansible-papertrail-master/files/papertrail-bundle.pem
+drwxrwxr-x root/root         0 2015-10-29 18:41 ansible-papertrail-master/handlers/
+-rw-rw-r-- root/root       117 2015-10-29 18:41 ansible-papertrail-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-29 18:41 ansible-papertrail-master/meta/
+-rw-rw-r-- root/root      2348 2015-10-29 18:41 ansible-papertrail-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-29 18:41 ansible-papertrail-master/tasks/
+-rw-rw-r-- root/root       458 2015-10-29 18:41 ansible-papertrail-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-29 18:41 ansible-papertrail-master/templates/
+-rw-rw-r-- root/root       355 2015-10-29 18:41 ansible-papertrail-master/templates/papertrail.conf.j2

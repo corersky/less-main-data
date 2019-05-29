@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-25 21:59 ansible-role-protobuf-compiler-master/
+drwxrwxr-x root/root         0 2019-03-25 21:59 ansible-role-protobuf-compiler-master/.circleci/
+-rw-rw-r-- root/root       678 2019-03-25 21:59 ansible-role-protobuf-compiler-master/.circleci/config.yml
+-rw-rw-r-- root/root         3 2019-03-25 21:59 ansible-role-protobuf-compiler-master/.gitignore
+-rw-rw-r-- root/root      1970 2019-03-25 21:59 ansible-role-protobuf-compiler-master/.travis.yml
+-rw-rw-r-- root/root       615 2019-03-25 21:59 ansible-role-protobuf-compiler-master/README.md
+drwxrwxr-x root/root         0 2019-03-25 21:59 ansible-role-protobuf-compiler-master/meta/
+-rw-rw-r-- root/root      3561 2019-03-25 21:59 ansible-role-protobuf-compiler-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-25 21:59 ansible-role-protobuf-compiler-master/tasks/
+-rw-rw-r-- root/root        86 2019-03-25 21:59 ansible-role-protobuf-compiler-master/tasks/Debian.yml
+-rw-rw-r-- root/root      3170 2019-03-25 21:59 ansible-role-protobuf-compiler-master/tasks/compat.yml
+-rw-rw-r-- root/root       236 2019-03-25 21:59 ansible-role-protobuf-compiler-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       540 2019-03-25 21:59 ansible-role-protobuf-compiler-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-25 21:59 ansible-role-protobuf-compiler-master/vars/
+-rw-rw-r-- root/root        36 2019-03-25 21:59 ansible-role-protobuf-compiler-master/vars/RedHat.yml
+-rw-rw-r-- root/root        36 2019-03-25 21:59 ansible-role-protobuf-compiler-master/vars/Ubuntu.yml
+-rw-rw-r-- root/root         4 2019-03-25 21:59 ansible-role-protobuf-compiler-master/vars/main.yml

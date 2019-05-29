@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-15 12:37 wordpress-docker-master/
+-rw-rw-r-- root/root      1014 2019-03-15 12:37 wordpress-docker-master/README.md
+drwxrwxr-x root/root         0 2019-03-15 12:37 wordpress-docker-master/defaults/
+-rw-rw-r-- root/root       147 2019-03-15 12:37 wordpress-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-15 12:37 wordpress-docker-master/handlers/
+-rw-rw-r-- root/root        40 2019-03-15 12:37 wordpress-docker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-15 12:37 wordpress-docker-master/meta/
+-rw-rw-r-- root/root       430 2019-03-15 12:37 wordpress-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-15 12:37 wordpress-docker-master/tasks/
+-rw-rw-r-- root/root       730 2019-03-15 12:37 wordpress-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-15 12:37 wordpress-docker-master/tests/
+-rw-rw-r-- root/root        11 2019-03-15 12:37 wordpress-docker-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-03-15 12:37 wordpress-docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-03-15 12:37 wordpress-docker-master/vars/
+-rw-rw-r-- root/root        36 2019-03-15 12:37 wordpress-docker-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/
+-rw-rw-r-- root/root      1203 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/.gitignore
+-rw-rw-r-- root/root       656 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/.travis.yml
+-rw-rw-r-- root/root     11357 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/LICENSE
+-rw-rw-r-- root/root      2947 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/README.md
+drwxrwxr-x root/root         0 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/defaults/
+-rw-rw-r-- root/root       457 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/meta/
+-rw-rw-r-- root/root       346 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/tasks/
+-rw-rw-r-- root/root      3176 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/tests/
+-rw-rw-r-- root/root        97 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/tests/inventory
+-rw-rw-r-- root/root        91 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/vars/
+-rw-rw-r-- root/root       485 2019-02-21 05:15 ansible-role-dell-powerconnect-switch-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-24 09:04 boot_task-master/
+-rw-rw-r-- root/root       868 2017-01-24 09:04 boot_task-master/.travis.yml
+-rw-rw-r-- root/root       692 2017-01-24 09:04 boot_task-master/README.md
+drwxrwxr-x root/root         0 2017-01-24 09:04 boot_task-master/defaults/
+-rw-rw-r-- root/root        93 2017-01-24 09:04 boot_task-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-24 09:04 boot_task-master/handlers/
+-rw-rw-r-- root/root        34 2017-01-24 09:04 boot_task-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-24 09:04 boot_task-master/meta/
+-rw-rw-r-- root/root      3924 2017-01-24 09:04 boot_task-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-24 09:04 boot_task-master/tasks/
+-rw-rw-r-- root/root       404 2017-01-24 09:04 boot_task-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-24 09:04 boot_task-master/tests/
+-rw-rw-r-- root/root         9 2017-01-24 09:04 boot_task-master/tests/inventory
+-rw-rw-r-- root/root       121 2017-01-24 09:04 boot_task-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-24 09:04 boot_task-master/vars/
+-rw-rw-r-- root/root        30 2017-01-24 09:04 boot_task-master/vars/main.yml

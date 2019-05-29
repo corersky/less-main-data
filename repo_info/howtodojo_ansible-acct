@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-09-05 18:21 ansible-acct-master/
+-rw-rw-r-- root/root       812 2016-09-05 18:21 ansible-acct-master/.travis.yml
+-rw-rw-r-- root/root       466 2016-09-05 18:21 ansible-acct-master/README.md
+drwxrwxr-x root/root         0 2016-09-05 18:21 ansible-acct-master/defaults/
+-rw-rw-r-- root/root        30 2016-09-05 18:21 ansible-acct-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:21 ansible-acct-master/meta/
+-rw-rw-r-- root/root       306 2016-09-05 18:21 ansible-acct-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:21 ansible-acct-master/tasks/
+-rw-rw-r-- root/root       377 2016-09-05 18:21 ansible-acct-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-05 18:21 ansible-acct-master/tests/
+-rw-rw-r-- root/root         9 2016-09-05 18:21 ansible-acct-master/tests/inventory
+-rw-rw-r-- root/root        70 2016-09-05 18:21 ansible-acct-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-09-05 18:21 ansible-acct-master/vars/
+-rw-rw-r-- root/root        57 2016-09-05 18:21 ansible-acct-master/vars/main.yml

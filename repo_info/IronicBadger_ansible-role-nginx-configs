@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-05-03 14:21 ansible-role-nginx-configs-master/
+-rw-rw-r-- root/root       824 2019-05-03 14:21 ansible-role-nginx-configs-master/README.md
+drwxrwxr-x root/root         0 2019-05-03 14:21 ansible-role-nginx-configs-master/defaults/
+-rw-rw-r-- root/root       368 2019-05-03 14:21 ansible-role-nginx-configs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-03 14:21 ansible-role-nginx-configs-master/meta/
+-rw-rw-r-- root/root       797 2019-05-03 14:21 ansible-role-nginx-configs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-03 14:21 ansible-role-nginx-configs-master/tasks/
+-rw-rw-r-- root/root       594 2019-05-03 14:21 ansible-role-nginx-configs-master/tasks/default-config.yml
+-rw-rw-r-- root/root       495 2019-05-03 14:21 ansible-role-nginx-configs-master/tasks/main.yml
+-rw-rw-r-- root/root       923 2019-05-03 14:21 ansible-role-nginx-configs-master/tasks/subdomains.yml
+-rw-rw-r-- root/root       817 2019-05-03 14:21 ansible-role-nginx-configs-master/tasks/subfolders.yml

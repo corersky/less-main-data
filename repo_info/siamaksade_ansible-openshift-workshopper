@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-11-23 06:12 ansible-openshift-workshopper-master/
+-rw-rw-r-- root/root         8 2018-11-23 06:12 ansible-openshift-workshopper-master/.gitignore
+-rw-rw-r-- root/root       148 2018-11-23 06:12 ansible-openshift-workshopper-master/.travis.yml
+-rw-rw-r-- root/root      3481 2018-11-23 06:12 ansible-openshift-workshopper-master/README.md
+drwxrwxr-x root/root         0 2018-11-23 06:12 ansible-openshift-workshopper-master/defaults/
+-rw-rw-r-- root/root       472 2018-11-23 06:12 ansible-openshift-workshopper-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:12 ansible-openshift-workshopper-master/meta/
+-rw-rw-r-- root/root       317 2018-11-23 06:12 ansible-openshift-workshopper-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:12 ansible-openshift-workshopper-master/tasks/
+-rw-rw-r-- root/root      1102 2018-11-23 06:12 ansible-openshift-workshopper-master/tasks/deploy.yml
+-rw-rw-r-- root/root      1481 2018-11-23 06:12 ansible-openshift-workshopper-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-23 06:12 ansible-openshift-workshopper-master/tests/
+-rw-rw-r-- root/root         9 2018-11-23 06:12 ansible-openshift-workshopper-master/tests/inventory
+-rw-rw-r-- root/root        63 2018-11-23 06:12 ansible-openshift-workshopper-master/tests/test.yml

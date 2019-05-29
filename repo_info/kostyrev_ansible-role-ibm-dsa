@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-05-26 07:26 ansible-role-ibm-dsa-master/
+-rw-rw-r-- root/root       540 2016-05-26 07:26 ansible-role-ibm-dsa-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-05-26 07:26 ansible-role-ibm-dsa-master/LICENSE
+-rw-rw-r-- root/root       477 2016-05-26 07:26 ansible-role-ibm-dsa-master/README.md
+drwxrwxr-x root/root         0 2016-05-26 07:26 ansible-role-ibm-dsa-master/defaults/
+-rw-rw-r-- root/root       160 2016-05-26 07:26 ansible-role-ibm-dsa-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-26 07:26 ansible-role-ibm-dsa-master/handlers/
+-rw-rw-r-- root/root        43 2016-05-26 07:26 ansible-role-ibm-dsa-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-26 07:26 ansible-role-ibm-dsa-master/meta/
+-rw-rw-r-- root/root       242 2016-05-26 07:26 ansible-role-ibm-dsa-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-26 07:26 ansible-role-ibm-dsa-master/tasks/
+-rw-rw-r-- root/root       241 2016-05-26 07:26 ansible-role-ibm-dsa-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-26 07:26 ansible-role-ibm-dsa-master/tests/
+-rw-rw-r-- root/root        10 2016-05-26 07:26 ansible-role-ibm-dsa-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-05-26 07:26 ansible-role-ibm-dsa-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-05-26 07:26 ansible-role-ibm-dsa-master/vars/
+-rw-rw-r-- root/root        39 2016-05-26 07:26 ansible-role-ibm-dsa-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2019-03-24 06:16 ansible-role-backup-master/
+-rw-rw-r-- root/root       483 2019-03-24 06:16 ansible-role-backup-master/README.md
+drwxrwxr-x root/root         0 2019-03-24 06:16 ansible-role-backup-master/defaults/
+-rw-rw-r-- root/root       202 2019-03-24 06:16 ansible-role-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-24 06:16 ansible-role-backup-master/meta/
+-rw-rw-r-- root/root       217 2019-03-24 06:16 ansible-role-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-24 06:16 ansible-role-backup-master/tasks/
+-rw-rw-r-- root/root       207 2019-03-24 06:16 ansible-role-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-24 06:16 ansible-role-backup-master/templates/
+-rw-rw-r-- root/root      1021 2019-03-24 06:16 ansible-role-backup-master/templates/backup_etc.sh.j2
+-rw-rw-r-- root/root       799 2019-03-24 06:16 ansible-role-backup-master/templates/backup_homes.sh.j2
+-rw-rw-r-- root/root      1877 2019-03-24 06:16 ansible-role-backup-master/templates/backup_mysql.sh.j2
+-rw-rw-r-- root/root      1111 2019-03-24 06:16 ansible-role-backup-master/templates/backup_sites.sh.j2

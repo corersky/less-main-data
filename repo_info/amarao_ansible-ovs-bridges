@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2016-09-21 02:36 ansible-ovs-bridges-master/
+-rw-rw-r-- root/root      1049 2016-09-21 02:36 ansible-ovs-bridges-master/README.md
+drwxrwxr-x root/root         0 2016-09-21 02:36 ansible-ovs-bridges-master/defaults/
+-rw-rw-r-- root/root        19 2016-09-21 02:36 ansible-ovs-bridges-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-21 02:36 ansible-ovs-bridges-master/meta/
+-rw-rw-r-- root/root      2138 2016-09-21 02:36 ansible-ovs-bridges-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-21 02:36 ansible-ovs-bridges-master/tasks/
+-rw-rw-r-- root/root       911 2016-09-21 02:36 ansible-ovs-bridges-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-21 02:36 ansible-ovs-bridges-master/templates/
+-rw-rw-r-- root/root        94 2016-09-21 02:36 ansible-ovs-bridges-master/templates/iface.cfg.j2

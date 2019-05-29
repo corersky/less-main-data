@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-09-08 12:29 ansible-role-google-chrome-master/
+-rw-rw-r-- root/root       539 2016-09-08 12:29 ansible-role-google-chrome-master/.travis.yml
+-rw-rw-r-- root/root      1038 2016-09-08 12:29 ansible-role-google-chrome-master/README.md
+drwxrwxr-x root/root         0 2016-09-08 12:29 ansible-role-google-chrome-master/defaults/
+-rw-rw-r-- root/root       191 2016-09-08 12:29 ansible-role-google-chrome-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-09-08 12:29 ansible-role-google-chrome-master/meta/
+-rw-rw-r-- root/root       300 2016-09-08 12:29 ansible-role-google-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-09-08 12:29 ansible-role-google-chrome-master/tasks/
+-rw-rw-r-- root/root       432 2016-09-08 12:29 ansible-role-google-chrome-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-09-08 12:29 ansible-role-google-chrome-master/tests/
+-rw-rw-r-- root/root         9 2016-09-08 12:29 ansible-role-google-chrome-master/tests/inventory
+-rw-rw-r-- root/root        84 2016-09-08 12:29 ansible-role-google-chrome-master/tests/test.yml

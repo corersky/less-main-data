@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-13 16:58 ansible-role-nmap-master/
+-rw-rw-r-- root/root       374 2017-12-13 16:58 ansible-role-nmap-master/.travis.yml
+-rw-rw-r-- root/root       342 2017-12-13 16:58 ansible-role-nmap-master/README.md
+-rw-rw-r-- root/root        28 2017-12-13 16:58 ansible-role-nmap-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-12-13 16:58 ansible-role-nmap-master/defaults/
+-rw-rw-r-- root/root        41 2017-12-13 16:58 ansible-role-nmap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-13 16:58 ansible-role-nmap-master/handlers/
+-rw-rw-r-- root/root        41 2017-12-13 16:58 ansible-role-nmap-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-12-13 16:58 ansible-role-nmap-master/meta/
+-rw-rw-r-- root/root       308 2017-12-13 16:58 ansible-role-nmap-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-13 16:58 ansible-role-nmap-master/tasks/
+-rw-rw-r-- root/root       140 2017-12-13 16:58 ansible-role-nmap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-13 16:58 ansible-role-nmap-master/tests/
+-rw-rw-r-- root/root        11 2017-12-13 16:58 ansible-role-nmap-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-12-13 16:58 ansible-role-nmap-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-12-13 16:58 ansible-role-nmap-master/vars/
+-rw-rw-r-- root/root        37 2017-12-13 16:58 ansible-role-nmap-master/vars/main.yml

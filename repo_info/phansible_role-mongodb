@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-03-07 18:11 role-mongodb-master/
+-rw-rw-r-- root/root        37 2018-03-07 18:11 role-mongodb-master/.gitignore
+-rw-rw-r-- root/root       799 2018-03-07 18:11 role-mongodb-master/.travis.yml
+-rw-rw-r-- root/root      1100 2018-03-07 18:11 role-mongodb-master/LICENSE
+-rw-rw-r-- root/root       932 2018-03-07 18:11 role-mongodb-master/README.md
+drwxrwxr-x root/root         0 2018-03-07 18:11 role-mongodb-master/handlers/
+-rw-rw-r-- root/root       192 2018-03-07 18:11 role-mongodb-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:11 role-mongodb-master/meta/
+-rw-rw-r-- root/root       350 2018-03-07 18:11 role-mongodb-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:11 role-mongodb-master/tasks/
+-rw-rw-r-- root/root       384 2018-03-07 18:11 role-mongodb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-03-07 18:11 role-mongodb-master/templates/
+-rw-rw-r-- root/root      1974 2018-03-07 18:11 role-mongodb-master/templates/mongodb.conf.tpl
+drwxrwxr-x root/root         0 2018-03-07 18:11 role-mongodb-master/tests/
+-rw-rw-r-- root/root        10 2018-03-07 18:11 role-mongodb-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-03-07 18:11 role-mongodb-master/tests/test.yml

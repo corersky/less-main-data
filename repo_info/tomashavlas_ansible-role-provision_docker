@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/
+-rw-rw-r-- root/root       141 2016-07-13 04:56 ansible-role-provision_docker-master/.gitignore
+-rw-rw-r-- root/root       490 2016-07-13 04:56 ansible-role-provision_docker-master/.travis.yml
+-rw-rw-r-- root/root      1161 2016-07-13 04:56 ansible-role-provision_docker-master/CHANGELOG.md
+-rw-rw-r-- root/root      1537 2016-07-13 04:56 ansible-role-provision_docker-master/COPYRIGHT
+-rw-rw-r-- root/root      3497 2016-07-13 04:56 ansible-role-provision_docker-master/README.md
+drwxrwxr-x root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/defaults/
+-rw-rw-r-- root/root      1025 2016-07-13 04:56 ansible-role-provision_docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/meta/
+-rw-rw-r-- root/root       584 2016-07-13 04:56 ansible-role-provision_docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/tasks/
+-rw-rw-r-- root/root      1798 2016-07-13 04:56 ansible-role-provision_docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/tests/
+drwxrwxr-x root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/tests/01_basic/
+-rw-rw-r-- root/root       624 2016-07-13 04:56 ansible-role-provision_docker-master/tests/01_basic/Makefile
+lrwxrwxrwx root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/tests/01_basic/ansible.cfg -> ../ansible.cfg
+lrwxrwxrwx root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/tests/01_basic/inventory -> ../inventory
+lrwxrwxrwx root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/tests/01_basic/roles -> ../roles/
+-rw-rw-r-- root/root      1713 2016-07-13 04:56 ansible-role-provision_docker-master/tests/01_basic/test.yml
+-rw-rw-r-- root/root        71 2016-07-13 04:56 ansible-role-provision_docker-master/tests/Makefile
+-rw-rw-r-- root/root       246 2016-07-13 04:56 ansible-role-provision_docker-master/tests/ansible.cfg
+-rw-rw-r-- root/root        35 2016-07-13 04:56 ansible-role-provision_docker-master/tests/inventory
+drwxrwxr-x root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-07-13 04:56 ansible-role-provision_docker-master/tests/roles/tomashavlas.provision_docker -> ../../

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-09-24 03:11 ansible-role-apache-modsecurity-master/
+-rw-rw-r-- root/root     35147 2018-09-24 03:11 ansible-role-apache-modsecurity-master/LICENSE
+-rw-rw-r-- root/root      1922 2018-09-24 03:11 ansible-role-apache-modsecurity-master/README.md
+drwxrwxr-x root/root         0 2018-09-24 03:11 ansible-role-apache-modsecurity-master/defaults/
+-rw-rw-r-- root/root       399 2018-09-24 03:11 ansible-role-apache-modsecurity-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-24 03:11 ansible-role-apache-modsecurity-master/handlers/
+-rw-rw-r-- root/root       331 2018-09-24 03:11 ansible-role-apache-modsecurity-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-24 03:11 ansible-role-apache-modsecurity-master/meta/
+-rw-rw-r-- root/root         0 2018-09-24 03:11 ansible-role-apache-modsecurity-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       463 2018-09-24 03:11 ansible-role-apache-modsecurity-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-24 03:11 ansible-role-apache-modsecurity-master/tasks/
+-rw-rw-r-- root/root      2418 2018-09-24 03:11 ansible-role-apache-modsecurity-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-24 03:11 ansible-role-apache-modsecurity-master/templates/
+-rw-rw-r-- root/root      8711 2018-09-24 03:11 ansible-role-apache-modsecurity-master/templates/modsecurity.conf-recommended.j2
+-rw-rw-r-- root/root       595 2018-09-24 03:11 ansible-role-apache-modsecurity-master/templates/modsecurity.conf.j2
+drwxrwxr-x root/root         0 2018-09-24 03:11 ansible-role-apache-modsecurity-master/vars/
+-rw-rw-r-- root/root       708 2018-09-24 03:11 ansible-role-apache-modsecurity-master/vars/main.yml

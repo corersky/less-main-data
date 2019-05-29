@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-29 16:03 ansible-phoenix-framework-master/
+-rw-rw-r-- root/root     35141 2019-03-29 16:03 ansible-phoenix-framework-master/LICENSE
+-rw-rw-r-- root/root      1026 2019-03-29 16:03 ansible-phoenix-framework-master/README.md
+drwxrwxr-x root/root         0 2019-03-29 16:03 ansible-phoenix-framework-master/defaults/
+-rw-rw-r-- root/root       350 2019-03-29 16:03 ansible-phoenix-framework-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-29 16:03 ansible-phoenix-framework-master/meta/
+-rw-rw-r-- root/root       306 2019-03-29 16:03 ansible-phoenix-framework-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-29 16:03 ansible-phoenix-framework-master/tasks/
+-rw-rw-r-- root/root       412 2019-03-29 16:03 ansible-phoenix-framework-master/tasks/common.yml
+-rw-rw-r-- root/root      1694 2019-03-29 16:03 ansible-phoenix-framework-master/tasks/dev.yml
+-rw-rw-r-- root/root       732 2019-03-29 16:03 ansible-phoenix-framework-master/tasks/install.yml
+-rw-rw-r-- root/root       156 2019-03-29 16:03 ansible-phoenix-framework-master/tasks/main.yml
+-rw-rw-r-- root/root      3174 2019-03-29 16:03 ansible-phoenix-framework-master/tasks/prod.yml
+drwxrwxr-x root/root         0 2019-03-29 16:03 ansible-phoenix-framework-master/vars/
+-rw-rw-r-- root/root       163 2019-03-29 16:03 ansible-phoenix-framework-master/vars/main.yml

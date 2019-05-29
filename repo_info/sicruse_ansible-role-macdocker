@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-01-11 12:26 ansible-role-macdocker-master/
+-rw-rw-r-- root/root       764 2019-01-11 12:26 ansible-role-macdocker-master/README.md
+drwxrwxr-x root/root         0 2019-01-11 12:26 ansible-role-macdocker-master/defaults/
+-rw-rw-r-- root/root        34 2019-01-11 12:26 ansible-role-macdocker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-11 12:26 ansible-role-macdocker-master/handlers/
+-rw-rw-r-- root/root        34 2019-01-11 12:26 ansible-role-macdocker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-11 12:26 ansible-role-macdocker-master/meta/
+-rw-rw-r-- root/root      3996 2019-01-11 12:26 ansible-role-macdocker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-11 12:26 ansible-role-macdocker-master/tasks/
+-rw-rw-r-- root/root       575 2019-01-11 12:26 ansible-role-macdocker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-11 12:26 ansible-role-macdocker-master/tests/
+-rw-rw-r-- root/root         9 2019-01-11 12:26 ansible-role-macdocker-master/tests/inventory
+-rw-rw-r-- root/root       230 2019-01-11 12:26 ansible-role-macdocker-master/tests/test.yml
+-rw-rw-r-- root/root        38 2019-01-11 12:26 ansible-role-macdocker-master/tests/test_vars.yml
+drwxrwxr-x root/root         0 2019-01-11 12:26 ansible-role-macdocker-master/vars/
+-rw-rw-r-- root/root        65 2019-01-11 12:26 ansible-role-macdocker-master/vars/main.yml

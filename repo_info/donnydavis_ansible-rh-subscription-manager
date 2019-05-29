@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-05-13 11:55 ansible-rh-subscription-manager-master/
+-rw-rw-r-- root/root       540 2016-05-13 11:55 ansible-rh-subscription-manager-master/.travis.yml
+-rw-rw-r-- root/root     35141 2016-05-13 11:55 ansible-rh-subscription-manager-master/LICENSE
+-rw-rw-r-- root/root       950 2016-05-13 11:55 ansible-rh-subscription-manager-master/README.md
+drwxrwxr-x root/root         0 2016-05-13 11:55 ansible-rh-subscription-manager-master/meta/
+-rw-rw-r-- root/root       289 2016-05-13 11:55 ansible-rh-subscription-manager-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-13 11:55 ansible-rh-subscription-manager-master/tasks/
+-rw-rw-r-- root/root       433 2016-05-13 11:55 ansible-rh-subscription-manager-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-13 11:55 ansible-rh-subscription-manager-master/tests/
+-rw-rw-r-- root/root        10 2016-05-13 11:55 ansible-rh-subscription-manager-master/tests/inventory
+-rw-rw-r-- root/root        88 2016-05-13 11:55 ansible-rh-subscription-manager-master/tests/test.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-11-01 08:12 ObserviumAgent-master/
+-rw-rw-r-- root/root       310 2016-11-01 08:12 ObserviumAgent-master/README.md
+drwxrwxr-x root/root         0 2016-11-01 08:12 ObserviumAgent-master/files/
+drwxrwxr-x root/root         0 2016-11-01 08:12 ObserviumAgent-master/files/agent-local/
+-rwxrwxr-x root/root       880 2016-11-01 08:12 ObserviumAgent-master/files/agent-local/dmi
+-rwxrwxr-x root/root       577 2016-11-01 08:12 ObserviumAgent-master/files/agent-local/rpm
+-rwxrwxr-x root/root     10237 2016-11-01 08:12 ObserviumAgent-master/files/distro
+-rwxrwxr-x root/root     11731 2016-11-01 08:12 ObserviumAgent-master/files/observium_agent
+-rw-rw-r-- root/root       636 2016-11-01 08:12 ObserviumAgent-master/files/observium_agent_xinetd
+drwxrwxr-x root/root         0 2016-11-01 08:12 ObserviumAgent-master/handlers/
+-rw-rw-r-- root/root       140 2016-11-01 08:12 ObserviumAgent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-01 08:12 ObserviumAgent-master/meta/
+-rw-rw-r-- root/root       256 2016-11-01 08:12 ObserviumAgent-master/meta/main.yml
+-rw-rw-r-- root/root      2102 2016-11-01 08:12 ObserviumAgent-master/meta/main.yml.sample
+drwxrwxr-x root/root         0 2016-11-01 08:12 ObserviumAgent-master/tasks/
+-rw-rw-r-- root/root      1990 2016-11-01 08:12 ObserviumAgent-master/tasks/main.yml

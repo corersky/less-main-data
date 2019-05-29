@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-11-10 16:18 ansible-mosh-master/
+-rw-rw-r-- root/root       432 2017-11-10 16:18 ansible-mosh-master/.travis.yml
+-rw-rw-r-- root/root       209 2017-11-10 16:18 ansible-mosh-master/README.md
+drwxrwxr-x root/root         0 2017-11-10 16:18 ansible-mosh-master/defaults/
+-rw-rw-r-- root/root       157 2017-11-10 16:18 ansible-mosh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-10 16:18 ansible-mosh-master/meta/
+-rw-rw-r-- root/root       278 2017-11-10 16:18 ansible-mosh-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-10 16:18 ansible-mosh-master/tasks/
+-rw-rw-r-- root/root       253 2017-11-10 16:18 ansible-mosh-master/tasks/configure.yml
+-rw-rw-r-- root/root       393 2017-11-10 16:18 ansible-mosh-master/tasks/download.yml
+-rw-rw-r-- root/root       317 2017-11-10 16:18 ansible-mosh-master/tasks/firewall.yml
+-rw-rw-r-- root/root       126 2017-11-10 16:18 ansible-mosh-master/tasks/main.yml
+-rw-rw-r-- root/root       106 2017-11-10 16:18 ansible-mosh-master/tasks/make.yml
+-rw-rw-r-- root/root       296 2017-11-10 16:18 ansible-mosh-master/tasks/prerequisites.yml
+drwxrwxr-x root/root         0 2017-11-10 16:18 ansible-mosh-master/tests/
+-rw-rw-r-- root/root         9 2017-11-10 16:18 ansible-mosh-master/tests/inventory
+-rw-rw-r-- root/root        62 2017-11-10 16:18 ansible-mosh-master/tests/test.yml

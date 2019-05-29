@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-23 08:40 role-java-master/
+-rw-rw-r-- root/root        17 2019-04-23 08:40 role-java-master/.travis.yml
+-rw-rw-r-- root/root      1104 2019-04-23 08:40 role-java-master/README.md
+drwxrwxr-x root/root         0 2019-04-23 08:40 role-java-master/defaults/
+-rw-rw-r-- root/root        52 2019-04-23 08:40 role-java-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-23 08:40 role-java-master/handlers/
+-rw-rw-r-- root/root        52 2019-04-23 08:40 role-java-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-23 08:40 role-java-master/meta/
+-rw-rw-r-- root/root      1633 2019-04-23 08:40 role-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-23 08:40 role-java-master/tasks/
+-rw-rw-r-- root/root       492 2019-04-23 08:40 role-java-master/tasks/java-install.yml
+-rw-rw-r-- root/root        37 2019-04-23 08:40 role-java-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-23 08:40 role-java-master/tests/
+-rw-rw-r-- root/root        11 2019-04-23 08:40 role-java-master/tests/inventory
+-rw-rw-r-- root/root        86 2019-04-23 08:40 role-java-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-23 08:40 role-java-master/vars/
+-rw-rw-r-- root/root        48 2019-04-23 08:40 role-java-master/vars/main.yml

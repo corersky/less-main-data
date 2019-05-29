@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/
+-rw-rw-r-- root/root        31 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/.gitignore
+-rw-rw-r-- root/root      1079 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/LICENSE
+-rw-rw-r-- root/root      2758 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/README.md
+drwxrwxr-x root/root         0 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/defaults/
+-rw-rw-r-- root/root       487 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/handlers/
+-rw-rw-r-- root/root       121 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/meta/
+-rw-rw-r-- root/root       298 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/tasks/
+-rw-rw-r-- root/root      1017 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/templates/
+-rw-rw-r-- root/root       861 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/templates/nslcd.conf.j2
+-rwxrwxr-x root/root       230 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/test_role.sh
+drwxrwxr-x root/root         0 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/vars/
+-rw-rw-r-- root/root       637 2015-02-09 05:19 ansible-role-activedirectory-auth-client-master/vars/main.yml

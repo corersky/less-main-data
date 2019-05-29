@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-pgbouncer-master/
+-rw-rw-r-- root/root       539 2016-05-31 15:41 ansible-role-pgbouncer-master/.travis.yml
+-rw-rw-r-- root/root      1028 2016-05-31 15:41 ansible-role-pgbouncer-master/README.md
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-pgbouncer-master/defaults/
+-rw-rw-r-- root/root       104 2016-05-31 15:41 ansible-role-pgbouncer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-pgbouncer-master/handlers/
+-rw-rw-r-- root/root        72 2016-05-31 15:41 ansible-role-pgbouncer-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-pgbouncer-master/meta/
+-rw-rw-r-- root/root       400 2016-05-31 15:41 ansible-role-pgbouncer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-pgbouncer-master/tasks/
+-rw-rw-r-- root/root       409 2016-05-31 15:41 ansible-role-pgbouncer-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-31 15:41 ansible-role-pgbouncer-master/tests/
+-rw-rw-r-- root/root         9 2016-05-31 15:41 ansible-role-pgbouncer-master/tests/inventory
+-rw-rw-r-- root/root        80 2016-05-31 15:41 ansible-role-pgbouncer-master/tests/test.yml

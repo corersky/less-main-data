@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-11-17 07:30 ansible-mandrill_routes-master/
+-rw-rw-r-- root/root      2124 2017-11-17 07:30 ansible-mandrill_routes-master/README.md
+drwxrwxr-x root/root         0 2017-11-17 07:30 ansible-mandrill_routes-master/defaults/
+-rw-rw-r-- root/root       695 2017-11-17 07:30 ansible-mandrill_routes-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-17 07:30 ansible-mandrill_routes-master/meta/
+-rw-rw-r-- root/root       417 2017-11-17 07:30 ansible-mandrill_routes-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-17 07:30 ansible-mandrill_routes-master/tasks/
+-rw-rw-r-- root/root      1073 2017-11-17 07:30 ansible-mandrill_routes-master/tasks/add_domain.yml
+-rw-rw-r-- root/root       233 2017-11-17 07:30 ansible-mandrill_routes-master/tasks/check_domain.yml
+-rw-rw-r-- root/root       234 2017-11-17 07:30 ansible-mandrill_routes-master/tasks/delete_domain.yml
+-rw-rw-r-- root/root       242 2017-11-17 07:30 ansible-mandrill_routes-master/tasks/main.yml

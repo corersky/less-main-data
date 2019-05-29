@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-04-09 07:57 ansible_docker_container-master/
+-rw-rw-r-- root/root     35122 2015-04-09 07:57 ansible_docker_container-master/LICENSE
+-rw-rw-r-- root/root      7696 2015-04-09 07:57 ansible_docker_container-master/README.md
+drwxrwxr-x root/root         0 2015-04-09 07:57 ansible_docker_container-master/defaults/
+-rw-rw-r-- root/root       129 2015-04-09 07:57 ansible_docker_container-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-09 07:57 ansible_docker_container-master/meta/
+-rw-rw-r-- root/root      1533 2015-04-09 07:57 ansible_docker_container-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-09 07:57 ansible_docker_container-master/tasks/
+-rw-rw-r-- root/root       287 2015-04-09 07:57 ansible_docker_container-master/tasks/data_volume_container.yml
+-rw-rw-r-- root/root      1090 2015-04-09 07:57 ansible_docker_container-master/tasks/main.yml
+-rw-rw-r-- root/root       177 2015-04-09 07:57 ansible_docker_container-master/tasks/nginx_proxy_config.yml
+-rw-rw-r-- root/root       536 2015-04-09 07:57 ansible_docker_container-master/tasks/nginx_proxy_tls.yml
+-rw-rw-r-- root/root       400 2015-04-09 07:57 ansible_docker_container-master/tasks/save_container_metadata.yml
+drwxrwxr-x root/root         0 2015-04-09 07:57 ansible_docker_container-master/vars/
+-rw-rw-r-- root/root       147 2015-04-09 07:57 ansible_docker_container-master/vars/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-19 10:10 ansible-nodejs-master/
+-rw-rw-r-- root/root        24 2019-04-19 10:10 ansible-nodejs-master/.gitignore
+-rw-rw-r-- root/root      1652 2019-04-19 10:10 ansible-nodejs-master/.travis.yml
+-rw-rw-r-- root/root     18047 2019-04-19 10:10 ansible-nodejs-master/LICENSE
+-rw-rw-r-- root/root       924 2019-04-19 10:10 ansible-nodejs-master/README.md
+-rw-rw-r-- root/root      2544 2019-04-19 10:10 ansible-nodejs-master/Vagrantfile
+drwxrwxr-x root/root         0 2019-04-19 10:10 ansible-nodejs-master/defaults/
+-rw-rw-r-- root/root        82 2019-04-19 10:10 ansible-nodejs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-19 10:10 ansible-nodejs-master/meta/
+-rw-rw-r-- root/root       326 2019-04-19 10:10 ansible-nodejs-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-19 10:10 ansible-nodejs-master/tasks/
+-rw-rw-r-- root/root       613 2019-04-19 10:10 ansible-nodejs-master/tasks/main.yml
+-rw-rw-r-- root/root       630 2019-04-19 10:10 ansible-nodejs-master/tasks/upstream.yml
+drwxrwxr-x root/root         0 2019-04-19 10:10 ansible-nodejs-master/tests/
+-rw-rw-r-- root/root       559 2019-04-19 10:10 ansible-nodejs-master/tests/test.yml

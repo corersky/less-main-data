@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-12-03 17:00 ansible-ssh-master/
+-rw-rw-r-- root/root       677 2016-12-03 17:00 ansible-ssh-master/.travis.yml
+-rw-rw-r-- root/root      1079 2016-12-03 17:00 ansible-ssh-master/LICENSE
+-rw-rw-r-- root/root      1202 2016-12-03 17:00 ansible-ssh-master/README.md
+drwxrwxr-x root/root         0 2016-12-03 17:00 ansible-ssh-master/defaults/
+-rw-rw-r-- root/root       113 2016-12-03 17:00 ansible-ssh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-03 17:00 ansible-ssh-master/library/
+-rwxrwxr-x root/root     25895 2016-12-03 17:00 ansible-ssh-master/library/ssh_config.py
+drwxrwxr-x root/root         0 2016-12-03 17:00 ansible-ssh-master/meta/
+-rw-rw-r-- root/root       391 2016-12-03 17:00 ansible-ssh-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-03 17:00 ansible-ssh-master/tasks/
+-rw-rw-r-- root/root       703 2016-12-03 17:00 ansible-ssh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-03 17:00 ansible-ssh-master/tests/
+-rw-rw-r-- root/root        10 2016-12-03 17:00 ansible-ssh-master/tests/inventory
+-rw-rw-r-- root/root        62 2016-12-03 17:00 ansible-ssh-master/tests/test.yml

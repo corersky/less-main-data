@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-02-08 19:27 drupal-master/
+-rw-rw-r-- root/root       591 2019-02-08 19:27 drupal-master/README.md
+drwxrwxr-x root/root         0 2019-02-08 19:27 drupal-master/handlers/
+-rw-rw-r-- root/root       214 2019-02-08 19:27 drupal-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2019-02-08 19:27 drupal-master/meta/
+-rw-rw-r-- root/root       492 2019-02-08 19:27 drupal-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-08 19:27 drupal-master/tasks/
+-rw-rw-r-- root/root       201 2019-02-08 19:27 drupal-master/tasks/main.yaml
+-rw-rw-r-- root/root       821 2019-02-08 19:27 drupal-master/tasks/setup_db.yaml
+-rw-rw-r-- root/root       619 2019-02-08 19:27 drupal-master/tasks/setup_sys.yaml
+-rw-rw-r-- root/root       509 2019-02-08 19:27 drupal-master/tasks/setup_webs.yaml
+drwxrwxr-x root/root         0 2019-02-08 19:27 drupal-master/templates/
+-rw-rw-r-- root/root       993 2019-02-08 19:27 drupal-master/templates/my.cnf.j2
+-rw-rw-r-- root/root       375 2019-02-08 19:27 drupal-master/templates/nginxdef.j2
+-rw-rw-r-- root/root        50 2019-02-08 19:27 drupal-master/templates/rootmycnf.j2
+drwxrwxr-x root/root         0 2019-02-08 19:27 drupal-master/vars/
+-rw-rw-r-- root/root       489 2019-02-08 19:27 drupal-master/vars/vars.yaml

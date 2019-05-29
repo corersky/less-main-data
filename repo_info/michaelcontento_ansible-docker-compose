@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2015-08-25 04:19 ansible-docker-compose-master/
+-rw-rw-r-- root/root         0 2015-08-25 04:19 ansible-docker-compose-master/README.md
+drwxrwxr-x root/root         0 2015-08-25 04:19 ansible-docker-compose-master/defaults/
+-rw-rw-r-- root/root        80 2015-08-25 04:19 ansible-docker-compose-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-25 04:19 ansible-docker-compose-master/meta/
+-rw-rw-r-- root/root       207 2015-08-25 04:19 ansible-docker-compose-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-25 04:19 ansible-docker-compose-master/tasks/
+-rw-rw-r-- root/root       389 2015-08-25 04:19 ansible-docker-compose-master/tasks/install.yml
+-rw-rw-r-- root/root       186 2015-08-25 04:19 ansible-docker-compose-master/tasks/main.yml

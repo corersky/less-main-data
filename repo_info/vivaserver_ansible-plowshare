@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-08-25 08:30 ansible-plowshare-master/
+-rw-rw-r-- root/root         7 2014-08-25 08:30 ansible-plowshare-master/.gitignore
+-rw-rw-r-- root/root      1084 2014-08-25 08:30 ansible-plowshare-master/LICENSE
+-rw-rw-r-- root/root      1384 2014-08-25 08:30 ansible-plowshare-master/README.md
+-rw-rw-r-- root/root        28 2014-08-25 08:30 ansible-plowshare-master/ansible.cfg
+drwxrwxr-x root/root         0 2014-08-25 08:30 ansible-plowshare-master/files/
+-rw-rw-r-- root/root        98 2014-08-25 08:30 ansible-plowshare-master/files/plowshare.conf
+drwxrwxr-x root/root         0 2014-08-25 08:30 ansible-plowshare-master/meta/
+-rw-rw-r-- root/root       323 2014-08-25 08:30 ansible-plowshare-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-25 08:30 ansible-plowshare-master/tasks/
+-rw-rw-r-- root/root      1106 2014-08-25 08:30 ansible-plowshare-master/tasks/main.yml
+-rw-rw-r-- root/root       157 2014-08-25 08:30 ansible-plowshare-master/test.yml

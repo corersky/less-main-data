@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-05-06 19:42 ansible-role-bootstrap-master/
+-rw-rw-r-- root/root       866 2018-05-06 19:42 ansible-role-bootstrap-master/.bumplus.toml
+-rw-rw-r-- root/root       107 2018-05-06 19:42 ansible-role-bootstrap-master/.editorconfig
+-rw-rw-r-- root/root      3699 2018-05-06 19:42 ansible-role-bootstrap-master/.gitignore
+-rw-rw-r-- root/root       542 2018-05-06 19:42 ansible-role-bootstrap-master/.travis.yml
+-rw-rw-r-- root/root       634 2018-05-06 19:42 ansible-role-bootstrap-master/CHANGELOG.md
+-rw-rw-r-- root/root      1098 2018-05-06 19:42 ansible-role-bootstrap-master/LICENSE
+-rw-rw-r-- root/root      1243 2018-05-06 19:42 ansible-role-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2018-05-06 19:42 ansible-role-bootstrap-master/files/
+-rwxrwxr-x root/root      1807 2018-05-06 19:42 ansible-role-bootstrap-master/files/bootstrap.sh
+drwxrwxr-x root/root         0 2018-05-06 19:42 ansible-role-bootstrap-master/meta/
+-rw-rw-r-- root/root      2980 2018-05-06 19:42 ansible-role-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-06 19:42 ansible-role-bootstrap-master/tasks/
+-rw-rw-r-- root/root       101 2018-05-06 19:42 ansible-role-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-06 19:42 ansible-role-bootstrap-master/tests/
+-rw-rw-r-- root/root        10 2018-05-06 19:42 ansible-role-bootstrap-master/tests/inventory
+-rw-rw-r-- root/root        81 2018-05-06 19:42 ansible-role-bootstrap-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-07-23 20:31 ansible-role-swap-master/
+-rw-rw-r-- root/root      1082 2016-07-23 20:31 ansible-role-swap-master/.travis.yml
+-rw-rw-r-- root/root       566 2016-07-23 20:31 ansible-role-swap-master/README.md
+drwxrwxr-x root/root         0 2016-07-23 20:31 ansible-role-swap-master/defaults/
+-rw-rw-r-- root/root       167 2016-07-23 20:31 ansible-role-swap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-23 20:31 ansible-role-swap-master/meta/
+-rw-rw-r-- root/root       286 2016-07-23 20:31 ansible-role-swap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-23 20:31 ansible-role-swap-master/tasks/
+-rw-rw-r-- root/root      1885 2016-07-23 20:31 ansible-role-swap-master/tasks/main.yml
+-rw-rw-r-- root/root       205 2016-07-23 20:31 ansible-role-swap-master/tasks/remove_old_swap.yml
+drwxrwxr-x root/root         0 2016-07-23 20:31 ansible-role-swap-master/tests/
+-rw-rw-r-- root/root         9 2016-07-23 20:31 ansible-role-swap-master/tests/inventory
+-rw-rw-r-- root/root        77 2016-07-23 20:31 ansible-role-swap-master/tests/test.yml

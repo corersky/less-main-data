@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-08 16:22 ansible-supercollider-master/
+-rw-rw-r-- root/root         6 2018-06-08 16:22 ansible-supercollider-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-06-08 16:22 ansible-supercollider-master/LICENSE
+-rw-rw-r-- root/root       282 2018-06-08 16:22 ansible-supercollider-master/README.md
+drwxrwxr-x root/root         0 2018-06-08 16:22 ansible-supercollider-master/defaults/
+-rw-rw-r-- root/root        21 2018-06-08 16:22 ansible-supercollider-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-08 16:22 ansible-supercollider-master/handlers/
+-rw-rw-r-- root/root        37 2018-06-08 16:22 ansible-supercollider-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-08 16:22 ansible-supercollider-master/meta/
+-rw-rw-r-- root/root       274 2018-06-08 16:22 ansible-supercollider-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-08 16:22 ansible-supercollider-master/tasks/
+-rw-rw-r-- root/root      2287 2018-06-08 16:22 ansible-supercollider-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-08 16:22 ansible-supercollider-master/tests/
+-rw-rw-r-- root/root        11 2018-06-08 16:22 ansible-supercollider-master/tests/inventory
+-rw-rw-r-- root/root        71 2018-06-08 16:22 ansible-supercollider-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-08 16:22 ansible-supercollider-master/vars/
+-rw-rw-r-- root/root        33 2018-06-08 16:22 ansible-supercollider-master/vars/main.yml

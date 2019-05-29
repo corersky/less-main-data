@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/
+-rw-rw-r-- root/root     35141 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/LICENSE
+-rw-rw-r-- root/root      2540 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/README.md
+-rw-rw-r-- root/root       130 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/ansible-requirements.txt
+-rw-rw-r-- root/root       144 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/ansible.cfg
+-rw-rw-r-- root/root       274 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/container.yml
+drwxrwxr-x root/root         0 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/defaults/
+-rw-rw-r-- root/root      1670 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/handlers/
+-rw-rw-r-- root/root       132 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/meta/
+-rw-rw-r-- root/root       569 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/meta/main.yml
+-rw-rw-r-- root/root        33 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/requirements.yml
+drwxrwxr-x root/root         0 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/tasks/
+-rw-rw-r-- root/root      2015 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/tasks/main.yml
+-rw-rw-r-- root/root       154 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/tasks/repo-Debian.yml
+-rw-rw-r-- root/root       209 2018-04-04 23:18 ansible-role-hdp-ambari-server-master/tasks/repo-RedHat.yml

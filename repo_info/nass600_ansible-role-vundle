@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-12-19 16:23 ansible-role-vundle-master/
+-rw-rw-r-- root/root       960 2017-12-19 16:23 ansible-role-vundle-master/.travis.yml
+-rw-rw-r-- root/root      1074 2017-12-19 16:23 ansible-role-vundle-master/LICENSE
+-rw-rw-r-- root/root      1295 2017-12-19 16:23 ansible-role-vundle-master/README.md
+-rw-rw-r-- root/root        65 2017-12-19 16:23 ansible-role-vundle-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-12-19 16:23 ansible-role-vundle-master/defaults/
+-rw-rw-r-- root/root       105 2017-12-19 16:23 ansible-role-vundle-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-19 16:23 ansible-role-vundle-master/meta/
+-rw-rw-r-- root/root       650 2017-12-19 16:23 ansible-role-vundle-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-19 16:23 ansible-role-vundle-master/tasks/
+-rw-rw-r-- root/root       667 2017-12-19 16:23 ansible-role-vundle-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-19 16:23 ansible-role-vundle-master/tests/
+-rw-rw-r-- root/root        43 2017-12-19 16:23 ansible-role-vundle-master/tests/inventory
+-rw-rw-r-- root/root        78 2017-12-19 16:23 ansible-role-vundle-master/tests/playbook.yml

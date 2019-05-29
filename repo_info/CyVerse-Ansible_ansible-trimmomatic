@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-26 15:41 ansible-trimmomatic-master/
+-rw-rw-r-- root/root      1945 2017-07-26 15:41 ansible-trimmomatic-master/LICENSE.txt
+-rw-rw-r-- root/root       606 2017-07-26 15:41 ansible-trimmomatic-master/README.md
+drwxrwxr-x root/root         0 2017-07-26 15:41 ansible-trimmomatic-master/defaults/
+-rw-rw-r-- root/root        21 2017-07-26 15:41 ansible-trimmomatic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-26 15:41 ansible-trimmomatic-master/meta/
+-rw-rw-r-- root/root       332 2017-07-26 15:41 ansible-trimmomatic-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-26 15:41 ansible-trimmomatic-master/tasks/
+-rw-rw-r-- root/root       798 2017-07-26 15:41 ansible-trimmomatic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-26 15:41 ansible-trimmomatic-master/vars/
+-rw-rw-r-- root/root        32 2017-07-26 15:41 ansible-trimmomatic-master/vars/CentOS.yml
+-rw-rw-r-- root/root        36 2017-07-26 15:41 ansible-trimmomatic-master/vars/Ubuntu-14.yml
+-rw-rw-r-- root/root        27 2017-07-26 15:41 ansible-trimmomatic-master/vars/Ubuntu-16.yml

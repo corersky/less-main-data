@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-05-10 02:57 ansible-role-nrpe-master/
+-rw-rw-r-- root/root        37 2019-05-10 02:57 ansible-role-nrpe-master/.ansible-lint
+-rw-rw-r-- root/root      1115 2019-05-10 02:57 ansible-role-nrpe-master/LICENSE
+-rw-rw-r-- root/root      3034 2019-05-10 02:57 ansible-role-nrpe-master/README.md
+drwxrwxr-x root/root         0 2019-05-10 02:57 ansible-role-nrpe-master/defaults/
+-rw-rw-r-- root/root       858 2019-05-10 02:57 ansible-role-nrpe-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-10 02:57 ansible-role-nrpe-master/meta/
+-rw-rw-r-- root/root       448 2019-05-10 02:57 ansible-role-nrpe-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-10 02:57 ansible-role-nrpe-master/tasks/
+-rw-rw-r-- root/root       659 2019-05-10 02:57 ansible-role-nrpe-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-10 02:57 ansible-role-nrpe-master/templates/
+-rw-rw-r-- root/root      9627 2019-05-10 02:57 ansible-role-nrpe-master/templates/nrpe.cfg.j2

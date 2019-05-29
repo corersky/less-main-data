@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-27 04:07 ansible-role-python-pydata-master/
+-rw-rw-r-- root/root        22 2019-03-27 04:07 ansible-role-python-pydata-master/.gitignore
+-rw-rw-r-- root/root       215 2019-03-27 04:07 ansible-role-python-pydata-master/.travis.yml
+-rw-rw-r-- root/root       472 2019-03-27 04:07 ansible-role-python-pydata-master/README.md
+drwxrwxr-x root/root         0 2019-03-27 04:07 ansible-role-python-pydata-master/meta/
+-rw-rw-r-- root/root       288 2019-03-27 04:07 ansible-role-python-pydata-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-27 04:07 ansible-role-python-pydata-master/molecule/
+drwxrwxr-x root/root         0 2019-03-27 04:07 ansible-role-python-pydata-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-03-27 04:07 ansible-role-python-pydata-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       271 2019-03-27 04:07 ansible-role-python-pydata-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        82 2019-03-27 04:07 ansible-role-python-pydata-master/molecule/default/playbook.yml
+drwxrwxr-x root/root         0 2019-03-27 04:07 ansible-role-python-pydata-master/molecule/default/tests/
+-rw-rw-r-- root/root       422 2019-03-27 04:07 ansible-role-python-pydata-master/molecule/default/tests/test_default.py
+drwxrwxr-x root/root         0 2019-03-27 04:07 ansible-role-python-pydata-master/tasks/
+-rw-rw-r-- root/root       451 2019-03-27 04:07 ansible-role-python-pydata-master/tasks/main.yml

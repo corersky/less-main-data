@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-cleanup-master/
+-rw-rw-r-- root/root        25 2017-12-20 03:44 ansible-role-package-cleanup-master/.gitattributes
+-rw-rw-r-- root/root         5 2017-12-20 03:44 ansible-role-package-cleanup-master/.gitignore
+-rw-rw-r-- root/root       539 2017-12-20 03:44 ansible-role-package-cleanup-master/.travis.yml
+-rw-rw-r-- root/root       265 2017-12-20 03:44 ansible-role-package-cleanup-master/CHANGELOG.md
+-rw-rw-r-- root/root      1080 2017-12-20 03:44 ansible-role-package-cleanup-master/LICENSE
+-rw-rw-r-- root/root       741 2017-12-20 03:44 ansible-role-package-cleanup-master/README.md
+-rw-rw-r-- root/root         5 2017-12-20 03:44 ansible-role-package-cleanup-master/VERSION
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-cleanup-master/defaults/
+-rw-rw-r-- root/root        68 2017-12-20 03:44 ansible-role-package-cleanup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-cleanup-master/meta/
+-rw-rw-r-- root/root       278 2017-12-20 03:44 ansible-role-package-cleanup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-cleanup-master/tasks/
+-rw-rw-r-- root/root       245 2017-12-20 03:44 ansible-role-package-cleanup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-20 03:44 ansible-role-package-cleanup-master/tests/
+-rw-rw-r-- root/root         9 2017-12-20 03:44 ansible-role-package-cleanup-master/tests/inventory
+-rw-rw-r-- root/root        86 2017-12-20 03:44 ansible-role-package-cleanup-master/tests/test.yml

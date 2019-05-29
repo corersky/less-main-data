@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-23 10:30 ansible-role-golem-compute-master/
+-rw-rw-r-- root/root      1328 2019-05-23 10:30 ansible-role-golem-compute-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 10:30 ansible-role-golem-compute-master/defaults/
+-rw-rw-r-- root/root       928 2019-05-23 10:30 ansible-role-golem-compute-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 10:30 ansible-role-golem-compute-master/handlers/
+-rw-rw-r-- root/root       372 2019-05-23 10:30 ansible-role-golem-compute-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-23 10:30 ansible-role-golem-compute-master/meta/
+-rw-rw-r-- root/root       468 2019-05-23 10:30 ansible-role-golem-compute-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 10:30 ansible-role-golem-compute-master/tasks/
+-rw-rw-r-- root/root      3480 2019-05-23 10:30 ansible-role-golem-compute-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 10:30 ansible-role-golem-compute-master/templates/
+-rw-rw-r-- root/root       509 2019-05-23 10:30 ansible-role-golem-compute-master/templates/golem.service.j2
+drwxrwxr-x root/root         0 2019-05-23 10:30 ansible-role-golem-compute-master/tests/
+-rw-rw-r-- root/root        11 2019-05-23 10:30 ansible-role-golem-compute-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-05-23 10:30 ansible-role-golem-compute-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-23 10:30 ansible-role-golem-compute-master/vars/
+-rw-rw-r-- root/root       670 2019-05-23 10:30 ansible-role-golem-compute-master/vars/main.yml

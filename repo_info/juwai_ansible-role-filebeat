@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-05-15 23:03 ansible-role-filebeat-master/
+drwxrwxr-x root/root         0 2016-05-15 23:03 ansible-role-filebeat-master/.github/
+-rw-rw-r-- root/root       405 2016-05-15 23:03 ansible-role-filebeat-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root      1072 2016-05-15 23:03 ansible-role-filebeat-master/LICENSE
+-rw-rw-r-- root/root      1389 2016-05-15 23:03 ansible-role-filebeat-master/README.md
+drwxrwxr-x root/root         0 2016-05-15 23:03 ansible-role-filebeat-master/defaults/
+-rw-rw-r-- root/root       636 2016-05-15 23:03 ansible-role-filebeat-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-15 23:03 ansible-role-filebeat-master/handlers/
+-rw-rw-r-- root/root       309 2016-05-15 23:03 ansible-role-filebeat-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-15 23:03 ansible-role-filebeat-master/meta/
+-rw-rw-r-- root/root       396 2016-05-15 23:03 ansible-role-filebeat-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-15 23:03 ansible-role-filebeat-master/tasks/
+-rw-rw-r-- root/root      1175 2016-05-15 23:03 ansible-role-filebeat-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-15 23:03 ansible-role-filebeat-master/templates/
+-rw-rw-r-- root/root        54 2016-05-15 23:03 ansible-role-filebeat-master/templates/filebeat.yml.j2
+-rw-rw-r-- root/root       448 2016-05-15 23:03 ansible-role-filebeat-master/templates/supervisor.d_filebeat.conf.j2

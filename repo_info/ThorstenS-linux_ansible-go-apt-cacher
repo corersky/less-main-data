@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-07-04 11:59 ansible-go-apt-cacher-master/
+-rw-rw-r-- root/root     35141 2017-07-04 11:59 ansible-go-apt-cacher-master/LICENSE
+-rw-rw-r-- root/root      1579 2017-07-04 11:59 ansible-go-apt-cacher-master/README.md
+drwxrwxr-x root/root         0 2017-07-04 11:59 ansible-go-apt-cacher-master/files/
+-rw-rw-r-- root/root        14 2017-07-04 11:59 ansible-go-apt-cacher-master/files/.gitignore
+-rw-rw-r-- root/root      1073 2017-07-04 11:59 ansible-go-apt-cacher-master/files/LICENSE
+-rw-rw-r-- root/root      1963 2017-07-04 11:59 ansible-go-apt-cacher-master/files/USAGE.md
+-rw-rw-r-- root/root       133 2017-07-04 11:59 ansible-go-apt-cacher-master/files/go-apt-cacher.logrotate
+-rw-rw-r-- root/root       332 2017-07-04 11:59 ansible-go-apt-cacher-master/files/go-apt-cacher.service
+-rw-rw-r-- root/root      1374 2017-07-04 11:59 ansible-go-apt-cacher-master/files/go-apt-cacher.toml
+drwxrwxr-x root/root         0 2017-07-04 11:59 ansible-go-apt-cacher-master/handlers/
+-rw-rw-r-- root/root       237 2017-07-04 11:59 ansible-go-apt-cacher-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-07-04 11:59 ansible-go-apt-cacher-master/meta/
+-rw-rw-r-- root/root       275 2017-07-04 11:59 ansible-go-apt-cacher-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-04 11:59 ansible-go-apt-cacher-master/tasks/
+-rw-rw-r-- root/root      1726 2017-07-04 11:59 ansible-go-apt-cacher-master/tasks/main.yml

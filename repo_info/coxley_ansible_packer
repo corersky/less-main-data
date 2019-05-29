@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-08-13 16:05 ansible_packer-master/
+-rw-rw-r-- root/root       483 2016-08-13 16:05 ansible_packer-master/LICENSE
+-rw-rw-r-- root/root      1401 2016-08-13 16:05 ansible_packer-master/README.md
+drwxrwxr-x root/root         0 2016-08-13 16:05 ansible_packer-master/defaults/
+-rw-rw-r-- root/root       127 2016-08-13 16:05 ansible_packer-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-13 16:05 ansible_packer-master/library/
+-rwxrwxr-x root/root      4493 2016-08-13 16:05 ansible_packer-master/library/packer
+drwxrwxr-x root/root         0 2016-08-13 16:05 ansible_packer-master/meta/
+-rw-rw-r-- root/root       288 2016-08-13 16:05 ansible_packer-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-13 16:05 ansible_packer-master/tasks/
+drwxrwxr-x root/root         0 2016-08-13 16:05 ansible_packer-master/tasks/aur/
+-rw-rw-r-- root/root      2029 2016-08-13 16:05 ansible_packer-master/tasks/aur/pkg.yml
+-rw-rw-r-- root/root       217 2016-08-13 16:05 ansible_packer-master/tasks/main.yml

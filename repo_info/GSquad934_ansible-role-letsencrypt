@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-04-13 17:34 ansible-role-letsencrypt-master/
+-rw-rw-r-- root/root       149 2018-04-13 17:34 ansible-role-letsencrypt-master/.gitignore
+-rw-rw-r-- root/root      1071 2018-04-13 17:34 ansible-role-letsencrypt-master/LICENSE.md
+-rw-rw-r-- root/root       779 2018-04-13 17:34 ansible-role-letsencrypt-master/README.md
+drwxrwxr-x root/root         0 2018-04-13 17:34 ansible-role-letsencrypt-master/meta/
+-rw-rw-r-- root/root       291 2018-04-13 17:34 ansible-role-letsencrypt-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-04-13 17:34 ansible-role-letsencrypt-master/tasks/
+-rw-rw-r-- root/root       417 2018-04-13 17:34 ansible-role-letsencrypt-master/tasks/letsencrypt.yml
+-rw-rw-r-- root/root        61 2018-04-13 17:34 ansible-role-letsencrypt-master/tasks/main.yml

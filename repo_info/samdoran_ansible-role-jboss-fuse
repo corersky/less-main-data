@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-12-12 01:02 ansible-role-jboss-fuse-master/
+-rw-rw-r-- root/root         6 2018-12-12 01:02 ansible-role-jboss-fuse-master/.gitignore
+-rw-rw-r-- root/root       519 2018-12-12 01:02 ansible-role-jboss-fuse-master/.travis.yml
+-rw-rw-r-- root/root      1145 2018-12-12 01:02 ansible-role-jboss-fuse-master/README.md
+drwxrwxr-x root/root         0 2018-12-12 01:02 ansible-role-jboss-fuse-master/defaults/
+-rw-rw-r-- root/root       124 2018-12-12 01:02 ansible-role-jboss-fuse-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-12 01:02 ansible-role-jboss-fuse-master/meta/
+-rw-rw-r-- root/root       292 2018-12-12 01:02 ansible-role-jboss-fuse-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-12 01:02 ansible-role-jboss-fuse-master/tasks/
+-rw-rw-r-- root/root       667 2018-12-12 01:02 ansible-role-jboss-fuse-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-12 01:02 ansible-role-jboss-fuse-master/tests/
+-rw-rw-r-- root/root         9 2018-12-12 01:02 ansible-role-jboss-fuse-master/tests/inventory
+-rw-rw-r-- root/root        82 2018-12-12 01:02 ansible-role-jboss-fuse-master/tests/test.yml

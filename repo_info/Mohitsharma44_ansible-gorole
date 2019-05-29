@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-10-11 23:00 ansible-gorole-master/
+-rw-rw-r-- root/root      1084 2017-10-11 23:00 ansible-gorole-master/README.md
+drwxrwxr-x root/root         0 2017-10-11 23:00 ansible-gorole-master/defaults/
+-rw-rw-r-- root/root        30 2017-10-11 23:00 ansible-gorole-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-11 23:00 ansible-gorole-master/handlers/
+-rw-rw-r-- root/root        30 2017-10-11 23:00 ansible-gorole-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-10-11 23:00 ansible-gorole-master/meta/
+-rw-rw-r-- root/root      1870 2017-10-11 23:00 ansible-gorole-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-11 23:00 ansible-gorole-master/tasks/
+-rw-rw-r-- root/root      2076 2017-10-11 23:00 ansible-gorole-master/tasks/debian-install-go.yml
+-rw-rw-r-- root/root       290 2017-10-11 23:00 ansible-gorole-master/tasks/debian-setup.yml
+-rw-rw-r-- root/root       357 2017-10-11 23:00 ansible-gorole-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-11 23:00 ansible-gorole-master/tests/
+-rw-rw-r-- root/root        11 2017-10-11 23:00 ansible-gorole-master/tests/inventory
+-rw-rw-r-- root/root        64 2017-10-11 23:00 ansible-gorole-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-11 23:00 ansible-gorole-master/vars/
+-rw-rw-r-- root/root       263 2017-10-11 23:00 ansible-gorole-master/vars/main.yml

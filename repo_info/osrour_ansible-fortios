@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-03-07 16:14 ansible-fortios-master/
+-rw-rw-r-- root/root     11357 2018-03-07 16:14 ansible-fortios-master/LICENSE
+-rw-rw-r-- root/root       278 2018-03-07 16:14 ansible-fortios-master/README.md
+drwxrwxr-x root/root         0 2018-03-07 16:14 ansible-fortios-master/defaults/
+-rw-rw-r-- root/root       246 2018-03-07 16:14 ansible-fortios-master/defaults/main.yml
+-rw-rw-r-- root/root      3703 2018-03-07 16:14 ansible-fortios-master/defaults/template.yml
+drwxrwxr-x root/root         0 2018-03-07 16:14 ansible-fortios-master/meta/
+-rw-rw-r-- root/root       369 2018-03-07 16:14 ansible-fortios-master/meta/main.yml
+-rw-rw-r-- root/root       149 2018-03-07 16:14 ansible-fortios-master/play.yml
+drwxrwxr-x root/root         0 2018-03-07 16:14 ansible-fortios-master/tasks/
+-rw-rw-r-- root/root       582 2018-03-07 16:14 ansible-fortios-master/tasks/main.yml
+-rw-rw-r-- root/root      9531 2018-03-07 16:14 ansible-fortios-master/tasks/template.yml
+drwxrwxr-x root/root         0 2018-03-07 16:14 ansible-fortios-master/vars/
+-rw-rw-r-- root/root       178 2018-03-07 16:14 ansible-fortios-master/vars/main.yml

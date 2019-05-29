@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-05-13 07:34 ansible-role-mongodb-exporter-master/
+-rw-rw-r-- root/root      1077 2019-05-13 07:34 ansible-role-mongodb-exporter-master/LICENSE
+-rw-rw-r-- root/root      5455 2019-05-13 07:34 ansible-role-mongodb-exporter-master/README.md
+drwxrwxr-x root/root         0 2019-05-13 07:34 ansible-role-mongodb-exporter-master/defaults/
+-rw-rw-r-- root/root      3506 2019-05-13 07:34 ansible-role-mongodb-exporter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-13 07:34 ansible-role-mongodb-exporter-master/handlers/
+-rw-rw-r-- root/root       144 2019-05-13 07:34 ansible-role-mongodb-exporter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-13 07:34 ansible-role-mongodb-exporter-master/meta/
+-rw-rw-r-- root/root       474 2019-05-13 07:34 ansible-role-mongodb-exporter-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-13 07:34 ansible-role-mongodb-exporter-master/tasks/
+-rw-rw-r-- root/root      4249 2019-05-13 07:34 ansible-role-mongodb-exporter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-13 07:34 ansible-role-mongodb-exporter-master/templates/
+-rw-rw-r-- root/root       110 2019-05-13 07:34 ansible-role-mongodb-exporter-master/templates/mongodb_exporter.environment.conf.j2
+-rw-rw-r-- root/root      2438 2019-05-13 07:34 ansible-role-mongodb-exporter-master/templates/mongodb_exporter.service.j2

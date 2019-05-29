@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-03-07 22:00 ansible-scala-master/
+-rw-rw-r-- root/root       489 2015-03-07 22:00 ansible-scala-master/.travis.yml
+-rw-rw-r-- root/root      1049 2015-03-07 22:00 ansible-scala-master/Dockerfile
+-rw-rw-r-- root/root     11325 2015-03-07 22:00 ansible-scala-master/LICENSE
+-rw-rw-r-- root/root       390 2015-03-07 22:00 ansible-scala-master/README.md
+-rw-rw-r-- root/root       484 2015-03-07 22:00 ansible-scala-master/build.sh
+drwxrwxr-x root/root         0 2015-03-07 22:00 ansible-scala-master/ci/
+-rw-rw-r-- root/root        17 2015-03-07 22:00 ansible-scala-master/ci/inventory
+-rw-rw-r-- root/root       128 2015-03-07 22:00 ansible-scala-master/ci/playbook.yml
+-rw-rw-r-- root/root       254 2015-03-07 22:00 ansible-scala-master/ci/tests.yml
+drwxrwxr-x root/root         0 2015-03-07 22:00 ansible-scala-master/meta/
+-rw-rw-r-- root/root      1985 2015-03-07 22:00 ansible-scala-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-07 22:00 ansible-scala-master/tasks/
+-rw-rw-r-- root/root      1212 2015-03-07 22:00 ansible-scala-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-07 22:00 ansible-scala-master/vars/
+-rw-rw-r-- root/root       373 2015-03-07 22:00 ansible-scala-master/vars/main.yml

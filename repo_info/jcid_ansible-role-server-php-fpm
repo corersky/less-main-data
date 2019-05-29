@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-fpm-master/
+-rw-rw-r-- root/root       540 2016-12-11 10:56 ansible-role-server-php-fpm-master/.travis.yml
+-rw-rw-r-- root/root        82 2016-12-11 10:56 ansible-role-server-php-fpm-master/README.md
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-fpm-master/handlers/
+-rw-rw-r-- root/root        73 2016-12-11 10:56 ansible-role-server-php-fpm-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-fpm-master/meta/
+-rw-rw-r-- root/root       215 2016-12-11 10:56 ansible-role-server-php-fpm-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-fpm-master/tasks/
+-rw-rw-r-- root/root       594 2016-12-11 10:56 ansible-role-server-php-fpm-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-11 10:56 ansible-role-server-php-fpm-master/tests/
+-rw-rw-r-- root/root        10 2016-12-11 10:56 ansible-role-server-php-fpm-master/tests/inventory
+-rw-rw-r-- root/root        73 2016-12-11 10:56 ansible-role-server-php-fpm-master/tests/test.yml

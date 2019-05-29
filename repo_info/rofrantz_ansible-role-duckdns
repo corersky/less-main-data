@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/
+-rw-rw-r-- root/root       183 2018-03-06 12:09 ansible-role-duckdns-master/.gitignore
+-rw-rw-r-- root/root      1235 2018-03-06 12:09 ansible-role-duckdns-master/.travis.yml
+-rw-rw-r-- root/root      1063 2018-03-06 12:09 ansible-role-duckdns-master/LICENSE
+-rw-rw-r-- root/root      1083 2018-03-06 12:09 ansible-role-duckdns-master/Makefile
+-rw-rw-r-- root/root      1829 2018-03-06 12:09 ansible-role-duckdns-master/README.md
+drwxrwxr-x root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/defaults/
+-rw-rw-r-- root/root       343 2018-03-06 12:09 ansible-role-duckdns-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/handlers/
+-rw-rw-r-- root/root       103 2018-03-06 12:09 ansible-role-duckdns-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/meta/
+-rw-rw-r-- root/root      3828 2018-03-06 12:09 ansible-role-duckdns-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/tasks/
+-rw-rw-r-- root/root      1091 2018-03-06 12:09 ansible-role-duckdns-master/tasks/main.yml
+-rw-rw-r-- root/root       160 2018-03-06 12:09 ansible-role-duckdns-master/tasks/ubuntu_packages.yml
+drwxrwxr-x root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/templates/
+-rw-rw-r-- root/root       176 2018-03-06 12:09 ansible-role-duckdns-master/templates/duck.sh
+drwxrwxr-x root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/tests/
+drwxrwxr-x root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/tests/vagrant/
+-rw-rw-r-- root/root      1562 2018-03-06 12:09 ansible-role-duckdns-master/tests/vagrant/Vagrantfile
+-rw-rw-r-- root/root        34 2018-03-06 12:09 ansible-role-duckdns-master/tests/vagrant/ansible.cfg
+-rw-rw-r-- root/root        55 2018-03-06 12:09 ansible-role-duckdns-master/tests/vagrant/integration_requirements.yml
+-rw-rw-r-- root/root         9 2018-03-06 12:09 ansible-role-duckdns-master/tests/vagrant/inventory
+lrwxrwxrwx root/root         0 2018-03-06 12:09 ansible-role-duckdns-master/tests/vagrant/rofrantz.duckdns -> ../..
+-rw-rw-r-- root/root       396 2018-03-06 12:09 ansible-role-duckdns-master/tests/vagrant/test.yml
+-rw-rw-r-- root/root       104 2018-03-06 12:09 ansible-role-duckdns-master/travis.cfg

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-05-21 12:08 ansible-role-time-master/
+-rw-rw-r-- root/root       197 2015-05-21 12:08 ansible-role-time-master/.editorconfig
+-rw-rw-r-- root/root        12 2015-05-21 12:08 ansible-role-time-master/.gitattributes
+-rw-rw-r-- root/root        40 2015-05-21 12:08 ansible-role-time-master/.gitignore
+-rw-rw-r-- root/root       466 2015-05-21 12:08 ansible-role-time-master/.travis.yml
+-rw-rw-r-- root/root      1050 2015-05-21 12:08 ansible-role-time-master/LICENSE
+-rw-rw-r-- root/root       963 2015-05-21 12:08 ansible-role-time-master/README.md
+drwxrwxr-x root/root         0 2015-05-21 12:08 ansible-role-time-master/defaults/
+-rw-rw-r-- root/root        55 2015-05-21 12:08 ansible-role-time-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:08 ansible-role-time-master/meta/
+-rw-rw-r-- root/root       252 2015-05-21 12:08 ansible-role-time-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:08 ansible-role-time-master/tasks/
+-rw-rw-r-- root/root       525 2015-05-21 12:08 ansible-role-time-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-21 12:08 ansible-role-time-master/tests/
+-rw-rw-r-- root/root        83 2015-05-21 12:08 ansible-role-time-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2015-05-21 12:08 ansible-role-time-master/tests/inventory
+-rw-rw-r-- root/root       100 2015-05-21 12:08 ansible-role-time-master/tests/playbook.yml

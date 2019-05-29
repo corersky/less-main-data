@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2016-02-04 03:20 ansible-role-self-update-master/
+-rw-rw-r-- root/root      5451 2016-02-04 03:20 ansible-role-self-update-master/README.md
+drwxrwxr-x root/root         0 2016-02-04 03:20 ansible-role-self-update-master/defaults/
+-rw-rw-r-- root/root      1490 2016-02-04 03:20 ansible-role-self-update-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-04 03:20 ansible-role-self-update-master/files/
+-rw-rw-r-- root/root        62 2016-02-04 03:20 ansible-role-self-update-master/files/boot-update.id_rsa
+-rw-rw-r-- root/root        37 2016-02-04 03:20 ansible-role-self-update-master/files/dynamic_host_executable_script.sh
+lrwxrwxrwx root/root         0 2016-02-04 03:20 ansible-role-self-update-master/files/echo.sh -> dynamic_host_executable_script.sh
+drwxrwxr-x root/root         0 2016-02-04 03:20 ansible-role-self-update-master/handlers/
+-rw-rw-r-- root/root        36 2016-02-04 03:20 ansible-role-self-update-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-04 03:20 ansible-role-self-update-master/meta/
+-rw-rw-r-- root/root      2416 2016-02-04 03:20 ansible-role-self-update-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-04 03:20 ansible-role-self-update-master/tasks/
+-rw-rw-r-- root/root       731 2016-02-04 03:20 ansible-role-self-update-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-04 03:20 ansible-role-self-update-master/templates/
+-rw-rw-r-- root/root      2039 2016-02-04 03:20 ansible-role-self-update-master/templates/selfupdate.sh.j2
+drwxrwxr-x root/root         0 2016-02-04 03:20 ansible-role-self-update-master/vars/
+-rw-rw-r-- root/root        32 2016-02-04 03:20 ansible-role-self-update-master/vars/main.yml

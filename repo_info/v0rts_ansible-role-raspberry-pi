@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-raspberry-pi-master/
+-rw-rw-r-- root/root       994 2019-02-24 13:55 ansible-role-raspberry-pi-master/.gitignore
+-rw-rw-r-- root/root      1186 2019-02-24 13:55 ansible-role-raspberry-pi-master/.travis.yml
+-rw-rw-r-- root/root       278 2019-02-24 13:55 ansible-role-raspberry-pi-master/.whitesource
+-rw-rw-r-- root/root      1540 2019-02-24 13:55 ansible-role-raspberry-pi-master/README.md
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-raspberry-pi-master/defaults/
+-rw-rw-r-- root/root       384 2019-02-24 13:55 ansible-role-raspberry-pi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-raspberry-pi-master/meta/
+-rw-rw-r-- root/root       274 2019-02-24 13:55 ansible-role-raspberry-pi-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-raspberry-pi-master/tasks/
+-rw-rw-r-- root/root       487 2019-02-24 13:55 ansible-role-raspberry-pi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-24 13:55 ansible-role-raspberry-pi-master/tests/
+-rw-rw-r-- root/root        10 2019-02-24 13:55 ansible-role-raspberry-pi-master/tests/inventory
+-rw-rw-r-- root/root       117 2019-02-24 13:55 ansible-role-raspberry-pi-master/tests/test.yml

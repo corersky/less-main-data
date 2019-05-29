@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/
+-rw-rw-r-- root/root         4 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/.gitignore
+-rw-rw-r-- root/root       540 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/.travis.yml
+-rw-rw-r-- root/root      1895 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/README.md
+drwxrwxr-x root/root         0 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/defaults/
+-rw-rw-r-- root/root      3217 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/meta/
+-rw-rw-r-- root/root       295 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/tasks/
+-rw-rw-r-- root/root      1605 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/tests/
+-rw-rw-r-- root/root        10 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/tests/inventory
+-rw-rw-r-- root/root        98 2017-02-24 03:59 ansible-role-openstack-idr-instance-master/tests/test.yml

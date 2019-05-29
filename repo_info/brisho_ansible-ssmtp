@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2014-01-03 22:26 ansible-ssmtp-master/
+-rw-rw-r-- root/root      1082 2014-01-03 22:26 ansible-ssmtp-master/LICENSE
+-rw-rw-r-- root/root       887 2014-01-03 22:26 ansible-ssmtp-master/README.md
+drwxrwxr-x root/root         0 2014-01-03 22:26 ansible-ssmtp-master/defaults/
+-rw-rw-r-- root/root       175 2014-01-03 22:26 ansible-ssmtp-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-01-03 22:26 ansible-ssmtp-master/meta/
+-rw-rw-r-- root/root       297 2014-01-03 22:26 ansible-ssmtp-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-01-03 22:26 ansible-ssmtp-master/tasks/
+-rw-rw-r-- root/root       307 2014-01-03 22:26 ansible-ssmtp-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-01-03 22:26 ansible-ssmtp-master/templates/
+-rw-rw-r-- root/root       670 2014-01-03 22:26 ansible-ssmtp-master/templates/ssmtp_conf.j2

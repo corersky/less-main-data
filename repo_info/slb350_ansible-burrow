@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-07-01 19:30 ansible-burrow-master/
+-rw-rw-r-- root/root      1083 2015-07-01 19:30 ansible-burrow-master/LICENSE
+-rw-rw-r-- root/root      1361 2015-07-01 19:30 ansible-burrow-master/README.md
+drwxrwxr-x root/root         0 2015-07-01 19:30 ansible-burrow-master/defaults/
+-rw-rw-r-- root/root       242 2015-07-01 19:30 ansible-burrow-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-07-01 19:30 ansible-burrow-master/handlers/
+-rw-rw-r-- root/root        66 2015-07-01 19:30 ansible-burrow-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-07-01 19:30 ansible-burrow-master/meta/
+-rw-rw-r-- root/root       329 2015-07-01 19:30 ansible-burrow-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-07-01 19:30 ansible-burrow-master/tasks/
+-rw-rw-r-- root/root      1335 2015-07-01 19:30 ansible-burrow-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-07-01 19:30 ansible-burrow-master/templates/
+-rw-rw-r-- root/root      1057 2015-07-01 19:30 ansible-burrow-master/templates/burrow.cfg
+-rw-rw-r-- root/root       214 2015-07-01 19:30 ansible-burrow-master/templates/burrow.conf

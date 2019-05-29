@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-02-10 11:22 ansible-dhparam-master/
+-rw-rw-r-- root/root         6 2019-02-10 11:22 ansible-dhparam-master/.gitignore
+-rw-rw-r-- root/root       677 2019-02-10 11:22 ansible-dhparam-master/.travis.yml
+-rw-rw-r-- root/root      1072 2019-02-10 11:22 ansible-dhparam-master/LICENSE
+drwxrwxr-x root/root         0 2019-02-10 11:22 ansible-dhparam-master/defaults/
+-rw-rw-r-- root/root       254 2019-02-10 11:22 ansible-dhparam-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-10 11:22 ansible-dhparam-master/meta/
+-rw-rw-r-- root/root       532 2019-02-10 11:22 ansible-dhparam-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-10 11:22 ansible-dhparam-master/molecule/
+drwxrwxr-x root/root         0 2019-02-10 11:22 ansible-dhparam-master/molecule/default/
+-rw-rw-r-- root/root       961 2019-02-10 11:22 ansible-dhparam-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       634 2019-02-10 11:22 ansible-dhparam-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       123 2019-02-10 11:22 ansible-dhparam-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root       972 2019-02-10 11:22 ansible-dhparam-master/readme.md
+drwxrwxr-x root/root         0 2019-02-10 11:22 ansible-dhparam-master/tasks/
+-rw-rw-r-- root/root      1634 2019-02-10 11:22 ansible-dhparam-master/tasks/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-03-02 06:01 ansible-windows-springboot-master/
+-rw-rw-r-- root/root       228 2018-03-02 06:01 ansible-windows-springboot-master/.gitignore
+-rw-rw-r-- root/root       706 2018-03-02 06:01 ansible-windows-springboot-master/.travis.yml
+-rw-rw-r-- root/root      1068 2018-03-02 06:01 ansible-windows-springboot-master/LICENSE
+-rw-rw-r-- root/root      5476 2018-03-02 06:01 ansible-windows-springboot-master/README.md
+-rw-rw-r-- root/root       452 2018-03-02 06:01 ansible-windows-springboot-master/Vagrantfile
+drwxrwxr-x root/root         0 2018-03-02 06:01 ansible-windows-springboot-master/group_vars/
+-rw-rw-r-- root/root       378 2018-03-02 06:01 ansible-windows-springboot-master/group_vars/restexample-windows-dev.yml
+-rw-rw-r-- root/root       378 2018-03-02 06:01 ansible-windows-springboot-master/group_vars/restexample-windows-qa.yml
+-rw-rw-r-- root/root        71 2018-03-02 06:01 ansible-windows-springboot-master/hostsfile
+drwxrwxr-x root/root         0 2018-03-02 06:01 ansible-windows-springboot-master/meta/
+-rw-rw-r-- root/root      2513 2018-03-02 06:01 ansible-windows-springboot-master/meta/main.yml
+-rw-rw-r-- root/root      2813 2018-03-02 06:01 ansible-windows-springboot-master/restexample-windows.yml

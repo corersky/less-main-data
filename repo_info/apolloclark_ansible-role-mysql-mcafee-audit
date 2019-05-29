@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/
+-rw-rw-r-- root/root         8 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/.gitignore
+-rw-rw-r-- root/root      1180 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/README.md
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/defaults/
+-rw-rw-r-- root/root       258 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/handlers/
+-rw-rw-r-- root/root        87 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/meta/
+-rw-rw-r-- root/root       459 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/tasks/
+-rw-rw-r-- root/root      1132 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/templates/
+-rw-rw-r-- root/root       507 2018-09-27 16:16 ansible-role-mysql-mcafee-audit-master/templates/mcafee-audit.cnf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-03-06 13:18 ansible-aide-master/
+-rw-rw-r-- root/root       539 2019-03-06 13:18 ansible-aide-master/.travis.yml
+-rw-rw-r-- root/root      1081 2019-03-06 13:18 ansible-aide-master/LICENSE
+-rw-rw-r-- root/root      5887 2019-03-06 13:18 ansible-aide-master/README.md
+drwxrwxr-x root/root         0 2019-03-06 13:18 ansible-aide-master/defaults/
+-rw-rw-r-- root/root      5750 2019-03-06 13:18 ansible-aide-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-06 13:18 ansible-aide-master/handlers/
+-rw-rw-r-- root/root       279 2019-03-06 13:18 ansible-aide-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-06 13:18 ansible-aide-master/meta/
+-rw-rw-r-- root/root      3466 2019-03-06 13:18 ansible-aide-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-06 13:18 ansible-aide-master/tasks/
+-rw-rw-r-- root/root      3384 2019-03-06 13:18 ansible-aide-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-06 13:18 ansible-aide-master/templates/
+-rw-rw-r-- root/root      2849 2019-03-06 13:18 ansible-aide-master/templates/aide.conf.j2
+drwxrwxr-x root/root         0 2019-03-06 13:18 ansible-aide-master/tests/
+-rw-rw-r-- root/root         9 2019-03-06 13:18 ansible-aide-master/tests/inventory
+-rw-rw-r-- root/root        71 2019-03-06 13:18 ansible-aide-master/tests/test.yml

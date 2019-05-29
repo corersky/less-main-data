@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-10-09 09:41 ansible-vpn-router-master/
+-rw-rw-r-- root/root        34 2018-10-09 09:41 ansible-vpn-router-master/CONTRIBUTORS.txt
+-rw-rw-r-- root/root      1478 2018-10-09 09:41 ansible-vpn-router-master/LICENSE.md
+-rw-rw-r-- root/root      1968 2018-10-09 09:41 ansible-vpn-router-master/README.md
+drwxrwxr-x root/root         0 2018-10-09 09:41 ansible-vpn-router-master/defaults/
+-rw-rw-r-- root/root        73 2018-10-09 09:41 ansible-vpn-router-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-10-09 09:41 ansible-vpn-router-master/meta/
+-rw-rw-r-- root/root       312 2018-10-09 09:41 ansible-vpn-router-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-09 09:41 ansible-vpn-router-master/tasks/
+-rw-rw-r-- root/root      1495 2018-10-09 09:41 ansible-vpn-router-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-10-09 09:41 ansible-vpn-router-master/templates/
+-rw-rw-r-- root/root       179 2018-10-09 09:41 ansible-vpn-router-master/templates/apply-crypto-map.j2
+-rw-rw-r-- root/root       254 2018-10-09 09:41 ansible-vpn-router-master/templates/crypto-map.j2
+-rw-rw-r-- root/root       148 2018-10-09 09:41 ansible-vpn-router-master/templates/isakmp-policy.j2
+-rw-rw-r-- root/root       162 2018-10-09 09:41 ansible-vpn-router-master/templates/transform-set.j2

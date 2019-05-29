@@ -1,0 +1,18 @@
+drwxrwxr-x root/root         0 2019-04-04 10:11 ansible-role-security-group-master/
+-rw-rw-r-- root/root     11357 2019-04-04 10:11 ansible-role-security-group-master/LICENSE
+-rw-rw-r-- root/root      1569 2019-04-04 10:11 ansible-role-security-group-master/README.md
+drwxrwxr-x root/root         0 2019-04-04 10:11 ansible-role-security-group-master/defaults/
+-rw-rw-r-- root/root        54 2019-04-04 10:11 ansible-role-security-group-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:11 ansible-role-security-group-master/handlers/
+-rw-rw-r-- root/root        38 2019-04-04 10:11 ansible-role-security-group-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:11 ansible-role-security-group-master/meta/
+-rw-rw-r-- root/root       480 2019-04-04 10:11 ansible-role-security-group-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:11 ansible-role-security-group-master/tasks/
+-rw-rw-r-- root/root       842 2019-04-04 10:11 ansible-role-security-group-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-04 10:11 ansible-role-security-group-master/tests/
+-rw-rw-r-- root/root        35 2019-04-04 10:11 ansible-role-security-group-master/tests/inventory
+lrwxrwxrwx root/root         0 2019-04-04 10:11 ansible-role-security-group-master/tests/security_group -> ../
+-rw-rw-r-- root/root        10 2019-04-04 10:11 ansible-role-security-group-master/tests/test.retry
+-rw-rw-r-- root/root       448 2019-04-04 10:11 ansible-role-security-group-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-04 10:11 ansible-role-security-group-master/vars/
+-rw-rw-r-- root/root        34 2019-04-04 10:11 ansible-role-security-group-master/vars/main.yml

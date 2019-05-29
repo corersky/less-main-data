@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-12 11:40 monit-ansible-master/
+-rw-rw-r-- root/root       127 2018-06-12 11:40 monit-ansible-master/README.md
+drwxrwxr-x root/root         0 2018-06-12 11:40 monit-ansible-master/defaults/
+-rw-rw-r-- root/root       670 2018-06-12 11:40 monit-ansible-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-12 11:40 monit-ansible-master/handlers/
+-rw-rw-r-- root/root       126 2018-06-12 11:40 monit-ansible-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-12 11:40 monit-ansible-master/meta/
+-rw-rw-r-- root/root       271 2018-06-12 11:40 monit-ansible-master/meta/main.yml
+-rw-rw-r-- root/root       235 2018-06-12 11:40 monit-ansible-master/monit.yml
+drwxrwxr-x root/root         0 2018-06-12 11:40 monit-ansible-master/tasks/
+-rw-rw-r-- root/root       965 2018-06-12 11:40 monit-ansible-master/tasks/config.yml
+drwxrwxr-x root/root         0 2018-06-12 11:40 monit-ansible-master/templates/
+-rw-rw-r-- root/root       789 2018-06-12 11:40 monit-ansible-master/templates/filesystems_check.j2
+-rw-rw-r-- root/root      9674 2018-06-12 11:40 monit-ansible-master/templates/monit.conf.j2
+drwxrwxr-x root/root         0 2018-06-12 11:40 monit-ansible-master/vars/
+-rw-rw-r-- root/root        55 2018-06-12 11:40 monit-ansible-master/vars/main.yml

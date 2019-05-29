@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2019-02-06 09:16 ansible-role-configurator-master/
+-rw-rw-r-- root/root        32 2019-02-06 09:16 ansible-role-configurator-master/.gitignore
+-rw-rw-r-- root/root       163 2019-02-06 09:16 ansible-role-configurator-master/.travis.yml
+-rw-rw-r-- root/root      1131 2019-02-06 09:16 ansible-role-configurator-master/README.md
+drwxrwxr-x root/root         0 2019-02-06 09:16 ansible-role-configurator-master/defaults/
+-rw-rw-r-- root/root       729 2019-02-06 09:16 ansible-role-configurator-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-06 09:16 ansible-role-configurator-master/meta/
+-rw-rw-r-- root/root       363 2019-02-06 09:16 ansible-role-configurator-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-06 09:16 ansible-role-configurator-master/tasks/
+-rw-rw-r-- root/root      4001 2019-02-06 09:16 ansible-role-configurator-master/tasks/main.yml

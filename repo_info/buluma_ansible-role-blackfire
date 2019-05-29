@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-03-03 23:02 ansible-role-blackfire-master/
+-rw-rw-r-- root/root       416 2018-03-03 23:02 ansible-role-blackfire-master/.travis.yml
+-rw-rw-r-- root/root      1154 2018-03-03 23:02 ansible-role-blackfire-master/README.md
+drwxrwxr-x root/root         0 2018-03-03 23:02 ansible-role-blackfire-master/defaults/
+-rw-rw-r-- root/root       118 2018-03-03 23:02 ansible-role-blackfire-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-03 23:02 ansible-role-blackfire-master/meta/
+-rw-rw-r-- root/root       478 2018-03-03 23:02 ansible-role-blackfire-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-03 23:02 ansible-role-blackfire-master/tasks/
+-rw-rw-r-- root/root       310 2018-03-03 23:02 ansible-role-blackfire-master/tasks/main.yml
+-rw-rw-r-- root/root       414 2018-03-03 23:02 ansible-role-blackfire-master/tasks/setup-Debian.yml
+-rw-rw-r-- root/root       462 2018-03-03 23:02 ansible-role-blackfire-master/tasks/setup-RedHat.yml
+drwxrwxr-x root/root         0 2018-03-03 23:02 ansible-role-blackfire-master/tests/
+-rw-rw-r-- root/root       635 2018-03-03 23:02 ansible-role-blackfire-master/tests/README.md
+-rw-rw-r-- root/root        27 2018-03-03 23:02 ansible-role-blackfire-master/tests/requirements.yml
+-rw-rw-r-- root/root      1340 2018-03-03 23:02 ansible-role-blackfire-master/tests/test.yml

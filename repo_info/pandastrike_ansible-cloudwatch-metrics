@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2014-10-28 16:07 ansible-cloudwatch-metrics-master/
+-rw-rw-r-- root/root       914 2014-10-28 16:07 ansible-cloudwatch-metrics-master/README.md
+drwxrwxr-x root/root         0 2014-10-28 16:07 ansible-cloudwatch-metrics-master/meta/
+-rw-rw-r-- root/root       257 2014-10-28 16:07 ansible-cloudwatch-metrics-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-28 16:07 ansible-cloudwatch-metrics-master/tasks/
+-rw-rw-r-- root/root      1261 2014-10-28 16:07 ansible-cloudwatch-metrics-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-28 16:07 ansible-cloudwatch-metrics-master/templates/
+-rw-rw-r-- root/root       263 2014-10-28 16:07 ansible-cloudwatch-metrics-master/templates/cloudwatch.service.j2
+-rw-rw-r-- root/root       151 2014-10-28 16:07 ansible-cloudwatch-metrics-master/templates/cloudwatch.timer.j2

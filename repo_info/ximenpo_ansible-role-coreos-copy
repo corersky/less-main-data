@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-09-13 04:45 ansible-role-coreos-copy-master/
+-rw-rw-r-- root/root       235 2017-09-13 04:45 ansible-role-coreos-copy-master/.editorconfig
+-rw-rw-r-- root/root      1064 2017-09-13 04:45 ansible-role-coreos-copy-master/LICENSE
+-rw-rw-r-- root/root        75 2017-09-13 04:45 ansible-role-coreos-copy-master/README.md
+drwxrwxr-x root/root         0 2017-09-13 04:45 ansible-role-coreos-copy-master/defaults/
+-rw-rw-r-- root/root       283 2017-09-13 04:45 ansible-role-coreos-copy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-13 04:45 ansible-role-coreos-copy-master/meta/
+-rw-rw-r-- root/root       260 2017-09-13 04:45 ansible-role-coreos-copy-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-13 04:45 ansible-role-coreos-copy-master/tasks/
+-rw-rw-r-- root/root       620 2017-09-13 04:45 ansible-role-coreos-copy-master/tasks/copy-raw.yml
+-rw-rw-r-- root/root       488 2017-09-13 04:45 ansible-role-coreos-copy-master/tasks/copy-within-toolbox.yml
+-rw-rw-r-- root/root       154 2017-09-13 04:45 ansible-role-coreos-copy-master/tasks/main.yml

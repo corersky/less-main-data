@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-07-25 10:29 ansible-simpleca-master/
+-rw-rw-r-- root/root      1174 2016-07-25 10:29 ansible-simpleca-master/README.md
+-rw-rw-r-- root/root         6 2016-07-25 10:29 ansible-simpleca-master/VERSION
+drwxrwxr-x root/root         0 2016-07-25 10:29 ansible-simpleca-master/defaults/
+-rw-rw-r-- root/root       136 2016-07-25 10:29 ansible-simpleca-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-25 10:29 ansible-simpleca-master/meta/
+-rw-rw-r-- root/root       327 2016-07-25 10:29 ansible-simpleca-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-25 10:29 ansible-simpleca-master/tasks/
+-rw-rw-r-- root/root       423 2016-07-25 10:29 ansible-simpleca-master/tasks/client.yml
+-rw-rw-r-- root/root       258 2016-07-25 10:29 ansible-simpleca-master/tasks/main.yml
+-rw-rw-r-- root/root      1039 2016-07-25 10:29 ansible-simpleca-master/tasks/server.yml

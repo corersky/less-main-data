@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-05-14 09:29 ansible-php5-common-master/
+-rw-rw-r-- root/root       470 2014-05-14 09:29 ansible-php5-common-master/README.md
+drwxrwxr-x root/root         0 2014-05-14 09:29 ansible-php5-common-master/defaults/
+-rw-rw-r-- root/root        29 2014-05-14 09:29 ansible-php5-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-05-14 09:29 ansible-php5-common-master/handlers/
+-rw-rw-r-- root/root        29 2014-05-14 09:29 ansible-php5-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-05-14 09:29 ansible-php5-common-master/meta/
+-rw-rw-r-- root/root      2072 2014-05-14 09:29 ansible-php5-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-05-14 09:29 ansible-php5-common-master/tasks/
+-rw-rw-r-- root/root        74 2014-05-14 09:29 ansible-php5-common-master/tasks/apache.yml
+-rw-rw-r-- root/root       265 2014-05-14 09:29 ansible-php5-common-master/tasks/main.yml
+-rw-rw-r-- root/root       180 2014-05-14 09:29 ansible-php5-common-master/tasks/mysql.yml
+drwxrwxr-x root/root         0 2014-05-14 09:29 ansible-php5-common-master/vars/
+-rw-rw-r-- root/root        45 2014-05-14 09:29 ansible-php5-common-master/vars/main.yml

@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/
+-rw-rw-r-- root/root       698 2016-04-12 14:17 ansible-role-mpich-master/README.md
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/defaults/
+-rw-rw-r-- root/root       197 2016-04-12 14:17 ansible-role-mpich-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/examples/
+-rw-rw-r-- root/root         9 2016-04-12 14:17 ansible-role-mpich-master/examples/.gitignore
+-rw-rw-r-- root/root       279 2016-04-12 14:17 ansible-role-mpich-master/examples/Vagrantfile
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/examples/roles/
+lrwxrwxrwx root/root         0 2016-04-12 14:17 ansible-role-mpich-master/examples/roles/RDI2.mpich -> ../../
+-rw-rw-r-- root/root        55 2016-04-12 14:17 ansible-role-mpich-master/examples/site.yml
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/handlers/
+-rw-rw-r-- root/root        30 2016-04-12 14:17 ansible-role-mpich-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/meta/
+-rw-rw-r-- root/root       251 2016-04-12 14:17 ansible-role-mpich-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/tasks/
+-rw-rw-r-- root/root       571 2016-04-12 14:17 ansible-role-mpich-master/tasks/install.yml
+-rw-rw-r-- root/root       535 2016-04-12 14:17 ansible-role-mpich-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/tests/
+drwxrwxr-x root/root         0 2016-04-12 14:17 ansible-role-mpich-master/vars/
+-rw-rw-r-- root/root        26 2016-04-12 14:17 ansible-role-mpich-master/vars/main.yml

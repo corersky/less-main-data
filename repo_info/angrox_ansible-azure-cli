@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-09-27 07:11 ansible-azure-cli-master/
+-rw-rw-r-- root/root       982 2018-09-27 07:11 ansible-azure-cli-master/.travis.yml
+-rw-rw-r-- root/root       674 2018-09-27 07:11 ansible-azure-cli-master/README.md
+drwxrwxr-x root/root         0 2018-09-27 07:11 ansible-azure-cli-master/defaults/
+-rw-rw-r-- root/root       369 2018-09-27 07:11 ansible-azure-cli-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-27 07:11 ansible-azure-cli-master/meta/
+-rw-rw-r-- root/root       264 2018-09-27 07:11 ansible-azure-cli-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-27 07:11 ansible-azure-cli-master/tasks/
+-rw-rw-r-- root/root       125 2018-09-27 07:11 ansible-azure-cli-master/tasks/main.yml
+-rw-rw-r-- root/root      1202 2018-09-27 07:11 ansible-azure-cli-master/tasks/pip.yml
+-rw-rw-r-- root/root       558 2018-09-27 07:11 ansible-azure-cli-master/tasks/rpm.yml
+drwxrwxr-x root/root         0 2018-09-27 07:11 ansible-azure-cli-master/templates/
+-rw-rw-r-- root/root        78 2018-09-27 07:11 ansible-azure-cli-master/templates/python-wrapper.sh.j2
+drwxrwxr-x root/root         0 2018-09-27 07:11 ansible-azure-cli-master/tests/
+-rw-rw-r-- root/root       205 2018-09-27 07:11 ansible-azure-cli-master/tests/test.yml

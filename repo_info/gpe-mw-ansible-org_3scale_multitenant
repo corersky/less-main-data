@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-25 02:49 3scale_multitenant-master/
+-rwxrwxr-x root/root       190 2019-04-25 02:49 3scale_multitenant-master/.gitignore
+-rwxrwxr-x root/root     11768 2019-04-25 02:49 3scale_multitenant-master/README.adoc
+drwxrwxr-x root/root         0 2019-04-25 02:49 3scale_multitenant-master/defaults/
+-rwxrwxr-x root/root      4281 2019-04-25 02:49 3scale_multitenant-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 02:49 3scale_multitenant-master/meta/
+-rwxrwxr-x root/root      1930 2019-04-25 02:49 3scale_multitenant-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 02:49 3scale_multitenant-master/tasks/
+-rwxrwxr-x root/root      1131 2019-04-25 02:49 3scale_multitenant-master/tasks/main.yml
+-rwxrwxr-x root/root      2194 2019-04-25 02:49 3scale_multitenant-master/tasks/pre_workload.yml
+-rwxrwxr-x root/root      1041 2019-04-25 02:49 3scale_multitenant-master/tasks/remove_workload.yml
+-rwxrwxr-x root/root      9835 2019-04-25 02:49 3scale_multitenant-master/tasks/tenant_loop.yml
+-rwxrwxr-x root/root      1192 2019-04-25 02:49 3scale_multitenant-master/tasks/tenant_mgmt.yml
+-rwxrwxr-x root/root      1036 2019-04-25 02:49 3scale_multitenant-master/tasks/wait_for_deploy.yml
+-rwxrwxr-x root/root      7542 2019-04-25 02:49 3scale_multitenant-master/tasks/workload.yml
+drwxrwxr-x root/root         0 2019-04-25 02:49 3scale_multitenant-master/templates/
+-rwxrwxr-x root/root       390 2019-04-25 02:49 3scale_multitenant-master/templates/limitrange.yaml

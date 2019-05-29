@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/
+-rw-rw-r-- root/root       539 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/README.md
+drwxrwxr-x root/root         0 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/defaults/
+-rw-rw-r-- root/root       319 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/handlers/
+-rw-rw-r-- root/root        53 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/meta/
+-rw-rw-r-- root/root       333 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/tasks/
+-rw-rw-r-- root/root       371 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/tests/
+-rw-rw-r-- root/root         9 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/tests/inventory
+-rw-rw-r-- root/root        69 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/vars/
+-rw-rw-r-- root/root        49 2016-07-03 14:27 ansible-dcos-bootstrap-agent-master/vars/main.yml

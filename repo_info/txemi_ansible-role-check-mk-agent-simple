@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/
+-rw-rw-r-- root/root       539 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/.travis.yml
+-rw-rw-r-- root/root      1062 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/LICENSE
+-rw-rw-r-- root/root       551 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/README.md
+drwxrwxr-x root/root         0 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/defaults/
+-rw-rw-r-- root/root        50 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/handlers/
+-rw-rw-r-- root/root        81 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/meta/
+-rw-rw-r-- root/root      3992 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/tasks/
+-rw-rw-r-- root/root       385 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/tests/
+-rw-rw-r-- root/root         9 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/tests/inventory
+-rw-rw-r-- root/root        93 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/vars/
+-rw-rw-r-- root/root        46 2017-09-15 15:45 ansible-role-check-mk-agent-simple-master/vars/main.yml

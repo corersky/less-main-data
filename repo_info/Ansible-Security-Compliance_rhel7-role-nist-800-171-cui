@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/
+-rw-rw-r-- root/root      2926 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/README.md
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/defaults/
+-rw-rw-r-- root/root        51 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/handlers/
+-rw-rw-r-- root/root        51 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/meta/
+-rw-rw-r-- root/root       571 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/tasks/
+-rw-rw-r-- root/root    331369 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/tests/
+-rw-rw-r-- root/root        11 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/tests/inventory
+-rw-rw-r-- root/root        85 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/vars/
+-rw-rw-r-- root/root      5571 2018-12-11 10:12 rhel7-role-nist-800-171-cui-master/vars/main.yml

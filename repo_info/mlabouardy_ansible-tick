@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2017-11-26 08:20 ansible-tick-master/
+-rw-rw-r-- root/root       512 2017-11-26 08:20 ansible-tick-master/README.md
+drwxrwxr-x root/root         0 2017-11-26 08:20 ansible-tick-master/files/
+-rw-rw-r-- root/root       161 2017-11-26 08:20 ansible-tick-master/files/influxdb.conf
+-rw-rw-r-- root/root      1278 2017-11-26 08:20 ansible-tick-master/files/kapacitor.conf
+-rw-rw-r-- root/root       997 2017-11-26 08:20 ansible-tick-master/files/telegraf.conf
+drwxrwxr-x root/root         0 2017-11-26 08:20 ansible-tick-master/meta/
+-rw-rw-r-- root/root       497 2017-11-26 08:20 ansible-tick-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-26 08:20 ansible-tick-master/tasks/
+-rw-rw-r-- root/root      1644 2017-11-26 08:20 ansible-tick-master/tasks/main.yml

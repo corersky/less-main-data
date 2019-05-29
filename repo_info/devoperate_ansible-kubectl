@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-kubectl-master/
+-rw-rw-r-- root/root       219 2019-03-21 23:30 ansible-kubectl-master/.editorconfig
+-rw-rw-r-- root/root       492 2019-03-21 23:30 ansible-kubectl-master/.gitattributes
+-rw-rw-r-- root/root       819 2019-03-21 23:30 ansible-kubectl-master/.gitignore
+-rw-rw-r-- root/root       868 2019-03-21 23:30 ansible-kubectl-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1073 2019-03-21 23:30 ansible-kubectl-master/LICENSE
+-rw-rw-r-- root/root       595 2019-03-21 23:30 ansible-kubectl-master/README.md
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-kubectl-master/meta/
+-rw-rw-r-- root/root       570 2019-03-21 23:30 ansible-kubectl-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-kubectl-master/tasks/
+-rw-rw-r-- root/root       582 2019-03-21 23:30 ansible-kubectl-master/tasks/debian.yml
+-rw-rw-r-- root/root       128 2019-03-21 23:30 ansible-kubectl-master/tasks/main.yml
+-rw-rw-r-- root/root       738 2019-03-21 23:30 ansible-kubectl-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2019-03-21 23:30 ansible-kubectl-master/tests/
+-rw-rw-r-- root/root        11 2019-03-21 23:30 ansible-kubectl-master/tests/inventory
+-rw-rw-r-- root/root        44 2019-03-21 23:30 ansible-kubectl-master/tests/test.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-27 20:42 ansible-borg-client-master/
+-rw-rw-r-- root/root      1080 2017-07-27 20:42 ansible-borg-client-master/LICENSE
+-rw-rw-r-- root/root       357 2017-07-27 20:42 ansible-borg-client-master/README.rst
+drwxrwxr-x root/root         0 2017-07-27 20:42 ansible-borg-client-master/defaults/
+-rw-rw-r-- root/root        26 2017-07-27 20:42 ansible-borg-client-master/defaults/main.yml
+-rw-rw-r-- root/root       152 2017-07-27 20:42 ansible-borg-client-master/example-playbook.yml
+-rw-rw-r-- root/root       899 2017-07-27 20:42 ansible-borg-client-master/example-vars.yml
+drwxrwxr-x root/root         0 2017-07-27 20:42 ansible-borg-client-master/meta/
+-rw-rw-r-- root/root      1742 2017-07-27 20:42 ansible-borg-client-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-27 20:42 ansible-borg-client-master/tasks/
+-rw-rw-r-- root/root       720 2017-07-27 20:42 ansible-borg-client-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-27 20:42 ansible-borg-client-master/templates/
+-rw-rw-r-- root/root       967 2017-07-27 20:42 ansible-borg-client-master/templates/borg-backup-script.sh.j2

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-11-21 14:02 ansible-role-drush-master/
+-rw-rw-r-- root/root        26 2016-11-21 14:02 ansible-role-drush-master/.gitignore
+-rw-rw-r-- root/root       539 2016-11-21 14:02 ansible-role-drush-master/.travis.yml
+-rw-rw-r-- root/root      1906 2016-11-21 14:02 ansible-role-drush-master/README.md
+drwxrwxr-x root/root         0 2016-11-21 14:02 ansible-role-drush-master/defaults/
+-rw-rw-r-- root/root       122 2016-11-21 14:02 ansible-role-drush-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-21 14:02 ansible-role-drush-master/meta/
+-rw-rw-r-- root/root       836 2016-11-21 14:02 ansible-role-drush-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-21 14:02 ansible-role-drush-master/tasks/
+-rw-rw-r-- root/root       729 2016-11-21 14:02 ansible-role-drush-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-21 14:02 ansible-role-drush-master/tests/
+-rw-rw-r-- root/root        10 2016-11-21 14:02 ansible-role-drush-master/tests/inventory
+-rw-rw-r-- root/root       207 2016-11-21 14:02 ansible-role-drush-master/tests/test.yml

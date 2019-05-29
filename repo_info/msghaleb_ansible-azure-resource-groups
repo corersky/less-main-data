@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-10 05:11 ansible-azure-resource-groups-master/
+-rw-rw-r-- root/root       702 2017-05-10 05:11 ansible-azure-resource-groups-master/.gitignore
+-rw-rw-r-- root/root     18047 2017-05-10 05:11 ansible-azure-resource-groups-master/LICENSE
+-rw-rw-r-- root/root       264 2017-05-10 05:11 ansible-azure-resource-groups-master/README.md
+drwxrwxr-x root/root         0 2017-05-10 05:11 ansible-azure-resource-groups-master/defaults/
+-rw-rw-r-- root/root       827 2017-05-10 05:11 ansible-azure-resource-groups-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-10 05:11 ansible-azure-resource-groups-master/library/
+-rw-rw-r-- root/root     14586 2017-05-10 05:11 ansible-azure-resource-groups-master/library/azure_resource_groups.py
+drwxrwxr-x root/root         0 2017-05-10 05:11 ansible-azure-resource-groups-master/meta/
+-rw-rw-r-- root/root       226 2017-05-10 05:11 ansible-azure-resource-groups-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-10 05:11 ansible-azure-resource-groups-master/tasks/
+-rw-rw-r-- root/root       754 2017-05-10 05:11 ansible-azure-resource-groups-master/tasks/main.yml

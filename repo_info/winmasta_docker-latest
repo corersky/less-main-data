@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-02-04 06:56 docker-latest-master/
+-rw-rw-r-- root/root       852 2018-02-04 06:56 docker-latest-master/.travis.yml
+-rw-rw-r-- root/root      1523 2018-02-04 06:56 docker-latest-master/README.md
+drwxrwxr-x root/root         0 2018-02-04 06:56 docker-latest-master/defaults/
+-rw-rw-r-- root/root        82 2018-02-04 06:56 docker-latest-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-04 06:56 docker-latest-master/meta/
+-rw-rw-r-- root/root       356 2018-02-04 06:56 docker-latest-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-04 06:56 docker-latest-master/tasks/
+-rw-rw-r-- root/root       938 2018-02-04 06:56 docker-latest-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-04 06:56 docker-latest-master/tests/
+-rw-rw-r-- root/root        11 2018-02-04 06:56 docker-latest-master/tests/inventory
+-rw-rw-r-- root/root        87 2018-02-04 06:56 docker-latest-master/tests/test.yml

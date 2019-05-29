@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-08 10:29 riemann-health-master/
+-rw-rw-r-- root/root      1817 2017-01-08 10:29 riemann-health-master/.travis.yml
+-rw-rw-r-- root/root       680 2017-01-08 10:29 riemann-health-master/README.md
+drwxrwxr-x root/root         0 2017-01-08 10:29 riemann-health-master/defaults/
+-rw-rw-r-- root/root        36 2017-01-08 10:29 riemann-health-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-08 10:29 riemann-health-master/handlers/
+-rw-rw-r-- root/root       142 2017-01-08 10:29 riemann-health-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-08 10:29 riemann-health-master/meta/
+-rw-rw-r-- root/root       531 2017-01-08 10:29 riemann-health-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-08 10:29 riemann-health-master/tasks/
+-rw-rw-r-- root/root       392 2017-01-08 10:29 riemann-health-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-08 10:29 riemann-health-master/templates/
+-rw-rw-r-- root/root       234 2017-01-08 10:29 riemann-health-master/templates/riemann-health.service.j2
+drwxrwxr-x root/root         0 2017-01-08 10:29 riemann-health-master/tests/
+-rw-rw-r-- root/root        37 2017-01-08 10:29 riemann-health-master/tests/requirements.yml
+-rw-rw-r-- root/root       312 2017-01-08 10:29 riemann-health-master/tests/test.yml

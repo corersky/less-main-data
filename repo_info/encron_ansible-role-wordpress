@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-12-08 05:15 ansible-role-wordpress-master/
+-rw-rw-r-- root/root      1083 2015-12-08 05:15 ansible-role-wordpress-master/LICENSE
+-rw-rw-r-- root/root      2154 2015-12-08 05:15 ansible-role-wordpress-master/README.md
+drwxrwxr-x root/root         0 2015-12-08 05:15 ansible-role-wordpress-master/defaults/
+-rw-rw-r-- root/root       392 2015-12-08 05:15 ansible-role-wordpress-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-08 05:15 ansible-role-wordpress-master/files/
+-rw-rw-r-- root/root       657 2015-12-08 05:15 ansible-role-wordpress-master/files/wordpress.conf
+drwxrwxr-x root/root         0 2015-12-08 05:15 ansible-role-wordpress-master/handlers/
+-rw-rw-r-- root/root       118 2015-12-08 05:15 ansible-role-wordpress-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-08 05:15 ansible-role-wordpress-master/meta/
+-rw-rw-r-- root/root       402 2015-12-08 05:15 ansible-role-wordpress-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-08 05:15 ansible-role-wordpress-master/tasks/
+-rw-rw-r-- root/root      2024 2015-12-08 05:15 ansible-role-wordpress-master/tasks/config.yml
+-rw-rw-r-- root/root      1302 2015-12-08 05:15 ansible-role-wordpress-master/tasks/install.yml
+-rw-rw-r-- root/root       332 2015-12-08 05:15 ansible-role-wordpress-master/tasks/main.yml

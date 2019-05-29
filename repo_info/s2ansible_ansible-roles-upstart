@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-19 12:53 ansible-roles-upstart-master/
+-rw-rw-r-- root/root      1328 2018-11-19 12:53 ansible-roles-upstart-master/README.md
+drwxrwxr-x root/root         0 2018-11-19 12:53 ansible-roles-upstart-master/defaults/
+-rw-rw-r-- root/root       212 2018-11-19 12:53 ansible-roles-upstart-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:53 ansible-roles-upstart-master/handlers/
+-rw-rw-r-- root/root       112 2018-11-19 12:53 ansible-roles-upstart-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:53 ansible-roles-upstart-master/meta/
+-rw-rw-r-- root/root       271 2018-11-19 12:53 ansible-roles-upstart-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:53 ansible-roles-upstart-master/tasks/
+-rw-rw-r-- root/root       264 2018-11-19 12:53 ansible-roles-upstart-master/tasks/amzn.yml
+lrwxrwxrwx root/root         0 2018-11-19 12:53 ansible-roles-upstart-master/tasks/el6.yml -> amzn.yml
+-rw-rw-r-- root/root       235 2018-11-19 12:53 ansible-roles-upstart-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-19 12:53 ansible-roles-upstart-master/templates/
+-rw-rw-r-- root/root       169 2018-11-19 12:53 ansible-roles-upstart-master/templates/upstart.conf.j2
+drwxrwxr-x root/root         0 2018-11-19 12:53 ansible-roles-upstart-master/vars/
+-rw-rw-r-- root/root        41 2018-11-19 12:53 ansible-roles-upstart-master/vars/main.yml

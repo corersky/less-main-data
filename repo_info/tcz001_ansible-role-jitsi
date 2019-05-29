@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-04-24 17:19 ansible-role-jitsi-master/
+-rw-rw-r-- root/root      1328 2015-04-24 17:19 ansible-role-jitsi-master/README.md
+drwxrwxr-x root/root         0 2015-04-24 17:19 ansible-role-jitsi-master/defaults/
+-rw-rw-r-- root/root        49 2015-04-24 17:19 ansible-role-jitsi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-24 17:19 ansible-role-jitsi-master/handlers/
+-rw-rw-r-- root/root        30 2015-04-24 17:19 ansible-role-jitsi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-24 17:19 ansible-role-jitsi-master/meta/
+-rw-rw-r-- root/root      2159 2015-04-24 17:19 ansible-role-jitsi-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-24 17:19 ansible-role-jitsi-master/tasks/
+-rw-rw-r-- root/root       647 2015-04-24 17:19 ansible-role-jitsi-master/tasks/ant.yml
+-rw-rw-r-- root/root        69 2015-04-24 17:19 ansible-role-jitsi-master/tasks/main.yml
+-rw-rw-r-- root/root       214 2015-04-24 17:19 ansible-role-jitsi-master/tasks/x11.yml
+drwxrwxr-x root/root         0 2015-04-24 17:19 ansible-role-jitsi-master/vars/
+-rw-rw-r-- root/root        26 2015-04-24 17:19 ansible-role-jitsi-master/vars/main.yml

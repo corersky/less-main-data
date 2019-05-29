@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-10-19 10:16 ansible-role-php-newrelic-master/
+-rw-rw-r-- root/root       246 2015-10-19 10:16 ansible-role-php-newrelic-master/README.md
+drwxrwxr-x root/root         0 2015-10-19 10:16 ansible-role-php-newrelic-master/defaults/
+-rw-rw-r-- root/root      2793 2015-10-19 10:16 ansible-role-php-newrelic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:16 ansible-role-php-newrelic-master/meta/
+-rw-rw-r-- root/root       368 2015-10-19 10:16 ansible-role-php-newrelic-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:16 ansible-role-php-newrelic-master/tasks/
+drwxrwxr-x root/root         0 2015-10-19 10:16 ansible-role-php-newrelic-master/tasks/debian/
+-rw-rw-r-- root/root       384 2015-10-19 10:16 ansible-role-php-newrelic-master/tasks/debian/main.yml
+-rw-rw-r-- root/root       360 2015-10-19 10:16 ansible-role-php-newrelic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:16 ansible-role-php-newrelic-master/tasks/redhat/
+-rw-rw-r-- root/root       112 2015-10-19 10:16 ansible-role-php-newrelic-master/tasks/redhat/main.yml
+drwxrwxr-x root/root         0 2015-10-19 10:16 ansible-role-php-newrelic-master/templates/
+-rw-rw-r-- root/root     29532 2015-10-19 10:16 ansible-role-php-newrelic-master/templates/newrelic.ini.j2
+drwxrwxr-x root/root         0 2015-10-19 10:16 ansible-role-php-newrelic-master/vars/
+-rw-rw-r-- root/root       200 2015-10-19 10:16 ansible-role-php-newrelic-master/vars/Debian.yml
+-rw-rw-r-- root/root       161 2015-10-19 10:16 ansible-role-php-newrelic-master/vars/RedHat.yml

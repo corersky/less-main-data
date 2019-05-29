@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-06 16:33 ansible-install-redis-master/
+-rw-rw-r-- root/root       327 2019-04-06 16:33 ansible-install-redis-master/README.md
+drwxrwxr-x root/root         0 2019-04-06 16:33 ansible-install-redis-master/defaults/
+-rw-rw-r-- root/root        45 2019-04-06 16:33 ansible-install-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-06 16:33 ansible-install-redis-master/handlers/
+-rw-rw-r-- root/root        45 2019-04-06 16:33 ansible-install-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-06 16:33 ansible-install-redis-master/meta/
+-rw-rw-r-- root/root       249 2019-04-06 16:33 ansible-install-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-06 16:33 ansible-install-redis-master/tasks/
+-rw-rw-r-- root/root       100 2019-04-06 16:33 ansible-install-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-06 16:33 ansible-install-redis-master/tests/
+-rw-rw-r-- root/root        11 2019-04-06 16:33 ansible-install-redis-master/tests/inventory
+-rw-rw-r-- root/root        79 2019-04-06 16:33 ansible-install-redis-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-06 16:33 ansible-install-redis-master/vars/
+-rw-rw-r-- root/root        41 2019-04-06 16:33 ansible-install-redis-master/vars/main.yml

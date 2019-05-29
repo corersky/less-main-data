@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-02-16 15:58 ansible-role-gogs-master/
+-rw-rw-r-- root/root       296 2016-02-16 15:58 ansible-role-gogs-master/README.md
+drwxrwxr-x root/root         0 2016-02-16 15:58 ansible-role-gogs-master/defaults/
+-rw-rw-r-- root/root       123 2016-02-16 15:58 ansible-role-gogs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-16 15:58 ansible-role-gogs-master/files/
+drwxrwxr-x root/root         0 2016-02-16 15:58 ansible-role-gogs-master/files/CentOS/
+-rw-rw-r-- root/root     10239 2016-02-16 15:58 ansible-role-gogs-master/files/CentOS/gogs.app.ini.j2
+-rw-rw-r-- root/root       117 2016-02-16 15:58 ansible-role-gogs-master/files/CentOS/gogs.repo
+-rw-rw-r-- root/root      1390 2016-02-16 15:58 ansible-role-gogs-master/files/CentOS/nginx.conf.j2
+drwxrwxr-x root/root         0 2016-02-16 15:58 ansible-role-gogs-master/handlers/
+-rw-rw-r-- root/root       529 2016-02-16 15:58 ansible-role-gogs-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-02-16 15:58 ansible-role-gogs-master/meta/
+-rw-rw-r-- root/root       238 2016-02-16 15:58 ansible-role-gogs-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-16 15:58 ansible-role-gogs-master/tasks/
+-rw-rw-r-- root/root      1007 2016-02-16 15:58 ansible-role-gogs-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-16 15:58 ansible-role-gogs-master/vars/
+-rw-rw-r-- root/root        39 2016-02-16 15:58 ansible-role-gogs-master/vars/main.yml

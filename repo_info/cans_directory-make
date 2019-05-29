@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-17 02:02 directory-make-master/
+-rw-rw-r-- root/root       866 2018-02-17 02:02 directory-make-master/.travis.yml
+-rw-rw-r-- root/root     18046 2018-02-17 02:02 directory-make-master/LICENSE
+-rw-rw-r-- root/root      2007 2018-02-17 02:02 directory-make-master/README.md
+drwxrwxr-x root/root         0 2018-02-17 02:02 directory-make-master/defaults/
+-rw-rw-r-- root/root       151 2018-02-17 02:02 directory-make-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-17 02:02 directory-make-master/meta/
+-rw-rw-r-- root/root       397 2018-02-17 02:02 directory-make-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-17 02:02 directory-make-master/tasks/
+-rw-rw-r-- root/root       821 2018-02-17 02:02 directory-make-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-17 02:02 directory-make-master/tests/
+-rw-rw-r-- root/root        69 2018-02-17 02:02 directory-make-master/tests/ansible.cfg
+-rw-rw-r-- root/root        20 2018-02-17 02:02 directory-make-master/tests/inventory
+-rwxrwxr-x root/root      1387 2018-02-17 02:02 directory-make-master/tests/run.sh
+-rw-rw-r-- root/root       816 2018-02-17 02:02 directory-make-master/tests/test.yml

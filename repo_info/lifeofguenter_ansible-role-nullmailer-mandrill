@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/
+-rw-rw-r-- root/root      1085 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/LICENSE
+-rw-rw-r-- root/root       465 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/README.md
+drwxrwxr-x root/root         0 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/defaults/
+-rw-rw-r-- root/root       147 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/files/
+-rw-rw-r-- root/root        75 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/files/nullmailer.cron
+drwxrwxr-x root/root         0 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/handlers/
+-rw-rw-r-- root/root        44 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/meta/
+-rw-rw-r-- root/root      1651 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/tasks/
+-rw-rw-r-- root/root       129 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/tasks/main.yml
+-rw-rw-r-- root/root       111 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/tasks/nullmailer-mandrill.yml
+drwxrwxr-x root/root         0 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/vars/
+-rw-rw-r-- root/root        40 2015-11-16 13:43 ansible-role-nullmailer-mandrill-master/vars/main.yml

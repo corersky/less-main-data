@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-25 13:59 ansible-freebsd-login-conf-master/
+-rw-rw-r-- root/root      1499 2017-03-25 13:59 ansible-freebsd-login-conf-master/LICENSE
+-rw-rw-r-- root/root       527 2017-03-25 13:59 ansible-freebsd-login-conf-master/README.md
+drwxrwxr-x root/root         0 2017-03-25 13:59 ansible-freebsd-login-conf-master/defaults/
+-rw-rw-r-- root/root        68 2017-03-25 13:59 ansible-freebsd-login-conf-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-25 13:59 ansible-freebsd-login-conf-master/handlers/
+-rw-rw-r-- root/root       102 2017-03-25 13:59 ansible-freebsd-login-conf-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-25 13:59 ansible-freebsd-login-conf-master/meta/
+-rw-rw-r-- root/root       269 2017-03-25 13:59 ansible-freebsd-login-conf-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-25 13:59 ansible-freebsd-login-conf-master/tasks/
+-rw-rw-r-- root/root       590 2017-03-25 13:59 ansible-freebsd-login-conf-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-25 13:59 ansible-freebsd-login-conf-master/templates/
+-rw-rw-r-- root/root       464 2017-03-25 13:59 ansible-freebsd-login-conf-master/templates/login.conf.j2
+drwxrwxr-x root/root         0 2017-03-25 13:59 ansible-freebsd-login-conf-master/vars/
+-rw-rw-r-- root/root      1020 2017-03-25 13:59 ansible-freebsd-login-conf-master/vars/freebsd-10.yml
+-rw-rw-r-- root/root      1051 2017-03-25 13:59 ansible-freebsd-login-conf-master/vars/freebsd-11.yml

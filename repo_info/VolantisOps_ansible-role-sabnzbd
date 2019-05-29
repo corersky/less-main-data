@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-06-18 00:10 ansible-role-sabnzbd-master/
+-rw-rw-r-- root/root         9 2017-06-18 00:10 ansible-role-sabnzbd-master/.gitignore
+-rw-rw-r-- root/root     11358 2017-06-18 00:10 ansible-role-sabnzbd-master/LICENSE
+-rw-rw-r-- root/root       348 2017-06-18 00:10 ansible-role-sabnzbd-master/README.md
+drwxrwxr-x root/root         0 2017-06-18 00:10 ansible-role-sabnzbd-master/defaults/
+-rw-rw-r-- root/root      1079 2017-06-18 00:10 ansible-role-sabnzbd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-18 00:10 ansible-role-sabnzbd-master/handlers/
+-rw-rw-r-- root/root       101 2017-06-18 00:10 ansible-role-sabnzbd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-18 00:10 ansible-role-sabnzbd-master/meta/
+-rw-rw-r-- root/root       304 2017-06-18 00:10 ansible-role-sabnzbd-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-18 00:10 ansible-role-sabnzbd-master/tasks/
+-rw-rw-r-- root/root      1063 2017-06-18 00:10 ansible-role-sabnzbd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-18 00:10 ansible-role-sabnzbd-master/templates/
+-rw-rw-r-- root/root      8484 2017-06-18 00:10 ansible-role-sabnzbd-master/templates/sabnzbd.ini.j2
+-rw-rw-r-- root/root       241 2017-06-18 00:10 ansible-role-sabnzbd-master/templates/sabnzbd.service.j2

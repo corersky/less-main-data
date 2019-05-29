@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-12-26 02:35 ansible-elasticsearch-master/
+-rw-rw-r-- root/root       815 2015-12-26 02:35 ansible-elasticsearch-master/.gitignore
+-rw-rw-r-- root/root      1079 2015-12-26 02:35 ansible-elasticsearch-master/LICENSE
+-rw-rw-r-- root/root      1009 2015-12-26 02:35 ansible-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2015-12-26 02:35 ansible-elasticsearch-master/defaults/
+-rw-rw-r-- root/root       872 2015-12-26 02:35 ansible-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-12-26 02:35 ansible-elasticsearch-master/files/
+drwxrwxr-x root/root         0 2015-12-26 02:35 ansible-elasticsearch-master/files/XenforoES/
+-rw-rw-r-- root/root        82 2015-12-26 02:35 ansible-elasticsearch-master/files/XenforoES/xf-date-weighted.groovy
+drwxrwxr-x root/root         0 2015-12-26 02:35 ansible-elasticsearch-master/handlers/
+-rw-rw-r-- root/root       123 2015-12-26 02:35 ansible-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-12-26 02:35 ansible-elasticsearch-master/meta/
+-rw-rw-r-- root/root       473 2015-12-26 02:35 ansible-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-12-26 02:35 ansible-elasticsearch-master/tasks/
+-rw-rw-r-- root/root      1544 2015-12-26 02:35 ansible-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-12-26 02:35 ansible-elasticsearch-master/templates/
+-rw-rw-r-- root/root       278 2015-12-26 02:35 ansible-elasticsearch-master/templates/elasticsearch.repo

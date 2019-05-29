@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-25 08:40 ansible-role.releases-master/
+-rw-rw-r-- root/root       539 2019-04-25 08:40 ansible-role.releases-master/.travis.yml
+-rw-rw-r-- root/root     18092 2019-04-25 08:40 ansible-role.releases-master/LICENSE
+-rw-rw-r-- root/root      1097 2019-04-25 08:40 ansible-role.releases-master/README.md
+drwxrwxr-x root/root         0 2019-04-25 08:40 ansible-role.releases-master/defaults/
+-rw-rw-r-- root/root        81 2019-04-25 08:40 ansible-role.releases-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-25 08:40 ansible-role.releases-master/meta/
+-rw-rw-r-- root/root       344 2019-04-25 08:40 ansible-role.releases-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-25 08:40 ansible-role.releases-master/tasks/
+-rw-rw-r-- root/root       735 2019-04-25 08:40 ansible-role.releases-master/tasks/main.yml
+-rw-rw-r-- root/root      1721 2019-04-25 08:40 ansible-role.releases-master/tasks/prepare.yml
+-rw-rw-r-- root/root      1503 2019-04-25 08:40 ansible-role.releases-master/tasks/release.yml
+drwxrwxr-x root/root         0 2019-04-25 08:40 ansible-role.releases-master/tests/
+-rw-rw-r-- root/root        11 2019-04-25 08:40 ansible-role.releases-master/tests/inventory
+-rw-rw-r-- root/root        80 2019-04-25 08:40 ansible-role.releases-master/tests/test.yml

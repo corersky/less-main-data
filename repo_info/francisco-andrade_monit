@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-09-29 13:41 monit-master/
+-rw-rw-r-- root/root       317 2014-09-29 13:41 monit-master/.gitignore
+-rw-rw-r-- root/root        12 2014-09-29 13:41 monit-master/README.md
+drwxrwxr-x root/root         0 2014-09-29 13:41 monit-master/defaults/
+-rw-rw-r-- root/root      1087 2014-09-29 13:41 monit-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-29 13:41 monit-master/handlers/
+-rw-rw-r-- root/root       165 2014-09-29 13:41 monit-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-29 13:41 monit-master/meta/
+-rw-rw-r-- root/root      2079 2014-09-29 13:41 monit-master/meta/main.yml
+-rw-rw-r-- root/root       137 2014-09-29 13:41 monit-master/monit.yml
+drwxrwxr-x root/root         0 2014-09-29 13:41 monit-master/tasks/
+-rw-rw-r-- root/root      1265 2014-09-29 13:41 monit-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-29 13:41 monit-master/templates/
+-rw-rw-r-- root/root       134 2014-09-29 13:41 monit-master/templates/monit
+-rw-rw-r-- root/root       503 2014-09-29 13:41 monit-master/templates/monitrc

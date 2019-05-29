@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/
+-rw-rw-r-- root/root       539 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/.travis.yml
+-rwxrwxr-x root/root       597 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/README.md
+drwxrwxr-x root/root         0 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/defaults/
+-rwxrwxr-x root/root       572 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/meta/
+-rwxrwxr-x root/root       331 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/tasks/
+-rwxrwxr-x root/root       287 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/tasks/java8.yml
+-rwxrwxr-x root/root       503 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/tests/
+-rw-rw-r-- root/root         9 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/tests/inventory
+-rw-rw-r-- root/root        82 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/vars/
+-rw-rw-r-- root/root        45 2017-07-19 02:42 ansible-role-cdmi-s3-qos-master/vars/main.yml

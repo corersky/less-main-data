@@ -1,0 +1,44 @@
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/
+-rw-rw-r-- root/root        23 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/.atom-build.yml
+-rw-rw-r-- root/root       104 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/.gitignore
+-rw-rw-r-- root/root      1185 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/.travis.yml
+-rw-rw-r-- root/root       331 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/.yamllint
+-rw-rw-r-- root/root      2601 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/CONTRIBUTING.md
+-rw-rw-r-- root/root       508 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/Dockerfile
+-rw-rw-r-- root/root      1286 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/LICENSE
+-rw-rw-r-- root/root       375 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/NOTICE
+-rw-rw-r-- root/root      3049 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/README.md
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/defaults/
+-rw-rw-r-- root/root      1317 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/defaults/main.yml
+-rw-rw-r-- root/root      1095 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/extra_vars.yml.sample
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/handlers/
+-rw-rw-r-- root/root        47 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/meta/
+-rw-rw-r-- root/root       427 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/default/
+-rw-rw-r-- root/root      1020 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/default/Dockerfile.j2
+-rw-rw-r-- root/root       151 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/default/INSTALL.rst
+-rw-rw-r-- root/root       619 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root        78 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/default/playbook.yml
+lrwxrwxrwx root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/default/requirements.yml -> ../../tests/requirements.yml
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/default/tests/
+-rw-rw-r-- root/root       313 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/molecule/default/tests/test_default.py
+-rw-rw-r-- root/root        66 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/requirements.txt
+-rw-rw-r-- root/root       145 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/requirements.yml
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tasks/
+-rw-rw-r-- root/root      2378 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tasks/azure-deployment.yml
+-rw-rw-r-- root/root      1528 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tasks/azure-device.yml
+-rw-rw-r-- root/root      3841 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tasks/azure-edge-device.yml
+-rw-rw-r-- root/root      3410 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tasks/azure-iot.yml
+-rw-rw-r-- root/root       411 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/templates/
+-rw-rw-r-- root/root      2246 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/templates/deployment-manifest.json.j2
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tests/
+-rw-rw-r-- root/root        36 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tests/inventory
+lrwxrwxrwx root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tests/requirements.yml -> ../requirements.yml
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tests/roles/
+lrwxrwxrwx root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tests/roles/azure-iot -> ../..
+-rw-rw-r-- root/root        69 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/vars/
+-rw-rw-r-- root/root        43 2018-11-09 11:37 ansible-role-microsoft-azure-iot-master/vars/main.yml

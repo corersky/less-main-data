@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2019-02-05 02:48 mariadb-master/
+-rw-rw-r-- root/root     20133 2019-02-05 02:48 mariadb-master/LICENSE
+-rw-rw-r-- root/root      1298 2019-02-05 02:48 mariadb-master/README.md
+drwxrwxr-x root/root         0 2019-02-05 02:48 mariadb-master/defaults/
+-rw-rw-r-- root/root       969 2019-02-05 02:48 mariadb-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-02-05 02:48 mariadb-master/meta/
+-rw-rw-r-- root/root       366 2019-02-05 02:48 mariadb-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-02-05 02:48 mariadb-master/tasks/
+-rw-rw-r-- root/root       801 2019-02-05 02:48 mariadb-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-02-05 02:48 mariadb-master/templates/
+-rw-rw-r-- root/root      5956 2019-02-05 02:48 mariadb-master/templates/my.cnf.j2

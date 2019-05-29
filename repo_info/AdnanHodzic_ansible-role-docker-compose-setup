@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-12-23 07:01 ansible-role-docker-compose-setup-master/
+-rw-rw-r-- root/root        25 2017-12-23 07:01 ansible-role-docker-compose-setup-master/.gitignore
+-rw-rw-r-- root/root     35141 2017-12-23 07:01 ansible-role-docker-compose-setup-master/LICENSE
+-rw-rw-r-- root/root      1039 2017-12-23 07:01 ansible-role-docker-compose-setup-master/README.md
+-rw-rw-r-- root/root        65 2017-12-23 07:01 ansible-role-docker-compose-setup-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-12-23 07:01 ansible-role-docker-compose-setup-master/defaults/
+-rw-rw-r-- root/root        54 2017-12-23 07:01 ansible-role-docker-compose-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-23 07:01 ansible-role-docker-compose-setup-master/meta/
+-rw-rw-r-- root/root       312 2017-12-23 07:01 ansible-role-docker-compose-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-23 07:01 ansible-role-docker-compose-setup-master/tasks/
+-rw-rw-r-- root/root      1172 2017-12-23 07:01 ansible-role-docker-compose-setup-master/tasks/main.yml

@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2016-12-27 21:25 ansible-role-python-master/
+-rw-rw-r-- root/root        15 2016-12-27 21:25 ansible-role-python-master/.gitignore
+-rw-rw-r-- root/root       359 2016-12-27 21:25 ansible-role-python-master/README.md
+drwxrwxr-x root/root         0 2016-12-27 21:25 ansible-role-python-master/defaults/
+-rw-rw-r-- root/root       201 2016-12-27 21:25 ansible-role-python-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-12-27 21:25 ansible-role-python-master/handlers/
+-rw-rw-r-- root/root        31 2016-12-27 21:25 ansible-role-python-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-12-27 21:25 ansible-role-python-master/meta/
+-rw-rw-r-- root/root       280 2016-12-27 21:25 ansible-role-python-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-12-27 21:25 ansible-role-python-master/tasks/
+-rw-rw-r-- root/root       580 2016-12-27 21:25 ansible-role-python-master/tasks/install.yml
+-rw-rw-r-- root/root       420 2016-12-27 21:25 ansible-role-python-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-12-27 21:25 ansible-role-python-master/tests/
+-rw-rw-r-- root/root         9 2016-12-27 21:25 ansible-role-python-master/tests/.gitignore
+-rw-rw-r-- root/root       404 2016-12-27 21:25 ansible-role-python-master/tests/Vagrantfile
+drwxrwxr-x root/root         0 2016-12-27 21:25 ansible-role-python-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-12-27 21:25 ansible-role-python-master/tests/roles/rdi2sys.python -> ../../
+-rw-rw-r-- root/root        59 2016-12-27 21:25 ansible-role-python-master/tests/site.yml
+drwxrwxr-x root/root         0 2016-12-27 21:25 ansible-role-python-master/vars/
+-rw-rw-r-- root/root        27 2016-12-27 21:25 ansible-role-python-master/vars/main.yml

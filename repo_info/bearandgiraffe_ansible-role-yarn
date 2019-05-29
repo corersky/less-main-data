@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-06-22 07:04 ansible-role-yarn-master/
+-rw-rw-r-- root/root       539 2018-06-22 07:04 ansible-role-yarn-master/.travis.yml
+-rw-rw-r-- root/root      1210 2018-06-22 07:04 ansible-role-yarn-master/LICENSE
+-rw-rw-r-- root/root       402 2018-06-22 07:04 ansible-role-yarn-master/README.md
+drwxrwxr-x root/root         0 2018-06-22 07:04 ansible-role-yarn-master/defaults/
+-rw-rw-r-- root/root        42 2018-06-22 07:04 ansible-role-yarn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-22 07:04 ansible-role-yarn-master/handlers/
+-rw-rw-r-- root/root        42 2018-06-22 07:04 ansible-role-yarn-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-22 07:04 ansible-role-yarn-master/meta/
+-rw-rw-r-- root/root       281 2018-06-22 07:04 ansible-role-yarn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-22 07:04 ansible-role-yarn-master/tasks/
+-rw-rw-r-- root/root       776 2018-06-22 07:04 ansible-role-yarn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-22 07:04 ansible-role-yarn-master/tests/
+-rw-rw-r-- root/root         9 2018-06-22 07:04 ansible-role-yarn-master/tests/inventory
+-rw-rw-r-- root/root        75 2018-06-22 07:04 ansible-role-yarn-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-06-22 07:04 ansible-role-yarn-master/vars/
+-rw-rw-r-- root/root        38 2018-06-22 07:04 ansible-role-yarn-master/vars/main.yml

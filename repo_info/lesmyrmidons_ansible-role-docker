@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-01-16 17:01 ansible-role-docker-master/
+-rw-rw-r-- root/root       958 2015-01-16 17:01 ansible-role-docker-master/.travis.yml
+-rw-rw-r-- root/root      1082 2015-01-16 17:01 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       476 2015-01-16 17:01 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2015-01-16 17:01 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root        35 2015-01-16 17:01 ansible-role-docker-master/defaults/Debian.yml
+drwxrwxr-x root/root         0 2015-01-16 17:01 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       339 2015-01-16 17:01 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-16 17:01 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root       927 2015-01-16 17:01 ansible-role-docker-master/tasks/Debian.yml
+-rw-rw-r-- root/root        67 2015-01-16 17:01 ansible-role-docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-16 17:01 ansible-role-docker-master/tests/
+-rw-rw-r-- root/root         9 2015-01-16 17:01 ansible-role-docker-master/tests/inventory
+-rw-rw-r-- root/root        78 2015-01-16 17:01 ansible-role-docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2015-01-16 17:01 ansible-role-docker-master/vars/
+-rw-rw-r-- root/root        35 2015-01-16 17:01 ansible-role-docker-master/vars/Debian.yml
+-rw-rw-r-- root/root         0 2015-01-16 17:01 ansible-role-docker-master/vars/main.yml

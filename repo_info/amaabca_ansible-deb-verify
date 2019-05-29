@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-01-26 11:48 ansible-deb-verify-master/
+-rw-rw-r-- root/root       539 2017-01-26 11:48 ansible-deb-verify-master/.travis.yml
+-rw-rw-r-- root/root      1069 2017-01-26 11:48 ansible-deb-verify-master/LICENSE
+-rw-rw-r-- root/root       864 2017-01-26 11:48 ansible-deb-verify-master/README.md
+drwxrwxr-x root/root         0 2017-01-26 11:48 ansible-deb-verify-master/defaults/
+-rw-rw-r-- root/root        43 2017-01-26 11:48 ansible-deb-verify-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-26 11:48 ansible-deb-verify-master/handlers/
+-rw-rw-r-- root/root        43 2017-01-26 11:48 ansible-deb-verify-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-26 11:48 ansible-deb-verify-master/meta/
+-rw-rw-r-- root/root       328 2017-01-26 11:48 ansible-deb-verify-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-26 11:48 ansible-deb-verify-master/tasks/
+-rw-rw-r-- root/root       215 2017-01-26 11:48 ansible-deb-verify-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-26 11:48 ansible-deb-verify-master/tests/
+-rw-rw-r-- root/root         9 2017-01-26 11:48 ansible-deb-verify-master/tests/inventory
+-rw-rw-r-- root/root        76 2017-01-26 11:48 ansible-deb-verify-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-01-26 11:48 ansible-deb-verify-master/vars/
+-rw-rw-r-- root/root        39 2017-01-26 11:48 ansible-deb-verify-master/vars/main.yml

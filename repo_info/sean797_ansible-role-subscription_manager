@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-06-25 09:49 ansible-role-subscription_manager-master/
+-rw-rw-r-- root/root     35147 2018-06-25 09:49 ansible-role-subscription_manager-master/LICENSE
+-rw-rw-r-- root/root      1328 2018-06-25 09:49 ansible-role-subscription_manager-master/README.md
+drwxrwxr-x root/root         0 2018-06-25 09:49 ansible-role-subscription_manager-master/defaults/
+-rw-rw-r-- root/root       226 2018-06-25 09:49 ansible-role-subscription_manager-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-25 09:49 ansible-role-subscription_manager-master/handlers/
+-rw-rw-r-- root/root        44 2018-06-25 09:49 ansible-role-subscription_manager-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-25 09:49 ansible-role-subscription_manager-master/library/
+-rw-rw-r-- root/root      9302 2018-06-25 09:49 ansible-role-subscription_manager-master/library/rhsm_repository.py
+drwxrwxr-x root/root         0 2018-06-25 09:49 ansible-role-subscription_manager-master/meta/
+-rw-rw-r-- root/root       303 2018-06-25 09:49 ansible-role-subscription_manager-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-25 09:49 ansible-role-subscription_manager-master/tasks/
+-rw-rw-r-- root/root      1901 2018-06-25 09:49 ansible-role-subscription_manager-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-25 09:49 ansible-role-subscription_manager-master/tests/
+-rw-rw-r-- root/root        10 2018-06-25 09:49 ansible-role-subscription_manager-master/tests/inventory
+-rw-rw-r-- root/root        78 2018-06-25 09:49 ansible-role-subscription_manager-master/tests/test.yml

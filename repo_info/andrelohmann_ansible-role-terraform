@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-23 06:03 ansible-role-terraform-master/
+-rw-rw-r-- root/root        28 2019-05-23 06:03 ansible-role-terraform-master/.gitignore
+-rw-rw-r-- root/root       694 2019-05-23 06:03 ansible-role-terraform-master/.travis.yml
+-rw-rw-r-- root/root      1080 2019-05-23 06:03 ansible-role-terraform-master/LICENSE
+-rw-rw-r-- root/root       547 2019-05-23 06:03 ansible-role-terraform-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 06:03 ansible-role-terraform-master/defaults/
+-rw-rw-r-- root/root        34 2019-05-23 06:03 ansible-role-terraform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:03 ansible-role-terraform-master/meta/
+-rw-rw-r-- root/root       302 2019-05-23 06:03 ansible-role-terraform-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:03 ansible-role-terraform-master/tasks/
+-rw-rw-r-- root/root       615 2019-05-23 06:03 ansible-role-terraform-master/tasks/download.yml
+-rw-rw-r-- root/root       700 2019-05-23 06:03 ansible-role-terraform-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 06:03 ansible-role-terraform-master/tests/
+-rw-rw-r-- root/root         9 2019-05-23 06:03 ansible-role-terraform-master/tests/inventory
+-rw-rw-r-- root/root       101 2019-05-23 06:03 ansible-role-terraform-master/tests/test.yml

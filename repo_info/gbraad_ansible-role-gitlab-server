@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/
+-rw-rw-r-- root/root       556 2016-08-14 03:45 ansible-role-gitlab-server-master/README.md
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/defaults/
+-rw-rw-r-- root/root         4 2016-08-14 03:45 ansible-role-gitlab-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/files/
+-rw-rw-r-- root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/files/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/handlers/
+-rw-rw-r-- root/root         4 2016-08-14 03:45 ansible-role-gitlab-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/meta/
+-rw-rw-r-- root/root       306 2016-08-14 03:45 ansible-role-gitlab-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/tasks/
+-rw-rw-r-- root/root      1078 2016-08-14 03:45 ansible-role-gitlab-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/templates/
+-rw-rw-r-- root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/templates/.gitkeep
+drwxrwxr-x root/root         0 2016-08-14 03:45 ansible-role-gitlab-server-master/vars/
+-rw-rw-r-- root/root         4 2016-08-14 03:45 ansible-role-gitlab-server-master/vars/main.yml

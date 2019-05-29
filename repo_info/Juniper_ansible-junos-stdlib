@@ -1,0 +1,102 @@
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/
+-rw-rw-r-- root/root        76 2019-04-29 05:24 ansible-junos-stdlib-master/.dockerignore
+-rw-rw-r-- root/root       511 2019-04-29 05:24 ansible-junos-stdlib-master/.gitignore
+-rw-rw-r-- root/root      1592 2019-04-29 05:24 ansible-junos-stdlib-master/.travis.yml
+-rw-rw-r-- root/root      1537 2019-04-29 05:24 ansible-junos-stdlib-master/COPYRIGHT
+-rw-rw-r-- root/root       612 2019-04-29 05:24 ansible-junos-stdlib-master/Dockerfile
+-rw-rw-r-- root/root      1278 2019-04-29 05:24 ansible-junos-stdlib-master/ISSUE_TEMPLATE.md
+-rw-rw-r-- root/root     11325 2019-04-29 05:24 ansible-junos-stdlib-master/LICENSE
+-rw-rw-r-- root/root     12215 2019-04-29 05:24 ansible-junos-stdlib-master/README.md
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_cli.py -> juniper_junos_common_action.py
+-rwxrwxr-x root/root      3124 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_commit.py
+-rwxrwxr-x root/root      3039 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_get_config.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_get_facts.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_get_table.py -> juniper_junos_common_action.py
+-rwxrwxr-x root/root      4138 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_install_config.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_install_os.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_jsnapy.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_ping.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_pmtud.py -> juniper_junos_common_action.py
+-rwxrwxr-x root/root      3206 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_rollback.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_rpc.py -> juniper_junos_common_action.py
+-rwxrwxr-x root/root      4253 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_shutdown.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_srx_cluster.py -> juniper_junos_common_action.py
+-rwxrwxr-x root/root      3311 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/_junos_zeroize.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_command.py -> juniper_junos_common_action.py
+-rwxrwxr-x root/root      2308 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_config.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_facts.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_jsnapy.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_ping.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_pmtud.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_rpc.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_software.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_srx_cluster.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_system.py -> juniper_junos_common_action.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/action_plugins/juniper_junos_table.py -> juniper_junos_common_action.py
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/callback_plugins/
+-rw-rw-r-- root/root      2721 2019-04-29 05:24 ansible-junos-stdlib-master/callback_plugins/jsnapy.py
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/docs/
+-rw-rw-r-- root/root      7839 2019-04-29 05:24 ansible-junos-stdlib-master/docs/Makefile
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/docs/_static/
+-rw-rw-r-- root/root        83 2019-04-29 05:24 ansible-junos-stdlib-master/docs/_static/juniper-junos-modules.css
+-rwxrwxr-x root/root      5044 2019-04-29 05:24 ansible-junos-stdlib-master/docs/_static/juniper.png
+-rwxrwxr-x root/root     16665 2019-04-29 05:24 ansible-junos-stdlib-master/docs/ansible2rst.py
+-rw-rw-r-- root/root      9112 2019-04-29 05:24 ansible-junos-stdlib-master/docs/conf.py
+-rw-rw-r-- root/root        97 2019-04-29 05:24 ansible-junos-stdlib-master/docs/docreq.txt
+-rw-rw-r-- root/root     16449 2019-04-29 05:24 ansible-junos-stdlib-master/docs/rst.j2
+-rwxrwxr-x root/root       913 2019-04-29 05:24 ansible-junos-stdlib-master/env-setup
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_cli.py -> juniper_junos_command.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_commit.py -> juniper_junos_config.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_get_config.py -> juniper_junos_config.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_get_facts.py -> juniper_junos_facts.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_get_table.py -> juniper_junos_table.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_install_config.py -> juniper_junos_config.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_install_os.py -> juniper_junos_software.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_jsnapy.py -> juniper_junos_jsnapy.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_ping.py -> juniper_junos_ping.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_pmtud.py -> juniper_junos_pmtud.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_rollback.py -> juniper_junos_config.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_rpc.py -> juniper_junos_rpc.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_shutdown.py -> juniper_junos_system.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_srx_cluster.py -> juniper_junos_srx_cluster.py
+lrwxrwxrwx root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/library/_junos_zeroize.py -> juniper_junos_system.py
+-rw-rw-r-- root/root     20282 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_command.py
+-rw-rw-r-- root/root     47655 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_config.py
+-rw-rw-r-- root/root     13148 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_facts.py
+-rw-rw-r-- root/root     13677 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_jsnapy.py
+-rw-rw-r-- root/root     17459 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_ping.py
+-rw-rw-r-- root/root     15180 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_pmtud.py
+-rw-rw-r-- root/root     24570 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_rpc.py
+-rw-rw-r-- root/root     32752 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_software.py
+-rw-rw-r-- root/root     10720 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_srx_cluster.py
+-rw-rw-r-- root/root     18867 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_system.py
+-rw-rw-r-- root/root     16400 2019-04-29 05:24 ansible-junos-stdlib-master/library/juniper_junos_table.py
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/meta/
+-rw-rw-r-- root/root       367 2019-04-29 05:24 ansible-junos-stdlib-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/module_utils/
+-rw-rw-r-- root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/module_utils/__init__.py
+-rw-rw-r-- root/root     87177 2019-04-29 05:24 ansible-junos-stdlib-master/module_utils/juniper_junos_common.py
+-rw-rw-r-- root/root        61 2019-04-29 05:24 ansible-junos-stdlib-master/requirements.txt
+-rwxrwxr-x root/root      1337 2019-04-29 05:24 ansible-junos-stdlib-master/setup.py
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/tests/
+-rw-rw-r-- root/root        65 2019-04-29 05:24 ansible-junos-stdlib-master/tests/ansible.cfg
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/tests/junos_jsnapy/
+-rw-rw-r-- root/root       139 2019-04-29 05:24 ansible-junos-stdlib-master/tests/junos_jsnapy/add_loopback.set
+-rw-rw-r-- root/root        60 2019-04-29 05:24 ansible-junos-stdlib-master/tests/junos_jsnapy/delete_loopback.set
+-rw-rw-r-- root/root       397 2019-04-29 05:24 ansible-junos-stdlib-master/tests/junos_jsnapy/test_junos_storage.yml
+-rw-rw-r-- root/root       667 2019-04-29 05:24 ansible-junos-stdlib-master/tests/junos_jsnapy/test_loopback.yml
+-rw-rw-r-- root/root       472 2019-04-29 05:24 ansible-junos-stdlib-master/tests/junos_jsnapy/test_version.yml
+-rw-rw-r-- root/root       603 2019-04-29 05:24 ansible-junos-stdlib-master/tests/pb.junos_get_facts.yaml
+-rw-rw-r-- root/root      6286 2019-04-29 05:24 ansible-junos-stdlib-master/tests/pb.junos_jsnapy.yaml
+-rw-rw-r-- root/root      2425 2019-04-29 05:24 ansible-junos-stdlib-master/tests/pb.junos_ping.yaml
+-rw-rw-r-- root/root       547 2019-04-29 05:24 ansible-junos-stdlib-master/tests/pb.junos_pmtud.yaml
+-rw-rw-r-- root/root       950 2019-04-29 05:24 ansible-junos-stdlib-master/tests/pb.rav.token.app_stop.yaml
+-rw-rw-r-- root/root      2906 2019-04-29 05:24 ansible-junos-stdlib-master/tests/pb.rav.token.create-deploy.yaml
+-rw-rw-r-- root/root      1540 2019-04-29 05:24 ansible-junos-stdlib-master/tests/pb.rav.token.fqdn_get.yaml
+-rw-rw-r-- root/root       551 2019-04-29 05:24 ansible-junos-stdlib-master/tests/ravello.ini
+drwxrwxr-x root/root         0 2019-04-29 05:24 ansible-junos-stdlib-master/tools/
+-rwxrwxr-x root/root      3935 2019-04-29 05:24 ansible-junos-stdlib-master/tools/sw_upgrade
+-rwxrwxr-x root/root        44 2019-04-29 05:24 ansible-junos-stdlib-master/version.py

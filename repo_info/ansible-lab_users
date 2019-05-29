@@ -1,0 +1,27 @@
+drwxrwxr-x root/root         0 2017-04-06 05:18 users-master/
+-rw-rw-r-- root/root       148 2017-04-06 05:18 users-master/.editorconfig
+-rw-rw-r-- root/root        98 2017-04-06 05:18 users-master/.gitignore
+-rw-rw-r-- root/root      1118 2017-04-06 05:18 users-master/.travis.yml
+-rw-rw-r-- root/root         5 2017-04-06 05:18 users-master/.version
+-rw-rw-r-- root/root      1066 2017-04-06 05:18 users-master/LICENSE
+-rw-rw-r-- root/root      1252 2017-04-06 05:18 users-master/Makefile
+-rw-rw-r-- root/root      4160 2017-04-06 05:18 users-master/README.md
+drwxrwxr-x root/root         0 2017-04-06 05:18 users-master/defaults/
+-rw-rw-r-- root/root       947 2017-04-06 05:18 users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-06 05:18 users-master/meta/
+-rw-rw-r-- root/root       270 2017-04-06 05:18 users-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-06 05:18 users-master/tasks/
+-rw-rw-r-- root/root      4592 2017-04-06 05:18 users-master/tasks/build.yml
+-rw-rw-r-- root/root        94 2017-04-06 05:18 users-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-06 05:18 users-master/templates/
+-rw-rw-r-- root/root       111 2017-04-06 05:18 users-master/templates/sudoers.j2
+drwxrwxr-x root/root         0 2017-04-06 05:18 users-master/tests/
+-rw-rw-r-- root/root        34 2017-04-06 05:18 users-master/tests/ansible.cfg
+-rw-rw-r-- root/root        10 2017-04-06 05:18 users-master/tests/inventory
+-rw-rw-r-- root/root      1651 2017-04-06 05:18 users-master/tests/lorem.ipsum
+-rw-rw-r-- root/root       401 2017-04-06 05:18 users-master/tests/lorem.ipsum.pub
+-rw-rw-r-- root/root      5528 2017-04-06 05:18 users-master/tests/test.yml
+-rw-rw-r-- root/root       497 2017-04-06 05:18 users-master/tests/test_userdel.yml
+drwxrwxr-x root/root         0 2017-04-06 05:18 users-master/tests/vagrant/
+-rw-rw-r-- root/root      1350 2017-04-06 05:18 users-master/tests/vagrant/Vagrantfile
+lrwxrwxrwx root/root         0 2017-04-06 05:18 users-master/tests/vagrant/ansible.cfg -> ../ansible.cfg

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-17 03:39 jenkins-configuration-master/
+-rw-rw-r-- root/root       600 2018-07-17 03:39 jenkins-configuration-master/README.md
+drwxrwxr-x root/root         0 2018-07-17 03:39 jenkins-configuration-master/defaults/
+-rw-rw-r-- root/root        22 2018-07-17 03:39 jenkins-configuration-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-17 03:39 jenkins-configuration-master/meta/
+-rw-rw-r-- root/root        91 2018-07-17 03:39 jenkins-configuration-master/meta/container.yml
+-rw-rw-r-- root/root      1132 2018-07-17 03:39 jenkins-configuration-master/meta/main.yml
+-rw-rw-r-- root/root      1746 2018-07-17 03:39 jenkins-configuration-master/plugins.txt
+-rw-rw-r-- root/root       511 2018-07-17 03:39 jenkins-configuration-master/security.groovy
+drwxrwxr-x root/root         0 2018-07-17 03:39 jenkins-configuration-master/tasks/
+-rw-rw-r-- root/root       492 2018-07-17 03:39 jenkins-configuration-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-17 03:39 jenkins-configuration-master/test/
+-rw-rw-r-- root/root        85 2018-07-17 03:39 jenkins-configuration-master/test/test.yml

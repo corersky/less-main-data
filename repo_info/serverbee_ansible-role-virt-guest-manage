@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-01 10:56 ansible-role-virt-guest-manage-master/
+-rw-rw-r-- root/root      5674 2019-04-01 10:56 ansible-role-virt-guest-manage-master/README.md
+drwxrwxr-x root/root         0 2019-04-01 10:56 ansible-role-virt-guest-manage-master/defaults/
+-rw-rw-r-- root/root       632 2019-04-01 10:56 ansible-role-virt-guest-manage-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:56 ansible-role-virt-guest-manage-master/library/
+-rw-rw-r-- root/root      4353 2019-04-01 10:56 ansible-role-virt-guest-manage-master/library/qemu_img.py
+drwxrwxr-x root/root         0 2019-04-01 10:56 ansible-role-virt-guest-manage-master/meta/
+-rw-rw-r-- root/root       376 2019-04-01 10:56 ansible-role-virt-guest-manage-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-01 10:56 ansible-role-virt-guest-manage-master/tasks/
+-rw-rw-r-- root/root      1772 2019-04-01 10:56 ansible-role-virt-guest-manage-master/tasks/configure_vm.yml
+-rw-rw-r-- root/root        57 2019-04-01 10:56 ansible-role-virt-guest-manage-master/tasks/main.yml
+-rw-rw-r-- root/root      1829 2019-04-01 10:56 ansible-role-virt-guest-manage-master/tasks/prepare-disks.yml
+-rw-rw-r-- root/root      1423 2019-04-01 10:56 ansible-role-virt-guest-manage-master/tasks/prepare.yml
+drwxrwxr-x root/root         0 2019-04-01 10:56 ansible-role-virt-guest-manage-master/templates/
+-rw-rw-r-- root/root      5150 2019-04-01 10:56 ansible-role-virt-guest-manage-master/templates/vm-install-template.xml.j2
+-rw-rw-r-- root/root       362 2019-04-01 10:56 ansible-role-virt-guest-manage-master/templates/vm-network.xml.j2
+-rw-rw-r-- root/root      4777 2019-04-01 10:56 ansible-role-virt-guest-manage-master/templates/vm-template.xml.j2

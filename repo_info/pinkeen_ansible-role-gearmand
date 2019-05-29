@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-06-12 09:54 ansible-role-gearmand-master/
+-rw-rw-r-- root/root        67 2017-06-12 09:54 ansible-role-gearmand-master/README.md
+drwxrwxr-x root/root         0 2017-06-12 09:54 ansible-role-gearmand-master/defaults/
+-rw-rw-r-- root/root        50 2017-06-12 09:54 ansible-role-gearmand-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-12 09:54 ansible-role-gearmand-master/handlers/
+-rw-rw-r-- root/root        65 2017-06-12 09:54 ansible-role-gearmand-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-12 09:54 ansible-role-gearmand-master/meta/
+-rw-rw-r-- root/root       254 2017-06-12 09:54 ansible-role-gearmand-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-12 09:54 ansible-role-gearmand-master/tasks/
+-rw-rw-r-- root/root       278 2017-06-12 09:54 ansible-role-gearmand-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-12 09:54 ansible-role-gearmand-master/templates/
+-rw-rw-r-- root/root       168 2017-06-12 09:54 ansible-role-gearmand-master/templates/gearman.conf

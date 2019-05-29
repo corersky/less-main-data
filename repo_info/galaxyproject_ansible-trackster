@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-11-07 13:32 ansible-trackster-master/
+-rw-rw-r-- root/root       675 2018-11-07 13:32 ansible-trackster-master/.gitignore
+-rw-rw-r-- root/root      1082 2018-11-07 13:32 ansible-trackster-master/LICENSE
+-rw-rw-r-- root/root      2131 2018-11-07 13:32 ansible-trackster-master/README.md
+drwxrwxr-x root/root         0 2018-11-07 13:32 ansible-trackster-master/defaults/
+-rw-rw-r-- root/root       238 2018-11-07 13:32 ansible-trackster-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-07 13:32 ansible-trackster-master/meta/
+-rw-rw-r-- root/root       274 2018-11-07 13:32 ansible-trackster-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-07 13:32 ansible-trackster-master/tasks/
+-rw-rw-r-- root/root        97 2018-11-07 13:32 ansible-trackster-master/tasks/main.yml
+-rw-rw-r-- root/root      2165 2018-11-07 13:32 ansible-trackster-master/tasks/setup_trackster.yml

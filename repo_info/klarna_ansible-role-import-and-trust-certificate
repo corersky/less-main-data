@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/
+-rw-rw-r-- root/root       396 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/LICENSE
+-rw-rw-r-- root/root       841 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/README.md
+drwxrwxr-x root/root         0 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/defaults/
+-rw-rw-r-- root/root        18 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/meta/
+-rw-rw-r-- root/root       333 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/meta/main.yml
+-rw-rw-r-- root/root      1533 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/sample_certificate.pem
+drwxrwxr-x root/root         0 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/tasks/
+-rw-rw-r-- root/root       307 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/tests/
+-rw-rw-r-- root/root        10 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/tests/inventory
+-rw-rw-r-- root/root       244 2016-03-20 05:26 ansible-role-import-and-trust-certificate-master/tests/travis.yml

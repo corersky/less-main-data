@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-05-22 06:11 ansible-gearman_exporter-master/
+-rw-rw-r-- root/root      1312 2019-05-22 06:11 ansible-gearman_exporter-master/README.md
+drwxrwxr-x root/root         0 2019-05-22 06:11 ansible-gearman_exporter-master/defaults/
+-rw-rw-r-- root/root       139 2019-05-22 06:11 ansible-gearman_exporter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-22 06:11 ansible-gearman_exporter-master/handlers/
+-rw-rw-r-- root/root       135 2019-05-22 06:11 ansible-gearman_exporter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-22 06:11 ansible-gearman_exporter-master/meta/
+-rw-rw-r-- root/root      1993 2019-05-22 06:11 ansible-gearman_exporter-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-22 06:11 ansible-gearman_exporter-master/tasks/
+-rw-rw-r-- root/root      1804 2019-05-22 06:11 ansible-gearman_exporter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-22 06:11 ansible-gearman_exporter-master/templates/
+-rw-rw-r-- root/root       483 2019-05-22 06:11 ansible-gearman_exporter-master/templates/gearman_exporter.service.j2
+drwxrwxr-x root/root         0 2019-05-22 06:11 ansible-gearman_exporter-master/tests/
+-rw-rw-r-- root/root        11 2019-05-22 06:11 ansible-gearman_exporter-master/tests/inventory
+-rw-rw-r-- root/root        74 2019-05-22 06:11 ansible-gearman_exporter-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-22 06:11 ansible-gearman_exporter-master/vars/
+-rw-rw-r-- root/root       180 2019-05-22 06:11 ansible-gearman_exporter-master/vars/main.yml

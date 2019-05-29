@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-07-04 05:02 ansible-essentials-master/
+-rw-rw-r-- root/root       539 2018-07-04 05:02 ansible-essentials-master/.travis.yml
+-rw-rw-r-- root/root       810 2018-07-04 05:02 ansible-essentials-master/README.md
+drwxrwxr-x root/root         0 2018-07-04 05:02 ansible-essentials-master/defaults/
+-rw-rw-r-- root/root       416 2018-07-04 05:02 ansible-essentials-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:02 ansible-essentials-master/files/
+-rw-rw-r-- root/root       150 2018-07-04 05:02 ansible-essentials-master/files/ssh.conf
+drwxrwxr-x root/root         0 2018-07-04 05:02 ansible-essentials-master/handlers/
+-rw-rw-r-- root/root       120 2018-07-04 05:02 ansible-essentials-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:02 ansible-essentials-master/meta/
+-rw-rw-r-- root/root       237 2018-07-04 05:02 ansible-essentials-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-04 05:02 ansible-essentials-master/tasks/
+-rw-rw-r-- root/root       546 2018-07-04 05:02 ansible-essentials-master/tasks/main.yml

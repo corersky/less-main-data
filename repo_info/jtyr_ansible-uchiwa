@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-07-30 08:37 ansible-uchiwa-master/
+-rw-rw-r-- root/root         0 2017-07-30 08:37 ansible-uchiwa-master/.gitignore
+-rw-rw-r-- root/root      1080 2017-07-30 08:37 ansible-uchiwa-master/LICENSE
+-rw-rw-r-- root/root      3328 2017-07-30 08:37 ansible-uchiwa-master/README.md
+drwxrwxr-x root/root         0 2017-07-30 08:37 ansible-uchiwa-master/defaults/
+-rw-rw-r-- root/root      1994 2017-07-30 08:37 ansible-uchiwa-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2017-07-30 08:37 ansible-uchiwa-master/handlers/
+-rw-rw-r-- root/root       171 2017-07-30 08:37 ansible-uchiwa-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2017-07-30 08:37 ansible-uchiwa-master/meta/
+-rw-rw-r-- root/root       270 2017-07-30 08:37 ansible-uchiwa-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-30 08:37 ansible-uchiwa-master/tasks/
+-rw-rw-r-- root/root      1491 2017-07-30 08:37 ansible-uchiwa-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2017-07-30 08:37 ansible-uchiwa-master/templates/
+-rw-rw-r-- root/root        73 2017-07-30 08:37 ansible-uchiwa-master/templates/uchiwa.json.j2

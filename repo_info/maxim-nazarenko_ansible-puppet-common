@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2016-04-20 03:50 ansible-puppet-common-master/
+-rw-rw-r-- root/root       271 2016-04-20 03:50 ansible-puppet-common-master/README.md
+drwxrwxr-x root/root         0 2016-04-20 03:50 ansible-puppet-common-master/defaults/
+-rw-rw-r-- root/root       155 2016-04-20 03:50 ansible-puppet-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-20 03:50 ansible-puppet-common-master/handlers/
+-rw-rw-r-- root/root       269 2016-04-20 03:50 ansible-puppet-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-20 03:50 ansible-puppet-common-master/meta/
+-rw-rw-r-- root/root       279 2016-04-20 03:50 ansible-puppet-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-20 03:50 ansible-puppet-common-master/tasks/
+-rw-rw-r-- root/root       423 2016-04-20 03:50 ansible-puppet-common-master/tasks/install.debian.yml
+-rw-rw-r-- root/root       349 2016-04-20 03:50 ansible-puppet-common-master/tasks/main.yml

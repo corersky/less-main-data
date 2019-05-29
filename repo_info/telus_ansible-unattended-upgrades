@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-12-05 14:44 ansible-unattended-upgrades-master/
+-rw-rw-r-- root/root      1073 2017-12-05 14:44 ansible-unattended-upgrades-master/LICENSE
+-rw-rw-r-- root/root      1188 2017-12-05 14:44 ansible-unattended-upgrades-master/README.md
+drwxrwxr-x root/root         0 2017-12-05 14:44 ansible-unattended-upgrades-master/defaults/
+-rw-rw-r-- root/root       222 2017-12-05 14:44 ansible-unattended-upgrades-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-12-05 14:44 ansible-unattended-upgrades-master/meta/
+-rw-rw-r-- root/root       370 2017-12-05 14:44 ansible-unattended-upgrades-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-12-05 14:44 ansible-unattended-upgrades-master/tasks/
+-rw-rw-r-- root/root       465 2017-12-05 14:44 ansible-unattended-upgrades-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-12-05 14:44 ansible-unattended-upgrades-master/templates/
+drwxrwxr-x root/root         0 2017-12-05 14:44 ansible-unattended-upgrades-master/templates/etc/
+drwxrwxr-x root/root         0 2017-12-05 14:44 ansible-unattended-upgrades-master/templates/etc/apt/
+drwxrwxr-x root/root         0 2017-12-05 14:44 ansible-unattended-upgrades-master/templates/etc/apt/apt.conf.d/
+-rw-rw-r-- root/root       274 2017-12-05 14:44 ansible-unattended-upgrades-master/templates/etc/apt/apt.conf.d/20auto-upgrades
+-rw-rw-r-- root/root       595 2017-12-05 14:44 ansible-unattended-upgrades-master/templates/etc/apt/apt.conf.d/50unattended-upgrades

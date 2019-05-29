@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-ciao-common-master/
+-rw-rw-r-- root/root     10174 2016-10-20 15:07 ansible-role-ciao-common-master/LICENSE
+-rw-rw-r-- root/root      1481 2016-10-20 15:07 ansible-role-ciao-common-master/README.md
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-ciao-common-master/defaults/
+-rw-rw-r-- root/root      1789 2016-10-20 15:07 ansible-role-ciao-common-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-ciao-common-master/handlers/
+-rw-rw-r-- root/root       660 2016-10-20 15:07 ansible-role-ciao-common-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-ciao-common-master/meta/
+-rw-rw-r-- root/root       400 2016-10-20 15:07 ansible-role-ciao-common-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-ciao-common-master/tasks/
+-rw-rw-r-- root/root       777 2016-10-20 15:07 ansible-role-ciao-common-master/tasks/install_clearlinux.yml
+-rw-rw-r-- root/root      1103 2016-10-20 15:07 ansible-role-ciao-common-master/tasks/install_fedora.yml
+-rw-rw-r-- root/root      1106 2016-10-20 15:07 ansible-role-ciao-common-master/tasks/install_ubuntu.yml
+-rw-rw-r-- root/root      1651 2016-10-20 15:07 ansible-role-ciao-common-master/tasks/main.yml

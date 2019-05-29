@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-06-30 17:00 fmw-domain-prereq-master/
+-rw-rw-r-- root/root       539 2017-06-30 17:00 fmw-domain-prereq-master/.travis.yml
+-rw-rw-r-- root/root      1917 2017-06-30 17:00 fmw-domain-prereq-master/README.md
+drwxrwxr-x root/root         0 2017-06-30 17:00 fmw-domain-prereq-master/defaults/
+-rw-rw-r-- root/root       862 2017-06-30 17:00 fmw-domain-prereq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-30 17:00 fmw-domain-prereq-master/handlers/
+-rw-rw-r-- root/root        42 2017-06-30 17:00 fmw-domain-prereq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-30 17:00 fmw-domain-prereq-master/meta/
+-rw-rw-r-- root/root      3945 2017-06-30 17:00 fmw-domain-prereq-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-30 17:00 fmw-domain-prereq-master/tasks/
+-rw-rw-r-- root/root      2366 2017-06-30 17:00 fmw-domain-prereq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-30 17:00 fmw-domain-prereq-master/tests/
+-rw-rw-r-- root/root         9 2017-06-30 17:00 fmw-domain-prereq-master/tests/inventory
+-rw-rw-r-- root/root        75 2017-06-30 17:00 fmw-domain-prereq-master/tests/test.yml

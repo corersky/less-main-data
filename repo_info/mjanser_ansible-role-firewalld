@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-05-04 01:03 ansible-role-firewalld-master/
+-rw-rw-r-- root/root       171 2018-05-04 01:03 ansible-role-firewalld-master/.editorconfig
+-rw-rw-r-- root/root        14 2018-05-04 01:03 ansible-role-firewalld-master/.gitignore
+-rw-rw-r-- root/root       388 2018-05-04 01:03 ansible-role-firewalld-master/.travis.yml
+-rw-rw-r-- root/root      1080 2018-05-04 01:03 ansible-role-firewalld-master/LICENSE
+-rw-rw-r-- root/root       464 2018-05-04 01:03 ansible-role-firewalld-master/README.md
+drwxrwxr-x root/root         0 2018-05-04 01:03 ansible-role-firewalld-master/defaults/
+-rw-rw-r-- root/root        35 2018-05-04 01:03 ansible-role-firewalld-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-05-04 01:03 ansible-role-firewalld-master/meta/
+-rw-rw-r-- root/root       218 2018-05-04 01:03 ansible-role-firewalld-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-05-04 01:03 ansible-role-firewalld-master/tasks/
+-rw-rw-r-- root/root       756 2018-05-04 01:03 ansible-role-firewalld-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-05-04 01:03 ansible-role-firewalld-master/tests/
+-rw-rw-r-- root/root        89 2018-05-04 01:03 ansible-role-firewalld-master/tests/test.yml

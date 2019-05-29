@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-20 23:06 ansible-role-certbot-master/
+-rw-rw-r-- root/root       331 2019-01-20 23:06 ansible-role-certbot-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-20 23:06 ansible-role-certbot-master/COPYING
+-rw-rw-r-- root/root      2348 2019-01-20 23:06 ansible-role-certbot-master/README.md
+drwxrwxr-x root/root         0 2019-01-20 23:06 ansible-role-certbot-master/defaults/
+-rw-rw-r-- root/root       441 2019-01-20 23:06 ansible-role-certbot-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-20 23:06 ansible-role-certbot-master/meta/
+-rw-rw-r-- root/root       283 2019-01-20 23:06 ansible-role-certbot-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-20 23:06 ansible-role-certbot-master/tasks/
+-rw-rw-r-- root/root      2035 2019-01-20 23:06 ansible-role-certbot-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-20 23:06 ansible-role-certbot-master/templates/
+-rw-rw-r-- root/root      1600 2019-01-20 23:06 ansible-role-certbot-master/templates/authenticator.sh.j2
+-rw-rw-r-- root/root       369 2019-01-20 23:06 ansible-role-certbot-master/templates/certbot.sysconfig.j2
+-rw-rw-r-- root/root       866 2019-01-20 23:06 ansible-role-certbot-master/templates/cleanup.sh.j2
+drwxrwxr-x root/root         0 2019-01-20 23:06 ansible-role-certbot-master/tests/
+-rw-rw-r-- root/root        10 2019-01-20 23:06 ansible-role-certbot-master/tests/inventory
+-rw-rw-r-- root/root        83 2019-01-20 23:06 ansible-role-certbot-master/tests/test.yml

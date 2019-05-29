@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-01 00:54 ansible-local-id-plugin-role-master/
+-rw-rw-r-- root/root         8 2017-03-01 00:54 ansible-local-id-plugin-role-master/.gitignore
+-rw-rw-r-- root/root       595 2017-03-01 00:54 ansible-local-id-plugin-role-master/.travis.yml
+-rw-rw-r-- root/root      1320 2017-03-01 00:54 ansible-local-id-plugin-role-master/LICENSE
+-rw-rw-r-- root/root       451 2017-03-01 00:54 ansible-local-id-plugin-role-master/README.md
+drwxrwxr-x root/root         0 2017-03-01 00:54 ansible-local-id-plugin-role-master/lookup_plugins/
+-rw-rw-r-- root/root       694 2017-03-01 00:54 ansible-local-id-plugin-role-master/lookup_plugins/id.py
+drwxrwxr-x root/root         0 2017-03-01 00:54 ansible-local-id-plugin-role-master/meta/
+-rw-rw-r-- root/root       435 2017-03-01 00:54 ansible-local-id-plugin-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-01 00:54 ansible-local-id-plugin-role-master/tests/
+-rw-rw-r-- root/root        11 2017-03-01 00:54 ansible-local-id-plugin-role-master/tests/inventory
+-rw-rw-r-- root/root       571 2017-03-01 00:54 ansible-local-id-plugin-role-master/tests/test.yml

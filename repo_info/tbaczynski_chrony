@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-23 17:40 chrony-master/
+-rw-rw-r-- root/root       228 2019-05-23 17:40 chrony-master/.gitlab-ci.yml
+-rw-rw-r-- root/root       305 2019-05-23 17:40 chrony-master/.yamllint.yml
+-rw-rw-r-- root/root      1047 2019-05-23 17:40 chrony-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 17:40 chrony-master/defaults/
+-rw-rw-r-- root/root       228 2019-05-23 17:40 chrony-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2019-05-23 17:40 chrony-master/handlers/
+-rw-rw-r-- root/root       105 2019-05-23 17:40 chrony-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-05-23 17:40 chrony-master/meta/
+-rw-rw-r-- root/root       310 2019-05-23 17:40 chrony-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-23 17:40 chrony-master/tasks/
+-rw-rw-r-- root/root       747 2019-05-23 17:40 chrony-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2019-05-23 17:40 chrony-master/templates/
+-rw-rw-r-- root/root      2052 2019-05-23 17:40 chrony-master/templates/chrony.conf.j2
+-rw-rw-r-- root/root       823 2019-05-23 17:40 chrony-master/templates/chrony.keys.j2

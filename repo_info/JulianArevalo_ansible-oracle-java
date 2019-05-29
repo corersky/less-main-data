@@ -1,0 +1,9 @@
+drwxrwxr-x root/root         0 2018-01-04 16:02 ansible-oracle-java-master/
+-rw-rw-r-- root/root        42 2018-01-04 16:02 ansible-oracle-java-master/.gitignore
+-rw-rw-r-- root/root       533 2018-01-04 16:02 ansible-oracle-java-master/README.md
+drwxrwxr-x root/root         0 2018-01-04 16:02 ansible-oracle-java-master/meta/
+-rw-rw-r-- root/root       594 2018-01-04 16:02 ansible-oracle-java-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-04 16:02 ansible-oracle-java-master/tasks/
+-rw-rw-r-- root/root       860 2018-01-04 16:02 ansible-oracle-java-master/tasks/macos.yml
+-rw-rw-r-- root/root       770 2018-01-04 16:02 ansible-oracle-java-master/tasks/main.yml
+-rw-rw-r-- root/root       978 2018-01-04 16:02 ansible-oracle-java-master/tasks/ubuntu.yml

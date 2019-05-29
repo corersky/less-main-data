@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-08-21 23:05 ansible-coreos-fusermount-master/
+-rw-rw-r-- root/root       539 2016-08-21 23:05 ansible-coreos-fusermount-master/.travis.yml
+-rw-rw-r-- root/root       361 2016-08-21 23:05 ansible-coreos-fusermount-master/README.md
+drwxrwxr-x root/root         0 2016-08-21 23:05 ansible-coreos-fusermount-master/defaults/
+-rw-rw-r-- root/root       208 2016-08-21 23:05 ansible-coreos-fusermount-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-08-21 23:05 ansible-coreos-fusermount-master/meta/
+-rw-rw-r-- root/root       155 2016-08-21 23:05 ansible-coreos-fusermount-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-21 23:05 ansible-coreos-fusermount-master/tasks/
+-rw-rw-r-- root/root       565 2016-08-21 23:05 ansible-coreos-fusermount-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-21 23:05 ansible-coreos-fusermount-master/tests/
+-rw-rw-r-- root/root         9 2016-08-21 23:05 ansible-coreos-fusermount-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-08-21 23:05 ansible-coreos-fusermount-master/tests/test.yml

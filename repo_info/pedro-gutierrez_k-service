@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-02-18 06:20 k-service-master/
+-rw-rw-r-- root/root      1328 2018-02-18 06:20 k-service-master/README.md
+drwxrwxr-x root/root         0 2018-02-18 06:20 k-service-master/defaults/
+-rw-rw-r-- root/root        23 2018-02-18 06:20 k-service-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-18 06:20 k-service-master/handlers/
+-rw-rw-r-- root/root        33 2018-02-18 06:20 k-service-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-18 06:20 k-service-master/meta/
+-rw-rw-r-- root/root      1846 2018-02-18 06:20 k-service-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-18 06:20 k-service-master/tasks/
+-rw-rw-r-- root/root      1091 2018-02-18 06:20 k-service-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-18 06:20 k-service-master/tests/
+-rw-rw-r-- root/root        11 2018-02-18 06:20 k-service-master/tests/inventory
+-rw-rw-r-- root/root        67 2018-02-18 06:20 k-service-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-18 06:20 k-service-master/vars/
+-rw-rw-r-- root/root        29 2018-02-18 06:20 k-service-master/vars/main.yml

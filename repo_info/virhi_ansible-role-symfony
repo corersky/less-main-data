@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-01-12 10:27 ansible-role-symfony-master/
+-rw-rw-r-- root/root       129 2016-01-12 10:27 ansible-role-symfony-master/.gitignore
+-rw-rw-r-- root/root      1106 2016-01-12 10:27 ansible-role-symfony-master/LICENSE
+-rw-rw-r-- root/root       729 2016-01-12 10:27 ansible-role-symfony-master/README.md
+drwxrwxr-x root/root         0 2016-01-12 10:27 ansible-role-symfony-master/defaults/
+-rw-rw-r-- root/root       101 2016-01-12 10:27 ansible-role-symfony-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-01-12 10:27 ansible-role-symfony-master/handlers/
+-rw-rw-r-- root/root        38 2016-01-12 10:27 ansible-role-symfony-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-01-12 10:27 ansible-role-symfony-master/meta/
+-rw-rw-r-- root/root      1073 2016-01-12 10:27 ansible-role-symfony-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-01-12 10:27 ansible-role-symfony-master/tasks/
+-rw-rw-r-- root/root       628 2016-01-12 10:27 ansible-role-symfony-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-01-12 10:27 ansible-role-symfony-master/templates/
+-rw-rw-r-- root/root       984 2016-01-12 10:27 ansible-role-symfony-master/templates/vhost22.symfony.conf.tpl
+-rw-rw-r-- root/root       964 2016-01-12 10:27 ansible-role-symfony-master/templates/vhost24.symfony.conf.tpl
+drwxrwxr-x root/root         0 2016-01-12 10:27 ansible-role-symfony-master/vars/
+-rw-rw-r-- root/root        34 2016-01-12 10:27 ansible-role-symfony-master/vars/main.yml

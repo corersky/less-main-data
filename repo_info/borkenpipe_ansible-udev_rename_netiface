@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-23 16:50 ansible-udev_rename_netiface-master/
+-rw-rw-r-- root/root         0 2018-09-23 16:50 ansible-udev_rename_netiface-master/.gitignore
+-rw-rw-r-- root/root      1075 2018-09-23 16:50 ansible-udev_rename_netiface-master/LICENSE.md
+-rw-rw-r-- root/root      2076 2018-09-23 16:50 ansible-udev_rename_netiface-master/README.md
+drwxrwxr-x root/root         0 2018-09-23 16:50 ansible-udev_rename_netiface-master/defaults/
+-rw-rw-r-- root/root       420 2018-09-23 16:50 ansible-udev_rename_netiface-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-09-23 16:50 ansible-udev_rename_netiface-master/meta/
+-rw-rw-r-- root/root       293 2018-09-23 16:50 ansible-udev_rename_netiface-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-23 16:50 ansible-udev_rename_netiface-master/tasks/
+-rw-rw-r-- root/root       691 2018-09-23 16:50 ansible-udev_rename_netiface-master/tasks/interfaces.yml
+-rw-rw-r-- root/root       445 2018-09-23 16:50 ansible-udev_rename_netiface-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-09-23 16:50 ansible-udev_rename_netiface-master/templates/
+-rw-rw-r-- root/root       621 2018-09-23 16:50 ansible-udev_rename_netiface-master/templates/interfaces.j2
+-rw-rw-r-- root/root      1728 2018-09-23 16:50 ansible-udev_rename_netiface-master/templates/rules.j2

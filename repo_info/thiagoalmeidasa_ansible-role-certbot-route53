@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-12-06 14:24 ansible-role-certbot-route53-master/
+-rw-rw-r-- root/root      1536 2018-12-06 14:24 ansible-role-certbot-route53-master/README.md
+drwxrwxr-x root/root         0 2018-12-06 14:24 ansible-role-certbot-route53-master/defaults/
+-rw-rw-r-- root/root       383 2018-12-06 14:24 ansible-role-certbot-route53-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-06 14:24 ansible-role-certbot-route53-master/meta/
+-rw-rw-r-- root/root       524 2018-12-06 14:24 ansible-role-certbot-route53-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-06 14:24 ansible-role-certbot-route53-master/tasks/
+-rw-rw-r-- root/root      1001 2018-12-06 14:24 ansible-role-certbot-route53-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-06 14:24 ansible-role-certbot-route53-master/templates/
+-rw-rw-r-- root/root        75 2018-12-06 14:24 ansible-role-certbot-route53-master/templates/letsencrypt_cli.ini.j2
+drwxrwxr-x root/root         0 2018-12-06 14:24 ansible-role-certbot-route53-master/tests/
+-rw-rw-r-- root/root        11 2018-12-06 14:24 ansible-role-certbot-route53-master/tests/inventory
+-rw-rw-r-- root/root        76 2018-12-06 14:24 ansible-role-certbot-route53-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-12-06 14:24 ansible-role-certbot-route53-master/vars/
+-rw-rw-r-- root/root       224 2018-12-06 14:24 ansible-role-certbot-route53-master/vars/main.yml

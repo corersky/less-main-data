@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-06-05 21:52 ansible-role-dnsmasq-master/
+-rw-rw-r-- root/root         3 2018-06-05 21:52 ansible-role-dnsmasq-master/.gitignore
+-rw-rw-r-- root/root      1051 2018-06-05 21:52 ansible-role-dnsmasq-master/README.md
+drwxrwxr-x root/root         0 2018-06-05 21:52 ansible-role-dnsmasq-master/defaults/
+-rw-rw-r-- root/root       131 2018-06-05 21:52 ansible-role-dnsmasq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-06-05 21:52 ansible-role-dnsmasq-master/handlers/
+-rw-rw-r-- root/root        77 2018-06-05 21:52 ansible-role-dnsmasq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-06-05 21:52 ansible-role-dnsmasq-master/meta/
+-rw-rw-r-- root/root       278 2018-06-05 21:52 ansible-role-dnsmasq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-06-05 21:52 ansible-role-dnsmasq-master/tasks/
+-rw-rw-r-- root/root       593 2018-06-05 21:52 ansible-role-dnsmasq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-06-05 21:52 ansible-role-dnsmasq-master/templates/
+-rw-rw-r-- root/root       272 2018-06-05 21:52 ansible-role-dnsmasq-master/templates/dnsmasq.conf.j2
+-rw-rw-r-- root/root        93 2018-06-05 21:52 ansible-role-dnsmasq-master/templates/hosts.j2

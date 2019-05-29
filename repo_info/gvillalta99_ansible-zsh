@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2015-05-11 23:38 ansible-zsh-master/
+-rw-rw-r-- root/root       755 2015-05-11 23:38 ansible-zsh-master/README.md
+drwxrwxr-x root/root         0 2015-05-11 23:38 ansible-zsh-master/defaults/
+-rw-rw-r-- root/root       455 2015-05-11 23:38 ansible-zsh-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-05-11 23:38 ansible-zsh-master/meta/
+-rw-rw-r-- root/root       269 2015-05-11 23:38 ansible-zsh-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-05-11 23:38 ansible-zsh-master/tasks/
+-rw-rw-r-- root/root      1177 2015-05-11 23:38 ansible-zsh-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-05-11 23:38 ansible-zsh-master/templates/
+-rw-rw-r-- root/root       766 2015-05-11 23:38 ansible-zsh-master/templates/aliases.zsh.j2
+-rw-rw-r-- root/root       859 2015-05-11 23:38 ansible-zsh-master/templates/config.zsh.j2
+-rw-rw-r-- root/root       775 2015-05-11 23:38 ansible-zsh-master/templates/zshrc.j2

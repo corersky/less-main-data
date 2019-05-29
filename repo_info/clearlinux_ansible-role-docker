@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-docker-master/
+-rw-rw-r-- root/root     10174 2016-10-20 15:07 ansible-role-docker-master/LICENSE
+-rw-rw-r-- root/root       655 2016-10-20 15:07 ansible-role-docker-master/README.md
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-docker-master/defaults/
+-rw-rw-r-- root/root       647 2016-10-20 15:07 ansible-role-docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-docker-master/meta/
+-rw-rw-r-- root/root       509 2016-10-20 15:07 ansible-role-docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-20 15:07 ansible-role-docker-master/tasks/
+-rw-rw-r-- root/root      1027 2016-10-20 15:07 ansible-role-docker-master/tasks/install_clearlinux.yml
+-rw-rw-r-- root/root       963 2016-10-20 15:07 ansible-role-docker-master/tasks/install_fedora.yml
+-rw-rw-r-- root/root      1274 2016-10-20 15:07 ansible-role-docker-master/tasks/install_ubuntu.yml
+-rw-rw-r-- root/root       930 2016-10-20 15:07 ansible-role-docker-master/tasks/main.yml

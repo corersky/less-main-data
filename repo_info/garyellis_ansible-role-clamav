@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-10-03 01:09 ansible-role-clamav-master/
+-rw-rw-r-- root/root         9 2016-10-03 01:09 ansible-role-clamav-master/.gitignore
+-rw-rw-r-- root/root      1214 2016-10-03 01:09 ansible-role-clamav-master/README.md
+-rw-rw-r-- root/root      1460 2016-10-03 01:09 ansible-role-clamav-master/Vagrantfile
+-rw-rw-r-- root/root       135 2016-10-03 01:09 ansible-role-clamav-master/boxes.yml
+drwxrwxr-x root/root         0 2016-10-03 01:09 ansible-role-clamav-master/defaults/
+-rw-rw-r-- root/root       478 2016-10-03 01:09 ansible-role-clamav-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-10-03 01:09 ansible-role-clamav-master/handlers/
+-rw-rw-r-- root/root       178 2016-10-03 01:09 ansible-role-clamav-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-10-03 01:09 ansible-role-clamav-master/meta/
+-rw-rw-r-- root/root       237 2016-10-03 01:09 ansible-role-clamav-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-10-03 01:09 ansible-role-clamav-master/tasks/
+-rw-rw-r-- root/root       919 2016-10-03 01:09 ansible-role-clamav-master/tasks/cron.yml
+-rw-rw-r-- root/root       819 2016-10-03 01:09 ansible-role-clamav-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-10-03 01:09 ansible-role-clamav-master/tests/
+-rw-rw-r-- root/root       108 2016-10-03 01:09 ansible-role-clamav-master/tests/test.yml

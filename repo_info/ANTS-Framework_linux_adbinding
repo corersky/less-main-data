@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-03-01 01:13 linux_adbinding-master/
+-rw-rw-r-- root/root       553 2019-03-01 01:13 linux_adbinding-master/.travis.yml
+-rw-rw-r-- root/root     35141 2019-03-01 01:13 linux_adbinding-master/LICENSE
+-rw-rw-r-- root/root      2080 2019-03-01 01:13 linux_adbinding-master/README.md
+drwxrwxr-x root/root         0 2019-03-01 01:13 linux_adbinding-master/defaults/
+-rw-rw-r-- root/root       521 2019-03-01 01:13 linux_adbinding-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-01 01:13 linux_adbinding-master/handlers/
+-rw-rw-r-- root/root       828 2019-03-01 01:13 linux_adbinding-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-01 01:13 linux_adbinding-master/meta/
+-rw-rw-r-- root/root       662 2019-03-01 01:13 linux_adbinding-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-01 01:13 linux_adbinding-master/tasks/
+-rw-rw-r-- root/root      2466 2019-03-01 01:13 linux_adbinding-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-01 01:13 linux_adbinding-master/templates/
+-rw-rw-r-- root/root       283 2019-03-01 01:13 linux_adbinding-master/templates/krb5.conf.j2
+-rw-rw-r-- root/root       340 2019-03-01 01:13 linux_adbinding-master/templates/realmd.conf.j2
+-rw-rw-r-- root/root       575 2019-03-01 01:13 linux_adbinding-master/templates/sssd.conf.j2_off

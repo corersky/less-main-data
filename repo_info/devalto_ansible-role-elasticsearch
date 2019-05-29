@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-11-29 14:16 ansible-role-elasticsearch-master/
+-rw-rw-r-- root/root        15 2018-11-29 14:16 ansible-role-elasticsearch-master/.gitignore
+-rw-rw-r-- root/root       432 2018-11-29 14:16 ansible-role-elasticsearch-master/.travis.yml
+-rw-rw-r-- root/root       128 2018-11-29 14:16 ansible-role-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2018-11-29 14:16 ansible-role-elasticsearch-master/defaults/
+-rw-rw-r-- root/root       146 2018-11-29 14:16 ansible-role-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-29 14:16 ansible-role-elasticsearch-master/handlers/
+-rw-rw-r-- root/root        81 2018-11-29 14:16 ansible-role-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-29 14:16 ansible-role-elasticsearch-master/meta/
+-rw-rw-r-- root/root       349 2018-11-29 14:16 ansible-role-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-29 14:16 ansible-role-elasticsearch-master/tasks/
+-rw-rw-r-- root/root      1990 2018-11-29 14:16 ansible-role-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-29 14:16 ansible-role-elasticsearch-master/tests/
+-rw-rw-r-- root/root        19 2018-11-29 14:16 ansible-role-elasticsearch-master/tests/requirements.yml
+-rwxrwxr-x root/root      3764 2018-11-29 14:16 ansible-role-elasticsearch-master/tests/test.sh
+-rw-rw-r-- root/root       506 2018-11-29 14:16 ansible-role-elasticsearch-master/tests/test.yml

@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-role-assignment-master/
+-rw-rw-r-- root/root       702 2017-05-10 05:10 ansible-azure-role-assignment-master/.gitignore
+-rw-rw-r-- root/root     18047 2017-05-10 05:10 ansible-azure-role-assignment-master/LICENSE
+-rw-rw-r-- root/root       256 2017-05-10 05:10 ansible-azure-role-assignment-master/README.md
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-role-assignment-master/defaults/
+-rw-rw-r-- root/root       758 2017-05-10 05:10 ansible-azure-role-assignment-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-role-assignment-master/library/
+-rw-rw-r-- root/root     16450 2017-05-10 05:10 ansible-azure-role-assignment-master/library/azure_role_assignment.py
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-role-assignment-master/meta/
+-rw-rw-r-- root/root       215 2017-05-10 05:10 ansible-azure-role-assignment-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-10 05:10 ansible-azure-role-assignment-master/tasks/
+-rw-rw-r-- root/root       686 2017-05-10 05:10 ansible-azure-role-assignment-master/tasks/main.yml

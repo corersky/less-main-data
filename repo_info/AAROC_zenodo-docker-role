@@ -1,0 +1,26 @@
+drwxrwxr-x root/root         0 2015-03-02 09:46 zenodo-docker-role-master/
+-rw-rw-r-- root/root      1193 2015-03-02 09:46 zenodo-docker-role-master/.travis.yml
+lrwxrwxrwx root/root         0 2015-03-02 09:46 zenodo-docker-role-master/Dockerfile -> Dockerfile.ubuntu
+-rw-rw-r-- root/root       927 2015-03-02 09:46 zenodo-docker-role-master/Dockerfile.centos
+-rw-rw-r-- root/root       953 2015-03-02 09:46 zenodo-docker-role-master/Dockerfile.ubuntu
+-rw-rw-r-- root/root     11325 2015-03-02 09:46 zenodo-docker-role-master/LICENSE
+-rw-rw-r-- root/root      1059 2015-03-02 09:46 zenodo-docker-role-master/README.md
+drwxrwxr-x root/root         0 2015-03-02 09:46 zenodo-docker-role-master/defaults/
+-rw-rw-r-- root/root        31 2015-03-02 09:46 zenodo-docker-role-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-02 09:46 zenodo-docker-role-master/files/
+drwxrwxr-x root/root         0 2015-03-02 09:46 zenodo-docker-role-master/files/etc/
+-rw-rw-r-- root/root        53 2015-03-02 09:46 zenodo-docker-role-master/files/etc/my.cnf
+drwxrwxr-x root/root         0 2015-03-02 09:46 zenodo-docker-role-master/handlers/
+-rw-rw-r-- root/root        31 2015-03-02 09:46 zenodo-docker-role-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-02 09:46 zenodo-docker-role-master/meta/
+-rw-rw-r-- root/root      1912 2015-03-02 09:46 zenodo-docker-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-02 09:46 zenodo-docker-role-master/tasks/
+-rw-rw-r-- root/root       142 2015-03-02 09:46 zenodo-docker-role-master/tasks/assets.yml
+-rw-rw-r-- root/root       402 2015-03-02 09:46 zenodo-docker-role-master/tasks/install.yml
+-rw-rw-r-- root/root       145 2015-03-02 09:46 zenodo-docker-role-master/tasks/main.yml
+-rw-rw-r-- root/root       127 2015-03-02 09:46 zenodo-docker-role-master/tasks/mysql.yml
+-rw-rw-r-- root/root       832 2015-03-02 09:46 zenodo-docker-role-master/tasks/prerequisites.yml
+-rw-rw-r-- root/root       178 2015-03-02 09:46 zenodo-docker-role-master/tasks/source.yml
+drwxrwxr-x root/root         0 2015-03-02 09:46 zenodo-docker-role-master/vars/
+-rw-rw-r-- root/root      1184 2015-03-02 09:46 zenodo-docker-role-master/vars/main.yml
+-rw-rw-r-- root/root       569 2015-03-02 09:46 zenodo-docker-role-master/zenodo.yml

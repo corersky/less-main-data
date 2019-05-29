@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-11-03 23:52 ansible-role-parallel-master/
+-rw-rw-r-- root/root       843 2017-11-03 23:52 ansible-role-parallel-master/.gitignore
+-rw-rw-r-- root/root       539 2017-11-03 23:52 ansible-role-parallel-master/.travis.yml
+-rw-rw-r-- root/root      1328 2017-11-03 23:52 ansible-role-parallel-master/README.md
+drwxrwxr-x root/root         0 2017-11-03 23:52 ansible-role-parallel-master/defaults/
+-rw-rw-r-- root/root        19 2017-11-03 23:52 ansible-role-parallel-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-03 23:52 ansible-role-parallel-master/meta/
+-rw-rw-r-- root/root       370 2017-11-03 23:52 ansible-role-parallel-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-03 23:52 ansible-role-parallel-master/tasks/
+-rw-rw-r-- root/root       326 2017-11-03 23:52 ansible-role-parallel-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-03 23:52 ansible-role-parallel-master/tests/
+-rw-rw-r-- root/root       257 2017-11-03 23:52 ansible-role-parallel-master/tests/ansible.cfg
+-rw-rw-r-- root/root       109 2017-11-03 23:52 ansible-role-parallel-master/tests/staging
+-rw-rw-r-- root/root       194 2017-11-03 23:52 ansible-role-parallel-master/tests/test.yml

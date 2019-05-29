@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2019-03-19 07:55 ansible-role.squid-master/
+-rw-rw-r-- root/root     18092 2019-03-19 07:55 ansible-role.squid-master/LICENSE
+-rw-rw-r-- root/root      2534 2019-03-19 07:55 ansible-role.squid-master/README.md
+drwxrwxr-x root/root         0 2019-03-19 07:55 ansible-role.squid-master/defaults/
+-rw-rw-r-- root/root       315 2019-03-19 07:55 ansible-role.squid-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-19 07:55 ansible-role.squid-master/handlers/
+-rw-rw-r-- root/root        74 2019-03-19 07:55 ansible-role.squid-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-19 07:55 ansible-role.squid-master/meta/
+-rw-rw-r-- root/root       348 2019-03-19 07:55 ansible-role.squid-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-19 07:55 ansible-role.squid-master/tasks/
+-rw-rw-r-- root/root       379 2019-03-19 07:55 ansible-role.squid-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-19 07:55 ansible-role.squid-master/templates/
+-rw-rw-r-- root/root      4007 2019-03-19 07:55 ansible-role.squid-master/templates/squid-deb-proxy.conf.j2
+-rw-rw-r-- root/root      1943 2019-03-19 07:55 ansible-role.squid-master/templates/squid.conf.j2

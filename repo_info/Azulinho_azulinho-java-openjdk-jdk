@@ -1,0 +1,25 @@
+drwxrwxr-x root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/
+drwxrwxr-x root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/.bundle/
+-rw-rw-r-- root/root        36 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/.bundle/config
+-rw-rw-r-- root/root        87 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/.gitignore
+-rw-rw-r-- root/root       204 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/README.md
+-rw-rw-r-- root/root      1197 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/Rakefile
+drwxrwxr-x root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/meta/
+-rw-rw-r-- root/root       178 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/tasks/
+-rw-rw-r-- root/root       119 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/
+drwxrwxr-x root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/.bundle/
+-rw-rw-r-- root/root        36 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/.bundle/config
+-rw-rw-r-- root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/Gemfile
+-rw-rw-r-- root/root        45 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/Gemfile.lock
+-rw-rw-r-- root/root      2215 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/Vagrantfile
+-rw-rw-r-- root/root       431 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/ansible.cfg
+-rw-rw-r-- root/root       176 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/java-openjdk-jdk.yml
+-rw-rw-r-- root/root       113 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/main_spec.rb
+drwxrwxr-x root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/roles/
+lrwxrwxrwx root/root         0 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/roles/java-openjdk-jdk -> ../../
+-rw-rw-r-- root/root       125 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/spec_helper.rb
+-rw-rw-r-- root/root       182 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/vagrant
+-rw-rw-r-- root/root       233 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/vagrant-java-openjdk-jdk.yml
+-rw-rw-r-- root/root        12 2014-12-13 13:19 azulinho-java-openjdk-jdk-master/vagrantbox/vagrant-vault

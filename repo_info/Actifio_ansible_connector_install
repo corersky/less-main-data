@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-08-19 19:42 ansible_connector_install-master/
+-rw-rw-r-- root/root      1100 2018-08-19 19:42 ansible_connector_install-master/LICENSE
+-rw-rw-r-- root/root      3140 2018-08-19 19:42 ansible_connector_install-master/README.md
+drwxrwxr-x root/root         0 2018-08-19 19:42 ansible_connector_install-master/defaults/
+-rw-rw-r-- root/root       189 2018-08-19 19:42 ansible_connector_install-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-19 19:42 ansible_connector_install-master/meta/
+-rw-rw-r-- root/root       788 2018-08-19 19:42 ansible_connector_install-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-19 19:42 ansible_connector_install-master/tasks/
+-rw-rw-r-- root/root      1895 2018-08-19 19:42 ansible_connector_install-master/tasks/add_host_iscsi.yml
+-rw-rw-r-- root/root      1715 2018-08-19 19:42 ansible_connector_install-master/tasks/agent_redhat.yml
+-rw-rw-r-- root/root       411 2018-08-19 19:42 ansible_connector_install-master/tasks/discover_apps.yml
+-rw-rw-r-- root/root      1109 2018-08-19 19:42 ansible_connector_install-master/tasks/discover_vm.yml
+-rw-rw-r-- root/root       594 2018-08-19 19:42 ansible_connector_install-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-19 19:42 ansible_connector_install-master/templates/
+-rw-rw-r-- root/root       254 2018-08-19 19:42 ansible_connector_install-master/templates/vmware.repo.j2
+drwxrwxr-x root/root         0 2018-08-19 19:42 ansible_connector_install-master/vars/
+-rw-rw-r-- root/root       271 2018-08-19 19:42 ansible_connector_install-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-04-26 23:10 windows_domain-master/
+-rw-rw-r-- root/root      2016 2019-04-26 23:10 windows_domain-master/.travis.yml
+-rw-rw-r-- root/root      1328 2019-04-26 23:10 windows_domain-master/README.md
+drwxrwxr-x root/root         0 2019-04-26 23:10 windows_domain-master/defaults/
+-rw-rw-r-- root/root        38 2019-04-26 23:10 windows_domain-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-26 23:10 windows_domain-master/handlers/
+-rw-rw-r-- root/root        38 2019-04-26 23:10 windows_domain-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-26 23:10 windows_domain-master/meta/
+-rw-rw-r-- root/root       351 2019-04-26 23:10 windows_domain-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-04-26 23:10 windows_domain-master/tasks/
+-rw-rw-r-- root/root       363 2019-04-26 23:10 windows_domain-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-26 23:10 windows_domain-master/tests/
+-rw-rw-r-- root/root       404 2019-04-26 23:10 windows_domain-master/tests/ad_join.yml
+-rw-rw-r-- root/root        11 2019-04-26 23:10 windows_domain-master/tests/inventory
+-rw-rw-r-- root/root        72 2019-04-26 23:10 windows_domain-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-04-26 23:10 windows_domain-master/vars/
+-rw-rw-r-- root/root        34 2019-04-26 23:10 windows_domain-master/vars/main.yml

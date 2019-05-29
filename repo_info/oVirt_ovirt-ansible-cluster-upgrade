@@ -1,0 +1,42 @@
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/
+-rw-rw-r-- root/root        84 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/.gitignore
+-rw-rw-r-- root/root       438 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/.travis.yml
+-rw-rw-r-- root/root       110 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/.yamllint
+-rw-rw-r-- root/root     10759 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/LICENSE
+-rw-rw-r-- root/root      3439 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/README.md
+-rw-rw-r-- root/root       108 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation.yaml
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation/
+-rw-rw-r-- root/root       308 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation/README.md
+lrwxrwxrwx root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation/build-artifacts-manual.req -> build-artifacts.req
+-rwxrwxr-x root/root       705 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation/build-artifacts-manual.sh
+-rw-rw-r-- root/root        22 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation/build-artifacts.packages
+-rwxrwxr-x root/root       658 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation/build-artifacts.sh
+-rw-rw-r-- root/root        22 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation/check-patch.packages
+-rwxrwxr-x root/root       572 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/automation/check-patch.sh
+-rwxrwxr-x root/root      1744 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/build.sh
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/defaults/
+-rw-rw-r-- root/root       325 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/examples/
+-rw-rw-r-- root/root       457 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/examples/cluster_upgrade.yml
+lrwxrwxrwx root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/examples/ovirt.cluster-upgrade -> ../
+-rw-rw-r-- root/root       363 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/examples/passwords.yml
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/library/
+-rw-rw-r-- root/root       909 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/library/README.md
+-rw-rw-r-- root/root      7354 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/library/ovirt_event_28.py
+-rw-rw-r-- root/root     23843 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/library/ovirt_host_28.py
+-rw-rw-r-- root/root      7379 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/library/ovirt_job_29.py
+-rw-rw-r-- root/root    107990 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/library/ovirt_vm_28.py
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/meta/
+-rw-rw-r-- root/root       349 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/meta/main.yml
+lrwxrwxrwx root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/oVirt.cluster-upgrade -> oVirt.cluster-upgrade
+-rw-rw-r-- root/root      3757 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/ovirt-ansible-cluster-upgrade.spec.in
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tasks/
+-rw-rw-r-- root/root      1070 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tasks/cluster_policy.yml
+-rw-rw-r-- root/root      7281 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tasks/main.yml
+-rw-rw-r-- root/root       575 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tasks/pinned_vms.yml
+-rw-rw-r-- root/root      1727 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tasks/upgrade.yml
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tests/
+-rw-rw-r-- root/root        21 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tests/requirements.txt
+drwxrwxr-x root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tests/roles/oVirt.cluster-upgrade -> ../../
+-rw-rw-r-- root/root       506 2019-05-15 03:15 ovirt-ansible-cluster-upgrade-master/tox.ini

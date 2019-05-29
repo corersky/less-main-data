@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-03-21 16:05 ansible-role-account-master/
+-rw-rw-r-- root/root       107 2016-03-21 16:05 ansible-role-account-master/.editorconfig
+-rw-rw-r-- root/root      3700 2016-03-21 16:05 ansible-role-account-master/.gitignore
+-rw-rw-r-- root/root       542 2016-03-21 16:05 ansible-role-account-master/.travis.yml
+-rw-rw-r-- root/root      1098 2016-03-21 16:05 ansible-role-account-master/LICENSE
+-rw-rw-r-- root/root      1964 2016-03-21 16:05 ansible-role-account-master/README.md
+drwxrwxr-x root/root         0 2016-03-21 16:05 ansible-role-account-master/defaults/
+-rw-rw-r-- root/root        41 2016-03-21 16:05 ansible-role-account-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-03-21 16:05 ansible-role-account-master/meta/
+-rw-rw-r-- root/root      2957 2016-03-21 16:05 ansible-role-account-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-03-21 16:05 ansible-role-account-master/tasks/
+-rw-rw-r-- root/root      1907 2016-03-21 16:05 ansible-role-account-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-03-21 16:05 ansible-role-account-master/tests/
+-rw-rw-r-- root/root        10 2016-03-21 16:05 ansible-role-account-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-03-21 16:05 ansible-role-account-master/tests/test.yml

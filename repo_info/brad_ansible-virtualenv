@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2014-06-01 01:05 ansible-virtualenv-master/
+-rw-rw-r-- root/root         3 2014-06-01 01:05 ansible-virtualenv-master/.gitignore
+-rw-rw-r-- root/root       329 2014-06-01 01:05 ansible-virtualenv-master/.travis-playbook.yml
+-rw-rw-r-- root/root       372 2014-06-01 01:05 ansible-virtualenv-master/.travis.yml
+-rw-rw-r-- root/root     35121 2014-06-01 01:05 ansible-virtualenv-master/LICENSE
+-rw-rw-r-- root/root       561 2014-06-01 01:05 ansible-virtualenv-master/README.md
+drwxrwxr-x root/root         0 2014-06-01 01:05 ansible-virtualenv-master/defaults/
+-rw-rw-r-- root/root        64 2014-06-01 01:05 ansible-virtualenv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-06-01 01:05 ansible-virtualenv-master/meta/
+-rw-rw-r-- root/root      1875 2014-06-01 01:05 ansible-virtualenv-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-06-01 01:05 ansible-virtualenv-master/tasks/
+-rw-rw-r-- root/root       656 2014-06-01 01:05 ansible-virtualenv-master/tasks/install.yml
+-rw-rw-r-- root/root       357 2014-06-01 01:05 ansible-virtualenv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-06-01 01:05 ansible-virtualenv-master/vars/
+-rw-rw-r-- root/root       181 2014-06-01 01:05 ansible-virtualenv-master/vars/main.yml

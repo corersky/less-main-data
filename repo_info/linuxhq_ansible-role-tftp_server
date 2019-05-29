@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-07-02 17:33 ansible-role-tftp_server-master/
+-rw-rw-r-- root/root       317 2018-07-02 17:33 ansible-role-tftp_server-master/.travis.yml
+-rw-rw-r-- root/root     35147 2018-07-02 17:33 ansible-role-tftp_server-master/COPYING
+-rw-rw-r-- root/root      1875 2018-07-02 17:33 ansible-role-tftp_server-master/README.md
+drwxrwxr-x root/root         0 2018-07-02 17:33 ansible-role-tftp_server-master/defaults/
+-rw-rw-r-- root/root       298 2018-07-02 17:33 ansible-role-tftp_server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-07-02 17:33 ansible-role-tftp_server-master/meta/
+-rw-rw-r-- root/root       272 2018-07-02 17:33 ansible-role-tftp_server-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-07-02 17:33 ansible-role-tftp_server-master/tasks/
+-rw-rw-r-- root/root       720 2018-07-02 17:33 ansible-role-tftp_server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-07-02 17:33 ansible-role-tftp_server-master/templates/
+-rw-rw-r-- root/root       474 2018-07-02 17:33 ansible-role-tftp_server-master/templates/tftp.j2
+drwxrwxr-x root/root         0 2018-07-02 17:33 ansible-role-tftp_server-master/tests/
+-rw-rw-r-- root/root        10 2018-07-02 17:33 ansible-role-tftp_server-master/tests/inventory
+-rw-rw-r-- root/root        87 2018-07-02 17:33 ansible-role-tftp_server-master/tests/test.yml

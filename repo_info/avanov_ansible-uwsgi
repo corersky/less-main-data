@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2015-01-30 03:44 ansible-uwsgi-master/
+-rw-rw-r-- root/root         6 2015-01-30 03:44 ansible-uwsgi-master/.gitignore
+-rw-rw-r-- root/root      1078 2015-01-30 03:44 ansible-uwsgi-master/LICENSE
+-rw-rw-r-- root/root       535 2015-01-30 03:44 ansible-uwsgi-master/README.md
+drwxrwxr-x root/root         0 2015-01-30 03:44 ansible-uwsgi-master/defaults/
+-rw-rw-r-- root/root       408 2015-01-30 03:44 ansible-uwsgi-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-01-30 03:44 ansible-uwsgi-master/handlers/
+-rw-rw-r-- root/root         5 2015-01-30 03:44 ansible-uwsgi-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-01-30 03:44 ansible-uwsgi-master/meta/
+-rw-rw-r-- root/root      2077 2015-01-30 03:44 ansible-uwsgi-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-01-30 03:44 ansible-uwsgi-master/tasks/
+-rw-rw-r-- root/root       971 2015-01-30 03:44 ansible-uwsgi-master/tasks/Debian.yml
+-rw-rw-r-- root/root        64 2015-01-30 03:44 ansible-uwsgi-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-01-30 03:44 ansible-uwsgi-master/templates/
+-rw-rw-r-- root/root       254 2015-01-30 03:44 ansible-uwsgi-master/templates/config.ini.j2
+drwxrwxr-x root/root         0 2015-01-30 03:44 ansible-uwsgi-master/vars/
+-rw-rw-r-- root/root         4 2015-01-30 03:44 ansible-uwsgi-master/vars/main.yml

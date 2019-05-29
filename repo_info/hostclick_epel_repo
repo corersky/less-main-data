@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-04-14 15:08 epel_repo-master/
+-rw-rw-r-- root/root      1328 2015-04-14 15:08 epel_repo-master/README.md
+drwxrwxr-x root/root         0 2015-04-14 15:08 epel_repo-master/defaults/
+-rw-rw-r-- root/root        81 2015-04-14 15:08 epel_repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-04-14 15:08 epel_repo-master/files/
+-rw-rw-r-- root/root      1649 2015-04-14 15:08 epel_repo-master/files/RPM-GPG-KEY-EPEL-6
+-rw-rw-r-- root/root      1056 2015-04-14 15:08 epel_repo-master/files/epel-testing.repo
+-rw-rw-r-- root/root       957 2015-04-14 15:08 epel_repo-master/files/epel.repo
+drwxrwxr-x root/root         0 2015-04-14 15:08 epel_repo-master/handlers/
+-rw-rw-r-- root/root        34 2015-04-14 15:08 epel_repo-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-04-14 15:08 epel_repo-master/meta/
+-rw-rw-r-- root/root       200 2015-04-14 15:08 epel_repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-04-14 15:08 epel_repo-master/tasks/
+-rw-rw-r-- root/root       116 2015-04-14 15:08 epel_repo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-04-14 15:08 epel_repo-master/vars/
+-rw-rw-r-- root/root        30 2015-04-14 15:08 epel_repo-master/vars/main.yml

@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/
+-rw-rw-r-- root/root       527 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/README.md
+drwxrwxr-x root/root         0 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/defaults/
+-rw-rw-r-- root/root       145 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/handlers/
+-rw-rw-r-- root/root       128 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/meta/
+-rw-rw-r-- root/root       267 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/tasks/
+-rw-rw-r-- root/root       563 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/templates/
+-rw-rw-r-- root/root       629 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/templates/upstart-master.conf.j2
+-rw-rw-r-- root/root      1015 2016-05-26 19:46 ansible-role-deploy-upstart-scripts-master/templates/upstart-worker.conf.j2

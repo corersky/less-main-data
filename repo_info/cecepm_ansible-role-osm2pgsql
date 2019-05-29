@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2014-11-22 01:07 ansible-role-osm2pgsql-master/
+-rw-rw-r-- root/root       953 2014-11-22 01:07 ansible-role-osm2pgsql-master/.travis.yml
+-rw-rw-r-- root/root       691 2014-11-22 01:07 ansible-role-osm2pgsql-master/README.md
+drwxrwxr-x root/root         0 2014-11-22 01:07 ansible-role-osm2pgsql-master/defaults/
+-rw-rw-r-- root/root        82 2014-11-22 01:07 ansible-role-osm2pgsql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-22 01:07 ansible-role-osm2pgsql-master/meta/
+-rw-rw-r-- root/root       238 2014-11-22 01:07 ansible-role-osm2pgsql-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-22 01:07 ansible-role-osm2pgsql-master/tasks/
+-rw-rw-r-- root/root      1504 2014-11-22 01:07 ansible-role-osm2pgsql-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-22 01:07 ansible-role-osm2pgsql-master/tests/
+-rw-rw-r-- root/root        10 2014-11-22 01:07 ansible-role-osm2pgsql-master/tests/inventory
+-rw-rw-r-- root/root        81 2014-11-22 01:07 ansible-role-osm2pgsql-master/tests/test.yml

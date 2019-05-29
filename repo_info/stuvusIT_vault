@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-11-23 09:02 vault-master/
+-rw-rw-r-- root/root     20133 2017-11-23 09:02 vault-master/LICENSE
+-rw-rw-r-- root/root      6945 2017-11-23 09:02 vault-master/README.md
+drwxrwxr-x root/root         0 2017-11-23 09:02 vault-master/defaults/
+-rw-rw-r-- root/root       609 2017-11-23 09:02 vault-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-23 09:02 vault-master/meta/
+-rw-rw-r-- root/root       468 2017-11-23 09:02 vault-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-11-23 09:02 vault-master/tasks/
+-rw-rw-r-- root/root      3608 2017-11-23 09:02 vault-master/tasks/build.yml
+-rw-rw-r-- root/root      1103 2017-11-23 09:02 vault-master/tasks/install.yml
+-rw-rw-r-- root/root        58 2017-11-23 09:02 vault-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-23 09:02 vault-master/templates/
+-rw-rw-r-- root/root      2079 2017-11-23 09:02 vault-master/templates/vault.hcl.j2
+-rw-rw-r-- root/root       975 2017-11-23 09:02 vault-master/templates/vault.service.j2
+drwxrwxr-x root/root         0 2017-11-23 09:02 vault-master/vars/
+-rw-rw-r-- root/root       112 2017-11-23 09:02 vault-master/vars/main.yml

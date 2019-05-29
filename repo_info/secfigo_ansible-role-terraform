@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2018-11-23 23:52 ansible-role-terraform-master/
+-rw-rw-r-- root/root       634 2018-11-23 23:52 ansible-role-terraform-master/.travis.yml
+-rw-rw-r-- root/root      1084 2018-11-23 23:52 ansible-role-terraform-master/LICENSE
+-rw-rw-r-- root/root      1042 2018-11-23 23:52 ansible-role-terraform-master/README.md
+drwxrwxr-x root/root         0 2018-11-23 23:52 ansible-role-terraform-master/defaults/
+-rw-rw-r-- root/root        92 2018-11-23 23:52 ansible-role-terraform-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-23 23:52 ansible-role-terraform-master/meta/
+-rw-rw-r-- root/root       519 2018-11-23 23:52 ansible-role-terraform-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-23 23:52 ansible-role-terraform-master/tasks/
+-rw-rw-r-- root/root       377 2018-11-23 23:52 ansible-role-terraform-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-11-23 23:52 ansible-role-terraform-master/tests/
+-rw-rw-r-- root/root       632 2018-11-23 23:52 ansible-role-terraform-master/tests/README.md
+-rw-rw-r-- root/root       180 2018-11-23 23:52 ansible-role-terraform-master/tests/test.yml

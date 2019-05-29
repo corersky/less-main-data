@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/
+-rw-rw-r-- root/root       843 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/.gitignore
+-rw-rw-r-- root/root       539 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/.travis.yml
+-rw-rw-r-- root/root      1328 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/README.md
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/defaults/
+-rw-rw-r-- root/root        46 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/meta/
+-rw-rw-r-- root/root       296 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/tasks/
+-rw-rw-r-- root/root       427 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/tests/
+-rw-rw-r-- root/root       257 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/tests/ansible.cfg
+-rw-rw-r-- root/root       526 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/tests/staging
+-rw-rw-r-- root/root       194 2016-05-25 21:19 ansible-role-compizconfig-settings-manager-master/tests/test.yml

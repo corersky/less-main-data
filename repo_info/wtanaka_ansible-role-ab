@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-29 23:57 ansible-role-ab-master/
+-rw-rw-r-- root/root        53 2019-03-29 23:57 ansible-role-ab-master/.gitignore
+-rw-rw-r-- root/root      2743 2019-03-29 23:57 ansible-role-ab-master/.travis.yml
+-rw-rw-r-- root/root       508 2019-03-29 23:57 ansible-role-ab-master/README.md
+-rw-rw-r-- root/root       392 2019-03-29 23:57 ansible-role-ab-master/circle.yml
+drwxrwxr-x root/root         0 2019-03-29 23:57 ansible-role-ab-master/meta/
+-rw-rw-r-- root/root      3557 2019-03-29 23:57 ansible-role-ab-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-29 23:57 ansible-role-ab-master/tasks/
+-rw-rw-r-- root/root      3550 2019-03-29 23:57 ansible-role-ab-master/tasks/compat.yml
+-rw-rw-r-- root/root       318 2019-03-29 23:57 ansible-role-ab-master/tasks/include_vars.yml
+-rw-rw-r-- root/root       974 2019-03-29 23:57 ansible-role-ab-master/tasks/install_package_names.yml
+-rw-rw-r-- root/root        93 2019-03-29 23:57 ansible-role-ab-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-29 23:57 ansible-role-ab-master/vars/
+-rw-rw-r-- root/root        33 2019-03-29 23:57 ansible-role-ab-master/vars/RedHat.yml
+-rw-rw-r-- root/root        35 2019-03-29 23:57 ansible-role-ab-master/vars/default.yml

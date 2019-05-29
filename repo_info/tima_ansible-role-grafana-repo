@@ -1,0 +1,19 @@
+drwxrwxr-x root/root         0 2016-06-10 15:48 ansible-role-grafana-repo-master/
+-rw-rw-r-- root/root        50 2016-06-10 15:48 ansible-role-grafana-repo-master/.gitignore
+-rw-rw-r-- root/root       540 2016-06-10 15:48 ansible-role-grafana-repo-master/.travis.yml
+-rw-rw-r-- root/root      1177 2016-06-10 15:48 ansible-role-grafana-repo-master/README.md
+drwxrwxr-x root/root         0 2016-06-10 15:48 ansible-role-grafana-repo-master/defaults/
+-rw-rw-r-- root/root        62 2016-06-10 15:48 ansible-role-grafana-repo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-10 15:48 ansible-role-grafana-repo-master/meta/
+-rw-rw-r-- root/root       403 2016-06-10 15:48 ansible-role-grafana-repo-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-10 15:48 ansible-role-grafana-repo-master/tasks/
+-rw-rw-r-- root/root       347 2016-06-10 15:48 ansible-role-grafana-repo-master/tasks/debian.yml
+-rw-rw-r-- root/root        83 2016-06-10 15:48 ansible-role-grafana-repo-master/tasks/main.yml
+-rw-rw-r-- root/root       477 2016-06-10 15:48 ansible-role-grafana-repo-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2016-06-10 15:48 ansible-role-grafana-repo-master/tests/
+-rw-rw-r-- root/root         9 2016-06-10 15:48 ansible-role-grafana-repo-master/tests/inventory
+drwxrwxr-x root/root         0 2016-06-10 15:48 ansible-role-grafana-repo-master/tests/roles/
+lrwxrwxrwx root/root         0 2016-06-10 15:48 ansible-role-grafana-repo-master/tests/roles/grafana-repo -> ../..
+-rw-rw-r-- root/root        71 2016-06-10 15:48 ansible-role-grafana-repo-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-06-10 15:48 ansible-role-grafana-repo-master/vars/
+-rw-rw-r-- root/root       315 2016-06-10 15:48 ansible-role-grafana-repo-master/vars/main.yml

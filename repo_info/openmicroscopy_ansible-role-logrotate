@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-01-06 09:33 ansible-role-logrotate-master/
+-rw-rw-r-- root/root         4 2017-01-06 09:33 ansible-role-logrotate-master/.gitignore
+-rw-rw-r-- root/root       540 2017-01-06 09:33 ansible-role-logrotate-master/.travis.yml
+-rw-rw-r-- root/root       571 2017-01-06 09:33 ansible-role-logrotate-master/README.md
+drwxrwxr-x root/root         0 2017-01-06 09:33 ansible-role-logrotate-master/defaults/
+-rw-rw-r-- root/root       120 2017-01-06 09:33 ansible-role-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-06 09:33 ansible-role-logrotate-master/meta/
+-rw-rw-r-- root/root       264 2017-01-06 09:33 ansible-role-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-06 09:33 ansible-role-logrotate-master/tasks/
+-rw-rw-r-- root/root       265 2017-01-06 09:33 ansible-role-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-06 09:33 ansible-role-logrotate-master/templates/
+-rw-rw-r-- root/root       774 2017-01-06 09:33 ansible-role-logrotate-master/templates/logrotate.conf.j2
+drwxrwxr-x root/root         0 2017-01-06 09:33 ansible-role-logrotate-master/tests/
+-rw-rw-r-- root/root        10 2017-01-06 09:33 ansible-role-logrotate-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-01-06 09:33 ansible-role-logrotate-master/tests/test.yml

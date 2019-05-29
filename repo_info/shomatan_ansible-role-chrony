@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-26 08:33 ansible-role-chrony-master/
+-rw-rw-r-- root/root       539 2017-03-26 08:33 ansible-role-chrony-master/.travis.yml
+-rw-rw-r-- root/root       451 2017-03-26 08:33 ansible-role-chrony-master/README.md
+drwxrwxr-x root/root         0 2017-03-26 08:33 ansible-role-chrony-master/defaults/
+-rw-rw-r-- root/root        62 2017-03-26 08:33 ansible-role-chrony-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-26 08:33 ansible-role-chrony-master/handlers/
+-rw-rw-r-- root/root        68 2017-03-26 08:33 ansible-role-chrony-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-26 08:33 ansible-role-chrony-master/meta/
+-rw-rw-r-- root/root       236 2017-03-26 08:33 ansible-role-chrony-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-26 08:33 ansible-role-chrony-master/tasks/
+-rw-rw-r-- root/root       342 2017-03-26 08:33 ansible-role-chrony-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-26 08:33 ansible-role-chrony-master/templates/
+-rw-rw-r-- root/root      1271 2017-03-26 08:33 ansible-role-chrony-master/templates/chrony.conf.j2
+drwxrwxr-x root/root         0 2017-03-26 08:33 ansible-role-chrony-master/tests/
+-rw-rw-r-- root/root         9 2017-03-26 08:33 ansible-role-chrony-master/tests/inventory
+-rw-rw-r-- root/root        59 2017-03-26 08:33 ansible-role-chrony-master/tests/test.yml

@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-07-11 12:41 ansible-role-dnf-automatic-master/
+-rw-rw-r-- root/root      1080 2017-07-11 12:41 ansible-role-dnf-automatic-master/LICENSE
+-rw-rw-r-- root/root      2273 2017-07-11 12:41 ansible-role-dnf-automatic-master/README.md
+drwxrwxr-x root/root         0 2017-07-11 12:41 ansible-role-dnf-automatic-master/defaults/
+-rw-rw-r-- root/root       813 2017-07-11 12:41 ansible-role-dnf-automatic-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-11 12:41 ansible-role-dnf-automatic-master/meta/
+-rw-rw-r-- root/root       431 2017-07-11 12:41 ansible-role-dnf-automatic-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-11 12:41 ansible-role-dnf-automatic-master/tasks/
+-rw-rw-r-- root/root       362 2017-07-11 12:41 ansible-role-dnf-automatic-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-11 12:41 ansible-role-dnf-automatic-master/templates/
+-rw-rw-r-- root/root      1011 2017-07-11 12:41 ansible-role-dnf-automatic-master/templates/automatic.conf.j2

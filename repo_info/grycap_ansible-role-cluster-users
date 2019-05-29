@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-11-20 06:43 ansible-role-cluster-users-master/
+-rw-rw-r-- root/root     11357 2018-11-20 06:43 ansible-role-cluster-users-master/LICENSE
+-rw-rw-r-- root/root        68 2018-11-20 06:43 ansible-role-cluster-users-master/README.md
+drwxrwxr-x root/root         0 2018-11-20 06:43 ansible-role-cluster-users-master/defaults/
+-rw-rw-r-- root/root        54 2018-11-20 06:43 ansible-role-cluster-users-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-20 06:43 ansible-role-cluster-users-master/meta/
+-rw-rw-r-- root/root       277 2018-11-20 06:43 ansible-role-cluster-users-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-20 06:43 ansible-role-cluster-users-master/tasks/
+-rw-rw-r-- root/root       900 2018-11-20 06:43 ansible-role-cluster-users-master/tasks/front.yml
+-rw-rw-r-- root/root       771 2018-11-20 06:43 ansible-role-cluster-users-master/tasks/main.yml
+-rw-rw-r-- root/root       365 2018-11-20 06:43 ansible-role-cluster-users-master/tasks/wn.yml

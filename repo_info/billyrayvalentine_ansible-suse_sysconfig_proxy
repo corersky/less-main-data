@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/
+-rw-rw-r-- root/root      1466 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/README.md
+drwxrwxr-x root/root         0 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/defaults/
+-rw-rw-r-- root/root       201 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/handlers/
+-rw-rw-r-- root/root        53 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/meta/
+-rw-rw-r-- root/root       269 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/tasks/
+-rw-rw-r-- root/root       196 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/templates/
+-rw-rw-r-- root/root       336 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/templates/proxy.j2
+drwxrwxr-x root/root         0 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/vars/
+-rw-rw-r-- root/root        49 2015-11-03 05:02 ansible-suse_sysconfig_proxy-master/vars/main.yml

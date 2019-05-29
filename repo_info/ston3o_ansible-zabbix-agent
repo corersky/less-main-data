@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-10-02 11:31 ansible-zabbix-agent-master/
+-rw-rw-r-- root/root         8 2017-10-02 11:31 ansible-zabbix-agent-master/.gitignore
+-rw-rw-r-- root/root       150 2017-10-02 11:31 ansible-zabbix-agent-master/.yamllint
+-rw-rw-r-- root/root     35141 2017-10-02 11:31 ansible-zabbix-agent-master/LICENSE
+-rw-rw-r-- root/root       669 2017-10-02 11:31 ansible-zabbix-agent-master/README.md
+-rw-rw-r-- root/root       314 2017-10-02 11:31 ansible-zabbix-agent-master/Vagrantfile
+-rw-rw-r-- root/root       113 2017-10-02 11:31 ansible-zabbix-agent-master/ansible.cfg
+drwxrwxr-x root/root         0 2017-10-02 11:31 ansible-zabbix-agent-master/defaults/
+-rw-rw-r-- root/root        75 2017-10-02 11:31 ansible-zabbix-agent-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-10-02 11:31 ansible-zabbix-agent-master/meta/
+-rw-rw-r-- root/root       255 2017-10-02 11:31 ansible-zabbix-agent-master/meta/main.yml
+-rw-rw-r-- root/root       135 2017-10-02 11:31 ansible-zabbix-agent-master/playbook.yml
+drwxrwxr-x root/root         0 2017-10-02 11:31 ansible-zabbix-agent-master/tasks/
+-rw-rw-r-- root/root       742 2017-10-02 11:31 ansible-zabbix-agent-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-02 11:31 ansible-zabbix-agent-master/templates/
+-rw-rw-r-- root/root     10583 2017-10-02 11:31 ansible-zabbix-agent-master/templates/zabbix_agentd.conf.j2

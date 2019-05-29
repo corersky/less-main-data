@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-06-14 09:55 ansible-docker-redis-master/
+-rw-rw-r-- root/root       539 2017-06-14 09:55 ansible-docker-redis-master/.travis.yml
+-rw-rw-r-- root/root      1072 2017-06-14 09:55 ansible-docker-redis-master/LICENSE
+-rw-rw-r-- root/root      1323 2017-06-14 09:55 ansible-docker-redis-master/README.md
+drwxrwxr-x root/root         0 2017-06-14 09:55 ansible-docker-redis-master/defaults/
+-rw-rw-r-- root/root       239 2017-06-14 09:55 ansible-docker-redis-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-06-14 09:55 ansible-docker-redis-master/handlers/
+-rw-rw-r-- root/root        37 2017-06-14 09:55 ansible-docker-redis-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-06-14 09:55 ansible-docker-redis-master/meta/
+-rw-rw-r-- root/root      3833 2017-06-14 09:55 ansible-docker-redis-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-06-14 09:55 ansible-docker-redis-master/tasks/
+-rw-rw-r-- root/root       718 2017-06-14 09:55 ansible-docker-redis-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-06-14 09:55 ansible-docker-redis-master/tests/
+-rw-rw-r-- root/root         9 2017-06-14 09:55 ansible-docker-redis-master/tests/inventory
+-rw-rw-r-- root/root       136 2017-06-14 09:55 ansible-docker-redis-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-06-14 09:55 ansible-docker-redis-master/vars/
+-rw-rw-r-- root/root        33 2017-06-14 09:55 ansible-docker-redis-master/vars/main.yml

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-11-29 05:19 ansible-role-rancher-master/
+-rw-rw-r-- root/root        58 2016-11-29 05:19 ansible-role-rancher-master/.gitignore
+-rw-rw-r-- root/root     35097 2016-11-29 05:19 ansible-role-rancher-master/LICENSE
+-rw-rw-r-- root/root       532 2016-11-29 05:19 ansible-role-rancher-master/README.md
+drwxrwxr-x root/root         0 2016-11-29 05:19 ansible-role-rancher-master/defaults/
+-rw-rw-r-- root/root       191 2016-11-29 05:19 ansible-role-rancher-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-29 05:19 ansible-role-rancher-master/handlers/
+-rw-rw-r-- root/root        32 2016-11-29 05:19 ansible-role-rancher-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-11-29 05:19 ansible-role-rancher-master/meta/
+-rw-rw-r-- root/root      3351 2016-11-29 05:19 ansible-role-rancher-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-29 05:19 ansible-role-rancher-master/tasks/
+-rw-rw-r-- root/root      1626 2016-11-29 05:19 ansible-role-rancher-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-29 05:19 ansible-role-rancher-master/tests/
+-rw-rw-r-- root/root         9 2016-11-29 05:19 ansible-role-rancher-master/tests/inventory
+-rw-rw-r-- root/root        65 2016-11-29 05:19 ansible-role-rancher-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-29 05:19 ansible-role-rancher-master/vars/
+-rw-rw-r-- root/root        28 2016-11-29 05:19 ansible-role-rancher-master/vars/main.yml

@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-23 18:48 ansible-role-chrome-master/
+-rw-rw-r-- root/root       539 2017-03-23 18:48 ansible-role-chrome-master/.travis.yml
+-rw-rw-r-- root/root       501 2017-03-23 18:48 ansible-role-chrome-master/README.md
+drwxrwxr-x root/root         0 2017-03-23 18:48 ansible-role-chrome-master/defaults/
+-rw-rw-r-- root/root        31 2017-03-23 18:48 ansible-role-chrome-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-23 18:48 ansible-role-chrome-master/handlers/
+-rw-rw-r-- root/root        31 2017-03-23 18:48 ansible-role-chrome-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-23 18:48 ansible-role-chrome-master/meta/
+-rw-rw-r-- root/root      2634 2017-03-23 18:48 ansible-role-chrome-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-23 18:48 ansible-role-chrome-master/tasks/
+-rw-rw-r-- root/root       339 2017-03-23 18:48 ansible-role-chrome-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-23 18:48 ansible-role-chrome-master/tests/
+-rw-rw-r-- root/root         9 2017-03-23 18:48 ansible-role-chrome-master/tests/inventory
+-rw-rw-r-- root/root        85 2017-03-23 18:48 ansible-role-chrome-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-23 18:48 ansible-role-chrome-master/vars/
+-rw-rw-r-- root/root        27 2017-03-23 18:48 ansible-role-chrome-master/vars/main.yml

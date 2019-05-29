@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2016-05-07 20:47 raspi-information-radiator-master/
+-rw-rw-r-- root/root      1080 2016-05-07 20:47 raspi-information-radiator-master/LICENSE
+-rw-rw-r-- root/root      2290 2016-05-07 20:47 raspi-information-radiator-master/README.md
+drwxrwxr-x root/root         0 2016-05-07 20:47 raspi-information-radiator-master/defaults/
+-rw-rw-r-- root/root        81 2016-05-07 20:47 raspi-information-radiator-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-07 20:47 raspi-information-radiator-master/handlers/
+-rw-rw-r-- root/root       223 2016-05-07 20:47 raspi-information-radiator-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-07 20:47 raspi-information-radiator-master/meta/
+-rw-rw-r-- root/root       222 2016-05-07 20:47 raspi-information-radiator-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-07 20:47 raspi-information-radiator-master/tasks/
+-rw-rw-r-- root/root       721 2016-05-07 20:47 raspi-information-radiator-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-07 20:47 raspi-information-radiator-master/templates/
+-rw-rw-r-- root/root       598 2016-05-07 20:47 raspi-information-radiator-master/templates/rc.local
+-rw-rw-r-- root/root      1455 2016-05-07 20:47 raspi-information-radiator-master/templates/xinitrc.j2

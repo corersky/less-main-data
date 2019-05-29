@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2016-06-07 03:28 ansible-role-etcd-master/
+-rw-rw-r-- root/root     11357 2016-06-07 03:28 ansible-role-etcd-master/LICENSE
+-rw-rw-r-- root/root       716 2016-06-07 03:28 ansible-role-etcd-master/README.md
+drwxrwxr-x root/root         0 2016-06-07 03:28 ansible-role-etcd-master/defaults/
+-rw-rw-r-- root/root      2926 2016-06-07 03:28 ansible-role-etcd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-06-07 03:28 ansible-role-etcd-master/meta/
+-rw-rw-r-- root/root       303 2016-06-07 03:28 ansible-role-etcd-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-06-07 03:28 ansible-role-etcd-master/tasks/
+-rw-rw-r-- root/root       726 2016-06-07 03:28 ansible-role-etcd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-06-07 03:28 ansible-role-etcd-master/tests/
+-rw-rw-r-- root/root         9 2016-06-07 03:28 ansible-role-etcd-master/tests/inventory
+-rw-rw-r-- root/root        80 2016-06-07 03:28 ansible-role-etcd-master/tests/test.yml

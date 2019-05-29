@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-04-16 12:16 ansible-role-tunnelbroker-master/
+-rw-rw-r-- root/root       539 2017-04-16 12:16 ansible-role-tunnelbroker-master/.travis.yml
+-rw-rw-r-- root/root      1328 2017-04-16 12:16 ansible-role-tunnelbroker-master/README.md
+drwxrwxr-x root/root         0 2017-04-16 12:16 ansible-role-tunnelbroker-master/defaults/
+-rw-rw-r-- root/root       394 2017-04-16 12:16 ansible-role-tunnelbroker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-04-16 12:16 ansible-role-tunnelbroker-master/handlers/
+-rw-rw-r-- root/root        33 2017-04-16 12:16 ansible-role-tunnelbroker-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-04-16 12:16 ansible-role-tunnelbroker-master/meta/
+-rw-rw-r-- root/root       230 2017-04-16 12:16 ansible-role-tunnelbroker-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-04-16 12:16 ansible-role-tunnelbroker-master/tasks/
+-rw-rw-r-- root/root       303 2017-04-16 12:16 ansible-role-tunnelbroker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-04-16 12:16 ansible-role-tunnelbroker-master/templates/
+-rw-rw-r-- root/root       478 2017-04-16 12:16 ansible-role-tunnelbroker-master/templates/sit-interface.j2
+drwxrwxr-x root/root         0 2017-04-16 12:16 ansible-role-tunnelbroker-master/vars/
+-rw-rw-r-- root/root        29 2017-04-16 12:16 ansible-role-tunnelbroker-master/vars/main.yml

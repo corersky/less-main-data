@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2018-08-12 08:01 ansible-role-disable-edac-master/
+-rw-rw-r-- root/root        22 2018-08-12 08:01 ansible-role-disable-edac-master/.gitignore
+-rw-rw-r-- root/root       487 2018-08-12 08:01 ansible-role-disable-edac-master/.travis.yml
+-rw-rw-r-- root/root     35148 2018-08-12 08:01 ansible-role-disable-edac-master/COPYING
+-rw-rw-r-- root/root      1184 2018-08-12 08:01 ansible-role-disable-edac-master/README.md
+drwxrwxr-x root/root         0 2018-08-12 08:01 ansible-role-disable-edac-master/defaults/
+-rw-rw-r-- root/root       450 2018-08-12 08:01 ansible-role-disable-edac-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-12 08:01 ansible-role-disable-edac-master/meta/
+-rw-rw-r-- root/root       464 2018-08-12 08:01 ansible-role-disable-edac-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-12 08:01 ansible-role-disable-edac-master/tasks/
+-rw-rw-r-- root/root       578 2018-08-12 08:01 ansible-role-disable-edac-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-12 08:01 ansible-role-disable-edac-master/tests/
+-rw-rw-r-- root/root        11 2018-08-12 08:01 ansible-role-disable-edac-master/tests/inventory
+-rw-rw-r-- root/root        74 2018-08-12 08:01 ansible-role-disable-edac-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-08-12 08:01 ansible-role-disable-edac-master/vars/
+-rw-rw-r-- root/root        45 2018-08-12 08:01 ansible-role-disable-edac-master/vars/main.yml

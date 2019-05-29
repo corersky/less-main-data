@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-09-07 12:43 ansible-postgres-master/
+-rw-rw-r-- root/root       917 2014-09-07 12:43 ansible-postgres-master/.travis.yml
+-rw-rw-r-- root/root      4543 2014-09-07 12:43 ansible-postgres-master/README.md
+drwxrwxr-x root/root         0 2014-09-07 12:43 ansible-postgres-master/defaults/
+-rw-rw-r-- root/root       280 2014-09-07 12:43 ansible-postgres-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-07 12:43 ansible-postgres-master/handlers/
+-rw-rw-r-- root/root        71 2014-09-07 12:43 ansible-postgres-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-07 12:43 ansible-postgres-master/meta/
+-rw-rw-r-- root/root       325 2014-09-07 12:43 ansible-postgres-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-07 12:43 ansible-postgres-master/tasks/
+-rw-rw-r-- root/root      1333 2014-09-07 12:43 ansible-postgres-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-07 12:43 ansible-postgres-master/templates/
+-rw-rw-r-- root/root       709 2014-09-07 12:43 ansible-postgres-master/templates/pg_hba.conf.j2
+-rw-rw-r-- root/root     20368 2014-09-07 12:43 ansible-postgres-master/templates/postgresql.conf.j2
+drwxrwxr-x root/root         0 2014-09-07 12:43 ansible-postgres-master/tests/
+-rw-rw-r-- root/root         9 2014-09-07 12:43 ansible-postgres-master/tests/inventory
+-rw-rw-r-- root/root        90 2014-09-07 12:43 ansible-postgres-master/tests/test.yml

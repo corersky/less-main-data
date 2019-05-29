@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-02-08 09:48 ansible-role-debug-variable-master/
+-rw-rw-r-- root/root       731 2016-02-08 09:48 ansible-role-debug-variable-master/.travis.yml
+-rw-rw-r-- root/root      1071 2016-02-08 09:48 ansible-role-debug-variable-master/LICENSE
+-rw-rw-r-- root/root      1847 2016-02-08 09:48 ansible-role-debug-variable-master/README.md
+drwxrwxr-x root/root         0 2016-02-08 09:48 ansible-role-debug-variable-master/defaults/
+-rw-rw-r-- root/root        92 2016-02-08 09:48 ansible-role-debug-variable-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-02-08 09:48 ansible-role-debug-variable-master/meta/
+-rw-rw-r-- root/root       386 2016-02-08 09:48 ansible-role-debug-variable-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-02-08 09:48 ansible-role-debug-variable-master/tasks/
+-rw-rw-r-- root/root       107 2016-02-08 09:48 ansible-role-debug-variable-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-02-08 09:48 ansible-role-debug-variable-master/templates/
+-rw-rw-r-- root/root       541 2016-02-08 09:48 ansible-role-debug-variable-master/templates/dumpall.j2
+drwxrwxr-x root/root         0 2016-02-08 09:48 ansible-role-debug-variable-master/tests/
+-rw-rw-r-- root/root        10 2016-02-08 09:48 ansible-role-debug-variable-master/tests/inventory
+-rw-rw-r-- root/root        86 2016-02-08 09:48 ansible-role-debug-variable-master/tests/test.yml

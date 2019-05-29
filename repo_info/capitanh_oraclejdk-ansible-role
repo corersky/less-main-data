@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2017-10-25 17:10 oraclejdk-ansible-role-master/
+-rw-rw-r-- root/root       591 2017-10-25 17:10 oraclejdk-ansible-role-master/README.md
+drwxrwxr-x root/root         0 2017-10-25 17:10 oraclejdk-ansible-role-master/meta/
+-rw-rw-r-- root/root      1356 2017-10-25 17:10 oraclejdk-ansible-role-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-10-25 17:10 oraclejdk-ansible-role-master/tasks/
+-rw-rw-r-- root/root       717 2017-10-25 17:10 oraclejdk-ansible-role-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-10-25 17:10 oraclejdk-ansible-role-master/templates/
+-rw-rw-r-- root/root       127 2017-10-25 17:10 oraclejdk-ansible-role-master/templates/environment
+-rw-rw-r-- root/root        79 2017-10-25 17:10 oraclejdk-ansible-role-master/templates/java.sh
+drwxrwxr-x root/root         0 2017-10-25 17:10 oraclejdk-ansible-role-master/tests/
+-rw-rw-r-- root/root        11 2017-10-25 17:10 oraclejdk-ansible-role-master/tests/inventory
+-rw-rw-r-- root/root        67 2017-10-25 17:10 oraclejdk-ansible-role-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-10-25 17:10 oraclejdk-ansible-role-master/vars/
+-rw-rw-r-- root/root        29 2017-10-25 17:10 oraclejdk-ansible-role-master/vars/main.yml

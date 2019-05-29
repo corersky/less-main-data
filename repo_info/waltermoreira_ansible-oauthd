@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2014-09-20 14:35 ansible-oauthd-master/
+-rw-rw-r-- root/root      1080 2014-09-20 14:35 ansible-oauthd-master/LICENSE
+-rw-rw-r-- root/root       564 2014-09-20 14:35 ansible-oauthd-master/README.md
+drwxrwxr-x root/root         0 2014-09-20 14:35 ansible-oauthd-master/defaults/
+-rw-rw-r-- root/root       340 2014-09-20 14:35 ansible-oauthd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-09-20 14:35 ansible-oauthd-master/files/
+-rw-rw-r-- root/root        62 2014-09-20 14:35 ansible-oauthd-master/files/config.local.js
+-rw-rw-r-- root/root       581 2014-09-20 14:35 ansible-oauthd-master/files/oauthd
+drwxrwxr-x root/root         0 2014-09-20 14:35 ansible-oauthd-master/handlers/
+-rw-rw-r-- root/root       384 2014-09-20 14:35 ansible-oauthd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-09-20 14:35 ansible-oauthd-master/meta/
+-rw-rw-r-- root/root       515 2014-09-20 14:35 ansible-oauthd-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-09-20 14:35 ansible-oauthd-master/tasks/
+-rw-rw-r-- root/root       887 2014-09-20 14:35 ansible-oauthd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-09-20 14:35 ansible-oauthd-master/templates/
+-rw-rw-r-- root/root      1458 2014-09-20 14:35 ansible-oauthd-master/templates/config.js.j2

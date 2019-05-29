@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-09-30 12:36 ansible-bootstrap-master/
+-rw-rw-r-- root/root        62 2018-09-30 12:36 ansible-bootstrap-master/.gitignore
+-rw-rw-r-- root/root       344 2018-09-30 12:36 ansible-bootstrap-master/.travis.yml
+-rwxrwxr-x root/root        76 2018-09-30 12:36 ansible-bootstrap-master/CHANGES.md
+-rw-rw-r-- root/root      1106 2018-09-30 12:36 ansible-bootstrap-master/LICENSE
+-rw-rw-r-- root/root      2553 2018-09-30 12:36 ansible-bootstrap-master/README.md
+drwxrwxr-x root/root         0 2018-09-30 12:36 ansible-bootstrap-master/defaults/
+-rwxrwxr-x root/root       173 2018-09-30 12:36 ansible-bootstrap-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-09-30 12:36 ansible-bootstrap-master/meta/
+-rwxrwxr-x root/root       457 2018-09-30 12:36 ansible-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-09-30 12:36 ansible-bootstrap-master/tasks/
+-rwxrwxr-x root/root       415 2018-09-30 12:36 ansible-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-09-30 12:36 ansible-bootstrap-master/tests/
+-rwxrwxr-x root/root       232 2018-09-30 12:36 ansible-bootstrap-master/tests/test.yml

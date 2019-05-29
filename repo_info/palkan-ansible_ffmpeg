@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-09-18 04:10 ffmpeg-master/
+-rw-rw-r-- root/root      1199 2015-09-18 04:10 ffmpeg-master/README.md
+drwxrwxr-x root/root         0 2015-09-18 04:10 ffmpeg-master/defaults/
+-rw-rw-r-- root/root       528 2015-09-18 04:10 ffmpeg-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-18 04:10 ffmpeg-master/meta/
+-rw-rw-r-- root/root       259 2015-09-18 04:10 ffmpeg-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-18 04:10 ffmpeg-master/tasks/
+-rw-rw-r-- root/root       412 2015-09-18 04:10 ffmpeg-master/tasks/aac.yml
+-rw-rw-r-- root/root       403 2015-09-18 04:10 ffmpeg-master/tasks/ffmpeg.yml
+-rw-rw-r-- root/root       254 2015-09-18 04:10 ffmpeg-master/tasks/main.yml
+-rw-rw-r-- root/root       389 2015-09-18 04:10 ffmpeg-master/tasks/opus.yml
+-rw-rw-r-- root/root       601 2015-09-18 04:10 ffmpeg-master/tasks/prepare.yml
+-rw-rw-r-- root/root       495 2015-09-18 04:10 ffmpeg-master/tasks/speex.yml
+-rw-rw-r-- root/root       416 2015-09-18 04:10 ffmpeg-master/tasks/vpx.yml
+-rw-rw-r-- root/root       417 2015-09-18 04:10 ffmpeg-master/tasks/x264.yml
+-rw-rw-r-- root/root       394 2015-09-18 04:10 ffmpeg-master/tasks/yasm.yml

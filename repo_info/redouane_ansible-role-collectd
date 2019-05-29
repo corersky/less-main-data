@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2015-10-14 09:04 ansible-role-collectd-master/
+-rw-rw-r-- root/root       223 2015-10-14 09:04 ansible-role-collectd-master/README.md
+drwxrwxr-x root/root         0 2015-10-14 09:04 ansible-role-collectd-master/defaults/
+-rw-rw-r-- root/root        47 2015-10-14 09:04 ansible-role-collectd-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-14 09:04 ansible-role-collectd-master/handlers/
+-rw-rw-r-- root/root       145 2015-10-14 09:04 ansible-role-collectd-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-14 09:04 ansible-role-collectd-master/meta/
+-rw-rw-r-- root/root       253 2015-10-14 09:04 ansible-role-collectd-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-14 09:04 ansible-role-collectd-master/tasks/
+-rw-rw-r-- root/root      1066 2015-10-14 09:04 ansible-role-collectd-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-10-14 09:04 ansible-role-collectd-master/templates/
+-rw-rw-r-- root/root       869 2015-10-14 09:04 ansible-role-collectd-master/templates/collectd.conf.j2
+-rw-rw-r-- root/root     36218 2015-10-14 09:04 ansible-role-collectd-master/templates/collectd_example.conf.j2
+drwxrwxr-x root/root         0 2015-10-14 09:04 ansible-role-collectd-master/vars/
+-rw-rw-r-- root/root        29 2015-10-14 09:04 ansible-role-collectd-master/vars/main.yml

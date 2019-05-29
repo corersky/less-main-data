@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2019-01-24 10:47 ansible-google-logging-master/
+-rw-rw-r-- root/root       428 2019-01-24 10:47 ansible-google-logging-master/README.md
+drwxrwxr-x root/root         0 2019-01-24 10:47 ansible-google-logging-master/handlers/
+-rw-rw-r-- root/root        94 2019-01-24 10:47 ansible-google-logging-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-01-24 10:47 ansible-google-logging-master/meta/
+-rw-rw-r-- root/root       383 2019-01-24 10:47 ansible-google-logging-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-24 10:47 ansible-google-logging-master/tasks/
+-rw-rw-r-- root/root       224 2019-01-24 10:47 ansible-google-logging-master/tasks/configure.yml
+-rw-rw-r-- root/root       462 2019-01-24 10:47 ansible-google-logging-master/tasks/install.yml
+-rw-rw-r-- root/root       130 2019-01-24 10:47 ansible-google-logging-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-24 10:47 ansible-google-logging-master/templates/
+-rw-rw-r-- root/root       241 2019-01-24 10:47 ansible-google-logging-master/templates/config.conf.j2

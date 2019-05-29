@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-01-16 07:39 ansible-mailhog-master/
+-rw-rw-r-- root/root      2249 2017-01-16 07:39 ansible-mailhog-master/.travis.yml
+-rw-rw-r-- root/root      1075 2017-01-16 07:39 ansible-mailhog-master/LICENSE
+-rw-rw-r-- root/root      2074 2017-01-16 07:39 ansible-mailhog-master/README.md
+drwxrwxr-x root/root         0 2017-01-16 07:39 ansible-mailhog-master/defaults/
+-rw-rw-r-- root/root       442 2017-01-16 07:39 ansible-mailhog-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-16 07:39 ansible-mailhog-master/meta/
+-rw-rw-r-- root/root       425 2017-01-16 07:39 ansible-mailhog-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-01-16 07:39 ansible-mailhog-master/tasks/
+-rw-rw-r-- root/root       586 2017-01-16 07:39 ansible-mailhog-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-16 07:39 ansible-mailhog-master/tests/
+-rw-rw-r-- root/root         9 2017-01-16 07:39 ansible-mailhog-master/tests/inventory
+-rw-rw-r-- root/root        74 2017-01-16 07:39 ansible-mailhog-master/tests/test.yml

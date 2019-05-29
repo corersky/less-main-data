@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-06-30 08:34 ansible_celery-master/
+-rw-rw-r-- root/root      1086 2015-06-30 08:34 ansible_celery-master/LICENSE
+-rw-rw-r-- root/root        56 2015-06-30 08:34 ansible_celery-master/README.md
+-rw-rw-r-- root/root         6 2015-06-30 08:34 ansible_celery-master/VERSION
+drwxrwxr-x root/root         0 2015-06-30 08:34 ansible_celery-master/handlers/
+-rw-rw-r-- root/root       296 2015-06-30 08:34 ansible_celery-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-06-30 08:34 ansible_celery-master/meta/
+-rw-rw-r-- root/root       206 2015-06-30 08:34 ansible_celery-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-06-30 08:34 ansible_celery-master/tasks/
+-rw-rw-r-- root/root       419 2015-06-30 08:34 ansible_celery-master/tasks/celery.yml
+-rw-rw-r-- root/root        69 2015-06-30 08:34 ansible_celery-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-06-30 08:34 ansible_celery-master/templates/
+-rw-rw-r-- root/root       836 2015-06-30 08:34 ansible_celery-master/templates/upstart.celerybeat.conf.j2
+-rw-rw-r-- root/root       844 2015-06-30 08:34 ansible_celery-master/templates/upstart.celeryworker.conf.j2

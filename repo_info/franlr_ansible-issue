@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2015-09-14 04:37 ansible-issue-master/
+-rw-rw-r-- root/root     11357 2015-09-14 04:37 ansible-issue-master/LICENSE
+-rw-rw-r-- root/root      1515 2015-09-14 04:37 ansible-issue-master/README.md
+drwxrwxr-x root/root         0 2015-09-14 04:37 ansible-issue-master/defaults/
+-rw-rw-r-- root/root        76 2015-09-14 04:37 ansible-issue-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-09-14 04:37 ansible-issue-master/meta/
+-rw-rw-r-- root/root       218 2015-09-14 04:37 ansible-issue-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-09-14 04:37 ansible-issue-master/tasks/
+-rw-rw-r-- root/root       153 2015-09-14 04:37 ansible-issue-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-09-14 04:37 ansible-issue-master/templates/
+-rw-rw-r-- root/root        47 2015-09-14 04:37 ansible-issue-master/templates/issue.j2

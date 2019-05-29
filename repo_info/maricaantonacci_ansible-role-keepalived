@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2016-04-13 04:52 ansible-role-keepalived-master/
+-rw-rw-r-- root/root       539 2016-04-13 04:52 ansible-role-keepalived-master/.travis.yml
+-rw-rw-r-- root/root     11357 2016-04-13 04:52 ansible-role-keepalived-master/LICENSE
+-rw-rw-r-- root/root      1328 2016-04-13 04:52 ansible-role-keepalived-master/README.md
+drwxrwxr-x root/root         0 2016-04-13 04:52 ansible-role-keepalived-master/defaults/
+-rw-rw-r-- root/root       804 2016-04-13 04:52 ansible-role-keepalived-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-04-13 04:52 ansible-role-keepalived-master/handlers/
+-rw-rw-r-- root/root        82 2016-04-13 04:52 ansible-role-keepalived-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-04-13 04:52 ansible-role-keepalived-master/meta/
+-rw-rw-r-- root/root       313 2016-04-13 04:52 ansible-role-keepalived-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-04-13 04:52 ansible-role-keepalived-master/tasks/
+-rw-rw-r-- root/root       499 2016-04-13 04:52 ansible-role-keepalived-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-04-13 04:52 ansible-role-keepalived-master/tests/
+-rw-rw-r-- root/root         9 2016-04-13 04:52 ansible-role-keepalived-master/tests/inventory
+-rw-rw-r-- root/root        81 2016-04-13 04:52 ansible-role-keepalived-master/tests/test.yml

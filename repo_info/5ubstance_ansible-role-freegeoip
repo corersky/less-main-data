@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-09-05 22:32 ansible-role-freegeoip-master/
+-rw-rw-r-- root/root        18 2017-09-05 22:32 ansible-role-freegeoip-master/.gitignore
+-rw-rw-r-- root/root       950 2017-09-05 22:32 ansible-role-freegeoip-master/.travis.yml
+-rw-rw-r-- root/root     35141 2017-09-05 22:32 ansible-role-freegeoip-master/LICENSE
+-rw-rw-r-- root/root      1478 2017-09-05 22:32 ansible-role-freegeoip-master/README.md
+drwxrwxr-x root/root         0 2017-09-05 22:32 ansible-role-freegeoip-master/defaults/
+-rw-rw-r-- root/root       221 2017-09-05 22:32 ansible-role-freegeoip-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-09-05 22:32 ansible-role-freegeoip-master/meta/
+-rw-rw-r-- root/root       635 2017-09-05 22:32 ansible-role-freegeoip-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-09-05 22:32 ansible-role-freegeoip-master/tasks/
+-rw-rw-r-- root/root       827 2017-09-05 22:32 ansible-role-freegeoip-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-09-05 22:32 ansible-role-freegeoip-master/templates/
+-rw-rw-r-- root/root       185 2017-09-05 22:32 ansible-role-freegeoip-master/templates/freegeoip.service.j2
+drwxrwxr-x root/root         0 2017-09-05 22:32 ansible-role-freegeoip-master/tests/
+-rw-rw-r-- root/root         9 2017-09-05 22:32 ansible-role-freegeoip-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-09-05 22:32 ansible-role-freegeoip-master/tests/test.yml

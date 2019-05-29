@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2019-05-08 14:52 ansible-role-add-user-master/
+-rw-rw-r-- root/root        32 2019-05-08 14:52 ansible-role-add-user-master/.gitignore
+-rw-rw-r-- root/root       906 2019-05-08 14:52 ansible-role-add-user-master/.travis.yml
+-rw-rw-r-- root/root      1276 2019-05-08 14:52 ansible-role-add-user-master/LICENSE
+-rw-rw-r-- root/root       628 2019-05-08 14:52 ansible-role-add-user-master/README.md
+drwxrwxr-x root/root         0 2019-05-08 14:52 ansible-role-add-user-master/defaults/
+-rw-rw-r-- root/root       206 2019-05-08 14:52 ansible-role-add-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-08 14:52 ansible-role-add-user-master/meta/
+-rw-rw-r-- root/root       355 2019-05-08 14:52 ansible-role-add-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-08 14:52 ansible-role-add-user-master/molecule/
+drwxrwxr-x root/root         0 2019-05-08 14:52 ansible-role-add-user-master/molecule/default/
+-rw-rw-r-- root/root       587 2019-05-08 14:52 ansible-role-add-user-master/molecule/default/molecule.yml
+-rw-rw-r-- root/root       379 2019-05-08 14:52 ansible-role-add-user-master/molecule/default/playbook.yml
+-rw-rw-r-- root/root        75 2019-05-08 14:52 ansible-role-add-user-master/molecule/default/yamllint.yml
+drwxrwxr-x root/root         0 2019-05-08 14:52 ansible-role-add-user-master/tasks/
+-rw-rw-r-- root/root      1308 2019-05-08 14:52 ansible-role-add-user-master/tasks/main.yml

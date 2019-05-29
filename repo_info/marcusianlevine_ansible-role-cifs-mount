@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-26 14:44 ansible-role-cifs-mount-master/
+-rw-rw-r-- root/root      1513 2017-07-26 14:44 ansible-role-cifs-mount-master/LICENSE
+-rw-rw-r-- root/root      1548 2017-07-26 14:44 ansible-role-cifs-mount-master/README.md
+drwxrwxr-x root/root         0 2017-07-26 14:44 ansible-role-cifs-mount-master/defaults/
+-rw-rw-r-- root/root       104 2017-07-26 14:44 ansible-role-cifs-mount-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-26 14:44 ansible-role-cifs-mount-master/meta/
+-rw-rw-r-- root/root      1454 2017-07-26 14:44 ansible-role-cifs-mount-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-26 14:44 ansible-role-cifs-mount-master/tasks/
+-rw-rw-r-- root/root       886 2017-07-26 14:44 ansible-role-cifs-mount-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-26 14:44 ansible-role-cifs-mount-master/templates/
+-rw-rw-r-- root/root        89 2017-07-26 14:44 ansible-role-cifs-mount-master/templates/.smbcredentials.j2
+drwxrwxr-x root/root         0 2017-07-26 14:44 ansible-role-cifs-mount-master/vars/
+-rw-rw-r-- root/root       124 2017-07-26 14:44 ansible-role-cifs-mount-master/vars/main.yml

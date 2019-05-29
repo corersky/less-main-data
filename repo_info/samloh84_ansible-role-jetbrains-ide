@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-11-15 03:59 ansible-role-jetbrains-ide-master/
+-rw-rw-r-- root/root       971 2016-11-15 03:59 ansible-role-jetbrains-ide-master/.gitignore
+-rw-rw-r-- root/root       748 2016-11-15 03:59 ansible-role-jetbrains-ide-master/README.md
+drwxrwxr-x root/root         0 2016-11-15 03:59 ansible-role-jetbrains-ide-master/defaults/
+-rw-rw-r-- root/root        98 2016-11-15 03:59 ansible-role-jetbrains-ide-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:59 ansible-role-jetbrains-ide-master/meta/
+-rw-rw-r-- root/root       389 2016-11-15 03:59 ansible-role-jetbrains-ide-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:59 ansible-role-jetbrains-ide-master/tasks/
+-rw-rw-r-- root/root      1726 2016-11-15 03:59 ansible-role-jetbrains-ide-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-11-15 03:59 ansible-role-jetbrains-ide-master/templates/
+-rw-rw-r-- root/root       284 2016-11-15 03:59 ansible-role-jetbrains-ide-master/templates/product.desktop.j2
+-rw-rw-r-- root/root       116 2016-11-15 03:59 ansible-role-jetbrains-ide-master/templates/product.sh.j2
+drwxrwxr-x root/root         0 2016-11-15 03:59 ansible-role-jetbrains-ide-master/tests/
+-rw-rw-r-- root/root        79 2016-11-15 03:59 ansible-role-jetbrains-ide-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-11-15 03:59 ansible-role-jetbrains-ide-master/vars/
+-rw-rw-r-- root/root      3125 2016-11-15 03:59 ansible-role-jetbrains-ide-master/vars/main.yml

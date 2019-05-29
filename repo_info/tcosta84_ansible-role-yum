@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2014-11-20 18:19 ansible-role-yum-master/
+-rw-rw-r-- root/root       474 2014-11-20 18:19 ansible-role-yum-master/README.md
+drwxrwxr-x root/root         0 2014-11-20 18:19 ansible-role-yum-master/meta/
+-rw-rw-r-- root/root       293 2014-11-20 18:19 ansible-role-yum-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-20 18:19 ansible-role-yum-master/tasks/
+-rw-rw-r-- root/root       159 2014-11-20 18:19 ansible-role-yum-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-11-20 18:19 ansible-role-yum-master/tests/
+-rw-rw-r-- root/root        31 2014-11-20 18:19 ansible-role-yum-master/tests/ansible.cfg
+-rw-rw-r-- root/root        22 2014-11-20 18:19 ansible-role-yum-master/tests/hosts
+-rw-rw-r-- root/root        71 2014-11-20 18:19 ansible-role-yum-master/tests/test.yml

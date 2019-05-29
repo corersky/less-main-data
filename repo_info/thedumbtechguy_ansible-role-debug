@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-05-03 12:25 ansible-role-debug-master/
+-rw-rw-r-- root/root       867 2017-05-03 12:25 ansible-role-debug-master/README.md
+drwxrwxr-x root/root         0 2017-05-03 12:25 ansible-role-debug-master/defaults/
+-rw-rw-r-- root/root        42 2017-05-03 12:25 ansible-role-debug-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-03 12:25 ansible-role-debug-master/meta/
+-rw-rw-r-- root/root       336 2017-05-03 12:25 ansible-role-debug-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-03 12:25 ansible-role-debug-master/tasks/
+-rw-rw-r-- root/root       108 2017-05-03 12:25 ansible-role-debug-master/tasks/debug_dump_vars.yml
+-rw-rw-r-- root/root        75 2017-05-03 12:25 ansible-role-debug-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-05-03 12:25 ansible-role-debug-master/templates/
+-rw-rw-r-- root/root       484 2017-05-03 12:25 ansible-role-debug-master/templates/dumpall.j2

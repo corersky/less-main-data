@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-03-26 11:14 nginx-master/
+-rw-rw-r-- root/root      1514 2019-03-26 11:14 nginx-master/LICENSE
+-rw-rw-r-- root/root       778 2019-03-26 11:14 nginx-master/README.md
+drwxrwxr-x root/root         0 2019-03-26 11:14 nginx-master/defaults/
+-rw-rw-r-- root/root       103 2019-03-26 11:14 nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-03-26 11:14 nginx-master/handlers/
+-rw-rw-r-- root/root       142 2019-03-26 11:14 nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-03-26 11:14 nginx-master/meta/
+-rw-rw-r-- root/root       297 2019-03-26 11:14 nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-03-26 11:14 nginx-master/tasks/
+-rw-rw-r-- root/root      1079 2019-03-26 11:14 nginx-master/tasks/config.yml
+-rw-rw-r-- root/root        67 2019-03-26 11:14 nginx-master/tasks/install.yml
+-rw-rw-r-- root/root        48 2019-03-26 11:14 nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-03-26 11:14 nginx-master/templates/
+-rw-rw-r-- root/root      1098 2019-03-26 11:14 nginx-master/templates/nginx.conf.j2

@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2016-05-07 08:26 ansible-role-rabbitmq-master/
+-rw-rw-r-- root/root       539 2016-05-07 08:26 ansible-role-rabbitmq-master/.travis.yml
+-rw-rw-r-- root/root      1210 2016-05-07 08:26 ansible-role-rabbitmq-master/LICENSE
+-rw-rw-r-- root/root      1277 2016-05-07 08:26 ansible-role-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2016-05-07 08:26 ansible-role-rabbitmq-master/defaults/
+-rw-rw-r-- root/root       109 2016-05-07 08:26 ansible-role-rabbitmq-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-05-07 08:26 ansible-role-rabbitmq-master/handlers/
+-rw-rw-r-- root/root        33 2016-05-07 08:26 ansible-role-rabbitmq-master/handlers/main.yml
+drwxrwxr-x root/root         0 2016-05-07 08:26 ansible-role-rabbitmq-master/meta/
+-rw-rw-r-- root/root       493 2016-05-07 08:26 ansible-role-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-05-07 08:26 ansible-role-rabbitmq-master/tasks/
+-rw-rw-r-- root/root       915 2016-05-07 08:26 ansible-role-rabbitmq-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-05-07 08:26 ansible-role-rabbitmq-master/tests/
+-rw-rw-r-- root/root         9 2016-05-07 08:26 ansible-role-rabbitmq-master/tests/inventory
+-rw-rw-r-- root/root        79 2016-05-07 08:26 ansible-role-rabbitmq-master/tests/test.yml
+drwxrwxr-x root/root         0 2016-05-07 08:26 ansible-role-rabbitmq-master/vars/
+-rw-rw-r-- root/root        29 2016-05-07 08:26 ansible-role-rabbitmq-master/vars/main.yml

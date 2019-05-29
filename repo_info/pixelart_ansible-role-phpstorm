@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2017-05-11 04:26 ansible-role-phpstorm-master/
+-rw-rw-r-- root/root      1624 2017-05-11 04:26 ansible-role-phpstorm-master/CHANGELOG.md
+-rw-rw-r-- root/root      3226 2017-05-11 04:26 ansible-role-phpstorm-master/CODE_OF_CONDUCT.md
+-rw-rw-r-- root/root      2042 2017-05-11 04:26 ansible-role-phpstorm-master/README.md
+drwxrwxr-x root/root         0 2017-05-11 04:26 ansible-role-phpstorm-master/defaults/
+-rw-rw-r-- root/root       517 2017-05-11 04:26 ansible-role-phpstorm-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-05-11 04:26 ansible-role-phpstorm-master/meta/
+-rw-rw-r-- root/root       732 2017-05-11 04:26 ansible-role-phpstorm-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-05-11 04:26 ansible-role-phpstorm-master/tasks/
+-rw-rw-r-- root/root       377 2017-05-11 04:26 ansible-role-phpstorm-master/tasks/configure-launchers.yml
+-rw-rw-r-- root/root       371 2017-05-11 04:26 ansible-role-phpstorm-master/tasks/configure-updates.yml
+-rw-rw-r-- root/root       384 2017-05-11 04:26 ansible-role-phpstorm-master/tasks/configure.yml
+-rw-rw-r-- root/root       119 2017-05-11 04:26 ansible-role-phpstorm-master/tasks/main.yml
+-rw-rw-r-- root/root      1437 2017-05-11 04:26 ansible-role-phpstorm-master/tasks/setup.yml
+drwxrwxr-x root/root         0 2017-05-11 04:26 ansible-role-phpstorm-master/templates/
+-rw-rw-r-- root/root       269 2017-05-11 04:26 ansible-role-phpstorm-master/templates/jetbrains-phpstorm.desktop.j2
+-rw-rw-r-- root/root      3251 2017-05-11 04:26 ansible-role-phpstorm-master/templates/pstorm.j2

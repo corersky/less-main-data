@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-10-10 01:07 ansible-zabbix-server-master/
+-rw-rw-r-- root/root       219 2014-10-10 01:07 ansible-zabbix-server-master/.travis.yml
+-rw-rw-r-- root/root      2720 2014-10-10 01:07 ansible-zabbix-server-master/README.md
+-rw-rw-r-- root/root        28 2014-10-10 01:07 ansible-zabbix-server-master/ansible.cfg
+drwxrwxr-x root/root         0 2014-10-10 01:07 ansible-zabbix-server-master/defaults/
+-rw-rw-r-- root/root      2641 2014-10-10 01:07 ansible-zabbix-server-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-10-10 01:07 ansible-zabbix-server-master/handlers/
+-rw-rw-r-- root/root        98 2014-10-10 01:07 ansible-zabbix-server-master/handlers/main.yml
+drwxrwxr-x root/root         0 2014-10-10 01:07 ansible-zabbix-server-master/meta/
+-rw-rw-r-- root/root       264 2014-10-10 01:07 ansible-zabbix-server-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-10-10 01:07 ansible-zabbix-server-master/tasks/
+-rw-rw-r-- root/root      2717 2014-10-10 01:07 ansible-zabbix-server-master/tasks/main.yml
+drwxrwxr-x root/root         0 2014-10-10 01:07 ansible-zabbix-server-master/templates/
+-rw-rw-r-- root/root     19045 2014-10-10 01:07 ansible-zabbix-server-master/templates/zabbix_server.conf.j2
+-rw-rw-r-- root/root       136 2014-10-10 01:07 ansible-zabbix-server-master/test.yml
+drwxrwxr-x root/root         0 2014-10-10 01:07 ansible-zabbix-server-master/vars/
+-rw-rw-r-- root/root       199 2014-10-10 01:07 ansible-zabbix-server-master/vars/main.yml

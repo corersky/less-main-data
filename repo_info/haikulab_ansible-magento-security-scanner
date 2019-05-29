@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-07-23 18:28 ansible-magento-security-scanner-master/
+-rwxrwxr-x root/root        21 2017-07-23 18:28 ansible-magento-security-scanner-master/.gitignore
+-rwxrwxr-x root/root      1084 2017-07-23 18:28 ansible-magento-security-scanner-master/LICENSE
+-rw-rw-r-- root/root       486 2017-07-23 18:28 ansible-magento-security-scanner-master/README.md
+drwxrwxr-x root/root         0 2017-07-23 18:28 ansible-magento-security-scanner-master/defaults/
+-rw-rw-r-- root/root      1842 2017-07-23 18:28 ansible-magento-security-scanner-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-23 18:28 ansible-magento-security-scanner-master/meta/
+-rw-rw-r-- root/root       440 2017-07-23 18:28 ansible-magento-security-scanner-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-23 18:28 ansible-magento-security-scanner-master/tasks/
+-rwxrwxr-x root/root       682 2017-07-23 18:28 ansible-magento-security-scanner-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-23 18:28 ansible-magento-security-scanner-master/templates/
+-rw-rw-r-- root/root       722 2017-07-23 18:28 ansible-magento-security-scanner-master/templates/magesec-cron-template.j2

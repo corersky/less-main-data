@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-05-06 11:13 docker-master/
+-rw-rw-r-- root/root       719 2019-05-06 11:13 docker-master/README.md
+drwxrwxr-x root/root         0 2019-05-06 11:13 docker-master/defaults/
+-rw-rw-r-- root/root      1882 2019-05-06 11:13 docker-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-06 11:13 docker-master/meta/
+-rw-rw-r-- root/root       346 2019-05-06 11:13 docker-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-05-06 11:13 docker-master/tasks/
+-rw-rw-r-- root/root      2465 2019-05-06 11:13 docker-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-06 11:13 docker-master/templates/
+-rw-rw-r-- root/root        34 2019-05-06 11:13 docker-master/templates/daemon.json.j2
+drwxrwxr-x root/root         0 2019-05-06 11:13 docker-master/tests/
+-rw-rw-r-- root/root        11 2019-05-06 11:13 docker-master/tests/inventory
+-rw-rw-r-- root/root        73 2019-05-06 11:13 docker-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-06 11:13 docker-master/vars/
+-rw-rw-r-- root/root      1226 2019-05-06 11:13 docker-master/vars/main.yml

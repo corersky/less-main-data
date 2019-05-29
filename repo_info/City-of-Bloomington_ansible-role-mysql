@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-11-16 09:08 ansible-role-mysql-master/
+-rw-rw-r-- root/root       708 2018-11-16 09:08 ansible-role-mysql-master/.yamllint
+-rw-rw-r-- root/root     35141 2018-11-16 09:08 ansible-role-mysql-master/LICENSE
+-rw-rw-r-- root/root       465 2018-11-16 09:08 ansible-role-mysql-master/README.md
+drwxrwxr-x root/root         0 2018-11-16 09:08 ansible-role-mysql-master/defaults/
+-rw-rw-r-- root/root       194 2018-11-16 09:08 ansible-role-mysql-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-11-16 09:08 ansible-role-mysql-master/handlers/
+-rw-rw-r-- root/root        80 2018-11-16 09:08 ansible-role-mysql-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-11-16 09:08 ansible-role-mysql-master/meta/
+-rw-rw-r-- root/root       424 2018-11-16 09:08 ansible-role-mysql-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-11-16 09:08 ansible-role-mysql-master/tasks/
+-rw-rw-r-- root/root      1193 2018-11-16 09:08 ansible-role-mysql-master/tasks/main.yml

@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-01-09 03:22 ansible-role-arborian-master/
+-rw-rw-r-- root/root      1328 2018-01-09 03:22 ansible-role-arborian-master/README.md
+drwxrwxr-x root/root         0 2018-01-09 03:22 ansible-role-arborian-master/defaults/
+-rw-rw-r-- root/root        32 2018-01-09 03:22 ansible-role-arborian-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-09 03:22 ansible-role-arborian-master/handlers/
+-rw-rw-r-- root/root        32 2018-01-09 03:22 ansible-role-arborian-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-01-09 03:22 ansible-role-arborian-master/meta/
+-rw-rw-r-- root/root      1756 2018-01-09 03:22 ansible-role-arborian-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-09 03:22 ansible-role-arborian-master/tasks/
+-rw-rw-r-- root/root        29 2018-01-09 03:22 ansible-role-arborian-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-09 03:22 ansible-role-arborian-master/tests/
+-rw-rw-r-- root/root        11 2018-01-09 03:22 ansible-role-arborian-master/tests/inventory
+-rw-rw-r-- root/root        66 2018-01-09 03:22 ansible-role-arborian-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-01-09 03:22 ansible-role-arborian-master/vars/
+-rw-rw-r-- root/root        28 2018-01-09 03:22 ansible-role-arborian-master/vars/main.yml

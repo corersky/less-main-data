@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2019-04-10 01:54 ansible-role-backup-master/
+-rw-rw-r-- root/root        28 2019-04-10 01:54 ansible-role-backup-master/ansible.cfg
+drwxrwxr-x root/root         0 2019-04-10 01:54 ansible-role-backup-master/defaults/
+-rw-rw-r-- root/root       332 2019-04-10 01:54 ansible-role-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-04-10 01:54 ansible-role-backup-master/handlers/
+-rw-rw-r-- root/root       139 2019-04-10 01:54 ansible-role-backup-master/handlers/main.yml
+drwxrwxr-x root/root         0 2019-04-10 01:54 ansible-role-backup-master/meta/
+-rw-rw-r-- root/root      2134 2019-04-10 01:54 ansible-role-backup-master/meta/main.yml
+-rw-rw-r-- root/root        74 2019-04-10 01:54 ansible-role-backup-master/role.yml
+drwxrwxr-x root/root         0 2019-04-10 01:54 ansible-role-backup-master/tasks/
+-rw-rw-r-- root/root      2038 2019-04-10 01:54 ansible-role-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-04-10 01:54 ansible-role-backup-master/templates/
+-rw-rw-r-- root/root       240 2019-04-10 01:54 ansible-role-backup-master/templates/backup_script.j2
+-rw-rw-r-- root/root      1217 2019-04-10 01:54 ansible-role-backup-master/templates/backup_script.sh.j2
+-rw-rw-r-- root/root       116 2019-04-10 01:54 ansible-role-backup-master/templates/exclude.txt.j2

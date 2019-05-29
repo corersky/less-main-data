@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2015-10-21 10:17 nr-php5-master/
+-rw-rw-r-- root/root       639 2015-10-21 10:17 nr-php5-master/README.md
+drwxrwxr-x root/root         0 2015-10-21 10:17 nr-php5-master/defaults/
+-rw-rw-r-- root/root      1898 2015-10-21 10:17 nr-php5-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-10-21 10:17 nr-php5-master/handlers/
+-rw-rw-r-- root/root        81 2015-10-21 10:17 nr-php5-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-10-21 10:17 nr-php5-master/meta/
+-rw-rw-r-- root/root       304 2015-10-21 10:17 nr-php5-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-10-21 10:17 nr-php5-master/tasks/
+-rw-rw-r-- root/root       330 2015-10-21 10:17 nr-php5-master/tasks/debian.yml
+-rw-rw-r-- root/root       371 2015-10-21 10:17 nr-php5-master/tasks/main.yml
+-rw-rw-r-- root/root       305 2015-10-21 10:17 nr-php5-master/tasks/redhat.yml
+drwxrwxr-x root/root         0 2015-10-21 10:17 nr-php5-master/templates/
+-rw-rw-r-- root/root      3405 2015-10-21 10:17 nr-php5-master/templates/newrelic.ini.j2

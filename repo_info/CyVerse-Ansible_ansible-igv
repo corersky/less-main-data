@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2017-07-26 13:11 ansible-igv-master/
+-rw-rw-r-- root/root      1945 2017-07-26 13:11 ansible-igv-master/LICENSE.txt
+-rw-rw-r-- root/root       615 2017-07-26 13:11 ansible-igv-master/README.md
+drwxrwxr-x root/root         0 2017-07-26 13:11 ansible-igv-master/defaults/
+-rw-rw-r-- root/root        23 2017-07-26 13:11 ansible-igv-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:11 ansible-igv-master/meta/
+-rw-rw-r-- root/root       324 2017-07-26 13:11 ansible-igv-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:11 ansible-igv-master/tasks/
+-rw-rw-r-- root/root       834 2017-07-26 13:11 ansible-igv-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-07-26 13:11 ansible-igv-master/vars/
+-rw-rw-r-- root/root        32 2017-07-26 13:11 ansible-igv-master/vars/CentOS.yml
+-rw-rw-r-- root/root        36 2017-07-26 13:11 ansible-igv-master/vars/Ubuntu-14.yml
+-rw-rw-r-- root/root        27 2017-07-26 13:11 ansible-igv-master/vars/Ubuntu-16.yml

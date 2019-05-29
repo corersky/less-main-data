@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2014-11-12 09:04 Stouts.deploy-master/
+-rw-rw-r-- root/root        89 2014-11-12 09:04 Stouts.deploy-master/.bumpversion.cfg
+-rw-rw-r-- root/root       860 2014-11-12 09:04 Stouts.deploy-master/.travis.yml
+-rw-rw-r-- root/root      1072 2014-11-12 09:04 Stouts.deploy-master/LICENSE
+-rw-rw-r-- root/root       315 2014-11-12 09:04 Stouts.deploy-master/Makefile
+-rw-rw-r-- root/root      1967 2014-11-12 09:04 Stouts.deploy-master/README.md
+drwxrwxr-x root/root         0 2014-11-12 09:04 Stouts.deploy-master/defaults/
+-rw-rw-r-- root/root       978 2014-11-12 09:04 Stouts.deploy-master/defaults/main.yml
+drwxrwxr-x root/root         0 2014-11-12 09:04 Stouts.deploy-master/meta/
+-rw-rw-r-- root/root       343 2014-11-12 09:04 Stouts.deploy-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-11-12 09:04 Stouts.deploy-master/tasks/
+-rw-rw-r-- root/root       518 2014-11-12 09:04 Stouts.deploy-master/tasks/deploy.yml
+-rw-rw-r-- root/root        67 2014-11-12 09:04 Stouts.deploy-master/tasks/main.yml
+-rw-rw-r-- root/root       108 2014-11-12 09:04 Stouts.deploy-master/test.yml

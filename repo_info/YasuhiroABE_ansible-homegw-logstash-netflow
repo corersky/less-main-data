@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/
+-rw-rw-r-- root/root        24 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/.gitignore
+-rw-rw-r-- root/root      1755 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/README.md
+drwxrwxr-x root/root         0 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/defaults/
+-rw-rw-r-- root/root       988 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/files/
+-rw-rw-r-- root/root       326 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/files/netflow.conf.j2
+drwxrwxr-x root/root         0 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/meta/
+-rw-rw-r-- root/root      1343 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/tasks/
+-rw-rw-r-- root/root      1402 2018-03-06 00:51 ansible-homegw-logstash-netflow-master/tasks/main.yml

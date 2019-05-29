@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-08 04:45 ansible-add-admin-user-master/
+-rw-rw-r-- root/root       539 2017-03-08 04:45 ansible-add-admin-user-master/.travis.yml
+-rw-rw-r-- root/root      2864 2017-03-08 04:45 ansible-add-admin-user-master/README.md
+drwxrwxr-x root/root         0 2017-03-08 04:45 ansible-add-admin-user-master/defaults/
+-rw-rw-r-- root/root       100 2017-03-08 04:45 ansible-add-admin-user-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-08 04:45 ansible-add-admin-user-master/handlers/
+-rw-rw-r-- root/root        47 2017-03-08 04:45 ansible-add-admin-user-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-03-08 04:45 ansible-add-admin-user-master/meta/
+-rw-rw-r-- root/root       641 2017-03-08 04:45 ansible-add-admin-user-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-08 04:45 ansible-add-admin-user-master/tasks/
+-rw-rw-r-- root/root       889 2017-03-08 04:45 ansible-add-admin-user-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-08 04:45 ansible-add-admin-user-master/tests/
+-rw-rw-r-- root/root         9 2017-03-08 04:45 ansible-add-admin-user-master/tests/inventory
+-rw-rw-r-- root/root        81 2017-03-08 04:45 ansible-add-admin-user-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-03-08 04:45 ansible-add-admin-user-master/vars/
+-rw-rw-r-- root/root        43 2017-03-08 04:45 ansible-add-admin-user-master/vars/main.yml

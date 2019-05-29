@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2016-11-14 08:48 ansible-users-setup-master/
+-rw-rw-r-- root/root        32 2016-11-14 08:48 ansible-users-setup-master/.gitignore
+-rw-rw-r-- root/root      1684 2016-11-14 08:48 ansible-users-setup-master/README.md
+-rw-rw-r-- root/root       119 2016-11-14 08:48 ansible-users-setup-master/Vagrantfile
+-rw-rw-r-- root/root        54 2016-11-14 08:48 ansible-users-setup-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-11-14 08:48 ansible-users-setup-master/defaults/
+-rw-rw-r-- root/root        80 2016-11-14 08:48 ansible-users-setup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2016-11-14 08:48 ansible-users-setup-master/meta/
+-rw-rw-r-- root/root        56 2016-11-14 08:48 ansible-users-setup-master/meta/.galaxy_install_info
+-rw-rw-r-- root/root       361 2016-11-14 08:48 ansible-users-setup-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-11-14 08:48 ansible-users-setup-master/tasks/
+-rw-rw-r-- root/root       132 2016-11-14 08:48 ansible-users-setup-master/tasks/main.yml
+-rw-rw-r-- root/root      2471 2016-11-14 08:48 ansible-users-setup-master/tasks/users.yml
+-rw-rw-r-- root/root       509 2016-11-14 08:48 ansible-users-setup-master/test_playbook_vagrant.yml
+drwxrwxr-x root/root         0 2016-11-14 08:48 ansible-users-setup-master/vars/
+-rw-rw-r-- root/root       452 2016-11-14 08:48 ansible-users-setup-master/vars/my-team.yml

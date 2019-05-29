@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/
+-rw-rw-r-- root/root        37 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/.gitignore
+-rw-rw-r-- root/root      1069 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/LICENSE
+-rw-rw-r-- root/root       750 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/README.md
+-rw-rw-r-- root/root       130 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/ansible-requirements.txt
+-rw-rw-r-- root/root       144 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/ansible.cfg
+-rw-rw-r-- root/root       325 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/container.yml
+drwxrwxr-x root/root         0 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/html/
+-rw-rw-r-- root/root        20 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/html/index.php
+-rw-rw-r-- root/root       237 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/meta.yml
+-rw-rw-r-- root/root       298 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/requirements.yml
+drwxrwxr-x root/root         0 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/roles/
+drwxrwxr-x root/root         0 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/roles/webserver/
+drwxrwxr-x root/root         0 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/roles/webserver/files/
+-rw-rw-r-- root/root      1424 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/roles/webserver/files/apache_config
+drwxrwxr-x root/root         0 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/roles/webserver/tasks/
+-rw-rw-r-- root/root       617 2018-11-07 20:04 Ansible-Container-Webserver-Demo-master/roles/webserver/tasks/main.yml

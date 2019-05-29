@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-02-14 00:32 ansible_nginx-master/
+-rw-rw-r-- root/root       298 2017-02-14 00:32 ansible_nginx-master/README.rst
+drwxrwxr-x root/root         0 2017-02-14 00:32 ansible_nginx-master/defaults/
+-rw-rw-r-- root/root        30 2017-02-14 00:32 ansible_nginx-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:32 ansible_nginx-master/handlers/
+-rw-rw-r-- root/root        30 2017-02-14 00:32 ansible_nginx-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:32 ansible_nginx-master/meta/
+-rw-rw-r-- root/root       255 2017-02-14 00:32 ansible_nginx-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:32 ansible_nginx-master/tasks/
+-rw-rw-r-- root/root       154 2017-02-14 00:32 ansible_nginx-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-02-14 00:32 ansible_nginx-master/vars/
+-rw-rw-r-- root/root        32 2017-02-14 00:32 ansible_nginx-master/vars/main.yml

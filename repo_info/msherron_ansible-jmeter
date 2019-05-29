@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2015-08-25 18:14 ansible-jmeter-master/
+-rw-rw-r-- root/root     35148 2015-08-25 18:14 ansible-jmeter-master/LICENSE
+-rw-rw-r-- root/root       294 2015-08-25 18:14 ansible-jmeter-master/README.md
+drwxrwxr-x root/root         0 2015-08-25 18:14 ansible-jmeter-master/defaults/
+-rwxrwxr-x root/root      2278 2015-08-25 18:14 ansible-jmeter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-08-25 18:14 ansible-jmeter-master/handlers/
+-rwxrwxr-x root/root       163 2015-08-25 18:14 ansible-jmeter-master/handlers/main.yml
+-rw-rw-r-- root/root        18 2015-08-25 18:14 ansible-jmeter-master/hosts
+-rw-rw-r-- root/root        60 2015-08-25 18:14 ansible-jmeter-master/jmeter.yml
+drwxrwxr-x root/root         0 2015-08-25 18:14 ansible-jmeter-master/meta/
+-rw-rw-r-- root/root       372 2015-08-25 18:14 ansible-jmeter-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-08-25 18:14 ansible-jmeter-master/tasks/
+-rwxrwxr-x root/root      6126 2015-08-25 18:14 ansible-jmeter-master/tasks/jmeter.yml
+-rwxrwxr-x root/root       140 2015-08-25 18:14 ansible-jmeter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-08-25 18:14 ansible-jmeter-master/templates/
+-rw-rw-r-- root/root     35102 2015-08-25 18:14 ansible-jmeter-master/templates/jmeter.properties.j2

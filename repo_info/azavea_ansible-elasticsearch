@@ -1,0 +1,20 @@
+drwxrwxr-x root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/
+-rw-rw-r-- root/root        37 2015-03-03 13:51 ansible-elasticsearch-master/.gitignore
+-rw-rw-r-- root/root       148 2015-03-03 13:51 ansible-elasticsearch-master/CHANGELOG.md
+-rw-rw-r-- root/root       745 2015-03-03 13:51 ansible-elasticsearch-master/README.md
+drwxrwxr-x root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/defaults/
+-rw-rw-r-- root/root       249 2015-03-03 13:51 ansible-elasticsearch-master/defaults/main.yml
+drwxrwxr-x root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/examples/
+-rw-rw-r-- root/root       608 2015-03-03 13:51 ansible-elasticsearch-master/examples/Vagrantfile
+-rw-rw-r-- root/root        18 2015-03-03 13:51 ansible-elasticsearch-master/examples/roles.txt
+drwxrwxr-x root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/examples/roles/
+lrwxrwxrwx root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/examples/roles/azavea.elasticsearch -> ../../
+-rw-rw-r-- root/root       137 2015-03-03 13:51 ansible-elasticsearch-master/examples/site.yml
+drwxrwxr-x root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/handlers/
+-rw-rw-r-- root/root        80 2015-03-03 13:51 ansible-elasticsearch-master/handlers/main.yml
+drwxrwxr-x root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/meta/
+-rw-rw-r-- root/root       309 2015-03-03 13:51 ansible-elasticsearch-master/meta/main.yml
+drwxrwxr-x root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/tasks/
+-rw-rw-r-- root/root       669 2015-03-03 13:51 ansible-elasticsearch-master/tasks/main.yml
+drwxrwxr-x root/root         0 2015-03-03 13:51 ansible-elasticsearch-master/templates/
+-rw-rw-r-- root/root     13680 2015-03-03 13:51 ansible-elasticsearch-master/templates/elasticsearch.yml.j2

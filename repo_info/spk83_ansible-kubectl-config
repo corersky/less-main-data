@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-03-07 14:02 ansible-kubectl-config-master/
+-rwxrwxr-x root/root        27 2017-03-07 14:02 ansible-kubectl-config-master/.gitignore
+-rwxrwxr-x root/root      1079 2017-03-07 14:02 ansible-kubectl-config-master/LICENSE
+-rwxrwxr-x root/root       507 2017-03-07 14:02 ansible-kubectl-config-master/README.md
+drwxrwxr-x root/root         0 2017-03-07 14:02 ansible-kubectl-config-master/defaults/
+-rw-rw-r-- root/root       519 2017-03-07 14:02 ansible-kubectl-config-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-07 14:02 ansible-kubectl-config-master/meta/
+-rwxrwxr-x root/root       436 2017-03-07 14:02 ansible-kubectl-config-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-07 14:02 ansible-kubectl-config-master/tasks/
+-rwxrwxr-x root/root       812 2017-03-07 14:02 ansible-kubectl-config-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-07 14:02 ansible-kubectl-config-master/templates/
+-rw-rw-r-- root/root       596 2017-03-07 14:02 ansible-kubectl-config-master/templates/kubeconfig.sh.j2
+-rw-rw-r-- root/root        41 2017-03-07 14:02 ansible-kubectl-config-master/templates/kubectl-config.sh.j2
+-rwxrwxr-x root/root        63 2017-03-07 14:02 ansible-kubectl-config-master/test.yml
+drwxrwxr-x root/root         0 2017-03-07 14:02 ansible-kubectl-config-master/vars/
+-rw-rw-r-- root/root       804 2017-03-07 14:02 ansible-kubectl-config-master/vars/main.yml

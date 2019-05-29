@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-03-20 15:27 ansible-role-holland-backup-master/
+-rw-rw-r-- root/root      1138 2017-03-20 15:27 ansible-role-holland-backup-master/LICENSE.md
+-rw-rw-r-- root/root      2776 2017-03-20 15:27 ansible-role-holland-backup-master/README.md
+drwxrwxr-x root/root         0 2017-03-20 15:27 ansible-role-holland-backup-master/defaults/
+-rw-rw-r-- root/root      1232 2017-03-20 15:27 ansible-role-holland-backup-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-03-20 15:27 ansible-role-holland-backup-master/meta/
+-rw-rw-r-- root/root       335 2017-03-20 15:27 ansible-role-holland-backup-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-03-20 15:27 ansible-role-holland-backup-master/tasks/
+-rw-rw-r-- root/root       341 2017-03-20 15:27 ansible-role-holland-backup-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-03-20 15:27 ansible-role-holland-backup-master/templates/
+-rw-rw-r-- root/root       357 2017-03-20 15:27 ansible-role-holland-backup-master/templates/holland.conf.j2
+-rw-rw-r-- root/root      1476 2017-03-20 15:27 ansible-role-holland-backup-master/templates/mysqldump.conf.j2

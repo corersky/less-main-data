@@ -1,0 +1,11 @@
+drwxrwxr-x root/root         0 2017-02-09 14:20 ansible-manage-nfs-master/
+-rw-rw-r-- root/root       795 2017-02-09 14:20 ansible-manage-nfs-master/README.md
+drwxrwxr-x root/root         0 2017-02-09 14:20 ansible-manage-nfs-master/defaults/
+-rw-rw-r-- root/root       225 2017-02-09 14:20 ansible-manage-nfs-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-02-09 14:20 ansible-manage-nfs-master/examples/
+-rw-rw-r-- root/root       882 2017-02-09 14:20 ansible-manage-nfs-master/examples/example1.yml
+drwxrwxr-x root/root         0 2017-02-09 14:20 ansible-manage-nfs-master/meta/
+-rw-rw-r-- root/root       256 2017-02-09 14:20 ansible-manage-nfs-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-02-09 14:20 ansible-manage-nfs-master/tasks/
+-rw-rw-r-- root/root        51 2017-02-09 14:20 ansible-manage-nfs-master/tasks/main.yml
+-rw-rw-r-- root/root       482 2017-02-09 14:20 ansible-manage-nfs-master/tasks/manage.yml

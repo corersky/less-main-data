@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-08-13 18:24 aspects_logrotate-master/
+-rw-rw-r-- root/root       410 2018-08-13 18:24 aspects_logrotate-master/.gitlab-ci.yml
+-rw-rw-r-- root/root      1092 2018-08-13 18:24 aspects_logrotate-master/LICENSE
+-rw-rw-r-- root/root      2305 2018-08-13 18:24 aspects_logrotate-master/README.md
+drwxrwxr-x root/root         0 2018-08-13 18:24 aspects_logrotate-master/defaults/
+-rw-rw-r-- root/root       963 2018-08-13 18:24 aspects_logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-13 18:24 aspects_logrotate-master/meta/
+-rw-rw-r-- root/root       450 2018-08-13 18:24 aspects_logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-13 18:24 aspects_logrotate-master/tasks/
+-rw-rw-r-- root/root       440 2018-08-13 18:24 aspects_logrotate-master/tasks/init.yml
+-rw-rw-r-- root/root       115 2018-08-13 18:24 aspects_logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-13 18:24 aspects_logrotate-master/templates/
+-rw-rw-r-- root/root       832 2018-08-13 18:24 aspects_logrotate-master/templates/logrotate.conf.j2
+-rw-rw-r-- root/root        40 2018-08-13 18:24 aspects_logrotate-master/templates/logrotaterules.j2

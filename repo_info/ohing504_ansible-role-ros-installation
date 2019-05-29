@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2018-02-02 02:35 ansible-role-ros-installation-master/
+-rw-rw-r-- root/root       467 2018-02-02 02:35 ansible-role-ros-installation-master/.travis.yml
+-rw-rw-r-- root/root      1068 2018-02-02 02:35 ansible-role-ros-installation-master/LICENSE
+-rw-rw-r-- root/root      1132 2018-02-02 02:35 ansible-role-ros-installation-master/README.md
+drwxrwxr-x root/root         0 2018-02-02 02:35 ansible-role-ros-installation-master/defaults/
+-rw-rw-r-- root/root       345 2018-02-02 02:35 ansible-role-ros-installation-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-02-02 02:35 ansible-role-ros-installation-master/handlers/
+-rw-rw-r-- root/root        40 2018-02-02 02:35 ansible-role-ros-installation-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-02-02 02:35 ansible-role-ros-installation-master/meta/
+-rw-rw-r-- root/root       310 2018-02-02 02:35 ansible-role-ros-installation-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-02-02 02:35 ansible-role-ros-installation-master/tasks/
+-rw-rw-r-- root/root      1152 2018-02-02 02:35 ansible-role-ros-installation-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-02-02 02:35 ansible-role-ros-installation-master/tests/
+-rw-rw-r-- root/root        11 2018-02-02 02:35 ansible-role-ros-installation-master/tests/inventory
+-rw-rw-r-- root/root       146 2018-02-02 02:35 ansible-role-ros-installation-master/tests/test.yml
+drwxrwxr-x root/root         0 2018-02-02 02:35 ansible-role-ros-installation-master/vars/
+-rw-rw-r-- root/root        36 2018-02-02 02:35 ansible-role-ros-installation-master/vars/main.yml

@@ -1,0 +1,14 @@
+drwxrwxr-x root/root         0 2018-10-11 11:13 ansible-rabbitmq-master/
+-rw-rw-r-- root/root         0 2018-10-11 11:13 ansible-rabbitmq-master/.gitignore
+-rw-rw-r-- root/root      1080 2018-10-11 11:13 ansible-rabbitmq-master/LICENSE
+-rw-rw-r-- root/root      5913 2018-10-11 11:13 ansible-rabbitmq-master/README.md
+drwxrwxr-x root/root         0 2018-10-11 11:13 ansible-rabbitmq-master/defaults/
+-rw-rw-r-- root/root      3634 2018-10-11 11:13 ansible-rabbitmq-master/defaults/main.yaml
+drwxrwxr-x root/root         0 2018-10-11 11:13 ansible-rabbitmq-master/handlers/
+-rw-rw-r-- root/root       203 2018-10-11 11:13 ansible-rabbitmq-master/handlers/main.yaml
+drwxrwxr-x root/root         0 2018-10-11 11:13 ansible-rabbitmq-master/meta/
+-rw-rw-r-- root/root       334 2018-10-11 11:13 ansible-rabbitmq-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-10-11 11:13 ansible-rabbitmq-master/tasks/
+-rw-rw-r-- root/root      7756 2018-10-11 11:13 ansible-rabbitmq-master/tasks/main.yaml
+drwxrwxr-x root/root         0 2018-10-11 11:13 ansible-rabbitmq-master/templates/
+-rw-rw-r-- root/root       120 2018-10-11 11:13 ansible-rabbitmq-master/templates/rabbitmq.conf.j2

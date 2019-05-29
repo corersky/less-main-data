@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2017-11-08 02:41 ansible-role-sudo-master/
+-rw-rw-r-- root/root      1081 2017-11-08 02:41 ansible-role-sudo-master/LICENSE
+-rw-rw-r-- root/root       746 2017-11-08 02:41 ansible-role-sudo-master/README.md
+drwxrwxr-x root/root         0 2017-11-08 02:41 ansible-role-sudo-master/defaults/
+-rw-rw-r-- root/root       158 2017-11-08 02:41 ansible-role-sudo-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-11-08 02:41 ansible-role-sudo-master/meta/
+-rw-rw-r-- root/root       387 2017-11-08 02:41 ansible-role-sudo-master/meta/main.yml
+-rw-rw-r-- root/root        42 2017-11-08 02:41 ansible-role-sudo-master/playbook.yml
+drwxrwxr-x root/root         0 2017-11-08 02:41 ansible-role-sudo-master/tasks/
+-rw-rw-r-- root/root       541 2017-11-08 02:41 ansible-role-sudo-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-11-08 02:41 ansible-role-sudo-master/templates/
+-rw-rw-r-- root/root      1640 2017-11-08 02:41 ansible-role-sudo-master/templates/etc_sudoers

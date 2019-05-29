@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2018-08-06 09:22 ansible-php-fpm-exporter-master/
+-rw-rw-r-- root/root     35147 2018-08-06 09:22 ansible-php-fpm-exporter-master/LICENSE
+-rw-rw-r-- root/root      1753 2018-08-06 09:22 ansible-php-fpm-exporter-master/README.md
+drwxrwxr-x root/root         0 2018-08-06 09:22 ansible-php-fpm-exporter-master/defaults/
+-rw-rw-r-- root/root       419 2018-08-06 09:22 ansible-php-fpm-exporter-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-08-06 09:22 ansible-php-fpm-exporter-master/handlers/
+-rw-rw-r-- root/root       268 2018-08-06 09:22 ansible-php-fpm-exporter-master/handlers/main.yml
+drwxrwxr-x root/root         0 2018-08-06 09:22 ansible-php-fpm-exporter-master/meta/
+-rw-rw-r-- root/root       289 2018-08-06 09:22 ansible-php-fpm-exporter-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-08-06 09:22 ansible-php-fpm-exporter-master/tasks/
+-rw-rw-r-- root/root      2484 2018-08-06 09:22 ansible-php-fpm-exporter-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-08-06 09:22 ansible-php-fpm-exporter-master/templates/
+-rw-rw-r-- root/root       566 2018-08-06 09:22 ansible-php-fpm-exporter-master/templates/php_fpm_exporter.service.j2
+drwxrwxr-x root/root         0 2018-08-06 09:22 ansible-php-fpm-exporter-master/vars/
+-rw-rw-r-- root/root        78 2018-08-06 09:22 ansible-php-fpm-exporter-master/vars/main.yml

@@ -1,0 +1,24 @@
+drwxrwxr-x root/root         0 2019-05-23 20:01 ansible-restart-master/
+drwxrwxr-x root/root         0 2019-05-23 20:01 ansible-restart-master/.github/
+-rw-rw-r-- root/root       994 2019-05-23 20:01 ansible-restart-master/.github/ISSUE_TEMPLATE.md
+-rw-rw-r-- root/root       244 2019-05-23 20:01 ansible-restart-master/.github/PULL_REQUEST_TEMPLATE.md
+-rw-rw-r-- root/root        29 2019-05-23 20:01 ansible-restart-master/.gitignore
+-rw-rw-r-- root/root      1067 2019-05-23 20:01 ansible-restart-master/LICENSE
+-rw-rw-r-- root/root       806 2019-05-23 20:01 ansible-restart-master/README.md
+drwxrwxr-x root/root         0 2019-05-23 20:01 ansible-restart-master/defaults/
+-rw-rw-r-- root/root       200 2019-05-23 20:01 ansible-restart-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-05-23 20:01 ansible-restart-master/meta/
+-rw-rw-r-- root/root       280 2019-05-23 20:01 ansible-restart-master/meta/main.yml
+-rw-rw-r-- root/root       632 2019-05-23 20:01 ansible-restart-master/package.json
+drwxrwxr-x root/root         0 2019-05-23 20:01 ansible-restart-master/tasks/
+-rw-rw-r-- root/root        52 2019-05-23 20:01 ansible-restart-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-05-23 20:01 ansible-restart-master/tests/
+-rw-rw-r-- root/root       496 2019-05-23 20:01 ansible-restart-master/tests/.hack.sh
+-rw-rw-r-- root/root      1235 2019-05-23 20:01 ansible-restart-master/tests/Vagrantfile
+-rw-rw-r-- root/root        94 2019-05-23 20:01 ansible-restart-master/tests/ansible.cfg
+-rw-rw-r-- root/root        49 2019-05-23 20:01 ansible-restart-master/tests/inventory
+drwxrwxr-x root/root         0 2019-05-23 20:01 ansible-restart-master/tests/roles/
+lrwxrwxrwx root/root         0 2019-05-23 20:01 ansible-restart-master/tests/roles/pgkehle.restart -> ../..
+-rw-rw-r-- root/root        63 2019-05-23 20:01 ansible-restart-master/tests/test.yml
+drwxrwxr-x root/root         0 2019-05-23 20:01 ansible-restart-master/vars/
+-rw-rw-r-- root/root         4 2019-05-23 20:01 ansible-restart-master/vars/main.yaml

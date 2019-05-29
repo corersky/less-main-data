@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2014-08-20 08:49 jenkins_centos-master/
+-rw-rw-r-- root/root      3266 2014-08-20 08:49 jenkins_centos-master/README.md
+drwxrwxr-x root/root         0 2014-08-20 08:49 jenkins_centos-master/handlers/
+-rw-rw-r-- root/root       253 2014-08-20 08:49 jenkins_centos-master/handlers/main.yml
+-rw-rw-r-- root/root        65 2014-08-20 08:49 jenkins_centos-master/hosts
+drwxrwxr-x root/root         0 2014-08-20 08:49 jenkins_centos-master/meta/
+-rw-rw-r-- root/root       230 2014-08-20 08:49 jenkins_centos-master/meta/main.yml
+drwxrwxr-x root/root         0 2014-08-20 08:49 jenkins_centos-master/tasks/
+-rw-rw-r-- root/root       569 2014-08-20 08:49 jenkins_centos-master/tasks/configure.yml
+-rw-rw-r-- root/root       540 2014-08-20 08:49 jenkins_centos-master/tasks/jenkins.yml
+-rw-rw-r-- root/root        69 2014-08-20 08:49 jenkins_centos-master/tasks/main.yml
+-rw-rw-r-- root/root       282 2014-08-20 08:49 jenkins_centos-master/tasks/plugins.yml
+-rw-rw-r-- root/root       396 2014-08-20 08:49 jenkins_centos-master/tasks/repo.yml
+-rw-rw-r-- root/root       540 2014-08-20 08:49 jenkins_centos-master/tasks/update.yml
+-rw-rw-r-- root/root       146 2014-08-20 08:49 jenkins_centos-master/test.yml
+drwxrwxr-x root/root         0 2014-08-20 08:49 jenkins_centos-master/vars/
+-rw-rw-r-- root/root       129 2014-08-20 08:49 jenkins_centos-master/vars/main.yml

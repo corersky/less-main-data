@@ -1,0 +1,17 @@
+drwxrwxr-x root/root         0 2019-01-28 21:50 ansible-role-logrotate-master/
+-rw-rw-r-- root/root       331 2019-01-28 21:50 ansible-role-logrotate-master/.travis.yml
+-rw-rw-r-- root/root     35147 2019-01-28 21:50 ansible-role-logrotate-master/COPYING
+-rw-rw-r-- root/root      2362 2019-01-28 21:50 ansible-role-logrotate-master/README.md
+drwxrwxr-x root/root         0 2019-01-28 21:50 ansible-role-logrotate-master/defaults/
+-rw-rw-r-- root/root       472 2019-01-28 21:50 ansible-role-logrotate-master/defaults/main.yml
+drwxrwxr-x root/root         0 2019-01-28 21:50 ansible-role-logrotate-master/meta/
+-rw-rw-r-- root/root       287 2019-01-28 21:50 ansible-role-logrotate-master/meta/main.yml
+drwxrwxr-x root/root         0 2019-01-28 21:50 ansible-role-logrotate-master/tasks/
+-rw-rw-r-- root/root      1089 2019-01-28 21:50 ansible-role-logrotate-master/tasks/main.yml
+drwxrwxr-x root/root         0 2019-01-28 21:50 ansible-role-logrotate-master/templates/
+-rw-rw-r-- root/root      1035 2019-01-28 21:50 ansible-role-logrotate-master/templates/logrotate.conf.j2
+-rw-rw-r-- root/root       468 2019-01-28 21:50 ansible-role-logrotate-master/templates/logrotate_d.j2
+-rw-rw-r-- root/root       155 2019-01-28 21:50 ansible-role-logrotate-master/templates/logrotate_rwtab.j2
+drwxrwxr-x root/root         0 2019-01-28 21:50 ansible-role-logrotate-master/tests/
+-rw-rw-r-- root/root        10 2019-01-28 21:50 ansible-role-logrotate-master/tests/inventory
+-rw-rw-r-- root/root        85 2019-01-28 21:50 ansible-role-logrotate-master/tests/test.yml

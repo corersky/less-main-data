@@ -1,0 +1,13 @@
+drwxrwxr-x root/root         0 2016-08-11 23:18 ansible-role-bootstrap-master/
+-rw-rw-r-- root/root         8 2016-08-11 23:18 ansible-role-bootstrap-master/.gitignore
+-rw-rw-r-- root/root       290 2016-08-11 23:18 ansible-role-bootstrap-master/.travis.yml
+-rw-rw-r-- root/root      1094 2016-08-11 23:18 ansible-role-bootstrap-master/LICENSE
+-rw-rw-r-- root/root       616 2016-08-11 23:18 ansible-role-bootstrap-master/README.md
+-rw-rw-r-- root/root        84 2016-08-11 23:18 ansible-role-bootstrap-master/ansible.cfg
+drwxrwxr-x root/root         0 2016-08-11 23:18 ansible-role-bootstrap-master/meta/
+-rw-rw-r-- root/root       508 2016-08-11 23:18 ansible-role-bootstrap-master/meta/main.yml
+drwxrwxr-x root/root         0 2016-08-11 23:18 ansible-role-bootstrap-master/tasks/
+-rw-rw-r-- root/root       678 2016-08-11 23:18 ansible-role-bootstrap-master/tasks/main.yml
+drwxrwxr-x root/root         0 2016-08-11 23:18 ansible-role-bootstrap-master/tests/
+-rw-rw-r-- root/root       547 2016-08-11 23:18 ansible-role-bootstrap-master/tests/inventory
+-rw-rw-r-- root/root        83 2016-08-11 23:18 ansible-role-bootstrap-master/tests/test.yml

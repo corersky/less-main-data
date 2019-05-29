@@ -1,0 +1,10 @@
+drwxrwxr-x root/root         0 2018-01-04 01:47 ansible-role-gunicorn-master/
+-rw-rw-r-- root/root      1328 2018-01-04 01:47 ansible-role-gunicorn-master/README.md
+drwxrwxr-x root/root         0 2018-01-04 01:47 ansible-role-gunicorn-master/defaults/
+-rw-rw-r-- root/root       142 2018-01-04 01:47 ansible-role-gunicorn-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:47 ansible-role-gunicorn-master/meta/
+-rw-rw-r-- root/root       265 2018-01-04 01:47 ansible-role-gunicorn-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:47 ansible-role-gunicorn-master/tasks/
+-rw-rw-r-- root/root       377 2018-01-04 01:47 ansible-role-gunicorn-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-01-04 01:47 ansible-role-gunicorn-master/templates/
+-rw-rw-r-- root/root       886 2018-01-04 01:47 ansible-role-gunicorn-master/templates/gunicorn_start.j2

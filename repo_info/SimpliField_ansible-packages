@@ -1,0 +1,12 @@
+drwxrwxr-x root/root         0 2018-12-20 09:33 ansible-packages-master/
+-rw-rw-r-- root/root       990 2018-12-20 09:33 ansible-packages-master/.travis.yml
+-rw-rw-r-- root/root       918 2018-12-20 09:33 ansible-packages-master/README.md
+drwxrwxr-x root/root         0 2018-12-20 09:33 ansible-packages-master/defaults/
+-rw-rw-r-- root/root        49 2018-12-20 09:33 ansible-packages-master/defaults/main.yml
+drwxrwxr-x root/root         0 2018-12-20 09:33 ansible-packages-master/meta/
+-rw-rw-r-- root/root       324 2018-12-20 09:33 ansible-packages-master/meta/main.yml
+drwxrwxr-x root/root         0 2018-12-20 09:33 ansible-packages-master/tasks/
+-rw-rw-r-- root/root       243 2018-12-20 09:33 ansible-packages-master/tasks/main.yml
+drwxrwxr-x root/root         0 2018-12-20 09:33 ansible-packages-master/tests/
+-rw-rw-r-- root/root         9 2018-12-20 09:33 ansible-packages-master/tests/inventory
+-rw-rw-r-- root/root       113 2018-12-20 09:33 ansible-packages-master/tests/test.yml

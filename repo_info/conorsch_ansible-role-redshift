@@ -1,0 +1,16 @@
+drwxrwxr-x root/root         0 2017-01-31 13:11 ansible-role-redshift-master/
+-rw-rw-r-- root/root       853 2017-01-31 13:11 ansible-role-redshift-master/README.md
+drwxrwxr-x root/root         0 2017-01-31 13:11 ansible-role-redshift-master/defaults/
+-rw-rw-r-- root/root       300 2017-01-31 13:11 ansible-role-redshift-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-01-31 13:11 ansible-role-redshift-master/handlers/
+-rw-rw-r-- root/root        33 2017-01-31 13:11 ansible-role-redshift-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-01-31 13:11 ansible-role-redshift-master/meta/
+-rw-rw-r-- root/root      3523 2017-01-31 13:11 ansible-role-redshift-master/meta/main.yml
+-rw-rw-r-- root/root       431 2017-01-31 13:11 ansible-role-redshift-master/molecule.yml
+-rw-rw-r-- root/root        47 2017-01-31 13:11 ansible-role-redshift-master/playbook.yml
+drwxrwxr-x root/root         0 2017-01-31 13:11 ansible-role-redshift-master/tasks/
+-rw-rw-r-- root/root       506 2017-01-31 13:11 ansible-role-redshift-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-01-31 13:11 ansible-role-redshift-master/tests/
+-rw-rw-r-- root/root       289 2017-01-31 13:11 ansible-role-redshift-master/tests/test_default.py
+drwxrwxr-x root/root         0 2017-01-31 13:11 ansible-role-redshift-master/vars/
+-rw-rw-r-- root/root        29 2017-01-31 13:11 ansible-role-redshift-master/vars/main.yml

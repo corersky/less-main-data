@@ -1,0 +1,15 @@
+drwxrwxr-x root/root         0 2017-08-15 14:16 ufw-master/
+-rw-rw-r-- root/root      2217 2017-08-15 14:16 ufw-master/README.md
+drwxrwxr-x root/root         0 2017-08-15 14:16 ufw-master/defaults/
+-rw-rw-r-- root/root       790 2017-08-15 14:16 ufw-master/defaults/main.yml
+drwxrwxr-x root/root         0 2017-08-15 14:16 ufw-master/handlers/
+-rw-rw-r-- root/root       111 2017-08-15 14:16 ufw-master/handlers/main.yml
+drwxrwxr-x root/root         0 2017-08-15 14:16 ufw-master/meta/
+-rw-rw-r-- root/root       246 2017-08-15 14:16 ufw-master/meta/main.yml
+drwxrwxr-x root/root         0 2017-08-15 14:16 ufw-master/tasks/
+-rw-rw-r-- root/root      1241 2017-08-15 14:16 ufw-master/tasks/main.yml
+drwxrwxr-x root/root         0 2017-08-15 14:16 ufw-master/tests/
+-rw-rw-r-- root/root        11 2017-08-15 14:16 ufw-master/tests/inventory
+-rw-rw-r-- root/root        93 2017-08-15 14:16 ufw-master/tests/test.yml
+drwxrwxr-x root/root         0 2017-08-15 14:16 ufw-master/vars/
+-rw-rw-r-- root/root        24 2017-08-15 14:16 ufw-master/vars/main.yml
